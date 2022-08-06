@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedaddition-1-g2"
 title: "TopicPaper - Detailedaddition - 1 - G2"
-date: 2022-08-05 16:36:46
+date: 2022-08-06 18:21:53
 questions_count: "40"
 ---
 <ul class='question default-decimal'>
@@ -1372,7 +1372,7 @@ tdecimal
 <p class='review_status initial' id='SUBTAG-STATUS-E2A86E36-8634-4CA1-A662-F25074BFEB0A'>Initial</p>
 <div class='question question'>
 
-Work out $3.45 + 11.01 + 2.3$
+Work out $3.45 + 11.01 + 2.3$.
 
 </div>
 <div class='workings'>
@@ -1660,7 +1660,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Add $16.03$ and $9.48$
+Add: $16.03$ and $9.48$
 
 </div>
 <div class='workings'>
@@ -3496,7 +3496,7 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-8B8F79EA-B781-459D-9AD2-C626B4D1E664'>Initial</p>
 <div class='question question'>
 
-Work out $53 + 3209 + 664$
+Work out $53 + 3209 + 664$.
 
 </div>
 <div class='workings'>
@@ -3678,7 +3678,7 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-8182E8DE-7321-4258-BC0F-F59648F967F6'>Initial</p>
 <div class='question question'>
 
-Work out $5842 + 351$ 
+Work out $5842 + 351$. 
 
 </div>
 <div class='workings'>
@@ -3858,7 +3858,7 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-197537F7-393A-4C8B-8B56-6312B17559E2'>Initial</p>
 <div class='question question'>
 
-Work out $694 + 888$ 
+Work out $694 + 888$. 
 
 </div>
 <div class='workings'>
@@ -4038,7 +4038,7 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-EC7FC950-1EAB-48F3-B413-44019A2ADA46'>Initial</p>
 <div class='question question'>
 
-Work out $887 + 96$ 
+Work out $887 + 96$. 
 
 </div>
 <div class='workings'>
@@ -4218,7 +4218,7 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-3A9F8221-CAB3-43B7-8B3D-D445B9D187CA'>Initial</p>
 <div class='question question'>
 
-Work out  $78 + 916$
+Work out  $78 + 916$.
 
 </div>
 <div class='workings'>
@@ -5183,7 +5183,7 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-7C019C3E-AD26-40DA-B445-DA91FABB7060'>Initial</p>
 <div class='question question'>
 
-Calculate $572 + 2639$ 
+Calculate $572 + 2639$. 
 
 </div>
 <div class='workings'>
@@ -5741,7 +5741,7 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-72414C08-6F87-4B5B-B641-FBEEDD3094DD'>Initial</p>
 <div class='question question'>
 
-Work out $498 + 349$
+Work out $498 + 349$.
 
 </div>
 <div class='workings'>
@@ -5924,7 +5924,7 @@ tdecimal
 <p class='review_status initial' id='SUBTAG-STATUS-4A850628-BFA5-4B3F-9B71-75D9E7F47CC7'>Initial</p>
 <div class='question question'>
 
-Calculate $5.221 + 5.8$
+Calculate $5.221 + 5.8$.
 
 </div>
 <div class='workings'>
@@ -6856,7 +6856,7 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-562D6DED-BF9D-4385-8686-F5138019FDF9'>Initial</p>
 <div class='question question'>
 
-Work out $65 + 88$
+Work out $65 + 88$.
 
 </div>
 <div class='workings'>

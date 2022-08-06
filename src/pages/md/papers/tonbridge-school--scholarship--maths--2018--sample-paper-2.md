@@ -1,7 +1,7 @@
 ---
 slug: "papers/tonbridge-school-scholarship-maths-2018-sample-paper-2"
 title: "Tonbridge School - Scholarship - Maths - 2018 - Sample Paper 2"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "7"
 ---
 <div class='paper'>
@@ -484,10 +484,10 @@ TODOANSWER
 <p>tonbridge-school--scholarship--maths--2018--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_am_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

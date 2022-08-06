@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedaddition-3"
 title: "TopicPaper - Detailedaddition - 3"
-date: 2022-08-05 16:36:46
+date: 2022-08-06 18:21:53
 questions_count: "21"
 ---
 <div class='paper'>
@@ -101,7 +101,7 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-E53AB2CA-6901-4720-8F5B-B9BCED54252C'>Initial</p>
 <div class='question question'>
 
-Work out $3456 + 789$
+Work out $3456 + 789$.
 
 </div>
 <div class='workings'>
@@ -281,7 +281,7 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-4A3F2681-E4DC-4880-AE93-D9D13C4BB0C7'>Initial</p>
 <div class='question question'>
 
-Work out $2495 + 609$
+Work out $2495 + 609$.
 
 </div>
 <div class='workings'>
@@ -461,7 +461,7 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-744FDA58-C15E-47F8-AD35-CE0EF7F330D3'>Initial</p>
 <div class='question question'>
 
-Work out $345 + 6789$
+Work out $345 + 6789$.
 
 </div>
 <div class='workings'>
@@ -833,7 +833,7 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-66F65F3C-8524-46CB-A174-4E42F5C32FBC'>Initial</p>
 <div class='question question'>
 
-Work out $2357 + 3275$
+Work out $2357 + 3275$.
 
 </div>
 <div class='workings'>
@@ -1013,7 +1013,7 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-8DE8F04E-F001-4FEC-A49B-F3494671DB81'>Initial</p>
 <div class='question question'>
 
-Work out $2345 + 678$ 
+Work out $2345 + 678$. 
 
 </div>
 <div class='workings'>
@@ -1385,7 +1385,7 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-BCFC8528-F790-40C9-A217-CE925D2A3259'>Initial</p>
 <div class='question question'>
 
-Work out $4689 + 2703$
+Work out $4689 + 2703$.
 
 </div>
 <div class='workings'>
@@ -1565,7 +1565,7 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-EFBED816-F000-46DA-9B90-25B7CC9B3AC0'>Initial</p>
 <div class='question question'>
 
-Work out $2015 + 329$ 
+Work out $2015 + 329$. 
 
 </div>
 <div class='workings'>
@@ -3559,8 +3559,14 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-EBBA8025-CCA0-4B2E-A205-D28C0E59A011'>Initial</p>
 <div class='question question'>
 
-$192  
-+888$
+$
+\begin{array}{cccccccccccccc}
+    &   1   &   9   &   2 \\
+{}+ &   8   &   8   &   8 \\
+\hline\\
+\hline
+\end{array}
+$
 
 </div>
 <div class='workings'>
@@ -3740,8 +3746,14 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-3D3DA408-8186-4C87-A0D1-474EF05DE36F'>Initial</p>
 <div class='question question'>
 
-$1177 
-+6823$
+$
+\begin{array}{cccccccccccccc}
+    &   1   &   1   &   7   &   7 \\
+{}+ &   6   &   8   &   2   &   3 \\
+\hline\\
+\hline
+\end{array}
+$
 
 </div>
 <div class='workings'>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-trecipe-1"
 title: "TopicPaper - Recipe - 1"
-date: 2022-08-05 16:36:46
+date: 2022-08-06 18:21:53
 questions_count: "21"
 ---
 <div class='paper'>

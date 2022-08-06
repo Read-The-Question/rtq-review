@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tpermutation-1-pr"
 title: "TopicPaper - Permutation - 1 - PR"
-date: 2022-08-05 16:51:29
+date: 2022-08-06 18:37:02
 questions_count: "40"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "40"
 <p>bancrofts-school--11-plus--maths--2020--sample-paper-6:1:28</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -64,10 +64,10 @@ What is the correct order for the three coloured discs?
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1:2:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -137,10 +137,10 @@ In how many ways can this be done?
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-a:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -253,10 +253,10 @@ alphabetical order, giving your answer in its lowest form.
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -298,10 +298,10 @@ How many different ways can she score $8$?
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:30</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -340,10 +340,10 @@ How many ways are there of colouring in three squares in this grid so that exact
 <p>forest-school--11-plus--maths--9999--sample-paper-1:1:39</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -386,10 +386,10 @@ How many different possible routes are there?
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -460,10 +460,10 @@ How many ways are there of making a total of $15$ using three **different** whol
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -497,10 +497,10 @@ How many different $3$ digit numbers can you make from the digits $1, 1$ and $3$
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:28</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -580,10 +580,10 @@ You must **not** use the same card more than once in each answer.
 <p>oundle-school--11-plus--maths--2017--sample-paper-6:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -617,10 +617,10 @@ Ahmed chooses two different items for a snack. His choices are an apple, an oran
 <p>oundle-school--11-plus--maths--2017--sample-paper-7:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -654,10 +654,10 @@ How many different $3$-digit whole numbers can be formed using the digits $4, 7$
 <p>oundle-school--11-plus--maths--2017--sample-paper-7:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -702,10 +702,10 @@ Calculate the ratio of the number of $4$-digit palindromes to the number of $5$-
 <p>oundle-school--11-plus--maths--2018--sample-paper-9:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -743,10 +743,10 @@ How many $4$ digit numbers greater than $2000$ can be formed using the digits $1
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:41</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -839,10 +839,10 @@ No. of eggs bought will be = Total siblings x No. of eggs each buys
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:41</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -876,10 +876,10 @@ In a game of football the final score was $3-2$. How many possible half time sco
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -913,10 +913,10 @@ There are $5$ competitors in a tennis competition. If each player plays every ot
 <p>solihull-school--11-plus--maths--9999--sample-paper-1:3:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -979,10 +979,10 @@ Find all the *mirror numbers* between $100$ and $200$. Write your answers in the
 <p>solihull-school--11-plus--maths--9999--sample-paper-1:3:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1024,10 +1024,10 @@ Write down in the space below all 3 digit numbers that have a digit sum equal to
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1061,10 +1061,10 @@ Four people meet to discuss a new swimming competition. Each person shakes every
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:43</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1142,10 +1142,10 @@ How many possible ways are there of doing this? Use any space on the next page t
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1225,10 +1225,10 @@ Complete the list below showing the order that Ben's pencil visits the corners o
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1264,10 +1264,10 @@ Smarties,   list  all   the   possible combinations   of colours.
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1309,10 +1309,10 @@ Write all the three-digit numbers, greater than $500$, that can be made using th
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:1:30</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1396,10 +1396,10 @@ On the last day of the holiday, all four friends decide that they can sit where 
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1435,10 +1435,10 @@ How many two-digit numbers in total can be made using some or all of the digits 
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1503,10 +1503,10 @@ On Wednesdays there are no restrictions and all four boys can queue up together 
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:29</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1610,10 +1610,10 @@ How many direct routes are there to travel from $A$ to $E$?
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1683,10 +1683,10 @@ How long is the shortest distance from $A$ to $B$?
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:30</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1791,10 +1791,10 @@ sit still apply, work out the number of ways in which Mr Green can allocate the 
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:28</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1845,10 +1845,10 @@ Work out the total number of possible routes to go:
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:43</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2022,10 +2022,10 @@ In total, how many ways are there of arranging the letters $A \ B \ C \ D \ E$, 
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:34</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2070,10 +2070,10 @@ How many games did the teams play in total?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2159,10 +2159,10 @@ You can only use $2, 7$ and $9$ once in each $3$-figure number.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:37</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2217,10 +2217,10 @@ Work out how many different possible routes Jane could take?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:35</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2284,10 +2284,10 @@ How many different possible seating arrangements are there of the $6$ people?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:29</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2337,10 +2337,10 @@ How can it be arranged, so that they each get a cake that they like?
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2414,10 +2414,10 @@ How many different four digit numbers can be made from the digits $2, 2, 2, 3$ a
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2491,10 +2491,10 @@ How many $2$-digit numbers contain at least one $4$?
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2568,10 +2568,10 @@ How many three digit numbers contain at least two sevens?
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-2:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

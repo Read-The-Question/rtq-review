@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-talgebra-18"
 title: "TopicPaper - Algebra - 18"
-date: 2022-08-05 16:51:29
+date: 2022-08-06 18:37:02
 questions_count: "25"
 ---
 <div class='paper'>

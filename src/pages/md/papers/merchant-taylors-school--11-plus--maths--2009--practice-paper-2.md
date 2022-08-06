@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-2009-practice-paper-2"
 title: "Merchant Taylors School - 11 Plus - Maths - 2009 - Practice Paper 2"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "31"
 ---
 <div class='paper'>
@@ -2226,7 +2226,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>33894696-6D5A-4AA2-89AF-C94F80BC4363</p>
 </div>
@@ -2240,7 +2240,7 @@ $
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2374,6 +2374,10 @@ $
 
 <h4>Review Comments</h4>
 Show the working by showing the average
+
+
+
+Remove APTQ (first line)
 </div>
 
 <div class='review'>
@@ -2595,7 +2599,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>370E6891-00C4-4400-9412-56FFA4BE4110</p>
 </div>
@@ -2609,7 +2613,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2738,6 +2742,15 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Add rtq_abbr_md_unit_note at the top.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3851,7 +3864,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>CA23ED80-3421-4BAC-BBB7-618D72B3F32C</p>
 </div>
@@ -3865,7 +3878,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4190,6 +4203,43 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part b) Steps missing!!
+
+(a x 5 + 11) ÷ 2 = 28
+
+(a x 5 + 11) x 1/2 = 28 (add this line)
+
+(a x 5 + 11) / 2 = 28 (add this line)
+
+...
+
+
+
+Part c) Steps missing!!
+
+a x 2 + 11 = (a × 5 + 11) ÷ 2
+
+2a + 11 = (5a + 11) x 1/2 (add this line)
+
+2a + 11 = (5a + 11)/2    (add this line)
+
+..
+
+...
+
+-a = -11
+
+(remove this line with the cancelation of - sign)
+
+a = 11  (directly write this line)
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4817,7 +4867,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>1F0FD520-2214-45CF-BFA5-2CDD7CBDAADE</p>
 </div>
@@ -4831,7 +4881,7 @@ TODOANSWER
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5119,6 +5169,33 @@ Number of kennels $= 6$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+We dont use substitute method to solve equations.
+
+
+
+Reference: A7879165-EAE0-4869-9FB1-0CA2600DB446
+
+Check the working of part a) of the referenced question
+
+and solve in a similar way.
+
+
+
+
+
+Part b) Show the full working as in previous part instead of writing as per previous question.
+
+
+
+Incase of any doubt, ping me on slack.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5741,7 +5818,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>E9A0FA5F-BD86-427B-91F1-7D0A086BB6AE</p>
 </div>
@@ -5755,7 +5832,7 @@ TODOANSWER
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6260,6 +6337,19 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reference: E2CE5C41-401D-471B-B868-C50B3E4DD99A
+
+
+
+Check the part d) of reference and solve in the similarly way using table method.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -6906,7 +6996,7 @@ Last part not done
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>0FE51052-D2CD-4586-8EBB-DB99CD3025CA</p>
 </div>
@@ -6920,7 +7010,7 @@ Last part not done
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7154,6 +7244,29 @@ Hence $n = 8$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part b) solve it using table method with two columns 
+
+Day  | Leaves left    | Number of Leaves < 2000
+
+1    |        40000       |         NO
+
+2    |        20000       |         NO
+
+...
+
+..
+
+keep filling this table until leaves < 2000
+
+Then write answer.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -7801,7 +7914,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>8F027A1E-78A4-45E0-BB41-9FAAB4D6B88A</p>
 </div>
@@ -7815,7 +7928,7 @@ TODOANSWER
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8010,6 +8123,31 @@ Number of horses $= 5$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+We dont use substitute method to solve equations.
+
+
+
+Reference: A7879165-EAE0-4869-9FB1-0CA2600DB446
+
+Check the working of part a) of the referenced question
+
+and solve in a similar way.
+
+
+
+ii) Dont write \"Number of People/Horses\" in the answers section. Just write
+
+Horses = 12
+
+People = 7
+</div>
 
 <div class='review'>
 <ul class='review'>

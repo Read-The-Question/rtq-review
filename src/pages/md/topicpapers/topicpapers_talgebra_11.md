@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-11"
 title: "TopicPaper - Algebra - 11"
-date: 2022-08-05 16:36:46
+date: 2022-08-06 18:21:53
 questions_count: "40"
 ---
 <div class='paper'>
@@ -3583,7 +3583,7 @@ a + a + 20 + a + 53 + a + 71  &= \pounds 234 \\
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>6053BD3A-018D-47D6-A9C9-460F05339B43</p>
 </div>
@@ -3597,7 +3597,7 @@ a + a + 20 + a + 53 + a + 71  &= \pounds 234 \\
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4268,7 +4268,7 @@ Solve it using the variable name as a instead of b.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>B7931AAD-CC40-434A-B67C-9F5D390398BC</p>
 </div>
@@ -4279,7 +4279,7 @@ Solve it using the variable name as a instead of b.
 <p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_as_notstarted</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4412,7 +4412,70 @@ $\boxed{7} \boxed{4} +  \boxed{1}\boxed{8}\boxed{6} = \boxed{2} \boxed{5} \boxed
 </div>
 </div>
 
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+@UP the right way to present the answer is to do and array . .do 250 - 7 0 and - 6 = 174 and put in the right place value.
+
+
+
+And how to present in blue answer.
+
+____________________________
+
+@Aravidn Do the following corrections and after then mark this question status as PRBD please.
+
+
+
+Katex wrong . \begin{array}{cccccc} & 7 & 4 \ {}+ 1 & 8 & 6 \ \hline 2 & 5 & 0 \end{aligned}
+
+\end{array} and put & sing in leftmost of all lines with number in array. (alignment wrong)
+
+
+
+Put answere in blue answer. (repeat the answer)
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B7931AAD-CC40-434A-B67C-9F5D390398BC' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B7931AAD-CC40-434A-B67C-9F5D390398BC' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B7931AAD-CC40-434A-B67C-9F5D390398BC' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B7931AAD-CC40-434A-B67C-9F5D390398BC' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B7931AAD-CC40-434A-B67C-9F5D390398BC' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B7931AAD-CC40-434A-B67C-9F5D390398BC' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B7931AAD-CC40-434A-B67C-9F5D390398BC' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B7931AAD-CC40-434A-B67C-9F5D390398BC' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B7931AAD-CC40-434A-B67C-9F5D390398BC' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B7931AAD-CC40-434A-B67C-9F5D390398BC' id='FORM-B7931AAD-CC40-434A-B67C-9F5D390398BC' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B7931AAD-CC40-434A-B67C-9F5D390398BC'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -7982,7 +8045,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>53B0545C-061A-4FE7-98B5-F192C205B547</p>
 </div>
@@ -7996,7 +8059,7 @@ $
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8179,7 +8242,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>5448A2CD-DE13-426E-AC63-AAF7A36B1147</p>
 </div>
@@ -8193,7 +8256,7 @@ TODOANSWER
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8373,7 +8436,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>EDEF5A82-6192-42E5-BB42-49F061E0B422</p>
 </div>
@@ -8387,7 +8450,7 @@ TODOANSWER
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8680,7 +8743,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>3FF7EB88-C199-4CD3-9420-59508D757C05</p>
 </div>
@@ -8694,7 +8757,7 @@ TODOANSWER
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -9261,7 +9324,7 @@ A,B and C would be $3,1 \ \text{and} \ 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>2DB6771E-16E1-4C53-9AF0-70DAB9540FC7</p>
 </div>
@@ -9275,7 +9338,7 @@ A,B and C would be $3,1 \ \text{and} \ 2$
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>

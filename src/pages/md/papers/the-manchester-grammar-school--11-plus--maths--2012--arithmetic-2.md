@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2012-arithmetic-2"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2012 - Arithmetic 2"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "12"
 ---
 <div class='paper'>
@@ -2461,39 +2461,10 @@ You are given that $27 \times 351 = 9477$.
 Use this information to answer the following questions
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-%empty%
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-%empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -2507,9 +2478,11 @@ $9477 \div 351 =$
 
 $
 \begin{aligned}
-27 \times 351   &= 9477 \\\\
-27              &= \dfrac {9477} {351} \\\\
-9477 \div 351   &= 27
+&= 9477 \div 351 \\\\
+&= \dfrac{9477}{351}
+\\\\
+&= \dfrac{27 \times 351} {351} \\\\
+&= \dfrac{27 \times \cancel{351}}{\cancel{351}}
 \end{aligned}
 $
 
@@ -2527,9 +2500,11 @@ $27$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-27 \times 351   &= 9477 \\\\
-27              &= \dfrac {9477} {351} \\\\
-9477 \div 351   &= 27
+&= 9477 \div 351 \\\\
+&= \dfrac{9477}{351}
+\\\\
+&= \dfrac{27 \times 351} {351} \\\\
+&= \dfrac{27 \times \cancel{351}}{\cancel{351}}
 \end{aligned}
 $
 </code></pre>
@@ -2562,9 +2537,11 @@ $2.7 \times 3.51 =$
 
 $
 \begin{aligned}
-27 \times 351                                &= 9477 \\\\
-\dfrac {27} {10} \times \dfrac {351} {100}   &= \dfrac {9477} {1000} \\\\
-2.7 \times 3.51                              &= 94.77
+&= 2.7\times 3.51 \\\\
+&= \dfrac{27}{10} \times \dfrac{351}{100} \\\\
+&= \dfrac {27 \times 351} {10 \times 100} \\\\
+&= \dfrac {9477} {1000} \\\\
+&= 9.477
 \end{aligned}
 $
 
@@ -2582,9 +2559,11 @@ $9.477$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-27 \times 351                                &= 9477 \\\\
-\dfrac {27} {10} \times \dfrac {351} {100}   &= \dfrac {9477} {1000} \\\\
-2.7 \times 3.51                              &= 94.77
+&= 2.7\times 3.51 \\\\
+&= \dfrac{27}{10} \times \dfrac{351}{100} \\\\
+&= \dfrac {27 \times 351} {10 \times 100} \\\\
+&= \dfrac {9477} {1000} \\\\
+&= 9.477
 \end{aligned}
 $
 </code></pre>
@@ -2617,11 +2596,14 @@ $947.7 \div 270 =$
 
 $
 \begin{aligned}
-27 \times 351                                        &= 9477 \\\\
-351                                                  &= \dfrac {9477} {27} \\\\
-\dfrac {9477} {27} \times \dfrac {1} {100}           &= 351 \times \dfrac {1} {100} \\\\
-\dfrac {9477} {10 \times 27 \times 10}               &= \dfrac {351} {100} \\\\
-\dfrac {947.7} {270}                                 &= 3.51
+&= 947.7 \div 270 \\\\
+&= \dfrac {947.7} {270} \\\\
+&= \dfrac {947.7 \times 10} {270 \times 10}\\\\
+&= \dfrac{9477} {27 \times 10 \times 10}\\\\
+&= \dfrac{27 \times 351} {27 \times 100}\\\\
+&= \dfrac{\cancel{27} \times 351} {\cancel{27} \times 100}\\\\
+&= \dfrac{351} {100}\\\\
+&= 3.51
 \end{aligned}
 $
 
@@ -2639,11 +2621,14 @@ $3.51$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-27 \times 351                                        &= 9477 \\\\
-351                                                  &= \dfrac {9477} {27} \\\\
-\dfrac {9477} {27} \times \dfrac {1} {100}           &= 351 \times \dfrac {1} {100} \\\\
-\dfrac {9477} {10 \times 27 \times 10}               &= \dfrac {351} {100} \\\\
-\dfrac {947.7} {270}                                 &= 3.51
+&= 947.7 \div 270 \\\\
+&= \dfrac {947.7} {270} \\\\
+&= \dfrac {947.7 \times 10} {270 \times 10}\\\\
+&= \dfrac{9477} {27 \times 10 \times 10}\\\\
+&= \dfrac{27 \times 351} {27 \times 100}\\\\
+&= \dfrac{\cancel{27} \times 351} {\cancel{27} \times 100}\\\\
+&= \dfrac{351} {100}\\\\
+&= 3.51
 \end{aligned}
 $
 </code></pre>
@@ -2676,9 +2661,10 @@ $54 \times 351 =$
 
 $
 \begin{aligned}
-27 \times 351                   &= 9477 \\\\
-2 \times 27 \times 351          &= 2 \times 9477 \\\\
-54 \times 351                   &= 18954
+&= 54 \times 351 \\\\
+&= 2 \times 27 \times 351 \\\\
+&= 54 \times 351 \\\\
+&= 18954
 \end{aligned}
 $
 
@@ -2696,9 +2682,10 @@ $18954$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-27 \times 351                   &= 9477 \\\\
-2 \times 27 \times 351          &= 2 \times 9477 \\\\
-54 \times 351                   &= 18954
+&= 54 \times 351 \\\\
+&= 2 \times 27 \times 351 \\\\
+&= 54 \times 351 \\\\
+&= 18954
 \end{aligned}
 $
 </code></pre>

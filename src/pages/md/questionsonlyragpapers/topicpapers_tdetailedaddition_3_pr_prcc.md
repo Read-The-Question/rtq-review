@@ -1,12 +1,12 @@
 ---
-slug: "questionsonlyragpapers/topicpapers-tdetailedaddition-3-pr-prcr"
-title: "TopicPaper - Detailedaddition - 3 - PR - PRCR"
-date: 2022-08-05 16:51:29
+slug: "questionsonlyragpapers/topicpapers-tdetailedaddition-3-pr-prcc"
+title: "TopicPaper - Detailedaddition - 3 - PR - PRCC"
+date: 2022-08-06 18:37:02
 questions_count: "21"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>E53AB2CA-6901-4720-8F5B-B9BCED54252C</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "21"
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -31,11 +31,11 @@ tdetailedaddition
 </div>
 <div class='question question'>
 
-Work out $3456 + 789$
+Work out $3456 + 789$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Work out $3456 + 789$
+<pre class='language-latex'><code class='language-latex'>Work out $3456 + 789$.
 </code></pre>
 </div>
 
@@ -83,7 +83,7 @@ Work out $3456 + 789$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>4A3F2681-E4DC-4880-AE93-D9D13C4BB0C7</p>
 </div>
@@ -97,7 +97,7 @@ Work out $3456 + 789$
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -108,11 +108,11 @@ tdetailedaddition
 </div>
 <div class='question question'>
 
-Work out $2495 + 609$
+Work out $2495 + 609$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Work out $2495 + 609$
+<pre class='language-latex'><code class='language-latex'>Work out $2495 + 609$.
 </code></pre>
 </div>
 
@@ -160,7 +160,7 @@ Work out $2495 + 609$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>744FDA58-C15E-47F8-AD35-CE0EF7F330D3</p>
 </div>
@@ -174,7 +174,7 @@ Work out $2495 + 609$
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -185,11 +185,11 @@ tdetailedaddition
 </div>
 <div class='question question'>
 
-Work out $345 + 6789$
+Work out $345 + 6789$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Work out $345 + 6789$
+<pre class='language-latex'><code class='language-latex'>Work out $345 + 6789$.
 </code></pre>
 </div>
 
@@ -237,7 +237,7 @@ Work out $345 + 6789$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>8E360416-5A5E-444E-AF3F-E1127C64CFCD</p>
 </div>
@@ -251,7 +251,7 @@ Work out $345 + 6789$
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -321,7 +321,7 @@ $0.04 \quad 0.6 \quad 0.16$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>66F65F3C-8524-46CB-A174-4E42F5C32FBC</p>
 </div>
@@ -335,7 +335,7 @@ $0.04 \quad 0.6 \quad 0.16$
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -346,11 +346,11 @@ tdetailedaddition
 </div>
 <div class='question question'>
 
-Work out $2357 + 3275$
+Work out $2357 + 3275$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Work out $2357 + 3275$
+<pre class='language-latex'><code class='language-latex'>Work out $2357 + 3275$.
 </code></pre>
 </div>
 
@@ -398,7 +398,7 @@ Work out $2357 + 3275$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>8DE8F04E-F001-4FEC-A49B-F3494671DB81</p>
 </div>
@@ -412,7 +412,7 @@ Work out $2357 + 3275$
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -423,11 +423,11 @@ tdetailedaddition
 </div>
 <div class='question question'>
 
-Work out $2345 + 678$ 
+Work out $2345 + 678$. 
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Work out $2345 + 678$ 
+<pre class='language-latex'><code class='language-latex'>Work out $2345 + 678$. 
 </code></pre>
 </div>
 
@@ -475,7 +475,7 @@ Work out $2345 + 678$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>8E9E66B6-7CE6-4102-A286-D73A63EDE3CE</p>
 </div>
@@ -489,7 +489,7 @@ Work out $2345 + 678$
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -559,7 +559,7 @@ $0.7 \quad 0.04 \quad 1.006$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>BCFC8528-F790-40C9-A217-CE925D2A3259</p>
 </div>
@@ -573,7 +573,7 @@ $0.7 \quad 0.04 \quad 1.006$
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -584,11 +584,11 @@ tdetailedaddition
 </div>
 <div class='question question'>
 
-Work out $4689 + 2703$
+Work out $4689 + 2703$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Work out $4689 + 2703$
+<pre class='language-latex'><code class='language-latex'>Work out $4689 + 2703$.
 </code></pre>
 </div>
 
@@ -636,7 +636,7 @@ Work out $4689 + 2703$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>EFBED816-F000-46DA-9B90-25B7CC9B3AC0</p>
 </div>
@@ -650,7 +650,7 @@ Work out $4689 + 2703$
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -661,11 +661,11 @@ tdetailedaddition
 </div>
 <div class='question question'>
 
-Work out $2015 + 329$ 
+Work out $2015 + 329$. 
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Work out $2015 + 329$ 
+<pre class='language-latex'><code class='language-latex'>Work out $2015 + 329$. 
 </code></pre>
 </div>
 
@@ -713,7 +713,7 @@ Work out $2015 + 329$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>28D1744E-7E31-44A3-B3C8-E75D18551420</p>
 </div>
@@ -727,7 +727,7 @@ Work out $2015 + 329$
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -790,7 +790,7 @@ Work out $186 + 375$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>1F0A2433-D525-48CE-81FF-096EB10509BF</p>
 </div>
@@ -804,7 +804,7 @@ Work out $186 + 375$.
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -867,7 +867,7 @@ Work out $483 + 249$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>C44CBD76-D13D-463B-AA1F-D81990B49022</p>
 </div>
@@ -881,7 +881,7 @@ Work out $483 + 249$.
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -944,7 +944,7 @@ Work out $379 + 485$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>B431476F-0542-422C-BC21-3B3A939BE4B2</p>
 </div>
@@ -958,7 +958,7 @@ Work out $379 + 485$.
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1021,7 +1021,7 @@ Work out $569 + 372$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>B861F19A-C938-4447-8E3E-658832E76AC1</p>
 </div>
@@ -1035,7 +1035,7 @@ Work out $569 + 372$.
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1098,7 +1098,7 @@ Work out $983 + 254$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>015DFF3A-EF9A-4D74-94DA-EDC2D94B9633</p>
 </div>
@@ -1112,7 +1112,7 @@ Work out $983 + 254$.
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1175,7 +1175,7 @@ Work out $374 + 528$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>8BD87565-0F6C-48E1-86BB-F769CFA756B3</p>
 </div>
@@ -1189,7 +1189,7 @@ Work out $374 + 528$.
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1255,7 +1255,7 @@ Add together $6.37, 10.04$ and $203$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>8A517D2C-C64D-4CA7-A39C-E729124C801F</p>
 </div>
@@ -1269,7 +1269,7 @@ Add together $6.37, 10.04$ and $203$.
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1332,7 +1332,7 @@ Work out $463 + 327$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>C1C99FCD-4F91-41A9-8CC0-D6656869C69A</p>
 </div>
@@ -1346,7 +1346,7 @@ Work out $463 + 327$.
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1409,7 +1409,7 @@ Add: $4536 + 627 + 418$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>1C514F06-892C-4D6B-B88A-39AD11BE348B</p>
 </div>
@@ -1423,7 +1423,7 @@ Add: $4536 + 627 + 418$
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1486,7 +1486,7 @@ Add:    $7268 + 94 + 567$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>EBBA8025-CCA0-4B2E-A205-D28C0E59A011</p>
 </div>
@@ -1500,7 +1500,7 @@ Add:    $7268 + 94 + 567$
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1511,13 +1511,25 @@ tdetailedaddition
 </div>
 <div class='question question'>
 
-$192  
-+888$
+$
+\begin{array}{cccccccccccccc}
+    &   1   &   9   &   2 \\
+{}+ &   8   &   8   &   8 \\
+\hline\\
+\hline
+\end{array}
+$
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>$192  
-+888$
+<pre class='language-latex'><code class='language-latex'>$
+\begin{array}{cccccccccccccc}
+    &   1   &   9   &   2 \\
+{}+ &   8   &   8   &   8 \\
+\hline\\
+\hline
+\end{array}
+$
 </code></pre>
 </div>
 
@@ -1565,7 +1577,7 @@ $192
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>3D3DA408-8186-4C87-A0D1-474EF05DE36F</p>
 </div>
@@ -1579,7 +1591,7 @@ $192
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1590,13 +1602,25 @@ tdetailedaddition
 </div>
 <div class='question question'>
 
-$1177 
-+6823$
+$
+\begin{array}{cccccccccccccc}
+    &   1   &   1   &   7   &   7 \\
+{}+ &   6   &   8   &   2   &   3 \\
+\hline\\
+\hline
+\end{array}
+$
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1177 
-+6823$
+<pre class='language-latex'><code class='language-latex'>$
+\begin{array}{cccccccccccccc}
+    &   1   &   1   &   7   &   7 \\
+{}+ &   6   &   8   &   2   &   3 \\
+\hline\\
+\hline
+\end{array}
+$
 </code></pre>
 </div>
 

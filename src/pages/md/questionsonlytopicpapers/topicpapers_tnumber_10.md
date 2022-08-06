@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tnumber-10"
 title: "TopicPaper - Number - 10"
-date: 2022-08-05 16:51:29
+date: 2022-08-06 18:37:02
 questions_count: "40"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "40"
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -104,10 +104,10 @@ Write down two **different** odd prime numbers that add together to make a squar
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:23</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -185,10 +185,10 @@ $743589 \times 301647$ is divided by $5$ ?
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -294,10 +294,10 @@ Write the answer to the sum of two hundred and six plus two thousand three hundr
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -421,10 +421,10 @@ The product of two of the other numbers in the box:
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -573,10 +573,10 @@ $\dfrac{9}{25}, 0.371, \dfrac{2}{5}, 38\%$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -679,10 +679,10 @@ $3.75^2 - 11.63 \times 2.87$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -745,10 +745,10 @@ What is the $7 \text{th}$ prime number?
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -814,10 +814,10 @@ Find the lowest common multiple (LCM) of $12$ and $8$.
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -900,10 +900,10 @@ The capacity of a bath
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -984,10 +984,10 @@ Write down **two** cube numbers which are also square numbers.
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:35</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1028,10 +1028,10 @@ The two-digit by two-digit multiplication below has lots of gaps, but most of th
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1108,10 +1108,10 @@ Write in numbers $\text{thirty-two thousand and twenty-seven}$.
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1189,10 +1189,10 @@ $0.25\:\:\:  2\diagup9\:\:\:  0.039\:\:\:  4\diagup5\:\:\:  3\diagup8$
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1266,10 +1266,10 @@ Which down the number which is $21$ less than $2000$.
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1356,10 +1356,10 @@ Show detailed working using katex array
 <p>oundle-school--11-plus--maths--2008--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1437,10 +1437,10 @@ $4, \quad 11, \quad 8, \quad 2, \quad 7, \quad 13$
 <p>oundle-school--11-plus--maths--2008--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1517,10 +1517,10 @@ Write as a number: ninety thousand and nine
 <p>oundle-school--11-plus--maths--2008--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1625,10 +1625,10 @@ $44  \times 23$
 <p>oundle-school--11-plus--maths--2008--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1705,10 +1705,10 @@ What is the smallest **odd** $5$-digit number that you can make with the digits 
 <p>oundle-school--11-plus--maths--2016--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1811,10 +1811,10 @@ $9 \times (-5)^2 \times 2 \times (-1)$
 <p>oundle-school--11-plus--maths--2016--sample-paper-2:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1917,10 +1917,10 @@ $8 \times 5 - 6 \times 1 + 4 = 10$
 <p>oundle-school--11-plus--maths--2016--sample-paper-2:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1985,10 +1985,10 @@ $\dfrac{+\:\:\: ….\:\:\: ….}{6\:\:\:\:0}$
 <p>oundle-school--11-plus--maths--2016--sample-paper-2:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2123,10 +2123,10 @@ What is the lowest number that can be obtained by multiplying two of the above n
 <p>oundle-school--11-plus--maths--2016--sample-paper-2:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2200,10 +2200,10 @@ Calculate $45412 \times 834 + 45412 \times 162 + 45412 \times 2$.
 <p>oundle-school--11-plus--maths--2016--sample-paper-3:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2362,10 +2362,10 @@ $2\dfrac{1}{3} \times 3\dfrac{3}{7}$
 <p>oundle-school--11-plus--maths--2016--sample-paper-3:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2442,10 +2442,10 @@ $1 -  (1 -  (1 -  2))$
 <p>oundle-school--11-plus--maths--2016--sample-paper-3:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2508,10 +2508,10 @@ What is the smallest whole number that $357$ and $255$ will divide into?
 <p>oundle-school--11-plus--maths--2016--sample-paper-3:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2614,10 +2614,10 @@ Calculate $26 \times 345 - 101 \times 345 + 75 \times 345$ using an efficient me
 <p>oundle-school--11-plus--maths--2016--sample-paper-4:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2697,10 +2697,10 @@ How many numbers with this same property are divisible by $3$?
 <p>oundle-school--11-plus--maths--2017--sample-paper-5:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2803,10 +2803,10 @@ Work out $9 + 11 \times 3 - 12 \div 4$
 <p>oundle-school--11-plus--maths--2017--sample-paper-5:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2909,10 +2909,10 @@ $3\times  7 - 6 \times 4 - 3 = 15$
 <p>oundle-school--11-plus--maths--2017--sample-paper-5:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3047,10 +3047,10 @@ What is the lowest number that can be obtained by multiplying two of the above n
 <p>oundle-school--11-plus--maths--2017--sample-paper-6:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3167,10 +3167,10 @@ $4 - (3 - (2 - 1))$
 <p>oundle-school--11-plus--maths--2017--sample-paper-7:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3319,10 +3319,10 @@ In a bulk pack of $3490$ pencils, how many will not be used up?
 <p>oundle-school--11-plus--maths--2017--sample-paper-7:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3360,10 +3360,10 @@ What is the sum of the numbers?
 <p>oundle-school--11-plus--maths--2018--sample-paper-10:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3564,10 +3564,10 @@ $1 \div 2 - 4 \div 6$
 <p>oundle-school--11-plus--maths--2018--sample-paper-10:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3670,10 +3670,10 @@ $150$
 <p>oundle-school--11-plus--maths--2018--sample-paper-10:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3776,10 +3776,10 @@ $150$
 <p>oundle-school--11-plus--maths--2018--sample-paper-8:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3938,10 +3938,10 @@ $7 - 7 \div 7 + 7$
 <p>oundle-school--11-plus--maths--2018--sample-paper-8:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

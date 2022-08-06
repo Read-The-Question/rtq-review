@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tprobability-2"
 title: "TopicPaper - Probability - 2"
-date: 2022-08-05 16:51:29
+date: 2022-08-06 18:37:02
 questions_count: "40"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "40"
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -148,10 +148,10 @@ The sun will rise tomorrow morning.
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:27</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -278,10 +278,10 @@ a white square or a black circle.
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -367,10 +367,10 @@ A Galaxy
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:39</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -456,10 +456,10 @@ purple .....
 <p>oundle-school--11-plus--maths--2016--sample-paper-2:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -528,10 +528,10 @@ On which spinner is he more likely to get a $1$? Give reasons.
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -618,10 +618,10 @@ Probability of choosing red counter = 4 / 6 +4 then step 2 onwards is ok...
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -686,10 +686,10 @@ That  it is a  banana?
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -763,10 +763,10 @@ I have a bag containing red, blue and white counters. A counter is chosen at ran
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -812,10 +812,10 @@ d)  A score of $1$.
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -889,10 +889,10 @@ I have a bag containing red, blue and white counters. A counter is chosen at ran
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -939,10 +939,10 @@ c)  A score that is an odd number
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -976,10 +976,10 @@ I have a bag containing red, blue and white counters. A counter is chosen at ran
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1013,10 +1013,10 @@ I have a bag containing green, yellow and blue counters. A counter is chosen at 
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:28</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1133,10 +1133,10 @@ not an orange smartie?
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1225,10 +1225,10 @@ What is the probability that it is not an orange counter?
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:2:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1284,10 +1284,10 @@ could be the probability of Pam picking a red counter from bag $B$.
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:24</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1378,10 +1378,10 @@ What is the probability that it is not a yellow sweet?
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1500,10 +1500,10 @@ Write one of the following phrases in the spaces below to make each statement co
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:1:27</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1584,10 +1584,10 @@ Which bag should he choose if he is to **minimise** his chance of picking a pear
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1694,10 +1694,10 @@ There is a less than even chance that a baby will be born somewhere in the world
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1785,10 +1785,10 @@ $12$ or more?
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1856,10 +1856,10 @@ What proportion of sixes would you expect to get if you roll a normal dice?
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1895,10 +1895,10 @@ If the bag contains $17$ jellies and $8$ chocolates, how many toffees are there?
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1991,10 +1991,10 @@ A letter that is also in the word "ASKES"?
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2058,10 +2058,10 @@ On the line below, mark the following probabilities with the letters shown:
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2125,10 +2125,10 @@ On the line below, mark the following probabilities with the letters shown:
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2219,10 +2219,10 @@ Find the mean average of $\pounds 1, \pounds 2, \pounds 5$ and $\pounds 10$.
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:26</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2260,10 +2260,10 @@ pocket to be certain that he takes at least one of each flavour?
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2343,10 +2343,10 @@ What is the mean average score out of $10$ for this group?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2390,10 +2390,10 @@ Arrange the letters for each of these events in order, starting with the least l
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:31</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2472,10 +2472,10 @@ that the ball he picks from bag $B$ is white.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:29</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2575,10 +2575,10 @@ it is twice as likely to land on $4$ as on $3$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:26</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2673,10 +2673,10 @@ either red or blue
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:34</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2763,10 +2763,10 @@ Does the game expect to make a profit or a loss and by how much?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:26</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2856,10 +2856,10 @@ a prime number
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:26</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2966,10 +2966,10 @@ yellow
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:31</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3082,10 +3082,10 @@ mark with letter $D$ the likelihood that the spinner lands on a cube number
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:27</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3159,10 +3159,10 @@ Which is more likely, rolling a $3$ with an unbiased die with six faces, or gett
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3244,10 +3244,10 @@ Give your answer as a fraction.
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

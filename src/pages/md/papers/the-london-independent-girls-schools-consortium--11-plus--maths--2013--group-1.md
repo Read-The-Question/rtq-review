@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2013-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2013 - Group 1"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "40"
 ---
 <div class='paper'>
@@ -99,7 +99,7 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-75B9E812-184B-487F-B1BE-CF32FECF07B6'>Initial</p>
 <div class='question question'>
 
-Work out $4567 + 7654$ 
+Work out $4567 + 7654$. 
 
 </div>
 <div class='workings'>
@@ -2460,7 +2460,7 @@ In blue answer 1
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>E14872CA-A458-40F9-8C07-62F2E9C9CC11</p>
 </div>
@@ -2474,7 +2474,7 @@ In blue answer 1
 <p>rag_am_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2722,9 +2722,9 @@ $
 \begin{aligned}
 c \times 12  &= 18 \div 3 \\\\
 c \times 12  &= \dfrac {18} {3} \\\\
-c            &= \dfrac {18} {3 \times 12} \\\\
-c            &= \dfrac {2 \times 3 \times 3} {3 \times 2 \times 2 \times 3} \\\\
-c            &= \dfrac {\cancel {2} \times \cancel {3} \times  \cancel {3}} {\cancel {3} \times \cancel {2} \times \cancel {3} \times 2} \\\\
+c            &= \dfrac {6 \times 3} {3 \times 12} \\\\
+c            &= \dfrac {6 \times 3} {3 \times 2 \times 6} \\\\
+c            &= \dfrac {\cancel 6 \times \cancel 3} {\cancel 3 \times 2 \times \cancel 6} \\\\
 c            &= \dfrac {1} {2}
 \end{aligned}
 $
@@ -2747,9 +2747,9 @@ $
 \begin{aligned}
 c \times 12  &= 18 \div 3 \\\\
 c \times 12  &= \dfrac {18} {3} \\\\
-c            &= \dfrac {18} {3 \times 12} \\\\
-c            &= \dfrac {2 \times 3 \times 3} {3 \times 2 \times 2 \times 3} \\\\
-c            &= \dfrac {\cancel {2} \times \cancel {3} \times  \cancel {3}} {\cancel {3} \times \cancel {2} \times \cancel {3} \times 2} \\\\
+c            &= \dfrac {6 \times 3} {3 \times 12} \\\\
+c            &= \dfrac {6 \times 3} {3 \times 2 \times 6} \\\\
+c            &= \dfrac {\cancel 6 \times \cancel 3} {\cancel 3 \times 2 \times \cancel 6} \\\\
 c            &= \dfrac {1} {2}
 \end{aligned}
 $

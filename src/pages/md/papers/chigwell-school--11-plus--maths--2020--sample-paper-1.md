@@ -1,7 +1,7 @@
 ---
 slug: "papers/chigwell-school-11-plus-maths-2020-sample-paper-1"
 title: "Chigwell School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "33"
 ---
 <div class='paper'>
@@ -415,7 +415,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-97EE15E8-9288-4DDB-829A-51AC5EF7F93D'>Initial</p>
 <div class='question question'>
 
-What is $87 \times 96$
+What is $87 \times 96 \ ?$
 
 </div>
 <div class='workings'>
@@ -6326,7 +6326,7 @@ Total number of pupils in the school $= 1200$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E5744F01-344F-4332-80A7-8B3713A8ADA2</p>
 </div>
@@ -6337,7 +6337,7 @@ Total number of pupils in the school $= 1200$.
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6417,51 +6417,55 @@ Find the smallest amount of money that cannot be paid using three or fewer Briti
 <div class='workings'>
 <div class='working'>
 
-The British coins are $1, \ 2, \ 5, \ 10, \ 20, \ 50, \ 100, \ 200 \ \text {pence}$.
+The British coins are $1 \text {p}, \ 2 \text {p}, \ 5 \text {p}, \ 10 \text {p}, \ 20 \text {p}, \ 50 \text {p}, \ 100 \text {p}, \ 200 \text {p}$.
 
 With one coin, the smallest amount that can’t be made $= 3$.
 
 With two coins, the smallest amount that can’t be made $= 3 +$ the value of the coin where there is a gap of at least three to the next coin.
 
-So, With two coins, the smallest amount that can’t be made $= 3 + 5 = 8 \ \text {pence}$.
+So, With two coins, the smallest amount that can’t be made $= 3 + 5 = 8 \text {p}$.
 
 So, With three coins, the smallest amount that can’t be made $= 8 +$ the value of the coin where the gap is bigger than eight to the next coin.
 
 $
 \begin {aligned}
-\text {The smallest amount of money that cannot be paid using three or fewer British coins}     &= 8 + 10 \\\\
-                                                                                                &= 18 \ \text {pence}
+\text {Smallest amount}     &= 8 + 10 \\\\
+                            &= 18 \text {p}
 \end {aligned}
 $
+
+The smallest amount of money that cannot be paid using three or fewer British coins $= 18 \text {p}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$18 \ \text {pence}$
+$18 \text {p}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>The British coins are $1, \ 2, \ 5, \ 10, \ 20, \ 50, \ 100, \ 200 \ \text {pence}$.
+<pre class='language-latex'><code class='language-latex'>The British coins are $1 \text {p}, \ 2 \text {p}, \ 5 \text {p}, \ 10 \text {p}, \ 20 \text {p}, \ 50 \text {p}, \ 100 \text {p}, \ 200 \text {p}$.
 <emptyline>
 With one coin, the smallest amount that can’t be made $= 3$.
 <emptyline>
 With two coins, the smallest amount that can’t be made $= 3 +$ the value of the coin where there is a gap of at least three to the next coin.
 <emptyline>
-So, With two coins, the smallest amount that can’t be made $= 3 + 5 = 8 \ \text {pence}$.
+So, With two coins, the smallest amount that can’t be made $= 3 + 5 = 8 \text {p}$.
 <emptyline>
 So, With three coins, the smallest amount that can’t be made $= 8 +$ the value of the coin where the gap is bigger than eight to the next coin.
 <emptyline>
 $
 \begin {aligned}
-\text {The smallest amount of money that cannot be paid using three or fewer British coins}     &= 8 + 10 \\\\
-                                                                                                &= 18 \ \text {pence}
+\text {Smallest amount}     &= 8 + 10 \\\\
+                            &= 18 \text {p}
 \end {aligned}
 $
+<emptyline>
+The smallest amount of money that cannot be paid using three or fewer British coins $= 18 \text {p}$
 </code></pre>
 </div>
 </div>
@@ -6473,12 +6477,57 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$18 \ \text {pence}$
+<pre class='language-latex'><code class='language-latex'>$18 \text {p}$
 </code></pre>
 </div>
 </div>
 
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+@UP copy issue.
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E5744F01-344F-4332-80A7-8B3713A8ADA2' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E5744F01-344F-4332-80A7-8B3713A8ADA2' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E5744F01-344F-4332-80A7-8B3713A8ADA2' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E5744F01-344F-4332-80A7-8B3713A8ADA2' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E5744F01-344F-4332-80A7-8B3713A8ADA2' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E5744F01-344F-4332-80A7-8B3713A8ADA2' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E5744F01-344F-4332-80A7-8B3713A8ADA2' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E5744F01-344F-4332-80A7-8B3713A8ADA2' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E5744F01-344F-4332-80A7-8B3713A8ADA2' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E5744F01-344F-4332-80A7-8B3713A8ADA2' id='FORM-E5744F01-344F-4332-80A7-8B3713A8ADA2' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E5744F01-344F-4332-80A7-8B3713A8ADA2'>Initial</p>
+</div>
 </div>
 </li>
 <li>

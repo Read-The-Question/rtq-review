@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-21-pr"
 title: "TopicPaper - Number - 21 - PR"
-date: 2022-08-05 16:36:46
+date: 2022-08-06 18:21:53
 questions_count: "7"
 ---
 <ul class='question default-decimal'>
@@ -465,7 +465,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>F4652DE7-C2AD-4795-819E-73CC80ABCABB</p>
 </div>
@@ -479,7 +479,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -561,7 +561,8 @@ Find the number that is exactly halfway between $6.7$ and $9.1$
 
 $
 \begin{aligned}
-&= \dfrac {6.7 + 9.1} {2} \\\\
+&= \dfrac {1} {2} \times (6.7 + 9.1)  \\\\
+&= \dfrac {1} {2} \times 15.8  \\\\
 &= \dfrac {15.8} {2} \\\\
 &= 7.9
 \end{aligned}
@@ -581,7 +582,8 @@ $7.9$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= \dfrac {6.7 + 9.1} {2} \\\\
+&= \dfrac {1} {2} \times (6.7 + 9.1)  \\\\
+&= \dfrac {1} {2} \times 15.8  \\\\
 &= \dfrac {15.8} {2} \\\\
 &= 7.9
 \end{aligned}
@@ -1458,7 +1460,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>C1973D01-029D-4F22-8DE1-F3678679D1B4</p>
 </div>
@@ -1472,7 +1474,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

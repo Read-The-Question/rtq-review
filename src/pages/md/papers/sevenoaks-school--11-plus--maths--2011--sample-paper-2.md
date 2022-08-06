@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2011-sample-paper-2"
 title: "Sevenoaks School - 11 Plus - Maths - 2011 - Sample Paper 2"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "18"
 ---
 <div class='paper'>
@@ -600,7 +600,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>0069FF49-93FC-4210-AE5C-E85491840B4B</p>
 </div>
@@ -614,7 +614,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -910,6 +910,23 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a)
+
+9a/6 = 6
+
+9a = 6 x 6 (add this line)
+
+9a = 36
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1856,7 +1873,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>FEDF1274-F3D1-48A8-9364-946A301048E2</p>
 </div>
@@ -1867,7 +1884,7 @@ TODOANSWER
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1949,17 +1966,16 @@ Six people pay $\pounds 5.50$ each for a meal in a restaurant. They leave a $10 
 
 As per the question,
 
-Total expenditure  $= 6 \times \pounds5.50$
-
-$\pounds 33$
-
 $
 \begin{aligned}
-\text{Change}                   &=  \text{Total money} -  \text{Total expenditure} - \text{Tip} \\\\
-                                &=  50 -  33 - \dfrac{1\cancel {0} }{1\cancel {0} \cancel {0} } \times 5 \cancel {0} \\\\
-                                &=  50 -  33 - 5 \\\\
-                                &=  50 -  28 \\\\
-                                &=  22
+\text {Total cost}      &= 6 \times 5.50 + 10 \% \ \text {of} \ 50 \\\\
+                        &= 33 + \dfrac {10} {100} \times 50 \\\\
+                        &= 33 + \dfrac {10 \times 50} {100} \\\\
+                        &= 33 + \dfrac {1 \cancel {0} \times 5 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
+                        &= 33 + 5 \\\\
+                        &= \pounds 38 \\\\
+\text{Change received}  &= 50 - 38 \\\\
+                        &= \pounds 12
 \end{aligned}
 $
 
@@ -1968,7 +1984,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$22$
+$\pounds 12$
 
 </div>
 </div>
@@ -1977,17 +1993,16 @@ $22$
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
 <emptyline>
-Total expenditure  $= 6 \times \pounds5.50$
-<emptyline>
-$\pounds 33$
-<emptyline>
 $
 \begin{aligned}
-\text{Change}                   &=  \text{Total money} -  \text{Total expenditure} - \text{Tip} \\\\
-                                &=  50 -  33 - \dfrac{1\cancel {0} }{1\cancel {0} \cancel {0} } \times 5 \cancel {0} \\\\
-                                &=  50 -  33 - 5 \\\\
-                                &=  50 -  28 \\\\
-                                &=  22
+\text {Total cost}      &= 6 \times 5.50 + 10 \% \ \text {of} \ 50 \\\\
+                        &= 33 + \dfrac {10} {100} \times 50 \\\\
+                        &= 33 + \dfrac {10 \times 50} {100} \\\\
+                        &= 33 + \dfrac {1 \cancel {0} \times 5 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
+                        &= 33 + 5 \\\\
+                        &= \pounds 38 \\\\
+\text{Change received}  &= 50 - 38 \\\\
+                        &= \pounds 12
 \end{aligned}
 $
 </code></pre>
@@ -2001,12 +2016,57 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$22$
+<pre class='language-latex'><code class='language-latex'>$\pounds 12$
 </code></pre>
 </div>
 </div>
 
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+what will be the tip here ? discuss with uday
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' id='FORM-FEDF1274-F3D1-48A8-9364-946A301048E2' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-FEDF1274-F3D1-48A8-9364-946A301048E2'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -3802,7 +3862,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>BD685B1C-24D9-4333-832A-AC45353FEB89</p>
 </div>
@@ -3813,7 +3873,7 @@ TODOANSWER
 <p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_as_notstarted</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3961,6 +4021,46 @@ $
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='BD685B1C-24D9-4333-832A-AC45353FEB89' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='BD685B1C-24D9-4333-832A-AC45353FEB89' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='BD685B1C-24D9-4333-832A-AC45353FEB89' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='BD685B1C-24D9-4333-832A-AC45353FEB89' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='BD685B1C-24D9-4333-832A-AC45353FEB89' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='BD685B1C-24D9-4333-832A-AC45353FEB89' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='BD685B1C-24D9-4333-832A-AC45353FEB89' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='BD685B1C-24D9-4333-832A-AC45353FEB89' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='BD685B1C-24D9-4333-832A-AC45353FEB89' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='BD685B1C-24D9-4333-832A-AC45353FEB89' id='FORM-BD685B1C-24D9-4333-832A-AC45353FEB89' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-BD685B1C-24D9-4333-832A-AC45353FEB89'>Initial</p>
+</div>
 </div>
 </li>
 </ul>

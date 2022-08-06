@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tnumber-11"
 title: "TopicPaper - Number - 11"
-date: 2022-08-05 16:51:29
+date: 2022-08-06 18:37:02
 questions_count: "40"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "40"
 <p>oundle-school--11-plus--maths--2018--sample-paper-8:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -162,10 +162,10 @@ What is the lowest number that can be obtained by multiplying two of the above n
 <p>oundle-school--11-plus--maths--2018--sample-paper-9:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -282,10 +282,10 @@ $4 - (2 - (1 - 2))$
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -363,10 +363,10 @@ $20.1 \times 1.2 =$
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -444,10 +444,10 @@ $20.1 \div 6 =$
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -566,10 +566,10 @@ and
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -684,10 +684,10 @@ $79900 \div 47 =$
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -802,10 +802,10 @@ $34.567 - 20.988 =$
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:1:28</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -922,10 +922,10 @@ $\dfrac{7}{500} = ………….$
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:1:31</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1016,10 +1016,10 @@ Using each card once only make a number as close as possible to $4000$ ………
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1093,10 +1093,10 @@ Use your previous answer to find $20.11 \times 1.1 =$
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1256,10 +1256,10 @@ c: same for this part, refer AA1616F9-E91C-47C6-96D1-6610825F3E80
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1293,10 +1293,10 @@ What is the smallest number that $2, 3$ and $4$ all divide into exactly?
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1402,10 +1402,10 @@ Write down a $\underline{decimal}$ between $\dfrac{3}{4}$ and $1$
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1479,10 +1479,10 @@ Write down the number $\text{thirty three thousand and thirty three}$ in figures
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1556,10 +1556,10 @@ What is $\text{two thousand, four hundred and five plus one thousand, eight hund
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:28</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1676,10 +1676,10 @@ $\dfrac{3}{400} = ………….$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1753,10 +1753,10 @@ Use your previous answer to write down $20.02 \times 1.5$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1878,10 +1878,10 @@ Remove extra whitespace at the end and after \  , also write . (decimal) in the 
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2012,10 +2012,10 @@ Use your answers to find $17\:\: 1\diagup2\%$ of $\pounds 600$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2081,10 +2081,10 @@ Write down a fraction between $60\%$ and $70\%$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:24</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2162,10 +2162,10 @@ $65\%, 0.507$ and $\dfrac{1}{4}$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:28</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2282,10 +2282,10 @@ What is $0.707$ written as a fraction?
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:29</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2402,10 +2402,10 @@ What is $\dfrac{3}{50}$  written as a decimal?
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:33</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2562,10 +2562,10 @@ c: write using a table, 2 columns, first original number, column 2, closest numb
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:37</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2639,10 +2639,10 @@ What is $\text{two}$ and $\text{thirty four hundredths}$ when it is written as a
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:39</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2720,10 +2720,10 @@ $12\:\: 234\:\: 3456\:\: 45678\:\: 567890$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:40</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2797,10 +2797,10 @@ What does $2 \times 17 + 3 \times 17 + 5 \times 17 =$?
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:43</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2878,10 +2878,10 @@ $0.89\:\: 0.9\:\: 0.17\:\: 0.72\:\: 0.73$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2955,10 +2955,10 @@ Use your previous answer to write down $2030 \times 5$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3032,10 +3032,10 @@ Use these last two answers to write down $2030 \times 25$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3113,10 +3113,10 @@ $20.30 × 2.5$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3250,10 +3250,10 @@ c: factor and cancel violation, too complicated
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3345,10 +3345,10 @@ Write down a decimal between $80\%$ and $90\%$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:24</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3426,10 +3426,10 @@ $\dfrac {2} {5}, \ 35\%$ and $0.604$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:29</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3546,10 +3546,10 @@ What is $\dfrac{7}{40}$ written as decimal?
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:33</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3723,10 +3723,10 @@ $400$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3800,10 +3800,10 @@ Write the number $\text{‘thirty six thousand and forty three’}$ in figures.
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3906,10 +3906,10 @@ Write $\dfrac{1}{8}$ as a decimal.
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4016,10 +4016,10 @@ What is $4.1 \times 13.1$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:33</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

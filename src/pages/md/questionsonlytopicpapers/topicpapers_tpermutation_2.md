@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tpermutation-2"
 title: "TopicPaper - Permutation - 2"
-date: 2022-08-05 16:51:29
+date: 2022-08-06 18:37:02
 questions_count: "8"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "8"
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -105,10 +105,10 @@ numbers more than once in a particular three digit number?
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -190,10 +190,10 @@ Using the same method, in how many different ways can the number $5$ be split?
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -286,10 +286,10 @@ In how many different ways can you put three crosses in five squares?
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -323,10 +323,10 @@ In how many different ways can the letters $M, A, T, H$ be placed in a line if t
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -360,10 +360,10 @@ How many numbers between $300$ and $500$ contain **at least one** $4$ in their d
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -397,10 +397,10 @@ In a school table-tennis league each team plays each of the other teams **twice*
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -434,10 +434,10 @@ Yesterday, the reading on Mr Smith’s electricity meter was $098157$. He was sh
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

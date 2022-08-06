@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2009-sample-paper-1"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2009 - Sample Paper 1"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "30"
 ---
 <div class='paper'>
@@ -3484,7 +3484,7 @@ Angle $= 60\ \text{degrees}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>4F9F9262-A677-46E7-BF67-C0017CAB35B7</p>
 </div>
@@ -3495,10 +3495,10 @@ Angle $= 60\ \text{degrees}$
 <p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_as_notstarted</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3682,7 +3682,72 @@ The smallest number of crates needed in total to store $110$ cartons of milk $= 
 </div>
 </div>
 
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+REMOVE all the sentences above the equations and REPLACE it with:
+
+To find the smallest amount of crates needed, we have to use all the large crates and based 
+
+on that calculate how many small crates are needed.
+
+Let the count of small crates = s
+
+In the first line of the equation write 4 cartons
+
+CHANGE the first line under the equation TO We cant use half a crate, so we have to round
+
+12 1/2 up to 13 crates
+
+KATEX hasnt worked on the second line under the equation
+
+REMOVE the third line under the equation
+
+WRITE large crates and small crates in KATEX text in the fourth line under the equation
+
+WRITE the answer in KATEX text
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4F9F9262-A677-46E7-BF67-C0017CAB35B7' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4F9F9262-A677-46E7-BF67-C0017CAB35B7' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4F9F9262-A677-46E7-BF67-C0017CAB35B7' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4F9F9262-A677-46E7-BF67-C0017CAB35B7' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4F9F9262-A677-46E7-BF67-C0017CAB35B7' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4F9F9262-A677-46E7-BF67-C0017CAB35B7' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4F9F9262-A677-46E7-BF67-C0017CAB35B7' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4F9F9262-A677-46E7-BF67-C0017CAB35B7' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4F9F9262-A677-46E7-BF67-C0017CAB35B7' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4F9F9262-A677-46E7-BF67-C0017CAB35B7' id='FORM-4F9F9262-A677-46E7-BF67-C0017CAB35B7' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-4F9F9262-A677-46E7-BF67-C0017CAB35B7'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -6938,7 +7003,7 @@ The additional minutes Isobel will take to sycel to work today $= 8 \ \text {min
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>3250EBF1-2D1A-48CA-B1EA-DF0B51214B2E</p>
 </div>
@@ -6952,7 +7017,7 @@ The additional minutes Isobel will take to sycel to work today $= 8 \ \text {min
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>

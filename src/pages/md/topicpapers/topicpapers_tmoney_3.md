@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-3"
 title: "TopicPaper - Money - 3"
-date: 2022-08-05 16:36:46
+date: 2022-08-06 18:21:53
 questions_count: "40"
 ---
 <div class='paper'>
@@ -2231,7 +2231,7 @@ $56 p , So 10*5 and 5*5 and 1*1$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3B2F88FB-098F-446B-A5EA-C78BF6D5E9A0</p>
 </div>
@@ -2242,7 +2242,7 @@ $56 p , So 10*5 and 5*5 and 1*1$
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2323,36 +2323,48 @@ The library charges a fine of $60 \text{p}$ per week for overdue books. Approxim
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: It is really important to use the right units in calculations and convert where required
 
-</div>
-<div class='working'>
 
-TODOWORKING
+As per the question,
+
+$
+\begin {aligned}
+\text {Total fine}  &= 60 \text {p} \times \text {March} \ 1998 - \text {January} \ 1924 \\\\
+                    &= 60 \times 2 \ \text {months} \ 74 \ \text {years} \\\\
+                    &= 60 \times (8 + 3861) \\\\
+                    &= 60 \times 3869 \\\\
+                    &= 232140 \text {p} \\\\
+                    &= \pounds 232.140
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\pounds 232.140$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin {aligned}
+\text {Total fine}  &= 60 \text {p} \times \text {March} \ 1998 - \text {January} \ 1924 \\\\
+                    &= 60 \times 2 \ \text {months} \ 74 \ \text {years} \\\\
+                    &= 60 \times (8 + 3861) \\\\
+                    &= 60 \times 3869 \\\\
+                    &= 232140 \text {p} \\\\
+                    &= \pounds 232.140
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -2364,26 +2376,56 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\pounds 232.140$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='3B2F88FB-098F-446B-A5EA-C78BF6D5E9A0' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='3B2F88FB-098F-446B-A5EA-C78BF6D5E9A0' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='3B2F88FB-098F-446B-A5EA-C78BF6D5E9A0' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='3B2F88FB-098F-446B-A5EA-C78BF6D5E9A0' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='3B2F88FB-098F-446B-A5EA-C78BF6D5E9A0' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='3B2F88FB-098F-446B-A5EA-C78BF6D5E9A0' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='3B2F88FB-098F-446B-A5EA-C78BF6D5E9A0' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='3B2F88FB-098F-446B-A5EA-C78BF6D5E9A0' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='3B2F88FB-098F-446B-A5EA-C78BF6D5E9A0' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='3B2F88FB-098F-446B-A5EA-C78BF6D5E9A0' id='FORM-3B2F88FB-098F-446B-A5EA-C78BF6D5E9A0' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-3B2F88FB-098F-446B-A5EA-C78BF6D5E9A0'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C3168C71-1453-467B-B9E0-F3062E77C342</p>
 </div>
@@ -2394,7 +2436,7 @@ TODOANSWER
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2574,7 +2616,7 @@ How many chocolates are there, in total, in $18$ of the same boxes?
 
 $
 \begin{aligned}
-\text{Total chocolates} &= 18 \times 37\\\\
+\text{Total chocolates} &= 18 \times 37 \\\\
                         &= 666
 \end{aligned}
 $
@@ -2593,7 +2635,7 @@ $666$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Total chocolates} &= 18 \times 37\\\\
+\text{Total chocolates} &= 18 \times 37 \\\\
                         &= 666
 \end{aligned}
 $
@@ -2786,6 +2828,46 @@ $
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C3168C71-1453-467B-B9E0-F3062E77C342' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C3168C71-1453-467B-B9E0-F3062E77C342' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C3168C71-1453-467B-B9E0-F3062E77C342' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C3168C71-1453-467B-B9E0-F3062E77C342' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C3168C71-1453-467B-B9E0-F3062E77C342' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C3168C71-1453-467B-B9E0-F3062E77C342' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C3168C71-1453-467B-B9E0-F3062E77C342' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C3168C71-1453-467B-B9E0-F3062E77C342' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C3168C71-1453-467B-B9E0-F3062E77C342' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C3168C71-1453-467B-B9E0-F3062E77C342' id='FORM-C3168C71-1453-467B-B9E0-F3062E77C342' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-C3168C71-1453-467B-B9E0-F3062E77C342'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -6551,7 +6633,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>FEDF1274-F3D1-48A8-9364-946A301048E2</p>
 </div>
@@ -6562,7 +6644,7 @@ $
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6644,17 +6726,16 @@ Six people pay $\pounds 5.50$ each for a meal in a restaurant. They leave a $10 
 
 As per the question,
 
-Total expenditure  $= 6 \times \pounds5.50$
-
-$\pounds 33$
-
 $
 \begin{aligned}
-\text{Change}                   &=  \text{Total money} -  \text{Total expenditure} - \text{Tip} \\\\
-                                &=  50 -  33 - \dfrac{1\cancel {0} }{1\cancel {0} \cancel {0} } \times 5 \cancel {0} \\\\
-                                &=  50 -  33 - 5 \\\\
-                                &=  50 -  28 \\\\
-                                &=  22
+\text {Total cost}      &= 6 \times 5.50 + 10 \% \ \text {of} \ 50 \\\\
+                        &= 33 + \dfrac {10} {100} \times 50 \\\\
+                        &= 33 + \dfrac {10 \times 50} {100} \\\\
+                        &= 33 + \dfrac {1 \cancel {0} \times 5 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
+                        &= 33 + 5 \\\\
+                        &= \pounds 38 \\\\
+\text{Change received}  &= 50 - 38 \\\\
+                        &= \pounds 12
 \end{aligned}
 $
 
@@ -6663,7 +6744,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$22$
+$\pounds 12$
 
 </div>
 </div>
@@ -6672,17 +6753,16 @@ $22$
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
 <emptyline>
-Total expenditure  $= 6 \times \pounds5.50$
-<emptyline>
-$\pounds 33$
-<emptyline>
 $
 \begin{aligned}
-\text{Change}                   &=  \text{Total money} -  \text{Total expenditure} - \text{Tip} \\\\
-                                &=  50 -  33 - \dfrac{1\cancel {0} }{1\cancel {0} \cancel {0} } \times 5 \cancel {0} \\\\
-                                &=  50 -  33 - 5 \\\\
-                                &=  50 -  28 \\\\
-                                &=  22
+\text {Total cost}      &= 6 \times 5.50 + 10 \% \ \text {of} \ 50 \\\\
+                        &= 33 + \dfrac {10} {100} \times 50 \\\\
+                        &= 33 + \dfrac {10 \times 50} {100} \\\\
+                        &= 33 + \dfrac {1 \cancel {0} \times 5 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
+                        &= 33 + 5 \\\\
+                        &= \pounds 38 \\\\
+\text{Change received}  &= 50 - 38 \\\\
+                        &= \pounds 12
 \end{aligned}
 $
 </code></pre>
@@ -6696,12 +6776,57 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$22$
+<pre class='language-latex'><code class='language-latex'>$\pounds 12$
 </code></pre>
 </div>
 </div>
 
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+what will be the tip here ? discuss with uday
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' id='FORM-FEDF1274-F3D1-48A8-9364-946A301048E2' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-FEDF1274-F3D1-48A8-9364-946A301048E2'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -8629,7 +8754,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>13EB25A7-7018-4055-A4AC-53AE6FFF28FA</p>
 </div>
@@ -8640,7 +8765,7 @@ $
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -8764,7 +8889,7 @@ What is the total cost?
 $
 \begin{aligned}
 \text {Total cost} &=  22 \times \pounds 7.05 \\\\
-                   &=  \pounds 155.1
+                   &=  \pounds 155.10
 \end{aligned}
 $
 
@@ -8773,7 +8898,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 155.1$
+$\pounds 155.10$
 
 </div>
 </div>
@@ -8783,7 +8908,7 @@ $\pounds 155.1$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text {Total cost} &=  22 \times \pounds 7.05 \\\\
-                   &=  \pounds 155.1
+                   &=  \pounds 155.10
 \end{aligned}
 $
 </code></pre>
@@ -8797,7 +8922,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\pounds 155.1$
+<pre class='language-latex'><code class='language-latex'>$\pounds 155.10$
 </code></pre>
 </div>
 </div>
@@ -8814,21 +8939,21 @@ If you worked out the answer to part $(a)$ on a calculator, what would the displ
 <div class='workings'>
 <div class='working'>
 
-$\pounds 155.1$
+$155.1$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 155.1$
+$155.1$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\pounds 155.1$
+<pre class='language-latex'><code class='language-latex'>$155.1$
 </code></pre>
 </div>
 </div>
@@ -8840,7 +8965,7 @@ $\pounds 155.1$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\pounds 155.1$
+<pre class='language-latex'><code class='language-latex'>$155.1$
 </code></pre>
 </div>
 </div>
@@ -8848,11 +8973,56 @@ $\pounds 155.1$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+a :write total cost in text in first line ,dont write numbers in {} after pounds write them directly like \pounds 24 , change it in your answer and section b also
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='13EB25A7-7018-4055-A4AC-53AE6FFF28FA' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='13EB25A7-7018-4055-A4AC-53AE6FFF28FA' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='13EB25A7-7018-4055-A4AC-53AE6FFF28FA' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='13EB25A7-7018-4055-A4AC-53AE6FFF28FA' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='13EB25A7-7018-4055-A4AC-53AE6FFF28FA' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='13EB25A7-7018-4055-A4AC-53AE6FFF28FA' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='13EB25A7-7018-4055-A4AC-53AE6FFF28FA' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='13EB25A7-7018-4055-A4AC-53AE6FFF28FA' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='13EB25A7-7018-4055-A4AC-53AE6FFF28FA' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='13EB25A7-7018-4055-A4AC-53AE6FFF28FA' id='FORM-13EB25A7-7018-4055-A4AC-53AE6FFF28FA' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-13EB25A7-7018-4055-A4AC-53AE6FFF28FA'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>74C05D8E-262C-47B1-ABB4-5F06E493406E</p>
 </div>
@@ -8863,7 +9033,7 @@ $\pounds 155.1$
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -8988,7 +9158,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text {Total cost}  &= 6 \times \pounds 9.30 \\\\
+\text {Total cost}  &= 6 \times 9.30 \\\\
                     &= \pounds 55.80
 \end{aligned}
 $
@@ -9010,7 +9180,7 @@ $\pounds 55.80$
 <emptyline>
 $
 \begin{aligned}
-\text {Total cost}  &= 6 \times \pounds 9.30 \\\\
+\text {Total cost}  &= 6 \times 9.30 \\\\
                     &= \pounds 55.80
 \end{aligned}
 $
@@ -9047,7 +9217,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Total cost}   &= 3 \times \pounds 9.30 + 4 \times \pounds 6.40 \\\\
+\text{Total cost}   &= 3 \times 9.30 + 4 \times 6.40 \\\\
                     &= 27.90 + 25.60 \\\\
                     &= \pounds 53.50
 \end{aligned}
@@ -9070,7 +9240,7 @@ $\pounds 53.50$
 <emptyline>
 $
 \begin{aligned}
-\text{Total cost}   &= 3 \times \pounds 9.30 + 4 \times \pounds 6.40 \\\\
+\text{Total cost}   &= 3 \times 9.30 + 4 \times 6.40 \\\\
                     &= 27.90 + 25.60 \\\\
                     &= \pounds 53.50
 \end{aligned}
@@ -9104,41 +9274,41 @@ What is the maximum number of people that can go to the zoo for $\pounds 30$?
 <div class='workings'>
 <div class='working'>
 
-Maximum number of people that can go to the zoo for $\pounds 30$ are 1 Adult and 2 childrens
+As per the question,
 
 $
 \begin{aligned}
-&= 6.40 + 6.40 + 9.30 \\\\
-&= \pounds 28.5
+\text {Maximum number of people}    &= \dfrac {30} {6.40} \\\\
+                                    &= \dfrac {30 \times 100} {6.40 \times 100} \\\\
+                                    &= \dfrac {3000} {640} \\\\
+                                    &= 4 \ \text {remainder} \ 440 \\\\
+                                    &\approx 4
 \end{aligned}
 $
-
-So there will be 3 people
-
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$3 \ \text {people}$
+$4$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Maximum number of people that can go to the zoo for $\pounds 30$ are 1 Adult and 2 childrens
+<pre class='language-latex'><code class='language-latex'>As per the question,
 <emptyline>
 $
 \begin{aligned}
-&= 6.40 + 6.40 + 9.30 \\\\
-&= \pounds 28.5
+\text {Maximum number of people}    &= \dfrac {30} {6.40} \\\\
+                                    &= \dfrac {30 \times 100} {6.40 \times 100} \\\\
+                                    &= \dfrac {3000} {640} \\\\
+                                    &= 4 \ \text {remainder} \ 440 \\\\
+                                    &\approx 4
 \end{aligned}
 $
-<emptyline>
-So there will be 3 people
-<emptyline>
 </code></pre>
 </div>
 </div>
@@ -9150,7 +9320,7 @@ So there will be 3 people
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$3 \ \text {people}$
+<pre class='language-latex'><code class='language-latex'>$4$
 </code></pre>
 </div>
 </div>
@@ -9158,7 +9328,56 @@ So there will be 3 people
 </div>
 </li>
 </ul>
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+
+
+
+
+uday : please look at the wording for part (c)
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='74C05D8E-262C-47B1-ABB4-5F06E493406E' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='74C05D8E-262C-47B1-ABB4-5F06E493406E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='74C05D8E-262C-47B1-ABB4-5F06E493406E' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='74C05D8E-262C-47B1-ABB4-5F06E493406E' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='74C05D8E-262C-47B1-ABB4-5F06E493406E' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='74C05D8E-262C-47B1-ABB4-5F06E493406E' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='74C05D8E-262C-47B1-ABB4-5F06E493406E' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='74C05D8E-262C-47B1-ABB4-5F06E493406E' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='74C05D8E-262C-47B1-ABB4-5F06E493406E' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='74C05D8E-262C-47B1-ABB4-5F06E493406E' id='FORM-74C05D8E-262C-47B1-ABB4-5F06E493406E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-74C05D8E-262C-47B1-ABB4-5F06E493406E'>Initial</p>
+</div>
 </div>
 </li>
 <li>

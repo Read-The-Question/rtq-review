@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tratio-4"
 title: "TopicPaper - Ratio - 4"
-date: 2022-08-05 16:51:29
+date: 2022-08-06 18:37:02
 questions_count: "15"
 ---
 <div class='paper'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-c"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper C"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "21"
 ---
 <div class='paper'>
@@ -3066,7 +3066,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E78B9B72-6C11-4058-8FF8-DD057053DE50</p>
 </div>
@@ -3077,7 +3077,7 @@ $
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3160,27 +3160,26 @@ Work out how long the plasters would last if the medical centre were having to t
 
 $
 \begin{aligned}
-12 \ \text {cut/day}                                                  &: 30 \ \text{days} \\\\
-12 \times \dfrac {1} {12} \ \text {cut/day}                           &: 30 \times \dfrac {1} {12} \ \text {days} \\\\
-\cancel {12} \times \dfrac {1} {\cancel {12}} \ \text {cut/day}       &: 30 \times \dfrac {1} {12} \ \text {days} \\\\
-1 \ \text {cut/day}                                                   &: 30 \times \dfrac {1} {12} \ \text {days} \\\\
-1 \times 20 \ \text {cut/day}                                         &: 30 \times \dfrac {1} {12} \times 20 \ \text {days} \\\\
-20 \ \text {cut/day}                                                  &: \dfrac {30 \times 1 \times 20} {12} \ \text {days} \\\\
-20 \ \text {cut/day}                                                  &: \dfrac {10 \times 3 \times 4 \times 5} {3 \times 4} \ \text {days} \\\\
-20 \ \text {cut/day}                                                  &: \dfrac {10 \times \cancel {3} \times \cancel {4} \times 5} {\cancel {3} \times \cancel {4}} \ \text {days} \\\\
-20 \ \text {cut/day}                                                  &: 10 \times 5 \ \text {days} \\\\
-20 \ \text {cut/day}                                                  &: 50 \ \text {days}
+\text{Total plasters}     &= 12 \times 30 \\\\
+                          &= 360
 \end{aligned}
 $
 
-So, the number of days plaster would last if we patch 20 cut knees per day $= 50$ 
+$
+\begin{aligned}
+\text{Number of days plaster would last}      &= \dfrac {360} {20} \\\\
+                                              &= \dfrac {20 \times 18} {20} \\\\
+                                              &= \dfrac {\cancel {20} \times 18} {\cancel {20}} \\\\
+                                              &= 18
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$50 \ \text{days}$
+$18 \ \text{days}$
 
 </div>
 </div>
@@ -3189,20 +3188,19 @@ $50 \ \text{days}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-12 \ \text {cut/day}                                                  &: 30 \ \text{days} \\\\
-12 \times \dfrac {1} {12} \ \text {cut/day}                           &: 30 \times \dfrac {1} {12} \ \text {days} \\\\
-\cancel {12} \times \dfrac {1} {\cancel {12}} \ \text {cut/day}       &: 30 \times \dfrac {1} {12} \ \text {days} \\\\
-1 \ \text {cut/day}                                                   &: 30 \times \dfrac {1} {12} \ \text {days} \\\\
-1 \times 20 \ \text {cut/day}                                         &: 30 \times \dfrac {1} {12} \times 20 \ \text {days} \\\\
-20 \ \text {cut/day}                                                  &: \dfrac {30 \times 1 \times 20} {12} \ \text {days} \\\\
-20 \ \text {cut/day}                                                  &: \dfrac {10 \times 3 \times 4 \times 5} {3 \times 4} \ \text {days} \\\\
-20 \ \text {cut/day}                                                  &: \dfrac {10 \times \cancel {3} \times \cancel {4} \times 5} {\cancel {3} \times \cancel {4}} \ \text {days} \\\\
-20 \ \text {cut/day}                                                  &: 10 \times 5 \ \text {days} \\\\
-20 \ \text {cut/day}                                                  &: 50 \ \text {days}
+\text{Total plasters}     &= 12 \times 30 \\\\
+                          &= 360
 \end{aligned}
 $
 <emptyline>
-So, the number of days plaster would last if we patch 20 cut knees per day $= 50$ 
+$
+\begin{aligned}
+\text{Number of days plaster would last}      &= \dfrac {360} {20} \\\\
+                                              &= \dfrac {20 \times 18} {20} \\\\
+                                              &= \dfrac {\cancel {20} \times 18} {\cancel {20}} \\\\
+                                              &= 18
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -3214,12 +3212,52 @@ So, the number of days plaster would last if we patch 20 cut knees per day $= 50
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$50 \ \text{days}$
+<pre class='language-latex'><code class='language-latex'>$18 \ \text{days}$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' id='FORM-E78B9B72-6C11-4058-8FF8-DD057053DE50' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E78B9B72-6C11-4058-8FF8-DD057053DE50'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -4265,7 +4303,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C6F1CC0D-D31A-4B7A-8872-C20E463CC066</p>
 </div>
@@ -4276,7 +4314,7 @@ $
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4448,6 +4486,9 @@ Work out the range of the five times that Joshua recorded.
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Range} = \text{Highest number} - \text{Lowest number}$
+
+
 $
 \begin{aligned}
 \text {Range} &= 10 - 4 \\\\
@@ -4467,7 +4508,9 @@ $6$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_statistics_formula_range
+<emptyline>
+$
 \begin{aligned}
 \text {Range} &= 10 - 4 \\\\
               &= 6
@@ -4501,6 +4544,9 @@ Calculate the mean average time that the bus was late over the course of the wee
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
+
+
 $
 \begin{aligned}
 \text {Mean} &= \dfrac {5 + 8 + 4 + 10 + 8} {5} \\\\
@@ -4521,7 +4567,9 @@ $7$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_statistics_formula_mean
+<emptyline>
+$
 \begin{aligned}
 \text {Mean} &= \dfrac {5 + 8 + 4 + 10 + 8} {5} \\\\
              &= \dfrac {35} {5} \\\\
@@ -4623,21 +4671,47 @@ Explain what this tells us about the number of minutes that the bus was late ove
 <div class='workings'>
 <div class='working'>
 
-$\text{It shows that the mean is maintained}$
+Let the total for middle three days $= a$
+
+$
+\begin{aligned}
+\text{Mean}\    &= \dfrac {36 + a} {9} \\\\
+4               &= \dfrac {36 + a} {9} \\\\
+36 + a          &= 4 \times 9 \\\\
+36 + a          &= 36 \\\\
+a               &= 36 - 36 \\\\
+a               &= 0 \\\\
+\end{aligned}
+$
+
+The bus never came late in the middle $3$ days of second week.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text{It shows that the mean is maintained}$
+The bus never came late in the middle $3$ days of second week.
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\text{It shows that the mean is maintained}$
+<pre class='language-latex'><code class='language-latex'>Let the total for middle three days $= a$
+<emptyline>
+$
+\begin{aligned}
+\text{Mean}\    &= \dfrac {36 + a} {9} \\\\
+4               &= \dfrac {36 + a} {9} \\\\
+36 + a          &= 4 \times 9 \\\\
+36 + a          &= 36 \\\\
+a               &= 36 - 36 \\\\
+a               &= 0 \\\\
+\end{aligned}
+$
+<emptyline>
+The bus never came late in the middle $3$ days of second week.
 </code></pre>
 </div>
 </div>
@@ -4649,7 +4723,7 @@ $\text{It shows that the mean is maintained}$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\text{It shows that the mean is maintained}$
+<pre class='language-latex'><code class='language-latex'>The bus never came late in the middle $3$ days of second week.
 </code></pre>
 </div>
 </div>
@@ -4658,6 +4732,46 @@ $\text{It shows that the mean is maintained}$
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C6F1CC0D-D31A-4B7A-8872-C20E463CC066' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C6F1CC0D-D31A-4B7A-8872-C20E463CC066' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C6F1CC0D-D31A-4B7A-8872-C20E463CC066' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C6F1CC0D-D31A-4B7A-8872-C20E463CC066' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C6F1CC0D-D31A-4B7A-8872-C20E463CC066' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C6F1CC0D-D31A-4B7A-8872-C20E463CC066' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C6F1CC0D-D31A-4B7A-8872-C20E463CC066' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C6F1CC0D-D31A-4B7A-8872-C20E463CC066' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C6F1CC0D-D31A-4B7A-8872-C20E463CC066' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C6F1CC0D-D31A-4B7A-8872-C20E463CC066' id='FORM-C6F1CC0D-D31A-4B7A-8872-C20E463CC066' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-C6F1CC0D-D31A-4B7A-8872-C20E463CC066'>Initial</p>
+</div>
 </div>
 </li>
 <li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2015-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2015 - Group 1"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "38"
 ---
 <div class='paper'>
@@ -99,7 +99,7 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-66F65F3C-8524-46CB-A174-4E42F5C32FBC'>Initial</p>
 <div class='question question'>
 
-Work out $2357 + 3275$
+Work out $2357 + 3275$.
 
 </div>
 <div class='workings'>
@@ -1919,7 +1919,7 @@ The two numbers which Winston thinks $= 5,12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>CA18EE51-E05D-43B3-9A52-6279C6630C9D</p>
 </div>
@@ -1933,7 +1933,7 @@ The two numbers which Winston thinks $= 5,12$
 <p>rag_am_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2057,7 +2057,8 @@ $
 \begin {aligned}
 7 \times 9 - a  &= 25 \\\\
 63 - a          &= 25 \\\\
-a               &= 63 - 25 \\\\
+-a              &= 25 - 63 \\\\
+-a              &= -38  \\\\
 a               &= 38
 \end {aligned}
 $
@@ -2080,7 +2081,8 @@ $
 \begin {aligned}
 7 \times 9 - a  &= 25 \\\\
 63 - a          &= 25 \\\\
-a               &= 63 - 25 \\\\
+-a              &= 25 - 63 \\\\
+-a              &= -38  \\\\
 a               &= 38
 \end {aligned}
 $
@@ -3562,7 +3564,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>614F23B2-E8EA-4EB8-83F5-64E2D37B50E5</p>
 </div>
@@ -3576,7 +3578,7 @@ TODOANSWER
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3658,11 +3660,11 @@ What is the smallest number Becca could be thinking of?
 <div class='workings'>
 <div class='working'>
 
-We can easily infer the number by using trial and error.
 
-$31$
+| Original prime | Reversed number | If prime or not | 
+|:----------------: |:----------:   |:-----------------: | 
+| 31  | 13 | prime    |     
 
-On reversing $31$, $13$ is also a prime.
 
 </div>
 </div>
@@ -3676,11 +3678,11 @@ $31$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>We can easily infer the number by using trial and error.
+<pre class='language-latex'><code class='language-latex'>
+| Original prime | Reversed number | If prime or not | 
+|:----------------: |:----------:   |:-----------------: | 
+| 31  | 13 | prime    |     
 <emptyline>
-$31$
-<emptyline>
-On reversing $31$, $13$ is also a prime.
 </code></pre>
 </div>
 </div>
@@ -8748,39 +8750,10 @@ The digital roots of the first $9$ square numbers are given in the table below:
 
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-TODOWORKING
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-TODOANSWER
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -8817,7 +8790,8 @@ $
 
 $
 \begin{aligned}
-\text{Digital root of} \ 196 &= 1 + 9 + 6 &= 16 \\\\
+\text{Digital root of} \ 196 &= 1 + 9 + 6 \\\\ 
+&= 16 \\\\
 &= 1 + 6 \\\\
 &= 7
 \end{aligned}
@@ -8832,7 +8806,8 @@ $
 
 $
 \begin{aligned}
-\text{Digital root of} \ 256 &= 2 + 5 + 6 &= 13 \\\\
+\text{Digital root of} \ 256 &= 2 + 5 + 6 \\\\
+&= 13 \\\\
 &= 1 + 3 \\\\
 &= 4
 \end{aligned}
@@ -8840,8 +8815,10 @@ $
 
 $
 \begin{aligned}
-\text{Digital root of} \ 289 &= 2 + 8 + 9 &= 19 \\\\
-&= 1 + 9 &= 10 \\\\
+\text{Digital root of} \ 289 &= 2 + 8 + 9 \\\\
+&= 19 \\\\
+&= 1 + 9 \\\\
+&= 10 \\\\
 &= 1 + 0 \\\\
 &= 1
 \end{aligned}
@@ -8882,7 +8859,8 @@ $
 <emptyline>
 $
 \begin{aligned}
-\text{Digital root of} \ 196 &= 1 + 9 + 6 &= 16 \\\\
+\text{Digital root of} \ 196 &= 1 + 9 + 6 \\\\ 
+&= 16 \\\\
 &= 1 + 6 \\\\
 &= 7
 \end{aligned}
@@ -8897,7 +8875,8 @@ $
 <emptyline>
 $
 \begin{aligned}
-\text{Digital root of} \ 256 &= 2 + 5 + 6 &= 13 \\\\
+\text{Digital root of} \ 256 &= 2 + 5 + 6 \\\\
+&= 13 \\\\
 &= 1 + 3 \\\\
 &= 4
 \end{aligned}
@@ -8905,8 +8884,10 @@ $
 <emptyline>
 $
 \begin{aligned}
-\text{Digital root of} \ 289 &= 2 + 8 + 9 &= 19 \\\\
-&= 1 + 9 &= 10 \\\\
+\text{Digital root of} \ 289 &= 2 + 8 + 9 \\\\
+&= 19 \\\\
+&= 1 + 9 \\\\
+&= 10 \\\\
 &= 1 + 0 \\\\
 &= 1
 \end{aligned}
@@ -8979,39 +8960,10 @@ What patterns do you notice in the digital roots in the tables above?
 Using the patterns you have spotted, write down the digital roots of the following numbers:
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-TODOWORKING
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-TODOANSWER
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
 <ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>

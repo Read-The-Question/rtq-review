@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tareaperimeter-8"
 title: "TopicPaper - Areaperimeter - 8"
-date: 2022-08-05 16:51:29
+date: 2022-08-06 18:37:02
 questions_count: "35"
 ---
 <div class='paper'>

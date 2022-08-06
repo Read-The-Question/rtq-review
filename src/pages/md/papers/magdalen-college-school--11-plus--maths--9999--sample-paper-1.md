@@ -1,7 +1,7 @@
 ---
 slug: "papers/magdalen-college-school-11-plus-maths-9999-sample-paper-1"
 title: "Magdalen College School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "18"
 ---
 <div class='paper'>
@@ -3058,7 +3058,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>C7E5C1F7-F102-4A2B-A59C-05452CBF4FE0</p>
 </div>
@@ -3072,7 +3072,7 @@ TODOANSWER
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3412,6 +3412,95 @@ James bought $9$ pencils and $4$ pens.
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) Add these two lines at top:
+
+rtq_abbr_md_unit_note
+
+Lets convert all the costs into pence.
+
+
+
+Part b) Add these two lines at top:
+
+rtq_abbr_md_unit_note
+
+Lets convert all the costs into pence.
+
+ii) Also show the conversion in the first working:
+
+Money left = \pound 15 - 80 p
+
+           = \pound 15 - \pound 80 / 100
+
+....
+
+
+
+
+
+Part c) Solve it by first making equation and then using trial and error method. 
+
+Start with:
+
+rtq_abbr_md_unit_note
+
+Lets convert all the costs into pence.
+
+
+
+Let the number of pens James bought = a
+
+
+
+Let the number of pencils James bought = b
+
+
+
+As per the question,
+
+£1.25 x a + 80p x b = 15 - 2.80
+
+£1.25 x a + £80/100 x b = 12.20
+
+1.25a + 0.8b = 12.20
+
+
+
+We can easily infer the values by using trial and error. Lets find out $2$ numbers that satisfies the above equation.
+
+
+
+a   |  b    | Value of equation
+
+3   |  4    |    6.95
+
+4   |  7    |    10.6
+
+4   |  9    |    12.20
+
+
+
+A quick check shows that $a = 4$ and $b = 9$ satisfies the equation above.
+
+
+
+James bought 4 pens and 9 pencils.
+
+
+
+Refer to part a) of this question for katex: CC0F7948-FB93-4B7D-B62E-499490AD2FB6
+
+
+
+ii) Capitalize the first word of Pens and Pencils in answers section.
+</div>
 
 <div class='review'>
 <ul class='review'>

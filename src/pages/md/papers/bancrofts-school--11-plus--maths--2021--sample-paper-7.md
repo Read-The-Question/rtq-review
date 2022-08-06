@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2021-sample-paper-7"
 title: "Bancrofts School - 11 Plus - Maths - 2021 - Sample Paper 7"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "38"
 ---
 <div class='paper'>
@@ -988,7 +988,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-E6E5FA77-7AEA-4834-9C78-FD484B80C74D'>Initial</p>
 <div class='question question'>
 
-Multiply $168$ by $91$
+Multiply $168$ by $91$.
 
 </div>
 <div class='workings'>

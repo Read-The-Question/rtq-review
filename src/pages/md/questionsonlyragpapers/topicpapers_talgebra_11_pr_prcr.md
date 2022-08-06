@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-talgebra-11-pr-prcr"
 title: "TopicPaper - Algebra - 11 - PR - PRCR"
-date: 2022-08-05 16:51:29
+date: 2022-08-06 18:37:02
 questions_count: "40"
 ---
 <ul class='question default-decimal'>
@@ -1731,7 +1731,70 @@ $\boxed{7} \boxed{\phantom{1}} +  \boxed{\phantom{1}}\boxed{\phantom{1}}\boxed{6
 </code></pre>
 </div>
 
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+@UP the right way to present the answer is to do and array . .do 250 - 7 0 and - 6 = 174 and put in the right place value.
+
+
+
+And how to present in blue answer.
+
+____________________________
+
+@Aravidn Do the following corrections and after then mark this question status as PRBD please.
+
+
+
+Katex wrong . \begin{array}{cccccc} & 7 & 4 \ {}+ 1 & 8 & 6 \ \hline 2 & 5 & 0 \end{aligned}
+
+\end{array} and put & sing in leftmost of all lines with number in array. (alignment wrong)
+
+
+
+Put answere in blue answer. (repeat the answer)
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='B7931AAD-CC40-434A-B67C-9F5D390398BC' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='B7931AAD-CC40-434A-B67C-9F5D390398BC' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='B7931AAD-CC40-434A-B67C-9F5D390398BC' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='B7931AAD-CC40-434A-B67C-9F5D390398BC' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='B7931AAD-CC40-434A-B67C-9F5D390398BC' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='B7931AAD-CC40-434A-B67C-9F5D390398BC' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='B7931AAD-CC40-434A-B67C-9F5D390398BC' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='B7931AAD-CC40-434A-B67C-9F5D390398BC' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='B7931AAD-CC40-434A-B67C-9F5D390398BC' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='B7931AAD-CC40-434A-B67C-9F5D390398BC' id='FORM-B7931AAD-CC40-434A-B67C-9F5D390398BC' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B7931AAD-CC40-434A-B67C-9F5D390398BC'>Initial</p>
+</div>
 </div>
 </li>
 <li>

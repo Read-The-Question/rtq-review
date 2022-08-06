@@ -1,7 +1,7 @@
 ---
 slug: "papers/james-allens-girls-school-11-plus-maths-9999-sample-paper-1"
 title: "James Allens Girls School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "21"
 ---
 <div class='paper'>
@@ -1949,7 +1949,7 @@ Number of girls = a - 2a/5
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6988D985-5AC0-40DF-9615-C7003D875089</p>
 </div>
@@ -1960,7 +1960,7 @@ Number of girls = a - 2a/5
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2112,36 +2112,45 @@ How many kroner would I get for $90 \text{p}$?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Using ratio,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{array}{cccccccccccccc}
+= & \pounds 1                      &:& 18 \ \text{kroner} \\\\
+= & 1 \times 100 \text{p}          &:& 18 \ \text{kroner} \\\\
+= & 100 \text{p}                   &:& 18 \ \text{kroner} \\\\
+= & 1                              &:& \dfrac {18} {100} \\\\
+= & 90                             &:& \dfrac {18 \times 90} {100} \\\\
+= & 90                             &:& \dfrac {1620} {100} \\\\
+= & 90 \text{p}                    &:& 16.2 \ \text{kroner} \\\\
+\end{array}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$16.2 \ \text{kroner}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Using ratio,
+<emptyline>
+$
+\begin{array}{cccccccccccccc}
+= & \pounds 1                      &:& 18 \ \text{kroner} \\\\
+= & 1 \times 100 \text{p}          &:& 18 \ \text{kroner} \\\\
+= & 100 \text{p}                   &:& 18 \ \text{kroner} \\\\
+= & 1                              &:& \dfrac {18} {100} \\\\
+= & 90                             &:& \dfrac {18 \times 90} {100} \\\\
+= & 90                             &:& \dfrac {1620} {100} \\\\
+= & 90 \text{p}                    &:& 16.2 \ \text{kroner} \\\\
+\end{array}
+$
 </code></pre>
 </div>
 </div>
@@ -2153,17 +2162,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$16.2 \ \text{kroner}$
 </code></pre>
 </div>
 </div>
@@ -2180,36 +2179,43 @@ How much are $12 \ \text{kroner}$ worth?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Using ratio,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{array}{cccccccccccccc}
+= & 18 \ \text{kroner}             &:& \pounds 1 \\\\
+= & 1                              &:& \dfrac {1} {18} \\\\
+= & 12                             &:& \dfrac {12} {18} \\\\
+= & 12                             &:& \dfrac {6 \times 2} {6 \times 3} \\\\
+= & 12                             &:& \dfrac {\cancel 6 \times 2} {\cancel 6 \times 3} \\\\
+= & 12 \ \text{kroner}             &:& \pounds \dfrac {2} {3}
+\end{array}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\pounds \dfrac {2} {3}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Using ratio,
+<emptyline>
+$
+\begin{array}{cccccccccccccc}
+= & 18 \ \text{kroner}             &:& \pounds 1 \\\\
+= & 1                              &:& \dfrac {1} {18} \\\\
+= & 12                             &:& \dfrac {12} {18} \\\\
+= & 12                             &:& \dfrac {6 \times 2} {6 \times 3} \\\\
+= & 12                             &:& \dfrac {\cancel 6 \times 2} {\cancel 6 \times 3} \\\\
+= & 12 \ \text{kroner}             &:& \pounds \dfrac {2} {3}
+\end{array}
+$
 </code></pre>
 </div>
 </div>
@@ -2221,17 +2227,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\pounds \dfrac {2} {3}$
 </code></pre>
 </div>
 </div>
@@ -2249,36 +2245,37 @@ How much is this in kroner?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Using ratio,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{array}{cccccccccccccc}
+= & \pounds 1                      &:& 18 \ \text{kroner} \\\\
+= & 5.10                           &:& 18 \times 5.10 \\\\
+= & \pounds 5.10                   &:& 91.8 \ \text{kroner} \\\\
+\end{array}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$91.8 \ \text{kroner}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Using ratio,
+<emptyline>
+$
+\begin{array}{cccccccccccccc}
+= & \pounds 1                      &:& 18 \ \text{kroner} \\\\
+= & 5.10                           &:& 18 \times 5.10 \\\\
+= & \pounds 5.10                   &:& 91.8 \ \text{kroner} \\\\
+\end{array}
+$
 </code></pre>
 </div>
 </div>
@@ -2290,17 +2287,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$91.8 \ \text{kroner}$
 </code></pre>
 </div>
 </div>
@@ -2309,6 +2296,46 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='6988D985-5AC0-40DF-9615-C7003D875089' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='6988D985-5AC0-40DF-9615-C7003D875089' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='6988D985-5AC0-40DF-9615-C7003D875089' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='6988D985-5AC0-40DF-9615-C7003D875089' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='6988D985-5AC0-40DF-9615-C7003D875089' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='6988D985-5AC0-40DF-9615-C7003D875089' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='6988D985-5AC0-40DF-9615-C7003D875089' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='6988D985-5AC0-40DF-9615-C7003D875089' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='6988D985-5AC0-40DF-9615-C7003D875089' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='6988D985-5AC0-40DF-9615-C7003D875089' id='FORM-6988D985-5AC0-40DF-9615-C7003D875089' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-6988D985-5AC0-40DF-9615-C7003D875089'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -3194,7 +3221,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8B578477-6F19-43DE-B59B-70CEB333815B</p>
 </div>
@@ -3205,7 +3232,7 @@ $
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3288,35 +3315,17 @@ How many $26 \text{p}$ stamps can Antonia buy for $\pounds 10$ and how much chan
 ABBR: It is really important to use the right units in calculations and convert where required.
 
 
-Let's convert the total amount into pence.
-
 $
-\begin{aligned}
-\text{Total amount}  &= \pounds 10 \\\\
-                     &= 10 \times 100 \text{p} \\\\
-                     &= 1000\text{p}
-\end{aligned}
-$
-
-Cost of each stamp $= 26\text{p}$
-
-Total stamps can be brought
-
-$
-\begin{aligned}
-&= \dfrac {1000} {26} \\\\
-&=  38.4 \\\\
-&=  38
-\end{aligned}
-$
-
-Total amount spent
-
-$
-\begin{aligned}
-&= 38 \times 26 \\\\
-&= 988 \text{p}
-\end{aligned}
+\begin {aligned}
+\text {Total stamps}    &= \dfrac {\pounds 10} {26 \text {p}} \\\\
+                        &= \dfrac {1000 \text {p}} {26 \text {p}} \\\\
+                        &= \dfrac {1000} {26} \\\\
+                        &= 38 \ \text {remainder} \ 12 \\\\
+                        &= 38 \\\\
+\text {Change received} &= 1000 - 38 \times 26 \\\\
+                        &= 1000 - 988 \\\\
+                        &= 12 \text {p}
+\end {aligned}
 $
 
 </div>
@@ -3324,7 +3333,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$988$
+$38$
+
+</div>
+<div class='answer'>
+
+$12 \text {p}$
 
 </div>
 </div>
@@ -3333,35 +3347,17 @@ $988$
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
 <emptyline>
-Let's convert the total amount into pence.
-<emptyline>
 $
-\begin{aligned}
-\text{Total amount}  &= \pounds 10 \\\\
-                     &= 10 \times 100 \text{p} \\\\
-                     &= 1000\text{p}
-\end{aligned}
-$
-<emptyline>
-Cost of each stamp $= 26\text{p}$
-<emptyline>
-Total stamps can be brought
-<emptyline>
-$
-\begin{aligned}
-&= \dfrac {1000} {26} \\\\
-&=  38.4 \\\\
-&=  38
-\end{aligned}
-$
-<emptyline>
-Total amount spent
-<emptyline>
-$
-\begin{aligned}
-&= 38 \times 26 \\\\
-&= 988 \text{p}
-\end{aligned}
+\begin {aligned}
+\text {Total stamps}    &= \dfrac {\pounds 10} {26 \text {p}} \\\\
+                        &= \dfrac {1000 \text {p}} {26 \text {p}} \\\\
+                        &= \dfrac {1000} {26} \\\\
+                        &= 38 \ \text {remainder} \ 12 \\\\
+                        &= 38 \\\\
+\text {Change received} &= 1000 - 38 \times 26 \\\\
+                        &= 1000 - 988 \\\\
+                        &= 12 \text {p}
+\end {aligned}
 $
 </code></pre>
 </div>
@@ -3374,12 +3370,67 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$988$
+<pre class='language-latex'><code class='language-latex'>$38$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$12 \text {p}$
 </code></pre>
 </div>
 </div>
 
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+Call Uday for the wording
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='8B578477-6F19-43DE-B59B-70CEB333815B' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='8B578477-6F19-43DE-B59B-70CEB333815B' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='8B578477-6F19-43DE-B59B-70CEB333815B' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='8B578477-6F19-43DE-B59B-70CEB333815B' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='8B578477-6F19-43DE-B59B-70CEB333815B' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='8B578477-6F19-43DE-B59B-70CEB333815B' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='8B578477-6F19-43DE-B59B-70CEB333815B' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='8B578477-6F19-43DE-B59B-70CEB333815B' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='8B578477-6F19-43DE-B59B-70CEB333815B' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='8B578477-6F19-43DE-B59B-70CEB333815B' id='FORM-8B578477-6F19-43DE-B59B-70CEB333815B' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-8B578477-6F19-43DE-B59B-70CEB333815B'>Initial</p>
+</div>
 </div>
 </li>
 <li>

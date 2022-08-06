@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-21-g0"
 title: "TopicPaper - Number - 21 - G0"
-date: 2022-08-05 16:36:46
+date: 2022-08-06 18:21:53
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -98,20 +98,15 @@ Add together $3.7\, metres$ and $64\, cm$ and then subtract $2\, metres$ $7\,cm$
 <div class='working'>
 
 ABBR: It is really important to use the right units in calculations and convert where required.
-
-The measurement is given in meters and centimeteres but the answer has to be in meters.
-
-$1 \ \text{m} = 100 \ \text{cm}$
-
-$\dfrac {1} {100} \ \text{m} = 1 \ \text{cm}$
+.
 
 $
 \begin{aligned}
-&= 3.7 \ \text{m} + 64 \ \text{cm} - (2 \ \text {m} + 7 \ \text{cm}) \\\\
-&= 3.7 \ \text{m} + \dfrac {64} {100} \ \text{m} - (2 \ \text{m} + \dfrac {7} {100} \ \text{m}) \\\\
-&= 3.7 \ \text{m} + 0.64 \ \text{m}  -  (2 \ \text{m} + 0.07 \ \text{m}) \\\\
-&= 4.34 \ \text{m} - 2.07 \ \text{m} \\\\
-&= 2.27 \ \text {m}
+&= 3.7 \ \text{meters} + 64 \ \text{cm} - (2 \ \text {meters} + 7 \ \text{cm}) \\\\
+&= 3.7 \ \text{meters} + \dfrac {64} {100} \ \text{meters} - (2 \ \text{meters} + \dfrac {7} {100} \ \text{meters}) \\\\
+&= 3.7 \ \text{meters} + 0.64 \ \text{meters}  -  (2 \ \text{meters} + 0.07 \ \text{meters}) \\\\
+&= 4.34 \ \text{meters} - 2.07 \ \text{meters} \\\\
+&= 2.27 \ \text {meters}
 \end{aligned}
 $
 
@@ -120,27 +115,22 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2.27 \ \text{m}$
+$2.27 \ \text{meters}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-The measurement is given in meters and centimeteres but the answer has to be in meters.
-<emptyline>
-$1 \ \text{m} = 100 \ \text{cm}$
-<emptyline>
-$\dfrac {1} {100} \ \text{m} = 1 \ \text{cm}$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note.
 <emptyline>
 $
 \begin{aligned}
-&= 3.7 \ \text{m} + 64 \ \text{cm} - (2 \ \text {m} + 7 \ \text{cm}) \\\\
-&= 3.7 \ \text{m} + \dfrac {64} {100} \ \text{m} - (2 \ \text{m} + \dfrac {7} {100} \ \text{m}) \\\\
-&= 3.7 \ \text{m} + 0.64 \ \text{m}  -  (2 \ \text{m} + 0.07 \ \text{m}) \\\\
-&= 4.34 \ \text{m} - 2.07 \ \text{m} \\\\
-&= 2.27 \ \text {m}
+&= 3.7 \ \text{meters} + 64 \ \text{cm} - (2 \ \text {meters} + 7 \ \text{cm}) \\\\
+&= 3.7 \ \text{meters} + \dfrac {64} {100} \ \text{meters} - (2 \ \text{meters} + \dfrac {7} {100} \ \text{meters}) \\\\
+&= 3.7 \ \text{meters} + 0.64 \ \text{meters}  -  (2 \ \text{meters} + 0.07 \ \text{meters}) \\\\
+&= 4.34 \ \text{meters} - 2.07 \ \text{meters} \\\\
+&= 2.27 \ \text {meters}
 \end{aligned}
 $
 </code></pre>
@@ -154,7 +144,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$2.27 \ \text{m}$
+<pre class='language-latex'><code class='language-latex'>$2.27 \ \text{meters}$
 </code></pre>
 </div>
 </div>
@@ -293,39 +283,10 @@ You are given that $44460 \div 780 = 57$
 Use this result to give the answers to the questions below: 
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-%empty%
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-%empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -337,14 +298,21 @@ $44460 \div 57 =$
 <div class='workings'>
 <div class='working'>
 
+
+$\because 44460 \div 780 = 57 $
+
+$\therefore 780 \times 57 = 44460 $ 
+
 As per the question,
 
 $
 \begin{aligned}
-44460 \div 780              &= 57 \\\\
-\dfrac {44460} {780}        &= 57 \\\\
-44460                       &= 57 \times 780 \\\\
-\dfrac {44460} {57}          &= 780
+&= 44460 \div 57 \\\\
+&= \dfrac {44460} {57}\\\\ 
+&= \dfrac{44460 \times 780} {57 \times 780} \\\\ 
+&= \dfrac{44460 \times 780} {44460} \\\\           
+&= \dfrac{\cancel{44460} \times 780} {\cancel{44460}} \\\\  
+&= 780         
 \end{aligned}
 $
 
@@ -360,14 +328,21 @@ $780$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
+<pre class='language-latex'><code class='language-latex'>
+$\because 44460 \div 780 = 57 $
+<emptyline>
+$\therefore 780 \times 57 = 44460 $ 
+<emptyline>
+As per the question,
 <emptyline>
 $
 \begin{aligned}
-44460 \div 780              &= 57 \\\\
-\dfrac {44460} {780}        &= 57 \\\\
-44460                       &= 57 \times 780 \\\\
-\dfrac {44460} {57}          &= 780
+&= 44460 \div 57 \\\\
+&= \dfrac {44460} {57}\\\\ 
+&= \dfrac{44460 \times 780} {57 \times 780} \\\\ 
+&= \dfrac{44460 \times 780} {44460} \\\\           
+&= \dfrac{\cancel{44460} \times 780} {\cancel{44460}} \\\\  
+&= 780         
 \end{aligned}
 $
 </code></pre>
@@ -402,10 +377,8 @@ As per the question,
 
 $
 \begin{aligned}
-44460 \div 780              &= 57 \\\\
-\dfrac {44460} {780}        &= 57 \\\\
-44460                       &= 57 \times 780 \\\\
-57 \times 780               &= 44460
+&= 57 \times 780 \\\\
+&= 44460
 \end{aligned}
 $
 
@@ -425,10 +398,8 @@ $44460$
 <emptyline>
 $
 \begin{aligned}
-44460 \div 780              &= 57 \\\\
-\dfrac {44460} {780}        &= 57 \\\\
-44460                       &= 57 \times 780 \\\\
-57 \times 780               &= 44460
+&= 57 \times 780 \\\\
+&= 44460
 \end{aligned}
 $
 </code></pre>
@@ -463,12 +434,13 @@ As per the question,
 
 $
 \begin{aligned}
-44460 \div 780                                                          &= 57 \\\\
-\dfrac {44460} {780}                                                    &= 57 \\\\
-\dfrac {44460} {780} \times \dfrac {1} {10}                             &= 57 \times \dfrac {1} {10} \\\\
-\dfrac {4446\cancel {0}} {780} \times \dfrac {1} {1\cancel {0}}         &= \dfrac {57} {10} \\\\
-\dfrac {4446} {780}                                                     &= 5.7 \\\\
-\dfrac {4446} {5.7}                                                     &= 780
+&= 4446 \div 5.7 \\\\
+&= \dfrac {4446 \times 10} {5.7 \times 10}\\\\ 
+&= \dfrac {44460} {57}\\\\ 
+&= \dfrac{44460 \times 780} {57 \times 780} \\\\ 
+&= \dfrac{44460 \times 780} {44460} \\\\           
+&= \dfrac{\cancel{44460} \times 780} {\cancel{44460}} \\\\  
+&= 780  
 \end{aligned}
 $
 
@@ -488,12 +460,13 @@ $780$
 <emptyline>
 $
 \begin{aligned}
-44460 \div 780                                                          &= 57 \\\\
-\dfrac {44460} {780}                                                    &= 57 \\\\
-\dfrac {44460} {780} \times \dfrac {1} {10}                             &= 57 \times \dfrac {1} {10} \\\\
-\dfrac {4446\cancel {0}} {780} \times \dfrac {1} {1\cancel {0}}         &= \dfrac {57} {10} \\\\
-\dfrac {4446} {780}                                                     &= 5.7 \\\\
-\dfrac {4446} {5.7}                                                     &= 780
+&= 4446 \div 5.7 \\\\
+&= \dfrac {4446 \times 10} {5.7 \times 10}\\\\ 
+&= \dfrac {44460} {57}\\\\ 
+&= \dfrac{44460 \times 780} {57 \times 780} \\\\ 
+&= \dfrac{44460 \times 780} {44460} \\\\           
+&= \dfrac{\cancel{44460} \times 780} {\cancel{44460}} \\\\  
+&= 780  
 \end{aligned}
 $
 </code></pre>
@@ -528,12 +501,13 @@ As per the question,
 
 $
 \begin{aligned}
-44460 \div 780              &= 57 \\\\
-\dfrac {44460} {780}        &= 57 \\\\
-44460                       &= 57 \times 780 \\\\
-\dfrac{44460} {1000}        &= \dfrac {57} {10} \times \dfrac {780} {100} \\\\
-44.46                       &= 5.7 \times 7.8 \\\\
-5.7 \times 7.8              &= 44.46
+&= 7.8 \times 5.7 \\\\
+&= \dfrac{78}{10} \times \dfrac{57}{10} \\\\
+&= \dfrac{78 \times 57}{10 \times 10} \\\\
+&= \dfrac{78 \times 57 \times 10}{10 \times 10 \times 10} \\\\
+&= \dfrac{780 \times 57}{10 \times 10 \times 10} \\\\
+&= \dfrac{44460}{1000} \\\\
+&= 4.4460
 \end{aligned}
 $
 
@@ -553,12 +527,13 @@ $44.46$
 <emptyline>
 $
 \begin{aligned}
-44460 \div 780              &= 57 \\\\
-\dfrac {44460} {780}        &= 57 \\\\
-44460                       &= 57 \times 780 \\\\
-\dfrac{44460} {1000}        &= \dfrac {57} {10} \times \dfrac {780} {100} \\\\
-44.46                       &= 5.7 \times 7.8 \\\\
-5.7 \times 7.8              &= 44.46
+&= 7.8 \times 5.7 \\\\
+&= \dfrac{78}{10} \times \dfrac{57}{10} \\\\
+&= \dfrac{78 \times 57}{10 \times 10} \\\\
+&= \dfrac{78 \times 57 \times 10}{10 \times 10 \times 10} \\\\
+&= \dfrac{780 \times 57}{10 \times 10 \times 10} \\\\
+&= \dfrac{44460}{1000} \\\\
+&= 4.4460
 \end{aligned}
 $
 </code></pre>
@@ -593,14 +568,12 @@ As per the question,
 
 $
 \begin{aligned}
-44460 \div 780                                  &= 57 \\\\
-\dfrac {44460} {780}                            &= 57 \\\\
-44460                                           &= 57 \times 780 \\\\
-\dfrac{44460} {10}                              &= 57 \times \dfrac{780} {10} \\\\
-\dfrac{4446\cancel {0}} {1\cancel {0}}          &= 57 \times \dfrac{78\cancel {0}} {1\cancel {0}} \\\\
-4446                                            &= 57 \times 78 \\\\
-4446                                            &= 3 \times 19 \times 78 \\\\
-3 \times 19 \times 78                           &= 4446
+&= 3 \times 78 \times 19 \\\\
+&= \dfrac{3 \times 78 \times 19 \times 10}{10} \\\\
+&= \dfrac{57 \times 78 \times 10}{10} \\\\
+&= \dfrac{57 \times 780}{10} \\\\
+&= \dfrac{44460}{10} \\\\
+&= 4446
 \end{aligned}
 $
 
@@ -620,14 +593,12 @@ $4446$
 <emptyline>
 $
 \begin{aligned}
-44460 \div 780                                  &= 57 \\\\
-\dfrac {44460} {780}                            &= 57 \\\\
-44460                                           &= 57 \times 780 \\\\
-\dfrac{44460} {10}                              &= 57 \times \dfrac{780} {10} \\\\
-\dfrac{4446\cancel {0}} {1\cancel {0}}          &= 57 \times \dfrac{78\cancel {0}} {1\cancel {0}} \\\\
-4446                                            &= 57 \times 78 \\\\
-4446                                            &= 3 \times 19 \times 78 \\\\
-3 \times 19 \times 78                           &= 4446
+&= 3 \times 78 \times 19 \\\\
+&= \dfrac{3 \times 78 \times 19 \times 10}{10} \\\\
+&= \dfrac{57 \times 78 \times 10}{10} \\\\
+&= \dfrac{57 \times 780}{10} \\\\
+&= \dfrac{44460}{10} \\\\
+&= 4446
 \end{aligned}
 $
 </code></pre>
@@ -781,39 +752,10 @@ tnumber
 %empty% 
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-%empty%
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-%empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -827,9 +769,9 @@ Express $51\, km$ in metres
 
 $
 \begin{aligned}
-1 \ \text{km} &= 1000 \ \text{m} \\\\
-1 \times 51 \ \text{km} &= 1000 \times 51 \ \text{m} \\\\
-51 \ \text{km} &= 51000 \ \text{m}
+&= 51 \ \text{meters} \\\\
+&= 51 \ \times 1000 \ \text{meters} \\\\
+&= 51 000 \ \text{meters} \\\\
 \end{aligned}
 $
 
@@ -838,7 +780,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$51000 \ \text{m}$
+$51000 \ \text{meters}$
 
 </div>
 </div>
@@ -847,9 +789,9 @@ $51000 \ \text{m}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-1 \ \text{km} &= 1000 \ \text{m} \\\\
-1 \times 51 \ \text{km} &= 1000 \times 51 \ \text{m} \\\\
-51 \ \text{km} &= 51000 \ \text{m}
+&= 51 \ \text{meters} \\\\
+&= 51 \ \times 1000 \ \text{meters} \\\\
+&= 51 000 \ \text{meters} \\\\
 \end{aligned}
 $
 </code></pre>
@@ -863,7 +805,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$51000 \ \text{m}$
+<pre class='language-latex'><code class='language-latex'>$51000 \ \text{meters}$
 </code></pre>
 </div>
 </div>
@@ -882,10 +824,11 @@ Express $510\,cm$ in metres
 
 $
 \begin{aligned}
-1 \ \text{cm} &= \dfrac{1}{100} \ \text{m} \\\\
-1 \times 510 \ \text{cm} &= \dfrac{1}{100} \times 510 \ \text{m} \\\\
-510 \ \text{cm} &= \dfrac{510}{100} \ \text{m} \\\\
-510 \ \text{cm} &= 5.10 \ \text{m}
+&= 510 \ \text{cm} \\\\
+&= \dfrac{510}{100} \ \text{meters} \\\\
+&= \dfrac{51 \cancel{0}}{10 \cancel{0}}  \\\\
+&= \dfrac{51}{10}  \\\\
+&= 5.1 meters
 \end{aligned}
 $
 
@@ -894,7 +837,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$5.1 \ \text{m}$
+$5.1 \ \text{meters}$
 
 </div>
 </div>
@@ -903,10 +846,11 @@ $5.1 \ \text{m}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-1 \ \text{cm} &= \dfrac{1}{100} \ \text{m} \\\\
-1 \times 510 \ \text{cm} &= \dfrac{1}{100} \times 510 \ \text{m} \\\\
-510 \ \text{cm} &= \dfrac{510}{100} \ \text{m} \\\\
-510 \ \text{cm} &= 5.10 \ \text{m}
+&= 510 \ \text{cm} \\\\
+&= \dfrac{510}{100} \ \text{meters} \\\\
+&= \dfrac{51 \cancel{0}}{10 \cancel{0}}  \\\\
+&= \dfrac{51}{10}  \\\\
+&= 5.1 meters
 \end{aligned}
 $
 </code></pre>
@@ -920,7 +864,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$5.1 \ \text{m}$
+<pre class='language-latex'><code class='language-latex'>$5.1 \ \text{meters}$
 </code></pre>
 </div>
 </div>

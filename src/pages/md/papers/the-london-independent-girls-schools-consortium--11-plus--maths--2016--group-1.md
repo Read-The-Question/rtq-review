@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2016 - Group 1"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "45"
 ---
 <div class='paper'>
@@ -99,7 +99,7 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-BCFC8528-F790-40C9-A217-CE925D2A3259'>Initial</p>
 <div class='question question'>
 
-Work out $4689 + 2703$
+Work out $4689 + 2703$.
 
 </div>
 <div class='workings'>
@@ -1077,7 +1077,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>D6C77BFE-E594-4024-93C0-48A0970659C7</p>
 </div>
@@ -1091,7 +1091,7 @@ $
 <p>rag_am_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1209,12 +1209,11 @@ $20.4 \times 100 = \boxed{\phantom{11}}$
 <div class='workings'>
 <div class='working'>
 
-Let the missing number $= a$.
 
 $
 \begin{aligned}
-20.4 \times 100  &= a \\\\
-a                &= 2040
+&= 20.4 \times 100  \\\\
+&= 2040
 \end{aligned}
 $
 
@@ -1223,19 +1222,18 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$20.4 \times 100 = \boxed{2040}$ 
+$2040$ 
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$.
-<emptyline>
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-20.4 \times 100  &= a \\\\
-a                &= 2040
+&= 20.4 \times 100  \\\\
+&= 2040
 \end{aligned}
 $
 </code></pre>
@@ -1249,7 +1247,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$20.4 \times 100 = \boxed{2040}$ 
+<pre class='language-latex'><code class='language-latex'>$2040$ 
 </code></pre>
 </div>
 </div>
@@ -1281,7 +1279,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\boxed{1050} \div 1000 = 1.05$
+$1050$
 
 </div>
 </div>
@@ -1308,7 +1306,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\boxed{1050} \div 1000 = 1.05$
+<pre class='language-latex'><code class='language-latex'>$1050$
 </code></pre>
 </div>
 </div>
@@ -1908,7 +1906,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>2A88B7B6-AD6F-452A-ACC1-75AD1DD3F661</p>
 </div>
@@ -1922,7 +1920,7 @@ $
 <p>rag_am_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2022,6 +2020,8 @@ a                 &= 3
 \end {aligned}
 $
 
+Number Alisha thought $= 3$
+
 </div>
 </div>
 <div class='answers'>
@@ -2049,6 +2049,8 @@ a                 &= 7 - 4 \\\\
 a                 &= 3
 \end {aligned}
 $
+<emptyline>
+Number Alisha thought $= 3$
 </code></pre>
 </div>
 </div>
@@ -2748,39 +2750,10 @@ tnumber
 %empty% 
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-%empty%
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-%empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -4288,7 +4261,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>5160958B-A4E0-465D-AF30-2B59CDE40F74</p>
 </div>
@@ -4302,7 +4275,7 @@ TODOANSWER
 <p>rag_am_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4389,11 +4362,13 @@ and let Autumn's number $= b$.
 
 As per the question, 
 
+$ a \times b   = 72$
+
 $a - b = a$ 
 
 which gives, $b = 2a$.
 
-Using this, we get 
+Using this in first equation, 
 
 $
 \begin {aligned}
@@ -4429,11 +4404,13 @@ and let Autumn's number $= b$.
 <emptyline>
 As per the question, 
 <emptyline>
+$ a \times b   = 72$
+<emptyline>
 $a - b = a$ 
 <emptyline>
 which gives, $b = 2a$.
 <emptyline>
-Using this, we get 
+Using this in first equation, 
 <emptyline>
 $
 \begin {aligned}
@@ -5615,8 +5592,8 @@ As per the diagram,
 
 $
 \begin{aligned}
-\text {Length of the pencil}  &= 3.6 \ \text {inches} - 0.7 \ \text {inches} \\\\
-\text {Length of the pencil}  &= 2.9 \ \text{inches}
+&= 3.6 \ \text {inches} - 0.7 \ \text {inches} \\\\
+&= 2.9 \ \text{inches}
 \end{aligned}
 $
 
@@ -5636,8 +5613,8 @@ $2.9 \ \text{inches}$
 <emptyline>
 $
 \begin{aligned}
-\text {Length of the pencil}  &= 3.6 \ \text {inches} - 0.7 \ \text {inches} \\\\
-\text {Length of the pencil}  &= 2.9 \ \text{inches}
+&= 3.6 \ \text {inches} - 0.7 \ \text {inches} \\\\
+&= 2.9 \ \text{inches}
 \end{aligned}
 $
 </code></pre>
@@ -7174,39 +7151,10 @@ She has eight cups each of capacity $150 \ \text{ml}$.
 Zoya fills the cups with lemonade from her jug.
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-TODOWORKING
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-TODOANSWER
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -7220,10 +7168,10 @@ What volume of lemonade is left in the jug?
 
 $
 \begin{aligned}
-&= 1.5 \text{liter}\ - 150 \text{ml}\ \times 8 \\\\
-&= (1.5 \times 1000) \text{ml}\ - 150 \text{ml}\ \times 8 \\\\
+&= 1.5 \ \text{liter}\ - 150 \ \text{ml}\ \times 8 \\\\
+&= (1.5  \times 1000) \ \text{ml}\ - 150 \ \text{ml}\ \times 8 \\\\
 &= 1500 - 1200 \\\\
-&= 300 \text{ml}\
+&= 300 \ \text{ml}\
 \end{aligned}
 $
 
@@ -7241,10 +7189,10 @@ $
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 1.5 \text{liter}\ - 150 \text{ml}\ \times 8 \\\\
-&= (1.5 \times 1000) \text{ml}\ - 150 \text{ml}\ \times 8 \\\\
+&= 1.5 \ \text{liter}\ - 150 \ \text{ml}\ \times 8 \\\\
+&= (1.5  \times 1000) \ \text{ml}\ - 150 \ \text{ml}\ \times 8 \\\\
 &= 1500 - 1200 \\\\
-&= 300 \text{ml}\
+&= 300 \ \text{ml}\
 \end{aligned}
 $
 </code></pre>

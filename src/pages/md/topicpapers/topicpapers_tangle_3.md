@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tangle-3"
 title: "TopicPaper - Angle - 3"
-date: 2022-08-05 16:36:46
+date: 2022-08-06 18:21:53
 questions_count: "25"
 ---
 <div class='paper'>

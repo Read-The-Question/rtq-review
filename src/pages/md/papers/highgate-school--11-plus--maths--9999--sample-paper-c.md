@@ -1,7 +1,7 @@
 ---
 slug: "papers/highgate-school-11-plus-maths-9999-sample-paper-c"
 title: "Highgate School - 11 Plus - Maths - 9999 - Sample Paper C"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "4"
 ---
 <div class='paper'>
@@ -1172,7 +1172,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3F99FFBD-9694-4BED-AA6E-D13CBDE7D0A1</p>
 </div>
@@ -1183,7 +1183,7 @@ TODOANSWER
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1334,36 +1334,59 @@ How much of the drink does she make?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Using ratio,
 
-</div>
-<div class='working'>
+$
+\begin{array}{cccccccccccccc}
+  & \text{lemonade}                    &:& \text{cranberry juice} \\\\
+= & 3                                  &:& 1 \\\\
+= & 1                                  &:& \dfrac {1} {3} \\\\
+= & 759                                &:& \dfrac {759} {3} \\\\
+= & 759                                &:& \dfrac {3 \times 253} {3} \\\\
+= & 759                                &:& \dfrac {\cancel 3 \times 253} {\cancel 3} \\\\
+= & 759 \ \text{ml}                    &:& 253 \ \text{ml}
+\end{array}
+$
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Total volume of drink}      &= 253 + 759 \\\\
+                                  &= 1012 \ \text{ml}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$1012 \ \text{ml}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Using ratio,
+<emptyline>
+$
+\begin{array}{cccccccccccccc}
+  & \text{lemonade}                    &:& \text{cranberry juice} \\\\
+= & 3                                  &:& 1 \\\\
+= & 1                                  &:& \dfrac {1} {3} \\\\
+= & 759                                &:& \dfrac {759} {3} \\\\
+= & 759                                &:& \dfrac {3 \times 253} {3} \\\\
+= & 759                                &:& \dfrac {\cancel 3 \times 253} {\cancel 3} \\\\
+= & 759 \ \text{ml}                    &:& 253 \ \text{ml}
+\end{array}
+$
+<emptyline>
+$
+\begin{aligned}
+\text{Total volume of drink}      &= 253 + 759 \\\\
+                                  &= 1012 \ \text{ml}
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -1375,17 +1398,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$1012 \ \text{ml}$
 </code></pre>
 </div>
 </div>
@@ -1405,36 +1418,49 @@ How much water is needed make $800 \ \text{ml}$ of the drink?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Using ratio,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{array}{cccccccccccccc}
+  & \text{fruit juice}                 &:& \text{water} \\\\
+= & 600 \ \text{ml}                    &:& (600 - 39) \ \text{ml} \\\\
+= & 600                                &:& 561 \\\\
+= & 1                                  &:& \dfrac {561} {600} \\\\
+= & 800                                &:& \dfrac {561 \times 800} {600} \\\\
+= & 800                                &:& \dfrac {3 \times 187 \times 2 \times 4 \times 100} {3 \times 2 \times 100} \\\\
+= & 800                                &:& \dfrac {\cancel 3 \times 187 \times \cancel 2 \times 4 \times \cancel {100}} {\cancel 3 \times \cancel 2 \times \cancel {100}} \\\\
+= & 800                                &:& 187 \times 4 \\\\
+= & 800 \ \text{ml}                    &:& 748 \ \text{ml} \\\\
+\end{array}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$748 \ \text{ml}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Using ratio,
+<emptyline>
+$
+\begin{array}{cccccccccccccc}
+  & \text{fruit juice}                 &:& \text{water} \\\\
+= & 600 \ \text{ml}                    &:& (600 - 39) \ \text{ml} \\\\
+= & 600                                &:& 561 \\\\
+= & 1                                  &:& \dfrac {561} {600} \\\\
+= & 800                                &:& \dfrac {561 \times 800} {600} \\\\
+= & 800                                &:& \dfrac {3 \times 187 \times 2 \times 4 \times 100} {3 \times 2 \times 100} \\\\
+= & 800                                &:& \dfrac {\cancel 3 \times 187 \times \cancel 2 \times 4 \times \cancel {100}} {\cancel 3 \times \cancel 2 \times \cancel {100}} \\\\
+= & 800                                &:& 187 \times 4 \\\\
+= & 800 \ \text{ml}                    &:& 748 \ \text{ml} \\\\
+\end{array}
+$
 </code></pre>
 </div>
 </div>
@@ -1446,17 +1472,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$748 \ \text{ml}$
 </code></pre>
 </div>
 </div>
@@ -1477,36 +1493,69 @@ How many questions did Tim answer correctly?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the number questions answered correctly by Tim $= a$
 
-</div>
-<div class='working'>
+Number questions answered correctly by Bobby $= a + 4$
 
-TODOWORKING
+Number questions answered incorrectly by Tim $= 20 - a$
+
+Number questions answered incorrectly by Bobby $= 20 - (a + 4)$
+
+As per the question,
+
+$
+\begin{aligned}
+3 \times a + 3 \times (a + 4) - (20 - a) - (20 - (a + 4))   &= 48 \\\\
+3a + 3a + 3 \times 4 - 20 + a - (20 - a - 4)                &= 48 \\\\
+6a + a + 12 - 20 - 20 + a + 4                               &= 48 \\\\
+6a + a + a                                                  &= 48 - 12 + 20 + 20 - 4 \\\\
+8a                                                          &= 72 \\\\
+a                                                           &= \dfrac {72} {8} \\\\
+a                                                           &= \dfrac {8 \times 9} {8} \\\\
+a                                                           &= \dfrac {\cancel 8 \times 9} {\cancel 8} \\\\
+a                                                           &= 9
+\end{aligned}
+$
+
+Number of questions answered correctly by Tim $= 9$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$9$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the number questions answered correctly by Tim $= a$
+<emptyline>
+Number questions answered correctly by Bobby $= a + 4$
+<emptyline>
+Number questions answered incorrectly by Tim $= 20 - a$
+<emptyline>
+Number questions answered incorrectly by Bobby $= 20 - (a + 4)$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin{aligned}
+3 \times a + 3 \times (a + 4) - (20 - a) - (20 - (a + 4))   &= 48 \\\\
+3a + 3a + 3 \times 4 - 20 + a - (20 - a - 4)                &= 48 \\\\
+6a + a + 12 - 20 - 20 + a + 4                               &= 48 \\\\
+6a + a + a                                                  &= 48 - 12 + 20 + 20 - 4 \\\\
+8a                                                          &= 72 \\\\
+a                                                           &= \dfrac {72} {8} \\\\
+a                                                           &= \dfrac {8 \times 9} {8} \\\\
+a                                                           &= \dfrac {\cancel 8 \times 9} {\cancel 8} \\\\
+a                                                           &= 9
+\end{aligned}
+$
+<emptyline>
+Number of questions answered correctly by Tim $= 9$.
 </code></pre>
 </div>
 </div>
@@ -1518,17 +1567,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$9$
 </code></pre>
 </div>
 </div>
@@ -1558,36 +1597,247 @@ Fill in all of the missing numbers in both the circles and the squares. The firs
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Value in the first square}            &= 7 \times 3 \\\\
+                                            &= 21 \\\\
+\text{Value in the first circle}            &= \dfrac {18} {3} \\\\
+                                            &= \dfrac {6 \times 3} {3} \\\\
+                                            &= \dfrac {6 \times \cancel 3} {\cancel 3} \\\\
+                                            &= 6 \\\\
+\text{Value in the second square}           &= 7 \times 6 \\\\
+                                            &= 42 \\\\
+\end{aligned}
+$
 
 </div>
 <div class='working'>
 
-TODOWORKING
+Let the value in first circle $= a$
+
+Value in second circle $= b$
+
+Value in third circle $= c$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times b    &= 12 \\\\
+b \times c    &= 20 \\\\
+c \times a    &= 15
+\end{aligned}
+$
+
+Let's multiply all the equation together to get the product of a, b and c.
+
+$
+\begin{aligned}
+a \times b \times b \times c \times c \times a   &= 12 \times 20 \times 15 \\\\
+a \times a \times b \times b \times c \times c   &= 3600 \\\\
+a ^ 2 \times b ^ 2 \times c ^ 2                  &= 3600 \\\\
+(a \times b \times c) ^ 2                        &= 3600 \\\\
+a \times b \times c                              &= \sqrt {3600} \\\\
+a \times b \times c                              &= 60
+\end{aligned}
+$
+
+Let's use the product of a \times b \times c  to find the value of c.
+
+$
+\begin{aligned}
+\dfrac {a \times b \times c} {a \times b}                                   &= \dfrac {60} {12} \\\\
+\dfrac {\cancel a \times \cancel b \times c} {\cancel a \times \cancel b}   &= \dfrac {12 \times 5} {12} \\\\
+c                                                                           &= \dfrac {\cancel {12} \times 5} {\cancel {12}} \\\\
+c                                                                           &= 5
+\end{aligned}
+$
+
+Let's use the product of a \times b \times c  to find the value of a.
+
+$
+\begin{aligned}
+\dfrac {a \times b \times c} {b \times c}                                   &= \dfrac {60} {20} \\\\
+\dfrac {a \times \cancel b \times \cancel c} {\cancel b \times \cancel c}   &= \dfrac {20 \times 3} {20} \\\\
+a                                                                           &= \dfrac {\cancel {20} \times 3} {\cancel {20}} \\\\
+a                                                                           &= 3
+\end{aligned}
+$
+
+Let's use the product of a \times b \times c  to find the value of c.
+
+$
+\begin{aligned}
+\dfrac {a \times b \times c} {c \times a}                                   &= \dfrac {60} {15} \\\\
+\dfrac {\cancel a \times b \times \cancel c} {\cancel c \times \cancel a}   &= \dfrac {15 \times 4} {15} \\\\
+c                                                                           &= \dfrac {\cancel {15} \times 4} {\cancel {15}} \\\\
+c                                                                           &= 4
+\end{aligned}
+$
+
+Value in first circle $= 3$.
+
+Value in second circle $= 4$.
+
+Value in third circle $= 5$.
+
+</div>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Value in the second square}           &= 7.5 \times 6 \\\\
+                                            &= 45 \\\\
+\text{Value in the first circle}            &= \dfrac {3} {6} \\\\
+                                            &= \dfrac {3} {3 \times 2} \\\\
+                                            &= \dfrac {\cancel 3} {\cancel 3 \times 2} \\\\
+                                            &= \dfrac {1} {2} \\\\
+                                            &= 0.5 \\\\
+\text{Value in the first square}            &= 7.5 \times 0.5 \\\\
+                                            &= \dfrac {75} {10} \times \dfrac {5} {10} \\\\
+                                            &= \dfrac {75 \times 5} {100} \\\\
+                                            &= \dfrac {375} {100} \\\\
+                                            &= 3.75
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+Value in first circle $= 6$
+
+Value in first square $= 21$
+
+Value in second square $= 42$
 
 </div>
 <div class='answer'>
 
-TODOANSWER
+Value in first circle $= 3$
+
+Value in second circle $= 4$
+
+Value in third circle $= 5$
+
+</div>
+<div class='answer'>
+
+Value in first circle $= 0.5$
+
+Value in first square $= 3.75$
+
+Value in second square $= 45$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Value in the first square}            &= 7 \times 3 \\\\
+                                            &= 21 \\\\
+\text{Value in the first circle}            &= \dfrac {18} {3} \\\\
+                                            &= \dfrac {6 \times 3} {3} \\\\
+                                            &= \dfrac {6 \times \cancel 3} {\cancel 3} \\\\
+                                            &= 6 \\\\
+\text{Value in the second square}           &= 7 \times 6 \\\\
+                                            &= 42 \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the value in first circle $= a$
+<emptyline>
+Value in second circle $= b$
+<emptyline>
+Value in third circle $= c$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin{aligned}
+a \times b    &= 12 \\\\
+b \times c    &= 20 \\\\
+c \times a    &= 15
+\end{aligned}
+$
+<emptyline>
+Let's multiply all the equation together to get the product of a, b and c.
+<emptyline>
+$
+\begin{aligned}
+a \times b \times b \times c \times c \times a   &= 12 \times 20 \times 15 \\\\
+a \times a \times b \times b \times c \times c   &= 3600 \\\\
+a ^ 2 \times b ^ 2 \times c ^ 2                  &= 3600 \\\\
+(a \times b \times c) ^ 2                        &= 3600 \\\\
+a \times b \times c                              &= \sqrt {3600} \\\\
+a \times b \times c                              &= 60
+\end{aligned}
+$
+<emptyline>
+Let's use the product of a \times b \times c  to find the value of c.
+<emptyline>
+$
+\begin{aligned}
+\dfrac {a \times b \times c} {a \times b}                                   &= \dfrac {60} {12} \\\\
+\dfrac {\cancel a \times \cancel b \times c} {\cancel a \times \cancel b}   &= \dfrac {12 \times 5} {12} \\\\
+c                                                                           &= \dfrac {\cancel {12} \times 5} {\cancel {12}} \\\\
+c                                                                           &= 5
+\end{aligned}
+$
+<emptyline>
+Let's use the product of a \times b \times c  to find the value of a.
+<emptyline>
+$
+\begin{aligned}
+\dfrac {a \times b \times c} {b \times c}                                   &= \dfrac {60} {20} \\\\
+\dfrac {a \times \cancel b \times \cancel c} {\cancel b \times \cancel c}   &= \dfrac {20 \times 3} {20} \\\\
+a                                                                           &= \dfrac {\cancel {20} \times 3} {\cancel {20}} \\\\
+a                                                                           &= 3
+\end{aligned}
+$
+<emptyline>
+Let's use the product of a \times b \times c  to find the value of c.
+<emptyline>
+$
+\begin{aligned}
+\dfrac {a \times b \times c} {c \times a}                                   &= \dfrac {60} {15} \\\\
+\dfrac {\cancel a \times b \times \cancel c} {\cancel c \times \cancel a}   &= \dfrac {15 \times 4} {15} \\\\
+c                                                                           &= \dfrac {\cancel {15} \times 4} {\cancel {15}} \\\\
+c                                                                           &= 4
+\end{aligned}
+$
+<emptyline>
+Value in first circle $= 3$.
+<emptyline>
+Value in second circle $= 4$.
+<emptyline>
+Value in third circle $= 5$.
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Value in the second square}           &= 7.5 \times 6 \\\\
+                                            &= 45 \\\\
+\text{Value in the first circle}            &= \dfrac {3} {6} \\\\
+                                            &= \dfrac {3} {3 \times 2} \\\\
+                                            &= \dfrac {\cancel 3} {\cancel 3 \times 2} \\\\
+                                            &= \dfrac {1} {2} \\\\
+                                            &= 0.5 \\\\
+\text{Value in the first square}            &= 7.5 \times 0.5 \\\\
+                                            &= \dfrac {75} {10} \times \dfrac {5} {10} \\\\
+                                            &= \dfrac {75 \times 5} {100} \\\\
+                                            &= \dfrac {375} {100} \\\\
+                                            &= 3.75
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -1599,7 +1849,11 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>Value in first circle $= 6$
+
+Value in first square $= 21$
+
+Value in second square $= 42$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -1609,7 +1863,25 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>Value in first circle $= 3$
+
+Value in second circle $= 4$
+
+Value in third circle $= 5$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>Value in first circle $= 0.5$
+
+Value in first square $= 3.75$
+
+Value in second square $= 45$
 </code></pre>
 </div>
 </div>
@@ -1618,6 +1890,46 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='3F99FFBD-9694-4BED-AA6E-D13CBDE7D0A1' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='3F99FFBD-9694-4BED-AA6E-D13CBDE7D0A1' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='3F99FFBD-9694-4BED-AA6E-D13CBDE7D0A1' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='3F99FFBD-9694-4BED-AA6E-D13CBDE7D0A1' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='3F99FFBD-9694-4BED-AA6E-D13CBDE7D0A1' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='3F99FFBD-9694-4BED-AA6E-D13CBDE7D0A1' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='3F99FFBD-9694-4BED-AA6E-D13CBDE7D0A1' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='3F99FFBD-9694-4BED-AA6E-D13CBDE7D0A1' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='3F99FFBD-9694-4BED-AA6E-D13CBDE7D0A1' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='3F99FFBD-9694-4BED-AA6E-D13CBDE7D0A1' id='FORM-3F99FFBD-9694-4BED-AA6E-D13CBDE7D0A1' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-3F99FFBD-9694-4BED-AA6E-D13CBDE7D0A1'>Initial</p>
+</div>
 </div>
 </li>
 <li>

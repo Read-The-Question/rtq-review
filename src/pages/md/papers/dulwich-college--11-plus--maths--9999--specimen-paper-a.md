@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-a"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper A"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "23"
 ---
 <div class='paper'>
@@ -2021,7 +2021,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>ECDD12D4-46EA-434A-BEFB-8B078113878C</p>
 </div>
@@ -2032,7 +2032,7 @@ $
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2114,21 +2114,21 @@ $8, \quad 7, \quad 11, \quad 6, \quad 9, \quad 7$
 <div class='workings'>
 <div class='working'>
 
-
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$7$
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -2140,7 +2140,7 @@ $7$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$7$
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -2155,8 +2155,6 @@ Write down the mode of quantities.
 <div class='workings'>
 <div class='working'>
 
-The mode is the value that appears most frequently in a data set.
-
 $7$
 
 </div>
@@ -2171,9 +2169,7 @@ $7$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>The mode is the value that appears most frequently in a data set.
-<emptyline>
-$7$
+<pre class='language-latex'><code class='language-latex'>$7$
 </code></pre>
 </div>
 </div>
@@ -2202,11 +2198,16 @@ Work out the mean (average) of the number of chocolate coins.
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
+
+
 $
 \begin{aligned}
-\text {Mean} &= \dfrac { 6 + 7 + 7 + 8 + 9 + 11} {6} \\\\
-             &= \dfrac {48} {6} \\\\
-             &= 8
+\text {Mean}    &= \dfrac { 6 + 7 + 7 + 8 + 9 + 11} {6} \\\\
+                &= \dfrac {48} {6} \\\\
+                &= \dfrac {6 \times 8} {6} \\\\
+                &= \dfrac {\cancel 6 \times 8} {\cancel 6} \\\\
+                &= 8
 \end{aligned}
 $
 
@@ -2222,11 +2223,15 @@ $8$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_statistics_formula_mean
+<emptyline>
+$
 \begin{aligned}
-\text {Mean} &= \dfrac { 6 + 7 + 7 + 8 + 9 + 11} {6} \\\\
-             &= \dfrac {48} {6} \\\\
-             &= 8
+\text {Mean}    &= \dfrac { 6 + 7 + 7 + 8 + 9 + 11} {6} \\\\
+                &= \dfrac {48} {6} \\\\
+                &= \dfrac {6 \times 8} {6} \\\\
+                &= \dfrac {\cancel 6 \times 8} {\cancel 6} \\\\
+                &= 8
 \end{aligned}
 $
 </code></pre>
@@ -2257,11 +2262,13 @@ Work out the range of quantities in the $6$ bags.
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Range} = \text{Highest number} - \text{Lowest number}$
+
+
 $
 \begin{aligned}
-\text {Range} &= \text {Highest} - \text {Lowest} \\\\
-              &= 11 - 6 \\\\
-              &= 5
+\text {Range}   &= 11 - 6 \\\\
+                &= 5
 \end{aligned}
 $
 
@@ -2277,11 +2284,12 @@ $5$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_statistics_formula_range
+<emptyline>
+$
 \begin{aligned}
-\text {Range} &= \text {Highest} - \text {Lowest} \\\\
-              &= 11 - 6 \\\\
-              &= 5
+\text {Range}   &= 11 - 6 \\\\
+                &= 5
 \end{aligned}
 $
 </code></pre>
@@ -2304,6 +2312,46 @@ $
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='ECDD12D4-46EA-434A-BEFB-8B078113878C' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='ECDD12D4-46EA-434A-BEFB-8B078113878C' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='ECDD12D4-46EA-434A-BEFB-8B078113878C' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='ECDD12D4-46EA-434A-BEFB-8B078113878C' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='ECDD12D4-46EA-434A-BEFB-8B078113878C' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='ECDD12D4-46EA-434A-BEFB-8B078113878C' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='ECDD12D4-46EA-434A-BEFB-8B078113878C' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='ECDD12D4-46EA-434A-BEFB-8B078113878C' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='ECDD12D4-46EA-434A-BEFB-8B078113878C' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='ECDD12D4-46EA-434A-BEFB-8B078113878C' id='FORM-ECDD12D4-46EA-434A-BEFB-8B078113878C' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-ECDD12D4-46EA-434A-BEFB-8B078113878C'>Initial</p>
+</div>
 </div>
 </li>
 <li>

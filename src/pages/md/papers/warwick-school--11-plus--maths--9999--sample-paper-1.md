@@ -1,7 +1,7 @@
 ---
 slug: "papers/warwick-school-11-plus-maths-9999-sample-paper-1"
 title: "Warwick School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "28"
 ---
 <div class='paper'>
@@ -1745,10 +1745,10 @@ $
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_am_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2032,7 +2032,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>F4652DE7-C2AD-4795-819E-73CC80ABCABB</p>
 </div>
@@ -2046,7 +2046,7 @@ TODOANSWER
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2128,7 +2128,8 @@ Find the number that is exactly halfway between $6.7$ and $9.1$
 
 $
 \begin{aligned}
-&= \dfrac {6.7 + 9.1} {2} \\\\
+&= \dfrac {1} {2} \times (6.7 + 9.1)  \\\\
+&= \dfrac {1} {2} \times 15.8  \\\\
 &= \dfrac {15.8} {2} \\\\
 &= 7.9
 \end{aligned}
@@ -2148,7 +2149,8 @@ $7.9$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= \dfrac {6.7 + 9.1} {2} \\\\
+&= \dfrac {1} {2} \times (6.7 + 9.1)  \\\\
+&= \dfrac {1} {2} \times 15.8  \\\\
 &= \dfrac {15.8} {2} \\\\
 &= 7.9
 \end{aligned}
@@ -3720,10 +3722,10 @@ TODOANSWER
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_am_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4005,39 +4007,10 @@ You are given that $44460 \div 780 = 57$
 Use this result to give the answers to the questions below: 
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-%empty%
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-%empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -4049,14 +4022,21 @@ $44460 \div 57 =$
 <div class='workings'>
 <div class='working'>
 
+
+$\because 44460 \div 780 = 57 $
+
+$\therefore 780 \times 57 = 44460 $ 
+
 As per the question,
 
 $
 \begin{aligned}
-44460 \div 780              &= 57 \\\\
-\dfrac {44460} {780}        &= 57 \\\\
-44460                       &= 57 \times 780 \\\\
-\dfrac {44460} {57}          &= 780
+&= 44460 \div 57 \\\\
+&= \dfrac {44460} {57}\\\\ 
+&= \dfrac{44460 \times 780} {57 \times 780} \\\\ 
+&= \dfrac{44460 \times 780} {44460} \\\\           
+&= \dfrac{\cancel{44460} \times 780} {\cancel{44460}} \\\\  
+&= 780         
 \end{aligned}
 $
 
@@ -4072,14 +4052,21 @@ $780$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
+<pre class='language-latex'><code class='language-latex'>
+$\because 44460 \div 780 = 57 $
+<emptyline>
+$\therefore 780 \times 57 = 44460 $ 
+<emptyline>
+As per the question,
 <emptyline>
 $
 \begin{aligned}
-44460 \div 780              &= 57 \\\\
-\dfrac {44460} {780}        &= 57 \\\\
-44460                       &= 57 \times 780 \\\\
-\dfrac {44460} {57}          &= 780
+&= 44460 \div 57 \\\\
+&= \dfrac {44460} {57}\\\\ 
+&= \dfrac{44460 \times 780} {57 \times 780} \\\\ 
+&= \dfrac{44460 \times 780} {44460} \\\\           
+&= \dfrac{\cancel{44460} \times 780} {\cancel{44460}} \\\\  
+&= 780         
 \end{aligned}
 $
 </code></pre>
@@ -4114,10 +4101,8 @@ As per the question,
 
 $
 \begin{aligned}
-44460 \div 780              &= 57 \\\\
-\dfrac {44460} {780}        &= 57 \\\\
-44460                       &= 57 \times 780 \\\\
-57 \times 780               &= 44460
+&= 57 \times 780 \\\\
+&= 44460
 \end{aligned}
 $
 
@@ -4137,10 +4122,8 @@ $44460$
 <emptyline>
 $
 \begin{aligned}
-44460 \div 780              &= 57 \\\\
-\dfrac {44460} {780}        &= 57 \\\\
-44460                       &= 57 \times 780 \\\\
-57 \times 780               &= 44460
+&= 57 \times 780 \\\\
+&= 44460
 \end{aligned}
 $
 </code></pre>
@@ -4175,12 +4158,13 @@ As per the question,
 
 $
 \begin{aligned}
-44460 \div 780                                                          &= 57 \\\\
-\dfrac {44460} {780}                                                    &= 57 \\\\
-\dfrac {44460} {780} \times \dfrac {1} {10}                             &= 57 \times \dfrac {1} {10} \\\\
-\dfrac {4446\cancel {0}} {780} \times \dfrac {1} {1\cancel {0}}         &= \dfrac {57} {10} \\\\
-\dfrac {4446} {780}                                                     &= 5.7 \\\\
-\dfrac {4446} {5.7}                                                     &= 780
+&= 4446 \div 5.7 \\\\
+&= \dfrac {4446 \times 10} {5.7 \times 10}\\\\ 
+&= \dfrac {44460} {57}\\\\ 
+&= \dfrac{44460 \times 780} {57 \times 780} \\\\ 
+&= \dfrac{44460 \times 780} {44460} \\\\           
+&= \dfrac{\cancel{44460} \times 780} {\cancel{44460}} \\\\  
+&= 780  
 \end{aligned}
 $
 
@@ -4200,12 +4184,13 @@ $780$
 <emptyline>
 $
 \begin{aligned}
-44460 \div 780                                                          &= 57 \\\\
-\dfrac {44460} {780}                                                    &= 57 \\\\
-\dfrac {44460} {780} \times \dfrac {1} {10}                             &= 57 \times \dfrac {1} {10} \\\\
-\dfrac {4446\cancel {0}} {780} \times \dfrac {1} {1\cancel {0}}         &= \dfrac {57} {10} \\\\
-\dfrac {4446} {780}                                                     &= 5.7 \\\\
-\dfrac {4446} {5.7}                                                     &= 780
+&= 4446 \div 5.7 \\\\
+&= \dfrac {4446 \times 10} {5.7 \times 10}\\\\ 
+&= \dfrac {44460} {57}\\\\ 
+&= \dfrac{44460 \times 780} {57 \times 780} \\\\ 
+&= \dfrac{44460 \times 780} {44460} \\\\           
+&= \dfrac{\cancel{44460} \times 780} {\cancel{44460}} \\\\  
+&= 780  
 \end{aligned}
 $
 </code></pre>
@@ -4240,12 +4225,13 @@ As per the question,
 
 $
 \begin{aligned}
-44460 \div 780              &= 57 \\\\
-\dfrac {44460} {780}        &= 57 \\\\
-44460                       &= 57 \times 780 \\\\
-\dfrac{44460} {1000}        &= \dfrac {57} {10} \times \dfrac {780} {100} \\\\
-44.46                       &= 5.7 \times 7.8 \\\\
-5.7 \times 7.8              &= 44.46
+&= 7.8 \times 5.7 \\\\
+&= \dfrac{78}{10} \times \dfrac{57}{10} \\\\
+&= \dfrac{78 \times 57}{10 \times 10} \\\\
+&= \dfrac{78 \times 57 \times 10}{10 \times 10 \times 10} \\\\
+&= \dfrac{780 \times 57}{10 \times 10 \times 10} \\\\
+&= \dfrac{44460}{1000} \\\\
+&= 4.4460
 \end{aligned}
 $
 
@@ -4265,12 +4251,13 @@ $44.46$
 <emptyline>
 $
 \begin{aligned}
-44460 \div 780              &= 57 \\\\
-\dfrac {44460} {780}        &= 57 \\\\
-44460                       &= 57 \times 780 \\\\
-\dfrac{44460} {1000}        &= \dfrac {57} {10} \times \dfrac {780} {100} \\\\
-44.46                       &= 5.7 \times 7.8 \\\\
-5.7 \times 7.8              &= 44.46
+&= 7.8 \times 5.7 \\\\
+&= \dfrac{78}{10} \times \dfrac{57}{10} \\\\
+&= \dfrac{78 \times 57}{10 \times 10} \\\\
+&= \dfrac{78 \times 57 \times 10}{10 \times 10 \times 10} \\\\
+&= \dfrac{780 \times 57}{10 \times 10 \times 10} \\\\
+&= \dfrac{44460}{1000} \\\\
+&= 4.4460
 \end{aligned}
 $
 </code></pre>
@@ -4305,14 +4292,12 @@ As per the question,
 
 $
 \begin{aligned}
-44460 \div 780                                  &= 57 \\\\
-\dfrac {44460} {780}                            &= 57 \\\\
-44460                                           &= 57 \times 780 \\\\
-\dfrac{44460} {10}                              &= 57 \times \dfrac{780} {10} \\\\
-\dfrac{4446\cancel {0}} {1\cancel {0}}          &= 57 \times \dfrac{78\cancel {0}} {1\cancel {0}} \\\\
-4446                                            &= 57 \times 78 \\\\
-4446                                            &= 3 \times 19 \times 78 \\\\
-3 \times 19 \times 78                           &= 4446
+&= 3 \times 78 \times 19 \\\\
+&= \dfrac{3 \times 78 \times 19 \times 10}{10} \\\\
+&= \dfrac{57 \times 78 \times 10}{10} \\\\
+&= \dfrac{57 \times 780}{10} \\\\
+&= \dfrac{44460}{10} \\\\
+&= 4446
 \end{aligned}
 $
 
@@ -4332,14 +4317,12 @@ $4446$
 <emptyline>
 $
 \begin{aligned}
-44460 \div 780                                  &= 57 \\\\
-\dfrac {44460} {780}                            &= 57 \\\\
-44460                                           &= 57 \times 780 \\\\
-\dfrac{44460} {10}                              &= 57 \times \dfrac{780} {10} \\\\
-\dfrac{4446\cancel {0}} {1\cancel {0}}          &= 57 \times \dfrac{78\cancel {0}} {1\cancel {0}} \\\\
-4446                                            &= 57 \times 78 \\\\
-4446                                            &= 3 \times 19 \times 78 \\\\
-3 \times 19 \times 78                           &= 4446
+&= 3 \times 78 \times 19 \\\\
+&= \dfrac{3 \times 78 \times 19 \times 10}{10} \\\\
+&= \dfrac{57 \times 78 \times 10}{10} \\\\
+&= \dfrac{57 \times 780}{10} \\\\
+&= \dfrac{44460}{10} \\\\
+&= 4446
 \end{aligned}
 $
 </code></pre>
@@ -5384,10 +5367,10 @@ $
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_am_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -7192,10 +7175,10 @@ $
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_am_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -8079,10 +8062,10 @@ TODOANSWER
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_am_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

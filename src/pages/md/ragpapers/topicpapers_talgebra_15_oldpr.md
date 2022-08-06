@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-15-oldpr"
 title: "TopicPaper - Algebra - 15 - OLDPR"
-date: 2022-08-05 16:36:46
+date: 2022-08-06 18:21:53
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>CA18EE51-E05D-43B3-9A52-6279C6630C9D</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "4"
 <p>rag_am_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -144,7 +144,8 @@ $
 \begin {aligned}
 7 \times 9 - a  &= 25 \\\\
 63 - a          &= 25 \\\\
-a               &= 63 - 25 \\\\
+-a              &= 25 - 63 \\\\
+-a              &= -38  \\\\
 a               &= 38
 \end {aligned}
 $
@@ -167,7 +168,8 @@ $
 \begin {aligned}
 7 \times 9 - a  &= 25 \\\\
 63 - a          &= 25 \\\\
-a               &= 63 - 25 \\\\
+-a              &= 25 - 63 \\\\
+-a              &= -38  \\\\
 a               &= 38
 \end {aligned}
 $
@@ -393,7 +395,7 @@ Not solved : solve please. same like before parts.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>D6C77BFE-E594-4024-93C0-48A0970659C7</p>
 </div>
@@ -407,7 +409,7 @@ Not solved : solve please. same like before parts.
 <p>rag_am_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -525,12 +527,11 @@ $20.4 \times 100 = \boxed{\phantom{11}}$
 <div class='workings'>
 <div class='working'>
 
-Let the missing number $= a$.
 
 $
 \begin{aligned}
-20.4 \times 100  &= a \\\\
-a                &= 2040
+&= 20.4 \times 100  \\\\
+&= 2040
 \end{aligned}
 $
 
@@ -539,19 +540,18 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$20.4 \times 100 = \boxed{2040}$ 
+$2040$ 
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$.
-<emptyline>
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-20.4 \times 100  &= a \\\\
-a                &= 2040
+&= 20.4 \times 100  \\\\
+&= 2040
 \end{aligned}
 $
 </code></pre>
@@ -565,7 +565,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$20.4 \times 100 = \boxed{2040}$ 
+<pre class='language-latex'><code class='language-latex'>$2040$ 
 </code></pre>
 </div>
 </div>
@@ -597,7 +597,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\boxed{1050} \div 1000 = 1.05$
+$1050$
 
 </div>
 </div>
@@ -624,7 +624,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\boxed{1050} \div 1000 = 1.05$
+<pre class='language-latex'><code class='language-latex'>$1050$
 </code></pre>
 </div>
 </div>
@@ -683,7 +683,7 @@ refer 0A0A949A-4315-41A1-A28D-C39E8F6FC5E9 part b . but keep boxed.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>2A88B7B6-AD6F-452A-ACC1-75AD1DD3F661</p>
 </div>
@@ -697,7 +697,7 @@ refer 0A0A949A-4315-41A1-A28D-C39E8F6FC5E9 part b . but keep boxed.
 <p>rag_am_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -797,6 +797,8 @@ a                 &= 3
 \end {aligned}
 $
 
+Number Alisha thought $= 3$
+
 </div>
 </div>
 <div class='answers'>
@@ -824,6 +826,8 @@ a                 &= 7 - 4 \\\\
 a                 &= 3
 \end {aligned}
 $
+<emptyline>
+Number Alisha thought $= 3$
 </code></pre>
 </div>
 </div>
@@ -889,7 +893,7 @@ Wrong answer . refer 3ACC56E9-45C3-48B3-BD78-324451DE6879, change blue answer al
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>5160958B-A4E0-465D-AF30-2B59CDE40F74</p>
 </div>
@@ -903,7 +907,7 @@ Wrong answer . refer 3ACC56E9-45C3-48B3-BD78-324451DE6879, change blue answer al
 <p>rag_am_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -990,11 +994,13 @@ and let Autumn's number $= b$.
 
 As per the question, 
 
+$ a \times b   = 72$
+
 $a - b = a$ 
 
 which gives, $b = 2a$.
 
-Using this, we get 
+Using this in first equation, 
 
 $
 \begin {aligned}
@@ -1030,11 +1036,13 @@ and let Autumn's number $= b$.
 <emptyline>
 As per the question, 
 <emptyline>
+$ a \times b   = 72$
+<emptyline>
 $a - b = a$ 
 <emptyline>
 which gives, $b = 2a$.
 <emptyline>
-Using this, we get 
+Using this in first equation, 
 <emptyline>
 $
 \begin {aligned}

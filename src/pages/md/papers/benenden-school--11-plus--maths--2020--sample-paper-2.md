@@ -1,7 +1,7 @@
 ---
 slug: "papers/benenden-school-11-plus-maths-2020-sample-paper-2"
 title: "Benenden School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "17"
 ---
 <div class='paper'>
@@ -2846,7 +2846,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>4D18A6BC-6B72-4BC8-9F5E-5FF8608C3CB5</p>
 </div>
@@ -2857,7 +2857,7 @@ $
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2990,36 +2990,43 @@ Fill in the tally/frequency table below:
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+|       Data       |       Frequency       |
+|:----------------:|:---------------------:|
+|       $10$       |          $1$          |
+|       $11$       |          $1$          |
+|       $12$       |          $4$          |
+|       $13$       |          $9$          |
+|       $14$       |          $7$          |
+|       $15$       |          $2$          |
+|       $16$       |          $2$          |
+|       $17$       |          $1$          |
+|       $18$       |          $2$          |
+|       $20$       |          $1$          |
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+Above table
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>|       Data       |       Frequency       |
+|:----------------:|:---------------------:|
+|       $10$       |          $1$          |
+|       $11$       |          $1$          |
+|       $12$       |          $4$          |
+|       $13$       |          $9$          |
+|       $14$       |          $7$          |
+|       $15$       |          $2$          |
+|       $16$       |          $2$          |
+|       $17$       |          $1$          |
+|       $18$       |          $2$          |
+|       $20$       |          $1$          |
 </code></pre>
 </div>
 </div>
@@ -3031,17 +3038,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>Above table
 </code></pre>
 </div>
 </div>
@@ -3058,36 +3055,25 @@ What is the modal (most frequently occurring) score?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$13$
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$13$ occurs $9$ times
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$13$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$13$
+<emptyline>
+$13$ occurs $9$ times
 </code></pre>
 </div>
 </div>
@@ -3099,17 +3085,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$13$
 </code></pre>
 </div>
 </div>
@@ -3126,36 +3102,73 @@ What is the median score?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+| Data | Frequency | Cumulative Frequency |
+| :--: | :-------: | :------------------: |
+| $10$ |    $1$    |         $1$          |
+| $11$ |    $1$    |         $2$          |
+| $12$ |    $4$    |         $6$          |
+| $13$ |    $9$    |         $15$         |
+| $14$ |    $7$    |         $22$         |
+| $15$ |    $2$    |         $24$         |
+| $16$ |    $2$    |         $26$         |
+| $17$ |    $1$    |         $27$         |
+| $18$ |    $2$    |         $29$         |
+| $20$ |    $1$    |         $30$         |
+|    | Total $= 30$|                      |
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Let total}\           &= n \\\\
+\text{Median's position}\   &= \dfrac {n + 1} {2} \\\\
+                            &= \dfrac {30 + 1} {2} \\\\
+                            &= \dfrac {31} {2} \\\\
+                            &= 15.5 \\\
+\text{Median}\              &= \dfrac {15\text{th number} + 16\text{th number}} {2} \\\\
+                            &= \dfrac {13 + 14} {2} \\\\
+                            &= \dfrac {27} {2} \\\\
+                            &= 13.5
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$13.5$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>| Data | Frequency | Cumulative Frequency |
+| :--: | :-------: | :------------------: |
+| $10$ |    $1$    |         $1$          |
+| $11$ |    $1$    |         $2$          |
+| $12$ |    $4$    |         $6$          |
+| $13$ |    $9$    |         $15$         |
+| $14$ |    $7$    |         $22$         |
+| $15$ |    $2$    |         $24$         |
+| $16$ |    $2$    |         $26$         |
+| $17$ |    $1$    |         $27$         |
+| $18$ |    $2$    |         $29$         |
+| $20$ |    $1$    |         $30$         |
+|    | Total $= 30$|                      |
+<emptyline>
+$
+\begin{aligned}
+\text{Let total}\           &= n \\\\
+\text{Median's position}\   &= \dfrac {n + 1} {2} \\\\
+                            &= \dfrac {30 + 1} {2} \\\\
+                            &= \dfrac {31} {2} \\\\
+                            &= 15.5 \\\
+\text{Median}\              &= \dfrac {15\text{th number} + 16\text{th number}} {2} \\\\
+                            &= \dfrac {13 + 14} {2} \\\\
+                            &= \dfrac {27} {2} \\\\
+                            &= 13.5
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -3167,17 +3180,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$13.5$
 </code></pre>
 </div>
 </div>
@@ -3186,6 +3189,46 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4D18A6BC-6B72-4BC8-9F5E-5FF8608C3CB5' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4D18A6BC-6B72-4BC8-9F5E-5FF8608C3CB5' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4D18A6BC-6B72-4BC8-9F5E-5FF8608C3CB5' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4D18A6BC-6B72-4BC8-9F5E-5FF8608C3CB5' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4D18A6BC-6B72-4BC8-9F5E-5FF8608C3CB5' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4D18A6BC-6B72-4BC8-9F5E-5FF8608C3CB5' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4D18A6BC-6B72-4BC8-9F5E-5FF8608C3CB5' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4D18A6BC-6B72-4BC8-9F5E-5FF8608C3CB5' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4D18A6BC-6B72-4BC8-9F5E-5FF8608C3CB5' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4D18A6BC-6B72-4BC8-9F5E-5FF8608C3CB5' id='FORM-4D18A6BC-6B72-4BC8-9F5E-5FF8608C3CB5' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-4D18A6BC-6B72-4BC8-9F5E-5FF8608C3CB5'>Initial</p>
+</div>
 </div>
 </li>
 <li>

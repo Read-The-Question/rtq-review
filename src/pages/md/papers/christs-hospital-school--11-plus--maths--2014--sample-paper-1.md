@@ -1,7 +1,7 @@
 ---
 slug: "papers/christs-hospital-school-11-plus-maths-2014-sample-paper-1"
 title: "Christs Hospital School - 11 Plus - Maths - 2014 - Sample Paper 1"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "33"
 ---
 <div class='paper'>
@@ -4160,7 +4160,7 @@ tdecimal
 <p class='review_status initial' id='SUBTAG-STATUS-2FE57409-2327-4E00-9415-10426393DDD3'>Initial</p>
 <div class='question question'>
 
-Work out $2.16$ times $8$
+Work out $2.16$ times $8$.
 
 </div>
 <div class='workings'>
@@ -6656,7 +6656,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>098D65BD-6F5D-4486-B582-556F69F04455</p>
 </div>
@@ -6667,7 +6667,7 @@ $
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6753,36 +6753,47 @@ Work out the number of **girls** at Casterbridge Academy.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Using ratio,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{array}{cccccccccccccc}
+  & \text{number of boys}         &:& \text{number of girls} \\\\
+= & 5                             &:& 6 \\\\
+= & 1                             &:& \dfrac{6} {5} \\\\
+= & 200                           &:& \dfrac{6 \times 200} {5} \\\\
+= & 200                           &:& \dfrac{6 \times 5 \times 40} {5} \\\\
+= & 200                           &:& \dfrac{6 \times \cancel 5 \times 40} {\cancel 5} \\\\
+= & 200                           &:& 6 \times 40 \\\\
+= & 200                           &:& 240 \\\\
+\end{array}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$240$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Using ratio,
+<emptyline>
+$
+\begin{array}{cccccccccccccc}
+  & \text{number of boys}         &:& \text{number of girls} \\\\
+= & 5                             &:& 6 \\\\
+= & 1                             &:& \dfrac{6} {5} \\\\
+= & 200                           &:& \dfrac{6 \times 200} {5} \\\\
+= & 200                           &:& \dfrac{6 \times 5 \times 40} {5} \\\\
+= & 200                           &:& \dfrac{6 \times \cancel 5 \times 40} {\cancel 5} \\\\
+= & 200                           &:& 6 \times 40 \\\\
+= & 200                           &:& 240 \\\\
+\end{array}
+$
 </code></pre>
 </div>
 </div>
@@ -6794,22 +6805,52 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$240$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='098D65BD-6F5D-4486-B582-556F69F04455' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='098D65BD-6F5D-4486-B582-556F69F04455' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='098D65BD-6F5D-4486-B582-556F69F04455' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='098D65BD-6F5D-4486-B582-556F69F04455' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='098D65BD-6F5D-4486-B582-556F69F04455' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='098D65BD-6F5D-4486-B582-556F69F04455' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='098D65BD-6F5D-4486-B582-556F69F04455' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='098D65BD-6F5D-4486-B582-556F69F04455' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='098D65BD-6F5D-4486-B582-556F69F04455' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='098D65BD-6F5D-4486-B582-556F69F04455' id='FORM-098D65BD-6F5D-4486-B582-556F69F04455' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-098D65BD-6F5D-4486-B582-556F69F04455'>Initial</p>
+</div>
 </div>
 </li>
 <li>

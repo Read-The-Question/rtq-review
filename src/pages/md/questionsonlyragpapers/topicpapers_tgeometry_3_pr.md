@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tgeometry-3-pr"
 title: "TopicPaper - Geometry - 3 - PR"
-date: 2022-08-05 16:51:29
+date: 2022-08-06 18:37:02
 questions_count: "37"
 ---
 <ul class='question default-decimal'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/forest-school-11-plus-maths-9999-sample-paper-1"
 title: "Forest School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "39"
 ---
 <div class='paper'>
@@ -99,7 +99,7 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-EC7FC950-1EAB-48F3-B413-44019A2ADA46'>Initial</p>
 <div class='question question'>
 
-Work out $887 + 96$ 
+Work out $887 + 96$. 
 
 </div>
 <div class='workings'>
@@ -459,7 +459,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-CD319D1D-CC3E-4279-977A-DEBB6876A9AC'>Initial</p>
 <div class='question question'>
 
-Workout $876 \times 3$
+Work out $876 \times 3$.
 
 </div>
 <div class='workings'>
@@ -2388,7 +2388,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>587B8A90-626D-4702-8677-57FD78D2E7DD</p>
 </div>
@@ -2399,7 +2399,7 @@ $
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2493,7 +2493,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text {Total cost}  &= 4 \times \pounds 16 \\\\
+\text {Total cost}  &= 3 \times 16 + 16 \\\\
+                    &= 48 + 16 \\\\
                     &= \pounds 64
 \end{aligned}
 $
@@ -2514,7 +2515,8 @@ $\pounds 64$
 <emptyline>
 $
 \begin{aligned}
-\text {Total cost}  &= 4 \times \pounds 16 \\\\
+\text {Total cost}  &= 3 \times 16 + 16 \\\\
+                    &= 48 + 16 \\\\
                     &= \pounds 64
 \end{aligned}
 $
@@ -2535,6 +2537,46 @@ $
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='587B8A90-626D-4702-8677-57FD78D2E7DD' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='587B8A90-626D-4702-8677-57FD78D2E7DD' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='587B8A90-626D-4702-8677-57FD78D2E7DD' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='587B8A90-626D-4702-8677-57FD78D2E7DD' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='587B8A90-626D-4702-8677-57FD78D2E7DD' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='587B8A90-626D-4702-8677-57FD78D2E7DD' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='587B8A90-626D-4702-8677-57FD78D2E7DD' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='587B8A90-626D-4702-8677-57FD78D2E7DD' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='587B8A90-626D-4702-8677-57FD78D2E7DD' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='587B8A90-626D-4702-8677-57FD78D2E7DD' id='FORM-587B8A90-626D-4702-8677-57FD78D2E7DD' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-587B8A90-626D-4702-8677-57FD78D2E7DD'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -3204,7 +3246,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g1 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prpcr question'>
 <div class='uuid'>
 <p>2233EE67-0456-49F5-B1A4-331DDBD7F697</p>
 </div>
@@ -3218,7 +3260,7 @@ $
 <p>rag_ss_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3362,6 +3404,15 @@ The number Theo first thought of $= 32$.
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove full stop from the last line.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5174,7 +5225,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>1C0336ED-FF75-46F7-A592-23696B697EF3</p>
 </div>
@@ -5188,7 +5239,7 @@ TODOANSWER
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5374,6 +5425,15 @@ Number of sweets Amrit get $= 9 \times 1 = 9$..
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove full stop (.) from all first three and last three lines.
+</div>
 
 <div class='review'>
 <ul class='review'>

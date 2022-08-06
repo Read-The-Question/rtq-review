@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-22-pr"
 title: "TopicPaper - Number - 22 - PR"
-date: 2022-08-05 16:36:46
+date: 2022-08-06 18:21:53
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -302,7 +302,7 @@ $\pounds 90,100$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>6982B8BB-3A1E-45A3-8685-D9B153372C8D</p>
 </div>
@@ -316,7 +316,7 @@ $\pounds 90,100$
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

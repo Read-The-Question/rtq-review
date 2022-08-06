@@ -1,7 +1,7 @@
 ---
 slug: "papers/kings-college-school-11-plus-maths-2014-specimen-paper-e"
 title: "Kings College School - 11 Plus - Maths - 2014 - Specimen Paper E"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "16"
 ---
 <div class='paper'>

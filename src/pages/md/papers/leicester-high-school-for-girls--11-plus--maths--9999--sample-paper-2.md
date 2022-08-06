@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-2"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "20"
 ---
 <div class='paper'>
@@ -637,7 +637,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>847ECFA2-1EEA-49D7-9918-8A8651C83F4C</p>
 </div>
@@ -648,7 +648,7 @@ $
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -826,9 +826,11 @@ How many metres does she buy?
 
 $
 \begin{aligned}
-\text {She buys} &= \dfrac {17} {4.25} \\\\
-                        &= \dfrac {4 \times \cancel {4.25}} {\cancel {4.25}} \\\\
-                        &= 4 \text{metres}
+\text{She buys}         &= \dfrac {17} {4.25} \\\\
+                        &= \dfrac {17 \times 100} {425} \\\\
+                        &= \dfrac {17 \times 25 \times 4} {25 \times 17} \\\\
+                        &= \dfrac {\cancel {17} \times \cancel {25} \times 4} {\cancel {25} \times \cancel {17}} \\\\
+                        &= 4 \ \text{metres}
 \end{aligned}
 $
 
@@ -837,7 +839,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$4 \text{metres}$
+$4 \ \text{metres}$
 
 </div>
 </div>
@@ -846,9 +848,11 @@ $4 \text{metres}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {She buys} &= \dfrac {17} {4.25} \\\\
-                        &= \dfrac {4 \times \cancel {4.25}} {\cancel {4.25}} \\\\
-                        &= 4 \text{metres}
+\text{She buys}         &= \dfrac {17} {4.25} \\\\
+                        &= \dfrac {17 \times 100} {425} \\\\
+                        &= \dfrac {17 \times 25 \times 4} {25 \times 17} \\\\
+                        &= \dfrac {\cancel {17} \times \cancel {25} \times 4} {\cancel {25} \times \cancel {17}} \\\\
+                        &= 4 \ \text{metres}
 \end{aligned}
 $
 </code></pre>
@@ -862,7 +866,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$4 \text{metres}$
+<pre class='language-latex'><code class='language-latex'>$4 \ \text{metres}$
 </code></pre>
 </div>
 </div>
@@ -870,7 +874,52 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+\text {She buys}
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='847ECFA2-1EEA-49D7-9918-8A8651C83F4C' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='847ECFA2-1EEA-49D7-9918-8A8651C83F4C' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='847ECFA2-1EEA-49D7-9918-8A8651C83F4C' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='847ECFA2-1EEA-49D7-9918-8A8651C83F4C' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='847ECFA2-1EEA-49D7-9918-8A8651C83F4C' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='847ECFA2-1EEA-49D7-9918-8A8651C83F4C' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='847ECFA2-1EEA-49D7-9918-8A8651C83F4C' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='847ECFA2-1EEA-49D7-9918-8A8651C83F4C' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='847ECFA2-1EEA-49D7-9918-8A8651C83F4C' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='847ECFA2-1EEA-49D7-9918-8A8651C83F4C' id='FORM-847ECFA2-1EEA-49D7-9918-8A8651C83F4C' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-847ECFA2-1EEA-49D7-9918-8A8651C83F4C'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -4912,7 +4961,7 @@ Mode $= 9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>2D772BAD-6C2A-4EF1-8CE1-848D6AD5038E</p>
 </div>
@@ -4926,7 +4975,7 @@ Mode $= 9$
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5207,6 +5256,17 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) put an extra \' at the end of below line
+
+&= \pounds 80
+</div>
 
 <div class='review'>
 <ul class='review'>

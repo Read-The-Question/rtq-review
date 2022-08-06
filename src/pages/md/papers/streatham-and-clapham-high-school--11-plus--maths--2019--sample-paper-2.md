@@ -1,7 +1,7 @@
 ---
 slug: "papers/streatham-and-clapham-high-school-11-plus-maths-2019-sample-paper-2"
 title: "Streatham And Clapham High School - 11 Plus - Maths - 2019 - Sample Paper 2"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "43"
 ---
 <div class='paper'>
@@ -5707,7 +5707,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>1C378342-8093-4F4F-9EBA-AF890BAF5C56</p>
 </div>
@@ -5718,7 +5718,7 @@ $
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5806,79 +5806,112 @@ What did Jane score in her seventh test?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
+
+
+Let Jane's score in her seventh test $= a$
 
 $
 \begin{aligned}
-\text{Since, mean of jane's mathematics test score is} &=89\% \\\\
-\text{Let the sum of the 6 mathematics mean test score be} \ \ 89\%+89\%+89\%+89\%+89\%+89\% =534\% \\\\
-\text{We need the mean of the all} \ \ 7 \ \text{mathematics test scores to be} \ \ 90\% \\\\
-\text{Let sum of  all seven test scores to be} \ \ 90\%  &= 7 \times 90 \\\\\
-&= 630 \\\\
-\text{if , 'a' s the score of} \ 7  \text{th mathematics test then, a} &= 630-534  \\\\
-&= 96 \\\\
-\text{Now, mean of all} \ 7 \ \text{mathematics test scores of jane} \\\\
-\dfrac{ 89\%+89\%+89\%+89\%+89\%+89\%+90\%}{7} \\\\
-&= \dfrac{630}{7} \\\\
-&= \dfrac{90 \times 7}{7} \\\\
-&= \dfrac{90 \times  \cancel 7}{\cancel 7} \\\\
-&= 90\% \\\\
-\text{So, jane must have scored} \  96\%  \ \text{in her} \ 7 \text{th test}
+\text{Mean}\    &= \dfrac {\text{Sum of scores}} {\text{Number of tests}} \\\\
+90              &= \dfrac {6 \times 89 + a} {7} \\\\
+534 + a         &= 630 \\\\
+a               &= 630 - 534 \\\\
+a               &= 96 \\\\
 \end{aligned}
 $
+
+Jane's score in her seventh test $= 96\%$
 
 </div>
 </div>
 <div class='answers'>
-<div class='option'>
-<p>C</p>
-</div>
 <div class='answer'>
 
-$90\%$
+$96\%$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_statistics_formula_mean
+<emptyline>
+Let Jane's score in her seventh test $= a$
 <emptyline>
 $
 \begin{aligned}
-\text{Since, mean of jane's mathematics test score is} &=89\% \\\\
-\text{Let the sum of the 6 mathematics mean test score be} \ \ 89\%+89\%+89\%+89\%+89\%+89\% =534\% \\\\
-\text{We need the mean of the all} \ \ 7 \ \text{mathematics test scores to be} \ \ 90\% \\\\
-\text{Let sum of  all seven test scores to be} \ \ 90\%  &= 7 \times 90 \\\\\
-&= 630 \\\\
-\text{if , 'a' s the score of} \ 7  \text{th mathematics test then, a} &= 630-534  \\\\
-&= 96 \\\\
-\text{Now, mean of all} \ 7 \ \text{mathematics test scores of jane} \\\\
-\dfrac{ 89\%+89\%+89\%+89\%+89\%+89\%+90\%}{7} \\\\
-&= \dfrac{630}{7} \\\\
-&= \dfrac{90 \times 7}{7} \\\\
-&= \dfrac{90 \times  \cancel 7}{\cancel 7} \\\\
-&= 90\% \\\\
-\text{So, jane must have scored} \  96\%  \ \text{in her} \ 7 \text{th test}
+\text{Mean}\    &= \dfrac {\text{Sum of scores}} {\text{Number of tests}} \\\\
+90              &= \dfrac {6 \times 89 + a} {7} \\\\
+534 + a         &= 630 \\\\
+a               &= 630 - 534 \\\\
+a               &= 96 \\\\
 \end{aligned}
 $
+<emptyline>
+Jane's score in her seventh test $= 96\%$
 </code></pre>
 </div>
 </div>
 <div class='answers'>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>C</code></pre>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$90\%$
+<pre class='language-latex'><code class='language-latex'>$96\%$
 </code></pre>
 </div>
 </div>
 
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+tstatistics
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='1C378342-8093-4F4F-9EBA-AF890BAF5C56' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='1C378342-8093-4F4F-9EBA-AF890BAF5C56' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='1C378342-8093-4F4F-9EBA-AF890BAF5C56' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='1C378342-8093-4F4F-9EBA-AF890BAF5C56' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='1C378342-8093-4F4F-9EBA-AF890BAF5C56' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='1C378342-8093-4F4F-9EBA-AF890BAF5C56' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='1C378342-8093-4F4F-9EBA-AF890BAF5C56' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='1C378342-8093-4F4F-9EBA-AF890BAF5C56' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='1C378342-8093-4F4F-9EBA-AF890BAF5C56' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='1C378342-8093-4F4F-9EBA-AF890BAF5C56' id='FORM-1C378342-8093-4F4F-9EBA-AF890BAF5C56' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-1C378342-8093-4F4F-9EBA-AF890BAF5C56'>Initial</p>
+</div>
 </div>
 </li>
 </ul>
@@ -8708,7 +8741,7 @@ Perimeter of the shape remain same after removing tile $5$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>51FA34A0-EEA9-468D-9DD3-11BB4CBBF4D0</p>
 </div>
@@ -8722,7 +8755,7 @@ Perimeter of the shape remain same after removing tile $5$.
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>

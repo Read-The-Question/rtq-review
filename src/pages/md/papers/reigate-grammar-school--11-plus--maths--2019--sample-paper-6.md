@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2019-sample-paper-6"
 title: "Reigate Grammar School - 11 Plus - Maths - 2019 - Sample Paper 6"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "36"
 ---
 <div class='paper'>
@@ -3976,7 +3976,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>59CD1770-B31D-4823-A24A-82752DF02513</p>
 </div>
@@ -3990,7 +3990,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4128,6 +4128,15 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove \"be\" and write \"Let the number I thought of\"
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4172,7 +4181,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>33464044-5134-47C2-94C6-385CC7C0394E</p>
 </div>
@@ -4186,7 +4195,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4579,6 +4588,41 @@ The missing number is $= 45$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part b) Steps missing!!
+
+182 ÷ a = 14
+
+add the following steps
+
+182 x 1/a = 14 
+
+182/a = 14
+
+182 = 14 x a
+
+182/14 = a  (till here)
+
+a = 182/14
+
+
+
+Part c) add the missing steps
+
+12 - a = 8
+
+-a = 8 - 12
+
+-a = -4
+
+a = 4
+</div>
 
 <div class='review'>
 <ul class='review'>

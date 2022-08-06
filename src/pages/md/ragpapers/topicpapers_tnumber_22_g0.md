@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-22-g0"
 title: "TopicPaper - Number - 22 - G0"
-date: 2022-08-05 16:36:46
+date: 2022-08-06 18:21:53
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
@@ -102,6 +102,7 @@ Let the missing number $= a$
 $
 \begin{aligned}
 a \div 8       &= 1.05 \ \text{cm} \\\\
+\dfrac {a} {8} &= 1.05 \ \text{cm} \\\\
 a              &= 1.05 \times 8 \\\\
 a              &= 8.40 \ \text{cm}
 \end{aligned}
@@ -126,6 +127,7 @@ $8.40 \ \text{cm}$
 $
 \begin{aligned}
 a \div 8       &= 1.05 \ \text{cm} \\\\
+\dfrac {a} {8} &= 1.05 \ \text{cm} \\\\
 a              &= 1.05 \times 8 \\\\
 a              &= 8.40 \ \text{cm}
 \end{aligned}
@@ -814,39 +816,10 @@ tnumber
 **Rounding**
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-%empty%
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-%empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -855,39 +828,10 @@ tnumber
 Write the missing numbers in the sentences below.
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-%empty%
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-%empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
 <ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
@@ -899,7 +843,7 @@ Write the missing numbers in the sentences below.
 <div class='workings'>
 <div class='working'>
 
-$2700$
+$\approx 2700$
 
 </div>
 </div>
@@ -913,7 +857,7 @@ $2700$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$2700$
+<pre class='language-latex'><code class='language-latex'>$\approx 2700$
 </code></pre>
 </div>
 </div>
@@ -942,7 +886,7 @@ $2700$
 <div class='workings'>
 <div class='working'>
 
-$3000$
+$\approx 3000$
 
 </div>
 </div>
@@ -956,7 +900,7 @@ $3000$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$3000$
+<pre class='language-latex'><code class='language-latex'>$\approx 3000$
 </code></pre>
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/epsom-college-11-plus-maths-9999-sample-paper-1"
 title: "Epsom College - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "15"
 ---
 <div class='paper'>
@@ -99,7 +99,7 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-8182E8DE-7321-4258-BC0F-F59648F967F6'>Initial</p>
 <div class='question question'>
 
-Work out $5842 + 351$ 
+Work out $5842 + 351$. 
 
 </div>
 <div class='workings'>
@@ -459,7 +459,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-DE07B6AC-5AFC-4D12-8EA1-711FCC1302CD'>Initial</p>
 <div class='question question'>
 
-Work out $221 \times 8$ 
+Work out $221 \times 8$. 
 
 </div>
 <div class='workings'>

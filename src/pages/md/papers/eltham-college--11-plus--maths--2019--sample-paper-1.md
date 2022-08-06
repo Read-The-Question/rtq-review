@@ -1,7 +1,7 @@
 ---
 slug: "papers/eltham-college-11-plus-maths-2019-sample-paper-1"
 title: "Eltham College - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "23"
 ---
 <div class='paper'>
@@ -297,7 +297,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-B5B3F19E-4AC9-4F08-A95B-BB1D4A4B3FA4'>Initial</p>
 <div class='question question'>
 
-What is the answer to $0.2 \times 0.03$
+What is the answer to $0.2 \times 0.03 \ ?$
 
 - $6$
 - $0.600$
@@ -1286,7 +1286,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-E44863F0-1211-418A-BC0A-D814CB3A5121'>Initial</p>
 <div class='question question'>
 
-Calculate $836 \times 45$
+Calculate $836 \times 45$.
 
 -  $37620$
 -  $37520$
@@ -2422,7 +2422,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>FB46428B-2F3D-4896-AB84-0165582FAD90</p>
 </div>
@@ -2433,7 +2433,7 @@ $
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2525,9 +2525,9 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Cost of 15 pens}                                 &= \pounds 4.65 \\\\
-\text{Cost of 1 pen}                                   &= 4.65 \div 15 \\\\
-\text{Cost of 19 pens}                                 &= (4.65 \div 15) \times 19
+\text{Cost of 15 pens}      &= \pounds 4.65 \\\\
+\text{Cost of 1 pen}        &= 4.65 \div 15 \\\\
+\text{Cost of 19 pens}      &= (4.65 \div 15) \times 19
 \end{aligned}
 $
 
@@ -2535,7 +2535,7 @@ $
 </div>
 <div class='answers'>
 <div class='option'>
-<p>c</p>
+<p>C</p>
 </div>
 <div class='answer'>
 
@@ -2550,9 +2550,9 @@ $(4.65 \div 15) \times 19$
 <emptyline>
 $
 \begin{aligned}
-\text{Cost of 15 pens}                                 &= \pounds 4.65 \\\\
-\text{Cost of 1 pen}                                   &= 4.65 \div 15 \\\\
-\text{Cost of 19 pens}                                 &= (4.65 \div 15) \times 19
+\text{Cost of 15 pens}      &= \pounds 4.65 \\\\
+\text{Cost of 1 pen}        &= 4.65 \div 15 \\\\
+\text{Cost of 19 pens}      &= (4.65 \div 15) \times 19
 \end{aligned}
 $
 </code></pre>
@@ -2560,7 +2560,7 @@ $
 </div>
 <div class='answers'>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>c</code></pre>
+<pre class='language-latex'><code class='language-latex'>C</code></pre>
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
@@ -2572,10 +2572,50 @@ $
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FB46428B-2F3D-4896-AB84-0165582FAD90' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FB46428B-2F3D-4896-AB84-0165582FAD90' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FB46428B-2F3D-4896-AB84-0165582FAD90' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FB46428B-2F3D-4896-AB84-0165582FAD90' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FB46428B-2F3D-4896-AB84-0165582FAD90' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FB46428B-2F3D-4896-AB84-0165582FAD90' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FB46428B-2F3D-4896-AB84-0165582FAD90' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FB46428B-2F3D-4896-AB84-0165582FAD90' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FB46428B-2F3D-4896-AB84-0165582FAD90' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FB46428B-2F3D-4896-AB84-0165582FAD90' id='FORM-FB46428B-2F3D-4896-AB84-0165582FAD90' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-FB46428B-2F3D-4896-AB84-0165582FAD90'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g1 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prpcr question'>
 <div class='uuid'>
 <p>07071090-243A-4C15-B778-53C51DA63E26</p>
 </div>
@@ -2589,7 +2629,7 @@ $
 <p>rag_ss_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2741,6 +2781,15 @@ The number I was thinking of $= 5$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Last line \"was\" to \"is\".
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3000,7 +3049,7 @@ The worth of triangle $= 1$ point
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g1 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prpcr question'>
 <div class='uuid'>
 <p>BD373007-66C1-4E42-B2DD-8E077A7F99DB</p>
 </div>
@@ -3014,7 +3063,7 @@ The worth of triangle $= 1$ point
 <p>rag_ss_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3167,6 +3216,19 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove first line.
+
+As per the question ==> As per the diagram
+
+No. of Black tiles ==> No. of grey tiles
+</div>
 
 <div class='review'>
 <ul class='review'>

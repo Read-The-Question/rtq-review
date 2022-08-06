@@ -1,7 +1,7 @@
 ---
 slug: "papers/trinity-school-croydon-11-plus-maths-9999-sample-paper-1"
 title: "Trinity School Croydon - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "28"
 ---
 <div class='paper'>
@@ -974,10 +974,10 @@ $10.47$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_am_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1359,10 +1359,10 @@ $
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_am_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1906,10 +1906,10 @@ $
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_am_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2054,10 +2054,10 @@ $
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_am_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3070,20 +3070,15 @@ Add together $3.7\, metres$ and $64\, cm$ and then subtract $2\, metres$ $7\,cm$
 <div class='working'>
 
 ABBR: It is really important to use the right units in calculations and convert where required.
-
-The measurement is given in meters and centimeteres but the answer has to be in meters.
-
-$1 \ \text{m} = 100 \ \text{cm}$
-
-$\dfrac {1} {100} \ \text{m} = 1 \ \text{cm}$
+.
 
 $
 \begin{aligned}
-&= 3.7 \ \text{m} + 64 \ \text{cm} - (2 \ \text {m} + 7 \ \text{cm}) \\\\
-&= 3.7 \ \text{m} + \dfrac {64} {100} \ \text{m} - (2 \ \text{m} + \dfrac {7} {100} \ \text{m}) \\\\
-&= 3.7 \ \text{m} + 0.64 \ \text{m}  -  (2 \ \text{m} + 0.07 \ \text{m}) \\\\
-&= 4.34 \ \text{m} - 2.07 \ \text{m} \\\\
-&= 2.27 \ \text {m}
+&= 3.7 \ \text{meters} + 64 \ \text{cm} - (2 \ \text {meters} + 7 \ \text{cm}) \\\\
+&= 3.7 \ \text{meters} + \dfrac {64} {100} \ \text{meters} - (2 \ \text{meters} + \dfrac {7} {100} \ \text{meters}) \\\\
+&= 3.7 \ \text{meters} + 0.64 \ \text{meters}  -  (2 \ \text{meters} + 0.07 \ \text{meters}) \\\\
+&= 4.34 \ \text{meters} - 2.07 \ \text{meters} \\\\
+&= 2.27 \ \text {meters}
 \end{aligned}
 $
 
@@ -3092,27 +3087,22 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2.27 \ \text{m}$
+$2.27 \ \text{meters}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-The measurement is given in meters and centimeteres but the answer has to be in meters.
-<emptyline>
-$1 \ \text{m} = 100 \ \text{cm}$
-<emptyline>
-$\dfrac {1} {100} \ \text{m} = 1 \ \text{cm}$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note.
 <emptyline>
 $
 \begin{aligned}
-&= 3.7 \ \text{m} + 64 \ \text{cm} - (2 \ \text {m} + 7 \ \text{cm}) \\\\
-&= 3.7 \ \text{m} + \dfrac {64} {100} \ \text{m} - (2 \ \text{m} + \dfrac {7} {100} \ \text{m}) \\\\
-&= 3.7 \ \text{m} + 0.64 \ \text{m}  -  (2 \ \text{m} + 0.07 \ \text{m}) \\\\
-&= 4.34 \ \text{m} - 2.07 \ \text{m} \\\\
-&= 2.27 \ \text {m}
+&= 3.7 \ \text{meters} + 64 \ \text{cm} - (2 \ \text {meters} + 7 \ \text{cm}) \\\\
+&= 3.7 \ \text{meters} + \dfrac {64} {100} \ \text{meters} - (2 \ \text{meters} + \dfrac {7} {100} \ \text{meters}) \\\\
+&= 3.7 \ \text{meters} + 0.64 \ \text{meters}  -  (2 \ \text{meters} + 0.07 \ \text{meters}) \\\\
+&= 4.34 \ \text{meters} - 2.07 \ \text{meters} \\\\
+&= 2.27 \ \text {meters}
 \end{aligned}
 $
 </code></pre>
@@ -3126,7 +3116,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$2.27 \ \text{m}$
+<pre class='language-latex'><code class='language-latex'>$2.27 \ \text{meters}$
 </code></pre>
 </div>
 </div>
@@ -3183,10 +3173,10 @@ $
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_am_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4185,39 +4175,10 @@ This calculation is correct: $1467 \times 76 = 111492$
 Use this result to answer these questions:
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-%empty%
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-%empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -4290,10 +4251,14 @@ $1114.92 \div 76$
 
 $
 \begin{aligned}
-1467 \times 76 &= 111492 \\\\
-\dfrac {1467} {100} \times 76 &= \dfrac {111492} {100} \\\\
-14.67 \times 76 &= 1114.92 \\\\
-1114.92 \div 76 &= 14.67
+&= 1114.92 \div 76 \\\\
+&= \dfrac {1114.92}{76} \\\\
+&= \dfrac{1114.92 \times 100}{76 \times 100} \\\\
+&= \dfrac{111492} {76 \times 100} \\\\
+&= \dfrac{1467 \times 76}{76 \times 100} \\\\
+&= \dfrac{1467 \times \cancel{76}} {\cancel{76} \times 100} \\\\
+&= \dfrac{1467} {100} \\\\
+&= 14.67 
 \end{aligned}
 $
 
@@ -4311,10 +4276,14 @@ $14.67$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-1467 \times 76 &= 111492 \\\\
-\dfrac {1467} {100} \times 76 &= \dfrac {111492} {100} \\\\
-14.67 \times 76 &= 1114.92 \\\\
-1114.92 \div 76 &= 14.67
+&= 1114.92 \div 76 \\\\
+&= \dfrac {1114.92}{76} \\\\
+&= \dfrac{1114.92 \times 100}{76 \times 100} \\\\
+&= \dfrac{111492} {76 \times 100} \\\\
+&= \dfrac{1467 \times 76}{76 \times 100} \\\\
+&= \dfrac{1467 \times \cancel{76}} {\cancel{76} \times 100} \\\\
+&= \dfrac{1467} {100} \\\\
+&= 14.67 
 \end{aligned}
 $
 </code></pre>
@@ -4346,12 +4315,14 @@ $111492 \div 0.76$
 <div class='working'>
 
 $
-\begin{aligned}
-1467 \times 76 &= 111492 \\\\
-1467 \times \dfrac {76} {100} \times 100 &= {111492} \\\\
-146700 \times 0.76 &= 111492 \\\\
-111492 \div 0.76 &= 146700
-\end{aligned}
+&= 111492 \div 0.76 \\\\
+&= \dfrac {111492}{0.76} \\\\
+&= \dfrac{111492 \times 100}{0.76 \times 100} \\\\
+&= \dfrac{11149200} {76 } \\\\
+&= \dfrac{1467 \times 76 \times 100}{76 } \\\\
+&= \dfrac{1467 \times \cancel{76} \times 100} {\cancel{76}} \\\\
+&= 1467 \times 100 \\\\
+&= 146700 
 $
 
 </div>
@@ -4367,12 +4338,14 @@ $146700$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-1467 \times 76 &= 111492 \\\\
-1467 \times \dfrac {76} {100} \times 100 &= {111492} \\\\
-146700 \times 0.76 &= 111492 \\\\
-111492 \div 0.76 &= 146700
-\end{aligned}
+&= 111492 \div 0.76 \\\\
+&= \dfrac {111492}{0.76} \\\\
+&= \dfrac{111492 \times 100}{0.76 \times 100} \\\\
+&= \dfrac{11149200} {76 } \\\\
+&= \dfrac{1467 \times 76 \times 100}{76 } \\\\
+&= \dfrac{1467 \times \cancel{76} \times 100} {\cancel{76}} \\\\
+&= 1467 \times 100 \\\\
+&= 146700 
 $
 </code></pre>
 </div>
@@ -6185,10 +6158,10 @@ $
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_am_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -6573,39 +6546,10 @@ In mathematics,    $3!$ is a quick way of writing $3 \times 2 \times 1$
 $4!$ is a quick way of writing $4 \times 3 \times 2 \times 1$ and so on.
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-%empty%
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-%empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -6619,7 +6563,8 @@ $5!$ is a quick way of writing what?
 
 $
 \begin{aligned}
-5! &= 5 \times 4 \times 3 \times 2 \times 1
+&= 5! 
+&= 5 \times 4 \times 3 \times 2 \times 1
 \end{aligned}
 $
 
@@ -6637,7 +6582,8 @@ $5 \times 4 \times 3 \times 2 \times 1$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-5! &= 5 \times 4 \times 3 \times 2 \times 1
+&= 5! 
+&= 5 \times 4 \times 3 \times 2 \times 1
 \end{aligned}
 $
 </code></pre>
@@ -6665,39 +6611,10 @@ $
 Calculate the value of:
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-%empty%
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-%empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
 <ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>

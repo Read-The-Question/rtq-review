@@ -1,7 +1,7 @@
 ---
 slug: "papers/whitgift-school-11-plus-maths-9999-sample-paper-1"
 title: "Whitgift School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "33"
 ---
 <div class='paper'>
@@ -101,8 +101,14 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-EBBA8025-CCA0-4B2E-A205-D28C0E59A011'>Initial</p>
 <div class='question question'>
 
-$192  
-+888$
+$
+\begin{array}{cccccccccccccc}
+    &   1   &   9   &   2 \\
+{}+ &   8   &   8   &   8 \\
+\hline\\
+\hline
+\end{array}
+$
 
 </div>
 <div class='workings'>
@@ -1444,7 +1450,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>C1973D01-029D-4F22-8DE1-F3678679D1B4</p>
 </div>
@@ -1458,7 +1464,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1884,39 +1890,10 @@ tnumber
 %empty% 
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-%empty%
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-%empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -1930,9 +1907,9 @@ Express $51\, km$ in metres
 
 $
 \begin{aligned}
-1 \ \text{km} &= 1000 \ \text{m} \\\\
-1 \times 51 \ \text{km} &= 1000 \times 51 \ \text{m} \\\\
-51 \ \text{km} &= 51000 \ \text{m}
+&= 51 \ \text{meters} \\\\
+&= 51 \ \times 1000 \ \text{meters} \\\\
+&= 51 000 \ \text{meters} \\\\
 \end{aligned}
 $
 
@@ -1941,7 +1918,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$51000 \ \text{m}$
+$51000 \ \text{meters}$
 
 </div>
 </div>
@@ -1950,9 +1927,9 @@ $51000 \ \text{m}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-1 \ \text{km} &= 1000 \ \text{m} \\\\
-1 \times 51 \ \text{km} &= 1000 \times 51 \ \text{m} \\\\
-51 \ \text{km} &= 51000 \ \text{m}
+&= 51 \ \text{meters} \\\\
+&= 51 \ \times 1000 \ \text{meters} \\\\
+&= 51 000 \ \text{meters} \\\\
 \end{aligned}
 $
 </code></pre>
@@ -1966,7 +1943,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$51000 \ \text{m}$
+<pre class='language-latex'><code class='language-latex'>$51000 \ \text{meters}$
 </code></pre>
 </div>
 </div>
@@ -1985,10 +1962,11 @@ Express $510\,cm$ in metres
 
 $
 \begin{aligned}
-1 \ \text{cm} &= \dfrac{1}{100} \ \text{m} \\\\
-1 \times 510 \ \text{cm} &= \dfrac{1}{100} \times 510 \ \text{m} \\\\
-510 \ \text{cm} &= \dfrac{510}{100} \ \text{m} \\\\
-510 \ \text{cm} &= 5.10 \ \text{m}
+&= 510 \ \text{cm} \\\\
+&= \dfrac{510}{100} \ \text{meters} \\\\
+&= \dfrac{51 \cancel{0}}{10 \cancel{0}}  \\\\
+&= \dfrac{51}{10}  \\\\
+&= 5.1 meters
 \end{aligned}
 $
 
@@ -1997,7 +1975,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$5.1 \ \text{m}$
+$5.1 \ \text{meters}$
 
 </div>
 </div>
@@ -2006,10 +1984,11 @@ $5.1 \ \text{m}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-1 \ \text{cm} &= \dfrac{1}{100} \ \text{m} \\\\
-1 \times 510 \ \text{cm} &= \dfrac{1}{100} \times 510 \ \text{m} \\\\
-510 \ \text{cm} &= \dfrac{510}{100} \ \text{m} \\\\
-510 \ \text{cm} &= 5.10 \ \text{m}
+&= 510 \ \text{cm} \\\\
+&= \dfrac{510}{100} \ \text{meters} \\\\
+&= \dfrac{51 \cancel{0}}{10 \cancel{0}}  \\\\
+&= \dfrac{51}{10}  \\\\
+&= 5.1 meters
 \end{aligned}
 $
 </code></pre>
@@ -2023,7 +2002,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$5.1 \ \text{m}$
+<pre class='language-latex'><code class='language-latex'>$5.1 \ \text{meters}$
 </code></pre>
 </div>
 </div>
@@ -3375,10 +3354,10 @@ TODOANSWER
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_am_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4309,8 +4288,14 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-3D3DA408-8186-4C87-A0D1-474EF05DE36F'>Initial</p>
 <div class='question question'>
 
-$1177 
-+6823$
+$
+\begin{array}{cccccccccccccc}
+    &   1   &   1   &   7   &   7 \\
+{}+ &   6   &   8   &   2   &   3 \\
+\hline\\
+\hline
+\end{array}
+$
 
 </div>
 <div class='workings'>
@@ -4602,10 +4587,10 @@ $
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_am_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4889,6 +4874,7 @@ Let the missing number $= a$
 $
 \begin{aligned}
 a \div 8       &= 1.05 \ \text{cm} \\\\
+\dfrac {a} {8} &= 1.05 \ \text{cm} \\\\
 a              &= 1.05 \times 8 \\\\
 a              &= 8.40 \ \text{cm}
 \end{aligned}
@@ -4913,6 +4899,7 @@ $8.40 \ \text{cm}$
 $
 \begin{aligned}
 a \div 8       &= 1.05 \ \text{cm} \\\\
+\dfrac {a} {8} &= 1.05 \ \text{cm} \\\\
 a              &= 1.05 \times 8 \\\\
 a              &= 8.40 \ \text{cm}
 \end{aligned}
@@ -5621,10 +5608,10 @@ $
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_am_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5925,7 +5912,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>6982B8BB-3A1E-45A3-8685-D9B153372C8D</p>
 </div>
@@ -5939,7 +5926,7 @@ TODOANSWER
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

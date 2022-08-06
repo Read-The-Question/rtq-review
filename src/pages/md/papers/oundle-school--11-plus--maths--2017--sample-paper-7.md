@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2017-sample-paper-7"
 title: "Oundle School - 11 Plus - Maths - 2017 - Sample Paper 7"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "11"
 ---
 <div class='paper'>
@@ -969,7 +969,7 @@ add first statement with of and run in katex.org (\cancel problem)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F2F22AA6-D55F-4788-A3CE-CE3F27F8216D</p>
 </div>
@@ -983,7 +983,7 @@ add first statement with of and run in katex.org (\cancel problem)
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1104,7 +1104,7 @@ $abc$
 $
 \begin{aligned}
 &= abc \\\\
-&= 11 \times -3 \times -6 \\\\
+&= 11 \times (-3) \times (-6) \\\\
 &= 198
 \end{aligned}
 $
@@ -1124,7 +1124,7 @@ $198$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= abc \\\\
-&= 11 \times -3 \times -6 \\\\
+&= 11 \times (-3) \times (-6) \\\\
 &= 198
 \end{aligned}
 $
@@ -1159,7 +1159,7 @@ $bc^2$
 $
 \begin{aligned}
 &= bc^2 \\\\
-&= -3 \times -6 \times -6 \\\\
+&= (-3) \times (-6) \times (-6) \\\\
 &= -108
 \end{aligned}
 $
@@ -1179,7 +1179,7 @@ $-108$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= bc^2 \\\\
-&= -3 \times -6 \times -6 \\\\
+&= (-3) \times (-6) \times (-6) \\\\
 &= -108
 \end{aligned}
 $
@@ -1214,9 +1214,9 @@ $3a - 2b - 4c$
 $
 \begin{aligned}
 &= 3a - 2b - 4c \\\\
-&= 3 \times 11 - 2 \times -3 - 4 \times -6 \\\\
+&= 3 \times 11 - (2 \times -3) - (4 \times -6) \\\\
 &= 33 + 6 + 24 \\\\
-&= -108
+&= 63
 \end{aligned}
 $
 
@@ -1225,7 +1225,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$-108$
+$63$
 
 </div>
 </div>
@@ -1235,9 +1235,9 @@ $-108$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 3a - 2b - 4c \\\\
-&= 3 \times 11 - 2 \times -3 - 4 \times -6 \\\\
+&= 3 \times 11 - (2 \times -3) - (4 \times -6) \\\\
 &= 33 + 6 + 24 \\\\
-&= -108
+&= 63
 \end{aligned}
 $
 </code></pre>
@@ -1251,7 +1251,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$-108$
+<pre class='language-latex'><code class='language-latex'>$63$
 </code></pre>
 </div>
 </div>
@@ -1467,7 +1467,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4BCDEBB4-C5C3-44DB-A1DD-D9936C5BD615</p>
 </div>
@@ -1481,7 +1481,7 @@ TODOANSWER
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

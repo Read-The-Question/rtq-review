@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-b"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper B"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "19"
 ---
 <div class='paper'>
@@ -3326,7 +3326,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E4DC389C-1771-4673-AE1F-DC5A515EFDDF</p>
 </div>
@@ -3337,7 +3337,7 @@ TODOANSWER
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3420,16 +3420,15 @@ prime number written on them, giving your answer as a decimal.
 <div class='workings'>
 <div class='working'>
 
-Prime numbers between $1$ to $20$ $= $8$
+Prime numbers between $1$ to $20$ $= 8$
 
-Total numbers $= $20
 $
 \begin{aligned}
 \text {Proportion of all the cards that have a prime number} &= \dfrac {\text {Prime numbers}} {\text {Total numbers}} \\\\
                                                              &= \dfrac {8} {20} \\\\
                                                              &= \dfrac {8 \times 5} {20 \times 5} \\\\
                                                              &= \dfrac {40} {100} \\\\
-                                                             &= 0 {.} 4
+                                                             &= 0.4
 \end{aligned}
 $
 
@@ -3438,23 +3437,22 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {2} {5}$
+$0.4$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Prime numbers between $1$ to $20$ $= $8$
+<pre class='language-latex'><code class='language-latex'>Prime numbers between $1$ to $20$ $= 8$
 <emptyline>
-Total numbers $= $20
 $
 \begin{aligned}
 \text {Proportion of all the cards that have a prime number} &= \dfrac {\text {Prime numbers}} {\text {Total numbers}} \\\\
                                                              &= \dfrac {8} {20} \\\\
                                                              &= \dfrac {8 \times 5} {20 \times 5} \\\\
                                                              &= \dfrac {40} {100} \\\\
-                                                             &= 0 {.} 4
+                                                             &= 0.4
 \end{aligned}
 $
 </code></pre>
@@ -3468,12 +3466,52 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac {2} {5}$
+<pre class='language-latex'><code class='language-latex'>$0.4$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E4DC389C-1771-4673-AE1F-DC5A515EFDDF' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E4DC389C-1771-4673-AE1F-DC5A515EFDDF' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E4DC389C-1771-4673-AE1F-DC5A515EFDDF' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E4DC389C-1771-4673-AE1F-DC5A515EFDDF' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E4DC389C-1771-4673-AE1F-DC5A515EFDDF' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E4DC389C-1771-4673-AE1F-DC5A515EFDDF' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E4DC389C-1771-4673-AE1F-DC5A515EFDDF' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E4DC389C-1771-4673-AE1F-DC5A515EFDDF' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E4DC389C-1771-4673-AE1F-DC5A515EFDDF' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E4DC389C-1771-4673-AE1F-DC5A515EFDDF' id='FORM-E4DC389C-1771-4673-AE1F-DC5A515EFDDF' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E4DC389C-1771-4673-AE1F-DC5A515EFDDF'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -4300,7 +4338,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>B7C4AE95-752D-4854-B5BC-345B25E83FA1</p>
 </div>
@@ -4311,7 +4349,7 @@ TODOANSWER
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4476,10 +4514,13 @@ Work out the range of marks that Darshan scores.
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Range} = \text{Highest number} - \text{Lowest number}$
+
+
 $
 \begin{aligned}
-&= 9 - 4 \\\\
-&= 5
+\text{Range}    &= 9 - 4 \\\\
+                &= 5
 \end{aligned}
 $
 
@@ -4495,10 +4536,12 @@ $5$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_statistics_formula_range
+<emptyline>
+$
 \begin{aligned}
-&= 9 - 4 \\\\
-&= 5
+\text{Range}    &= 9 - 4 \\\\
+                &= 5
 \end{aligned}
 $
 </code></pre>
@@ -4529,9 +4572,12 @@ Calculate the mean average score that he achieved in these five tests.
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
+
+
 $
 \begin{aligned}
-\text{mean} &= \dfrac {9 + 6 + 8 + 4 + 8} {5} \\\\
+\text{Mean} &= \dfrac {9 + 6 + 8 + 4 + 8} {5} \\\\
             &= \dfrac {35} {5} \\\\\
             &= 7 
 \end{aligned}
@@ -4549,9 +4595,11 @@ $7$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_statistics_formula_mean
+<emptyline>
+$
 \begin{aligned}
-\text{mean} &= \dfrac {9 + 6 + 8 + 4 + 8} {5} \\\\
+\text{Mean} &= \dfrac {9 + 6 + 8 + 4 + 8} {5} \\\\
             &= \dfrac {35} {5} \\\\\
             &= 7 
 \end{aligned}
@@ -4589,6 +4637,7 @@ Let the marks in French $=a$,
 
 $
 \begin{aligned}
+\text{Mean}         &= 6.5 \\\\
 \dfrac {35 + a} {6} &= 6.5 \\\\
 35 + a              &= 6.5 \times 6 \\\\
 35 + a              &= 39 \\\\
@@ -4613,6 +4662,7 @@ $4$
 <emptyline>
 $
 \begin{aligned}
+\text{Mean}         &= 6.5 \\\\
 \dfrac {35 + a} {6} &= 6.5 \\\\
 35 + a              &= 6.5 \times 6 \\\\
 35 + a              &= 39 \\\\
@@ -4650,10 +4700,13 @@ The pass mark for each test is $50\%$. Write down what fraction of Darshan's six
 
 $
 \begin{aligned}
-&= \dfrac {4} {6} \\\\
-&= \dfrac {2 \times 2} {3 \times 2} \\\\
-&= \dfrac {2 \times \cancel {2} } {3 \times \cancel {2} } \\\\
-&= \dfrac {2} {3}
+\text{Total Subjects}\  &= 6 \\\\
+\text{Passed subjects}\ &= 4 \\\\
+\text{Fraction}\        &= \dfrac {\text{Total Subjects}} {\text{Passed subjects}} \\\\
+                        &= \dfrac {4} {6} \\\\
+                        &= \dfrac {2 \times 2} {3 \times 2} \\\\
+                        &= \dfrac {2 \times \cancel {2} } {3 \times \cancel {2} } \\\\
+                        &= \dfrac {2} {3}
 \end{aligned}
 $
 
@@ -4671,10 +4724,13 @@ $\dfrac {2} {3}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= \dfrac {4} {6} \\\\
-&= \dfrac {2 \times 2} {3 \times 2} \\\\
-&= \dfrac {2 \times \cancel {2} } {3 \times \cancel {2} } \\\\
-&= \dfrac {2} {3}
+\text{Total Subjects}\  &= 6 \\\\
+\text{Passed subjects}\ &= 4 \\\\
+\text{Fraction}\        &= \dfrac {\text{Total Subjects}} {\text{Passed subjects}} \\\\
+                        &= \dfrac {4} {6} \\\\
+                        &= \dfrac {2 \times 2} {3 \times 2} \\\\
+                        &= \dfrac {2 \times \cancel {2} } {3 \times \cancel {2} } \\\\
+                        &= \dfrac {2} {3}
 \end{aligned}
 $
 </code></pre>
@@ -4709,10 +4765,19 @@ Work out what his percentage improvement is in this subject.
 
 $
 \begin{aligned}
-&= \dfrac {15 - 8} {20} \times 100\\\\
-&= \dfrac {7 \times 100} {20} \\\\
-&= \dfrac 7 \times 5 \\\\
-&= 35\%
+\text{Midterm's percentage marks}   &= \dfrac {4} {10} \times 100 \\\\
+                                    &= \dfrac {4 \times 100} {10} \\\\
+                                    &= \dfrac {4 \times 10\cancel0} {1\cancel0} \\\\
+                                    &= 4 \times 10 \% \\\\
+                                    &= 40 \% \\\\
+\text{Endterm's percentage marks}   &= \dfrac {15} {20} \times 100 \\\\
+                                    &= \dfrac {15 \times 100} {20} \\\\
+                                    &= \dfrac {15 \times 5 \times 20} {20} \\\\
+                                    &= \dfrac {15 \times 5 \times \cancel {20}} {\cancel {20}} \\\\
+                                    &= 15 \times 5 \% \\\\
+                                    &= 75 \% \\\\
+\text{Percentage improvement}\      &= 75 \% - 40 \% \\\\
+                                    &= 35\% \\\\
 \end{aligned}
 $
 
@@ -4730,10 +4795,19 @@ $35\%$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= \dfrac {15 - 8} {20} \times 100\\\\
-&= \dfrac {7 \times 100} {20} \\\\
-&= \dfrac 7 \times 5 \\\\
-&= 35\%
+\text{Midterm's percentage marks}   &= \dfrac {4} {10} \times 100 \\\\
+                                    &= \dfrac {4 \times 100} {10} \\\\
+                                    &= \dfrac {4 \times 10\cancel0} {1\cancel0} \\\\
+                                    &= 4 \times 10 \% \\\\
+                                    &= 40 \% \\\\
+\text{Endterm's percentage marks}   &= \dfrac {15} {20} \times 100 \\\\
+                                    &= \dfrac {15 \times 100} {20} \\\\
+                                    &= \dfrac {15 \times 5 \times 20} {20} \\\\
+                                    &= \dfrac {15 \times 5 \times \cancel {20}} {\cancel {20}} \\\\
+                                    &= 15 \times 5 \% \\\\
+                                    &= 75 \% \\\\
+\text{Percentage improvement}\      &= 75 \% - 40 \% \\\\
+                                    &= 35\% \\\\
 \end{aligned}
 $
 </code></pre>
@@ -4756,6 +4830,46 @@ $
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B7C4AE95-752D-4854-B5BC-345B25E83FA1' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B7C4AE95-752D-4854-B5BC-345B25E83FA1' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B7C4AE95-752D-4854-B5BC-345B25E83FA1' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B7C4AE95-752D-4854-B5BC-345B25E83FA1' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B7C4AE95-752D-4854-B5BC-345B25E83FA1' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B7C4AE95-752D-4854-B5BC-345B25E83FA1' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B7C4AE95-752D-4854-B5BC-345B25E83FA1' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B7C4AE95-752D-4854-B5BC-345B25E83FA1' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B7C4AE95-752D-4854-B5BC-345B25E83FA1' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B7C4AE95-752D-4854-B5BC-345B25E83FA1' id='FORM-B7C4AE95-752D-4854-B5BC-345B25E83FA1' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B7C4AE95-752D-4854-B5BC-345B25E83FA1'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -4972,7 +5086,7 @@ So, 20 minutes before 11 o'clock $= 10 {:} 40$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>4F22D97E-ED89-4DB2-87A9-57AD98895FC6</p>
 </div>
@@ -4983,7 +5097,7 @@ So, 20 minutes before 11 o'clock $= 10 {:} 40$
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5104,15 +5218,19 @@ Work out how long it would take for $2$ chimps to eat $6$ bananas.
 <div class='workings'>
 <div class='working'>
 
+Using ratio,
+
 $
-\begin{aligned}
-\text{Time taken to eat one banana} &= \dfrac {4} {3} \\\\
-\text{Tike taken to eat 6 bananas}  &= \dfrac {4 \times 6} {3} \\\\
-                                    &= \dfrac {4 \times 3 \times 2} {3} \\\\
-                                    &= \dfrac {4 \times \cancel {3} \times 2} {\cancel {3}} \\\\
-                                    &= 4 \times 2 \\\\
-                                    &= 8 \ \text{minutes}
-\end{aligned}
+\begin{array}{cccccccccccccc}
+  & \text{number of bananas}                    &:& \text{time taken to eat bananas} \\\\
+= & 3                                           &:& 4 \ \text{min} \\\\
+= & 1                                           &:& \dfrac {4} {3} \\\\
+= & 6                                           &:& \dfrac {4 \times 6} {3} \\\\
+= & 6                                           &:& \dfrac {4 \times 3 \times 2} {3} \\\\
+= & 6                                           &:& \dfrac {4 \times \cancel 3 \times 2} {\cancel 3} \\\\
+= & 6                                           &:& 4 \times 2 \\\\
+= & 6                                           &:& 8 \ \text{min} \\\\
+\end{array}
 $
 
 </div>
@@ -5127,15 +5245,19 @@ $8 \ \text{minutes}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-\text{Time taken to eat one banana} &= \dfrac {4} {3} \\\\
-\text{Tike taken to eat 6 bananas}  &= \dfrac {4 \times 6} {3} \\\\
-                                    &= \dfrac {4 \times 3 \times 2} {3} \\\\
-                                    &= \dfrac {4 \times \cancel {3} \times 2} {\cancel {3}} \\\\
-                                    &= 4 \times 2 \\\\
-                                    &= 8 \ \text{minutes}
-\end{aligned}
+<pre class='language-latex'><code class='language-latex'>Using ratio,
+<emptyline>
+$
+\begin{array}{cccccccccccccc}
+  & \text{number of bananas}                    &:& \text{time taken to eat bananas} \\\\
+= & 3                                           &:& 4 \ \text{min} \\\\
+= & 1                                           &:& \dfrac {4} {3} \\\\
+= & 6                                           &:& \dfrac {4 \times 6} {3} \\\\
+= & 6                                           &:& \dfrac {4 \times 3 \times 2} {3} \\\\
+= & 6                                           &:& \dfrac {4 \times \cancel 3 \times 2} {\cancel 3} \\\\
+= & 6                                           &:& 4 \times 2 \\\\
+= & 6                                           &:& 8 \ \text{min} \\\\
+\end{array}
 $
 </code></pre>
 </div>
@@ -5171,8 +5293,8 @@ $
 \text{The same monkey will eat 6 bananas in 8 minutes} \\\\
 \text{Which means 1 monkey will eat 3 bananas in 8 minutes} \\\\
 &= \dfrac {2 \times 21} {6} \\\\
-&= \dfrac {2 \time 7 \times 3} {3 \times 2} \\\\
-&= \dfrac {\cancel{2} \time 7 \times \cancel{3}} {\cancel{3} \times \cancel{2}} \\\\
+&= \dfrac {2 \times 7 \times 3} {3 \times 2} \\\\
+&= \dfrac {\cancel{2} \times 7 \times \cancel{3}} {\cancel{3} \times \cancel{2}} \\\\
 &= 7
 \text{Hence, we need 7 monkey to eat 21 bananas in 8 minutes}
 \end{aligned}
@@ -5195,8 +5317,8 @@ $7$
 \text{The same monkey will eat 6 bananas in 8 minutes} \\\\
 \text{Which means 1 monkey will eat 3 bananas in 8 minutes} \\\\
 &= \dfrac {2 \times 21} {6} \\\\
-&= \dfrac {2 \time 7 \times 3} {3 \times 2} \\\\
-&= \dfrac {\cancel{2} \time 7 \times \cancel{3}} {\cancel{3} \times \cancel{2}} \\\\
+&= \dfrac {2 \times 7 \times 3} {3 \times 2} \\\\
+&= \dfrac {\cancel{2} \times 7 \times \cancel{3}} {\cancel{3} \times \cancel{2}} \\\\
 &= 7
 \text{Hence, we need 7 monkey to eat 21 bananas in 8 minutes}
 \end{aligned}

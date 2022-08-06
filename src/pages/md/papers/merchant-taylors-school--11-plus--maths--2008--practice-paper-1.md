@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-2008-practice-paper-1"
 title: "Merchant Taylors School - 11 Plus - Maths - 2008 - Practice Paper 1"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "31"
 ---
 <div class='paper'>
@@ -6134,7 +6134,7 @@ Width $=12 \ \text{ cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>2BE1B352-38EE-45ED-B07A-12B3ABD5532C</p>
 </div>
@@ -6148,7 +6148,7 @@ Width $=12 \ \text{ cm}$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6385,6 +6385,35 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) Steps Missing!!!
+
+= 15 ÷ 3 − 1
+
+= 15 / 3 - 1     (Add this line)
+
+= 3 x 5 / 3 - 1  (Add this line)
+
+cancel 3 both on numerator and denominator.
+
+then solve further...
+
+
+
+Part b) Steps Missing!!!
+
+a ÷ 3 = 9
+
+a/3 = 9  (add this line)
+
+a = 9 x 3
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -8652,7 +8681,7 @@ $1537$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>BBE270EF-15EC-41F1-AD97-74A89350E667</p>
 </div>
@@ -8666,7 +8695,7 @@ $1537$
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8865,6 +8894,27 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+We dont use substitute method to solve equations.
+
+
+
+Reference: A7879165-EAE0-4869-9FB1-0CA2600DB446
+
+
+
+Check the working of part a) of reference question
+
+and solve accordingly.
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tratio-1"
 title: "TopicPaper - Ratio - 1"
-date: 2022-08-05 16:36:46
+date: 2022-08-06 18:21:53
 questions_count: "40"
 ---
 <div class='paper'>
@@ -5724,7 +5724,7 @@ $
   & \text{duration}                    &:& \text{price} \\\\
 = & 1 \ \text{month}                   &:& \pounds 16 \\\\
 = & 12                                 &:& 16 \times 12 \\\\
-= & 12 \ \text{months}                  &:& \pounds 192 \\\\
+= & 12 \ \text{months}                 &:& \pounds 192 \\\\
 \end{array}
 $
 
@@ -5757,7 +5757,7 @@ $
   & \text{duration}                    &:& \text{price} \\\\
 = & 1 \ \text{month}                   &:& \pounds 16 \\\\
 = & 12                                 &:& 16 \times 12 \\\\
-= & 12 \ \text{months}                  &:& \pounds 192 \\\\
+= & 12 \ \text{months}                 &:& \pounds 192 \\\\
 \end{array}
 $
 </code></pre>
@@ -5830,7 +5830,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E4DC389C-1771-4673-AE1F-DC5A515EFDDF</p>
 </div>
@@ -5841,7 +5841,7 @@ $
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5924,16 +5924,15 @@ prime number written on them, giving your answer as a decimal.
 <div class='workings'>
 <div class='working'>
 
-Prime numbers between $1$ to $20$ $= $8$
+Prime numbers between $1$ to $20$ $= 8$
 
-Total numbers $= $20
 $
 \begin{aligned}
 \text {Proportion of all the cards that have a prime number} &= \dfrac {\text {Prime numbers}} {\text {Total numbers}} \\\\
                                                              &= \dfrac {8} {20} \\\\
                                                              &= \dfrac {8 \times 5} {20 \times 5} \\\\
                                                              &= \dfrac {40} {100} \\\\
-                                                             &= 0 {.} 4
+                                                             &= 0.4
 \end{aligned}
 $
 
@@ -5942,23 +5941,22 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {2} {5}$
+$0.4$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Prime numbers between $1$ to $20$ $= $8$
+<pre class='language-latex'><code class='language-latex'>Prime numbers between $1$ to $20$ $= 8$
 <emptyline>
-Total numbers $= $20
 $
 \begin{aligned}
 \text {Proportion of all the cards that have a prime number} &= \dfrac {\text {Prime numbers}} {\text {Total numbers}} \\\\
                                                              &= \dfrac {8} {20} \\\\
                                                              &= \dfrac {8 \times 5} {20 \times 5} \\\\
                                                              &= \dfrac {40} {100} \\\\
-                                                             &= 0 {.} 4
+                                                             &= 0.4
 \end{aligned}
 $
 </code></pre>
@@ -5972,16 +5970,56 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac {2} {5}$
+<pre class='language-latex'><code class='language-latex'>$0.4$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E4DC389C-1771-4673-AE1F-DC5A515EFDDF' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E4DC389C-1771-4673-AE1F-DC5A515EFDDF' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E4DC389C-1771-4673-AE1F-DC5A515EFDDF' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E4DC389C-1771-4673-AE1F-DC5A515EFDDF' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E4DC389C-1771-4673-AE1F-DC5A515EFDDF' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E4DC389C-1771-4673-AE1F-DC5A515EFDDF' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E4DC389C-1771-4673-AE1F-DC5A515EFDDF' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E4DC389C-1771-4673-AE1F-DC5A515EFDDF' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E4DC389C-1771-4673-AE1F-DC5A515EFDDF' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E4DC389C-1771-4673-AE1F-DC5A515EFDDF' id='FORM-E4DC389C-1771-4673-AE1F-DC5A515EFDDF' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E4DC389C-1771-4673-AE1F-DC5A515EFDDF'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>4F22D97E-ED89-4DB2-87A9-57AD98895FC6</p>
 </div>
@@ -5992,7 +6030,7 @@ $
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6113,15 +6151,19 @@ Work out how long it would take for $2$ chimps to eat $6$ bananas.
 <div class='workings'>
 <div class='working'>
 
+Using ratio,
+
 $
-\begin{aligned}
-\text{Time taken to eat one banana} &= \dfrac {4} {3} \\\\
-\text{Tike taken to eat 6 bananas}  &= \dfrac {4 \times 6} {3} \\\\
-                                    &= \dfrac {4 \times 3 \times 2} {3} \\\\
-                                    &= \dfrac {4 \times \cancel {3} \times 2} {\cancel {3}} \\\\
-                                    &= 4 \times 2 \\\\
-                                    &= 8 \ \text{minutes}
-\end{aligned}
+\begin{array}{cccccccccccccc}
+  & \text{number of bananas}                    &:& \text{time taken to eat bananas} \\\\
+= & 3                                           &:& 4 \ \text{min} \\\\
+= & 1                                           &:& \dfrac {4} {3} \\\\
+= & 6                                           &:& \dfrac {4 \times 6} {3} \\\\
+= & 6                                           &:& \dfrac {4 \times 3 \times 2} {3} \\\\
+= & 6                                           &:& \dfrac {4 \times \cancel 3 \times 2} {\cancel 3} \\\\
+= & 6                                           &:& 4 \times 2 \\\\
+= & 6                                           &:& 8 \ \text{min} \\\\
+\end{array}
 $
 
 </div>
@@ -6136,15 +6178,19 @@ $8 \ \text{minutes}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-\text{Time taken to eat one banana} &= \dfrac {4} {3} \\\\
-\text{Tike taken to eat 6 bananas}  &= \dfrac {4 \times 6} {3} \\\\
-                                    &= \dfrac {4 \times 3 \times 2} {3} \\\\
-                                    &= \dfrac {4 \times \cancel {3} \times 2} {\cancel {3}} \\\\
-                                    &= 4 \times 2 \\\\
-                                    &= 8 \ \text{minutes}
-\end{aligned}
+<pre class='language-latex'><code class='language-latex'>Using ratio,
+<emptyline>
+$
+\begin{array}{cccccccccccccc}
+  & \text{number of bananas}                    &:& \text{time taken to eat bananas} \\\\
+= & 3                                           &:& 4 \ \text{min} \\\\
+= & 1                                           &:& \dfrac {4} {3} \\\\
+= & 6                                           &:& \dfrac {4 \times 6} {3} \\\\
+= & 6                                           &:& \dfrac {4 \times 3 \times 2} {3} \\\\
+= & 6                                           &:& \dfrac {4 \times \cancel 3 \times 2} {\cancel 3} \\\\
+= & 6                                           &:& 4 \times 2 \\\\
+= & 6                                           &:& 8 \ \text{min} \\\\
+\end{array}
 $
 </code></pre>
 </div>
@@ -6180,8 +6226,8 @@ $
 \text{The same monkey will eat 6 bananas in 8 minutes} \\\\
 \text{Which means 1 monkey will eat 3 bananas in 8 minutes} \\\\
 &= \dfrac {2 \times 21} {6} \\\\
-&= \dfrac {2 \time 7 \times 3} {3 \times 2} \\\\
-&= \dfrac {\cancel{2} \time 7 \times \cancel{3}} {\cancel{3} \times \cancel{2}} \\\\
+&= \dfrac {2 \times 7 \times 3} {3 \times 2} \\\\
+&= \dfrac {\cancel{2} \times 7 \times \cancel{3}} {\cancel{3} \times \cancel{2}} \\\\
 &= 7
 \text{Hence, we need 7 monkey to eat 21 bananas in 8 minutes}
 \end{aligned}
@@ -6204,8 +6250,8 @@ $7$
 \text{The same monkey will eat 6 bananas in 8 minutes} \\\\
 \text{Which means 1 monkey will eat 3 bananas in 8 minutes} \\\\
 &= \dfrac {2 \times 21} {6} \\\\
-&= \dfrac {2 \time 7 \times 3} {3 \times 2} \\\\
-&= \dfrac {\cancel{2} \time 7 \times \cancel{3}} {\cancel{3} \times \cancel{2}} \\\\
+&= \dfrac {2 \times 7 \times 3} {3 \times 2} \\\\
+&= \dfrac {\cancel{2} \times 7 \times \cancel{3}} {\cancel{3} \times \cancel{2}} \\\\
 &= 7
 \text{Hence, we need 7 monkey to eat 21 bananas in 8 minutes}
 \end{aligned}
@@ -6233,7 +6279,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E78B9B72-6C11-4058-8FF8-DD057053DE50</p>
 </div>
@@ -6244,7 +6290,7 @@ $
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6327,27 +6373,26 @@ Work out how long the plasters would last if the medical centre were having to t
 
 $
 \begin{aligned}
-12 \ \text {cut/day}                                                  &: 30 \ \text{days} \\\\
-12 \times \dfrac {1} {12} \ \text {cut/day}                           &: 30 \times \dfrac {1} {12} \ \text {days} \\\\
-\cancel {12} \times \dfrac {1} {\cancel {12}} \ \text {cut/day}       &: 30 \times \dfrac {1} {12} \ \text {days} \\\\
-1 \ \text {cut/day}                                                   &: 30 \times \dfrac {1} {12} \ \text {days} \\\\
-1 \times 20 \ \text {cut/day}                                         &: 30 \times \dfrac {1} {12} \times 20 \ \text {days} \\\\
-20 \ \text {cut/day}                                                  &: \dfrac {30 \times 1 \times 20} {12} \ \text {days} \\\\
-20 \ \text {cut/day}                                                  &: \dfrac {10 \times 3 \times 4 \times 5} {3 \times 4} \ \text {days} \\\\
-20 \ \text {cut/day}                                                  &: \dfrac {10 \times \cancel {3} \times \cancel {4} \times 5} {\cancel {3} \times \cancel {4}} \ \text {days} \\\\
-20 \ \text {cut/day}                                                  &: 10 \times 5 \ \text {days} \\\\
-20 \ \text {cut/day}                                                  &: 50 \ \text {days}
+\text{Total plasters}     &= 12 \times 30 \\\\
+                          &= 360
 \end{aligned}
 $
 
-So, the number of days plaster would last if we patch 20 cut knees per day $= 50$ 
+$
+\begin{aligned}
+\text{Number of days plaster would last}      &= \dfrac {360} {20} \\\\
+                                              &= \dfrac {20 \times 18} {20} \\\\
+                                              &= \dfrac {\cancel {20} \times 18} {\cancel {20}} \\\\
+                                              &= 18
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$50 \ \text{days}$
+$18 \ \text{days}$
 
 </div>
 </div>
@@ -6356,20 +6401,19 @@ $50 \ \text{days}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-12 \ \text {cut/day}                                                  &: 30 \ \text{days} \\\\
-12 \times \dfrac {1} {12} \ \text {cut/day}                           &: 30 \times \dfrac {1} {12} \ \text {days} \\\\
-\cancel {12} \times \dfrac {1} {\cancel {12}} \ \text {cut/day}       &: 30 \times \dfrac {1} {12} \ \text {days} \\\\
-1 \ \text {cut/day}                                                   &: 30 \times \dfrac {1} {12} \ \text {days} \\\\
-1 \times 20 \ \text {cut/day}                                         &: 30 \times \dfrac {1} {12} \times 20 \ \text {days} \\\\
-20 \ \text {cut/day}                                                  &: \dfrac {30 \times 1 \times 20} {12} \ \text {days} \\\\
-20 \ \text {cut/day}                                                  &: \dfrac {10 \times 3 \times 4 \times 5} {3 \times 4} \ \text {days} \\\\
-20 \ \text {cut/day}                                                  &: \dfrac {10 \times \cancel {3} \times \cancel {4} \times 5} {\cancel {3} \times \cancel {4}} \ \text {days} \\\\
-20 \ \text {cut/day}                                                  &: 10 \times 5 \ \text {days} \\\\
-20 \ \text {cut/day}                                                  &: 50 \ \text {days}
+\text{Total plasters}     &= 12 \times 30 \\\\
+                          &= 360
 \end{aligned}
 $
 <emptyline>
-So, the number of days plaster would last if we patch 20 cut knees per day $= 50$ 
+$
+\begin{aligned}
+\text{Number of days plaster would last}      &= \dfrac {360} {20} \\\\
+                                              &= \dfrac {20 \times 18} {20} \\\\
+                                              &= \dfrac {\cancel {20} \times 18} {\cancel {20}} \\\\
+                                              &= 18
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -6381,16 +6425,56 @@ So, the number of days plaster would last if we patch 20 cut knees per day $= 50
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$50 \ \text{days}$
+<pre class='language-latex'><code class='language-latex'>$18 \ \text{days}$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' id='FORM-E78B9B72-6C11-4058-8FF8-DD057053DE50' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E78B9B72-6C11-4058-8FF8-DD057053DE50'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>67B0DECD-26D8-4193-BC8B-E1164C7E3A96</p>
 </div>
@@ -6401,7 +6485,7 @@ So, the number of days plaster would last if we patch 20 cut knees per day $= 50
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6542,7 +6626,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>CDBA63EF-70C2-4F7A-98A7-153A900959CB</p>
 </div>
@@ -6553,7 +6637,7 @@ TODOANSWER
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6699,36 +6783,31 @@ How much will it cost to buy $10 \ \text{metres}$?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Cost of 10 m curtain material}      &= 10 \times 10.2 \\\\
+                                          &= \pounds 102
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\pounds 102$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Cost of 10 m curtain material}      &= 10 \times 10.2 \\\\
+                                          &= \pounds 102
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -6740,17 +6819,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\pounds 102$
 </code></pre>
 </div>
 </div>
@@ -6768,36 +6837,41 @@ How many metres does he buy?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Length of curtain material bought}      &= \dfrac {25.5} {10.2} \\\\
+                                              &= \dfrac {255 \times 10} {102 \times 10} \\\\
+                                              &= \dfrac {5 \times 51 \times 2 \times 5} {2 \times 51 \times 10} \\\\
+                                              &= \dfrac {5 \times \cancel {51} \times \cancel 2 \times 5} {\cancel 2 \times \cancel {51} \times 10} \\\\
+                                              &= \dfrac {5 \times 5} {10} \\\\
+                                              &= \dfrac {25} {10} \\\\
+                                              &= 2.5 \ \text{m}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$2.5 \ \text{m}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Length of curtain material bought}      &= \dfrac {25.5} {10.2} \\\\
+                                              &= \dfrac {255 \times 10} {102 \times 10} \\\\
+                                              &= \dfrac {5 \times 51 \times 2 \times 5} {2 \times 51 \times 10} \\\\
+                                              &= \dfrac {5 \times \cancel {51} \times \cancel 2 \times 5} {\cancel 2 \times \cancel {51} \times 10} \\\\
+                                              &= \dfrac {5 \times 5} {10} \\\\
+                                              &= \dfrac {25} {10} \\\\
+                                              &= 2.5 \ \text{m}
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -6809,17 +6883,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$2.5 \ \text{m}$
 </code></pre>
 </div>
 </div>
@@ -6828,6 +6892,46 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='CDBA63EF-70C2-4F7A-98A7-153A900959CB' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='CDBA63EF-70C2-4F7A-98A7-153A900959CB' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='CDBA63EF-70C2-4F7A-98A7-153A900959CB' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='CDBA63EF-70C2-4F7A-98A7-153A900959CB' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='CDBA63EF-70C2-4F7A-98A7-153A900959CB' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='CDBA63EF-70C2-4F7A-98A7-153A900959CB' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='CDBA63EF-70C2-4F7A-98A7-153A900959CB' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='CDBA63EF-70C2-4F7A-98A7-153A900959CB' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='CDBA63EF-70C2-4F7A-98A7-153A900959CB' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='CDBA63EF-70C2-4F7A-98A7-153A900959CB' id='FORM-CDBA63EF-70C2-4F7A-98A7-153A900959CB' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-CDBA63EF-70C2-4F7A-98A7-153A900959CB'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -7056,7 +7160,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>86C26B56-435E-4C7D-A434-75EA2A3565D0</p>
 </div>
@@ -7067,7 +7171,7 @@ $
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7211,7 +7315,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>CB65FC73-DF41-475D-8FB9-CAF0848A6185</p>
 </div>
@@ -7222,7 +7326,7 @@ TODOANSWER
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7305,36 +7409,77 @@ What do $1$ apple and $1$ orange weigh?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the weight of $1$ apple $= a \ \text{ounces}$
 
-</div>
-<div class='working'>
+Let the weight of $1$ orange $= b \ \text{ounces}$
 
-TODOWORKING
+As per the question,
+
+$
+\begin{aligned}
+4b + 7a           &= 51 \\\\
+7b + 4a           &= 48
+\end{aligned}
+$
+
+Let's add both the equations.
+
+$
+\begin{aligned}
+4b + 7a + 7b + 4a           &= 51 + 48 \\\\
+7a + 4a + 4b + 7b           &= 99 \\\\
+11a + 11b                   &= 99 \\\\
+11 \times ( a + b )         &= 99 \\\\
+a + b                       &= \dfrac {99} {11} \\\\
+a + b                       &= \dfrac {11 \times 9} {11} \\\\
+a + b                       &= \dfrac {\cancel {11} \times 9} {\cancel {11}} \\\\
+a + b                       &= 9
+\end{aligned}
+$
+
+Weight of $1$ apple and $1$ orange $= 9 \ \text{ounces}$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$9 \ \text{ounces}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the weight of $1$ apple $= a \ \text{ounces}$
+<emptyline>
+Let the weight of $1$ orange $= b \ \text{ounces}$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin{aligned}
+4b + 7a           &= 51 \\\\
+7b + 4a           &= 48
+\end{aligned}
+$
+<emptyline>
+Let's add both the equations.
+<emptyline>
+$
+\begin{aligned}
+4b + 7a + 7b + 4a           &= 51 + 48 \\\\
+7a + 4a + 4b + 7b           &= 99 \\\\
+11a + 11b                   &= 99 \\\\
+11 \times ( a + b )         &= 99 \\\\
+a + b                       &= \dfrac {99} {11} \\\\
+a + b                       &= \dfrac {11 \times 9} {11} \\\\
+a + b                       &= \dfrac {\cancel {11} \times 9} {\cancel {11}} \\\\
+a + b                       &= 9
+\end{aligned}
+$
+<emptyline>
+Weight of $1$ apple and $1$ orange $= 9 \ \text{ounces}$.
 </code></pre>
 </div>
 </div>
@@ -7346,26 +7491,56 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$9 \ \text{ounces}$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='CB65FC73-DF41-475D-8FB9-CAF0848A6185' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='CB65FC73-DF41-475D-8FB9-CAF0848A6185' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='CB65FC73-DF41-475D-8FB9-CAF0848A6185' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='CB65FC73-DF41-475D-8FB9-CAF0848A6185' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='CB65FC73-DF41-475D-8FB9-CAF0848A6185' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='CB65FC73-DF41-475D-8FB9-CAF0848A6185' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='CB65FC73-DF41-475D-8FB9-CAF0848A6185' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='CB65FC73-DF41-475D-8FB9-CAF0848A6185' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='CB65FC73-DF41-475D-8FB9-CAF0848A6185' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='CB65FC73-DF41-475D-8FB9-CAF0848A6185' id='FORM-CB65FC73-DF41-475D-8FB9-CAF0848A6185' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-CB65FC73-DF41-475D-8FB9-CAF0848A6185'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>EDB7A048-730B-4BF1-BE48-CA82E058CC84</p>
 </div>
@@ -7376,7 +7551,7 @@ TODOANSWER
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7518,7 +7693,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>AD6895B3-4E61-4AAF-9E1F-1987110B5F92</p>
 </div>
@@ -7529,7 +7704,7 @@ TODOANSWER
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7618,67 +7793,113 @@ There were $15$ cartons of pineapple juice taken. How many cartons of orange jui
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Using ratio,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{array}{cccccccccccccc}
+  & \text{percentage}          &:& \text{cartons} \\\\
+= & 11                         &:& 15 \\\\
+= & 1                          &:& \dfrac {15} {11} \\\\
+= & (100 - 13 - 11 - 28 - 15)  &:& \dfrac {15 \times (100 - 13 - 11 - 28 - 15)} {11} \\\\
+= & 33                         &:& \dfrac {15 \times 33} {11} \\\\
+= & 33                         &:& \dfrac {15 \times 3 \times 11} {11} \\\\
+= & 33                         &:& \dfrac {15 \times 3 \times \cancel {11}} {\cancel {11}} \\\\
+= & 33                         &:& 15 \times 3 \\\\
+= & 33                         &:& 45
+\end{array}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
+<div class='option'>
+<p>C</p>
 </div>
 <div class='answer'>
 
-TODOANSWER
+$45$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Using ratio,
+<emptyline>
+$
+\begin{array}{cccccccccccccc}
+  & \text{percentage}          &:& \text{cartons} \\\\
+= & 11                         &:& 15 \\\\
+= & 1                          &:& \dfrac {15} {11} \\\\
+= & (100 - 13 - 11 - 28 - 15)  &:& \dfrac {15 \times (100 - 13 - 11 - 28 - 15)} {11} \\\\
+= & 33                         &:& \dfrac {15 \times 33} {11} \\\\
+= & 33                         &:& \dfrac {15 \times 3 \times 11} {11} \\\\
+= & 33                         &:& \dfrac {15 \times 3 \times \cancel {11}} {\cancel {11}} \\\\
+= & 33                         &:& 15 \times 3 \\\\
+= & 33                         &:& 45
+\end{array}
+$
 </code></pre>
 </div>
 </div>
 <div class='answers'>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+<pre class='language-latex'><code class='language-latex'>C</code></pre>
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$45$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='AD6895B3-4E61-4AAF-9E1F-1987110B5F92' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='AD6895B3-4E61-4AAF-9E1F-1987110B5F92' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='AD6895B3-4E61-4AAF-9E1F-1987110B5F92' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='AD6895B3-4E61-4AAF-9E1F-1987110B5F92' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='AD6895B3-4E61-4AAF-9E1F-1987110B5F92' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='AD6895B3-4E61-4AAF-9E1F-1987110B5F92' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='AD6895B3-4E61-4AAF-9E1F-1987110B5F92' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='AD6895B3-4E61-4AAF-9E1F-1987110B5F92' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='AD6895B3-4E61-4AAF-9E1F-1987110B5F92' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='AD6895B3-4E61-4AAF-9E1F-1987110B5F92' id='FORM-AD6895B3-4E61-4AAF-9E1F-1987110B5F92' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-AD6895B3-4E61-4AAF-9E1F-1987110B5F92'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C</p>
 </div>
@@ -7689,7 +7910,7 @@ TODOANSWER
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7812,37 +8033,53 @@ Tim spent $\pounds 65$ in total. How many paintballs did he use?
 <div class='workings'>
 <div class='working'>
 
-Entry cost         = $\pounds 23
-Total cost         = $\pounds 65
-Cost of paintballs = Entry cost - Total cost
-Cost of paintballs = $\pounds 42
+$
+\begin{aligned}
+\text{Cost of using paintballs}       &= 65 - 23 \\\\
+                                      &= \pounds 42
+\end{aligned}
+$
 
-100 paintballs     : $\pounds 6
-??? paintballs     : $\pounds 42
-100 x 7 paintballs : $\pounds 6 x 7
-700 paintballs     : $\pounds 42
+$
+\begin{aligned}
+\text{Number of paintballs}     &= 100 \times \dfrac {42} {6} \\\\
+                                &= \dfrac {100 \times 42} {6} \\\\
+                                &= \dfrac {100 \times 6 \times 7} {6} \\\\
+                                &= \dfrac {100 \times \cancel 6 \times 7} {\cancel 6} \\\\
+                                &= 100 \times 7 \\\\
+                                &= 700
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Tim uses %s paintballs. $=$ 700
+$700$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Entry cost         = $\pounds 23
-Total cost         = $\pounds 65
-Cost of paintballs = Entry cost - Total cost
-Cost of paintballs = $\pounds 42
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Cost of using paintballs}       &= 65 - 23 \\\\
+                                      &= \pounds 42
+\end{aligned}
+$
 <emptyline>
-100 paintballs     : $\pounds 6
-??? paintballs     : $\pounds 42
-100 x 7 paintballs : $\pounds 6 x 7
-700 paintballs     : $\pounds 42
+$
+\begin{aligned}
+\text{Number of paintballs}     &= 100 \times \dfrac {42} {6} \\\\
+                                &= \dfrac {100 \times 42} {6} \\\\
+                                &= \dfrac {100 \times 6 \times 7} {6} \\\\
+                                &= \dfrac {100 \times \cancel 6 \times 7} {\cancel 6} \\\\
+                                &= 100 \times 7 \\\\
+                                &= 700
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -7851,10 +8088,10 @@ Cost of paintballs = $\pounds 42
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Tim uses %s paintballs.</code></pre>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>700
+<pre class='language-latex'><code class='language-latex'>$700$
 </code></pre>
 </div>
 </div>
@@ -7874,45 +8111,67 @@ How much hot water does she use?
 <div class='workings'>
 <div class='working'>
 
-Let c represent cold water.
+Let the volume of hot water $= a \ \text{litres}$
 
-Cold water  = c
-Hot water   = 5 x c
-Hot water   = 5c 
-Total water = $90 \ \text{l}$ 
+Volume of cold water $= (90 - a) \ \text{litres}$
 
-Total water = 5c + c
-            = 6c
+Using equivalent ratio,
 
-6c = $90 \ \text{l}$
-c  = $15 \ \text{l}$
-5c = $75 \ \text{l}$
+$
+\begin{aligned}
+5 \ \text{hot water} : 1 \ \text{cold water}    &= a \ \text{hot water} : (90 - a) \ \text{cold water} \\\\
+\dfrac {5} {1}                                  &= \dfrac {a} {90 - a} \\\\
+5 \times (90 - a)                               &= 1 \times a \\\\
+5 \times 90 - 5a                                &= a \\\\
+450 - 5a                                        &= a \\\\
+450                                             &= a + 5a \\\\
+a + 5a                                          &= 450 \\\\
+6a                                              &= 450 \\\\
+a                                               &= \dfrac {450} {6} \\\\
+a                                               &= \dfrac {6 \times 75} {6} \\\\
+a                                               &= \dfrac {\cancel 6 \times 75} {\cancel 6} \\\\
+a                                               &= 75 \ \text{litres}
+\end{aligned}
+$
+
+Volume of hot water she uses $= 75 \ \text{litres}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Janice uses %s litres of hot water. $=$ 75
+$75 \ \text{litres}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let c represent cold water.
+<pre class='language-latex'><code class='language-latex'>Let the volume of hot water $= a \ \text{litres}$
 <emptyline>
-Cold water  = c
-Hot water   = 5 x c
-Hot water   = 5c 
-Total water = $90 \ \text{l}$ 
+Volume of cold water $= (90 - a) \ \text{litres}$
 <emptyline>
-Total water = 5c + c
-            = 6c
+Using equivalent ratio,
 <emptyline>
-6c = $90 \ \text{l}$
-c  = $15 \ \text{l}$
-5c = $75 \ \text{l}$
+$
+\begin{aligned}
+5 \ \text{hot water} : 1 \ \text{cold water}    &= a \ \text{hot water} : (90 - a) \ \text{cold water} \\\\
+\dfrac {5} {1}                                  &= \dfrac {a} {90 - a} \\\\
+5 \times (90 - a)                               &= 1 \times a \\\\
+5 \times 90 - 5a                                &= a \\\\
+450 - 5a                                        &= a \\\\
+450                                             &= a + 5a \\\\
+a + 5a                                          &= 450 \\\\
+6a                                              &= 450 \\\\
+a                                               &= \dfrac {450} {6} \\\\
+a                                               &= \dfrac {6 \times 75} {6} \\\\
+a                                               &= \dfrac {\cancel 6 \times 75} {\cancel 6} \\\\
+a                                               &= 75 \ \text{litres}
+\end{aligned}
+$
+<emptyline>
+Volume of hot water she uses $= 75 \ \text{litres}$
 </code></pre>
 </div>
 </div>
@@ -7921,10 +8180,10 @@ c  = $15 \ \text{l}$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Janice uses %s litres of hot water.</code></pre>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>75
+<pre class='language-latex'><code class='language-latex'>$75 \ \text{litres}$
 </code></pre>
 </div>
 </div>
@@ -7946,16 +8205,21 @@ How much **gravel** does Bob need?
 <div class='workings'>
 <div class='working'>
 
-$234 \ \text{kg}$ sand + gravel = $400 \ \text{kg}$ total mixture
+Using ratio,
 
-400 - $234 \ \text{kg}$ = $166 \ \text{kg}$ gravel
-
-$166 \ \text{kg}$ gravel        : $400 \ \text{kg}$ total mixture
-???kg gravel        : $1000 \ \text{kg}$ total mixture
-$166 \ \text{kg}$ / 400         : $400 \ \text{kg}$ / 400 
-$166 \ \text{kg}$ / 400 x 1000  : $400 \ \text{kg}$ / 400 x 1000 
-$415 \ \text{kg}$ gravel        : $1000 \ \text{kg}$ total mixture
-
+$
+\begin{array}{cccccccccccccc}
+  & \text{mixture}                    &:& \text{gravel} \\\\
+= & 400 \ \text{kg}                   &:& (400 - 234) \ \text{kg} \\\\
+= & 400                               &:& 166 \\\\
+= & 1                                 &:& \dfrac {166} {400} \\\\
+= & 1000                              &:& \dfrac {166 \times 1000} {400} \\\\
+= & 1000                              &:& \dfrac {2 \times 83 \times 200 \times 5} {2 \times 200} \\\\
+= & 1000                              &:& \dfrac {\cancel 2 \times 83 \times \cancel {200} \times 5} {\cancel 2 \times \cancel {200}} \\\\
+= & 1000                              &:& 83 \times 5 \\\\
+= & 1000                              &:& 415 \ \text{kg} \\\\
+\end{array}
+$
 
 </div>
 </div>
@@ -7969,16 +8233,21 @@ $415 \ \text{kg}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$234 \ \text{kg}$ sand + gravel = $400 \ \text{kg}$ total mixture
+<pre class='language-latex'><code class='language-latex'>Using ratio,
 <emptyline>
-400 - $234 \ \text{kg}$ = $166 \ \text{kg}$ gravel
-<emptyline>
-$166 \ \text{kg}$ gravel        : $400 \ \text{kg}$ total mixture
-???kg gravel        : $1000 \ \text{kg}$ total mixture
-$166 \ \text{kg}$ / 400         : $400 \ \text{kg}$ / 400 
-$166 \ \text{kg}$ / 400 x 1000  : $400 \ \text{kg}$ / 400 x 1000 
-$415 \ \text{kg}$ gravel        : $1000 \ \text{kg}$ total mixture
-<emptyline>
+$
+\begin{array}{cccccccccccccc}
+  & \text{mixture}                    &:& \text{gravel} \\\\
+= & 400 \ \text{kg}                   &:& (400 - 234) \ \text{kg} \\\\
+= & 400                               &:& 166 \\\\
+= & 1                                 &:& \dfrac {166} {400} \\\\
+= & 1000                              &:& \dfrac {166 \times 1000} {400} \\\\
+= & 1000                              &:& \dfrac {2 \times 83 \times 200 \times 5} {2 \times 200} \\\\
+= & 1000                              &:& \dfrac {\cancel 2 \times 83 \times \cancel {200} \times 5} {\cancel 2 \times \cancel {200}} \\\\
+= & 1000                              &:& 83 \times 5 \\\\
+= & 1000                              &:& 415 \ \text{kg} \\\\
+\end{array}
+$
 </code></pre>
 </div>
 </div>
@@ -8015,36 +8284,55 @@ Find the lengths of the sides labelled $X$ and $Y$.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
+$
+\begin{aligned}
+X \times Y                    &= 63
+\end{aligned}
+$
 
-TODOWORKING
+We can easily infer the value of X and Y by using trial and error.
+
+|  Value of X  |  Value of Y  |  Both longer than $1$  |
+|:------------:|:------------:|:----------------------:|
+|      $1$     |     $63$     |           No           |
+|      $7$     |     $9$      |           Yes          |
+
+Value of X $= 7$
+
+Value of Y $= 9$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+X $= 7$, Y $= 9$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>As per the question,
+<emptyline>
+$
+\begin{aligned}
+X \times Y                    &= 63
+\end{aligned}
+$
+<emptyline>
+We can easily infer the value of X and Y by using trial and error.
+<emptyline>
+|  Value of X  |  Value of Y  |  Both longer than $1$  |
+|:------------:|:------------:|:----------------------:|
+|      $1$     |     $63$     |           No           |
+|      $7$     |     $9$      |           Yes          |
+<emptyline>
+Value of X $= 7$
+<emptyline>
+Value of Y $= 9$
 </code></pre>
 </div>
 </div>
@@ -8056,17 +8344,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>X $= 7$, Y $= 9$
 </code></pre>
 </div>
 </div>
@@ -8091,36 +8369,83 @@ How much do all $3$ of her pets weigh when weighed together?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the weight of rabbit $= r$
 
-</div>
-<div class='working'>
+Let the weight of cat $= c$
 
-TODOWORKING
+Let the weight of dog $= d$
+
+As per the question,
+
+$
+\begin{aligned}
+r + c       &= 10 \\\\
+c + d       &= 24 \\\\
+d + r       &= 20
+\end{aligned}
+$
+
+Let's add all the three equations together.
+
+$
+\begin{aligned}
+r + c + c + d + d + r       &= 10 + 24 + 20 \\\\
+r + r + c + c + d + d       &= 54 \\\\
+2r + 2 c + 2d               &= 54 \\\\
+2 \times (r + c + d)        &= 54 \\\\
+r + c + d                   &= \dfrac {54} {2} \\\\
+r + c + d                   &= \dfrac {2 \times 27} {2} \\\\
+r + c + d                   &= \dfrac {\cancel 2 \times 27} {\cancel 2} \\\\
+r + c + d                   &= 27
+\end{aligned}
+$
+
+Weight of all the $3$ pets together $= 27 \ \text{kg}$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$27 \ text{kg}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the weight of rabbit $= r$
+<emptyline>
+Let the weight of cat $= c$
+<emptyline>
+Let the weight of dog $= d$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin{aligned}
+r + c       &= 10 \\\\
+c + d       &= 24 \\\\
+d + r       &= 20
+\end{aligned}
+$
+<emptyline>
+Let's add all the three equations together.
+<emptyline>
+$
+\begin{aligned}
+r + c + c + d + d + r       &= 10 + 24 + 20 \\\\
+r + r + c + c + d + d       &= 54 \\\\
+2r + 2 c + 2d               &= 54 \\\\
+2 \times (r + c + d)        &= 54 \\\\
+r + c + d                   &= \dfrac {54} {2} \\\\
+r + c + d                   &= \dfrac {2 \times 27} {2} \\\\
+r + c + d                   &= \dfrac {\cancel 2 \times 27} {\cancel 2} \\\\
+r + c + d                   &= 27
+\end{aligned}
+$
+<emptyline>
+Weight of all the $3$ pets together $= 27 \ \text{kg}$.
 </code></pre>
 </div>
 </div>
@@ -8132,17 +8457,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$27 \ text{kg}$
 </code></pre>
 </div>
 </div>
@@ -8151,10 +8466,50 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' id='FORM-B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3F99FFBD-9694-4BED-AA6E-D13CBDE7D0A1</p>
 </div>
@@ -8165,7 +8520,7 @@ TODOANSWER
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -8316,36 +8671,59 @@ How much of the drink does she make?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Using ratio,
 
-</div>
-<div class='working'>
+$
+\begin{array}{cccccccccccccc}
+  & \text{lemonade}                    &:& \text{cranberry juice} \\\\
+= & 3                                  &:& 1 \\\\
+= & 1                                  &:& \dfrac {1} {3} \\\\
+= & 759                                &:& \dfrac {759} {3} \\\\
+= & 759                                &:& \dfrac {3 \times 253} {3} \\\\
+= & 759                                &:& \dfrac {\cancel 3 \times 253} {\cancel 3} \\\\
+= & 759 \ \text{ml}                    &:& 253 \ \text{ml}
+\end{array}
+$
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Total volume of drink}      &= 253 + 759 \\\\
+                                  &= 1012 \ \text{ml}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$1012 \ \text{ml}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Using ratio,
+<emptyline>
+$
+\begin{array}{cccccccccccccc}
+  & \text{lemonade}                    &:& \text{cranberry juice} \\\\
+= & 3                                  &:& 1 \\\\
+= & 1                                  &:& \dfrac {1} {3} \\\\
+= & 759                                &:& \dfrac {759} {3} \\\\
+= & 759                                &:& \dfrac {3 \times 253} {3} \\\\
+= & 759                                &:& \dfrac {\cancel 3 \times 253} {\cancel 3} \\\\
+= & 759 \ \text{ml}                    &:& 253 \ \text{ml}
+\end{array}
+$
+<emptyline>
+$
+\begin{aligned}
+\text{Total volume of drink}      &= 253 + 759 \\\\
+                                  &= 1012 \ \text{ml}
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -8357,17 +8735,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$1012 \ \text{ml}$
 </code></pre>
 </div>
 </div>
@@ -8387,36 +8755,49 @@ How much water is needed make $800 \ \text{ml}$ of the drink?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Using ratio,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{array}{cccccccccccccc}
+  & \text{fruit juice}                 &:& \text{water} \\\\
+= & 600 \ \text{ml}                    &:& (600 - 39) \ \text{ml} \\\\
+= & 600                                &:& 561 \\\\
+= & 1                                  &:& \dfrac {561} {600} \\\\
+= & 800                                &:& \dfrac {561 \times 800} {600} \\\\
+= & 800                                &:& \dfrac {3 \times 187 \times 2 \times 4 \times 100} {3 \times 2 \times 100} \\\\
+= & 800                                &:& \dfrac {\cancel 3 \times 187 \times \cancel 2 \times 4 \times \cancel {100}} {\cancel 3 \times \cancel 2 \times \cancel {100}} \\\\
+= & 800                                &:& 187 \times 4 \\\\
+= & 800 \ \text{ml}                    &:& 748 \ \text{ml} \\\\
+\end{array}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$748 \ \text{ml}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Using ratio,
+<emptyline>
+$
+\begin{array}{cccccccccccccc}
+  & \text{fruit juice}                 &:& \text{water} \\\\
+= & 600 \ \text{ml}                    &:& (600 - 39) \ \text{ml} \\\\
+= & 600                                &:& 561 \\\\
+= & 1                                  &:& \dfrac {561} {600} \\\\
+= & 800                                &:& \dfrac {561 \times 800} {600} \\\\
+= & 800                                &:& \dfrac {3 \times 187 \times 2 \times 4 \times 100} {3 \times 2 \times 100} \\\\
+= & 800                                &:& \dfrac {\cancel 3 \times 187 \times \cancel 2 \times 4 \times \cancel {100}} {\cancel 3 \times \cancel 2 \times \cancel {100}} \\\\
+= & 800                                &:& 187 \times 4 \\\\
+= & 800 \ \text{ml}                    &:& 748 \ \text{ml} \\\\
+\end{array}
+$
 </code></pre>
 </div>
 </div>
@@ -8428,17 +8809,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$748 \ \text{ml}$
 </code></pre>
 </div>
 </div>
@@ -8459,36 +8830,69 @@ How many questions did Tim answer correctly?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the number questions answered correctly by Tim $= a$
 
-</div>
-<div class='working'>
+Number questions answered correctly by Bobby $= a + 4$
 
-TODOWORKING
+Number questions answered incorrectly by Tim $= 20 - a$
+
+Number questions answered incorrectly by Bobby $= 20 - (a + 4)$
+
+As per the question,
+
+$
+\begin{aligned}
+3 \times a + 3 \times (a + 4) - (20 - a) - (20 - (a + 4))   &= 48 \\\\
+3a + 3a + 3 \times 4 - 20 + a - (20 - a - 4)                &= 48 \\\\
+6a + a + 12 - 20 - 20 + a + 4                               &= 48 \\\\
+6a + a + a                                                  &= 48 - 12 + 20 + 20 - 4 \\\\
+8a                                                          &= 72 \\\\
+a                                                           &= \dfrac {72} {8} \\\\
+a                                                           &= \dfrac {8 \times 9} {8} \\\\
+a                                                           &= \dfrac {\cancel 8 \times 9} {\cancel 8} \\\\
+a                                                           &= 9
+\end{aligned}
+$
+
+Number of questions answered correctly by Tim $= 9$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$9$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the number questions answered correctly by Tim $= a$
+<emptyline>
+Number questions answered correctly by Bobby $= a + 4$
+<emptyline>
+Number questions answered incorrectly by Tim $= 20 - a$
+<emptyline>
+Number questions answered incorrectly by Bobby $= 20 - (a + 4)$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin{aligned}
+3 \times a + 3 \times (a + 4) - (20 - a) - (20 - (a + 4))   &= 48 \\\\
+3a + 3a + 3 \times 4 - 20 + a - (20 - a - 4)                &= 48 \\\\
+6a + a + 12 - 20 - 20 + a + 4                               &= 48 \\\\
+6a + a + a                                                  &= 48 - 12 + 20 + 20 - 4 \\\\
+8a                                                          &= 72 \\\\
+a                                                           &= \dfrac {72} {8} \\\\
+a                                                           &= \dfrac {8 \times 9} {8} \\\\
+a                                                           &= \dfrac {\cancel 8 \times 9} {\cancel 8} \\\\
+a                                                           &= 9
+\end{aligned}
+$
+<emptyline>
+Number of questions answered correctly by Tim $= 9$.
 </code></pre>
 </div>
 </div>
@@ -8500,17 +8904,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$9$
 </code></pre>
 </div>
 </div>
@@ -8540,36 +8934,247 @@ Fill in all of the missing numbers in both the circles and the squares. The firs
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Value in the first square}            &= 7 \times 3 \\\\
+                                            &= 21 \\\\
+\text{Value in the first circle}            &= \dfrac {18} {3} \\\\
+                                            &= \dfrac {6 \times 3} {3} \\\\
+                                            &= \dfrac {6 \times \cancel 3} {\cancel 3} \\\\
+                                            &= 6 \\\\
+\text{Value in the second square}           &= 7 \times 6 \\\\
+                                            &= 42 \\\\
+\end{aligned}
+$
 
 </div>
 <div class='working'>
 
-TODOWORKING
+Let the value in first circle $= a$
+
+Value in second circle $= b$
+
+Value in third circle $= c$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times b    &= 12 \\\\
+b \times c    &= 20 \\\\
+c \times a    &= 15
+\end{aligned}
+$
+
+Let's multiply all the equation together to get the product of a, b and c.
+
+$
+\begin{aligned}
+a \times b \times b \times c \times c \times a   &= 12 \times 20 \times 15 \\\\
+a \times a \times b \times b \times c \times c   &= 3600 \\\\
+a ^ 2 \times b ^ 2 \times c ^ 2                  &= 3600 \\\\
+(a \times b \times c) ^ 2                        &= 3600 \\\\
+a \times b \times c                              &= \sqrt {3600} \\\\
+a \times b \times c                              &= 60
+\end{aligned}
+$
+
+Let's use the product of a \times b \times c  to find the value of c.
+
+$
+\begin{aligned}
+\dfrac {a \times b \times c} {a \times b}                                   &= \dfrac {60} {12} \\\\
+\dfrac {\cancel a \times \cancel b \times c} {\cancel a \times \cancel b}   &= \dfrac {12 \times 5} {12} \\\\
+c                                                                           &= \dfrac {\cancel {12} \times 5} {\cancel {12}} \\\\
+c                                                                           &= 5
+\end{aligned}
+$
+
+Let's use the product of a \times b \times c  to find the value of a.
+
+$
+\begin{aligned}
+\dfrac {a \times b \times c} {b \times c}                                   &= \dfrac {60} {20} \\\\
+\dfrac {a \times \cancel b \times \cancel c} {\cancel b \times \cancel c}   &= \dfrac {20 \times 3} {20} \\\\
+a                                                                           &= \dfrac {\cancel {20} \times 3} {\cancel {20}} \\\\
+a                                                                           &= 3
+\end{aligned}
+$
+
+Let's use the product of a \times b \times c  to find the value of c.
+
+$
+\begin{aligned}
+\dfrac {a \times b \times c} {c \times a}                                   &= \dfrac {60} {15} \\\\
+\dfrac {\cancel a \times b \times \cancel c} {\cancel c \times \cancel a}   &= \dfrac {15 \times 4} {15} \\\\
+c                                                                           &= \dfrac {\cancel {15} \times 4} {\cancel {15}} \\\\
+c                                                                           &= 4
+\end{aligned}
+$
+
+Value in first circle $= 3$.
+
+Value in second circle $= 4$.
+
+Value in third circle $= 5$.
+
+</div>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Value in the second square}           &= 7.5 \times 6 \\\\
+                                            &= 45 \\\\
+\text{Value in the first circle}            &= \dfrac {3} {6} \\\\
+                                            &= \dfrac {3} {3 \times 2} \\\\
+                                            &= \dfrac {\cancel 3} {\cancel 3 \times 2} \\\\
+                                            &= \dfrac {1} {2} \\\\
+                                            &= 0.5 \\\\
+\text{Value in the first square}            &= 7.5 \times 0.5 \\\\
+                                            &= \dfrac {75} {10} \times \dfrac {5} {10} \\\\
+                                            &= \dfrac {75 \times 5} {100} \\\\
+                                            &= \dfrac {375} {100} \\\\
+                                            &= 3.75
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+Value in first circle $= 6$
+
+Value in first square $= 21$
+
+Value in second square $= 42$
 
 </div>
 <div class='answer'>
 
-TODOANSWER
+Value in first circle $= 3$
+
+Value in second circle $= 4$
+
+Value in third circle $= 5$
+
+</div>
+<div class='answer'>
+
+Value in first circle $= 0.5$
+
+Value in first square $= 3.75$
+
+Value in second square $= 45$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Value in the first square}            &= 7 \times 3 \\\\
+                                            &= 21 \\\\
+\text{Value in the first circle}            &= \dfrac {18} {3} \\\\
+                                            &= \dfrac {6 \times 3} {3} \\\\
+                                            &= \dfrac {6 \times \cancel 3} {\cancel 3} \\\\
+                                            &= 6 \\\\
+\text{Value in the second square}           &= 7 \times 6 \\\\
+                                            &= 42 \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the value in first circle $= a$
+<emptyline>
+Value in second circle $= b$
+<emptyline>
+Value in third circle $= c$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin{aligned}
+a \times b    &= 12 \\\\
+b \times c    &= 20 \\\\
+c \times a    &= 15
+\end{aligned}
+$
+<emptyline>
+Let's multiply all the equation together to get the product of a, b and c.
+<emptyline>
+$
+\begin{aligned}
+a \times b \times b \times c \times c \times a   &= 12 \times 20 \times 15 \\\\
+a \times a \times b \times b \times c \times c   &= 3600 \\\\
+a ^ 2 \times b ^ 2 \times c ^ 2                  &= 3600 \\\\
+(a \times b \times c) ^ 2                        &= 3600 \\\\
+a \times b \times c                              &= \sqrt {3600} \\\\
+a \times b \times c                              &= 60
+\end{aligned}
+$
+<emptyline>
+Let's use the product of a \times b \times c  to find the value of c.
+<emptyline>
+$
+\begin{aligned}
+\dfrac {a \times b \times c} {a \times b}                                   &= \dfrac {60} {12} \\\\
+\dfrac {\cancel a \times \cancel b \times c} {\cancel a \times \cancel b}   &= \dfrac {12 \times 5} {12} \\\\
+c                                                                           &= \dfrac {\cancel {12} \times 5} {\cancel {12}} \\\\
+c                                                                           &= 5
+\end{aligned}
+$
+<emptyline>
+Let's use the product of a \times b \times c  to find the value of a.
+<emptyline>
+$
+\begin{aligned}
+\dfrac {a \times b \times c} {b \times c}                                   &= \dfrac {60} {20} \\\\
+\dfrac {a \times \cancel b \times \cancel c} {\cancel b \times \cancel c}   &= \dfrac {20 \times 3} {20} \\\\
+a                                                                           &= \dfrac {\cancel {20} \times 3} {\cancel {20}} \\\\
+a                                                                           &= 3
+\end{aligned}
+$
+<emptyline>
+Let's use the product of a \times b \times c  to find the value of c.
+<emptyline>
+$
+\begin{aligned}
+\dfrac {a \times b \times c} {c \times a}                                   &= \dfrac {60} {15} \\\\
+\dfrac {\cancel a \times b \times \cancel c} {\cancel c \times \cancel a}   &= \dfrac {15 \times 4} {15} \\\\
+c                                                                           &= \dfrac {\cancel {15} \times 4} {\cancel {15}} \\\\
+c                                                                           &= 4
+\end{aligned}
+$
+<emptyline>
+Value in first circle $= 3$.
+<emptyline>
+Value in second circle $= 4$.
+<emptyline>
+Value in third circle $= 5$.
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Value in the second square}           &= 7.5 \times 6 \\\\
+                                            &= 45 \\\\
+\text{Value in the first circle}            &= \dfrac {3} {6} \\\\
+                                            &= \dfrac {3} {3 \times 2} \\\\
+                                            &= \dfrac {\cancel 3} {\cancel 3 \times 2} \\\\
+                                            &= \dfrac {1} {2} \\\\
+                                            &= 0.5 \\\\
+\text{Value in the first square}            &= 7.5 \times 0.5 \\\\
+                                            &= \dfrac {75} {10} \times \dfrac {5} {10} \\\\
+                                            &= \dfrac {75 \times 5} {100} \\\\
+                                            &= \dfrac {375} {100} \\\\
+                                            &= 3.75
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -8581,7 +9186,11 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>Value in first circle $= 6$
+
+Value in first square $= 21$
+
+Value in second square $= 42$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -8591,7 +9200,25 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>Value in first circle $= 3$
+
+Value in second circle $= 4$
+
+Value in third circle $= 5$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>Value in first circle $= 0.5$
+
+Value in first square $= 3.75$
+
+Value in second square $= 45$
 </code></pre>
 </div>
 </div>
@@ -8600,10 +9227,50 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='3F99FFBD-9694-4BED-AA6E-D13CBDE7D0A1' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='3F99FFBD-9694-4BED-AA6E-D13CBDE7D0A1' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='3F99FFBD-9694-4BED-AA6E-D13CBDE7D0A1' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='3F99FFBD-9694-4BED-AA6E-D13CBDE7D0A1' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='3F99FFBD-9694-4BED-AA6E-D13CBDE7D0A1' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='3F99FFBD-9694-4BED-AA6E-D13CBDE7D0A1' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='3F99FFBD-9694-4BED-AA6E-D13CBDE7D0A1' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='3F99FFBD-9694-4BED-AA6E-D13CBDE7D0A1' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='3F99FFBD-9694-4BED-AA6E-D13CBDE7D0A1' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='3F99FFBD-9694-4BED-AA6E-D13CBDE7D0A1' id='FORM-3F99FFBD-9694-4BED-AA6E-D13CBDE7D0A1' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-3F99FFBD-9694-4BED-AA6E-D13CBDE7D0A1'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6988D985-5AC0-40DF-9615-C7003D875089</p>
 </div>
@@ -8614,7 +9281,7 @@ TODOANSWER
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -8766,36 +9433,45 @@ How many kroner would I get for $90 \text{p}$?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Using ratio,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{array}{cccccccccccccc}
+= & \pounds 1                      &:& 18 \ \text{kroner} \\\\
+= & 1 \times 100 \text{p}          &:& 18 \ \text{kroner} \\\\
+= & 100 \text{p}                   &:& 18 \ \text{kroner} \\\\
+= & 1                              &:& \dfrac {18} {100} \\\\
+= & 90                             &:& \dfrac {18 \times 90} {100} \\\\
+= & 90                             &:& \dfrac {1620} {100} \\\\
+= & 90 \text{p}                    &:& 16.2 \ \text{kroner} \\\\
+\end{array}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$16.2 \ \text{kroner}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Using ratio,
+<emptyline>
+$
+\begin{array}{cccccccccccccc}
+= & \pounds 1                      &:& 18 \ \text{kroner} \\\\
+= & 1 \times 100 \text{p}          &:& 18 \ \text{kroner} \\\\
+= & 100 \text{p}                   &:& 18 \ \text{kroner} \\\\
+= & 1                              &:& \dfrac {18} {100} \\\\
+= & 90                             &:& \dfrac {18 \times 90} {100} \\\\
+= & 90                             &:& \dfrac {1620} {100} \\\\
+= & 90 \text{p}                    &:& 16.2 \ \text{kroner} \\\\
+\end{array}
+$
 </code></pre>
 </div>
 </div>
@@ -8807,17 +9483,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$16.2 \ \text{kroner}$
 </code></pre>
 </div>
 </div>
@@ -8834,36 +9500,43 @@ How much are $12 \ \text{kroner}$ worth?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Using ratio,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{array}{cccccccccccccc}
+= & 18 \ \text{kroner}             &:& \pounds 1 \\\\
+= & 1                              &:& \dfrac {1} {18} \\\\
+= & 12                             &:& \dfrac {12} {18} \\\\
+= & 12                             &:& \dfrac {6 \times 2} {6 \times 3} \\\\
+= & 12                             &:& \dfrac {\cancel 6 \times 2} {\cancel 6 \times 3} \\\\
+= & 12 \ \text{kroner}             &:& \pounds \dfrac {2} {3}
+\end{array}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\pounds \dfrac {2} {3}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Using ratio,
+<emptyline>
+$
+\begin{array}{cccccccccccccc}
+= & 18 \ \text{kroner}             &:& \pounds 1 \\\\
+= & 1                              &:& \dfrac {1} {18} \\\\
+= & 12                             &:& \dfrac {12} {18} \\\\
+= & 12                             &:& \dfrac {6 \times 2} {6 \times 3} \\\\
+= & 12                             &:& \dfrac {\cancel 6 \times 2} {\cancel 6 \times 3} \\\\
+= & 12 \ \text{kroner}             &:& \pounds \dfrac {2} {3}
+\end{array}
+$
 </code></pre>
 </div>
 </div>
@@ -8875,17 +9548,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\pounds \dfrac {2} {3}$
 </code></pre>
 </div>
 </div>
@@ -8903,36 +9566,37 @@ How much is this in kroner?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Using ratio,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{array}{cccccccccccccc}
+= & \pounds 1                      &:& 18 \ \text{kroner} \\\\
+= & 5.10                           &:& 18 \times 5.10 \\\\
+= & \pounds 5.10                   &:& 91.8 \ \text{kroner} \\\\
+\end{array}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$91.8 \ \text{kroner}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Using ratio,
+<emptyline>
+$
+\begin{array}{cccccccccccccc}
+= & \pounds 1                      &:& 18 \ \text{kroner} \\\\
+= & 5.10                           &:& 18 \times 5.10 \\\\
+= & \pounds 5.10                   &:& 91.8 \ \text{kroner} \\\\
+\end{array}
+$
 </code></pre>
 </div>
 </div>
@@ -8944,17 +9608,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$91.8 \ \text{kroner}$
 </code></pre>
 </div>
 </div>
@@ -8963,10 +9617,50 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='6988D985-5AC0-40DF-9615-C7003D875089' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='6988D985-5AC0-40DF-9615-C7003D875089' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='6988D985-5AC0-40DF-9615-C7003D875089' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='6988D985-5AC0-40DF-9615-C7003D875089' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='6988D985-5AC0-40DF-9615-C7003D875089' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='6988D985-5AC0-40DF-9615-C7003D875089' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='6988D985-5AC0-40DF-9615-C7003D875089' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='6988D985-5AC0-40DF-9615-C7003D875089' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='6988D985-5AC0-40DF-9615-C7003D875089' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='6988D985-5AC0-40DF-9615-C7003D875089' id='FORM-6988D985-5AC0-40DF-9615-C7003D875089' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-6988D985-5AC0-40DF-9615-C7003D875089'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>1B759771-8179-43E5-8CD6-F153CDBB82C1</p>
 </div>
@@ -8977,7 +9671,7 @@ TODOANSWER
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -9105,7 +9799,19 @@ $\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunde
 <div class='workings'>
 <div class='working'>
 
-$8$
+Using ratio,
+
+$
+\begin{array}{cccccccccccccc}
+  & \text{plastic bottles}                      &:& \text{fleece jacket} \\\\
+= & 25                                          &:& 1 \\\\
+= & 1                                           &:& \dfrac {1} {25} \\\\
+= & 200                                         &:& \dfrac {200} {25} \\\\
+= & 200                                         &:& \dfrac {25 \times 8} {25} \\\\
+= & 200                                         &:& \dfrac {\cancel {25} \times 8} {\cancel {25}} \\\\
+= & 200                                         &:& 8
+\end{array}
+$
 
 </div>
 </div>
@@ -9119,7 +9825,19 @@ $8$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$8$
+<pre class='language-latex'><code class='language-latex'>Using ratio,
+<emptyline>
+$
+\begin{array}{cccccccccccccc}
+  & \text{plastic bottles}                      &:& \text{fleece jacket} \\\\
+= & 25                                          &:& 1 \\\\
+= & 1                                           &:& \dfrac {1} {25} \\\\
+= & 200                                         &:& \dfrac {200} {25} \\\\
+= & 200                                         &:& \dfrac {25 \times 8} {25} \\\\
+= & 200                                         &:& \dfrac {\cancel {25} \times 8} {\cancel {25}} \\\\
+= & 200                                         &:& 8
+\end{array}
+$
 </code></pre>
 </div>
 </div>
@@ -9199,10 +9917,50 @@ $
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='1B759771-8179-43E5-8CD6-F153CDBB82C1' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='1B759771-8179-43E5-8CD6-F153CDBB82C1' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='1B759771-8179-43E5-8CD6-F153CDBB82C1' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='1B759771-8179-43E5-8CD6-F153CDBB82C1' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='1B759771-8179-43E5-8CD6-F153CDBB82C1' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='1B759771-8179-43E5-8CD6-F153CDBB82C1' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='1B759771-8179-43E5-8CD6-F153CDBB82C1' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='1B759771-8179-43E5-8CD6-F153CDBB82C1' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='1B759771-8179-43E5-8CD6-F153CDBB82C1' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='1B759771-8179-43E5-8CD6-F153CDBB82C1' id='FORM-1B759771-8179-43E5-8CD6-F153CDBB82C1' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-1B759771-8179-43E5-8CD6-F153CDBB82C1'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C43EC3F6-97AA-4A64-8ED6-E478405FF933</p>
 </div>
@@ -9213,7 +9971,7 @@ $
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -9303,67 +10061,113 @@ E: $25$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Total time taken by Dave}   &= 15 \times 30 \\\\
+                                  &= 450 \ \text{s}
+\end{aligned}
+$
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Lapses completed by Eddie}    &= \dfrac {450} {25} \\\\
+                                    &= \dfrac {25 \times 18} {25} \\\\
+                                    &= \dfrac {\cancel {25} \times 18} {\cancel {25}} \\\\
+                                    &= 18
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
+<div class='option'>
+<p>C</p>
 </div>
 <div class='answer'>
 
-TODOANSWER
+$18$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Total time taken by Dave}   &= 15 \times 30 \\\\
+                                  &= 450 \ \text{s}
+\end{aligned}
+$
+<emptyline>
+$
+\begin{aligned}
+\text{Lapses completed by Eddie}    &= \dfrac {450} {25} \\\\
+                                    &= \dfrac {25 \times 18} {25} \\\\
+                                    &= \dfrac {\cancel {25} \times 18} {\cancel {25}} \\\\
+                                    &= 18
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
 <div class='answers'>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+<pre class='language-latex'><code class='language-latex'>C</code></pre>
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$18$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C43EC3F6-97AA-4A64-8ED6-E478405FF933' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C43EC3F6-97AA-4A64-8ED6-E478405FF933' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C43EC3F6-97AA-4A64-8ED6-E478405FF933' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C43EC3F6-97AA-4A64-8ED6-E478405FF933' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C43EC3F6-97AA-4A64-8ED6-E478405FF933' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C43EC3F6-97AA-4A64-8ED6-E478405FF933' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C43EC3F6-97AA-4A64-8ED6-E478405FF933' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C43EC3F6-97AA-4A64-8ED6-E478405FF933' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C43EC3F6-97AA-4A64-8ED6-E478405FF933' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C43EC3F6-97AA-4A64-8ED6-E478405FF933' id='FORM-C43EC3F6-97AA-4A64-8ED6-E478405FF933' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-C43EC3F6-97AA-4A64-8ED6-E478405FF933'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>847ECFA2-1EEA-49D7-9918-8A8651C83F4C</p>
 </div>
@@ -9374,7 +10178,7 @@ TODOANSWER
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -9552,9 +10356,11 @@ How many metres does she buy?
 
 $
 \begin{aligned}
-\text {She buys} &= \dfrac {17} {4.25} \\\\
-                        &= \dfrac {4 \times \cancel {4.25}} {\cancel {4.25}} \\\\
-                        &= 4 \text{metres}
+\text{She buys}         &= \dfrac {17} {4.25} \\\\
+                        &= \dfrac {17 \times 100} {425} \\\\
+                        &= \dfrac {17 \times 25 \times 4} {25 \times 17} \\\\
+                        &= \dfrac {\cancel {17} \times \cancel {25} \times 4} {\cancel {25} \times \cancel {17}} \\\\
+                        &= 4 \ \text{metres}
 \end{aligned}
 $
 
@@ -9563,7 +10369,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$4 \text{metres}$
+$4 \ \text{metres}$
 
 </div>
 </div>
@@ -9572,9 +10378,11 @@ $4 \text{metres}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {She buys} &= \dfrac {17} {4.25} \\\\
-                        &= \dfrac {4 \times \cancel {4.25}} {\cancel {4.25}} \\\\
-                        &= 4 \text{metres}
+\text{She buys}         &= \dfrac {17} {4.25} \\\\
+                        &= \dfrac {17 \times 100} {425} \\\\
+                        &= \dfrac {17 \times 25 \times 4} {25 \times 17} \\\\
+                        &= \dfrac {\cancel {17} \times \cancel {25} \times 4} {\cancel {25} \times \cancel {17}} \\\\
+                        &= 4 \ \text{metres}
 \end{aligned}
 $
 </code></pre>
@@ -9588,7 +10396,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$4 \text{metres}$
+<pre class='language-latex'><code class='language-latex'>$4 \ \text{metres}$
 </code></pre>
 </div>
 </div>
@@ -9596,7 +10404,52 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+\text {She buys}
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='847ECFA2-1EEA-49D7-9918-8A8651C83F4C' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='847ECFA2-1EEA-49D7-9918-8A8651C83F4C' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='847ECFA2-1EEA-49D7-9918-8A8651C83F4C' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='847ECFA2-1EEA-49D7-9918-8A8651C83F4C' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='847ECFA2-1EEA-49D7-9918-8A8651C83F4C' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='847ECFA2-1EEA-49D7-9918-8A8651C83F4C' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='847ECFA2-1EEA-49D7-9918-8A8651C83F4C' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='847ECFA2-1EEA-49D7-9918-8A8651C83F4C' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='847ECFA2-1EEA-49D7-9918-8A8651C83F4C' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='847ECFA2-1EEA-49D7-9918-8A8651C83F4C' id='FORM-847ECFA2-1EEA-49D7-9918-8A8651C83F4C' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-847ECFA2-1EEA-49D7-9918-8A8651C83F4C'>Initial</p>
+</div>
 </div>
 </li>
 </ul>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2019-sample-paper-4"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2019 - Sample Paper 4"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "43"
 ---
 <div class='paper'>
@@ -1251,7 +1251,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>837D31D8-12E8-44DA-8C9B-72CA12DDF879</p>
 </div>
@@ -1262,7 +1262,7 @@ TODOANSWER
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1353,36 +1353,47 @@ What is the mode of these numbers?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+| Data | Frequency |
+| :--: | :-------: |
+| $21$ |    $1$    |
+| $22$ |    $1$    |
+| $23$ |    $3$    |
+| $24$ |    $1$    |
+| $25$ |    $5$    |
+| $26$ |    $6$    |
+| $27$ |    $3$    |
+| $28$ |    $2$    |
+| $29$ |    $2$    |
 
-</div>
-<div class='working'>
+Mode $= 26$
 
-TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+26
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>| Data | Frequency |
+| :--: | :-------: |
+| $21$ |    $1$    |
+| $22$ |    $1$    |
+| $23$ |    $3$    |
+| $24$ |    $1$    |
+| $25$ |    $5$    |
+| $26$ |    $6$    |
+| $27$ |    $3$    |
+| $28$ |    $2$    |
+| $29$ |    $2$    |
+<emptyline>
+Mode $= 26$
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1394,22 +1405,52 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>26
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='837D31D8-12E8-44DA-8C9B-72CA12DDF879' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='837D31D8-12E8-44DA-8C9B-72CA12DDF879' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='837D31D8-12E8-44DA-8C9B-72CA12DDF879' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='837D31D8-12E8-44DA-8C9B-72CA12DDF879' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='837D31D8-12E8-44DA-8C9B-72CA12DDF879' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='837D31D8-12E8-44DA-8C9B-72CA12DDF879' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='837D31D8-12E8-44DA-8C9B-72CA12DDF879' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='837D31D8-12E8-44DA-8C9B-72CA12DDF879' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='837D31D8-12E8-44DA-8C9B-72CA12DDF879' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='837D31D8-12E8-44DA-8C9B-72CA12DDF879' id='FORM-837D31D8-12E8-44DA-8C9B-72CA12DDF879' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-837D31D8-12E8-44DA-8C9B-72CA12DDF879'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -2349,7 +2390,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>71D9CA55-C531-4CEF-9275-34475B5C75C4</p>
 </div>
@@ -2360,7 +2401,7 @@ $
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2440,36 +2481,47 @@ There is $5.5 \ \text{g}$ of sugar in every $10 \ \text{g}$ of jam. How much sug
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Using ratio,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{array}{cccccccccccccc}
+  & \text{jam}                    &:& \text{sugar} \\\\
+= & 10 \ \text{g}                 &:& 5.5 \ \text{g} \\\\
+= & 10 \times 60                  &:& 5.5 \times 60 \\\\
+= & 600                           &:& \dfrac {55} {10} \times 60 \\\\
+= & 600                           &:& \dfrac {55 \times 60} {10} \\\\
+= & 600                           &:& \dfrac {55 \times 6 \cancel 0} {1 \cancel 0} \\\\
+= & 600                           &:& 55 \times 6 \\\\
+= & 600 \ \text{g}                &:& 330 \ \text{g} \\\\
+\end{array}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$330 \ \text{g}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Using ratio,
+<emptyline>
+$
+\begin{array}{cccccccccccccc}
+  & \text{jam}                    &:& \text{sugar} \\\\
+= & 10 \ \text{g}                 &:& 5.5 \ \text{g} \\\\
+= & 10 \times 60                  &:& 5.5 \times 60 \\\\
+= & 600                           &:& \dfrac {55} {10} \times 60 \\\\
+= & 600                           &:& \dfrac {55 \times 60} {10} \\\\
+= & 600                           &:& \dfrac {55 \times 6 \cancel 0} {1 \cancel 0} \\\\
+= & 600                           &:& 55 \times 6 \\\\
+= & 600 \ \text{g}                &:& 330 \ \text{g} \\\\
+\end{array}
+$
 </code></pre>
 </div>
 </div>
@@ -2481,22 +2533,52 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$330 \ \text{g}$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='71D9CA55-C531-4CEF-9275-34475B5C75C4' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='71D9CA55-C531-4CEF-9275-34475B5C75C4' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='71D9CA55-C531-4CEF-9275-34475B5C75C4' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='71D9CA55-C531-4CEF-9275-34475B5C75C4' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='71D9CA55-C531-4CEF-9275-34475B5C75C4' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='71D9CA55-C531-4CEF-9275-34475B5C75C4' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='71D9CA55-C531-4CEF-9275-34475B5C75C4' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='71D9CA55-C531-4CEF-9275-34475B5C75C4' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='71D9CA55-C531-4CEF-9275-34475B5C75C4' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='71D9CA55-C531-4CEF-9275-34475B5C75C4' id='FORM-71D9CA55-C531-4CEF-9275-34475B5C75C4' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-71D9CA55-C531-4CEF-9275-34475B5C75C4'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -5326,7 +5408,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>F6421DDF-D209-4B1F-A494-4BF8366EFFE0</p>
 </div>
@@ -5337,7 +5419,7 @@ $
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5417,36 +5499,52 @@ The mean shoe size for six boys was $5$. Five of the boys had sizes $4, 5, 6, 7,
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+Let the size of sixth boy $= a$
+
+$
+\begin{aligned}
+\text{Mean}\    &= \dfrac {4 + 5 + 6 + 7 + 4 + a} {6} \\\\
+5               &= \dfrac {26 + a} {6} \\\\
+26 + a          &= 5 \times 6 \\\\
+26 + a          &= 30 \\\\
+a               &= 30 - 26 \\\\
+a               &= 4
+\end{aligned}
+$
+
+The size of sixth boy $= 4$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+4
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_statistics_formula_mean
+<emptyline>
+Let the size of sixth boy $= a$
+<emptyline>
+$
+\begin{aligned}
+\text{Mean}\    &= \dfrac {4 + 5 + 6 + 7 + 4 + a} {6} \\\\
+5               &= \dfrac {26 + a} {6} \\\\
+26 + a          &= 5 \times 6 \\\\
+26 + a          &= 30 \\\\
+a               &= 30 - 26 \\\\
+a               &= 4
+\end{aligned}
+$
+<emptyline>
+The size of sixth boy $= 4$
 </code></pre>
 </div>
 </div>
@@ -5458,22 +5556,52 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>4
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F6421DDF-D209-4B1F-A494-4BF8366EFFE0' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F6421DDF-D209-4B1F-A494-4BF8366EFFE0' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F6421DDF-D209-4B1F-A494-4BF8366EFFE0' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F6421DDF-D209-4B1F-A494-4BF8366EFFE0' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F6421DDF-D209-4B1F-A494-4BF8366EFFE0' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F6421DDF-D209-4B1F-A494-4BF8366EFFE0' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F6421DDF-D209-4B1F-A494-4BF8366EFFE0' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F6421DDF-D209-4B1F-A494-4BF8366EFFE0' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F6421DDF-D209-4B1F-A494-4BF8366EFFE0' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F6421DDF-D209-4B1F-A494-4BF8366EFFE0' id='FORM-F6421DDF-D209-4B1F-A494-4BF8366EFFE0' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-F6421DDF-D209-4B1F-A494-4BF8366EFFE0'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -5809,7 +5937,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>00895CB9-6B0A-48EF-85AC-BE14B2DC56DC</p>
 </div>
@@ -5820,7 +5948,7 @@ TODOANSWER
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5904,16 +6032,17 @@ $4.528 \quad  4.448 \quad   4.645 \quad  4.565 \quad  4.504$
 <div class='workings'>
 <div class='working'>
 
-Let's solve this using ratios. 
+Using ratio, 
 
 $
-\begin{aligned}
-5 \ \text{gallons}                                   &: 22.82 \ \text{litres} \\\\
-\dfrac {5} {5} \ \text{gallons}                      &: \dfrac {22.82} {5} \ \text {litres} \\\\
-\dfrac {5} {5} \ \text{gallons}                      &: \dfrac {5 \times 4.654} {5} \ \text {litres} \\\\
-\dfrac {\cancel{5}} {\cancel{5}} \ \text{gallons}    &: \dfrac {\cancel{5} \times 4.654} {\cancel{5}} \ \text {litres} \\\\
-1 \ \text{gallon}                                    &: 4.654 \ \text {litres}
-\end{aligned}
+\begin{array}{cccccccccccccc}
+  & \text{gallons}      &:& \text{litres} \\\\
+= & 5                   &:& 22.82 \\\\
+= & 1                   &:& \dfrac {22.82} {5} \\\\
+= & 1                   &:& \dfrac {22.82 \times 2} {5 \times 2} \\\\
+= & 1                   &:& \dfrac {45.64} {10} \\\\
+= & 1                   &:& 4.564 \\\\
+\end{array}
 $
 
 It is nearest to $4.565$
@@ -5930,16 +6059,17 @@ $4.565$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let's solve this using ratios. 
+<pre class='language-latex'><code class='language-latex'>Using ratio, 
 <emptyline>
 $
-\begin{aligned}
-5 \ \text{gallons}                                   &: 22.82 \ \text{litres} \\\\
-\dfrac {5} {5} \ \text{gallons}                      &: \dfrac {22.82} {5} \ \text {litres} \\\\
-\dfrac {5} {5} \ \text{gallons}                      &: \dfrac {5 \times 4.654} {5} \ \text {litres} \\\\
-\dfrac {\cancel{5}} {\cancel{5}} \ \text{gallons}    &: \dfrac {\cancel{5} \times 4.654} {\cancel{5}} \ \text {litres} \\\\
-1 \ \text{gallon}                                    &: 4.654 \ \text {litres}
-\end{aligned}
+\begin{array}{cccccccccccccc}
+  & \text{gallons}      &:& \text{litres} \\\\
+= & 5                   &:& 22.82 \\\\
+= & 1                   &:& \dfrac {22.82} {5} \\\\
+= & 1                   &:& \dfrac {22.82 \times 2} {5 \times 2} \\\\
+= & 1                   &:& \dfrac {45.64} {10} \\\\
+= & 1                   &:& 4.564 \\\\
+\end{array}
 $
 <emptyline>
 It is nearest to $4.565$
@@ -5960,6 +6090,46 @@ It is nearest to $4.565$
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='00895CB9-6B0A-48EF-85AC-BE14B2DC56DC' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='00895CB9-6B0A-48EF-85AC-BE14B2DC56DC' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='00895CB9-6B0A-48EF-85AC-BE14B2DC56DC' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='00895CB9-6B0A-48EF-85AC-BE14B2DC56DC' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='00895CB9-6B0A-48EF-85AC-BE14B2DC56DC' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='00895CB9-6B0A-48EF-85AC-BE14B2DC56DC' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='00895CB9-6B0A-48EF-85AC-BE14B2DC56DC' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='00895CB9-6B0A-48EF-85AC-BE14B2DC56DC' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='00895CB9-6B0A-48EF-85AC-BE14B2DC56DC' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='00895CB9-6B0A-48EF-85AC-BE14B2DC56DC' id='FORM-00895CB9-6B0A-48EF-85AC-BE14B2DC56DC' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-00895CB9-6B0A-48EF-85AC-BE14B2DC56DC'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -6168,7 +6338,7 @@ Max tickets that can be bought $= 4$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>FA63BECC-AF6F-4CA6-91BD-2EF70EC554DA</p>
 </div>
@@ -6179,7 +6349,7 @@ Max tickets that can be bought $= 4$.
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6262,21 +6432,38 @@ $36$ pencils cost $\pounds 7.92$. What is the cost of each pencil?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Cost of 1 pencil}       &= \dfrac {7.92} {36} \\\\
+                              &= \dfrac {792} {36 \times 100} \\\\
+                              &= \dfrac {36 \times 22} {36 \times 100} \\\\
+                              &= \dfrac {\cancel {36} \times 22} {\cancel {36} \times 100} \\\\
+                              &= \dfrac {22} {100} \\\\
+                              &= \pounds 0.22
+\end{aligned}
+$
 
 </div>
 <div class='working'>
 
-TODOWORKING
+Using ratio,
+
+$
+\begin{array}{cccccccccccccc}
+  & \text{number of pencils}      &:& \text{cost of pencils} \\\\
+= & 36                            &:& \pounds 7.92 \\\\
+= & 1                             &:& \dfrac{7.92} {36} \\\\
+= & 1                             &:& \dfrac{792} {36 \times 100} \\\\
+= & 1                             &:& \dfrac{36 \times 22} {36 \times 100} \\\\
+= & 1                             &:& \dfrac{\cancel {36} \times 22} {\cancel {36} \times 100} \\\\
+= & 1                             &:& \dfrac{22} {100} \\\\
+= & 1                             &:& \pounds 0.22 \\\\
+\end{array}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 <div class='answer'>
 
 TODOANSWER
@@ -6286,12 +6473,34 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Cost of 1 pencil}       &= \dfrac {7.92} {36} \\\\
+                              &= \dfrac {792} {36 \times 100} \\\\
+                              &= \dfrac {36 \times 22} {36 \times 100} \\\\
+                              &= \dfrac {\cancel {36} \times 22} {\cancel {36} \times 100} \\\\
+                              &= \dfrac {22} {100} \\\\
+                              &= \pounds 0.22
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Using ratio,
+<emptyline>
+$
+\begin{array}{cccccccccccccc}
+  & \text{number of pencils}      &:& \text{cost of pencils} \\\\
+= & 36                            &:& \pounds 7.92 \\\\
+= & 1                             &:& \dfrac{7.92} {36} \\\\
+= & 1                             &:& \dfrac{792} {36 \times 100} \\\\
+= & 1                             &:& \dfrac{36 \times 22} {36 \times 100} \\\\
+= & 1                             &:& \dfrac{\cancel {36} \times 22} {\cancel {36} \times 100} \\\\
+= & 1                             &:& \dfrac{22} {100} \\\\
+= & 1                             &:& \pounds 0.22 \\\\
+\end{array}
+$
 </code></pre>
 </div>
 </div>
@@ -6306,19 +6515,49 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>TODOANSWER
 </code></pre>
 </div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FA63BECC-AF6F-4CA6-91BD-2EF70EC554DA' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FA63BECC-AF6F-4CA6-91BD-2EF70EC554DA' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FA63BECC-AF6F-4CA6-91BD-2EF70EC554DA' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FA63BECC-AF6F-4CA6-91BD-2EF70EC554DA' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FA63BECC-AF6F-4CA6-91BD-2EF70EC554DA' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FA63BECC-AF6F-4CA6-91BD-2EF70EC554DA' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FA63BECC-AF6F-4CA6-91BD-2EF70EC554DA' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FA63BECC-AF6F-4CA6-91BD-2EF70EC554DA' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FA63BECC-AF6F-4CA6-91BD-2EF70EC554DA' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FA63BECC-AF6F-4CA6-91BD-2EF70EC554DA' id='FORM-FA63BECC-AF6F-4CA6-91BD-2EF70EC554DA' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-FA63BECC-AF6F-4CA6-91BD-2EF70EC554DA'>Initial</p>
+</div>
 </div>
 </li>
 <li>

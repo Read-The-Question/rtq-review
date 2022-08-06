@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2016-sample-paper-3"
 title: "Csse - 11 Plus - Maths - 2016 - Sample Paper 3"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "13"
 ---
 <div class='paper'>
@@ -3245,7 +3245,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>52153412-2F82-4D52-970C-B08AEBF2A3CC</p>
 </div>
@@ -3256,7 +3256,7 @@ $
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3384,7 +3384,7 @@ As per the table,
 
 $
 \begin{aligned}
-\text {Total cost}    &= \pounds 2.59 + \pounds 5.49 + \pounds 1.49 \\\\
+\text {Total cost}    &= 2.59 + 5.49 + 1.49 \\\\
                       &= \pounds 9.57
 \end{aligned}
 $
@@ -3405,7 +3405,7 @@ $\pounds 9.57$
 <emptyline>
 $
 \begin{aligned}
-\text {Total cost}    &= \pounds 2.59 + \pounds 5.49 + \pounds 1.49 \\\\
+\text {Total cost}    &= 2.59 + 5.49 + 1.49 \\\\
                       &= \pounds 9.57
 \end{aligned}
 $
@@ -3437,10 +3437,12 @@ How much change would be needed, from a $\pounds 10$ note, if Sasha sells a medi
 <div class='workings'>
 <div class='working'>
 
+As per the table,
+
 $
 \begin{aligned}
-\text {Change needed}    &= \pounds 10 - (\pounds 1.79 + \pounds 3.65) \\\\
-                         &= 10 - 5.44 \\\\
+\text {Change needed}    &= 10 - 1.79 - 3.65 \\\\
+                         &= 8.21 - 3.65 \\\\
                          &= \pounds 4.56
 \end{aligned}
 $
@@ -3457,10 +3459,12 @@ $\pounds 4.56$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>As per the table,
+<emptyline>
+$
 \begin{aligned}
-\text {Change needed}    &= \pounds 10 - (\pounds 1.79 + \pounds 3.65) \\\\
-                         &= 10 - 5.44 \\\\
+\text {Change needed}    &= 10 - 1.79 - 3.65 \\\\
+                         &= 8.21 - 3.65 \\\\
                          &= \pounds 4.56
 \end{aligned}
 $
@@ -3495,6 +3499,8 @@ Which three prices total $\pounds 7.73$?
 <div class='workings'>
 <div class='working'>
 
+As per the table,
+
 $
 \begin{aligned}
 &= \pounds 2.59 + \pounds 1.49 + \pounds 3.65 \\\\
@@ -3502,7 +3508,7 @@ $
 \end{aligned}
 $
 
-$\pounds 2.59, \pounds 1.49, \pounds 3.65$ totals to $\pounds 7.73$.
+$\pounds 2.59, \ \pounds 1.49, \ \pounds 3.65$
 
 </div>
 </div>
@@ -3526,14 +3532,16 @@ $\pounds 3.65$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>As per the table,
+<emptyline>
+$
 \begin{aligned}
 &= \pounds 2.59 + \pounds 1.49 + \pounds 3.65 \\\\
 &= \pounds 7.73
 \end{aligned}
 $
 <emptyline>
-$\pounds 2.59, \pounds 1.49, \pounds 3.65$ totals to $\pounds 7.73$.
+$\pounds 2.59, \ \pounds 1.49, \ \pounds 3.65$
 </code></pre>
 </div>
 </div>
@@ -3574,6 +3582,46 @@ $\pounds 2.59, \pounds 1.49, \pounds 3.65$ totals to $\pounds 7.73$.
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='52153412-2F82-4D52-970C-B08AEBF2A3CC' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='52153412-2F82-4D52-970C-B08AEBF2A3CC' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='52153412-2F82-4D52-970C-B08AEBF2A3CC' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='52153412-2F82-4D52-970C-B08AEBF2A3CC' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='52153412-2F82-4D52-970C-B08AEBF2A3CC' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='52153412-2F82-4D52-970C-B08AEBF2A3CC' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='52153412-2F82-4D52-970C-B08AEBF2A3CC' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='52153412-2F82-4D52-970C-B08AEBF2A3CC' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='52153412-2F82-4D52-970C-B08AEBF2A3CC' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='52153412-2F82-4D52-970C-B08AEBF2A3CC' id='FORM-52153412-2F82-4D52-970C-B08AEBF2A3CC' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-52153412-2F82-4D52-970C-B08AEBF2A3CC'>Initial</p>
+</div>
 </div>
 </li>
 <li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-g"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper G"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "26"
 ---
 <div class='paper'>
@@ -6299,7 +6299,7 @@ Reference: DBB8AAA3-8E4B-4E8E-B062-598C9668FDFC
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>A3479604-4BFA-4285-ACC4-985B4A900D81</p>
 </div>
@@ -6313,7 +6313,7 @@ Reference: DBB8AAA3-8E4B-4E8E-B062-598C9668FDFC
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6791,6 +6791,16 @@ b                &= 2
 Part e)
 
 Same as part b)
+
+
+
+Part b)Cancelation part is still missing..
+
+b &= \dfrac {6} {3} \\
+
+b &= \dfrac {2 \times 3} {3} \\ (add this line)
+
+b &= \dfrac {2 \times \cancel {3}} {\cancel {3}} \\  (add this line)
 </div>
 
 <div class='review'>

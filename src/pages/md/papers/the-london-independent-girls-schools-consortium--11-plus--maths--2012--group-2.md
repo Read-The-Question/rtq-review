@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2012-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2012 - Group 2"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "41"
 ---
 <div class='paper'>
@@ -99,7 +99,7 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-19341413-65A3-4BC8-B57B-2F00FE94B081'>Initial</p>
 <div class='question question'>
 
-Work out $2567 + 824$
+Work out $2567 + 824$.
 
 </div>
 <div class='workings'>

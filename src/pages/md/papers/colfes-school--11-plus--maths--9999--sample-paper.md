@@ -1,7 +1,7 @@
 ---
 slug: "papers/colfes-school-11-plus-maths-9999-sample-paper"
 title: "Colfes School - 11 Plus - Maths - 9999 - Sample Paper"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "32"
 ---
 <div class='paper'>
@@ -461,7 +461,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-361675FE-206F-42FB-B0FD-69D3DA628675'>Initial</p>
 <div class='question question'>
 
-Multiply $59$ by $7$
+Multiply $59$ by $7$.
 
 </div>
 <div class='workings'>
@@ -1338,7 +1338,7 @@ tdecimal
 <p class='review_status initial' id='SUBTAG-STATUS-E2A86E36-8634-4CA1-A662-F25074BFEB0A'>Initial</p>
 <div class='question question'>
 
-Work out $3.45 + 11.01 + 2.3$
+Work out $3.45 + 11.01 + 2.3$.
 
 </div>
 <div class='workings'>
@@ -5542,7 +5542,7 @@ Number $= 400$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>F46CBE4D-99F4-42BD-99FC-07C324ACDE6D</p>
 </div>
@@ -5553,7 +5553,7 @@ Number $= 400$
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5682,7 +5682,8 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Total Cost}  &= 8 \times 3 \ \text {adults} + 3 \times 1 \ \text {child} \\\\
+\text {Total Cost}  &= 8a + 3k \\\\
+                    &= 8 \times 3 + 3 \times 1 \\\\
                     &= 24 + 3 \\\\
                     &= \pounds 27
 \end {aligned}
@@ -5704,7 +5705,8 @@ $\pounds 27$
 <emptyline>
 $
 \begin {aligned}
-\text {Total Cost}  &= 8 \times 3 \ \text {adults} + 3 \times 1 \ \text {child} \\\\
+\text {Total Cost}  &= 8a + 3k \\\\
+                    &= 8 \times 3 + 3 \times 1 \\\\
                     &= 24 + 3 \\\\
                     &= \pounds 27
 \end {aligned}
@@ -5739,7 +5741,7 @@ The total cost for the Bryant family is $\pounds 25$. How many adults and how ma
 
 As per the question,
 
-The maximum count of adult tickets possible with $\pounds 25 = 2$ adults.
+The maximum count of adult tickets possible with $\pounds 25 = 2$
 
 $
 \begin {aligned}
@@ -5756,9 +5758,12 @@ $
 
 Bryant family has,
 
-Adults $= 2$
-
-Children $= 3$
+$
+\begin {aligned}
+\text {Adults}      &= 2 \\\\
+\text {Children}    &= 3
+\end {aligned}
+$
 
 </div>
 <div class='working'>
@@ -5797,19 +5802,24 @@ $8 \times 2 + 3 \times 3 = \pounds 25$
 
 Bryant family has,
 
-Adults $= 2$
-
-Children $= 3$
+$
+\begin {aligned}
+\text {Adults}      &= 2 \\\\
+\text {Children}    &= 3
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$
-\text {Adult}    = 2 \\
-\text {Children} = 3
-$
+Adult $=$ $2$
+
+</div>
+<div class='answer'>
+
+Children $=$ $3$
 
 </div>
 </div>
@@ -5818,7 +5828,7 @@ $
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
 <emptyline>
-The maximum count of adult tickets possible with $\pounds 25 = 2$ adults.
+The maximum count of adult tickets possible with $\pounds 25 = 2$
 <emptyline>
 $
 \begin {aligned}
@@ -5835,9 +5845,12 @@ $
 <emptyline>
 Bryant family has,
 <emptyline>
-Adults $= 2$
-<emptyline>
-Children $= 3$
+$
+\begin {aligned}
+\text {Adults}      &= 2 \\\\
+\text {Children}    &= 3
+\end {aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -5876,9 +5889,12 @@ $8 \times 2 + 3 \times 3 = \pounds 25$
 <emptyline>
 Bryant family has,
 <emptyline>
-Adults $= 2$
-<emptyline>
-Children $= 3$
+$
+\begin {aligned}
+\text {Adults}      &= 2 \\\\
+\text {Children}    &= 3
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -5887,13 +5903,20 @@ Children $= 3$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>Adult</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$2$
+</code></pre>
+</div>
+<div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$
-\text {Adult}    = 2 \\
-\text {Children} = 3
-$
+<pre class='language-latex'><code class='language-latex'>Children</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3$
 </code></pre>
 </div>
 </div>
@@ -5901,7 +5924,56 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+
+
+
+
+uday : please look at working and wording
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F46CBE4D-99F4-42BD-99FC-07C324ACDE6D' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F46CBE4D-99F4-42BD-99FC-07C324ACDE6D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F46CBE4D-99F4-42BD-99FC-07C324ACDE6D' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F46CBE4D-99F4-42BD-99FC-07C324ACDE6D' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F46CBE4D-99F4-42BD-99FC-07C324ACDE6D' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F46CBE4D-99F4-42BD-99FC-07C324ACDE6D' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F46CBE4D-99F4-42BD-99FC-07C324ACDE6D' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F46CBE4D-99F4-42BD-99FC-07C324ACDE6D' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F46CBE4D-99F4-42BD-99FC-07C324ACDE6D' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F46CBE4D-99F4-42BD-99FC-07C324ACDE6D' id='FORM-F46CBE4D-99F4-42BD-99FC-07C324ACDE6D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-F46CBE4D-99F4-42BD-99FC-07C324ACDE6D'>Initial</p>
+</div>
 </div>
 </li>
 <li>

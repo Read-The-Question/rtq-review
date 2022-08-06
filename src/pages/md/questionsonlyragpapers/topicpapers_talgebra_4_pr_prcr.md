@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-talgebra-4-pr-prcr"
 title: "TopicPaper - Algebra - 4 - PR - PRCR"
-date: 2022-08-05 16:51:29
+date: 2022-08-06 18:37:02
 questions_count: "40"
 ---
 <ul class='question default-decimal'>
@@ -46,17 +46,13 @@ Alex drinks $50\%$ more than Jane and these two friends finish the bottle betwee
 <h4>Review Comments</h4>
 
 
+2a + a/2 = 150
 
+2a x 2 / 1 x 2 + a/2 = 150 (add this line )
 
-Remove full stop(.) from the first line.
+4a/2 + a/2 = 150 (add this line)
 
-Put \"Juice drunk by Jane\" into \text{}.
-
-Put \"Juice drunk by Alex\" into \text{}. 
-
-Remove last line \"Juice drunk....\"
-
-Put proper spacing into the katex code so that it aligns properly. (all the &= should align nicely)
+4a+a / 2 =  150
 </div>
 
 <div class='review'>
@@ -1000,6 +996,16 @@ b                &= 2
 Part e)
 
 Same as part b)
+
+
+
+Part b)Cancelation part is still missing..
+
+b &= \dfrac {6} {3} \\
+
+b &= \dfrac {2 \times 3} {3} \\ (add this line)
+
+b &= \dfrac {2 \times \cancel {3}} {\cancel {3}} \\  (add this line)
 </div>
 
 <div class='review'>
@@ -1276,6 +1282,15 @@ What is my number?
 </code></pre>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Last line \"was\" to \"is\".
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1382,6 +1397,19 @@ How many white tiles does it have?
 </code></pre>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove first line.
+
+As per the question ==> As per the diagram
+
+No. of Black tiles ==> No. of grey tiles
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1558,6 +1586,35 @@ Find the two numbers.
 </code></pre>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Delete this line
+
+Lets find first number. Using equation 1 and 2 we get,
+
+
+
+Add these two lines in place of above line:
+
+We have got 2 variables and we have 2 equations to solve them. Lets eliminate to reduce it to just one variable.
+
+
+
+Add the first equation to the second to reduce it to one variable.
+
+
+
+Also show:
+
+a + b + a - b = 32 + 6 (add this line)
+
+a + a         = 38
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1708,6 +1765,18 @@ Add \"As per the question\" after this.
 
 
 *Do this for all a), b), c) and d) parts.*
+
+
+
+Part d) Steps missing!!!
+
+448 ÷ a = 8
+
+448 x 1/a = 8 (add this step)
+
+448/a = 8 (add this step)
+
+448 = 8 x a
 </div>
 
 <div class='review'>
@@ -1961,17 +2030,6 @@ $1$ Gigaburger
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Part a) We dont write units at the start of the working. Remove \"\pounds\" from the below line
-
-2g + 5m - (2g + 4m)   &= \pounds 6.1 - \pounds 5.6 \\
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2061,6 +2119,14 @@ What was Mayank’s number?
 
 
 Remove full stop(.) from the first line.
+
+
+
+Remove full stop(.) from the last line.
+
+
+
+Full stop in last line is still there.
 </div>
 
 <div class='review'>
@@ -2150,23 +2216,6 @@ How many hours did Chris hire the hall for?
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Unit missing
-
-a = 9 \ \text {hours} (add hours in this line)
-
-
-
-Remove \"Hours\" from the starting of the below line, and write it as a part of unit after 9
-
-Hours Chris hired the hall for $= 9 \ \text{hours}$ 
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2422,6 +2471,15 @@ What was the number he first thought of?
 </code></pre>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove full stop from the last line.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2499,6 +2557,15 @@ Amrit, Brenda and Clare share $13$ sweets. Amrit gets three times as many as Bre
 </code></pre>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove full stop (.) from all first three and last three lines.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2688,6 +2755,37 @@ How much did each crayon cost?
 </code></pre>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Add the below lines after \"Let the ...\"
+
+rtq_abbr_md_unit_note. Lets convert all the costs in pence.
+
+
+
+5a + 4 x 22p = £2 - 32p (add this line)
+
+5a + 4 x 22p = 2 x 100p - 32p (show units in this line)
+
+..
+
+..
+
+..
+
+a = 16p (show unit p in this line)
+
+
+
+Remove \"(in pence)\" from last line and show unit p in last line instead.
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2852,6 +2950,15 @@ How long would a $180 \ \text{millilitre}$ bottle last her?
 </code></pre>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove full stop from the last line.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3245,21 +3352,6 @@ Ashiwini got $30$ marks. How many marks did Suril get?
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Remove full stop from the first two lines (we dont use punctuation in the definitions.)
-
-
-
-Write the last line into multiple lines using \begin{aligned}.. (we dont write \"Marks .. = 6 x 15 = 90\" this way)
-
-Remove full stop in last line too.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3432,29 +3524,6 @@ What is the missing number in the following?  $36 \div \boxed{?} = 4$
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-i) Steps missing!!!
-
-36 ÷ a = 4
-
-36 / a = 4     (add this line)
-
-36     = 4a    (add this line)
-
-4a     = 36    (add this line)
-
-a      = 36/4
-
-
-
-ii)Change the small \"c\" to capital \"C\" in the option.
-</div>
 
 <div class='review'>
 <ul class='review'>

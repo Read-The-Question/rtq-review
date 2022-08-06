@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2010-arithmetic-2"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2010 - Arithmetic 2"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "12"
 ---
 <div class='paper'>
@@ -1727,64 +1727,10 @@ A *preble* is a set of three numbers in which the last number is the product of 
 Work out the missing number in each of these prebles.
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-TODOWORKING
 
-</div>
-<div class='working'>
 
-TODOWORKING
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -1796,6 +1742,8 @@ $(6, 1\dfrac{1}{3}, a) \qquad a = \text{\textunderscore \textunderscore \textund
 <div class='workings'>
 <div class='working'>
 
+As per question, 
+
 $
 \begin {aligned}
 6 \times 1 \dfrac {1}{3} &= a \\\\
@@ -1804,11 +1752,6 @@ $
 a &= 8
 \end {aligned}
 $
-
-</div>
-<div class='working'>
-
-TODOWORKING
 
 </div>
 </div>
@@ -1818,16 +1761,13 @@ TODOWORKING
 $a = 8$
 
 </div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>As per question, 
+<emptyline>
+$
 \begin {aligned}
 6 \times 1 \dfrac {1}{3} &= a \\\\
 6 \times \dfrac {4}{3} &= a \\\\
@@ -1835,11 +1775,6 @@ TODOANSWER
 a &= 8
 \end {aligned}
 $
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
 </div>
@@ -1852,16 +1787,6 @@ $
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$a = 8$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
 </code></pre>
 </div>
 </div>
@@ -1878,6 +1803,8 @@ $(12, b, 15) \qquad b = \text{\textunderscore \textunderscore \textunderscore}$
 <div class='workings'>
 <div class='working'>
 
+As per question,
+
 $
 \begin {aligned}
 12 \times b &= 15 \\\\
@@ -1886,11 +1813,6 @@ b &= \dfrac {5} {4} \\\\
 b &= 1.25
 \end {aligned}
 $
-
-</div>
-<div class='working'>
-
-TODOWORKING
 
 </div>
 </div>
@@ -1900,16 +1822,13 @@ TODOWORKING
 $b = 1.25$
 
 </div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>As per question,
+<emptyline>
+$
 \begin {aligned}
 12 \times b &= 15 \\\\
 b &= \dfrac {15} {12} \\\\
@@ -1917,11 +1836,6 @@ b &= \dfrac {5} {4} \\\\
 b &= 1.25
 \end {aligned}
 $
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
 </div>
@@ -1934,16 +1848,6 @@ $
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$b = 1.25$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
 </code></pre>
 </div>
 </div>
@@ -1960,6 +1864,8 @@ $(c, 11, 1045) \qquad c = \text{\textunderscore \textunderscore \textunderscore}
 <div class='workings'>
 <div class='working'>
 
+As per question,
+
 $
 \begin {aligned}
 c \times 11 &= 1045 \\\\
@@ -1969,11 +1875,6 @@ c &= \dfrac {95 \times \cancel {11}} {\cancel{11}} \\\\
 c &= 95
 \end {aligned}
 $
-
-</div>
-<div class='working'>
-
-TODOWORKING
 
 </div>
 </div>
@@ -1983,16 +1884,13 @@ TODOWORKING
 $c = 95$
 
 </div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>As per question,
+<emptyline>
+$
 \begin {aligned}
 c \times 11 &= 1045 \\\\
 c &= \dfrac {1045} {11} \\\\
@@ -2001,11 +1899,6 @@ c &= \dfrac {95 \times \cancel {11}} {\cancel{11}} \\\\
 c &= 95
 \end {aligned}
 $
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
 </div>
@@ -2018,16 +1911,6 @@ $
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$c = 95$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
 </code></pre>
 </div>
 </div>
@@ -2044,6 +1927,8 @@ $(0.5, d, 28) \qquad d = \text{\textunderscore \textunderscore \textunderscore}$
 <div class='workings'>
 <div class='working'>
 
+As per question,
+
 $
 \begin {aligned}
 0.5 \times d &= 28 \\\\
@@ -2052,11 +1937,6 @@ d &= 28 \times 2 \\\\
 b &= 56
 \end {aligned}
 $
-
-</div>
-<div class='working'>
-
-TODOWORKING
 
 </div>
 </div>
@@ -2066,16 +1946,13 @@ TODOWORKING
 $b = 56$
 
 </div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>As per question,
+<emptyline>
+$
 \begin {aligned}
 0.5 \times d &= 28 \\\\
 \dfrac {d} {2} &= 28 \\\\
@@ -2083,11 +1960,6 @@ d &= 28 \times 2 \\\\
 b &= 56
 \end {aligned}
 $
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
 </div>
@@ -2100,16 +1972,6 @@ $
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$b = 56$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
 </code></pre>
 </div>
 </div>
@@ -2126,6 +1988,8 @@ $(0.4, e, 0.24) \qquad e = \text{\textunderscore \textunderscore \textunderscore
 <div class='workings'>
 <div class='working'>
 
+As per question,
+
 $
 \begin {aligned}
 0.4 \times e &= 0.24 \\\\
@@ -2137,11 +2001,6 @@ e &= \dfrac {6} {10} \\\\
 e &= 0.6
 \end {aligned}
 $
-
-</div>
-<div class='working'>
-
-TODOWORKING
 
 </div>
 </div>
@@ -2151,16 +2010,13 @@ TODOWORKING
 $e = 0.6$
 
 </div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>As per question,
+<emptyline>
+$
 \begin {aligned}
 0.4 \times e &= 0.24 \\\\
 \dfrac {4} {10} \times e &= \dfrac {24} {100} \\\\
@@ -2171,11 +2027,6 @@ e &= \dfrac {6} {10} \\\\
 e &= 0.6
 \end {aligned}
 $
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
 </div>
@@ -2188,16 +2039,6 @@ $
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$e = 0.6$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
 </code></pre>
 </div>
 </div>
@@ -2616,7 +2457,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8988C475-ACC9-4864-8F7F-91364E1B67A1</p>
 </div>
@@ -2627,7 +2468,7 @@ TODOANSWER
 <p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_am_notstarted</p>
+<p>rag_am_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2713,36 +2554,79 @@ Aidan decides he needs $96$ bottles of wine. Work out the cost by each of the tw
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
 
-</div>
-<div class='working'>
+Let the total cost of cases  $= a$
 
-TODOWORKING
+Number of cases he will have to buy $= \dfrac{96}{12}$
+
+$
+\begin{aligned}
+a &= \dfrac{96}{12} \times \pounds 40 \\\\
+a &= \dfrac{12 \times 8}{12} \times 40 \\\\
+a &= \dfrac{\cancel {12} \times 8}{\cancel {12}} \times 40 \\\\
+a &= 8 \times 40 \\\\
+a &= \pounds 320
+\end{aligned}
+$
+
+Let the cost of individual bottles $=b $
+
+Number of individual bottles he will have to buy $= \dfrac{96}{8} \times 6$
+
+$
+\begin{aligned}
+b &= \dfrac{96}{8} \times 6 \times \pounds 4.50 \\\\
+b &= \dfrac{12 \times 8}{8} \times 6 \times 4.50 \\\\
+b &= \dfrac{\cancel 8 \times 12}{\cancel 8} \times 6 \times 4.50 \\\\
+b &= 12 \times 6 \times 4.50 \\\\
+b &= \pounds 324
+\end{aligned}
+$
+
+Therefore first method is cheaper by $= \pounds 324 - \pounds 320 = 4$ 
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\pounds 320, \pounds 324, \pounds 4$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>
+Let the total cost of cases  $= a$
+<emptyline>
+Number of cases he will have to buy $= \dfrac{96}{12}$
+<emptyline>
+$
+\begin{aligned}
+a &= \dfrac{96}{12} \times \pounds 40 \\\\
+a &= \dfrac{12 \times 8}{12} \times 40 \\\\
+a &= \dfrac{\cancel {12} \times 8}{\cancel {12}} \times 40 \\\\
+a &= 8 \times 40 \\\\
+a &= \pounds 320
+\end{aligned}
+$
+<emptyline>
+Let the cost of individual bottles $=b $
+<emptyline>
+Number of individual bottles he will have to buy $= \dfrac{96}{8} \times 6$
+<emptyline>
+$
+\begin{aligned}
+b &= \dfrac{96}{8} \times 6 \times \pounds 4.50 \\\\
+b &= \dfrac{12 \times 8}{8} \times 6 \times 4.50 \\\\
+b &= \dfrac{\cancel 8 \times 12}{\cancel 8} \times 6 \times 4.50 \\\\
+b &= 12 \times 6 \times 4.50 \\\\
+b &= \pounds 324
+\end{aligned}
+$
+<emptyline>
+Therefore first method is cheaper by $= \pounds 324 - \pounds 320 = 4$ 
 </code></pre>
 </div>
 </div>
@@ -2754,22 +2638,52 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\pounds 320, \pounds 324, \pounds 4$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='8988C475-ACC9-4864-8F7F-91364E1B67A1' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='8988C475-ACC9-4864-8F7F-91364E1B67A1' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='8988C475-ACC9-4864-8F7F-91364E1B67A1' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='8988C475-ACC9-4864-8F7F-91364E1B67A1' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='8988C475-ACC9-4864-8F7F-91364E1B67A1' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='8988C475-ACC9-4864-8F7F-91364E1B67A1' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='8988C475-ACC9-4864-8F7F-91364E1B67A1' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='8988C475-ACC9-4864-8F7F-91364E1B67A1' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='8988C475-ACC9-4864-8F7F-91364E1B67A1' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='8988C475-ACC9-4864-8F7F-91364E1B67A1' id='FORM-8988C475-ACC9-4864-8F7F-91364E1B67A1' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-8988C475-ACC9-4864-8F7F-91364E1B67A1'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -3286,7 +3200,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>27D02444-74FB-437E-803D-BEE8B6392DD0</p>
 </div>
@@ -3297,7 +3211,7 @@ TODOANSWER
 <p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_am_notstarted</p>
+<p>rag_am_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3443,36 +3357,35 @@ If he cuts it into sixteen equal pieces, how long is each piece?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+&= \dfrac{80}{16} \\\\
+&= \dfrac{5 \times 16}{16} \\\\
+&= \dfrac{5 \times \cancel {16}}{\cancel {16}} \\\\
+&= 5
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$5$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \dfrac{80}{16} \\\\
+&= \dfrac{5 \times 16}{16} \\\\
+&= \dfrac{5 \times \cancel {16}}{\cancel {16}} \\\\
+&= 5
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -3484,17 +3397,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$5$
 </code></pre>
 </div>
 </div>
@@ -3511,21 +3414,21 @@ If each piece is $25 \ \text{mm}$ long, how many pieces are there?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+&= \dfrac{80 \text{cm}}{25 \text{mm}} \\\\
+&= \dfrac{80 \text{cm} \times 100}{25 \text{cm}} \\\\
+&= \dfrac{80 \times 100}{25} \\\\
+&= \dfrac{80 \times 25 \times 4}{25} \\\\
+&= \dfrac{80 \times \cancel  {25} \times 4}{\cancel {25}} \\\\
+&= 80 \times 4 \\\\
+&= 320
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 <div class='answer'>
 
 TODOANSWER
@@ -3535,26 +3438,21 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \dfrac{80 \text{cm}}{25 \text{mm}} \\\\
+&= \dfrac{80 \text{cm} \times 100}{25 \text{cm}} \\\\
+&= \dfrac{80 \times 100}{25} \\\\
+&= \dfrac{80 \times 25 \times 4}{25} \\\\
+&= \dfrac{80 \times \cancel  {25} \times 4}{\cancel {25}} \\\\
+&= 80 \times 4 \\\\
+&= 320
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
 <div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
@@ -3579,36 +3477,77 @@ If he cuts it into three pieces, so that one piece is $30 \%$ of the stick and t
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Length of first piece $= 30 \% \text{ of } 80$ cm 
 
-</div>
-<div class='working'>
+$
+\begin{aligned}
+&= 30 \% \text{ of } 80 \text{ cm } \\\\
+&= \dfrac{30}{100} \times 80 \\\\
+&= \dfrac{3 \times 10}{10 \times 10} \times 8 \times 10 \\\\
+&= \dfrac{3 \times \cancel 10}{\cancel 10 \times \cancel 10} \times 8 \times \cancel 10 \\\\
+&= 24 \text{ cm }
+\end{aligned}
+$
 
-TODOWORKING
+Length of second piece $=$ Length of third piece $= \dfrac{(100\% - 30\%)}{2} of 80$ cm 
+
+$
+\begin{aligned}
+&= \dfrac{(100\% - 30\%)}{2} \text{ of } 80 \text{ cm } \\\\
+&= \dfrac{(70\%)}{2} \text{ of } 80 \text{ cm } \\\\
+&= \dfrac{70}{2 \times 100} \times 80 \\\\
+&= \dfrac{7 \times 10}{2 \times 10 \times 10} \times 8 \times 10 \\\\
+&= \dfrac{7 \times \cancel {10}}{2 \times \cancel {10} \times \cancel {10}} \times 8 \times \cancel {10} \\\\
+&= \dfrac{7}{2} \times 4 \times 2 \\\\
+&= \dfrac{7}{\cancel 2} \times 4 \times \cancel 2 \\\\
+&= 28 \text{ cm}
+\end{aligned}
+$
+
+
+
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$24 \text{ cm }, 28 \text{ cm }, 28 \text{ cm }$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>Length of first piece $= 30 \% \text{ of } 80$ cm 
+<emptyline>
+$
+\begin{aligned}
+&= 30 \% \text{ of } 80 \text{ cm } \\\\
+&= \dfrac{30}{100} \times 80 \\\\
+&= \dfrac{3 \times 10}{10 \times 10} \times 8 \times 10 \\\\
+&= \dfrac{3 \times \cancel 10}{\cancel 10 \times \cancel 10} \times 8 \times \cancel 10 \\\\
+&= 24 \text{ cm }
+\end{aligned}
+$
+<emptyline>
+Length of second piece $=$ Length of third piece $= \dfrac{(100\% - 30\%)}{2} of 80$ cm 
+<emptyline>
+$
+\begin{aligned}
+&= \dfrac{(100\% - 30\%)}{2} \text{ of } 80 \text{ cm } \\\\
+&= \dfrac{(70\%)}{2} \text{ of } 80 \text{ cm } \\\\
+&= \dfrac{70}{2 \times 100} \times 80 \\\\
+&= \dfrac{7 \times 10}{2 \times 10 \times 10} \times 8 \times 10 \\\\
+&= \dfrac{7 \times \cancel {10}}{2 \times \cancel {10} \times \cancel {10}} \times 8 \times \cancel {10} \\\\
+&= \dfrac{7}{2} \times 4 \times 2 \\\\
+&= \dfrac{7}{\cancel 2} \times 4 \times \cancel 2 \\\\
+&= 28 \text{ cm}
+\end{aligned}
+$
+<emptyline>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -3620,17 +3559,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$24 \text{ cm }, 28 \text{ cm }, 28 \text{ cm }$
 </code></pre>
 </div>
 </div>
@@ -3647,36 +3576,67 @@ If he cuts it into three pieces so that one piece is $10 \ \text{cm}$ longer tha
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the shortest Length $= a$
 
-</div>
-<div class='working'>
+Length of the longest piece $= 25 + a$
 
-TODOWORKING
+Length of the third piece $= 10 + a$
+
+$
+\begin{aligned}
+a + 25 + a + 10 + a     &= 80 \\\\
+3a + 35                 &= 80 \\\\
+3a                      &= 80 - 35 \\\\
+3a                      &= 45 \\\\
+a                       &= \dfrac{45}{3} \\\\
+a                       &= \dfrac{15 \times 3}{3} \\\\
+a                       &= \dfrac{15 \times \cancel 3}{ \cancel 3} \\\\
+a                       &= 15
+\end{aligned}
+$
+
+Shortest Length $= 15$ cm
+
+Longest piece $= 25 + 15 = 40$ cm
+
+Third piece $= 10 + 15 = 25$ cm
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$15 \text{ cm }, 40 \text{ cm }, 25 \text{ cm }$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the shortest Length $= a$
+<emptyline>
+Length of the longest piece $= 25 + a$
+<emptyline>
+Length of the third piece $= 10 + a$
+<emptyline>
+$
+\begin{aligned}
+a + 25 + a + 10 + a     &= 80 \\\\
+3a + 35                 &= 80 \\\\
+3a                      &= 80 - 35 \\\\
+3a                      &= 45 \\\\
+a                       &= \dfrac{45}{3} \\\\
+a                       &= \dfrac{15 \times 3}{3} \\\\
+a                       &= \dfrac{15 \times \cancel 3}{ \cancel 3} \\\\
+a                       &= 15
+\end{aligned}
+$
+<emptyline>
+Shortest Length $= 15$ cm
+<emptyline>
+Longest piece $= 25 + 15 = 40$ cm
+<emptyline>
+Third piece $= 10 + 15 = 25$ cm
 </code></pre>
 </div>
 </div>
@@ -3688,17 +3648,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$15 \text{ cm }, 40 \text{ cm }, 25 \text{ cm }$
 </code></pre>
 </div>
 </div>
@@ -3715,36 +3665,89 @@ If there are four pieces, such that one is $\dfrac{1}{5}$ of the stick, one is $
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+First stick $= \dfrac{1}{5} \times 80$ cm
 
-</div>
-<div class='working'>
+$
+\begin{aligned}
+&= \dfrac{1}{5} \times 80 \\\\
+&= \dfrac{1}{5} \times 16 \times 5 \\\\
+&= \dfrac{1}{\cancel 5} \times 16 \times \cancel 5 \\\\
+&= 16 
+\end{aligned}
+$
 
-TODOWORKING
+Second stick $= \dfrac{3}{10} \times 80$ cm
+
+$
+\begin{aligned}
+&= \dfrac{3}{10} \times 80 \\\\
+&= \dfrac{3}{10} \times 8 \times 10 \\\\
+&= \dfrac{3}{\cancel {10}} \times 8 \times \cancel {10} \\\\
+&= 3 \times 8 \\\\
+&= 24
+\end{aligned}
+$
+
+Third stick $= \dfrac{1}{8} \times 80$ cm
+
+$
+\begin{aligned}
+&= \dfrac{1}{8} \times 80 \\\\
+&= \dfrac{1}{8} \times 8 \times 10 \\\\
+&= \dfrac{1}{\cancel 8} \times 10 \times \cancel 8 \\\\
+&= 10 
+\end{aligned}
+$
+
+Fourth stick $= 80 - 16 - 24 - 10 = 30$ cm
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$16 \text{ cm }, 24 \text{ cm }, 10 \text{ cm }, 30 \text{ cm }$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>First stick $= \dfrac{1}{5} \times 80$ cm
+<emptyline>
+$
+\begin{aligned}
+&= \dfrac{1}{5} \times 80 \\\\
+&= \dfrac{1}{5} \times 16 \times 5 \\\\
+&= \dfrac{1}{\cancel 5} \times 16 \times \cancel 5 \\\\
+&= 16 
+\end{aligned}
+$
+<emptyline>
+Second stick $= \dfrac{3}{10} \times 80$ cm
+<emptyline>
+$
+\begin{aligned}
+&= \dfrac{3}{10} \times 80 \\\\
+&= \dfrac{3}{10} \times 8 \times 10 \\\\
+&= \dfrac{3}{\cancel {10}} \times 8 \times \cancel {10} \\\\
+&= 3 \times 8 \\\\
+&= 24
+\end{aligned}
+$
+<emptyline>
+Third stick $= \dfrac{1}{8} \times 80$ cm
+<emptyline>
+$
+\begin{aligned}
+&= \dfrac{1}{8} \times 80 \\\\
+&= \dfrac{1}{8} \times 8 \times 10 \\\\
+&= \dfrac{1}{\cancel 8} \times 10 \times \cancel 8 \\\\
+&= 10 
+\end{aligned}
+$
+<emptyline>
+Fourth stick $= 80 - 16 - 24 - 10 = 30$ cm
 </code></pre>
 </div>
 </div>
@@ -3756,17 +3759,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$16 \text{ cm }, 24 \text{ cm }, 10 \text{ cm }, 30 \text{ cm }$
 </code></pre>
 </div>
 </div>
@@ -3775,6 +3768,46 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='27D02444-74FB-437E-803D-BEE8B6392DD0' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='27D02444-74FB-437E-803D-BEE8B6392DD0' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='27D02444-74FB-437E-803D-BEE8B6392DD0' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='27D02444-74FB-437E-803D-BEE8B6392DD0' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='27D02444-74FB-437E-803D-BEE8B6392DD0' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='27D02444-74FB-437E-803D-BEE8B6392DD0' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='27D02444-74FB-437E-803D-BEE8B6392DD0' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='27D02444-74FB-437E-803D-BEE8B6392DD0' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='27D02444-74FB-437E-803D-BEE8B6392DD0' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='27D02444-74FB-437E-803D-BEE8B6392DD0' id='FORM-27D02444-74FB-437E-803D-BEE8B6392DD0' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-27D02444-74FB-437E-803D-BEE8B6392DD0'>Initial</p>
+</div>
 </div>
 </li>
 <li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-3"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 3"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "25"
 ---
 <div class='paper'>
@@ -1065,7 +1065,7 @@ $9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>0668CB97-630A-46B4-99B1-A7E59045E4B1</p>
 </div>
@@ -1076,7 +1076,7 @@ $9$
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1159,36 +1159,41 @@ Find the smallest number of coins I can be given in change when paying a bill fo
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin {aligned}
+\text {Change received}     &= 5 - 2.34 \\\\
+                            &= \pounds 2.66 \\\\
+                            &= \pounds 2 \ 66 \text {p}
+\end {aligned}
+$
 
-</div>
-<div class='working'>
+Coins recieved $= \pounds 2, \ 50 \text {p}, \ 10 \text {p} \ 5 \text {p}, \ 1 \ \text {p}$
 
-TODOWORKING
+Number of coins $= 5$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$5$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+\text {Change received}     &= 5 - 2.34 \\\\
+                            &= \pounds 2.66 \\\\
+                            &= \pounds 2 \ 66 \text {p}
+\end {aligned}
+$
+<emptyline>
+Coins recieved $= \pounds 2, \ 50 \text {p}, \ 10 \text {p} \ 5 \text {p}, \ 1 \ \text {p}$
+<emptyline>
+Number of coins $= 5$
 </code></pre>
 </div>
 </div>
@@ -1200,22 +1205,52 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$5$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='0668CB97-630A-46B4-99B1-A7E59045E4B1' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='0668CB97-630A-46B4-99B1-A7E59045E4B1' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='0668CB97-630A-46B4-99B1-A7E59045E4B1' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='0668CB97-630A-46B4-99B1-A7E59045E4B1' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='0668CB97-630A-46B4-99B1-A7E59045E4B1' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='0668CB97-630A-46B4-99B1-A7E59045E4B1' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='0668CB97-630A-46B4-99B1-A7E59045E4B1' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='0668CB97-630A-46B4-99B1-A7E59045E4B1' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='0668CB97-630A-46B4-99B1-A7E59045E4B1' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='0668CB97-630A-46B4-99B1-A7E59045E4B1' id='FORM-0668CB97-630A-46B4-99B1-A7E59045E4B1' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-0668CB97-630A-46B4-99B1-A7E59045E4B1'>Initial</p>
+</div>
 </div>
 </li>
 <li>

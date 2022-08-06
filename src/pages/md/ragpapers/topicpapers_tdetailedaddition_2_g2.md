@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedaddition-2-g2"
 title: "TopicPaper - Detailedaddition - 2 - G2"
-date: 2022-08-05 16:36:46
+date: 2022-08-06 18:21:53
 questions_count: "40"
 ---
 <ul class='question default-decimal'>
@@ -3837,7 +3837,7 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-EB1BCDF6-8704-4D26-A7B7-AC326F7CAE4A'>Initial</p>
 <div class='question question'>
 
-Work out $4825 + 1754$ 
+Work out $4825 + 1754$. 
 
 </div>
 <div class='workings'>
@@ -6754,7 +6754,7 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-F7E0583D-07FE-4CA1-A171-55FD2D1213F8'>Initial</p>
 <div class='question question'>
 
-Work out $2345 + 6789$
+Work out $2345 + 6789$.
 
 </div>
 <div class='workings'>
@@ -6934,7 +6934,7 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-19341413-65A3-4BC8-B57B-2F00FE94B081'>Initial</p>
 <div class='question question'>
 
-Work out $2567 + 824$
+Work out $2567 + 824$.
 
 </div>
 <div class='workings'>
@@ -7114,7 +7114,7 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-75B9E812-184B-487F-B1BE-CF32FECF07B6'>Initial</p>
 <div class='question question'>
 
-Work out $4567 + 7654$ 
+Work out $4567 + 7654$. 
 
 </div>
 <div class='workings'>

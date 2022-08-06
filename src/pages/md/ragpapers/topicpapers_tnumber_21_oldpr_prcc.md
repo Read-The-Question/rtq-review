@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-21-oldpr-prcc"
 title: "TopicPaper - Number - 21 - OLDPR - PRCC"
-date: 2022-08-05 16:36:46
+date: 2022-08-06 18:21:53
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
@@ -311,39 +311,10 @@ From the list of numbers: $5,\:\: 6,\:\: 8,\:\: 23,\:\: 27,\:\: 45,\:\: 72$
 (You may use each number more than once or not at all)
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-%empty%
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-%empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -614,39 +585,10 @@ This calculation is correct: $1467 \times 76 = 111492$
 Use this result to answer these questions:
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-%empty%
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-%empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -719,10 +661,14 @@ $1114.92 \div 76$
 
 $
 \begin{aligned}
-1467 \times 76 &= 111492 \\\\
-\dfrac {1467} {100} \times 76 &= \dfrac {111492} {100} \\\\
-14.67 \times 76 &= 1114.92 \\\\
-1114.92 \div 76 &= 14.67
+&= 1114.92 \div 76 \\\\
+&= \dfrac {1114.92}{76} \\\\
+&= \dfrac{1114.92 \times 100}{76 \times 100} \\\\
+&= \dfrac{111492} {76 \times 100} \\\\
+&= \dfrac{1467 \times 76}{76 \times 100} \\\\
+&= \dfrac{1467 \times \cancel{76}} {\cancel{76} \times 100} \\\\
+&= \dfrac{1467} {100} \\\\
+&= 14.67 
 \end{aligned}
 $
 
@@ -740,10 +686,14 @@ $14.67$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-1467 \times 76 &= 111492 \\\\
-\dfrac {1467} {100} \times 76 &= \dfrac {111492} {100} \\\\
-14.67 \times 76 &= 1114.92 \\\\
-1114.92 \div 76 &= 14.67
+&= 1114.92 \div 76 \\\\
+&= \dfrac {1114.92}{76} \\\\
+&= \dfrac{1114.92 \times 100}{76 \times 100} \\\\
+&= \dfrac{111492} {76 \times 100} \\\\
+&= \dfrac{1467 \times 76}{76 \times 100} \\\\
+&= \dfrac{1467 \times \cancel{76}} {\cancel{76} \times 100} \\\\
+&= \dfrac{1467} {100} \\\\
+&= 14.67 
 \end{aligned}
 $
 </code></pre>
@@ -775,12 +725,14 @@ $111492 \div 0.76$
 <div class='working'>
 
 $
-\begin{aligned}
-1467 \times 76 &= 111492 \\\\
-1467 \times \dfrac {76} {100} \times 100 &= {111492} \\\\
-146700 \times 0.76 &= 111492 \\\\
-111492 \div 0.76 &= 146700
-\end{aligned}
+&= 111492 \div 0.76 \\\\
+&= \dfrac {111492}{0.76} \\\\
+&= \dfrac{111492 \times 100}{0.76 \times 100} \\\\
+&= \dfrac{11149200} {76 } \\\\
+&= \dfrac{1467 \times 76 \times 100}{76 } \\\\
+&= \dfrac{1467 \times \cancel{76} \times 100} {\cancel{76}} \\\\
+&= 1467 \times 100 \\\\
+&= 146700 
 $
 
 </div>
@@ -796,12 +748,14 @@ $146700$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-1467 \times 76 &= 111492 \\\\
-1467 \times \dfrac {76} {100} \times 100 &= {111492} \\\\
-146700 \times 0.76 &= 111492 \\\\
-111492 \div 0.76 &= 146700
-\end{aligned}
+&= 111492 \div 0.76 \\\\
+&= \dfrac {111492}{0.76} \\\\
+&= \dfrac{111492 \times 100}{0.76 \times 100} \\\\
+&= \dfrac{11149200} {76 } \\\\
+&= \dfrac{1467 \times 76 \times 100}{76 } \\\\
+&= \dfrac{1467 \times \cancel{76} \times 100} {\cancel{76}} \\\\
+&= 1467 \times 100 \\\\
+&= 146700 
 $
 </code></pre>
 </div>
@@ -969,39 +923,10 @@ In mathematics,    $3!$ is a quick way of writing $3 \times 2 \times 1$
 $4!$ is a quick way of writing $4 \times 3 \times 2 \times 1$ and so on.
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-%empty%
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-%empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -1015,7 +940,8 @@ $5!$ is a quick way of writing what?
 
 $
 \begin{aligned}
-5! &= 5 \times 4 \times 3 \times 2 \times 1
+&= 5! 
+&= 5 \times 4 \times 3 \times 2 \times 1
 \end{aligned}
 $
 
@@ -1033,7 +959,8 @@ $5 \times 4 \times 3 \times 2 \times 1$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-5! &= 5 \times 4 \times 3 \times 2 \times 1
+&= 5! 
+&= 5 \times 4 \times 3 \times 2 \times 1
 \end{aligned}
 $
 </code></pre>
@@ -1061,39 +988,10 @@ $
 Calculate the value of:
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-%empty%
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-%empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
 <ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>

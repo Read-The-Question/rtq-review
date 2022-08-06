@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnet-1-blocked"
 title: "TopicPaper - Net - 1 - BLOCKED"
-date: 2022-08-05 16:36:46
+date: 2022-08-06 18:21:53
 questions_count: "1"
 ---
 <ul class='question default-decimal'>

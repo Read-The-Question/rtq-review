@@ -1,7 +1,7 @@
 ---
 slug: "papers/john-lyon-school-11-plus-maths-9999-sample-paper-1"
 title: "John Lyon School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "25"
 ---
 <div class='paper'>
@@ -355,7 +355,7 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-7C019C3E-AD26-40DA-B445-DA91FABB7060'>Initial</p>
 <div class='question question'>
 
-Calculate $572 + 2639$ 
+Calculate $572 + 2639$. 
 
 </div>
 <div class='workings'>
@@ -715,7 +715,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-E397ADA6-9AD9-4F8E-BC83-A772525062F7'>Initial</p>
 <div class='question question'>
 
-Calculate $893 \times 87$
+Calculate $893 \times 87$.
 
 </div>
 <div class='workings'>

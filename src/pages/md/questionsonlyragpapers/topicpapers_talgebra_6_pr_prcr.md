@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-talgebra-6-pr-prcr"
 title: "TopicPaper - Algebra - 6 - PR - PRCR"
-date: 2022-08-05 16:51:29
+date: 2022-08-06 18:37:02
 questions_count: "40"
 ---
 <ul class='question default-decimal'>
@@ -179,6 +179,31 @@ In Miss Thompson’s class, there are $5$ girls for every $4$ boys, and one-fift
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part c) put an extra \' at the end of below line
+
+a &= 3 \times 9 \\
+
+
+
+Change the below line.
+
+\"Fraction of ...\" ===> \"Fraction of the pupils who wear glasses = Pupils with glasses/ Total pupils
+
+             = 3 + 2 / 27
+
+             = 5 / 27
+
+
+
+Correct the answer in answer section as well.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -860,6 +885,17 @@ A customer pays $\pounds110$. How many copies of the leaflet were printed?
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) put an extra \' at the end of below line
+
+&= \pounds 80
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1344,6 +1380,35 @@ Explain how you know.
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a)Since 4 is an even number, all the multiples 4 will also be even.
+
+My number must be even.
+
+
+
+Part b) Create a table with two columns
+
+Factors of 20  |   Parity
+
+1              |     Odd
+
+2              |     Even
+
+4              |     Even
+
+5              |     Odd
+
+
+
+My number could be even or odd.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2217,6 +2282,95 @@ If instead James ends up with $\pounds 2.80$ left of his money how many pens and
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) Add these two lines at top:
+
+rtq_abbr_md_unit_note
+
+Lets convert all the costs into pence.
+
+
+
+Part b) Add these two lines at top:
+
+rtq_abbr_md_unit_note
+
+Lets convert all the costs into pence.
+
+ii) Also show the conversion in the first working:
+
+Money left = \pound 15 - 80 p
+
+           = \pound 15 - \pound 80 / 100
+
+....
+
+
+
+
+
+Part c) Solve it by first making equation and then using trial and error method. 
+
+Start with:
+
+rtq_abbr_md_unit_note
+
+Lets convert all the costs into pence.
+
+
+
+Let the number of pens James bought = a
+
+
+
+Let the number of pencils James bought = b
+
+
+
+As per the question,
+
+£1.25 x a + 80p x b = 15 - 2.80
+
+£1.25 x a + £80/100 x b = 12.20
+
+1.25a + 0.8b = 12.20
+
+
+
+We can easily infer the values by using trial and error. Lets find out $2$ numbers that satisfies the above equation.
+
+
+
+a   |  b    | Value of equation
+
+3   |  4    |    6.95
+
+4   |  7    |    10.6
+
+4   |  9    |    12.20
+
+
+
+A quick check shows that $a = 4$ and $b = 9$ satisfies the equation above.
+
+
+
+James bought 4 pens and 9 pencils.
+
+
+
+Refer to part a) of this question for katex: CC0F7948-FB93-4B7D-B62E-499490AD2FB6
+
+
+
+ii) Capitalize the first word of Pens and Pencils in answers section.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2792,6 +2946,35 @@ ${?} \quad \spadesuit \quad 3 \quad \spadesuit \quad 1 = 8$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) Steps Missing!!!
+
+= 15 ÷ 3 − 1
+
+= 15 / 3 - 1     (Add this line)
+
+= 3 x 5 / 3 - 1  (Add this line)
+
+cancel 3 both on numerator and denominator.
+
+then solve further...
+
+
+
+Part b) Steps Missing!!!
+
+a ÷ 3 = 9
+
+a/3 = 9  (add this line)
+
+a = 9 x 3
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2954,6 +3137,27 @@ What would it cost me if I buy $3$ packets of crisps and $4$ drinks?
 </code></pre>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+We dont use substitute method to solve equations.
+
+
+
+Reference: A7879165-EAE0-4869-9FB1-0CA2600DB446
+
+
+
+Check the working of part a) of reference question
+
+and solve accordingly.
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3035,6 +3239,10 @@ Three bicycles are priced at $\pounds 79, \pounds 80$ and $\pounds 84$. If the s
 
 <h4>Review Comments</h4>
 Show the working by showing the average
+
+
+
+Remove APTQ (first line)
 </div>
 
 <div class='review'>
@@ -3115,6 +3323,15 @@ $300 \ \text{km}$. How much did he pay?
 </code></pre>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Add rtq_abbr_md_unit_note at the top.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3237,6 +3454,43 @@ Sam and Julia find there is one number for which, if they both start from that n
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part b) Steps missing!!
+
+(a x 5 + 11) ÷ 2 = 28
+
+(a x 5 + 11) x 1/2 = 28 (add this line)
+
+(a x 5 + 11) / 2 = 28 (add this line)
+
+...
+
+
+
+Part c) Steps missing!!
+
+a x 2 + 11 = (a × 5 + 11) ÷ 2
+
+2a + 11 = (5a + 11) x 1/2 (add this line)
+
+2a + 11 = (5a + 11)/2    (add this line)
+
+..
+
+...
+
+-a = -11
+
+(remove this line with the cancelation of - sign)
+
+a = 11  (directly write this line)
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3351,6 +3605,33 @@ How many kennels are there?
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+We dont use substitute method to solve equations.
+
+
+
+Reference: A7879165-EAE0-4869-9FB1-0CA2600DB446
+
+Check the working of part a) of the referenced question
+
+and solve in a similar way.
+
+
+
+
+
+Part b) Show the full working as in previous part instead of writing as per previous question.
+
+
+
+Incase of any doubt, ping me on slack.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3522,6 +3803,19 @@ If $p \ \Psi\  q = 20$, find all the pairs of whole numbers that $p$ and $q$ cou
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reference: E2CE5C41-401D-471B-B868-C50B3E4DD99A
+
+
+
+Check the part d) of reference and solve in the similarly way using table method.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3630,6 +3924,29 @@ At the end of which day are there less than $2000$ leaves?
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part b) solve it using table method with two columns 
+
+Day  | Leaves left    | Number of Leaves < 2000
+
+1    |        40000       |         NO
+
+2    |        20000       |         NO
+
+...
+
+..
+
+keep filling this table until leaves < 2000
+
+Then write answer.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3707,6 +4024,31 @@ In a barn there are only horses and people. If there are $12$ heads and $34$ leg
 </code></pre>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+We dont use substitute method to solve equations.
+
+
+
+Reference: A7879165-EAE0-4869-9FB1-0CA2600DB446
+
+Check the working of part a) of the referenced question
+
+and solve in a similar way.
+
+
+
+ii) Dont write \"Number of People/Horses\" in the answers section. Just write
+
+Horses = 12
+
+People = 7
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4084,6 +4426,31 @@ How many pupils chose green or blue?
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a)
+
+i) Step missing
+
+1/4 of a = 30
+
+1/4 x a  = 30 (add this line)
+
+a/4      = 30
+
+ii) Put an extra \' at the end in the below line.
+
+a &= 30 \times 4 \\ 
+
+
+
+Part b) Katex broken: $ missing after end{aligned}
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4163,6 +4530,15 @@ His return train fare is $\pounds 3.80$. If he leaves home with a $\pounds 20$ n
 </code></pre>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Add rtq_abbr_md_unit_note at the top.
+</div>
 
 <div class='review'>
 <ul class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-19-pr"
 title: "TopicPaper - Number - 19 - PR"
-date: 2022-08-05 16:36:46
+date: 2022-08-06 18:21:53
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -387,39 +387,10 @@ The digital roots of the first $9$ square numbers are given in the table below:
 
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-TODOWORKING
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-TODOANSWER
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -456,7 +427,8 @@ $
 
 $
 \begin{aligned}
-\text{Digital root of} \ 196 &= 1 + 9 + 6 &= 16 \\\\
+\text{Digital root of} \ 196 &= 1 + 9 + 6 \\\\ 
+&= 16 \\\\
 &= 1 + 6 \\\\
 &= 7
 \end{aligned}
@@ -471,7 +443,8 @@ $
 
 $
 \begin{aligned}
-\text{Digital root of} \ 256 &= 2 + 5 + 6 &= 13 \\\\
+\text{Digital root of} \ 256 &= 2 + 5 + 6 \\\\
+&= 13 \\\\
 &= 1 + 3 \\\\
 &= 4
 \end{aligned}
@@ -479,8 +452,10 @@ $
 
 $
 \begin{aligned}
-\text{Digital root of} \ 289 &= 2 + 8 + 9 &= 19 \\\\
-&= 1 + 9 &= 10 \\\\
+\text{Digital root of} \ 289 &= 2 + 8 + 9 \\\\
+&= 19 \\\\
+&= 1 + 9 \\\\
+&= 10 \\\\
 &= 1 + 0 \\\\
 &= 1
 \end{aligned}
@@ -521,7 +496,8 @@ $
 <emptyline>
 $
 \begin{aligned}
-\text{Digital root of} \ 196 &= 1 + 9 + 6 &= 16 \\\\
+\text{Digital root of} \ 196 &= 1 + 9 + 6 \\\\ 
+&= 16 \\\\
 &= 1 + 6 \\\\
 &= 7
 \end{aligned}
@@ -536,7 +512,8 @@ $
 <emptyline>
 $
 \begin{aligned}
-\text{Digital root of} \ 256 &= 2 + 5 + 6 &= 13 \\\\
+\text{Digital root of} \ 256 &= 2 + 5 + 6 \\\\
+&= 13 \\\\
 &= 1 + 3 \\\\
 &= 4
 \end{aligned}
@@ -544,8 +521,10 @@ $
 <emptyline>
 $
 \begin{aligned}
-\text{Digital root of} \ 289 &= 2 + 8 + 9 &= 19 \\\\
-&= 1 + 9 &= 10 \\\\
+\text{Digital root of} \ 289 &= 2 + 8 + 9 \\\\
+&= 19 \\\\
+&= 1 + 9 \\\\
+&= 10 \\\\
 &= 1 + 0 \\\\
 &= 1
 \end{aligned}
@@ -618,39 +597,10 @@ What patterns do you notice in the digital roots in the tables above?
 Using the patterns you have spotted, write down the digital roots of the following numbers:
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-TODOWORKING
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-TODOANSWER
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
 <ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
@@ -917,39 +867,10 @@ tnumber
 %empty% 
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-%empty%
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-%empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -1474,8 +1395,8 @@ As per the diagram,
 
 $
 \begin{aligned}
-\text {Length of the pencil}  &= 3.6 \ \text {inches} - 0.7 \ \text {inches} \\\\
-\text {Length of the pencil}  &= 2.9 \ \text{inches}
+&= 3.6 \ \text {inches} - 0.7 \ \text {inches} \\\\
+&= 2.9 \ \text{inches}
 \end{aligned}
 $
 
@@ -1495,8 +1416,8 @@ $2.9 \ \text{inches}$
 <emptyline>
 $
 \begin{aligned}
-\text {Length of the pencil}  &= 3.6 \ \text {inches} - 0.7 \ \text {inches} \\\\
-\text {Length of the pencil}  &= 2.9 \ \text{inches}
+&= 3.6 \ \text {inches} - 0.7 \ \text {inches} \\\\
+&= 2.9 \ \text{inches}
 \end{aligned}
 $
 </code></pre>
@@ -1666,39 +1587,10 @@ She has eight cups each of capacity $150 \ \text{ml}$.
 Zoya fills the cups with lemonade from her jug.
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-TODOWORKING
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-TODOANSWER
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -1712,10 +1604,10 @@ What volume of lemonade is left in the jug?
 
 $
 \begin{aligned}
-&= 1.5 \text{liter}\ - 150 \text{ml}\ \times 8 \\\\
-&= (1.5 \times 1000) \text{ml}\ - 150 \text{ml}\ \times 8 \\\\
+&= 1.5 \ \text{liter}\ - 150 \ \text{ml}\ \times 8 \\\\
+&= (1.5  \times 1000) \ \text{ml}\ - 150 \ \text{ml}\ \times 8 \\\\
 &= 1500 - 1200 \\\\
-&= 300 \text{ml}\
+&= 300 \ \text{ml}\
 \end{aligned}
 $
 
@@ -1733,10 +1625,10 @@ $
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 1.5 \text{liter}\ - 150 \text{ml}\ \times 8 \\\\
-&= (1.5 \times 1000) \text{ml}\ - 150 \text{ml}\ \times 8 \\\\
+&= 1.5 \ \text{liter}\ - 150 \ \text{ml}\ \times 8 \\\\
+&= (1.5  \times 1000) \ \text{ml}\ - 150 \ \text{ml}\ \times 8 \\\\
 &= 1500 - 1200 \\\\
-&= 300 \text{ml}\
+&= 300 \ \text{ml}\
 \end{aligned}
 $
 </code></pre>
@@ -2739,64 +2631,10 @@ A *preble* is a set of three numbers in which the last number is the product of 
 Work out the missing number in each of these prebles.
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-TODOWORKING
 
-</div>
-<div class='working'>
 
-TODOWORKING
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -2808,6 +2646,8 @@ $(6, 1\dfrac{1}{3}, a) \qquad a = \text{\textunderscore \textunderscore \textund
 <div class='workings'>
 <div class='working'>
 
+As per question, 
+
 $
 \begin {aligned}
 6 \times 1 \dfrac {1}{3} &= a \\\\
@@ -2816,11 +2656,6 @@ $
 a &= 8
 \end {aligned}
 $
-
-</div>
-<div class='working'>
-
-TODOWORKING
 
 </div>
 </div>
@@ -2830,16 +2665,13 @@ TODOWORKING
 $a = 8$
 
 </div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>As per question, 
+<emptyline>
+$
 \begin {aligned}
 6 \times 1 \dfrac {1}{3} &= a \\\\
 6 \times \dfrac {4}{3} &= a \\\\
@@ -2847,11 +2679,6 @@ TODOANSWER
 a &= 8
 \end {aligned}
 $
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
 </div>
@@ -2864,16 +2691,6 @@ $
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$a = 8$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
 </code></pre>
 </div>
 </div>
@@ -2890,6 +2707,8 @@ $(12, b, 15) \qquad b = \text{\textunderscore \textunderscore \textunderscore}$
 <div class='workings'>
 <div class='working'>
 
+As per question,
+
 $
 \begin {aligned}
 12 \times b &= 15 \\\\
@@ -2898,11 +2717,6 @@ b &= \dfrac {5} {4} \\\\
 b &= 1.25
 \end {aligned}
 $
-
-</div>
-<div class='working'>
-
-TODOWORKING
 
 </div>
 </div>
@@ -2912,16 +2726,13 @@ TODOWORKING
 $b = 1.25$
 
 </div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>As per question,
+<emptyline>
+$
 \begin {aligned}
 12 \times b &= 15 \\\\
 b &= \dfrac {15} {12} \\\\
@@ -2929,11 +2740,6 @@ b &= \dfrac {5} {4} \\\\
 b &= 1.25
 \end {aligned}
 $
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
 </div>
@@ -2946,16 +2752,6 @@ $
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$b = 1.25$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
 </code></pre>
 </div>
 </div>
@@ -2972,6 +2768,8 @@ $(c, 11, 1045) \qquad c = \text{\textunderscore \textunderscore \textunderscore}
 <div class='workings'>
 <div class='working'>
 
+As per question,
+
 $
 \begin {aligned}
 c \times 11 &= 1045 \\\\
@@ -2981,11 +2779,6 @@ c &= \dfrac {95 \times \cancel {11}} {\cancel{11}} \\\\
 c &= 95
 \end {aligned}
 $
-
-</div>
-<div class='working'>
-
-TODOWORKING
 
 </div>
 </div>
@@ -2995,16 +2788,13 @@ TODOWORKING
 $c = 95$
 
 </div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>As per question,
+<emptyline>
+$
 \begin {aligned}
 c \times 11 &= 1045 \\\\
 c &= \dfrac {1045} {11} \\\\
@@ -3013,11 +2803,6 @@ c &= \dfrac {95 \times \cancel {11}} {\cancel{11}} \\\\
 c &= 95
 \end {aligned}
 $
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
 </div>
@@ -3030,16 +2815,6 @@ $
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$c = 95$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
 </code></pre>
 </div>
 </div>
@@ -3056,6 +2831,8 @@ $(0.5, d, 28) \qquad d = \text{\textunderscore \textunderscore \textunderscore}$
 <div class='workings'>
 <div class='working'>
 
+As per question,
+
 $
 \begin {aligned}
 0.5 \times d &= 28 \\\\
@@ -3064,11 +2841,6 @@ d &= 28 \times 2 \\\\
 b &= 56
 \end {aligned}
 $
-
-</div>
-<div class='working'>
-
-TODOWORKING
 
 </div>
 </div>
@@ -3078,16 +2850,13 @@ TODOWORKING
 $b = 56$
 
 </div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>As per question,
+<emptyline>
+$
 \begin {aligned}
 0.5 \times d &= 28 \\\\
 \dfrac {d} {2} &= 28 \\\\
@@ -3095,11 +2864,6 @@ d &= 28 \times 2 \\\\
 b &= 56
 \end {aligned}
 $
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
 </div>
@@ -3112,16 +2876,6 @@ $
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$b = 56$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
 </code></pre>
 </div>
 </div>
@@ -3138,6 +2892,8 @@ $(0.4, e, 0.24) \qquad e = \text{\textunderscore \textunderscore \textunderscore
 <div class='workings'>
 <div class='working'>
 
+As per question,
+
 $
 \begin {aligned}
 0.4 \times e &= 0.24 \\\\
@@ -3149,11 +2905,6 @@ e &= \dfrac {6} {10} \\\\
 e &= 0.6
 \end {aligned}
 $
-
-</div>
-<div class='working'>
-
-TODOWORKING
 
 </div>
 </div>
@@ -3163,16 +2914,13 @@ TODOWORKING
 $e = 0.6$
 
 </div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>As per question,
+<emptyline>
+$
 \begin {aligned}
 0.4 \times e &= 0.24 \\\\
 \dfrac {4} {10} \times e &= \dfrac {24} {100} \\\\
@@ -3183,11 +2931,6 @@ e &= \dfrac {6} {10} \\\\
 e &= 0.6
 \end {aligned}
 $
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
 </div>
@@ -3200,16 +2943,6 @@ $
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$e = 0.6$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
 </code></pre>
 </div>
 </div>
@@ -3270,7 +3003,7 @@ not written using algebra standards
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>1BA32A39-3DF3-41AF-A06A-CFDAD220B1D4</p>
 </div>
@@ -3284,7 +3017,7 @@ not written using algebra standards
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3358,64 +3091,10 @@ tnumber
 %empty% 
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-TODOWORKING
 
-</div>
-<div class='working'>
 
-TODOWORKING
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -3440,21 +3119,11 @@ $
 $
 
 </div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
 $4$ Or, $9$ Or, $25$
-
-</div>
-<div class='answer'>
-
-TODOANSWER
 
 </div>
 </div>
@@ -3474,11 +3143,6 @@ $
 $
 </code></pre>
 </div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
 </div>
 <div class='answers'>
 <div class='answercodeblock'>
@@ -3489,16 +3153,6 @@ $
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$4$ Or, $9$ Or, $25$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
 </code></pre>
 </div>
 </div>
@@ -3517,15 +3171,11 @@ Write down the smallest multiple of $17$ which is greater than $200$.
 
 $
 \begin{aligned}
+&= 12
+&= 17 \times 12 \\\\
 &= 204 \\\\
-&= 17 \times 12
 \end{aligned}
 $
-
-</div>
-<div class='working'>
-
-TODOWORKING
 
 </div>
 </div>
@@ -3535,26 +3185,17 @@ TODOWORKING
 $204$
 
 </div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
+&= 12
+&= 17 \times 12 \\\\
 &= 204 \\\\
-&= 17 \times 12
 \end{aligned}
 $
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
 </div>
@@ -3567,16 +3208,6 @@ $
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$204$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
 </code></pre>
 </div>
 </div>
@@ -3593,14 +3224,7 @@ Write down a prime number between $90$ and $100$.
 <div class='workings'>
 <div class='working'>
 
-97
-
-97 is the only prime number between 90 and 100
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$97$
 
 </div>
 </div>
@@ -3610,23 +3234,11 @@ TODOWORKING
 $97$
 
 </div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>97
-<emptyline>
-97 is the only prime number between 90 and 100
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$97$
 </code></pre>
 </div>
 </div>
@@ -3639,16 +3251,6 @@ TODOANSWER
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$97$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
 </code></pre>
 </div>
 </div>
@@ -3682,21 +3284,11 @@ $
 
 
 </div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
 $\dfrac{5}{12}$
-
-</div>
-<div class='answer'>
-
-TODOANSWER
 
 </div>
 </div>
@@ -3720,11 +3312,6 @@ $
 <emptyline>
 </code></pre>
 </div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
 </div>
 <div class='answers'>
 <div class='answercodeblock'>
@@ -3735,16 +3322,6 @@ $
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$\dfrac{5}{12}$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
 </code></pre>
 </div>
 </div>

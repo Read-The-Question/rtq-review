@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2014-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2014 - Group 1"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "36"
 ---
 <div class='paper'>
@@ -99,7 +99,7 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-4A3F2681-E4DC-4880-AE93-D9D13C4BB0C7'>Initial</p>
 <div class='question question'>
 
-Work out $2495 + 609$
+Work out $2495 + 609$.
 
 </div>
 <div class='workings'>
@@ -1843,7 +1843,7 @@ $3.08, \quad 3.8, \quad 3.808, \quad 3.88$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>3333F909-34F8-4849-86F8-FDA974248AC6</p>
 </div>
@@ -1857,7 +1857,7 @@ $3.08, \quad 3.8, \quad 3.808, \quad 3.88$
 <p>rag_am_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8431,7 +8431,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>139515A2-06C2-4784-A793-112DD4CB90CD</p>
 </div>
@@ -8445,7 +8445,7 @@ TODOANSWER
 <p>rag_am_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8580,19 +8580,20 @@ Let the cost of a pear $= c$.
 
 As per the question,
 
-$b + c = 64 \ \text {pence}$.
+Total cost of an apple, $2$ oranges and $3$ pears$= \pounds 2.10 $
+
+$b + c = 64 \ \text {p}$.
 
 Using this, we get
 
 $
 \begin {aligned}
-\text {Total cost}          &= \pounds 2.10 \\\\
-a + 2b + 3c                 &= 2.10 \times 100 \ \text {pence} \\\\
-a + 2b + 3 \times (64 - b)  &= 210 \ \text {pence} \\\\
+a + 2b + 3c                 &= 2.10 \times 100 \ \text {p} \\\\
+a + 2b + 3 \times (64 - b)  &= 210 \ \text {p} \\\\
 a + 2b + 3 \times 64 - 3b   &= 210 \\\\
 a - b + 192                 &= 210 \\\\
 a - b                       &= 210 - 192 \\\\
-a - b                       &= 18 \ \text {pence}
+a - b                       &= 18 \ \text {p}
 \end {aligned}
 $
 
@@ -8618,19 +8619,20 @@ Let the cost of a pear $= c$.
 <emptyline>
 As per the question,
 <emptyline>
-$b + c = 64 \ \text {pence}$.
+Total cost of an apple, $2$ oranges and $3$ pears$= \pounds 2.10 $
+<emptyline>
+$b + c = 64 \ \text {p}$.
 <emptyline>
 Using this, we get
 <emptyline>
 $
 \begin {aligned}
-\text {Total cost}          &= \pounds 2.10 \\\\
-a + 2b + 3c                 &= 2.10 \times 100 \ \text {pence} \\\\
-a + 2b + 3 \times (64 - b)  &= 210 \ \text {pence} \\\\
+a + 2b + 3c                 &= 2.10 \times 100 \ \text {p} \\\\
+a + 2b + 3 \times (64 - b)  &= 210 \ \text {p} \\\\
 a + 2b + 3 \times 64 - 3b   &= 210 \\\\
 a - b + 192                 &= 210 \\\\
 a - b                       &= 210 - 192 \\\\
-a - b                       &= 18 \ \text {pence}
+a - b                       &= 18 \ \text {p}
 \end {aligned}
 $
 <emptyline>

@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tnumber-13"
 title: "TopicPaper - Number - 13"
-date: 2022-08-05 16:51:29
+date: 2022-08-06 18:37:02
 questions_count: "40"
 ---
 <div class='paper'>
@@ -16,7 +16,7 @@ questions_count: "40"
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_prns rag_prcr question'>
 <div class='uuid'>
 <p>6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD</p>
 </div>
@@ -27,7 +27,7 @@ questions_count: "40"
 <p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -82,7 +82,52 @@ Which is the biggest fraction?
 </div>
 </li>
 </ul>
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+Part A : Remove \"to compare\". make L in lets capital .. Space  before and after \"and\" ..LCM for $4, 9 \text{and} 6 = 36$  Last line check katex. Part B : As per the above answer,  (Next line) The biggest fraction $= (the rest)
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-sheet='' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-sheet='' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-sheet='' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-sheet='' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-sheet='' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-sheet='' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-sheet='' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-sheet='' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-sheet='' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' id='FORM-6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -799,6 +844,46 @@ The digits $3, 1, 9$ and $2$ can be arranged in any order to make four digit num
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A0D00897-FAB7-4461-A986-7C7E51444762' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A0D00897-FAB7-4461-A986-7C7E51444762' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A0D00897-FAB7-4461-A986-7C7E51444762' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A0D00897-FAB7-4461-A986-7C7E51444762' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A0D00897-FAB7-4461-A986-7C7E51444762' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A0D00897-FAB7-4461-A986-7C7E51444762' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A0D00897-FAB7-4461-A986-7C7E51444762' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A0D00897-FAB7-4461-A986-7C7E51444762' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A0D00897-FAB7-4461-A986-7C7E51444762' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A0D00897-FAB7-4461-A986-7C7E51444762' id='FORM-A0D00897-FAB7-4461-A986-7C7E51444762' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A0D00897-FAB7-4461-A986-7C7E51444762'>Initial</p>
+</div>
 </div>
 </li>
 <li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/blackheath-high-school-11-plus-maths-2007-sample-paper-1"
 title: "Blackheath High School - 11 Plus - Maths - 2007 - Sample Paper 1"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "21"
 ---
 <div class='paper'>
@@ -6417,7 +6417,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>7BEB417D-26EE-44E0-80AF-5F08DF8C011B</p>
 </div>
@@ -6428,7 +6428,7 @@ TODOANSWER
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6548,21 +6548,55 @@ $99=$
 <div class='workings'>
 <div class='working'>
 
-
+| 82 | = 16 \times 5 + 1 \times 2  |
+| 83 | = 15 \times 5 + 4 \times 2  |
+| 84 | = 16 \times 5 + 2 \times 2  |
+| 85 | = 15 \times 5 + 5 \times 2  |
+| 86 | = 16 \times 5 + 3 \times 2  |
+| 87 | = 15 \times 5 + 6 \times 2  |
+| 88 | = 16 \times 5 + 4 \times 2  |
+| 89 | = 15 \times 5 + 7 \times 2  |
+| 90 | = 18 \times 5               |
+| 91 | = 17 \times 5 + 3 \times 2  |
+| 92 | = 18 \times 5 + 1 \times 2  |
+| 93 | = 17 \times 5 + 4 \times 2  |
+| 94 | = 18 \times 5 + 2 \times 2  |
+| 95 | = 17 \times 5 + 5 \times 2  |
+| 96 | = 18 \times 5 + 3 \times 2  |
+| 97 | = 19 \times 5 + 1 \times 2  |
+| 98 | = 18 \times 5 + 4 \times 2  |
+| 99 | = 19 \times 5 + 2 \times 2  |
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>
+<pre class='language-latex'><code class='language-latex'>| 82 | = 16 \times 5 + 1 \times 2  |
+| 83 | = 15 \times 5 + 4 \times 2  |
+| 84 | = 16 \times 5 + 2 \times 2  |
+| 85 | = 15 \times 5 + 5 \times 2  |
+| 86 | = 16 \times 5 + 3 \times 2  |
+| 87 | = 15 \times 5 + 6 \times 2  |
+| 88 | = 16 \times 5 + 4 \times 2  |
+| 89 | = 15 \times 5 + 7 \times 2  |
+| 90 | = 18 \times 5               |
+| 91 | = 17 \times 5 + 3 \times 2  |
+| 92 | = 18 \times 5 + 1 \times 2  |
+| 93 | = 17 \times 5 + 4 \times 2  |
+| 94 | = 18 \times 5 + 2 \times 2  |
+| 95 | = 17 \times 5 + 5 \times 2  |
+| 96 | = 18 \times 5 + 3 \times 2  |
+| 97 | = 19 \times 5 + 1 \times 2  |
+| 98 | = 18 \times 5 + 4 \times 2  |
+| 99 | = 19 \times 5 + 2 \times 2  |
 </code></pre>
 </div>
 </div>
@@ -6574,12 +6608,52 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='7BEB417D-26EE-44E0-80AF-5F08DF8C011B' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='7BEB417D-26EE-44E0-80AF-5F08DF8C011B' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='7BEB417D-26EE-44E0-80AF-5F08DF8C011B' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='7BEB417D-26EE-44E0-80AF-5F08DF8C011B' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='7BEB417D-26EE-44E0-80AF-5F08DF8C011B' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='7BEB417D-26EE-44E0-80AF-5F08DF8C011B' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='7BEB417D-26EE-44E0-80AF-5F08DF8C011B' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='7BEB417D-26EE-44E0-80AF-5F08DF8C011B' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='7BEB417D-26EE-44E0-80AF-5F08DF8C011B' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='7BEB417D-26EE-44E0-80AF-5F08DF8C011B' id='FORM-7BEB417D-26EE-44E0-80AF-5F08DF8C011B' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-7BEB417D-26EE-44E0-80AF-5F08DF8C011B'>Initial</p>
+</div>
 </div>
 </li>
 </ul>

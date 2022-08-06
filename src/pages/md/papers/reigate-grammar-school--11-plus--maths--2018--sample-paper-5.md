@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2018-sample-paper-5"
 title: "Reigate Grammar School - 11 Plus - Maths - 2018 - Sample Paper 5"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "36"
 ---
 <div class='paper'>
@@ -7831,7 +7831,7 @@ do similar to D2A86CA4-F12F-428A-A86B-8B322E9D886C using simple word way
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>191CD2FA-CE07-4708-99E9-0C5625EFED6C</p>
 </div>
@@ -7845,7 +7845,7 @@ do similar to D2A86CA4-F12F-428A-A86B-8B322E9D886C using simple word way
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8145,6 +8145,23 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+* is being used instead of ⋆.
+
+Change * to ⋆ all the parts wherever required.
+
+
+
+Part c) We dont solve quadratic equations this way. Check part d) of the referenced question for proper wording. 
+
+Reference: 186AAEE8-D55E-48C5-996E-8F8A69BD4AFB
+</div>
 
 <div class='review'>
 <ul class='review'>

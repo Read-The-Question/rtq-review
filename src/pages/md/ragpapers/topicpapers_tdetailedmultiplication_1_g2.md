@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedmultiplication-1-g2"
 title: "TopicPaper - Detailedmultiplication - 1 - G2"
-date: 2022-08-05 16:36:46
+date: 2022-08-06 18:21:53
 questions_count: "39"
 ---
 <ul class='question default-decimal'>
@@ -456,9 +456,6 @@ tdetailedmultiplication
 
 <p class='review_status initial' id='SUBTAG-STATUS-B65FD0A9-ADA4-4E28-A053-208E2C0FA1E1'>Initial</p>
 <div class='question question'>
-
-**THIS PAPER HAVE SUB QUESTOINS BUT THEY ARE NOT MARKED A B C. It would make sense
-to change them to subquestions without numbering**
 
 What is $3.6 \times 100$?
 
@@ -1564,7 +1561,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-E6E5FA77-7AEA-4834-9C78-FD484B80C74D'>Initial</p>
 <div class='question question'>
 
-Multiply $168$ by $91$
+Multiply $168$ by $91$.
 
 </div>
 <div class='workings'>
@@ -1750,7 +1747,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-97EE15E8-9288-4DDB-829A-51AC5EF7F93D'>Initial</p>
 <div class='question question'>
 
-What is $87 \times 96$
+What is $87 \times 96 \ ?$
 
 </div>
 <div class='workings'>
@@ -2315,7 +2312,7 @@ tdecimal
 <p class='review_status initial' id='SUBTAG-STATUS-2FE57409-2327-4E00-9415-10426393DDD3'>Initial</p>
 <div class='question question'>
 
-Work out $2.16$ times $8$
+Work out $2.16$ times $8$.
 
 </div>
 <div class='workings'>
@@ -2882,7 +2879,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-361675FE-206F-42FB-B0FD-69D3DA628675'>Initial</p>
 <div class='question question'>
 
-Multiply $59$ by $7$
+Multiply $59$ by $7$.
 
 </div>
 <div class='workings'>
@@ -4650,7 +4647,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-B5B3F19E-4AC9-4F08-A95B-BB1D4A4B3FA4'>Initial</p>
 <div class='question question'>
 
-What is the answer to $0.2 \times 0.03$
+What is the answer to $0.2 \times 0.03 \ ?$
 
 - $6$
 - $0.600$
@@ -4841,7 +4838,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-E44863F0-1211-418A-BC0A-D814CB3A5121'>Initial</p>
 <div class='question question'>
 
-Calculate $836 \times 45$
+Calculate $836 \times 45$.
 
 -  $37620$
 -  $37520$
@@ -5035,7 +5032,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-9E55C1FD-8C28-4C36-A835-6D6EEF677721'>Initial</p>
 <div class='question question'>
 
-Do the following multiplication sums 
+Do the following multiplication sums. 
 
 </div>
 <div class='workings'>
@@ -5524,7 +5521,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-DE07B6AC-5AFC-4D12-8EA1-711FCC1302CD'>Initial</p>
 <div class='question question'>
 
-Work out $221 \times 8$ 
+Work out $221 \times 8$. 
 
 </div>
 <div class='workings'>
@@ -5704,7 +5701,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-E7519A4D-8BEA-442B-90CD-571EBAE14F5F'>Initial</p>
 <div class='question question'>
 
-Work out $764 \times 7$ 
+Work out $764 \times 7$. 
 
 </div>
 <div class='workings'>
@@ -5884,7 +5881,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-CD319D1D-CC3E-4279-977A-DEBB6876A9AC'>Initial</p>
 <div class='question question'>
 
-Workout $876 \times 3$
+Work out $876 \times 3$.
 
 </div>
 <div class='workings'>
@@ -6064,7 +6061,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-2A653C7D-4FA7-419D-B78B-057EAF75D10F'>Initial</p>
 <div class='question question'>
 
-Workout $246 \times 8$
+Work out $246 \times 8$.
 
 </div>
 <div class='workings'>
@@ -7085,7 +7082,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-E397ADA6-9AD9-4F8E-BC83-A772525062F7'>Initial</p>
 <div class='question question'>
 
-Calculate $893 \times 87$
+Calculate $893 \times 87$.
 
 </div>
 <div class='workings'>
@@ -7457,7 +7454,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-D342F86C-24E3-46D4-8A92-0F41A2141E7F'>Initial</p>
 <div class='question question'>
 
-Work out $345 \times 5$
+Work out $345 \times 5$.
 
 </div>
 <div class='workings'>

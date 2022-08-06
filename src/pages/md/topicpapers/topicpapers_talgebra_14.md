@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-14"
 title: "TopicPaper - Algebra - 14"
-date: 2022-08-05 16:36:46
+date: 2022-08-06 18:21:53
 questions_count: "40"
 ---
 <div class='paper'>
@@ -7741,7 +7741,7 @@ In blue answer 1
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>E14872CA-A458-40F9-8C07-62F2E9C9CC11</p>
 </div>
@@ -7755,7 +7755,7 @@ In blue answer 1
 <p>rag_am_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8003,9 +8003,9 @@ $
 \begin{aligned}
 c \times 12  &= 18 \div 3 \\\\
 c \times 12  &= \dfrac {18} {3} \\\\
-c            &= \dfrac {18} {3 \times 12} \\\\
-c            &= \dfrac {2 \times 3 \times 3} {3 \times 2 \times 2 \times 3} \\\\
-c            &= \dfrac {\cancel {2} \times \cancel {3} \times  \cancel {3}} {\cancel {3} \times \cancel {2} \times \cancel {3} \times 2} \\\\
+c            &= \dfrac {6 \times 3} {3 \times 12} \\\\
+c            &= \dfrac {6 \times 3} {3 \times 2 \times 6} \\\\
+c            &= \dfrac {\cancel 6 \times \cancel 3} {\cancel 3 \times 2 \times \cancel 6} \\\\
 c            &= \dfrac {1} {2}
 \end{aligned}
 $
@@ -8028,9 +8028,9 @@ $
 \begin{aligned}
 c \times 12  &= 18 \div 3 \\\\
 c \times 12  &= \dfrac {18} {3} \\\\
-c            &= \dfrac {18} {3 \times 12} \\\\
-c            &= \dfrac {2 \times 3 \times 3} {3 \times 2 \times 2 \times 3} \\\\
-c            &= \dfrac {\cancel {2} \times \cancel {3} \times  \cancel {3}} {\cancel {3} \times \cancel {2} \times \cancel {3} \times 2} \\\\
+c            &= \dfrac {6 \times 3} {3 \times 12} \\\\
+c            &= \dfrac {6 \times 3} {3 \times 2 \times 6} \\\\
+c            &= \dfrac {\cancel 6 \times \cancel 3} {\cancel 3 \times 2 \times \cancel 6} \\\\
 c            &= \dfrac {1} {2}
 \end{aligned}
 $
@@ -10548,7 +10548,7 @@ Cost of 1 large tub of popcorn, 11 fizzy drink and 11 packet of crisps $= 4.14$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>3333F909-34F8-4849-86F8-FDA974248AC6</p>
 </div>
@@ -10562,7 +10562,7 @@ Cost of 1 large tub of popcorn, 11 fizzy drink and 11 packet of crisps $= 4.14$
 <p>rag_am_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -10947,7 +10947,7 @@ Part C : Not solved, solve please
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>139515A2-06C2-4784-A793-112DD4CB90CD</p>
 </div>
@@ -10961,7 +10961,7 @@ Part C : Not solved, solve please
 <p>rag_am_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -11096,19 +11096,20 @@ Let the cost of a pear $= c$.
 
 As per the question,
 
-$b + c = 64 \ \text {pence}$.
+Total cost of an apple, $2$ oranges and $3$ pears$= \pounds 2.10 $
+
+$b + c = 64 \ \text {p}$.
 
 Using this, we get
 
 $
 \begin {aligned}
-\text {Total cost}          &= \pounds 2.10 \\\\
-a + 2b + 3c                 &= 2.10 \times 100 \ \text {pence} \\\\
-a + 2b + 3 \times (64 - b)  &= 210 \ \text {pence} \\\\
+a + 2b + 3c                 &= 2.10 \times 100 \ \text {p} \\\\
+a + 2b + 3 \times (64 - b)  &= 210 \ \text {p} \\\\
 a + 2b + 3 \times 64 - 3b   &= 210 \\\\
 a - b + 192                 &= 210 \\\\
 a - b                       &= 210 - 192 \\\\
-a - b                       &= 18 \ \text {pence}
+a - b                       &= 18 \ \text {p}
 \end {aligned}
 $
 
@@ -11134,19 +11135,20 @@ Let the cost of a pear $= c$.
 <emptyline>
 As per the question,
 <emptyline>
-$b + c = 64 \ \text {pence}$.
+Total cost of an apple, $2$ oranges and $3$ pears$= \pounds 2.10 $
+<emptyline>
+$b + c = 64 \ \text {p}$.
 <emptyline>
 Using this, we get
 <emptyline>
 $
 \begin {aligned}
-\text {Total cost}          &= \pounds 2.10 \\\\
-a + 2b + 3c                 &= 2.10 \times 100 \ \text {pence} \\\\
-a + 2b + 3 \times (64 - b)  &= 210 \ \text {pence} \\\\
+a + 2b + 3c                 &= 2.10 \times 100 \ \text {p} \\\\
+a + 2b + 3 \times (64 - b)  &= 210 \ \text {p} \\\\
 a + 2b + 3 \times 64 - 3b   &= 210 \\\\
 a - b + 192                 &= 210 \\\\
 a - b                       &= 210 - 192 \\\\
-a - b                       &= 18 \ \text {pence}
+a - b                       &= 18 \ \text {p}
 \end {aligned}
 $
 <emptyline>

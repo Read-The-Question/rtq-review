@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-9999-sample-paper-2"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "59"
 ---
 <div class='paper'>
@@ -100,9 +100,6 @@ tdetailedmultiplication
 
 <p class='review_status initial' id='SUBTAG-STATUS-B65FD0A9-ADA4-4E28-A053-208E2C0FA1E1'>Initial</p>
 <div class='question question'>
-
-**THIS PAPER HAVE SUB QUESTOINS BUT THEY ARE NOT MARKED A B C. It would make sense
-to change them to subquestions without numbering**
 
 What is $3.6 \times 100$?
 

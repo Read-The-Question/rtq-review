@@ -1,7 +1,7 @@
 ---
 slug: "papers/king-henry-viii-school-11-plus-maths-9999-sample-paper-1"
 title: "King Henry Viii School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "40"
 ---
 <div class='paper'>
@@ -584,7 +584,7 @@ tdetailedaddition
 <p class='review_status initial' id='SUBTAG-STATUS-72414C08-6F87-4B5B-B641-FBEEDD3094DD'>Initial</p>
 <div class='question question'>
 
-Work out $498 + 349$
+Work out $498 + 349$.
 
 </div>
 <div class='workings'>
@@ -1124,7 +1124,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-D342F86C-24E3-46D4-8A92-0F41A2141E7F'>Initial</p>
 <div class='question question'>
 
-Work out $345 \times 5$
+Work out $345 \times 5$.
 
 </div>
 <div class='workings'>
@@ -1949,7 +1949,7 @@ tdecimal
 <p class='review_status initial' id='SUBTAG-STATUS-4A850628-BFA5-4B3F-9B71-75D9E7F47CC7'>Initial</p>
 <div class='question question'>
 
-Calculate $5.221 + 5.8$
+Calculate $5.221 + 5.8$.
 
 </div>
 <div class='workings'>

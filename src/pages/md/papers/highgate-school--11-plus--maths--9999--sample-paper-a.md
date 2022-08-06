@@ -1,7 +1,7 @@
 ---
 slug: "papers/highgate-school-11-plus-maths-9999-sample-paper-a"
 title: "Highgate School - 11 Plus - Maths - 9999 - Sample Paper A"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "4"
 ---
 <div class='paper'>
@@ -1128,7 +1128,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C</p>
 </div>
@@ -1139,7 +1139,7 @@ $
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1262,37 +1262,53 @@ Tim spent $\pounds 65$ in total. How many paintballs did he use?
 <div class='workings'>
 <div class='working'>
 
-Entry cost         = $\pounds 23
-Total cost         = $\pounds 65
-Cost of paintballs = Entry cost - Total cost
-Cost of paintballs = $\pounds 42
+$
+\begin{aligned}
+\text{Cost of using paintballs}       &= 65 - 23 \\\\
+                                      &= \pounds 42
+\end{aligned}
+$
 
-100 paintballs     : $\pounds 6
-??? paintballs     : $\pounds 42
-100 x 7 paintballs : $\pounds 6 x 7
-700 paintballs     : $\pounds 42
+$
+\begin{aligned}
+\text{Number of paintballs}     &= 100 \times \dfrac {42} {6} \\\\
+                                &= \dfrac {100 \times 42} {6} \\\\
+                                &= \dfrac {100 \times 6 \times 7} {6} \\\\
+                                &= \dfrac {100 \times \cancel 6 \times 7} {\cancel 6} \\\\
+                                &= 100 \times 7 \\\\
+                                &= 700
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Tim uses %s paintballs. $=$ 700
+$700$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Entry cost         = $\pounds 23
-Total cost         = $\pounds 65
-Cost of paintballs = Entry cost - Total cost
-Cost of paintballs = $\pounds 42
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Cost of using paintballs}       &= 65 - 23 \\\\
+                                      &= \pounds 42
+\end{aligned}
+$
 <emptyline>
-100 paintballs     : $\pounds 6
-??? paintballs     : $\pounds 42
-100 x 7 paintballs : $\pounds 6 x 7
-700 paintballs     : $\pounds 42
+$
+\begin{aligned}
+\text{Number of paintballs}     &= 100 \times \dfrac {42} {6} \\\\
+                                &= \dfrac {100 \times 42} {6} \\\\
+                                &= \dfrac {100 \times 6 \times 7} {6} \\\\
+                                &= \dfrac {100 \times \cancel 6 \times 7} {\cancel 6} \\\\
+                                &= 100 \times 7 \\\\
+                                &= 700
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -1301,10 +1317,10 @@ Cost of paintballs = $\pounds 42
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Tim uses %s paintballs.</code></pre>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>700
+<pre class='language-latex'><code class='language-latex'>$700$
 </code></pre>
 </div>
 </div>
@@ -1324,45 +1340,67 @@ How much hot water does she use?
 <div class='workings'>
 <div class='working'>
 
-Let c represent cold water.
+Let the volume of hot water $= a \ \text{litres}$
 
-Cold water  = c
-Hot water   = 5 x c
-Hot water   = 5c 
-Total water = $90 \ \text{l}$ 
+Volume of cold water $= (90 - a) \ \text{litres}$
 
-Total water = 5c + c
-            = 6c
+Using equivalent ratio,
 
-6c = $90 \ \text{l}$
-c  = $15 \ \text{l}$
-5c = $75 \ \text{l}$
+$
+\begin{aligned}
+5 \ \text{hot water} : 1 \ \text{cold water}    &= a \ \text{hot water} : (90 - a) \ \text{cold water} \\\\
+\dfrac {5} {1}                                  &= \dfrac {a} {90 - a} \\\\
+5 \times (90 - a)                               &= 1 \times a \\\\
+5 \times 90 - 5a                                &= a \\\\
+450 - 5a                                        &= a \\\\
+450                                             &= a + 5a \\\\
+a + 5a                                          &= 450 \\\\
+6a                                              &= 450 \\\\
+a                                               &= \dfrac {450} {6} \\\\
+a                                               &= \dfrac {6 \times 75} {6} \\\\
+a                                               &= \dfrac {\cancel 6 \times 75} {\cancel 6} \\\\
+a                                               &= 75 \ \text{litres}
+\end{aligned}
+$
+
+Volume of hot water she uses $= 75 \ \text{litres}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Janice uses %s litres of hot water. $=$ 75
+$75 \ \text{litres}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let c represent cold water.
+<pre class='language-latex'><code class='language-latex'>Let the volume of hot water $= a \ \text{litres}$
 <emptyline>
-Cold water  = c
-Hot water   = 5 x c
-Hot water   = 5c 
-Total water = $90 \ \text{l}$ 
+Volume of cold water $= (90 - a) \ \text{litres}$
 <emptyline>
-Total water = 5c + c
-            = 6c
+Using equivalent ratio,
 <emptyline>
-6c = $90 \ \text{l}$
-c  = $15 \ \text{l}$
-5c = $75 \ \text{l}$
+$
+\begin{aligned}
+5 \ \text{hot water} : 1 \ \text{cold water}    &= a \ \text{hot water} : (90 - a) \ \text{cold water} \\\\
+\dfrac {5} {1}                                  &= \dfrac {a} {90 - a} \\\\
+5 \times (90 - a)                               &= 1 \times a \\\\
+5 \times 90 - 5a                                &= a \\\\
+450 - 5a                                        &= a \\\\
+450                                             &= a + 5a \\\\
+a + 5a                                          &= 450 \\\\
+6a                                              &= 450 \\\\
+a                                               &= \dfrac {450} {6} \\\\
+a                                               &= \dfrac {6 \times 75} {6} \\\\
+a                                               &= \dfrac {\cancel 6 \times 75} {\cancel 6} \\\\
+a                                               &= 75 \ \text{litres}
+\end{aligned}
+$
+<emptyline>
+Volume of hot water she uses $= 75 \ \text{litres}$
 </code></pre>
 </div>
 </div>
@@ -1371,10 +1409,10 @@ c  = $15 \ \text{l}$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Janice uses %s litres of hot water.</code></pre>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>75
+<pre class='language-latex'><code class='language-latex'>$75 \ \text{litres}$
 </code></pre>
 </div>
 </div>
@@ -1396,16 +1434,21 @@ How much **gravel** does Bob need?
 <div class='workings'>
 <div class='working'>
 
-$234 \ \text{kg}$ sand + gravel = $400 \ \text{kg}$ total mixture
+Using ratio,
 
-400 - $234 \ \text{kg}$ = $166 \ \text{kg}$ gravel
-
-$166 \ \text{kg}$ gravel        : $400 \ \text{kg}$ total mixture
-???kg gravel        : $1000 \ \text{kg}$ total mixture
-$166 \ \text{kg}$ / 400         : $400 \ \text{kg}$ / 400 
-$166 \ \text{kg}$ / 400 x 1000  : $400 \ \text{kg}$ / 400 x 1000 
-$415 \ \text{kg}$ gravel        : $1000 \ \text{kg}$ total mixture
-
+$
+\begin{array}{cccccccccccccc}
+  & \text{mixture}                    &:& \text{gravel} \\\\
+= & 400 \ \text{kg}                   &:& (400 - 234) \ \text{kg} \\\\
+= & 400                               &:& 166 \\\\
+= & 1                                 &:& \dfrac {166} {400} \\\\
+= & 1000                              &:& \dfrac {166 \times 1000} {400} \\\\
+= & 1000                              &:& \dfrac {2 \times 83 \times 200 \times 5} {2 \times 200} \\\\
+= & 1000                              &:& \dfrac {\cancel 2 \times 83 \times \cancel {200} \times 5} {\cancel 2 \times \cancel {200}} \\\\
+= & 1000                              &:& 83 \times 5 \\\\
+= & 1000                              &:& 415 \ \text{kg} \\\\
+\end{array}
+$
 
 </div>
 </div>
@@ -1419,16 +1462,21 @@ $415 \ \text{kg}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$234 \ \text{kg}$ sand + gravel = $400 \ \text{kg}$ total mixture
+<pre class='language-latex'><code class='language-latex'>Using ratio,
 <emptyline>
-400 - $234 \ \text{kg}$ = $166 \ \text{kg}$ gravel
-<emptyline>
-$166 \ \text{kg}$ gravel        : $400 \ \text{kg}$ total mixture
-???kg gravel        : $1000 \ \text{kg}$ total mixture
-$166 \ \text{kg}$ / 400         : $400 \ \text{kg}$ / 400 
-$166 \ \text{kg}$ / 400 x 1000  : $400 \ \text{kg}$ / 400 x 1000 
-$415 \ \text{kg}$ gravel        : $1000 \ \text{kg}$ total mixture
-<emptyline>
+$
+\begin{array}{cccccccccccccc}
+  & \text{mixture}                    &:& \text{gravel} \\\\
+= & 400 \ \text{kg}                   &:& (400 - 234) \ \text{kg} \\\\
+= & 400                               &:& 166 \\\\
+= & 1                                 &:& \dfrac {166} {400} \\\\
+= & 1000                              &:& \dfrac {166 \times 1000} {400} \\\\
+= & 1000                              &:& \dfrac {2 \times 83 \times 200 \times 5} {2 \times 200} \\\\
+= & 1000                              &:& \dfrac {\cancel 2 \times 83 \times \cancel {200} \times 5} {\cancel 2 \times \cancel {200}} \\\\
+= & 1000                              &:& 83 \times 5 \\\\
+= & 1000                              &:& 415 \ \text{kg} \\\\
+\end{array}
+$
 </code></pre>
 </div>
 </div>
@@ -1465,36 +1513,55 @@ Find the lengths of the sides labelled $X$ and $Y$.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
+$
+\begin{aligned}
+X \times Y                    &= 63
+\end{aligned}
+$
 
-TODOWORKING
+We can easily infer the value of X and Y by using trial and error.
+
+|  Value of X  |  Value of Y  |  Both longer than $1$  |
+|:------------:|:------------:|:----------------------:|
+|      $1$     |     $63$     |           No           |
+|      $7$     |     $9$      |           Yes          |
+
+Value of X $= 7$
+
+Value of Y $= 9$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+X $= 7$, Y $= 9$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>As per the question,
+<emptyline>
+$
+\begin{aligned}
+X \times Y                    &= 63
+\end{aligned}
+$
+<emptyline>
+We can easily infer the value of X and Y by using trial and error.
+<emptyline>
+|  Value of X  |  Value of Y  |  Both longer than $1$  |
+|:------------:|:------------:|:----------------------:|
+|      $1$     |     $63$     |           No           |
+|      $7$     |     $9$      |           Yes          |
+<emptyline>
+Value of X $= 7$
+<emptyline>
+Value of Y $= 9$
 </code></pre>
 </div>
 </div>
@@ -1506,17 +1573,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>X $= 7$, Y $= 9$
 </code></pre>
 </div>
 </div>
@@ -1541,36 +1598,83 @@ How much do all $3$ of her pets weigh when weighed together?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the weight of rabbit $= r$
 
-</div>
-<div class='working'>
+Let the weight of cat $= c$
 
-TODOWORKING
+Let the weight of dog $= d$
+
+As per the question,
+
+$
+\begin{aligned}
+r + c       &= 10 \\\\
+c + d       &= 24 \\\\
+d + r       &= 20
+\end{aligned}
+$
+
+Let's add all the three equations together.
+
+$
+\begin{aligned}
+r + c + c + d + d + r       &= 10 + 24 + 20 \\\\
+r + r + c + c + d + d       &= 54 \\\\
+2r + 2 c + 2d               &= 54 \\\\
+2 \times (r + c + d)        &= 54 \\\\
+r + c + d                   &= \dfrac {54} {2} \\\\
+r + c + d                   &= \dfrac {2 \times 27} {2} \\\\
+r + c + d                   &= \dfrac {\cancel 2 \times 27} {\cancel 2} \\\\
+r + c + d                   &= 27
+\end{aligned}
+$
+
+Weight of all the $3$ pets together $= 27 \ \text{kg}$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$27 \ text{kg}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the weight of rabbit $= r$
+<emptyline>
+Let the weight of cat $= c$
+<emptyline>
+Let the weight of dog $= d$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin{aligned}
+r + c       &= 10 \\\\
+c + d       &= 24 \\\\
+d + r       &= 20
+\end{aligned}
+$
+<emptyline>
+Let's add all the three equations together.
+<emptyline>
+$
+\begin{aligned}
+r + c + c + d + d + r       &= 10 + 24 + 20 \\\\
+r + r + c + c + d + d       &= 54 \\\\
+2r + 2 c + 2d               &= 54 \\\\
+2 \times (r + c + d)        &= 54 \\\\
+r + c + d                   &= \dfrac {54} {2} \\\\
+r + c + d                   &= \dfrac {2 \times 27} {2} \\\\
+r + c + d                   &= \dfrac {\cancel 2 \times 27} {\cancel 2} \\\\
+r + c + d                   &= 27
+\end{aligned}
+$
+<emptyline>
+Weight of all the $3$ pets together $= 27 \ \text{kg}$.
 </code></pre>
 </div>
 </div>
@@ -1582,17 +1686,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$27 \ text{kg}$
 </code></pre>
 </div>
 </div>
@@ -1601,6 +1695,46 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' id='FORM-B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C'>Initial</p>
+</div>
 </div>
 </li>
 <li>

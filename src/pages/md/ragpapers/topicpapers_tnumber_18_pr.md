@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-18-pr"
 title: "TopicPaper - Number - 18 - PR"
-date: 2022-08-05 16:36:46
+date: 2022-08-06 18:21:53
 questions_count: "11"
 ---
 <ul class='question default-decimal'>
@@ -3752,7 +3752,7 @@ Therefore, the labels $= + 4, \times -3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>614F23B2-E8EA-4EB8-83F5-64E2D37B50E5</p>
 </div>
@@ -3766,7 +3766,7 @@ Therefore, the labels $= + 4, \times -3$
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3848,11 +3848,11 @@ What is the smallest number Becca could be thinking of?
 <div class='workings'>
 <div class='working'>
 
-We can easily infer the number by using trial and error.
 
-$31$
+| Original prime | Reversed number | If prime or not | 
+|:----------------: |:----------:   |:-----------------: | 
+| 31  | 13 | prime    |     
 
-On reversing $31$, $13$ is also a prime.
 
 </div>
 </div>
@@ -3866,11 +3866,11 @@ $31$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>We can easily infer the number by using trial and error.
+<pre class='language-latex'><code class='language-latex'>
+| Original prime | Reversed number | If prime or not | 
+|:----------------: |:----------:   |:-----------------: | 
+| 31  | 13 | prime    |     
 <emptyline>
-$31$
-<emptyline>
-On reversing $31$, $13$ is also a prime.
 </code></pre>
 </div>
 </div>

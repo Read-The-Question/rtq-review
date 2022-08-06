@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-e"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper E"
-date: 2022-08-05 16:29:14
+date: 2022-08-06 18:15:32
 questions_count: "22"
 ---
 <div class='paper'>
@@ -3758,7 +3758,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>76EED758-156E-462D-9D8B-24446C9E1E55</p>
 </div>
@@ -3772,7 +3772,7 @@ TODOANSWER
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3946,17 +3946,13 @@ $
 <h4>Review Comments</h4>
 
 
+2a + a/2 = 150
 
+2a x 2 / 1 x 2 + a/2 = 150 (add this line )
 
-Remove full stop(.) from the first line.
+4a/2 + a/2 = 150 (add this line)
 
-Put \"Juice drunk by Jane\" into \text{}.
-
-Put \"Juice drunk by Alex\" into \text{}. 
-
-Remove last line \"Juice drunk....\"
-
-Put proper spacing into the katex code so that it aligns properly. (all the &= should align nicely)
+4a+a / 2 =  150
 </div>
 
 <div class='review'>
@@ -4944,7 +4940,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>67B0DECD-26D8-4193-BC8B-E1164C7E3A96</p>
 </div>
@@ -4955,7 +4951,7 @@ TODOANSWER
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

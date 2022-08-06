@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tpercentage-2-pr"
 title: "TopicPaper - Percentage - 2 - PR"
-date: 2022-08-05 16:51:29
+date: 2022-08-06 18:37:02
 questions_count: "6"
 ---
 <ul class='question default-decimal'>

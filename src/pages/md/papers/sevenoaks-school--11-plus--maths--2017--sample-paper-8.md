@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2017-sample-paper-8"
 title: "Sevenoaks School - 11 Plus - Maths - 2017 - Sample Paper 8"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "19"
 ---
 <div class='paper'>
@@ -1479,7 +1479,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>99F02CA6-5ABE-4985-B7A8-1EAD2F4E752F</p>
 </div>
@@ -1493,7 +1493,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1778,6 +1778,23 @@ Yasmin need $1600 \ \text {ml}$ of water to make ten glasses of squash.
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) remove full stop from first line.
+
+Write \"a = 320 / 8\" in place of \"One glass of squash = 320 / 8\"
+
+
+
+One \ is missing at the end of the below line, add it.
+
+&= \dfrac {\cancel {8} \times 40} {\cancel {8}} \\\
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3315,7 +3332,7 @@ Perimeter = Sum of all sides
 
 
 
-Remove \\  (in last line of katex no spacing)
+Remove \\\\  (in last line of katex no spacing)
 
 Blue answer also put m 
 
@@ -4556,7 +4573,7 @@ step 2 : write \"seconds\" after 24 x 60 x 60
 
 ad a step between step 1 and step 2: 
 
-&= \dfrac {1} {4} \times  \dfrac {1} {6} \times  \dfrac {1} {8} \times 24 \ \text {hours} \\
+&= \dfrac {1} {4} \times  \dfrac {1} {6} \times  \dfrac {1} {8} \times 24 \ \text {hours} \\\\
 
 
 

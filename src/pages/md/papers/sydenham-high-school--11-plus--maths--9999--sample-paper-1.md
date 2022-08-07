@@ -1,7 +1,7 @@
 ---
 slug: "papers/sydenham-high-school-11-plus-maths-9999-sample-paper-1"
 title: "Sydenham High School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "34"
 ---
 <div class='paper'>
@@ -279,7 +279,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-371066A6-48F2-418D-82E0-9551FDF91DD2'>Initial</p>
 <div class='question question'>
 
-Work out $1741 - 968$ 
+Work out $1741 - 968$. 
 
 </div>
 <div class='workings'>
@@ -459,7 +459,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-EFF8EF51-7B6D-4D32-96E0-21CBA8A7E2D4'>Initial</p>
 <div class='question question'>
 
-Work out $418 \times 7$ 
+Work out $418 \times 7$. 
 
 </div>
 <div class='workings'>

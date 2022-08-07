@@ -1,7 +1,7 @@
 ---
 slug: "papers/forest-school-11-plus-maths-2020-sample-paper-3"
 title: "Forest School - 11 Plus - Maths - 2020 - Sample Paper 3"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "35"
 ---
 <div class='paper'>
@@ -279,7 +279,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-27ED8C2C-46AB-461E-A945-ED1CF215E1BD'>Initial</p>
 <div class='question question'>
 
-Work out $1234 - 566$ 
+Work out $1234 - 566$. 
 
 </div>
 <div class='workings'>

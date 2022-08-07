@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2008-sample-paper-1"
 title: "Oundle School - 11 Plus - Maths - 2008 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "25"
 ---
 <div class='paper'>
@@ -279,7 +279,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-BDF5CE80-68DE-4747-8DF0-4C7EC4BA6D8A'>Initial</p>
 <div class='question question'>
 
-Work out $123 - 67$
+Work out $123 - 67$.
 
 </div>
 <div class='workings'>
@@ -459,7 +459,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-15A15561-6564-4C94-9090-F4EAC0AD496E'>Initial</p>
 <div class='question question'>
 
-Multiply $76 \times 9$
+Multiply $76 \times 9$.
 
 </div>
 <div class='workings'>

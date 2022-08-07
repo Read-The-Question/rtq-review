@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tnumber-22"
 title: "TopicPaper - Number - 22"
-date: 2022-08-06 18:37:02
+date: 2022-08-06 23:42:19
 questions_count: "9"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "9"
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -144,10 +144,10 @@ $\pounds 90,095$
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1:2:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -221,10 +221,10 @@ $…………..\div 8 = 1.05$ cm
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1:2:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -314,10 +314,10 @@ A horse is $15\,$ metres high
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -396,10 +396,10 @@ Write direct answer $70 \div 10 = 7$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -424,7 +424,7 @@ Calculate $4000 \div 100$
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-&= \dfrac{40 \cancel{0} \cancel{0}}{1 \cancel{0} \cancel{0}}  \\ (do not cancel zeros singly) its \cancel {00}
+&= \dfrac{40 \cancel{0} \cancel{0}}{1 \cancel{0} \cancel{0}}  \\\\ (do not cancel zeros singly) its \cancel {00}
 </div>
 
 <div class='review'>
@@ -478,10 +478,10 @@ Calculate $4000 \div 100$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -555,10 +555,10 @@ Calculate $324 \div 10$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -632,10 +632,10 @@ Calculate $82 \div 100$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -709,10 +709,10 @@ Calculate $14 -  - 43$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:2:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

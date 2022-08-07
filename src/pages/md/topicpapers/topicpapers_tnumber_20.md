@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-20"
 title: "TopicPaper - Number - 20"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "40"
 ---
 <div class='paper'>
@@ -7889,9 +7889,9 @@ Katex is not correct, use begin aligned like its been done in reference UUID giv
 
 \begin{aligned}
 
-&= (3 \times 6 ) \div (2 + 1) \\
+&= (3 \times 6 ) \div (2 + 1) \\\\
 
-&= 18 \div 3 \\
+&= 18 \div 3 \\\\
 
 &= 6
 

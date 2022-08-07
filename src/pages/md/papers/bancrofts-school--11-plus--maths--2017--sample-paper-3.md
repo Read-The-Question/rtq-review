@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2017-sample-paper-3"
 title: "Bancrofts School - 11 Plus - Maths - 2017 - Sample Paper 3"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "37"
 ---
 <div class='paper'>
@@ -3613,15 +3613,15 @@ Remove \"\pounds\" from the below lines:
 
 
 
-\text{Cost per toilet roll at Alis shop} &= \pounds \dfrac {2.4} {8} \\
+\text{Cost per toilet roll at Alis shop} &= \pounds \dfrac {2.4} {8} \\\\
 
 
 
-\text{Cost per toilet roll at Myas shop}       &= \pounds 0.3 \times 2 \\
+\text{Cost per toilet roll at Myas shop}       &= \pounds 0.3 \times 2 \\\\
 
 
 
-\text{Cost of 3 toilet rolls at Myas shop}        &= \pounds 0.6 \times 3 \\
+\text{Cost of 3 toilet rolls at Myas shop}        &= \pounds 0.6 \times 3 \\\\
 </div>
 
 <div class='review'>

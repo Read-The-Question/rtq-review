@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-16-pr"
 title: "TopicPaper - Algebra - 16 - PR"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "13"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>71FE7449-4F1E-4FA7-AA3E-E13ECDAD6EF7</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "13"
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -647,7 +647,7 @@ The total numbers of pencils are $59$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>BAFE96BE-956A-4261-989E-FD46AD15A311</p>
 </div>
@@ -661,7 +661,7 @@ The total numbers of pencils are $59$
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1106,7 +1106,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>FF304983-407B-4F08-A1A7-266719ACE0F0</p>
 </div>
@@ -1120,7 +1120,7 @@ $
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1543,7 +1543,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>0F87C3AF-04E1-4CE4-95B8-6058896522BF</p>
 </div>
@@ -1557,7 +1557,7 @@ $
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2012,7 +2012,7 @@ The ball has to fall $240 \ \text{m}$ to be travelling at twice the speed than s
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>271C8CFC-140E-47D7-B956-A1833C472BB4</p>
 </div>
@@ -2026,7 +2026,7 @@ The ball has to fall $240 \ \text{m}$ to be travelling at twice the speed than s
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2684,7 +2684,7 @@ Cost of a child ticket is $\pounds 4$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>84DF03D9-35BF-4360-B6DC-B1BC22506A5E</p>
 </div>
@@ -2698,7 +2698,7 @@ Cost of a child ticket is $\pounds 4$.
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3156,7 +3156,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>8AAAA86E-2C2A-42A2-B369-837D8C067C09</p>
 </div>
@@ -3170,7 +3170,7 @@ TODOANSWER
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3566,7 +3566,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>031CD700-59F5-4DEB-B2A3-6D9A69ED7903</p>
 </div>
@@ -3580,7 +3580,7 @@ TODOANSWER
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4125,7 +4125,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>D3205029-7848-4470-8FDF-8B32C8E28E77</p>
 </div>
@@ -4139,7 +4139,7 @@ TODOANSWER
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4658,7 +4658,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>E1768276-92F9-4E5D-AAA3-89AD38377054</p>
 </div>
@@ -4672,7 +4672,7 @@ TODOANSWER
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5072,7 +5072,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>D85E03ED-CA5D-4BCD-9BFC-07122EEEE5DB</p>
 </div>
@@ -5086,7 +5086,7 @@ TODOANSWER
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5825,7 +5825,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>0A878D38-8A24-4519-99E0-D0C3B1A35DA7</p>
 </div>
@@ -5839,7 +5839,7 @@ TODOANSWER
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

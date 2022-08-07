@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2011-sample-paper-2"
 title: "Reigate Grammar School - 11 Plus - Maths - 2011 - Sample Paper 2"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "38"
 ---
 <div class='paper'>
@@ -879,7 +879,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-225EA774-4871-4352-9405-629E4E51D9AE'>Initial</p>
 <div class='question question'>
 
-What is $24 \times 9$?
+What is $24 \times 9$ ?
 
 </div>
 <div class='workings'>
@@ -1059,7 +1059,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-A64047D5-B54A-426C-A41A-39320D26F531'>Initial</p>
 <div class='question question'>
 
-Use your previous answer to write down the answer to $2400 \times 90$
+Use your previous answer to write down the answer to $2400 \times 90$.
 
 </div>
 <div class='workings'>

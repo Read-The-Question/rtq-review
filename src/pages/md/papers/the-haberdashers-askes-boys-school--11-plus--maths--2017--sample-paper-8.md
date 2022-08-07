@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2017-sample-paper-8"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2017 - Sample Paper 8"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "30"
 ---
 <div class='paper'>
@@ -459,7 +459,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-F4903B75-E0D1-457B-B916-F32FAEC3C165'>Initial</p>
 <div class='question question'>
 
-Multiply: $58 \times 7$
+Multiply: $58 \times 7$.
 
 </div>
 <div class='workings'>
@@ -5514,7 +5514,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>0052563B-523A-443E-B7A2-21267B36F737</p>
 </div>
@@ -5528,7 +5528,7 @@ $
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5935,7 +5935,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>1A54CC1A-16C2-4AF1-B68E-205DA3F96930</p>
 </div>
@@ -5949,7 +5949,7 @@ TODOANSWER
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

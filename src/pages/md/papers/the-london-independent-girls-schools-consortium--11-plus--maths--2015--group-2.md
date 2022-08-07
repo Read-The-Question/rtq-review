@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2015-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2015 - Group 2"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "41"
 ---
 <div class='paper'>
@@ -279,7 +279,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-33B15D5A-3BDC-406D-95C0-CD40E761277A'>Initial</p>
 <div class='question question'>
 
-Work out $2345 - 678$
+Work out $2345 - 678$.
 
 </div>
 <div class='workings'>
@@ -459,7 +459,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-D55C131E-23B4-4FDE-85B4-9C089DC33D1F'>Initial</p>
 <div class='question question'>
 
-Work out $3024 \times 8$
+Work out $3024 \times 8$.
 
 </div>
 <div class='workings'>

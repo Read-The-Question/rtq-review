@@ -1,7 +1,7 @@
 ---
 slug: "papers/solihull-school-11-plus-maths-9999-sample-paper-1"
 title: "Solihull School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "31"
 ---
 <div class='paper'>
@@ -283,9 +283,14 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-D7BBEB10-44CA-4BA8-8D7D-6A9A6EF1017B'>Initial</p>
 <div class='question question'>
 
-%TODOKATEX%
-
-$765 - 389$ 
+$
+\begin{array}{cccccccccccccc}
+      &     7     &     6     &     5 \\
+{}-   &     3     &     8     &     9 \\
+\hline\\
+\hline 
+\end{array}
+$ 
 
 </div>
 <div class='workings'>
@@ -6904,7 +6909,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>C5744D06-D846-4063-8AB1-9FB5CA4254B1</p>
 </div>
@@ -6918,7 +6923,7 @@ $
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -9186,7 +9191,7 @@ $12\times 4 = 48$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_prbd rag_prns question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>974B41CD-4F4F-40A8-9A75-397312C3A65D</p>
 </div>
@@ -9197,7 +9202,7 @@ $12\times 4 = 48$
 <p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_da_prbd</p>
+<p>rag_da_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

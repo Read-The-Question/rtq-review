@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tsymmetry-3-pr"
 title: "TopicPaper - Symmetry - 3 - PR"
-date: 2022-08-06 18:37:02
+date: 2022-08-06 23:42:19
 questions_count: "8"
 ---
 <ul class='question default-decimal'>

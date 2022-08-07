@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-4-pr-prcc"
 title: "TopicPaper - Algebra - 4 - PR - PRCC"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "6"
 ---
 <ul class='question default-decimal'>
@@ -348,11 +348,11 @@ Give proper spacing in the katex code. (all the &= should align perfectly)
 
 For eg:
 
-a + l + p + h + a + b + e + t &= 35 \\
+a + l + p + h + a + b + e + t &= 35 \\\\
 
-20 + b + e + t                &= 35 \\
+20 + b + e + t                &= 35 \\\\
 
-b + e + t                     &= 35 - 20 \\
+b + e + t                     &= 35 - 20 \\\\
 
 
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2017-sample-paper-6"
 title: "Oundle School - 11 Plus - Maths - 2017 - Sample Paper 6"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "11"
 ---
 <div class='paper'>
@@ -874,7 +874,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>552DEC74-2708-4D2D-A029-1CDE7C952691</p>
 </div>
@@ -888,7 +888,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1221,6 +1221,15 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part c) Answer is wrong \"117\" ==> 99
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1265,7 +1274,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>571A23DE-783B-477A-9FCD-DE43E95FF88D</p>
 </div>
@@ -1279,7 +1288,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1585,6 +1594,15 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+All part a) , b) and c) take variable as a instead of x then solve accordingly.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2555,7 +2573,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>F5248F77-33B8-4AC4-A9B4-0AF399DA1C63</p>
 </div>
@@ -2569,7 +2587,7 @@ $
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

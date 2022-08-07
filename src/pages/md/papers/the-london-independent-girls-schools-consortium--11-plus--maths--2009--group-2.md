@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2009-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2009 - Group 2"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "41"
 ---
 <div class='paper'>
@@ -288,9 +288,14 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-C9507576-474D-45B6-9AB2-BE8AEB0DA8CE'>Initial</p>
 <div class='question question'>
 
-%waffles%
-
-$7608 - 495$
+$
+\begin{array}{cccccccccccccc}
+    &   7   &   6   &   0   &   8 \\
+{}- &       &   4   &   9   &   5 \\
+\hline\\
+\hline
+\end{array}
+$
 
 </div>
 <div class='workings'>

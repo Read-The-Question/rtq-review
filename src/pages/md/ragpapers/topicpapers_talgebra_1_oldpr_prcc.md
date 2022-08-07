@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-1-oldpr-prcc"
 title: "TopicPaper - Algebra - 1 - OLDPR - PRCC"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -520,7 +520,7 @@ $
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-\text{Boys with brown hair}       &= &= \dfrac {1} {2} \times a\\    DELETE RED ONE
+\text{Boys with brown hair}       &= &= \dfrac {1} {2} \times a\\\\    DELETE RED ONE
 
 
 
@@ -753,7 +753,7 @@ $
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-\dfrac { 5000 } { 200 } \\ -- NO space --correct --.> \dfrac \dfrac {5000} {200} -- DO IT EVERYWHERE AND IN FUTURE ALSO
+\dfrac { 5000 } { 200 } \\\\ -- NO space --correct --.> \dfrac \dfrac {5000} {200} -- DO IT EVERYWHERE AND IN FUTURE ALSO
 
 
 

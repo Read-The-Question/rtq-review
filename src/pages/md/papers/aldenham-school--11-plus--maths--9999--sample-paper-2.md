@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-2"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "26"
 ---
 <div class='paper'>
@@ -2984,7 +2984,7 @@ $
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-\text{Boys with brown hair}       &= &= \dfrac {1} {2} \times a\\    DELETE RED ONE
+\text{Boys with brown hair}       &= &= \dfrac {1} {2} \times a\\\\    DELETE RED ONE
 
 
 
@@ -5212,7 +5212,7 @@ $
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-\dfrac { 5000 } { 200 } \\ -- NO space --correct --.> \dfrac \dfrac {5000} {200} -- DO IT EVERYWHERE AND IN FUTURE ALSO
+\dfrac { 5000 } { 200 } \\\\ -- NO space --correct --.> \dfrac \dfrac {5000} {200} -- DO IT EVERYWHERE AND IN FUTURE ALSO
 
 
 

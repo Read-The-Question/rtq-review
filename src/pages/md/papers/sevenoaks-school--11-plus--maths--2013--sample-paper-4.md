@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2013-sample-paper-4"
 title: "Sevenoaks School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "15"
 ---
 <div class='paper'>
@@ -1566,7 +1566,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>25F12C31-F7A0-4048-8C74-33BF11BEC999</p>
 </div>
@@ -1580,7 +1580,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1908,6 +1908,21 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part c) Steps missing!!
+
+3x / 2 = 15 - 3
+
+3x / 2 = 12 (add this line)
+
+3x     = 12 x 2
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1952,7 +1967,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>DCA17542-5313-4830-8E8C-79DE88C98DEF</p>
 </div>
@@ -1966,7 +1981,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2160,6 +2175,35 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+i) Make necessary changes to the following lines.
+
+
+
+\"Now finding the value B\" ==> \"Lets use the value of A to find B.\"
+
+\"Finally the ....\"  ==> \"Lets use the value of C to find C.\"
+
+
+
+ii) write answers into three different answer sections and for each one dont forget to fill the key section. On website it should appear something like this 
+
+Albert = 10
+
+Brian = 11
+
+Charlie = 9
+
+
+
+For reference check: 8F027A1E-78A4-45E0-BB41-9FAAB4D6B88A and create the multiple [[sections.questions.answers]] to write answers.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2360,7 +2404,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>4FD3FA7F-457F-4731-B4AE-15DCF80081B3</p>
 </div>
@@ -2374,7 +2418,7 @@ TODOANSWER
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2540,6 +2584,33 @@ Money Alison recieved $= \dfrac {27} {3} = \pounds 9$.
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove full stop from first 3 lines as well as last 3 lines.
+
+Remove \"According to....\"line
+
+Remove \"Total money ... \" line
+
+
+
+ii) write answers into three different answer sections and for each one dont forget to fill the key section. On website it should appear something like this 
+
+Tom = £27
+
+David = £13.5
+
+Alison = £9
+
+
+
+For reference check: 8F027A1E-78A4-45E0-BB41-9FAAB4D6B88A and create the multiple [[sections.questions.answers]] to write answers.
+</div>
 
 <div class='review'>
 <ul class='review'>

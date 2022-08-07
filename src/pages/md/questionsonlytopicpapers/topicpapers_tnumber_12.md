@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tnumber-12"
 title: "TopicPaper - Number - 12"
-date: 2022-08-06 18:37:02
+date: 2022-08-06 23:42:19
 questions_count: "40"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "40"
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -101,10 +101,10 @@ Write the number $\text{‘forty five thousand, seven hundred and two’}$ in fi
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -207,10 +207,10 @@ Write $\dfrac{3}{5}$ as a decimal
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -317,10 +317,10 @@ Using the information given above, what is $112 \times 67$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:33</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -423,10 +423,10 @@ not done correctly, should be just one working, refer D2A86CA4-F12F-428A-A86B-8B
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -504,10 +504,10 @@ $5 - (2 - 5)^2$
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -624,10 +624,10 @@ Convert $2.1\ \text{kilometres}$ into $\text{metres}$
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -800,10 +800,10 @@ Work out $\dfrac{1}{2}+\dfrac{1}{4}$
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -934,10 +934,10 @@ $42.3 \div 3$
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1068,10 +1068,10 @@ Write down the prime factors of $30$
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1174,10 +1174,10 @@ $4 \times(8 - 2)$
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1251,10 +1251,10 @@ Work out $56 - 69 + 311$
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1328,10 +1328,10 @@ Subtract eight hundred and thirty one from one thousand and fifty.
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1421,10 +1421,10 @@ $a\ \ \Box\ \ a = a^2$
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1541,10 +1541,10 @@ Write down the factors of $49$
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1647,10 +1647,10 @@ $1\frac {3} {8}$
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1781,10 +1781,10 @@ Subtract six hundred and nine from one thousand and eleven.
 <p>sevenoaks-school--11-plus--maths--2012--sample-paper-3:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1943,10 +1943,10 @@ Subtract $\text{two thousand seven hundred and eighteen}$ from $\text{three thou
 <p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2077,10 +2077,10 @@ $3927 \div 17$
 <p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2157,10 +2157,10 @@ Write the number $\text{eighty-six thousand and fourteen}$ in figures.
 <p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2237,10 +2237,10 @@ Write down a number that is smaller than $0.8$ and bigger than $\dfrac {5} {7}$ 
 <p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2347,10 +2347,10 @@ $1944$
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2481,10 +2481,10 @@ $7322 \div 14$
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2566,10 +2566,10 @@ $0 = 4 \div 4 \times 4 - 4$
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2643,10 +2643,10 @@ Find three prime numbers that add up to another prime number.
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2776,10 +2776,10 @@ i fixed part a: fix rest of them in similar way.
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2882,10 +2882,10 @@ Calculate $(48 \div 8) - (7 - 12)$
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2993,10 +2993,10 @@ take 24 in line 2 also out of text..
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3127,10 +3127,10 @@ $(5 - 11) \div 3$
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3264,10 +3264,10 @@ One decimal place
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3370,10 +3370,10 @@ $\dfrac {8} {7} \quad \boxed {\phantom {\dfrac {a} {b}}} \quad \dfrac {11} {13}$
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3476,10 +3476,10 @@ $\dfrac {4} {5}  \ \text{of} \ 80$
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3565,10 +3565,10 @@ Complete the table:
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3648,10 +3648,10 @@ Label each arrow with the value indicated on the scale.
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3799,10 +3799,10 @@ $(-8)^2$
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3927,10 +3927,10 @@ How many of the members are children?
 <p>solihull-school--11-plus--maths--9999--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4004,10 +4004,10 @@ Write the number two hundred and $4$ million, thirty five thousand and eighty tw
 <p>solihull-school--11-plus--maths--9999--sample-paper-1:2:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4144,10 +4144,10 @@ $32  \quad 2  \quad 40  \quad 4 = 74$
 <p>solihull-school--11-plus--maths--9999--sample-paper-1:3:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4303,10 +4303,10 @@ The rule is applied once to the number $N$ and the answer you get is also $N$. W
 <p>solihull-school--11-plus--maths--9999--sample-paper-1:3:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4431,10 +4431,10 @@ $28 \times 1 = 44$
 <p>solihull-school--11-plus--maths--9999--sample-paper-1:3:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

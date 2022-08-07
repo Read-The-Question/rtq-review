@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tnumber-16-pr"
 title: "TopicPaper - Number - 16 - PR"
-date: 2022-08-06 18:37:02
+date: 2022-08-06 23:42:19
 questions_count: "40"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "40"
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -91,10 +91,10 @@ Work out $(57 + 56 + 55 + 54) - (56 + 55 + 54 + 53)$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -128,10 +128,10 @@ Which of the numbers $20, 25, 30, 35, 40, 45, 50, 55$ is nearest to the value of
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -214,10 +214,10 @@ do not write lhs = rhs way
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -251,10 +251,10 @@ Arrange the numbers, $5, 3, 7$ and $2$ to make the largest possible four-digit n
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:1:23</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -371,10 +371,10 @@ $6900 \ \text{cm}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -412,10 +412,10 @@ $0.25 \ \text{litres} \quad 0.5 \ \text{litres} \quad 0.75 \ \text{litres} \quad
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -456,10 +456,10 @@ Write down the number that the arrow is pointing to on the scale below:
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -500,10 +500,10 @@ $2 \quad 5 \quad 7 \quad 10 \quad 12 \quad 15 \quad 16 \quad 19$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -587,10 +587,10 @@ nineteen
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -693,10 +693,10 @@ What is the largest number that Jonathan might have thought of?
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -735,10 +735,10 @@ In the square below, every row, column and diagonal adds up to $15$. What number
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:27</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -874,10 +874,10 @@ remove extra working and answer sections
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -954,10 +954,10 @@ Write the number twenty-four thousand and twenty-four in figures.
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1031,10 +1031,10 @@ Round $567$ to the nearest $100$.
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1111,10 +1111,10 @@ What number do you multiply $0.2$ by to get an answer of $6$?
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1177,10 +1177,10 @@ $40 \ \text{kilometres}$ into miles.
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1259,10 +1259,10 @@ Write down the other three factors of $65$.
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1355,10 +1355,10 @@ write this way
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1397,10 +1397,10 @@ Write down the number that the arrow is pointing to on the scale.
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1474,10 +1474,10 @@ Work out the sum of: $9, 99, 999$ and $9999$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1564,10 +1564,10 @@ Write \approx way, search \approx to see samples
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1641,10 +1641,10 @@ Use the fact that $96815 \times 123 = 11908245$ to work out $96816  \times 123$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1739,10 +1739,10 @@ do not show working after that, they too simple
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1833,10 +1833,10 @@ extra working and answers
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1931,10 +1931,10 @@ Car $122 \ \text{mm}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2049,10 +2049,10 @@ What is the smallest possible number you can make using one swap?
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2126,10 +2126,10 @@ Work out the following: $21 - 5 \times 2 + 6$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2245,10 +2245,10 @@ i fixed a, fix rest
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2360,10 +2360,10 @@ write these using lets verify way, search for lets verify. first write answer wi
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2516,10 +2516,10 @@ What is the temperature in the freezer?
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2641,10 +2641,10 @@ the median of the nine numbers
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2779,10 +2779,10 @@ Circle any of the words below which describe Chrissy's favourite number.
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2964,10 +2964,10 @@ Rearrange the $4$ cards to make the smallest number possible.
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3127,10 +3127,10 @@ How much change does he get?
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3247,10 +3247,10 @@ Calculate the difference between the largest and the smallest numbers in the lis
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3377,10 +3377,10 @@ Write down, in grams, the masses represented by the arrows on these scales.
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3547,10 +3547,10 @@ b: not following algebra guidelines, change to write according to the rules
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3733,10 +3733,10 @@ Cost of 1983 tickets = 1983 * 16
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3914,10 +3914,10 @@ How much change did she get?
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

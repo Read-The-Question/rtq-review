@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2013-sample-paper-1"
 title: "Bancrofts School - 11 Plus - Maths - 2013 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "36"
 ---
 <div class='paper'>
@@ -3396,7 +3396,7 @@ l capital in \"laps\"
 
 
 
-add a \' between \text {of} and 18 
+add a \ between \text {of} and 18 
 
 
 
@@ -9968,11 +9968,11 @@ $
 
 Part b) Add missing line after 
 
-&= 4 \ \text{clinks} + 3 \ \text{tinkles} \\
+&= 4 \ \text{clinks} + 3 \ \text{tinkles} \\\\
 
 Missing line:
 
-&= 4 \times  \text{tinkles} + 3 \ \text{tinkles} \\
+&= 4 \times \6 \text{tinkles} + 3 \ \text{tinkles} \\\\
 
 
 
@@ -9984,7 +9984,7 @@ In case of any doubt ping me on slack.
 
 ii) Remove the tinkles in below line.
 
-&= (27 - 17) \ \text{tinkles} \\
+&= (27 - 17) \ \text{tinkles} \\\\
 </div>
 
 <div class='review'>

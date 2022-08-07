@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2015-sample-paper-1"
 title: "Csse - 11 Plus - Maths - 2015 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "24"
 ---
 <div class='paper'>
@@ -489,7 +489,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Find the difference between $8.38$ and $6.94$
+Find the difference between $8.38$ and $6.94$.
 
 </div>
 <div class='workings'>

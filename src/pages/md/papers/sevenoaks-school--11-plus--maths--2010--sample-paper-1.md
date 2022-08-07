@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2010-sample-paper-1"
 title: "Sevenoaks School - 11 Plus - Maths - 2010 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "19"
 ---
 <div class='paper'>
@@ -282,7 +282,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-469D229E-728D-4AC5-9C0D-417EB0BBF6F7'>Initial</p>
 <div class='question question'>
 
-Work out $813 \times 72$
+Work out $813 \times 72$.
 
 </div>
 <div class='workings'>

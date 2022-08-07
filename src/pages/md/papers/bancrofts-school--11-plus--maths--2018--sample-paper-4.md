@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2018-sample-paper-4"
 title: "Bancrofts School - 11 Plus - Maths - 2018 - Sample Paper 4"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "37"
 ---
 <div class='paper'>
@@ -1733,11 +1733,11 @@ Part a)
 
 Add the missing step:
 
-\dfrac {a} {2}    &= 12 + 9 \\
+\dfrac {a} {2}    &= 12 + 9 \\\\
 
-\dfrac {a} {2}    &= 21 \\    (this line missing)
+\dfrac {a} {2}    &= 21 \\\\    (this line missing)
 
-a                 &= 21 \times 2 \\
+a                 &= 21 \times 2 \\\\
 
 
 

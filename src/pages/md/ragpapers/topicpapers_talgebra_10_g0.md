@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-10-g0"
 title: "TopicPaper - Algebra - 10 - G0"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -1256,7 +1256,7 @@ Then solve it accordingly.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>BAAC6E7A-0541-4A20-B7D2-0C364A8C1403</p>
 </div>
@@ -1270,7 +1270,7 @@ Then solve it accordingly.
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>

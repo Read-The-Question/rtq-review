@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-11-pr-prns"
 title: "TopicPaper - Number - 11 - PR - PRNS"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -303,7 +303,7 @@ $
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-Remove extra whitespace at the end and after \  , also write . (decimal) in the answer
+Remove extra whitespace at the end and after \\  , also write . (decimal) in the answer
 </div>
 
 <div class='review'>

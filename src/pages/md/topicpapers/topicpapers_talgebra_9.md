@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-9"
 title: "TopicPaper - Algebra - 9"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "40"
 ---
 <div class='paper'>
@@ -5900,7 +5900,7 @@ F82A9A83-8990-460E-9DE9-6B7ACD86127F for b
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>B5C73911-F262-422F-8F91-C2B9B4CF5D09</p>
 </div>
@@ -5914,7 +5914,7 @@ F82A9A83-8990-460E-9DE9-6B7ACD86127F for b
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6275,6 +6275,39 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) Steps missing!!
+
+(x × 18) ÷ 9 = 16
+
+(x × 18) × 1/9 = 16 (add this step)
+
+(x × 18)/9 = 16
+
+x × 18 = 16 × 9    (add this step)
+
+x = 16 × 9 / 18
+
+
+
+Part b) Steps missing!!
+
+(x+12) × 4 = 60
+
+x + 12     = 60 / 4      (add this line)
+
+x + 12     = 15 x 4 / 4   (add this line)
+
+first cancel then move 12 to the RHS
+
+then solve further..
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -6319,7 +6352,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>25F12C31-F7A0-4048-8C74-33BF11BEC999</p>
 </div>
@@ -6333,7 +6366,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6661,6 +6694,21 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part c) Steps missing!!
+
+3x / 2 = 15 - 3
+
+3x / 2 = 12 (add this line)
+
+3x     = 12 x 2
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -6705,7 +6753,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>DCA17542-5313-4830-8E8C-79DE88C98DEF</p>
 </div>
@@ -6719,7 +6767,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6913,6 +6961,35 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+i) Make necessary changes to the following lines.
+
+
+
+\"Now finding the value B\" ==> \"Lets use the value of A to find B.\"
+
+\"Finally the ....\"  ==> \"Lets use the value of C to find C.\"
+
+
+
+ii) write answers into three different answer sections and for each one dont forget to fill the key section. On website it should appear something like this 
+
+Albert = 10
+
+Brian = 11
+
+Charlie = 9
+
+
+
+For reference check: 8F027A1E-78A4-45E0-BB41-9FAAB4D6B88A and create the multiple [[sections.questions.answers]] to write answers.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -6957,7 +7034,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>4FD3FA7F-457F-4731-B4AE-15DCF80081B3</p>
 </div>
@@ -6971,7 +7048,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7137,6 +7214,33 @@ Money Alison recieved $= \dfrac {27} {3} = \pounds 9$.
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove full stop from first 3 lines as well as last 3 lines.
+
+Remove \"According to....\"line
+
+Remove \"Total money ... \" line
+
+
+
+ii) write answers into three different answer sections and for each one dont forget to fill the key section. On website it should appear something like this 
+
+Tom = £27
+
+David = £13.5
+
+Alison = £9
+
+
+
+For reference check: 8F027A1E-78A4-45E0-BB41-9FAAB4D6B88A and create the multiple [[sections.questions.answers]] to write answers.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -7372,7 +7476,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>DE21514C-D0D8-4AC5-AA51-07E6EBC58C80</p>
 </div>
@@ -7386,7 +7490,7 @@ TODOANSWER
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7532,6 +7636,17 @@ Larger number $= 2 \times 29 = 58$.
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove full stop(.) wherever placed.
+
+Write last line into multiple lines using \begin-end.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -9651,7 +9766,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>469A9C99-205F-4896-A51C-BA09D251CB0E</p>
 </div>
@@ -9665,7 +9780,7 @@ TODOANSWER
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -9806,6 +9921,17 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Add a line at last.
+
+The number Dini thought of = 21
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -9850,7 +9976,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>99F02CA6-5ABE-4985-B7A8-1EAD2F4E752F</p>
 </div>
@@ -9864,7 +9990,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -10149,6 +10275,23 @@ Yasmin need $1600 \ \text {ml}$ of water to make ten glasses of squash.
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) remove full stop from first line.
+
+Write \"a = 320 / 8\" in place of \"One glass of squash = 320 / 8\"
+
+
+
+One \ is missing at the end of the below line, add it.
+
+&= \dfrac {\cancel {8} \times 40} {\cancel {8}} \\\
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -10557,7 +10700,7 @@ How many magazines does she buy?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>A61865AA-6630-4CE9-83F3-826FE700031F</p>
 </div>
@@ -10571,7 +10714,7 @@ How many magazines does she buy?
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -10687,6 +10830,25 @@ As we can see, $2 + 3 + 11 = 16$.
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Solve it using the table method.
+
+Prime numbers less than 16 = 2,3,5,7,11,13
+
+Then create a table with a few possible combinations
+
+
+
+For wordings check part b) of the below referenced question:
+
+7E727E97-35F7-45AC-9A84-DFE534728056
+</div>
 
 <div class='review'>
 <ul class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2014-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2014 - Arithmetic A"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "20"
 ---
 <div class='paper'>

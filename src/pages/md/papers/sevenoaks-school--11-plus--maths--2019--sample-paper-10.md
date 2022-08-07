@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2019-sample-paper-10"
 title: "Sevenoaks School - 11 Plus - Maths - 2019 - Sample Paper 10"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "20"
 ---
 <div class='paper'>
@@ -14,7 +14,7 @@ questions_count: "20"
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_prbd rag_prns question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>3B57B6A6-82A1-494A-994E-EB4D60BF5539</p>
 </div>
@@ -25,7 +25,7 @@ questions_count: "20"
 <p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_da_prbd</p>
+<p>rag_da_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

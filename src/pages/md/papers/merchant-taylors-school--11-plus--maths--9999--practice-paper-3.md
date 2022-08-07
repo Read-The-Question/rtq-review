@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-9999-practice-paper-3"
 title: "Merchant Taylors School - 11 Plus - Maths - 9999 - Practice Paper 3"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "36"
 ---
 <div class='paper'>
@@ -4702,9 +4702,9 @@ i) Step missing
 
 a/4      = 30
 
-ii) Put an extra \' at the end in the below line.
+ii) Put an extra \ at the end in the below line.
 
-a &= 30 \times 4 \\ 
+a &= 30 \times 4 \\\ 
 
 
 

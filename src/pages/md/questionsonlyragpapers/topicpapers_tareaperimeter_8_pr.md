@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tareaperimeter-8-pr"
 title: "TopicPaper - Areaperimeter - 8 - PR"
-date: 2022-08-06 18:37:02
+date: 2022-08-06 23:42:19
 questions_count: "35"
 ---
 <ul class='question default-decimal'>
@@ -3230,7 +3230,7 @@ A rectangle measures $4.0\,cm$ by $7.1\,cm$. What is its area?
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-in Step 2 missing \\
+in Step 2 missing \\\\
 </div>
 
 <div class='review'>

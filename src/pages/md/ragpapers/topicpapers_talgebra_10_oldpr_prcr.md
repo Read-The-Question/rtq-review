@@ -1,12 +1,12 @@
 ---
-slug: "ragpapers/topicpapers-talgebra-10-oldpr-prpcr"
-title: "TopicPaper - Algebra - 10 - OLDPR - PRPCR"
-date: 2022-08-06 18:21:53
+slug: "ragpapers/topicpapers-talgebra-10-oldpr-prcr"
+title: "TopicPaper - Algebra - 10 - OLDPR - PRCR"
+date: 2022-08-06 23:28:22
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcr question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>8E7D2010-D1C7-4CA1-9BFC-5ABD5D17D678</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "2"
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -353,7 +353,7 @@ Part a)
 
 Remove \pound from the below line, 
 
-&= 2 \times \pounds 20 \\
+&= 2 \times \pounds 20 \\\\
 
 
 
@@ -361,7 +361,7 @@ Part c)
 
 Same correction required in below line
 
-a + 5a + 10a      &= \pounds 160 \\
+a + 5a + 10a      &= \pounds 160 \\\\
 </div>
 
 <div class='review'>
@@ -407,7 +407,7 @@ a + 5a + 10a      &= \pounds 160 \\
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcr question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>2FA424AE-D274-4664-A786-BD0EEF973FF7</p>
 </div>
@@ -421,7 +421,7 @@ a + 5a + 10a      &= \pounds 160 \\
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

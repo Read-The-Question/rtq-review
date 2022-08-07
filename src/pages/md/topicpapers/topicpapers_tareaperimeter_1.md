@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-1"
 title: "TopicPaper - Areaperimeter - 1"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "40"
 ---
 <div class='paper'>
@@ -1565,9 +1565,9 @@ $
 
 \begin{aligned}
 
-\text{Number of tins needed}             &= \dfrac {\text{Total area of the hall}} {\text{Area covered by a tin}} \\
+\text{Number of tins needed}             &= \dfrac {\text{Total area of the hall}} {\text{Area covered by a tin}} \\\\
 
-                                            &= \dfrac {20000} {40} \\
+                                            &= \dfrac {20000} {40} \\\\
 
                                             &= 500
 

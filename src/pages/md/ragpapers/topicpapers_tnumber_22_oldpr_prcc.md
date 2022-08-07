@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-22-oldpr-prcc"
 title: "TopicPaper - Number - 22 - OLDPR - PRCC"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -316,7 +316,7 @@ $
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-&= \dfrac{40 \cancel{0} \cancel{0}}{1 \cancel{0} \cancel{0}}  \\ (do not cancel zeros singly) its \cancel {00}
+&= \dfrac{40 \cancel{0} \cancel{0}}{1 \cancel{0} \cancel{0}}  \\\\ (do not cancel zeros singly) its \cancel {00}
 </div>
 
 <div class='review'>

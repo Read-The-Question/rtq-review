@@ -1,7 +1,7 @@
 ---
 slug: "papers/forest-school-11-plus-maths-9999-sample-paper-2"
 title: "Forest School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "38"
 ---
 <div class='paper'>
@@ -279,7 +279,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-EC09307C-A0EE-4A9B-A081-3D90ED7BFCA0'>Initial</p>
 <div class='question question'>
 
-Workout $567-89$ 
+Work out $567-89$. 
 
 </div>
 <div class='workings'>

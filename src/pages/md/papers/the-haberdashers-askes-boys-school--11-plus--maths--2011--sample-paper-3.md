@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2011-sample-paper-3"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2011 - Sample Paper 3"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "30"
 ---
 <div class='paper'>
@@ -459,7 +459,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-8C6A0833-0F7A-46D0-AE4D-33C291CC56D6'>Initial</p>
 <div class='question question'>
 
-Multiply: $62 \times 7$
+Multiply: $62 \times 7$.
 
 </div>
 <div class='workings'>

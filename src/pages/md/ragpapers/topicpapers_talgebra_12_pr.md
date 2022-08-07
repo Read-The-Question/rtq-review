@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-12-pr"
 title: "TopicPaper - Algebra - 12 - PR"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "20"
 ---
 <ul class='question default-decimal'>
@@ -224,7 +224,7 @@ Number of helpers $= 8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>51FA34A0-EEA9-468D-9DD3-11BB4CBBF4D0</p>
 </div>
@@ -238,7 +238,7 @@ Number of helpers $= 8$
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -412,7 +412,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>03062397-6A4C-462F-A913-57F1FA0E1B4A</p>
 </div>
@@ -426,7 +426,7 @@ $
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -615,7 +615,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>4F9F9262-A677-46E7-BF67-C0017CAB35B7</p>
 </div>
@@ -629,7 +629,7 @@ $
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -882,7 +882,7 @@ WRITE the answer in KATEX text
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>3250EBF1-2D1A-48CA-B1EA-DF0B51214B2E</p>
 </div>
@@ -896,7 +896,7 @@ WRITE the answer in KATEX text
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1369,7 +1369,7 @@ The lowest weight Josephine need to put on $=8.6 \ \text{kg}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>245B324A-6DAB-4088-BFC8-09EDBB1D03E1</p>
 </div>
@@ -1383,7 +1383,7 @@ The lowest weight Josephine need to put on $=8.6 \ \text{kg}$
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1780,7 +1780,7 @@ $\underline {\text {C}}$ and  $\underline {\text {E}}$ give the same value for m
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>821275C1-8DB4-4E05-91B4-87F51A34EDD4</p>
 </div>
@@ -1794,7 +1794,7 @@ $\underline {\text {C}}$ and  $\underline {\text {E}}$ give the same value for m
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1996,7 +1996,7 @@ Delius paid $\pounds 4$. So, all four friends paid $\pounds 4$ each.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>5E9CF149-3391-4F75-9A25-67E4CCFAB6DA</p>
 </div>
@@ -2010,7 +2010,7 @@ Delius paid $\pounds 4$. So, all four friends paid $\pounds 4$ each.
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2335,7 +2335,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>4F789E2C-F431-4D0D-81F6-47D727DDF8FA</p>
 </div>
@@ -2349,7 +2349,7 @@ TODOANSWER
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2507,7 +2507,7 @@ $\text{One orange and five apples}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>1DBE30B7-4FEB-411A-8173-16E4131A8B9B</p>
 </div>
@@ -2521,7 +2521,7 @@ $\text{One orange and five apples}$
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2835,7 +2835,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>68B5F9D8-6802-4D8A-9E11-07B4B6B7DBB1</p>
 </div>
@@ -2849,7 +2849,7 @@ TODOANSWER
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3014,7 +3014,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>0E8B9210-8E51-48CA-8F41-6F60BB08A506</p>
 </div>
@@ -3028,7 +3028,7 @@ $
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3207,7 +3207,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>F8180122-4CE2-4E5E-A043-7D79F32DDBED</p>
 </div>
@@ -3221,7 +3221,7 @@ TODOANSWER
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3402,7 +3402,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>F1D61AFD-09B1-495E-8B01-6F4566287548</p>
 </div>
@@ -3416,7 +3416,7 @@ TODOANSWER
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3597,7 +3597,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>28B9A7A2-B177-4AA0-8083-661A59F79C19</p>
 </div>
@@ -3611,7 +3611,7 @@ TODOANSWER
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3928,7 +3928,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>651FA161-719C-4CEA-8415-BD9C2BEF8759</p>
 </div>
@@ -3942,7 +3942,7 @@ TODOANSWER
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4124,7 +4124,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>12D28059-3C99-4BDF-BF66-584ACAC9EA71</p>
 </div>
@@ -4138,7 +4138,7 @@ TODOANSWER
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4457,7 +4457,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>66E82DE8-5928-4039-A1D7-0B0410BA4486</p>
 </div>
@@ -4471,7 +4471,7 @@ TODOANSWER
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4663,7 +4663,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>0052563B-523A-443E-B7A2-21267B36F737</p>
 </div>
@@ -4677,7 +4677,7 @@ TODOANSWER
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4862,7 +4862,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>1A54CC1A-16C2-4AF1-B68E-205DA3F96930</p>
 </div>
@@ -4876,7 +4876,7 @@ TODOANSWER
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-17"
 title: "TopicPaper - Number - 17"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "40"
 ---
 <div class='paper'>
@@ -2653,7 +2653,7 @@ remove extra working and answer sections
 
 
 
-d: missing \\
+d: missing \\\\
 
 
 
@@ -4542,7 +4542,7 @@ b: same as a
 
 
 
-c: change \\ to \
+c: change \\\\ to \\
 
 
 

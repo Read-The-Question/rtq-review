@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2012-sample-paper-3"
 title: "Sevenoaks School - 11 Plus - Maths - 2012 - Sample Paper 3"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "12"
 ---
 <div class='paper'>
@@ -1065,7 +1065,7 @@ F82A9A83-8990-460E-9DE9-6B7ACD86127F for b
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>B5C73911-F262-422F-8F91-C2B9B4CF5D09</p>
 </div>
@@ -1079,7 +1079,7 @@ F82A9A83-8990-460E-9DE9-6B7ACD86127F for b
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1440,6 +1440,39 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) Steps missing!!
+
+(x × 18) ÷ 9 = 16
+
+(x × 18) × 1/9 = 16 (add this step)
+
+(x × 18)/9 = 16
+
+x × 18 = 16 × 9    (add this step)
+
+x = 16 × 9 / 18
+
+
+
+Part b) Steps missing!!
+
+(x+12) × 4 = 60
+
+x + 12     = 60 / 4      (add this line)
+
+x + 12     = 15 x 4 / 4   (add this line)
+
+first cancel then move 12 to the RHS
+
+then solve further..
+</div>
 
 <div class='review'>
 <ul class='review'>

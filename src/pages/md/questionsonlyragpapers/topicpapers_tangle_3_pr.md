@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tangle-3-pr"
 title: "TopicPaper - Angle - 3 - PR"
-date: 2022-08-06 18:37:02
+date: 2022-08-06 23:42:19
 questions_count: "25"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "25"
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:27</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -102,10 +102,10 @@ There are two possible solutions to this question.
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -248,10 +248,10 @@ What special type of quadrilateral is $ABCD$?
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -343,10 +343,10 @@ Measure and write down the size of angle $B$ in the triangle.
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -470,10 +470,10 @@ Find the sizes of the angles marked $a, b$ and $c$.
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -555,10 +555,10 @@ Work out the value of the angle labelled $x$ in the diagram below. The diagram i
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -642,10 +642,10 @@ The diagram is not drawn to scale.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:29</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -734,10 +734,10 @@ What is the size of the reflex angle marked $p \degree$?
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -814,10 +814,10 @@ One angle of a triangle is $30 \degree$. The second angle is twice the size of t
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -985,10 +985,10 @@ Find $c$
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1074,10 +1074,10 @@ Uday: look again after changes.
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1199,10 +1199,10 @@ What is the size of angle $A$?
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1279,10 +1279,10 @@ One of the angles in a triangle is $40 \degree$. One of the remaining two angles
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1359,10 +1359,10 @@ In a triangle, the largest angle is two times the middle angle and the middle an
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1448,10 +1448,10 @@ Calculate each of the angles marked $x$ and $y$.
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1533,10 +1533,10 @@ What is the size of the angle marked $χ$ in the diagram below? [diagram not dra
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1618,10 +1618,10 @@ Find the value of $χ$ in the diagram below
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1703,10 +1703,10 @@ Calculate the missing angle in the triangle shown below:
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1785,10 +1785,10 @@ In the triangle below measure the side AB and the angle A
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1879,10 +1879,10 @@ Angle but explanatory
 <p>tonbridge-school--scholarship--maths--2016--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1925,10 +1925,10 @@ $x$ = ABC in degrees. Use algebra to calculate the size of angle $𝑥$.
 <p>tonbridge-school--scholarship--maths--2016--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2005,10 +2005,10 @@ It is possible for *A, B, C* all to be square numbers.
 <p>tonbridge-school--scholarship--maths--2017--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2090,10 +2090,10 @@ If triangle BCD is equilateral, what is the value of $x$ ?
 <p>tonbridge-school--scholarship--maths--2018--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2191,10 +2191,10 @@ If $x =  264\degree$, find $n$ .
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2282,10 +2282,10 @@ Calculate the value of angle $x$.
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

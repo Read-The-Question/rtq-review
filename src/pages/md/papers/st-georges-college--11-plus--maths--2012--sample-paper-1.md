@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-georges-college-11-plus-maths-2012-sample-paper-1"
 title: "St Georges College - 11 Plus - Maths - 2012 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "25"
 ---
 <div class='paper'>
@@ -3792,7 +3792,7 @@ String (Remains) &= Sting (Total) - String (Cut) (solve accordingly)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>682CC1A0-4A88-4DD0-BD42-0767DA7FEE5D</p>
 </div>
@@ -3806,7 +3806,7 @@ String (Remains) &= Sting (Total) - String (Cut) (solve accordingly)
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4089,43 +4089,15 @@ $
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-Part A : APTQ, 
-
-1 Cake &= 5 Eggs
-
-1 x 15 Cakes = 5 x 15 (solve further) 
-
-Last sentence will be : To make $15$ cakes I will use $=75$ eggs.
-
-PArt B : APTQ,
-
-12 Eggs =1 Box
-
-1 Egg = 1 / 12 Box
-
-1 x 75 Eggs = 1 / 12 \times 75 (solve further) 
-
-present in mixed fractions. = 6 3/12
 
 
 
-$6$ whole boxes and $1$ more box for the $3$ remaining eggs. 
 
+Part c)
 
+Remove \"\pound\" from the below line.
 
-The number of boxes I must buy to ensure that I have enough eggs to make the 15 cakes $=7$
-
-In blue answer only $7$
-
-Part C : APTQ,
-
-1 Box &= .....
-
-1 x 7 Boxes &= ......
-
-
-
-For $7$ boxes of eggs, I will pay $=....$
+\text {Total cost}      &= 7 \times \pounds 1.68 \\\\
 </div>
 
 <div class='review'>

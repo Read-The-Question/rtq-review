@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsymmetry-2-notstarted"
 title: "TopicPaper - Symmetry - 2 - NOTSTARTED"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "39"
 ---
 <ul class='question default-decimal'>

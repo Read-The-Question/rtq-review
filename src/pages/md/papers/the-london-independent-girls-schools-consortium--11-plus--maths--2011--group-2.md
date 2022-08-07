@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2011-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2011 - Group 2"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "40"
 ---
 <div class='paper'>
@@ -800,7 +800,7 @@ tdecimal
 <p class='review_status initial' id='SUBTAG-STATUS-A750C241-48C7-4C08-BD12-8DD6F69FB939'>Initial</p>
 <div class='question question'>
 
-Calculate $2.7 - 0.47$
+Calculate $2.7 - 0.47$.
 
 </div>
 <div class='workings'>

@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tnumber-14"
 title: "TopicPaper - Number - 14"
-date: 2022-08-06 18:37:02
+date: 2022-08-06 23:42:19
 questions_count: "40"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "40"
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -61,10 +61,10 @@ The speed of light is more accurately given as $299,792,458$ metres per second. 
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -127,10 +127,10 @@ One kilometre is five eighths of a mile. How many miles do I live from St Anselm
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -241,10 +241,10 @@ $\Huge \boxed {17}$  add...... $\Huge \boxed {32}$  Subtract 39 $\Huge \boxed {.
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -361,10 +361,10 @@ $45.1925487$ (nearest tenth)
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -446,10 +446,10 @@ d) $112$ inches
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -619,10 +619,10 @@ b: answer is wrong, has to be square number 15 has 1 as a factor too,
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -685,10 +685,10 @@ $52 070$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -722,10 +722,10 @@ Write down all the numbers  **smaller**  than 90 which are multiples of both 6 *
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -828,10 +828,10 @@ in m
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -938,10 +938,10 @@ $\boxed {53}$ Add.......  $\boxed {..125....}$  Subtract 39  $\boxed {.........}
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1061,10 +1061,10 @@ Round each of the following numbers to the accuracy given in brackets.
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1108,10 +1108,10 @@ d) 112 inches
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1246,10 +1246,10 @@ Which of the numbers is a prime number?
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1323,10 +1323,10 @@ The area of the United Kingdom is about $243,600\,km^2$ .Write this area in word
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1400,10 +1400,10 @@ The area of Australia is $7 692 024\,km^2$ .Write this area in words.
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1520,10 +1520,10 @@ A kilometre is $\dfrac {5} {8}$  of a mile. How many miles away from Goodison Pa
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1643,10 +1643,10 @@ $124.0754896$ (nearest hundredth)
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1733,10 +1733,10 @@ d) $1500\,mm$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1872,10 +1872,10 @@ Numbers with only two factors have a special name. What is it?
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1992,10 +1992,10 @@ $\text{millilitres}$ are there in $3\ \text{litres}$?
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2086,10 +2086,10 @@ the $\text{fifth}$ prime number
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2209,10 +2209,10 @@ $1000$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:29</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2315,10 +2315,10 @@ $17 + 3 \times (5 - 1) =$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2392,10 +2392,10 @@ $18 - 17 + 16 - 15 + 14 - 13$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2432,10 +2432,10 @@ $\pounds 1.28 + 57 \text{p}$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2512,10 +2512,10 @@ Write in figures the number forty two thousand and eight.
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2618,10 +2618,10 @@ Express $510 \ \text{cm}$ in metres
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2655,10 +2655,10 @@ I used my calculator to work out $(31 \times 9) \div 52$. Before doing so I work
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2791,10 +2791,10 @@ $4122 \div 6$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2868,10 +2868,10 @@ Add $\text{twelve thousand and sixty seven and nine thousandone hundred and four
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2988,10 +2988,10 @@ A multiple of 17 between $50$ and $60$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3065,10 +3065,10 @@ Calculate $2.4 \times (3.7 +  1.3) \div 2$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3152,10 +3152,10 @@ $0.01 \quad 0.08 \quad 0.13 \quad 0.2 \quad 0.9$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3189,10 +3189,10 @@ Write the three prime numbers which multiply to make $231$:
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3230,10 +3230,10 @@ $323 \times \ldots 7 = 1518 \ldots$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3271,10 +3271,10 @@ The first has been done for you:
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3348,10 +3348,10 @@ Calculate $1.1 \times (1.2 + 1.3) \times 2$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3432,10 +3432,10 @@ $2 \dfrac{1}{2} \quad 2 \dfrac{1}{7} \quad 2 \dfrac{6}{11} \quad 2 \dfrac{2}{5} 
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3538,10 +3538,10 @@ $12 \times 75 = 10 \times \ldots$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

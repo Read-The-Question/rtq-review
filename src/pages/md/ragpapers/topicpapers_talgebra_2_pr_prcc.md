@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-2-pr-prcc"
 title: "TopicPaper - Algebra - 2 - PR - PRCC"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "21"
 ---
 <ul class='question default-decimal'>
@@ -1804,13 +1804,13 @@ Step missing!!
 
 After this
 
-\dfrac {4a - 3a} {12}  &= 3 \\
+\dfrac {4a - 3a} {12}  &= 3 \\\\
 
 Write this
 
-4a - 3a                &= 3 \times 12 \\
+4a - 3a                &= 3 \times 12 \\\
 
-a                      &= 36 \\
+a                      &= 36 \\\\
 
 
 
@@ -2066,9 +2066,9 @@ i) Remove \"then\" from the second line
 
 ii) Start the working in an opposite way like below, so that there will be no need of swapping the terms. 
 
-5 \times (a - 18)         &= 2a - 18 \\
+5 \times (a - 18)         &= 2a - 18 \\\\
 
-5 \times a - 5 \times 18  &= 2a - 18 \\
+5 \times a - 5 \times 18  &= 2a - 18 \\\\
 
 ...
 </div>
@@ -3186,15 +3186,15 @@ Remove \"\pounds\" from the below lines:
 
 
 
-\text{Cost per toilet roll at Alis shop} &= \pounds \dfrac {2.4} {8} \\
+\text{Cost per toilet roll at Alis shop} &= \pounds \dfrac {2.4} {8} \\\\
 
 
 
-\text{Cost per toilet roll at Myas shop}       &= \pounds 0.3 \times 2 \\
+\text{Cost per toilet roll at Myas shop}       &= \pounds 0.3 \times 2 \\\\
 
 
 
-\text{Cost of 3 toilet rolls at Myas shop}        &= \pounds 0.6 \times 3 \\
+\text{Cost of 3 toilet rolls at Myas shop}        &= \pounds 0.6 \times 3 \\\\
 </div>
 
 <div class='review'>
@@ -3940,11 +3940,11 @@ Part a)
 
 Add the missing step:
 
-\dfrac {a} {2}    &= 12 + 9 \\
+\dfrac {a} {2}    &= 12 + 9 \\\\
 
-\dfrac {a} {2}    &= 21 \\    (this line missing)
+\dfrac {a} {2}    &= 21 \\\\    (this line missing)
 
-a                 &= 21 \times 2 \\
+a                 &= 21 \times 2 \\\\
 
 
 
@@ -5837,17 +5837,17 @@ We only write units (\pounds) at the end of working
 
 for eg;
 
-\text{Cost of raspberry creams}  &= \pounds 1.65 \times 6 \\
+\text{Cost of raspberry creams}  &= \pounds 1.65 \times 6 \\\\
 
-&= \pounds 9.9 \\
+&= \pounds 9.9 \\\\
 
 
 
 The above working should be as follows:
 
-\text{Cost of raspberry creams}  &= 1.65 \times 6 \\
+\text{Cost of raspberry creams}  &= 1.65 \times 6 \\\\
 
-&= \pounds 9.9 \\
+&= \pounds 9.9 \\\\
 
 
 
@@ -7316,7 +7316,7 @@ Remove the formula
 
 Start with:
 
-Body Mass Index (BMI) of Bess &= 36/1.2^2 \\
+Body Mass Index (BMI) of Bess &= 36/1.2^2 \\\\
 
                               &= 36/1.2*1.2
 

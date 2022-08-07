@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tinfer-4"
 title: "TopicPaper - Infer - 4"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "40"
 ---
 <div class='paper'>

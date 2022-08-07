@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2016-sample-paper-2"
 title: "Bancrofts School - 11 Plus - Maths - 2016 - Sample Paper 2"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "37"
 ---
 <div class='paper'>
@@ -9311,13 +9311,13 @@ Step missing!!
 
 After this
 
-\dfrac {4a - 3a} {12}  &= 3 \\
+\dfrac {4a - 3a} {12}  &= 3 \\\\
 
 Write this
 
-4a - 3a                &= 3 \times 12 \\
+4a - 3a                &= 3 \times 12 \\\
 
-a                      &= 36 \\
+a                      &= 36 \\\\
 
 
 
@@ -10270,9 +10270,9 @@ i) Remove \"then\" from the second line
 
 ii) Start the working in an opposite way like below, so that there will be no need of swapping the terms. 
 
-5 \times (a - 18)         &= 2a - 18 \\
+5 \times (a - 18)         &= 2a - 18 \\\\
 
-5 \times a - 5 \times 18  &= 2a - 18 \\
+5 \times a - 5 \times 18  &= 2a - 18 \\\\
 
 ...
 </div>

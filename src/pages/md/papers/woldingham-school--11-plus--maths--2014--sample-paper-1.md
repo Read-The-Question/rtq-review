@@ -1,7 +1,7 @@
 ---
 slug: "papers/woldingham-school-11-plus-maths-2014-sample-paper-1"
 title: "Woldingham School - 11 Plus - Maths - 2014 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "29"
 ---
 <div class='paper'>
@@ -101,7 +101,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-0BBE4126-D528-4588-9AF9-F9CE49056600'>Initial</p>
 <div class='question question'>
 
-Calculate $6 \times 8$
+Calculate $6 \times 8$.
 
 </div>
 <div class='workings'>
@@ -502,7 +502,7 @@ $
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-&= \dfrac{40 \cancel{0} \cancel{0}}{1 \cancel{0} \cancel{0}}  \\ (do not cancel zeros singly) its \cancel {00}
+&= \dfrac{40 \cancel{0} \cancel{0}}{1 \cancel{0} \cancel{0}}  \\\\ (do not cancel zeros singly) its \cancel {00}
 </div>
 
 <div class='review'>
@@ -633,7 +633,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-3114740D-C53A-49EC-B433-2572189ED29D'>Initial</p>
 <div class='question question'>
 
-Calculate $7 \times 8$
+Calculate $7 \times 8$.
 
 </div>
 <div class='workings'>
@@ -809,7 +809,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-F858DC13-E706-4D45-B60D-CF904A6C3072'>Initial</p>
 <div class='question question'>
 
-Calculate $43.2 \times 10$
+Calculate $43.2 \times 10$.
 
 </div>
 <div class='workings'>
@@ -985,7 +985,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-7A1BE18D-7F3E-4C3E-BBB5-57FB9BEA3BF1'>Initial</p>
 <div class='question question'>
 
-Calculate $9.8 \times 1000$
+Calculate $9.8 \times 1000$.
 
 </div>
 <div class='workings'>
@@ -1517,7 +1517,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-56E5E6AF-A895-45C2-A9F6-20497B067AAE'>Initial</p>
 <div class='question question'>
 
-Calculate  $- 45 + 63$
+Calculate  $- 45 + 63$.
 
 </div>
 <div class='workings'>

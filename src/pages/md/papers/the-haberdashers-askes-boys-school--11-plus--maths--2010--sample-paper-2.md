@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2010-sample-paper-2"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2010 - Sample Paper 2"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "30"
 ---
 <div class='paper'>
@@ -461,7 +461,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-A0F22995-6BFC-44F2-B293-97CAF232195A'>Initial</p>
 <div class='question question'>
 
-Multiply: $43 \times 6$
+Multiply: $43 \times 6$.
 
 </div>
 <div class='workings'>
@@ -3896,7 +3896,7 @@ C $\underline {\text  {is more likely to happen than}}$ D.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>245B324A-6DAB-4088-BFC8-09EDBB1D03E1</p>
 </div>
@@ -3910,7 +3910,7 @@ C $\underline {\text  {is more likely to happen than}}$ D.
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5519,7 +5519,7 @@ The least number of boys in the class who are both right-handed and wear glasses
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>821275C1-8DB4-4E05-91B4-87F51A34EDD4</p>
 </div>
@@ -5533,7 +5533,7 @@ The least number of boys in the class who are both right-handed and wear glasses
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

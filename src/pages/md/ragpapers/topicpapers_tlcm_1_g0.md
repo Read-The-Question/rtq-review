@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tlcm-1-g0"
 title: "TopicPaper - Lcm - 1 - G0"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "13"
 ---
 <ul class='question default-decimal'>

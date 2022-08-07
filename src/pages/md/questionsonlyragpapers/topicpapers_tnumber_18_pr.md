@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tnumber-18-pr"
 title: "TopicPaper - Number - 18 - PR"
-date: 2022-08-06 18:37:02
+date: 2022-08-06 23:42:19
 questions_count: "40"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "40"
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -109,10 +109,10 @@ The diameter of a CD    $120 \ \text{mm}  \quad  50 \ \text{cm} \quad  50 \ \tex
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:27</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -258,10 +258,10 @@ units not written correct for space \text
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:33</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -410,10 +410,10 @@ $(21 \times 55) + 21 = 1176 \qquad \boxed{\phantom{\checkmark}}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:42</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -587,10 +587,10 @@ List the others.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -664,10 +664,10 @@ Write the number twenty thousand, three hundred and six in figures.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:42</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -701,10 +701,10 @@ Find the smallest number which leaves a remainder of $1$ when divided by $5$ or 
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -781,10 +781,10 @@ Arrange all the digits $9, 7, 6, 4, 2$ to make the smallest **even** number.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -862,10 +862,10 @@ altogether? Give your answer in figures, not words.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -955,10 +955,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:25</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1011,10 +1011,10 @@ There are between $\text{\textunderscore \textunderscore \textunderscore}$ and $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1117,10 +1117,10 @@ Write in figures the number which is $100$ times bigger than two point two.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1198,10 +1198,10 @@ $0.993   \quad 1.006  \quad 1.1  \quad 0.94  \quad 0.99$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1275,10 +1275,10 @@ Write in figures the number three hundred thousand and thirty.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1362,10 +1362,10 @@ $0.6 \quad 0.1 \quad 0.09 \quad 0.5 \quad 0.14 \quad 0.06$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1509,10 +1509,10 @@ c: do like other questions for finding the biggest number, not following the tem
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1671,10 +1671,10 @@ What is the rule for this number machine?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1860,10 +1860,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1979,10 +1979,10 @@ On the scale below, draw an arrow to represent one tenth of $2 \ \text{kilograms
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:23</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2104,10 +2104,10 @@ the volume of water in a bath
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2210,10 +2210,10 @@ Which number is $100$ times smaller than $349$?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:25</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2349,10 +2349,10 @@ just write md, no need for katex \text
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2458,10 +2458,10 @@ Which number is multipled by $100$ to give $2907$?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2535,10 +2535,10 @@ Which number between $40$ and $50$ is a multiple of both $4$ and $6$?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2619,10 +2619,10 @@ $5 \quad 8 \quad 11 \quad 14 \quad 21 \quad 31$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2739,10 +2739,10 @@ $40   \div  \ \boxed{\phantom{1}} = 4^2 \div 2$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2863,10 +2863,10 @@ $23 \times 641$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3035,10 +3035,10 @@ $\boxed{\phantom{1}} \ \boxed{\phantom{1}} \ \times \ \boxed{\phantom{1}}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3121,10 +3121,10 @@ If the length of piece $A$ is $5$ units, estimate the length of $B$.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3227,10 +3227,10 @@ Which number is *one hundred* less than *two thousand and forty?*
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3271,10 +3271,10 @@ $2 \quad 3 \quad 4 \quad 5 \quad 6 \quad 7 \quad 8 \quad 9$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3409,10 +3409,10 @@ Write suitable labels on the diagram below.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3537,10 +3537,10 @@ $9146 \div 34$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3614,10 +3614,10 @@ Given that $7.84 \times 6 = 46.8$, work out the value of $7.84 \times 18$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3747,10 +3747,10 @@ Work out both possible answers.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3878,10 +3878,10 @@ What is the special name given to this type of number?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3998,10 +3998,10 @@ Use this fact to estimate the height of the tree.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4104,10 +4104,10 @@ Which number is $10$ more than one thousand nine hundred and ninety seven?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4256,10 +4256,10 @@ What is the difference between the largest and smallest $4$-digit numbers that c
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4356,10 +4356,10 @@ look at other solutions using trial and error and table
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

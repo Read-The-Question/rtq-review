@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2012-sample-paper-3"
 title: "Reigate Grammar School - 11 Plus - Maths - 2012 - Sample Paper 3"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "45"
 ---
 <div class='paper'>
@@ -509,7 +509,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-A0351803-0890-4037-9AE0-32CA4800A3DD'>Initial</p>
 <div class='question question'>
 
-What is $2002 \times 10?$
+What is $2002 \times 10 \ ?$
 
 </div>
 <div class='workings'>
@@ -685,7 +685,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-28567DF7-C205-4EA9-ADD3-0DD66CC0BD8C'>Initial</p>
 <div class='question question'>
 
-Use your previous answer to write down $2002 \times 5$
+Use your previous answer to write down $2002 \times 5$.
 
 </div>
 <div class='workings'>
@@ -873,7 +873,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-CEEFE661-3F94-486A-860F-03203D78E68B'>Initial</p>
 <div class='question question'>
 
-Use these last two answers to write down $2002 \times 15$
+Use these last two answers to write down $2002 \times 15$.
 
 </div>
 <div class='workings'>
@@ -2373,7 +2373,7 @@ $
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-Remove extra whitespace at the end and after \  , also write . (decimal) in the answer
+Remove extra whitespace at the end and after \\  , also write . (decimal) in the answer
 </div>
 
 <div class='review'>

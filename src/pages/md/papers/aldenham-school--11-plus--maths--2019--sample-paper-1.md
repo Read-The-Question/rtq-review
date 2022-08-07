@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-2019-sample-paper-1"
 title: "Aldenham School - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "27"
 ---
 <div class='paper'>
@@ -5745,7 +5745,7 @@ $
 
 
 
-Part a) Give space between 12 - 5\\ 
+Part a) Give space between 12 - 5\\\\ 
 
 Part b) show the cancelation for 50/10 using factorization method
 

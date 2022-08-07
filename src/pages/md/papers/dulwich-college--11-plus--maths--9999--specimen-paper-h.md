@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-h"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper H"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "24"
 ---
 <div class='paper'>
@@ -4653,7 +4653,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>C5C3BAF3-583A-4F15-9F82-00938336CDCD</p>
 </div>
@@ -4664,7 +4664,7 @@ TODOANSWER
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4747,19 +4747,26 @@ My age is a multiple of $7$. Next year it will be a multiple of $5$. I am more t
 <div class='workings'>
 <div class='working'>
 
-My age lies between $20$ and $80$
+We can easily infer the values by using trial and error. Let's find the number which meets the following critiera below.
 
-Therefore, it should be among the list of multiple of 7:
+- The age lies between $20$ and $80$.
+- The age is a multiple of $7$.
+- The age next year is a multiple of $5$.
+<br>
 
-$21, 28, 35, 42, 49, 56, 63, 70, 77$
+| Age       |  Age + $1$       | Multiple of $5$  |
+|:---------:|:----------------:|:----------------:|
+|   $21$    |       $22$       |        No        |
+|   $28$    |       $29$       |        No        |
+|   $35$    |       $36$       |        No        |
+|   $42$    |       $43$       |        No        |
+|   $49$    |       $50$       |       Yes        |
+|   $56$    |       $57$       |        No        |
+|   $63$    |       $64$       |        No        |
+|   $70$    |       $71$       |        No        |
+|   $77$    |       $78$       |        No        |
 
-Given,
-
-Next year, it will be a multiple of 5
-
-Among the numbers in the list, the only number when increased by $1$ (to get next year's age) which becomes a multiple of $5 (5×10=50)$ is $49$
-
-Therefore, My age $= 49 \ \text {years}$
+Age $= 49 \ \text {years}$
 
 </div>
 </div>
@@ -4773,19 +4780,26 @@ $49 \ \text {years}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>My age lies between $20$ and $80$
+<pre class='language-latex'><code class='language-latex'>We can easily infer the values by using trial and error. Let's find the number which meets the following critiera below.
 <emptyline>
-Therefore, it should be among the list of multiple of 7:
+- The age lies between $20$ and $80$.
+- The age is a multiple of $7$.
+- The age next year is a multiple of $5$.
+<br>
 <emptyline>
-$21, 28, 35, 42, 49, 56, 63, 70, 77$
+| Age       |  Age + $1$       | Multiple of $5$  |
+|:---------:|:----------------:|:----------------:|
+|   $21$    |       $22$       |        No        |
+|   $28$    |       $29$       |        No        |
+|   $35$    |       $36$       |        No        |
+|   $42$    |       $43$       |        No        |
+|   $49$    |       $50$       |       Yes        |
+|   $56$    |       $57$       |        No        |
+|   $63$    |       $64$       |        No        |
+|   $70$    |       $71$       |        No        |
+|   $77$    |       $78$       |        No        |
 <emptyline>
-Given,
-<emptyline>
-Next year, it will be a multiple of 5
-<emptyline>
-Among the numbers in the list, the only number when increased by $1$ (to get next year's age) which becomes a multiple of $5 (5×10=50)$ is $49$
-<emptyline>
-Therefore, My age $= 49 \ \text {years}$
+Age $= 49 \ \text {years}$
 </code></pre>
 </div>
 </div>
@@ -4806,35 +4820,35 @@ Therefore, My age $= 49 \ \text {years}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' id='FORM-C5C3BAF3-583A-4F15-9F82-00938336CDCD' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' id='FORM-C5C3BAF3-583A-4F15-9F82-00938336CDCD' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

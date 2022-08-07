@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-high-school-for-girls-11-plus-maths-2016-sample-paper-1"
 title: "St Albans High School For Girls - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "32"
 ---
 <div class='paper'>
@@ -2883,7 +2883,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>88E4E25E-69B3-4A17-91EB-4C55EB7DE942</p>
 </div>
@@ -2897,7 +2897,7 @@ TODOANSWER
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3096,6 +3096,23 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+We dont solve quadratic equations this way.
+
+Check the reference, it is very similar to this one. Then solve it accrodingly
+
+Reference: 6E54CC2F-AFAA-4163-A221-70B208AE9DB1
+
+
+
+In case of any doubt ping me on slack.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3909,7 +3926,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>62DF8BD0-738E-47AD-992F-53FE32B01AFB</p>
 </div>
@@ -3923,7 +3940,7 @@ TODOANSWER
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4173,7 +4190,7 @@ She hired the boat for $= 4 \dfrac {1} {2} \ \text {hours}$
 
 Part a) Remove the units (\pounds) on the below line (I mean first line of the working)
 
-\text {Total cost}      &= \pounds 2 + 2 \times \pounds 3 \\
+\text {Total cost}      &= \pounds 2 + 2 \times \pounds 3 \\\\
 
 
 

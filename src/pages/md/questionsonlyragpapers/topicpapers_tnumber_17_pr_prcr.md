@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tnumber-17-pr-prcr"
 title: "TopicPaper - Number - 17 - PR - PRCR"
-date: 2022-08-06 18:37:02
+date: 2022-08-06 23:42:19
 questions_count: "40"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "40"
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -151,10 +151,10 @@ $\dfrac {1} {3}$ and $\dfrac {1} {2}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -282,10 +282,10 @@ On the probability scale below, mark the following probabilities with the letter
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -432,10 +432,10 @@ b: write original question first
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -583,10 +583,10 @@ d: search other answer where remainder is shown and write in similar way. search
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -689,10 +689,10 @@ What is the value of $9$ in $9080$? Write your answer in words.
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -856,10 +856,10 @@ Find a perfect number which is less than $10$.
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1009,7 +1009,7 @@ remove extra working and answer sections
 
 
 
-d: missing \\
+d: missing \\\\
 
 
 
@@ -1067,10 +1067,10 @@ e: not following cancel and factor rules, space around of
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1187,10 +1187,10 @@ Write down all the factors of $16$.
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1322,10 +1322,10 @@ Which year is written in Roman numerals as $MMXVII$?
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1496,10 +1496,10 @@ roundoff use \approx way and look at some sample answers
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1669,10 +1669,10 @@ $\boxed{\phantom{1}} \ \boxed{\phantom{1}} \ + \ \boxed{\phantom{1}} \ \boxed{\p
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1766,7 +1766,7 @@ b: same as a
 
 
 
-c: change \\ to \
+c: change \\\\ to \\
 
 
 
@@ -1824,10 +1824,10 @@ remove extra working
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1896,10 +1896,10 @@ $18 \quad \boxed{ \phantom{-} } \quad  6 = 120 \quad \boxed{ \phantom{-} } \quad
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2018,10 +2018,10 @@ still not correct, write original values and then approximate, for eg 142280BA-7
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2102,10 +2102,10 @@ $0.5 \quad 0.6 \quad 0.4 \quad 0.08 \quad 0.404$
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2240,10 +2240,10 @@ $844 \times 0.25$
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2362,10 +2362,10 @@ still not correct, write original values and then approximate, for eg 142280BA-7
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2408,10 +2408,10 @@ Complete the table giving fractions in their simplest form.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2493,10 +2493,10 @@ Three thousand nine hundred and sixty eight
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2570,10 +2570,10 @@ What is the difference, in cm, between $3.2 \ \text{metres}$ and $30 \ \text{cm}
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2653,10 +2653,10 @@ $\boxed { \phantom{20} } - 8 = 4 \times 3$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2786,10 +2786,10 @@ addition  subtraction  multiplication
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2915,10 +2915,10 @@ Write down the **smallest odd** number that Shakira can make using all **five** 
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2992,10 +2992,10 @@ Write down the number which is $5$ less than eight thousand and three.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3045,10 +3045,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3134,10 +3134,10 @@ What is the length of the pencil?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:23</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3258,10 +3258,10 @@ $510 \div 17$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:26</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3403,10 +3403,10 @@ the smallest even number
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3487,10 +3487,10 @@ Give your answer in metres.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3571,10 +3571,10 @@ $\text{nine million      \quad   eleven thousand \quad       twelve hundred     
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3697,10 +3697,10 @@ What is the rule for this number machine? Write your answer inside the machine.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3777,10 +3777,10 @@ Write the number thirty thousand, two hundred and ninety seven in figures.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3858,10 +3858,10 @@ $1,  \quad 0.13,  \quad 0.8,  \quad 0.012,  \quad 1.238,  \quad 0.028$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3981,10 +3981,10 @@ $5 \ \boxed{ \phantom{+} } \  5 = 4  \ \boxed{ \phantom{+} } \ 4$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4025,10 +4025,10 @@ Draw a line to show the level of the water in the new beaker.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:23</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4087,10 +4087,10 @@ Write your answers from smallest to biggest.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:29</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4129,10 +4129,10 @@ Fill in the missing digits in this multiplication:
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4210,10 +4210,10 @@ $1.1, \quad 0.988, \quad 1.009, \quad 0.99, \quad 1.01$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4378,10 +4378,10 @@ $54X - 424 = 1X6$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

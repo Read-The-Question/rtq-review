@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2016 - Group 2"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "46"
 ---
 <div class='paper'>
@@ -279,7 +279,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-3FC5884C-8C77-4219-9E15-546D62002A8C'>Initial</p>
 <div class='question question'>
 
-Work out $2015 - 329$
+Work out $2015 - 329$.
 
 </div>
 <div class='workings'>
@@ -459,7 +459,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-92B3675F-BC60-4939-8119-171B1F33E7CF'>Initial</p>
 <div class='question question'>
 
-Work out $2898 \times 9$ 
+Work out $2898 \times 9$. 
 
 </div>
 <div class='workings'>
@@ -6883,7 +6883,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>F7FBC2DE-C5BB-494E-9780-E9604EA75A45</p>
 </div>
@@ -6894,7 +6894,7 @@ $
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7020,8 +7020,8 @@ What is Joanna’s age, **on $1 \text{st}$ January**, in $2016$?
 
 $
 \begin {aligned}
-\text {Joanna’s age on} \ 1 \ \text{st January}	&= 1 \ \text {st January} \ 2016 - 19 \ \text {th} \ \text {August} \ 2004 \\\\
-										      	&= 11 \ \text {years} \ 4 \ \text {months} \ 13 \ \text {days}
+\text {Joanna’s age}    &= 1 \text {st January} \ 2016 - 19 \text {th} \ \text {August} \ 2004 \\\\
+					    &= 11 \ \text {years} \ 4 \ \text {months} \ 13 \ \text {days}
 \end {aligned}
 $
 
@@ -7039,8 +7039,8 @@ $11 \ \text {years} \ 4 \ \text {months} \ 13 \ \text {days}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
-\text {Joanna’s age on} \ 1 \ \text{st January}	&= 1 \ \text {st January} \ 2016 - 19 \ \text {th} \ \text {August} \ 2004 \\\\
-										      	&= 11 \ \text {years} \ 4 \ \text {months} \ 13 \ \text {days}
+\text {Joanna’s age}    &= 1 \text {st January} \ 2016 - 19 \text {th} \ \text {August} \ 2004 \\\\
+					    &= 11 \ \text {years} \ 4 \ \text {months} \ 13 \ \text {days}
 \end {aligned}
 $
 </code></pre>
@@ -7071,9 +7071,9 @@ In which year, **on $1 \text{st}$ January**, will Wendy’s age be three times J
 <div class='workings'>
 <div class='working'>
 
-Let Joanna’s age $= a$
+Let Joanna’s age in that year $= a$
 
-Wendy’s age $= 3a$
+Wendy’s age in that year $= 3a$
 
 As per the question,
 
@@ -7089,12 +7089,12 @@ a       &= 13 \ \text {years}
 \end {aligned}
 $
 
-Joanna’s age $= 13 \ \text {years}$
+As we need to tell on $1 \text{st}$ January, we need to increment the year by $1$.
 
 $
 \begin {aligned}
-\text {Year Wendy’s age will be three times Joanna’s age}    &= 2004 + 13 + 1 \\\\
-                                                             &= 2018
+\text {Year}    &= 2004 + 13 + 1 \\\\
+                &= 2018
 \end {aligned}
 $
 
@@ -7110,9 +7110,9 @@ $2018$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let Joanna’s age $= a$
+<pre class='language-latex'><code class='language-latex'>Let Joanna’s age in that year $= a$
 <emptyline>
-Wendy’s age $= 3a$
+Wendy’s age in that year $= 3a$
 <emptyline>
 As per the question,
 <emptyline>
@@ -7128,12 +7128,12 @@ a       &= 13 \ \text {years}
 \end {aligned}
 $
 <emptyline>
-Joanna’s age $= 13 \ \text {years}$
+As we need to tell on $1 \text{st}$ January, we need to increment the year by $1$.
 <emptyline>
 $
 \begin {aligned}
-\text {Year Wendy’s age will be three times Joanna’s age}    &= 2004 + 13 + 1 \\\\
-                                                             &= 2018
+\text {Year}    &= 2004 + 13 + 1 \\\\
+                &= 2018
 \end {aligned}
 $
 </code></pre>
@@ -7159,35 +7159,35 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' id='FORM-F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' id='FORM-F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

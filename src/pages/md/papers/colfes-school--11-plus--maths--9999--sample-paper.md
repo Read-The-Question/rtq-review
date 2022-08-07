@@ -1,7 +1,7 @@
 ---
 slug: "papers/colfes-school-11-plus-maths-9999-sample-paper"
 title: "Colfes School - 11 Plus - Maths - 9999 - Sample Paper"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "32"
 ---
 <div class='paper'>
@@ -281,7 +281,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-D7256ECA-BE78-43FB-8828-EFEEE739ABFB'>Initial</p>
 <div class='question question'>
 
-Work out $3801 - 122$
+Work out $3801 - 122$.
 
 </div>
 <div class='workings'>

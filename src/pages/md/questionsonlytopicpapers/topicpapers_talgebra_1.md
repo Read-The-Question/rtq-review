@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-talgebra-1"
 title: "TopicPaper - Algebra - 1"
-date: 2022-08-06 18:37:02
+date: 2022-08-06 23:42:19
 questions_count: "40"
 ---
 <div class='paper'>
@@ -396,7 +396,7 @@ $5x - 7 = 43$
 
 
 
-Part a) Give space between 12 - 5\\ 
+Part a) Give space between 12 - 5\\\\ 
 
 Part b) show the cancelation for 50/10 using factorization method
 
@@ -866,7 +866,7 @@ How many of pupils in $7$S are boys with brown hair?
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-\text{Boys with brown hair}       &= &= \dfrac {1} {2} \times a\\    DELETE RED ONE
+\text{Boys with brown hair}       &= &= \dfrac {1} {2} \times a\\\\    DELETE RED ONE
 
 
 
@@ -971,7 +971,7 @@ How many $200 \ \text{ml}$ glasses of water can it fill before it needs replacin
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-\dfrac { 5000 } { 200 } \\ -- NO space --correct --.> \dfrac \dfrac {5000} {200} -- DO IT EVERYWHERE AND IN FUTURE ALSO
+\dfrac { 5000 } { 200 } \\\\ -- NO space --correct --.> \dfrac \dfrac {5000} {200} -- DO IT EVERYWHERE AND IN FUTURE ALSO
 
 
 
@@ -2215,9 +2215,9 @@ Write the \"Total weight of bags...\" line, into multiple lines using \begin{ali
 
 Do something like this:
 
-= 1kg \\
+= 1kg \\\\
 
-= 1 \times 1000 \ \text{grams} \\
+= 1 \times 1000 \ \text{grams} \\\\
 
 = 1000 \ \text{grams}
 </div>
@@ -3560,9 +3560,9 @@ For eg;
 
 \begin{aligned}
 
-\text {Length of icicle at the start of the day} &= 2.14 \ \text{m} \\
+\text {Length of icicle at the start of the day} &= 2.14 \ \text{m} \\\\
 
-&= 2.14 \times 100 \ \text{cm} \\
+&= 2.14 \times 100 \ \text{cm} \\\\
 
 &= 214 \ \text{cm}
 
@@ -3572,7 +3572,7 @@ For eg;
 
 ii) remove \"\text {cm}\" from the below line
 
-\text{Length of icicle melted}          &= 214 - 87 \ \text{cm} \\
+\text{Length of icicle melted}          &= 214 - 87 \ \text{cm} \\\\
 
 
 
@@ -4537,11 +4537,11 @@ Work out the answer to this division.
 
 Part b) Add missing line after 
 
-&= 4 \ \text{clinks} + 3 \ \text{tinkles} \\
+&= 4 \ \text{clinks} + 3 \ \text{tinkles} \\\\
 
 Missing line:
 
-&= 4 \times  \text{tinkles} + 3 \ \text{tinkles} \\
+&= 4 \times \6 \text{tinkles} + 3 \ \text{tinkles} \\\\
 
 
 
@@ -4553,7 +4553,7 @@ In case of any doubt ping me on slack.
 
 ii) Remove the tinkles in below line.
 
-&= (27 - 17) \ \text{tinkles} \\
+&= (27 - 17) \ \text{tinkles} \\\\
 </div>
 
 <div class='review'>

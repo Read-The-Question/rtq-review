@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2017-arithmetic-b"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2017 - Arithmetic B"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "11"
 ---
 <div class='paper'>
@@ -2725,7 +2725,7 @@ Time taken $t$ is $5$ seconds.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>0A878D38-8A24-4519-99E0-D0C3B1A35DA7</p>
 </div>
@@ -2739,7 +2739,7 @@ Time taken $t$ is $5$ seconds.
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

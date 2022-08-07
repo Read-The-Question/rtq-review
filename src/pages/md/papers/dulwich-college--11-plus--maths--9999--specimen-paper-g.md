@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-g"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper G"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "26"
 ---
 <div class='paper'>
@@ -6756,33 +6756,33 @@ $
 
 Part c) Step missing!!!
 
-(a - 3) \times 3 &= 6 \\
+(a - 3) \times 3 &= 6 \\\\
 
-a x 3 - 3 x 3    &= 6 \\ (add this line)
+a x 3 - 3 x 3    &= 6 \\\\ (add this line)
 
-3a - 9           &= 6 \\
+3a - 9           &= 6 \\\\
 
 
 
 Part d) Steps missing!!!, also make all necessary changes made into the working below.
 
-(5 - b) \times 3 &= 9 \\
+(5 - b) \times 3 &= 9 \\\\
 
-5 x 3 - b x 3    &= 9 \\ (add this line)
+5 x 3 - b x 3    &= 9 \\\\ (add this line)
 
-15 - 3b          &= 9 \\ 
+15 - 3b          &= 9 \\\\ 
 
-15 - 9           &= 3b \\
+15 - 9           &= 3b \\\\
 
-6                &= 3b \\
+6                &= 3b \\\\
 
-3b               &= 6 \\
+3b               &= 6 \\\\
 
-b                &= \dfrac {6} {3} \\
+b                &= \dfrac {6} {3} \\\\
 
-b                &= \dfrac {2 \times 3} {3} \\
+b                &= \dfrac {2 \times 3} {3} \\\\
 
-b                &= \dfrac {2 \times \cancel {3}} {\cancel {3}} \\
+b                &= \dfrac {2 \times \cancel {3}} {\cancel {3}} \\\\
 
 b                &= 2
 
@@ -6796,11 +6796,11 @@ Same as part b)
 
 Part b)Cancelation part is still missing..
 
-b &= \dfrac {6} {3} \\
+b &= \dfrac {6} {3} \\\\
 
-b &= \dfrac {2 \times 3} {3} \\ (add this line)
+b &= \dfrac {2 \times 3} {3} \\\\ (add this line)
 
-b &= \dfrac {2 \times \cancel {3}} {\cancel {3}} \\  (add this line)
+b &= \dfrac {2 \times \cancel {3}} {\cancel {3}} \\\\  (add this line)
 </div>
 
 <div class='review'>

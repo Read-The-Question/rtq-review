@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedsubtraction-1-g2"
 title: "TopicPaper - Detailedsubtraction - 1 - G2"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "39"
 ---
 <ul class='question default-decimal'>
@@ -91,7 +91,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-806A70B8-E2A8-4CC6-99FB-54DFD0C55F33'>Initial</p>
 <div class='question question'>
 
-How much more than $523$ is $872$?
+How much more than $523$ is $872$ ?
 
 </div>
 <div class='workings'>
@@ -2107,7 +2107,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-0EEE678E-251C-4F63-94B0-24A5D4BFA964'>Initial</p>
 <div class='question question'>
 
--9 + 7 =
+$-9 + 7 =$
 
 - -16
 - 2
@@ -2471,7 +2471,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-D7256ECA-BE78-43FB-8828-EFEEE739ABFB'>Initial</p>
 <div class='question question'>
 
-Work out $3801 - 122$
+Work out $3801 - 122$.
 
 </div>
 <div class='workings'>
@@ -2752,7 +2752,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Find the difference between $8.38$ and $6.94$
+Find the difference between $8.38$ and $6.94$.
 
 </div>
 <div class='workings'>
@@ -4394,7 +4394,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-FE609046-D51F-4260-81E9-8F3CB1D00ECE'>Initial</p>
 <div class='question question'>
 
-Work out $2189 - 1056$ 
+Work out $2189 - 1056$. 
 
 </div>
 <div class='workings'>
@@ -4574,7 +4574,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-27ED8C2C-46AB-461E-A945-ED1CF215E1BD'>Initial</p>
 <div class='question question'>
 
-Work out $1234 - 566$ 
+Work out $1234 - 566$. 
 
 </div>
 <div class='workings'>
@@ -4754,7 +4754,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-DA7226BD-BE7F-487F-BDFB-D05F5FD59EFB'>Initial</p>
 <div class='question question'>
 
-Work out $123 - 41$
+Work out $123 - 41$.
 
 </div>
 <div class='workings'>
@@ -4937,7 +4937,7 @@ tdecimal
 <p class='review_status initial' id='SUBTAG-STATUS-7002E449-EEBA-49EF-A1BD-DA0806D4924B'>Initial</p>
 <div class='question question'>
 
-What is $30.03 - 3.3$?
+What is $30.03 - 3.3$ ?
 
 </div>
 <div class='workings'>
@@ -5122,7 +5122,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-EC09307C-A0EE-4A9B-A081-3D90ED7BFCA0'>Initial</p>
 <div class='question question'>
 
-Workout $567-89$ 
+Work out $567-89$. 
 
 </div>
 <div class='workings'>
@@ -5302,9 +5302,14 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-37A3857D-1166-4FAE-8AE1-8C8AD5E702DB'>Initial</p>
 <div class='question question'>
 
-%waffles%
-
-$1003 - 837$
+$
+\begin{array}{cccccccccccccc}
+    &   1   &   0   &   0   &   3 \\
+{}- &       &   8   &   3   &   7 \\
+\hline\\
+\hline
+\end{array}
+$
 
 </div>
 <div class='workings'>
@@ -5484,9 +5489,14 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-983BF90D-0E8E-4FCF-A9B7-85602BA09844'>Initial</p>
 <div class='question question'>
 
-%waffles%
-
-$1231 - 744$
+$
+\begin{array}{cccccccccccccc}
+    &   1   &   2   &   3   &   1 \\
+{}- &       &   7   &   4   &   4 \\
+\hline\\
+\hline
+\end{array}
+$
 
 </div>
 <div class='workings'>
@@ -5666,7 +5676,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-E427496D-BA02-4978-B12F-F605393AAD5C'>Initial</p>
 <div class='question question'>
 
-Calculate $6431 - 729$
+Calculate $6431 - 729$.
 
 </div>
 <div class='workings'>
@@ -5848,8 +5858,11 @@ tdetailedsubtraction
 
 $54321 - 12345$
 
-A       B    C     D      E
-$41967$ $42976$  $41976$  $41966$  $41956$
+- $41967$ 
+- $42976$  
+- $41976$  
+- $41966$  
+- $41956$
 
 </div>
 <div class='workings'>
@@ -6034,10 +6047,13 @@ tdetailedsubtraction
 
 What number must be
 added to $79$ to give
-the result $2100$?
+the result $2100$ ?
 
-A B C D E
-$1931$ $2021$ $2121$ $1310$ $1121$
+- $1931$ 
+- $2021$ 
+- $2121$ 
+- $1310$ 
+- $1121$
 
 </div>
 <div class='workings'>
@@ -6226,7 +6242,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-3E1C545C-0F27-4EDE-98F5-FDF05E60B28B'>Initial</p>
 <div class='question question'>
 
-Work out $581 - 229$
+Work out $581 - 229$.
 
 </div>
 <div class='workings'>
@@ -6406,7 +6422,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-A00B68F4-B761-41D3-B3E2-1CCF1D2A567B'>Initial</p>
 <div class='question question'>
 
-Work out $704 - 457$
+Work out $704 - 457$.
 
 </div>
 <div class='workings'>
@@ -6589,7 +6605,7 @@ tdecimal
 <p class='review_status initial' id='SUBTAG-STATUS-053DE0A7-D1C1-4A3D-BF4B-BABFF4D1EE9C'>Initial</p>
 <div class='question question'>
 
-Calculate $6 - 4.226$
+Calculate $6 - 4.226$.
 
 </div>
 <div class='workings'>
@@ -7147,7 +7163,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-786BDB0D-CBC0-4ECA-99D4-240F8B350942'>Initial</p>
 <div class='question question'>
 
-What is $842 - 658$? 
+What is $842 - 658$ ? 
 
 A: $184$ 
 

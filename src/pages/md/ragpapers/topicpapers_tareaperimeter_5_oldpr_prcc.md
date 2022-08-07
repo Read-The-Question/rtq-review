@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-5-oldpr-prcc"
 title: "TopicPaper - Areaperimeter - 5 - OLDPR - PRCC"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "14"
 ---
 <ul class='question default-decimal'>
@@ -1056,7 +1056,7 @@ Perimeter = Sum of all sides
 
 
 
-Remove \\  (in last line of katex no spacing)
+Remove \\\\  (in last line of katex no spacing)
 
 Blue answer also put m 
 
@@ -3613,11 +3613,11 @@ Sarah can fill the tank upto $20 \ \text{cm}$.
 <h4>Review Comments</h4>
 Part A : Delete first 3 lines. Stat katex with Area of base.....align at &= the rest of the answer. put 60 cm x 20 cm 
 
-Use spacing \\ Put space between number and cm.. same in blue answer
+Use spacing \\\\ Put space between number and cm.. same in blue answer
 
-PArt B : \text{Max volume of tank} = \text{length}\times\text{width}\times{height} \
+PArt B : \text{Max volume of tank} = \text{length}\times\text{width}\times{height} \\
 
-Change to : Volume of tank = ....... (before height put \text  use \\ spacing not \
+Change to : Volume of tank = ....... (before height put \text  use \\\\ spacing not \\
 
 same corrections like above. do your katex formatting correctly spacing is not right between numbers. 
 

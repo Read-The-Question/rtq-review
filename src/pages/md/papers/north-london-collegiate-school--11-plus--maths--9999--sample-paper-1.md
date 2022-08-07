@@ -1,7 +1,7 @@
 ---
 slug: "papers/north-london-collegiate-school-11-plus-maths-9999-sample-paper-1"
 title: "North London Collegiate School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "42"
 ---
 <div class='paper'>
@@ -284,8 +284,14 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-F6258E30-1BB3-49AE-BBBC-CF76953178F6'>Initial</p>
 <div class='question question'>
 
-$732
--357$
+$
+\begin{array}{cccccccccccccc}
+    &   7   &   3   &   2 \\
+{}- &   3   &   5   &   7 \\
+\hline\\
+\hline
+\end{array}
+$
 
 </div>
 <div class='workings'>

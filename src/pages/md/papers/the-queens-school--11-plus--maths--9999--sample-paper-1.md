@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-queens-school-11-plus-maths-9999-sample-paper-1"
 title: "The Queens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "29"
 ---
 <div class='paper'>
@@ -281,7 +281,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-D1D231EE-FD6E-4511-A774-A7768DAB3B3D'>Initial</p>
 <div class='question question'>
 
-**Subtract** $506 - 59$
+**Subtract** $506 - 59$.
 
 </div>
 <div class='workings'>

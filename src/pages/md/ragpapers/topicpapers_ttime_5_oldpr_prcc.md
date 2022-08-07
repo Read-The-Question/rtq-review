@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-5-oldpr-prcc"
 title: "TopicPaper - Time - 5 - OLDPR - PRCC"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -253,7 +253,7 @@ $
 
 part (b): replace L.H.S : \"Arrival Time\" 
 
-step 1: add a \' between 19 and \text
+step 1: add a \ between 19 and \text
 </div>
 
 <div class='review'>

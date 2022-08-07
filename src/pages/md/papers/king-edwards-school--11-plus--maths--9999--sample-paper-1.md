@@ -1,7 +1,7 @@
 ---
 slug: "papers/king-edwards-school-11-plus-maths-9999-sample-paper-1"
 title: "King Edwards School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "14"
 ---
 <div class='paper'>
@@ -847,8 +847,11 @@ tdetailedsubtraction
 
 $54321 - 12345$
 
-A       B    C     D      E
-$41967$ $42976$  $41976$  $41966$  $41956$
+- $41967$ 
+- $42976$  
+- $41976$  
+- $41966$  
+- $41956$
 
 </div>
 <div class='workings'>
@@ -1230,10 +1233,13 @@ tdetailedsubtraction
 
 What number must be
 added to $79$ to give
-the result $2100$?
+the result $2100$ ?
 
-A B C D E
-$1931$ $2021$ $2121$ $1310$ $1121$
+- $1931$ 
+- $2021$ 
+- $2121$ 
+- $1310$ 
+- $1121$
 
 </div>
 <div class='workings'>

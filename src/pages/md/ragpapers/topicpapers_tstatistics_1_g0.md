@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tstatistics-1-g0"
 title: "TopicPaper - Statistics - 1 - G0"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "3"
 ---
 <ul class='question default-decimal'>

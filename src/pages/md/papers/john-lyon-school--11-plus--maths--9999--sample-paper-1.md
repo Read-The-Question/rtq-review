@@ -1,7 +1,7 @@
 ---
 slug: "papers/john-lyon-school-11-plus-maths-9999-sample-paper-1"
 title: "John Lyon School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "25"
 ---
 <div class='paper'>
@@ -535,7 +535,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-E427496D-BA02-4978-B12F-F605393AAD5C'>Initial</p>
 <div class='question question'>
 
-Calculate $6431 - 729$
+Calculate $6431 - 729$.
 
 </div>
 <div class='workings'>

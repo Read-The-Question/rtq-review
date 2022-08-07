@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tnumber-11"
 title: "TopicPaper - Number - 11"
-date: 2022-08-06 18:37:02
+date: 2022-08-06 23:42:19
 questions_count: "40"
 ---
 <div class='paper'>
@@ -1824,7 +1824,7 @@ What is $600 \times 0.12$?
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-Remove extra whitespace at the end and after \  , also write . (decimal) in the answer
+Remove extra whitespace at the end and after \\  , also write . (decimal) in the answer
 </div>
 
 <div class='review'>

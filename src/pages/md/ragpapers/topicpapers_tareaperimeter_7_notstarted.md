@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-7-notstarted"
 title: "TopicPaper - Areaperimeter - 7 - NOTSTARTED"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "17"
 ---
 <ul class='question default-decimal'>

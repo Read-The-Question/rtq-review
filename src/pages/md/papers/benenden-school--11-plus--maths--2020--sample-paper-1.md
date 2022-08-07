@@ -1,7 +1,7 @@
 ---
 slug: "papers/benenden-school-11-plus-maths-2020-sample-paper-1"
 title: "Benenden School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "21"
 ---
 <div class='paper'>
@@ -5953,17 +5953,17 @@ We only write units (\pounds) at the end of working
 
 for eg;
 
-\text{Cost of raspberry creams}  &= \pounds 1.65 \times 6 \\
+\text{Cost of raspberry creams}  &= \pounds 1.65 \times 6 \\\\
 
-&= \pounds 9.9 \\
+&= \pounds 9.9 \\\\
 
 
 
 The above working should be as follows:
 
-\text{Cost of raspberry creams}  &= 1.65 \times 6 \\
+\text{Cost of raspberry creams}  &= 1.65 \times 6 \\\\
 
-&= \pounds 9.9 \\
+&= \pounds 9.9 \\\\
 
 
 

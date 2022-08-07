@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-4-pr-prns"
 title: "TopicPaper - Fraction - 4 - PR - PRNS"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "8"
 ---
 <ul class='question default-decimal'>
@@ -327,11 +327,11 @@ $
 <h4>Review Comments</h4>
 $\begin{aligned}
 
-&= \dfrac {3184} {8} \\
+&= \dfrac {3184} {8} \\\\
 
-&= \dfrac {8 \times 398} {8} \\
+&= \dfrac {8 \times 398} {8} \\\\
 
-&= \dfrac {\cancel {8} \times 398} {\cancel {8}} \\
+&= \dfrac {\cancel {8} \times 398} {\cancel {8}} \\\\
 
 &= 398
 

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-11"
 title: "TopicPaper - Number - 11"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "40"
 ---
 <div class='paper'>
@@ -4720,7 +4720,7 @@ $
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-Remove extra whitespace at the end and after \  , also write . (decimal) in the answer
+Remove extra whitespace at the end and after \\  , also write . (decimal) in the answer
 </div>
 
 <div class='review'>

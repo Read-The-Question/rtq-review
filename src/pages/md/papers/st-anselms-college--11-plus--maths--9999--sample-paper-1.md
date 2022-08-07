@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-1"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "24"
 ---
 <div class='paper'>
@@ -1387,7 +1387,7 @@ please refer to old solved questions on ttime | refer to this : B42D6744-B5FF-4E
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcr question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>2FA424AE-D274-4664-A786-BD0EEF973FF7</p>
 </div>
@@ -1401,7 +1401,7 @@ please refer to old solved questions on ttime | refer to this : B42D6744-B5FF-4E
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

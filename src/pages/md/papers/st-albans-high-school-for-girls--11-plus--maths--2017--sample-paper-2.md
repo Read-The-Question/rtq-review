@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-high-school-for-girls-11-plus-maths-2017-sample-paper-2"
 title: "St Albans High School For Girls - 11 Plus - Maths - 2017 - Sample Paper 2"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "43"
 ---
 <div class='paper'>
@@ -279,7 +279,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-1C34385E-E874-4131-9119-0DD16D56A452'>Initial</p>
 <div class='question question'>
 
-Subtract 345 - 54 
+Subtract $345 - 54$ 
 
 </div>
 <div class='workings'>
@@ -647,7 +647,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-EA7DB42E-E628-40A2-860E-9AC25520203C'>Initial</p>
 <div class='question question'>
 
-Multiply $18 \times 9$ 
+Multiply $18 \times 9$. 
 
 </div>
 <div class='workings'>
@@ -3599,7 +3599,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>D50514BA-0CC0-44FE-B460-B94EC34292B3</p>
 </div>
@@ -3613,7 +3613,7 @@ $
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4169,7 +4169,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>B214301F-AB63-411F-B2DA-EDFC5B6BF4E0</p>
 </div>
@@ -4183,7 +4183,7 @@ $
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4294,6 +4294,19 @@ TODOANSWER
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Question not attempted. Attempt it.
+
+
+
+Question not attempted. Attempt it.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5096,7 +5109,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>C5121F51-D6F0-490C-895D-0EA1AF48C1A4</p>
 </div>
@@ -5110,7 +5123,7 @@ TODOANSWER
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5223,6 +5236,15 @@ TODOANSWER
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Question not attempted. Attempt it.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -8956,7 +8978,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>CC823911-5E9A-4C67-88F6-2D9DD834D2F5</p>
 </div>
@@ -8970,7 +8992,7 @@ TODOANSWER
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

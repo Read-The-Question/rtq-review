@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tangle-1"
 title: "TopicPaper - Angle - 1"
-date: 2022-08-06 18:37:02
+date: 2022-08-06 23:42:19
 questions_count: "40"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "40"
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -109,10 +109,10 @@ Calculate the missing angle in this isosceles triangle.
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -194,10 +194,10 @@ What is the value of the missing angle?
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -279,10 +279,10 @@ Estimate the size of angle $r$.
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -364,10 +364,10 @@ Work out the angle marked ?.
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -474,10 +474,10 @@ Estimate the size of angle $A$.
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:2:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -621,10 +621,10 @@ Refine the answer: TODO: Uday
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -701,10 +701,10 @@ Two angles of a triangle are $49 \degree$ and $52 \degree$. What is the third an
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:3:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -798,10 +798,10 @@ Give reasons for your answers.
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -890,10 +890,10 @@ One of the angles in an isosceles triangle is $30 \degree$. Which of these is a 
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -982,10 +982,10 @@ Two of the angles in a triangle are $25 \degree$ and $107 \degree$. The third an
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1063,10 +1063,10 @@ What is the size of the smallest angle in the triangle?
 <p>bancrofts-school--11-plus--maths--2020--sample-paper-6:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1144,10 +1144,10 @@ What is the size of the smallest angle in the triangle?
 <p>benenden-school--11-plus--maths--2020--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1234,10 +1234,10 @@ Calculate the angles labelled $a$ to $f$ in the diagrams below. The diagrams are
 <p>benenden-school--11-plus--maths--2020--sample-paper-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1345,10 +1345,10 @@ There is no missing angle.. the angle is named \"a\" So delete the sentence in a
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1:2:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1430,10 +1430,10 @@ Find the sizes of angles $x$ and $y$.
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1515,10 +1515,10 @@ Estimate the angle drawn below and then also measure it accurately with your pro
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1605,10 +1605,10 @@ Use the protractor to measure the angle between **Line $1$** and **Line $2$**.
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1719,10 +1719,10 @@ What type of triangle is this?
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:3:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1814,10 +1814,10 @@ Find the missing angles $a \degree$ and $b \degree$ :
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:3:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1922,10 +1922,10 @@ Please change that, as formualas do not capture exterior angle either.
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2007,10 +2007,10 @@ What is the size of the angle labelled $x$ in the diagram? The diagram is not dr
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2092,10 +2092,10 @@ Calculate the size of the missing angle in this triangle. The diagram is **not**
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2203,10 +2203,10 @@ Would you describe $100\degree$? Acute, obtuse or reflex?
 <p>colfes-school--11-plus--maths--9999--sample-paper:1:24</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2292,10 +2292,10 @@ Find the size of angle $k$.
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2369,10 +2369,10 @@ How many right angles are there in two complete turns?
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2465,10 +2465,10 @@ TODO: Uday to provide template
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2545,10 +2545,10 @@ If two angles of a triangle add up to $137 \degree$, what is the size of the thi
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2630,10 +2630,10 @@ ABCDEF is a regular hexagon. What is the size of angle $x$?
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2710,10 +2710,10 @@ If two angles of a triangle add up to $49 \degree$, what is the size of the thir
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:24</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2790,10 +2790,10 @@ If two angles of a triangle are $36 \degree$ and $22 \degree$, what is the size 
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2875,10 +2875,10 @@ ABCDEF is a regular hexagon. What is the size of angle $x$?
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2955,10 +2955,10 @@ If two angles of a triangle add up to $89 \degree$, what is the size of the thir
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3040,10 +3040,10 @@ What is the sum of the angles in the shape above?
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3154,10 +3154,10 @@ Write down the value of $y$.
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-f:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3239,10 +3239,10 @@ Work out the value of $x$ from the diagram below.
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3353,10 +3353,10 @@ Work out the value of $y$.
 <p>eltham-college--11-plus--maths--2020--sample-paper-2:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3446,10 +3446,10 @@ In this diagram what is the value of $x$?
 <p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3552,10 +3552,10 @@ call uday for the format
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-2:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3663,10 +3663,10 @@ Calculate the missing angles.
 <p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

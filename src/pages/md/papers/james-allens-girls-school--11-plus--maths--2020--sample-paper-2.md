@@ -1,7 +1,7 @@
 ---
 slug: "papers/james-allens-girls-school-11-plus-maths-2020-sample-paper-2"
 title: "James Allens Girls School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "22"
 ---
 <div class='paper'>
@@ -289,9 +289,14 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-37A3857D-1166-4FAE-8AE1-8C8AD5E702DB'>Initial</p>
 <div class='question question'>
 
-%waffles%
-
-$1003 - 837$
+$
+\begin{array}{cccccccccccccc}
+    &   1   &   0   &   0   &   3 \\
+{}- &       &   8   &   3   &   7 \\
+\hline\\
+\hline
+\end{array}
+$
 
 </div>
 <div class='workings'>

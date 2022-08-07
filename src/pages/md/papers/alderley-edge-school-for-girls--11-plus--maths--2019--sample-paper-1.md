@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-2019-sample-paper-1"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "50"
 ---
 <div class='paper'>
@@ -4729,7 +4729,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-806A70B8-E2A8-4CC6-99FB-54DFD0C55F33'>Initial</p>
 <div class='question question'>
 
-How much more than $523$ is $872$?
+How much more than $523$ is $872$ ?
 
 </div>
 <div class='workings'>
@@ -7141,9 +7141,9 @@ Write the \"Total weight of bags...\" line, into multiple lines using \begin{ali
 
 Do something like this:
 
-= 1kg \\
+= 1kg \\\\
 
-= 1 \times 1000 \ \text{grams} \\
+= 1 \times 1000 \ \text{grams} \\\\
 
 = 1000 \ \text{grams}
 </div>
@@ -7349,9 +7349,9 @@ $
 
 \begin{aligned}
 
-\text{Number of tins needed}             &= \dfrac {\text{Total area of the hall}} {\text{Area covered by a tin}} \\
+\text{Number of tins needed}             &= \dfrac {\text{Total area of the hall}} {\text{Area covered by a tin}} \\\\
 
-                                            &= \dfrac {20000} {40} \\
+                                            &= \dfrac {20000} {40} \\\\
 
                                             &= 500
 

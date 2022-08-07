@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-talgebra-6"
 title: "TopicPaper - Algebra - 6"
-date: 2022-08-06 18:37:02
+date: 2022-08-06 23:42:19
 questions_count: "40"
 ---
 <div class='paper'>
@@ -196,9 +196,9 @@ In Miss Thompson’s class, there are $5$ girls for every $4$ boys, and one-fift
 
 
 
-Part c) put an extra \' at the end of below line
+Part c) put an extra \ at the end of below line
 
-a &= 3 \times 9 \\
+a &= 3 \times 9 \\\
 
 
 
@@ -902,7 +902,7 @@ A customer pays $\pounds110$. How many copies of the leaflet were printed?
 
 
 
-Part a) put an extra \' at the end of below line
+Part a) put an extra \ at the end of below line
 
 &= \pounds 80
 </div>
@@ -4453,9 +4453,9 @@ i) Step missing
 
 a/4      = 30
 
-ii) Put an extra \' at the end in the below line.
+ii) Put an extra \ at the end in the below line.
 
-a &= 30 \times 4 \\ 
+a &= 30 \times 4 \\\ 
 
 
 

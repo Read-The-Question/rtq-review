@@ -1,7 +1,7 @@
 ---
 slug: "papers/latymer-upper-school-11-plus-maths-2014-sample-paper-1"
 title: "Latymer Upper School - 11 Plus - Maths - 2014 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "30"
 ---
 <div class='paper'>
@@ -501,7 +501,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-AE9309E3-39F8-4402-875E-80C8ABE317C4'>Initial</p>
 <div class='question question'>
 
-What is $45\times160$?
+What is $45\times160$ ?
 
 A: $720$
 

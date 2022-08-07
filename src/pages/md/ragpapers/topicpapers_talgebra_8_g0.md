@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-8-g0"
 title: "TopicPaper - Algebra - 8 - G0"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "22"
 ---
 <ul class='question default-decimal'>
@@ -811,7 +811,7 @@ a        = 90 x 2 / 5
 
 Part c) put 49 under {} in below line
 
-a  &= \sqrt 49 \\   ==> a &= \sqrt {49} \\
+a  &= \sqrt 49 \\\\   ==> a &= \sqrt {49} \\\\
 
 
 

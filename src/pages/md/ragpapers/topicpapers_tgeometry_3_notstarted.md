@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tgeometry-3-notstarted"
 title: "TopicPaper - Geometry - 3 - NOTSTARTED"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "35"
 ---
 <ul class='question default-decimal'>

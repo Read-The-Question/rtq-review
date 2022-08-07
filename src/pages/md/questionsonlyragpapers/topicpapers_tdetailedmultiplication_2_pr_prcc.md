@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tdetailedmultiplication-2-pr-prcc"
 title: "TopicPaper - Detailedmultiplication - 2 - PR - PRCC"
-date: 2022-08-06 18:37:02
+date: 2022-08-06 23:42:19
 questions_count: "40"
 ---
 <ul class='question default-decimal'>
@@ -31,11 +31,11 @@ tdetailedmultiplication
 </div>
 <div class='question question'>
 
-Work out $789 \times 6$
+Work out $789 \times 6$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Work out $789 \times 6$
+<pre class='language-latex'><code class='language-latex'>Work out $789 \times 6$.
 </code></pre>
 </div>
 
@@ -108,11 +108,11 @@ tdetailedmultiplication
 </div>
 <div class='question question'>
 
-Work out $53 \times 58$
+Work out $53 \times 58$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Work out $53 \times 58$
+<pre class='language-latex'><code class='language-latex'>Work out $53 \times 58$.
 </code></pre>
 </div>
 
@@ -262,7 +262,7 @@ tdetailedmultiplication
 </div>
 <div class='question question'>
 
-What is $45\times160$?
+What is $45\times160$ ?
 
 A: $720$
 
@@ -276,7 +276,7 @@ E: $1440$
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>What is $45\times160$?
+<pre class='language-latex'><code class='language-latex'>What is $45\times160$ ?
 <emptyline>
 A: $720$
 <emptyline>
@@ -630,11 +630,11 @@ tdetailedmultiplication
 </div>
 <div class='question question'>
 
-Multiply $76 \times 9$
+Multiply $76 \times 9$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Multiply $76 \times 9$
+<pre class='language-latex'><code class='language-latex'>Multiply $76 \times 9$.
 </code></pre>
 </div>
 
@@ -861,11 +861,11 @@ tdetailedmultiplication
 </div>
 <div class='question question'>
 
-What is $24 \times 9$?
+What is $24 \times 9$ ?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>What is $24 \times 9$?
+<pre class='language-latex'><code class='language-latex'>What is $24 \times 9$ ?
 </code></pre>
 </div>
 
@@ -938,11 +938,11 @@ tdetailedmultiplication
 </div>
 <div class='question question'>
 
-Use your previous answer to write down the answer to $2400 \times 90$
+Use your previous answer to write down the answer to $2400 \times 90$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Use your previous answer to write down the answer to $2400 \times 90$
+<pre class='language-latex'><code class='language-latex'>Use your previous answer to write down the answer to $2400 \times 90$.
 </code></pre>
 </div>
 
@@ -1015,11 +1015,11 @@ tdetailedmultiplication
 </div>
 <div class='question question'>
 
-What is $2002 \times 10?$
+What is $2002 \times 10 \ ?$
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>What is $2002 \times 10?$
+<pre class='language-latex'><code class='language-latex'>What is $2002 \times 10 \ ?$
 </code></pre>
 </div>
 
@@ -1092,11 +1092,11 @@ tdetailedmultiplication
 </div>
 <div class='question question'>
 
-Use your previous answer to write down $2002 \times 5$
+Use your previous answer to write down $2002 \times 5$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Use your previous answer to write down $2002 \times 5$
+<pre class='language-latex'><code class='language-latex'>Use your previous answer to write down $2002 \times 5$.
 </code></pre>
 </div>
 
@@ -1169,11 +1169,11 @@ tdetailedmultiplication
 </div>
 <div class='question question'>
 
-Use these last two answers to write down $2002 \times 15$
+Use these last two answers to write down $2002 \times 15$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Use these last two answers to write down $2002 \times 15$
+<pre class='language-latex'><code class='language-latex'>Use these last two answers to write down $2002 \times 15$.
 </code></pre>
 </div>
 
@@ -1246,11 +1246,11 @@ tdetailedmultiplication
 </div>
 <div class='question question'>
 
-What is $2030 \times 20$?
+What is $2030 \times 20$ ?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>What is $2030 \times 20$?
+<pre class='language-latex'><code class='language-latex'>What is $2030 \times 20$ ?
 </code></pre>
 </div>
 
@@ -1323,11 +1323,11 @@ tdetailedmultiplication
 </div>
 <div class='question question'>
 
-Work out $813 \times 72$
+Work out $813 \times 72$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Work out $813 \times 72$
+<pre class='language-latex'><code class='language-latex'>Work out $813 \times 72$.
 </code></pre>
 </div>
 
@@ -1645,11 +1645,11 @@ tdetailedmultiplication
 </div>
 <div class='question question'>
 
-Multiply $18 \times 9$ 
+Multiply $18 \times 9$. 
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Multiply $18 \times 9$ 
+<pre class='language-latex'><code class='language-latex'>Multiply $18 \times 9$. 
 </code></pre>
 </div>
 
@@ -1722,11 +1722,11 @@ tdetailedmultiplication
 </div>
 <div class='question question'>
 
-Calculate  $129  \times 32$
+Calculate  $129  \times 32$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Calculate  $129  \times 32$
+<pre class='language-latex'><code class='language-latex'>Calculate  $129  \times 32$.
 </code></pre>
 </div>
 
@@ -2107,11 +2107,11 @@ tdetailedmultiplication
 </div>
 <div class='question question'>
 
-Multiply $6.4$ by $2.7$ 
+Multiply $6.4$ by $2.7$. 
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Multiply $6.4$ by $2.7$ 
+<pre class='language-latex'><code class='language-latex'>Multiply $6.4$ by $2.7$. 
 </code></pre>
 </div>
 
@@ -2187,11 +2187,11 @@ tdecimal
 </div>
 <div class='question question'>
 
-Calculate $31.6 \times 7$
+Calculate $31.6 \times 7$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Calculate $31.6 \times 7$
+<pre class='language-latex'><code class='language-latex'>Calculate $31.6 \times 7$.
 </code></pre>
 </div>
 
@@ -2264,11 +2264,11 @@ tdetailedmultiplication
 </div>
 <div class='question question'>
 
-Calculate $37 \times 4 \times 5$
+Calculate $37 \times 4 \times 5$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Calculate $37 \times 4 \times 5$
+<pre class='language-latex'><code class='language-latex'>Calculate $37 \times 4 \times 5$.
 </code></pre>
 </div>
 
@@ -2629,11 +2629,11 @@ tdetailedmultiplication
 </div>
 <div class='question question'>
 
-Work out $418 \times 7$ 
+Work out $418 \times 7$. 
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Work out $418 \times 7$ 
+<pre class='language-latex'><code class='language-latex'>Work out $418 \times 7$. 
 </code></pre>
 </div>
 
@@ -2706,11 +2706,11 @@ tdetailedmultiplication
 </div>
 <div class='question question'>
 
-Multiply: $17 \times 5$
+Multiply: $17 \times 5$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Multiply: $17 \times 5$
+<pre class='language-latex'><code class='language-latex'>Multiply: $17 \times 5$.
 </code></pre>
 </div>
 
@@ -2783,11 +2783,11 @@ tdetailedmultiplication
 </div>
 <div class='question question'>
 
-Multiply: $43 \times 6$
+Multiply: $43 \times 6$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Multiply: $43 \times 6$
+<pre class='language-latex'><code class='language-latex'>Multiply: $43 \times 6$.
 </code></pre>
 </div>
 
@@ -2937,11 +2937,11 @@ tdetailedmultiplication
 </div>
 <div class='question question'>
 
-Multiply: $62 \times 7$
+Multiply: $62 \times 7$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Multiply: $62 \times 7$
+<pre class='language-latex'><code class='language-latex'>Multiply: $62 \times 7$.
 </code></pre>
 </div>
 
@@ -3171,11 +3171,11 @@ tdetailedmultiplication
 </div>
 <div class='question question'>
 
-Multiply: $67 \times 8$
+Multiply: $67 \times 8$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Multiply: $67 \times 8$
+<pre class='language-latex'><code class='language-latex'>Multiply: $67 \times 8$.
 </code></pre>
 </div>
 

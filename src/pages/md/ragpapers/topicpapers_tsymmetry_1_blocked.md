@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsymmetry-1-blocked"
 title: "TopicPaper - Symmetry - 1 - BLOCKED"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "1"
 ---
 <ul class='question default-decimal'>

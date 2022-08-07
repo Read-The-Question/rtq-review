@@ -1,7 +1,7 @@
 ---
 slug: "papers/forest-school-11-plus-maths-9999-sample-paper-1"
 title: "Forest School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "39"
 ---
 <div class='paper'>
@@ -279,7 +279,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-DA7226BD-BE7F-487F-BDFB-D05F5FD59EFB'>Initial</p>
 <div class='question question'>
 
-Work out $123 - 41$
+Work out $123 - 41$.
 
 </div>
 <div class='workings'>
@@ -3146,7 +3146,7 @@ tdecimal
 <p class='review_status initial' id='SUBTAG-STATUS-7002E449-EEBA-49EF-A1BD-DA0806D4924B'>Initial</p>
 <div class='question question'>
 
-What is $30.03 - 3.3$?
+What is $30.03 - 3.3$ ?
 
 </div>
 <div class='workings'>

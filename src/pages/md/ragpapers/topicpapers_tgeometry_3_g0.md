@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tgeometry-3-g0"
 title: "TopicPaper - Geometry - 3 - G0"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "2"
 ---
 <ul class='question default-decimal'>

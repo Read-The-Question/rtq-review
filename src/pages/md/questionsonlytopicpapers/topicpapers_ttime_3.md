@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-ttime-3"
 title: "TopicPaper - Time - 3"
-date: 2022-08-06 18:37:02
+date: 2022-08-06 23:42:19
 questions_count: "40"
 ---
 <div class='paper'>
@@ -2005,7 +2005,7 @@ step 2 : write \"seconds\" after 24 x 60 x 60
 
 ad a step between step 1 and step 2: 
 
-&= \dfrac {1} {4} \times  \dfrac {1} {6} \times  \dfrac {1} {8} \times 24 \ \text {hours} \\
+&= \dfrac {1} {4} \times  \dfrac {1} {6} \times  \dfrac {1} {8} \times 24 \ \text {hours} \\\\
 
 
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/streatham-and-clapham-high-school-11-plus-maths-9999-sample-paper-1"
 title: "Streatham And Clapham High School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "46"
 ---
 <div class='paper'>
@@ -565,7 +565,7 @@ $
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-line 1: As per the question,  (A) (,)                                                                                                                                            step 1: Delete (Not required, it understood from the diagram)                                                                                                   step 2: Delete (Not required, it understood from the diagram)                                                                                         step 3: Delete & replace with  rtq_abbr_katex_formula_area_rectangle_expanded                                                                                     end answer: remove \\                                                   
+line 1: As per the question,  (A) (,)                                                                                                                                            step 1: Delete (Not required, it understood from the diagram)                                                                                                   step 2: Delete (Not required, it understood from the diagram)                                                                                         step 3: Delete & replace with  rtq_abbr_katex_formula_area_rectangle_expanded                                                                                     end answer: remove \\\\                                                   
 </div>
 
 <div class='review'>
@@ -763,7 +763,7 @@ $
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-from step 4: change  (dont multiply if we can cancel anything)                                                                                                                                                                  &= \dfrac{3 \cancel{0} \times 12 \cancel{0}}{1 \cancel{0} \cancel{0}} \\                                                                                &= 3  \times 12  \\                                                                                                                         &= 36
+from step 4: change  (dont multiply if we can cancel anything)                                                                                                                                                                  &= \dfrac{3 \cancel{0} \times 12 \cancel{0}}{1 \cancel{0} \cancel{0}} \\\\                                                                                &= 3  \times 12  \\\\                                                                                                                         &= 36
 </div>
 
 <div class='review'>
@@ -1372,7 +1372,7 @@ Missing number $= 70$
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-step 1: bring out of katex and make it line 1 as: Let the missing number be $=a$                                                           Add line 2:  As per the question,                                                                                                                                 add step 1: 560 \div \boxed{a}       &= 8 \\                                                                                                             align on &=             (see stack)                                                                                                                                                       present step 5: a &= \dfrac{70 \times \cancel{8}}{\cancel{8}} \\
+step 1: bring out of katex and make it line 1 as: Let the missing number be $=a$                                                           Add line 2:  As per the question,                                                                                                                                 add step 1: 560 \div \boxed{a}       &= 8 \\\\                                                                                                             align on &=             (see stack)                                                                                                                                                       present step 5: a &= \dfrac{70 \times \cancel{8}}{\cancel{8}} \\\\
 </div>
 
 <div class='review'>
@@ -4991,7 +4991,7 @@ $
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-part A                                                                                                                                                                                                                                line 1: change: As per the diagram,                                                                                                                                                                                                                                add step 1:  \text{The house can be divided into} \  2  \ \text{rectangles} &= 20 \times 7  + (20 - 8) \times (18 - 7) \\                                                      your present step 1 will be step 2 now.                                                                                                                                                                             remove space in End answer & Final answer                   272 \ \text{m}^2                                                                                                                      align on &=       (see slack)                                                                                                                                                                                                      .                                                                                                                                                                                                                                  Part B                                                                                                                                                                                                                           use katex 2: Area of garden                                                                                                                                                                                            Add step 1:                                                                                                                                                                                                        {Area(garden)} = {Total area(house & garden)} - {Area(house)}                                                                                                                                     solve accordingly                                                                                                                                                                      
+part A                                                                                                                                                                                                                                line 1: change: As per the diagram,                                                                                                                                                                                                                                add step 1:  \text{The house can be divided into} \  2  \ \text{rectangles} &= 20 \times 7  + (20 - 8) \times (18 - 7) \\\\                                                      your present step 1 will be step 2 now.                                                                                                                                                                             remove space in End answer & Final answer                   272 \ \text{m}^2                                                                                                                      align on &=       (see slack)                                                                                                                                                                                                      .                                                                                                                                                                                                                                  Part B                                                                                                                                                                                                                           use katex 2: Area of garden                                                                                                                                                                                            Add step 1:                                                                                                                                                                                                        {Area(garden)} = {Total area(house & garden)} - {Area(house)}                                                                                                                                     solve accordingly                                                                                                                                                                      
 </div>
 
 <div class='review'>
@@ -7365,7 +7365,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>03062397-6A4C-462F-A913-57F1FA0E1B4A</p>
 </div>
@@ -7379,7 +7379,7 @@ $
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

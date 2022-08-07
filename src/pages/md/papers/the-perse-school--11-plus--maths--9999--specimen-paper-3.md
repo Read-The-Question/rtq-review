@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-3"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 3"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "27"
 ---
 <div class='paper'>
@@ -2085,9 +2085,9 @@ Katex is not correct, use begin aligned like its been done in reference UUID giv
 
 \begin{aligned}
 
-&= (3 \times 6 ) \div (2 + 1) \\
+&= (3 \times 6 ) \div (2 + 1) \\\\
 
-&= 18 \div 3 \\
+&= 18 \div 3 \\\\
 
 &= 6
 

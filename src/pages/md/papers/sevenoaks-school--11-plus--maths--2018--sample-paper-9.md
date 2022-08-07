@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2018-sample-paper-9"
 title: "Sevenoaks School - 11 Plus - Maths - 2018 - Sample Paper 9"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "20"
 ---
 <div class='paper'>
@@ -1746,7 +1746,7 @@ $1.008, \quad 1.02, \quad 1.15, \quad 1.2, \quad 1.9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>A61865AA-6630-4CE9-83F3-826FE700031F</p>
 </div>
@@ -1760,7 +1760,7 @@ $1.008, \quad 1.02, \quad 1.15, \quad 1.2, \quad 1.9$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1876,6 +1876,25 @@ As we can see, $2 + 3 + 11 = 16$.
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Solve it using the table method.
+
+Prime numbers less than 16 = 2,3,5,7,11,13
+
+Then create a table with a few possible combinations
+
+
+
+For wordings check part b) of the below referenced question:
+
+7E727E97-35F7-45AC-9A84-DFE534728056
+</div>
 
 <div class='review'>
 <ul class='review'>

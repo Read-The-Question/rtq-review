@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-talgebra-17"
 title: "TopicPaper - Algebra - 17"
-date: 2022-08-06 18:37:02
+date: 2022-08-06 23:42:19
 questions_count: "40"
 ---
 <div class='paper'>
@@ -3308,9 +3308,9 @@ Aled had $67$ marbles when he went to school. He gave $19$ to his best friend Ow
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-\text {Marbles (he got home)} &= \text {Marbles (to school) - Given(Owen) - Given (Swap Jess) + Taken (Swap Jess) + Won (Meg) - Lost (Ben)} \\
+\text {Marbles (he got home)} &= \text {Marbles (to school) - Given(Owen) - Given (Swap Jess) + Taken (Swap Jess) + Won (Meg) - Lost (Ben)} \\\\
 
-&=  67 - 19 - 5 + 9 + 27 - 34 \\  
+&=  67 - 19 - 5 + 9 + 27 - 34 \\\\  
 
 delete 2, 3 and 4th steps
 

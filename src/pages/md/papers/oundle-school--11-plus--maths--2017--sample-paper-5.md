@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2017-sample-paper-5"
 title: "Oundle School - 11 Plus - Maths - 2017 - Sample Paper 5"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "14"
 ---
 <div class='paper'>
@@ -2300,7 +2300,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>8F04F6AD-7E4E-4FEA-BE60-E45097E0FEB2</p>
 </div>
@@ -2314,7 +2314,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2454,6 +2454,29 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Add \"As per the question,\" after 2nd line.
+
+2x + 2x/100 = 77
+
+2x * 100 / 1 * 100 + 2x/100 = 77 (add this line)
+
+
+
+for cancelation first break 50 ==> 5 x 10 then cancel.
+
+
+
+Potato in large sack = 77 - x (this line missing)
+
+                     = 77 - 35
+</div>
 
 <div class='review'>
 <ul class='review'>

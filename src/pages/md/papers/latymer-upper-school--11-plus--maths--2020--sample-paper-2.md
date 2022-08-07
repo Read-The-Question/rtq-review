@@ -1,7 +1,7 @@
 ---
 slug: "papers/latymer-upper-school-11-plus-maths-2020-sample-paper-2"
 title: "Latymer Upper School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "29"
 ---
 <div class='paper'>
@@ -861,7 +861,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-786BDB0D-CBC0-4ECA-99D4-240F8B350942'>Initial</p>
 <div class='question question'>
 
-What is $842 - 658$? 
+What is $842 - 658$ ? 
 
 A: $184$ 
 
@@ -4739,9 +4739,9 @@ $
 
 
 
-Part c) put an extra \' at the end of below line
+Part c) put an extra \ at the end of below line
 
-a &= 3 \times 9 \\
+a &= 3 \times 9 \\\
 
 
 

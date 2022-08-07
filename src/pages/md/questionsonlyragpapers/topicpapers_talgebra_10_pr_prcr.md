@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-talgebra-10-pr-prcr"
 title: "TopicPaper - Algebra - 10 - PR - PRCR"
-date: 2022-08-06 18:37:02
+date: 2022-08-06 23:42:19
 questions_count: "40"
 ---
 <ul class='question default-decimal'>
@@ -1078,7 +1078,7 @@ Part a)
 
 Remove \pound from the below line, 
 
-&= 2 \times \pounds 20 \\
+&= 2 \times \pounds 20 \\\\
 
 
 
@@ -1086,7 +1086,7 @@ Part c)
 
 Same correction required in below line
 
-a + 5a + 10a      &= \pounds 160 \\
+a + 5a + 10a      &= \pounds 160 \\\\
 </div>
 
 <div class='review'>
@@ -1352,6 +1352,24 @@ part (d)
 
 
 part (d)
+
+
+
+Part c)
+
+b^2 − 4b + 4 = 0
+
+b (b - 4)    = -4
+
+From here onwards solve it using table method.
+
+For wording and format check part d) of the referenced question.
+
+Reference: 186AAEE8-D55E-48C5-996E-8F8A69BD4AFB
+
+
+
+In case of any doubt ping me on slack.
 </div>
 
 <div class='review'>
@@ -1507,6 +1525,15 @@ I am thinking of a number less than $50$. When I divide my number by $7$ I get a
 </code></pre>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Question not attempted. Attempt this question.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1584,6 +1611,23 @@ Find two whole numbers which multiply together to give $18$ and a difference of 
 </code></pre>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+We dont solve quadratic equations this way.
+
+Check the reference, it is very similar to this one. Then solve it accrodingly
+
+Reference: 6E54CC2F-AFAA-4163-A221-70B208AE9DB1
+
+
+
+In case of any doubt ping me on slack.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1699,7 +1743,7 @@ If Jessica pays $\pounds 15.50$ for how long has she hired the boat?
 
 Part a) Remove the units (\pounds) on the below line (I mean first line of the working)
 
-\text {Total cost}      &= \pounds 2 + 2 \times \pounds 3 \\
+\text {Total cost}      &= \pounds 2 + 2 \times \pounds 3 \\\\
 
 
 
@@ -2155,6 +2199,19 @@ The number of stinging nettle plants in Mr Beefshaw’s rose patch doubles each 
 </code></pre>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Question not attempted. Attempt it.
+
+
+
+Question not attempted. Attempt it.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2318,6 +2375,15 @@ Find the values of A and B.
 </code></pre>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Question not attempted. Attempt it.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2915,11 +2981,6 @@ The front row of a theatre has 48 seats and each other row has four more seats t
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-& missing before = in every line , also give one line space before writing a new katex
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3018,6 +3079,36 @@ how much money do they have altogether?
 
 <h4>Review Comments</h4>
 Ask uday about this question
+
+
+
+Let money Martha has = m
+
+Let money Sally has = s 
+
+
+
+As per the question,
+
+3 x (s - 20) = m - 10
+
+3s - 60 = m - 10
+
+3s - m = 60 - 10
+
+3s - m = 50
+
+
+
+2 x (s - 20) = m - 15
+
+solve further..
+
+
+
+The we will have two equation. after then solve it similar to part a) of the referenced question.
+
+Reference: A7879165-EAE0-4869-9FB1-0CA2600DB446
 </div>
 
 <div class='review'>
@@ -3109,6 +3200,20 @@ What are the two numbers?
 
 <h4>Review Comments</h4>
 Ask uday about this question
+
+
+
+Let two whole numbers = a,b
+
+APTQ
+
+x + y = 30
+
+x - y = 20
+
+after this solve it similar to part a) of the referenced question.
+
+Reference: A7879165-EAE0-4869-9FB1-0CA2600DB446
 </div>
 
 <div class='review'>
@@ -3197,6 +3302,15 @@ In this multiplication each letter stands for a **different** digit. What digit 
 </code></pre>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Question not attempted. Attempt it.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3412,6 +3526,30 @@ Does  it make  sense to use   the   formula  for   older people?  Give  a  reaso
 
 <h4>Review Comments</h4>
 check with Uday
+
+
+
+Part b) Guidelines not followed, solve it like below
+
+Let the age of person = a
+
+APTQ
+
+then solve it further..
+
+*Note: Put proper spacing between value and units
+
+
+
+Part c)
+
+Solve it like part b) instead of writing direct answer.
+
+
+
+Part d)
+
+*negitive* to negative.
 </div>
 
 <div class='review'>
@@ -3494,6 +3632,30 @@ Nine  bus   stops are   equally  spaced   along a  bus   route.   The   distance
 
 <h4>Review Comments</h4>
 check with Uday
+
+
+
+Let the distance between two bus stops = a
+
+APTQ,
+
+2a = 600
+
+a = 600/2
+
+solve further...
+
+
+
+Distance from first to last = 9 x a
+
+solve further...
+
+
+
+*Note: Give proper spacing between value and units
+
+For eg; 1800metres ==> 1800 metres
 </div>
 
 <div class='review'>
@@ -3576,6 +3738,26 @@ When  asked how   many  chickens and   cows  he had   on his   farm  Mr Brown re
 
 <h4>Review Comments</h4>
 check with Uday
+
+
+
+Let the number of chickens = a
+
+Let the number of cows = b
+
+
+
+As per the question,
+
+x + y = 30
+
+2x + 4y = 100
+
+
+
+We have two equation. Solve it similar to the referenced question.
+
+Reference: 1622DD6F-538D-47B0-8E04-EE946A7719E6
 </div>
 
 <div class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/streatham-and-clapham-high-school-11-plus-maths-2019-sample-paper-2"
 title: "Streatham And Clapham High School - 11 Plus - Maths - 2019 - Sample Paper 2"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "43"
 ---
 <div class='paper'>
@@ -1954,7 +1954,7 @@ tdecimal
 <p class='review_status initial' id='SUBTAG-STATUS-ACCD452C-167D-4F04-A496-755F5523D582'>Initial</p>
 <div class='question question'>
 
-Find the value of $89.1 - 36.55$
+Find the value of $89.1 - 36.55$.
 
 - $52.45$
 - $53.55$
@@ -3778,7 +3778,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>4DE7EF9C-F90F-456B-80E1-8DBA8C7784FA</p>
 </div>
@@ -3789,7 +3789,7 @@ $
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3871,36 +3871,21 @@ $1.32, 1.47, 1.43, 1.32, 1.35, 1.46, 1.49, 1.32, 1.37, 1.49, 1.48$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -3912,17 +3897,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -3943,36 +3918,21 @@ What is the mode height?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$1.32$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$1.32$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$1.32$
 </code></pre>
 </div>
 </div>
@@ -3984,17 +3944,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$1.32$
 </code></pre>
 </div>
 </div>
@@ -4017,36 +3967,34 @@ What is the median height?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Numbers}          &= 1.32, 1.47, 1.43, 1.32, 1.35, 1.46, 1.49, 1.32, 1.37, 1.49, 1.48 \\\\
+\text{Ordered numbers}  &= 1.32, 1.32, 1.32, 1.35, 1.37, \maroonC
+{1.43}, 1.46, 1.47, 1.48, 1.49, 1.49 \\\\
+\text{Median}           &= 1.43 \\\\
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$1.43$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Numbers}          &= 1.32, 1.47, 1.43, 1.32, 1.35, 1.46, 1.49, 1.32, 1.37, 1.49, 1.48 \\\\
+\text{Ordered numbers}  &= 1.32, 1.32, 1.32, 1.35, 1.37, \rtq_katex_color_info{1.43}, 1.46, 1.47, 1.48, 1.49, 1.49 \\\\
+\text{Median}           &= 1.43 \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -4058,17 +4006,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$1.43$
 </code></pre>
 </div>
 </div>
@@ -4077,6 +4015,46 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4DE7EF9C-F90F-456B-80E1-8DBA8C7784FA' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4DE7EF9C-F90F-456B-80E1-8DBA8C7784FA' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4DE7EF9C-F90F-456B-80E1-8DBA8C7784FA' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4DE7EF9C-F90F-456B-80E1-8DBA8C7784FA' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4DE7EF9C-F90F-456B-80E1-8DBA8C7784FA' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4DE7EF9C-F90F-456B-80E1-8DBA8C7784FA' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4DE7EF9C-F90F-456B-80E1-8DBA8C7784FA' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4DE7EF9C-F90F-456B-80E1-8DBA8C7784FA' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4DE7EF9C-F90F-456B-80E1-8DBA8C7784FA' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4DE7EF9C-F90F-456B-80E1-8DBA8C7784FA' id='FORM-4DE7EF9C-F90F-456B-80E1-8DBA8C7784FA' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-4DE7EF9C-F90F-456B-80E1-8DBA8C7784FA'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -4273,7 +4251,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D2F1F5D7-B3B8-4AD7-84A4-E5E0456DB959</p>
 </div>
@@ -4284,7 +4262,7 @@ $
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4375,36 +4353,21 @@ Pizza $20 \%$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -4416,17 +4379,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -4447,36 +4400,39 @@ How many students chose chips?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Students who chose chips}\        &= \text{Percentage who chose chips} \times \text{Total students} \\\\
+                                        &= 10\% \times 250 \\\\
+                                        &= \dfrac {10} {100} \times 250 \\\\
+                                        &= \dfrac {10 \times 250} {100} \\\\
+                                        &= \dfrac {25\cancel{00}} {1\cancel{00}} \\\\
+                                        &= 25
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+25
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Students who chose chips}\        &= \text{Percentage who chose chips} \times \text{Total students} \\\\
+                                        &= 10\% \times 250 \\\\
+                                        &= \dfrac {10} {100} \times 250 \\\\
+                                        &= \dfrac {10 \times 250} {100} \\\\
+                                        &= \dfrac {25\cancel{00}} {1\cancel{00}} \\\\
+                                        &= 25
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -4488,17 +4444,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>25
 </code></pre>
 </div>
 </div>
@@ -4521,36 +4467,45 @@ What angle of the pie chart is represented by pizza?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Total angle $= 360\degree$
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Angle made by pizza}\     &= \text{Percentage who chose pizza}\ \times \text{Total angle}\ \\\\
+                                &= 20\% \times 360\degree \\\\
+                                &= \dfrac {20} {100} \times 360\degree \\\\
+                                &= \dfrac {20 \times 360} {100} \\\\
+                                &= \dfrac {7200} {100} \\\\
+                                &= \dfrac {72\cancel{00}} {1\cancel{00}} \\\\
+                                &= 72\degree \\\\
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$72\degree$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Total angle $= 360\degree$
+<emptyline>
+$
+\begin{aligned}
+\text{Angle made by pizza}\     &= \text{Percentage who chose pizza}\ \times \text{Total angle}\ \\\\
+                                &= 20\% \times 360\degree \\\\
+                                &= \dfrac {20} {100} \times 360\degree \\\\
+                                &= \dfrac {20 \times 360} {100} \\\\
+                                &= \dfrac {7200} {100} \\\\
+                                &= \dfrac {72\cancel{00}} {1\cancel{00}} \\\\
+                                &= 72\degree \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -4562,17 +4517,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$72\degree$
 </code></pre>
 </div>
 </div>
@@ -4581,6 +4526,46 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='D2F1F5D7-B3B8-4AD7-84A4-E5E0456DB959' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='D2F1F5D7-B3B8-4AD7-84A4-E5E0456DB959' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='D2F1F5D7-B3B8-4AD7-84A4-E5E0456DB959' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='D2F1F5D7-B3B8-4AD7-84A4-E5E0456DB959' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='D2F1F5D7-B3B8-4AD7-84A4-E5E0456DB959' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='D2F1F5D7-B3B8-4AD7-84A4-E5E0456DB959' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='D2F1F5D7-B3B8-4AD7-84A4-E5E0456DB959' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='D2F1F5D7-B3B8-4AD7-84A4-E5E0456DB959' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='D2F1F5D7-B3B8-4AD7-84A4-E5E0456DB959' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='D2F1F5D7-B3B8-4AD7-84A4-E5E0456DB959' id='FORM-D2F1F5D7-B3B8-4AD7-84A4-E5E0456DB959' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D2F1F5D7-B3B8-4AD7-84A4-E5E0456DB959'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -8741,7 +8726,7 @@ Perimeter of the shape remain same after removing tile $5$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>51FA34A0-EEA9-468D-9DD3-11BB4CBBF4D0</p>
 </div>
@@ -8755,7 +8740,7 @@ Perimeter of the shape remain same after removing tile $5$.
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tnumber-13"
 title: "TopicPaper - Number - 13"
-date: 2022-08-06 18:37:02
+date: 2022-08-06 23:42:19
 questions_count: "40"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "40"
 <p>solihull-school--11-plus--maths--9999--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_da_prns</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -139,10 +139,10 @@ Part A : Remove \"to compare\". make L in lets capital .. Space  before and afte
 <p>solihull-school--11-plus--maths--9999--sample-paper-2:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -287,10 +287,10 @@ Work out $10 \% \text{ of } \pounds 40 + 15 \% \text{ of } \pounds 60$
 <p>solihull-school--11-plus--maths--9999--sample-paper-2:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -498,10 +498,10 @@ i have done part 1 for b, please do 2 and 3 on the same lines.
 <p>solihull-school--11-plus--maths--9999--sample-paper-2:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -584,10 +584,10 @@ this is wrong btw, 1001 is the closest
 <p>solihull-school--11-plus--maths--9999--sample-paper-2:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -664,10 +664,10 @@ What number is halfway between $137$ and $859$?
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -741,10 +741,10 @@ Write in figures the number *thirteen thousand and eighty three*.
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -818,10 +818,10 @@ Work out half of three million, forty-thousand, two-hundred. Write your answer i
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -895,10 +895,10 @@ The digits $3, 1, 9$ and $2$ can be arranged in any order to make four digit num
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -934,10 +934,10 @@ between two whole numbers. Write the two whole numbers in the boxes below.
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1011,10 +1011,10 @@ Write in figures the number eighteen thousand and forty-six
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1088,10 +1088,10 @@ Write in words 3,060,120
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1188,10 +1188,10 @@ Use the above to work out:
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1254,10 +1254,10 @@ How many seats will there be in the model?
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1323,10 +1323,10 @@ Shade more squares so that 2 of the shape is shaded altogether.                3
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:32</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1369,10 +1369,10 @@ How wide is each gap?
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1457,10 +1457,10 @@ Use your answer to part (a) to write down the answer to
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1546,10 +1546,10 @@ Workout
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1662,10 +1662,10 @@ How many times does two hundred go into one million?
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1739,10 +1739,10 @@ Write in words the answer to one hundred thousand subtract one hundred and eleve
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1859,10 +1859,10 @@ Decide whether for each of the following is correct or not. write Y for 'yes' an
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1945,10 +1945,10 @@ Calculate
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2033,10 +2033,10 @@ $8 + \dfrac {7} {10}  +  \dfrac {91} {100}$
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2110,10 +2110,10 @@ What is half of $1.1$ ?
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2227,10 +2227,10 @@ Write down the smallest **even** number you can make.
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2268,10 +2268,10 @@ $123 \,\,  45 \,\,  67 \,\,  89 = 100$
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2331,10 +2331,10 @@ as a product of prime factors.
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2451,10 +2451,10 @@ $4.2 \times 17$
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2585,10 +2585,10 @@ $43\%$  as a  fraction
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2665,10 +2665,10 @@ Write in figures  the   number   “two  hundred  and   three thousand,   one   
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2742,10 +2742,10 @@ Calculate $0.871 - 0.39 + 1.4$
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2784,10 +2784,10 @@ Fill  in the   missing  numbers  in this  division
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2893,10 +2893,10 @@ What  number   is half  way   between **-6** and **+4**
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2999,10 +2999,10 @@ Complete these calculations
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3079,10 +3079,10 @@ The planet Jupiter has $69$ moons. The closest moon is called Io and is $421,800
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3159,10 +3159,10 @@ Callisto is another moon of Jupiter and its maximum distance from Jupiter as it 
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3292,10 +3292,10 @@ change c on the same lines as a.
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3420,10 +3420,10 @@ Use values in the table to work out  $4.55 \, \div \, 6.5$
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3540,10 +3540,10 @@ $1.073\,cm$   (nearest mm)
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3627,10 +3627,10 @@ d) 36,000 inches
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

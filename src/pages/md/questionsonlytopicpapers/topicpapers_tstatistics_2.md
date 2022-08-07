@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tstatistics-2"
 title: "TopicPaper - Statistics - 2"
-date: 2022-08-06 18:37:02
+date: 2022-08-06 23:42:19
 questions_count: "40"
 ---
 <div class='paper'>
@@ -2498,7 +2498,52 @@ Snow White wanted to know the mean height of the Seven Dwarves. One day she meas
 </code></pre>
 </div>
 
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+Discuss with me
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A07A2CC0-89F4-4D36-948D-4DA958505E88' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A07A2CC0-89F4-4D36-948D-4DA958505E88' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A07A2CC0-89F4-4D36-948D-4DA958505E88' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A07A2CC0-89F4-4D36-948D-4DA958505E88' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A07A2CC0-89F4-4D36-948D-4DA958505E88' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A07A2CC0-89F4-4D36-948D-4DA958505E88' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A07A2CC0-89F4-4D36-948D-4DA958505E88' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A07A2CC0-89F4-4D36-948D-4DA958505E88' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A07A2CC0-89F4-4D36-948D-4DA958505E88' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A07A2CC0-89F4-4D36-948D-4DA958505E88' id='FORM-A07A2CC0-89F4-4D36-948D-4DA958505E88' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A07A2CC0-89F4-4D36-948D-4DA958505E88'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -2536,6 +2581,46 @@ The mean of three positive whole numbers is $6$. the mode is $5$.  Find the thre
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='059AB225-BF78-412C-9BFD-264A470721BB' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='059AB225-BF78-412C-9BFD-264A470721BB' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='059AB225-BF78-412C-9BFD-264A470721BB' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='059AB225-BF78-412C-9BFD-264A470721BB' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='059AB225-BF78-412C-9BFD-264A470721BB' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='059AB225-BF78-412C-9BFD-264A470721BB' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='059AB225-BF78-412C-9BFD-264A470721BB' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='059AB225-BF78-412C-9BFD-264A470721BB' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='059AB225-BF78-412C-9BFD-264A470721BB' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='059AB225-BF78-412C-9BFD-264A470721BB' id='FORM-059AB225-BF78-412C-9BFD-264A470721BB' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-059AB225-BF78-412C-9BFD-264A470721BB'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -2575,6 +2660,46 @@ Find the mean mass of a bag of rice.
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='32D70B18-71C8-4BD4-B92B-76EC032DB7EF' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='32D70B18-71C8-4BD4-B92B-76EC032DB7EF' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='32D70B18-71C8-4BD4-B92B-76EC032DB7EF' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='32D70B18-71C8-4BD4-B92B-76EC032DB7EF' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='32D70B18-71C8-4BD4-B92B-76EC032DB7EF' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='32D70B18-71C8-4BD4-B92B-76EC032DB7EF' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='32D70B18-71C8-4BD4-B92B-76EC032DB7EF' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='32D70B18-71C8-4BD4-B92B-76EC032DB7EF' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='32D70B18-71C8-4BD4-B92B-76EC032DB7EF' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='32D70B18-71C8-4BD4-B92B-76EC032DB7EF' id='FORM-32D70B18-71C8-4BD4-B92B-76EC032DB7EF' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-32D70B18-71C8-4BD4-B92B-76EC032DB7EF'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -2669,6 +2794,46 @@ What is the median height?
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='4DE7EF9C-F90F-456B-80E1-8DBA8C7784FA' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='4DE7EF9C-F90F-456B-80E1-8DBA8C7784FA' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='4DE7EF9C-F90F-456B-80E1-8DBA8C7784FA' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='4DE7EF9C-F90F-456B-80E1-8DBA8C7784FA' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='4DE7EF9C-F90F-456B-80E1-8DBA8C7784FA' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='4DE7EF9C-F90F-456B-80E1-8DBA8C7784FA' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='4DE7EF9C-F90F-456B-80E1-8DBA8C7784FA' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='4DE7EF9C-F90F-456B-80E1-8DBA8C7784FA' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='4DE7EF9C-F90F-456B-80E1-8DBA8C7784FA' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='4DE7EF9C-F90F-456B-80E1-8DBA8C7784FA' id='FORM-4DE7EF9C-F90F-456B-80E1-8DBA8C7784FA' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-4DE7EF9C-F90F-456B-80E1-8DBA8C7784FA'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -2781,6 +2946,46 @@ What angle of the pie chart is represented by pizza?
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='D2F1F5D7-B3B8-4AD7-84A4-E5E0456DB959' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='D2F1F5D7-B3B8-4AD7-84A4-E5E0456DB959' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='D2F1F5D7-B3B8-4AD7-84A4-E5E0456DB959' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='D2F1F5D7-B3B8-4AD7-84A4-E5E0456DB959' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='D2F1F5D7-B3B8-4AD7-84A4-E5E0456DB959' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='D2F1F5D7-B3B8-4AD7-84A4-E5E0456DB959' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='D2F1F5D7-B3B8-4AD7-84A4-E5E0456DB959' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='D2F1F5D7-B3B8-4AD7-84A4-E5E0456DB959' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='D2F1F5D7-B3B8-4AD7-84A4-E5E0456DB959' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='D2F1F5D7-B3B8-4AD7-84A4-E5E0456DB959' id='FORM-D2F1F5D7-B3B8-4AD7-84A4-E5E0456DB959' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D2F1F5D7-B3B8-4AD7-84A4-E5E0456DB959'>Initial</p>
+</div>
 </div>
 </li>
 <li>

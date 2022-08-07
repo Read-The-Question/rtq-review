@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-georges-college-11-plus-maths-9999-sample-paper-2"
 title: "St Georges College - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "24"
 ---
 <div class='paper'>
@@ -4722,11 +4722,11 @@ Sarah can fill the tank upto $20 \ \text{cm}$.
 <h4>Review Comments</h4>
 Part A : Delete first 3 lines. Stat katex with Area of base.....align at &= the rest of the answer. put 60 cm x 20 cm 
 
-Use spacing \\ Put space between number and cm.. same in blue answer
+Use spacing \\\\ Put space between number and cm.. same in blue answer
 
-PArt B : \text{Max volume of tank} = \text{length}\times\text{width}\times{height} \
+PArt B : \text{Max volume of tank} = \text{length}\times\text{width}\times{height} \\
 
-Change to : Volume of tank = ....... (before height put \text  use \\ spacing not \
+Change to : Volume of tank = ....... (before height put \text  use \\\\ spacing not \\
 
 same corrections like above. do your katex formatting correctly spacing is not right between numbers. 
 
@@ -5301,7 +5301,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>C5BEA94E-1A7E-437A-B7E1-A81049B5F92C</p>
 </div>
@@ -5315,7 +5315,7 @@ TODOANSWER
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5465,6 +5465,10 @@ solve for a as you did..
 remove box 
 
 The number Verity thought of $=..$
+
+
+
+Make all the required changes commented above. 
 </div>
 
 <div class='review'>
@@ -5595,7 +5599,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-D9347C26-F870-4B64-A4DA-BD4DEBB0941E'>Initial</p>
 <div class='question question'>
 
-Multiply $6.4$ by $2.7$ 
+Multiply $6.4$ by $2.7$. 
 
 </div>
 <div class='workings'>
@@ -5713,7 +5717,7 @@ $= 17.28$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>714A3922-27FE-4977-8C4F-8B64886AF8C2</p>
 </div>
@@ -5727,7 +5731,7 @@ $= 17.28$
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5885,6 +5889,16 @@ solve further without units.
 height = ..... use space before cm and that in \text{cm}
 
 
+
+
+
+
+
+Add rtq_abbr_katex_formula_area_triangle_expanded before the first line.
+
+
+
+Remove \"Area = 24 cm^2\" line after APTQ.
 </div>
 
 <div class='review'>
@@ -6321,7 +6335,7 @@ solve.. use correct units and spacing before units.. if needed
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>059AB225-BF78-412C-9BFD-264A470721BB</p>
 </div>
@@ -6332,7 +6346,7 @@ solve.. use correct units and spacing before units.. if needed
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6412,36 +6426,60 @@ The mean of three positive whole numbers is $6$. the mode is $5$.  Find the thre
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+Since mean and mode are different, all three positive numbers are distinct
+
+Since mode is $ 5$, Two of the three numbers $= 5, 5$
+
+Let third number $= a$
+
+$
+\begin{aligned}
+\text{Mean}\    &= \dfrac {5 + 5 + a} {3} \\\\
+6               &= \dfrac {10 + a} {3} \\\\
+10 + a          &= 3 \times 6 \\\\
+10 + a          &= 18 \\\\
+a               &= 18 - 10 \\\\
+a               &= 8 \\\\
+\end{aligned}
+$
+
+Therfore, the third number $= 8$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$5, 5, 8$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_statistics_formula_mean
+<emptyline>
+Since mean and mode are different, all three positive numbers are distinct
+<emptyline>
+Since mode is $ 5$, Two of the three numbers $= 5, 5$
+<emptyline>
+Let third number $= a$
+<emptyline>
+$
+\begin{aligned}
+\text{Mean}\    &= \dfrac {5 + 5 + a} {3} \\\\
+6               &= \dfrac {10 + a} {3} \\\\
+10 + a          &= 3 \times 6 \\\\
+10 + a          &= 18 \\\\
+a               &= 18 - 10 \\\\
+a               &= 8 \\\\
+\end{aligned}
+$
+<emptyline>
+Therfore, the third number $= 8$
 </code></pre>
 </div>
 </div>
@@ -6453,22 +6491,52 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$5, 5, 8$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='059AB225-BF78-412C-9BFD-264A470721BB' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='059AB225-BF78-412C-9BFD-264A470721BB' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='059AB225-BF78-412C-9BFD-264A470721BB' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='059AB225-BF78-412C-9BFD-264A470721BB' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='059AB225-BF78-412C-9BFD-264A470721BB' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='059AB225-BF78-412C-9BFD-264A470721BB' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='059AB225-BF78-412C-9BFD-264A470721BB' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='059AB225-BF78-412C-9BFD-264A470721BB' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='059AB225-BF78-412C-9BFD-264A470721BB' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='059AB225-BF78-412C-9BFD-264A470721BB' id='FORM-059AB225-BF78-412C-9BFD-264A470721BB' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-059AB225-BF78-412C-9BFD-264A470721BB'>Initial</p>
+</div>
 </div>
 </li>
 </ul>

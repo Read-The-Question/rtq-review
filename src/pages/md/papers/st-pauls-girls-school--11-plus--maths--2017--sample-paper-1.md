@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2017-sample-paper-1"
 title: "St Pauls Girls School - 11 Plus - Maths - 2017 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "31"
 ---
 <div class='paper'>
@@ -1480,7 +1480,7 @@ $42$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>295FC725-C559-4A9A-B53F-530F83AAA2FC</p>
 </div>
@@ -1491,7 +1491,7 @@ $42$
 <p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_as_pr</p>
+<p>rag_as_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1671,44 +1671,39 @@ Hence the possible values of $n$ $= 13, 14$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-change tag to tinfer and then mark this status to PRR
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='295FC725-C559-4A9A-B53F-530F83AAA2FC' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='295FC725-C559-4A9A-B53F-530F83AAA2FC' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='295FC725-C559-4A9A-B53F-530F83AAA2FC' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='295FC725-C559-4A9A-B53F-530F83AAA2FC' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='295FC725-C559-4A9A-B53F-530F83AAA2FC' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='295FC725-C559-4A9A-B53F-530F83AAA2FC' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='295FC725-C559-4A9A-B53F-530F83AAA2FC' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='295FC725-C559-4A9A-B53F-530F83AAA2FC' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='295FC725-C559-4A9A-B53F-530F83AAA2FC' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='295FC725-C559-4A9A-B53F-530F83AAA2FC' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='295FC725-C559-4A9A-B53F-530F83AAA2FC' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='295FC725-C559-4A9A-B53F-530F83AAA2FC' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='295FC725-C559-4A9A-B53F-530F83AAA2FC' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='295FC725-C559-4A9A-B53F-530F83AAA2FC' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='295FC725-C559-4A9A-B53F-530F83AAA2FC' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='295FC725-C559-4A9A-B53F-530F83AAA2FC' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='295FC725-C559-4A9A-B53F-530F83AAA2FC' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='295FC725-C559-4A9A-B53F-530F83AAA2FC' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='295FC725-C559-4A9A-B53F-530F83AAA2FC' id='FORM-295FC725-C559-4A9A-B53F-530F83AAA2FC' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='295FC725-C559-4A9A-B53F-530F83AAA2FC' id='FORM-295FC725-C559-4A9A-B53F-530F83AAA2FC' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2478,7 +2473,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>6F7C552E-E005-44B5-8C86-47CAB7CF711F</p>
 </div>
@@ -2492,7 +2487,7 @@ $
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2662,6 +2657,23 @@ A banana cost $= 30 \text {p}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reference: 1622DD6F-538D-47B0-8E04-EE946A7719E6
+
+
+
+Check the reference and solve in a similar way.
+
+
+
+In case of any doubt, ping me on slack
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2891,7 +2903,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>BB2EEC2A-FFEA-4BE1-89E7-4509E48E88A8</p>
 </div>
@@ -2905,7 +2917,7 @@ $
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3038,6 +3050,19 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove \"APTQ\"
+
+Show units only on the last line of the working
+
+Remove \"Benjamin ...\" part from last line, just leave \"= £ 49.5\".
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3314,7 +3339,7 @@ $
 # Section B
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prg question'>
 <div class='uuid'>
 <p>DC7231D7-DE01-44F0-83B3-D79030A58E4C</p>
 </div>
@@ -3328,7 +3353,7 @@ $
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prg</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4295,7 +4320,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>53B0545C-061A-4FE7-98B5-F192C205B547</p>
 </div>
@@ -4309,7 +4334,7 @@ $
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5105,7 +5130,7 @@ Missing length $= 10 \ \text {cm}$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>5448A2CD-DE13-426E-AC63-AAF7A36B1147</p>
 </div>
@@ -5119,7 +5144,7 @@ Missing length $= 10 \ \text {cm}$.
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5299,7 +5324,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>EDEF5A82-6192-42E5-BB42-49F061E0B422</p>
 </div>
@@ -5313,7 +5338,7 @@ TODOANSWER
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5610,7 +5635,7 @@ TODOANSWER
 # Section C
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>3FF7EB88-C199-4CD3-9420-59508D757C05</p>
 </div>
@@ -5624,7 +5649,7 @@ TODOANSWER
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6191,7 +6216,7 @@ A,B and C would be $3,1 \ \text{and} \ 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>2DB6771E-16E1-4C53-9AF0-70DAB9540FC7</p>
 </div>
@@ -6205,7 +6230,7 @@ A,B and C would be $3,1 \ \text{and} \ 2$
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

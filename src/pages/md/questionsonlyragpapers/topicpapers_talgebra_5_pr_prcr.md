@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-talgebra-5-pr-prcr"
 title: "TopicPaper - Algebra - 5 - PR - PRCR"
-date: 2022-08-06 18:37:02
+date: 2022-08-06 23:42:19
 questions_count: "40"
 ---
 <ul class='question default-decimal'>
@@ -984,9 +984,9 @@ Part b) Remove APTQ
 
 
 
-Part c) Remove \"&= \dfrac {35 \times 140 } {100} \\\" in the line below 
+Part c) Remove \"&= \dfrac {35 \times 140 } {100} \\\\\" in the line below 
 
-a - \dfrac {30} {100} \times a                    &= 98 \\                                         &= \dfrac {35 \times 140 } {100} \\
+a - \dfrac {30} {100} \times a                    &= 98 \\\\                                         &= \dfrac {35 \times 140 } {100} \\\\
 
 
 

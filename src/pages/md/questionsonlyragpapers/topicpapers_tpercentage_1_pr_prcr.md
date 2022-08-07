@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tpercentage-1-pr-prcr"
 title: "TopicPaper - Percentage - 1 - PR - PRCR"
-date: 2022-08-06 18:37:02
+date: 2022-08-06 23:42:19
 questions_count: "40"
 ---
 <ul class='question default-decimal'>
@@ -3215,7 +3215,7 @@ Find $30 \%$ of $120$
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-from step 4: change  (dont multiply if we can cancel anything)                                                                                                                                                                  &= \dfrac{3 \cancel{0} \times 12 \cancel{0}}{1 \cancel{0} \cancel{0}} \\                                                                                &= 3  \times 12  \\                                                                                                                         &= 36
+from step 4: change  (dont multiply if we can cancel anything)                                                                                                                                                                  &= \dfrac{3 \cancel{0} \times 12 \cancel{0}}{1 \cancel{0} \cancel{0}} \\\\                                                                                &= 3  \times 12  \\\\                                                                                                                         &= 36
 </div>
 
 <div class='review'>

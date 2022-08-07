@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-12"
 title: "TopicPaper - Number - 12"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "40"
 ---
 <div class='paper'>
@@ -9298,7 +9298,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_prbd rag_prns question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>3B57B6A6-82A1-494A-994E-EB4D60BF5539</p>
 </div>
@@ -9309,7 +9309,7 @@ TODOANSWER
 <p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_da_prbd</p>
+<p>rag_da_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -11621,7 +11621,7 @@ $12\times 4 = 48$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_prbd rag_prns question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>974B41CD-4F4F-40A8-9A75-397312C3A65D</p>
 </div>
@@ -11632,7 +11632,7 @@ $12\times 4 = 48$
 <p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_da_prbd</p>
+<p>rag_da_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

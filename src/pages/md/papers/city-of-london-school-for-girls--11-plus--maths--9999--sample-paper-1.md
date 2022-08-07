@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-school-for-girls-11-plus-maths-9999-sample-paper-1"
 title: "City Of London School For Girls - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "36"
 ---
 <div class='paper'>
@@ -7818,11 +7818,11 @@ Remove \"\pounds\" in the following lines:
 
 
 
-\text{Price of ticket in 2017} &= \pounds 4.5 - \pounds 4.5 \dfrac {1} {3} \\
+\text{Price of ticket in 2017} &= \pounds 4.5 - \pounds 4.5 \dfrac {1} {3} \\\\
 
 
 
-\text{Total money theme park will make in 2017}             &= \pounds 3 \times 160 \\
+\text{Total money theme park will make in 2017}             &= \pounds 3 \times 160 \\\\
 </div>
 
 <div class='review'>

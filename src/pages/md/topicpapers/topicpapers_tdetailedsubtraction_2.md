@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedsubtraction-2"
 title: "TopicPaper - Detailedsubtraction - 2"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "40"
 ---
 <div class='paper'>
@@ -101,8 +101,14 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-F6258E30-1BB3-49AE-BBBC-CF76953178F6'>Initial</p>
 <div class='question question'>
 
-$732
--357$
+$
+\begin{array}{cccccccccccccc}
+    &   7   &   3   &   2 \\
+{}- &   3   &   5   &   7 \\
+\hline\\
+\hline
+\end{array}
+$
 
 </div>
 <div class='workings'>
@@ -282,7 +288,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-BDF5CE80-68DE-4747-8DF0-4C7EC4BA6D8A'>Initial</p>
 <div class='question question'>
 
-Work out $123 - 67$
+Work out $123 - 67$.
 
 </div>
 <div class='workings'>
@@ -1260,9 +1266,14 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-D7BBEB10-44CA-4BA8-8D7D-6A9A6EF1017B'>Initial</p>
 <div class='question question'>
 
-%TODOKATEX%
-
-$765 - 389$ 
+$
+\begin{array}{cccccccccccccc}
+      &     7     &     6     &     5 \\
+{}-   &     3     &     8     &     9 \\
+\hline\\
+\hline 
+\end{array}
+$ 
 
 </div>
 <div class='workings'>
@@ -1442,9 +1453,14 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-A723DE7E-1AEF-46A8-A1F9-C1F5A1AC3855'>Initial</p>
 <div class='question question'>
 
-%TODOKATEX.ADDITION%
-
-$3031 - 1128$ is 
+$
+\begin{array}{cccccccccccccc}
+      &     3     &     0     &     3     &     1 \\
+{}-   &     1     &     1     &     2     &     8 \\
+\hline\\
+\hline
+\end{array}
+$    is 
 
 </div>
 <div class='workings'>
@@ -1804,7 +1820,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-1C34385E-E874-4131-9119-0DD16D56A452'>Initial</p>
 <div class='question question'>
 
-Subtract 345 - 54 
+Subtract $345 - 54$ 
 
 </div>
 <div class='workings'>
@@ -2354,7 +2370,7 @@ tdecimal
 <p class='review_status initial' id='SUBTAG-STATUS-C23CC024-39E3-4323-97B6-0FC20D88C36D'>Initial</p>
 <div class='question question'>
 
-Calculate $15.05 - 14.84$
+Calculate $15.05 - 14.84$.
 
 </div>
 <div class='workings'>
@@ -2721,7 +2737,7 @@ tdecimal
 <p class='review_status initial' id='SUBTAG-STATUS-ACCD452C-167D-4F04-A496-755F5523D582'>Initial</p>
 <div class='question question'>
 
-Find the value of $89.1 - 36.55$
+Find the value of $89.1 - 36.55$.
 
 - $52.45$
 - $53.55$
@@ -2914,7 +2930,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-371066A6-48F2-418D-82E0-9551FDF91DD2'>Initial</p>
 <div class='question question'>
 
-Work out $1741 - 968$ 
+Work out $1741 - 968$. 
 
 </div>
 <div class='workings'>
@@ -4716,9 +4732,14 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-AE182AEF-A433-4C74-A98A-5E3325141BC5'>Initial</p>
 <div class='question question'>
 
-%waffles%
-
-$2605 - 832$
+$
+\begin{array}{cccccccccccccc}
+    &   2   &   6   &   0   &   5 \\
+{}- &       &   8   &   3   &   2 \\
+\hline\\
+\hline
+\end{array}
+$
 
 </div>
 <div class='workings'>
@@ -4898,9 +4919,14 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-C9507576-474D-45B6-9AB2-BE8AEB0DA8CE'>Initial</p>
 <div class='question question'>
 
-%waffles%
-
-$7608 - 495$
+$
+\begin{array}{cccccccccccccc}
+    &   7   &   6   &   0   &   8 \\
+{}- &       &   4   &   9   &   5 \\
+\hline\\
+\hline
+\end{array}
+$
 
 </div>
 <div class='workings'>
@@ -5630,7 +5656,7 @@ tdecimal
 <p class='review_status initial' id='SUBTAG-STATUS-A750C241-48C7-4C08-BD12-8DD6F69FB939'>Initial</p>
 <div class='question question'>
 
-Calculate $2.7 - 0.47$
+Calculate $2.7 - 0.47$.
 
 </div>
 <div class='workings'>
@@ -5815,7 +5841,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-2BA9B8DF-A971-4697-A7FF-EFAA12385B1E'>Initial</p>
 <div class='question question'>
 
-Work out $9135 - 357$
+Work out $9135 - 357$.
 
 </div>
 <div class='workings'>
@@ -5997,7 +6023,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-216012EB-546B-44EF-A879-DBC7E51CF37C'>Initial</p>
 <div class='question question'>
 
-Work out $8709 - 637$
+Work out $8709 - 637$.
 
 </div>
 <div class='workings'>
@@ -6177,7 +6203,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-00EB24CB-2E85-4279-9D85-23E56F0A229B'>Initial</p>
 <div class='question question'>
 
-Work out $7654 - 4567$
+Work out $7654 - 4567$.
 
 </div>
 <div class='workings'>
@@ -6357,7 +6383,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-71E46C1E-EB31-4BC0-814D-006D8DCB4F85'>Initial</p>
 <div class='question question'>
 
-Work out $3456 - 789$
+Work out $3456 - 789$.
 
 </div>
 <div class='workings'>
@@ -6537,7 +6563,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-3E3BE6AC-7FB5-43AB-B419-2E5E66F902DA'>Initial</p>
 <div class='question question'>
 
-Work out $2495 - 609$
+Work out $2495 - 609$.
 
 </div>
 <div class='workings'>
@@ -6717,7 +6743,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-2CFDBA5C-F4E6-4B3F-8ECD-B497444A1AFA'>Initial</p>
 <div class='question question'>
 
-Work out $3201 - 456$
+Work out $3201 - 456$.
 
 </div>
 <div class='workings'>
@@ -6897,7 +6923,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-F56D0855-13DE-4E97-9F7C-F9ABA1E13203'>Initial</p>
 <div class='question question'>
 
-Work out $7532 - 2976$
+Work out $7532 - 2976$.
 
 </div>
 <div class='workings'>
@@ -7077,7 +7103,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-33B15D5A-3BDC-406D-95C0-CD40E761277A'>Initial</p>
 <div class='question question'>
 
-Work out $2345 - 678$
+Work out $2345 - 678$.
 
 </div>
 <div class='workings'>
@@ -7257,7 +7283,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-00BD8854-44AE-4DAA-B246-619A4C0D1148'>Initial</p>
 <div class='question question'>
 
-Work out $7305 - 946$
+Work out $7305 - 946$.
 
 </div>
 <div class='workings'>

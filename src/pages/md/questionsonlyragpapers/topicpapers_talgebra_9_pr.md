@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-talgebra-9-pr"
 title: "TopicPaper - Algebra - 9 - PR"
-date: 2022-08-06 18:37:02
+date: 2022-08-06 23:42:19
 questions_count: "40"
 ---
 <ul class='question default-decimal'>
@@ -2315,6 +2315,39 @@ $5(x - 3) + 4 (x- 2) = 13$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) Steps missing!!
+
+(x × 18) ÷ 9 = 16
+
+(x × 18) × 1/9 = 16 (add this step)
+
+(x × 18)/9 = 16
+
+x × 18 = 16 × 9    (add this step)
+
+x = 16 × 9 / 18
+
+
+
+Part b) Steps missing!!
+
+(x+12) × 4 = 60
+
+x + 12     = 60 / 4      (add this line)
+
+x + 12     = 15 x 4 / 4   (add this line)
+
+first cancel then move 12 to the RHS
+
+then solve further..
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2449,6 +2482,21 @@ $\dfrac {3x} {2} + 3 = 15$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part c) Steps missing!!
+
+3x / 2 = 15 - 3
+
+3x / 2 = 12 (add this line)
+
+3x     = 12 x 2
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2526,6 +2574,35 @@ Albert, Brian and Charlie are dogs. Albert and Brian weigh $22 \ \text{kg}$ toge
 </code></pre>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+i) Make necessary changes to the following lines.
+
+
+
+\"Now finding the value B\" ==> \"Lets use the value of A to find B.\"
+
+\"Finally the ....\"  ==> \"Lets use the value of C to find C.\"
+
+
+
+ii) write answers into three different answer sections and for each one dont forget to fill the key section. On website it should appear something like this 
+
+Albert = 10
+
+Brian = 11
+
+Charlie = 9
+
+
+
+For reference check: 8F027A1E-78A4-45E0-BB41-9FAAB4D6B88A and create the multiple [[sections.questions.answers]] to write answers.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2603,6 +2680,33 @@ Tim, David and Alison are given some money by their grandfather. Tim gets twice 
 </code></pre>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove full stop from first 3 lines as well as last 3 lines.
+
+Remove \"According to....\"line
+
+Remove \"Total money ... \" line
+
+
+
+ii) write answers into three different answer sections and for each one dont forget to fill the key section. On website it should appear something like this 
+
+Tom = £27
+
+David = £13.5
+
+Alison = £9
+
+
+
+For reference check: 8F027A1E-78A4-45E0-BB41-9FAAB4D6B88A and create the multiple [[sections.questions.answers]] to write answers.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2757,6 +2861,17 @@ Two numbers have a sum of $87$. The larger of the numbers is twice the smaller. 
 </code></pre>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove full stop(.) wherever placed.
+
+Write last line into multiple lines using \begin-end.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3542,6 +3657,17 @@ Dini thought of a number. She doubled this number and added $10$ to give the res
 </code></pre>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Add a line at last.
+
+The number Dini thought of = 21
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3648,6 +3774,23 @@ How much water does Yasmin need to make ten glasses of squash?
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) remove full stop from first line.
+
+Write \"a = 320 / 8\" in place of \"One glass of squash = 320 / 8\"
+
+
+
+One \ is missing at the end of the below line, add it.
+
+&= \dfrac {\cancel {8} \times 40} {\cancel {8}} \\\
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3890,6 +4033,25 @@ The sum of three different primes is $16$. What are the three numbers?
 </code></pre>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Solve it using the table method.
+
+Prime numbers less than 16 = 2,3,5,7,11,13
+
+Then create a table with a few possible combinations
+
+
+
+For wordings check part b) of the below referenced question:
+
+7E727E97-35F7-45AC-9A84-DFE534728056
+</div>
 
 <div class='review'>
 <ul class='review'>

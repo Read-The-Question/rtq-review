@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tnumber-19-pr"
 title: "TopicPaper - Number - 19 - PR"
-date: 2022-08-06 18:37:02
+date: 2022-08-06 23:42:19
 questions_count: "40"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "40"
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -105,10 +105,10 @@ Write suitable labels on the diagram below.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -216,10 +216,10 @@ What is the length of the crayon in millimetres?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:31</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -257,10 +257,10 @@ Write a digit in each box to make the calculations correct.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:35</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -409,10 +409,10 @@ $26 \times 37$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:36</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -588,10 +588,10 @@ $999999^2$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -694,10 +694,10 @@ Which number is $1000$ times smaller than $700$?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -814,10 +814,10 @@ $\boxed{\phantom{11}}  \ \times 16 = 36 \div 9$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -924,10 +924,10 @@ How many supporters can both arenas seat altogether?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1058,10 +1058,10 @@ $75 \times 36$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1138,10 +1138,10 @@ Write in numerals, the number that is *three hundred* less than *fourteen thousa
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1219,10 +1219,10 @@ $16 \times 7  \ \boxed{\phantom{11}} \ 17 \times 6$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1382,10 +1382,10 @@ Work out the rules for the two possible machines.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1534,10 +1534,10 @@ What is the largest $2$-digit prime number that can be made?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1662,10 +1662,10 @@ $155.4 \div 42$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:26</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1759,10 +1759,10 @@ change in blue answer as well.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:33</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1874,10 +1874,10 @@ in grams
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:34</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1992,10 +1992,10 @@ How many times could Zoya completely fill her jug from these bottles?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2069,10 +2069,10 @@ Which number is *one hundred* less than *three thousand and sixteen*?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2150,10 +2150,10 @@ $19 \times 3 \ \boxed{\phantom{11}} \  28 \times 2$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2237,10 +2237,10 @@ What is Lisa’s favourite number?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2395,10 +2395,10 @@ $\boxed{\phantom{1}} \ \boxed{\phantom{1}} \ \boxed{\phantom{1}} \ \boxed{\phant
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2519,10 +2519,10 @@ $42.5 \times 67$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:25</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2604,10 +2604,10 @@ What number is indicated by the arrow on the scale?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:32</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2718,10 +2718,10 @@ What was Ashleigh’s mark?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:39</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2821,10 +2821,10 @@ $0.5 \ \text{kg} \quad 1 \ \text{kg} \quad 1.5 \ \text{kg} \quad 2 \ \text{kg} \
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2898,10 +2898,10 @@ What is the difference between the product of $4$ and $11$ and the difference of
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2938,10 +2938,10 @@ Neil lends Rodger $\pounds 4$. Rodger pays back $30 \%$ of this the next day. Ho
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-2:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3090,10 +3090,10 @@ The area of a school playground.
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-2:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3251,10 +3251,10 @@ not written using algebra standards
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3328,10 +3328,10 @@ Write in figures the number $\text{one million ten thousand and one}$.
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3405,10 +3405,10 @@ What is the product of the sum of $8$ and $4$ with the difference of $3$ and $12
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3570,10 +3570,10 @@ d: look at other answers on how to write a number between two numbers, this is n
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3718,10 +3718,10 @@ $26 \times 158$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3795,10 +3795,10 @@ Write in figures the number $\text{one million forty thousand and four}$.
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3872,10 +3872,10 @@ How many different positive whole numbers are factors of $72$? (remember to incl
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4010,10 +4010,10 @@ If $\text{FAB } 10 = 3{,}628{,}800$; what is $\text{FAB } 9$?
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4157,10 +4157,10 @@ refer 8E5A4E8E-7B83-4EB7-8E59-71D7210AF21C, write that way
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4237,10 +4237,10 @@ Write in figures the number $\text{two hundred and twelve thousand and fifty sev
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4314,10 +4314,10 @@ What is the product of the sum of $6$ and $3$ with the difference between $2$ an
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

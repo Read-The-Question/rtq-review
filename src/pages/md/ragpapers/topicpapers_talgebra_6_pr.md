@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-6-pr"
 title: "TopicPaper - Algebra - 6 - PR"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -421,9 +421,9 @@ $
 
 
 
-Part c) put an extra \' at the end of below line
+Part c) put an extra \ at the end of below line
 
-a &= 3 \times 9 \\
+a &= 3 \times 9 \\\
 
 
 
@@ -785,7 +785,7 @@ $
 
 
 
-Part a) put an extra \' at the end of below line
+Part a) put an extra \ at the end of below line
 
 &= \pounds 80
 </div>
@@ -3083,9 +3083,9 @@ i) Step missing
 
 a/4      = 30
 
-ii) Put an extra \' at the end in the below line.
+ii) Put an extra \ at the end in the below line.
 
-a &= 30 \times 4 \\ 
+a &= 30 \times 4 \\\ 
 
 
 

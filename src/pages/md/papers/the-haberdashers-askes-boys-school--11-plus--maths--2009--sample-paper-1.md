@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2009-sample-paper-1"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2009 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "30"
 ---
 <div class='paper'>
@@ -459,7 +459,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-B2CBF5C0-FFDF-44F0-8EC5-ADB33C1AA853'>Initial</p>
 <div class='question question'>
 
-Multiply: $17 \times 5$
+Multiply: $17 \times 5$.
 
 </div>
 <div class='workings'>
@@ -3484,7 +3484,7 @@ Angle $= 60\ \text{degrees}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>4F9F9262-A677-46E7-BF67-C0017CAB35B7</p>
 </div>
@@ -3498,7 +3498,7 @@ Angle $= 60\ \text{degrees}$
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7003,7 +7003,7 @@ The additional minutes Isobel will take to sycel to work today $= 8 \ \text {min
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>3250EBF1-2D1A-48CA-B1EA-DF0B51214B2E</p>
 </div>
@@ -7017,7 +7017,7 @@ The additional minutes Isobel will take to sycel to work today $= 8 \ \text {min
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

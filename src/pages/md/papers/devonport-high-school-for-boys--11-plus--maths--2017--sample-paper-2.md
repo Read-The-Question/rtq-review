@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2017-sample-paper-2"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2017 - Sample Paper 2"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "43"
 ---
 <div class='paper'>
@@ -7649,11 +7649,11 @@ Number of pages in the book $= 69$.
 
 Step missing!!
 
-a - 1 &= 34 \times 2 \\
+a - 1 &= 34 \times 2 \\\\
 
-a - 1 &= 68 \\ (add this line)
+a - 1 &= 68 \\\\ (add this line)
 
-a     &= 68 + 1 \\
+a     &= 68 + 1 \\\\
 </div>
 
 <div class='review'>

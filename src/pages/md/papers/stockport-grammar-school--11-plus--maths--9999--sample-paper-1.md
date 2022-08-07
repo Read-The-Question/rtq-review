@@ -1,7 +1,7 @@
 ---
 slug: "papers/stockport-grammar-school-11-plus-maths-9999-sample-paper-1"
 title: "Stockport Grammar School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "33"
 ---
 <div class='paper'>
@@ -2601,7 +2601,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>32D70B18-71C8-4BD4-B92B-76EC032DB7EF</p>
 </div>
@@ -2612,7 +2612,7 @@ $
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2693,36 +2693,44 @@ Find the mean mass of a bag of rice.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Mean}\    &= \dfrac {\text{Sum of masses}} {\text{Number of masses}} \\\\
+                &= \dfrac {75 + 64 + 53 + 62 + 46} {5} \\\\
+                &= \dfrac {300} {5} \\\\
+                &= \dfrac {5 \times 60} {5} \\\\
+                &= \dfrac {\cancel 5 \times 60} {\cancel 5} \\\\
+                &= 60g
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$60g$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_statistics_formula_mean
+<emptyline>
+$
+\begin{aligned}
+\text{Mean}\    &= \dfrac {\text{Sum of masses}} {\text{Number of masses}} \\\\
+                &= \dfrac {75 + 64 + 53 + 62 + 46} {5} \\\\
+                &= \dfrac {300} {5} \\\\
+                &= \dfrac {5 \times 60} {5} \\\\
+                &= \dfrac {\cancel 5 \times 60} {\cancel 5} \\\\
+                &= 60g
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -2734,22 +2742,52 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$60g$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='32D70B18-71C8-4BD4-B92B-76EC032DB7EF' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='32D70B18-71C8-4BD4-B92B-76EC032DB7EF' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='32D70B18-71C8-4BD4-B92B-76EC032DB7EF' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='32D70B18-71C8-4BD4-B92B-76EC032DB7EF' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='32D70B18-71C8-4BD4-B92B-76EC032DB7EF' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='32D70B18-71C8-4BD4-B92B-76EC032DB7EF' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='32D70B18-71C8-4BD4-B92B-76EC032DB7EF' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='32D70B18-71C8-4BD4-B92B-76EC032DB7EF' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='32D70B18-71C8-4BD4-B92B-76EC032DB7EF' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='32D70B18-71C8-4BD4-B92B-76EC032DB7EF' id='FORM-32D70B18-71C8-4BD4-B92B-76EC032DB7EF' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-32D70B18-71C8-4BD4-B92B-76EC032DB7EF'>Initial</p>
+</div>
 </div>
 </li>
 <li>

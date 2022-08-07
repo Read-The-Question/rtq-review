@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tpercentage-1-oldpr"
 title: "TopicPaper - Percentage - 1 - OLDPR"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
@@ -765,7 +765,7 @@ $
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-from step 4: change  (dont multiply if we can cancel anything)                                                                                                                                                                  &= \dfrac{3 \cancel{0} \times 12 \cancel{0}}{1 \cancel{0} \cancel{0}} \\                                                                                &= 3  \times 12  \\                                                                                                                         &= 36
+from step 4: change  (dont multiply if we can cancel anything)                                                                                                                                                                  &= \dfrac{3 \cancel{0} \times 12 \cancel{0}}{1 \cancel{0} \cancel{0}} \\\\                                                                                &= 3  \times 12  \\\\                                                                                                                         &= 36
 </div>
 
 <div class='review'>

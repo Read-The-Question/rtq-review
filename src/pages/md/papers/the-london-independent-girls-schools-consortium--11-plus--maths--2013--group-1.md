@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2013-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2013 - Group 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "40"
 ---
 <div class='paper'>
@@ -279,7 +279,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-00EB24CB-2E85-4279-9D85-23E56F0A229B'>Initial</p>
 <div class='question question'>
 
-Work out $7654 - 4567$
+Work out $7654 - 4567$.
 
 </div>
 <div class='workings'>
@@ -459,7 +459,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-E404FC05-74EB-4BA5-8AA5-F7BB56EC041E'>Initial</p>
 <div class='question question'>
 
-Work out $653 \times 7$
+Work out $653 \times 7$.
 
 </div>
 <div class='workings'>
@@ -3096,7 +3096,7 @@ $
 
 part (b): replace L.H.S : \"Arrival Time\" 
 
-step 1: add a \' between 19 and \text
+step 1: add a \ between 19 and \text
 </div>
 
 <div class='review'>

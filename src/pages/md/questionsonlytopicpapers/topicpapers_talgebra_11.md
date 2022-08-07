@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-talgebra-11"
 title: "TopicPaper - Algebra - 11"
-date: 2022-08-06 18:37:02
+date: 2022-08-06 23:42:19
 questions_count: "40"
 ---
 <div class='paper'>
@@ -49,6 +49,25 @@ $2$ packets of crisps and $2$ drinks cost $\pounds 1.50$. $2$ packets of crisps 
 </code></pre>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+After APTQ, first create two different equations then add a line: \"Adding the first equation with the second one, we get\"
+
+then continue with the below line
+
+2a+2b+2a+b = 1.50 + 1.10
+
+​
+
+  
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -203,6 +222,21 @@ Sophie should have divided a number by $4$, but instead she subtracted $4$. She 
 </code></pre>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Write \"APTQ,\" after first line.
+
+remove \":\" from \"Answer ....\" line and write it like below.
+
+Answer should have been = a / 4
+
+                        = 92 / 4
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -414,43 +448,15 @@ How much will I pay for the eggs?
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-Part A : APTQ, 
-
-1 Cake &= 5 Eggs
-
-1 x 15 Cakes = 5 x 15 (solve further) 
-
-Last sentence will be : To make $15$ cakes I will use $=75$ eggs.
-
-PArt B : APTQ,
-
-12 Eggs =1 Box
-
-1 Egg = 1 / 12 Box
-
-1 x 75 Eggs = 1 / 12 \times 75 (solve further) 
-
-present in mixed fractions. = 6 3/12
 
 
 
-$6$ whole boxes and $1$ more box for the $3$ remaining eggs. 
 
+Part c)
 
+Remove \"\pound\" from the below line.
 
-The number of boxes I must buy to ensure that I have enough eggs to make the 15 cakes $=7$
-
-In blue answer only $7$
-
-Part C : APTQ,
-
-1 Box &= .....
-
-1 x 7 Boxes &= ......
-
-
-
-For $7$ boxes of eggs, I will pay $=....$
+\text {Total cost}      &= 7 \times \pounds 1.68 \\\\
 </div>
 
 <div class='review'>
@@ -545,6 +551,10 @@ solve for a as you did..
 remove box 
 
 The number Verity thought of $=..$
+
+
+
+Make all the required changes commented above. 
 </div>
 
 <div class='review'>
@@ -637,6 +647,16 @@ solve further without units.
 height = ..... use space before cm and that in \text{cm}
 
 
+
+
+
+
+
+Add rtq_abbr_katex_formula_area_triangle_expanded before the first line.
+
+
+
+Remove \"Area = 24 cm^2\" line after APTQ.
 </div>
 
 <div class='review'>
@@ -901,6 +921,14 @@ No. of biscuits Julia has $=6$
 No. of biscuits Alysha has =2 + a (Solve)
 
  In blue answer : Alysha has ..... Julia has ......
+
+
+
+In the [[sections.questions.answers]] fill the \"keys\" field with 
+
+\"Alya has\"
+
+\"Julia has\"
 </div>
 
 <div class='review'>
@@ -1260,35 +1288,6 @@ Three apples and a banana cost $32 \text{p}$. Six apples and a banana cost $53 \
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Lets take apple = a 
-
-
-
-and lets take banana = b
-
-
-
-As per the question,
-
-
-
-3a + 1 b = 32p &Or  1b = 32 - 3a
-
-
-
-create second equation like above.
-
-then 
-
-
-
-32 - 3a = 53 - 6a... then solve further for a 
-
-after finding a .. then substitute it in one of the equation and get b..
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1381,7 +1380,7 @@ How much did each of them have?
 
 Remove the \pounds in the below line:
 
-a + a + 20 + a + 53 + a + 71  &= \pounds 234 \\
+a + a + 20 + a + 53 + a + 71  &= \pounds 234 \\\\
 </div>
 
 <div class='review'>
@@ -1756,7 +1755,7 @@ ____________________________
 
 
 
-Katex wrong . \begin{array}{cccccc} & 7 & 4 \ {}+ 1 & 8 & 6 \ \hline 2 & 5 & 0 \end{aligned}
+Katex wrong . \begin{array}{cccccc} & 7 & 4 \\ {}+ 1 & 8 & 6 \\ \hline 2 & 5 & 0 \end{aligned}
 
 \end{array} and put & sing in leftmost of all lines with number in array. (alignment wrong)
 
@@ -1953,27 +1952,6 @@ How much does $1$ orange cost?
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-As per the question,
-
-
-
-simple treat this like you are doing a subtraction .. 
-
-  1 apple + 2 orrange = 48 p
-
--  .......................... = 31 p
-
-\uline          
-
-                 1 orange = 17 p
-
-
-
-delete your answer.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2111,6 +2089,26 @@ At the start,
 The money Al... had =  £1. 80 
 
 ....
+
+
+
+a  = b + 20p
+
+a  = b + £ 20 / 100 (add this line)
+
+a  = b + 0.2
+
+
+
+a + b = £ 3.20  (remove £ from this line )
+
+
+
+In the [[sections.questions.answers]] fill the \"keys\" field with 
+
+\"Alya had\"
+
+\"Julia had\"
 </div>
 
 <div class='review'>
@@ -2197,6 +2195,12 @@ I not i
 
 
 last sentence :  My original number = 5
+
+
+
+First line: Let the number I had = a
+
+Last line: My original number was = 5
 </div>
 
 <div class='review'>
@@ -2386,25 +2390,6 @@ He then thinks of a new number, multiplies it by $9$ and subtracts $15$. The res
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Factor pairs of 84 that are smaller than 20 = 6, 14 and 7, 12
-
-
-
-then your table. but remove 2, 42 
-
-
-
-PArt b
-
-thinks = thought of 
-
-change \"x\" into a 
-
-
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2525,6 +2510,15 @@ $800$ moos are sorted into piles $2$ oinks high. How many complete piles will th
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+In answer \"piles\" ==> \"complete piles
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2687,6 +2681,29 @@ Work out $(2  3)  4 =$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part c) Solve it using table method.
+
+a x a + a = 20
+
+
+
+After this use trial and error method. For the exact working and syntax check the part d) of referenced question.
+
+Reference: 186AAEE8-D55E-48C5-996E-8F8A69BD4AFB
+
+
+
+Part d) remove extra \"()\" from the below line:
+
+((2)(3)) 4 ==> (23) 4
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2768,11 +2785,6 @@ $5n$ is more than $60$, but $n + 5$ is less than $20$. What are the possible val
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-change tag to tinfer and then mark this status to PRR
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2862,6 +2874,23 @@ How much does $1$ banana cost?
 </code></pre>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reference: 1622DD6F-538D-47B0-8E04-EE946A7719E6
+
+
+
+Check the reference and solve in a similar way.
+
+
+
+In case of any doubt, ping me on slack
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2952,6 +2981,19 @@ Work out Benjamin's pay on Monday.
 </code></pre>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove \"APTQ\"
+
+Show units only on the last line of the working
+
+Remove \"Benjamin ...\" part from last line, just leave \"= £ 49.5\".
+</div>
 
 <div class='review'>
 <ul class='review'>

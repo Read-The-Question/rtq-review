@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedsubtraction-3"
 title: "TopicPaper - Detailedsubtraction - 3"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "8"
 ---
 <div class='paper'>
@@ -101,7 +101,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-3FC5884C-8C77-4219-9E15-546D62002A8C'>Initial</p>
 <div class='question question'>
 
-Work out $2015 - 329$
+Work out $2015 - 329$.
 
 </div>
 <div class='workings'>
@@ -829,7 +829,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-D1D231EE-FD6E-4511-A774-A7768DAB3B3D'>Initial</p>
 <div class='question question'>
 
-**Subtract** $506 - 59$
+**Subtract** $506 - 59$.
 
 </div>
 <div class='workings'>
@@ -1189,8 +1189,14 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-87BBBF95-BF05-4710-8206-4E337956FB22'>Initial</p>
 <div class='question question'>
 
-$888 
--192$
+$
+\begin{array}{cccccccccccccc}
+    &   8   &   8   &   8 \\
+{}- &   1   &   9   &   2 \\
+\hline\\
+\hline
+\end{array}
+$
 
 </div>
 <div class='workings'>
@@ -1373,8 +1379,14 @@ tdecimal
 <p class='review_status initial' id='SUBTAG-STATUS-07CD4B67-7485-4B17-AF5E-4254EB60E880'>Initial</p>
 <div class='question question'>
 
-$5.031 
--0.287$
+$
+\begin{array}{cccccccccccccc}
+    &   5 \ .   &   0   &   3   &   1 \\
+{}- &   0 \ .   &   2   &   8   &   7 \\
+\hline\\
+\hline
+\end{array}
+$
 
 </div>
 <div class='workings'>

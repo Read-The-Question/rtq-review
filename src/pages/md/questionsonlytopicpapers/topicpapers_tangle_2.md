@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tangle-2"
 title: "TopicPaper - Angle - 2"
-date: 2022-08-06 18:37:02
+date: 2022-08-06 23:42:19
 questions_count: "40"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "40"
 <p>john-lyon-school--11-plus--maths--9999--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -109,10 +109,10 @@ Here is a **right angled triangle** inside a **rectangle**. Calculate the value 
 <p>kent-college--11-plus--maths--9999--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -217,10 +217,10 @@ Accurately measure the angles below with a protractor
 <p>kent-college--11-plus--maths--9999--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -352,10 +352,10 @@ Line 3 : We know, the sum of a right angle is 90°.
 <p>kings-college-school--11-plus--maths--2014--specimen-paper-e:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -429,10 +429,10 @@ Explain why it is **not possible** for a quadrilateral to have **exactly** three
 <p>kings-college-school--11-plus--maths--2014--specimen-paper-e:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -602,10 +602,10 @@ Please change all = 180 or 360..etc. in the first lines to \"is\" in all parts. 
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -725,10 +725,10 @@ How many degrees are there in a right angle?
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -839,10 +839,10 @@ Estimate (do not use a protractor) the angle A in degrees.
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:1:23</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -932,10 +932,10 @@ Give reasons for your answers.
 <p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1031,10 +1031,10 @@ last line write d and 48 inside $$ and
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:27</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1116,10 +1116,10 @@ Find the angles marked in the diagram.
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:30</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1204,10 +1204,10 @@ Find angles $b, x$ and $y$ in the following diagrams (not to scale):
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:26</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1343,10 +1343,10 @@ $y \degree$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1462,10 +1462,10 @@ Calculate the angles marked $p, q, r, s$ and $t$ in the diagram below:
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:30</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1542,10 +1542,10 @@ One of the angles of an isosceles triangle is $96 \degree$ . Find the sizes of t
 <p>oundle-school--11-plus--maths--2017--sample-paper-6:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1630,10 +1630,10 @@ What is the last angle in the list? Explain your answer.
 <p>oundle-school--11-plus--maths--2017--sample-paper-7:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1715,10 +1715,10 @@ Write the line sum of angle = 180 .. search the line from website....wording req
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:27</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1800,10 +1800,10 @@ Find the value of $𝑥$ in the triangle shown.
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:27</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1885,10 +1885,10 @@ Find the value of $𝑥$ in the quadrilateral shown.
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1970,10 +1970,10 @@ Calculate the value of 𝑥 in the triangle shown.
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2047,10 +2047,10 @@ An equilateral triangle has three sides the same length. What is the size of one
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2136,10 +2136,10 @@ Work out the value of $a$ and $b$.
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2221,10 +2221,10 @@ Find the size of the angles marked with the letters $a$ and $b$ .
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2332,10 +2332,10 @@ Calculate the value of $x$ in each of the diagrams below.
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2511,10 +2511,10 @@ In blue answer
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2617,10 +2617,10 @@ y =44°
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:24</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2702,10 +2702,10 @@ The angles in a triangle always add up to $180 \degree$ . In the triangle shown 
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:27</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2787,10 +2787,10 @@ The diagram shows two equilateral triangles and a rectangle. Calculate the size 
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:29</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2867,10 +2867,10 @@ Two angles in a triangle are $30 \degree$ and $40 \degree$. Find the third angle
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:26</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2961,10 +2961,10 @@ tgeometry question
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3088,10 +3088,10 @@ In the   diagram  below,   one   angle is **$90^\degree$** and the   other three
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3188,10 +3188,10 @@ One of the angles measures $120^o$ Write down which angle it must be.
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3314,10 +3314,10 @@ Calculate the angles marked with letters on the following diagrams.
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3399,10 +3399,10 @@ Find the missing angle, $x$:
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3484,10 +3484,10 @@ Find the size of angle $x$:
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3581,10 +3581,10 @@ Calculate the angle marked with the letter $x$.
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:2:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3682,10 +3682,10 @@ CODING GUIDELINES.. write the statement properly.. search in SAHIL CHOUDHARY ALL
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3779,10 +3779,10 @@ Calculate the angle marked with the letter $a$.
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3873,10 +3873,10 @@ call uday for the format
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:27</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4015,10 +4015,10 @@ show working for y = 30 ... y = 180/6......
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:26</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

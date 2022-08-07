@@ -1,7 +1,7 @@
 ---
 slug: "papers/highgate-school-11-plus-maths-9999-sample-paper-c"
 title: "Highgate School - 11 Plus - Maths - 9999 - Sample Paper C"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "4"
 ---
 <div class='paper'>
@@ -2576,9 +2576,9 @@ Part b) Remove APTQ
 
 
 
-Part c) Remove \"&= \dfrac {35 \times 140 } {100} \\\" in the line below 
+Part c) Remove \"&= \dfrac {35 \times 140 } {100} \\\\\" in the line below 
 
-a - \dfrac {30} {100} \times a                    &= 98 \\                                         &= \dfrac {35 \times 140 } {100} \\
+a - \dfrac {30} {100} \times a                    &= 98 \\\\                                         &= \dfrac {35 \times 140 } {100} \\\\
 
 
 

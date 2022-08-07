@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-kings-school-chester-11-plus-maths-9999-sample-paper-1"
 title: "The Kings School Chester - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "26"
 ---
 <div class='paper'>
@@ -371,7 +371,7 @@ b: same as a
 
 
 
-c: change \\ to \
+c: change \\\\ to \\
 
 
 

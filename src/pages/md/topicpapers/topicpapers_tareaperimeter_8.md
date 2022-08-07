@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-8"
 title: "TopicPaper - Areaperimeter - 8"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "35"
 ---
 <div class='paper'>
@@ -10129,7 +10129,7 @@ $
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-in Step 2 missing \\
+in Step 2 missing \\\\
 </div>
 
 <div class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/epsom-college-11-plus-maths-9999-sample-paper-1"
 title: "Epsom College - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "15"
 ---
 <div class='paper'>
@@ -279,7 +279,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-FE609046-D51F-4260-81E9-8F3CB1D00ECE'>Initial</p>
 <div class='question question'>
 
-Work out $2189 - 1056$ 
+Work out $2189 - 1056$. 
 
 </div>
 <div class='workings'>

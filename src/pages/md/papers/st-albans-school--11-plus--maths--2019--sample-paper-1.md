@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-school-11-plus-maths-2019-sample-paper-1"
 title: "St Albans School - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "33"
 ---
 <div class='paper'>
@@ -4188,7 +4188,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>BAAC6E7A-0541-4A20-B7D2-0C364A8C1403</p>
 </div>
@@ -4202,7 +4202,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6094,7 +6094,7 @@ tgeometry question
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE</p>
 </div>
@@ -6105,7 +6105,7 @@ tgeometry question
 <p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_as_pr</p>
+<p>rag_as_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6229,44 +6229,39 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-& missing before = in every line , also give one line space before writing a new katex
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' id='FORM-4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' id='FORM-4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -6278,7 +6273,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>FC4F6CFA-9375-4C0E-8FA7-3428B8E1BD56</p>
 </div>
@@ -6292,7 +6287,7 @@ $
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6501,6 +6496,36 @@ $
 
 <h4>Review Comments</h4>
 Ask uday about this question
+
+
+
+Let money Martha has = m
+
+Let money Sally has = s 
+
+
+
+As per the question,
+
+3 x (s - 20) = m - 10
+
+3s - 60 = m - 10
+
+3s - m = 60 - 10
+
+3s - m = 50
+
+
+
+2 x (s - 20) = m - 15
+
+solve further..
+
+
+
+The we will have two equation. after then solve it similar to part a) of the referenced question.
+
+Reference: A7879165-EAE0-4869-9FB1-0CA2600DB446
 </div>
 
 <div class='review'>
@@ -6546,7 +6571,7 @@ Ask uday about this question
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>B9D7A048-0361-4F81-A8A8-64EC81D6A373</p>
 </div>
@@ -6560,7 +6585,7 @@ Ask uday about this question
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6699,6 +6724,20 @@ $
 
 <h4>Review Comments</h4>
 Ask uday about this question
+
+
+
+Let two whole numbers = a,b
+
+APTQ
+
+x + y = 30
+
+x - y = 20
+
+after this solve it similar to part a) of the referenced question.
+
+Reference: A7879165-EAE0-4869-9FB1-0CA2600DB446
 </div>
 
 <div class='review'>
@@ -7114,7 +7153,7 @@ $1$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>CC8D31D6-8901-4DAE-81FC-A15B074ED555</p>
 </div>
@@ -7128,7 +7167,7 @@ $1$
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7242,6 +7281,15 @@ TODOANSWER
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Question not attempted. Attempt it.
+</div>
 
 <div class='review'>
 <ul class='review'>

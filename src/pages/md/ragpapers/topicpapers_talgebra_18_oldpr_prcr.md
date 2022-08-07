@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-18-oldpr-prcr"
 title: "TopicPaper - Algebra - 18 - OLDPR - PRCR"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "6"
 ---
 <ul class='question default-decimal'>
@@ -1456,7 +1456,7 @@ $
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-a = 30 not 3!  The number he started with  $= 30$ The answer he should have obtained, start katex and solve then with 30 not 3 and  use \\ not in one line .  In the answer key write both answers 30, 135
+a = 30 not 3!  The number he started with  $= 30$ The answer he should have obtained, start katex and solve then with 30 not 3 and  use \\\\ not in one line .  In the answer key write both answers 30, 135
 </div>
 
 <div class='review'>

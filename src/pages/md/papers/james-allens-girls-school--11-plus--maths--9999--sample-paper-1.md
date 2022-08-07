@@ -1,7 +1,7 @@
 ---
 slug: "papers/james-allens-girls-school-11-plus-maths-9999-sample-paper-1"
 title: "James Allens Girls School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "21"
 ---
 <div class='paper'>
@@ -289,9 +289,14 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-983BF90D-0E8E-4FCF-A9B7-85602BA09844'>Initial</p>
 <div class='question question'>
 
-%waffles%
-
-$1231 - 744$
+$
+\begin{array}{cccccccccccccc}
+    &   1   &   2   &   3   &   1 \\
+{}- &       &   7   &   4   &   4 \\
+\hline\\
+\hline
+\end{array}
+$
 
 </div>
 <div class='workings'>

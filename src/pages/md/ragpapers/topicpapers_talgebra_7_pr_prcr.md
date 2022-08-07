@@ -1,12 +1,12 @@
 ---
-slug: "ragpapers/topicpapers-talgebra-7-pr-prpcr"
-title: "TopicPaper - Algebra - 7 - PR - PRPCR"
-date: 2022-08-06 18:21:53
+slug: "ragpapers/topicpapers-talgebra-7-pr-prcr"
+title: "TopicPaper - Algebra - 7 - PR - PRCR"
+date: 2022-08-06 23:28:22
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>D7186894-D434-4DCA-9C80-DE0355633F24</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "3"
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -229,7 +229,7 @@ solve further....
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>E282A566-3F9E-4A8A-BA38-2034EE0DB396</p>
 </div>
@@ -243,7 +243,7 @@ solve further....
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -636,7 +636,7 @@ Question not attempted.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>F5248F77-33B8-4AC4-A9B4-0AF399DA1C63</p>
 </div>
@@ -650,7 +650,7 @@ Question not attempted.
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

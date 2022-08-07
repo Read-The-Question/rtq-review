@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedmultiplication-2-g2"
 title: "TopicPaper - Detailedmultiplication - 2 - G2"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "40"
 ---
 <ul class='question default-decimal'>
@@ -91,7 +91,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-672ED6D1-CC3D-4A63-A7FF-473FEF56BC49'>Initial</p>
 <div class='question question'>
 
-Work out $789 \times 6$
+Work out $789 \times 6$.
 
 </div>
 <div class='workings'>
@@ -271,7 +271,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-51009A67-A32F-47AB-8235-58A743394681'>Initial</p>
 <div class='question question'>
 
-Work out $53 \times 58$
+Work out $53 \times 58$.
 
 </div>
 <div class='workings'>
@@ -647,7 +647,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-AE9309E3-39F8-4402-875E-80C8ABE317C4'>Initial</p>
 <div class='question question'>
 
-What is $45\times160$?
+What is $45\times160$ ?
 
 A: $720$
 
@@ -1424,7 +1424,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-15A15561-6564-4C94-9090-F4EAC0AD496E'>Initial</p>
 <div class='question question'>
 
-Multiply $76 \times 9$
+Multiply $76 \times 9$.
 
 </div>
 <div class='workings'>
@@ -2002,7 +2002,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-225EA774-4871-4352-9405-629E4E51D9AE'>Initial</p>
 <div class='question question'>
 
-What is $24 \times 9$?
+What is $24 \times 9$ ?
 
 </div>
 <div class='workings'>
@@ -2182,7 +2182,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-A64047D5-B54A-426C-A41A-39320D26F531'>Initial</p>
 <div class='question question'>
 
-Use your previous answer to write down the answer to $2400 \times 90$
+Use your previous answer to write down the answer to $2400 \times 90$.
 
 </div>
 <div class='workings'>
@@ -2366,7 +2366,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-A0351803-0890-4037-9AE0-32CA4800A3DD'>Initial</p>
 <div class='question question'>
 
-What is $2002 \times 10?$
+What is $2002 \times 10 \ ?$
 
 </div>
 <div class='workings'>
@@ -2542,7 +2542,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-28567DF7-C205-4EA9-ADD3-0DD66CC0BD8C'>Initial</p>
 <div class='question question'>
 
-Use your previous answer to write down $2002 \times 5$
+Use your previous answer to write down $2002 \times 5$.
 
 </div>
 <div class='workings'>
@@ -2730,7 +2730,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-CEEFE661-3F94-486A-860F-03203D78E68B'>Initial</p>
 <div class='question question'>
 
-Use these last two answers to write down $2002 \times 15$
+Use these last two answers to write down $2002 \times 15$.
 
 </div>
 <div class='workings'>
@@ -2916,7 +2916,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-7322C665-D596-48C2-84C7-1030D938DAE1'>Initial</p>
 <div class='question question'>
 
-What is $2030 \times 20$?
+What is $2030 \times 20$ ?
 
 </div>
 <div class='workings'>
@@ -3126,7 +3126,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-469D229E-728D-4AC5-9C0D-417EB0BBF6F7'>Initial</p>
 <div class='question question'>
 
-Work out $813 \times 72$
+Work out $813 \times 72$.
 
 </div>
 <div class='workings'>
@@ -3865,7 +3865,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-EA7DB42E-E628-40A2-860E-9AC25520203C'>Initial</p>
 <div class='question question'>
 
-Multiply $18 \times 9$ 
+Multiply $18 \times 9$. 
 
 </div>
 <div class='workings'>
@@ -4045,7 +4045,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-DAAB04F2-F9D2-4F37-A0C3-2B9D33692008'>Initial</p>
 <div class='question question'>
 
-Calculate  $129  \times 32$
+Calculate  $129  \times 32$.
 
 </div>
 <div class='workings'>
@@ -4963,7 +4963,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-D9347C26-F870-4B64-A4DA-BD4DEBB0941E'>Initial</p>
 <div class='question question'>
 
-Multiply $6.4$ by $2.7$ 
+Multiply $6.4$ by $2.7$. 
 
 </div>
 <div class='workings'>
@@ -5169,7 +5169,7 @@ tdecimal
 <p class='review_status initial' id='SUBTAG-STATUS-0FCDA851-B2B2-4FFB-A955-50509068409F'>Initial</p>
 <div class='question question'>
 
-Calculate $31.6 \times 7$
+Calculate $31.6 \times 7$.
 
 </div>
 <div class='workings'>
@@ -5362,7 +5362,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-95B95D83-440E-4D37-9093-A8502BF8615F'>Initial</p>
 <div class='question question'>
 
-Calculate $37 \times 4 \times 5$
+Calculate $37 \times 4 \times 5$.
 
 </div>
 <div class='workings'>
@@ -6215,7 +6215,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-EFF8EF51-7B6D-4D32-96E0-21CBA8A7E2D4'>Initial</p>
 <div class='question question'>
 
-Work out $418 \times 7$ 
+Work out $418 \times 7$. 
 
 </div>
 <div class='workings'>
@@ -6395,7 +6395,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-B2CBF5C0-FFDF-44F0-8EC5-ADB33C1AA853'>Initial</p>
 <div class='question question'>
 
-Multiply: $17 \times 5$
+Multiply: $17 \times 5$.
 
 </div>
 <div class='workings'>
@@ -6575,7 +6575,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-A0F22995-6BFC-44F2-B293-97CAF232195A'>Initial</p>
 <div class='question question'>
 
-Multiply: $43 \times 6$
+Multiply: $43 \times 6$.
 
 </div>
 <div class='workings'>
@@ -6931,7 +6931,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-8C6A0833-0F7A-46D0-AE4D-33C291CC56D6'>Initial</p>
 <div class='question question'>
 
-Multiply: $62 \times 7$
+Multiply: $62 \times 7$.
 
 </div>
 <div class='workings'>
@@ -7489,7 +7489,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-647D85F6-502C-403E-87CF-21B9C27E9F6E'>Initial</p>
 <div class='question question'>
 
-Multiply: $67 \times 8$
+Multiply: $67 \times 8$.
 
 </div>
 <div class='workings'>

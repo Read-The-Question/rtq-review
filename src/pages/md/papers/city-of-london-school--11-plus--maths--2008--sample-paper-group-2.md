@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-school-11-plus-maths-2008-sample-paper-group-2"
 title: "City Of London School - 11 Plus - Maths - 2008 - Sample Paper Group 2"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "26"
 ---
 <div class='paper'>
@@ -1833,11 +1833,11 @@ Remove \text{pence} from the following lines:
 
 
 
-\text{Total cost of 5 rulers and 5 pens}        &= 5 \times k + 5 \times m \ \text{pence} \\
+\text{Total cost of 5 rulers and 5 pens}        &= 5 \times k + 5 \times m \ \text{pence} \\\\
 
 
 
-\text{Difference between cost of 5 pens and 5 rulers}       &= 5 \times m - 5 \times k \ \text{pence} \\
+\text{Difference between cost of 5 pens and 5 rulers}       &= 5 \times m - 5 \times k \ \text{pence} \\\\
 
 
 
@@ -1845,7 +1845,7 @@ Remove \text{pence} from the following lines:
 
 ii) Add \text{pence} in this line after 100:
 
- &= 5 \times 100 - 5m \ \text{pence} \\
+ &= 5 \times 100 - 5m \ \text{pence} \\\\
 </div>
 
 <div class='review'>

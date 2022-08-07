@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-12-oldpr-prcc"
 title: "TopicPaper - Algebra - 12 - OLDPR - PRCC"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -1022,7 +1022,7 @@ Missing number $= 70$
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-step 1: bring out of katex and make it line 1 as: Let the missing number be $=a$                                                           Add line 2:  As per the question,                                                                                                                                 add step 1: 560 \div \boxed{a}       &= 8 \\                                                                                                             align on &=             (see stack)                                                                                                                                                       present step 5: a &= \dfrac{70 \times \cancel{8}}{\cancel{8}} \\
+step 1: bring out of katex and make it line 1 as: Let the missing number be $=a$                                                           Add line 2:  As per the question,                                                                                                                                 add step 1: 560 \div \boxed{a}       &= 8 \\\\                                                                                                             align on &=             (see stack)                                                                                                                                                       present step 5: a &= \dfrac{70 \times \cancel{8}}{\cancel{8}} \\\\
 </div>
 
 <div class='review'>

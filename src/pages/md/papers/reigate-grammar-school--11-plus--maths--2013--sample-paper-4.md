@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2013-sample-paper-4"
 title: "Reigate Grammar School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "45"
 ---
 <div class='paper'>
@@ -509,7 +509,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-7322C665-D596-48C2-84C7-1030D938DAE1'>Initial</p>
 <div class='question question'>
 
-What is $2030 \times 20$?
+What is $2030 \times 20$ ?
 
 </div>
 <div class='workings'>

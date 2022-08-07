@@ -1,7 +1,7 @@
 ---
 slug: "papers/solihull-school-11-plus-maths-9999-sample-paper-2"
 title: "Solihull School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "24"
 ---
 <div class='paper'>
@@ -279,9 +279,14 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-A723DE7E-1AEF-46A8-A1F9-C1F5A1AC3855'>Initial</p>
 <div class='question question'>
 
-%TODOKATEX.ADDITION%
-
-$3031 - 1128$ is 
+$
+\begin{array}{cccccccccccccc}
+      &     3     &     0     &     3     &     1 \\
+{}-   &     1     &     1     &     2     &     8 \\
+\hline\\
+\hline
+\end{array}
+$    is 
 
 </div>
 <div class='workings'>
@@ -703,11 +708,11 @@ $
 <h4>Review Comments</h4>
 $\begin{aligned}
 
-&= \dfrac {3184} {8} \\
+&= \dfrac {3184} {8} \\\\
 
-&= \dfrac {8 \times 398} {8} \\
+&= \dfrac {8 \times 398} {8} \\\\
 
-&= \dfrac {\cancel {8} \times 398} {\cancel {8}} \\
+&= \dfrac {\cancel {8} \times 398} {\cancel {8}} \\\\
 
 &= 398
 
@@ -5554,7 +5559,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcr question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>8E7D2010-D1C7-4CA1-9BFC-5ABD5D17D678</p>
 </div>
@@ -5568,7 +5573,7 @@ TODOANSWER
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5901,7 +5906,7 @@ Part a)
 
 Remove \pound from the below line, 
 
-&= 2 \times \pounds 20 \\
+&= 2 \times \pounds 20 \\\\
 
 
 
@@ -5909,7 +5914,7 @@ Part c)
 
 Same correction required in below line
 
-a + 5a + 10a      &= \pounds 160 \\
+a + 5a + 10a      &= \pounds 160 \\\\
 </div>
 
 <div class='review'>
@@ -6544,7 +6549,7 @@ Then solve it accordingly.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>A52FB9EF-7FFF-4C8F-8320-CBD6CA19AB7E</p>
 </div>
@@ -6558,7 +6563,7 @@ Then solve it accordingly.
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6937,6 +6942,24 @@ part (d)
 
 
 part (d)
+
+
+
+Part c)
+
+b^2 − 4b + 4 = 0
+
+b (b - 4)    = -4
+
+From here onwards solve it using table method.
+
+For wording and format check part d) of the referenced question.
+
+Reference: 186AAEE8-D55E-48C5-996E-8F8A69BD4AFB
+
+
+
+In case of any doubt ping me on slack.
 </div>
 
 <div class='review'>
@@ -7578,7 +7601,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>67963BA0-C06F-4161-8F38-66A34F3EC3EB</p>
 </div>
@@ -7592,7 +7615,7 @@ $
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7725,6 +7748,15 @@ TODOANSWER
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Question not attempted. Attempt this question.
+</div>
 
 <div class='review'>
 <ul class='review'>

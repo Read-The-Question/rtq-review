@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tstatistics-3"
 title: "TopicPaper - Statistics - 3"
-date: 2022-08-06 18:37:02
+date: 2022-08-06 23:42:19
 questions_count: "30"
 ---
 <div class='paper'>

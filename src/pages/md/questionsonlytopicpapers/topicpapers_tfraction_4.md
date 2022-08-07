@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tfraction-4"
 title: "TopicPaper - Fraction - 4"
-date: 2022-08-06 18:37:02
+date: 2022-08-06 23:42:19
 questions_count: "40"
 ---
 <div class='paper'>
@@ -511,11 +511,11 @@ $\dfrac{3184} {8}$ is
 <h4>Review Comments</h4>
 $\begin{aligned}
 
-&= \dfrac {3184} {8} \\
+&= \dfrac {3184} {8} \\\\
 
-&= \dfrac {8 \times 398} {8} \\
+&= \dfrac {8 \times 398} {8} \\\\
 
-&= \dfrac {\cancel {8} \times 398} {\cancel {8}} \\
+&= \dfrac {\cancel {8} \times 398} {\cancel {8}} \\\\
 
 &= 398
 

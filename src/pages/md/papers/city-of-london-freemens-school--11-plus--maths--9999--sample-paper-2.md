@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-freemens-school-11-plus-maths-9999-sample-paper-2"
 title: "City Of London Freemens School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "19"
 ---
 <div class='paper'>
@@ -2584,7 +2584,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-0EEE678E-251C-4F63-94B0-24A5D4BFA964'>Initial</p>
 <div class='question question'>
 
--9 + 7 =
+$-9 + 7 =$
 
 - -16
 - 2

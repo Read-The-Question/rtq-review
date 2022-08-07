@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-1-pr"
 title: "TopicPaper - Time - 1 - PR"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
@@ -350,7 +350,7 @@ l capital in \"laps\"
 
 
 
-add a \' between \text {of} and 18 
+add a \ between \text {of} and 18 
 
 
 

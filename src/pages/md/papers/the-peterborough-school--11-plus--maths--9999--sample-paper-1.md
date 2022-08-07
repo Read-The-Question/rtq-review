@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-peterborough-school-11-plus-maths-9999-sample-paper-1"
 title: "The Peterborough School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "20"
 ---
 <div class='paper'>
@@ -4724,9 +4724,9 @@ $
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-\text {Marbles (he got home)} &= \text {Marbles (to school) - Given(Owen) - Given (Swap Jess) + Taken (Swap Jess) + Won (Meg) - Lost (Ben)} \\
+\text {Marbles (he got home)} &= \text {Marbles (to school) - Given(Owen) - Given (Swap Jess) + Taken (Swap Jess) + Won (Meg) - Lost (Ben)} \\\\
 
-&=  67 - 19 - 5 + 9 + 27 - 34 \\  
+&=  67 - 19 - 5 + 9 + 27 - 34 \\\\  
 
 delete 2, 3 and 4th steps
 

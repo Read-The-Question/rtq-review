@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-talgebra-7"
 title: "TopicPaper - Algebra - 7"
-date: 2022-08-06 18:37:02
+date: 2022-08-06 23:42:19
 questions_count: "40"
 ---
 <div class='paper'>
@@ -2167,6 +2167,15 @@ Two workers are paid a total of $\pounds 506$ by their employer. If one is paid 
 </code></pre>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Not as per the coding guidelines. Do it properly.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3433,6 +3442,29 @@ A large sack holds $20\%$ more potatoes than a small sack. If one large sack and
 </code></pre>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Add \"As per the question,\" after 2nd line.
+
+2x + 2x/100 = 77
+
+2x * 100 / 1 * 100 + 2x/100 = 77 (add this line)
+
+
+
+for cancelation first break 50 ==> 5 x 10 then cancel.
+
+
+
+Potato in large sack = 77 - x (this line missing)
+
+                     = 77 - 35
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3692,6 +3724,15 @@ $2yz - x^3$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part c) Answer is wrong \"117\" ==> 99
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3824,6 +3865,15 @@ What was the original number?
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+All part a) , b) and c) take variable as a instead of x then solve accordingly.
+</div>
 
 <div class='review'>
 <ul class='review'>

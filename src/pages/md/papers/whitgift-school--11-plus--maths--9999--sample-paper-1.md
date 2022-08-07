@@ -1,7 +1,7 @@
 ---
 slug: "papers/whitgift-school-11-plus-maths-9999-sample-paper-1"
 title: "Whitgift School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "33"
 ---
 <div class='paper'>
@@ -288,8 +288,14 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-87BBBF95-BF05-4710-8206-4E337956FB22'>Initial</p>
 <div class='question question'>
 
-$888 
--192$
+$
+\begin{array}{cccccccccccccc}
+    &   8   &   8   &   8 \\
+{}- &   1   &   9   &   2 \\
+\hline\\
+\hline
+\end{array}
+$
 
 </div>
 <div class='workings'>
@@ -4478,8 +4484,14 @@ tdecimal
 <p class='review_status initial' id='SUBTAG-STATUS-07CD4B67-7485-4B17-AF5E-4254EB60E880'>Initial</p>
 <div class='question question'>
 
-$5.031 
--0.287$
+$
+\begin{array}{cccccccccccccc}
+    &   5 \ .   &   0   &   3   &   1 \\
+{}- &   0 \ .   &   2   &   8   &   7 \\
+\hline\\
+\hline
+\end{array}
+$
 
 </div>
 <div class='workings'>
@@ -5261,7 +5273,7 @@ $
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-in Step 2 missing \\
+in Step 2 missing \\\\
 </div>
 
 <div class='review'>

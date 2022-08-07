@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tnumber-15"
 title: "TopicPaper - Number - 15"
-date: 2022-08-06 18:37:02
+date: 2022-08-06 23:42:19
 questions_count: "40"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "40"
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -113,10 +113,10 @@ It ends in a $2$.
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -184,10 +184,10 @@ Approximately how many times further is Exeter from Penzance than it is from Tau
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -225,10 +225,10 @@ $6.51 \quad 7.49 \quad 7.51 \quad 6.49 \quad 6.9 \quad 7.9$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -302,10 +302,10 @@ Calculate $1.1 \times (4.5 + 2.5) - 2$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -349,10 +349,10 @@ $\boxed{\phantom{1}}\boxed{\phantom{1}} \ \times \boxed{3} = \boxed{\phantom{1}}
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -386,10 +386,10 @@ Which whole number when multiplied by itself will give an answer between $190$ a
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -423,10 +423,10 @@ Which number between $81$ and $89$ is exactly divisible by $6$?
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:2:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -563,10 +563,10 @@ What will be the square root of this number?
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -669,10 +669,10 @@ $5021 - 3879$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -775,10 +775,10 @@ $72 \div 9 \times 7$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -881,10 +881,10 @@ $6.3 \ \text{km} - 140 \ \text{m}$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -950,10 +950,10 @@ What is the lowest common multiple of $8$ and $16$?
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -994,10 +994,10 @@ $43{,}521 \quad 43{,}526 \quad 43{,}527 \quad 43{,}530 \quad 43{,}545$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:28</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1148,10 +1148,10 @@ $
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:33</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1302,10 +1302,10 @@ the possible values of $s$?
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1437,10 +1437,10 @@ How many of the numbers in the list are multiples of $3$?
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1526,10 +1526,10 @@ Change $45 \%$ to a fraction in its simplest form.
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1617,10 +1617,10 @@ Convert $5300 \ \text{grams}$ to kilograms.
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:24</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1706,10 +1706,10 @@ $0.6 \times 7.12 =$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:26</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1795,10 +1795,10 @@ $\dfrac{3}{4} + 0.35$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:2:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1884,10 +1884,10 @@ What is the difference between the smallest $3$-digit number and the largest  $4
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2016,10 +2016,10 @@ None of the previous comments are done!!!
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2105,10 +2105,10 @@ Convert $340 \ \text{millimetres}$ to metres.
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2194,10 +2194,10 @@ How many prime numbers are there between $20$ and $30$?
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:26</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2283,10 +2283,10 @@ $3.2 \times 2.6 =$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:30</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2372,10 +2372,10 @@ $\dfrac{2}{5} + \dfrac{3}{5} - \dfrac{1}{10}$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:2:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2461,10 +2461,10 @@ Find two numbers which when multiplied together make a hundred. Neither of the t
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:2:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2552,10 +2552,10 @@ Once again, neither of the two numbers can have the digit zero in them.
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2664,10 +2664,10 @@ $\boxed{\phantom{4920}} \div 100 = 0.279$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2741,10 +2741,10 @@ Using numerals write the number that is *six hundred and thirty less than one th
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2870,10 +2870,10 @@ part c not written the right way, do not write lhs = rhs way, write similar to a
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2911,10 +2911,10 @@ Write in the missing digits to make this correct.
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2954,10 +2954,10 @@ $2^{5} \quad \boxed{ \phantom{>} } \quad 5^{2}$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3139,10 +3139,10 @@ Make a three-digit number that is a multiple of both $3$ and $5$.
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3221,10 +3221,10 @@ Write the number fifty-three thousand and eighteen in figures.
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3327,10 +3327,10 @@ $39.2 \div 100$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3376,10 +3376,10 @@ $
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3467,10 +3467,10 @@ When an even number is divided by an even number the answer is $\text{\textunder
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3579,10 +3579,10 @@ $\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunde
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

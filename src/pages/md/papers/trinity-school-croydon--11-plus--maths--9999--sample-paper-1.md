@@ -1,7 +1,7 @@
 ---
 slug: "papers/trinity-school-croydon-11-plus-maths-9999-sample-paper-1"
 title: "Trinity School Croydon - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "28"
 ---
 <div class='paper'>
@@ -461,7 +461,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-2CE07E4A-7062-4FF5-82E8-6A74B140FEA1'>Initial</p>
 <div class='question question'>
 
-Multiply: $374 \times 36$
+Multiply: $374 \times 36$.
 
 </div>
 <div class='workings'>
@@ -2223,7 +2223,7 @@ $
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-a = 30 not 3!  The number he started with  $= 30$ The answer he should have obtained, start katex and solve then with 30 not 3 and  use \\ not in one line .  In the answer key write both answers 30, 135
+a = 30 not 3!  The number he started with  $= 30$ The answer he should have obtained, start katex and solve then with 30 not 3 and  use \\\\ not in one line .  In the answer key write both answers 30, 135
 </div>
 
 <div class='review'>

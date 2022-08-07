@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-ttime-5-pr-prcr"
 title: "TopicPaper - Time - 5 - PR - PRCR"
-date: 2022-08-06 18:37:02
+date: 2022-08-06 23:42:19
 questions_count: "39"
 ---
 <ul class='question default-decimal'>
@@ -1522,7 +1522,7 @@ At what time does train $2$ arrive at Raymar?
 
 part (b): replace L.H.S : \"Arrival Time\" 
 
-step 1: add a \' between 19 and \text
+step 1: add a \ between 19 and \text
 </div>
 
 <div class='review'>

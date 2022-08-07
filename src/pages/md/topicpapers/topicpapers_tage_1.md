@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tage-1"
 title: "TopicPaper - Age - 1"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "40"
 ---
 <div class='paper'>
@@ -1820,7 +1820,7 @@ Sam's current age $=12 \ \text{years}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>C5C3BAF3-583A-4F15-9F82-00938336CDCD</p>
 </div>
@@ -1831,7 +1831,7 @@ Sam's current age $=12 \ \text{years}$
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1914,19 +1914,26 @@ My age is a multiple of $7$. Next year it will be a multiple of $5$. I am more t
 <div class='workings'>
 <div class='working'>
 
-My age lies between $20$ and $80$
+We can easily infer the values by using trial and error. Let's find the number which meets the following critiera below.
 
-Therefore, it should be among the list of multiple of 7:
+- The age lies between $20$ and $80$.
+- The age is a multiple of $7$.
+- The age next year is a multiple of $5$.
+<br>
 
-$21, 28, 35, 42, 49, 56, 63, 70, 77$
+| Age       |  Age + $1$       | Multiple of $5$  |
+|:---------:|:----------------:|:----------------:|
+|   $21$    |       $22$       |        No        |
+|   $28$    |       $29$       |        No        |
+|   $35$    |       $36$       |        No        |
+|   $42$    |       $43$       |        No        |
+|   $49$    |       $50$       |       Yes        |
+|   $56$    |       $57$       |        No        |
+|   $63$    |       $64$       |        No        |
+|   $70$    |       $71$       |        No        |
+|   $77$    |       $78$       |        No        |
 
-Given,
-
-Next year, it will be a multiple of 5
-
-Among the numbers in the list, the only number when increased by $1$ (to get next year's age) which becomes a multiple of $5 (5×10=50)$ is $49$
-
-Therefore, My age $= 49 \ \text {years}$
+Age $= 49 \ \text {years}$
 
 </div>
 </div>
@@ -1940,19 +1947,26 @@ $49 \ \text {years}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>My age lies between $20$ and $80$
+<pre class='language-latex'><code class='language-latex'>We can easily infer the values by using trial and error. Let's find the number which meets the following critiera below.
 <emptyline>
-Therefore, it should be among the list of multiple of 7:
+- The age lies between $20$ and $80$.
+- The age is a multiple of $7$.
+- The age next year is a multiple of $5$.
+<br>
 <emptyline>
-$21, 28, 35, 42, 49, 56, 63, 70, 77$
+| Age       |  Age + $1$       | Multiple of $5$  |
+|:---------:|:----------------:|:----------------:|
+|   $21$    |       $22$       |        No        |
+|   $28$    |       $29$       |        No        |
+|   $35$    |       $36$       |        No        |
+|   $42$    |       $43$       |        No        |
+|   $49$    |       $50$       |       Yes        |
+|   $56$    |       $57$       |        No        |
+|   $63$    |       $64$       |        No        |
+|   $70$    |       $71$       |        No        |
+|   $77$    |       $78$       |        No        |
 <emptyline>
-Given,
-<emptyline>
-Next year, it will be a multiple of 5
-<emptyline>
-Among the numbers in the list, the only number when increased by $1$ (to get next year's age) which becomes a multiple of $5 (5×10=50)$ is $49$
-<emptyline>
-Therefore, My age $= 49 \ \text {years}$
+Age $= 49 \ \text {years}$
 </code></pre>
 </div>
 </div>
@@ -1973,35 +1987,35 @@ Therefore, My age $= 49 \ \text {years}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' id='FORM-C5C3BAF3-583A-4F15-9F82-00938336CDCD' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='C5C3BAF3-583A-4F15-9F82-00938336CDCD' id='FORM-C5C3BAF3-583A-4F15-9F82-00938336CDCD' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -9188,7 +9202,7 @@ $\text {Saturday}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>F7FBC2DE-C5BB-494E-9780-E9604EA75A45</p>
 </div>
@@ -9199,7 +9213,7 @@ $\text {Saturday}$
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -9325,8 +9339,8 @@ What is Joanna’s age, **on $1 \text{st}$ January**, in $2016$?
 
 $
 \begin {aligned}
-\text {Joanna’s age on} \ 1 \ \text{st January}	&= 1 \ \text {st January} \ 2016 - 19 \ \text {th} \ \text {August} \ 2004 \\\\
-										      	&= 11 \ \text {years} \ 4 \ \text {months} \ 13 \ \text {days}
+\text {Joanna’s age}    &= 1 \text {st January} \ 2016 - 19 \text {th} \ \text {August} \ 2004 \\\\
+					    &= 11 \ \text {years} \ 4 \ \text {months} \ 13 \ \text {days}
 \end {aligned}
 $
 
@@ -9344,8 +9358,8 @@ $11 \ \text {years} \ 4 \ \text {months} \ 13 \ \text {days}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
-\text {Joanna’s age on} \ 1 \ \text{st January}	&= 1 \ \text {st January} \ 2016 - 19 \ \text {th} \ \text {August} \ 2004 \\\\
-										      	&= 11 \ \text {years} \ 4 \ \text {months} \ 13 \ \text {days}
+\text {Joanna’s age}    &= 1 \text {st January} \ 2016 - 19 \text {th} \ \text {August} \ 2004 \\\\
+					    &= 11 \ \text {years} \ 4 \ \text {months} \ 13 \ \text {days}
 \end {aligned}
 $
 </code></pre>
@@ -9376,9 +9390,9 @@ In which year, **on $1 \text{st}$ January**, will Wendy’s age be three times J
 <div class='workings'>
 <div class='working'>
 
-Let Joanna’s age $= a$
+Let Joanna’s age in that year $= a$
 
-Wendy’s age $= 3a$
+Wendy’s age in that year $= 3a$
 
 As per the question,
 
@@ -9394,12 +9408,12 @@ a       &= 13 \ \text {years}
 \end {aligned}
 $
 
-Joanna’s age $= 13 \ \text {years}$
+As we need to tell on $1 \text{st}$ January, we need to increment the year by $1$.
 
 $
 \begin {aligned}
-\text {Year Wendy’s age will be three times Joanna’s age}    &= 2004 + 13 + 1 \\\\
-                                                             &= 2018
+\text {Year}    &= 2004 + 13 + 1 \\\\
+                &= 2018
 \end {aligned}
 $
 
@@ -9415,9 +9429,9 @@ $2018$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let Joanna’s age $= a$
+<pre class='language-latex'><code class='language-latex'>Let Joanna’s age in that year $= a$
 <emptyline>
-Wendy’s age $= 3a$
+Wendy’s age in that year $= 3a$
 <emptyline>
 As per the question,
 <emptyline>
@@ -9433,12 +9447,12 @@ a       &= 13 \ \text {years}
 \end {aligned}
 $
 <emptyline>
-Joanna’s age $= 13 \ \text {years}$
+As we need to tell on $1 \text{st}$ January, we need to increment the year by $1$.
 <emptyline>
 $
 \begin {aligned}
-\text {Year Wendy’s age will be three times Joanna’s age}    &= 2004 + 13 + 1 \\\\
-                                                             &= 2018
+\text {Year}    &= 2004 + 13 + 1 \\\\
+                &= 2018
 \end {aligned}
 $
 </code></pre>
@@ -9464,35 +9478,35 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' id='FORM-F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='F7FBC2DE-C5BB-494E-9780-E9604EA75A45' id='FORM-F7FBC2DE-C5BB-494E-9780-E9604EA75A45' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

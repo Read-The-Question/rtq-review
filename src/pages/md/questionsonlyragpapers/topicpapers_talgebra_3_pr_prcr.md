@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-talgebra-3-pr-prcr"
 title: "TopicPaper - Algebra - 3 - PR - PRCR"
-date: 2022-08-06 18:37:02
+date: 2022-08-06 23:42:19
 questions_count: "40"
 ---
 <ul class='question default-decimal'>
@@ -291,11 +291,11 @@ Remove \text{pence} from the following lines:
 
 
 
-\text{Total cost of 5 rulers and 5 pens}        &= 5 \times k + 5 \times m \ \text{pence} \\
+\text{Total cost of 5 rulers and 5 pens}        &= 5 \times k + 5 \times m \ \text{pence} \\\\
 
 
 
-\text{Difference between cost of 5 pens and 5 rulers}       &= 5 \times m - 5 \times k \ \text{pence} \\
+\text{Difference between cost of 5 pens and 5 rulers}       &= 5 \times m - 5 \times k \ \text{pence} \\\\
 
 
 
@@ -303,7 +303,7 @@ Remove \text{pence} from the following lines:
 
 ii) Add \text{pence} in this line after 100:
 
- &= 5 \times 100 - 5m \ \text{pence} \\
+ &= 5 \times 100 - 5m \ \text{pence} \\\\
 </div>
 
 <div class='review'>
@@ -1203,11 +1203,11 @@ Remove \"\pounds\" in the following lines:
 
 
 
-\text{Price of ticket in 2017} &= \pounds 4.5 - \pounds 4.5 \dfrac {1} {3} \\
+\text{Price of ticket in 2017} &= \pounds 4.5 - \pounds 4.5 \dfrac {1} {3} \\\\
 
 
 
-\text{Total money theme park will make in 2017}             &= \pounds 3 \times 160 \\
+\text{Total money theme park will make in 2017}             &= \pounds 3 \times 160 \\\\
 </div>
 
 <div class='review'>
@@ -2970,11 +2970,11 @@ The centre pages of a book are numbered $34$ and $35$. How many pages are in the
 
 Step missing!!
 
-a - 1 &= 34 \times 2 \\
+a - 1 &= 34 \times 2 \\\\
 
-a - 1 &= 68 \\ (add this line)
+a - 1 &= 68 \\\\ (add this line)
 
-a     &= 68 + 1 \\
+a     &= 68 + 1 \\\\
 </div>
 
 <div class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-10"
 title: "TopicPaper - Algebra - 10"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "40"
 ---
 <div class='paper'>
@@ -1122,7 +1122,7 @@ Also, write this at the top that means before the \"As per the question line\"
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>C5744D06-D846-4063-8AB1-9FB5CA4254B1</p>
 </div>
@@ -1136,7 +1136,7 @@ Also, write this at the top that means before the \"As per the question line\"
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2671,7 +2671,7 @@ then solve it accrodingly...
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcr question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>8E7D2010-D1C7-4CA1-9BFC-5ABD5D17D678</p>
 </div>
@@ -2685,7 +2685,7 @@ then solve it accrodingly...
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3018,7 +3018,7 @@ Part a)
 
 Remove \pound from the below line, 
 
-&= 2 \times \pounds 20 \\
+&= 2 \times \pounds 20 \\\\
 
 
 
@@ -3026,7 +3026,7 @@ Part c)
 
 Same correction required in below line
 
-a + 5a + 10a      &= \pounds 160 \\
+a + 5a + 10a      &= \pounds 160 \\\\
 </div>
 
 <div class='review'>
@@ -3305,7 +3305,7 @@ Then solve it accordingly.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>A52FB9EF-7FFF-4C8F-8320-CBD6CA19AB7E</p>
 </div>
@@ -3319,7 +3319,7 @@ Then solve it accordingly.
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3698,6 +3698,24 @@ part (d)
 
 
 part (d)
+
+
+
+Part c)
+
+b^2 − 4b + 4 = 0
+
+b (b - 4)    = -4
+
+From here onwards solve it using table method.
+
+For wording and format check part d) of the referenced question.
+
+Reference: 186AAEE8-D55E-48C5-996E-8F8A69BD4AFB
+
+
+
+In case of any doubt ping me on slack.
 </div>
 
 <div class='review'>
@@ -3965,7 +3983,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>67963BA0-C06F-4161-8F38-66A34F3EC3EB</p>
 </div>
@@ -3979,7 +3997,7 @@ $
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4112,6 +4130,15 @@ TODOANSWER
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Question not attempted. Attempt this question.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4156,7 +4183,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>88E4E25E-69B3-4A17-91EB-4C55EB7DE942</p>
 </div>
@@ -4170,7 +4197,7 @@ TODOANSWER
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4369,6 +4396,23 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+We dont solve quadratic equations this way.
+
+Check the reference, it is very similar to this one. Then solve it accrodingly
+
+Reference: 6E54CC2F-AFAA-4163-A221-70B208AE9DB1
+
+
+
+In case of any doubt ping me on slack.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4413,7 +4457,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>62DF8BD0-738E-47AD-992F-53FE32B01AFB</p>
 </div>
@@ -4427,7 +4471,7 @@ $
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4677,7 +4721,7 @@ She hired the boat for $= 4 \dfrac {1} {2} \ \text {hours}$
 
 Part a) Remove the units (\pounds) on the below line (I mean first line of the working)
 
-\text {Total cost}      &= \pounds 2 + 2 \times \pounds 3 \\
+\text {Total cost}      &= \pounds 2 + 2 \times \pounds 3 \\\\
 
 
 
@@ -5100,7 +5144,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>D50514BA-0CC0-44FE-B460-B94EC34292B3</p>
 </div>
@@ -5114,7 +5158,7 @@ $
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5670,7 +5714,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>B214301F-AB63-411F-B2DA-EDFC5B6BF4E0</p>
 </div>
@@ -5684,7 +5728,7 @@ $
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5795,6 +5839,19 @@ TODOANSWER
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Question not attempted. Attempt it.
+
+
+
+Question not attempted. Attempt it.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -6019,7 +6076,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>C5121F51-D6F0-490C-895D-0EA1AF48C1A4</p>
 </div>
@@ -6033,7 +6090,7 @@ $
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6146,6 +6203,15 @@ TODOANSWER
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Question not attempted. Attempt it.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -6606,7 +6672,7 @@ The number $= 5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>CC823911-5E9A-4C67-88F6-2D9DD834D2F5</p>
 </div>
@@ -6620,7 +6686,7 @@ The number $= 5$
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6998,7 +7064,7 @@ ie just show the next step without minus instead of showing cancellation of -.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>BAAC6E7A-0541-4A20-B7D2-0C364A8C1403</p>
 </div>
@@ -7012,7 +7078,7 @@ ie just show the next step without minus instead of showing cancellation of -.
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7516,7 +7582,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE</p>
 </div>
@@ -7527,7 +7593,7 @@ $
 <p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_as_pr</p>
+<p>rag_as_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7651,44 +7717,39 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-& missing before = in every line , also give one line space before writing a new katex
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' id='FORM-4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' id='FORM-4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -7700,7 +7761,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>FC4F6CFA-9375-4C0E-8FA7-3428B8E1BD56</p>
 </div>
@@ -7714,7 +7775,7 @@ $
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7923,6 +7984,36 @@ $
 
 <h4>Review Comments</h4>
 Ask uday about this question
+
+
+
+Let money Martha has = m
+
+Let money Sally has = s 
+
+
+
+As per the question,
+
+3 x (s - 20) = m - 10
+
+3s - 60 = m - 10
+
+3s - m = 60 - 10
+
+3s - m = 50
+
+
+
+2 x (s - 20) = m - 15
+
+solve further..
+
+
+
+The we will have two equation. after then solve it similar to part a) of the referenced question.
+
+Reference: A7879165-EAE0-4869-9FB1-0CA2600DB446
 </div>
 
 <div class='review'>
@@ -7968,7 +8059,7 @@ Ask uday about this question
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>B9D7A048-0361-4F81-A8A8-64EC81D6A373</p>
 </div>
@@ -7982,7 +8073,7 @@ Ask uday about this question
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8121,6 +8212,20 @@ $
 
 <h4>Review Comments</h4>
 Ask uday about this question
+
+
+
+Let two whole numbers = a,b
+
+APTQ
+
+x + y = 30
+
+x - y = 20
+
+after this solve it similar to part a) of the referenced question.
+
+Reference: A7879165-EAE0-4869-9FB1-0CA2600DB446
 </div>
 
 <div class='review'>
@@ -8166,7 +8271,7 @@ Ask uday about this question
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>CC8D31D6-8901-4DAE-81FC-A15B074ED555</p>
 </div>
@@ -8180,7 +8285,7 @@ Ask uday about this question
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8294,6 +8399,15 @@ TODOANSWER
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Question not attempted. Attempt it.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -8530,7 +8644,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>F309BCDF-1E65-486A-B43C-4F8547E68817</p>
 </div>
@@ -8544,7 +8658,7 @@ $
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8865,6 +8979,30 @@ $\text {No, it does not make sense to use the formula for older people because a
 
 <h4>Review Comments</h4>
 check with Uday
+
+
+
+Part b) Guidelines not followed, solve it like below
+
+Let the age of person = a
+
+APTQ
+
+then solve it further..
+
+*Note: Put proper spacing between value and units
+
+
+
+Part c)
+
+Solve it like part b) instead of writing direct answer.
+
+
+
+Part d)
+
+*negitive* to negative.
 </div>
 
 <div class='review'>
@@ -8910,7 +9048,7 @@ check with Uday
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>301495E4-984D-4E5B-B022-507BD60D3235</p>
 </div>
@@ -8924,7 +9062,7 @@ check with Uday
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -9064,6 +9202,30 @@ $
 
 <h4>Review Comments</h4>
 check with Uday
+
+
+
+Let the distance between two bus stops = a
+
+APTQ,
+
+2a = 600
+
+a = 600/2
+
+solve further...
+
+
+
+Distance from first to last = 9 x a
+
+solve further...
+
+
+
+*Note: Give proper spacing between value and units
+
+For eg; 1800metres ==> 1800 metres
 </div>
 
 <div class='review'>
@@ -9109,7 +9271,7 @@ check with Uday
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>C47BB056-BB47-49E9-A0DC-50131CC6D1FE</p>
 </div>
@@ -9123,7 +9285,7 @@ check with Uday
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -9291,6 +9453,26 @@ $
 
 <h4>Review Comments</h4>
 check with Uday
+
+
+
+Let the number of chickens = a
+
+Let the number of cows = b
+
+
+
+As per the question,
+
+x + y = 30
+
+2x + 4y = 100
+
+
+
+We have two equation. Solve it similar to the referenced question.
+
+Reference: 1622DD6F-538D-47B0-8E04-EE946A7719E6
 </div>
 
 <div class='review'>
@@ -9643,7 +9825,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcr question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>2FA424AE-D274-4664-A786-BD0EEF973FF7</p>
 </div>
@@ -9657,7 +9839,7 @@ $
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

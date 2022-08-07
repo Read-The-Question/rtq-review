@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-11-g0-prpcr"
 title: "TopicPaper - Algebra - 11 - G0 - PRPCR"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -247,7 +247,7 @@ $
 
 Remove the \pounds in the below line:
 
-a + a + 20 + a + 53 + a + 71  &= \pounds 234 \\
+a + a + 20 + a + 53 + a + 71  &= \pounds 234 \\\\
 </div>
 
 <div class='review'>

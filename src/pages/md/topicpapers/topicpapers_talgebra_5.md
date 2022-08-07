@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-5"
 title: "TopicPaper - Algebra - 5"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "40"
 ---
 <div class='paper'>
@@ -3156,9 +3156,9 @@ Part b) Remove APTQ
 
 
 
-Part c) Remove \"&= \dfrac {35 \times 140 } {100} \\\" in the line below 
+Part c) Remove \"&= \dfrac {35 \times 140 } {100} \\\\\" in the line below 
 
-a - \dfrac {30} {100} \times a                    &= 98 \\                                         &= \dfrac {35 \times 140 } {100} \\
+a - \dfrac {30} {100} \times a                    &= 98 \\\\                                         &= \dfrac {35 \times 140 } {100} \\\\
 
 
 

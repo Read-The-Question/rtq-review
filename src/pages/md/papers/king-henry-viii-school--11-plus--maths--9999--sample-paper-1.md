@@ -1,7 +1,7 @@
 ---
 slug: "papers/king-henry-viii-school-11-plus-maths-9999-sample-paper-1"
 title: "King Henry Viii School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "40"
 ---
 <div class='paper'>
@@ -764,7 +764,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-3E1C545C-0F27-4EDE-98F5-FDF05E60B28B'>Initial</p>
 <div class='question question'>
 
-Work out $581 - 229$
+Work out $581 - 229$.
 
 </div>
 <div class='workings'>
@@ -944,7 +944,7 @@ tdetailedsubtraction
 <p class='review_status initial' id='SUBTAG-STATUS-A00B68F4-B761-41D3-B3E2-1CCF1D2A567B'>Initial</p>
 <div class='question question'>
 
-Work out $704 - 457$
+Work out $704 - 457$.
 
 </div>
 <div class='workings'>
@@ -1304,7 +1304,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-672ED6D1-CC3D-4A63-A7FF-473FEF56BC49'>Initial</p>
 <div class='question question'>
 
-Work out $789 \times 6$
+Work out $789 \times 6$.
 
 </div>
 <div class='workings'>
@@ -1760,7 +1760,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-51009A67-A32F-47AB-8235-58A743394681'>Initial</p>
 <div class='question question'>
 
-Work out $53 \times 58$
+Work out $53 \times 58$.
 
 </div>
 <div class='workings'>
@@ -2137,7 +2137,7 @@ tdecimal
 <p class='review_status initial' id='SUBTAG-STATUS-053DE0A7-D1C1-4A3D-BF4B-BABFF4D1EE9C'>Initial</p>
 <div class='question question'>
 
-Calculate $6 - 4.226$
+Calculate $6 - 4.226$.
 
 </div>
 <div class='workings'>

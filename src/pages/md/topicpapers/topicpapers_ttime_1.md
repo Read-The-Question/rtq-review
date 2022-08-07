@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-1"
 title: "TopicPaper - Time - 1"
-date: 2022-08-06 18:21:53
+date: 2022-08-06 23:28:22
 questions_count: "40"
 ---
 <div class='paper'>
@@ -2601,7 +2601,7 @@ l capital in \"laps\"
 
 
 
-add a \' between \text {of} and 18 
+add a \ between \text {of} and 18 
 
 
 

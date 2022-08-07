@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-francis-college-11-plus-maths-2017-sample-paper-1"
 title: "St Francis College - 11 Plus - Maths - 2017 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "38"
 ---
 <div class='paper'>
@@ -4536,7 +4536,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g1 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prpcr question'>
 <div class='uuid'>
 <p>33BA3A42-D90E-400D-A934-CADF6E6B81F9</p>
 </div>
@@ -4550,7 +4550,7 @@ $
 <p>rag_as_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4684,6 +4684,25 @@ Cost of $4$ packets of crisps and $3$ drinks $= \pounds 2.60$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+After APTQ, first create two different equations then add a line: \"Adding the first equation with the second one, we get\"
+
+then continue with the below line
+
+2a+2b+2a+b = 1.50 + 1.10
+
+​
+
+  
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -8696,7 +8715,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g1 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prpcr question'>
 <div class='uuid'>
 <p>0614640E-B41A-4826-860D-7235E6EC27FC</p>
 </div>
@@ -8710,7 +8729,7 @@ $
 <p>rag_as_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8858,6 +8877,21 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Write \"APTQ,\" after first line.
+
+remove \":\" from \"Answer ....\" line and write it like below.
+
+Answer should have been = a / 4
+
+                        = 92 / 4
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -8902,7 +8936,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A07A2CC0-89F4-4D36-948D-4DA958505E88</p>
 </div>
@@ -8913,7 +8947,7 @@ $
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -8993,34 +9027,19 @@ Snow White wanted to know the mean height of the Seven Dwarves. One day she meas
 <div class='workings'>
 <div class='working'>
 
-Let dopey's height $=a$,
+Let dopey's height $= a$,
 
-Grumpy's height will $=a+14$,
-
-Sum of (all five dwarfs height and twice of dopey's height)
+Then, Grumpy's height $= a + 14$,
 
 $
 \begin{aligned}
-&= 114.5 \times 7 \\\\
-&= 801.75 \ \text{cm}
-\end{aligned}
-$
-
-If we subtract dopey's height once and add grumpy's height
-
-$
-\begin{aligned}
-&= 801.5 - a + a + 14  \\\\
-&= 815.5
-\end{aligned}
-$
-
-Their average height,
-
-$
-\begin{aligned}
-&= \dfrac {815.5} {7} \\\\
-&= 116.5 \ \text{cm}
+\text{Total miscalculated height}\      &= 114.5 \times 7 \\\\
+                                        &= 801.5 \ \text{cm} \\\\
+\text{Actual total height}\             &= 801.5 - a + a + 14  \\\\
+                                        &= 815.5 \ \text{cm} \\\\
+\text{Mean height}                      &= \dfrac {\text{Actual total height}} {7} \\\\
+                                        &= \dfrac {815.5} {7} \\\\
+                                        &= 116.5 \ \text{cm} \\\\
 \end{aligned}
 $ 
 
@@ -9029,41 +9048,26 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$116.5 \ \text{cm}$
+$116.5cm$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let dopey's height $=a$,
+<pre class='language-latex'><code class='language-latex'>Let dopey's height $= a$,
 <emptyline>
-Grumpy's height will $=a+14$,
-<emptyline>
-Sum of (all five dwarfs height and twice of dopey's height)
+Then, Grumpy's height $= a + 14$,
 <emptyline>
 $
 \begin{aligned}
-&= 114.5 \times 7 \\\\
-&= 801.75 \ \text{cm}
-\end{aligned}
-$
-<emptyline>
-If we subtract dopey's height once and add grumpy's height
-<emptyline>
-$
-\begin{aligned}
-&= 801.5 - a + a + 14  \\\\
-&= 815.5
-\end{aligned}
-$
-<emptyline>
-Their average height,
-<emptyline>
-$
-\begin{aligned}
-&= \dfrac {815.5} {7} \\\\
-&= 116.5 \ \text{cm}
+\text{Total miscalculated height}\      &= 114.5 \times 7 \\\\
+                                        &= 801.5 \ \text{cm} \\\\
+\text{Actual total height}\             &= 801.5 - a + a + 14  \\\\
+                                        &= 815.5 \ \text{cm} \\\\
+\text{Mean height}                      &= \dfrac {\text{Actual total height}} {7} \\\\
+                                        &= \dfrac {815.5} {7} \\\\
+                                        &= 116.5 \ \text{cm} \\\\
 \end{aligned}
 $ 
 </code></pre>
@@ -9077,12 +9081,57 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$116.5 \ \text{cm}$
+<pre class='language-latex'><code class='language-latex'>$116.5cm$
 </code></pre>
 </div>
 </div>
 
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+Discuss with me
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='A07A2CC0-89F4-4D36-948D-4DA958505E88' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='A07A2CC0-89F4-4D36-948D-4DA958505E88' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='A07A2CC0-89F4-4D36-948D-4DA958505E88' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='A07A2CC0-89F4-4D36-948D-4DA958505E88' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='A07A2CC0-89F4-4D36-948D-4DA958505E88' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='A07A2CC0-89F4-4D36-948D-4DA958505E88' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='A07A2CC0-89F4-4D36-948D-4DA958505E88' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='A07A2CC0-89F4-4D36-948D-4DA958505E88' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='A07A2CC0-89F4-4D36-948D-4DA958505E88' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='A07A2CC0-89F4-4D36-948D-4DA958505E88' id='FORM-A07A2CC0-89F4-4D36-948D-4DA958505E88' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A07A2CC0-89F4-4D36-948D-4DA958505E88'>Initial</p>
+</div>
 </div>
 </li>
 <li>

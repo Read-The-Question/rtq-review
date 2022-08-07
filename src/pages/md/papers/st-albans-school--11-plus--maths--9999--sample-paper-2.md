@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-school-11-plus-maths-9999-sample-paper-2"
 title: "St Albans School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "27"
 ---
 <div class='paper'>
@@ -321,7 +321,7 @@ tdetailedmultiplication
 <p class='review_status initial' id='SUBTAG-STATUS-DAAB04F2-F9D2-4F37-A0C3-2B9D33692008'>Initial</p>
 <div class='question question'>
 
-Calculate  $129  \times 32$
+Calculate  $129  \times 32$.
 
 </div>
 <div class='workings'>
@@ -5304,7 +5304,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>F309BCDF-1E65-486A-B43C-4F8547E68817</p>
 </div>
@@ -5318,7 +5318,7 @@ $
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5639,6 +5639,30 @@ $\text {No, it does not make sense to use the formula for older people because a
 
 <h4>Review Comments</h4>
 check with Uday
+
+
+
+Part b) Guidelines not followed, solve it like below
+
+Let the age of person = a
+
+APTQ
+
+then solve it further..
+
+*Note: Put proper spacing between value and units
+
+
+
+Part c)
+
+Solve it like part b) instead of writing direct answer.
+
+
+
+Part d)
+
+*negitive* to negative.
 </div>
 
 <div class='review'>
@@ -5684,7 +5708,7 @@ check with Uday
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>301495E4-984D-4E5B-B022-507BD60D3235</p>
 </div>
@@ -5698,7 +5722,7 @@ check with Uday
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5838,6 +5862,30 @@ $
 
 <h4>Review Comments</h4>
 check with Uday
+
+
+
+Let the distance between two bus stops = a
+
+APTQ,
+
+2a = 600
+
+a = 600/2
+
+solve further...
+
+
+
+Distance from first to last = 9 x a
+
+solve further...
+
+
+
+*Note: Give proper spacing between value and units
+
+For eg; 1800metres ==> 1800 metres
 </div>
 
 <div class='review'>
@@ -5883,7 +5931,7 @@ check with Uday
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>C47BB056-BB47-49E9-A0DC-50131CC6D1FE</p>
 </div>
@@ -5897,7 +5945,7 @@ check with Uday
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6065,6 +6113,26 @@ $
 
 <h4>Review Comments</h4>
 check with Uday
+
+
+
+Let the number of chickens = a
+
+Let the number of cows = b
+
+
+
+As per the question,
+
+x + y = 30
+
+2x + 4y = 100
+
+
+
+We have two equation. Solve it similar to the referenced question.
+
+Reference: 1622DD6F-538D-47B0-8E04-EE946A7719E6
 </div>
 
 <div class='review'>

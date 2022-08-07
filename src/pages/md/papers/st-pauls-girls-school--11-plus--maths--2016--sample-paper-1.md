@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2016-sample-paper-1"
 title: "St Pauls Girls School - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-08-06 18:15:32
+date: 2022-08-06 23:22:03
 questions_count: "35"
 ---
 <div class='paper'>
@@ -104,7 +104,7 @@ tdecimal
 <p class='review_status initial' id='SUBTAG-STATUS-C23CC024-39E3-4323-97B6-0FC20D88C36D'>Initial</p>
 <div class='question question'>
 
-Calculate $15.05 - 14.84$
+Calculate $15.05 - 14.84$.
 
 </div>
 <div class='workings'>
@@ -291,7 +291,7 @@ tdecimal
 <p class='review_status initial' id='SUBTAG-STATUS-0FCDA851-B2B2-4FFB-A955-50509068409F'>Initial</p>
 <div class='question question'>
 
-Calculate $31.6 \times 7$
+Calculate $31.6 \times 7$.
 
 </div>
 <div class='workings'>
@@ -2484,7 +2484,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>B51C61A9-BBFD-4FCA-9F5F-BB543CC361E8</p>
 </div>
@@ -2498,7 +2498,7 @@ $
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2689,6 +2689,14 @@ No. of biscuits Julia has $=6$
 No. of biscuits Alysha has =2 + a (Solve)
 
  In blue answer : Alysha has ..... Julia has ......
+
+
+
+In the [[sections.questions.answers]] fill the \"keys\" field with 
+
+\"Alya has\"
+
+\"Julia has\"
 </div>
 
 <div class='review'>
@@ -2734,7 +2742,7 @@ No. of biscuits Alysha has =2 + a (Solve)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcr question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>7B74D5EE-ABDD-4862-9E72-635714D53045</p>
 </div>
@@ -2748,7 +2756,7 @@ No. of biscuits Alysha has =2 + a (Solve)
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3165,7 +3173,7 @@ blue answer 0.15 grams
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcr question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>786ECD30-5585-4FE5-91C7-28D8FFC8B3AE</p>
 </div>
@@ -3179,7 +3187,7 @@ blue answer 0.15 grams
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5021,7 +5029,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>59DED6AF-072C-4471-8B10-931ECD8F050E</p>
 </div>
@@ -5032,10 +5040,10 @@ $
 <p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_as_oldpr</p>
+<p>rag_as_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5215,68 +5223,39 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Lets take apple = a 
-
-
-
-and lets take banana = b
-
-
-
-As per the question,
-
-
-
-3a + 1 b = 32p &Or  1b = 32 - 3a
-
-
-
-create second equation like above.
-
-then 
-
-
-
-32 - 3a = 53 - 6a... then solve further for a 
-
-after finding a .. then substitute it in one of the equation and get b..
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='59DED6AF-072C-4471-8B10-931ECD8F050E' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='59DED6AF-072C-4471-8B10-931ECD8F050E' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='59DED6AF-072C-4471-8B10-931ECD8F050E' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='59DED6AF-072C-4471-8B10-931ECD8F050E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='59DED6AF-072C-4471-8B10-931ECD8F050E' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='59DED6AF-072C-4471-8B10-931ECD8F050E' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='59DED6AF-072C-4471-8B10-931ECD8F050E' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='59DED6AF-072C-4471-8B10-931ECD8F050E' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='59DED6AF-072C-4471-8B10-931ECD8F050E' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='59DED6AF-072C-4471-8B10-931ECD8F050E' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='59DED6AF-072C-4471-8B10-931ECD8F050E' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='59DED6AF-072C-4471-8B10-931ECD8F050E' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='59DED6AF-072C-4471-8B10-931ECD8F050E' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='59DED6AF-072C-4471-8B10-931ECD8F050E' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='59DED6AF-072C-4471-8B10-931ECD8F050E' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='59DED6AF-072C-4471-8B10-931ECD8F050E' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='59DED6AF-072C-4471-8B10-931ECD8F050E' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='59DED6AF-072C-4471-8B10-931ECD8F050E' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='59DED6AF-072C-4471-8B10-931ECD8F050E' id='FORM-59DED6AF-072C-4471-8B10-931ECD8F050E' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='59DED6AF-072C-4471-8B10-931ECD8F050E' id='FORM-59DED6AF-072C-4471-8B10-931ECD8F050E' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -6040,7 +6019,7 @@ $
 
 Remove the \pounds in the below line:
 
-a + a + 20 + a + 53 + a + 71  &= \pounds 234 \\
+a + a + 20 + a + 53 + a + 71  &= \pounds 234 \\\\
 </div>
 
 <div class='review'>
@@ -7651,7 +7630,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>6053BD3A-018D-47D6-A9C9-460F05339B43</p>
 </div>
@@ -7665,7 +7644,7 @@ TODOANSWER
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

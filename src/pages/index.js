@@ -220,6 +220,9 @@ const IndexPage = ({data}) => {
         (slug.includes("-prns"))
       ) &&
       !(
+        slug.includes("-g1")
+      ) &&
+      !(
         (slug.includes("-prccrl"))
       );
 
@@ -233,7 +236,43 @@ const IndexPage = ({data}) => {
       return slug.startsWith("ragpapers") && 
       (
         slug.includes("-prccrl")
+      ) &&
+      !(
+        slug.includes("-g1")
       );
+    });
+  }
+
+  const prccPhaseTwoNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      console.log(slug);
+      return slug.startsWith("ragpapers") && 
+      (
+        slug.includes("-prcc") || 
+        (slug.includes("-prns"))
+      ) &&
+      (
+        slug.includes("-g1")
+      ) &&
+      !(
+        (slug.includes("-prccrl"))
+      );
+
+    });
+  }
+
+  const prccrlPhaseTwoNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      console.log(slug);
+      return slug.startsWith("ragpapers") && 
+      (
+        slug.includes("-prccrl")
+      ) &&
+      (
+        slug.includes("-g1")
+      )
     });
   }
 
@@ -420,6 +459,57 @@ const IndexPage = ({data}) => {
           </li>
         ))}
       </ul>
+
+      <h2 style={headingStyles}>
+      Answers - TopicPapers - RAG - PRCC - G1
+      </h2>
+
+      {/* Filter Ragpapers and PRCC */}
+      <ul style={listStyles}>
+        {prccPhaseTwoNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "} 
+              </Link>
+
+            </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
+          </li>
+        ))}
+      </ul>
+
+      <h2 style={headingStyles}>
+      Answers - TopicPapers - RAG - PRCCRL - G1
+      </h2>
+
+      {/* Filter Ragpapers and PRCC */}
+      <ul style={listStyles}>
+        {prccrlPhaseTwoNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "} 
+              </Link>
+
+            </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
+          </li>
+        ))}
+      </ul>
+
 
       <h2 style={headingStyles}>
       Answers - TopicPapers - RAG

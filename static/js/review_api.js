@@ -41,13 +41,14 @@ const submitReview = (event) => {
     const sheet = btn.dataset.sheet;
     const rag = btn.dataset.rag;
     const reviewType = btn.dataset.reviewType;
+    const reviewer = bt.dataset.reviewer;
 
-    const body = {uuid, sheet, rag};
-    console.log(body);
-    console.log(reviewType);
-    console.log(btn.dataset);
+    const body = {uuid, sheet, rag, reviewer};
+    // console.log(body);
+    // console.log(reviewType);
+    // console.log(btn.dataset);
 
-    // const url = 'http://localhost:5000/rag';
+    // const answer_url = 'http://localhost:5000/rag';
     const answer_url = 'https://read-the-question-20220609.herokuapp.com/rag';
     const question_url = 'https://read-the-question-20220609.herokuapp.com/questionrag';
 
@@ -76,7 +77,7 @@ const submitComment = (event) => {
     const body = {uuid, sheet, comment};
     console.log(body);
 
-    // const url = 'http://localhost:5000/comments';
+    const url = 'http://localhost:5000/comments';
     const answer_url = 'https://read-the-question-20220609.herokuapp.com/comments';
     const question_url = 'https://read-the-question-20220609.herokuapp.com/questioncomments';
 

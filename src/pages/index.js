@@ -130,10 +130,26 @@ const linkStyle = {
 
 // markup
 const IndexPage = ({data}) => {
+  // const originalQuetionOnlyPrccNodes = (data) => {
+  //   return data.allMarkdownRemark.edges.filter(({ node }) => {
+  //     const slug = node.frontmatter.slug;
+  //     console.log(slug);
+  //     return slug.startsWith("questionsonlyragpapers") && 
+  //     (
+  //       slug.includes("-prcc") || 
+  //       (slug.includes("-prns"))
+  //     ) &&
+  //     !(
+  //       (slug.includess("-prccrl"))
+  //     );
+
+  //   });
+  // }
+
   const questionOnlyPrccNodes = (data) => {
-    return data.allMarkdownRemark.edges.filter(({ node }) => {
+    const filteredData = data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
-      console.log(slug);
+      // console.log(slug);
       return slug.startsWith("questionsonlyragpapers") && 
       (
         slug.includes("-prcc") || 
@@ -144,12 +160,16 @@ const IndexPage = ({data}) => {
       );
 
     });
+
+    return filteredData.sort((a, b) => {
+      return b.node.frontmatter.questions_count - a.node.frontmatter.questions_count;
+    });
   }
 
   const questionOnlyPrccrlNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
-      console.log(slug);
+      // console.log(slug);
       return slug.startsWith("questionsonlyragpapers") && 
       (
         slug.includes("-prccrl")
@@ -160,7 +180,7 @@ const IndexPage = ({data}) => {
   const questionOnlyPrpcrNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
-      console.log(slug);
+      // console.log(slug);
       return slug.startsWith("questionsonlyragpapers") && 
       (
         slug.includes("-prpcr")
@@ -171,7 +191,7 @@ const IndexPage = ({data}) => {
   const questionOnlyPrcrNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
-      console.log(slug);
+      // console.log(slug);
       return slug.startsWith("questionsonlyragpapers") && 
       (
         slug.includes("-prcr")
@@ -213,7 +233,7 @@ const IndexPage = ({data}) => {
   const prccNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
-      console.log(slug);
+      // console.log(slug);
       return slug.startsWith("ragpapers") && 
       (
         slug.includes("-prcc") || 
@@ -232,7 +252,7 @@ const IndexPage = ({data}) => {
   const prccrlNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
-      console.log(slug);
+      // console.log(slug);
       return slug.startsWith("ragpapers") && 
       (
         slug.includes("-prccrl")
@@ -246,7 +266,7 @@ const IndexPage = ({data}) => {
   const prccPhaseTwoNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
-      console.log(slug);
+      // console.log(slug);
       return slug.startsWith("ragpapers") && 
       (
         slug.includes("-prcc") || 
@@ -265,7 +285,7 @@ const IndexPage = ({data}) => {
   const prccrlPhaseTwoNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
-      console.log(slug);
+      // console.log(slug);
       return slug.startsWith("ragpapers") && 
       (
         slug.includes("-prccrl")
@@ -279,7 +299,7 @@ const IndexPage = ({data}) => {
   const prpcrNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
-      console.log(slug);
+      // console.log(slug);
       return slug.startsWith("ragpapers") && 
       (
         slug.includes("-prpcr")
@@ -290,7 +310,7 @@ const IndexPage = ({data}) => {
   const prcrNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
-      console.log(slug);
+      // console.log(slug);
       return slug.startsWith("ragpapers") && 
       (
         slug.includes("-prcr")

@@ -1,6 +1,6 @@
 ---
-slug: "ragpapers/topicpapers-tstatistics-3-g0"
-title: "TopicPaper - Statistics - 3 - G0"
+slug: "ragpapers/topicpapers-tstatistics-3-g0-prpcr"
+title: "TopicPaper - Statistics - 3 - G0 - PRPCR"
 date: 2022-08-17 15:20:28
 questions_count: "1"
 ---

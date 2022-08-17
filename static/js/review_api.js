@@ -44,7 +44,7 @@ const submitReview = (event) => {
     const reviewer = btn.dataset.reviewer;
 
     const body = {uuid, sheet, rag, reviewer};
-    // console.log(body);
+    console.log(body);
     // console.log(reviewType);
     // console.log(btn.dataset);
 

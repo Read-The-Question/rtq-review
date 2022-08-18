@@ -213,6 +213,10 @@ img {
     /* display: none; */
 }
 
+.answer.placeholder {
+    background-color: red;
+}
+
 .option {
     text-align: right;
     padding-right: 5em;
@@ -231,6 +235,11 @@ img {
 
     /* display: none; */
 }
+
+.working.placeholder {
+    background-color: red;
+}
+
 
 .workingcodeblock {
     border-width: 1px;

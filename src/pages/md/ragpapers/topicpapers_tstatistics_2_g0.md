@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tstatistics-2-g0"
 title: "TopicPaper - Statistics - 2 - G0"
-date: 2022-08-17 15:20:28
+date: 2022-08-18 10:50:34
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5A332CAD-49BF-495D-A0D3-65B70B2A784D</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "1"
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -42,9 +42,11 @@ ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
 
 $
 \begin {aligned}
-Mean    &= \dfrac {8 + 11 + 15 + 26} {4} \\\\
-        &= \dfrac {60} {4} \\\\
-        &= 15
+\text{Mean}     &= \dfrac {8 + 11 + 15 + 26} {4} \\\\
+                &= \dfrac {60} {4} \\\\
+                &= \dfrac {4 \times 15} {4} \\\\
+                &= \dfrac {\cancel 4 \times 15} {\cancel 4} \\\\
+                &= 15
 \end {aligned}
 $
 
@@ -64,9 +66,11 @@ $15$
 <emptyline>
 $
 \begin {aligned}
-Mean    &= \dfrac {8 + 11 + 15 + 26} {4} \\\\
-        &= \dfrac {60} {4} \\\\
-        &= 15
+\text{Mean}     &= \dfrac {8 + 11 + 15 + 26} {4} \\\\
+                &= \dfrac {60} {4} \\\\
+                &= \dfrac {4 \times 15} {4} \\\\
+                &= \dfrac {\cancel 4 \times 15} {\cancel 4} \\\\
+                &= 15
 \end {aligned}
 $
 </code></pre>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tstatistics-2"
 title: "TopicPaper - Statistics - 2"
-date: 2022-08-17 15:20:28
+date: 2022-08-18 10:50:34
 questions_count: "40"
 ---
 <div class='paper'>
@@ -528,17 +528,23 @@ The mean (average) of seven numbers is $9$. One number is removed and the mean i
 ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
 
 
-Let the number $= a$
+Let the number removed $= a$
 
 $
 \begin {aligned}
-\text {Total of six numbers}    &= 6 \times \text {Mean of six numbers} \\\\
-                                &= 6 \times 10 \\\\
-                                &= 60 \\\\
-\text {Mean of seven numbers}   &= \dfrac {\text {Total of seven numbers}} {\text {Total numbers}} \\\\
-9                               &= \dfrac {a + 60} {7} \\\\
-9 \times 7                      &= a + 60 \\\\
-a + 60                          &= 63 \\\\
+\text{Total of six numbers}     &= 7 \times 9 \\\\
+                                &= 63
+\end{aligned}
+$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {63 - a} {6}             &= 10 \\\\
+63 - a                          &= 10 \times 6 \\\\
+63 - a                          &= 60 \\\\
+63 - 60                         &= a \\\\
 a                               &= 63 - 60 \\\\
 a                               &= 3
 \end {aligned}
@@ -560,17 +566,23 @@ $3$
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_statistics_formula_mean
 <emptyline>
-Let the number $= a$
+Let the number removed $= a$
 <emptyline>
 $
 \begin {aligned}
-\text {Total of six numbers}    &= 6 \times \text {Mean of six numbers} \\\\
-                                &= 6 \times 10 \\\\
-                                &= 60 \\\\
-\text {Mean of seven numbers}   &= \dfrac {\text {Total of seven numbers}} {\text {Total numbers}} \\\\
-9                               &= \dfrac {a + 60} {7} \\\\
-9 \times 7                      &= a + 60 \\\\
-a + 60                          &= 63 \\\\
+\text{Total of six numbers}     &= 7 \times 9 \\\\
+                                &= 63
+\end{aligned}
+$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin{aligned}
+\dfrac {63 - a} {6}             &= 10 \\\\
+63 - a                          &= 10 \times 6 \\\\
+63 - a                          &= 60 \\\\
+63 - 60                         &= a \\\\
 a                               &= 63 - 60 \\\\
 a                               &= 3
 \end {aligned}
@@ -593,6 +605,15 @@ The number is $= 3$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+old way, write using alegbra template, 5614DA7B-6653-4819-8562-EDB2A90A83C7
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -676,11 +697,8 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Total of five numbers}   &= 5 \times 28 \\\\
-                                &= 140 \\\\
-\text {Total of twelve numbers} &= 12 \times 11 \\\\
-                                &= 132 \\\\
-\text {Mean of all the numbers} &= \dfrac {140 + 132} {5 + 12} \\\\
+\text{Mean}                     &= \dfrac {5 \times 28 + 12 \times 11} {5 + 12} \\\\
+                                &= \dfrac {140 + 132} {17} \\\\
                                 &= \dfrac {272} {17} \\\\
                                 &= \dfrac {16 \times 17} {17} \\\\
                                 &= \dfrac {16 \times \cancel {17}} {\cancel {17}} \\\\
@@ -706,11 +724,8 @@ As per the question,
 <emptyline>
 $
 \begin {aligned}
-\text {Total of five numbers}   &= 5 \times 28 \\\\
-                                &= 140 \\\\
-\text {Total of twelve numbers} &= 12 \times 11 \\\\
-                                &= 132 \\\\
-\text {Mean of all the numbers} &= \dfrac {140 + 132} {5 + 12} \\\\
+\text{Mean}                     &= \dfrac {5 \times 28 + 12 \times 11} {5 + 12} \\\\
+                                &= \dfrac {140 + 132} {17} \\\\
                                 &= \dfrac {272} {17} \\\\
                                 &= \dfrac {16 \times 17} {17} \\\\
                                 &= \dfrac {16 \times \cancel {17}} {\cancel {17}} \\\\
@@ -733,6 +748,15 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+not the right way, refer 00C35702-5C9A-410E-8258-FD4D136875E0 
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1633,8 +1657,6 @@ Work out her **mean** homework mark.
 ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
 
 
-As per the question,
-
 $
 \begin {aligned}
 \text {Mean}    &= \dfrac {4 + 5 + 5 + 5 + 4 + 3 + 2 + 1 + 4 + 5} {10} \\\\
@@ -1656,8 +1678,6 @@ $3.8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_statistics_formula_mean
-<emptyline>
-As per the question,
 <emptyline>
 $
 \begin {aligned}
@@ -1685,6 +1705,15 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+remove aptq, look at mode and use the right words
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2608,7 +2637,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5A332CAD-49BF-495D-A0D3-65B70B2A784D</p>
 </div>
@@ -2622,7 +2651,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2644,9 +2673,11 @@ ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
 
 $
 \begin {aligned}
-Mean    &= \dfrac {8 + 11 + 15 + 26} {4} \\\\
-        &= \dfrac {60} {4} \\\\
-        &= 15
+\text{Mean}     &= \dfrac {8 + 11 + 15 + 26} {4} \\\\
+                &= \dfrac {60} {4} \\\\
+                &= \dfrac {4 \times 15} {4} \\\\
+                &= \dfrac {\cancel 4 \times 15} {\cancel 4} \\\\
+                &= 15
 \end {aligned}
 $
 
@@ -2666,9 +2697,11 @@ $15$
 <emptyline>
 $
 \begin {aligned}
-Mean    &= \dfrac {8 + 11 + 15 + 26} {4} \\\\
-        &= \dfrac {60} {4} \\\\
-        &= 15
+\text{Mean}     &= \dfrac {8 + 11 + 15 + 26} {4} \\\\
+                &= \dfrac {60} {4} \\\\
+                &= \dfrac {4 \times 15} {4} \\\\
+                &= \dfrac {\cancel 4 \times 15} {\cancel 4} \\\\
+                &= 15
 \end {aligned}
 $
 </code></pre>
@@ -3126,9 +3159,7 @@ How many times did she score full marks?
 <div class='workings'>
 <div class='working'>
 
-As per the table,
-
-Numeber of times she scored full marks $= 2$.
+$2$.
 
 </div>
 </div>
@@ -3142,9 +3173,7 @@ $2$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the table,
-<emptyline>
-Numeber of times she scored full marks $= 2$.
+<pre class='language-latex'><code class='language-latex'>$2$.
 </code></pre>
 </div>
 </div>
@@ -3173,25 +3202,31 @@ How many times did she score $7$ out of $10$?
 <div class='workings'>
 <div class='working'>
 
-As per the table,
-
-Numeber of times she scored $7$ out of $10 = 0$.
+$
+\begin{aligned}
+\text{Number of times}                  &= 15 - 1 - 4 - 5 - 2 \\\\
+                                        &= 2
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$0$
+$2$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the table,
-<emptyline>
-Numeber of times she scored $7$ out of $10 = 0$.
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Number of times}                  &= 15 - 1 - 4 - 5 - 2 \\\\
+                                        &= 2
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -3203,7 +3238,7 @@ Numeber of times she scored $7$ out of $10 = 0$.
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$0$
+<pre class='language-latex'><code class='language-latex'>$2$
 </code></pre>
 </div>
 </div>
@@ -3220,16 +3255,6 @@ Which score was the mode?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
-| Number    | Count     |
-|:------:   |:-----:    |
-|   $6$     |    $1$    |
-|   $7$     |    $0$    |
-|   $8$     |    $4$    |
-|   $9$     |    $5$    |
-|   $10$    |    $2$    |
-
 Mode $= 9$
 
 </div>
@@ -3244,17 +3269,7 @@ $9$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-<emptyline>
-| Number    | Count     |
-|:------:   |:-----:    |
-|   $6$     |    $1$    |
-|   $7$     |    $0$    |
-|   $8$     |    $4$    |
-|   $9$     |    $5$    |
-|   $10$    |    $2$    |
-<emptyline>
-Mode $= 9$
+<pre class='language-latex'><code class='language-latex'>Mode $= 9$
 </code></pre>
 </div>
 </div>
@@ -3274,6 +3289,23 @@ Mode $= 9$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+a, b: just write numbers
+
+
+
+c: table is already given, just write mode answer
+
+
+
+c: table is already given, just write mode answer
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3393,9 +3425,9 @@ What is the mode?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+As per the question,Lets find out the most common pocket money amount for the children.
 
-|     Number        | Count     |
+|     Money         |   Count   |
 |    :------:       |:-----:    |
 |   $\pounds 1$     |    $6$    |
 |   $\pounds 2$     |    $8$    |
@@ -3417,9 +3449,9 @@ $\pounds 2$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
+<pre class='language-latex'><code class='language-latex'>As per the question,Lets find out the most common pocket money amount for the children.
 <emptyline>
-|     Number        | Count     |
+|     Money         |   Count   |
 |    :------:       |:-----:    |
 |   $\pounds 1$     |    $6$    |
 |   $\pounds 2$     |    $8$    |
@@ -3456,8 +3488,6 @@ How many children have at least $\pounds3$ per week pocket money?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin {aligned}
 \text {Number of children}  &= 5 + 2 + 3 \\\\
@@ -3477,9 +3507,7 @@ $10$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-<emptyline>
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 \text {Number of children}  &= 5 + 2 + 3 \\\\
                             &= 10
@@ -3513,8 +3541,6 @@ Find out the total amount of money given to the children.
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin {aligned}
 \text {Total amount}    &= 6 \times 1 + 8 \times 2 + 5 \times 3 + 2 \times 4 + 3 \times 5 \\\\
@@ -3535,9 +3561,7 @@ $\pounds 60$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-<emptyline>
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 \text {Total amount}    &= 6 \times 1 + 8 \times 2 + 5 \times 3 + 2 \times 4 + 3 \times 5 \\\\
                         &= 6 + 16 + 15 + 8 + 15 \\\\
@@ -3576,19 +3600,12 @@ Calculate the angle of the sector which represents the children who have $\pound
 
 $
 \begin{aligned}
-\text{Total angle}    &= 360 \degree \\\\
-\text{Fraction}       &= \dfrac {\text{Children with \pounds 1}} {\text{Total children}} \\\\
-                      &= \dfrac {6} {6 + 8 + 5 + 2 + 3} \\\\
-                      &= \dfrac {6} {24} \\\\
-                      &= \dfrac {6} {4 \times 6} \\\\
-                      &= \dfrac {\cancel 6} {4 \times \cancel 6} \\\\
-                      &= \dfrac {1} {4} \\\\
-\text{Angle of \pounds 1 part} &= \text{Fraction} \times \text{Total angle} \\\\
-                              &= \dfrac {1} {4} \times 360 \degree \\\\
-                              &= \dfrac {1 \times 360} {4} \\\\
-                              &= \dfrac {4 \times 90} {4} \\\\
-                              &= \dfrac {\cancel 4 \times 90} {\cancel 4} \\\\
-                              &= 90 \degree \\\\
+\text{Angle of the sector}      &= \dfrac {6} {6 + 8 + 5 + 2 + 3} \times 360 \\\\
+                                &= \dfrac {6} {24} \times 360 \\\\
+                                &= \dfrac {6 \times 360} {24} \\\\
+                                &= \dfrac {6 \times 4 \times 90} {6 \times 4} \\\\
+                                &= \dfrac {\cancel{6} \times \cancel{4} \times 90} {\cancel{6} \times \cancel{4}} \\\\
+                                &= 90 \degree
 \end{aligned}
 $
 
@@ -3606,19 +3623,12 @@ $90 \degree$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Total angle}    &= 360 \degree \\\\
-\text{Fraction}       &= \dfrac {\text{Children with \pounds 1}} {\text{Total children}} \\\\
-                      &= \dfrac {6} {6 + 8 + 5 + 2 + 3} \\\\
-                      &= \dfrac {6} {24} \\\\
-                      &= \dfrac {6} {4 \times 6} \\\\
-                      &= \dfrac {\cancel 6} {4 \times \cancel 6} \\\\
-                      &= \dfrac {1} {4} \\\\
-\text{Angle of \pounds 1 part} &= \text{Fraction} \times \text{Total angle} \\\\
-                              &= \dfrac {1} {4} \times 360 \degree \\\\
-                              &= \dfrac {1 \times 360} {4} \\\\
-                              &= \dfrac {4 \times 90} {4} \\\\
-                              &= \dfrac {\cancel 4 \times 90} {\cancel 4} \\\\
-                              &= 90 \degree \\\\
+\text{Angle of the sector}      &= \dfrac {6} {6 + 8 + 5 + 2 + 3} \times 360 \\\\
+                                &= \dfrac {6} {24} \times 360 \\\\
+                                &= \dfrac {6 \times 360} {24} \\\\
+                                &= \dfrac {6 \times 4 \times 90} {6 \times 4} \\\\
+                                &= \dfrac {\cancel{6} \times \cancel{4} \times 90} {\cancel{6} \times \cancel{4}} \\\\
+                                &= 90 \degree
 \end{aligned}
 $
 </code></pre>
@@ -3640,6 +3650,35 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+a: change aptq to \"Lets find out the most common pocket money amount for the children.
+
+
+
+Header change to Money, Count
+
+
+
+b:
+
+
+
+drop aptq
+
+
+
+c:
+
+
+
+drop aptq
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3820,7 +3859,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prccrl question'>
 <div class='uuid'>
 <p>FF90761B-9593-49B4-BF81-F14D298B7142</p>
 </div>
@@ -3834,7 +3873,7 @@ $
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prccrl</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4473,51 +4512,58 @@ What are the four numbers?
 ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
 
 
-Let the first number $= a$
-
-Let the second number $= b$
-
-Let the third number $= c$
-
-Let the fourth number $= d$
+Let the four unknown numbers $= a, b, c, d$
 
 As per the question,
 
 $
 \begin {aligned}
-\dfrac {\text{Total of two numbers}} {2}    &= 3 \\\\
 \dfrac {a + b} {2}                          &= 3 \\\\
 \text {a + b}                               &= 3 \times 2 \\\\
 a + b                                       &= 6 \\\\
-\dfrac {\text{Total of three numbers}} {3}  &= 3 \\\\
 \dfrac {a + b + c} {3}                      &= 3 \\\\
 \text {a + b + c}                           &= 5 \times 3 \\\\
 a + b + c                                   &= 15 \\\\
-\dfrac {\text{Total of four numbers}} {4}   &= 3 \\\\
 \dfrac {a + b + c + d} {4}                  &= 3 \\\\
 \text {a + b + c + d}                       &= 7 \times 4 \\\\
-15 + d                                      &= 28 \\\\
-d                                           &= 28 - 15 \\\\
-d                                           &= 13
+a + b + c + d                               &= 28
 \end {aligned}
 $
 
-Fourth number $= 13$
+Let's subtract second question from third to get the value of d.
 
 $
 \begin {aligned}
-a + b + c       &= 15 \\\\
-6 + c           &= 15 \\\\
-c               &= 15 - 6 \\\\
-c               &= 9
+a + b + c + d - (a + b + c)       &= 28 - 15 \\\\
+a - a + b - b + c - c + d         &= 13 \\\\
+d                                 &= 13
 \end {aligned}
 $
 
-Third number $= 9$
+Let's subtract first question from second to get the value of c.
 
-Second number $= 5$
+$
+\begin {aligned}
+a + b + c - (a + b)       &= 15 - 6 \\\\
+a - a + b - b + c         &= 9 \\\\
+c                         &= 9
+\end {aligned}
+$
 
-First number $= 1$
+Let's infer the value of a and b using trial and error method.
+
+|   a   |      b      |   Different  |
+|:-----:|:-----------:|:------------:|
+|  $1$  | $6 - 1 = 5$ |     Yes      |
+|  $3$  | $6 - 3 = 3$ |     No       |
+
+Value of a $= 1$
+
+Value of b $= 5$
+
+Value of c $= 9$
+
+Value of d $= 13$
 
 </div>
 </div>
@@ -4533,51 +4579,58 @@ $1, 5, 9, 13$
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_statistics_formula_mean
 <emptyline>
-Let the first number $= a$
-<emptyline>
-Let the second number $= b$
-<emptyline>
-Let the third number $= c$
-<emptyline>
-Let the fourth number $= d$
+Let the four unknown numbers $= a, b, c, d$
 <emptyline>
 As per the question,
 <emptyline>
 $
 \begin {aligned}
-\dfrac {\text{Total of two numbers}} {2}    &= 3 \\\\
 \dfrac {a + b} {2}                          &= 3 \\\\
 \text {a + b}                               &= 3 \times 2 \\\\
 a + b                                       &= 6 \\\\
-\dfrac {\text{Total of three numbers}} {3}  &= 3 \\\\
 \dfrac {a + b + c} {3}                      &= 3 \\\\
 \text {a + b + c}                           &= 5 \times 3 \\\\
 a + b + c                                   &= 15 \\\\
-\dfrac {\text{Total of four numbers}} {4}   &= 3 \\\\
 \dfrac {a + b + c + d} {4}                  &= 3 \\\\
 \text {a + b + c + d}                       &= 7 \times 4 \\\\
-15 + d                                      &= 28 \\\\
-d                                           &= 28 - 15 \\\\
-d                                           &= 13
+a + b + c + d                               &= 28
 \end {aligned}
 $
 <emptyline>
-Fourth number $= 13$
+Let's subtract second question from third to get the value of d.
 <emptyline>
 $
 \begin {aligned}
-a + b + c       &= 15 \\\\
-6 + c           &= 15 \\\\
-c               &= 15 - 6 \\\\
-c               &= 9
+a + b + c + d - (a + b + c)       &= 28 - 15 \\\\
+a - a + b - b + c - c + d         &= 13 \\\\
+d                                 &= 13
 \end {aligned}
 $
 <emptyline>
-Third number $= 9$
+Let's subtract first question from second to get the value of c.
 <emptyline>
-Second number $= 5$
+$
+\begin {aligned}
+a + b + c - (a + b)       &= 15 - 6 \\\\
+a - a + b - b + c         &= 9 \\\\
+c                         &= 9
+\end {aligned}
+$
 <emptyline>
-First number $= 1$
+Let's infer the value of a and b using trial and error method.
+<emptyline>
+|   a   |      b      |   Different  |
+|:-----:|:-----------:|:------------:|
+|  $1$  | $6 - 1 = 5$ |     Yes      |
+|  $3$  | $6 - 3 = 3$ |     No       |
+<emptyline>
+Value of a $= 1$
+<emptyline>
+Value of b $= 5$
+<emptyline>
+Value of c $= 9$
+<emptyline>
+Value of d $= 13$
 </code></pre>
 </div>
 </div>
@@ -4594,6 +4647,15 @@ First number $= 1$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+not written entirely in algebra way
+</div>
 
 <div class='review'>
 <ul class='review'>

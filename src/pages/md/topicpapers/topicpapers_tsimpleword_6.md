@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-6"
 title: "TopicPaper - Simpleword - 6"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "40"
 ---
 <div class='paper'>
@@ -1062,24 +1062,24 @@ How many cars were originally parked in the third row?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1339,24 +1339,24 @@ On average, roughly how many vehicles is this per month?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3773,19 +3773,19 @@ petals. If a shrub has $3$ branches, how many petals does it have?
 xx
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4220,24 +4220,24 @@ A bus can carry $52$ passengers. How many buses will be needed to transport $993
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5257,24 +5257,24 @@ If the game costs $80 \text{p}$ this week, how much will it cost next week?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5389,14 +5389,14 @@ How much does she pay in a month when she makes $50$ calls?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5498,14 +5498,14 @@ Here is part of a train timetable for trains running between Hereford and Shrews
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5539,14 +5539,14 @@ How long does the journey from Ludlow to Shrewsbury take?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5585,14 +5585,14 @@ The return journey starts at $1950$ from Shrewsbury. If each part of the journey
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

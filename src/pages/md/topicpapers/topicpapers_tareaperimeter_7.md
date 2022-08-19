@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-7"
 title: "TopicPaper - Areaperimeter - 7"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "40"
 ---
 <div class='paper'>
@@ -51,14 +51,14 @@ The perimeter of the figure is $160\ \text{cm}$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -867,14 +867,14 @@ A small **square** patio is built on a rectangular lawn.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1115,14 +1115,14 @@ The diagrams are drawn in cm squares.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1378,14 +1378,14 @@ This solid is made of centimetre cubes.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1419,14 +1419,14 @@ The solid is painted all over, including the base. What is the total area covere
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1465,14 +1465,14 @@ If it is taken apart and rebuilt into the cube below, how many centimetre cubes 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1540,14 +1540,14 @@ Below is a shape made of six identical triangles arranged around a square.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1901,14 +1901,14 @@ The perimeter of this square is $36 \ \text{cm}$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2610,24 +2610,24 @@ Below is an equilateral triangle with a total area of $128 \ \text{cm}^3$. Find 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2709,14 +2709,14 @@ He puts his $4$ triangles together to make the shape shown below.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3098,14 +3098,14 @@ Which $2$ shapes will fit together to form a square?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3141,24 +3141,24 @@ What is the area of the square formed?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3435,14 +3435,14 @@ tdraw
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3479,14 +3479,14 @@ Work out the area of the shape below, drawn on centimetre-squared paper.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3522,14 +3522,14 @@ On the centimetre-squared grids below, draw:
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3566,14 +3566,14 @@ a rectangle with perimeter $10 \ \text{cm}$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3611,14 +3611,14 @@ a triangle with area $10 \ \text{cm}^2$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3694,14 +3694,14 @@ area which will be covered in paint?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3763,24 +3763,24 @@ tdraw
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3832,24 +3832,24 @@ Shape $S$ is drawn on the centimetre- squared grid below.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3898,24 +3898,24 @@ What is the perimeter of shape $S$?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3966,24 +3966,24 @@ What is the area of shape $S$?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4040,24 +4040,24 @@ On the centimetred-square grid below, draw a triangle with are $21 \ \text{cm}^2
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4454,14 +4454,14 @@ Draw a rectangle which has the same area as shape $D$ on the centimetre-squared 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4840,14 +4840,14 @@ On the grid above, shade:
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4881,14 +4881,14 @@ a square with area $4 \ \text{cm}^2$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4924,14 +4924,14 @@ a triangle with area $8 \ \text{cm}^2$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4967,14 +4967,14 @@ a triangle with area $9 \ \text{cm}^2$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5039,24 +5039,24 @@ talgebra
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5205,24 +5205,24 @@ Work out the area of the shape drawn on the centimetre-squared grid below.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5305,14 +5305,14 @@ Shapes $A, B, C, D$ and $E$ are drawn on the grid below.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5346,14 +5346,14 @@ Which shape has the smallest area?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5389,14 +5389,14 @@ Which shape has the longest perimeter?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5432,14 +5432,14 @@ Draw all the lines of symmetry on each shape.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5478,14 +5478,14 @@ On the grid below, draw a quadrilateral with an area of $10$ squares which has e
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5739,24 +5739,24 @@ On the centimetre square grid below, draw a hexagon with area $12 \ \text{cm}^2$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6661,14 +6661,14 @@ The diagram below shows patterns drawn on a square dotted grid.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6702,14 +6702,14 @@ Draw pattern $4$ on the grid above.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6748,14 +6748,14 @@ Complete the table below.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6796,14 +6796,14 @@ Use Sarah’s idea to calculate the perimeter of pattern $10$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6844,14 +6844,14 @@ Use the instructions to calculate the number of squares in pattern $100$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6920,24 +6920,24 @@ Complete the drawing of the parallelogram.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -7020,24 +7020,24 @@ What is the **area** of the smaller, white square?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -7120,24 +7120,24 @@ A matchbox measures $1 \ \text{cm}$ high, $3 \ \text{cm}$ wide and $5 \ \text{cm
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

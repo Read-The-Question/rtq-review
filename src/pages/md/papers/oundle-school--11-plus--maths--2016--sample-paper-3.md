@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2016-sample-paper-3"
 title: "Oundle School - 11 Plus - Maths - 2016 - Sample Paper 3"
-date: 2022-08-18 10:44:13
+date: 2022-08-19 15:32:50
 questions_count: "12"
 ---
 <div class='paper'>
@@ -1228,14 +1228,14 @@ $ax, \quad 2ax^2 , \quad ax^3, \quad 4ax^4, \quad \ldots, \quad \ldots$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1271,24 +1271,24 @@ $x, \quad \dfrac{x^2}{3}, \quad \dfrac{x^3}{9} , \quad \dfrac{x^4}{27} , \quad \
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1874,24 +1874,24 @@ tnumber
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1957,7 +1957,7 @@ To find the GCF, multiply all the prime factors common to both numbers:
 = $51$
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
@@ -1969,7 +1969,7 @@ TODOWORKING
 $51$
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2049,7 +2049,7 @@ Multiply each factor the greater number of times it occurs in steps i) or ii) ab
 = $1785$
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
@@ -2061,7 +2061,7 @@ TODOWORKING
 $1785$
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2340,7 +2340,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>9534E5E7-9ED2-4503-B261-575DFA10853E</p>
 </div>
@@ -2351,10 +2351,10 @@ $
 <p>Kamu Rohith</p>
 </div>
 <div class='rag'>
-<p>rag_kr_g0</p>
+<p>rag_kr_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2559,10 +2559,11 @@ As per the question,
 $
 \begin{aligned}
 2a + 15                         &= 3 \\\\
+2a                              &= 3 - 15 \\\\
 2a                              &= -12 \\\\
-a                               &= - \dfrac {12} {2} \\\\
-a                               &= - \dfrac {6 \times 2} {2} \\\\
-a                               &= - \dfrac {6 \times \cancel {2}} {\cancel {2}} \\\\
+a                               &= \dfrac {-12} {2} \\\\
+a                               &= \dfrac {-6 \times 2} {2} \\\\
+a                               &= \dfrac {-6 \times \cancel {2}} {\cancel {2}} \\\\
 a                               &= - 6
 \end{aligned}
 $
@@ -2586,10 +2587,11 @@ As per the question,
 $
 \begin{aligned}
 2a + 15                         &= 3 \\\\
+2a                              &= 3 - 15 \\\\
 2a                              &= -12 \\\\
-a                               &= - \dfrac {12} {2} \\\\
-a                               &= - \dfrac {6 \times 2} {2} \\\\
-a                               &= - \dfrac {6 \times \cancel {2}} {\cancel {2}} \\\\
+a                               &= \dfrac {-12} {2} \\\\
+a                               &= \dfrac {-6 \times 2} {2} \\\\
+a                               &= \dfrac {-6 \times \cancel {2}} {\cancel {2}} \\\\
 a                               &= - 6
 \end{aligned}
 $
@@ -2612,60 +2614,39 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Part a) change variable x to a, also change wording as below.
-
-Let the number I thought of = a
-
-APTQ, (missing)
-
-
-
-Part b) same changes as part a)
-
-
-
-Part c) same changes as part a)
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='9534E5E7-9ED2-4503-B261-575DFA10853E' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='9534E5E7-9ED2-4503-B261-575DFA10853E' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='9534E5E7-9ED2-4503-B261-575DFA10853E' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='9534E5E7-9ED2-4503-B261-575DFA10853E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='9534E5E7-9ED2-4503-B261-575DFA10853E' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='9534E5E7-9ED2-4503-B261-575DFA10853E' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='9534E5E7-9ED2-4503-B261-575DFA10853E' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='9534E5E7-9ED2-4503-B261-575DFA10853E' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='9534E5E7-9ED2-4503-B261-575DFA10853E' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='9534E5E7-9ED2-4503-B261-575DFA10853E' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='9534E5E7-9ED2-4503-B261-575DFA10853E' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='9534E5E7-9ED2-4503-B261-575DFA10853E' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='9534E5E7-9ED2-4503-B261-575DFA10853E' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='9534E5E7-9ED2-4503-B261-575DFA10853E' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='9534E5E7-9ED2-4503-B261-575DFA10853E' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='9534E5E7-9ED2-4503-B261-575DFA10853E' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='9534E5E7-9ED2-4503-B261-575DFA10853E' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='9534E5E7-9ED2-4503-B261-575DFA10853E' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G0' data-uuid='9534E5E7-9ED2-4503-B261-575DFA10853E' id='FORM-9534E5E7-9ED2-4503-B261-575DFA10853E' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='9534E5E7-9ED2-4503-B261-575DFA10853E' id='FORM-9534E5E7-9ED2-4503-B261-575DFA10853E' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2751,7 +2732,7 @@ $\text {As We Know Sum Of Two Sides Of A Triangle Must Be Greater Than The Third
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>2CA89A06-D6D2-400A-B27B-67091B0F2E69</p>
 </div>
@@ -2762,10 +2743,10 @@ $\text {As We Know Sum Of Two Sides Of A Triangle Must Be Greater Than The Third
 <p>Kamu Rohith</p>
 </div>
 <div class='rag'>
-<p>rag_kr_g0</p>
+<p>rag_kr_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2900,8 +2881,10 @@ $
 \begin{aligned}
 2.1 \times a &= 84 \\\\
 a            &= \dfrac {84} {2.1} \\\\
+a            &= \dfrac {84 \times 10} {2.1 \times 10} \\\\
 a            &= \dfrac {4 \times 21 \times 10} {21} \\\\
-a            &= \dfrac {40 \times \cancel {21}} {\cancel {21}} \\\\
+a            &= \dfrac {4 \times \cancel {21} \times 10} {\cancel {21}} \\\\
+a            &= 4 \times 10 \\\\
 a            &= 40
 \end{aligned}
 $
@@ -2926,8 +2909,10 @@ $
 \begin{aligned}
 2.1 \times a &= 84 \\\\
 a            &= \dfrac {84} {2.1} \\\\
+a            &= \dfrac {84 \times 10} {2.1 \times 10} \\\\
 a            &= \dfrac {4 \times 21 \times 10} {21} \\\\
-a            &= \dfrac {40 \times \cancel {21}} {\cancel {21}} \\\\
+a            &= \dfrac {4 \times \cancel {21} \times 10} {\cancel {21}} \\\\
+a            &= 4 \times 10 \\\\
 a            &= 40
 \end{aligned}
 $
@@ -3029,76 +3014,39 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-APTQ, (missing in all three parts, add after the \"Let the missing...\" line)
-
-
-
-
-
-Part c) Solve it the following way:
-
-8.4 ÷ a  = 21
-
-8.4 / a  = 21 
-
-8.4      = 21 x a
-
-21 x a   = 8.4
-
-a        = 8.4 / 21
-
-a        = 8.4 x 10 / 21 x 10
-
-a        = 84 / 21 x 10
-
-a        = 21 x 4 / 21 x 10
-
-Cancel 21
-
-a        = 4/10
-
-a        = 0.4 
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='2CA89A06-D6D2-400A-B27B-67091B0F2E69' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='2CA89A06-D6D2-400A-B27B-67091B0F2E69' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='2CA89A06-D6D2-400A-B27B-67091B0F2E69' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='2CA89A06-D6D2-400A-B27B-67091B0F2E69' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='2CA89A06-D6D2-400A-B27B-67091B0F2E69' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='2CA89A06-D6D2-400A-B27B-67091B0F2E69' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='2CA89A06-D6D2-400A-B27B-67091B0F2E69' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='2CA89A06-D6D2-400A-B27B-67091B0F2E69' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='2CA89A06-D6D2-400A-B27B-67091B0F2E69' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='2CA89A06-D6D2-400A-B27B-67091B0F2E69' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='2CA89A06-D6D2-400A-B27B-67091B0F2E69' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='2CA89A06-D6D2-400A-B27B-67091B0F2E69' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='2CA89A06-D6D2-400A-B27B-67091B0F2E69' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='2CA89A06-D6D2-400A-B27B-67091B0F2E69' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='2CA89A06-D6D2-400A-B27B-67091B0F2E69' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='2CA89A06-D6D2-400A-B27B-67091B0F2E69' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='2CA89A06-D6D2-400A-B27B-67091B0F2E69' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='2CA89A06-D6D2-400A-B27B-67091B0F2E69' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G0' data-uuid='2CA89A06-D6D2-400A-B27B-67091B0F2E69' id='FORM-2CA89A06-D6D2-400A-B27B-67091B0F2E69' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='2CA89A06-D6D2-400A-B27B-67091B0F2E69' id='FORM-2CA89A06-D6D2-400A-B27B-67091B0F2E69' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3362,24 +3310,24 @@ tgeometry
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3437,24 +3385,24 @@ $C$ is at $(-2, 0)$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3505,24 +3453,24 @@ A rectangle has coordinates $(1, -3), (1,-7)$ and $(7, -3)$.vWhat are the coordi
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3573,24 +3521,24 @@ A *right angled triangle* has two corners at coordinates $(9, 7)$ and $(5, 2)$. 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

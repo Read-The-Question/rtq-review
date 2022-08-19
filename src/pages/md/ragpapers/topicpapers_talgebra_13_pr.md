@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-13-pr"
 title: "TopicPaper - Algebra - 13 - PR"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -41,14 +41,14 @@ He eats one more and gives the last one to Sean.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -441,7 +441,7 @@ Therefore, the cost of an apple $= 15$ p
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -561,7 +561,7 @@ Therefore, the cost of an apple $= 15$ p
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>A3B8C55E-C07A-4847-8A7E-0AAC0B73B05E</p>
 </div>
@@ -575,7 +575,7 @@ Therefore, the cost of an apple $= 15$ p
 <p>rag_am_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -624,13 +624,11 @@ a                    &= \pounds 6.5
 \end{aligned}
 $ 
 
-Alice savings $= a + 10$
-
 $
 \begin{aligned}
-&= a + 10 \\\\
-&= 6.5 + 10 \\\\
-&= \pounds 16.5 
+\text{Alice savings} &= a + 10 \\\\
+					 &= 6.5 + 10 \\\\
+					 &= \pounds 16.5 
 \end{aligned}
 $
 
@@ -665,13 +663,11 @@ a                    &= \pounds 6.5
 \end{aligned}
 $ 
 <emptyline>
-Alice savings $= a + 10$
-<emptyline>
 $
 \begin{aligned}
-&= a + 10 \\\\
-&= 6.5 + 10 \\\\
-&= \pounds 16.5 
+\text{Alice savings} &= a + 10 \\\\
+					 &= 6.5 + 10 \\\\
+					 &= \pounds 16.5 
 \end{aligned}
 $
 </code></pre>

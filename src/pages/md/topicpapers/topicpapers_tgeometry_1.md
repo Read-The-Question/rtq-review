@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tgeometry-1"
 title: "TopicPaper - Geometry - 1"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "40"
 ---
 <div class='paper'>
@@ -53,24 +53,24 @@ State the number of
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -407,24 +407,24 @@ tgeometry
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -476,24 +476,24 @@ Which 3D shape is this the net of?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -544,24 +544,24 @@ Which $2\text{D}$ shape has $4$ sides, no right angles and $1$ pair of parallel 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -641,14 +641,14 @@ Draw the reflection of the shape below in the given line of symmetry.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -713,14 +713,14 @@ Add some extra faces to this diagram to make it the net of a right angled triang
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -936,7 +936,7 @@ $6$
 $6$
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1059,24 +1059,24 @@ Three of these shapes have an even number of vertices. Which one does not?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1284,24 +1284,24 @@ How many possible isosceles triangles are there containing an angle of $90\degre
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1381,24 +1381,24 @@ Which of shapes $A, B, C$ and $D$ is most similar to shapes $1$ and $2$?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1492,7 +1492,7 @@ $4$
 C $=$ $4$
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1858,24 +1858,24 @@ Show what it would look like when turned through $90 \degree$ anticlockwise.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2076,24 +2076,24 @@ For each shape on the left, draw a **rectangle** that has the same area.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2179,24 +2179,24 @@ What is the mathematical name for Kate's $3$-D object?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2276,24 +2276,24 @@ How many blocks did it take to make the pyramid?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2367,24 +2367,24 @@ tgeometry
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2434,24 +2434,24 @@ TODOANSWER
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2501,24 +2501,24 @@ the $3$-D object from above, in the direction of arrow $X$?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2570,24 +2570,24 @@ at the $3$-D object from the front, in the direction of arrow $Y$?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2645,24 +2645,24 @@ down at the cylinder from above, in the direction of arrow $Z$?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2742,24 +2742,24 @@ What is your answer?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2838,24 +2838,24 @@ Which one of the following ($A, B, C, D$ or $E$) could **not** be the resulting 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2929,24 +2929,24 @@ What is the name of the special quadrilateral that has $4$ lines of symmetry (or
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3027,24 +3027,24 @@ What are the coordinated of point $D$?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3118,24 +3118,24 @@ tgeometry
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3184,24 +3184,24 @@ Write down the answers to the calculations (Hint: there is a quick way!)
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3250,24 +3250,24 @@ $(49 \times 37018) + (51 \times 37018)$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3318,24 +3318,24 @@ $(26 \times 37018) - (25 \times 37018)$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3392,24 +3392,24 @@ How many triangles are there in this diagram?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3486,24 +3486,24 @@ What is the name of the special quadrilateral that has $4$ lines of symmetry (or
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3579,24 +3579,24 @@ What is the smallest number of colours needed?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3677,24 +3677,24 @@ Put a ring around the correct answer.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3775,24 +3775,24 @@ What are the coordinates of point $D$?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3871,24 +3871,24 @@ Write the letter of the one shape below that is a net for the pentagonal prism.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3962,24 +3962,24 @@ tgeometry
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4028,24 +4028,24 @@ Write down the answers to the calculations. (Hint: there is a quick way!)
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4094,24 +4094,24 @@ $(49 \times 37018) + (51 \times 37018)$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4162,24 +4162,24 @@ $(26 \times 37018) - (25 \times 37018)$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4236,24 +4236,24 @@ How many triangles are there in this diagram?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4335,24 +4335,24 @@ What are the co-ordinates of $A$?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4431,24 +4431,24 @@ Using the letters marking each point or vertex, name each of the following:
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4497,24 +4497,24 @@ A rectangle
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4565,24 +4565,24 @@ A parallelogram
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4633,24 +4633,24 @@ A trapezium
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4701,24 +4701,24 @@ A rhombus
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4769,24 +4769,24 @@ An isosceles triangle
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4868,24 +4868,24 @@ Write down the mathematical name for each of these 2D shapes:
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5070,24 +5070,24 @@ Thinking about these different types, decide whether the following statements ar
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5138,24 +5138,24 @@ Is this statement true for **all, some** or **no** quadrilaterals?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5208,24 +5208,24 @@ Is this statement true for **all, some** or **no** quadrilaterals?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5278,24 +5278,24 @@ Is this statement true for all, some or no quadrilaterals?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5348,24 +5348,24 @@ Is this statement true for **all, some** or **no** quadrilaterals?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5448,24 +5448,24 @@ Finish shading the diagram, colouring *only two* more squares, so that the image
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5542,24 +5542,24 @@ Indicate clearly with a tick or cross.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5608,24 +5608,24 @@ The two diagonals of a rectangle are always equal in length.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5676,24 +5676,24 @@ The two diagonals of a parallelogram are always equal in length.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5744,24 +5744,24 @@ The two diagonals of a rectangle always cross each other as right angles.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5838,24 +5838,24 @@ I place two triangles (identical to this) together along the diagonal. Name the 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

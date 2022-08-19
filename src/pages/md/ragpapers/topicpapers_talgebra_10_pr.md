@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-10-pr"
 title: "TopicPaper - Algebra - 10 - PR"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "18"
 ---
 <ul class='question default-decimal'>
@@ -754,24 +754,24 @@ I am thinking of a number less than $50$. When I divide my number by $7$ I get a
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1526,14 +1526,14 @@ The number of stinging nettle plants in Mr Beefshaw’s rose patch doubles each 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1657,14 +1657,14 @@ Find the values of $A$ and $B$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2500,14 +2500,14 @@ In this multiplication each letter stands for a **different** digit. What digit 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3280,7 +3280,7 @@ Reference: 1622DD6F-538D-47B0-8E04-EE946A7719E6
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>EE517412-3A90-4259-8284-D1CA5B14FECF</p>
 </div>
@@ -3294,7 +3294,7 @@ Reference: 1622DD6F-538D-47B0-8E04-EE946A7719E6
 <p>rag_kr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3662,7 +3662,7 @@ After this for final answer wording ask Uday.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>CEA617F8-C87A-493E-AB2E-F648E4945EC8</p>
 </div>
@@ -3676,7 +3676,7 @@ After this for final answer wording ask Uday.
 <p>rag_kr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4044,7 +4044,7 @@ After this for final answer wording ask Uday.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>1C03DD8C-DB4B-41BD-BAE2-8BD91EC96335</p>
 </div>
@@ -4058,7 +4058,7 @@ After this for final answer wording ask Uday.
 <p>rag_kr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

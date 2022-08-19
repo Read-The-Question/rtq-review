@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tpercentage-2"
 title: "TopicPaper - Percentage - 2"
-date: 2022-08-18 11:06:01
+date: 2022-08-19 16:00:22
 questions_count: "6"
 ---
 <div class='paper'>

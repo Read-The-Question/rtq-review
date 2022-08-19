@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-5-g0-prpcr"
 title: "TopicPaper - Time - 5 - G0 - PRPCR"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
@@ -33,8 +33,10 @@ ttime
 
 The timetable below shows information about the overnight train from London to Scotland.
 
-![missing table](/papers/missing_table.svg)
-
+|   London Euston Station  | (Fri) depart | $1957$ |
+|:------------------------:|:------------:|:------:|
+| Birmingham International | (Fri) depart | $2107$ |
+|          Glasgow         | (Sat) arrive | $0645$ |
 
 How long does the train take
 

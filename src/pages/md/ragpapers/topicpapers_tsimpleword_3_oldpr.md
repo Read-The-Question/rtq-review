@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-3-oldpr"
 title: "TopicPaper - Simpleword - 3 - OLDPR"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prpcr question'>
 <div class='uuid'>
 <p>1846DF59-D4FE-4A4A-A9F7-89870E3E1ED3</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "1"
 <p>rag_mr_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -285,6 +285,30 @@ $
 Fraction per person = Total Bars / Total people
 
 
+
+
+
+Part b)
+
+Total \"People\" ==> Total \"people\"
+
+
+
+Part c)
+
+i) Remove full stop from first line.
+
+ii) Remove two lines after first line.
+
+
+
+ii) Solve like below:
+
+Let the num...
+
+APTQ, (Missing)
+
+4/12 = 5/a
 </div>
 
 <div class='review'>

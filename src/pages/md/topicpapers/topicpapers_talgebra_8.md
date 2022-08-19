@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-8"
 title: "TopicPaper - Algebra - 8"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "40"
 ---
 <div class='paper'>
@@ -1807,7 +1807,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A8B52462-A833-4D1A-AD6D-8D8F5E26916D</p>
 </div>
@@ -1821,7 +1821,7 @@ $
 <p>rag_kr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1951,19 +1951,27 @@ What number did John think of?
 <div class='workings'>
 <div class='working'>
 
-Let the number $=x$
+Let the number John thought of $= a$
 
 As per the the question,
 
 $
 \begin{aligned}
-(x - 10) \div 3                                                &= 2x \\\\
-x- 10                                                          &= 6x \\\\
-x - 6x                                                         &= 10 \\\\
--5x                                                            &= 10 \\\\
-x                                                              &= -\dfrac{10}{5} \\\\
-x                                                              &= -2
+(a - 10) \div 3                                                &= 2a \\\\
+\dfrac{a - 10}{3}                                              &= 2a \\\\
+a- 10                                                          &= 2a \times 3 \\\\
+a- 10                                                          &= 6a \\\\
+-10                                                            &= 6a - a\\\\
+-10                                                            &= 5a \\\\
+5a                                                             &= -10 \\\\
+a                                                              &= \dfrac{-10}{5} \\\\
+a                                                              &= \dfrac{-2 \times 5}{5} \\\\
+a                                                              &= \dfrac{-2 \times \cancel{5}}{\cancel{5}} \\\\
+a                                                              &= -2 \\\\
 \end{aligned}
+
+The number John thought of $= -2$
+
 $
 
 </div>
@@ -1978,19 +1986,27 @@ $-2$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number $=x$
+<pre class='language-latex'><code class='language-latex'>Let the number John thought of $= a$
 <emptyline>
 As per the the question,
 <emptyline>
 $
 \begin{aligned}
-(x - 10) \div 3                                                &= 2x \\\\
-x- 10                                                          &= 6x \\\\
-x - 6x                                                         &= 10 \\\\
--5x                                                            &= 10 \\\\
-x                                                              &= -\dfrac{10}{5} \\\\
-x                                                              &= -2
+(a - 10) \div 3                                                &= 2a \\\\
+\dfrac{a - 10}{3}                                              &= 2a \\\\
+a- 10                                                          &= 2a \times 3 \\\\
+a- 10                                                          &= 6a \\\\
+-10                                                            &= 6a - a\\\\
+-10                                                            &= 5a \\\\
+5a                                                             &= -10 \\\\
+a                                                              &= \dfrac{-10}{5} \\\\
+a                                                              &= \dfrac{-2 \times 5}{5} \\\\
+a                                                              &= \dfrac{-2 \times \cancel{5}}{\cancel{5}} \\\\
+a                                                              &= -2 \\\\
 \end{aligned}
+<emptyline>
+The number John thought of $= -2$
+<emptyline>
 $
 </code></pre>
 </div>
@@ -2024,21 +2040,33 @@ Find the dimensions of the rectangle.
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
+
+
+Let the height of rectangle $= h$
+
+Width $= 4h$
+
+As per the question,
+
 $
 \begin{aligned}
-\text{Let Width} &= w \\\\ 
-\text{Let Height} &= h \\\\ 
-w                                &= 4 \times h \\\\
-2 \times (w + h)                    &= 12 \\\\
 2 \times (4 \times h + h)          &= 12 \\\\
-2 \times (5 \times h)                       &= 12 \\\\
-10 \times h                      &= 12 \\\\
-h                                &= \dfrac{12}{10} \\\\
-                                      &= 1.2 \\\\
-w                                &= 4 \times 1.2 \\\\
-                                      &= 4.8
+2 \times (4h + h)                  &= 12 \\\\
+2 \times (5h)                      &= 12 \\\\
+10 \times h                        &= 12 \\\\
+10h                                &= 12 \\\\
+h                                  &= \dfrac{12}{10} \\\\
+                                   &= 1.2 \\\\
+\text{height of rectangle}         &= h \\\\
+                                   &= 1.2 \ \text{cm} \\\\
+\text{Width}                       &= 4 \times h \\\\
+                                   &= 4 \times 1.2 \\\\
+                                   &= 4.8 \ \text{cm}
 \end{aligned}
 $
+
+
 
 </div>
 </div>
@@ -2052,21 +2080,32 @@ $1.2,4.8$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
+<emptyline>
+Let the height of rectangle $= h$
+<emptyline>
+Width $= 4h$
+<emptyline>
+As per the question,
+<emptyline>
+$
 \begin{aligned}
-\text{Let Width} &= w \\\\ 
-\text{Let Height} &= h \\\\ 
-w                                &= 4 \times h \\\\
-2 \times (w + h)                    &= 12 \\\\
 2 \times (4 \times h + h)          &= 12 \\\\
-2 \times (5 \times h)                       &= 12 \\\\
-10 \times h                      &= 12 \\\\
-h                                &= \dfrac{12}{10} \\\\
-                                      &= 1.2 \\\\
-w                                &= 4 \times 1.2 \\\\
-                                      &= 4.8
+2 \times (4h + h)                  &= 12 \\\\
+2 \times (5h)                      &= 12 \\\\
+10 \times h                        &= 12 \\\\
+10h                                &= 12 \\\\
+h                                  &= \dfrac{12}{10} \\\\
+                                   &= 1.2 \\\\
+\text{height of rectangle}         &= h \\\\
+                                   &= 1.2 \ \text{cm} \\\\
+\text{Width}                       &= 4 \times h \\\\
+                                   &= 4 \times 1.2 \\\\
+                                   &= 4.8 \ \text{cm}
 \end{aligned}
 $
+<emptyline>
+
 </code></pre>
 </div>
 </div>
@@ -2207,7 +2246,7 @@ iii) Add unit in the answers section.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>51830703-CBD9-43F8-B47F-335ADCA3A65F</p>
 </div>
@@ -2221,7 +2260,7 @@ iii) Add unit in the answers section.
 <p>rag_kr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2286,7 +2325,7 @@ Calculate the difference between the two prices.
 $
 \begin{aligned}
 \text{Difference between prices} &= 34567300 - 23997324 \\\\
-                                 &= 10569976
+                                 &= \pounds10569976
 \end{aligned}
 $
 
@@ -2295,7 +2334,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$10569976$
+$\pounds10569976$
 
 </div>
 </div>
@@ -2305,7 +2344,7 @@ $10569976$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{Difference between prices} &= 34567300 - 23997324 \\\\
-                                 &= 10569976
+                                 &= \pounds10569976
 \end{aligned}
 $
 </code></pre>
@@ -2319,7 +2358,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$10569976$
+<pre class='language-latex'><code class='language-latex'>$\pounds10569976$
 </code></pre>
 </div>
 </div>
@@ -2395,7 +2434,7 @@ A box contains $37$ chocolates. How many chocolates would there be in $26$ boxes
 
 $
 \begin{aligned}
-\text{Chocolate in 26 boxes} &= 26 \times 37 \\\\
+\text{Chocolates in 26 boxes} &= 26 \times 37 \\\\
                              &= 962
 \end{aligned}
 $
@@ -2414,7 +2453,7 @@ $962$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Chocolate in 26 boxes} &= 26 \times 37 \\\\
+\text{Chocolates in 26 boxes} &= 26 \times 37 \\\\
                              &= 962
 \end{aligned}
 $
@@ -2608,7 +2647,7 @@ Part c) \"Chocolate\" --> \"Chocolates\"
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>EFD38E79-EABA-416D-9691-E23FADC9823E</p>
 </div>
@@ -2622,7 +2661,7 @@ Part c) \"Chocolate\" --> \"Chocolates\"
 <p>rag_kr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2639,43 +2678,49 @@ An iPhone used to cost $\pounds 500$. Since Brexit the price has increased by $2
 <div class='workings'>
 <div class='working'>
 
+If the iphone cost increased by $22 \%$, then the new cost will be $100 + 22 = 122 \%$ of the previous price. Using that, we get
+
 $
-\begin{aligned}
-\text{increase}&= 22 \% \times 500 \\\\
-&= \dfrac {22} {100} \times 500 \\\\
-&= \dfrac {22 \times 500} {100} \\\\
-&= \dfrac {11000} {100} \\\\
-&= \dfrac {110 \cancel {00}} {1 \cancel{00}} \\\\
-&= 110 \\\\
-\text{price}&= 500 + 110 \\\\
-&= 610
-\end{aligned}
+\begin {aligned}
+\text {iphone cost after increase}    &= \dfrac {122} {100} \times 500 \\\\
+                                      &= \dfrac {122 \times 500} {100} \\\\
+                                      &= \dfrac {122 \times 5 \times 100}{100} \\\\
+                                      &= \dfrac {122 \times 5 \times \cancel{100}}{\cancel{100}} \\\\
+                                      &= 122 \times 5 \\\\
+                                      &= \pounds 610 
+\end {aligned}
 $
+
+The new iPhone price $= \pounds 610$
+
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$610$
+$\pounds 610$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-\text{increase}&= 22 \% \times 500 \\\\
-&= \dfrac {22} {100} \times 500 \\\\
-&= \dfrac {22 \times 500} {100} \\\\
-&= \dfrac {11000} {100} \\\\
-&= \dfrac {110 \cancel {00}} {1 \cancel{00}} \\\\
-&= 110 \\\\
-\text{price}&= 500 + 110 \\\\
-&= 610
-\end{aligned}
+<pre class='language-latex'><code class='language-latex'>If the iphone cost increased by $22 \%$, then the new cost will be $100 + 22 = 122 \%$ of the previous price. Using that, we get
+<emptyline>
 $
+\begin {aligned}
+\text {iphone cost after increase}    &= \dfrac {122} {100} \times 500 \\\\
+                                      &= \dfrac {122 \times 500} {100} \\\\
+                                      &= \dfrac {122 \times 5 \times 100}{100} \\\\
+                                      &= \dfrac {122 \times 5 \times \cancel{100}}{\cancel{100}} \\\\
+                                      &= 122 \times 5 \\\\
+                                      &= \pounds 610 
+\end {aligned}
+$
+<emptyline>
+The new iPhone price $= \pounds 610$
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -2687,7 +2732,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$610$
+<pre class='language-latex'><code class='language-latex'>$\pounds 610$
 </code></pre>
 </div>
 </div>
@@ -2899,7 +2944,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E2966271-3218-4066-8490-77C5F92607CA</p>
 </div>
@@ -2913,7 +2958,7 @@ $
 <p>rag_kr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3106,10 +3151,13 @@ Let the missing number $= a$
 $
 \begin{aligned}
 6900 \div a          &= 23000 \\\\
-6900                 &= 23000 \times a \\\\
-\dfrac{6900} {23000} &= a \\\\
-a                    &= \dfrac{6900} {23000} \\\\
-a                    &= 0.3
+\dfrac{6900}{a}      &= 23000 \\\\
+\dfrac{6900}{23000}  &= a \\\\
+a                    &= \dfrac{6900}{23000} \\\\
+a                    &= \dfrac{3 \times 2300}{10 \times 2300} \\\\
+a                    &= \dfrac{3 \times \cancel{2300}}{10 \times \cancel{2300}} \\\\
+a                    &= \dfrac{3}{10} \\\\
+a                    &= 0.3 \\\\
 \end{aligned}
 $
 
@@ -3130,10 +3178,13 @@ $0.3$
 $
 \begin{aligned}
 6900 \div a          &= 23000 \\\\
-6900                 &= 23000 \times a \\\\
-\dfrac{6900} {23000} &= a \\\\
-a                    &= \dfrac{6900} {23000} \\\\
-a                    &= 0.3
+\dfrac{6900}{a}      &= 23000 \\\\
+\dfrac{6900}{23000}  &= a \\\\
+a                    &= \dfrac{6900}{23000} \\\\
+a                    &= \dfrac{3 \times 2300}{10 \times 2300} \\\\
+a                    &= \dfrac{3 \times \cancel{2300}}{10 \times \cancel{2300}} \\\\
+a                    &= \dfrac{3}{10} \\\\
+a                    &= 0.3 \\\\
 \end{aligned}
 $
 </code></pre>
@@ -3628,7 +3679,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B0474C27-24BE-44CC-8751-8A066A162D28</p>
 </div>
@@ -3642,7 +3693,7 @@ $
 <p>rag_kr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3976,7 +4027,7 @@ Part c) remove extra $ at the end.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>39E23842-24A9-4406-85BD-91A1D31AE811</p>
 </div>
@@ -3990,7 +4041,7 @@ Part c) remove extra $ at the end.
 <p>rag_kr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4050,15 +4101,15 @@ What was the original number?
 <div class='workings'>
 <div class='working'>
 
-Let the number $=x$
+Let the number $=a$
 
 As per the question,
 
 $
 \begin{aligned}
-x - 12                                                          &= 18 \\\\
-x                                                               &= 18 + 12 \\\\
-x                                                               &= 30
+a - 12                                                          &= 18 \\\\
+a                                                               &= 18 + 12 \\\\
+a                                                               &= 30
 \end{aligned}
 $
 
@@ -4074,15 +4125,15 @@ $30$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number $=x$
+<pre class='language-latex'><code class='language-latex'>Let the number $=a$
 <emptyline>
 As per the question,
 <emptyline>
 $
 \begin{aligned}
-x - 12                                                          &= 18 \\\\
-x                                                               &= 18 + 12 \\\\
-x                                                               &= 30
+a - 12                                                          &= 18 \\\\
+a                                                               &= 18 + 12 \\\\
+a                                                               &= 30
 \end{aligned}
 $
 </code></pre>
@@ -4115,17 +4166,17 @@ What was the original number?
 <div class='workings'>
 <div class='working'>
 
-Let the number $=x$
+Let the number $=a$
 
 As per the question,
 
 $
 \begin{aligned}
-x \times 6 - 9                                          &= -39 \\\\
-x \times 6                                              &= -39 + 9 \\\\
-x \times 6                                              &= -30 \\\\
-x                                                       &= -30 \div 6 \\\\
-x                                                       &= -5
+a \times 6 - 9                                          &= -39 \\\\
+a \times 6                                              &= -39 + 9 \\\\
+a \times 6                                              &= -30 \\\\
+a                                                       &= -30 \div 6 \\\\
+a                                                       &= -5
 \end{aligned}
 $
 
@@ -4141,17 +4192,17 @@ $-5$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number $=x$
+<pre class='language-latex'><code class='language-latex'>Let the number $=a$
 <emptyline>
 As per the question,
 <emptyline>
 $
 \begin{aligned}
-x \times 6 - 9                                          &= -39 \\\\
-x \times 6                                              &= -39 + 9 \\\\
-x \times 6                                              &= -30 \\\\
-x                                                       &= -30 \div 6 \\\\
-x                                                       &= -5
+a \times 6 - 9                                          &= -39 \\\\
+a \times 6                                              &= -39 + 9 \\\\
+a \times 6                                              &= -30 \\\\
+a                                                       &= -30 \div 6 \\\\
+a                                                       &= -5
 \end{aligned}
 $
 </code></pre>
@@ -4184,16 +4235,16 @@ What was the original number?
 <div class='workings'>
 <div class='working'>
 
-Let the number $=x$
+Let the number $=a$
 
 As per the question,
 
 $
 \begin{aligned}
-x \times 2 - 12                                                 &= -3 \\\\
-x \times 2                                                      &= -3 + 12 \\\\
-x \times 2                                                      &= 9 \\\\
-x                                                               &= 9 \div 2 \\\\
+a \times 2 - 12                                                 &= -3 \\\\
+a \times 2                                                      &= -3 + 12 \\\\
+a \times 2                                                      &= 9 \\\\
+a                                                               &= \dfrac{9}{2} \\\\
                                                                 &= 4.5 
 \end{aligned}
 $
@@ -4210,16 +4261,16 @@ $4.5$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number $=x$
+<pre class='language-latex'><code class='language-latex'>Let the number $=a$
 <emptyline>
 As per the question,
 <emptyline>
 $
 \begin{aligned}
-x \times 2 - 12                                                 &= -3 \\\\
-x \times 2                                                      &= -3 + 12 \\\\
-x \times 2                                                      &= 9 \\\\
-x                                                               &= 9 \div 2 \\\\
+a \times 2 - 12                                                 &= -3 \\\\
+a \times 2                                                      &= -3 + 12 \\\\
+a \times 2                                                      &= 9 \\\\
+a                                                               &= \dfrac{9}{2} \\\\
                                                                 &= 4.5 
 \end{aligned}
 $
@@ -4295,7 +4346,7 @@ All part solve taking variable as a instead of x.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5482D9F1-457C-4A2D-BC0F-D0D6F3B98CDF</p>
 </div>
@@ -4309,7 +4360,7 @@ All part solve taking variable as a instead of x.
 <p>rag_kr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4370,13 +4421,13 @@ $3x -7 = 5x + 7$
 
 $
 \begin{aligned}
-3 \times x - 7    &= 5 \times x + 7 \\\\
-3 \times x - 5 \times x  &= 7 + 7 \\\\
--2 \times x      &= 14 \\\\
-x          &= - \dfrac {14} {2} \\\\
-x          &= - \dfrac {7 \times 2} {2} \\\\
-x          &= - \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
-x          &= - 7
+3 \times x - 7                  &= 5 \times x + 7 \\\\
+3 \times x - 5 \times x         &= 7 + 7 \\\\
+-2 \times x                     &= 14 \\\\
+x                               &= - \dfrac {14} {2} \\\\
+x                               &= - \dfrac {7 \times 2} {2} \\\\
+x                               &= - \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
+x                           &= - 7
 \end{aligned}
 $
 
@@ -4395,13 +4446,13 @@ $-7$
 <pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-3 \times x - 7    &= 5 \times x + 7 \\\\
-3 \times x - 5 \times x  &= 7 + 7 \\\\
--2 \times x      &= 14 \\\\
-x          &= - \dfrac {14} {2} \\\\
-x          &= - \dfrac {7 \times 2} {2} \\\\
-x          &= - \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
-x          &= - 7
+3 \times x - 7                  &= 5 \times x + 7 \\\\
+3 \times x - 5 \times x         &= 7 + 7 \\\\
+-2 \times x                     &= 14 \\\\
+x                               &= - \dfrac {14} {2} \\\\
+x                               &= - \dfrac {7 \times 2} {2} \\\\
+x                               &= - \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
+x                           &= - 7
 \end{aligned}
 $
 </code></pre>
@@ -4434,13 +4485,15 @@ $\dfrac{1}{2}x - 3 = \dfrac{x}{3} + 5$
 
 $
 \begin{aligned}
-\dfrac{1}{2}x - 3                                               &= \dfrac{x}{3} + 5 \\\\
-\dfrac{1}{2}x - \dfrac{x}{3}                                    &= 5 + 3 \\\\
-\dfrac{x \times 3 - x \times 2}{6}                       &= 8 \\\\
-\dfrac{x}{6}                                                    &= 8 \\\\
-x                                                               &= 8 \times 6 \\\\
-                                                                &= 48
-\end{aligned}
+\dfrac{1}{2}x - 3                                                   &= \dfrac{x}{3} + 5 \\\\
+\dfrac{x}{2} - \dfrac{x}{3}                                         &= 5 + 3 \\\\
+\dfrac{x \times 3}{2 \times 3} - \dfrac{x \times 2}{3 \times 2}     &= 8 \\\\
+\dfrac{3x}{6} - \dfrac{2x}{6}                                       &= 8 \\\\
+\dfrac{3x - 2x}{6}                                                  &= 8 \\\\
+\dfrac{x}{6}                                                        &= 8 \\\\
+x                                                                   &= 8 \times 6 \\\\
+x                                                                   &= 48
+\end {aligned}
 $
 
 </div>
@@ -4457,13 +4510,15 @@ $48$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\dfrac{1}{2}x - 3                                               &= \dfrac{x}{3} + 5 \\\\
-\dfrac{1}{2}x - \dfrac{x}{3}                                    &= 5 + 3 \\\\
-\dfrac{x \times 3 - x \times 2}{6}                       &= 8 \\\\
-\dfrac{x}{6}                                                    &= 8 \\\\
-x                                                               &= 8 \times 6 \\\\
-                                                                &= 48
-\end{aligned}
+\dfrac{1}{2}x - 3                                                   &= \dfrac{x}{3} + 5 \\\\
+\dfrac{x}{2} - \dfrac{x}{3}                                         &= 5 + 3 \\\\
+\dfrac{x \times 3}{2 \times 3} - \dfrac{x \times 2}{3 \times 2}     &= 8 \\\\
+\dfrac{3x}{6} - \dfrac{2x}{6}                                       &= 8 \\\\
+\dfrac{3x - 2x}{6}                                                  &= 8 \\\\
+\dfrac{x}{6}                                                        &= 8 \\\\
+x                                                                   &= 8 \times 6 \\\\
+x                                                                   &= 48
+\end {aligned}
 $
 </code></pre>
 </div>
@@ -4543,7 +4598,7 @@ the solve further...
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>B2F63041-ED48-4974-9D2B-15C31CCE8E6A</p>
 </div>
@@ -4557,7 +4612,7 @@ the solve further...
 <p>rag_kr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4574,9 +4629,11 @@ John picked strawberries every day for $7$ days. Each day after the first day, h
 <div class='workings'>
 <div class='working'>
 
+
+Let the number of strawberries picked on firstday $= x$
+
 $
 \begin{aligned}
-\text{let the number of strawberies picked on firstday = x}
 x + x + 5 + x + 10 + x + 15 + ....                                      &= 175 \\\\
 (x + x + x + x + x + x + x) + (5 + 10 + 15 + 20 + 25 + 30)              &= 175 \\\\
 7x + 105                                                                &= 175 \\\\
@@ -4600,9 +4657,11 @@ $40$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>
+Let the number of strawberries picked on firstday $= x$
+<emptyline>
+$
 \begin{aligned}
-\text{let the number of strawberies picked on firstday = x}
 x + x + 5 + x + 10 + x + 15 + ....                                      &= 175 \\\\
 (x + x + x + x + x + x + x) + (5 + 10 + 15 + 20 + 25 + 30)              &= 175 \\\\
 7x + 105                                                                &= 175 \\\\
@@ -4990,7 +5049,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D420B70D-FFDF-4298-9B28-CB918A886544</p>
 </div>
@@ -5004,7 +5063,7 @@ $
 <p>rag_kr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5028,8 +5087,6 @@ $10(x+y)$
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per the question,
 
 $
 \begin{aligned}
@@ -5055,9 +5112,7 @@ $6x + 4y$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-<emptyline>
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{Cost of a ruler}                 &= x \ \text{pence} \\\\
 \text{Cost of a pen}                   &= y \ \text{pence} 
@@ -5134,7 +5189,7 @@ Remove APTQ
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>94C2C3F2-69F9-49F2-946E-30BF9FEA63BD</p>
 </div>
@@ -5148,7 +5203,7 @@ Remove APTQ
 <p>rag_kr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5175,7 +5230,15 @@ $
 \begin{aligned} 
 a + b                    &= 35 \\\\
 a - b                    &= 13 \\\\
-\text{substracting,} \\\\
+\end{aligned}
+$
+
+We have got $2$ variables and we have $2$ equations to solve them. Lets eliminate to reduce it to just one variable.
+
+Subtract the first equation from the second to reduce it to one variable.
+
+$
+\begin{aligned} 
 a + b - (a - b)          &= 35 - 13 \\\\
 a + b - a + b            &= 22 \\\\
 2b                       &= 22 \\\\
@@ -5223,7 +5286,15 @@ $
 \begin{aligned} 
 a + b                    &= 35 \\\\
 a - b                    &= 13 \\\\
-\text{substracting,} \\\\
+\end{aligned}
+$
+<emptyline>
+We have got $2$ variables and we have $2$ equations to solve them. Lets eliminate to reduce it to just one variable.
+<emptyline>
+Subtract the first equation from the second to reduce it to one variable.
+<emptyline>
+$
+\begin{aligned} 
 a + b - (a - b)          &= 35 - 13 \\\\
 a + b - a + b            &= 22 \\\\
 2b                       &= 22 \\\\
@@ -5356,24 +5427,24 @@ In the following questions fill in the missing number. You can only use WHOLE nu
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5432,24 +5503,24 @@ $
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5509,24 +5580,24 @@ $
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5577,24 +5648,24 @@ $\dfrac{\boxed{\phantom{9}} - 6}{6} = 6$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5645,24 +5716,24 @@ $\dfrac{40}{\boxed{\phantom{9}}+ 5}=5$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5713,24 +5784,24 @@ $(\boxed{\phantom{9}}+ 7) \div 9 = 9$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5781,24 +5852,24 @@ $4 \times \boxed{\phantom{9}}  - 13 = 55$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5886,7 +5957,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_red rag_prr question'>
 <div class='uuid'>
 <p>0B640AE5-947E-4730-B840-EF6C11260EA6</p>
 </div>
@@ -5897,10 +5968,10 @@ TODOANSWER
 <p>Kamu Rohith</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_kr_red</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5927,24 +5998,24 @@ Fill in the missing numbers for Tom’s machine
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5996,24 +6067,24 @@ Sarah’s machine multiplies by $5$ and then adds $4$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6064,36 +6135,29 @@ If Sarah puts in the number $2$, what number comes out?……………….
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$= 2 \times 5 + 4$
+$= 10 + 4$
+$= 14$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+14
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>As per the question,
+<emptyline>
+$= 2 \times 5 + 4$
+$= 10 + 4$
+$= 14$
 </code></pre>
 </div>
 </div>
@@ -6105,17 +6169,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>14
 </code></pre>
 </div>
 </div>
@@ -6132,36 +6186,29 @@ If Sarah puts in the number $7$, what number comes out?…………………
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$= 7 \times 5 + 4$
+$= 35 + 4$
+$= 39$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+39
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>As per the question,
+<emptyline>
+$= 7 \times 5 + 4$
+$= 35 + 4$
+$= 39$
 </code></pre>
 </div>
 </div>
@@ -6173,17 +6220,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>39
 </code></pre>
 </div>
 </div>
@@ -6201,24 +6238,24 @@ They both put the same number into their machines.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6267,24 +6304,24 @@ If $45$ comes out of Tom’s machine what comes out of Sarah’s?…………...
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6335,24 +6372,24 @@ If $19$ comes out of Sarah’s machine what comes out of Tom’s?…………...
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6400,50 +6437,10 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='0B640AE5-947E-4730-B840-EF6C11260EA6' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='0B640AE5-947E-4730-B840-EF6C11260EA6' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='0B640AE5-947E-4730-B840-EF6C11260EA6' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='0B640AE5-947E-4730-B840-EF6C11260EA6' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='0B640AE5-947E-4730-B840-EF6C11260EA6' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='0B640AE5-947E-4730-B840-EF6C11260EA6' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='0B640AE5-947E-4730-B840-EF6C11260EA6' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='0B640AE5-947E-4730-B840-EF6C11260EA6' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='0B640AE5-947E-4730-B840-EF6C11260EA6' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='0B640AE5-947E-4730-B840-EF6C11260EA6' id='FORM-0B640AE5-947E-4730-B840-EF6C11260EA6' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-0B640AE5-947E-4730-B840-EF6C11260EA6'>Initial</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>B33A22B5-0C06-4A7C-A218-0C2B9A928463</p>
 </div>
@@ -6457,7 +6454,7 @@ TODOANSWER
 <p>rag_kr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6632,7 +6629,7 @@ Lets find out $2$ numbers which.....
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F144AB4B-7F3C-4D5C-A3B8-FD43E18D9B4E</p>
 </div>
@@ -6646,7 +6643,7 @@ Lets find out $2$ numbers which.....
 <p>rag_kr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6704,7 +6701,7 @@ I think of a number, double it and take away $5$. The answer is $13$. What was m
 <div class='workings'>
 <div class='working'>
 
-Let the number that I think of $= a$
+Let the number that I thought of $= a$
 
 As per the question,
 
@@ -6734,7 +6731,7 @@ $9$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number that I think of $= a$
+<pre class='language-latex'><code class='language-latex'>Let the number that I thought of $= a$
 <emptyline>
 As per the question,
 <emptyline>
@@ -6779,7 +6776,7 @@ I think of another number, take away $5$ and then double it. My answer is again 
 <div class='workings'>
 <div class='working'>
 
-Let the other number I think of $= a$
+Let the number I thought of $= a$
 
 As per the question,
 
@@ -6796,7 +6793,7 @@ a                                                            &= 13
 \end{aligned}
 $
 
-The other number I thought of $= 13$
+The number I thought of $= 13$
 
 </div>
 </div>
@@ -6810,7 +6807,7 @@ $13$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the other number I think of $= a$
+<pre class='language-latex'><code class='language-latex'>Let the number I thought of $= a$
 <emptyline>
 As per the question,
 <emptyline>
@@ -6827,7 +6824,7 @@ a                                                            &= 13
 \end{aligned}
 $
 <emptyline>
-The other number I thought of $= 13$
+The number I thought of $= 13$
 </code></pre>
 </div>
 </div>
@@ -6856,7 +6853,7 @@ Finally I think of another number, multiply it by itself and take away $5$. My a
 <div class='workings'>
 <div class='working'>
 
-Let the final number I think of $= a$
+Let the number I thought of $= a$
 
 As per the question,
 
@@ -6866,12 +6863,12 @@ a^{2} - 5                                                &= 31 \\\\
 a^{2}                                                    &= 31 + 5 \\\\
 a^{2}                                                    &= 36 \\\\
 a^{2}                                                    &= 6 \times 6 \\\\
-a^{2}                                                    &= 6^{2} \\\\
+a                                                        &= \sqrt{36} \\\\
 a                                                        &= 6
 \end{aligned}
 $
 
-The final number I thought of $= 6$
+The number I thought of $= 6$
 
 </div>
 </div>
@@ -6885,7 +6882,7 @@ $6$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the final number I think of $= a$
+<pre class='language-latex'><code class='language-latex'>Let the number I thought of $= a$
 <emptyline>
 As per the question,
 <emptyline>
@@ -6895,12 +6892,12 @@ a^{2} - 5                                                &= 31 \\\\
 a^{2}                                                    &= 31 + 5 \\\\
 a^{2}                                                    &= 36 \\\\
 a^{2}                                                    &= 6 \times 6 \\\\
-a^{2}                                                    &= 6^{2} \\\\
+a                                                        &= \sqrt{36} \\\\
 a                                                        &= 6
 \end{aligned}
 $
 <emptyline>
-The final number I thought of $= 6$
+The number I thought of $= 6$
 </code></pre>
 </div>
 </div>
@@ -6991,7 +6988,7 @@ a = \sqrt{36}
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>221E511B-DE91-4CBA-B94C-E09063EABF52</p>
 </div>
@@ -7005,7 +7002,7 @@ a = \sqrt{36}
 <p>rag_kr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7019,64 +7016,10 @@ talgebra
 In the following questions fill in the missing number. You can only use WHOLE numbers.
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-TODOWORKING
 
-</div>
-<div class='working'>
 
-TODOWORKING
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -7088,36 +7031,45 @@ $(\boxed{\phantom{9}} + 4) \times 7 = 63$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the missing number $= a$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin {aligned}
+(a + 4) \times 7 &= 63 \\\\
+(a + 4)          &= \dfrac{63}{7} \\\\
+a + 4            &= 9 \\\\
+a                &= 9 - 4 \\\\
+a                &= 5
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+5
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin {aligned}
+(a + 4) \times 7 &= 63 \\\\
+(a + 4)          &= \dfrac{63}{7} \\\\
+a + 4            &= 9 \\\\
+a                &= 9 - 4 \\\\
+a                &= 5
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -7129,17 +7081,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>5
 </code></pre>
 </div>
 </div>
@@ -7156,36 +7098,45 @@ $2 \times \boxed{\phantom{9}} + 7 = 33$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the missing number $= a$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin {aligned}
+2 \times a + 7 &= 33 \\\\
+2a             &= 33 - 7 \\\\
+2a             &= 26 \\\\
+a              &= \dfrac{26}{2} \\\\
+a              &= 13
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+13
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin {aligned}
+2 \times a + 7 &= 33 \\\\
+2a             &= 33 - 7 \\\\
+2a             &= 26 \\\\
+a              &= \dfrac{26}{2} \\\\
+a              &= 13
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -7197,17 +7148,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>13
 </code></pre>
 </div>
 </div>
@@ -7224,36 +7165,25 @@ $ \boxed{\phantom{9}} \times …. = 21$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$1 \times 21 = 21$
+or
+$3 \times 7  = 21$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+1,21 or 3,7
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$1 \times 21 = 21$
+or
+$3 \times 7  = 21$
 </code></pre>
 </div>
 </div>
@@ -7265,17 +7195,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>1,21 or 3,7
 </code></pre>
 </div>
 </div>
@@ -7292,36 +7212,47 @@ $187 \div \boxed{\phantom{9}} = 11$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the missing number $= a$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+\dfrac{187}{a}      &= 11 \\\\
+\dfrac{187}{11}     &= a \\\\
+a                   &= \dfrac{187}{11} \\\\
+a                   &= \dfrac{17 \times 11}{11} \\\\
+a                   &= \dfrac{17 \times \cancel{11}}{\cancel{11}} \\\\
+a                   &= 17
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+17
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin{aligned}
+\dfrac{187}{a}      &= 11 \\\\
+\dfrac{187}{11}     &= a \\\\
+a                   &= \dfrac{187}{11} \\\\
+a                   &= \dfrac{17 \times 11}{11} \\\\
+a                   &= \dfrac{17 \times \cancel{11}}{\cancel{11}} \\\\
+a                   &= 17
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -7333,17 +7264,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>17
 </code></pre>
 </div>
 </div>
@@ -7360,36 +7281,45 @@ $\dfrac{\boxed{\phantom{9}} + 6}{3} = 5$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the missing number $= a$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+\dfrac{a + 6}{3}      &= 5 \\\\
+a + 6                 &= 5 \times 3 \\\\
+a + 6                 &= 15 \\\\
+a                     &= 15 - 6 \\\\
+a                     &= 9 \\\\
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+9
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin{aligned}
+\dfrac{a + 6}{3}      &= 5 \\\\
+a + 6                 &= 5 \times 3 \\\\
+a + 6                 &= 15 \\\\
+a                     &= 15 - 6 \\\\
+a                     &= 9 \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -7401,17 +7331,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>9
 </code></pre>
 </div>
 </div>
@@ -7428,36 +7348,47 @@ $(13 - \boxed{\phantom{9}})^2 = 25$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the missing number $= a$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+(13 - a)^2      &= 25 \\\\
+13 - a          &= \sqrt{25} \\\\
+13 - a          &= 5 \\\\
+13 - 5          &= a \\\\
+a               &= 13 - 5 \\\\
+a               &= 8 \\\\
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+8
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin{aligned}
+(13 - a)^2      &= 25 \\\\
+13 - a          &= \sqrt{25} \\\\
+13 - a          &= 5 \\\\
+13 - 5          &= a \\\\
+a               &= 13 - 5 \\\\
+a               &= 8 \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -7469,17 +7400,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>8
 </code></pre>
 </div>
 </div>
@@ -7531,7 +7452,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_red rag_prr question'>
 <div class='uuid'>
 <p>FA606756-5FA6-4959-A904-F555390F5FB2</p>
 </div>
@@ -7542,10 +7463,10 @@ TODOANSWER
 <p>Kamu Rohith</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_kr_red</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7572,24 +7493,24 @@ They both put the same number into their machines.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -7638,24 +7559,24 @@ If $41$ comes out of Tom’s machine what comes out of Sarah’s?…………...
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -7706,24 +7627,24 @@ If $55$ comes out of Sarah’s machine what comes out of Tom’s?…………...
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -7768,46 +7689,6 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='FA606756-5FA6-4959-A904-F555390F5FB2' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='FA606756-5FA6-4959-A904-F555390F5FB2' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='FA606756-5FA6-4959-A904-F555390F5FB2' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='FA606756-5FA6-4959-A904-F555390F5FB2' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='FA606756-5FA6-4959-A904-F555390F5FB2' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='FA606756-5FA6-4959-A904-F555390F5FB2' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='FA606756-5FA6-4959-A904-F555390F5FB2' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='FA606756-5FA6-4959-A904-F555390F5FB2' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='FA606756-5FA6-4959-A904-F555390F5FB2' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FA606756-5FA6-4959-A904-F555390F5FB2' id='FORM-FA606756-5FA6-4959-A904-F555390F5FB2' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-FA606756-5FA6-4959-A904-F555390F5FB2'>Initial</p>
-</div>
 </div>
 </li>
 <li>
@@ -7995,7 +7876,7 @@ Two numbers are $= 12, \ 7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>804A8187-AD60-4769-B185-B37F2328C4B6</p>
 </div>
@@ -8009,7 +7890,7 @@ Two numbers are $= 12, \ 7$
 <p>rag_kr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8023,64 +7904,10 @@ talgebra
 What are the missing numbers in the sums shown below?
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-TODOWORKING
 
-</div>
-<div class='working'>
 
-TODOWORKING
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -8092,36 +7919,43 @@ $18 - \boxed{\phantom{9}} = 13$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the missing number $= a$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+18 - a              &= 13 \\\\
+18 - 13             &= a \\\\
+a                   &= 18 - 13 \\\\
+a                   &= 5 \\\\
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+5
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin{aligned}
+18 - a              &= 13 \\\\
+18 - 13             &= a \\\\
+a                   &= 18 - 13 \\\\
+a                   &= 5 \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -8133,17 +7967,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>5
 </code></pre>
 </div>
 </div>
@@ -8160,36 +7984,41 @@ $\boxed{\phantom{9}} - 29 = 56$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the missing number $= a$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+a - 29              &= 56 \\\\
+a                   &= 56 + 29 \\\\
+a                   &= 85
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+85
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin{aligned}
+a - 29              &= 56 \\\\
+a                   &= 56 + 29 \\\\
+a                   &= 85
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -8201,17 +8030,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>85
 </code></pre>
 </div>
 </div>
@@ -8228,36 +8047,47 @@ $560 \div \boxed{\phantom{9}} = 14$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the missing number $= a$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+\dfrac{560}{a}              &= 14 \\\\
+\dfrac{560}{14}             &= a \\\\
+a                           &= \dfrac{560}{14} \\\\
+a                           &= \dfrac{40 \times 14}{14} \\\\
+a                           &= \dfrac{40 \times \cancel{14}}{\cancel{14}} \\\\
+a                           &= 40
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+40
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin{aligned}
+\dfrac{560}{a}              &= 14 \\\\
+\dfrac{560}{14}             &= a \\\\
+a                           &= \dfrac{560}{14} \\\\
+a                           &= \dfrac{40 \times 14}{14} \\\\
+a                           &= \dfrac{40 \times \cancel{14}}{\cancel{14}} \\\\
+a                           &= 40
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -8269,17 +8099,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>40
 </code></pre>
 </div>
 </div>
@@ -8296,36 +8116,49 @@ $(8 + \boxed{\phantom{9}}) \times 5 = 85$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the missing number $= a$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+(8 + a) \times 5            &= 85 \\\\
+(8 + a)                     &= \dfrac{85}{5} \\\\
+(8 + a)                     &= \dfrac{17 \times 5}{5} \\\\
+8 + a                       &= \dfrac{17 \times \cancel{5}}{\cancel{5}} \\\\
+8 + a                       &= 17 \\\\
+a                           &= 17 - 8 \\\\
+a                           &= 9 \\\\
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+9
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin{aligned}
+(8 + a) \times 5            &= 85 \\\\
+(8 + a)                     &= \dfrac{85}{5} \\\\
+(8 + a)                     &= \dfrac{17 \times 5}{5} \\\\
+8 + a                       &= \dfrac{17 \times \cancel{5}}{\cancel{5}} \\\\
+8 + a                       &= 17 \\\\
+a                           &= 17 - 8 \\\\
+a                           &= 9 \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -8337,17 +8170,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>9
 </code></pre>
 </div>
 </div>
@@ -8364,36 +8187,29 @@ $\boxed{\phantom{9}} \times \boxed{\phantom{9}} = 21$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$1 \times 21$
 
-</div>
-<div class='working'>
+or
 
-TODOWORKING
+$3 \times 7$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$1,21$ or $3,7$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$1 \times 21$
+<emptyline>
+or
+<emptyline>
+$3 \times 7$
 </code></pre>
 </div>
 </div>
@@ -8405,17 +8221,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$1,21$ or $3,7$
 </code></pre>
 </div>
 </div>
@@ -8432,36 +8238,47 @@ $\dfrac{(24 - \boxed{\phantom{9}})}{4} = 4$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the missing number $= a$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+\dfrac{24 - a}{4}           &= 4 \\\\
+24 - a                      &= 4 \times 4 \\\\
+24 - a                      &= 16 \\\\
+24 - 16                     &= a \\\\
+8                           &= a \\\\
+a                           &= 8 \\\\
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+8
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin{aligned}
+\dfrac{24 - a}{4}           &= 4 \\\\
+24 - a                      &= 4 \times 4 \\\\
+24 - a                      &= 16 \\\\
+24 - 16                     &= a \\\\
+8                           &= a \\\\
+a                           &= 8 \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -8473,17 +8290,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>8
 </code></pre>
 </div>
 </div>
@@ -8500,36 +8307,49 @@ $3 \times \boxed{\phantom{9}} + 7 = 22$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the missing number $= a$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+3 \times a + 7              &= 22 \\\\
+3a                          &= 22 - 7 \\\\
+3a                          &= 15 \\\\
+a                           &= \dfrac{15}{3} \\\\
+a                           &= \dfrac{5 \times 3}{3} \\\\
+a                           &= \dfrac{5 \times \cancel{3}}{\cancel{3}} \\\\
+a                           &= 5 \\\\
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+5
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin{aligned}
+3 \times a + 7              &= 22 \\\\
+3a                          &= 22 - 7 \\\\
+3a                          &= 15 \\\\
+a                           &= \dfrac{15}{3} \\\\
+a                           &= \dfrac{5 \times 3}{3} \\\\
+a                           &= \dfrac{5 \times \cancel{3}}{\cancel{3}} \\\\
+a                           &= 5 \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -8541,17 +8361,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>5
 </code></pre>
 </div>
 </div>
@@ -8568,36 +8378,41 @@ $\boxed{\phantom{9}} \div 12 = 12$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the missing number $= a$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+\dfrac{a}{12}               &= 12 \\\\
+a                           &= 12 \times 12 \\\\
+a                           &= 144 \\\\
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+144
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin{aligned}
+\dfrac{a}{12}               &= 12 \\\\
+a                           &= 12 \times 12 \\\\
+a                           &= 144 \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -8609,17 +8424,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>144
 </code></pre>
 </div>
 </div>
@@ -8636,36 +8441,45 @@ $\dfrac{(\boxed{\phantom{9}} + 4)}{5} = 10$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the missing number $= a$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+\dfrac{a+4}{5}              &= 10 \\\\
+a+4                         &= 10 \times 5 \\\\
+a+4                         &= 50 \\\\
+a                           &= 50 - 4 \\\\
+a                           &= 46 \\\\
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+46
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin{aligned}
+\dfrac{a+4}{5}              &= 10 \\\\
+a+4                         &= 10 \times 5 \\\\
+a+4                         &= 50 \\\\
+a                           &= 50 - 4 \\\\
+a                           &= 46 \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -8677,17 +8491,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>46
 </code></pre>
 </div>
 </div>
@@ -8739,7 +8543,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6D06FFAF-73C4-4670-8ACC-CCB6B58F7035</p>
 </div>
@@ -8753,7 +8557,7 @@ TODOANSWER
 <p>rag_kr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8774,9 +8578,9 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Distance}                                         &= 25 \text{m} \times (4 - 1) \\\\\
+\text{Distance}                                         &= 25 \times (4 - 1) \\\\\
                                                         &= 25 \times 3 \\\\\
-                                                        &= 75 \text{m}
+                                                        &= 75 \ \text{m}
 \end{aligned}
 $
 
@@ -8785,7 +8589,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$75 \text{m}$
+$75 \ \text{m}$
 
 </div>
 </div>
@@ -8796,9 +8600,9 @@ $75 \text{m}$
 <emptyline>
 $
 \begin{aligned}
-\text{Distance}                                         &= 25 \text{m} \times (4 - 1) \\\\\
+\text{Distance}                                         &= 25 \times (4 - 1) \\\\\
                                                         &= 25 \times 3 \\\\\
-                                                        &= 75 \text{m}
+                                                        &= 75 \ \text{m}
 \end{aligned}
 $
 </code></pre>
@@ -8812,7 +8616,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$75 \text{m}$
+<pre class='language-latex'><code class='language-latex'>$75 \ \text{m}$
 </code></pre>
 </div>
 </div>
@@ -8876,7 +8680,7 @@ Give space in answer section as well.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D8DDAA97-5C24-49AD-AD19-FECB4EA32A69</p>
 </div>
@@ -8890,7 +8694,7 @@ Give space in answer section as well.
 <p>rag_kr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8913,7 +8717,6 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Total children}                                    &= \text{Total girls} + \text{Total boys} \\\\
 a                                                        &= \dfrac {3a} {4} + 20 \\\\
 a - \dfrac {3a} {4}                                      &= 20 \\\\
 \dfrac {a \times 4} {1 \times 4} - \dfrac {3a} {4}       &= 20 \\\\
@@ -8952,7 +8755,6 @@ As per the question,
 <emptyline>
 $
 \begin{aligned}
-\text{Total children}                                    &= \text{Total girls} + \text{Total boys} \\\\
 a                                                        &= \dfrac {3a} {4} + 20 \\\\
 a - \dfrac {3a} {4}                                      &= 20 \\\\
 \dfrac {a \times 4} {1 \times 4} - \dfrac {3a} {4}       &= 20 \\\\
@@ -9041,7 +8843,7 @@ remove \"total children ...\" line after \"APTQ\"
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>A2CF61F6-EF23-4B0B-A909-D2286502CE42</p>
 </div>
@@ -9055,7 +8857,7 @@ remove \"total children ...\" line after \"APTQ\"
 <p>rag_kr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -9072,31 +8874,53 @@ A ball is dropped onto a hard surface and each time it bounces, it rebounds to o
 <div class='workings'>
 <div class='working'>
 
+Let the height ball initially dropped from $= h$
+
+As per the question,
+
 $
 \begin{aligned}
-\text{Height it was initially dropped from}                       &= 9 \text{cm} \times 3 \times 3 \\\\
-                                                                  &= 81 \text{cm}
+\dfrac{1}{3} \times (\dfrac{1}{3} \times h)   &= 9 \\\\
+\dfrac{1}{3} \times (\dfrac{1 \times h}{3})   &= 9 \\\\
+\dfrac{1}{3} \times (\dfrac{h}{3})            &= 9 \\\\
+\dfrac{1 \times h}{3 \times 3}                &= 9 \\\\
+\dfrac{h}{9}                                  &= 9 \\\\
+h                                             &= 9 \times 9 \\\\
+h                                             &= 81
 \end{aligned}
 $
+
+The ball initially dropped from height $= 81 \ \text{cm}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$81 \text{cm}$
+$81 \ \text{cm}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>Let the height ball initially dropped from $= h$
+<emptyline>
+As per the question,
+<emptyline>
+$
 \begin{aligned}
-\text{Height it was initially dropped from}                       &= 9 \text{cm} \times 3 \times 3 \\\\
-                                                                  &= 81 \text{cm}
+\dfrac{1}{3} \times (\dfrac{1}{3} \times h)   &= 9 \\\\
+\dfrac{1}{3} \times (\dfrac{1 \times h}{3})   &= 9 \\\\
+\dfrac{1}{3} \times (\dfrac{h}{3})            &= 9 \\\\
+\dfrac{1 \times h}{3 \times 3}                &= 9 \\\\
+\dfrac{h}{9}                                  &= 9 \\\\
+h                                             &= 9 \times 9 \\\\
+h                                             &= 81
 \end{aligned}
 $
+<emptyline>
+The ball initially dropped from height $= 81 \ \text{cm}$
 </code></pre>
 </div>
 </div>
@@ -9108,7 +8932,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$81 \text{cm}$
+<pre class='language-latex'><code class='language-latex'>$81 \ \text{cm}$
 </code></pre>
 </div>
 </div>
@@ -9364,7 +9188,7 @@ Two numbers that have a difference of 8 and added upto 18 are $= 13$ and $5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>FA843EAA-F702-4936-BB34-64832BB1FF94</p>
 </div>
@@ -9378,7 +9202,7 @@ Two numbers that have a difference of 8 and added upto 18 are $= 13$ and $5$
 <p>rag_kr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -9392,64 +9216,10 @@ talgebra
 What are the missing numbers in the sums shown below?  
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-TODOWORKING
 
-</div>
-<div class='working'>
 
-TODOWORKING
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -9461,36 +9231,43 @@ $27 - \boxed{\phantom{9}} = 19$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the missing number $= a$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+27 - a                      &= 19 \\\\
+27 - 19                     &= a \\\\
+8                           &= a \\\\
+a                           &= 18 \\\\
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+18
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin{aligned}
+27 - a                      &= 19 \\\\
+27 - 19                     &= a \\\\
+8                           &= a \\\\
+a                           &= 18 \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -9502,17 +9279,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>18
 </code></pre>
 </div>
 </div>
@@ -9529,36 +9296,41 @@ $\boxed{\phantom{9}} - 59 = 24$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the missing number $= a$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+a - 59                      &= 24 \\\\
+a                           &= 24 + 59 \\\\
+a                           &= 83 \\\\
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+83
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin{aligned}
+a - 59                      &= 24 \\\\
+a                           &= 24 + 59 \\\\
+a                           &= 83 \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -9570,17 +9342,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>83
 </code></pre>
 </div>
 </div>
@@ -9597,36 +9359,47 @@ $270 \div \boxed{\phantom{9}} = 15$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the missing number $= a$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+\dfrac{270}{a}                                &= 15 \\\\
+\dfrac{270}{15}                               &= a \\\\
+\dfrac{18 \times 15}{15}                      &= a \\\\
+\dfrac{18 \times \cancel{15}}{\cancel{15}}    &= a \\\\
+18                                            &= a \\\\
+a                                             &= 18 \\\\
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+18
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin{aligned}
+\dfrac{270}{a}                                &= 15 \\\\
+\dfrac{270}{15}                               &= a \\\\
+\dfrac{18 \times 15}{15}                      &= a \\\\
+\dfrac{18 \times \cancel{15}}{\cancel{15}}    &= a \\\\
+18                                            &= a \\\\
+a                                             &= 18 \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -9638,17 +9411,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>18
 </code></pre>
 </div>
 </div>
@@ -9665,36 +9428,45 @@ $(8 + \boxed{\phantom{9}} ) \times 4 = 88$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the missing number $= a$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+(8 + a) \times 4                              &= 88 \\\\
+8 + a                                         &= \dfrac{88}{4} \\\\
+8 + a                                         &= 22 \\\\
+a                                             &= 22 - 8 \\\\
+a                                             &= 14 \\\\
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+14
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin{aligned}
+(8 + a) \times 4                              &= 88 \\\\
+8 + a                                         &= \dfrac{88}{4} \\\\
+8 + a                                         &= 22 \\\\
+a                                             &= 22 - 8 \\\\
+a                                             &= 14 \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -9706,17 +9478,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>14
 </code></pre>
 </div>
 </div>
@@ -9733,36 +9495,29 @@ $\boxed{\phantom{9}}    \times \boxed{\phantom{9}} =25$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$1 \times 25 = 25$ 
 
-</div>
-<div class='working'>
+or 
 
-TODOWORKING
+$5 \times 5 = 25$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$1,25$ or $5,5$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$1 \times 25 = 25$ 
+<emptyline>
+or 
+<emptyline>
+$5 \times 5 = 25$
 </code></pre>
 </div>
 </div>
@@ -9774,17 +9529,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$1,25$ or $5,5$
 </code></pre>
 </div>
 </div>
@@ -9801,36 +9546,47 @@ $\dfrac{(24 - \boxed{\phantom{9}} )}{3} = 7$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the missing number $= a$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+\dfrac{24 - a}{3}                             &= 7 \\\\
+24 - a                                        &= 7 \times 3 \\\\
+24 - a                                        &= 21 \\\\
+24 - 21                                       &= a \\\\
+3                                             &= a \\\\
+a                                             &= 3 \\\\
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+3
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin{aligned}
+\dfrac{24 - a}{3}                             &= 7 \\\\
+24 - a                                        &= 7 \times 3 \\\\
+24 - a                                        &= 21 \\\\
+24 - 21                                       &= a \\\\
+3                                             &= a \\\\
+a                                             &= 3 \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -9842,17 +9598,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>3
 </code></pre>
 </div>
 </div>
@@ -9869,36 +9615,49 @@ $3 \times \boxed{\phantom{9}} + 4 = 22$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the missing number $= a$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+3 \times a + 4                                &= 22 \\\\
+3a                                            &= 22 - 4 \\\\
+3a                                            &= 18 \\\\
+a                                             &= \dfrac{18}{3} \\\\
+a                                             &= \dfrac{6 \times 3}{3} \\\\
+a                                             &= \dfrac{6 \times \cancel{3}}{\cancel{3}} \\\\
+a                                             &= 6 \\\\
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+6
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin{aligned}
+3 \times a + 4                                &= 22 \\\\
+3a                                            &= 22 - 4 \\\\
+3a                                            &= 18 \\\\
+a                                             &= \dfrac{18}{3} \\\\
+a                                             &= \dfrac{6 \times 3}{3} \\\\
+a                                             &= \dfrac{6 \times \cancel{3}}{\cancel{3}} \\\\
+a                                             &= 6 \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -9910,17 +9669,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>6
 </code></pre>
 </div>
 </div>
@@ -9937,36 +9686,41 @@ $\boxed{\phantom{9}} + 7 = 13$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the missing number $= a$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+a + 7                                         &= 13 \\\\
+a                                             &= 13 -  7 \\\\
+a                                             &= 6 \\\\
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+6
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin{aligned}
+a + 7                                         &= 13 \\\\
+a                                             &= 13 -  7 \\\\
+a                                             &= 6 \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -9978,17 +9732,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>6
 </code></pre>
 </div>
 </div>
@@ -10005,36 +9749,43 @@ $\dfrac{(\boxed{\phantom{9}}+4)}{8} =  3$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the missing number $= a$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+\dfrac{a+4}{8}                                &= 3 \\\\
+a+4                                           &= 3 \times 8 \\\\
+a                                             &= 24 - 4 \\\\
+a                                             &= 20 \\\\
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+20
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin{aligned}
+\dfrac{a+4}{8}                                &= 3 \\\\
+a+4                                           &= 3 \times 8 \\\\
+a                                             &= 24 - 4 \\\\
+a                                             &= 20 \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -10046,17 +9797,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>20
 </code></pre>
 </div>
 </div>
@@ -10108,7 +9849,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>EA145F02-7976-40D3-B801-9CB40DAF3F47</p>
 </div>
@@ -10122,7 +9863,7 @@ TODOANSWER
 <p>rag_kr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -10150,7 +9891,7 @@ Since, Multiplying $60$ with any number will give $0$ at last digit. So, The las
 $
 \begin{aligned}
 &= \dfrac {8700} {60} \\\\
-&= \dfrac {6 \times \times 1450} {60} \\\\
+&= \dfrac {6 \times 1450} {60} \\\\
 &= \dfrac {\cancel{6} \times 145 \cancel{0}} {\cancel{60}} \\\\
 &= 145
 \end{aligned}
@@ -10220,7 +9961,7 @@ Since, Multiplying $60$ with any number will give $0$ at last digit. So, The las
 $
 \begin{aligned}
 &= \dfrac {8700} {60} \\\\
-&= \dfrac {6 \times \times 1450} {60} \\\\
+&= \dfrac {6 \times 1450} {60} \\\\
 &= \dfrac {\cancel{6} \times 145 \cancel{0}} {\cancel{60}} \\\\
 &= 145
 \end{aligned}
@@ -10341,7 +10082,7 @@ In First working remove extra x
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>99BB0D36-DE72-4B67-8BBB-1A6770ADCF2D</p>
 </div>
@@ -10355,7 +10096,7 @@ In First working remove extra x
 <p>rag_kr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -10372,49 +10113,47 @@ Seven telegraph poles are equally spaced along a road. The distance between the 
 <div class='workings'>
 <div class='working'>
 
-As per the question,
 
+Distance between first and last pole = Total poles $- 1 \times$ Distance between two poles
 
 $
 \begin{aligned}
-\text{Distance} &= \text{Count of poles - 1} \times \text{Distance between two poles} \\\\\
 &= 7 - 1 \times \dfrac {268 \text{m}} {2} \\\\\
 &= 6 \times \dfrac {2 \times 134} {2} \\\\\
 &= 6 \times \dfrac {\cancel{2} \times 134} {\cancel{2}} \\\\\
 &= 6 \times 134 \\\\\
-&= 804 \text{m}
+&= 804 \ \text{m}
 \end{aligned}
 $
 
-The distance between the first and the last pole $=804 \text{m}$
+The distance between the first and the last pole $=804 \ \text{m}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$804 \text{m}$
+$804\ \text{m}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
+<pre class='language-latex'><code class='language-latex'>
+Distance between first and last pole = Total poles $- 1 \times$ Distance between two poles
 <emptyline>
-
 $
 \begin{aligned}
-\text{Distance} &= \text{Count of poles - 1} \times \text{Distance between two poles} \\\\\
 &= 7 - 1 \times \dfrac {268 \text{m}} {2} \\\\\
 &= 6 \times \dfrac {2 \times 134} {2} \\\\\
 &= 6 \times \dfrac {\cancel{2} \times 134} {\cancel{2}} \\\\\
 &= 6 \times 134 \\\\\
-&= 804 \text{m}
+&= 804 \ \text{m}
 \end{aligned}
 $
 <emptyline>
-The distance between the first and the last pole $=804 \text{m}$
+The distance between the first and the last pole $=804 \ \text{m}$
 </code></pre>
 </div>
 </div>
@@ -10426,7 +10165,7 @@ The distance between the first and the last pole $=804 \text{m}$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$804 \text{m}$
+<pre class='language-latex'><code class='language-latex'>$804\ \text{m}$
 </code></pre>
 </div>
 </div>
@@ -10510,7 +10249,7 @@ Remove last line.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5B8D18CD-2CFA-4594-8C03-B6723148134E</p>
 </div>
@@ -10524,7 +10263,7 @@ Remove last line.
 <p>rag_kr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -10547,7 +10286,6 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Total weight of chocolate}                                                                            &= \text{Paul's share} + \text{Peter's share} + \text{Richard's share} \\\\
 a                                                                                                           &= \dfrac {1} {2} \times a + \dfrac {1} {3} \times a + 100 \\\\
 a                                                                                                           &= \dfrac {a} {2} + \dfrac {a} {3} + 100 \\\\
 a - \dfrac {a} {2} - \dfrac {a} {3}                                                                         &= 100 \\\\
@@ -10556,18 +10294,18 @@ a - \dfrac {a} {2} - \dfrac {a} {3}                                             
 \dfrac {6a - 3a - 2a} {6}                                                                                   &= 100 \\\\
 \dfrac {a} {6}                                                                                              &= 100 \\\\
 a                                                                                                           &= 100 \times 6 \\\\
-a                                                                                                           &= 600 \text{g}
+a                                                                                                           &= 600 \ \text{g}
 \end{aligned}
 $
 
-The bar was having $600$ \text{g} chocolates originally.
+The bar was having $600 \ \text{g}$ heavy originally.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$600 \text{g}$
+$600 \ \text{g}$
 
 </div>
 </div>
@@ -10580,7 +10318,6 @@ As per the question,
 <emptyline>
 $
 \begin{aligned}
-\text{Total weight of chocolate}                                                                            &= \text{Paul's share} + \text{Peter's share} + \text{Richard's share} \\\\
 a                                                                                                           &= \dfrac {1} {2} \times a + \dfrac {1} {3} \times a + 100 \\\\
 a                                                                                                           &= \dfrac {a} {2} + \dfrac {a} {3} + 100 \\\\
 a - \dfrac {a} {2} - \dfrac {a} {3}                                                                         &= 100 \\\\
@@ -10589,11 +10326,11 @@ a - \dfrac {a} {2} - \dfrac {a} {3}                                             
 \dfrac {6a - 3a - 2a} {6}                                                                                   &= 100 \\\\
 \dfrac {a} {6}                                                                                              &= 100 \\\\
 a                                                                                                           &= 100 \times 6 \\\\
-a                                                                                                           &= 600 \text{g}
+a                                                                                                           &= 600 \ \text{g}
 \end{aligned}
 $
 <emptyline>
-The bar was having $600$ \text{g} chocolates originally.
+The bar was having $600 \ \text{g}$ heavy originally.
 </code></pre>
 </div>
 </div>
@@ -10605,7 +10342,7 @@ The bar was having $600$ \text{g} chocolates originally.
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$600 \text{g}$
+<pre class='language-latex'><code class='language-latex'>$600 \ \text{g}$
 </code></pre>
 </div>
 </div>
@@ -10677,7 +10414,7 @@ iii) Last line should be \"The bar was $600 \ \text{gm}$ heavy originally.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D10222B7-3539-4A50-96F9-131B2DC288B9</p>
 </div>
@@ -10691,7 +10428,7 @@ iii) Last line should be \"The bar was $600 \ \text{gm}$ heavy originally.
 <p>rag_kr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -10722,7 +10459,7 @@ a                                                   &= 33
 \end{aligned}
 $
 
-The number I think of $= 33$
+The number I thought of $= 33$
 
 </div>
 </div>
@@ -10750,7 +10487,7 @@ a                                                   &= 33
 \end{aligned}
 $
 <emptyline>
-The number I think of $= 33$
+The number I thought of $= 33$
 </code></pre>
 </div>
 </div>
@@ -11213,7 +10950,7 @@ The missing number is $= 7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>20EB0151-9603-4A9B-8AA6-93D45586F5A7</p>
 </div>
@@ -11227,7 +10964,7 @@ The missing number is $= 7$
 <p>rag_kr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -11288,7 +11025,7 @@ Find the value of $x$.
 <div class='workings'>
 <div class='working'>
 
-In an equilateral triangle all three sides are equal.
+In equilateral triangle all three sides are equal.
 
 As per the diagram,
 
@@ -11316,7 +11053,7 @@ $4$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>In an equilateral triangle all three sides are equal.
+<pre class='language-latex'><code class='language-latex'>In equilateral triangle all three sides are equal.
 <emptyline>
 As per the diagram,
 <emptyline>
@@ -11359,7 +11096,7 @@ Find the value of $y$.
 <div class='workings'>
 <div class='working'>
 
-In an equilateral triangle all three sides are equal in length.
+In equilateral triangle all three sides are equal in length.
 
 As per the diagram,
 
@@ -11385,7 +11122,7 @@ $8$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>In an equilateral triangle all three sides are equal in length.
+<pre class='language-latex'><code class='language-latex'>In equilateral triangle all three sides are equal in length.
 <emptyline>
 As per the diagram,
 <emptyline>
@@ -11482,7 +11219,7 @@ In case of any doubt ping Naman or Uday.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C4D5964E-323E-4324-81EE-4EA60C92CF15</p>
 </div>
@@ -11496,7 +11233,7 @@ In case of any doubt ping Naman or Uday.
 <p>rag_kr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -11515,11 +11252,13 @@ Martin and Dai divide some sweets between them. There are $65$ sweets, and Marti
 
 Let the number of sweets Martin take $= a$
 
+Number of sweets Dai take $= a - 7$
+
 As per the question,
 
 $
 \begin{aligned}
-\text{Sweets Martin take}                               &= \text{Total sweets} - \text{Sweets Dai take} \\\\
+a + a - 7                                               &= 65
 a                                                       &= 65 - (a - 7) \\\\
 a                                                       &= 65 - a + 7 \\\\
 a + a                                                   &= 65 + 7 \\\\
@@ -11547,11 +11286,13 @@ $36$
 
 <pre class='language-latex'><code class='language-latex'>Let the number of sweets Martin take $= a$
 <emptyline>
+Number of sweets Dai take $= a - 7$
+<emptyline>
 As per the question,
 <emptyline>
 $
 \begin{aligned}
-\text{Sweets Martin take}                               &= \text{Total sweets} - \text{Sweets Dai take} \\\\
+a + a - 7                                               &= 65
 a                                                       &= 65 - (a - 7) \\\\
 a                                                       &= 65 - a + 7 \\\\
 a + a                                                   &= 65 + 7 \\\\
@@ -11643,7 +11384,7 @@ then solve further..
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1386CD9E-4F45-4B19-8D78-E266D298EDFB</p>
 </div>
@@ -11657,7 +11398,7 @@ then solve further..
 <p>rag_kr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -11674,11 +11415,9 @@ In an orchestra there are $60$ children. If $\dfrac {1} {5}$ play the recorder a
 <div class='workings'>
 <div class='working'>
 
-Let's find the number of children playing something else.
-
 $
 \begin{aligned}
-&= \text{Total children - Playing recorder - Playing triangle}  \\\\
+\text{Children playing something else} &= \text{Total children - Playing recorder - Playing triangle}  \\\\
 &= 60 - \dfrac {1} {5} \times 60 - 40\% \times 60 \\\\
 &= 60 - \dfrac {1 \times 60} {5} - \dfrac {40 \times 60} {100} \\\\
 &= 60 - \dfrac {5 \times 12} {5} -  \dfrac {40 \times 60} {100} \\\\
@@ -11687,8 +11426,6 @@ $
 &= 24
 \end{aligned}
 $
-
-Number of children playing something else $= 24$
 
 </div>
 </div>
@@ -11702,11 +11439,9 @@ $24$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let's find the number of children playing something else.
-<emptyline>
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= \text{Total children - Playing recorder - Playing triangle}  \\\\
+\text{Children playing something else} &= \text{Total children - Playing recorder - Playing triangle}  \\\\
 &= 60 - \dfrac {1} {5} \times 60 - 40\% \times 60 \\\\
 &= 60 - \dfrac {1 \times 60} {5} - \dfrac {40 \times 60} {100} \\\\
 &= 60 - \dfrac {5 \times 12} {5} -  \dfrac {40 \times 60} {100} \\\\
@@ -11715,8 +11450,6 @@ $
 &= 24
 \end{aligned}
 $
-<emptyline>
-Number of children playing something else $= 24$
 </code></pre>
 </div>
 </div>

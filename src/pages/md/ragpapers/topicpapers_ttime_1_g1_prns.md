@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-1-g1-prns"
 title: "TopicPaper - Time - 1 - G1 - PRNS"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -38,7 +38,7 @@ tspeed
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 

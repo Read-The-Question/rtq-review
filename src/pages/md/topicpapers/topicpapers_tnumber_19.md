@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-19"
 title: "TopicPaper - Number - 19"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "40"
 ---
 <div class='paper'>
@@ -5621,7 +5621,7 @@ $
 $
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
@@ -5633,7 +5633,7 @@ TODOWORKING
 1.5 kg
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6053,24 +6053,24 @@ Choose from the list above the BEST unit in which to measure each of the followi
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6124,7 +6124,7 @@ The distance from London to Sydney.
 $\text{km}\ $
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
@@ -6136,7 +6136,7 @@ TODOWORKING
 km
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6192,7 +6192,7 @@ The mass of a sweet.
 $\text{g}\ $
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
@@ -6204,7 +6204,7 @@ TODOWORKING
 g
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6260,7 +6260,7 @@ The capacity of a bottle of lemonade.
 $\text{litre}\ $
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
@@ -6272,7 +6272,7 @@ TODOWORKING
 litre
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6328,7 +6328,7 @@ The length of a cricket pitch.
 $\text{m}\ $
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
@@ -6340,7 +6340,7 @@ TODOWORKING
 m
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6396,7 +6396,7 @@ The area of a school playground.
 $\text{m}^2 $
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
@@ -6408,7 +6408,7 @@ TODOWORKING
 $\text{m}^2 $
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -7412,7 +7412,7 @@ $
 
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
@@ -7424,7 +7424,7 @@ TODOWORKING
 21
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

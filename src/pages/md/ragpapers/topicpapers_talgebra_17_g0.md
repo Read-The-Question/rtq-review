@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-17-g0"
 title: "TopicPaper - Algebra - 17 - G0"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "12"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>EE1F9669-3D5F-4C89-85B1-F004C01C7CF7</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "12"
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -47,14 +47,14 @@ If the bag contains $\pounds 15.75$, how many $20 \text{p}$ coins are there?
 <div class='workings'>
 <div class='working'>
 
-Let the number of $5 \text{p}$ coins $= a$. Then,
+Let the number of $5 \text{p}$ coins $= a$
 
 Number of $10 \text{p}$ coins $= 2a$
 
 Number of $20 \text{p}$ coins $= 4a$
 
 ABBR: It is really important to use the right units in calculations and convert where required.
-.
+
 The amount is given in pounds and the coins are in pence. Let's convert the total amount into pence.
 
 As per the question,
@@ -74,17 +74,14 @@ $
 
 Number of $5 \ \text{p}$ coins $= 15$
 
-Number of $20 \ \text{p}$ coins.
-
 $
 \begin {aligned}
-&= 4a \\\\
-&= 4 \times 15 \\\\
-&= 60
+\text{Number of 20 coins}              &= 4a \\\\
+                                       &= 4 \times 15 \\\\
+                                       &= 60
 \end {aligned}
 $
 
-Number of $20 \ \text{p}$ coins $= 60$
 
 </div>
 </div>
@@ -98,13 +95,13 @@ $60$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number of $5 \text{p}$ coins $= a$. Then,
+<pre class='language-latex'><code class='language-latex'>Let the number of $5 \text{p}$ coins $= a$
 <emptyline>
 Number of $10 \text{p}$ coins $= 2a$
 <emptyline>
 Number of $20 \text{p}$ coins $= 4a$
 <emptyline>
-rtq_abbr_md_unit_note.
+rtq_abbr_md_unit_note
 The amount is given in pounds and the coins are in pence. Let's convert the total amount into pence.
 <emptyline>
 As per the question,
@@ -124,17 +121,14 @@ $
 <emptyline>
 Number of $5 \ \text{p}$ coins $= 15$
 <emptyline>
-Number of $20 \ \text{p}$ coins.
-<emptyline>
 $
 \begin {aligned}
-&= 4a \\\\
-&= 4 \times 15 \\\\
-&= 60
+\text{Number of 20 coins}              &= 4a \\\\
+                                       &= 4 \times 15 \\\\
+                                       &= 60
 \end {aligned}
 $
 <emptyline>
-Number of $20 \ \text{p}$ coins $= 60$
 </code></pre>
 </div>
 </div>
@@ -220,7 +214,7 @@ iv) Remove last line.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0D7C430D-B032-4DD3-A97B-F5008B1947C3</p>
 </div>
@@ -234,7 +228,7 @@ iv) Remove last line.
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -253,7 +247,9 @@ $4060800 = 4000000 + \ldots + 800$
 <div class='workings'>
 <div class='working'>
 
-Let the missing number $= a$.
+Let the missing number $= a$
+
+As per the question,
 
 $
 \begin {aligned}
@@ -263,7 +259,7 @@ a                           &= 60000
 \end {aligned}
 $
 
-The missing number is $= 60000$.
+The missing number is $= 60000$
 
 </div>
 </div>
@@ -277,7 +273,9 @@ $60000$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$.
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
+<emptyline>
+As per the question,
 <emptyline>
 $
 \begin {aligned}
@@ -287,7 +285,7 @@ a                           &= 60000
 \end {aligned}
 $
 <emptyline>
-The missing number is $= 60000$.
+The missing number is $= 60000$
 </code></pre>
 </div>
 </div>
@@ -361,7 +359,7 @@ Add APTQ in second line.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>30D0B7AD-9447-463A-831D-D948DCE6F17F</p>
 </div>
@@ -375,7 +373,7 @@ Add APTQ in second line.
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -392,7 +390,7 @@ John thinks of a number. He multiplies that number by four and then adds three t
 <div class='workings'>
 <div class='working'>
 
-Let the number that John thought is $= a$
+Let the number that John thought of $= a$
 
 As per the question,
 
@@ -408,7 +406,7 @@ a         &= 8
 \end {aligned}
 $
 
-The number that John thought $= 8$.
+The number that John thought of $= 8$
 
 </div>
 </div>
@@ -422,7 +420,7 @@ $8$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number that John thought is $= a$
+<pre class='language-latex'><code class='language-latex'>Let the number that John thought of $= a$
 <emptyline>
 As per the question,
 <emptyline>
@@ -438,7 +436,7 @@ a         &= 8
 \end {aligned}
 $
 <emptyline>
-The number that John thought $= 8$.
+The number that John thought of $= 8$
 </code></pre>
 </div>
 </div>
@@ -516,7 +514,7 @@ remove FS from last line
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>864F4E3D-6828-49EA-AE5B-C17F5CF91616</p>
 </div>
@@ -530,7 +528,7 @@ remove FS from last line
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -567,6 +565,7 @@ As per the question,
 $
 \begin{aligned}
 2w + 3f      &= \pounds 2.55 \\\\
+2w + 3f      &= 2.55 \times 100 \text{p} \\\\
 2w + 3f      &= 255 \text{p} \\\\
 w - f        &= 15
 \end{aligned}
@@ -576,9 +575,7 @@ We have got $2$ variables and we have $2$ equations to solve them. Let's elimina
 
 But which one should we eliminate? 
 
-If we look at the question again, we only need the 
-
-cost for a bag of fruit, so let's eliminate $w$ so we can directly calculate the value for $f$.
+If we look at the question again, we only need the cost for a bag of fruit, so let's eliminate $w$ so we can directly calculate the value for $f$.
 
 Multiply the second equation by $2$.
 
@@ -600,11 +597,13 @@ $
 2w + 3f - 2w + 2f   &= 225 \\\\
 5f                  &= 225 \\\\
 f                   &= \dfrac{225}{5} \\\\
-f                   &= 45 \ \text{pence}
+f                   &= \dfrac{45 \times 5}{5} \\\\
+f                   &= \dfrac{45 \times \cancel 5}{\cancel 5} \\\\
+f                   &= 45 \ \text{p}
 \end{aligned}
 $
 
-Cost of a bag of fruit $= 45 \ \text {pence}$.
+Cost of a bag of fruit $= 45 \ \text {p}$
 
 </div>
 <div class='working'>
@@ -635,11 +634,11 @@ $
 2w + 3f + 3w - 3f       &= 300 \\\\
 5w                      &= 300 \\\\
 w                       &= \dfrac{300}{5} \\\\
-w                       &= 60 \ \text{pence}
+w                       &= 60 \ \text{p}
 \end{aligned}
 $
 
-Cost of a bottle of water $= 60 \ \text{pence}$. 
+Cost of a bottle of water $= 60 \ \text{p}$ 
 
 Let's substitute the value of $w$ in one of the initial equations to find the cost of a bag of fruit.
 
@@ -649,11 +648,11 @@ w - f               &= 15 \\\\
 60 -f               &= 15 \\\\
 -f                  &= 15 - 60 \\\\
 -f                  &= -45 \\\\
-f                   &= 45 \ \text{pence}
+f                   &= 45 \ \text{p}
 \end{aligned}
 $
 
-Cost of a bag of fruit $= 45 \ \text {pence}$
+Cost of a bag of fruit $= 45 \ \text {p}$
 
 </div>
 </div>
@@ -680,6 +679,7 @@ As per the question,
 $
 \begin{aligned}
 2w + 3f      &= \pounds 2.55 \\\\
+2w + 3f      &= 2.55 \times 100 \text{p} \\\\
 2w + 3f      &= 255 \text{p} \\\\
 w - f        &= 15
 \end{aligned}
@@ -689,9 +689,7 @@ We have got $2$ variables and we have $2$ equations to solve them. Let's elimina
 <emptyline>
 But which one should we eliminate? 
 <emptyline>
-If we look at the question again, we only need the 
-<emptyline>
-cost for a bag of fruit, so let's eliminate $w$ so we can directly calculate the value for $f$.
+If we look at the question again, we only need the cost for a bag of fruit, so let's eliminate $w$ so we can directly calculate the value for $f$.
 <emptyline>
 Multiply the second equation by $2$.
 <emptyline>
@@ -713,11 +711,13 @@ $
 2w + 3f - 2w + 2f   &= 225 \\\\
 5f                  &= 225 \\\\
 f                   &= \dfrac{225}{5} \\\\
-f                   &= 45 \ \text{pence}
+f                   &= \dfrac{45 \times 5}{5} \\\\
+f                   &= \dfrac{45 \times \cancel 5}{\cancel 5} \\\\
+f                   &= 45 \ \text{p}
 \end{aligned}
 $
 <emptyline>
-Cost of a bag of fruit $= 45 \ \text {pence}$.
+Cost of a bag of fruit $= 45 \ \text {p}$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -748,11 +748,11 @@ $
 2w + 3f + 3w - 3f       &= 300 \\\\
 5w                      &= 300 \\\\
 w                       &= \dfrac{300}{5} \\\\
-w                       &= 60 \ \text{pence}
+w                       &= 60 \ \text{p}
 \end{aligned}
 $
 <emptyline>
-Cost of a bottle of water $= 60 \ \text{pence}$. 
+Cost of a bottle of water $= 60 \ \text{p}$ 
 <emptyline>
 Let's substitute the value of $w$ in one of the initial equations to find the cost of a bag of fruit.
 <emptyline>
@@ -762,11 +762,11 @@ w - f               &= 15 \\\\
 60 -f               &= 15 \\\\
 -f                  &= 15 - 60 \\\\
 -f                  &= -45 \\\\
-f                   &= 45 \ \text{pence}
+f                   &= 45 \ \text{p}
 \end{aligned}
 $
 <emptyline>
-Cost of a bag of fruit $= 45 \ \text {pence}$
+Cost of a bag of fruit $= 45 \ \text {p}$
 </code></pre>
 </div>
 </div>
@@ -880,7 +880,7 @@ Cost of a bag of fruit = 45 pence.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>26E16C3C-4AED-4018-A4B3-041DDC0C4959</p>
 </div>
@@ -894,7 +894,7 @@ Cost of a bag of fruit = 45 pence.
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -918,7 +918,7 @@ Let the length of the base (in $\text{cm}$) $= a$
 ABBR: $\text{Volume} = \text{length} \times \text{width} \times \text{height}$
 
 
-As per the question, the two boxes have the same volume. Using that we get,
+As per the question, 
 
 $
 \begin{aligned}
@@ -951,7 +951,7 @@ $8 \ \text{cm}$
 <emptyline>
 rtq_abbr_katex_formula_volume_cuboid
 <emptyline>
-As per the question, the two boxes have the same volume. Using that we get,
+As per the question, 
 <emptyline>
 $
 \begin{aligned}
@@ -1040,7 +1040,7 @@ Changes not applied. Please make the above changes.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FEF8AADE-2D7B-4940-99BD-A18E327E4D0F</p>
 </div>
@@ -1054,7 +1054,7 @@ Changes not applied. Please make the above changes.
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1115,14 +1115,10 @@ How many units of gas has Andrew used in the three month period from October to 
 <div class='working'>
 
 
-January reading = $6045$ 
-
-October reading = $5475$ 
-
 $
 \begin {aligned}
-&= 6045 - 5475 \\\\
-&= 570
+\text{Gas used in three months}     &= 6045 - 5475 \\\\
+                                    &= 570
 \end {aligned}
 $
 
@@ -1141,14 +1137,10 @@ $570 \ \text {units}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-January reading = $6045$ 
-<emptyline>
-October reading = $5475$ 
-<emptyline>
 $
 \begin {aligned}
-&= 6045 - 5475 \\\\
-&= 570
+\text{Gas used in three months}     &= 6045 - 5475 \\\\
+                                    &= 570
 \end {aligned}
 $
 <emptyline>
@@ -1246,11 +1238,10 @@ In fact, M-power also have to add $5\%$ to Andrew's bill which is the tax known 
 
 As per the question,
 
-Final Bill $=$ Total bill + VAT 
-
 $
 \begin{aligned}
-                        &= \pounds 276.60 + (5 \% \ \text {of } 276.60) \\\\
+\text{Final Bill}       &= \text{Total bill} + \text{VAT} \\\\ 
+                        &= 276.60 + (5 \% \ \text {of } 276.60) \\\\
                         &= 276.60 + (5 \% \times 276.60) \\\\
                         &= 276.60 + (\dfrac {5} {100} \times 276.60) \\\\
                         &= 276.60 + (\dfrac {276.60 \times 5}{100}) \\\\
@@ -1274,11 +1265,10 @@ $\pounds 290.43$
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
 <emptyline>
-Final Bill $=$ Total bill + VAT 
-<emptyline>
 $
 \begin{aligned}
-                        &= \pounds 276.60 + (5 \% \ \text {of } 276.60) \\\\
+\text{Final Bill}       &= \text{Total bill} + \text{VAT} \\\\ 
+                        &= 276.60 + (5 \% \ \text {of } 276.60) \\\\
                         &= 276.60 + (5 \% \times 276.60) \\\\
                         &= 276.60 + (\dfrac {5} {100} \times 276.60) \\\\
                         &= 276.60 + (\dfrac {276.60 \times 5}{100}) \\\\
@@ -1768,7 +1758,7 @@ The original number is $25$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0A3C048F-79C4-49D7-B58E-976896702ECF</p>
 </div>
@@ -1782,7 +1772,7 @@ The original number is $25$
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1840,8 +1830,20 @@ $93 - \Box - \boxed{18} = 36$
 <div class='workings'>
 <div class='working'>
 
-$93 - \underline{\green
-{39}} - 18 = 43$
+Let the missing number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+93 - a - 18     &= 36 \\\\
+75 - a          &= 36 \\\\
+-a              &= 36 - 75 \\\\
+-a              &= -39 \\\\
+a               &= 39 \\\\
+\end{aligned}
+$
+
 
 </div>
 </div>
@@ -1855,7 +1857,20 @@ $39$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$93 - \underline{\rtq_katex_color_answer{39}} - 18 = 43$
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin{aligned}
+93 - a - 18     &= 36 \\\\
+75 - a          &= 36 \\\\
+-a              &= 36 - 75 \\\\
+-a              &= -39 \\\\
+a               &= 39 \\\\
+\end{aligned}
+$
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1892,8 +1907,8 @@ $
 \begin{aligned}
 (8 + a)\times 7     &= 91 \\\\
 8 + a               &= \dfrac {91} {7} \\\\ 
-                    &= \dfrac {7 \times 13} {7} \\\\
-                    &= \dfrac {\cancel {7} \times 13} {\cancel {7}} \\\\
+8 + a               &= \dfrac {7 \times 13} {7} \\\\
+8 + a               &= \dfrac {\cancel {7} \times 13} {\cancel {7}} \\\\
 8 + a               &= 13 \\\\
 a                   &= 13 - 8 \\\\
 a                   &= 5
@@ -1920,8 +1935,8 @@ $
 \begin{aligned}
 (8 + a)\times 7     &= 91 \\\\
 8 + a               &= \dfrac {91} {7} \\\\ 
-                    &= \dfrac {7 \times 13} {7} \\\\
-                    &= \dfrac {\cancel {7} \times 13} {\cancel {7}} \\\\
+8 + a               &= \dfrac {7 \times 13} {7} \\\\
+8 + a               &= \dfrac {\cancel {7} \times 13} {\cancel {7}} \\\\
 8 + a               &= 13 \\\\
 a                   &= 13 - 8 \\\\
 a                   &= 5
@@ -2019,7 +2034,7 @@ After this, \"8 + a\" is missing in two lines.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>82081F61-AF8E-4357-8AF9-7FC59FE52137</p>
 </div>
@@ -2033,7 +2048,7 @@ After this, \"8 + a\" is missing in two lines.
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2094,17 +2109,18 @@ $23 \times\:\:\:\:\Box  =\:\:\: 690$
 
 Let the missing number $=a$
 
+As per the question,
+
 $
 \begin{aligned}
 23 \times a                             &= 690 \\\\
 a                                       &= \dfrac {690} {23} \\\\
-                                        &= \dfrac {30 \times 23} {23} \\\\
-                                        &= \dfrac {30 \times \cancel {23}} {\cancel {23}} \\\\
-                                        &= 30
+a                                       &= \dfrac {30 \times 23} {23} \\\\
+a                                       &= \dfrac {30 \times \cancel {23}} {\cancel {23}} \\\\
+a                                       &= 30
 \end{aligned} 
 $
 
-Missing number $= 30$
 
 </div>
 </div>
@@ -2121,17 +2137,18 @@ $30$
 <pre class='language-latex'><code class='language-latex'>
 Let the missing number $=a$
 <emptyline>
+As per the question,
+<emptyline>
 $
 \begin{aligned}
 23 \times a                             &= 690 \\\\
 a                                       &= \dfrac {690} {23} \\\\
-                                        &= \dfrac {30 \times 23} {23} \\\\
-                                        &= \dfrac {30 \times \cancel {23}} {\cancel {23}} \\\\
-                                        &= 30
+a                                       &= \dfrac {30 \times 23} {23} \\\\
+a                                       &= \dfrac {30 \times \cancel {23}} {\cancel {23}} \\\\
+a                                       &= 30
 \end{aligned} 
 $
 <emptyline>
-Missing number $= 30$
 </code></pre>
 </div>
 </div>
@@ -2161,15 +2178,17 @@ $\Box\:\:\:-\:\:\:\boxed{87} = \:\:\:265$
 <div class='working'>
 
 Let the missing number $=a$
+
+As per the question,
+
 $
 \begin{aligned}
 a - 87                             &= 265 \\\\
 a                                  &= 265 + 87 \\\\
-                                   &= 352
+a                                  &= 352
 \end{aligned}
 $
 
-Missing number $= 352$
 
 </div>
 </div>
@@ -2184,15 +2203,17 @@ $352$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $=a$
+<emptyline>
+As per the question,
+<emptyline>
 $
 \begin{aligned}
 a - 87                             &= 265 \\\\
 a                                  &= 265 + 87 \\\\
-                                   &= 352
+a                                  &= 352
 \end{aligned}
 $
 <emptyline>
-Missing number $= 352$
 </code></pre>
 </div>
 </div>
@@ -2279,7 +2300,7 @@ Part b) Coding guidelines not followed, look at website and write it as per the 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>03AD91B5-06E0-4B12-808B-4F0278EC9237</p>
 </div>
@@ -2293,7 +2314,7 @@ Part b) Coding guidelines not followed, look at website and write it as per the 
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2310,9 +2331,9 @@ Granddad spends one quarter of his weekly pension on a Friday night out, and one
 <div class='workings'>
 <div class='working'>
 
-$\text{Let the weekly pension of granddad} = a$
+Let the weekly pension of granddad $= a$
 
-$\text{As per the question},$
+As per the question,
 
 $
 \begin{aligned}
@@ -2356,9 +2377,9 @@ $\dfrac{1} {2}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\text{Let the weekly pension of granddad} = a$
+<pre class='language-latex'><code class='language-latex'>Let the weekly pension of granddad $= a$
 <emptyline>
-$\text{As per the question},$
+As per the question,
 <emptyline>
 $
 \begin{aligned}
@@ -2470,7 +2491,7 @@ After APTQ, write everything inside one \begin-end.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>706748E4-8A3B-422B-A4AB-A60AA490E362</p>
 </div>
@@ -2484,7 +2505,7 @@ After APTQ, write everything inside one \begin-end.
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2513,7 +2534,7 @@ $
 \begin{aligned}
 a + b                       &= 12 + c \\\\
 b + c                       &= 8 + a \\\\
-a + c                       &= 14 + b \\\\
+a + c                       &= 14 + b 
 \end{aligned}
 $
 
@@ -2554,7 +2575,7 @@ $
 \begin{aligned}
 a + b                       &= 12 + c \\\\
 b + c                       &= 8 + a \\\\
-a + c                       &= 14 + b \\\\
+a + c                       &= 14 + b 
 \end{aligned}
 $
 <emptyline>
@@ -2643,7 +2664,7 @@ a + c &= 14 + b \\\\
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5676BD98-93C6-45F1-BEB8-EF3E3D08068F</p>
 </div>
@@ -2657,7 +2678,7 @@ a + c &= 14 + b \\\\
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2683,15 +2704,14 @@ As per the question,
 
 $
 \begin{aligned}
-&= \dfrac {1} {6} \times 30 \\\\
-&= \dfrac {30} {6} \\\\
-&= \dfrac {6 \times 5} {6} \\\\
-&= \dfrac {\cancel {6} \times 5} {\cancel {6}} \\\\
-&= 5
+\text{Number of white chocolates} &= \dfrac {1} {6} \times 30 \\\\
+                                  &= \dfrac {30} {6} \\\\
+                                  &= \dfrac {6 \times 5} {6} \\\\
+                                  &= \dfrac {\cancel {6} \times 5} {\cancel {6}} \\\\
+                                  &= 5
 \end{aligned}
 $
 
-Number of white chocolates $= 5$
 
 </div>
 </div>
@@ -2709,15 +2729,14 @@ $5$
 <emptyline>
 $
 \begin{aligned}
-&= \dfrac {1} {6} \times 30 \\\\
-&= \dfrac {30} {6} \\\\
-&= \dfrac {6 \times 5} {6} \\\\
-&= \dfrac {\cancel {6} \times 5} {\cancel {6}} \\\\
-&= 5
+\text{Number of white chocolates} &= \dfrac {1} {6} \times 30 \\\\
+                                  &= \dfrac {30} {6} \\\\
+                                  &= \dfrac {6 \times 5} {6} \\\\
+                                  &= \dfrac {\cancel {6} \times 5} {\cancel {6}} \\\\
+                                  &= 5
 \end{aligned}
 $
 <emptyline>
-Number of white chocolates $= 5$
 </code></pre>
 </div>
 </div>
@@ -2750,12 +2769,13 @@ As per the question,
 
 $
 \begin{aligned}
-&= \dfrac {1 \cancel {0}} {3 \cancel {0}} \\\\
-&= \dfrac {1} {3}
+\text{Fraction of milk chocolates}  &= \dfrac {10} {30} \\\\
+                                    &= \dfrac {10} {3 \times 10} \\\\
+                                    &= \dfrac {\cancel {10}} {3 \times \cancel {10}} \\\\
+                                    &= \dfrac {1} {3}
 \end{aligned}
 $
 
-Fraction of milk chocolates $= \dfrac {1} {3}$
 
 </div>
 </div>
@@ -2773,12 +2793,13 @@ $\dfrac {1} {3}$
 <emptyline>
 $
 \begin{aligned}
-&= \dfrac {1 \cancel {0}} {3 \cancel {0}} \\\\
-&= \dfrac {1} {3}
+\text{Fraction of milk chocolates}  &= \dfrac {10} {30} \\\\
+                                    &= \dfrac {10} {3 \times 10} \\\\
+                                    &= \dfrac {\cancel {10}} {3 \times \cancel {10}} \\\\
+                                    &= \dfrac {1} {3}
 \end{aligned}
 $
 <emptyline>
-Fraction of milk chocolates $= \dfrac {1} {3}$
 </code></pre>
 </div>
 </div>

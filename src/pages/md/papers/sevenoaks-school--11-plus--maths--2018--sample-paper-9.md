@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2018-sample-paper-9"
 title: "Sevenoaks School - 11 Plus - Maths - 2018 - Sample Paper 9"
-date: 2022-08-18 10:44:13
+date: 2022-08-19 15:32:50
 questions_count: "20"
 ---
 <div class='paper'>
@@ -14,7 +14,7 @@ questions_count: "20"
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prpcr question'>
 <div class='uuid'>
 <p>02E8A3E3-375F-4D9B-81E3-04DF65B30116</p>
 </div>
@@ -28,7 +28,7 @@ questions_count: "20"
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -202,25 +202,17 @@ $
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-Part A:
+
+
+Part a)
+
+\"Total\"  ==> \"Total sweets\"
 
 
 
-Last step (delete text) only 338
+Part b) 
 
-same in blue answer only number (look original question paper)
-
-
-
-B : You did not solve. Solve please
-
-Sweets in each bag = Total sweets / No. of bags
-
-Last step (delete text) only 26
-
-
-
-same isn blue answer only number (look original question paper)
+\"Each bag\" ==> \"Sweets in each bag\"
 </div>
 
 <div class='review'>
@@ -266,7 +258,7 @@ same isn blue answer only number (look original question paper)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prpcr question'>
 <div class='uuid'>
 <p>DEE9F58F-6529-411D-BCA4-DD56685E4E5B</p>
 </div>
@@ -280,7 +272,7 @@ same isn blue answer only number (look original question paper)
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -477,6 +469,12 @@ Using that, we get (put comma after get not after that)
 
 
 Step 3 1140 to 1120 
+
+
+
+Updated comment:
+
+Changes not applied, make changes mentioned in comment above.
 </div>
 
 <div class='review'>
@@ -1065,7 +1063,7 @@ Round $325.48$ to the following degrees of accuracy:
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Nearest $100$
+Nearest $100$.
 
 </div>
 <div class='workings'>
@@ -1108,7 +1106,7 @@ $300$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Nearest $10$
+Nearest $10$.
 
 </div>
 <div class='workings'>
@@ -1151,7 +1149,7 @@ $330$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Nearest whole number
+Nearest whole number.
 
 </div>
 <div class='workings'>
@@ -1194,7 +1192,7 @@ $325$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-One decimal place
+One decimal place.
 
 </div>
 <div class='workings'>
@@ -1386,7 +1384,7 @@ $1.008, \quad 1.02, \quad 1.15, \quad 1.2, \quad 1.9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>A61865AA-6630-4CE9-83F3-826FE700031F</p>
 </div>
@@ -1400,7 +1398,7 @@ $1.008, \quad 1.02, \quad 1.15, \quad 1.2, \quad 1.9$
 <p>rag_kr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1519,7 +1517,7 @@ For wordings check part b) of the below referenced question:
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>87AA04CC-D448-4007-9256-68D87DB3FB84</p>
 </div>
@@ -1533,7 +1531,7 @@ For wordings check part b) of the below referenced question:
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1550,36 +1548,21 @@ Blackcurrant cordial is diluted in the ratio $1  \ \text{part}$ cordial to $4 \ 
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -1591,17 +1574,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -1616,16 +1589,36 @@ How much water should be mixed with $30 \ \text{ml}$ of cordial?
 <div class='workings'>
 <div class='working'>
 
+Let the volume of water $= a$
+
+Using equivalent ratio,
+
+$
+\begin{aligned}
+1 \ \text{cordial} : 4 \ \text{water}           &= 30 \ \text{cordial} : a \ \text{water} \\\\
+\dfrac {1} {4}                                  &= \dfrac {30} {a} \\\\
+1 \times a                                      &= 30 \times 4 \\\\
+a                                               &= 120 \ \text{ml}
+\end{aligned}
+$
+
+Amount of water $= 120 \ \text{ml}$
+
+</div>
+<div class='working'>
+
 Using ratio,
 
 $
 \begin{array}{cccccccccccccc}
   & \text{cordial}                          &:& \text{water} \\\\
-= & 1                                       &:& 4 \\\\
+= & 1 \ \text{ml}                           &:& 4 \ \text{ml} \\\\
 = & 30                                      &:& 4 \times 30 \\\\
 = & 3 \ \text{ml}                           &:& 120 \ \text{ml}
 \end{array}
 $
+
+Amount of water $= 120 \ \text{ml}$
 
 </div>
 </div>
@@ -1639,16 +1632,36 @@ $120 \ \text{ml}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
+<pre class='language-latex'><code class='language-latex'>Let the volume of water $= a$
+<emptyline>
+Using equivalent ratio,
+<emptyline>
+$
+\begin{aligned}
+1 \ \text{cordial} : 4 \ \text{water}           &= 30 \ \text{cordial} : a \ \text{water} \\\\
+\dfrac {1} {4}                                  &= \dfrac {30} {a} \\\\
+1 \times a                                      &= 30 \times 4 \\\\
+a                                               &= 120 \ \text{ml}
+\end{aligned}
+$
+<emptyline>
+Amount of water $= 120 \ \text{ml}$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
 <pre class='language-latex'><code class='language-latex'>Using ratio,
 <emptyline>
 $
 \begin{array}{cccccccccccccc}
   & \text{cordial}                          &:& \text{water} \\\\
-= & 1                                       &:& 4 \\\\
+= & 1 \ \text{ml}                           &:& 4 \ \text{ml} \\\\
 = & 30                                      &:& 4 \times 30 \\\\
 = & 3 \ \text{ml}                           &:& 120 \ \text{ml}
 \end{array}
 $
+<emptyline>
+Amount of water $= 120 \ \text{ml}$
 </code></pre>
 </div>
 </div>
@@ -1692,18 +1705,37 @@ $
 4a + a                                          &= 750 \\\\
 5a                                              &= 750 \\\\
 a                                               &= \dfrac {750} {5} \\\\
-a                                               &= \dfrac {5 \times 250} {5} \\\\
-a                                               &= \dfrac {\cancel 5 \times 250} {\cancel 5} \\\\
-a                                               &= 250 \ \text{ml}
+a                                               &= \dfrac {5 \times 150} {5} \\\\
+a                                               &= \dfrac {\cancel 5 \times 150} {\cancel 5} \\\\
+a                                               &= 150 \ \text{ml}
 \end{aligned}
 $
+
+Amount of water $= 150 \ \text{ml}$
+
+</div>
+<div class='working'>
+
+Using ratio,
+
+$
+\begin{array}{cccccccccccccc}
+  & \text{drink}                            &:& \text{cordial} \\\\
+= & (1 + 4) \ \text{ml}                     &:& 1 \ \text{ml} \\\\
+= & 5                                       &:& 1 \\\\
+= & 5 \times 150                            &:& 1 \times 150 \\\\
+= & 750 \ \text{ml}                         &:& 150 \ \text{ml}
+\end{array}
+$
+
+Amount of water $= 150 \ \text{ml}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$250 \ \text{ml}$
+$150 \ \text{ml}$
 
 </div>
 </div>
@@ -1725,11 +1757,30 @@ $
 4a + a                                          &= 750 \\\\
 5a                                              &= 750 \\\\
 a                                               &= \dfrac {750} {5} \\\\
-a                                               &= \dfrac {5 \times 250} {5} \\\\
-a                                               &= \dfrac {\cancel 5 \times 250} {\cancel 5} \\\\
-a                                               &= 250 \ \text{ml}
+a                                               &= \dfrac {5 \times 150} {5} \\\\
+a                                               &= \dfrac {\cancel 5 \times 150} {\cancel 5} \\\\
+a                                               &= 150 \ \text{ml}
 \end{aligned}
 $
+<emptyline>
+Amount of water $= 150 \ \text{ml}$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Using ratio,
+<emptyline>
+$
+\begin{array}{cccccccccccccc}
+  & \text{drink}                            &:& \text{cordial} \\\\
+= & (1 + 4) \ \text{ml}                     &:& 1 \ \text{ml} \\\\
+= & 5                                       &:& 1 \\\\
+= & 5 \times 150                            &:& 1 \times 150 \\\\
+= & 750 \ \text{ml}                         &:& 150 \ \text{ml}
+\end{array}
+$
+<emptyline>
+Amount of water $= 150 \ \text{ml}$
 </code></pre>
 </div>
 </div>
@@ -1741,7 +1792,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$250 \ \text{ml}$
+<pre class='language-latex'><code class='language-latex'>$150 \ \text{ml}$
 </code></pre>
 </div>
 </div>
@@ -1793,7 +1844,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>4F3F9BCF-587C-4A2F-8E8F-1C690544EDC4</p>
 </div>
@@ -1804,7 +1855,7 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g2</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1982,35 +2033,35 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='4F3F9BCF-587C-4A2F-8E8F-1C690544EDC4' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='4F3F9BCF-587C-4A2F-8E8F-1C690544EDC4' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='4F3F9BCF-587C-4A2F-8E8F-1C690544EDC4' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='4F3F9BCF-587C-4A2F-8E8F-1C690544EDC4' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='4F3F9BCF-587C-4A2F-8E8F-1C690544EDC4' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='4F3F9BCF-587C-4A2F-8E8F-1C690544EDC4' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='4F3F9BCF-587C-4A2F-8E8F-1C690544EDC4' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='4F3F9BCF-587C-4A2F-8E8F-1C690544EDC4' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='4F3F9BCF-587C-4A2F-8E8F-1C690544EDC4' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='4F3F9BCF-587C-4A2F-8E8F-1C690544EDC4' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='4F3F9BCF-587C-4A2F-8E8F-1C690544EDC4' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='4F3F9BCF-587C-4A2F-8E8F-1C690544EDC4' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='4F3F9BCF-587C-4A2F-8E8F-1C690544EDC4' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='4F3F9BCF-587C-4A2F-8E8F-1C690544EDC4' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='4F3F9BCF-587C-4A2F-8E8F-1C690544EDC4' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='4F3F9BCF-587C-4A2F-8E8F-1C690544EDC4' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='4F3F9BCF-587C-4A2F-8E8F-1C690544EDC4' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='4F3F9BCF-587C-4A2F-8E8F-1C690544EDC4' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='4F3F9BCF-587C-4A2F-8E8F-1C690544EDC4' id='FORM-4F3F9BCF-587C-4A2F-8E8F-1C690544EDC4' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='4F3F9BCF-587C-4A2F-8E8F-1C690544EDC4' id='FORM-4F3F9BCF-587C-4A2F-8E8F-1C690544EDC4' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2293,7 +2344,7 @@ tnumber
 </div>
 <div class='question question'>
 
-Find
+Find:
 
 </div>
 <div class='workings'>
@@ -2499,7 +2550,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>6DD07370-84B5-4E20-889C-79CF42BC0EA0</p>
 </div>
@@ -2513,7 +2564,7 @@ $
 <p>rag_kr_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2538,13 +2589,15 @@ As per the question,
 
 $
 \begin {aligned}
-\dfrac {5} {6} \times a  &= 60 \\\\
-a                        &= 60 \times \dfrac {6} {5} \\\\
-a                        &= \dfrac {60 \times 6} {5} \\\\
-a                        &= \dfrac {5 \times 12 \times 6} {5} \\\\
-a                        &= \dfrac {\cancel {5} \times 12 \times 6} {\cancel {5}} \\\\
-a                        &= 12 \times 6 \\\\
-a                        &= 72
+\dfrac{5}{6} \times a  &= 60 \\\\
+\dfrac{5 \times a}{6}  &= 60 \\\\
+\dfrac{5a}{6}          &= 60 \\\\
+5a                     &= 60 \times 6 \\\\
+a                      &= \dfrac {60 \times 6} {5} \\\\
+a                      &= \dfrac {5 \times 12 \times 6} {5} \\\\
+a                      &= \dfrac {\cancel {5} \times 12 \times 6} {\cancel {5}} \\\\
+a                      &= 12 \times 6 \\\\
+a                      &= 72
 \end {aligned}
 $
 
@@ -2582,13 +2635,15 @@ As per the question,
 <emptyline>
 $
 \begin {aligned}
-\dfrac {5} {6} \times a  &= 60 \\\\
-a                        &= 60 \times \dfrac {6} {5} \\\\
-a                        &= \dfrac {60 \times 6} {5} \\\\
-a                        &= \dfrac {5 \times 12 \times 6} {5} \\\\
-a                        &= \dfrac {\cancel {5} \times 12 \times 6} {\cancel {5}} \\\\
-a                        &= 12 \times 6 \\\\
-a                        &= 72
+\dfrac{5}{6} \times a  &= 60 \\\\
+\dfrac{5 \times a}{6}  &= 60 \\\\
+\dfrac{5a}{6}          &= 60 \\\\
+5a                     &= 60 \times 6 \\\\
+a                      &= \dfrac {60 \times 6} {5} \\\\
+a                      &= \dfrac {5 \times 12 \times 6} {5} \\\\
+a                      &= \dfrac {\cancel {5} \times 12 \times 6} {\cancel {5}} \\\\
+a                      &= 12 \times 6 \\\\
+a                      &= 72
 \end {aligned}
 $
 <emptyline>
@@ -2740,7 +2795,7 @@ Complete the table:
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3650,14 +3705,14 @@ In how many ways can you join the two shapes shown below to make a figure with o
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3719,24 +3774,24 @@ The numbers $1$ to $12$ are to be placed such that the sum of the four numbers i
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

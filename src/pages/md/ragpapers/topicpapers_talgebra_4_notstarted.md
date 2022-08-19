@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-4-notstarted"
 title: "TopicPaper - Algebra - 4 - NOTSTARTED"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -38,14 +38,14 @@ How old am I?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -107,14 +107,14 @@ How many lines did he coloured red?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-14-g2"
 title: "TopicPaper - Number - 14 - G2"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "27"
 ---
 <ul class='question default-decimal'>
@@ -555,10 +555,10 @@ tnumber
 <div class='question question'>
 
 Which of the following distances is the most likely height of a man? Circle your answer.  
-a) $120\,cm$
-b) $150\,mm$ 
-c) $1.8\,m$ 
-d) $112$ inches 
+- $120 \ \text{cm}$
+- $150 \ \text{mm}$ 
+- $1.8 \ \text{m}$ 
+- $112 \ \text{inches}$ 
 
 </div>
 <div class='workings'>
@@ -667,7 +667,7 @@ tnumber
 </div>
 <div class='question question'>
 
-A pencil is measured as $7.8\,cm$ long. How long is the pencil in these units,
+A pencil is measured as $7.8 \ \text{cm}$ long. How long is the pencil in these units.
 
 </div>
 <div class='workings'>
@@ -708,7 +708,7 @@ A pencil is measured as $7.8\,cm$ long. How long is the pencil in these units,
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-in mm
+in \ \text{mm}.
 
 </div>
 <div class='workings'>
@@ -763,7 +763,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-in m
+in \ \text{m}.
 
 </div>
 <div class='workings'>
@@ -1177,7 +1177,7 @@ Round each of the following numbers to the accuracy given in brackets.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-19.82 (nearest whole number) 
+$19.82$ (nearest whole number) 
 
 </div>
 <div class='workings'>
@@ -1230,7 +1230,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-120400 (nearest thousand) 
+$120400$ (nearest thousand) 
 
 </div>
 <div class='workings'>
@@ -1283,7 +1283,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-33.45789 (nearest tenth) 
+$33.45789$ (nearest tenth) 
 
 </div>
 <div class='workings'>
@@ -1895,7 +1895,7 @@ tnumber
 </div>
 <div class='question question'>
 
-I live $5.2\,km$ from Anfield. 
+I live $5.2 \ \text{km}$ from Anfield. 
 
 </div>
 <div class='workings'>
@@ -1936,7 +1936,7 @@ I live $5.2\,km$ from Anfield.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-How far is this in metres?
+How far is this in \ \text{metres}?
 
 </div>
 <div class='workings'>
@@ -1991,7 +1991,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Goodison Park is a further $1200\,m$ from my house. How many **kilometres** is Goodison Park from my house?
+Goodison Park is a further $1200 \ \text{m}$ from my house. How many \ \text{kilometres} is Goodison Park from my house?
 
 </div>
 <div class='workings'>
@@ -2046,7 +2046,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-A kilometre is $\dfrac {5} {8}$  of a mile. How many miles away from Goodison Park do I live?
+A \ \text{kilometre} is $\dfrac {5} {8}$  of a mile. How many \ \text{miles} away from Goodison Park do I live?
 
 </div>
 <div class='workings'>

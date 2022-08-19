@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2010-sample-paper-1"
 title: "Sevenoaks School - 11 Plus - Maths - 2010 - Sample Paper 1"
-date: 2022-08-18 10:44:13
+date: 2022-08-19 15:32:50
 questions_count: "19"
 ---
 <div class='paper'>
@@ -303,19 +303,19 @@ $
 
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -509,13 +509,13 @@ tnumber
 
 Write the correct operations ($+$ or $-$ or $\times$ or $\div$) in these statements.
 
-$a\ \ \Box\ \ a = 0$
+- $a\ \ \Box\ \ a = 0$
 
-$a\ \ \Box\ \ a = 1$
+- $a\ \ \Box\ \ a = 1$
 
-$a\ \ \Box\ \ a = 2a$
+- $a\ \ \Box\ \ a = 2a$
 
-$a\ \ \Box\ \ a = a^2$
+- $a\ \ \Box\ \ a = a^2$
 
 </div>
 <div class='workings'>
@@ -1026,7 +1026,7 @@ tnumber
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write down the prime numbers between $10$ and $20$
+Write down the prime numbers between $10$ and $20$.
 
 </div>
 <div class='workings'>
@@ -1069,7 +1069,7 @@ $11, 13, 17, 19$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write down the first three multiples of $15$
+Write down the first three multiples of $15$.
 
 </div>
 <div class='workings'>
@@ -1112,7 +1112,7 @@ $15, 30, 45$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write down the factors of $49$
+Write down the factors of $49$.
 
 </div>
 <div class='workings'>
@@ -1583,7 +1583,7 @@ then solve further...
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>4C1B8DCB-8650-45C7-B21F-9B7053AD00F7</p>
 </div>
@@ -1597,7 +1597,7 @@ then solve further...
 <p>rag_kr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1756,7 +1756,7 @@ Change the answer also to 1/3
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>F4EA0A59-8C6E-47D9-8760-31CB473DCE39</p>
 </div>
@@ -1770,7 +1770,7 @@ Change the answer also to 1/3
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1795,19 +1795,37 @@ Using equivalent ratio,
 
 $
 \begin{aligned}
-b \ \text{blue paint} : (21 - b) \ \text{red paint}  &= 4 \ \text{blue paint} : 3 \ \text{red paint} \\\\
+b \ \text{blue} : (21 - b) \ \text{red}            &= 4 \ \text{blue} : 3 \ \text{red} \\\\
 \dfrac {b} {21 - b}                                &= \dfrac {4} {3} \\\\
 3 \times b                                         &= 4 \times (21 - b) \\\\
-3b                                                 &= 4 \times 21 - 4b \\\\
 3b                                                 &= 84 - 4b \\\\
 3b + 4b                                            &= 84 \\\\
 7b                                                 &= 84 \\\\
 b                                                  &= \dfrac {84} {7} \\\\
 b                                                  &= \dfrac {7 \times 12} {7} \\\\
 b                                                  &= \dfrac {\cancel 7 \times 12} {\cancel 7} \\\\
-b                                                  &= 12
+b                                                  &= 12 \ \text{litres}
 \end{aligned}
 $
+
+Amount of blue paint needed $= 12 \ \text{litres}$
+
+</div>
+<div class='working'>
+
+Using ratio,
+
+$
+\begin{array}{cccccccccccccc}
+  & \text{purple}                                &:& \text{blue} \\\\
+= & (4 + 3) \ \text{litres}                      &:& 4 \ \text{litres} \\\\
+= & 7                                            &:& 4 \\\\
+= & 7 \times 3                                   &:& 4 \times 3 \\\\
+= & 21 \ \text{litres}                           &:& 12 \ \text{litres}
+\end{array}
+$
+
+Amount of blue paint needed $= 12 \ \text{litres}$
 
 </div>
 </div>
@@ -1829,19 +1847,37 @@ Using equivalent ratio,
 <emptyline>
 $
 \begin{aligned}
-b \ \text{blue paint} : (21 - b) \ \text{red paint}  &= 4 \ \text{blue paint} : 3 \ \text{red paint} \\\\
+b \ \text{blue} : (21 - b) \ \text{red}            &= 4 \ \text{blue} : 3 \ \text{red} \\\\
 \dfrac {b} {21 - b}                                &= \dfrac {4} {3} \\\\
 3 \times b                                         &= 4 \times (21 - b) \\\\
-3b                                                 &= 4 \times 21 - 4b \\\\
 3b                                                 &= 84 - 4b \\\\
 3b + 4b                                            &= 84 \\\\
 7b                                                 &= 84 \\\\
 b                                                  &= \dfrac {84} {7} \\\\
 b                                                  &= \dfrac {7 \times 12} {7} \\\\
 b                                                  &= \dfrac {\cancel 7 \times 12} {\cancel 7} \\\\
-b                                                  &= 12
+b                                                  &= 12 \ \text{litres}
 \end{aligned}
 $
+<emptyline>
+Amount of blue paint needed $= 12 \ \text{litres}$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Using ratio,
+<emptyline>
+$
+\begin{array}{cccccccccccccc}
+  & \text{purple}                                &:& \text{blue} \\\\
+= & (4 + 3) \ \text{litres}                      &:& 4 \ \text{litres} \\\\
+= & 7                                            &:& 4 \\\\
+= & 7 \times 3                                   &:& 4 \times 3 \\\\
+= & 21 \ \text{litres}                           &:& 12 \ \text{litres}
+\end{array}
+$
+<emptyline>
+Amount of blue paint needed $= 12 \ \text{litres}$
 </code></pre>
 </div>
 </div>
@@ -1858,6 +1894,19 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+ratio version of the answer too
+
+
+
+write whole: part ratio version
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1948,24 +1997,24 @@ Altogether, what is the total number of hexagons in pattern number $20$?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2149,24 +2198,24 @@ There are two different answers. Write them both.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2716,24 +2765,24 @@ ttable
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2805,24 +2854,24 @@ Complete the table below to show the area and perimeter of each shape.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2883,24 +2932,24 @@ What is the **area** of triangle D?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2959,24 +3008,24 @@ Explain your answer.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3061,24 +3110,24 @@ Use these rules to complete the algebra grids below. Write your expressions as s
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3213,24 +3262,24 @@ Sue and Owen are using square patterns of dots to find different expressions for
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3279,24 +3328,24 @@ Sue wants to write an expression for $12$. Complete Sue's expression for $12^2$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3349,24 +3398,24 @@ Complete Sue's Expression for $n^2$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3428,24 +3477,24 @@ Write down Owen's expression for $n^2$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

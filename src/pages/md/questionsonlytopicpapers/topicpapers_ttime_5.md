@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-ttime-5"
 title: "TopicPaper - Time - 5"
-date: 2022-08-18 11:06:01
+date: 2022-08-19 16:00:22
 questions_count: "39"
 ---
 <div class='paper'>
@@ -214,7 +214,7 @@ How many minutes slow is clock $B$?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>0D550CC6-50D9-46B0-B420-4CDCA6B61FC4</p>
 </div>
@@ -228,7 +228,7 @@ How many minutes slow is clock $B$?
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -246,22 +246,15 @@ Kyra parks her car at $10.30 \ \text{am}$.
 She collects the car at $2.15 \ \text{pm}$. 
 How much does she have to pay?
 
-![missing table](/papers/missing_table.svg)
+| **Car Park Charges** |                  |
+|:--------------------:|:----------------:|
+|       **Time**       |    **Charge**    |
+|     Up to 1 hour     | $20 \ \text{p}$  |
+|     1 to 2 hours     |  $50 \ \text{p}$ |
+|     2 to 3 hours     | $\pounds \ 1.00$ |
+|     3 to 4 hours     | $\pounds \ 1.70$ |
+|     Over 4 hours     | $\pounds \ 5.00$ |
 
-
-Car Park Charges
-
-**Time**              **Charge**
-
-Up to $1 \ \text{hour}$        $20 \text{p}$
-
-$1$ to $2 \ \text{hours}$      $50 \text{p}$
-
-$2$ to $3 \ \text{hours}$      $\pounds 1.00$
-
-$3$ to $4 \ \text{hours}$      $\pounds 1.70$
-
-Over to $4 \ \text{hours}$     $\pounds 5.00$
 
 </div>
 <div class='questioncodeblock'>
@@ -269,21 +262,15 @@ Over to $4 \ \text{hours}$     $\pounds 5.00$
 She collects the car at $2.15 \ \text{pm}$. 
 How much does she have to pay?
 <emptyline>
-%table%
+| **Car Park Charges** |                  |
+|:--------------------:|:----------------:|
+|       **Time**       |    **Charge**    |
+|     Up to 1 hour     | $20 \ \text{p}$  |
+|     1 to 2 hours     |  $50 \ \text{p}$ |
+|     2 to 3 hours     | $\pounds \ 1.00$ |
+|     3 to 4 hours     | $\pounds \ 1.70$ |
+|     Over 4 hours     | $\pounds \ 5.00$ |
 <emptyline>
-Car Park Charges
-<emptyline>
-**Time**              **Charge**
-<emptyline>
-Up to $1 \ \text{hour}$        $20 \text{p}$
-<emptyline>
-$1$ to $2 \ \text{hours}$      $50 \text{p}$
-<emptyline>
-$2$ to $3 \ \text{hours}$      $\pounds 1.00$
-<emptyline>
-$3$ to $4 \ \text{hours}$      $\pounds 1.70$
-<emptyline>
-Over to $4 \ \text{hours}$     $\pounds 5.00$
 </code></pre>
 </div>
 
@@ -331,7 +318,7 @@ Over to $4 \ \text{hours}$     $\pounds 5.00$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>0A614191-1791-4F03-962B-E2CF656E9B67</p>
 </div>
@@ -345,7 +332,7 @@ Over to $4 \ \text{hours}$     $\pounds 5.00$
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -361,25 +348,23 @@ ttable
 
 Here is part of a train timetable for trains running from Bunley to Wester. 
 
-Bunley  depart  $08 00$
+| Bunley | depart | $08 \ 00$ |
+|:------:|:------:|:---------:|
+| Sidcot | arrive | $08 \ 43$ |
+| Sidcot | depart | $08 \ 45$ |
+| Wester | arrive | $10 \ 32$ |
 
-Sidcot  arrive  $08 43$ 
-
-Sidcot  depart  $08 45$
-
-Wester  arrive  $10 32$
 
 </div>
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>Here is part of a train timetable for trains running from Bunley to Wester. 
 <emptyline>
-Bunley  depart  $08 00$
+| Bunley | depart | $08 \ 00$ |
+|:------:|:------:|:---------:|
+| Sidcot | arrive | $08 \ 43$ |
+| Sidcot | depart | $08 \ 45$ |
+| Wester | arrive | $10 \ 32$ |
 <emptyline>
-Sidcot  arrive  $08 43$ 
-<emptyline>
-Sidcot  depart  $08 45$
-<emptyline>
-Wester  arrive  $10 32$
 </code></pre>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -458,7 +443,7 @@ same. What time did I depart from Bunley if I arrive in Wester at $12 14$?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>6563C9DA-D275-4231-9D71-242D5FD8FE30</p>
 </div>
@@ -472,7 +457,7 @@ same. What time did I depart from Bunley if I arrive in Wester at $12 14$?
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -572,7 +557,7 @@ What was her total travelling time?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>D54D9BB6-A403-4965-8B9A-D4BE958BB2E8</p>
 </div>
@@ -586,7 +571,7 @@ What was her total travelling time?
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -599,8 +584,10 @@ ttime
 
 The timetable below shows information about the overnight train from London to Scotland.
 
-![missing table](/papers/missing_table.svg)
-
+|   London Euston Station  | (Fri) depart | $1957$ |
+|:------------------------:|:------------:|:------:|
+| Birmingham International | (Fri) depart | $2107$ |
+|          Glasgow         | (Sat) arrive | $0645$ |
 
 How long does the train take
 
@@ -608,7 +595,10 @@ How long does the train take
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>The timetable below shows information about the overnight train from London to Scotland.
 <emptyline>
-%table%
+|   London Euston Station  | (Fri) depart | $1957$ |
+|:------------------------:|:------------:|:------:|
+| Birmingham International | (Fri) depart | $2107$ |
+|          Glasgow         | (Sat) arrive | $0645$ |
 <emptyline>
 How long does the train take
 </code></pre>
@@ -1027,7 +1017,7 @@ What time is shown on Sarah's watch?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9</p>
 </div>
@@ -1041,7 +1031,7 @@ What time is shown on Sarah's watch?
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1054,11 +1044,10 @@ ttime
 
 The start and finish times of a film are shown on this notice. 
 
-**The Tiger Prince**
-
-Start $7.45 \ \text{pm}$
-
-End $10.34 \ \text{pm}$
+| **The Tiger Prince** |                     |
+|:--------------------:|:-------------------:|
+|         Start        |  $7.45 \ \text{pm}$ |
+|          End         | $10.34 \ \text{pm}$ |
 
 For how long did the film last?
 
@@ -1066,11 +1055,10 @@ For how long did the film last?
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>The start and finish times of a film are shown on this notice. 
 <emptyline>
-**The Tiger Prince**
-<emptyline>
-Start $7.45 \ \text{pm}$
-<emptyline>
-End $10.34 \ \text{pm}$
+| **The Tiger Prince** |                     |
+|:--------------------:|:-------------------:|
+|         Start        |  $7.45 \ \text{pm}$ |
+|          End         | $10.34 \ \text{pm}$ |
 <emptyline>
 For how long did the film last?
 </code></pre>
@@ -1257,7 +1245,7 @@ At what time and on which day does it arrive in New York?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>2ECD1434-C766-49F8-BD0F-76B2F1255AD9</p>
 </div>
@@ -1271,7 +1259,7 @@ At what time and on which day does it arrive in New York?
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1286,7 +1274,10 @@ The notice below shows part of a train timetable between $2$ towns, Taymar and R
 
 One of the times has been covered.
 
-![missing table](/papers/missing_table.svg)
+|            | train $1$ | train $2$ |
+|:----------:|:---------:|:---------:|
+| **Taymar** | $09{:}24$ | $14{:}51$ |
+| **Raymar** | $11{:}43$ |           |
 
 
 </div>
@@ -1295,7 +1286,11 @@ One of the times has been covered.
 <emptyline>
 One of the times has been covered.
 <emptyline>
-%table%
+|            | train $1$ | train $2$ |
+|:----------:|:---------:|:---------:|
+| **Taymar** | $09{:}24$ | $14{:}51$ |
+| **Raymar** | $11{:}43$ |           |
+<emptyline>
 </code></pre>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -1473,7 +1468,7 @@ For how long should Claire cook the turkey?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>5116C593-B84B-4E1A-B0A4-93B1D9786F62</p>
 </div>
@@ -1487,7 +1482,7 @@ For how long should Claire cook the turkey?
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1502,15 +1497,13 @@ On their sports day, five girls took part in the $400 \ \text{metres}$ race.
 
 Their times were recorded in the table below.
 
-![missing table](/papers/missing_table.svg)
-
-
-name        time taken
-Angie      1 min 18 secs
-Bella      1 min 25 secs
-Clemmie    1 min 13 secs
-Davina     1 min 22 secs
-Erin       1 min 19 secs
+|   Name  |             Time Taken            |
+|:-------:|:---------------------------------:|
+|  Angie  | $1 \ \text{min} \ 18 \ \text{secs}$ |
+|  Bella  | $1 \ \text{min} \ 25 \ \text{secs}$ |
+| Clemmie | $1 \ \text{min} \ 13 \ \text{secs}$ |
+|  Davina | $1 \ \text{min} \ 22 \ \text{secs}$ |
+|   Erin  | $1 \ \text{min} \ 19 \ \text{secs}$ |
 
 
 </div>
@@ -1519,14 +1512,13 @@ Erin       1 min 19 secs
 <emptyline>
 Their times were recorded in the table below.
 <emptyline>
-%table%
-<emptyline>
-name        time taken
-Angie      1 min 18 secs
-Bella      1 min 25 secs
-Clemmie    1 min 13 secs
-Davina     1 min 22 secs
-Erin       1 min 19 secs
+|   Name  |             Time Taken            |
+|:-------:|:---------------------------------:|
+|  Angie  | $1 \ \text{min} \ 18 \ \text{secs}$ |
+|  Bella  | $1 \ \text{min} \ 25 \ \text{secs}$ |
+| Clemmie | $1 \ \text{min} \ 13 \ \text{secs}$ |
+|  Davina | $1 \ \text{min} \ 22 \ \text{secs}$ |
+|   Erin  | $1 \ \text{min} \ 19 \ \text{secs}$ |
 <emptyline>
 </code></pre>
 </div>
@@ -1703,7 +1695,7 @@ At what time does the concert end?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>3FEA6E5A-D3A4-49A8-9B6C-F90D412A8990</p>
 </div>
@@ -1717,7 +1709,7 @@ At what time does the concert end?
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1786,14 +1778,23 @@ At what time did it finish?
 
 Three friends started a sponsored silence at exactly $15{:}00$ and, one by one, burst out in giggles at the times shown in the table below.
 
-![missing table](/papers/missing_table.svg)
+|   name  | time silence ended |
+|:-------:|:------------------:|
+|  Holly  |      $16{:}29$     |
+| Rebecca |      $17{:}08$     |
+|  Stacey |      $16{:}23$     |
 
 
 </div>
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>Three friends started a sponsored silence at exactly $15{:}00$ and, one by one, burst out in giggles at the times shown in the table below.
 <emptyline>
-%table%
+|   name  | time silence ended |
+|:-------:|:------------------:|
+|  Holly  |      $16{:}29$     |
+| Rebecca |      $17{:}08$     |
+|  Stacey |      $16{:}23$     |
+<emptyline>
 </code></pre>
 </div>
 <ul class='subsubquestion lower-roman'>
@@ -2080,7 +2081,7 @@ Write your answer using the $24$-hour clock.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>6D8B527D-1584-4A80-8F80-D0BB86E9FFD0</p>
 </div>
@@ -2094,7 +2095,7 @@ Write your answer using the $24$-hour clock.
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2110,14 +2111,23 @@ ttable
 
 Below is part of a train timetable:
 
-![missing table](/papers/missing_table.svg)
+|         | Spongeton |  Bobville | Squareford | Pantsbridge |
+|:-------:|:---------:|:---------:|:----------:|:-----------:|
+| train 1 | $10{:}45$ | $11{:}10$ |            |             |
+| train 2 | $11{:}30$ |           |            |  $12{:}40$  |
+| train 3 | $12{:}15$ | $12{:}51$ |  $13{:}22$ |  $13{:}45$  |
 
 
 </div>
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>Below is part of a train timetable:
 <emptyline>
-%table%
+|         | Spongeton |  Bobville | Squareford | Pantsbridge |
+|:-------:|:---------:|:---------:|:----------:|:-----------:|
+| train 1 | $10{:}45$ | $11{:}10$ |            |             |
+| train 2 | $11{:}30$ |           |            |  $12{:}40$  |
+| train 3 | $12{:}15$ | $12{:}51$ |  $13{:}22$ |  $13{:}45$  |
+<emptyline>
 </code></pre>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -2301,7 +2311,7 @@ What is the actual time on the clock?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>E84BF85C-48BC-4E0C-A5DA-4E46BD9E6E07</p>
 </div>
@@ -2315,7 +2325,7 @@ What is the actual time on the clock?
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2596,7 +2606,7 @@ At what time did Sherry arrive?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>C91E6035-9D47-42CB-834A-DB0B8A45E8A6</p>
 </div>
@@ -2610,7 +2620,7 @@ At what time did Sherry arrive?
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2623,14 +2633,21 @@ ttime
 
 Which bus takes the shortest time from Elgin to Inverness and by how many minutes?
 
-![missing table](/papers/missing_table.svg)
+|           |          Bus P          |          Bus Q          |
+|:---------:|:-----------------------:|:-----------------------:|
+|   Elgin   | $11{:}47 \ \text{a.m.}$ | $12{:}33 \ \text{p.m.}$ |
+| Inverness |  $1{:}06 \ \text{p.m.}$ |  $1{:}50 \ \text{p.m.}$ |
 
 
 </div>
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>Which bus takes the shortest time from Elgin to Inverness and by how many minutes?
 <emptyline>
-%table%
+|           |          Bus P          |          Bus Q          |
+|:---------:|:-----------------------:|:-----------------------:|
+|   Elgin   | $11{:}47 \ \text{a.m.}$ | $12{:}33 \ \text{p.m.}$ |
+| Inverness |  $1{:}06 \ \text{p.m.}$ |  $1{:}50 \ \text{p.m.}$ |
+<emptyline>
 </code></pre>
 </div>
 
@@ -2678,7 +2695,7 @@ Which bus takes the shortest time from Elgin to Inverness and by how many minute
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>D83FB293-ED94-45B3-84CF-CBEC198E7DF3</p>
 </div>
@@ -2692,7 +2709,7 @@ Which bus takes the shortest time from Elgin to Inverness and by how many minute
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2811,7 +2828,7 @@ At what time does Amira reach school?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>69F6CE4E-3035-4AF3-9690-A0A605D7DB3C</p>
 </div>
@@ -2825,7 +2842,7 @@ At what time does Amira reach school?
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3085,7 +3102,7 @@ For how much longer could he have watched TV without breaking his rule?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>21F7BC14-9818-4F1D-88D0-C2B5F192C189</p>
 </div>
@@ -3099,7 +3116,7 @@ For how much longer could he have watched TV without breaking his rule?
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3367,7 +3384,7 @@ Andy was born on $29\text{th February} \ 2004$, which was a leap year. How many 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>B2F21761-E805-4827-89DF-6D8EE4A5DB91</p>
 </div>
@@ -3381,7 +3398,7 @@ Andy was born on $29\text{th February} \ 2004$, which was a leap year. How many 
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3509,7 +3526,7 @@ The Drama on BBC $1$ lasts for $1\; hour$ and $40\; minutes$. At what time does 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>CE95FF63-F5DB-43D6-A7FF-55AC0609AE5C</p>
 </div>
@@ -3523,7 +3540,7 @@ The Drama on BBC $1$ lasts for $1\; hour$ and $40\; minutes$. At what time does 
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3615,7 +3632,7 @@ What is the latest time he should leave Cambridge to catch his flight?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>C00A5C45-F3E9-42AF-B53A-C9EC84D4BFB3</p>
 </div>
@@ -3629,7 +3646,7 @@ What is the latest time he should leave Cambridge to catch his flight?
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3797,7 +3814,7 @@ How long did I have to wait for the train to arrive at the station?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>79BC346A-5F57-4A81-B7D0-F946E12DB0EA</p>
 </div>
@@ -3811,7 +3828,7 @@ How long did I have to wait for the train to arrive at the station?
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3874,7 +3891,7 @@ How many minutes are there between $9.23 \ \text{am}$ and $1.06 \ \text{pm}$?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>D8F3E801-5479-4719-9984-4AA135CBC757</p>
 </div>
@@ -3888,7 +3905,7 @@ How many minutes are there between $9.23 \ \text{am}$ and $1.06 \ \text{pm}$?
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3904,7 +3921,6 @@ ttable
 
 The timetable shows the bus times between Shoh Street and London Road. must allow $6\, minutes$ to walk from my home to the bus stop in Short Street where I will catch a bus to London Road. From there it takes $8\, minutes$ to walk to John's house. f want to be at John's house by $2.00 \,pm$
 
-
 |                  |  Bus A      |  Bus B      |  Bus C      |  Bus D      |
 |--------------    |:-------:    |:-------:    |:-------:    |:-------:    |
 | Short Street     | $12.49$     | $13.11$     | $13.29$     | $13.43$     |
@@ -3915,7 +3931,6 @@ The timetable shows the bus times between Shoh Street and London Road. must allo
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>The timetable shows the bus times between Shoh Street and London Road. must allow $6\, minutes$ to walk from my home to the bus stop in Short Street where I will catch a bus to London Road. From there it takes $8\, minutes$ to walk to John's house. f want to be at John's house by $2.00 \,pm$
 <emptyline>
-
 |                  |  Bus A      |  Bus B      |  Bus C      |  Bus D      |
 |--------------    |:-------:    |:-------:    |:-------:    |:-------:    |
 | Short Street     | $12.49$     | $13.11$     | $13.29$     | $13.43$     |
@@ -4011,7 +4026,7 @@ How long will the journey from my home to John's home take?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>B20B0EB2-A5E9-4C4C-ABBF-4CA09EFAE7A7</p>
 </div>
@@ -4025,7 +4040,7 @@ How long will the journey from my home to John's home take?
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4092,7 +4107,7 @@ What time did the train depart Manchester if the total journey time was $173\, m
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>AC94F9F4-D5A9-41EE-82F8-16EB75BDCB03</p>
 </div>
@@ -4106,7 +4121,7 @@ What time did the train depart Manchester if the total journey time was $173\, m
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

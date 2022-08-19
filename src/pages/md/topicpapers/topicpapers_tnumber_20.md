@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-20"
 title: "TopicPaper - Number - 20"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "40"
 ---
 <div class='paper'>
@@ -2974,12 +2974,12 @@ The numbers are $18$ and $3$
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5259,12 +5259,12 @@ $
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6551,7 +6551,7 @@ E &= 10 + 5 \times 8 - 3 \\\\
 $
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
@@ -6563,7 +6563,7 @@ TODOWORKING
 B, C, E
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

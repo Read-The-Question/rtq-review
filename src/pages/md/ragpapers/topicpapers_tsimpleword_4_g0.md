@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-4-g0"
 title: "TopicPaper - Simpleword - 4 - G0"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "19"
 ---
 <ul class='question default-decimal'>
@@ -248,7 +248,7 @@ for reference check part a) of: 1F535340-0428-42BD-88F5-40CC8436C8ED
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>C37C682E-26E5-4DA2-98A6-BB49C4AEA7A6</p>
 </div>
@@ -262,7 +262,7 @@ for reference check part a) of: 1F535340-0428-42BD-88F5-40CC8436C8ED
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -445,6 +445,25 @@ $a = 10$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) First line \"Inserts\" ==> \"Insects\"
+
+
+
+Part b) 
+
+i) Put 2 ^ a within $2^a$ in table heading.
+
+
+
+ii) A lot of explanation is missing, check refer: E7E057EF-4470-4D6F-A4C3-197E843CA436 and make required changes.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2552,7 +2571,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prccrl question'>
 <div class='uuid'>
 <p>B97B18CD-B34D-453F-BF68-4ECBC5621406</p>
 </div>
@@ -2566,7 +2585,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prccrl</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2828,7 +2847,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>5E19CBBE-54A1-4C50-9739-F3060E708FD9</p>
 </div>
@@ -2842,7 +2861,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2930,6 +2949,23 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+First WORKING:
+
+i) Remove APTQ,
+
+ii) Write below line as first line inside \begin-end:
+
+Numbers of spots on six different sides of dice = 1, 2, 3, 4, 5, 6
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3099,7 +3135,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>40F554A0-24C8-450E-8BE8-E1659D2E8274</p>
 </div>
@@ -3113,7 +3149,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3284,6 +3320,37 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part b) 
+
+i) Add unit-note at the top.
+
+ii) Steps missing!!
+
+= 190 minutes
+
+= 190/60 hours  (hours missing in this line)
+
+...
+
+...
+
+..
+
+= 19/6  (add this step)
+
+= 3 hours 10 minutes
+
+
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3328,7 +3395,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>866159B1-4B81-4AB7-8216-C0F736137635</p>
 </div>
@@ -3342,7 +3409,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3409,6 +3476,19 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove APTQ,
+
+
+
+Align the katex code properly.
+</div>
 
 <div class='review'>
 <ul class='review'>

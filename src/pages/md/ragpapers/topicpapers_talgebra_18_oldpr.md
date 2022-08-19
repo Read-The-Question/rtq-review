@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-18-oldpr"
 title: "TopicPaper - Algebra - 18 - OLDPR"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>4E026293-8092-4F84-94CD-07F5A6F4E37D</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "3"
 <p>rag_am_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -137,7 +137,7 @@ $(𝑏𝑐)^2$
 
 $
 \begin{aligned}
-&= bc^2 \\\\
+&= (bc)^2 \\\\
 &= ( 5 \times -2)^2 \\\\
 &= (-10)^2 \\\\
 &= -10 \times -10 \\\\
@@ -159,7 +159,7 @@ $100$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= bc^2 \\\\
+&= (bc)^2 \\\\
 &= ( 5 \times -2)^2 \\\\
 &= (-10)^2 \\\\
 &= -10 \times -10 \\\\
@@ -198,9 +198,9 @@ $
 \begin{aligned}
 &= \dfrac {a + b} {c} \\\\
 &= \dfrac {3 + 5} {-2} \\\\
-&= - \dfrac {8} {2} \\\\
-&= - \dfrac {2 \times 4} {2} \\\\
-&= - \dfrac {\cancel {2} \times 4} {\cancel {2}} \\\\
+&= \dfrac {-8} {2} \\\\
+&= \dfrac {2 \times -4} {2} \\\\
+&= \dfrac {\cancel {2} \times -4} {\cancel {2}} \\\\
 &= -4
 \end{aligned}
 $
@@ -221,9 +221,9 @@ $-4$
 \begin{aligned}
 &= \dfrac {a + b} {c} \\\\
 &= \dfrac {3 + 5} {-2} \\\\
-&= - \dfrac {8} {2} \\\\
-&= - \dfrac {2 \times 4} {2} \\\\
-&= - \dfrac {\cancel {2} \times 4} {\cancel {2}} \\\\
+&= \dfrac {-8} {2} \\\\
+&= \dfrac {2 \times -4} {2} \\\\
+&= \dfrac {\cancel {2} \times -4} {\cancel {2}} \\\\
 &= -4
 \end{aligned}
 $
@@ -623,8 +623,8 @@ $\frac{4𝑐^2}{8}$
 
 $\begin{aligned}
 &= \dfrac {4c^2} {8} \\\\
-&= \dfrac {4c^2} {4 \times 2} \\\\
-&= \dfrac {\cancel {4} c^2} {\cancel {4} \times 2} \\\\
+&= \dfrac {4 \times c^2} {4 \times 2} \\\\
+&= \dfrac {\cancel {4} \times c^2} {\cancel {4} \times 2} \\\\
 &= \dfrac {c^2} {2}
 \end{aligned}
 $
@@ -643,8 +643,8 @@ $\dfrac {c^2} {2}$
 
 <pre class='language-latex'><code class='language-latex'>$\begin{aligned}
 &= \dfrac {4c^2} {8} \\\\
-&= \dfrac {4c^2} {4 \times 2} \\\\
-&= \dfrac {\cancel {4} c^2} {\cancel {4} \times 2} \\\\
+&= \dfrac {4 \times c^2} {4 \times 2} \\\\
+&= \dfrac {\cancel {4} \times c^2} {\cancel {4} \times 2} \\\\
 &= \dfrac {c^2} {2}
 \end{aligned}
 $
@@ -850,7 +850,7 @@ then cancel..
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>33FD2E24-6D5F-48B6-8104-E7A1C7EBD9B0</p>
 </div>
@@ -864,7 +864,7 @@ then cancel..
 <p>rag_am_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -900,10 +900,10 @@ a                           &= 30
 \end{aligned}
 $
 
-The number he started with $= 30$
 
 $
 \begin{aligned}
+\text{The number he started with}           &= 30 \\\\
 \text {The answer he should have obtained}  &= (30 + 15) \times 3 \\\\
                                             &= 45 \times 3 \\\\
                                             &= 135
@@ -939,10 +939,10 @@ a                           &= 30
 \end{aligned}
 $
 <emptyline>
-The number he started with $= 30$
-<emptyline>
+
 $
 \begin{aligned}
+\text{The number he started with}           &= 30 \\\\
 \text {The answer he should have obtained}  &= (30 + 15) \times 3 \\\\
                                             &= 45 \times 3 \\\\
                                             &= 135

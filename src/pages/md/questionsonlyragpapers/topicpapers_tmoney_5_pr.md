@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tmoney-5-pr"
 title: "TopicPaper - Money - 5 - PR"
-date: 2022-08-18 11:06:01
+date: 2022-08-19 16:00:22
 questions_count: "13"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>F6A52668-B3D8-49D6-BA15-A931902E7BB6</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "13"
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -83,7 +83,7 @@ Work out $15 \%$ of $\pounds 5$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>81E1B098-E3D4-4FFB-8782-94935FEFD938</p>
 </div>
@@ -97,7 +97,7 @@ Work out $15 \%$ of $\pounds 5$.
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -160,7 +160,7 @@ Work out $30 \%$ of $\pounds 16.80$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>4B61C938-79C7-44C1-871D-5818101388C0</p>
 </div>
@@ -174,7 +174,7 @@ Work out $30 \%$ of $\pounds 16.80$.
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -985,7 +985,7 @@ $\pounds 1.28 - 57 \text{p}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>A3C01E30-4AAA-4DBB-B19E-8F08BBF264E5</p>
 </div>
@@ -999,7 +999,7 @@ $\pounds 1.28 - 57 \text{p}$
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

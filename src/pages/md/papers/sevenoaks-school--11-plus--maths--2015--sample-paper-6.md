@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2015-sample-paper-6"
 title: "Sevenoaks School - 11 Plus - Maths - 2015 - Sample Paper 6"
-date: 2022-08-18 10:44:13
+date: 2022-08-19 15:32:50
 questions_count: "18"
 ---
 <div class='paper'>
@@ -231,7 +231,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prpcr question'>
 <div class='uuid'>
 <p>85AF4A82-D8F4-4C46-A7A4-17F82A02167C</p>
 </div>
@@ -245,7 +245,7 @@ $
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -309,6 +309,14 @@ $
 
 <h4>Review Comments</h4>
 U took reference from somewhere?? If no, Then change the working to - As per the question, and solve it simply . If yes, send me the uuid
+
+
+
+\"Length needed = ..\" ==> \"Length of piece of wood = ...\" 
+
+
+
+Remove unit from first line.
 </div>
 
 <div class='review'>
@@ -354,7 +362,7 @@ U took reference from somewhere?? If no, Then change the working to - As per the
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcr question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>312B54F7-8745-4C65-B52D-35F6198E8ACD</p>
 </div>
@@ -368,7 +376,7 @@ U took reference from somewhere?? If no, Then change the working to - As per the
 <p>rag_kr_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -561,7 +569,7 @@ solve further....
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>344D2219-6B52-4A1E-9CAC-AD845022B342</p>
 </div>
@@ -572,10 +580,10 @@ solve further....
 <p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_as_oldpr</p>
+<p>rag_as_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -639,44 +647,39 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-No need to explain this much. write all in one equation
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='344D2219-6B52-4A1E-9CAC-AD845022B342' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='344D2219-6B52-4A1E-9CAC-AD845022B342' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='344D2219-6B52-4A1E-9CAC-AD845022B342' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='344D2219-6B52-4A1E-9CAC-AD845022B342' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='344D2219-6B52-4A1E-9CAC-AD845022B342' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='344D2219-6B52-4A1E-9CAC-AD845022B342' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='344D2219-6B52-4A1E-9CAC-AD845022B342' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='344D2219-6B52-4A1E-9CAC-AD845022B342' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='344D2219-6B52-4A1E-9CAC-AD845022B342' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='344D2219-6B52-4A1E-9CAC-AD845022B342' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='344D2219-6B52-4A1E-9CAC-AD845022B342' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='344D2219-6B52-4A1E-9CAC-AD845022B342' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='344D2219-6B52-4A1E-9CAC-AD845022B342' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='344D2219-6B52-4A1E-9CAC-AD845022B342' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='344D2219-6B52-4A1E-9CAC-AD845022B342' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='344D2219-6B52-4A1E-9CAC-AD845022B342' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='344D2219-6B52-4A1E-9CAC-AD845022B342' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='344D2219-6B52-4A1E-9CAC-AD845022B342' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='344D2219-6B52-4A1E-9CAC-AD845022B342' id='FORM-344D2219-6B52-4A1E-9CAC-AD845022B342' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='344D2219-6B52-4A1E-9CAC-AD845022B342' id='FORM-344D2219-6B52-4A1E-9CAC-AD845022B342' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1347,7 +1350,7 @@ No need to explain this much. Price of seesaw in 2011 = price of seesaw in 2010 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>5AF5AFC7-6421-43C4-B38A-CD7C667BAE96</p>
 </div>
@@ -1361,7 +1364,7 @@ No need to explain this much. Price of seesaw in 2011 = price of seesaw in 2010 
 <p>rag_kr_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1388,7 +1391,6 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Length}(x)         &= \text{Length}(\text{Lower figure}) + \dfrac{1}{3} \times \text{Length}(\text{Upper figure}) \\\\
 x                        &= 15 + \dfrac{1}{3} \times 15  \\\\
 x                        &= 15 + \dfrac {5 \times 3} {3}  \\\\
 x                        &= 15 + \dfrac {5 \times \cancel{3}} {\cancel{3}}  \\\\
@@ -1415,7 +1417,6 @@ $20 \ \text {cm}$
 <emptyline>
 $
 \begin{aligned}
-\text{Length}(x)         &= \text{Length}(\text{Lower figure}) + \dfrac{1}{3} \times \text{Length}(\text{Upper figure}) \\\\
 x                        &= 15 + \dfrac{1}{3} \times 15  \\\\
 x                        &= 15 + \dfrac {5 \times 3} {3}  \\\\
 x                        &= 15 + \dfrac {5 \times \cancel{3}} {\cancel{3}}  \\\\
@@ -1490,7 +1491,7 @@ No need to explain this much. Length (x) = length (Lower figure) + 1/3 \times le
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>174ABCE6-0882-4AC7-91BE-F385F7D1F968</p>
 </div>
@@ -1504,7 +1505,7 @@ No need to explain this much. Length (x) = length (Lower figure) + 1/3 \times le
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1529,10 +1530,9 @@ Using equivalent ratio,
 
 $
 \begin{aligned}
-3 \ \text{red paint} : 1 \ \text{blue paint}    &= a \ \text{red paint} : (1000 - a) \ \text{blue paint} \\\\
+3 \ \text{red} : 1 \ \text{blue}                &= a \ \text{red} : (1000 - a) \ \text{blue} \\\\
 \dfrac {3} {1}                                  &= \dfrac {a} {1000 - a} \\\\
 3 \times (1000 - a)                             &= a \\\\
-3 \times 1000 - 3a                              &= a \\\\
 3000 - 3a                                       &= a \\\\
 3000                                            &= a + 3a \\\\
 a + 3a                                          &= 3000 \\\\
@@ -1543,6 +1543,26 @@ a                                               &= \dfrac {\cancel 4 \times 750}
 a                                               &= 750 \ \text{ml}
 \end{aligned}
 $
+
+Amount of red paint needed $= 750 \ \text{ml}$
+
+</div>
+<div class='working'>
+
+Using ratio,
+
+$
+\begin{array}{cccccccccccccc}
+  & \text{purple paint}                         &:& \text{red paint} \\\\
+= & (1 + 3) \ \text{ml}                         &:& 3 \ \text{ml} \\\\
+= & 4                                           &:& 3 \\\\
+= & 4 \times 250                                &:& 3 \times 250 \\\\
+= & 1000 \ \text{ml}                            &:& 750 \\\\
+= & 1 \ \text{litres}                           &:& 750 \ \text{ml}
+\end{array}
+$
+
+Amount of red paint needed $= 750 \ \text{ml}$
 
 </div>
 </div>
@@ -1564,10 +1584,9 @@ Using equivalent ratio,
 <emptyline>
 $
 \begin{aligned}
-3 \ \text{red paint} : 1 \ \text{blue paint}    &= a \ \text{red paint} : (1000 - a) \ \text{blue paint} \\\\
+3 \ \text{red} : 1 \ \text{blue}                &= a \ \text{red} : (1000 - a) \ \text{blue} \\\\
 \dfrac {3} {1}                                  &= \dfrac {a} {1000 - a} \\\\
 3 \times (1000 - a)                             &= a \\\\
-3 \times 1000 - 3a                              &= a \\\\
 3000 - 3a                                       &= a \\\\
 3000                                            &= a + 3a \\\\
 a + 3a                                          &= 3000 \\\\
@@ -1578,6 +1597,26 @@ a                                               &= \dfrac {\cancel 4 \times 750}
 a                                               &= 750 \ \text{ml}
 \end{aligned}
 $
+<emptyline>
+Amount of red paint needed $= 750 \ \text{ml}$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Using ratio,
+<emptyline>
+$
+\begin{array}{cccccccccccccc}
+  & \text{purple paint}                         &:& \text{red paint} \\\\
+= & (1 + 3) \ \text{ml}                         &:& 3 \ \text{ml} \\\\
+= & 4                                           &:& 3 \\\\
+= & 4 \times 250                                &:& 3 \times 250 \\\\
+= & 1000 \ \text{ml}                            &:& 750 \\\\
+= & 1 \ \text{litres}                           &:& 750 \ \text{ml}
+\end{array}
+$
+<emptyline>
+Amount of red paint needed $= 750 \ \text{ml}$
 </code></pre>
 </div>
 </div>
@@ -1598,6 +1637,10 @@ $
 
 <h4>Review Comments</h4>
 tratio
+
+
+
+add equiv ratio where missing, add ratio version where missing, summary line, 1 \times n etc etc
 </div>
 
 <div class='review'>
@@ -2452,7 +2495,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prccrl question'>
 <div class='uuid'>
 <p>27CD01EC-3953-42B4-BA5E-E1F1DE7E96A7</p>
 </div>
@@ -2466,7 +2509,7 @@ $
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prccrl</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3092,19 +3135,19 @@ The diagram shows the net of a cube. Which edge meets the edge $X$ when the net 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3299,7 +3342,7 @@ $
 
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

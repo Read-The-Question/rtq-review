@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2018-sample-paper-8"
 title: "Oundle School - 11 Plus - Maths - 2018 - Sample Paper 8"
-date: 2022-08-18 10:44:13
+date: 2022-08-19 15:32:50
 questions_count: "12"
 ---
 <div class='paper'>
@@ -14,7 +14,7 @@ questions_count: "12"
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>51830703-CBD9-43F8-B47F-335ADCA3A65F</p>
 </div>
@@ -28,7 +28,7 @@ questions_count: "12"
 <p>rag_kr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -93,7 +93,7 @@ Calculate the difference between the two prices.
 $
 \begin{aligned}
 \text{Difference between prices} &= 34567300 - 23997324 \\\\
-                                 &= 10569976
+                                 &= \pounds10569976
 \end{aligned}
 $
 
@@ -102,7 +102,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$10569976$
+$\pounds10569976$
 
 </div>
 </div>
@@ -112,7 +112,7 @@ $10569976$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{Difference between prices} &= 34567300 - 23997324 \\\\
-                                 &= 10569976
+                                 &= \pounds10569976
 \end{aligned}
 $
 </code></pre>
@@ -126,7 +126,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$10569976$
+<pre class='language-latex'><code class='language-latex'>$\pounds10569976$
 </code></pre>
 </div>
 </div>
@@ -202,7 +202,7 @@ A box contains $37$ chocolates. How many chocolates would there be in $26$ boxes
 
 $
 \begin{aligned}
-\text{Chocolate in 26 boxes} &= 26 \times 37 \\\\
+\text{Chocolates in 26 boxes} &= 26 \times 37 \\\\
                              &= 962
 \end{aligned}
 $
@@ -221,7 +221,7 @@ $962$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Chocolate in 26 boxes} &= 26 \times 37 \\\\
+\text{Chocolates in 26 boxes} &= 26 \times 37 \\\\
                              &= 962
 \end{aligned}
 $
@@ -1117,7 +1117,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>4CD1C86B-833A-4DAF-9C93-F7B0B990F28D</p>
 </div>
@@ -1128,10 +1128,10 @@ $
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_pr</p>
+<p>rag_mr_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prbd</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1198,50 +1198,10 @@ $
 </div>
 
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4CD1C86B-833A-4DAF-9C93-F7B0B990F28D' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4CD1C86B-833A-4DAF-9C93-F7B0B990F28D' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4CD1C86B-833A-4DAF-9C93-F7B0B990F28D' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4CD1C86B-833A-4DAF-9C93-F7B0B990F28D' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4CD1C86B-833A-4DAF-9C93-F7B0B990F28D' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4CD1C86B-833A-4DAF-9C93-F7B0B990F28D' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4CD1C86B-833A-4DAF-9C93-F7B0B990F28D' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4CD1C86B-833A-4DAF-9C93-F7B0B990F28D' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4CD1C86B-833A-4DAF-9C93-F7B0B990F28D' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4CD1C86B-833A-4DAF-9C93-F7B0B990F28D' id='FORM-4CD1C86B-833A-4DAF-9C93-F7B0B990F28D' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-4CD1C86B-833A-4DAF-9C93-F7B0B990F28D'>Initial</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>EFD38E79-EABA-416D-9691-E23FADC9823E</p>
 </div>
@@ -1255,7 +1215,7 @@ $
 <p>rag_kr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1272,43 +1232,49 @@ An iPhone used to cost $\pounds 500$. Since Brexit the price has increased by $2
 <div class='workings'>
 <div class='working'>
 
+If the iphone cost increased by $22 \%$, then the new cost will be $100 + 22 = 122 \%$ of the previous price. Using that, we get
+
 $
-\begin{aligned}
-\text{increase}&= 22 \% \times 500 \\\\
-&= \dfrac {22} {100} \times 500 \\\\
-&= \dfrac {22 \times 500} {100} \\\\
-&= \dfrac {11000} {100} \\\\
-&= \dfrac {110 \cancel {00}} {1 \cancel{00}} \\\\
-&= 110 \\\\
-\text{price}&= 500 + 110 \\\\
-&= 610
-\end{aligned}
+\begin {aligned}
+\text {iphone cost after increase}    &= \dfrac {122} {100} \times 500 \\\\
+                                      &= \dfrac {122 \times 500} {100} \\\\
+                                      &= \dfrac {122 \times 5 \times 100}{100} \\\\
+                                      &= \dfrac {122 \times 5 \times \cancel{100}}{\cancel{100}} \\\\
+                                      &= 122 \times 5 \\\\
+                                      &= \pounds 610 
+\end {aligned}
 $
+
+The new iPhone price $= \pounds 610$
+
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$610$
+$\pounds 610$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-\text{increase}&= 22 \% \times 500 \\\\
-&= \dfrac {22} {100} \times 500 \\\\
-&= \dfrac {22 \times 500} {100} \\\\
-&= \dfrac {11000} {100} \\\\
-&= \dfrac {110 \cancel {00}} {1 \cancel{00}} \\\\
-&= 110 \\\\
-\text{price}&= 500 + 110 \\\\
-&= 610
-\end{aligned}
+<pre class='language-latex'><code class='language-latex'>If the iphone cost increased by $22 \%$, then the new cost will be $100 + 22 = 122 \%$ of the previous price. Using that, we get
+<emptyline>
 $
+\begin {aligned}
+\text {iphone cost after increase}    &= \dfrac {122} {100} \times 500 \\\\
+                                      &= \dfrac {122 \times 500} {100} \\\\
+                                      &= \dfrac {122 \times 5 \times 100}{100} \\\\
+                                      &= \dfrac {122 \times 5 \times \cancel{100}}{\cancel{100}} \\\\
+                                      &= 122 \times 5 \\\\
+                                      &= \pounds 610 
+\end {aligned}
+$
+<emptyline>
+The new iPhone price $= \pounds 610$
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1320,7 +1286,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$610$
+<pre class='language-latex'><code class='language-latex'>$\pounds 610$
 </code></pre>
 </div>
 </div>
@@ -1694,7 +1660,7 @@ ratio question mark it amber for now
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E2966271-3218-4066-8490-77C5F92607CA</p>
 </div>
@@ -1708,7 +1674,7 @@ ratio question mark it amber for now
 <p>rag_kr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1901,10 +1867,13 @@ Let the missing number $= a$
 $
 \begin{aligned}
 6900 \div a          &= 23000 \\\\
-6900                 &= 23000 \times a \\\\
-\dfrac{6900} {23000} &= a \\\\
-a                    &= \dfrac{6900} {23000} \\\\
-a                    &= 0.3
+\dfrac{6900}{a}      &= 23000 \\\\
+\dfrac{6900}{23000}  &= a \\\\
+a                    &= \dfrac{6900}{23000} \\\\
+a                    &= \dfrac{3 \times 2300}{10 \times 2300} \\\\
+a                    &= \dfrac{3 \times \cancel{2300}}{10 \times \cancel{2300}} \\\\
+a                    &= \dfrac{3}{10} \\\\
+a                    &= 0.3 \\\\
 \end{aligned}
 $
 
@@ -1925,10 +1894,13 @@ $0.3$
 $
 \begin{aligned}
 6900 \div a          &= 23000 \\\\
-6900                 &= 23000 \times a \\\\
-\dfrac{6900} {23000} &= a \\\\
-a                    &= \dfrac{6900} {23000} \\\\
-a                    &= 0.3
+\dfrac{6900}{a}      &= 23000 \\\\
+\dfrac{6900}{23000}  &= a \\\\
+a                    &= \dfrac{6900}{23000} \\\\
+a                    &= \dfrac{3 \times 2300}{10 \times 2300} \\\\
+a                    &= \dfrac{3 \times \cancel{2300}}{10 \times \cancel{2300}} \\\\
+a                    &= \dfrac{3}{10} \\\\
+a                    &= 0.3 \\\\
 \end{aligned}
 $
 </code></pre>
@@ -2058,24 +2030,24 @@ A straight line passes through the points $(1, 2)$ and $(6, 12)$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2124,24 +2096,24 @@ TODOANSWER
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2190,24 +2162,24 @@ The point $(3, a)$ also lies on the line. Calculate the value of $a$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2258,24 +2230,24 @@ The point $(7, b)$ also lies on the line. Calculate the value of $b$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2326,24 +2298,24 @@ Give the coordinates of a new point which would form a right angled triangle wit
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2399,24 +2371,24 @@ Another straight line goes through the point $(5, 1)$ and is parallel to the fir
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2497,24 +2469,24 @@ You will notice that after six decimal places the digits begin to repeat, and in
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2563,24 +2535,24 @@ Write down the digits that are in the $4 \text{th}$ and $10 \text{th}$ decimal p
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2631,24 +2603,24 @@ What number would you find in the $15 \text{th}$ decimal place?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2699,24 +2671,24 @@ What number would you find in the $2{,}000 \text{th}$ decimal place?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2767,24 +2739,24 @@ How many $7s$ appear in the first $200$ decimal places?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3157,7 +3129,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>4F9F4C6D-374B-4A3F-A930-14B9759C0925</p>
 </div>
@@ -3168,7 +3140,7 @@ $
 <p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_an_pr</p>
+<p>rag_an_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3231,9 +3203,11 @@ Which fraction is bigger, four fifths or eight ninths?
 
 $
 \begin{aligned}
-&= \dfrac{4}{5} \text{and} \dfrac{8}{9} \\\\
-&= \dfrac{4 \times 9}{5 \times 9} \text{and} \dfrac{8 \times 5}{9 \times 5} \\\\
-&= \dfrac{36}{45} \text{and} \dfrac{40}{45}
+&= \dfrac {4} {5} \ \text{or} \ \dfrac {8} {9} \\\\
+&= \dfrac {4 \times 9} {5 \times 9} \ \text{or} \ \dfrac {8 \times 5} {9 \times 5} \\\\
+&= \dfrac {36} {45} \ \text{or} \ \dfrac {40} {45} \\\\
+&= \dfrac {36} {45} \ < \ \dfrac {40} {45} \\\\
+&= \dfrac {4} {5} \ < \ \dfrac {8} {9}
 \end{aligned}
 $
 
@@ -3251,9 +3225,11 @@ $\dfrac{8}{9}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= \dfrac{4}{5} \text{and} \dfrac{8}{9} \\\\
-&= \dfrac{4 \times 9}{5 \times 9} \text{and} \dfrac{8 \times 5}{9 \times 5} \\\\
-&= \dfrac{36}{45} \text{and} \dfrac{40}{45}
+&= \dfrac {4} {5} \ \text{or} \ \dfrac {8} {9} \\\\
+&= \dfrac {4 \times 9} {5 \times 9} \ \text{or} \ \dfrac {8 \times 5} {9 \times 5} \\\\
+&= \dfrac {36} {45} \ \text{or} \ \dfrac {40} {45} \\\\
+&= \dfrac {36} {45} \ < \ \dfrac {40} {45} \\\\
+&= \dfrac {4} {5} \ < \ \dfrac {8} {9}
 \end{aligned}
 $
 </code></pre>
@@ -3284,21 +3260,21 @@ Write down a fraction which is greater than two fifths, but less than four fifth
 <div class='workings'>
 <div class='working'>
 
-$\dfrac{8}{20}$
+$\dfrac{3}{5}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{8}{20}$
+$\dfrac{3}{5}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\dfrac{8}{20}$
+<pre class='language-latex'><code class='language-latex'>$\dfrac{3}{5}$
 </code></pre>
 </div>
 </div>
@@ -3310,7 +3286,7 @@ $\dfrac{8}{20}$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac{8}{20}$
+<pre class='language-latex'><code class='language-latex'>$\dfrac{3}{5}$
 </code></pre>
 </div>
 </div>
@@ -3327,7 +3303,12 @@ Write down a fraction that is greater than three fifths, but less than four fift
 <div class='workings'>
 <div class='working'>
 
-$\dfrac{35}{50}$
+$
+\begin{aligned}
+&= \dfrac {3.5} {5}  \\\\
+&= \dfrac{35}{50}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -3341,7 +3322,12 @@ $\dfrac{35}{50}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\dfrac{35}{50}$
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \dfrac {3.5} {5}  \\\\
+&= \dfrac{35}{50}
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -3370,21 +3356,21 @@ Write down a fraction which is less than one seventh, but greater than zero.
 <div class='workings'>
 <div class='working'>
 
-$\dfrac{1}{14}$
+$\dfrac{1}{8}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{1}{14}$
+$\dfrac{1}{8}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\dfrac{1}{14}$
+<pre class='language-latex'><code class='language-latex'>$\dfrac{1}{8}$
 </code></pre>
 </div>
 </div>
@@ -3396,7 +3382,7 @@ $\dfrac{1}{14}$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac{1}{14}$
+<pre class='language-latex'><code class='language-latex'>$\dfrac{1}{8}$
 </code></pre>
 </div>
 </div>
@@ -3415,8 +3401,10 @@ Calculate half of one sixth.
 
 $
 \begin{aligned}
-&= \dfrac{1}{2} \times \dfrac{1}{6} \\\\
-&= \dfrac{1}{12}
+&= \dfrac {1} {2} \ \text{of} \ \dfrac {1} {6} \\\\
+&= \dfrac {1} {2} \times \dfrac {1} {6} \\\\
+&= \dfrac {1} {2 \times 6} \\\\
+&= \dfrac {1} {12}
 \end{aligned}
 $
 
@@ -3434,8 +3422,10 @@ $\dfrac{1}{12}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= \dfrac{1}{2} \times \dfrac{1}{6} \\\\
-&= \dfrac{1}{12}
+&= \dfrac {1} {2} \ \text{of} \ \dfrac {1} {6} \\\\
+&= \dfrac {1} {2} \times \dfrac {1} {6} \\\\
+&= \dfrac {1} {2 \times 6} \\\\
+&= \dfrac {1} {12}
 \end{aligned}
 $
 </code></pre>
@@ -3468,10 +3458,11 @@ What is the result if one is subtracted from three fifths?
 
 $
 \begin{aligned}
-&= \dfrac{3}{5} - 1 \\\\
-&= \dfrac{3 - 1 \times 5}{5} \\\\
-&= \dfrac{3 - 5}{5} \\\\
-&= \dfrac{-2}{5}
+&= 1 - \dfrac {3} {5} \\\\
+&= \dfrac {1 \times 5} {1 \times 5} - \dfrac {3} {5} \\\\
+&= \dfrac {5} {5} - \dfrac {3} {5} \\\\
+&= \dfrac {5 - 3} {5} \\\\
+&= \dfrac {2} {5}
 \end{aligned}
 $
 
@@ -3489,10 +3480,11 @@ $\dfrac{-2}{5}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= \dfrac{3}{5} - 1 \\\\
-&= \dfrac{3 - 1 \times 5}{5} \\\\
-&= \dfrac{3 - 5}{5} \\\\
-&= \dfrac{-2}{5}
+&= 1 - \dfrac {3} {5} \\\\
+&= \dfrac {1 \times 5} {1 \times 5} - \dfrac {3} {5} \\\\
+&= \dfrac {5} {5} - \dfrac {3} {5} \\\\
+&= \dfrac {5 - 3} {5} \\\\
+&= \dfrac {2} {5}
 \end{aligned}
 $
 </code></pre>
@@ -3514,44 +3506,39 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-third part not solved
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4F9F4C6D-374B-4A3F-A930-14B9759C0925' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='4F9F4C6D-374B-4A3F-A930-14B9759C0925' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4F9F4C6D-374B-4A3F-A930-14B9759C0925' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='4F9F4C6D-374B-4A3F-A930-14B9759C0925' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4F9F4C6D-374B-4A3F-A930-14B9759C0925' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='4F9F4C6D-374B-4A3F-A930-14B9759C0925' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4F9F4C6D-374B-4A3F-A930-14B9759C0925' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='4F9F4C6D-374B-4A3F-A930-14B9759C0925' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4F9F4C6D-374B-4A3F-A930-14B9759C0925' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='4F9F4C6D-374B-4A3F-A930-14B9759C0925' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4F9F4C6D-374B-4A3F-A930-14B9759C0925' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='4F9F4C6D-374B-4A3F-A930-14B9759C0925' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4F9F4C6D-374B-4A3F-A930-14B9759C0925' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='4F9F4C6D-374B-4A3F-A930-14B9759C0925' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4F9F4C6D-374B-4A3F-A930-14B9759C0925' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='4F9F4C6D-374B-4A3F-A930-14B9759C0925' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4F9F4C6D-374B-4A3F-A930-14B9759C0925' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='4F9F4C6D-374B-4A3F-A930-14B9759C0925' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4F9F4C6D-374B-4A3F-A930-14B9759C0925' id='FORM-4F9F4C6D-374B-4A3F-A930-14B9759C0925' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='4F9F4C6D-374B-4A3F-A930-14B9759C0925' id='FORM-4F9F4C6D-374B-4A3F-A930-14B9759C0925' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

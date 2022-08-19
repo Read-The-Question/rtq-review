@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-3-g1"
 title: "TopicPaper - Time - 3 - G1"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "14"
 ---
 <ul class='question default-decimal'>
@@ -1236,24 +1236,24 @@ It takes Karen $40 \ \text{minutes}$ to get to school in the morning. The pie ch
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

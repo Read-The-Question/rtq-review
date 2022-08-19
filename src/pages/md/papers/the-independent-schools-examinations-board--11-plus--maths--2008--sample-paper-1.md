@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2008-sample-paper-1"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2008 - Sample Paper 1"
-date: 2022-08-18 10:44:13
+date: 2022-08-19 15:32:50
 questions_count: "14"
 ---
 <div class='paper'>
@@ -1072,24 +1072,24 @@ Notby School won the final of the hockey tournament.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1197,24 +1197,24 @@ Write this number correct to the nearest hundred.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1317,24 +1317,24 @@ Use the Venn diagram to write down
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1426,24 +1426,24 @@ the number of left-handed children who scored a goal
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1523,24 +1523,24 @@ tgeometry
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1596,24 +1596,24 @@ $(2, 2) \quad (6,2) \quad (4,4)$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1664,24 +1664,24 @@ Join them in order to form a triangle. Label the triangle $A$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1732,24 +1732,24 @@ Which special type of triangle is $A$?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1800,24 +1800,24 @@ Draw any lines of symmetry on triangle $A$ using a dashed line.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1870,24 +1870,24 @@ Label your triangle $B$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1940,24 +1940,24 @@ Label the image $C$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2008,24 +2008,24 @@ What is the order of rotational symmetry of triangle $A$?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2076,24 +2076,24 @@ Find the area of triangle $A$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2479,24 +2479,24 @@ Here is a bar chart showing his results:
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2547,24 +2547,24 @@ There were $22$ people born on Sunday.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2615,24 +2615,24 @@ Draw a bar on the chart to represent this.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2686,24 +2686,24 @@ Use the bar chart to complete the frequency table below.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2754,24 +2754,24 @@ Which day is the mode?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3187,7 +3187,7 @@ $\text {Impossible}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prpcr question'>
 <div class='uuid'>
 <p>C32DD935-2232-41D0-95F2-831726C34B8E</p>
 </div>
@@ -3201,7 +3201,7 @@ $\text {Impossible}$
 <p>rag_mr_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3289,14 +3289,14 @@ Using ratio,
 $
 \begin{array}{cccccccccccccc}
   & \text{flapjacks}  &:& \text{margarine}                                          &:& \text{oats}                                                                         &:& \text{sugar}                                                &:& \text{flour}                                              &:& \text{syrup} \\\\
-= & 20                &:& 200 \ \text{g}                                            &:& 250 \ \text{g}                                                                      &:& 200 \ \text{g}                                              &:& 100 \ \text{g}                                            &:& 3 \ \text{teaspoons} \\\\
+= & 20                &:& 200 \ \text{g}                                            &:& 250 \ \text{g}                                                                      &:& 200 \ \text{g}                                              &:& 100 \ \text{g}                                            &:& 3 \ \text{tablespoons} \\\\
 = & 1                 &:& \dfrac {200} {20}                                         &:& \dfrac {250} {20}                                                                   &:& \dfrac {200} {20}                                           &:& \dfrac {100} {20}                                         &:& \dfrac {3} {20} \\\\
 = & 1 \times 10       &:& \dfrac {200 \times 10} {20}                               &:& \dfrac {250 \times 10} {20}                                                         &:& \dfrac {200 \times 10} {20}                                 &:& \dfrac {100 \times 10} {20}                               &:& \dfrac {3 \times 10} {20} \\\\
 = & 10                &:& \dfrac {20 \times 10 \times 10} {20}                      &:& \dfrac {125 \times 2 \times 10} {2 \times 10}                                       &:& \dfrac {20 \times 10 \times 10} {20}                        &:& \dfrac {20 \times 5 \times 10} {20}                       &:& \dfrac {3 \times 10 \times 5} {20 \times 5} \\\\
 = & 10                &:& \dfrac {\cancel {20} \times 10 \times 10} {\cancel {20}}  &:& \dfrac {125 \times \cancel 2 \times \cancel {10}} {\cancel 2 \times \cancel {10}}   &:& \dfrac {\cancel {20} \times 10 \times 10} {\cancel {20}}    &:& \dfrac {\cancel {20} \times 5 \times 10} {\cancel {20}}   &:& \dfrac {150} {100} \\\\
 = & 10                &:& 10 \times 10                                              &:& 125                                                                                 &:& 10 \times 10                                                &:& 5 \times 10                                               &:& 1.5 \\\\
 = & 10                &:& 100                                                       &:& 125                                                                                 &:& 10 \times 10                                                &:& 50                                                        &:& 1.5 \\\\
-= & 10                &:& 100 \ \text{g}                                            &:& 125 \ \text{g}                                                                      &:& 100 \ \text{g}                                              &:& 50 \ \text{g}                                             &:& 1.5 \ \text{teaspoons}
+= & 10                &:& 100 \ \text{g}                                            &:& 125 \ \text{g}                                                                      &:& 100 \ \text{g}                                              &:& 50 \ \text{g}                                             &:& 1.5 \ \text{tablespoons}
 \end{array}
 $
 
@@ -3325,7 +3325,7 @@ Flour $=$ $50 \ \text{g}$
 </div>
 <div class='answer'>
 
-Syrup $=$ $1.5 \ \text{teaspoons}$
+Syrup $=$ $1.5 \ \text{tablespoons}$
 
 </div>
 </div>
@@ -3337,14 +3337,14 @@ Syrup $=$ $1.5 \ \text{teaspoons}$
 $
 \begin{array}{cccccccccccccc}
   & \text{flapjacks}  &:& \text{margarine}                                          &:& \text{oats}                                                                         &:& \text{sugar}                                                &:& \text{flour}                                              &:& \text{syrup} \\\\
-= & 20                &:& 200 \ \text{g}                                            &:& 250 \ \text{g}                                                                      &:& 200 \ \text{g}                                              &:& 100 \ \text{g}                                            &:& 3 \ \text{teaspoons} \\\\
+= & 20                &:& 200 \ \text{g}                                            &:& 250 \ \text{g}                                                                      &:& 200 \ \text{g}                                              &:& 100 \ \text{g}                                            &:& 3 \ \text{tablespoons} \\\\
 = & 1                 &:& \dfrac {200} {20}                                         &:& \dfrac {250} {20}                                                                   &:& \dfrac {200} {20}                                           &:& \dfrac {100} {20}                                         &:& \dfrac {3} {20} \\\\
 = & 1 \times 10       &:& \dfrac {200 \times 10} {20}                               &:& \dfrac {250 \times 10} {20}                                                         &:& \dfrac {200 \times 10} {20}                                 &:& \dfrac {100 \times 10} {20}                               &:& \dfrac {3 \times 10} {20} \\\\
 = & 10                &:& \dfrac {20 \times 10 \times 10} {20}                      &:& \dfrac {125 \times 2 \times 10} {2 \times 10}                                       &:& \dfrac {20 \times 10 \times 10} {20}                        &:& \dfrac {20 \times 5 \times 10} {20}                       &:& \dfrac {3 \times 10 \times 5} {20 \times 5} \\\\
 = & 10                &:& \dfrac {\cancel {20} \times 10 \times 10} {\cancel {20}}  &:& \dfrac {125 \times \cancel 2 \times \cancel {10}} {\cancel 2 \times \cancel {10}}   &:& \dfrac {\cancel {20} \times 10 \times 10} {\cancel {20}}    &:& \dfrac {\cancel {20} \times 5 \times 10} {\cancel {20}}   &:& \dfrac {150} {100} \\\\
 = & 10                &:& 10 \times 10                                              &:& 125                                                                                 &:& 10 \times 10                                                &:& 5 \times 10                                               &:& 1.5 \\\\
 = & 10                &:& 100                                                       &:& 125                                                                                 &:& 10 \times 10                                                &:& 50                                                        &:& 1.5 \\\\
-= & 10                &:& 100 \ \text{g}                                            &:& 125 \ \text{g}                                                                      &:& 100 \ \text{g}                                              &:& 50 \ \text{g}                                             &:& 1.5 \ \text{teaspoons}
+= & 10                &:& 100 \ \text{g}                                            &:& 125 \ \text{g}                                                                      &:& 100 \ \text{g}                                              &:& 50 \ \text{g}                                             &:& 1.5 \ \text{tablespoons}
 \end{array}
 $
 </code></pre>
@@ -3398,7 +3398,7 @@ $
 <pre class='language-latex'><code class='language-latex'>Syrup</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1.5 \ \text{teaspoons}$
+<pre class='language-latex'><code class='language-latex'>$1.5 \ \text{tablespoons}$
 </code></pre>
 </div>
 </div>
@@ -3422,7 +3422,7 @@ Using equivalent ratio,
 
 $
 \begin{aligned}
-20 \ \text{flapjacks} : 100 \ \text{g}          &= 50 \ \text{flapjacks} : a \ \text{g} \\\\
+20 \ \text{flapjacks} : 100 \ \text{grams}          &= 50 \ \text{flapjacks} : a \ \text{grams} \\\\
 \dfrac {20} {100}                               &= \dfrac {50} {a} \\\\
 20 \times a                                     &= 50 \times 100 \\\\
 a                                               &= \dfrac {50 \times 100} {20} \\\\
@@ -3473,7 +3473,7 @@ Using equivalent ratio,
 <emptyline>
 $
 \begin{aligned}
-20 \ \text{flapjacks} : 100 \ \text{g}          &= 50 \ \text{flapjacks} : a \ \text{g} \\\\
+20 \ \text{flapjacks} : 100 \ \text{grams}          &= 50 \ \text{flapjacks} : a \ \text{grams} \\\\
 \dfrac {20} {100}                               &= \dfrac {50} {a} \\\\
 20 \times a                                     &= 50 \times 100 \\\\
 a                                               &= \dfrac {50 \times 100} {20} \\\\
@@ -3546,48 +3546,6 @@ $
 $
 
 </div>
-<div class='working'>
-
-Let the amount of sugar $= a$
-
-Using equivalent ratio,
-
-$
-\begin{aligned}
-1 \ \text{portion} : 200 \ \text{sugar}         &= \dfrac {3} {4} \ \text{portion} : a \ \text{sugar} \\\\
-\dfrac {1} {200}                                &= \dfrac {\dfrac {3} {4}} {a} \\\\
-1 \times a                                      &= \dfrac {3} {4} \times 200 \\\\
-a                                               &= \dfrac {3 \times 200} {4} \\\\
-a                                               &= \dfrac {3 \times 4 \times 50} {4} \\\\
-a                                               &= \dfrac {3 \times \cancel 4 \times 50} {\cancel 4} \\\\
-a                                               &= 3 \times 50 \\\\
-a                                               &= 150 \ \text{g}
-\end{aligned}
-$
-
-Amount of sugar $= 150 \ \text{g}$
-
-</div>
-<div class='working'>
-
-Using ratio,
-
-$
-\begin{array}{cccccccccccccc}
-  & \text{portion}                  &:& \text{sugar} \\\\
-= & 1                               &:& 200 \ \text{g} \\\\
-= & 1 \times \dfrac {3} {4}         &:& 200 \times \dfrac {3} {4} \\\\
-= & \dfrac {3} {4}                  &:& \dfrac {200 \times 3} {4} \\\\
-= & \dfrac {3} {4}                  &:& \dfrac {50 \times 4 \times 3} {4} \\\\
-= & \dfrac {3} {4}                  &:& \dfrac {50 \times \cancel 4 \times 3} {\cancel 4} \\\\
-= & \dfrac {3} {4}                  &:& 50 \times 3 \\\\
-= & \dfrac {3} {4}                  &:& 150 \ \text{g}
-\end{array}
-$
-
-Amount of sugar $= 150 \ \text{g}$
-
-</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -3610,48 +3568,6 @@ $150 \ \text {g}$
 $
 </code></pre>
 </div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the amount of sugar $= a$
-<emptyline>
-Using equivalent ratio,
-<emptyline>
-$
-\begin{aligned}
-1 \ \text{portion} : 200 \ \text{sugar}         &= \dfrac {3} {4} \ \text{portion} : a \ \text{sugar} \\\\
-\dfrac {1} {200}                                &= \dfrac {\dfrac {3} {4}} {a} \\\\
-1 \times a                                      &= \dfrac {3} {4} \times 200 \\\\
-a                                               &= \dfrac {3 \times 200} {4} \\\\
-a                                               &= \dfrac {3 \times 4 \times 50} {4} \\\\
-a                                               &= \dfrac {3 \times \cancel 4 \times 50} {\cancel 4} \\\\
-a                                               &= 3 \times 50 \\\\
-a                                               &= 150 \ \text{g}
-\end{aligned}
-$
-<emptyline>
-Amount of sugar $= 150 \ \text{g}$
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Using ratio,
-<emptyline>
-$
-\begin{array}{cccccccccccccc}
-  & \text{portion}                  &:& \text{sugar} \\\\
-= & 1                               &:& 200 \ \text{g} \\\\
-= & 1 \times \dfrac {3} {4}         &:& 200 \times \dfrac {3} {4} \\\\
-= & \dfrac {3} {4}                  &:& \dfrac {200 \times 3} {4} \\\\
-= & \dfrac {3} {4}                  &:& \dfrac {50 \times 4 \times 3} {4} \\\\
-= & \dfrac {3} {4}                  &:& \dfrac {50 \times \cancel 4 \times 3} {\cancel 4} \\\\
-= & \dfrac {3} {4}                  &:& 50 \times 3 \\\\
-= & \dfrac {3} {4}                  &:& 150 \ \text{g}
-\end{array}
-$
-<emptyline>
-Amount of sugar $= 150 \ \text{g}$
-</code></pre>
-</div>
 </div>
 <div class='answers'>
 <div class='answercodeblock'>
@@ -3669,6 +3585,47 @@ Amount of sugar $= 150 \ \text{g}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+a:
+
+Change teaspoons to tablespoons
+
+Instead of going from 20 to 1, go straight from 20 to 10
+
+c:
+
+Do we need the second and third workings
+
+
+
+c: second and third workings removed
+
+a: fixed teaspoons to tablespoons
+
+
+
+
+
+a:
+
+
+
+Delegate to MR
+
+
+
+Instead of going from 20 to 1, go straight from 20 to 10 
+
+
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4082,24 +4039,24 @@ Adam has decided to draw an accurate map to help.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4153,24 +4110,24 @@ You will need to use a protractor.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4221,24 +4178,24 @@ Adam realises that it will be shorter to walk in a straight line to find his pre
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4287,24 +4244,24 @@ Draw this route on your diagram.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4355,24 +4312,24 @@ Write down the length of this route in centimetres.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4423,24 +4380,24 @@ How far does this represent in the field?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5376,24 +5333,24 @@ Look carefully at these number patterns:
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5445,24 +5402,24 @@ Complete rows $5$ and $6$ of this pattern:
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5516,24 +5473,24 @@ Complete row $10$ of this pattern:
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5587,24 +5544,24 @@ Complete the non-shaded parts of these rows:
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5655,24 +5612,24 @@ What is the value of $1000^2 - 999^2$?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

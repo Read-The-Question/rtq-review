@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-ttable-1"
 title: "TopicPaper - Table - 1"
-date: 2022-08-18 11:06:01
+date: 2022-08-19 16:00:22
 questions_count: "40"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "40"
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:27</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -117,10 +117,10 @@ Complete the chart above.
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -203,10 +203,10 @@ Complete the chart above
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -338,10 +338,10 @@ Find the probability that a student picked at random likes Hockey best.
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -435,10 +435,10 @@ Fill in the gaps to help her:
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -532,10 +532,10 @@ Adam is trying to find a formula that links the Table number, $T$, to the number
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:2:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -662,10 +662,10 @@ Which team won Sports Day?
 <p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -748,10 +748,10 @@ Fill in the missing numbers.
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -851,10 +851,10 @@ each diagonal adds up to $3$
 <p>csse--11-plus--maths--2015--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -941,10 +941,10 @@ Complete the table with the two missing values.
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1027,10 +1027,10 @@ How many children have at least one pet?
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-f:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1124,10 +1124,10 @@ Fill in the missing numbers to give a complete set of scores.
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1291,10 +1291,10 @@ Which country is the most densely populated (most people for each square kilomet
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1425,10 +1425,10 @@ What fraction of the girls don’t walk to school?
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1507,10 +1507,10 @@ Complete the following table
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1623,10 +1623,10 @@ Write a formula for the number of matchsticks, $m$.
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1790,10 +1790,10 @@ which league had the most goals scored in it by these players?
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:38</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1872,10 +1872,10 @@ Use each number from $1$ to $8$ once in the boxes to make all the calculations c
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:35</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2012,10 +2012,10 @@ How many passengers passed the front of school?
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2119,10 +2119,10 @@ Complete the table:
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2214,10 +2214,10 @@ Complete the table below by placing ticks in all the correct boxes.
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:34</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2326,10 +2326,10 @@ Raiders?
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2461,10 +2461,10 @@ Which dog lost more weight than Sam?
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2612,10 +2612,10 @@ How many boys have left the school?
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2698,10 +2698,10 @@ Give the fractions in their simplest form.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:35</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2799,10 +2799,10 @@ Use this information to complete the table below.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2928,10 +2928,10 @@ What is the rule of this number machine?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:30</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3102,10 +3102,10 @@ In which year will Joak have $65$ bristles?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3243,10 +3243,10 @@ Write suitable labels on the diagram below.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:34</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3335,10 +3335,10 @@ The first one has already been done for you.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:24</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3421,10 +3421,10 @@ How long must he wait to catch the 5.02 p.m. train?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:32</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3503,10 +3503,10 @@ Tick the correct box for each statement:
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3645,10 +3645,10 @@ Work out what Erin does to each number that Claire calls out.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:40</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3814,10 +3814,10 @@ Which pattern has $45$ dots?
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3925,10 +3925,10 @@ Fill in all the missing numbers on the board so that the judges have a complete 
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4107,10 +4107,10 @@ but if $15$ sharks came each night, eating $300$ fish each, complete the table b
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-b:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4246,10 +4246,10 @@ Which runners have a handicap of $15 \ \text{seconds}$?
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-b:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4359,10 +4359,10 @@ Complete the table of spies recruited by the spymaster and his spies up to $2018
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4482,10 +4482,10 @@ Esthopia    ,                           ,                           ,           
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4674,10 +4674,10 @@ Row 6   ,                           ,               ,$e)$       ,           ,
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-b:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

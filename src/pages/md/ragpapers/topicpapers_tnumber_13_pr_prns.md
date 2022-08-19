@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-13-pr-prns"
 title: "TopicPaper - Number - 13 - PR - PRNS"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "8"
 ---
 <ul class='question default-decimal'>
@@ -272,7 +272,7 @@ tnumber
 </div>
 <div class='question question'>
 
-You are told that 123 x 45 = 5535
+You are told that $123 x 45 = 5535$
 
 
 Use the above to work out: 
@@ -287,7 +287,7 @@ Use the above to work out:
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-123 x 450 
+$123 x 450$ 
 
 </div>
 <div class='workings'>
@@ -344,7 +344,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-1.23 x 45
+$1.23 x 45$
 
 </div>
 <div class='workings'>
@@ -403,7 +403,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-12.3 x 4500
+$12.3 x 4500$
 
 </div>
 <div class='workings'>
@@ -462,7 +462,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-55.35 ÷ 45
+$55.35 ÷ 45$
 
 </div>
 <div class='workings'>
@@ -484,7 +484,7 @@ $
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1036,7 +1036,7 @@ tnumber
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Calculate
+Calculate:
 
 </div>
 
@@ -1251,7 +1251,7 @@ tnumber
 </div>
 <div class='question question'>
 
-Write + or - in each space to make the calculation correct
+Write + or - in each space to make the calculation correct.
 
 $123 \,\,  45 \,\,  67 \,\,  89 = 100$ 
 

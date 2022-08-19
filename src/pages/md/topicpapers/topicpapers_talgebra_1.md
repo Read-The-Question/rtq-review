@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-1"
 title: "TopicPaper - Algebra - 1"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "40"
 ---
 <div class='paper'>
@@ -1929,7 +1929,7 @@ Cost of a banana $= 50 \ \text{pence}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C6F4AD83-598E-4D8C-8FE2-F30239151865</p>
 </div>
@@ -1943,7 +1943,7 @@ Cost of a banana $= 50 \ \text{pence}$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1966,7 +1966,7 @@ How many students studied Spanish?
 
 $
 \begin{aligned}
-\text {Students (Spanish)}      &=  \text {Total students} - \text {Students (French)} - \text {Students (Latin)} \\\\
+\text {Spanish students}        &=  \text {Total students} - \text {French students} - \text {Latin students} \\\\
                                 &=  180 -  \dfrac {2} {5} \times 180 - \dfrac {1} {4} \times 180 \\\\
                                 &=  180 -  \dfrac {2 \times 180} {5} - \dfrac {180} {4} \\\\
                                 &=  180 -  \dfrac {2 \times 36 \times 5} {5} - \dfrac {45 \times 4} {4} \\\\
@@ -1991,7 +1991,7 @@ $63$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Students (Spanish)}      &=  \text {Total students} - \text {Students (French)} - \text {Students (Latin)} \\\\
+\text {Spanish students}        &=  \text {Total students} - \text {French students} - \text {Latin students} \\\\
                                 &=  180 -  \dfrac {2} {5} \times 180 - \dfrac {1} {4} \times 180 \\\\
                                 &=  180 -  \dfrac {2 \times 180} {5} - \dfrac {180} {4} \\\\
                                 &=  180 -  \dfrac {2 \times 36 \times 5} {5} - \dfrac {45 \times 4} {4} \\\\
@@ -3835,7 +3835,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>F2F1A365-9B27-4327-9C11-647F071C0FCD</p>
 </div>
@@ -3849,7 +3849,7 @@ $
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3877,6 +3877,8 @@ Let the number of bags of crisps $= b$
 ABBR: It is really important to use the right units in calculations and convert where required.
 
 
+The weight of box is given in kg and weight of crisp bag is given in grams. Lets convert weight of box in grams.
+
 $
 \begin{aligned}
 \text{Total weight of the bags}         &= 1 \ \text{kg} \\\\
@@ -3884,8 +3886,6 @@ $
                                         &= 1000 \ \text{grams}
 \end{aligned}
 $
-
-Total weight of the bags of crisps $= 1 \ \text{kg} = 1000 \ \text{grams}$
 
 As per the question,
 
@@ -3899,7 +3899,7 @@ b                           &= 40
 \end{aligned}
 $
 
-Number of bags of crisps inside the box $= 40$.
+Number of bags of crisps inside the box $= 40$
 
 </div>
 </div>
@@ -3917,6 +3917,8 @@ $40$
 <emptyline>
 rtq_abbr_md_unit_note
 <emptyline>
+The weight of box is given in kg and weight of crisp bag is given in grams. Lets convert weight of box in grams.
+<emptyline>
 $
 \begin{aligned}
 \text{Total weight of the bags}         &= 1 \ \text{kg} \\\\
@@ -3924,8 +3926,6 @@ $
                                         &= 1000 \ \text{grams}
 \end{aligned}
 $
-<emptyline>
-Total weight of the bags of crisps $= 1 \ \text{kg} = 1000 \ \text{grams}$
 <emptyline>
 As per the question,
 <emptyline>
@@ -3939,7 +3939,7 @@ b                           &= 40
 \end{aligned}
 $
 <emptyline>
-Number of bags of crisps inside the box $= 40$.
+Number of bags of crisps inside the box $= 40$
 </code></pre>
 </div>
 </div>
@@ -4327,24 +4327,24 @@ tinfer
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5594,24 +5594,24 @@ As $x$ increases,
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5656,7 +5656,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>84822D8F-EA5C-49F0-97FB-8F065EFA3D25</p>
 </div>
@@ -5670,7 +5670,7 @@ TODOANSWER
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5685,24 +5685,24 @@ talgebra
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5844,13 +5844,19 @@ What is the **smallest** possible value of $k$?
 
 As per the question,
 
-| k | Counters in Bag C | Counters in Bag D |
-|:-:|:-----------------:|:-----------------:|
-|$1$| $4 \times 1 = 4$  |   $1 + 12 = 13$   |
-|$2$| $4 \times 2 = 8$  |   $2 + 12 = 14$   |
-|$3$| $4 \times 3 = 12$ |   $3 + 12 = 15$   |
-|$4$| $4 \times 4 = 16$ |   $4 + 12 = 16$   |
-|$5$| $4 \times 5 = 20$ |   $5 + 12 = 17$   |
+$4k > k + 12$
+
+We can easily infer the values by using trial and error. Lets find out the value of k which satisfies the condition above.
+
+| k | Counters in Bag C | Counters in Bag D |  Bag C > Bag D  |
+|:-:|:-----------------:|:-----------------:|:---------------:|
+|$1$| $4 \times 1 = 4$  |   $1 + 12 = 13$   |       No        |
+|$2$| $4 \times 2 = 8$  |   $2 + 12 = 14$   |       No        |
+|$3$| $4 \times 3 = 12$ |   $3 + 12 = 15$   |       No        |
+|$4$| $4 \times 4 = 16$ |   $4 + 12 = 16$   |       No        |
+|$5$| $4 \times 5 = 20$ |   $5 + 12 = 17$   |       Yes       |
+
+A quick check shows that $5$ meets all the criteria above.
 
 The smallest possible value of k $= 5$.
 
@@ -5868,13 +5874,19 @@ $5$
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
 <emptyline>
-| k | Counters in Bag C | Counters in Bag D |
-|:-:|:-----------------:|:-----------------:|
-|$1$| $4 \times 1 = 4$  |   $1 + 12 = 13$   |
-|$2$| $4 \times 2 = 8$  |   $2 + 12 = 14$   |
-|$3$| $4 \times 3 = 12$ |   $3 + 12 = 15$   |
-|$4$| $4 \times 4 = 16$ |   $4 + 12 = 16$   |
-|$5$| $4 \times 5 = 20$ |   $5 + 12 = 17$   |
+$4k > k + 12$
+<emptyline>
+We can easily infer the values by using trial and error. Lets find out the value of k which satisfies the condition above.
+<emptyline>
+| k | Counters in Bag C | Counters in Bag D |  Bag C > Bag D  |
+|:-:|:-----------------:|:-----------------:|:---------------:|
+|$1$| $4 \times 1 = 4$  |   $1 + 12 = 13$   |       No        |
+|$2$| $4 \times 2 = 8$  |   $2 + 12 = 14$   |       No        |
+|$3$| $4 \times 3 = 12$ |   $3 + 12 = 15$   |       No        |
+|$4$| $4 \times 4 = 16$ |   $4 + 12 = 16$   |       No        |
+|$5$| $4 \times 5 = 20$ |   $5 + 12 = 17$   |       Yes       |
+<emptyline>
+A quick check shows that $5$ meets all the criteria above.
 <emptyline>
 The smallest possible value of k $= 5$.
 </code></pre>
@@ -6173,24 +6185,24 @@ tunitprompt
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -7328,24 +7340,24 @@ talgebra
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -7623,24 +7635,24 @@ talgebra
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -7856,24 +7868,24 @@ talgebra
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -8226,24 +8238,24 @@ On Planet Cash, money is measured in Tinkles and Clinks. Here is an addition sum
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

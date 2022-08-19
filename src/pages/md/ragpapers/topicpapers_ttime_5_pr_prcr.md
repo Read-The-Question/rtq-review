@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-5-pr-prcr"
 title: "TopicPaper - Time - 5 - PR - PRCR"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -38,14 +38,14 @@ tdraw
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -125,14 +125,14 @@ This clock shows a time in the evening.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

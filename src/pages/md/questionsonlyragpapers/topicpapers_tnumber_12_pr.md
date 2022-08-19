@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tnumber-12-pr"
 title: "TopicPaper - Number - 12 - PR"
-date: 2022-08-18 11:06:01
+date: 2022-08-19 16:00:22
 questions_count: "40"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>51E50474-CE39-4138-906C-FC601A2C0B82</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "40"
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -83,7 +83,7 @@ Write the number $\text{‘forty five thousand, seven hundred and two’}$ in fi
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>695B3A16-0769-47C3-9A3C-8008632C5CE3</p>
 </div>
@@ -97,7 +97,7 @@ Write the number $\text{‘forty five thousand, seven hundred and two’}$ in fi
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -134,11 +134,11 @@ Write $55\%$ as a fraction in its lowest terms.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write $\dfrac{3}{5}$ as a decimal
+Write $\dfrac{3}{5}$ as a decimal.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Write $\dfrac{3}{5}$ as a decimal
+<pre class='language-latex'><code class='language-latex'>Write $\dfrac{3}{5}$ as a decimal.
 </code></pre>
 </div>
 
@@ -189,7 +189,7 @@ Write $\dfrac{3}{5}$ as a decimal
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>090C6174-3961-4CC8-A0F4-F54FAA46018D</p>
 </div>
@@ -203,7 +203,7 @@ Write $\dfrac{3}{5}$ as a decimal
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -244,11 +244,11 @@ Using the information given above, what is $7504 \div 56$?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Using the information given above, what is $112 \times 67$
+Using the information given above, what is $112 \times 67$?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Using the information given above, what is $112 \times 67$
+<pre class='language-latex'><code class='language-latex'>Using the information given above, what is $112 \times 67$?
 </code></pre>
 </div>
 
@@ -299,7 +299,7 @@ Using the information given above, what is $112 \times 67$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>29E53662-4095-436A-85A6-E3A91EB86DAF</p>
 </div>
@@ -313,7 +313,7 @@ Using the information given above, what is $112 \times 67$
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -326,29 +326,29 @@ tnumber
 
 Which  of these is the largest number? (You must show your working)
 
-(a) $2 + 0 \times 1 + 9$
+- $2 + 0 \times 1 + 9$
 
-(b) $2 \times 0 + 1 + 9$
+- $2 \times 0 + 1 + 9$
 
-(c) $2 + 0 \times 1 \times 9$
+- $2 + 0 \times 1 \times 9$
 
-(d) $2 \times 0 + 1 + 9$
+- $2 \times 0 + 1 + 9$
 
-(e) $2 \times 0 \times 1 \times 9$
+- $2 \times 0 \times 1 \times 9$
 
 </div>
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>Which  of these is the largest number? (You must show your working)
 <emptyline>
-(a) $2 + 0 \times 1 + 9$
+- $2 + 0 \times 1 + 9$
 <emptyline>
-(b) $2 \times 0 + 1 + 9$
+- $2 \times 0 + 1 + 9$
 <emptyline>
-(c) $2 + 0 \times 1 \times 9$
+- $2 + 0 \times 1 \times 9$
 <emptyline>
-(d) $2 \times 0 + 1 + 9$
+- $2 \times 0 + 1 + 9$
 <emptyline>
-(e) $2 \times 0 \times 1 \times 9$
+- $2 \times 0 \times 1 \times 9$
 </code></pre>
 </div>
 
@@ -396,7 +396,7 @@ Which  of these is the largest number? (You must show your working)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>6A7E29BE-33F1-46C9-86CB-07E2F8C8992F</p>
 </div>
@@ -410,7 +410,7 @@ Which  of these is the largest number? (You must show your working)
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -477,7 +477,7 @@ $5 - (2 - 5)^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>A7C319CF-83DA-4579-B28A-5CF2D1F00791</p>
 </div>
@@ -491,7 +491,7 @@ $5 - (2 - 5)^2$
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -514,11 +514,11 @@ tnumber
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Convert $13.2\ \text{metres}$ into $\text{centimetres}$
+Convert $13.2\ \text{metres}$ into $\text{centimetres}$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Convert $13.2\ \text{metres}$ into $\text{centimetres}$
+<pre class='language-latex'><code class='language-latex'>Convert $13.2\ \text{metres}$ into $\text{centimetres}$.
 </code></pre>
 </div>
 
@@ -528,11 +528,11 @@ Convert $13.2\ \text{metres}$ into $\text{centimetres}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Convert $430\ \text{millimetres}$ into $\text{centimetres}$ 
+Convert $430\ \text{millimetres}$ into $\text{centimetres}$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Convert $430\ \text{millimetres}$ into $\text{centimetres}$ 
+<pre class='language-latex'><code class='language-latex'>Convert $430\ \text{millimetres}$ into $\text{centimetres}$.
 </code></pre>
 </div>
 
@@ -542,11 +542,11 @@ Convert $430\ \text{millimetres}$ into $\text{centimetres}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Convert $2.1\ \text{kilometres}$ into $\text{metres}$ 
+Convert $2.1\ \text{kilometres}$ into $\text{metres}$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Convert $2.1\ \text{kilometres}$ into $\text{metres}$ 
+<pre class='language-latex'><code class='language-latex'>Convert $2.1\ \text{kilometres}$ into $\text{metres}$.
 </code></pre>
 </div>
 
@@ -597,7 +597,7 @@ Convert $2.1\ \text{kilometres}$ into $\text{metres}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>A1E2D4F7-C55E-4B7B-BB4D-6A44B261FFFA</p>
 </div>
@@ -611,7 +611,7 @@ Convert $2.1\ \text{kilometres}$ into $\text{metres}$
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -704,11 +704,11 @@ What is $0.03$ re-written as a fraction ?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Find $1\%$ of $200\ \text{kg}$ 
+Find $1\%$ of $200\ \text{kg}$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Find $1\%$ of $200\ \text{kg}$ 
+<pre class='language-latex'><code class='language-latex'>Find $1\%$ of $200\ \text{kg}$.
 </code></pre>
 </div>
 
@@ -718,11 +718,11 @@ Find $1\%$ of $200\ \text{kg}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Work out $\dfrac{1}{2}+\dfrac{1}{4}$
+Work out $\dfrac{1}{2}+\dfrac{1}{4}$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Work out $\dfrac{1}{2}+\dfrac{1}{4}$
+<pre class='language-latex'><code class='language-latex'>Work out $\dfrac{1}{2}+\dfrac{1}{4}$.
 </code></pre>
 </div>
 
@@ -773,7 +773,7 @@ Work out $\dfrac{1}{2}+\dfrac{1}{4}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>FEE94A57-39F7-4E68-9F4D-2274BBB339A7</p>
 </div>
@@ -787,7 +787,7 @@ Work out $\dfrac{1}{2}+\dfrac{1}{4}$
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -907,7 +907,7 @@ $42.3 \div 3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>91FE409B-1661-46BC-A704-FA8A43CF6F5C</p>
 </div>
@@ -921,7 +921,7 @@ $42.3 \div 3$
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -944,11 +944,11 @@ tnumber
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write down the factors of $25$
+Write down the factors of $25$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Write down the factors of $25$
+<pre class='language-latex'><code class='language-latex'>Write down the factors of $25$.
 </code></pre>
 </div>
 
@@ -958,11 +958,11 @@ Write down the factors of $25$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write down the factors of $30$
+Write down the factors of $30$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Write down the factors of $30$
+<pre class='language-latex'><code class='language-latex'>Write down the factors of $30$.
 </code></pre>
 </div>
 
@@ -972,11 +972,11 @@ Write down the factors of $30$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write down the highest common factor of $25$ and $30$
+Write down the highest common factor of $25$ and $30$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Write down the highest common factor of $25$ and $30$
+<pre class='language-latex'><code class='language-latex'>Write down the highest common factor of $25$ and $30$.
 </code></pre>
 </div>
 
@@ -986,11 +986,11 @@ Write down the highest common factor of $25$ and $30$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write down the prime factors of $30$ 
+Write down the prime factors of $30$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Write down the prime factors of $30$ 
+<pre class='language-latex'><code class='language-latex'>Write down the prime factors of $30$.
 </code></pre>
 </div>
 
@@ -1041,7 +1041,7 @@ Write down the prime factors of $30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>97B77C39-A2A2-4F76-BDE2-9A4DD7C158A6</p>
 </div>
@@ -1055,7 +1055,7 @@ Write down the prime factors of $30$
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1147,7 +1147,7 @@ $4 \times(8 - 2)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>B4AD1FF4-F2A8-4086-8E1D-A4B559089B2B</p>
 </div>
@@ -1161,7 +1161,7 @@ $4 \times(8 - 2)$
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1224,7 +1224,7 @@ Work out $56 - 69 + 311$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>EA69CE81-8CA4-4E75-8B13-8354EB99821E</p>
 </div>
@@ -1238,7 +1238,7 @@ Work out $56 - 69 + 311$
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1301,7 +1301,7 @@ Subtract eight hundred and thirty one from one thousand and fifty.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>8F3E92C0-9732-4BFC-95E8-656CBEBD6653</p>
 </div>
@@ -1315,7 +1315,7 @@ Subtract eight hundred and thirty one from one thousand and fifty.
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1328,25 +1328,25 @@ tnumber
 
 Write the correct operations ($+$ or $-$ or $\times$ or $\div$) in these statements.
 
-$a\ \ \Box\ \ a = 0$
+- $a\ \ \Box\ \ a = 0$
 
-$a\ \ \Box\ \ a = 1$
+- $a\ \ \Box\ \ a = 1$
 
-$a\ \ \Box\ \ a = 2a$
+- $a\ \ \Box\ \ a = 2a$
 
-$a\ \ \Box\ \ a = a^2$
+- $a\ \ \Box\ \ a = a^2$
 
 </div>
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>Write the correct operations ($+$ or $-$ or $\times$ or $\div$) in these statements.
 <emptyline>
-$a\ \ \Box\ \ a = 0$
+- $a\ \ \Box\ \ a = 0$
 <emptyline>
-$a\ \ \Box\ \ a = 1$
+- $a\ \ \Box\ \ a = 1$
 <emptyline>
-$a\ \ \Box\ \ a = 2a$
+- $a\ \ \Box\ \ a = 2a$
 <emptyline>
-$a\ \ \Box\ \ a = a^2$
+- $a\ \ \Box\ \ a = a^2$
 </code></pre>
 </div>
 
@@ -1394,7 +1394,7 @@ $a\ \ \Box\ \ a = a^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>BA7E261E-10D9-4C7B-8591-880AD1DD4EF9</p>
 </div>
@@ -1408,7 +1408,7 @@ $a\ \ \Box\ \ a = a^2$
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1431,11 +1431,11 @@ tnumber
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write down the prime numbers between $10$ and $20$
+Write down the prime numbers between $10$ and $20$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Write down the prime numbers between $10$ and $20$
+<pre class='language-latex'><code class='language-latex'>Write down the prime numbers between $10$ and $20$.
 </code></pre>
 </div>
 
@@ -1445,11 +1445,11 @@ Write down the prime numbers between $10$ and $20$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write down the first three multiples of $15$
+Write down the first three multiples of $15$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Write down the first three multiples of $15$
+<pre class='language-latex'><code class='language-latex'>Write down the first three multiples of $15$.
 </code></pre>
 </div>
 
@@ -1459,11 +1459,11 @@ Write down the first three multiples of $15$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write down the factors of $49$
+Write down the factors of $49$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Write down the factors of $49$
+<pre class='language-latex'><code class='language-latex'>Write down the factors of $49$.
 </code></pre>
 </div>
 
@@ -1514,7 +1514,7 @@ Write down the factors of $49$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>41E24F51-54D1-465E-BE3F-59870A03565B</p>
 </div>
@@ -1528,7 +1528,7 @@ Write down the factors of $49$
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1620,7 +1620,7 @@ $1\frac {3} {8}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>4CF06226-1747-426B-BA82-C10BCDC5B86E</p>
 </div>
@@ -1634,7 +1634,7 @@ $1\frac {3} {8}$
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1657,11 +1657,11 @@ tnumber
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Work out $36 - 89 + 126$
+Work out $36 - 89 + 126$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Work out $36 - 89 + 126$
+<pre class='language-latex'><code class='language-latex'>Work out $36 - 89 + 126$.
 </code></pre>
 </div>
 
@@ -1671,11 +1671,11 @@ Work out $36 - 89 + 126$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Work out $253 \times 180$
+Work out $253 \times 180$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Work out $253 \times 180$
+<pre class='language-latex'><code class='language-latex'>Work out $253 \times 180$.
 </code></pre>
 </div>
 
@@ -1685,11 +1685,11 @@ Work out $253 \times 180$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Work out $20514 \div 26$
+Work out $20514 \div 26$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Work out $20514 \div 26$
+<pre class='language-latex'><code class='language-latex'>Work out $20514 \div 26$.
 </code></pre>
 </div>
 
@@ -1754,7 +1754,7 @@ Subtract six hundred and nine from one thousand and eleven.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>930108AD-9249-4113-9637-92942C51C01F</p>
 </div>
@@ -1768,7 +1768,7 @@ Subtract six hundred and nine from one thousand and eleven.
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1916,7 +1916,7 @@ Subtract $\text{two thousand seven hundred and eighteen}$ from $\text{three thou
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>B7F7A1F1-453F-4B7E-AF9B-743C20162512</p>
 </div>
@@ -1930,7 +1930,7 @@ Subtract $\text{two thousand seven hundred and eighteen}$ from $\text{three thou
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2050,7 +2050,7 @@ $3927 \div 17$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>186D27EB-2B7C-4A75-AD3A-B9768E4E01BD</p>
 </div>
@@ -2064,7 +2064,7 @@ $3927 \div 17$
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2130,7 +2130,7 @@ Write the number $\text{eighty-six thousand and fourteen}$ in figures.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>78D12F78-FABE-4128-A430-A9094329C30F</p>
 </div>
@@ -2144,7 +2144,7 @@ Write the number $\text{eighty-six thousand and fourteen}$ in figures.
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2210,7 +2210,7 @@ Write down a number that is smaller than $0.8$ and bigger than $\dfrac {5} {7}$ 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>16D15C16-4732-4D23-B040-8F37EB1A5DC3</p>
 </div>
@@ -2224,7 +2224,7 @@ Write down a number that is smaller than $0.8$ and bigger than $\dfrac {5} {7}$ 
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2320,7 +2320,7 @@ $1944$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>7E49F822-D5B6-4A2D-91D8-6F5ECD9E4E06</p>
 </div>
@@ -2334,7 +2334,7 @@ $1944$
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2454,7 +2454,7 @@ $7322 \div 14$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>0EA47D0F-679F-42A3-9831-5C25EB7FCE66</p>
 </div>
@@ -2468,7 +2468,7 @@ $7322 \div 14$
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2539,7 +2539,7 @@ $0 = 4 \div 4 \times 4 - 4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>D5021FF9-3A58-4AEA-87F5-5DB2612B1138</p>
 </div>
@@ -2553,7 +2553,7 @@ $0 = 4 \div 4 \times 4 - 4$
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2616,7 +2616,7 @@ Find three prime numbers that add up to another prime number.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>970F2EE0-98DA-45DF-A88C-260A3AC22A4A</p>
 </div>
@@ -2630,7 +2630,7 @@ Find three prime numbers that add up to another prime number.
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2736,7 +2736,7 @@ Write $5.97$ correct to $1$ decimal place.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>9059ED0D-559C-4990-8449-866D2BE0C151</p>
 </div>
@@ -2750,7 +2750,7 @@ Write $5.97$ correct to $1$ decimal place.
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2842,7 +2842,7 @@ Calculate $(48 \div 8) - (7 - 12)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>FCFEBCEB-D29D-4BCB-BA8F-8E658B694739</p>
 </div>
@@ -2856,7 +2856,7 @@ Calculate $(48 \div 8) - (7 - 12)$
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2948,7 +2948,7 @@ What is the largest of the common factors of $24$ and $36$?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>93D7639A-7EFA-4748-8BCE-99A908F62670</p>
 </div>
@@ -2962,7 +2962,7 @@ What is the largest of the common factors of $24$ and $36$?
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3082,7 +3082,7 @@ $(5 - 11) \div 3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>757DF606-973F-46EB-8D7C-1533BB3C6ED6</p>
 </div>
@@ -3096,7 +3096,7 @@ $(5 - 11) \div 3$
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3122,11 +3122,11 @@ Round $325.48$ to the following degrees of accuracy:
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Nearest $100$
+Nearest $100$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Nearest $100$
+<pre class='language-latex'><code class='language-latex'>Nearest $100$.
 </code></pre>
 </div>
 
@@ -3136,11 +3136,11 @@ Nearest $100$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Nearest $10$
+Nearest $10$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Nearest $10$
+<pre class='language-latex'><code class='language-latex'>Nearest $10$.
 </code></pre>
 </div>
 
@@ -3150,11 +3150,11 @@ Nearest $10$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Nearest whole number
+Nearest whole number.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Nearest whole number
+<pre class='language-latex'><code class='language-latex'>Nearest whole number.
 </code></pre>
 </div>
 
@@ -3164,11 +3164,11 @@ Nearest whole number
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-One decimal place
+One decimal place.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>One decimal place
+<pre class='language-latex'><code class='language-latex'>One decimal place.
 </code></pre>
 </div>
 
@@ -3219,7 +3219,7 @@ One decimal place
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>211838E2-E95A-47E2-855F-B9E96DAB6F7D</p>
 </div>
@@ -3233,7 +3233,7 @@ One decimal place
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3325,7 +3325,7 @@ $\dfrac {8} {7} \quad \boxed {\phantom {\dfrac {a} {b}}} \quad \dfrac {11} {13}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>233159F2-0892-43F4-B76A-47078777DA90</p>
 </div>
@@ -3339,7 +3339,7 @@ $\dfrac {8} {7} \quad \boxed {\phantom {\dfrac {a} {b}}} \quad \dfrac {11} {13}$
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3350,11 +3350,11 @@ tnumber
 </div>
 <div class='question question'>
 
-Find
+Find:
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Find
+<pre class='language-latex'><code class='language-latex'>Find:
 </code></pre>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -3431,7 +3431,7 @@ $\dfrac {4} {5}  \ \text{of} \ 80$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>42D296D1-9C15-4407-8B49-817D8F7E5CB6</p>
 </div>
@@ -3445,7 +3445,7 @@ $\dfrac {4} {5}  \ \text{of} \ 80$
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3520,7 +3520,7 @@ Complete the table:
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>3B57B6A6-82A1-494A-994E-EB4D60BF5539</p>
 </div>
@@ -3534,7 +3534,7 @@ Complete the table:
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3643,7 +3643,7 @@ Label each arrow with the value indicated on the scale.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>105EE389-55BC-40FE-B8E3-BEF5386BE7DE</p>
 </div>
@@ -3657,7 +3657,7 @@ Label each arrow with the value indicated on the scale.
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3794,7 +3794,7 @@ $(-8)^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>2C656582-6ACE-4216-AD4B-DA5375031347</p>
 </div>
@@ -3808,7 +3808,7 @@ $(-8)^2$
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3922,7 +3922,7 @@ How many of the members are children?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>3E8D47ED-6290-45D2-8306-B07948CE87B2</p>
 </div>
@@ -3936,7 +3936,7 @@ How many of the members are children?
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3999,7 +3999,7 @@ Write the number two hundred and $4$ million, thirty five thousand and eighty tw
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>9913D5D9-28C9-4171-9AC9-76BEBDA4D051</p>
 </div>
@@ -4013,7 +4013,7 @@ Write the number two hundred and $4$ million, thirty five thousand and eighty tw
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4139,7 +4139,7 @@ $32  \quad 2  \quad 40  \quad 4 = 74$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>480AC0B2-6C51-47B1-9F2D-FB2D3727A855</p>
 </div>
@@ -4153,7 +4153,7 @@ $32  \quad 2  \quad 40  \quad 4 = 74$
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4298,7 +4298,7 @@ The rule is applied once to the number $N$ and the answer you get is also $N$. W
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>8EA5D8D5-36F2-42D7-A005-1AE987932EEB</p>
 </div>
@@ -4312,7 +4312,7 @@ The rule is applied once to the number $N$ and the answer you get is also $N$. W
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4426,7 +4426,7 @@ $28 \times 1 = 44$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>974B41CD-4F4F-40A8-9A75-397312C3A65D</p>
 </div>
@@ -4440,7 +4440,7 @@ $28 \times 1 = 44$
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4463,27 +4463,25 @@ Some of the digits are missing in the multiplications below. Find the missing di
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-%TODOKATEX%
 
-6 
-*
-*
+$6$ 
+$*$
+$*$
 X
-3 
-*
-4 
+$3$ 
+$*$
+$4$ 
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>%TODOKATEX%
-<emptyline>
-6 
-*
-*
+<pre class='language-latex'><code class='language-latex'>
+$6$ 
+$*$
+$*$
 X
-3 
-*
-4 
+$3$ 
+$*$
+$4$ 
 </code></pre>
 </div>
 
@@ -4493,33 +4491,31 @@ X
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-%TODOKATEX%
 
 
-* 
-6
-*
-7
+$*$ 
+$6$
+$*$
+$7$
 X
-*
-1
-*
-3 
+$*$
+$1$
+$*$
+$3$ 
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>%TODOKATEX%
+<pre class='language-latex'><code class='language-latex'>
 <emptyline>
-
-* 
-6
-*
-7
+$*$ 
+$6$
+$*$
+$7$
 X
-*
-1
-*
-3 
+$*$
+$1$
+$*$
+$3$ 
 </code></pre>
 </div>
 

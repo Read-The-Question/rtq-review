@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-18-g0"
 title: "TopicPaper - Algebra - 18 - G0"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>59A15B1E-9BD7-46F5-A252-A20015C38A1A</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "5"
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -83,6 +83,7 @@ Find $2 * 5$
 
 $
 \begin{aligned}
+&= 2 * 5 \\\\
 &= 2 \times 2 + 5 \\\\
 &= 4 + 5 \\\\
 &= 9
@@ -103,6 +104,7 @@ $9$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
+&= 2 * 5 \\\\
 &= 2 \times 2 + 5 \\\\
 &= 4 + 5 \\\\
 &= 9
@@ -138,6 +140,7 @@ Find $d$ if $d * 3 = 19$
 
 $
 \begin{aligned}
+d * 3               &= 19 \\\\
 d \times d + 3      &= 19 \\\\
 d \times d          &= 19 - 3 \\\\
 d^2                 &= 16 \\\\
@@ -160,6 +163,7 @@ $4$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
+d * 3               &= 19 \\\\
 d \times d + 3      &= 19 \\\\
 d \times d          &= 19 - 3 \\\\
 d^2                 &= 16 \\\\
@@ -253,7 +257,7 @@ d x d + 3 = 19
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>EF6C4BDF-FB5F-47E7-A7CA-14BDC56D176E</p>
 </div>
@@ -267,7 +271,7 @@ d x d + 3 = 19
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -285,20 +289,16 @@ Ben has $\pounds 68$. He gives a quarter of this to his sister. How much does he
 <div class='working'>
 
 
-As per the question,
-
 $
 \begin{aligned}
-&= 68 - (\dfrac {1} {4} \times 68) \\\\
-&= 68 - \dfrac {68} {4} \\\\
-&= 68 - \dfrac {17 \times 4} {4} \\\\
-&= 68 - \dfrac {17 \times \cancel {4}} {\cancel {4}} \\\\
-&= 68 - 17 \\\\
-&= \pounds 51
+\text{Money left with Ben} &= 68 - (\dfrac {1} {4} \times 68) \\\\
+                           &= 68 - \dfrac {68} {4} \\\\
+                           &= 68 - \dfrac {17 \times 4} {4} \\\\
+                           &= 68 - \dfrac {17 \times \cancel {4}} {\cancel {4}} \\\\
+                           &= 68 - 17 \\\\
+                           &= \pounds 51
 \end{aligned}
 $
-
-Money left with Ben $= \pounds 51$
 
 </div>
 </div>
@@ -313,20 +313,16 @@ $\pounds 51$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-As per the question,
-<emptyline>
 $
 \begin{aligned}
-&= 68 - (\dfrac {1} {4} \times 68) \\\\
-&= 68 - \dfrac {68} {4} \\\\
-&= 68 - \dfrac {17 \times 4} {4} \\\\
-&= 68 - \dfrac {17 \times \cancel {4}} {\cancel {4}} \\\\
-&= 68 - 17 \\\\
-&= \pounds 51
+\text{Money left with Ben} &= 68 - (\dfrac {1} {4} \times 68) \\\\
+                           &= 68 - \dfrac {68} {4} \\\\
+                           &= 68 - \dfrac {17 \times 4} {4} \\\\
+                           &= 68 - \dfrac {17 \times \cancel {4}} {\cancel {4}} \\\\
+                           &= 68 - 17 \\\\
+                           &= \pounds 51
 \end{aligned}
 $
-<emptyline>
-Money left with Ben $= \pounds 51$
 </code></pre>
 </div>
 </div>
@@ -408,7 +404,7 @@ Remove last line.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FC3ABA33-5D43-482E-9D5F-4D8124DCB134</p>
 </div>
@@ -422,7 +418,7 @@ Remove last line.
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -439,29 +435,31 @@ Edward has a sum of money. He gives one-third to his son George and threefifths 
 <div class='workings'>
 <div class='working'>
 
-Let the money Edward has = $ a$
+Let the money Edward has $= a$
+
+Money George receives $= \dfrac{a}{3}$
+
+Money Olivia receives $= \dfrac{3a}{5}$
 
 As per the question,
 
 $
 \begin{aligned}
-\dfrac {1} {3} \times a             &= \pounds 15 \\\\
+\dfrac {a} {3}                      &= 15 \\\\
 a                                   &= 15 \times 3 \\\\
 a                                   &= \pounds 45
 \end{aligned}
 $
 
-Money that Olivia receives $= \dfrac{3}{5}a$
-
 $
 \begin{aligned}
-&= \dfrac {3} {5} \times a \\\\
-&= \dfrac {3} {5} \times 45 \\\\
-&= \dfrac {3 \times 45} {5} \\\\
-&= \dfrac {3 \times 9 \times 5} {5} \\\\
-&= \dfrac {3 \times 9 \times \cancel 5} {\cancel 5} \\\\
-&= 3 \times 9 \\\\
-&= \pounds 27
+\text{Money Olivia receives}  &= \dfrac {3} {5} \times a \\\\
+                              &= \dfrac {3} {5} \times 45 \\\\
+                              &= \dfrac {3 \times 45} {5} \\\\
+                              &= \dfrac {3 \times 9 \times 5} {5} \\\\
+                              &= \dfrac {3 \times 9 \times \cancel 5} {\cancel 5} \\\\
+                              &= 3 \times 9 \\\\
+                              &= \pounds 27
 \end{aligned}
 $
 
@@ -477,29 +475,31 @@ $\pounds 27$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the money Edward has = $ a$
+<pre class='language-latex'><code class='language-latex'>Let the money Edward has $= a$
+<emptyline>
+Money George receives $= \dfrac{a}{3}$
+<emptyline>
+Money Olivia receives $= \dfrac{3a}{5}$
 <emptyline>
 As per the question,
 <emptyline>
 $
 \begin{aligned}
-\dfrac {1} {3} \times a             &= \pounds 15 \\\\
+\dfrac {a} {3}                      &= 15 \\\\
 a                                   &= 15 \times 3 \\\\
 a                                   &= \pounds 45
 \end{aligned}
 $
 <emptyline>
-Money that Olivia receives $= \dfrac{3}{5}a$
-<emptyline>
 $
 \begin{aligned}
-&= \dfrac {3} {5} \times a \\\\
-&= \dfrac {3} {5} \times 45 \\\\
-&= \dfrac {3 \times 45} {5} \\\\
-&= \dfrac {3 \times 9 \times 5} {5} \\\\
-&= \dfrac {3 \times 9 \times \cancel 5} {\cancel 5} \\\\
-&= 3 \times 9 \\\\
-&= \pounds 27
+\text{Money Olivia receives}  &= \dfrac {3} {5} \times a \\\\
+                              &= \dfrac {3} {5} \times 45 \\\\
+                              &= \dfrac {3 \times 45} {5} \\\\
+                              &= \dfrac {3 \times 9 \times 5} {5} \\\\
+                              &= \dfrac {3 \times 9 \times \cancel 5} {\cancel 5} \\\\
+                              &= 3 \times 9 \\\\
+                              &= \pounds 27
 \end{aligned}
 $
 </code></pre>
@@ -595,7 +595,7 @@ then solve further...
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5C46037A-9D8E-4709-A27D-EC329D33E470</p>
 </div>
@@ -609,7 +609,7 @@ then solve further...
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -631,15 +631,17 @@ $6 \times ………………….. = $\pounds 9.60$
 
 Let the missing number $= a$
 
+As per the question,
+
 $
 \begin{aligned}
-6 \times a                          &= \pounds 9.60 \\\\
+6 \times a                          &= 9.60 \\\\
 a                                   &= \dfrac {9.6} {6} \\\\
-                                    &= \dfrac {9.6 \times 10} {6 \times 10} \\\\
-                                    &= \dfrac {96} {6 \times 10} \\\\
-                                    &= \dfrac {6 \times 16} {6 \times 10} \\\\
-                                    &= \dfrac {\cancel{6} \times 16} {\cancel{6} \times 10} \\\\
-                                    &= \dfrac {16} {10} \\\\
+a                                   &= \dfrac {9.6 \times 10} {6 \times 10} \\\\
+a                                   &= \dfrac {96} {6 \times 10} \\\\
+a                                   &= \dfrac {6 \times 16} {6 \times 10} \\\\
+a                                   &= \dfrac {\cancel{6} \times 16} {\cancel{6} \times 10} \\\\
+a                                   &= \dfrac {16} {10} \\\\
 a                                   &= \pounds 1.6
 \end{aligned}
 $
@@ -660,15 +662,17 @@ $\pounds 1.6$
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
 <emptyline>
+As per the question,
+<emptyline>
 $
 \begin{aligned}
-6 \times a                          &= \pounds 9.60 \\\\
+6 \times a                          &= 9.60 \\\\
 a                                   &= \dfrac {9.6} {6} \\\\
-                                    &= \dfrac {9.6 \times 10} {6 \times 10} \\\\
-                                    &= \dfrac {96} {6 \times 10} \\\\
-                                    &= \dfrac {6 \times 16} {6 \times 10} \\\\
-                                    &= \dfrac {\cancel{6} \times 16} {\cancel{6} \times 10} \\\\
-                                    &= \dfrac {16} {10} \\\\
+a                                   &= \dfrac {9.6 \times 10} {6 \times 10} \\\\
+a                                   &= \dfrac {96} {6 \times 10} \\\\
+a                                   &= \dfrac {6 \times 16} {6 \times 10} \\\\
+a                                   &= \dfrac {\cancel{6} \times 16} {\cancel{6} \times 10} \\\\
+a                                   &= \dfrac {16} {10} \\\\
 a                                   &= \pounds 1.6
 \end{aligned}
 $
@@ -751,7 +755,7 @@ after this a is missing on left side.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>225E084E-3E8B-41BC-8F2E-8117437E9AF8</p>
 </div>
@@ -765,7 +769,7 @@ after this a is missing on left side.
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -831,6 +835,7 @@ $ab$ = .....................
 
 $
 \begin{aligned}
+&= ab \\\\
 &= 7 \times 28 \\\\
 &= 196
 \end{aligned}
@@ -850,6 +855,7 @@ $196$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
+&= ab \\\\
 &= 7 \times 28 \\\\
 &= 196
 \end{aligned}

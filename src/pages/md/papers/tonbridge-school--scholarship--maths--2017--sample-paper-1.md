@@ -1,7 +1,7 @@
 ---
 slug: "papers/tonbridge-school-scholarship-maths-2017-sample-paper-1"
 title: "Tonbridge School - Scholarship - Maths - 2017 - Sample Paper 1"
-date: 2022-08-18 10:44:13
+date: 2022-08-19 15:32:50
 questions_count: "9"
 ---
 <div class='paper'>
@@ -14,7 +14,7 @@ questions_count: "9"
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>BC18B92E-4190-4C3F-B391-1D7F39F5B4D9</p>
 </div>
@@ -28,7 +28,7 @@ questions_count: "9"
 <p>rag_am_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -43,24 +43,24 @@ Solve the simultaneous equations:
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -172,7 +172,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$-0.7, 1.8$
 
 </div>
 </div>
@@ -245,7 +245,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$-0.7, 1.8$
 </code></pre>
 </div>
 </div>
@@ -260,24 +260,24 @@ $2x + 3y = 4$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -408,24 +408,24 @@ Alan and Brian are two runners. Alan runs at $6.6\, m/s$ and Brian runs at $8.4\
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -474,24 +474,24 @@ How far has Brian run when they pass each other for the first time?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -542,24 +542,24 @@ After they pass each other for the second time, how much further does Brian need
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -636,14 +636,14 @@ The total surface area, $T$ , of a solid hemisphere is connected to its volume, 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -694,7 +694,7 @@ $
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -740,24 +740,24 @@ In an experiment, $T$ is measured as $30\, cm^2$ and $V$ as $12\, cm^3$ . What v
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -808,24 +808,24 @@ If the values of $T$ and $V$ are numerically the same, find $T$ .
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -902,24 +902,24 @@ In the right-angled triangle below, AD = DC and $a, b, c, d$ denote the lengths 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -968,24 +968,24 @@ If $a = 24, b = 7$ find $c$ and $d$ .
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1039,24 +1039,24 @@ If $a = 120, c = 169$ find $b$ and $d$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1104,7 +1104,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>14AE2923-5211-4ABF-BD29-8574263DA505</p>
 </div>
@@ -1118,7 +1118,7 @@ TODOANSWER
 <p>rag_am_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1133,24 +1133,24 @@ A piece of string $231\, cm$ long is to be cut into two pieces. Find the lengths
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1205,25 +1205,26 @@ Let the length of first piece $=a$
 
 Length of second piece $= 20a$
 
+As per the question,
+
 $
 \begin{aligned}
 a + 20a      &= 231 \\\\
 21a          &= 231 \\\\
 a            &= \dfrac{231}{21} \\\\
 a            &= \dfrac{21 \times 11}{21} \\\\
-a            &= \dfrac{\cancel 21 \times 11}{\cancel 21} \\\\
+a            &= \dfrac{\cancel {21} \times 11}{\cancel {21}} \\\\
 a            &= 11 \text{ cm}
 \end{aligned}
 $
 
 Length of first piece $=11 \text{ cm}$
 
-Length of second piece $= 20 \times a$
-
 $
 \begin{aligned}
-&= 20 \times 11 \\\\
-&= 220 \text{ cm}
+\text{Length of second piece} &= 20 \times a \\\\
+                              &= 20 \times 11 \\\\
+                              &= 220 \ \text{cm}
 \end{aligned}
 $
 
@@ -1243,25 +1244,26 @@ $ 11 \text{ cm}, 220 \text{ cm}$
 <emptyline>
 Length of second piece $= 20a$
 <emptyline>
+As per the question,
+<emptyline>
 $
 \begin{aligned}
 a + 20a      &= 231 \\\\
 21a          &= 231 \\\\
 a            &= \dfrac{231}{21} \\\\
 a            &= \dfrac{21 \times 11}{21} \\\\
-a            &= \dfrac{\cancel 21 \times 11}{\cancel 21} \\\\
+a            &= \dfrac{\cancel {21} \times 11}{\cancel {21}} \\\\
 a            &= 11 \text{ cm}
 \end{aligned}
 $
 <emptyline>
 Length of first piece $=11 \text{ cm}$
 <emptyline>
-Length of second piece $= 20 \times a$
-<emptyline>
 $
 \begin{aligned}
-&= 20 \times 11 \\\\
-&= 220 \text{ cm}
+\text{Length of second piece} &= 20 \times a \\\\
+                              &= 20 \times 11 \\\\
+                              &= 220 \ \text{cm}
 \end{aligned}
 $
 </code></pre>
@@ -1296,6 +1298,8 @@ Let the length of first piece $=a$
 
 Length of second piece $= 20 + a$
 
+As per the question,
+
 $
 \begin{aligned}
 a + 20 + a      &= 231 \\\\
@@ -1309,12 +1313,11 @@ $
 
 Length of first piece $=105.5 \text{ cm}$
 
-Length of second piece $= 20 + a$
-
 $
 \begin{aligned}
-&= 20 + 105.5 \\\\
-&= 125.5 \text{ cm}
+\text{Length of second piece} &= 20 + a \\\\
+                              &= 20 + 105.5 \\\\
+                              &= 125.5 \text{ cm}
 \end{aligned}
 $
 
@@ -1334,6 +1337,8 @@ $105.5 \text{ cm}, 125.5 \text{ cm}$
 <emptyline>
 Length of second piece $= 20 + a$
 <emptyline>
+As per the question,
+<emptyline>
 $
 \begin{aligned}
 a + 20 + a      &= 231 \\\\
@@ -1347,12 +1352,11 @@ $
 <emptyline>
 Length of first piece $=105.5 \text{ cm}$
 <emptyline>
-Length of second piece $= 20 + a$
-<emptyline>
 $
 \begin{aligned}
-&= 20 + 105.5 \\\\
-&= 125.5 \text{ cm}
+\text{Length of second piece} &= 20 + a \\\\
+                              &= 20 + 105.5 \\\\
+                              &= 125.5 \text{ cm}
 \end{aligned}
 $
 </code></pre>
@@ -1387,6 +1391,8 @@ Let the length of first piece $=a$
 
 Length of second piece $= 20 \% \text{ of } a + a$
 
+As per the question,
+
 $
 \begin{aligned}
 a + 20 \% \text{ of } a + a                                    &= 231 \\\\
@@ -1406,16 +1412,14 @@ $
 
 Length of first piece $=105 \text{ cm}$
 
-Length of second piece $= 20 \% \text{ of } a + a$
-
 $
 \begin{aligned}
-&= 20 \% a + a \\\\
-&=\dfrac{20 \times 105}{100} + 105 \\\\ 
-&=\dfrac{20 \times 21 \times 5}{20 \times 5} + 105 \\\\
-&=\dfrac{\cancel {20} \times 21 \times \cancel 5}{\cancel {20} \times \cancel 5} + 105 \\\\ 
-&= 21 + 105 \\\\
-&= 126 \text{ cm}
+\text{Length of second piece} &= 20 \% \text{ of } a + a \\\\
+                              &=\dfrac{20 \times 105}{100} + 105 \\\\ 
+                              &=\dfrac{20 \times 21 \times 5}{20 \times 5} + 105 \\\\
+                              &=\dfrac{\cancel {20} \times 21 \times \cancel 5}{\cancel {20} \times \cancel 5} + 105 \\\\ 
+                              &= 21 + 105 \\\\
+                              &= 126 \text{ cm}
 \end{aligned}
 $
 
@@ -1435,6 +1439,8 @@ $105 \text{ cm}, 126 \text{ cm}$
 <emptyline>
 Length of second piece $= 20 \% \text{ of } a + a$
 <emptyline>
+As per the question,
+<emptyline>
 $
 \begin{aligned}
 a + 20 \% \text{ of } a + a                                    &= 231 \\\\
@@ -1454,16 +1460,14 @@ $
 <emptyline>
 Length of first piece $=105 \text{ cm}$
 <emptyline>
-Length of second piece $= 20 \% \text{ of } a + a$
-<emptyline>
 $
 \begin{aligned}
-&= 20 \% a + a \\\\
-&=\dfrac{20 \times 105}{100} + 105 \\\\ 
-&=\dfrac{20 \times 21 \times 5}{20 \times 5} + 105 \\\\
-&=\dfrac{\cancel {20} \times 21 \times \cancel 5}{\cancel {20} \times \cancel 5} + 105 \\\\ 
-&= 21 + 105 \\\\
-&= 126 \text{ cm}
+\text{Length of second piece} &= 20 \% \text{ of } a + a \\\\
+                              &=\dfrac{20 \times 105}{100} + 105 \\\\ 
+                              &=\dfrac{20 \times 21 \times 5}{20 \times 5} + 105 \\\\
+                              &=\dfrac{\cancel {20} \times 21 \times \cancel 5}{\cancel {20} \times \cancel 5} + 105 \\\\ 
+                              &= 21 + 105 \\\\
+                              &= 126 \text{ cm}
 \end{aligned}
 $
 </code></pre>
@@ -1631,24 +1635,24 @@ If $x = 23\degree$ , find angle $y$ .
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1699,14 +1703,14 @@ Use algebraic reasoning to find $y$ in terms of $x$ , simplifying your answer as
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1742,24 +1746,24 @@ If triangle BCD is equilateral, what is the value of $x$ ?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1840,24 +1844,24 @@ is given by the formula $y=\frac{\pi\,x(108-x^2)}{12}$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1906,24 +1910,24 @@ When $x = 3$ , show that $y = 77.8$ (correct to $1$ decimal place).
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1974,24 +1978,24 @@ Find the values of $y$ for $x = 0, 1, 2, 4, 5, 6$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2042,24 +2046,24 @@ Choosing sensible scales, use your values in (a) and (b) to plot a graph of $y$ 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2110,24 +2114,24 @@ What is the value of $x$ when $y = 85$ ?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2178,24 +2182,24 @@ Use your answer to either (b) or (c) to find the volume of the whole sphere.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2272,24 +2276,24 @@ The inside of the figure below is made up of a square of side $8 \ \text{cm}$ wh
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2343,24 +2347,24 @@ The rest of this question concerns the region enclosed by the outer solid line r
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2411,24 +2415,24 @@ Find the length of the perimeter of this region.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2479,24 +2483,24 @@ Find the area of this region.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2584,24 +2588,24 @@ In the table below, Column B is the answer to the sum shown in Column A.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2650,24 +2654,24 @@ What are the entries in Column B for Rows $1, 3$ and $4$?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2718,24 +2722,24 @@ Find formulae in terms of $n$ for:
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2784,24 +2788,24 @@ The entry in Column B for Row $n$ ;
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2852,24 +2856,24 @@ The number of triangle numbers in Column A for Row $n$ .
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2923,24 +2927,24 @@ If the entry in Column A ends with $T_{97}$, what is the corresponding entry in 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2991,24 +2995,24 @@ If the right-hand triangle number in Column A is $7626$, what is the Row number?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

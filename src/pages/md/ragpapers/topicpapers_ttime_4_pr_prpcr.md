@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-4-pr-prpcr"
 title: "TopicPaper - Time - 4 - PR - PRPCR"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "6"
 ---
 <ul class='question default-decimal'>
@@ -1057,24 +1057,24 @@ The first steamer, train and cable car of the day are all at $07{:}00$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1213,7 +1213,7 @@ $
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1332,14 +1332,14 @@ For example when it is $15{:}00$ in London it is $17{:}00$ in Athens.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

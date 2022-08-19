@@ -1,7 +1,7 @@
 ---
 slug: "papers/warwick-school-11-plus-maths-9999-sample-paper-1"
 title: "Warwick School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-08-18 10:44:13
+date: 2022-08-19 15:32:50
 questions_count: "28"
 ---
 <div class='paper'>
@@ -357,7 +357,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>BB57B12D-D89B-4ECA-843A-B6986E277E18</p>
 </div>
@@ -368,7 +368,7 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g2</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -599,35 +599,35 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='BB57B12D-D89B-4ECA-843A-B6986E277E18' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='BB57B12D-D89B-4ECA-843A-B6986E277E18' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='BB57B12D-D89B-4ECA-843A-B6986E277E18' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='BB57B12D-D89B-4ECA-843A-B6986E277E18' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='BB57B12D-D89B-4ECA-843A-B6986E277E18' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='BB57B12D-D89B-4ECA-843A-B6986E277E18' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='BB57B12D-D89B-4ECA-843A-B6986E277E18' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='BB57B12D-D89B-4ECA-843A-B6986E277E18' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='BB57B12D-D89B-4ECA-843A-B6986E277E18' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='BB57B12D-D89B-4ECA-843A-B6986E277E18' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='BB57B12D-D89B-4ECA-843A-B6986E277E18' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='BB57B12D-D89B-4ECA-843A-B6986E277E18' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='BB57B12D-D89B-4ECA-843A-B6986E277E18' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='BB57B12D-D89B-4ECA-843A-B6986E277E18' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='BB57B12D-D89B-4ECA-843A-B6986E277E18' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='BB57B12D-D89B-4ECA-843A-B6986E277E18' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='BB57B12D-D89B-4ECA-843A-B6986E277E18' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='BB57B12D-D89B-4ECA-843A-B6986E277E18' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='BB57B12D-D89B-4ECA-843A-B6986E277E18' id='FORM-BB57B12D-D89B-4ECA-843A-B6986E277E18' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='BB57B12D-D89B-4ECA-843A-B6986E277E18' id='FORM-BB57B12D-D89B-4ECA-843A-B6986E277E18' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1533,24 +1533,24 @@ Nectarines at $87 \text{p}$$ per punnet
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1599,24 +1599,24 @@ What is the total cost of $½$ kg of grapes, $2$ melons and $3$ punnets of necta
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1667,24 +1667,24 @@ How much change would you get from $$\pounds 10$ if you bought $1\, kg$ of grape
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2777,7 +2777,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>53C7B863-1631-4E5F-8ACD-D417E783A274</p>
 </div>
@@ -2791,7 +2791,7 @@ $
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2806,24 +2806,24 @@ In a class the ratio of boys to girls is 2 : 3
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2953,17 +2953,12 @@ $
 g                                               &= \dfrac {105} {5} \\\\
 g                                               &= \dfrac {5 \times 21} {5} \\\\
 g                                               &= \dfrac {\cancel 5 \times 21} {\cancel 5} \\\\
-g                                               &= 21
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Number of girls}        &= 21 \\\\
-\text{Number of boys}         &= 35 - 21 \\\\
-                              &= 14 \\\\
-\text{Difference}             &= 21 - 14 \\\\
-                              &= 7
+g                                               &= 21 \\\\
+\text{Number of girls}                          &= 21 \\\\
+\text{Number of boys}                           &= 35 - 21 \\\\
+                                                &= 14 \\\\
+\text{Difference}                               &= 21 - 14 \\\\
+                                                &= 7
 \end{aligned}
 $
 
@@ -2997,17 +2992,12 @@ $
 g                                               &= \dfrac {105} {5} \\\\
 g                                               &= \dfrac {5 \times 21} {5} \\\\
 g                                               &= \dfrac {\cancel 5 \times 21} {\cancel 5} \\\\
-g                                               &= 21
-\end{aligned}
-$
-<emptyline>
-$
-\begin{aligned}
-\text{Number of girls}        &= 21 \\\\
-\text{Number of boys}         &= 35 - 21 \\\\
-                              &= 14 \\\\
-\text{Difference}             &= 21 - 14 \\\\
-                              &= 7
+g                                               &= 21 \\\\
+\text{Number of girls}                          &= 21 \\\\
+\text{Number of boys}                           &= 35 - 21 \\\\
+                                                &= 14 \\\\
+\text{Difference}                               &= 21 - 14 \\\\
+                                                &= 7
 \end{aligned}
 $
 </code></pre>
@@ -3029,6 +3019,35 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+remove extra TODOWORKING AND TODOANSWER, change to %empty% for one set
+
+
+
+
+
+a:
+
+
+
+summary line missing
+
+add equiv ratio version
+
+
+
+b:
+
+
+
+add whole to part ratio way for showing the answer using ratio, refer CB7EF112-E190-4553-823D-BE6A00EE6C10
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3626,7 +3645,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>AB828C03-B38E-492A-A9FB-885D098D187F</p>
 </div>
@@ -3637,7 +3656,7 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g2</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3717,35 +3736,35 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='AB828C03-B38E-492A-A9FB-885D098D187F' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='AB828C03-B38E-492A-A9FB-885D098D187F' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='AB828C03-B38E-492A-A9FB-885D098D187F' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='AB828C03-B38E-492A-A9FB-885D098D187F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='AB828C03-B38E-492A-A9FB-885D098D187F' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='AB828C03-B38E-492A-A9FB-885D098D187F' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='AB828C03-B38E-492A-A9FB-885D098D187F' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='AB828C03-B38E-492A-A9FB-885D098D187F' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='AB828C03-B38E-492A-A9FB-885D098D187F' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='AB828C03-B38E-492A-A9FB-885D098D187F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='AB828C03-B38E-492A-A9FB-885D098D187F' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='AB828C03-B38E-492A-A9FB-885D098D187F' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='AB828C03-B38E-492A-A9FB-885D098D187F' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='AB828C03-B38E-492A-A9FB-885D098D187F' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='AB828C03-B38E-492A-A9FB-885D098D187F' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='AB828C03-B38E-492A-A9FB-885D098D187F' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='AB828C03-B38E-492A-A9FB-885D098D187F' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='AB828C03-B38E-492A-A9FB-885D098D187F' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='AB828C03-B38E-492A-A9FB-885D098D187F' id='FORM-AB828C03-B38E-492A-A9FB-885D098D187F' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='AB828C03-B38E-492A-A9FB-885D098D187F' id='FORM-AB828C03-B38E-492A-A9FB-885D098D187F' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3984,24 +4003,24 @@ tdraw
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4050,24 +4069,24 @@ On the grid mark with a clear cross the coordinates $(1, 3), (6, 3)$ and $(4, 5)
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4118,24 +4137,24 @@ A fourth point is plotted so that the shape above is a $PARALLELOGRAM$ What is t
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4343,7 +4362,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FC3ABA33-5D43-482E-9D5F-4D8124DCB134</p>
 </div>
@@ -4357,7 +4376,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4374,29 +4393,31 @@ Edward has a sum of money. He gives one-third to his son George and threefifths 
 <div class='workings'>
 <div class='working'>
 
-Let the money Edward has = $ a$
+Let the money Edward has $= a$
+
+Money George receives $= \dfrac{a}{3}$
+
+Money Olivia receives $= \dfrac{3a}{5}$
 
 As per the question,
 
 $
 \begin{aligned}
-\dfrac {1} {3} \times a             &= \pounds 15 \\\\
+\dfrac {a} {3}                      &= 15 \\\\
 a                                   &= 15 \times 3 \\\\
 a                                   &= \pounds 45
 \end{aligned}
 $
 
-Money that Olivia receives $= \dfrac{3}{5}a$
-
 $
 \begin{aligned}
-&= \dfrac {3} {5} \times a \\\\
-&= \dfrac {3} {5} \times 45 \\\\
-&= \dfrac {3 \times 45} {5} \\\\
-&= \dfrac {3 \times 9 \times 5} {5} \\\\
-&= \dfrac {3 \times 9 \times \cancel 5} {\cancel 5} \\\\
-&= 3 \times 9 \\\\
-&= \pounds 27
+\text{Money Olivia receives}  &= \dfrac {3} {5} \times a \\\\
+                              &= \dfrac {3} {5} \times 45 \\\\
+                              &= \dfrac {3 \times 45} {5} \\\\
+                              &= \dfrac {3 \times 9 \times 5} {5} \\\\
+                              &= \dfrac {3 \times 9 \times \cancel 5} {\cancel 5} \\\\
+                              &= 3 \times 9 \\\\
+                              &= \pounds 27
 \end{aligned}
 $
 
@@ -4412,29 +4433,31 @@ $\pounds 27$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the money Edward has = $ a$
+<pre class='language-latex'><code class='language-latex'>Let the money Edward has $= a$
+<emptyline>
+Money George receives $= \dfrac{a}{3}$
+<emptyline>
+Money Olivia receives $= \dfrac{3a}{5}$
 <emptyline>
 As per the question,
 <emptyline>
 $
 \begin{aligned}
-\dfrac {1} {3} \times a             &= \pounds 15 \\\\
+\dfrac {a} {3}                      &= 15 \\\\
 a                                   &= 15 \times 3 \\\\
 a                                   &= \pounds 45
 \end{aligned}
 $
 <emptyline>
-Money that Olivia receives $= \dfrac{3}{5}a$
-<emptyline>
 $
 \begin{aligned}
-&= \dfrac {3} {5} \times a \\\\
-&= \dfrac {3} {5} \times 45 \\\\
-&= \dfrac {3 \times 45} {5} \\\\
-&= \dfrac {3 \times 9 \times 5} {5} \\\\
-&= \dfrac {3 \times 9 \times \cancel 5} {\cancel 5} \\\\
-&= 3 \times 9 \\\\
-&= \pounds 27
+\text{Money Olivia receives}  &= \dfrac {3} {5} \times a \\\\
+                              &= \dfrac {3} {5} \times 45 \\\\
+                              &= \dfrac {3 \times 45} {5} \\\\
+                              &= \dfrac {3 \times 9 \times 5} {5} \\\\
+                              &= \dfrac {3 \times 9 \times \cancel 5} {\cancel 5} \\\\
+                              &= 3 \times 9 \\\\
+                              &= \pounds 27
 \end{aligned}
 $
 </code></pre>
@@ -4530,7 +4553,7 @@ then solve further...
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>A1E3093E-6A93-4CB8-A627-77D10D5C257A</p>
 </div>
@@ -4541,7 +4564,7 @@ then solve further...
 <p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_an_pr</p>
+<p>rag_an_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4604,9 +4627,8 @@ What fraction of the balls are **red**?
 
 $
 \begin{aligned}
-\text{Fraction of red balls}    &= \dfrac {Number of red balls} {Total numbe of balls} \\\\
-                                &= \dfrac {4} {4 + 2 + 1} \\\\
-                                &= \dfrac {4} {7}
+\text{Red balls}    &= \dfrac {4} {4 + 2 + 1} \\\\
+                    &= \dfrac {4} {7}
 \end{aligned}
 $
 
@@ -4624,9 +4646,8 @@ $\dfrac {4} {7}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Fraction of red balls}    &= \dfrac {Number of red balls} {Total numbe of balls} \\\\
-                                &= \dfrac {4} {4 + 2 + 1} \\\\
-                                &= \dfrac {4} {7}
+\text{Red balls}    &= \dfrac {4} {4 + 2 + 1} \\\\
+                    &= \dfrac {4} {7}
 \end{aligned}
 $
 </code></pre>
@@ -4663,18 +4684,19 @@ As per the question,
 
 $
 \begin{aligned}
-\dfrac {1 + a} {7 + a}                  &= \dfrac {1} {3} \\\\
-3 \times \left ( 1 + a \right )         &= 7 + a \\\\
-3 + 3 \times a                          &= 7 + a \\\\
-3 + 3a                                  &= 7 + a \\\\
-3a - a                                  &= 7 - 3 \\\\
-2a                                      &= 4 \\\\
-a                                 &= \dfrac{4} {2} \\\\
-a                                 &= \dfrac{2 \times 2} {2} \\\\
-a                                 &= \dfrac{\cancel 2 \times 2} {\cancel 2} \\\\
-a                                 &= 2
+\dfrac {1 + a} {7 + a}              &= \dfrac {1} {3} \\\\
+3 \times  ( 1 + a  )                &= 7 + a \\\\
+3 + 3a                              &= 7 + a \\\\
+3a - a                              &= 7 - 3 \\\\
+2a                                  &= 4 \\\\
+a                                   &= \dfrac{4} {2} \\\\
+a                                   &= \dfrac{2 \times 2} {2} \\\\
+a                                   &= \dfrac{\cancel 2 \times 2} {\cancel 2} \\\\
+a                                   &= 2
 \end{aligned}
 $
+
+Green balls to be added $= 2$
 
 </div>
 </div>
@@ -4694,18 +4716,19 @@ As per the question,
 <emptyline>
 $
 \begin{aligned}
-\dfrac {1 + a} {7 + a}                  &= \dfrac {1} {3} \\\\
-3 \times \left ( 1 + a \right )         &= 7 + a \\\\
-3 + 3 \times a                          &= 7 + a \\\\
-3 + 3a                                  &= 7 + a \\\\
-3a - a                                  &= 7 - 3 \\\\
-2a                                      &= 4 \\\\
-a                                 &= \dfrac{4} {2} \\\\
-a                                 &= \dfrac{2 \times 2} {2} \\\\
-a                                 &= \dfrac{\cancel 2 \times 2} {\cancel 2} \\\\
-a                                 &= 2
+\dfrac {1 + a} {7 + a}              &= \dfrac {1} {3} \\\\
+3 \times  ( 1 + a  )                &= 7 + a \\\\
+3 + 3a                              &= 7 + a \\\\
+3a - a                              &= 7 - 3 \\\\
+2a                                  &= 4 \\\\
+a                                   &= \dfrac{4} {2} \\\\
+a                                   &= \dfrac{2 \times 2} {2} \\\\
+a                                   &= \dfrac{\cancel 2 \times 2} {\cancel 2} \\\\
+a                                   &= 2
 \end{aligned}
 $
+<emptyline>
+Green balls to be added $= 2$
 </code></pre>
 </div>
 </div>
@@ -4742,13 +4765,14 @@ As per the question,
 $
 \begin{aligned}
 \dfrac {2 + a} {7 + a}                  &= \dfrac {1} {2} \\\\
-2 \times \left ( 2 + a \right )         &= 7 + a \\\\
-4 + 2 \times a                          &= 7 + a \\\\
+2 \times  ( 2 + a  )                    &= 7 + a \\\\
 4 + 2a                                  &= 7 + a \\\\
 2a - a                                  &= 7 - 4 \\\\
-a                                      &= 3
+a                                       &= 3
 \end{aligned}
 $
+
+Blue balls to be added $= 2$
 
 </div>
 </div>
@@ -4769,13 +4793,14 @@ As per the question,
 $
 \begin{aligned}
 \dfrac {2 + a} {7 + a}                  &= \dfrac {1} {2} \\\\
-2 \times \left ( 2 + a \right )         &= 7 + a \\\\
-4 + 2 \times a                          &= 7 + a \\\\
+2 \times  ( 2 + a  )                    &= 7 + a \\\\
 4 + 2a                                  &= 7 + a \\\\
 2a - a                                  &= 7 - 4 \\\\
-a                                      &= 3
+a                                       &= 3
 \end{aligned}
 $
+<emptyline>
+Blue balls to be added $= 2$
 </code></pre>
 </div>
 </div>
@@ -4810,7 +4835,7 @@ As per the question,
 
 $
 \begin{aligned}
-\dfrac {1} {7 - a}                      &= 25 \% \\\\
+\dfrac {1} {7 - a} \times 100           &= 25 \\\\
 \dfrac {1} {7 - a}                      &= \dfrac {25} {100} \\\\
 \dfrac {1} {7 - a}                      &= \dfrac {25} {25 \times 4} \\\\
 \dfrac {1} {7 - a}                      &= \dfrac {\cancel {25}} {\cancel {25} \times 4} \\\\
@@ -4820,6 +4845,8 @@ a                                       &= 7 - 4 \\\\
 a                                       &= 3
 \end{aligned}
 $
+
+Red balls to be removed $= 3$
 
 </div>
 </div>
@@ -4839,7 +4866,7 @@ As per the question,
 <emptyline>
 $
 \begin{aligned}
-\dfrac {1} {7 - a}                      &= 25 \% \\\\
+\dfrac {1} {7 - a} \times 100           &= 25 \\\\
 \dfrac {1} {7 - a}                      &= \dfrac {25} {100} \\\\
 \dfrac {1} {7 - a}                      &= \dfrac {25} {25 \times 4} \\\\
 \dfrac {1} {7 - a}                      &= \dfrac {\cancel {25}} {\cancel {25} \times 4} \\\\
@@ -4849,6 +4876,8 @@ a                                       &= 7 - 4 \\\\
 a                                       &= 3
 \end{aligned}
 $
+<emptyline>
+Red balls to be removed $= 3$
 </code></pre>
 </div>
 </div>
@@ -4868,44 +4897,39 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Part A : \dfrac {Number of red balls} {Total numbe of balls}  and put them in katex \text
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='A1E3093E-6A93-4CB8-A627-77D10D5C257A' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='A1E3093E-6A93-4CB8-A627-77D10D5C257A' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='A1E3093E-6A93-4CB8-A627-77D10D5C257A' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='A1E3093E-6A93-4CB8-A627-77D10D5C257A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='A1E3093E-6A93-4CB8-A627-77D10D5C257A' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='A1E3093E-6A93-4CB8-A627-77D10D5C257A' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='A1E3093E-6A93-4CB8-A627-77D10D5C257A' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='A1E3093E-6A93-4CB8-A627-77D10D5C257A' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='A1E3093E-6A93-4CB8-A627-77D10D5C257A' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='A1E3093E-6A93-4CB8-A627-77D10D5C257A' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='A1E3093E-6A93-4CB8-A627-77D10D5C257A' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='A1E3093E-6A93-4CB8-A627-77D10D5C257A' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='A1E3093E-6A93-4CB8-A627-77D10D5C257A' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='A1E3093E-6A93-4CB8-A627-77D10D5C257A' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='A1E3093E-6A93-4CB8-A627-77D10D5C257A' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='A1E3093E-6A93-4CB8-A627-77D10D5C257A' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='A1E3093E-6A93-4CB8-A627-77D10D5C257A' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='A1E3093E-6A93-4CB8-A627-77D10D5C257A' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='A1E3093E-6A93-4CB8-A627-77D10D5C257A' id='FORM-A1E3093E-6A93-4CB8-A627-77D10D5C257A' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='A1E3093E-6A93-4CB8-A627-77D10D5C257A' id='FORM-A1E3093E-6A93-4CB8-A627-77D10D5C257A' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -4956,24 +4980,24 @@ $Square$\:\:\:\:\:\:\:\:$Isosceles$\:\:\:\:\:\:\:\:$Triangle$\:\:\:\:\:\:\:\:$Re
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5018,7 +5042,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>2729658C-4416-4C59-BD1E-AA4019A069EB</p>
 </div>
@@ -5029,7 +5053,7 @@ TODOANSWER
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_g2</p>
+<p>rag_mr_g3</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5102,7 +5126,7 @@ Using equivalent ratio,
 
 $
 \begin{aligned}
-6 \ \text{scones} : 120 \ \text{g}              &= 7 \ \text{scones} : a \ \text{g} \\\\
+6 \ \text{scones} : 120 \ \text{grams}              &= 7 \ \text{scones} : a \ \text{grams} \\\\
 \dfrac{6} {120}                                 &= \dfrac {7} {a} \\\\
 6 \times a                                      &= 7 \times 120 \\\\
 a                                               &= \dfrac {7 \times 120} {6} \\\\
@@ -5153,7 +5177,7 @@ Using equivalent ratio,
 <emptyline>
 $
 \begin{aligned}
-6 \ \text{scones} : 120 \ \text{g}              &= 7 \ \text{scones} : a \ \text{g} \\\\
+6 \ \text{scones} : 120 \ \text{grams}              &= 7 \ \text{scones} : a \ \text{grams} \\\\
 \dfrac{6} {120}                                 &= \dfrac {7} {a} \\\\
 6 \times a                                      &= 7 \times 120 \\\\
 a                                               &= \dfrac {7 \times 120} {6} \\\\
@@ -5213,13 +5237,13 @@ How much butter is required to make $9$ scones?
 <div class='workings'>
 <div class='working'>
 
-Let the amount of flour needed $= a$
+Let the amount of butter needed $= a$
 
 Using equivalent ratio,
 
 $
 \begin{aligned}
-6 \ \text{scones} : 70 \ \text{g}               &= 9 \ \text{scones} : a \ \text{g} \\\\
+6 \ \text{scones} : 70 \ \text{grams}               &= 9 \ \text{scones} : a \ \text{grams} \\\\
 \dfrac {6} {70}                                 &= \dfrac {9} {a} \\\\
 6 \times a                                      &= 9 \times 70 \\\\
 a                                               &= \dfrac {9 \times 70} {6} \\\\
@@ -5230,7 +5254,7 @@ a                                               &= 105 \ \text{g}
 \end{aligned}
 $
 
-Flour needed $= 105 \ \text{g}$
+Butter needed $= 105 \ \text{g}$
 
 </div>
 <div class='working'>
@@ -5250,7 +5274,7 @@ $
 \end{array}
 $
 
-Flour needed $= 105 \ \text{g}$
+Butter needed $= 105 \ \text{g}$
 
 </div>
 </div>
@@ -5264,13 +5288,13 @@ $105 \ \text{g}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the amount of flour needed $= a$
+<pre class='language-latex'><code class='language-latex'>Let the amount of butter needed $= a$
 <emptyline>
 Using equivalent ratio,
 <emptyline>
 $
 \begin{aligned}
-6 \ \text{scones} : 70 \ \text{g}               &= 9 \ \text{scones} : a \ \text{g} \\\\
+6 \ \text{scones} : 70 \ \text{grams}               &= 9 \ \text{scones} : a \ \text{grams} \\\\
 \dfrac {6} {70}                                 &= \dfrac {9} {a} \\\\
 6 \times a                                      &= 9 \times 70 \\\\
 a                                               &= \dfrac {9 \times 70} {6} \\\\
@@ -5281,7 +5305,7 @@ a                                               &= 105 \ \text{g}
 \end{aligned}
 $
 <emptyline>
-Flour needed $= 105 \ \text{g}$
+Butter needed $= 105 \ \text{g}$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -5301,7 +5325,7 @@ $
 \end{array}
 $
 <emptyline>
-Flour needed $= 105 \ \text{g}$
+Butter needed $= 105 \ \text{g}$
 </code></pre>
 </div>
 </div>
@@ -5444,35 +5468,35 @@ Maximum scones $= 40$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='2729658C-4416-4C59-BD1E-AA4019A069EB' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G3' data-uuid='2729658C-4416-4C59-BD1E-AA4019A069EB' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='2729658C-4416-4C59-BD1E-AA4019A069EB' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G3' data-uuid='2729658C-4416-4C59-BD1E-AA4019A069EB' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='2729658C-4416-4C59-BD1E-AA4019A069EB' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G3' data-uuid='2729658C-4416-4C59-BD1E-AA4019A069EB' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='2729658C-4416-4C59-BD1E-AA4019A069EB' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G3' data-uuid='2729658C-4416-4C59-BD1E-AA4019A069EB' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='2729658C-4416-4C59-BD1E-AA4019A069EB' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G3' data-uuid='2729658C-4416-4C59-BD1E-AA4019A069EB' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='2729658C-4416-4C59-BD1E-AA4019A069EB' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G3' data-uuid='2729658C-4416-4C59-BD1E-AA4019A069EB' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='2729658C-4416-4C59-BD1E-AA4019A069EB' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G3' data-uuid='2729658C-4416-4C59-BD1E-AA4019A069EB' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='2729658C-4416-4C59-BD1E-AA4019A069EB' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G3' data-uuid='2729658C-4416-4C59-BD1E-AA4019A069EB' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='2729658C-4416-4C59-BD1E-AA4019A069EB' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G3' data-uuid='2729658C-4416-4C59-BD1E-AA4019A069EB' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='2729658C-4416-4C59-BD1E-AA4019A069EB' id='FORM-2729658C-4416-4C59-BD1E-AA4019A069EB' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G3' data-uuid='2729658C-4416-4C59-BD1E-AA4019A069EB' id='FORM-2729658C-4416-4C59-BD1E-AA4019A069EB' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -6291,7 +6315,7 @@ $
 $
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
@@ -6303,7 +6327,7 @@ TODOWORKING
 32
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6428,24 +6452,24 @@ The diagram represents a carton of orange juice in the shape of a cuboid. The ca
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6494,24 +6518,24 @@ Using the formula $Volume = length \times width \times height$, calculate the vo
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6564,24 +6588,24 @@ How many cups can be filled from the full carton of orange juice?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6634,24 +6658,24 @@ What is the new height of orange juice in the carton?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

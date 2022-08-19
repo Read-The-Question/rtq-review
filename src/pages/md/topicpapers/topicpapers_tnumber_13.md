@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-13"
 title: "TopicPaper - Number - 13"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "40"
 ---
 <div class='paper'>
@@ -646,7 +646,7 @@ $= 3.99$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Work out $10 \% \text{ of } \pounds 40 + 15 \% \text{ of } \pounds 60$
+Work out $10 \% \text{ of } \pounds 40 + 15 \% \text{ of } \pounds 60$.
 
 </div>
 <div class='workings'>
@@ -1969,7 +1969,7 @@ tnumber
 </div>
 <div class='question question'>
 
-Write in figures the number eighteen thousand and forty-six 
+Write in figures the number eighteen thousand and forty-six.
 
 </div>
 <div class='workings'>
@@ -2075,7 +2075,7 @@ tnumber
 </div>
 <div class='question question'>
 
-Write in words 3,060,120 
+Write in words $3,060,120$.
 
 </div>
 <div class='workings'>
@@ -2181,7 +2181,7 @@ tnumber
 </div>
 <div class='question question'>
 
-You are told that 123 x 45 = 5535
+You are told that $123 x 45 = 5535$
 
 
 Use the above to work out: 
@@ -2196,7 +2196,7 @@ Use the above to work out:
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-123 x 450 
+$123 x 450$ 
 
 </div>
 <div class='workings'>
@@ -2253,7 +2253,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-1.23 x 45
+$1.23 x 45$
 
 </div>
 <div class='workings'>
@@ -2312,7 +2312,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-12.3 x 4500
+$12.3 x 4500$
 
 </div>
 <div class='workings'>
@@ -2371,7 +2371,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-55.35 ÷ 45
+$55.35 ÷ 45$
 
 </div>
 <div class='workings'>
@@ -2393,7 +2393,7 @@ $
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2518,24 +2518,24 @@ If the hall is 100m long, how long will the model be?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2586,24 +2586,24 @@ How many seats will there be in the model?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3119,7 +3119,7 @@ tnumber
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Calculate
+Calculate:
 
 </div>
 
@@ -3334,11 +3334,11 @@ tnumber
 </div>
 <div class='question question'>
 
-Given that 
+Given that:
 
 **352 $\times$ 48 = 16896**
 
-Workout 
+Workout:
 
 **16896 $\div$  24 =** 
 
@@ -4087,7 +4087,7 @@ tnumber
 </div>
 <div class='question question'>
 
-Calculate 
+Calculate:
 
 **$28.3 - 1.64 + 0.57$** 
 
@@ -4669,7 +4669,7 @@ tnumber
 </div>
 <div class='question question'>
 
-Write + or - in each space to make the calculation correct
+Write + or - in each space to make the calculation correct.
 
 $123 \,\,  45 \,\,  67 \,\,  89 = 100$ 
 
@@ -5240,7 +5240,7 @@ tnumber
 </div>
 <div class='question question'>
 
-Write 
+Write:
 
 </div>
 <div class='workings'>
@@ -5336,7 +5336,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$\dfrac {4} {5}$  as a  decimal
+$\dfrac {4} {5}$  as a  decimal.
 
 </div>
 <div class='workings'>
@@ -5393,7 +5393,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$43\%$  as a  fraction
+$43\%$  as a  fraction.
 
 </div>
 <div class='workings'>
@@ -5446,7 +5446,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-3 + $\dfrac {123} {100}$  as a  decimal
+3 + $\dfrac {123} {100}$  as a  decimal.
 
 </div>
 <div class='workings'>
@@ -5570,7 +5570,7 @@ tnoexplanation
 </div>
 <div class='question question'>
 
-Write in figures  the   number   “two  hundred  and   three thousand,   one   hundred  and   seventy” 
+Write in figures  the   number   “two  hundred  and   three thousand,   one   hundred  and   seventy”.
 
 </div>
 <div class='workings'>
@@ -5676,7 +5676,7 @@ tnumber
 </div>
 <div class='question question'>
 
-Calculate $0.871 - 0.39 + 1.4$ 
+Calculate $0.871 - 0.39 + 1.4$.
 
 </div>
 <div class='workings'>
@@ -5799,7 +5799,7 @@ tnumber
 </div>
 <div class='question question'>
 
-Fill  in the   missing  numbers  in this  division
+Fill  in the   missing  numbers  in this  division.
 
 ![missing image](/papers/missing_image.svg)
  
@@ -6003,7 +6003,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What  number   is half  way   between **-6** and **+4**
+What  number   is half  way   between **-6** and **+4**?
 
 </div>
 <div class='workings'>
@@ -6126,7 +6126,7 @@ tnumber
 </div>
 <div class='question question'>
 
-Complete these calculations  
+Complete these calculations:
 
 </div>
 <div class='workings'>
@@ -6479,7 +6479,7 @@ tnoexplanation
 </div>
 <div class='question question'>
 
-Callisto is another moon of Jupiter and its maximum distance from Jupiter as it orbits is $1,882,700\,km$. Write this distance in words 
+Callisto is another moon of Jupiter and its maximum distance from Jupiter as it orbits is $1,882,700\,km$. Write this distance in words.
 
 </div>
 <div class='workings'>
@@ -7220,7 +7220,7 @@ Round each of the following measurements to the accuracy given in brackets.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$76.49\,cm$   (nearest cm)
+$76.49 \ \text{cm}$   (nearest cm)
 
 </div>
 <div class='workings'>
@@ -7273,7 +7273,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$127569\,km$   (nearest one thousand km)
+$127569 \ \text{km}$   (nearest one thousand km)
 
 </div>
 <div class='workings'>
@@ -7326,7 +7326,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$1.073\,cm$   (nearest mm)
+$1.073 \ \text{cm}$   (nearest mm)
 
 </div>
 <div class='workings'>
@@ -7451,10 +7451,10 @@ tnumber
 
 Which of the following distances is the most likely height of the Eiffel Tower in Paris? Circle your answer. 
 
-a) $1250\,m$
-b) 305 feet
-c) 300 metres
-d) 36,000 inches
+- $1250 \ \text{m}$
+- $305 \ \text{feet}$
+- $300 \ \text{metres}$
+- $36,000 \ \text{inches}$
 
 </div>
 <div class='workings'>

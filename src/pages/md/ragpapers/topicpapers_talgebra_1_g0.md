@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-1-g0"
 title: "TopicPaper - Algebra - 1 - G0"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C6F4AD83-598E-4D8C-8FE2-F30239151865</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "1"
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -43,7 +43,7 @@ How many students studied Spanish?
 
 $
 \begin{aligned}
-\text {Students (Spanish)}      &=  \text {Total students} - \text {Students (French)} - \text {Students (Latin)} \\\\
+\text {Spanish students}        &=  \text {Total students} - \text {French students} - \text {Latin students} \\\\
                                 &=  180 -  \dfrac {2} {5} \times 180 - \dfrac {1} {4} \times 180 \\\\
                                 &=  180 -  \dfrac {2 \times 180} {5} - \dfrac {180} {4} \\\\
                                 &=  180 -  \dfrac {2 \times 36 \times 5} {5} - \dfrac {45 \times 4} {4} \\\\
@@ -68,7 +68,7 @@ $63$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Students (Spanish)}      &=  \text {Total students} - \text {Students (French)} - \text {Students (Latin)} \\\\
+\text {Spanish students}        &=  \text {Total students} - \text {French students} - \text {Latin students} \\\\
                                 &=  180 -  \dfrac {2} {5} \times 180 - \dfrac {1} {4} \times 180 \\\\
                                 &=  180 -  \dfrac {2 \times 180} {5} - \dfrac {180} {4} \\\\
                                 &=  180 -  \dfrac {2 \times 36 \times 5} {5} - \dfrac {45 \times 4} {4} \\\\

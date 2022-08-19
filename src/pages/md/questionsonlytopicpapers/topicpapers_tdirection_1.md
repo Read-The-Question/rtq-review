@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tdirection-1"
 title: "TopicPaper - Direction - 1"
-date: 2022-08-18 11:06:01
+date: 2022-08-19 16:00:22
 questions_count: "13"
 ---
 <div class='paper'>

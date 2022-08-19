@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-14-oldpr"
 title: "TopicPaper - Number - 14 - OLDPR"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -32,7 +32,14 @@ tnumber
 <div class='question question'>
 
 Look at the list of numbers below. 
-$6 \,\,\,\, 12 \,\,\,\, 15 \,\,\,\, 49 \,\,\,\, 52 \,\,\,\, 53 \,\,\,\, 169$  
+
+- $6$
+- $12$
+- $15$
+- $49$
+- $52$
+- $53$
+- $169$
 
 </div>
 

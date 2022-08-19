@@ -1,7 +1,7 @@
 ---
 slug: "papers/north-london-collegiate-school-11-plus-maths-9999-sample-paper-1"
 title: "North London Collegiate School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-08-18 10:44:13
+date: 2022-08-19 15:32:50
 questions_count: "42"
 ---
 <div class='paper'>
@@ -526,24 +526,24 @@ $8\sqrt{\mathstrut 34024}$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1283,7 +1283,7 @@ Perimeter of the shape remain same after removing tile E.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>B40A7337-6CB2-482B-9E8A-9CDC6C2E5BC9</p>
 </div>
@@ -1297,7 +1297,7 @@ Perimeter of the shape remain same after removing tile E.
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1319,6 +1319,47 @@ How much would $\text{seven}$ bags of apples cost?
 <div class='workings'>
 <div class='working'>
 
+$
+\begin{aligned}
+\text{Cost of one bag}        &= \pounds \dfrac {3.25} {5} \\\\
+\text{Cost of seven bags}     &= 7 \times \dfrac {3.25} {5} \\\\
+                              &= \dfrac {7 \times 3.25} {5} \\\\
+                              &= \dfrac {7 \times 325} {5 \times 100} \\\\
+                              &= \dfrac {7 \times 5 \times 65} {5 \times 100} \\\\
+                              &= \dfrac {7 \times \cancel 5 \times 65} {\cancel 5 \times 100} \\\\
+                              &= \dfrac {7 \times 65} {100} \\\\
+                              &= \dfrac {455} {100} \\\\
+                              &= \pounds 4.55
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+Let the cost of seven bags of apples $= a$
+
+Using equivalent ratio,
+
+$
+\begin{aligned}
+5 \ \text{bags} : 3.25 \ \text{cost}            &= 7 \ \text{bags} : a \ \text{cost} \\\\
+\dfrac {5} {3.25}                               &= \dfrac {7} {a} \\\\
+5 \times a                                      &= 7 \times 3.25 \\\\
+a                                               &= \dfrac {7 \times 3.25} {5} \\\\
+a                                               &= \dfrac {7 \times 325} {5 \times 100} \\\\
+a                                               &= \dfrac {7 \times 5 \times 65} {5 \times 100} \\\\
+a                                               &= \dfrac {7 \times \cancel 5 \times 65} {\cancel 5 \times 100} \\\\
+a                                               &= \dfrac {7 \times 65} {100} \\\\
+a                                               &= \dfrac {455} {100} \\\\
+a                                               &= \pounds 4.55
+\end{aligned}
+$
+
+Cost of seven bags of apples $= \pounds 4.55$
+
+</div>
+<div class='working'>
+
 Using ratio,
 
 $
@@ -1326,15 +1367,17 @@ $
   & \text{apples}       &:& \pounds \\\\
 = & 5                   &:& 3.25 \\\\
 = & 1                   &:& \dfrac {3.25} {5} \\\\
-= & 7                   &:& \dfrac {3.25 \times 7} {5} \\\\
+= & 1 \times 7          &:& \dfrac {3.25 \times 7} {5} \\\\
 = & 7                   &:& \dfrac {325 \times 7} {5 \times 100} \\\\
 = & 7                   &:& \dfrac {5 \times 65 \times 7} {5 \times 100} \\\\
 = & 7                   &:& \dfrac {\cancel 5 \times 65 \times 7} {\cancel 5 \times 100} \\\\
 = & 7                   &:& \dfrac {65 \times 7} {100} \\\\
 = & 7                   &:& \dfrac {455} {100} \\\\
-= & 7                   &:& 4.55
+= & 7                   &:& \pounds 4.55
 \end{array}
 $
+
+Cost of seven bags of apples $= \pounds 4.55$
 
 </div>
 </div>
@@ -1348,6 +1391,47 @@ $\pounds 4.55$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Cost of one bag}        &= \pounds \dfrac {3.25} {5} \\\\
+\text{Cost of seven bags}     &= 7 \times \dfrac {3.25} {5} \\\\
+                              &= \dfrac {7 \times 3.25} {5} \\\\
+                              &= \dfrac {7 \times 325} {5 \times 100} \\\\
+                              &= \dfrac {7 \times 5 \times 65} {5 \times 100} \\\\
+                              &= \dfrac {7 \times \cancel 5 \times 65} {\cancel 5 \times 100} \\\\
+                              &= \dfrac {7 \times 65} {100} \\\\
+                              &= \dfrac {455} {100} \\\\
+                              &= \pounds 4.55
+\end{aligned}
+$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the cost of seven bags of apples $= a$
+<emptyline>
+Using equivalent ratio,
+<emptyline>
+$
+\begin{aligned}
+5 \ \text{bags} : 3.25 \ \text{cost}            &= 7 \ \text{bags} : a \ \text{cost} \\\\
+\dfrac {5} {3.25}                               &= \dfrac {7} {a} \\\\
+5 \times a                                      &= 7 \times 3.25 \\\\
+a                                               &= \dfrac {7 \times 3.25} {5} \\\\
+a                                               &= \dfrac {7 \times 325} {5 \times 100} \\\\
+a                                               &= \dfrac {7 \times 5 \times 65} {5 \times 100} \\\\
+a                                               &= \dfrac {7 \times \cancel 5 \times 65} {\cancel 5 \times 100} \\\\
+a                                               &= \dfrac {7 \times 65} {100} \\\\
+a                                               &= \dfrac {455} {100} \\\\
+a                                               &= \pounds 4.55
+\end{aligned}
+$
+<emptyline>
+Cost of seven bags of apples $= \pounds 4.55$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
 <pre class='language-latex'><code class='language-latex'>Using ratio,
 <emptyline>
 $
@@ -1355,15 +1439,17 @@ $
   & \text{apples}       &:& \pounds \\\\
 = & 5                   &:& 3.25 \\\\
 = & 1                   &:& \dfrac {3.25} {5} \\\\
-= & 7                   &:& \dfrac {3.25 \times 7} {5} \\\\
+= & 1 \times 7          &:& \dfrac {3.25 \times 7} {5} \\\\
 = & 7                   &:& \dfrac {325 \times 7} {5 \times 100} \\\\
 = & 7                   &:& \dfrac {5 \times 65 \times 7} {5 \times 100} \\\\
 = & 7                   &:& \dfrac {\cancel 5 \times 65 \times 7} {\cancel 5 \times 100} \\\\
 = & 7                   &:& \dfrac {65 \times 7} {100} \\\\
 = & 7                   &:& \dfrac {455} {100} \\\\
-= & 7                   &:& 4.55
+= & 7                   &:& \pounds 4.55
 \end{array}
 $
+<emptyline>
+Cost of seven bags of apples $= \pounds 4.55$
 </code></pre>
 </div>
 </div>
@@ -1380,6 +1466,27 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+write unit cost and equiv version of the answer 
+
+
+
+summary line etc the default stuff missing in the templates
+
+
+
+write unit cost and equiv version of the answer 
+
+
+
+summary line etc the default stuff missing in the templates
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1844,24 +1951,24 @@ Use this informaation to complete this table.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2067,24 +2174,24 @@ The pupils in a Mathematics class were asked which sport they enjoyed the most. 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2133,24 +2240,24 @@ How many more pupils answered Netball than Badminton?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2201,24 +2308,24 @@ $\text{Two}$ pupils in the class were away the day the question was asked. How m
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2266,7 +2373,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>D2B5105C-0A3B-4768-864F-67E1F909F533</p>
 </div>
@@ -2280,7 +2387,7 @@ TODOANSWER
 <p>rag_kr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2375,23 +2482,13 @@ water can the tank hold $= 24$
 
 
 
-Capitalize first word
+Last line:
 
-\"let capacity\" ==> \"Let the water tank hold together = a\"
+i) Capitalize first word, 
 
-APTQ, (missing)
-
-7/8 × a    = a/2 + 9   (start with this form)
-
-7a/8 - a/2 = 9
-
-then solve further...
+ii) \"can the tank\" ==> \"the tank can\" 
 
 
-
-
-
-*Also remove extra TODOWORKING and TODOANSWER sections.*
 </div>
 
 <div class='review'>
@@ -2479,24 +2576,24 @@ In the grid below, draw **a square** with an area of $\bold{2\;cm^2}$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2575,24 +2672,24 @@ How many games were:
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2641,24 +2738,24 @@ lost
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2709,24 +2806,24 @@ won
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2774,7 +2871,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>BBCD2C22-8E36-4026-91D7-7A505D12588B</p>
 </div>
@@ -2788,7 +2885,7 @@ TODOANSWER
 <p>rag_kr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2883,25 +2980,15 @@ distance between $2$ girls $= 30$
 
 
 
-Capitalize first word
+Last line:
 
-\"let capacity\" ==> \"Let the distance between towns = d\"
+i) Captialize the first word:
 
-APTQ, (missing)
-
-d - 10     = d/2 + 5   (start with this form)
-
-d - d/2    = 5 + 10
-
-then solve further...
+ii) \"girls\" ==> \"town\"
 
 
 
-Write units in the final answers.
-
-Put proper spacing in the katex code as per the guidelines.
-
-*Also remove extra TODOWORKING and TODOANSWER sections.*
+\"distance between 2 girls\" ==> \"Distance between two towns\"
 </div>
 
 <div class='review'>
@@ -2947,7 +3034,7 @@ Put proper spacing in the katex code as per the guidelines.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>BB2373FF-1D5B-413C-8160-D9BBA4F4E551</p>
 </div>
@@ -2958,10 +3045,10 @@ Put proper spacing in the katex code as per the guidelines.
 <p>Kamu Rohith</p>
 </div>
 <div class='rag'>
-<p>rag_kr_g0</p>
+<p>rag_kr_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2989,7 +3076,6 @@ Let the number of pages $=a$
 
 ABBR: It is really important to use the right units in calculations and convert where required.
 
-Let's convert pounds in pence.
 
 As per the question,
 
@@ -3007,7 +3093,7 @@ a                        &= 120
 \end{aligned}
 $
 
-Number of pages in the book = $120$.
+Number of pages in the book = $120$
 
 </div>
 </div>
@@ -3024,7 +3110,6 @@ $120$
 <pre class='language-latex'><code class='language-latex'>Let the number of pages $=a$
 <emptyline>
 rtq_abbr_md_unit_note
-Let's convert pounds in pence.
 <emptyline>
 As per the question,
 <emptyline>
@@ -3042,7 +3127,7 @@ a                        &= 120
 \end{aligned}
 $
 <emptyline>
-Number of pages in the book = $120$.
+Number of pages in the book = $120$
 </code></pre>
 </div>
 </div>
@@ -3059,56 +3144,39 @@ Number of pages in the book = $120$.
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-remove full stop after \"rtq.....\" in the line below
-
-rtq_abbr_md_unit_note. ==> rtq_abbr_md_unit_note
-
-
-
-Add a line in the last:
-
-Number of pages in the book = 120
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='BB2373FF-1D5B-413C-8160-D9BBA4F4E551' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='BB2373FF-1D5B-413C-8160-D9BBA4F4E551' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='BB2373FF-1D5B-413C-8160-D9BBA4F4E551' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='BB2373FF-1D5B-413C-8160-D9BBA4F4E551' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='BB2373FF-1D5B-413C-8160-D9BBA4F4E551' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='BB2373FF-1D5B-413C-8160-D9BBA4F4E551' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='BB2373FF-1D5B-413C-8160-D9BBA4F4E551' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='BB2373FF-1D5B-413C-8160-D9BBA4F4E551' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='BB2373FF-1D5B-413C-8160-D9BBA4F4E551' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='BB2373FF-1D5B-413C-8160-D9BBA4F4E551' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='BB2373FF-1D5B-413C-8160-D9BBA4F4E551' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='BB2373FF-1D5B-413C-8160-D9BBA4F4E551' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='BB2373FF-1D5B-413C-8160-D9BBA4F4E551' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='BB2373FF-1D5B-413C-8160-D9BBA4F4E551' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='BB2373FF-1D5B-413C-8160-D9BBA4F4E551' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='BB2373FF-1D5B-413C-8160-D9BBA4F4E551' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='BB2373FF-1D5B-413C-8160-D9BBA4F4E551' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='BB2373FF-1D5B-413C-8160-D9BBA4F4E551' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G0' data-uuid='BB2373FF-1D5B-413C-8160-D9BBA4F4E551' id='FORM-BB2373FF-1D5B-413C-8160-D9BBA4F4E551' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='BB2373FF-1D5B-413C-8160-D9BBA4F4E551' id='FORM-BB2373FF-1D5B-413C-8160-D9BBA4F4E551' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3390,24 +3458,24 @@ Fill in the missing numbers for this triangle:
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3481,24 +3549,24 @@ tclock
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3547,24 +3615,24 @@ Find the angle between the hands of a clock at $11 \ \text{am}$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3615,24 +3683,24 @@ How many degrees has the minute hand moved between $3.55 \ \text{pm}$ and $5.15 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3850,7 +3918,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>103E8B78-355F-4A7A-8DC9-7F421908B991</p>
 </div>
@@ -3864,7 +3932,7 @@ $
 <p>rag_kr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3945,23 +4013,11 @@ cookies he ate on first day $= 76$
 
 
 
-Capitalize first word
+Capitalize first word in last line
 
-\"let capacity\" ==> \"Let the cookies ate on first day = a\"
-
-APTQ, (missing)
-
-5a + 4 x 6 = 100   (start with this form)
-
-then solve further...
+\"cookies he ate....\" ==> \"Cookies he ate....\"
 
 
-
-Write units in the final answers.
-
-Put proper spacing in the katex code as per the guidelines.
-
-*Also remove extra TODOWORKING and TODOANSWER sections.*
 </div>
 
 <div class='review'>
@@ -4044,24 +4100,24 @@ How many different ways are there of getting from Queton to Toytown if you can o
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4146,24 +4202,24 @@ Here is a number pattern:
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4212,24 +4268,24 @@ Complete the next two rows of the table.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4280,24 +4336,24 @@ If the pattern continued, write down the correct column letter for each of these
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4346,24 +4402,24 @@ $29$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4414,24 +4470,24 @@ $54$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4482,24 +4538,24 @@ $141$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4550,7 +4606,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>BB604FF7-1023-4BFA-BB23-6D1AFB3433AC</p>
 </div>
@@ -4564,7 +4620,7 @@ TODOANSWER
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4607,50 +4663,59 @@ You must **not** use the same card more than once in each answer.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+The possible arrangement using $2,3,7,9$ which are close to $3000$ are:
 
-</div>
-<div class='working'>
+- $2973$
+- $3279$
 
-TODOWORKING
+Number close to $3000 = 2973$.
+
+The possible arrangement using $2,3,7,9$ which are close to $3000$ are:
+
+- $7239$
+
+Number close to $7000 = 7239$.
+
+The possible arrangement using $2,3,7,9$ which are close to $3800$ are:
+
+- $3792$
+- $3927$
+
+Number close to $3800 = 3792$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-The possible arrangement using $2,3,7,9$ which are close to $3000$ are:
-
-- $2973$
-- $3279$
-
-Number close to $3000 = 2973$.
-
-The possible arrangement using $2,3,7,9$ which are close to $3000$ are:
-
-- $7239$
-
-Number close to $7000 = 7239$.
-
-The possible arrangement using $2,3,7,9$ which are close to $3800$ are:
-
-- $3792$
-- $3927$
-
-Number close to $3800 = 3792$.
-
+$2973$,
+$7239$,
+$3792$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>The possible arrangement using $2,3,7,9$ which are close to $3000$ are:
+<emptyline>
+- $2973$
+- $3279$
+<emptyline>
+Number close to $3000 = 2973$.
+<emptyline>
+The possible arrangement using $2,3,7,9$ which are close to $3000$ are:
+<emptyline>
+- $7239$
+<emptyline>
+Number close to $7000 = 7239$.
+<emptyline>
+The possible arrangement using $2,3,7,9$ which are close to $3800$ are:
+<emptyline>
+- $3792$
+- $3927$
+<emptyline>
+Number close to $3800 = 3792$.
 </code></pre>
 </div>
 </div>
@@ -4662,26 +4727,9 @@ Number close to $3800 = 3792$.
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>The possible arrangement using $2,3,7,9$ which are close to $3000$ are:
-
-- $2973$
-- $3279$
-
-Number close to $3000 = 2973$.
-
-The possible arrangement using $2,3,7,9$ which are close to $3000$ are:
-
-- $7239$
-
-Number close to $7000 = 7239$.
-
-The possible arrangement using $2,3,7,9$ which are close to $3800$ are:
-
-- $3792$
-- $3927$
-
-Number close to $3800 = 3792$.
-
+<pre class='language-latex'><code class='language-latex'>$2973$,
+$7239$,
+$3792$
 </code></pre>
 </div>
 </div>
@@ -4763,24 +4811,24 @@ What shape is on card $3$?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4854,24 +4902,24 @@ A number of children are standing in a circle. They are evenly spaced and the $7
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4916,7 +4964,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>9046A85D-22E1-4908-9897-72940C50BAAE</p>
 </div>
@@ -4927,7 +4975,7 @@ TODOANSWER
 <p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g2</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5001,35 +5049,35 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='9046A85D-22E1-4908-9897-72940C50BAAE' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='9046A85D-22E1-4908-9897-72940C50BAAE' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='9046A85D-22E1-4908-9897-72940C50BAAE' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='9046A85D-22E1-4908-9897-72940C50BAAE' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='9046A85D-22E1-4908-9897-72940C50BAAE' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='9046A85D-22E1-4908-9897-72940C50BAAE' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='9046A85D-22E1-4908-9897-72940C50BAAE' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='9046A85D-22E1-4908-9897-72940C50BAAE' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='9046A85D-22E1-4908-9897-72940C50BAAE' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='9046A85D-22E1-4908-9897-72940C50BAAE' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='9046A85D-22E1-4908-9897-72940C50BAAE' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='9046A85D-22E1-4908-9897-72940C50BAAE' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='9046A85D-22E1-4908-9897-72940C50BAAE' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='9046A85D-22E1-4908-9897-72940C50BAAE' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='9046A85D-22E1-4908-9897-72940C50BAAE' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='9046A85D-22E1-4908-9897-72940C50BAAE' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='9046A85D-22E1-4908-9897-72940C50BAAE' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='9046A85D-22E1-4908-9897-72940C50BAAE' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='9046A85D-22E1-4908-9897-72940C50BAAE' id='FORM-9046A85D-22E1-4908-9897-72940C50BAAE' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='9046A85D-22E1-4908-9897-72940C50BAAE' id='FORM-9046A85D-22E1-4908-9897-72940C50BAAE' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -5074,24 +5122,24 @@ What is the smallest number of girls who are right-handed?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5174,24 +5222,24 @@ Y R G Y R ...
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5240,24 +5288,24 @@ What is the colour of the $20^{th}$ mark?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5312,24 +5360,24 @@ What is the colour of the $38^{th}$ mark?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5382,24 +5430,24 @@ If red is the $83^{rd}$ colour in the pattern, how many colours are at the start
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5481,24 +5529,24 @@ At each of the junctions, half of the marbles flow in each direction.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5547,24 +5595,24 @@ What fraction of the marbles go through E?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5615,24 +5663,24 @@ If $120$ marbles are released through the network, how many do not reach F?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5680,7 +5728,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>B5302994-EC09-45D9-8366-DECBAB0E73A2</p>
 </div>
@@ -5694,7 +5742,7 @@ TODOANSWER
 <p>rag_kr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5803,6 +5851,16 @@ Capitalize first word.
 APTQ, (missing)
 
 write equation properly.
+
+
+
+i) Change x to a in working.
+
+
+
+ii) Capitalize first word in last line:
+
+\"time taken..\" ==> \"Time taken...\"
 </div>
 
 <div class='review'>
@@ -5887,24 +5945,24 @@ The shape is not drawn accurately.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5949,7 +6007,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>500FFE5A-6753-4E58-8436-313774F3E51C</p>
 </div>
@@ -5963,7 +6021,7 @@ TODOANSWER
 <p>rag_kr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6053,6 +6111,20 @@ weight of two ducks and one duckling $= 12$ kg
 
 
 Question not solved. Solve it!!
+
+
+
+Reference:1622DD6F-538D-47B0-8E04-EE946A7719E6
+
+
+
+Not per the coding guidelines. (Capitalize first word only etc.)
+
+Right format is not followed. Check referenced question and make all the necessary changes.
+
+
+
+
 </div>
 
 <div class='review'>
@@ -6130,24 +6202,24 @@ Use each number from $1$ to $8$ once in the boxes to make all the calculations c
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6247,24 +6319,24 @@ purple .....
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6344,24 +6416,24 @@ Each of the symbols has a different value associated with it. When you add up th
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6443,24 +6515,24 @@ How many ways can $\text{two squares}$ be shaded so that the gird has symmetry a
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6509,24 +6581,24 @@ the $\text{two squares}$ must $\underline{not}$ include the diagonal line?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6577,24 +6649,24 @@ the $\text{two squares}$ must include the diagonal line?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6657,24 +6729,24 @@ On the grids below, show all the ways exactly two squares can be shaded so that 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6722,7 +6794,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>F6BFC919-78A2-4D42-9BFA-BFC357770BDE</p>
 </div>
@@ -6736,7 +6808,7 @@ TODOANSWER
 <p>rag_kr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6765,64 +6837,10 @@ $
 $
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-TODOWORKING
 
-</div>
-<div class='working'>
 
-TODOWORKING
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -6846,36 +6864,33 @@ $= 12$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$= 8 \spadesuit 6$
 
-</div>
-<div class='working'>
+$= 8 \times 2 - 6$
 
-TODOWORKING
+$= 16 - 6$
+
+$= 10$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+10
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$= 8 \spadesuit 6$
+<emptyline>
+$= 8 \times 2 - 6$
+<emptyline>
+$= 16 - 6$
+<emptyline>
+$= 10$
 </code></pre>
 </div>
 </div>
@@ -6887,17 +6902,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>10
 </code></pre>
 </div>
 </div>
@@ -6914,36 +6919,33 @@ Work out $(9 \spadesuit 4)\spadesuit 3$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$= 9 \spadesuit 4$
 
-</div>
-<div class='working'>
+$= 9 \times 2 - 4$
 
-TODOWORKING
+$= 18 - 4$
+
+$= 14$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+14
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$= 9 \spadesuit 4$
+<emptyline>
+$= 9 \times 2 - 4$
+<emptyline>
+$= 18 - 4$
+<emptyline>
+$= 14$
 </code></pre>
 </div>
 </div>
@@ -6955,17 +6957,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>14
 </code></pre>
 </div>
 </div>
@@ -6982,36 +6974,47 @@ If $(6 \spadesuit n) \spadesuit 10 = 8$, what is the number **n**?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+(6 \spadesuit n) \spadesuit 10      &= 8 \\\\
+(6 \times 2 - n) \spadesuit 10      &= 8 \\\\
+(12 - n) \spadesuit 10              &= 8 \\\\
+(12 - n) \times 2 - 10              &= 8 \\\\
+12 \times 2 - n \times 2 - 10       &= 8 \\\\
+24 - 10 - 2n                        &= 8 \\\\
+14 - 2n                             &= 8 \\\\
+14 - 8                              &= 2n \\\\
+2n                                  &= 6 \\\\
+n                                   &= 3
+\end {aligned}
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+3
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>
+$
+\begin{aligned}
+(6 \spadesuit n) \spadesuit 10      &= 8 \\\\
+(6 \times 2 - n) \spadesuit 10      &= 8 \\\\
+(12 - n) \spadesuit 10              &= 8 \\\\
+(12 - n) \times 2 - 10              &= 8 \\\\
+12 \times 2 - n \times 2 - 10       &= 8 \\\\
+24 - 10 - 2n                        &= 8 \\\\
+14 - 2n                             &= 8 \\\\
+14 - 8                              &= 2n \\\\
+2n                                  &= 6 \\\\
+n                                   &= 3
+\end {aligned}
 </code></pre>
 </div>
 </div>
@@ -7023,17 +7026,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>3
 </code></pre>
 </div>
 </div>

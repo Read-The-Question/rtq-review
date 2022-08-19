@@ -1,7 +1,7 @@
 ---
 slug: "papers/james-allens-girls-school-11-plus-maths-9999-sample-paper-1"
 title: "James Allens Girls School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-08-18 10:44:13
+date: 2022-08-19 15:32:50
 questions_count: "21"
 ---
 <div class='paper'>
@@ -429,24 +429,24 @@ $3465 \div 9$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1460,7 +1460,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>6988D985-5AC0-40DF-9615-C7003D875089</p>
 </div>
@@ -1474,7 +1474,7 @@ $
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1538,19 +1538,44 @@ How many kroner would I get for $90 \text{p}$?
 <div class='workings'>
 <div class='working'>
 
+Let the amount of kroner I get $= a$
+
+Using equivalent ratio,
+
+$
+\begin{aligned}
+1 \ \text{england} : 18 \ \text{norway}         &= 90 \ \text{england} : a \ \text{norway} \\\\
+\dfrac{\pounds 1} {18}                          &= \dfrac {90 \text{p}} {a} \\\\
+\dfrac{100 \text{p}} {18}                       &= \dfrac {90 \text{p}} {a} \\\\
+\dfrac{100} {18}                                &= \dfrac {90} {a} \\\\
+100a                                            &= 90 \times 18 \\\\
+a                                               &= \dfrac {90 \times 18} {100} \\\\
+a                                               &= \dfrac {1620} {100} \\\\
+a                                               &= 16.2 \text{kroner}
+\end{aligned}
+$
+
+Amount of kroner I get for $90 \text{p}= 16.2 \ \text{kroner}$
+
+</div>
+<div class='working'>
+
 Using ratio,
 
 $
 \begin{array}{cccccccccccccc}
+= & \text{england}                 &:& \text{norway} \\\\
 = & \pounds 1                      &:& 18 \ \text{kroner} \\\\
-= & 1 \times 100 \text{p}          &:& 18 \ \text{kroner} \\\\
-= & 100 \text{p}                   &:& 18 \ \text{kroner} \\\\
+= & 1 \times 100 \text{p}          &:& 18 \\\\
+= & 100 \text{p}                   &:& 18 \\\\
 = & 1                              &:& \dfrac {18} {100} \\\\
-= & 90                             &:& \dfrac {18 \times 90} {100} \\\\
+= & 1 \times 90                    &:& \dfrac {18 \times 90} {100} \\\\
 = & 90                             &:& \dfrac {1620} {100} \\\\
 = & 90 \text{p}                    &:& 16.2 \ \text{kroner}
 \end{array}
 $
+
+Amount of kroner I get for $90 \text{p}= 16.2 \ \text{kroner}$
 
 </div>
 </div>
@@ -1564,19 +1589,44 @@ $16.2 \ \text{kroner}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
+<pre class='language-latex'><code class='language-latex'>Let the amount of kroner I get $= a$
+<emptyline>
+Using equivalent ratio,
+<emptyline>
+$
+\begin{aligned}
+1 \ \text{england} : 18 \ \text{norway}         &= 90 \ \text{england} : a \ \text{norway} \\\\
+\dfrac{\pounds 1} {18}                          &= \dfrac {90 \text{p}} {a} \\\\
+\dfrac{100 \text{p}} {18}                       &= \dfrac {90 \text{p}} {a} \\\\
+\dfrac{100} {18}                                &= \dfrac {90} {a} \\\\
+100a                                            &= 90 \times 18 \\\\
+a                                               &= \dfrac {90 \times 18} {100} \\\\
+a                                               &= \dfrac {1620} {100} \\\\
+a                                               &= 16.2 \text{kroner}
+\end{aligned}
+$
+<emptyline>
+Amount of kroner I get for $90 \text{p}= 16.2 \ \text{kroner}$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
 <pre class='language-latex'><code class='language-latex'>Using ratio,
 <emptyline>
 $
 \begin{array}{cccccccccccccc}
+= & \text{england}                 &:& \text{norway} \\\\
 = & \pounds 1                      &:& 18 \ \text{kroner} \\\\
-= & 1 \times 100 \text{p}          &:& 18 \ \text{kroner} \\\\
-= & 100 \text{p}                   &:& 18 \ \text{kroner} \\\\
+= & 1 \times 100 \text{p}          &:& 18 \\\\
+= & 100 \text{p}                   &:& 18 \\\\
 = & 1                              &:& \dfrac {18} {100} \\\\
-= & 90                             &:& \dfrac {18 \times 90} {100} \\\\
+= & 1 \times 90                    &:& \dfrac {18 \times 90} {100} \\\\
 = & 90                             &:& \dfrac {1620} {100} \\\\
 = & 90 \text{p}                    &:& 16.2 \ \text{kroner}
 \end{array}
 $
+<emptyline>
+Amount of kroner I get for $90 \text{p}= 16.2 \ \text{kroner}$
 </code></pre>
 </div>
 </div>
@@ -1605,18 +1655,42 @@ How much are $12 \ \text{kroner}$ worth?
 <div class='workings'>
 <div class='working'>
 
+Let the amount of pounds I get $= a$
+
+Using equivalent ratio,
+
+$
+\begin{aligned}
+18 \ \text{norway} : 1 \ \text{england}         &= 12 \ \text{norway} : a \ \text{england} \\\\
+18                                              &= \dfrac {12} {a} \\\\
+18a                                             &= 12 \\\\
+a                                               &= \dfrac {12} {18} \\\\
+a                                               &= \dfrac {6 \times 2} {6 \times 3} \\\\
+a                                               &= \dfrac {\cancel 6 \times 2} {\cancel 6 \times 3} \\\\
+a                                               &= \pounds \dfrac {2} {3}
+\end{aligned}
+$
+
+Amount of pounds I get for $12 \ \text{kroner}= \pounds \dfrac {2} {3}$
+
+</div>
+<div class='working'>
+
 Using ratio,
 
 $
 \begin{array}{cccccccccccccc}
+= & \text{norway}                  &:& \text{england} \\\\
 = & 18 \ \text{kroner}             &:& \pounds 1 \\\\
 = & 1                              &:& \dfrac {1} {18} \\\\
-= & 12                             &:& \dfrac {12} {18} \\\\
+= & 1 \times 12                    &:& \dfrac {12} {18} \\\\
 = & 12                             &:& \dfrac {6 \times 2} {6 \times 3} \\\\
 = & 12                             &:& \dfrac {\cancel 6 \times 2} {\cancel 6 \times 3} \\\\
 = & 12 \ \text{kroner}             &:& \pounds \dfrac {2} {3}
 \end{array}
 $
+
+Amount of pounds I get for $12 \ \text{kroner}= \pounds \dfrac {2} {3}$
 
 </div>
 </div>
@@ -1630,18 +1704,42 @@ $\pounds \dfrac {2} {3}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
+<pre class='language-latex'><code class='language-latex'>Let the amount of pounds I get $= a$
+<emptyline>
+Using equivalent ratio,
+<emptyline>
+$
+\begin{aligned}
+18 \ \text{norway} : 1 \ \text{england}         &= 12 \ \text{norway} : a \ \text{england} \\\\
+18                                              &= \dfrac {12} {a} \\\\
+18a                                             &= 12 \\\\
+a                                               &= \dfrac {12} {18} \\\\
+a                                               &= \dfrac {6 \times 2} {6 \times 3} \\\\
+a                                               &= \dfrac {\cancel 6 \times 2} {\cancel 6 \times 3} \\\\
+a                                               &= \pounds \dfrac {2} {3}
+\end{aligned}
+$
+<emptyline>
+Amount of pounds I get for $12 \ \text{kroner}= \pounds \dfrac {2} {3}$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
 <pre class='language-latex'><code class='language-latex'>Using ratio,
 <emptyline>
 $
 \begin{array}{cccccccccccccc}
+= & \text{norway}                  &:& \text{england} \\\\
 = & 18 \ \text{kroner}             &:& \pounds 1 \\\\
 = & 1                              &:& \dfrac {1} {18} \\\\
-= & 12                             &:& \dfrac {12} {18} \\\\
+= & 1 \times 12                    &:& \dfrac {12} {18} \\\\
 = & 12                             &:& \dfrac {6 \times 2} {6 \times 3} \\\\
 = & 12                             &:& \dfrac {\cancel 6 \times 2} {\cancel 6 \times 3} \\\\
 = & 12 \ \text{kroner}             &:& \pounds \dfrac {2} {3}
 \end{array}
 $
+<emptyline>
+Amount of pounds I get for $12 \ \text{kroner}= \pounds \dfrac {2} {3}$
 </code></pre>
 </div>
 </div>
@@ -1671,15 +1769,35 @@ How much is this in kroner?
 <div class='workings'>
 <div class='working'>
 
+Let the value in kroner $= a$
+
+Using equivalent ratio,
+
+$
+\begin{aligned}
+1 \ \text{england} : 18 \ \text{norway}         &= 5.1 \ \text{england} : a \ \text{norway} \\\\
+\dfrac{1} {18}                                  &= \dfrac {5.1} {a} \\\\
+a                                               &= 5.1 \times 18 \\\\
+a                                               &= 91.8 \ \text{kroner}
+\end{aligned}
+$
+
+Value of sweets and magazine in kroner $= 91.8 \ \text{kroner}$
+
+</div>
+<div class='working'>
+
 Using ratio,
 
 $
 \begin{array}{cccccccccccccc}
 = & \pounds 1                      &:& 18 \ \text{kroner} \\\\
-= & 5.10                           &:& 18 \times 5.10 \\\\
+= & 1 \times 5.10                  &:& 18 \times 5.10 \\\\
 = & \pounds 5.10                   &:& 91.8 \ \text{kroner}
 \end{array}
 $
+
+Value of sweets and magazine in kroner $= 91.8 \ \text{kroner}$
 
 </div>
 </div>
@@ -1693,15 +1811,35 @@ $91.8 \ \text{kroner}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
+<pre class='language-latex'><code class='language-latex'>Let the value in kroner $= a$
+<emptyline>
+Using equivalent ratio,
+<emptyline>
+$
+\begin{aligned}
+1 \ \text{england} : 18 \ \text{norway}         &= 5.1 \ \text{england} : a \ \text{norway} \\\\
+\dfrac{1} {18}                                  &= \dfrac {5.1} {a} \\\\
+a                                               &= 5.1 \times 18 \\\\
+a                                               &= 91.8 \ \text{kroner}
+\end{aligned}
+$
+<emptyline>
+Value of sweets and magazine in kroner $= 91.8 \ \text{kroner}$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
 <pre class='language-latex'><code class='language-latex'>Using ratio,
 <emptyline>
 $
 \begin{array}{cccccccccccccc}
 = & \pounds 1                      &:& 18 \ \text{kroner} \\\\
-= & 5.10                           &:& 18 \times 5.10 \\\\
+= & 1 \times 5.10                  &:& 18 \times 5.10 \\\\
 = & \pounds 5.10                   &:& 91.8 \ \text{kroner}
 \end{array}
 $
+<emptyline>
+Value of sweets and magazine in kroner $= 91.8 \ \text{kroner}$
 </code></pre>
 </div>
 </div>
@@ -2138,7 +2276,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -2162,7 +2300,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -2223,24 +2361,24 @@ Draw all the lines of symmetry of the rectangle on your diagram.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2285,7 +2423,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>4D5D957A-A381-40A9-9AA0-E9D9A801A667</p>
 </div>
@@ -2299,7 +2437,7 @@ TODOANSWER
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2376,6 +2514,31 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+i) Put everything inside one \begin-end.
+
+
+
+ii) replace . with :
+
+
+
+
+
+iii) Remove unit (min) from below line:
+
+\text{Time spent on doing homework}           &= (100 - 25 - 20) \ \text{min} \\\\
+
+
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2612,24 +2775,24 @@ tstatistics
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2678,24 +2841,24 @@ What was the rainfall on Tuesday?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2746,24 +2909,24 @@ How much more rain was there on Monday than Sunday?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2814,24 +2977,24 @@ Find the total rainfall for the week?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2882,24 +3045,24 @@ What is the average daily rainfall?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3005,7 +3168,7 @@ Each girl gets $= 2 \times 5 = 10 \ \text{pence}$
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3141,24 +3304,24 @@ The pie chart represents the favourite takeaway foods of $180$ students.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3601,7 +3764,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>7C167B1E-F0A6-4DB8-B5D4-B84BFD3E2EC4</p>
 </div>
@@ -3612,7 +3775,7 @@ $
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_pr</p>
+<p>rag_mr_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3688,35 +3851,35 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='7C167B1E-F0A6-4DB8-B5D4-B84BFD3E2EC4' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='7C167B1E-F0A6-4DB8-B5D4-B84BFD3E2EC4' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='7C167B1E-F0A6-4DB8-B5D4-B84BFD3E2EC4' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='7C167B1E-F0A6-4DB8-B5D4-B84BFD3E2EC4' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='7C167B1E-F0A6-4DB8-B5D4-B84BFD3E2EC4' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='7C167B1E-F0A6-4DB8-B5D4-B84BFD3E2EC4' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='7C167B1E-F0A6-4DB8-B5D4-B84BFD3E2EC4' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='7C167B1E-F0A6-4DB8-B5D4-B84BFD3E2EC4' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='7C167B1E-F0A6-4DB8-B5D4-B84BFD3E2EC4' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='7C167B1E-F0A6-4DB8-B5D4-B84BFD3E2EC4' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='7C167B1E-F0A6-4DB8-B5D4-B84BFD3E2EC4' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='7C167B1E-F0A6-4DB8-B5D4-B84BFD3E2EC4' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='7C167B1E-F0A6-4DB8-B5D4-B84BFD3E2EC4' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='7C167B1E-F0A6-4DB8-B5D4-B84BFD3E2EC4' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='7C167B1E-F0A6-4DB8-B5D4-B84BFD3E2EC4' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='7C167B1E-F0A6-4DB8-B5D4-B84BFD3E2EC4' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='7C167B1E-F0A6-4DB8-B5D4-B84BFD3E2EC4' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='7C167B1E-F0A6-4DB8-B5D4-B84BFD3E2EC4' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='7C167B1E-F0A6-4DB8-B5D4-B84BFD3E2EC4' id='FORM-7C167B1E-F0A6-4DB8-B5D4-B84BFD3E2EC4' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='7C167B1E-F0A6-4DB8-B5D4-B84BFD3E2EC4' id='FORM-7C167B1E-F0A6-4DB8-B5D4-B84BFD3E2EC4' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3903,24 +4066,24 @@ How many times do they pass each other in the first minute?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

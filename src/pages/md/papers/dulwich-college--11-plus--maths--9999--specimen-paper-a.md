@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-a"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper A"
-date: 2022-08-18 10:44:13
+date: 2022-08-19 15:32:50
 questions_count: "23"
 ---
 <div class='paper'>
@@ -950,7 +950,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>0287200B-A30D-4F47-9CA8-52ED14101AEE</p>
 </div>
@@ -961,7 +961,7 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g2</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1110,35 +1110,35 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' id='FORM-0287200B-A30D-4F47-9CA8-52ED14101AEE' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' id='FORM-0287200B-A30D-4F47-9CA8-52ED14101AEE' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1182,24 +1182,24 @@ Draw the reflection of this triangle in the mirror line shown.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2355,24 +2355,24 @@ On the axes below, point $A$ has coordinates $(3,1)$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2421,24 +2421,24 @@ Write down the coordinates of point $C$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2489,24 +2489,24 @@ Plot the points with coordinates $(5,4)$ onto the axes and label it $B$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2557,24 +2557,24 @@ Plot another point $D$, and then join $ABCD$ **in that order** so that you can f
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2625,24 +2625,24 @@ Write down the common name for the quadrilateral $ABCD$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2956,24 +2956,24 @@ Rhys is travelling at $10 \ \text{mph}$ and Sarah is travelling at $20 \ \text{m
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3022,24 +3022,24 @@ Work out at what distance each rider has cycled by the time they meet.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3090,24 +3090,24 @@ Write down the time taken for them to meet.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3575,7 +3575,7 @@ Red = last part /rest reviwed
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>CE2F50A4-A29C-4267-8728-7D80877E6590</p>
 </div>
@@ -3589,7 +3589,7 @@ Red = last part /rest reviwed
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3616,21 +3616,7 @@ Note that repeated letters are allowed.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-The possible arrangements are:
-
-Number plate when $A$ at first place:
+If we use $A$ in the first place, the possible arrangements are:
 
 $
 \begin{matrix}
@@ -3640,7 +3626,9 @@ AD1  &  AD2  &  AD3  &  AD4 \\
 \end{matrix}
 $
 
-Number plate when $B$ at first place:
+Count $= 12$
+
+If we use $B$ in the first place, the possible arrangements are:
 
 $
 \begin{matrix}
@@ -3650,7 +3638,9 @@ BD1  &  BD2  &  BD3  &  BD4 \\
 \end{matrix}
 $
 
-Number plate when $C$ at first place:
+Count $= 12$
+
+If we use $C$ in the first place, the possible arrangements are:
 
 $
 \begin{matrix}
@@ -3660,7 +3650,9 @@ CD1  &  CD2  &  CD3  &  CD4 \\
 \end{matrix}
 $
 
-Number plate when $D$ at first place:
+Count $= 12$
+
+If we use $D$ in the first place, the possible arrangements are:
 
 $
 \begin{matrix}
@@ -3670,32 +3662,97 @@ DC1  &  DC2  &  DC3  &  DC4 \\
 \end{matrix}
 $
 
+Count $= 12$
+
 Total count = $4 \times 12 = 48$
 
 </div>
-<div class='answer'>
+<div class='working'>
 
 Using permutation,
 
-Number of letters that can be use in first place $= 4$
+Number of letters that can be use in the first place $= 4$
 
-Number of letters that can be use in second place $= 3$
+Number of letters that can be use in the second place $= 3$
 
-Number of digit that can be use in third place $= 4$
+Number of digit that can be use in the third place $= 4$
 
 Total arrangements $= 4 \times 3 \times 4 =48$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>If we use $A$ in the first place, the possible arrangements are:
+<emptyline>
+$
+\begin{matrix}
+AB1  &  AB2  &  AB3  &  AB4 \\
+AC1  &  AC2  &  AC3  &  AC4 \\
+AD1  &  AD2  &  AD3  &  AD4 \\
+\end{matrix}
+$
+<emptyline>
+Count $= 12$
+<emptyline>
+If we use $B$ in the first place, the possible arrangements are:
+<emptyline>
+$
+\begin{matrix}
+BA1  &  BA2  &  BA3  &  BA4 \\
+BC1  &  BC2  &  BC3  &  BC4 \\
+BD1  &  BD2  &  BD3  &  BD4 \\
+\end{matrix}
+$
+<emptyline>
+Count $= 12$
+<emptyline>
+If we use $C$ in the first place, the possible arrangements are:
+<emptyline>
+$
+\begin{matrix}
+CA1  &  CA2  &  CA3  &  CA4 \\
+CB1  &  CB2  &  CB3  &  CB4 \\
+CD1  &  CD2  &  CD3  &  CD4 \\
+\end{matrix}
+$
+<emptyline>
+Count $= 12$
+<emptyline>
+If we use $D$ in the first place, the possible arrangements are:
+<emptyline>
+$
+\begin{matrix}
+DA1  &  DA2  &  DA3  &  DA4 \\
+DB1  &  DB2  &  DB3  &  DB4 \\
+DC1  &  DC2  &  DC3  &  DC4 \\
+\end{matrix}
+$
+<emptyline>
+Count $= 12$
+<emptyline>
+Total count = $4 \times 12 = 48$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Using permutation,
+<emptyline>
+Number of letters that can be use in the first place $= 4$
+<emptyline>
+Number of letters that can be use in the second place $= 3$
+<emptyline>
+Number of digit that can be use in the third place $= 4$
+<emptyline>
+Total arrangements $= 4 \times 3 \times 4 =48$
 </code></pre>
 </div>
 </div>
@@ -3707,67 +3764,7 @@ Total arrangements $= 4 \times 3 \times 4 =48$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>The possible arrangements are:
-
-Number plate when $A$ at first place:
-
-$
-\begin{matrix}
-AB1  &  AB2  &  AB3  &  AB4 \\
-AC1  &  AC2  &  AC3  &  AC4 \\
-AD1  &  AD2  &  AD3  &  AD4 \\
-\end{matrix}
-$
-
-Number plate when $B$ at first place:
-
-$
-\begin{matrix}
-BA1  &  BA2  &  BA3  &  BA4 \\
-BC1  &  BC2  &  BC3  &  BC4 \\
-BD1  &  BD2  &  BD3  &  BD4 \\
-\end{matrix}
-$
-
-Number plate when $C$ at first place:
-
-$
-\begin{matrix}
-CA1  &  CA2  &  CA3  &  CA4 \\
-CB1  &  CB2  &  CB3  &  CB4 \\
-CD1  &  CD2  &  CD3  &  CD4 \\
-\end{matrix}
-$
-
-Number plate when $D$ at first place:
-
-$
-\begin{matrix}
-DA1  &  DA2  &  DA3  &  DA4 \\
-DB1  &  DB2  &  DB3  &  DB4 \\
-DC1  &  DC2  &  DC3  &  DC4 \\
-\end{matrix}
-$
-
-Total count = $4 \times 12 = 48$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Using permutation,
-
-Number of letters that can be use in first place $= 4$
-
-Number of letters that can be use in second place $= 3$
-
-Number of digit that can be use in third place $= 4$
-
-Total arrangements $= 4 \times 3 \times 4 =48$
+<pre class='language-latex'><code class='language-latex'>$48$
 </code></pre>
 </div>
 </div>
@@ -3782,33 +3779,17 @@ Calculate how many plates start with a double B.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+If we use double $B$ in the first and second place, the possible arrangements are:
+
+- $BB1$
+- $BB2$
+- $BB3$
+- $BB4$
+
+Total count $=4$
 
 </div>
 <div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-The Possible arrangements:
-
-$
-\begin{array}{cccccccccccccc}
-BB1 \\
-BB2 \\
-BB3 \\
-BB4 \\
-\end{array}
-$
-
-Total count $=4$  
-
-</div>
-<div class='answer'>
 
 Using permutation,
 
@@ -3822,15 +3803,37 @@ Total Number of arrangements $= 1 \times 1 \times 4 = 4$
 
 </div>
 </div>
+<div class='answers'>
+<div class='answer'>
+
+$4$  
+
+</div>
+</div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>If we use double $B$ in the first and second place, the possible arrangements are:
+<emptyline>
+- $BB1$
+- $BB2$
+- $BB3$
+- $BB4$
+<emptyline>
+Total count $=4$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Using permutation,
+<emptyline>
+Number of letters can be in first place $= 1$
+<emptyline>
+Number of letters can be in second place $= 1$
+<emptyline>
+Number of digit can be in third place $= 4$
+<emptyline>
+Total Number of arrangements $= 1 \times 1 \times 4 = 4$
 </code></pre>
 </div>
 </div>
@@ -3842,36 +3845,7 @@ Total Number of arrangements $= 1 \times 1 \times 4 = 4$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>The Possible arrangements:
-
-$
-\begin{array}{cccccccccccccc}
-BB1 \\
-BB2 \\
-BB3 \\
-BB4 \\
-\end{array}
-$
-
-Total count $=4$  
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Using permutation,
-
-Number of letters can be in first place $= 1$
-
-Number of letters can be in second place $= 1$
-
-Number of digit can be in third place $= 4$
-
-Total Number of arrangements $= 1 \times 1 \times 4 = 4$
+<pre class='language-latex'><code class='language-latex'>$4$  
 </code></pre>
 </div>
 </div>
@@ -3888,42 +3862,93 @@ Calculate how many plates there are that start with any repeated letter.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+If we use double $A$ in the first and second place,the possible arrangements are:
 
-</div>
-<div class='working'>
+- $AA1$
+- $AA2$
+- $AA3$
+- $AA4$
 
-TODOWORKING
+Count $= 4$
+
+If we use double $B$ in the first and second place,the possible arrangements are:
+
+- $BB1$
+- $BB2$
+- $BB3$
+- $BB4$
+
+Count $= 4$
+
+If we use double $C$ in the first and second place,the possible arrangements are:
+
+- $CC1$
+- $CC2$
+- $CC3$
+- $CC4$
+
+Count $= 4$
+
+If we use double $D$ in the first and second place,the possible arrangements are:
+
+- $DD1$
+- $DD2$
+- $DD3$
+- $DD4$
+
+Count $= 4$
+
+Total count $= 4 + 4 + 4 + 4 = 16$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-The Possible arrangements:
-
-$
-\begin{array}{cccccccccccccc}
-AA1 & AA2 & AA3 & AA4 \\
-BB1 & BB2 & BB3 & BB4 \\
-CC1 & CC2 & CC3 & CC4 \\
-DD1 & DD2 & DD3 & DD4 \\
-\end{array}
-$
-
-Total count $= 16$
+$16$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>If we use double $A$ in the first and second place,the possible arrangements are:
+<emptyline>
+- $AA1$
+- $AA2$
+- $AA3$
+- $AA4$
+<emptyline>
+Count $= 4$
+<emptyline>
+If we use double $B$ in the first and second place,the possible arrangements are:
+<emptyline>
+- $BB1$
+- $BB2$
+- $BB3$
+- $BB4$
+<emptyline>
+Count $= 4$
+<emptyline>
+If we use double $C$ in the first and second place,the possible arrangements are:
+<emptyline>
+- $CC1$
+- $CC2$
+- $CC3$
+- $CC4$
+<emptyline>
+Count $= 4$
+<emptyline>
+If we use double $D$ in the first and second place,the possible arrangements are:
+<emptyline>
+- $DD1$
+- $DD2$
+- $DD3$
+- $DD4$
+<emptyline>
+Count $= 4$
+<emptyline>
+Total count $= 4 + 4 + 4 + 4 = 16$
 </code></pre>
 </div>
 </div>
@@ -3935,18 +3960,7 @@ Total count $= 16$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>The Possible arrangements:
-
-$
-\begin{array}{cccccccccccccc}
-AA1 & AA2 & AA3 & AA4 \\
-BB1 & BB2 & BB3 & BB4 \\
-CC1 & CC2 & CC3 & CC4 \\
-DD1 & DD2 & DD3 & DD4 \\
-\end{array}
-$
-
-Total count $= 16$
+<pre class='language-latex'><code class='language-latex'>$16$
 </code></pre>
 </div>
 </div>
@@ -3963,35 +3977,32 @@ Calculate how many plates contain just one vowel and an odd number.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+If we use $A$ in the first place, the possible arrangements are:
+
+- $AB1$
+- $AB3$
+- $AC1$
+- $AC3$
+- $AD1$
+- $AD3$
+
+count $= 6$
+
+If we use $A$ in the second place, the possible arrangements are:
+
+- $BA1$
+- $BA3$
+- $CA1$
+- $CA3$
+- $DA1$
+- $DA3$
+
+Count $= 6$
+
+Total count $= 6 + 6 = 12$
 
 </div>
 <div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-The Possible arrangements:
-
-$
-\begin{array}{cccccccccccccc}
-AB1  &  AB3 \\
-AC1  &  AC3 \\
-AD1  &  AD3 \\
-BA1  &  BA3 \\
-CA1  &  CA3 \\
-DA1  &  DA3 \\
-\end{array}
-$
-
-Total count $= 12$  
-
-</div>
-<div class='answer'>
 
 Using permutation,
 
@@ -4005,15 +4016,52 @@ Total Number of arrangements $= 1 \times 3 \times 4 = 12$
 
 </div>
 </div>
+<div class='answers'>
+<div class='answer'>
+
+$12$  
+
+</div>
+</div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>If we use $A$ in the first place, the possible arrangements are:
+<emptyline>
+- $AB1$
+- $AB3$
+- $AC1$
+- $AC3$
+- $AD1$
+- $AD3$
+<emptyline>
+count $= 6$
+<emptyline>
+If we use $A$ in the second place, the possible arrangements are:
+<emptyline>
+- $BA1$
+- $BA3$
+- $CA1$
+- $CA3$
+- $DA1$
+- $DA3$
+<emptyline>
+Count $= 6$
+<emptyline>
+Total count $= 6 + 6 = 12$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Using permutation,
+<emptyline>
+Number of letters can be in first place $= 1$
+<emptyline>
+Number of letters can be in second place $= 3$
+<emptyline>
+Number of digit can be in third place $= 4$
+<emptyline>
+Total Number of arrangements $= 1 \times 3 \times 4 = 12$
 </code></pre>
 </div>
 </div>
@@ -4025,38 +4073,7 @@ Total Number of arrangements $= 1 \times 3 \times 4 = 12$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>The Possible arrangements:
-
-$
-\begin{array}{cccccccccccccc}
-AB1  &  AB3 \\
-AC1  &  AC3 \\
-AD1  &  AD3 \\
-BA1  &  BA3 \\
-CA1  &  CA3 \\
-DA1  &  DA3 \\
-\end{array}
-$
-
-Total count $= 12$  
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Using permutation,
-
-Number of letters can be in first place $= 1$
-
-Number of letters can be in second place $= 3$
-
-Number of digit can be in third place $= 4$
-
-Total Number of arrangements $= 1 \times 3 \times 4 = 12$
+<pre class='language-latex'><code class='language-latex'>$12$  
 </code></pre>
 </div>
 </div>
@@ -4074,10 +4091,44 @@ alphabetical order, giving your answer in its lowest form.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+
+When we use $A$ in the first place, the possible arrangements are:(when repeatation is not allowed)
+
+$
+\begin{matrix}
+AB1  &  AB2  &  AB3  &  AB4 \\
+AC1  &  AC2  &  AC3  &  AC4 \\
+AD1  &  AD2  &  AD3  &  AD4 \\
+\end{matrix}
+$
+
+Count $=12$
+
+When we use $B$ in the first place, the possible arrangements are:(when repeatation is not allowed)
+
+$
+\begin{matrix}
+BC1  &  BC2  &  BC3  &  BC4 \\
+BD1  &  BD2  &  BD3  &  BD4 \\
+\end{matrix}
+$
+
+Count $=8$
+
+When we use $C$ in the first place, the possible arrangements are:(when repeatation is not allowed)
+
+$
+\begin{matrix}
+CD1  &  CD2  &  CD3  &  CD4 \\
+\end{matrix}
+$
+
+Count $=4$
+
+Total number plates $= 12 + 8 + 4 = 24$ 
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
@@ -4086,10 +4137,16 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-The possible arrangements (when repeatation is not allowed) are:
+$24$ 
 
-Number plate when $A$ at first place:
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
 
+<pre class='language-latex'><code class='language-latex'>
+When we use $A$ in the first place, the possible arrangements are:(when repeatation is not allowed)
+<emptyline>
 $
 \begin{matrix}
 AB1  &  AB2  &  AB3  &  AB4 \\
@@ -4097,32 +4154,31 @@ AC1  &  AC2  &  AC3  &  AC4 \\
 AD1  &  AD2  &  AD3  &  AD4 \\
 \end{matrix}
 $
-
-Number plate when $B$ at first place:
-
+<emptyline>
+Count $=12$
+<emptyline>
+When we use $B$ in the first place, the possible arrangements are:(when repeatation is not allowed)
+<emptyline>
 $
 \begin{matrix}
 BC1  &  BC2  &  BC3  &  BC4 \\
 BD1  &  BD2  &  BD3  &  BD4 \\
 \end{matrix}
 $
-
-Number plate when $C$ at first place:
-
+<emptyline>
+Count $=8$
+<emptyline>
+When we use $C$ in the first place, the possible arrangements are:(when repeatation is not allowed)
+<emptyline>
 $
 \begin{matrix}
 CD1  &  CD2  &  CD3  &  CD4 \\
 \end{matrix}
 $
-
+<emptyline>
+Count $=4$
+<emptyline>
 Total number plates $= 12 + 8 + 4 = 24$ 
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -4139,36 +4195,7 @@ Total number plates $= 12 + 8 + 4 = 24$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>The possible arrangements (when repeatation is not allowed) are:
-
-Number plate when $A$ at first place:
-
-$
-\begin{matrix}
-AB1  &  AB2  &  AB3  &  AB4 \\
-AC1  &  AC2  &  AC3  &  AC4 \\
-AD1  &  AD2  &  AD3  &  AD4 \\
-\end{matrix}
-$
-
-Number plate when $B$ at first place:
-
-$
-\begin{matrix}
-BC1  &  BC2  &  BC3  &  BC4 \\
-BD1  &  BD2  &  BD3  &  BD4 \\
-\end{matrix}
-$
-
-Number plate when $C$ at first place:
-
-$
-\begin{matrix}
-CD1  &  CD2  &  CD3  &  CD4 \\
-\end{matrix}
-$
-
-Total number plates $= 12 + 8 + 4 = 24$ 
+<pre class='language-latex'><code class='language-latex'>$24$ 
 </code></pre>
 </div>
 </div>
@@ -4258,24 +4285,24 @@ For example, the display below represents the time $05{:}26$ since:
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4558,7 +4585,7 @@ Watch B = 20:22
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>E18277A3-C24E-4640-A52A-F5EFC951E982</p>
 </div>
@@ -4569,7 +4596,7 @@ Watch B = 20:22
 <p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g2</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4653,35 +4680,35 @@ Sam's current age $=12 \ \text{years}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='E18277A3-C24E-4640-A52A-F5EFC951E982' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='E18277A3-C24E-4640-A52A-F5EFC951E982' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='E18277A3-C24E-4640-A52A-F5EFC951E982' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='E18277A3-C24E-4640-A52A-F5EFC951E982' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='E18277A3-C24E-4640-A52A-F5EFC951E982' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='E18277A3-C24E-4640-A52A-F5EFC951E982' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='E18277A3-C24E-4640-A52A-F5EFC951E982' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='E18277A3-C24E-4640-A52A-F5EFC951E982' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='E18277A3-C24E-4640-A52A-F5EFC951E982' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='E18277A3-C24E-4640-A52A-F5EFC951E982' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='E18277A3-C24E-4640-A52A-F5EFC951E982' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='E18277A3-C24E-4640-A52A-F5EFC951E982' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='E18277A3-C24E-4640-A52A-F5EFC951E982' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='E18277A3-C24E-4640-A52A-F5EFC951E982' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='E18277A3-C24E-4640-A52A-F5EFC951E982' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='E18277A3-C24E-4640-A52A-F5EFC951E982' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='E18277A3-C24E-4640-A52A-F5EFC951E982' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='E18277A3-C24E-4640-A52A-F5EFC951E982' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='E18277A3-C24E-4640-A52A-F5EFC951E982' id='FORM-E18277A3-C24E-4640-A52A-F5EFC951E982' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='E18277A3-C24E-4640-A52A-F5EFC951E982' id='FORM-E18277A3-C24E-4640-A52A-F5EFC951E982' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -4729,24 +4756,24 @@ for every one white flower grown there will be two pink and three blue flowers.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4795,24 +4822,24 @@ I plant some seeds and get three white flowers. Write down how many blue flowers
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4863,24 +4890,24 @@ I plant a total of $30$ seeds in another patch of the garden. Calculate how many
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4931,24 +4958,24 @@ In another area of the garden, $24$ blue flowers are grown. Calculate how many p
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5009,24 +5036,24 @@ Complete the table and bar chart for the students' findings.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5083,24 +5110,24 @@ starting with the least likely:
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5180,24 +5207,24 @@ tdraw
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5250,24 +5277,24 @@ on the diagram.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5321,24 +5348,24 @@ Now shade two sections in the second line grid so that the overall shape has an 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5386,7 +5413,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prccrl question'>
 <div class='uuid'>
 <p>54F14BD1-9891-460E-AADD-7CA13489DC77</p>
 </div>
@@ -5400,7 +5427,7 @@ TODOANSWER
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prccrl</p>
 </div>
 <div class='topics'>
 <ul>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-4"
 title: "TopicPaper - Time - 4"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "40"
 ---
 <div class='paper'>
@@ -983,24 +983,24 @@ It gains $4 \ \text{minutes}$ every $3 \ \text{hours}$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1761,24 +1761,24 @@ ttime
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4708,24 +4708,24 @@ The time in San Francisco (America) is $8 \ \text{hours}$ **behind** the time in
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4781,7 +4781,7 @@ $ 12{:}15 \ \text{pm on 10th January}$
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5170,24 +5170,24 @@ The first steamer, train and cable car of the day are all at $07{:}00$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5326,7 +5326,7 @@ $
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5612,24 +5612,24 @@ Alice looks at this clock in a mirror. Draw the hands on the clock face below to
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5904,12 +5904,29 @@ ttable
 
 Here is a portion of the Monday to Friday bus timetable for the $724$ bus between St. Albans and Heathrow.
 
-![missing table](/papers/missing_table.svg)
+|                                  |    Hsch   |   HNsch   |    Hsch   |   HNsch   |    Hsch   |   HNsch   |    Hsch   |
+|:--------------------------------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
+|    St. Albans, Railway Station   | $05 \ 55$ | $06 \ 03$ | $06 \ 41$ | $07 \ 15$ | $07 \ 45$ | $08 \ 08$ | $09 \ 09$ |
+|   St. Albans, St Peter’s Street  | $06 \ 00$ | $06 \ 08$ | $06 \ 46$ | $07 \ 21$ | $07 \ 51$ | $08 \ 14$ | $09 \ 15$ |
+|        Garston Bus Garage        | $06 \ 25$ | $06 \ 33$ | $07 \ 16$ | $07 \ 48$ | $08 \ 31$ | $08 \ 45$ | $09 \ 44$ |
+| Watford Junction Railway Station | $06 \ 37$ | $06 \ 45$ | $07 \ 33$ | $08 \ 03$ | $08 \ 53$ | $09 \ 01$ | $10 \ 02$ |
+|        Watford, Town Hall        | $06 \ 40$ | $06 \ 48$ | $07 \ 37$ | $08 \ 07$ | $08 \ 57$ | $09 \ 05$ | $10 \ 06$ |
+|   Rickmansworth Railway Station  | $06 \ 50$ | $06 \ 58$ | $07 \ 54$ | $08 \ 17$ | $09 \ 09$ | $09 \ 15$ | $10 \ 16$ |
+|      Denham, Station Parade      | $07 \ 09$ | $07 \ 13$ | $08 \ 20$ | $08 \ 32$ | $09 \ 25$ | $09 \ 30$ | $10 \ 31$ |
+|      Uxbridge, Belmont Road      | $07 \ 17$ | $07 \ 21$ | $08 \ 33$ | $08 \ 40$ | $09 \ 36$ | $09 \ 38$ | $10 \ 39$ |
+|         Heathrow Airport         | $07 \ 37$ | $07 \ 37$ | $08 \ 57$ | $08 \ 57$ | $09 \ 54$ | $09 \ 54$ | $10 \ 55$ |
 
-
-![missing table](/papers/missing_table.svg)
-
-
+|                                  |    Hsch   |   HNsch   |    Hsch   |   HNsch   |    Hsch   |   HNsch   |    Hsch   |
+|:--------------------------------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
+|         Heathrow Airport         | $06 \ 10$ | $06 \ 15$ | $07 \ 00$ | $07 \ 10$ | $07 \ 55$ | $08 \ 10$ | $09 \ 15$ |
+|      Uxbridge, Belmont Road      | $06 \ 26$ | $06 \ 31$ | $07 \ 17$ | $07 \ 27$ | $08 \ 17$ | $08 \ 27$ | $09 \ 32$ |
+|      Denham, Station Parade      | $06 \ 34$ | $06 \ 39$ | $07 \ 26$ | $07 \ 36$ | $08 \ 28$ | $08 \ 38$ | $09 \ 41$ |
+|   Rickmansworth Railway Station  | $06 \ 50$ | $06 \ 55$ | $07 \ 43$ | $07 \ 53$ | $08 \ 50$ | $09 \ 50$ | $09 \ 57$ |
+|        Watford, Town Hall        | $07 \ 04$ | $07 \ 09$ | $08 \ 04$ | $08 \ 14$ | $09 \ 11$ | $09 \ 11$ | $10 \ 11$ |
+| Watford Junction Railway Station | $07 \ 07$ | $07 \ 12$ | $08 \ 07$ | $08 \ 17$ | $09 \ 14$ | $09 \ 14$ | $10 \ 14$ |
+|        Garston Bus Garage        | $07 \ 22$ | $07 \ 27$ | $08 \ 23$ | $08 \ 33$ | $09 \ 29$ | $09 \ 29$ | $10 \ 29$ |
+|   St. Albans, St Peter’s Street  | $07 \ 45$ | $07 \ 50$ | $08 \ 50$ | $09 \ 00$ | $09 \ 52$ | $09 \ 52$ | $10 \ 52$ |
+|    St. Albans, Railway Station   | $07 \ 56$ | $08 \ 01$ | $09 \ 01$ | $09 \ 11$ | $10 \ 03$ | $10 \ 03$ | $11 \ 03$ |
 
 
 </div>
@@ -7069,14 +7086,14 @@ For example when it is $15{:}00$ in London it is $17{:}00$ in Athens.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

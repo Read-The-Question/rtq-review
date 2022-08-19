@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tpermutation-1-g2"
 title: "TopicPaper - Permutation - 1 - G2"
-date: 2022-08-18 11:06:01
+date: 2022-08-19 16:00:22
 questions_count: "15"
 ---
 <ul class='question default-decimal'>

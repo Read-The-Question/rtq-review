@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-11-g1"
 title: "TopicPaper - Algebra - 11 - G1"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "16"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g1 rag_prpcr question'>
+<div class='question_envelope rag_g1 rag_prcr question'>
 <div class='uuid'>
 <p>33BA3A42-D90E-400D-A934-CADF6E6B81F9</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "16"
 <p>rag_kr_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -295,7 +295,7 @@ The number $= 8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g1 rag_prpcr question'>
+<div class='question_envelope rag_g1 rag_prcr question'>
 <div class='uuid'>
 <p>0614640E-B41A-4826-860D-7235E6EC27FC</p>
 </div>
@@ -309,7 +309,7 @@ The number $= 8$
 <p>rag_kr_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

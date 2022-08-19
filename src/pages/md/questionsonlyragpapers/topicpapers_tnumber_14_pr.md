@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tnumber-14-pr"
 title: "TopicPaper - Number - 14 - PR"
-date: 2022-08-18 11:06:01
+date: 2022-08-19 16:00:22
 questions_count: "40"
 ---
 <ul class='question default-decimal'>
@@ -189,7 +189,7 @@ One kilometre is five eighths of a mile. How many miles do I live from St Anselm
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>D1EFB235-0632-4659-A133-C69D93EDD053</p>
 </div>
@@ -203,7 +203,7 @@ One kilometre is five eighths of a mile. How many miles do I live from St Anselm
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -303,7 +303,7 @@ $\Huge \boxed {17}$  add...... $\Huge \boxed {32}$  Subtract 39 $\Huge \boxed {.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>6D141501-2A64-4588-AEC5-440D97E09546</p>
 </div>
@@ -317,7 +317,7 @@ $\Huge \boxed {17}$  add...... $\Huge \boxed {32}$  Subtract 39 $\Huge \boxed {.
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -423,7 +423,7 @@ $45.1925487$ (nearest tenth)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>432CB436-BF77-496F-A6D6-C553A73CC616</p>
 </div>
@@ -437,7 +437,7 @@ $45.1925487$ (nearest tenth)
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -449,18 +449,18 @@ tnumber
 <div class='question question'>
 
 Which of the following distances is the most likely height of a man? Circle your answer.  
-a) $120\,cm$
-b) $150\,mm$ 
-c) $1.8\,m$ 
-d) $112$ inches 
+- $120 \ \text{cm}$
+- $150 \ \text{mm}$ 
+- $1.8 \ \text{m}$ 
+- $112 \ \text{inches}$ 
 
 </div>
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>Which of the following distances is the most likely height of a man? Circle your answer.  
-a) $120\,cm$
-b) $150\,mm$ 
-c) $1.8\,m$ 
-d) $112$ inches 
+- $120 \ \text{cm}$
+- $150 \ \text{mm}$ 
+- $1.8 \ \text{m}$ 
+- $112 \ \text{inches}$ 
 </code></pre>
 </div>
 
@@ -508,7 +508,7 @@ d) $112$ inches
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>7EDC8D07-F0B7-488E-966B-4C742A083200</p>
 </div>
@@ -522,7 +522,7 @@ d) $112$ inches
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -534,12 +534,26 @@ tnumber
 <div class='question question'>
 
 Look at the list of numbers below. 
-$6 \,\,\,\, 12 \,\,\,\, 15 \,\,\,\, 49 \,\,\,\, 52 \,\,\,\, 53 \,\,\,\, 169$  
+
+- $6$
+- $12$
+- $15$
+- $49$
+- $52$
+- $53$
+- $169$
 
 </div>
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>Look at the list of numbers below. 
-$6 \,\,\,\, 12 \,\,\,\, 15 \,\,\,\, 49 \,\,\,\, 52 \,\,\,\, 53 \,\,\,\, 169$  
+<emptyline>
+- $6$
+- $12$
+- $15$
+- $49$
+- $52$
+- $53$
+- $169$
 </code></pre>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -669,11 +683,11 @@ tnumber
 </div>
 <div class='question question'>
 
-Write the following numbers in words
+Write the following numbers in words.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Write the following numbers in words
+<pre class='language-latex'><code class='language-latex'>Write the following numbers in words.
 </code></pre>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -827,7 +841,7 @@ Write down all the numbers  **smaller**  than 90 which are multiples of both 6 *
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>DA73C8E9-6BBC-4FA7-B8E6-E5C1634B2EF7</p>
 </div>
@@ -841,7 +855,7 @@ Write down all the numbers  **smaller**  than 90 which are multiples of both 6 *
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -852,11 +866,11 @@ tnumber
 </div>
 <div class='question question'>
 
-A pencil is measured as $7.8\,cm$ long. How long is the pencil in these units,
+A pencil is measured as $7.8 \ \text{cm}$ long. How long is the pencil in these units.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>A pencil is measured as $7.8\,cm$ long. How long is the pencil in these units,
+<pre class='language-latex'><code class='language-latex'>A pencil is measured as $7.8 \ \text{cm}$ long. How long is the pencil in these units.
 </code></pre>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -864,11 +878,11 @@ A pencil is measured as $7.8\,cm$ long. How long is the pencil in these units,
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-in mm
+in \ \text{mm}.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>in mm
+<pre class='language-latex'><code class='language-latex'>in \ \text{mm}.
 </code></pre>
 </div>
 
@@ -878,11 +892,11 @@ in mm
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-in m
+in \ \text{m}.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>in m
+<pre class='language-latex'><code class='language-latex'>in \ \text{m}.
 </code></pre>
 </div>
 
@@ -933,7 +947,7 @@ in m
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>D98DBBF2-7AD9-4207-B861-10DE19DB559C</p>
 </div>
@@ -947,7 +961,7 @@ in m
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1043,7 +1057,7 @@ $\boxed {53}$ Add.......  $\boxed {..125....}$  Subtract 39  $\boxed {.........}
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>DF144071-E27A-45E8-8AC4-FB2D59699905</p>
 </div>
@@ -1057,7 +1071,7 @@ $\boxed {53}$ Add.......  $\boxed {..125....}$  Subtract 39  $\boxed {.........}
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1083,11 +1097,11 @@ Round each of the following numbers to the accuracy given in brackets.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-19.82 (nearest whole number) 
+$19.82$ (nearest whole number) 
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>19.82 (nearest whole number) 
+<pre class='language-latex'><code class='language-latex'>$19.82$ (nearest whole number) 
 </code></pre>
 </div>
 
@@ -1097,11 +1111,11 @@ Round each of the following numbers to the accuracy given in brackets.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-120400 (nearest thousand) 
+$120400$ (nearest thousand) 
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>120400 (nearest thousand) 
+<pre class='language-latex'><code class='language-latex'>$120400$ (nearest thousand) 
 </code></pre>
 </div>
 
@@ -1111,11 +1125,11 @@ Round each of the following numbers to the accuracy given in brackets.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-33.45789 (nearest tenth) 
+$33.45789$ (nearest tenth) 
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>33.45789 (nearest tenth) 
+<pre class='language-latex'><code class='language-latex'>$33.45789$ (nearest tenth) 
 </code></pre>
 </div>
 
@@ -1193,19 +1207,19 @@ tnumber
 
 Which of the following distances is the most likely height of a man? Circle your answer. 
 
-a) $120\,cm$
-b) $150\,mm$ 
-c) $1.8\,m$ 
-d) 112 inches
+a) $120 \ \text{cm}$
+b) $150 \ \text{mm}$ 
+c) $1.8 \ \text{m}$ 
+d) $112 \ \text{inches}$
 
 </div>
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>Which of the following distances is the most likely height of a man? Circle your answer. 
 <emptyline>
-a) $120\,cm$
-b) $150\,mm$ 
-c) $1.8\,m$ 
-d) 112 inches
+a) $120 \ \text{cm}$
+b) $150 \ \text{mm}$ 
+c) $1.8 \ \text{m}$ 
+d) $112 \ \text{inches}$
 </code></pre>
 </div>
 
@@ -1253,7 +1267,7 @@ d) 112 inches
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>FEC89A56-1AF8-4052-8EDD-95EC29CBFA28</p>
 </div>
@@ -1267,7 +1281,7 @@ d) 112 inches
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1391,7 +1405,7 @@ Which of the numbers is a prime number?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>70786BCF-B76F-413D-8757-8FDB44C7E665</p>
 </div>
@@ -1405,7 +1419,7 @@ Which of the numbers is a prime number?
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1468,7 +1482,7 @@ The area of the United Kingdom is about $243,600\,km^2$ .Write this area in word
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>AE2425E2-0767-4210-BB91-89195849257C</p>
 </div>
@@ -1482,7 +1496,7 @@ The area of the United Kingdom is about $243,600\,km^2$ .Write this area in word
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1545,7 +1559,7 @@ The area of Australia is $7 692 024\,km^2$ .Write this area in words.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>9A21B777-4815-48B4-8EBE-0799D0C7C977</p>
 </div>
@@ -1559,7 +1573,7 @@ The area of Australia is $7 692 024\,km^2$ .Write this area in words.
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1570,11 +1584,11 @@ tnumber
 </div>
 <div class='question question'>
 
-I live $5.2\,km$ from Anfield. 
+I live $5.2 \ \text{km}$ from Anfield. 
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>I live $5.2\,km$ from Anfield. 
+<pre class='language-latex'><code class='language-latex'>I live $5.2 \ \text{km}$ from Anfield. 
 </code></pre>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -1582,11 +1596,11 @@ I live $5.2\,km$ from Anfield.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-How far is this in metres?
+How far is this in \ \text{metres}?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>How far is this in metres?
+<pre class='language-latex'><code class='language-latex'>How far is this in \ \text{metres}?
 </code></pre>
 </div>
 
@@ -1596,11 +1610,11 @@ How far is this in metres?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Goodison Park is a further $1200\,m$ from my house. How many **kilometres** is Goodison Park from my house?
+Goodison Park is a further $1200 \ \text{m}$ from my house. How many \ \text{kilometres} is Goodison Park from my house?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Goodison Park is a further $1200\,m$ from my house. How many **kilometres** is Goodison Park from my house?
+<pre class='language-latex'><code class='language-latex'>Goodison Park is a further $1200 \ \text{m}$ from my house. How many \ \text{kilometres} is Goodison Park from my house?
 </code></pre>
 </div>
 
@@ -1610,11 +1624,11 @@ Goodison Park is a further $1200\,m$ from my house. How many **kilometres** is G
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-A kilometre is $\dfrac {5} {8}$  of a mile. How many miles away from Goodison Park do I live?
+A \ \text{kilometre} is $\dfrac {5} {8}$  of a mile. How many \ \text{miles} away from Goodison Park do I live?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>A kilometre is $\dfrac {5} {8}$  of a mile. How many miles away from Goodison Park do I live?
+<pre class='language-latex'><code class='language-latex'>A \ \text{kilometre} is $\dfrac {5} {8}$  of a mile. How many \ \text{miles} away from Goodison Park do I live?
 </code></pre>
 </div>
 
@@ -1665,7 +1679,7 @@ A kilometre is $\dfrac {5} {8}$  of a mile. How many miles away from Goodison Pa
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>05BC7A40-020B-420A-83C8-4F58121795F4</p>
 </div>
@@ -1679,7 +1693,7 @@ A kilometre is $\dfrac {5} {8}$  of a mile. How many miles away from Goodison Pa
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

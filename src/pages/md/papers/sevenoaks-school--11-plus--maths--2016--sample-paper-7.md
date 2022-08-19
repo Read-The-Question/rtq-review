@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2016-sample-paper-7"
 title: "Sevenoaks School - 11 Plus - Maths - 2016 - Sample Paper 7"
-date: 2022-08-18 10:44:13
+date: 2022-08-19 15:32:50
 questions_count: "27"
 ---
 <div class='paper'>
@@ -14,7 +14,7 @@ questions_count: "27"
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>EF38AE5F-0E2D-457D-BC03-05E80C5371F1</p>
 </div>
@@ -28,7 +28,7 @@ questions_count: "27"
 <p>rag_kr_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -339,7 +339,7 @@ the write.. 2 full buses and for rest $9$ one more bus
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>215B4AA2-1A07-4570-82AF-18FA5525BD3F</p>
 </div>
@@ -353,7 +353,7 @@ the write.. 2 full buses and for rest $9$ one more bus
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -472,22 +472,64 @@ Find the cost of seven tickets.
 <div class='workings'>
 <div class='working'>
 
+Using value from the above questions,
+
+$
+\begin{aligned}
+\text{Cost of 17 tickets}       &= 7 \times 1.25 \\\\
+                                &= 7 \times \dfrac {125} {100} \\\\
+                                &= \dfrac {7 \times 125} {100} \\\\
+                                &= \dfrac {875} {100} \\\\
+                                &= \pounds 8.75
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+Let the cost of $7$ tickets $= a$
+
+Using equivalent ratio,
+
+$
+\begin{aligned}
+17 \ \text{quantity} : 21.25 \ \text{cost}      &= 7 \ \text{quantity} : a \ \text{cost} \\\\
+\dfrac {17} {\pounds 21.25}                     &= \dfrac {7} {a} \\\\
+\dfrac {17} {2125 \text{p}}                     &= \dfrac {7} {a} \\\\
+\dfrac {17} {2125}                              &= \dfrac {7} {a} \\\\
+17 \times a                                     &= 7 \times 2125 \\\\
+a                                               &= \dfrac {7 \times 2125} {17} \\\\
+a                                               &= \dfrac {7 \times 17 \times 125} {17} \\\\
+a                                               &= \dfrac {7 \times \cancel {17} \times 125} {\cancel {17}} \\\\
+a                                               &= 7 \times 125 \\\\
+a                                               &= 875 \text{p} \\\\
+a                                               &= \pounds 8.75
+\end{aligned}
+$
+
+Cost of $7$ tickets $= \pounds 8.75$
+
+</div>
+<div class='working'>
+
 Using ratio,
 
 $
 \begin{array}{cccccccccccccc}
-  & \text{ticket}                               &:& \pounds \\\\
-= & 17                                          &:& 21.25 \\\\
-= & 1                                           &:& \dfrac {21.25} {17} \\\\
-= & 7                                           &:& \dfrac {21.25 \times 7} {17} \\\\
-= & 7                                           &:& \dfrac {2125 \times 7} {17 \times 100} \\\\
-= & 7                                           &:& \dfrac {17 \times 125 \times 7} {17 \times 100} \\\\
-= & 7                                           &:& \dfrac {\cancel {17} \times 125 \times 7} {\cancel {17} \times 100} \\\\
-= & 7                                           &:& \dfrac {125 \times 7} {100} \\\\
-= & 7                                           &:& \dfrac {875} {100} \\\\
+  & \text{quantity}                             &:& \text{cost} \\\\
+= & 17                                          &:& \pounds 21.25 \\\\
+= & 17                                          &:& 2125 \text{p} \\\\
+= & 1                                           &:& \dfrac {2125} {17} \\\\
+= & 1 \times 7                                  &:& \dfrac {2125 \times 7} {17} \\\\
+= & 7                                           &:& \dfrac {17 \times 125 \times 7} {17} \\\\
+= & 7                                           &:& \dfrac {\cancel {17} \times 125 \times 7} {\cancel {17}} \\\\
+= & 7                                           &:& 125 \times 7 \\\\
+= & 7                                           &:& 875 \text{p} \\\\
 = & 7                                           &:& \pounds 8.75
 \end{array}
 $
+
+Cost of $7$ tickets $= \pounds 8.75$
 
 </div>
 </div>
@@ -501,22 +543,64 @@ $\pounds 8.75$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
+<pre class='language-latex'><code class='language-latex'>Using value from the above questions,
+<emptyline>
+$
+\begin{aligned}
+\text{Cost of 17 tickets}       &= 7 \times 1.25 \\\\
+                                &= 7 \times \dfrac {125} {100} \\\\
+                                &= \dfrac {7 \times 125} {100} \\\\
+                                &= \dfrac {875} {100} \\\\
+                                &= \pounds 8.75
+\end{aligned}
+$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the cost of $7$ tickets $= a$
+<emptyline>
+Using equivalent ratio,
+<emptyline>
+$
+\begin{aligned}
+17 \ \text{quantity} : 21.25 \ \text{cost}      &= 7 \ \text{quantity} : a \ \text{cost} \\\\
+\dfrac {17} {\pounds 21.25}                     &= \dfrac {7} {a} \\\\
+\dfrac {17} {2125 \text{p}}                     &= \dfrac {7} {a} \\\\
+\dfrac {17} {2125}                              &= \dfrac {7} {a} \\\\
+17 \times a                                     &= 7 \times 2125 \\\\
+a                                               &= \dfrac {7 \times 2125} {17} \\\\
+a                                               &= \dfrac {7 \times 17 \times 125} {17} \\\\
+a                                               &= \dfrac {7 \times \cancel {17} \times 125} {\cancel {17}} \\\\
+a                                               &= 7 \times 125 \\\\
+a                                               &= 875 \text{p} \\\\
+a                                               &= \pounds 8.75
+\end{aligned}
+$
+<emptyline>
+Cost of $7$ tickets $= \pounds 8.75$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
 <pre class='language-latex'><code class='language-latex'>Using ratio,
 <emptyline>
 $
 \begin{array}{cccccccccccccc}
-  & \text{ticket}                               &:& \pounds \\\\
-= & 17                                          &:& 21.25 \\\\
-= & 1                                           &:& \dfrac {21.25} {17} \\\\
-= & 7                                           &:& \dfrac {21.25 \times 7} {17} \\\\
-= & 7                                           &:& \dfrac {2125 \times 7} {17 \times 100} \\\\
-= & 7                                           &:& \dfrac {17 \times 125 \times 7} {17 \times 100} \\\\
-= & 7                                           &:& \dfrac {\cancel {17} \times 125 \times 7} {\cancel {17} \times 100} \\\\
-= & 7                                           &:& \dfrac {125 \times 7} {100} \\\\
-= & 7                                           &:& \dfrac {875} {100} \\\\
+  & \text{quantity}                             &:& \text{cost} \\\\
+= & 17                                          &:& \pounds 21.25 \\\\
+= & 17                                          &:& 2125 \text{p} \\\\
+= & 1                                           &:& \dfrac {2125} {17} \\\\
+= & 1 \times 7                                  &:& \dfrac {2125 \times 7} {17} \\\\
+= & 7                                           &:& \dfrac {17 \times 125 \times 7} {17} \\\\
+= & 7                                           &:& \dfrac {\cancel {17} \times 125 \times 7} {\cancel {17}} \\\\
+= & 7                                           &:& 125 \times 7 \\\\
+= & 7                                           &:& 875 \text{p} \\\\
 = & 7                                           &:& \pounds 8.75
 \end{array}
 $
+<emptyline>
+Cost of $7$ tickets $= \pounds 8.75$
 </code></pre>
 </div>
 </div>
@@ -585,7 +669,7 @@ long division
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prpcr question'>
 <div class='uuid'>
 <p>E0F69367-13D4-422E-A7ED-7CE21DF00DB8</p>
 </div>
@@ -599,7 +683,7 @@ long division
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -765,17 +849,35 @@ $
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-Part B Number.... = Total calculators to buy
 
 
 
-after mixed fraction add
 
-= 11 whole boxes +  remainder 20 calculators
+Part a) 
+
+i) Remove APTQ,
+
+ii) Write rest two lines inside \begin-end.
+
+iii) Only write unit in the final step. 
 
 
 
-In answer delete boxes
+Part b)
+
+i) Write answer like below:
+
+Total boxes = 570/50
+
+            = 11 remainder 20
+
+            ≈ 12 
+
+
+
+ii) In answer section:
+
+\"12 Boxes\"  ==> \"12 boxes\"
 </div>
 
 <div class='review'>
@@ -821,7 +923,7 @@ In answer delete boxes
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>3BADA08D-7FEF-4ADD-98DC-7E1F438D14C6</p>
 </div>
@@ -835,7 +937,7 @@ In answer delete boxes
 <p>rag_kr_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -852,52 +954,58 @@ Michelle has the same number of $10$p and $50$p coins. The total value of the co
 <div class='workings'>
 <div class='working'>
 
-Let's take the number of coins as $= a$ 
-
-As per question,
+Let's take the number of coins $= a$ 
 
 ABBR: It is really important to use the right units in calculations and convert where required.
 
 
+As per question,
+
 $
 \begin{aligned}
-10a + 50a         &= 900 \text{p} \\\\
-60a               &= 900 \\\\
-a                 &= \dfrac {900} {60} \\\\
-a                 &= \dfrac {15 \times 60 }{60} \\\\
-a                 &= \dfrac {15 \times \cancel {60} } {\cancel {60}} \\\\
-a                 &= 15 \text {coins each}
+10 \times a + 50 \times a         &= \pounds900 \\\\
+10a + 50a                         &= 900 \text{p} \\\\
+60a                               &= 900 \\\\
+a                                 &= \dfrac {900} {60} \\\\
+a                                 &= \dfrac {15 \times 60 }{60} \\\\
+a                                 &= \dfrac {15 \times \cancel {60} } {\cancel {60}} \\\\
+a                                 &= 15 \ \text {coins each}
 \end{aligned}
 $
+
+Number of coins Michelle has from each coin $= 15$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$15$ coins of $10$p and $15$ coins of $50$p
+$15$ coins of $10$p,$50$p
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let's take the number of coins as $= a$ 
-<emptyline>
-As per question,
+<pre class='language-latex'><code class='language-latex'>Let's take the number of coins $= a$ 
 <emptyline>
 rtq_abbr_md_unit_note
 <emptyline>
+As per question,
+<emptyline>
 $
 \begin{aligned}
-10a + 50a         &= 900 \text{p} \\\\
-60a               &= 900 \\\\
-a                 &= \dfrac {900} {60} \\\\
-a                 &= \dfrac {15 \times 60 }{60} \\\\
-a                 &= \dfrac {15 \times \cancel {60} } {\cancel {60}} \\\\
-a                 &= 15 \text {coins each}
+10 \times a + 50 \times a         &= \pounds900 \\\\
+10a + 50a                         &= 900 \text{p} \\\\
+60a                               &= 900 \\\\
+a                                 &= \dfrac {900} {60} \\\\
+a                                 &= \dfrac {15 \times 60 }{60} \\\\
+a                                 &= \dfrac {15 \times \cancel {60} } {\cancel {60}} \\\\
+a                                 &= 15 \ \text {coins each}
 \end{aligned}
 $
+<emptyline>
+Number of coins Michelle has from each coin $= 15$
 </code></pre>
 </div>
 </div>
@@ -909,7 +1017,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$15$ coins of $10$p and $15$ coins of $50$p
+<pre class='language-latex'><code class='language-latex'>$15$ coins of $10$p,$50$p
 </code></pre>
 </div>
 </div>
@@ -1134,7 +1242,7 @@ Put > or < than is 2nd last and  last step.  but blue answer remains unchanged.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>30A026A8-E41C-4B35-90F2-DDA249AA1791</p>
 </div>
@@ -1145,7 +1253,7 @@ Put > or < than is 2nd last and  last step.  but blue answer remains unchanged.
 <p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g2</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1226,35 +1334,35 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' id='FORM-30A026A8-E41C-4B35-90F2-DDA249AA1791' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' id='FORM-30A026A8-E41C-4B35-90F2-DDA249AA1791' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1266,7 +1374,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>15AB3B3D-E805-4DE3-9701-7E1997E30FB3</p>
 </div>
@@ -1277,7 +1385,7 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g2</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1352,35 +1460,35 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' id='FORM-15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' id='FORM-15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1392,7 +1500,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>33898C6C-BC5D-41EC-8049-B334ED8C6544</p>
 </div>
@@ -1406,7 +1514,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1475,6 +1583,21 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+i)First line should be (dont forget to remove % from first line):
+
+\"Percentage of failed class = 14/100 x 100\"
+
+
+
+ii)Put space between % and 35 in both working and answer
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1629,7 +1752,7 @@ The selling price of the car was $\pounds 30000$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>04DE9CD4-9DBE-46AD-B14F-B7A255ECDF40</p>
 </div>
@@ -1643,7 +1766,7 @@ The selling price of the car was $\pounds 30000$
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1660,23 +1783,42 @@ A drink contains lime, orange and apple juices in the ratio $2:7:6$. Find the vo
 <div class='workings'>
 <div class='working'>
 
+Let the volume of orange juice $= a$
+
+Using equivalent ratio,
+
 $
 \begin{aligned}
-\text{Total drink ratio}      &= 2 + 7 + 6 \\\\
-                              &= 15
+(2 + 7 + 6) \ \text{drink} : 7 \ \text{orange}  &= 300 \ \text{drink} : a \ \text{orange} \\\\
+\dfrac {2 + 7 + 6} {7}                          &= \dfrac {300} {a} \\\\
+\dfrac {15} {7}                                 &= \dfrac {300} {a} \\\\
+15 \times a                                     &= 300 \times 7 \\\\
+a                                               &= \dfrac {300 \times 7} {15} \\\\
+a                                               &= \dfrac {20 \times 15 \times 7} {15} \\\\
+a                                               &= \dfrac {20 \times \cancel {15} \times 7} {\cancel {15}} \\\\
+a                                               &= 20 \times 7 \\\\
+a                                               &= 140 \ \text{ml}
 \end{aligned}
 $
 
-Using ratio,
+Volume of orange juice $= 140 \ \text{ml}$
+
+</div>
+<div class='working'>
+
+Using whole to part ratio,
 
 $
 \begin{array}{cccccccccccccc}
-  & \text{drink}    &:& \text{lime}                &:& \text{orange}    &:& \text{apple} \\\\
-= & 15              &:& 2                          &:& 7                &:& 6 \\\\
-= & 15 \times 20    &:& 2 \times 20                &:& 7 \times 20      &:& 6 \times 20 \\\\
-= & 300 \ \text{ml} &:& 40 \ \text{ml}             &:& 140 \ \text{ml}  &:& 120 \ \text{ml}
+  & \text{drink}        &:& \text{orange} \\\\
+= & 2 + 7 + 6           &:& 7 \\\\
+= & 15                  &:& 7 \\\\
+= & 15 \times 20        &:& 7 \times 20 \\\\
+= & 300 \ \text{ml}     &:& 140 \ \text{ml}
 \end{array}
 $
+
+Volume of orange juice $= 140 \ \text{ml}$
 
 </div>
 </div>
@@ -1690,23 +1832,42 @@ $140 \text { ml}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>Let the volume of orange juice $= a$
+<emptyline>
+Using equivalent ratio,
+<emptyline>
+$
 \begin{aligned}
-\text{Total drink ratio}      &= 2 + 7 + 6 \\\\
-                              &= 15
+(2 + 7 + 6) \ \text{drink} : 7 \ \text{orange}  &= 300 \ \text{drink} : a \ \text{orange} \\\\
+\dfrac {2 + 7 + 6} {7}                          &= \dfrac {300} {a} \\\\
+\dfrac {15} {7}                                 &= \dfrac {300} {a} \\\\
+15 \times a                                     &= 300 \times 7 \\\\
+a                                               &= \dfrac {300 \times 7} {15} \\\\
+a                                               &= \dfrac {20 \times 15 \times 7} {15} \\\\
+a                                               &= \dfrac {20 \times \cancel {15} \times 7} {\cancel {15}} \\\\
+a                                               &= 20 \times 7 \\\\
+a                                               &= 140 \ \text{ml}
 \end{aligned}
 $
 <emptyline>
-Using ratio,
+Volume of orange juice $= 140 \ \text{ml}$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Using whole to part ratio,
 <emptyline>
 $
 \begin{array}{cccccccccccccc}
-  & \text{drink}    &:& \text{lime}                &:& \text{orange}    &:& \text{apple} \\\\
-= & 15              &:& 2                          &:& 7                &:& 6 \\\\
-= & 15 \times 20    &:& 2 \times 20                &:& 7 \times 20      &:& 6 \times 20 \\\\
-= & 300 \ \text{ml} &:& 40 \ \text{ml}             &:& 140 \ \text{ml}  &:& 120 \ \text{ml}
+  & \text{drink}        &:& \text{orange} \\\\
+= & 2 + 7 + 6           &:& 7 \\\\
+= & 15                  &:& 7 \\\\
+= & 15 \times 20        &:& 7 \times 20 \\\\
+= & 300 \ \text{ml}     &:& 140 \ \text{ml}
 \end{array}
 $
+<emptyline>
+Volume of orange juice $= 140 \ \text{ml}$
 </code></pre>
 </div>
 </div>
@@ -1727,6 +1888,14 @@ $
 
 <h4>Review Comments</h4>
 tratio
+
+
+
+i fixed it a little but you need only whole : orange, can remove others, no calculation required for that
+
+
+
+write equiv version too
 </div>
 
 <div class='review'>
@@ -2913,24 +3082,24 @@ A model house is made by sticking a triangular prism on top of a rectangular blo
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3380,24 +3549,24 @@ The mean of four numbers $x, 4, 5$ and $y$  is $5$ and the range of the numbers 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3491,7 +3660,7 @@ Not solved.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>469A9C99-205F-4896-A51C-BA09D251CB0E</p>
 </div>
@@ -3505,7 +3674,7 @@ Not solved.
 <p>rag_kr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3538,9 +3707,11 @@ a \times 2 + 10   &= 52 \\\\
 a                 &= \dfrac {42} {2} \\\\
 a                 &= \dfrac {21 \times 2} {2} \\\\
 a                 &= \dfrac {21 \times \cancel {2}} {\cancel {2}} \\\\
-a                 &= 21 
+a                 &= 21
 \end{aligned}
 $
+
+The number Dini thought of $= 21$
 
 </div>
 </div>
@@ -3567,9 +3738,11 @@ a \times 2 + 10   &= 52 \\\\
 a                 &= \dfrac {42} {2} \\\\
 a                 &= \dfrac {21 \times 2} {2} \\\\
 a                 &= \dfrac {21 \times \cancel {2}} {\cancel {2}} \\\\
-a                 &= 21 
+a                 &= 21
 \end{aligned}
 $
+<emptyline>
+The number Dini thought of $= 21$
 </code></pre>
 </div>
 </div>
@@ -3675,24 +3848,24 @@ In these diagrams, black squares are surrounded on three sides by white squares.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3741,24 +3914,24 @@ Draw the next diagram (which has $4$ black squares).
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3809,24 +3982,24 @@ Write down a rule to link the number of white squares to the number of black squ
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3877,24 +4050,24 @@ How many white squares will the diagram with $10$ black squares have?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3977,24 +4150,24 @@ $\blacklozenge?$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4068,24 +4241,24 @@ What is the smallest number of additional squares which must be shaded so that t
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4174,24 +4347,24 @@ What is the ratio of the perimeter of the square to the perimeter of the octagon
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4265,24 +4438,24 @@ Two adults and two children wish to cross a river. They make a raft but it will 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4359,24 +4532,24 @@ In this magic square, which uses all whole numbers from $7$ to $15$ (including $
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

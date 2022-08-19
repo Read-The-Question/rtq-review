@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-18"
 title: "TopicPaper - Algebra - 18"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "25"
 ---
 <div class='paper'>
@@ -16,7 +16,7 @@ questions_count: "25"
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>59A15B1E-9BD7-46F5-A252-A20015C38A1A</p>
 </div>
@@ -30,7 +30,7 @@ questions_count: "25"
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -93,6 +93,7 @@ Find $2 * 5$
 
 $
 \begin{aligned}
+&= 2 * 5 \\\\
 &= 2 \times 2 + 5 \\\\
 &= 4 + 5 \\\\
 &= 9
@@ -113,6 +114,7 @@ $9$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
+&= 2 * 5 \\\\
 &= 2 \times 2 + 5 \\\\
 &= 4 + 5 \\\\
 &= 9
@@ -148,6 +150,7 @@ Find $d$ if $d * 3 = 19$
 
 $
 \begin{aligned}
+d * 3               &= 19 \\\\
 d \times d + 3      &= 19 \\\\
 d \times d          &= 19 - 3 \\\\
 d^2                 &= 16 \\\\
@@ -170,6 +173,7 @@ $4$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
+d * 3               &= 19 \\\\
 d \times d + 3      &= 19 \\\\
 d \times d          &= 19 - 3 \\\\
 d^2                 &= 16 \\\\
@@ -263,7 +267,7 @@ d x d + 3 = 19
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>4E026293-8092-4F84-94CD-07F5A6F4E37D</p>
 </div>
@@ -277,7 +281,7 @@ d x d + 3 = 19
 <p>rag_am_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -394,7 +398,7 @@ $(𝑏𝑐)^2$
 
 $
 \begin{aligned}
-&= bc^2 \\\\
+&= (bc)^2 \\\\
 &= ( 5 \times -2)^2 \\\\
 &= (-10)^2 \\\\
 &= -10 \times -10 \\\\
@@ -416,7 +420,7 @@ $100$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= bc^2 \\\\
+&= (bc)^2 \\\\
 &= ( 5 \times -2)^2 \\\\
 &= (-10)^2 \\\\
 &= -10 \times -10 \\\\
@@ -455,9 +459,9 @@ $
 \begin{aligned}
 &= \dfrac {a + b} {c} \\\\
 &= \dfrac {3 + 5} {-2} \\\\
-&= - \dfrac {8} {2} \\\\
-&= - \dfrac {2 \times 4} {2} \\\\
-&= - \dfrac {\cancel {2} \times 4} {\cancel {2}} \\\\
+&= \dfrac {-8} {2} \\\\
+&= \dfrac {2 \times -4} {2} \\\\
+&= \dfrac {\cancel {2} \times -4} {\cancel {2}} \\\\
 &= -4
 \end{aligned}
 $
@@ -478,9 +482,9 @@ $-4$
 \begin{aligned}
 &= \dfrac {a + b} {c} \\\\
 &= \dfrac {3 + 5} {-2} \\\\
-&= - \dfrac {8} {2} \\\\
-&= - \dfrac {2 \times 4} {2} \\\\
-&= - \dfrac {\cancel {2} \times 4} {\cancel {2}} \\\\
+&= \dfrac {-8} {2} \\\\
+&= \dfrac {2 \times -4} {2} \\\\
+&= \dfrac {\cancel {2} \times -4} {\cancel {2}} \\\\
 &= -4
 \end{aligned}
 $
@@ -880,8 +884,8 @@ $\frac{4𝑐^2}{8}$
 
 $\begin{aligned}
 &= \dfrac {4c^2} {8} \\\\
-&= \dfrac {4c^2} {4 \times 2} \\\\
-&= \dfrac {\cancel {4} c^2} {\cancel {4} \times 2} \\\\
+&= \dfrac {4 \times c^2} {4 \times 2} \\\\
+&= \dfrac {\cancel {4} \times c^2} {\cancel {4} \times 2} \\\\
 &= \dfrac {c^2} {2}
 \end{aligned}
 $
@@ -900,8 +904,8 @@ $\dfrac {c^2} {2}$
 
 <pre class='language-latex'><code class='language-latex'>$\begin{aligned}
 &= \dfrac {4c^2} {8} \\\\
-&= \dfrac {4c^2} {4 \times 2} \\\\
-&= \dfrac {\cancel {4} c^2} {\cancel {4} \times 2} \\\\
+&= \dfrac {4 \times c^2} {4 \times 2} \\\\
+&= \dfrac {\cancel {4} \times c^2} {\cancel {4} \times 2} \\\\
 &= \dfrac {c^2} {2}
 \end{aligned}
 $
@@ -1399,7 +1403,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>5863986B-3C61-4299-99E3-6926BCFBFCAD</p>
 </div>
@@ -1413,7 +1417,7 @@ $
 <p>rag_am_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1432,24 +1436,24 @@ $R=H\begin{pmatrix}
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1502,11 +1506,12 @@ If H = $9$ and A = $3.1$, find R .
 
 $
 \begin{aligned}
-&= 9 \times (\dfrac{6570}{3.1^2} -1 ) \\\\
-&= 9 \times (\dfrac{6570}{9.61} -1 ) \\\\
-&= 9 \times (683.66 - 1) \\\\
-&= 9 \times 682.66  \\\\
-&= 6143.96 
+R             &= H \times (\dfrac{6570}{A^2} -1 ) \\\\
+R             &= 9 \times (\dfrac{6570}{3.1^2} -1 ) \\\\
+R             &= 9 \times (\dfrac{6570}{9.61} -1 ) \\\\
+R             &= 9 \times (683.66 - 1) \\\\
+R             &= 9 \times 682.66  \\\\
+R             &= 6143.96 
 \end{aligned}
 $
 
@@ -1525,11 +1530,12 @@ $6143.96$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 9 \times (\dfrac{6570}{3.1^2} -1 ) \\\\
-&= 9 \times (\dfrac{6570}{9.61} -1 ) \\\\
-&= 9 \times (683.66 - 1) \\\\
-&= 9 \times 682.66  \\\\
-&= 6143.96 
+R             &= H \times (\dfrac{6570}{A^2} -1 ) \\\\
+R             &= 9 \times (\dfrac{6570}{3.1^2} -1 ) \\\\
+R             &= 9 \times (\dfrac{6570}{9.61} -1 ) \\\\
+R             &= 9 \times (683.66 - 1) \\\\
+R             &= 9 \times 682.66  \\\\
+R             &= 6143.96 
 \end{aligned}
 $
 <emptyline>
@@ -1743,7 +1749,7 @@ Part a) First line write formula \"R =...\" then solve further..
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>BC18B92E-4190-4C3F-B391-1D7F39F5B4D9</p>
 </div>
@@ -1757,7 +1763,7 @@ Part a) First line write formula \"R =...\" then solve further..
 <p>rag_am_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1772,24 +1778,24 @@ Solve the simultaneous equations:
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1901,7 +1907,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$-0.7, 1.8$
 
 </div>
 </div>
@@ -1974,7 +1980,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$-0.7, 1.8$
 </code></pre>
 </div>
 </div>
@@ -1989,24 +1995,24 @@ $2x + 3y = 4$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2136,14 +2142,14 @@ The total surface area, $T$ , of a solid hemisphere is connected to its volume, 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2194,7 +2200,7 @@ $
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2240,24 +2246,24 @@ In an experiment, $T$ is measured as $30\, cm^2$ and $V$ as $12\, cm^3$ . What v
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2308,24 +2314,24 @@ If the values of $T$ and $V$ are numerically the same, find $T$ .
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2373,7 +2379,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>14AE2923-5211-4ABF-BD29-8574263DA505</p>
 </div>
@@ -2387,7 +2393,7 @@ TODOANSWER
 <p>rag_am_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2402,24 +2408,24 @@ A piece of string $231\, cm$ long is to be cut into two pieces. Find the lengths
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2474,25 +2480,26 @@ Let the length of first piece $=a$
 
 Length of second piece $= 20a$
 
+As per the question,
+
 $
 \begin{aligned}
 a + 20a      &= 231 \\\\
 21a          &= 231 \\\\
 a            &= \dfrac{231}{21} \\\\
 a            &= \dfrac{21 \times 11}{21} \\\\
-a            &= \dfrac{\cancel 21 \times 11}{\cancel 21} \\\\
+a            &= \dfrac{\cancel {21} \times 11}{\cancel {21}} \\\\
 a            &= 11 \text{ cm}
 \end{aligned}
 $
 
 Length of first piece $=11 \text{ cm}$
 
-Length of second piece $= 20 \times a$
-
 $
 \begin{aligned}
-&= 20 \times 11 \\\\
-&= 220 \text{ cm}
+\text{Length of second piece} &= 20 \times a \\\\
+                              &= 20 \times 11 \\\\
+                              &= 220 \ \text{cm}
 \end{aligned}
 $
 
@@ -2512,25 +2519,26 @@ $ 11 \text{ cm}, 220 \text{ cm}$
 <emptyline>
 Length of second piece $= 20a$
 <emptyline>
+As per the question,
+<emptyline>
 $
 \begin{aligned}
 a + 20a      &= 231 \\\\
 21a          &= 231 \\\\
 a            &= \dfrac{231}{21} \\\\
 a            &= \dfrac{21 \times 11}{21} \\\\
-a            &= \dfrac{\cancel 21 \times 11}{\cancel 21} \\\\
+a            &= \dfrac{\cancel {21} \times 11}{\cancel {21}} \\\\
 a            &= 11 \text{ cm}
 \end{aligned}
 $
 <emptyline>
 Length of first piece $=11 \text{ cm}$
 <emptyline>
-Length of second piece $= 20 \times a$
-<emptyline>
 $
 \begin{aligned}
-&= 20 \times 11 \\\\
-&= 220 \text{ cm}
+\text{Length of second piece} &= 20 \times a \\\\
+                              &= 20 \times 11 \\\\
+                              &= 220 \ \text{cm}
 \end{aligned}
 $
 </code></pre>
@@ -2565,6 +2573,8 @@ Let the length of first piece $=a$
 
 Length of second piece $= 20 + a$
 
+As per the question,
+
 $
 \begin{aligned}
 a + 20 + a      &= 231 \\\\
@@ -2578,12 +2588,11 @@ $
 
 Length of first piece $=105.5 \text{ cm}$
 
-Length of second piece $= 20 + a$
-
 $
 \begin{aligned}
-&= 20 + 105.5 \\\\
-&= 125.5 \text{ cm}
+\text{Length of second piece} &= 20 + a \\\\
+                              &= 20 + 105.5 \\\\
+                              &= 125.5 \text{ cm}
 \end{aligned}
 $
 
@@ -2603,6 +2612,8 @@ $105.5 \text{ cm}, 125.5 \text{ cm}$
 <emptyline>
 Length of second piece $= 20 + a$
 <emptyline>
+As per the question,
+<emptyline>
 $
 \begin{aligned}
 a + 20 + a      &= 231 \\\\
@@ -2616,12 +2627,11 @@ $
 <emptyline>
 Length of first piece $=105.5 \text{ cm}$
 <emptyline>
-Length of second piece $= 20 + a$
-<emptyline>
 $
 \begin{aligned}
-&= 20 + 105.5 \\\\
-&= 125.5 \text{ cm}
+\text{Length of second piece} &= 20 + a \\\\
+                              &= 20 + 105.5 \\\\
+                              &= 125.5 \text{ cm}
 \end{aligned}
 $
 </code></pre>
@@ -2656,6 +2666,8 @@ Let the length of first piece $=a$
 
 Length of second piece $= 20 \% \text{ of } a + a$
 
+As per the question,
+
 $
 \begin{aligned}
 a + 20 \% \text{ of } a + a                                    &= 231 \\\\
@@ -2675,16 +2687,14 @@ $
 
 Length of first piece $=105 \text{ cm}$
 
-Length of second piece $= 20 \% \text{ of } a + a$
-
 $
 \begin{aligned}
-&= 20 \% a + a \\\\
-&=\dfrac{20 \times 105}{100} + 105 \\\\ 
-&=\dfrac{20 \times 21 \times 5}{20 \times 5} + 105 \\\\
-&=\dfrac{\cancel {20} \times 21 \times \cancel 5}{\cancel {20} \times \cancel 5} + 105 \\\\ 
-&= 21 + 105 \\\\
-&= 126 \text{ cm}
+\text{Length of second piece} &= 20 \% \text{ of } a + a \\\\
+                              &=\dfrac{20 \times 105}{100} + 105 \\\\ 
+                              &=\dfrac{20 \times 21 \times 5}{20 \times 5} + 105 \\\\
+                              &=\dfrac{\cancel {20} \times 21 \times \cancel 5}{\cancel {20} \times \cancel 5} + 105 \\\\ 
+                              &= 21 + 105 \\\\
+                              &= 126 \text{ cm}
 \end{aligned}
 $
 
@@ -2704,6 +2714,8 @@ $105 \text{ cm}, 126 \text{ cm}$
 <emptyline>
 Length of second piece $= 20 \% \text{ of } a + a$
 <emptyline>
+As per the question,
+<emptyline>
 $
 \begin{aligned}
 a + 20 \% \text{ of } a + a                                    &= 231 \\\\
@@ -2723,16 +2735,14 @@ $
 <emptyline>
 Length of first piece $=105 \text{ cm}$
 <emptyline>
-Length of second piece $= 20 \% \text{ of } a + a$
-<emptyline>
 $
 \begin{aligned}
-&= 20 \% a + a \\\\
-&=\dfrac{20 \times 105}{100} + 105 \\\\ 
-&=\dfrac{20 \times 21 \times 5}{20 \times 5} + 105 \\\\
-&=\dfrac{\cancel {20} \times 21 \times \cancel 5}{\cancel {20} \times \cancel 5} + 105 \\\\ 
-&= 21 + 105 \\\\
-&= 126 \text{ cm}
+\text{Length of second piece} &= 20 \% \text{ of } a + a \\\\
+                              &=\dfrac{20 \times 105}{100} + 105 \\\\ 
+                              &=\dfrac{20 \times 21 \times 5}{20 \times 5} + 105 \\\\
+                              &=\dfrac{\cancel {20} \times 21 \times \cancel 5}{\cancel {20} \times \cancel 5} + 105 \\\\ 
+                              &= 21 + 105 \\\\
+                              &= 126 \text{ cm}
 \end{aligned}
 $
 </code></pre>
@@ -2856,24 +2866,24 @@ Find all the solutions to the following pairs of simultaneous equations.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2924,24 +2934,24 @@ $3x-2y=10$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2994,24 +3004,24 @@ $3x-2xy=10$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3066,24 +3076,24 @@ $3xy-2xz=10$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3131,7 +3141,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>EF6C4BDF-FB5F-47E7-A7CA-14BDC56D176E</p>
 </div>
@@ -3145,7 +3155,7 @@ TODOANSWER
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3163,20 +3173,16 @@ Ben has $\pounds 68$. He gives a quarter of this to his sister. How much does he
 <div class='working'>
 
 
-As per the question,
-
 $
 \begin{aligned}
-&= 68 - (\dfrac {1} {4} \times 68) \\\\
-&= 68 - \dfrac {68} {4} \\\\
-&= 68 - \dfrac {17 \times 4} {4} \\\\
-&= 68 - \dfrac {17 \times \cancel {4}} {\cancel {4}} \\\\
-&= 68 - 17 \\\\
-&= \pounds 51
+\text{Money left with Ben} &= 68 - (\dfrac {1} {4} \times 68) \\\\
+                           &= 68 - \dfrac {68} {4} \\\\
+                           &= 68 - \dfrac {17 \times 4} {4} \\\\
+                           &= 68 - \dfrac {17 \times \cancel {4}} {\cancel {4}} \\\\
+                           &= 68 - 17 \\\\
+                           &= \pounds 51
 \end{aligned}
 $
-
-Money left with Ben $= \pounds 51$
 
 </div>
 </div>
@@ -3191,20 +3197,16 @@ $\pounds 51$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-As per the question,
-<emptyline>
 $
 \begin{aligned}
-&= 68 - (\dfrac {1} {4} \times 68) \\\\
-&= 68 - \dfrac {68} {4} \\\\
-&= 68 - \dfrac {17 \times 4} {4} \\\\
-&= 68 - \dfrac {17 \times \cancel {4}} {\cancel {4}} \\\\
-&= 68 - 17 \\\\
-&= \pounds 51
+\text{Money left with Ben} &= 68 - (\dfrac {1} {4} \times 68) \\\\
+                           &= 68 - \dfrac {68} {4} \\\\
+                           &= 68 - \dfrac {17 \times 4} {4} \\\\
+                           &= 68 - \dfrac {17 \times \cancel {4}} {\cancel {4}} \\\\
+                           &= 68 - 17 \\\\
+                           &= \pounds 51
 \end{aligned}
 $
-<emptyline>
-Money left with Ben $= \pounds 51$
 </code></pre>
 </div>
 </div>
@@ -3438,7 +3440,7 @@ Total number of pupils in the class = $30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>8E48E97E-BA10-4089-919F-C660C53FBEF5</p>
 </div>
@@ -3452,7 +3454,7 @@ Total number of pupils in the class = $30$
 <p>rag_am_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3575,7 +3577,7 @@ ii) give space between 15 and rounds in answer.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>33FD2E24-6D5F-48B6-8104-E7A1C7EBD9B0</p>
 </div>
@@ -3589,7 +3591,7 @@ ii) give space between 15 and rounds in answer.
 <p>rag_am_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3625,10 +3627,10 @@ a                           &= 30
 \end{aligned}
 $
 
-The number he started with $= 30$
 
 $
 \begin{aligned}
+\text{The number he started with}           &= 30 \\\\
 \text {The answer he should have obtained}  &= (30 + 15) \times 3 \\\\
                                             &= 45 \times 3 \\\\
                                             &= 135
@@ -3664,10 +3666,10 @@ a                           &= 30
 \end{aligned}
 $
 <emptyline>
-The number he started with $= 30$
-<emptyline>
+
 $
 \begin{aligned}
+\text{The number he started with}           &= 30 \\\\
 \text {The answer he should have obtained}  &= (30 + 15) \times 3 \\\\
                                             &= 45 \times 3 \\\\
                                             &= 135
@@ -3744,7 +3746,7 @@ The number he started with $= 30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>3D42270C-70A1-4EE1-AED9-6A08F7425716</p>
 </div>
@@ -3758,7 +3760,7 @@ The number he started with $= 30$
 <p>rag_am_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4232,24 +4234,24 @@ Nectarines at $87 \text{p}$$ per punnet
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4298,24 +4300,24 @@ What is the total cost of $½$ kg of grapes, $2$ melons and $3$ punnets of necta
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4366,24 +4368,24 @@ How much change would you get from $$\pounds 10$ if you bought $1\, kg$ of grape
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4573,7 +4575,7 @@ The number I thought of $= 17$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FC3ABA33-5D43-482E-9D5F-4D8124DCB134</p>
 </div>
@@ -4587,7 +4589,7 @@ The number I thought of $= 17$
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4604,29 +4606,31 @@ Edward has a sum of money. He gives one-third to his son George and threefifths 
 <div class='workings'>
 <div class='working'>
 
-Let the money Edward has = $ a$
+Let the money Edward has $= a$
+
+Money George receives $= \dfrac{a}{3}$
+
+Money Olivia receives $= \dfrac{3a}{5}$
 
 As per the question,
 
 $
 \begin{aligned}
-\dfrac {1} {3} \times a             &= \pounds 15 \\\\
+\dfrac {a} {3}                      &= 15 \\\\
 a                                   &= 15 \times 3 \\\\
 a                                   &= \pounds 45
 \end{aligned}
 $
 
-Money that Olivia receives $= \dfrac{3}{5}a$
-
 $
 \begin{aligned}
-&= \dfrac {3} {5} \times a \\\\
-&= \dfrac {3} {5} \times 45 \\\\
-&= \dfrac {3 \times 45} {5} \\\\
-&= \dfrac {3 \times 9 \times 5} {5} \\\\
-&= \dfrac {3 \times 9 \times \cancel 5} {\cancel 5} \\\\
-&= 3 \times 9 \\\\
-&= \pounds 27
+\text{Money Olivia receives}  &= \dfrac {3} {5} \times a \\\\
+                              &= \dfrac {3} {5} \times 45 \\\\
+                              &= \dfrac {3 \times 45} {5} \\\\
+                              &= \dfrac {3 \times 9 \times 5} {5} \\\\
+                              &= \dfrac {3 \times 9 \times \cancel 5} {\cancel 5} \\\\
+                              &= 3 \times 9 \\\\
+                              &= \pounds 27
 \end{aligned}
 $
 
@@ -4642,29 +4646,31 @@ $\pounds 27$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the money Edward has = $ a$
+<pre class='language-latex'><code class='language-latex'>Let the money Edward has $= a$
+<emptyline>
+Money George receives $= \dfrac{a}{3}$
+<emptyline>
+Money Olivia receives $= \dfrac{3a}{5}$
 <emptyline>
 As per the question,
 <emptyline>
 $
 \begin{aligned}
-\dfrac {1} {3} \times a             &= \pounds 15 \\\\
+\dfrac {a} {3}                      &= 15 \\\\
 a                                   &= 15 \times 3 \\\\
 a                                   &= \pounds 45
 \end{aligned}
 $
 <emptyline>
-Money that Olivia receives $= \dfrac{3}{5}a$
-<emptyline>
 $
 \begin{aligned}
-&= \dfrac {3} {5} \times a \\\\
-&= \dfrac {3} {5} \times 45 \\\\
-&= \dfrac {3 \times 45} {5} \\\\
-&= \dfrac {3 \times 9 \times 5} {5} \\\\
-&= \dfrac {3 \times 9 \times \cancel 5} {\cancel 5} \\\\
-&= 3 \times 9 \\\\
-&= \pounds 27
+\text{Money Olivia receives}  &= \dfrac {3} {5} \times a \\\\
+                              &= \dfrac {3} {5} \times 45 \\\\
+                              &= \dfrac {3 \times 45} {5} \\\\
+                              &= \dfrac {3 \times 9 \times 5} {5} \\\\
+                              &= \dfrac {3 \times 9 \times \cancel 5} {\cancel 5} \\\\
+                              &= 3 \times 9 \\\\
+                              &= \pounds 27
 \end{aligned}
 $
 </code></pre>
@@ -5210,24 +5216,24 @@ To go and watch a film at the cinema, the seats cost $$\pounds 3$ each for a chi
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5276,24 +5282,24 @@ Did I buy more than $7$ adult tickets?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5344,24 +5350,24 @@ If there were more adult tickets than child tickets, how many of each did I buy?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5412,24 +5418,24 @@ If there were more child tickets than adult tickets, how many of each did I buy?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5477,7 +5483,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5C46037A-9D8E-4709-A27D-EC329D33E470</p>
 </div>
@@ -5491,7 +5497,7 @@ TODOANSWER
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5513,15 +5519,17 @@ $6 \times ………………….. = $\pounds 9.60$
 
 Let the missing number $= a$
 
+As per the question,
+
 $
 \begin{aligned}
-6 \times a                          &= \pounds 9.60 \\\\
+6 \times a                          &= 9.60 \\\\
 a                                   &= \dfrac {9.6} {6} \\\\
-                                    &= \dfrac {9.6 \times 10} {6 \times 10} \\\\
-                                    &= \dfrac {96} {6 \times 10} \\\\
-                                    &= \dfrac {6 \times 16} {6 \times 10} \\\\
-                                    &= \dfrac {\cancel{6} \times 16} {\cancel{6} \times 10} \\\\
-                                    &= \dfrac {16} {10} \\\\
+a                                   &= \dfrac {9.6 \times 10} {6 \times 10} \\\\
+a                                   &= \dfrac {96} {6 \times 10} \\\\
+a                                   &= \dfrac {6 \times 16} {6 \times 10} \\\\
+a                                   &= \dfrac {\cancel{6} \times 16} {\cancel{6} \times 10} \\\\
+a                                   &= \dfrac {16} {10} \\\\
 a                                   &= \pounds 1.6
 \end{aligned}
 $
@@ -5542,15 +5550,17 @@ $\pounds 1.6$
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
 <emptyline>
+As per the question,
+<emptyline>
 $
 \begin{aligned}
-6 \times a                          &= \pounds 9.60 \\\\
+6 \times a                          &= 9.60 \\\\
 a                                   &= \dfrac {9.6} {6} \\\\
-                                    &= \dfrac {9.6 \times 10} {6 \times 10} \\\\
-                                    &= \dfrac {96} {6 \times 10} \\\\
-                                    &= \dfrac {6 \times 16} {6 \times 10} \\\\
-                                    &= \dfrac {\cancel{6} \times 16} {\cancel{6} \times 10} \\\\
-                                    &= \dfrac {16} {10} \\\\
+a                                   &= \dfrac {9.6 \times 10} {6 \times 10} \\\\
+a                                   &= \dfrac {96} {6 \times 10} \\\\
+a                                   &= \dfrac {6 \times 16} {6 \times 10} \\\\
+a                                   &= \dfrac {\cancel{6} \times 16} {\cancel{6} \times 10} \\\\
+a                                   &= \dfrac {16} {10} \\\\
 a                                   &= \pounds 1.6
 \end{aligned}
 $
@@ -5672,24 +5682,24 @@ Three gear wheels turn one another. $X$ has $8$ teeth, $Y$ has $12$ teeth and $Z
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6011,7 +6021,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>225E084E-3E8B-41BC-8F2E-8117437E9AF8</p>
 </div>
@@ -6025,7 +6035,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6091,6 +6101,7 @@ $ab$ = .....................
 
 $
 \begin{aligned}
+&= ab \\\\
 &= 7 \times 28 \\\\
 &= 196
 \end{aligned}
@@ -6110,6 +6121,7 @@ $196$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
+&= ab \\\\
 &= 7 \times 28 \\\\
 &= 196
 \end{aligned}

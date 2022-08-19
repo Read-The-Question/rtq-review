@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-5-pr-prpcr"
 title: "TopicPaper - Time - 5 - PR - PRPCR"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "10"
 ---
 <ul class='question default-decimal'>
@@ -38,22 +38,15 @@ Kyra parks her car at $10.30 \ \text{am}$.
 She collects the car at $2.15 \ \text{pm}$. 
 How much does she have to pay?
 
-![missing table](/papers/missing_table.svg)
+| **Car Park Charges** |                  |
+|:--------------------:|:----------------:|
+|       **Time**       |    **Charge**    |
+|     Up to 1 hour     | $20 \ \text{p}$  |
+|     1 to 2 hours     |  $50 \ \text{p}$ |
+|     2 to 3 hours     | $\pounds \ 1.00$ |
+|     3 to 4 hours     | $\pounds \ 1.70$ |
+|     Over 4 hours     | $\pounds \ 5.00$ |
 
-
-Car Park Charges
-
-**Time**              **Charge**
-
-Up to $1 \ \text{hour}$        $20 \text{p}$
-
-$1$ to $2 \ \text{hours}$      $50 \text{p}$
-
-$2$ to $3 \ \text{hours}$      $\pounds 1.00$
-
-$3$ to $4 \ \text{hours}$      $\pounds 1.70$
-
-Over to $4 \ \text{hours}$     $\pounds 5.00$
 
 </div>
 <div class='workings'>
@@ -196,14 +189,14 @@ time in train. She spent $2$ hours on the train.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -746,29 +739,33 @@ ttable
 
 Below is part of a train timetable:
 
-![missing table](/papers/missing_table.svg)
+|         | Spongeton |  Bobville | Squareford | Pantsbridge |
+|:-------:|:---------:|:---------:|:----------:|:-----------:|
+| train 1 | $10{:}45$ | $11{:}10$ |            |             |
+| train 2 | $11{:}30$ |           |            |  $12{:}40$  |
+| train 3 | $12{:}15$ | $12{:}51$ |  $13{:}22$ |  $13{:}45$  |
 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1063,24 +1060,24 @@ Mr Smith is planning to catch the $10:47 \ \text{am}$ plane flight from Heathrow
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1201,12 +1198,12 @@ $07{:}57$
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1887,24 +1884,24 @@ Look at this bus timetable, from Highbury to Colton:
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1953,24 +1950,24 @@ A bus leaves **Highbury** at **$08{:}30$.**
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

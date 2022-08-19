@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2017-sample-paper-7"
 title: "Oundle School - 11 Plus - Maths - 2017 - Sample Paper 7"
-date: 2022-08-18 10:44:13
+date: 2022-08-19 15:32:50
 questions_count: "11"
 ---
 <div class='paper'>
@@ -495,7 +495,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>7F8B7DAA-2971-4079-9737-6D7B149AA96E</p>
 </div>
@@ -506,7 +506,7 @@ $
 <p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_an_pr</p>
+<p>rag_an_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -691,10 +691,13 @@ Four cakes are divided equally amongst seven people. One fifth of a cake is left
 
 $
 \begin{aligned}
-&= \dfrac{7}{4} - \dfrac{1}{5} \\\\ 
-&= \dfrac{7 \times 5}{4 \times 5} - \dfrac{1 \times 4}{5 \times 4} \\\\
-&= \dfrac{35}{20} - \dfrac{4}{20} \\\\
-&= \dfrac{31}{20}
+\text{Each person share}    &= \dfrac{1}{7} \times \bigg ( 4 - \dfrac{1}{5} \bigg ) \\\\
+                            &= \dfrac{1}{7} \times \bigg ( \dfrac{4 \times 5}{5}  - \dfrac{1}{5} \bigg ) \\\\
+                            &= \dfrac{1}{7} \times \bigg ( \dfrac{20}{5}  - \dfrac{1}{5} \bigg ) \\\\
+                            &= \dfrac{1}{7} \times \bigg ( \dfrac{20 - 1}{5} \bigg ) \\\\
+                            &= \dfrac{1}{7} \times  \dfrac{19}{5} \\\\
+                            &= \dfrac{19}{7 \times 5}  \\\\
+                            &= \dfrac{19}{35}
 \end{aligned}
 $
 
@@ -703,7 +706,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{31}{20}$
+$\dfrac{19}{35}$
 
 </div>
 </div>
@@ -712,10 +715,13 @@ $\dfrac{31}{20}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= \dfrac{7}{4} - \dfrac{1}{5} \\\\ 
-&= \dfrac{7 \times 5}{4 \times 5} - \dfrac{1 \times 4}{5 \times 4} \\\\
-&= \dfrac{35}{20} - \dfrac{4}{20} \\\\
-&= \dfrac{31}{20}
+\text{Each person share}    &= \dfrac{1}{7} \times \bigg ( 4 - \dfrac{1}{5} \bigg ) \\\\
+                            &= \dfrac{1}{7} \times \bigg ( \dfrac{4 \times 5}{5}  - \dfrac{1}{5} \bigg ) \\\\
+                            &= \dfrac{1}{7} \times \bigg ( \dfrac{20}{5}  - \dfrac{1}{5} \bigg ) \\\\
+                            &= \dfrac{1}{7} \times \bigg ( \dfrac{20 - 1}{5} \bigg ) \\\\
+                            &= \dfrac{1}{7} \times  \dfrac{19}{5} \\\\
+                            &= \dfrac{19}{7 \times 5}  \\\\
+                            &= \dfrac{19}{35}
 \end{aligned}
 $
 </code></pre>
@@ -729,7 +735,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac{31}{20}$
+<pre class='language-latex'><code class='language-latex'>$\dfrac{19}{35}$
 </code></pre>
 </div>
 </div>
@@ -748,13 +754,13 @@ Write down a fraction between nine fifths and two.
 
 $
 \begin{aligned}
-&= \dfrac {1} {2} \times ( \dfrac {9} {5} + \dfrac {2} {1} ) \\\\
-&= \dfrac {1} {2} \times ( \dfrac {9 \times 1} {5 \times 1} + \dfrac {2 \times 5} {1 \times 5} ) \\\\
-&= \dfrac {1} {2} \times ( \dfrac {9} {5} + \dfrac {10} {5} ) \\\\
-&= \dfrac {1} {2} \times ( \dfrac {9 + 10} {5} ) \\\\
-&= \dfrac {1} {2} \times ( \dfrac {19} {5} ) \\\\
-&= \dfrac {19} {10} \\\\
-&= 1 \dfrac {9} {10} 
+&= \dfrac {1} {2} \times \bigg ( \dfrac {9} {5} + 2\bigg ) \\\\
+&= \dfrac {1} {2} \times \bigg ( \dfrac {9} {5} + \dfrac {2 \times 5} {1 \times 5} \bigg ) \\\\
+&= \dfrac {1} {2} \times \bigg ( \dfrac {9} {5} + \dfrac {10} {5} \bigg ) \\\\
+&= \dfrac {1} {2} \times \bigg ( \dfrac {9 + 10} {5} \bigg ) \\\\
+&= \dfrac {1} {2} \times  \dfrac {19} {5} \\\\
+&= \dfrac {19} {2 \times 5} \\\\
+&= \dfrac {19} {10}
 \end{aligned}
 $
 
@@ -763,7 +769,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1 \dfrac {9} {10}$
+$\dfrac {19} {10}$
 
 </div>
 </div>
@@ -772,13 +778,13 @@ $1 \dfrac {9} {10}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= \dfrac {1} {2} \times ( \dfrac {9} {5} + \dfrac {2} {1} ) \\\\
-&= \dfrac {1} {2} \times ( \dfrac {9 \times 1} {5 \times 1} + \dfrac {2 \times 5} {1 \times 5} ) \\\\
-&= \dfrac {1} {2} \times ( \dfrac {9} {5} + \dfrac {10} {5} ) \\\\
-&= \dfrac {1} {2} \times ( \dfrac {9 + 10} {5} ) \\\\
-&= \dfrac {1} {2} \times ( \dfrac {19} {5} ) \\\\
-&= \dfrac {19} {10} \\\\
-&= 1 \dfrac {9} {10} 
+&= \dfrac {1} {2} \times \bigg ( \dfrac {9} {5} + 2\bigg ) \\\\
+&= \dfrac {1} {2} \times \bigg ( \dfrac {9} {5} + \dfrac {2 \times 5} {1 \times 5} \bigg ) \\\\
+&= \dfrac {1} {2} \times \bigg ( \dfrac {9} {5} + \dfrac {10} {5} \bigg ) \\\\
+&= \dfrac {1} {2} \times \bigg ( \dfrac {9 + 10} {5} \bigg ) \\\\
+&= \dfrac {1} {2} \times  \dfrac {19} {5} \\\\
+&= \dfrac {19} {2 \times 5} \\\\
+&= \dfrac {19} {10}
 \end{aligned}
 $
 </code></pre>
@@ -792,7 +798,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1 \dfrac {9} {10}$
+<pre class='language-latex'><code class='language-latex'>$\dfrac {19} {10}$
 </code></pre>
 </div>
 </div>
@@ -800,44 +806,39 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-add first statement with of and run in katex.org (\cancel problem)
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' id='FORM-7F8B7DAA-2971-4079-9737-6D7B149AA96E' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' id='FORM-7F8B7DAA-2971-4079-9737-6D7B149AA96E' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1123,7 +1124,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>6974905E-5C97-44EB-9574-C93522E2C23C</p>
 </div>
@@ -1137,7 +1138,7 @@ $
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1154,18 +1155,6 @@ How many different $3$-digit whole numbers can be formed using the digits $4, 7$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
 The possible arrangement are:
 
 - $479$
@@ -1178,7 +1167,7 @@ The possible arrangement are:
 Total count $= 6$ 
 
 </div>
-<div class='answer'>
+<div class='working'>
 
 Using permutation,
 
@@ -1192,15 +1181,39 @@ Total arrangements $= 3 \times 2 \times 1 =6$
 
 </div>
 </div>
+<div class='answers'>
+<div class='answer'>
+
+$6$ 
+
+</div>
+</div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>The possible arrangement are:
+<emptyline>
+- $479$
+- $497$
+- $749$
+- $794$
+- $947$
+- $974$
+<emptyline>
+Total count $= 6$ 
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Using permutation,
+<emptyline>
+Number of digits that can be used in the hundreds place $= 3$
+<emptyline>
+Number of digits that can be used in the tens place $= 2$
+<emptyline>
+Number of digits that can be used in the units place $= 1$
+<emptyline>
+Total arrangements $= 3 \times 2 \times 1 =6$
 </code></pre>
 </div>
 </div>
@@ -1212,34 +1225,7 @@ Total arrangements $= 3 \times 2 \times 1 =6$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>The possible arrangement are:
-
-- $479$
-- $497$
-- $749$
-- $794$
-- $947$
-- $974$
-
-Total count $= 6$ 
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Using permutation,
-
-Number of digits that can be used in the hundreds place $= 3$
-
-Number of digits that can be used in the tens place $= 2$
-
-Number of digits that can be used in the units place $= 1$
-
-Total arrangements $= 3 \times 2 \times 1 =6$
+<pre class='language-latex'><code class='language-latex'>$6$ 
 </code></pre>
 </div>
 </div>
@@ -1705,7 +1691,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>80F4D32D-E7F6-4E7A-9776-DC2204D80BCA</p>
 </div>
@@ -1716,7 +1702,7 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g2</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1791,35 +1777,35 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='80F4D32D-E7F6-4E7A-9776-DC2204D80BCA' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='80F4D32D-E7F6-4E7A-9776-DC2204D80BCA' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='80F4D32D-E7F6-4E7A-9776-DC2204D80BCA' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='80F4D32D-E7F6-4E7A-9776-DC2204D80BCA' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='80F4D32D-E7F6-4E7A-9776-DC2204D80BCA' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='80F4D32D-E7F6-4E7A-9776-DC2204D80BCA' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='80F4D32D-E7F6-4E7A-9776-DC2204D80BCA' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='80F4D32D-E7F6-4E7A-9776-DC2204D80BCA' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='80F4D32D-E7F6-4E7A-9776-DC2204D80BCA' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='80F4D32D-E7F6-4E7A-9776-DC2204D80BCA' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='80F4D32D-E7F6-4E7A-9776-DC2204D80BCA' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='80F4D32D-E7F6-4E7A-9776-DC2204D80BCA' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='80F4D32D-E7F6-4E7A-9776-DC2204D80BCA' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='80F4D32D-E7F6-4E7A-9776-DC2204D80BCA' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='80F4D32D-E7F6-4E7A-9776-DC2204D80BCA' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='80F4D32D-E7F6-4E7A-9776-DC2204D80BCA' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='80F4D32D-E7F6-4E7A-9776-DC2204D80BCA' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='80F4D32D-E7F6-4E7A-9776-DC2204D80BCA' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='80F4D32D-E7F6-4E7A-9776-DC2204D80BCA' id='FORM-80F4D32D-E7F6-4E7A-9776-DC2204D80BCA' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='80F4D32D-E7F6-4E7A-9776-DC2204D80BCA' id='FORM-80F4D32D-E7F6-4E7A-9776-DC2204D80BCA' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2462,24 +2448,24 @@ Calculate the ratio of the number of $4$-digit palindromes to the number of $5$-
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

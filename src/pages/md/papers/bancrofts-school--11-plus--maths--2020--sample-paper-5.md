@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2020-sample-paper-5"
 title: "Bancrofts School - 11 Plus - Maths - 2020 - Sample Paper 5"
-date: 2022-08-18 10:44:13
+date: 2022-08-19 15:32:50
 questions_count: "11"
 ---
 <div class='paper'>
@@ -722,24 +722,24 @@ $
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -813,24 +813,24 @@ tnumber
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1157,24 +1157,24 @@ talgebra
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1656,7 +1656,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>39DAF11E-BE1E-4FE3-8CF7-F0280EB3A60A</p>
 </div>
@@ -1670,7 +1670,7 @@ $
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1688,24 +1688,24 @@ talgebra
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1940,6 +1940,35 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part b)
+
+Let the ...
+
+Parents age = (40+t) years     ((add this step
+
+Childs age = (13+t) years      ((add this step
+
+APTQ,                           ((add this step
+
+Parent’s age = 2 x Childs age  ((remove this
+
+(40+t) years = 2 x (13+t) years 
+
+then solve further...
+
+
+
+Part c)
+
+Everything inside \begin-end.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1984,7 +2013,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>4AE454C7-A1FE-4AA5-81F3-60BA4730C49F</p>
 </div>
@@ -1995,7 +2024,7 @@ $
 <p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_an_pr</p>
+<p>rag_an_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2017,21 +2046,21 @@ Give your answers as fully simplified fractions.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -2043,7 +2072,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -2117,11 +2146,24 @@ $
 <div class='workings'>
 <div class='working'>
 
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Add a diagram with lines drawn to show more partitions properly *
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+As per the diagram,
+
 $
 \begin{aligned}
-\text{Fraction shaded}           &= \dfrac {1} {2} + \dfrac {1} {2} \\\\
-                               &= 1 \\\\
-\text {Fraction}               &= \dfrac {1} {4}
+\text {Fraction shaded}         &= \dfrac {2} {8} \\\\
+                                &= \dfrac {2} {2 \times 4} \\\\
+                                &= \dfrac {\cancel{2}} {\cancel{2} \times 4} \\\\
+                                &= \dfrac {1} {4}
 \end{aligned}
 $
 
@@ -2137,11 +2179,18 @@ $\dfrac {1} {4}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: Add a diagram with lines drawn to show more partitions properly *
+rtq_abbr_md_add_drawing_ends
+<emptyline>
+As per the diagram,
+<emptyline>
+$
 \begin{aligned}
-\text{Fraction shaded}           &= \dfrac {1} {2} + \dfrac {1} {2} \\\\
-                               &= 1 \\\\
-\text {Fraction}               &= \dfrac {1} {4}
+\text {Fraction shaded}         &= \dfrac {2} {8} \\\\
+                                &= \dfrac {2} {2 \times 4} \\\\
+                                &= \dfrac {\cancel{2}} {\cancel{2} \times 4} \\\\
+                                &= \dfrac {1} {4}
 \end{aligned}
 $
 </code></pre>
@@ -2173,17 +2222,17 @@ $
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-\text {number of shaded boxes} &= 1 + \dfrac {1} {2} + \dfrac {1} {4} \\\\
-                               &= \dfrac {4} {4} + \dfrac {2} {4} + \dfrac {1} {4} \\\\
-                               &= \dfrac {4 + 2 + 1} {4} \\\\
-                               &= \dfrac {7} {4} \\\\
-\text {Fraction}               &= \dfrac {7} {4} \times \dfrac {1} {4} \\\\
-                               &= \dfrac {7} {4 \times 4} \\\\
-                               &= \dfrac {7} {16}
-\end{aligned}
-$
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Add a diagram with lines drawn to show more partitions properly *
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+Fraction shaded $= \dfrac {7} {16}$
 
 </div>
 </div>
@@ -2197,17 +2246,11 @@ $\dfrac {7} {16}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-\text {number of shaded boxes} &= 1 + \dfrac {1} {2} + \dfrac {1} {4} \\\\
-                               &= \dfrac {4} {4} + \dfrac {2} {4} + \dfrac {1} {4} \\\\
-                               &= \dfrac {4 + 2 + 1} {4} \\\\
-                               &= \dfrac {7} {4} \\\\
-\text {Fraction}               &= \dfrac {7} {4} \times \dfrac {1} {4} \\\\
-                               &= \dfrac {7} {4 \times 4} \\\\
-                               &= \dfrac {7} {16}
-\end{aligned}
-$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: Add a diagram with lines drawn to show more partitions properly *
+rtq_abbr_md_add_drawing_ends
+<emptyline>
+Fraction shaded $= \dfrac {7} {16}$
 </code></pre>
 </div>
 </div>
@@ -2231,35 +2274,35 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' id='FORM-4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' id='FORM-4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2453,24 +2496,24 @@ tprobability
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2521,24 +2564,24 @@ What is the most likely total score that I can get?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2591,24 +2634,24 @@ What numbers did I roll?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2693,24 +2736,24 @@ And so on, until the final, where one player wins the whole tournament.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2759,24 +2802,24 @@ How many matches does the winner of the entire tournament play?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2827,24 +2870,24 @@ How many matches in total are played in the entire tournament?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2897,24 +2940,24 @@ $1 + 2 + 4 + 8 + \ldots + 1024$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2992,24 +3035,24 @@ For example the digit sum of $2862$ is $18$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3211,24 +3254,24 @@ How many $100$ digit numbers have a digit sum of $899$?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

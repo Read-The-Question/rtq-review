@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-ttable-2-pr-prcr"
 title: "TopicPaper - Table - 2 - PR - PRCR"
-date: 2022-08-18 11:06:01
+date: 2022-08-19 16:00:22
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "9"
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -227,10 +227,10 @@ If a 32 year old pays $\pounds 95$ for a Skoyota car, what would a $20$ year old
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -316,10 +316,10 @@ In magic squares, the numbers in every row, column and the two diagonals add up 
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -441,10 +441,10 @@ During one night, the toll road is used by $100$ cars, $200$ lorries and $20$ va
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -566,10 +566,10 @@ Ben and Anna were taken to Ashbridge by their Aunt Patricia. Their mother gave t
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -745,10 +745,10 @@ What difference would it make to the formula if stretch limos were used with $4$
 <p>tonbridge-school--scholarship--maths--2016--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -884,10 +884,10 @@ For what value of $x$ is the $y$ - value twice the shortest distance from A to B
 <p>tonbridge-school--scholarship--maths--2018--sample-paper-2:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1056,10 +1056,10 @@ If the entry in Column B is $9410$, what is the smallest number listed in Column
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1153,10 +1153,10 @@ $\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1:2:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

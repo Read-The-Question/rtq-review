@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-13-pr-prccrl"
 title: "TopicPaper - Algebra - 13 - PR - PRCCRL"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -41,14 +41,14 @@ He eats one more and gives the last one to Sean.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -441,7 +441,7 @@ Therefore, the cost of an apple $= 15$ p
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

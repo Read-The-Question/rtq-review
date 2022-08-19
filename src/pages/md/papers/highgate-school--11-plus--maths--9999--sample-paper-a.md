@@ -1,7 +1,7 @@
 ---
 slug: "papers/highgate-school-11-plus-maths-9999-sample-paper-a"
 title: "Highgate School - 11 Plus - Maths - 9999 - Sample Paper A"
-date: 2022-08-18 10:44:13
+date: 2022-08-19 15:32:50
 questions_count: "4"
 ---
 <div class='paper'>

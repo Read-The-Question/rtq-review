@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-12-pr-prns"
 title: "TopicPaper - Number - 12 - PR - PRNS"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -43,7 +43,7 @@ tnumber
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write down the factors of $25$
+Write down the factors of $25$.
 
 </div>
 <div class='workings'>
@@ -86,7 +86,7 @@ $1, 5,  25$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write down the factors of $30$
+Write down the factors of $30$.
 
 </div>
 <div class='workings'>
@@ -129,7 +129,7 @@ $ 1,  2,  3,  5,  6,  10,  15,  30$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write down the highest common factor of $25$ and $30$
+Write down the highest common factor of $25$ and $30$.
 
 </div>
 <div class='workings'>
@@ -196,7 +196,7 @@ $ = 5$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write down the prime factors of $30$ 
+Write down the prime factors of $30$.
 
 </div>
 <div class='workings'>

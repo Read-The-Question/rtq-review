@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tpermutation-1"
 title: "TopicPaper - Permutation - 1"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "40"
 ---
 <div class='paper'>
@@ -52,24 +52,24 @@ What is the correct order for the three coloured discs?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -114,7 +114,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>46E107A3-0905-4217-99F1-812F3AB41832</p>
 </div>
@@ -128,7 +128,7 @@ TODOANSWER
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -145,29 +145,36 @@ tpermutation
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
+<div class='answers'>
+<div class='answer'>
 
+%empty%
+
+</div>
+</div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
-
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -182,18 +189,6 @@ How many triangles are there in this picture?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
 The total number of small triangles $= 4$
 
 total number of large triangle $= 1$
@@ -202,15 +197,21 @@ So,total numbers of triangles $= 4+1 = 5$
 
 </div>
 </div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>The total number of small triangles $= 4$
+<emptyline>
+total number of large triangle $= 1$
+<emptyline>
+So,total numbers of triangles $= 4+1 = 5$
 </code></pre>
 </div>
 </div>
@@ -222,11 +223,7 @@ So,total numbers of triangles $= 4+1 = 5$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>The total number of small triangles $= 4$
-
-total number of large triangle $= 1$
-
-So,total numbers of triangles $= 4+1 = 5$
+<pre class='language-latex'><code class='language-latex'>$5$
 </code></pre>
 </div>
 </div>
@@ -244,35 +241,29 @@ In how many ways can this be done?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Number of ways for painting red or blue colour in the center triangle $= 2$
 
-</div>
-<div class='working'>
+Number of ways remaining for painting other triangles $= 1$
 
-TODOWORKING
+So, total ways triangles can be painted $= 2 \times 1 = 2$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Number of ways for painting red or blue colour at central triangle $= 2$
-
-Number of ways remaining for painting other triangles $= 1$
-
-so,total ways triangles can be painted $= 2 \times 1 = 2$
+$2$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Number of ways for painting red or blue colour in the center triangle $= 2$
+<emptyline>
+Number of ways remaining for painting other triangles $= 1$
+<emptyline>
+So, total ways triangles can be painted $= 2 \times 1 = 2$
 </code></pre>
 </div>
 </div>
@@ -284,11 +275,7 @@ so,total ways triangles can be painted $= 2 \times 1 = 2$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Number of ways for painting red or blue colour at central triangle $= 2$
-
-Number of ways remaining for painting other triangles $= 1$
-
-so,total ways triangles can be painted $= 2 \times 1 = 2$
+<pre class='language-latex'><code class='language-latex'>$2$
 </code></pre>
 </div>
 </div>
@@ -340,7 +327,7 @@ so,total ways triangles can be painted $= 2 \times 1 = 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>CE2F50A4-A29C-4267-8728-7D80877E6590</p>
 </div>
@@ -354,7 +341,7 @@ so,total ways triangles can be painted $= 2 \times 1 = 2$
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -381,21 +368,7 @@ Note that repeated letters are allowed.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-The possible arrangements are:
-
-Number plate when $A$ at first place:
+If we use $A$ in the first place, the possible arrangements are:
 
 $
 \begin{matrix}
@@ -405,7 +378,9 @@ AD1  &  AD2  &  AD3  &  AD4 \\
 \end{matrix}
 $
 
-Number plate when $B$ at first place:
+Count $= 12$
+
+If we use $B$ in the first place, the possible arrangements are:
 
 $
 \begin{matrix}
@@ -415,7 +390,9 @@ BD1  &  BD2  &  BD3  &  BD4 \\
 \end{matrix}
 $
 
-Number plate when $C$ at first place:
+Count $= 12$
+
+If we use $C$ in the first place, the possible arrangements are:
 
 $
 \begin{matrix}
@@ -425,7 +402,9 @@ CD1  &  CD2  &  CD3  &  CD4 \\
 \end{matrix}
 $
 
-Number plate when $D$ at first place:
+Count $= 12$
+
+If we use $D$ in the first place, the possible arrangements are:
 
 $
 \begin{matrix}
@@ -435,32 +414,97 @@ DC1  &  DC2  &  DC3  &  DC4 \\
 \end{matrix}
 $
 
+Count $= 12$
+
 Total count = $4 \times 12 = 48$
 
 </div>
-<div class='answer'>
+<div class='working'>
 
 Using permutation,
 
-Number of letters that can be use in first place $= 4$
+Number of letters that can be use in the first place $= 4$
 
-Number of letters that can be use in second place $= 3$
+Number of letters that can be use in the second place $= 3$
 
-Number of digit that can be use in third place $= 4$
+Number of digit that can be use in the third place $= 4$
 
 Total arrangements $= 4 \times 3 \times 4 =48$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>If we use $A$ in the first place, the possible arrangements are:
+<emptyline>
+$
+\begin{matrix}
+AB1  &  AB2  &  AB3  &  AB4 \\
+AC1  &  AC2  &  AC3  &  AC4 \\
+AD1  &  AD2  &  AD3  &  AD4 \\
+\end{matrix}
+$
+<emptyline>
+Count $= 12$
+<emptyline>
+If we use $B$ in the first place, the possible arrangements are:
+<emptyline>
+$
+\begin{matrix}
+BA1  &  BA2  &  BA3  &  BA4 \\
+BC1  &  BC2  &  BC3  &  BC4 \\
+BD1  &  BD2  &  BD3  &  BD4 \\
+\end{matrix}
+$
+<emptyline>
+Count $= 12$
+<emptyline>
+If we use $C$ in the first place, the possible arrangements are:
+<emptyline>
+$
+\begin{matrix}
+CA1  &  CA2  &  CA3  &  CA4 \\
+CB1  &  CB2  &  CB3  &  CB4 \\
+CD1  &  CD2  &  CD3  &  CD4 \\
+\end{matrix}
+$
+<emptyline>
+Count $= 12$
+<emptyline>
+If we use $D$ in the first place, the possible arrangements are:
+<emptyline>
+$
+\begin{matrix}
+DA1  &  DA2  &  DA3  &  DA4 \\
+DB1  &  DB2  &  DB3  &  DB4 \\
+DC1  &  DC2  &  DC3  &  DC4 \\
+\end{matrix}
+$
+<emptyline>
+Count $= 12$
+<emptyline>
+Total count = $4 \times 12 = 48$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Using permutation,
+<emptyline>
+Number of letters that can be use in the first place $= 4$
+<emptyline>
+Number of letters that can be use in the second place $= 3$
+<emptyline>
+Number of digit that can be use in the third place $= 4$
+<emptyline>
+Total arrangements $= 4 \times 3 \times 4 =48$
 </code></pre>
 </div>
 </div>
@@ -472,67 +516,7 @@ Total arrangements $= 4 \times 3 \times 4 =48$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>The possible arrangements are:
-
-Number plate when $A$ at first place:
-
-$
-\begin{matrix}
-AB1  &  AB2  &  AB3  &  AB4 \\
-AC1  &  AC2  &  AC3  &  AC4 \\
-AD1  &  AD2  &  AD3  &  AD4 \\
-\end{matrix}
-$
-
-Number plate when $B$ at first place:
-
-$
-\begin{matrix}
-BA1  &  BA2  &  BA3  &  BA4 \\
-BC1  &  BC2  &  BC3  &  BC4 \\
-BD1  &  BD2  &  BD3  &  BD4 \\
-\end{matrix}
-$
-
-Number plate when $C$ at first place:
-
-$
-\begin{matrix}
-CA1  &  CA2  &  CA3  &  CA4 \\
-CB1  &  CB2  &  CB3  &  CB4 \\
-CD1  &  CD2  &  CD3  &  CD4 \\
-\end{matrix}
-$
-
-Number plate when $D$ at first place:
-
-$
-\begin{matrix}
-DA1  &  DA2  &  DA3  &  DA4 \\
-DB1  &  DB2  &  DB3  &  DB4 \\
-DC1  &  DC2  &  DC3  &  DC4 \\
-\end{matrix}
-$
-
-Total count = $4 \times 12 = 48$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Using permutation,
-
-Number of letters that can be use in first place $= 4$
-
-Number of letters that can be use in second place $= 3$
-
-Number of digit that can be use in third place $= 4$
-
-Total arrangements $= 4 \times 3 \times 4 =48$
+<pre class='language-latex'><code class='language-latex'>$48$
 </code></pre>
 </div>
 </div>
@@ -547,33 +531,17 @@ Calculate how many plates start with a double B.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+If we use double $B$ in the first and second place, the possible arrangements are:
+
+- $BB1$
+- $BB2$
+- $BB3$
+- $BB4$
+
+Total count $=4$
 
 </div>
 <div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-The Possible arrangements:
-
-$
-\begin{array}{cccccccccccccc}
-BB1 \\
-BB2 \\
-BB3 \\
-BB4 \\
-\end{array}
-$
-
-Total count $=4$  
-
-</div>
-<div class='answer'>
 
 Using permutation,
 
@@ -587,15 +555,37 @@ Total Number of arrangements $= 1 \times 1 \times 4 = 4$
 
 </div>
 </div>
+<div class='answers'>
+<div class='answer'>
+
+$4$  
+
+</div>
+</div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>If we use double $B$ in the first and second place, the possible arrangements are:
+<emptyline>
+- $BB1$
+- $BB2$
+- $BB3$
+- $BB4$
+<emptyline>
+Total count $=4$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Using permutation,
+<emptyline>
+Number of letters can be in first place $= 1$
+<emptyline>
+Number of letters can be in second place $= 1$
+<emptyline>
+Number of digit can be in third place $= 4$
+<emptyline>
+Total Number of arrangements $= 1 \times 1 \times 4 = 4$
 </code></pre>
 </div>
 </div>
@@ -607,36 +597,7 @@ Total Number of arrangements $= 1 \times 1 \times 4 = 4$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>The Possible arrangements:
-
-$
-\begin{array}{cccccccccccccc}
-BB1 \\
-BB2 \\
-BB3 \\
-BB4 \\
-\end{array}
-$
-
-Total count $=4$  
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Using permutation,
-
-Number of letters can be in first place $= 1$
-
-Number of letters can be in second place $= 1$
-
-Number of digit can be in third place $= 4$
-
-Total Number of arrangements $= 1 \times 1 \times 4 = 4$
+<pre class='language-latex'><code class='language-latex'>$4$  
 </code></pre>
 </div>
 </div>
@@ -653,42 +614,93 @@ Calculate how many plates there are that start with any repeated letter.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+If we use double $A$ in the first and second place,the possible arrangements are:
 
-</div>
-<div class='working'>
+- $AA1$
+- $AA2$
+- $AA3$
+- $AA4$
 
-TODOWORKING
+Count $= 4$
+
+If we use double $B$ in the first and second place,the possible arrangements are:
+
+- $BB1$
+- $BB2$
+- $BB3$
+- $BB4$
+
+Count $= 4$
+
+If we use double $C$ in the first and second place,the possible arrangements are:
+
+- $CC1$
+- $CC2$
+- $CC3$
+- $CC4$
+
+Count $= 4$
+
+If we use double $D$ in the first and second place,the possible arrangements are:
+
+- $DD1$
+- $DD2$
+- $DD3$
+- $DD4$
+
+Count $= 4$
+
+Total count $= 4 + 4 + 4 + 4 = 16$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-The Possible arrangements:
-
-$
-\begin{array}{cccccccccccccc}
-AA1 & AA2 & AA3 & AA4 \\
-BB1 & BB2 & BB3 & BB4 \\
-CC1 & CC2 & CC3 & CC4 \\
-DD1 & DD2 & DD3 & DD4 \\
-\end{array}
-$
-
-Total count $= 16$
+$16$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>If we use double $A$ in the first and second place,the possible arrangements are:
+<emptyline>
+- $AA1$
+- $AA2$
+- $AA3$
+- $AA4$
+<emptyline>
+Count $= 4$
+<emptyline>
+If we use double $B$ in the first and second place,the possible arrangements are:
+<emptyline>
+- $BB1$
+- $BB2$
+- $BB3$
+- $BB4$
+<emptyline>
+Count $= 4$
+<emptyline>
+If we use double $C$ in the first and second place,the possible arrangements are:
+<emptyline>
+- $CC1$
+- $CC2$
+- $CC3$
+- $CC4$
+<emptyline>
+Count $= 4$
+<emptyline>
+If we use double $D$ in the first and second place,the possible arrangements are:
+<emptyline>
+- $DD1$
+- $DD2$
+- $DD3$
+- $DD4$
+<emptyline>
+Count $= 4$
+<emptyline>
+Total count $= 4 + 4 + 4 + 4 = 16$
 </code></pre>
 </div>
 </div>
@@ -700,18 +712,7 @@ Total count $= 16$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>The Possible arrangements:
-
-$
-\begin{array}{cccccccccccccc}
-AA1 & AA2 & AA3 & AA4 \\
-BB1 & BB2 & BB3 & BB4 \\
-CC1 & CC2 & CC3 & CC4 \\
-DD1 & DD2 & DD3 & DD4 \\
-\end{array}
-$
-
-Total count $= 16$
+<pre class='language-latex'><code class='language-latex'>$16$
 </code></pre>
 </div>
 </div>
@@ -728,35 +729,32 @@ Calculate how many plates contain just one vowel and an odd number.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+If we use $A$ in the first place, the possible arrangements are:
+
+- $AB1$
+- $AB3$
+- $AC1$
+- $AC3$
+- $AD1$
+- $AD3$
+
+count $= 6$
+
+If we use $A$ in the second place, the possible arrangements are:
+
+- $BA1$
+- $BA3$
+- $CA1$
+- $CA3$
+- $DA1$
+- $DA3$
+
+Count $= 6$
+
+Total count $= 6 + 6 = 12$
 
 </div>
 <div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-The Possible arrangements:
-
-$
-\begin{array}{cccccccccccccc}
-AB1  &  AB3 \\
-AC1  &  AC3 \\
-AD1  &  AD3 \\
-BA1  &  BA3 \\
-CA1  &  CA3 \\
-DA1  &  DA3 \\
-\end{array}
-$
-
-Total count $= 12$  
-
-</div>
-<div class='answer'>
 
 Using permutation,
 
@@ -770,15 +768,52 @@ Total Number of arrangements $= 1 \times 3 \times 4 = 12$
 
 </div>
 </div>
+<div class='answers'>
+<div class='answer'>
+
+$12$  
+
+</div>
+</div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>If we use $A$ in the first place, the possible arrangements are:
+<emptyline>
+- $AB1$
+- $AB3$
+- $AC1$
+- $AC3$
+- $AD1$
+- $AD3$
+<emptyline>
+count $= 6$
+<emptyline>
+If we use $A$ in the second place, the possible arrangements are:
+<emptyline>
+- $BA1$
+- $BA3$
+- $CA1$
+- $CA3$
+- $DA1$
+- $DA3$
+<emptyline>
+Count $= 6$
+<emptyline>
+Total count $= 6 + 6 = 12$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Using permutation,
+<emptyline>
+Number of letters can be in first place $= 1$
+<emptyline>
+Number of letters can be in second place $= 3$
+<emptyline>
+Number of digit can be in third place $= 4$
+<emptyline>
+Total Number of arrangements $= 1 \times 3 \times 4 = 12$
 </code></pre>
 </div>
 </div>
@@ -790,38 +825,7 @@ Total Number of arrangements $= 1 \times 3 \times 4 = 12$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>The Possible arrangements:
-
-$
-\begin{array}{cccccccccccccc}
-AB1  &  AB3 \\
-AC1  &  AC3 \\
-AD1  &  AD3 \\
-BA1  &  BA3 \\
-CA1  &  CA3 \\
-DA1  &  DA3 \\
-\end{array}
-$
-
-Total count $= 12$  
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Using permutation,
-
-Number of letters can be in first place $= 1$
-
-Number of letters can be in second place $= 3$
-
-Number of digit can be in third place $= 4$
-
-Total Number of arrangements $= 1 \times 3 \times 4 = 12$
+<pre class='language-latex'><code class='language-latex'>$12$  
 </code></pre>
 </div>
 </div>
@@ -839,10 +843,44 @@ alphabetical order, giving your answer in its lowest form.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+
+When we use $A$ in the first place, the possible arrangements are:(when repeatation is not allowed)
+
+$
+\begin{matrix}
+AB1  &  AB2  &  AB3  &  AB4 \\
+AC1  &  AC2  &  AC3  &  AC4 \\
+AD1  &  AD2  &  AD3  &  AD4 \\
+\end{matrix}
+$
+
+Count $=12$
+
+When we use $B$ in the first place, the possible arrangements are:(when repeatation is not allowed)
+
+$
+\begin{matrix}
+BC1  &  BC2  &  BC3  &  BC4 \\
+BD1  &  BD2  &  BD3  &  BD4 \\
+\end{matrix}
+$
+
+Count $=8$
+
+When we use $C$ in the first place, the possible arrangements are:(when repeatation is not allowed)
+
+$
+\begin{matrix}
+CD1  &  CD2  &  CD3  &  CD4 \\
+\end{matrix}
+$
+
+Count $=4$
+
+Total number plates $= 12 + 8 + 4 = 24$ 
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
@@ -851,10 +889,16 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-The possible arrangements (when repeatation is not allowed) are:
+$24$ 
 
-Number plate when $A$ at first place:
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
 
+<pre class='language-latex'><code class='language-latex'>
+When we use $A$ in the first place, the possible arrangements are:(when repeatation is not allowed)
+<emptyline>
 $
 \begin{matrix}
 AB1  &  AB2  &  AB3  &  AB4 \\
@@ -862,32 +906,31 @@ AC1  &  AC2  &  AC3  &  AC4 \\
 AD1  &  AD2  &  AD3  &  AD4 \\
 \end{matrix}
 $
-
-Number plate when $B$ at first place:
-
+<emptyline>
+Count $=12$
+<emptyline>
+When we use $B$ in the first place, the possible arrangements are:(when repeatation is not allowed)
+<emptyline>
 $
 \begin{matrix}
 BC1  &  BC2  &  BC3  &  BC4 \\
 BD1  &  BD2  &  BD3  &  BD4 \\
 \end{matrix}
 $
-
-Number plate when $C$ at first place:
-
+<emptyline>
+Count $=8$
+<emptyline>
+When we use $C$ in the first place, the possible arrangements are:(when repeatation is not allowed)
+<emptyline>
 $
 \begin{matrix}
 CD1  &  CD2  &  CD3  &  CD4 \\
 \end{matrix}
 $
-
+<emptyline>
+Count $=4$
+<emptyline>
 Total number plates $= 12 + 8 + 4 = 24$ 
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -904,36 +947,7 @@ Total number plates $= 12 + 8 + 4 = 24$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>The possible arrangements (when repeatation is not allowed) are:
-
-Number plate when $A$ at first place:
-
-$
-\begin{matrix}
-AB1  &  AB2  &  AB3  &  AB4 \\
-AC1  &  AC2  &  AC3  &  AC4 \\
-AD1  &  AD2  &  AD3  &  AD4 \\
-\end{matrix}
-$
-
-Number plate when $B$ at first place:
-
-$
-\begin{matrix}
-BC1  &  BC2  &  BC3  &  BC4 \\
-BD1  &  BD2  &  BD3  &  BD4 \\
-\end{matrix}
-$
-
-Number plate when $C$ at first place:
-
-$
-\begin{matrix}
-CD1  &  CD2  &  CD3  &  CD4 \\
-\end{matrix}
-$
-
-Total number plates $= 12 + 8 + 4 = 24$ 
+<pre class='language-latex'><code class='language-latex'>$24$ 
 </code></pre>
 </div>
 </div>
@@ -985,7 +999,7 @@ Total number plates $= 12 + 8 + 4 = 24$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>BA1841E5-2EEA-4F9C-B181-DFB0AD348B25</p>
 </div>
@@ -999,7 +1013,7 @@ Total number plates $= 12 + 8 + 4 = 24$
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1020,41 +1034,37 @@ How many different ways can she score $8$?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+The possible arrangements are:
 
-</div>
-<div class='working'>
+- $2,6$   
+- $3,5$ 
+- $4,4$  
+- $5,3$
+- $6,2$
 
-TODOWORKING
+Total count $= 5$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-The possible arrangements are:
-
-$
-\begin{array}{cccccccccccccc}
-(2,6) & (6,2) \\\\
-(3,5) & (5,3) \\\\
-(4,4)  
-\end{array}
-$
-
-Total count $= 5$ 
+$5$ 
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>The possible arrangements are:
+<emptyline>
+- $2,6$   
+- $3,5$ 
+- $4,4$  
+- $5,3$
+- $6,2$
+<emptyline>
+Total count $= 5$
 </code></pre>
 </div>
 </div>
@@ -1066,17 +1076,7 @@ Total count $= 5$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>The possible arrangements are:
-
-$
-\begin{array}{cccccccccccccc}
-(2,6) & (6,2) \\\\
-(3,5) & (5,3) \\\\
-(4,4)  
-\end{array}
-$
-
-Total count $= 5$ 
+<pre class='language-latex'><code class='language-latex'>$5$ 
 </code></pre>
 </div>
 </div>
@@ -1125,7 +1125,7 @@ Total count $= 5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>74AC2383-BAFE-4FBC-99E0-3BE175A9CD52</p>
 </div>
@@ -1139,7 +1139,7 @@ Total count $= 5$
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1159,39 +1159,37 @@ How many ways are there of colouring in three squares in this grid so that exact
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Using permutation,
 
-</div>
-<div class='working'>
+Number of ways we can colour in the first row $= 3$
 
-TODOWORKING
+Number of ways we can colour in the  second row $= 2$
+
+Number of ways we can colouring in the third row $= 2$
+
+Total Number of arrangements $= 3 \times 2 \times 2 = 12$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Using permutation,
-
-Number of ways colouring first row $= 3$
-
-Number of ways colouring second row $= 2$
-
-Number of ways colouring third row $= 2$
-
-Total NUmber of arrangements $= 3 \times 2 \times 2 = 12$
+$12$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Using permutation,
+<emptyline>
+Number of ways we can colour in the first row $= 3$
+<emptyline>
+Number of ways we can colour in the  second row $= 2$
+<emptyline>
+Number of ways we can colouring in the third row $= 2$
+<emptyline>
+Total Number of arrangements $= 3 \times 2 \times 2 = 12$
 </code></pre>
 </div>
 </div>
@@ -1203,15 +1201,7 @@ Total NUmber of arrangements $= 3 \times 2 \times 2 = 12$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Using permutation,
-
-Number of ways colouring first row $= 3$
-
-Number of ways colouring second row $= 2$
-
-Number of ways colouring third row $= 2$
-
-Total NUmber of arrangements $= 3 \times 2 \times 2 = 12$
+<pre class='language-latex'><code class='language-latex'>$12$
 </code></pre>
 </div>
 </div>
@@ -1260,7 +1250,7 @@ Total NUmber of arrangements $= 3 \times 2 \times 2 = 12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>422A9416-568A-4E36-8E9B-C8A81997B5DA</p>
 </div>
@@ -1274,7 +1264,7 @@ Total NUmber of arrangements $= 3 \times 2 \times 2 = 12$
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1296,18 +1286,6 @@ How many different possible routes are there?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
 Number of routes in first step $= 2$
 
 Number of routes in another $= 2$
@@ -1319,15 +1297,24 @@ Total Number of arrangements $= 2 \times 2 \times 2 \times 2 \times 2 \times 2 =
 
 </div>
 </div>
+<div class='answers'>
+<div class='answer'>
+
+$64$
+
+</div>
+</div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>Number of routes in first step $= 2$
+<emptyline>
+Number of routes in another $= 2$
+<emptyline>
+Similarly,in remaining 4 number of routes $= 2$
+<emptyline>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+Total Number of arrangements $= 2 \times 2 \times 2 \times 2 \times 2 \times 2 = 64$
 </code></pre>
 </div>
 </div>
@@ -1339,14 +1326,7 @@ Total Number of arrangements $= 2 \times 2 \times 2 \times 2 \times 2 \times 2 =
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Number of routes in first step $= 2$
-
-Number of routes in another $= 2$
-
-Similarly,in remaining 4 number of routes $= 2$
-
-
-Total Number of arrangements $= 2 \times 2 \times 2 \times 2 \times 2 \times 2 = 64$
+<pre class='language-latex'><code class='language-latex'>$64$
 </code></pre>
 </div>
 </div>
@@ -1395,7 +1375,7 @@ Total Number of arrangements $= 2 \times 2 \times 2 \times 2 \times 2 \times 2 =
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>D989F92D-96F5-4F53-9DF1-7378F7BC544D</p>
 </div>
@@ -1409,7 +1389,7 @@ Total Number of arrangements $= 2 \times 2 \times 2 \times 2 \times 2 \times 2 =
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1430,12 +1410,7 @@ $3 + 4 + 5 = 12$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
@@ -1443,12 +1418,7 @@ TODOWORKING
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -1464,65 +1434,53 @@ Write down all the ways of making a total of $12$ using three different whole nu
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+If we use 1 the possible arrangements are:
 
-</div>
-<div class='working'>
+- $1  +  2  +  9$
+- $1  +  3  +  8$
+- $1  +  4  +  7$
+- $1  +  5  +  6$ 
 
-TODOWORKING
+If we use 2 and not 1, the possible arrangements are:
+
+- $2  +  3  +  7$
+- $2  +  4  +  6$ 
+
+If we use 3 not 2 and 1, the possible arrangements are:
+
+- $3  +  4  +  5$
+
+Total count $= 7$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-The possible arrangement are:
-
-If we use 1 the possible arrangements are:
-
-$
-\begin{array}{cccccccccccccc}
-1  +  2  +  9 \\
-1  +  3  +  8 \\
-1  +  4  +  7 \\
-1  +  5  +  6 \\
-\end{array}
-$
-
-If we use 2 and not 1, the possible arrangements are:
-
-$
-\begin{array}{cccccccccccccc}
-2  +  3  +  7 \\
-2  +  4  +  6 \\
-\end{array}
-$
-
-If we use 3 not 2 and 1, the possible arrangements are:
-$
-\begin{array}{cccccccccccccc}
-3  +  4  +  5 \\
-\end{array}
-$
-
-Total count $= 7$ 
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$7$ 
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>If we use 1 the possible arrangements are:
+<emptyline>
+- $1  +  2  +  9$
+- $1  +  3  +  8$
+- $1  +  4  +  7$
+- $1  +  5  +  6$ 
+<emptyline>
+If we use 2 and not 1, the possible arrangements are:
+<emptyline>
+- $2  +  3  +  7$
+- $2  +  4  +  6$ 
+<emptyline>
+If we use 3 not 2 and 1, the possible arrangements are:
+<emptyline>
+- $3  +  4  +  5$
+<emptyline>
+Total count $= 7$
 </code></pre>
 </div>
 </div>
@@ -1534,46 +1492,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>The possible arrangement are:
-
-If we use 1 the possible arrangements are:
-
-$
-\begin{array}{cccccccccccccc}
-1  +  2  +  9 \\
-1  +  3  +  8 \\
-1  +  4  +  7 \\
-1  +  5  +  6 \\
-\end{array}
-$
-
-If we use 2 and not 1, the possible arrangements are:
-
-$
-\begin{array}{cccccccccccccc}
-2  +  3  +  7 \\
-2  +  4  +  6 \\
-\end{array}
-$
-
-If we use 3 not 2 and 1, the possible arrangements are:
-$
-\begin{array}{cccccccccccccc}
-3  +  4  +  5 \\
-\end{array}
-$
-
-Total count $= 7$ 
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$7$ 
 </code></pre>
 </div>
 </div>
@@ -1590,78 +1509,73 @@ How many ways are there of making a total of $15$ using three **different** whol
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+If we use 1 the possible arrangements are:
 
-</div>
-<div class='working'>
+- $1  +  2  +  12$
+- $1  +  3  +  11$
+- $1  +  4  +  10$
+- $1  +  5  +  9$
+- $1  +  6  +  8$
 
-TODOWORKING
+
+If we use 2 and not 1, the possible arrangements are:
+
+- $2  +  3  +  10$ 
+- $2  +  4  +  9$ 
+- $2  +  5  +  8$ 
+- $2  +  6  +  7$ 
+
+If we use 3, not 2 and not 1, the possible arrangements are:
+
+
+- $3  +  4  +  8$
+- $3  +  5  +  7$
+
+If we use 4 not 3, not 2 and not 1, the possible arrangements are:
+
+- $4  +  5  +  6$
+
+Total count $= 12$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-The possible arrangement are:
-
-If we use 1 the possible arrangements are:
-
-$
-\begin{array}{cccccccccccccc}
-1  +  2  +  12 \\
-1  +  3  +  11 \\
-1  +  4  +  10 \\
-1  +  5  +  9 \\
-1  +  6  +  8 \\
-\end{array}
-$
-
-If we use 2 and not 1, the possible arrangements are:
-
-$
-\begin{array}{cccccccccccccc}
-2  +  3  +  10 \\
-2  +  4  +  9 \\
-2  +  5  +  8 \\
-2  +  6  +  7 \\
-\end{array}
-$
-
-If we use 3, not 2 and not 1, the possible arrangements are:
-
-$
-\begin{array}{cccccccccccccc}
-3  +  4  +  8 \\
-3  +  5  +  7 \\
-\end{array}
-$
-
-If we use 4 not 3, not 2 and not 1, the possible arrangements are:
-
-$
-\begin{array}{cccccccccccccc}
-4  +  5  +  6 \\
-\end{array}
-$
-
-Total count $= 12$ 
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$12$ 
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>If we use 1 the possible arrangements are:
+<emptyline>
+- $1  +  2  +  12$
+- $1  +  3  +  11$
+- $1  +  4  +  10$
+- $1  +  5  +  9$
+- $1  +  6  +  8$
+<emptyline>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+If we use 2 and not 1, the possible arrangements are:
+<emptyline>
+- $2  +  3  +  10$ 
+- $2  +  4  +  9$ 
+- $2  +  5  +  8$ 
+- $2  +  6  +  7$ 
+<emptyline>
+If we use 3, not 2 and not 1, the possible arrangements are:
+<emptyline>
+
+- $3  +  4  +  8$
+- $3  +  5  +  7$
+<emptyline>
+If we use 4 not 3, not 2 and not 1, the possible arrangements are:
+<emptyline>
+- $4  +  5  +  6$
+<emptyline>
+Total count $= 12$
 </code></pre>
 </div>
 </div>
@@ -1673,59 +1587,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>The possible arrangement are:
-
-If we use 1 the possible arrangements are:
-
-$
-\begin{array}{cccccccccccccc}
-1  +  2  +  12 \\
-1  +  3  +  11 \\
-1  +  4  +  10 \\
-1  +  5  +  9 \\
-1  +  6  +  8 \\
-\end{array}
-$
-
-If we use 2 and not 1, the possible arrangements are:
-
-$
-\begin{array}{cccccccccccccc}
-2  +  3  +  10 \\
-2  +  4  +  9 \\
-2  +  5  +  8 \\
-2  +  6  +  7 \\
-\end{array}
-$
-
-If we use 3, not 2 and not 1, the possible arrangements are:
-
-$
-\begin{array}{cccccccccccccc}
-3  +  4  +  8 \\
-3  +  5  +  7 \\
-\end{array}
-$
-
-If we use 4 not 3, not 2 and not 1, the possible arrangements are:
-
-$
-\begin{array}{cccccccccccccc}
-4  +  5  +  6 \\
-\end{array}
-$
-
-Total count $= 12$ 
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$12$ 
 </code></pre>
 </div>
 </div>
@@ -1777,7 +1639,7 @@ Total count $= 12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>FEC386E0-131F-4F15-BDD7-8911BBAD340A</p>
 </div>
@@ -1791,7 +1653,7 @@ Total count $= 12$
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1808,18 +1670,6 @@ How many different $3$ digit numbers can you make from the digits $1, 1$ and $3$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
 The possible arrangement are:
 
 If we use 1 the possible arrangements are:
@@ -1833,10 +1683,10 @@ If we use 1 the possible arrangements are:
 - $331$
 - $333$
 
-Total count $= 8$ 
+Total count $= 8$
 
 </div>
-<div class='answer'>
+<div class='working'>
 
 Using permutation,
 
@@ -1850,15 +1700,43 @@ Total arrangements $= 2 \times 2 \times 2 = 8$
 
 </div>
 </div>
+<div class='answers'>
+<div class='answer'>
+
+$8$ 
+
+</div>
+</div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>The possible arrangement are:
+<emptyline>
+If we use 1 the possible arrangements are:
+<emptyline>
+- $111$
+- $113$
+- $131$
+- $133$
+- $311$
+- $313$
+- $331$
+- $333$
+<emptyline>
+Total count $= 8$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Using permutation,
+<emptyline>
+Number of digits that can be used in the hundreds place $= 2$
+<emptyline>
+Number of digits that can be used in the tens place $= 2$
+<emptyline>
+Number of digits that can be used in the units place $= 2$
+<emptyline>
+Total arrangements $= 2 \times 2 \times 2 = 8$
 </code></pre>
 </div>
 </div>
@@ -1870,38 +1748,7 @@ Total arrangements $= 2 \times 2 \times 2 = 8$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>The possible arrangement are:
-
-If we use 1 the possible arrangements are:
-
-- $111$
-- $113$
-- $131$
-- $133$
-- $311$
-- $313$
-- $331$
-- $333$
-
-Total count $= 8$ 
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Using permutation,
-
-Number of digits that can be used in the hundreds place $= 2$
-
-Number of digits that can be used in the tens place $= 2$
-
-Number of digits that can be used in the units place $= 2$
-
-Total arrangements $= 2 \times 2 \times 2 = 8$
+<pre class='language-latex'><code class='language-latex'>$8$ 
 </code></pre>
 </div>
 </div>
@@ -1950,7 +1797,7 @@ Total arrangements $= 2 \times 2 \times 2 = 8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>BB604FF7-1023-4BFA-BB23-6D1AFB3433AC</p>
 </div>
@@ -1964,7 +1811,7 @@ Total arrangements $= 2 \times 2 \times 2 = 8$
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2007,50 +1854,59 @@ You must **not** use the same card more than once in each answer.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+The possible arrangement using $2,3,7,9$ which are close to $3000$ are:
 
-</div>
-<div class='working'>
+- $2973$
+- $3279$
 
-TODOWORKING
+Number close to $3000 = 2973$.
+
+The possible arrangement using $2,3,7,9$ which are close to $3000$ are:
+
+- $7239$
+
+Number close to $7000 = 7239$.
+
+The possible arrangement using $2,3,7,9$ which are close to $3800$ are:
+
+- $3792$
+- $3927$
+
+Number close to $3800 = 3792$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-The possible arrangement using $2,3,7,9$ which are close to $3000$ are:
-
-- $2973$
-- $3279$
-
-Number close to $3000 = 2973$.
-
-The possible arrangement using $2,3,7,9$ which are close to $3000$ are:
-
-- $7239$
-
-Number close to $7000 = 7239$.
-
-The possible arrangement using $2,3,7,9$ which are close to $3800$ are:
-
-- $3792$
-- $3927$
-
-Number close to $3800 = 3792$.
-
+$2973$,
+$7239$,
+$3792$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>The possible arrangement using $2,3,7,9$ which are close to $3000$ are:
+<emptyline>
+- $2973$
+- $3279$
+<emptyline>
+Number close to $3000 = 2973$.
+<emptyline>
+The possible arrangement using $2,3,7,9$ which are close to $3000$ are:
+<emptyline>
+- $7239$
+<emptyline>
+Number close to $7000 = 7239$.
+<emptyline>
+The possible arrangement using $2,3,7,9$ which are close to $3800$ are:
+<emptyline>
+- $3792$
+- $3927$
+<emptyline>
+Number close to $3800 = 3792$.
 </code></pre>
 </div>
 </div>
@@ -2062,26 +1918,9 @@ Number close to $3800 = 3792$.
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>The possible arrangement using $2,3,7,9$ which are close to $3000$ are:
-
-- $2973$
-- $3279$
-
-Number close to $3000 = 2973$.
-
-The possible arrangement using $2,3,7,9$ which are close to $3000$ are:
-
-- $7239$
-
-Number close to $7000 = 7239$.
-
-The possible arrangement using $2,3,7,9$ which are close to $3800$ are:
-
-- $3792$
-- $3927$
-
-Number close to $3800 = 3792$.
-
+<pre class='language-latex'><code class='language-latex'>$2973$,
+$7239$,
+$3792$
 </code></pre>
 </div>
 </div>
@@ -2130,7 +1969,7 @@ Number close to $3800 = 3792$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>918D95F1-B6C5-49C4-AAB2-B113BC988E02</p>
 </div>
@@ -2144,7 +1983,7 @@ Number close to $3800 = 3792$.
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2161,18 +2000,6 @@ Ahmed chooses two different items for a snack. His choices are an apple, an oran
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
 Let assume Apple be 'A', banana be 'B' and granola be 'G'
 
 The possible arrangement are:
@@ -2181,19 +2008,29 @@ The possible arrangement are:
 - $A, G$
 - $B, G$
 
-Total count $= 3$ 
+Total count $= 3$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$ 
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let assume Apple be 'A', banana be 'B' and granola be 'G'
+<emptyline>
+The possible arrangement are:
+<emptyline>
+- $A, B$
+- $A, G$
+- $B, G$
+<emptyline>
+Total count $= 3$
 </code></pre>
 </div>
 </div>
@@ -2205,15 +2042,7 @@ Total count $= 3$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Let assume Apple be 'A', banana be 'B' and granola be 'G'
-
-The possible arrangement are:
-
-- $A, B$
-- $A, G$
-- $B, G$
-
-Total count $= 3$ 
+<pre class='language-latex'><code class='language-latex'>$3$ 
 </code></pre>
 </div>
 </div>
@@ -2262,7 +2091,7 @@ Total count $= 3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>6974905E-5C97-44EB-9574-C93522E2C23C</p>
 </div>
@@ -2276,7 +2105,7 @@ Total count $= 3$
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2293,18 +2122,6 @@ How many different $3$-digit whole numbers can be formed using the digits $4, 7$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
 The possible arrangement are:
 
 - $479$
@@ -2317,7 +2134,7 @@ The possible arrangement are:
 Total count $= 6$ 
 
 </div>
-<div class='answer'>
+<div class='working'>
 
 Using permutation,
 
@@ -2331,15 +2148,39 @@ Total arrangements $= 3 \times 2 \times 1 =6$
 
 </div>
 </div>
+<div class='answers'>
+<div class='answer'>
+
+$6$ 
+
+</div>
+</div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>The possible arrangement are:
+<emptyline>
+- $479$
+- $497$
+- $749$
+- $794$
+- $947$
+- $974$
+<emptyline>
+Total count $= 6$ 
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Using permutation,
+<emptyline>
+Number of digits that can be used in the hundreds place $= 3$
+<emptyline>
+Number of digits that can be used in the tens place $= 2$
+<emptyline>
+Number of digits that can be used in the units place $= 1$
+<emptyline>
+Total arrangements $= 3 \times 2 \times 1 =6$
 </code></pre>
 </div>
 </div>
@@ -2351,34 +2192,7 @@ Total arrangements $= 3 \times 2 \times 1 =6$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>The possible arrangement are:
-
-- $479$
-- $497$
-- $749$
-- $794$
-- $947$
-- $974$
-
-Total count $= 6$ 
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Using permutation,
-
-Number of digits that can be used in the hundreds place $= 3$
-
-Number of digits that can be used in the tens place $= 2$
-
-Number of digits that can be used in the units place $= 1$
-
-Total arrangements $= 3 \times 2 \times 1 =6$
+<pre class='language-latex'><code class='language-latex'>$6$ 
 </code></pre>
 </div>
 </div>
@@ -2463,24 +2277,24 @@ Calculate the ratio of the number of $4$-digit palindromes to the number of $5$-
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2525,7 +2339,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D9131827-8E01-4FF2-A829-4DC3DB09C908</p>
 </div>
@@ -2536,7 +2350,7 @@ TODOANSWER
 <p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_ns_notstarted</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2558,36 +2372,119 @@ How many $4$ digit numbers greater than $2000$ can be formed using the digits $1
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+If we use a $2$ in hundreds place, the possible arrangements are:
+
+- $2134$
+- $2143$
+- $2314$
+- $2341$
+- $2413$
+- $2431$
+
+Count $= 6$
+
+If we use a $3$ in hundreds place, the possible arrangements are:
+
+- $3124$
+- $3142$
+- $3214$
+- $3241$
+- $3412$
+- $3421$
+
+Count $= 6$
+
+
+If we use a $4$ in hundreds place, the possible arrangements are:
+
+- $4123$
+- $4132$
+- $4213$
+- $4231$
+- $4312$
+- $4321$
+
+Count $= 6$
+
+Total count $= 6 + 6 + 6 = 18$
 
 </div>
 <div class='working'>
 
-TODOWORKING
+Using permutation,
+
+Number of digits that can be used in the thousand place $= 3$
+
+Number of digits that can be used in the hundreds place $= 3$
+
+Number of digits that can be used in the tens place $= 2$
+
+Number of digits that can be used in the units place $= 1$
+
+Total arrangements $= 3 \times 3 \times 2 = 18$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$18$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>If we use a $2$ in hundreds place, the possible arrangements are:
+<emptyline>
+- $2134$
+- $2143$
+- $2314$
+- $2341$
+- $2413$
+- $2431$
+<emptyline>
+Count $= 6$
+<emptyline>
+If we use a $3$ in hundreds place, the possible arrangements are:
+<emptyline>
+- $3124$
+- $3142$
+- $3214$
+- $3241$
+- $3412$
+- $3421$
+<emptyline>
+Count $= 6$
+<emptyline>
+
+If we use a $4$ in hundreds place, the possible arrangements are:
+<emptyline>
+- $4123$
+- $4132$
+- $4213$
+- $4231$
+- $4312$
+- $4321$
+<emptyline>
+Count $= 6$
+<emptyline>
+Total count $= 6 + 6 + 6 = 18$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Using permutation,
+<emptyline>
+Number of digits that can be used in the thousand place $= 3$
+<emptyline>
+Number of digits that can be used in the hundreds place $= 3$
+<emptyline>
+Number of digits that can be used in the tens place $= 2$
+<emptyline>
+Number of digits that can be used in the units place $= 1$
+<emptyline>
+Total arrangements $= 3 \times 3 \times 2 = 18$
 </code></pre>
 </div>
 </div>
@@ -2599,22 +2496,52 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$18$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D9131827-8E01-4FF2-A829-4DC3DB09C908' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D9131827-8E01-4FF2-A829-4DC3DB09C908' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D9131827-8E01-4FF2-A829-4DC3DB09C908' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D9131827-8E01-4FF2-A829-4DC3DB09C908' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D9131827-8E01-4FF2-A829-4DC3DB09C908' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D9131827-8E01-4FF2-A829-4DC3DB09C908' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D9131827-8E01-4FF2-A829-4DC3DB09C908' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D9131827-8E01-4FF2-A829-4DC3DB09C908' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D9131827-8E01-4FF2-A829-4DC3DB09C908' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='D9131827-8E01-4FF2-A829-4DC3DB09C908' id='FORM-D9131827-8E01-4FF2-A829-4DC3DB09C908' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D9131827-8E01-4FF2-A829-4DC3DB09C908'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -2769,24 +2696,24 @@ In a game of football the final score was $3-2$. How many possible half time sco
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2911,7 +2838,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>54031DD7-DAC6-44A3-A2F6-593F6B620F71</p>
 </div>
@@ -2922,7 +2849,7 @@ $
 <p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_ns_notstarted</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2942,36 +2869,21 @@ Some numbers read the same forwards and backwards, like $343$ and $1221$. We cal
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -2983,17 +2895,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -3008,36 +2910,45 @@ Find all *mirror numbers* between $10$ and $100$. Write your answers in the spac
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+The possible arrangements are:
 
-</div>
-<div class='working'>
+- $11$
+- $22$
+- $33$
+- $44$
+- $55$
+- $66$
+- $77$
+- $88$
+- $99$
 
-TODOWORKING
+Total count $= 9$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$9$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>The possible arrangements are:
+<emptyline>
+- $11$
+- $22$
+- $33$
+- $44$
+- $55$
+- $66$
+- $77$
+- $88$
+- $99$
+<emptyline>
+Total count $= 9$
 </code></pre>
 </div>
 </div>
@@ -3049,17 +2960,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$9$
 </code></pre>
 </div>
 </div>
@@ -3076,36 +2977,47 @@ Find all the *mirror numbers* between $100$ and $200$. Write your answers in the
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+The possible arrangements are:
 
-</div>
-<div class='working'>
+- $101$
+- $111$
+- $121$
+- $131$
+- $141$
+- $151$
+- $161$
+- $171$
+- $181$
+- $191$
 
-TODOWORKING
+Count $= 10$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$10$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>The possible arrangements are:
+<emptyline>
+- $101$
+- $111$
+- $121$
+- $131$
+- $141$
+- $151$
+- $161$
+- $171$
+- $181$
+- $191$
+<emptyline>
+Count $= 10$
 </code></pre>
 </div>
 </div>
@@ -3117,17 +3029,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$10$
 </code></pre>
 </div>
 </div>
@@ -3136,10 +3038,50 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='54031DD7-DAC6-44A3-A2F6-593F6B620F71' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='54031DD7-DAC6-44A3-A2F6-593F6B620F71' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='54031DD7-DAC6-44A3-A2F6-593F6B620F71' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='54031DD7-DAC6-44A3-A2F6-593F6B620F71' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='54031DD7-DAC6-44A3-A2F6-593F6B620F71' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='54031DD7-DAC6-44A3-A2F6-593F6B620F71' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='54031DD7-DAC6-44A3-A2F6-593F6B620F71' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='54031DD7-DAC6-44A3-A2F6-593F6B620F71' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='54031DD7-DAC6-44A3-A2F6-593F6B620F71' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='54031DD7-DAC6-44A3-A2F6-593F6B620F71' id='FORM-54031DD7-DAC6-44A3-A2F6-593F6B620F71' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-54031DD7-DAC6-44A3-A2F6-593F6B620F71'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>80F7B21B-042A-463F-B512-9DFE4B52A8BB</p>
 </div>
@@ -3150,7 +3092,7 @@ TODOANSWER
 <p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_ns_notstarted</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3174,36 +3116,53 @@ Write down in the space below all $3$ digit numbers that have a digit sum equal 
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+If we use $7$, $9$ and $9$, the possible arrangements are:
 
-</div>
-<div class='working'>
+- $799$
+- $979$
+- $997$
 
-TODOWORKING
+Count $= 3$
+
+If we use $8$, $8$ and $9$, the possible arrangements are:
+
+- $889$
+- $898$
+- $988$
+
+Count $= 3$
+
+Total count $= 3 + 3 = 6$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$6$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>If we use $7$, $9$ and $9$, the possible arrangements are:
+<emptyline>
+- $799$
+- $979$
+- $997$
+<emptyline>
+Count $= 3$
+<emptyline>
+If we use $8$, $8$ and $9$, the possible arrangements are:
+<emptyline>
+- $889$
+- $898$
+- $988$
+<emptyline>
+Count $= 3$
+<emptyline>
+Total count $= 3 + 3 = 6$
 </code></pre>
 </div>
 </div>
@@ -3215,22 +3174,52 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$6$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='80F7B21B-042A-463F-B512-9DFE4B52A8BB' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='80F7B21B-042A-463F-B512-9DFE4B52A8BB' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='80F7B21B-042A-463F-B512-9DFE4B52A8BB' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='80F7B21B-042A-463F-B512-9DFE4B52A8BB' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='80F7B21B-042A-463F-B512-9DFE4B52A8BB' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='80F7B21B-042A-463F-B512-9DFE4B52A8BB' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='80F7B21B-042A-463F-B512-9DFE4B52A8BB' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='80F7B21B-042A-463F-B512-9DFE4B52A8BB' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='80F7B21B-042A-463F-B512-9DFE4B52A8BB' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='80F7B21B-042A-463F-B512-9DFE4B52A8BB' id='FORM-80F7B21B-042A-463F-B512-9DFE4B52A8BB' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-80F7B21B-042A-463F-B512-9DFE4B52A8BB'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -3263,24 +3252,24 @@ Four people meet to discuss a new swimming competition. Each person shakes every
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3355,24 +3344,24 @@ For example C A B.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3424,24 +3413,24 @@ What is the only other possible order?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3496,24 +3485,24 @@ How many possible ways are there of doing this? Use any space on the next page t
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3725,7 +3714,7 @@ $\text {A}, \quad  \text {B}, \quad \text {D}, \quad \text {E}, \quad \text {F},
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C63E647F-F037-4015-B0BA-EA9158085B74</p>
 </div>
@@ -3736,7 +3725,7 @@ $\text {A}, \quad  \text {B}, \quad \text {D}, \quad \text {E}, \quad \text {F},
 <p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_ns_notstarted</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3757,36 +3746,51 @@ Smarties,   list  all   the   possible combinations   of colours.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+If we choose one $Red$, the possible arrangements are:
 
-</div>
-<div class='working'>
+- $Red, Green$
+- $Red, Orange$
+- $Red, Yellow$
 
-TODOWORKING
+If we choose one $Green$, the possible arrangements (excluding $Red, Green$) are:
+
+- $Green, Orange$
+- $Green, Yellow$
+
+If we choose one $Orange$, the possible arrangements (excluding $Green, Orange$ and $Red, Orange$) are:
+
+- $Orange, Yellow$
+
+Total count $= 3 + 2 + 1 = 6$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$6$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>If we choose one $Red$, the possible arrangements are:
+<emptyline>
+- $Red, Green$
+- $Red, Orange$
+- $Red, Yellow$
+<emptyline>
+If we choose one $Green$, the possible arrangements (excluding $Red, Green$) are:
+<emptyline>
+- $Green, Orange$
+- $Green, Yellow$
+<emptyline>
+If we choose one $Orange$, the possible arrangements (excluding $Green, Orange$ and $Red, Orange$) are:
+<emptyline>
+- $Orange, Yellow$
+<emptyline>
+Total count $= 3 + 2 + 1 = 6$
 </code></pre>
 </div>
 </div>
@@ -3798,26 +3802,56 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$6$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='C63E647F-F037-4015-B0BA-EA9158085B74' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='C63E647F-F037-4015-B0BA-EA9158085B74' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='C63E647F-F037-4015-B0BA-EA9158085B74' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='C63E647F-F037-4015-B0BA-EA9158085B74' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='C63E647F-F037-4015-B0BA-EA9158085B74' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='C63E647F-F037-4015-B0BA-EA9158085B74' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='C63E647F-F037-4015-B0BA-EA9158085B74' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='C63E647F-F037-4015-B0BA-EA9158085B74' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='C63E647F-F037-4015-B0BA-EA9158085B74' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C63E647F-F037-4015-B0BA-EA9158085B74' id='FORM-C63E647F-F037-4015-B0BA-EA9158085B74' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-C63E647F-F037-4015-B0BA-EA9158085B74'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>664D1020-0D74-4C00-AA28-98DCB5B47ED4</p>
 </div>
@@ -3828,7 +3862,7 @@ TODOANSWER
 <p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_ns_notstarted</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3852,36 +3886,89 @@ Write all the three-digit numbers, greater than $500$, that can be made using th
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+If we use one $6$, the possible arrangements are:
+
+- $624$
+- $642$
+
+Count $=2$
+
+If we use two $6$ and $2$, the possible arrangements are:
+
+- $626$
+- $662$
+
+Count $=2$
+
+If we use two $6$ and $2$, the possible arrangements are:
+
+- $646$
+- $664$
+
+Count $=2$
+
+Total count $= 2 + 2 + 2 = 6$
 
 </div>
 <div class='working'>
 
-TODOWORKING
+Using permutation,
+
+Number of digits that can be used in the hundreds place $= 1$
+
+Number of digits that can be used in the tens place $= 3$
+
+Number of digits that can be used in the units place $= 2$
+
+Total arrangements $= 1 \times 3 \times 2 = 6$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$6$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>If we use one $6$, the possible arrangements are:
+<emptyline>
+- $624$
+- $642$
+<emptyline>
+Count $=2$
+<emptyline>
+If we use two $6$ and $2$, the possible arrangements are:
+<emptyline>
+- $626$
+- $662$
+<emptyline>
+Count $=2$
+<emptyline>
+If we use two $6$ and $2$, the possible arrangements are:
+<emptyline>
+- $646$
+- $664$
+<emptyline>
+Count $=2$
+<emptyline>
+Total count $= 2 + 2 + 2 = 6$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Using permutation,
+<emptyline>
+Number of digits that can be used in the hundreds place $= 1$
+<emptyline>
+Number of digits that can be used in the tens place $= 3$
+<emptyline>
+Number of digits that can be used in the units place $= 2$
+<emptyline>
+Total arrangements $= 1 \times 3 \times 2 = 6$
 </code></pre>
 </div>
 </div>
@@ -3893,22 +3980,52 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$6$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='664D1020-0D74-4C00-AA28-98DCB5B47ED4' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='664D1020-0D74-4C00-AA28-98DCB5B47ED4' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='664D1020-0D74-4C00-AA28-98DCB5B47ED4' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='664D1020-0D74-4C00-AA28-98DCB5B47ED4' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='664D1020-0D74-4C00-AA28-98DCB5B47ED4' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='664D1020-0D74-4C00-AA28-98DCB5B47ED4' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='664D1020-0D74-4C00-AA28-98DCB5B47ED4' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='664D1020-0D74-4C00-AA28-98DCB5B47ED4' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='664D1020-0D74-4C00-AA28-98DCB5B47ED4' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='664D1020-0D74-4C00-AA28-98DCB5B47ED4' id='FORM-664D1020-0D74-4C00-AA28-98DCB5B47ED4' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-664D1020-0D74-4C00-AA28-98DCB5B47ED4'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -3954,24 +4071,24 @@ the hotel they sit down to dinner at a square table shown below. Archibald insis
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4021,24 +4138,24 @@ although Bertram and Camilla still choose to sit next to each other. How many po
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4089,24 +4206,24 @@ On the last day of the holiday, all four friends decide that they can sit where 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4154,7 +4271,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C6358DE6-D734-48A4-BC67-FD56196E1814</p>
 </div>
@@ -4165,7 +4282,7 @@ TODOANSWER
 <p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_ns_notstarted</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4186,37 +4303,47 @@ How many two-digit numbers in total can be made using some or all of the digits 
 <div class='workings'>
 <div class='working'>
 
-Let's find all two-digit numbers that can be made using the digits $3, 4$ and $5$.
+If we use $3$ and $4$, the possible arrangements are:
 
-The possible arrangements are:
+- $34$
+- $43$
+
+Count $= 2$
+
+If we use $3$ and  $5$, the possible arrangements are:
+
+- $35$
+- $53$
+
+Count $= 2$
+
+If we use $4$ and  $5$, the possible arrangements are:
+
+- $45$
+- $54$
+
+Count $= 2$
+
+If we use double $3$, $4$ and $5$, the possible arrangements are: 
 
 - $33$
-- $34$
-- $35$
-- $43$
-- $44$
-- $45$
-- $53$
-- $54$
+- $44$ 
 - $55$
 
-Count $= 9$
+Count $= 3$
+
+Total count $= 2 + 2 + 2 + 3 = 9$
 
 </div>
 <div class='working'>
 
-We can solve this problem using permutation instead of manually counting all the arrangements.
+Using permutation,
 
-Number of digits that can be used in tens place        $= 3$
+Number of digits that can be used in tens place $= 3$
 
-Number of digits that can be used in units place        $= 3$
+Number of digits that can be used in units place $= 3$
 
-$
-\begin{aligned} 
-\text{Total Arrangements}                           &= 3 \times 3 \\\\\
-                                                    &= 9
-\end{aligned}
-$
+Total arrangements $= 3 \times 3 = 9$ 
 
 </div>
 </div>
@@ -4230,37 +4357,47 @@ $9$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let's find all two-digit numbers that can be made using the digits $3, 4$ and $5$.
+<pre class='language-latex'><code class='language-latex'>If we use $3$ and $4$, the possible arrangements are:
 <emptyline>
-The possible arrangements are:
+- $34$
+- $43$
+<emptyline>
+Count $= 2$
+<emptyline>
+If we use $3$ and  $5$, the possible arrangements are:
+<emptyline>
+- $35$
+- $53$
+<emptyline>
+Count $= 2$
+<emptyline>
+If we use $4$ and  $5$, the possible arrangements are:
+<emptyline>
+- $45$
+- $54$
+<emptyline>
+Count $= 2$
+<emptyline>
+If we use double $3$, $4$ and $5$, the possible arrangements are: 
 <emptyline>
 - $33$
-- $34$
-- $35$
-- $43$
-- $44$
-- $45$
-- $53$
-- $54$
+- $44$ 
 - $55$
 <emptyline>
-Count $= 9$
+Count $= 3$
+<emptyline>
+Total count $= 2 + 2 + 2 + 3 = 9$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>We can solve this problem using permutation instead of manually counting all the arrangements.
+<pre class='language-latex'><code class='language-latex'>Using permutation,
 <emptyline>
-Number of digits that can be used in tens place        $= 3$
+Number of digits that can be used in tens place $= 3$
 <emptyline>
-Number of digits that can be used in units place        $= 3$
+Number of digits that can be used in units place $= 3$
 <emptyline>
-$
-\begin{aligned} 
-\text{Total Arrangements}                           &= 3 \times 3 \\\\\
-                                                    &= 9
-\end{aligned}
-$
+Total arrangements $= 3 \times 3 = 9$ 
 </code></pre>
 </div>
 </div>
@@ -4277,7 +4414,52 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+includes two working
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='C6358DE6-D734-48A4-BC67-FD56196E1814' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='C6358DE6-D734-48A4-BC67-FD56196E1814' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='C6358DE6-D734-48A4-BC67-FD56196E1814' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='C6358DE6-D734-48A4-BC67-FD56196E1814' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='C6358DE6-D734-48A4-BC67-FD56196E1814' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='C6358DE6-D734-48A4-BC67-FD56196E1814' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='C6358DE6-D734-48A4-BC67-FD56196E1814' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='C6358DE6-D734-48A4-BC67-FD56196E1814' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='C6358DE6-D734-48A4-BC67-FD56196E1814' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='C6358DE6-D734-48A4-BC67-FD56196E1814' id='FORM-C6358DE6-D734-48A4-BC67-FD56196E1814' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-C6358DE6-D734-48A4-BC67-FD56196E1814'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -4318,24 +4500,24 @@ Write down the remaining two: $ABCD, ABDC, ACBD, ACDB, \text{\textunderscore \te
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4384,24 +4566,24 @@ On Wednesdays there are no restrictions and all four boys can queue up together 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4491,24 +4673,24 @@ We write these as $NEE, ENE$ and $EEN$ respectively.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4558,24 +4740,24 @@ Write down the remaining two routes.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4626,24 +4808,24 @@ How many direct routes are there to travel from $A$ to $D$?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4694,24 +4876,24 @@ How many direct routes are there to travel from $A$ to $E$?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4789,24 +4971,24 @@ The diagram shows the one-way cycle paths in a town. The diagram is not to scale
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4855,24 +5037,24 @@ How many possible routes are there in total from $A$ to $B$?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4926,24 +5108,24 @@ How long is the shortest distance from $A$ to $B$?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5026,24 +5208,24 @@ The tickets are for seats, $A1, A2, A3$ and $A4$ shown on the plan below.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5092,24 +5274,24 @@ In how many possible ways can Mr Green allocate tickets?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5164,24 +5346,24 @@ In how many possible ways can Mr Green allocate tickets?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5237,24 +5419,24 @@ sit still apply, work out the number of ways in which Mr Green can allocate the 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5302,7 +5484,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>EFB9945E-41A3-4ED9-8B98-1E7688CB0B4D</p>
 </div>
@@ -5313,7 +5495,7 @@ TODOANSWER
 <p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_ns_notstarted</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5342,36 +5524,77 @@ Work out the total number of possible routes to go:
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+If we go from $A$ to $C$, the possible arrangements are:
 
-</div>
-<div class='working'>
+- $ABC$
+- $ADC$
+- $AEDC$
+- $AEC$
 
-TODOWORKING
+Count $= 4$
+
+If we go from $A$ to $D$, the possible arrangements are:
+
+- $ABCD$
+- $AD$
+- $AED$
+- $AECD$
+
+Count $= 4$
+
+
+If we go from $A$ to $E$, the possible arrangements are:
+
+- $ABCDE$
+- $ABCE$
+- $ADE$
+- $AE$
+
+Count $= 4$
+
+Total count $= 4 + 4 + 4 = 12$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$12$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>If we go from $A$ to $C$, the possible arrangements are:
+<emptyline>
+- $ABC$
+- $ADC$
+- $AEDC$
+- $AEC$
+<emptyline>
+Count $= 4$
+<emptyline>
+If we go from $A$ to $D$, the possible arrangements are:
+<emptyline>
+- $ABCD$
+- $AD$
+- $AED$
+- $AECD$
+<emptyline>
+Count $= 4$
+<emptyline>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+If we go from $A$ to $E$, the possible arrangements are:
+<emptyline>
+- $ABCDE$
+- $ABCE$
+- $ADE$
+- $AE$
+<emptyline>
+Count $= 4$
+<emptyline>
+Total count $= 4 + 4 + 4 = 12$
 </code></pre>
 </div>
 </div>
@@ -5383,22 +5606,52 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$12$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='EFB9945E-41A3-4ED9-8B98-1E7688CB0B4D' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='EFB9945E-41A3-4ED9-8B98-1E7688CB0B4D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='EFB9945E-41A3-4ED9-8B98-1E7688CB0B4D' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='EFB9945E-41A3-4ED9-8B98-1E7688CB0B4D' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='EFB9945E-41A3-4ED9-8B98-1E7688CB0B4D' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='EFB9945E-41A3-4ED9-8B98-1E7688CB0B4D' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='EFB9945E-41A3-4ED9-8B98-1E7688CB0B4D' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='EFB9945E-41A3-4ED9-8B98-1E7688CB0B4D' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='EFB9945E-41A3-4ED9-8B98-1E7688CB0B4D' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='EFB9945E-41A3-4ED9-8B98-1E7688CB0B4D' id='FORM-EFB9945E-41A3-4ED9-8B98-1E7688CB0B4D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-EFB9945E-41A3-4ED9-8B98-1E7688CB0B4D'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -5444,14 +5697,14 @@ For example, $A \ C \ E \ D \ B$ is **not allowed** because the neighbours $D$ a
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5501,14 +5754,14 @@ $
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5565,14 +5818,14 @@ $
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5608,14 +5861,14 @@ In total, how many ways are there of arranging the letters $A \ B \ C \ D \ E$, 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5648,7 +5901,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>900C37A8-8886-4CA0-88A9-F104C7287DA3</p>
 </div>
@@ -5659,10 +5912,10 @@ TODOANSWER
 <p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_ns_notstarted</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5685,21 +5938,49 @@ How many games did the teams play in total?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Using permutation,
+
+Number of games first team play $= 5$
+
+(include only game play between remaining teams)
+
+Number of games second team play $= 4$
+
+Number of games third team play $= 3$
+
+Number of games forth team play $= 2$
+
+Number of games fifth team play $= 1$
+
+Total arrangements $= 5 + 4 + 3 + 2 + 1 = 15$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$15$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Using permutation,
+<emptyline>
+Number of games first team play $= 5$
+<emptyline>
+(include only game play between remaining teams)
+<emptyline>
+Number of games second team play $= 4$
+<emptyline>
+Number of games third team play $= 3$
+<emptyline>
+Number of games forth team play $= 2$
+<emptyline>
+Number of games fifth team play $= 1$
+<emptyline>
+Total arrangements $= 5 + 4 + 3 + 2 + 1 = 15$
 </code></pre>
 </div>
 </div>
@@ -5711,12 +5992,52 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$15$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='900C37A8-8886-4CA0-88A9-F104C7287DA3' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='900C37A8-8886-4CA0-88A9-F104C7287DA3' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='900C37A8-8886-4CA0-88A9-F104C7287DA3' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='900C37A8-8886-4CA0-88A9-F104C7287DA3' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='900C37A8-8886-4CA0-88A9-F104C7287DA3' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='900C37A8-8886-4CA0-88A9-F104C7287DA3' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='900C37A8-8886-4CA0-88A9-F104C7287DA3' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='900C37A8-8886-4CA0-88A9-F104C7287DA3' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='900C37A8-8886-4CA0-88A9-F104C7287DA3' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='900C37A8-8886-4CA0-88A9-F104C7287DA3' id='FORM-900C37A8-8886-4CA0-88A9-F104C7287DA3' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-900C37A8-8886-4CA0-88A9-F104C7287DA3'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -5916,24 +6237,24 @@ Work out how many different possible routes Jane could take?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5978,7 +6299,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6DD89262-C913-4868-9BD3-AC3F1EF2710A</p>
 </div>
@@ -5989,7 +6310,7 @@ TODOANSWER
 <p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_ns_notstarted</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6025,36 +6346,29 @@ How many different possible seating arrangements are there of the $6$ people?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Number of ways Mr Spencer can be sit $= 4$
 
-</div>
-<div class='working'>
+Number of ways other can be sit $= 6$
 
-TODOWORKING
+Total arrangements $= 4 \times 6 = 24$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$24$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Number of ways Mr Spencer can be sit $= 4$
+<emptyline>
+Number of ways other can be sit $= 6$
+<emptyline>
+Total arrangements $= 4 \times 6 = 24$
 </code></pre>
 </div>
 </div>
@@ -6066,26 +6380,56 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$24$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='6DD89262-C913-4868-9BD3-AC3F1EF2710A' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='6DD89262-C913-4868-9BD3-AC3F1EF2710A' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='6DD89262-C913-4868-9BD3-AC3F1EF2710A' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='6DD89262-C913-4868-9BD3-AC3F1EF2710A' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='6DD89262-C913-4868-9BD3-AC3F1EF2710A' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='6DD89262-C913-4868-9BD3-AC3F1EF2710A' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='6DD89262-C913-4868-9BD3-AC3F1EF2710A' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='6DD89262-C913-4868-9BD3-AC3F1EF2710A' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='6DD89262-C913-4868-9BD3-AC3F1EF2710A' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='6DD89262-C913-4868-9BD3-AC3F1EF2710A' id='FORM-6DD89262-C913-4868-9BD3-AC3F1EF2710A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-6DD89262-C913-4868-9BD3-AC3F1EF2710A'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A4EC78D8-3529-40A6-BA3A-28499909CB47</p>
 </div>
@@ -6096,7 +6440,7 @@ TODOANSWER
 <p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_ns_notstarted</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6124,21 +6468,33 @@ How can it be arranged, so that they each get a cake that they like?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Number of choice Dad have $= 1$
+
+Number of choice remain for Mum $= 1$
+
+Number of choice remain for Granny $= 1$
+
+Total arrangements $= 1 \times 1 \times 1 = 1$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$1$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Number of choice Dad have $= 1$
+<emptyline>
+Number of choice remain for Mum $= 1$
+<emptyline>
+Number of choice remain for Granny $= 1$
+<emptyline>
+Total arrangements $= 1 \times 1 \times 1 = 1$
 </code></pre>
 </div>
 </div>
@@ -6150,12 +6506,52 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$1$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='A4EC78D8-3529-40A6-BA3A-28499909CB47' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='A4EC78D8-3529-40A6-BA3A-28499909CB47' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='A4EC78D8-3529-40A6-BA3A-28499909CB47' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='A4EC78D8-3529-40A6-BA3A-28499909CB47' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='A4EC78D8-3529-40A6-BA3A-28499909CB47' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='A4EC78D8-3529-40A6-BA3A-28499909CB47' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='A4EC78D8-3529-40A6-BA3A-28499909CB47' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='A4EC78D8-3529-40A6-BA3A-28499909CB47' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='A4EC78D8-3529-40A6-BA3A-28499909CB47' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='A4EC78D8-3529-40A6-BA3A-28499909CB47' id='FORM-A4EC78D8-3529-40A6-BA3A-28499909CB47' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A4EC78D8-3529-40A6-BA3A-28499909CB47'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -6696,24 +7092,24 @@ which gives a total number of possible flags $= 4 \times 3 \times 3 = 36$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

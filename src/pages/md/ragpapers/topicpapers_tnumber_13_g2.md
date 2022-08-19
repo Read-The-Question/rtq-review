@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-13-g2"
 title: "TopicPaper - Number - 13 - G2"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "26"
 ---
 <ul class='question default-decimal'>
@@ -337,7 +337,7 @@ $= 3.99$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Work out $10 \% \text{ of } \pounds 40 + 15 \% \text{ of } \pounds 60$
+Work out $10 \% \text{ of } \pounds 40 + 15 \% \text{ of } \pounds 60$.
 
 </div>
 <div class='workings'>
@@ -819,7 +819,7 @@ tnumber
 </div>
 <div class='question question'>
 
-Write in figures the number eighteen thousand and forty-six 
+Write in figures the number eighteen thousand and forty-six.
 
 </div>
 <div class='workings'>
@@ -925,7 +925,7 @@ tnumber
 </div>
 <div class='question question'>
 
-Write in words 3,060,120 
+Write in words $3,060,120$.
 
 </div>
 <div class='workings'>
@@ -1031,11 +1031,11 @@ tnumber
 </div>
 <div class='question question'>
 
-Given that 
+Given that:
 
 **352 $\times$ 48 = 16896**
 
-Workout 
+Workout:
 
 **16896 $\div$  24 =** 
 
@@ -1784,7 +1784,7 @@ tnumber
 </div>
 <div class='question question'>
 
-Calculate 
+Calculate:
 
 **$28.3 - 1.64 + 0.57$** 
 
@@ -2648,7 +2648,7 @@ tnumber
 </div>
 <div class='question question'>
 
-Write 
+Write:
 
 </div>
 <div class='workings'>
@@ -2744,7 +2744,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$\dfrac {4} {5}$  as a  decimal
+$\dfrac {4} {5}$  as a  decimal.
 
 </div>
 <div class='workings'>
@@ -2801,7 +2801,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$43\%$  as a  fraction
+$43\%$  as a  fraction.
 
 </div>
 <div class='workings'>
@@ -2854,7 +2854,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-3 + $\dfrac {123} {100}$  as a  decimal
+3 + $\dfrac {123} {100}$  as a  decimal.
 
 </div>
 <div class='workings'>
@@ -2978,7 +2978,7 @@ tnoexplanation
 </div>
 <div class='question question'>
 
-Write in figures  the   number   “two  hundred  and   three thousand,   one   hundred  and   seventy” 
+Write in figures  the   number   “two  hundred  and   three thousand,   one   hundred  and   seventy”.
 
 </div>
 <div class='workings'>
@@ -3084,7 +3084,7 @@ tnumber
 </div>
 <div class='question question'>
 
-Calculate $0.871 - 0.39 + 1.4$ 
+Calculate $0.871 - 0.39 + 1.4$.
 
 </div>
 <div class='workings'>
@@ -3312,7 +3312,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What  number   is half  way   between **-6** and **+4**
+What  number   is half  way   between **-6** and **+4**?
 
 </div>
 <div class='workings'>
@@ -3435,7 +3435,7 @@ tnumber
 </div>
 <div class='question question'>
 
-Complete these calculations  
+Complete these calculations:
 
 </div>
 <div class='workings'>
@@ -3788,7 +3788,7 @@ tnoexplanation
 </div>
 <div class='question question'>
 
-Callisto is another moon of Jupiter and its maximum distance from Jupiter as it orbits is $1,882,700\,km$. Write this distance in words 
+Callisto is another moon of Jupiter and its maximum distance from Jupiter as it orbits is $1,882,700\,km$. Write this distance in words.
 
 </div>
 <div class='workings'>
@@ -4239,7 +4239,7 @@ Round each of the following measurements to the accuracy given in brackets.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$76.49\,cm$   (nearest cm)
+$76.49 \ \text{cm}$   (nearest cm)
 
 </div>
 <div class='workings'>
@@ -4292,7 +4292,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$127569\,km$   (nearest one thousand km)
+$127569 \ \text{km}$   (nearest one thousand km)
 
 </div>
 <div class='workings'>
@@ -4345,7 +4345,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$1.073\,cm$   (nearest mm)
+$1.073 \ \text{cm}$   (nearest mm)
 
 </div>
 <div class='workings'>
@@ -4470,10 +4470,10 @@ tnumber
 
 Which of the following distances is the most likely height of the Eiffel Tower in Paris? Circle your answer. 
 
-a) $1250\,m$
-b) 305 feet
-c) 300 metres
-d) 36,000 inches
+- $1250 \ \text{m}$
+- $305 \ \text{feet}$
+- $300 \ \text{metres}$
+- $36,000 \ \text{inches}$
 
 </div>
 <div class='workings'>

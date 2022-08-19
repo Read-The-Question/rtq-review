@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tnumber-13-pr"
 title: "TopicPaper - Number - 13 - PR"
-date: 2022-08-18 11:06:01
+date: 2022-08-19 16:00:22
 questions_count: "39"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>9EA69190-10DB-4C5D-8B1C-9DD188458CBE</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "39"
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -99,11 +99,11 @@ $2.1 \times 1.9$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Work out $10 \% \text{ of } \pounds 40 + 15 \% \text{ of } \pounds 60$
+Work out $10 \% \text{ of } \pounds 40 + 15 \% \text{ of } \pounds 60$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Work out $10 \% \text{ of } \pounds 40 + 15 \% \text{ of } \pounds 60$
+<pre class='language-latex'><code class='language-latex'>Work out $10 \% \text{ of } \pounds 40 + 15 \% \text{ of } \pounds 60$.
 </code></pre>
 </div>
 
@@ -154,7 +154,7 @@ Work out $10 \% \text{ of } \pounds 40 + 15 \% \text{ of } \pounds 60$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>1A52194D-4989-4E38-AA11-8AA68DFBCC41</p>
 </div>
@@ -168,7 +168,7 @@ Work out $10 \% \text{ of } \pounds 40 + 15 \% \text{ of } \pounds 60$
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -356,7 +356,7 @@ The square root of $801$ is between $\text{\textunderscore \textunderscore \text
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>268985CE-D916-46A3-B493-68415348A63C</p>
 </div>
@@ -370,7 +370,7 @@ The square root of $801$ is between $\text{\textunderscore \textunderscore \text
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -433,7 +433,7 @@ Which multiple of $11$ is nearest to $1000$?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>58EBBE13-E081-4030-B52A-4CC0C78C709D</p>
 </div>
@@ -447,7 +447,7 @@ Which multiple of $11$ is nearest to $1000$?
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -513,7 +513,7 @@ What number is halfway between $137$ and $859$?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>A69F80E7-3667-4DE3-AEDA-A9149F02C823</p>
 </div>
@@ -527,7 +527,7 @@ What number is halfway between $137$ and $859$?
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -590,7 +590,7 @@ Write in figures the number *thirteen thousand and eighty three*.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>0599F702-1B64-45DB-AEE4-5001AF8C4CBC</p>
 </div>
@@ -604,7 +604,7 @@ Write in figures the number *thirteen thousand and eighty three*.
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -667,7 +667,7 @@ Work out half of three million, forty-thousand, two-hundred. Write your answer i
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>A0D00897-FAB7-4461-A986-7C7E51444762</p>
 </div>
@@ -681,7 +681,7 @@ Work out half of three million, forty-thousand, two-hundred. Write your answer i
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -744,7 +744,7 @@ The digits $3, 1, 9$ and $2$ can be arranged in any order to make four digit num
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>6FB895A0-2141-4719-B4CE-32354F48276D</p>
 </div>
@@ -758,7 +758,7 @@ The digits $3, 1, 9$ and $2$ can be arranged in any order to make four digit num
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -823,7 +823,7 @@ between two whole numbers. Write the two whole numbers in the boxes below.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>828F0A41-0BDE-43EB-973F-281AA06D3C8E</p>
 </div>
@@ -837,7 +837,7 @@ between two whole numbers. Write the two whole numbers in the boxes below.
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -848,11 +848,11 @@ tnumber
 </div>
 <div class='question question'>
 
-Write in figures the number eighteen thousand and forty-six 
+Write in figures the number eighteen thousand and forty-six.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Write in figures the number eighteen thousand and forty-six 
+<pre class='language-latex'><code class='language-latex'>Write in figures the number eighteen thousand and forty-six.
 </code></pre>
 </div>
 
@@ -900,7 +900,7 @@ Write in figures the number eighteen thousand and forty-six
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>12F83AD1-E7FF-442E-89CC-590C4E8E912A</p>
 </div>
@@ -914,7 +914,7 @@ Write in figures the number eighteen thousand and forty-six
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -925,11 +925,11 @@ tnumber
 </div>
 <div class='question question'>
 
-Write in words 3,060,120 
+Write in words $3,060,120$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Write in words 3,060,120 
+<pre class='language-latex'><code class='language-latex'>Write in words $3,060,120$.
 </code></pre>
 </div>
 
@@ -977,7 +977,7 @@ Write in words 3,060,120
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>B49DA93D-34C3-49F0-A4F6-41020749B757</p>
 </div>
@@ -991,7 +991,7 @@ Write in words 3,060,120
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1002,14 +1002,14 @@ tnumber
 </div>
 <div class='question question'>
 
-You are told that 123 x 45 = 5535
+You are told that $123 x 45 = 5535$
 
 
 Use the above to work out: 
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>You are told that 123 x 45 = 5535
+<pre class='language-latex'><code class='language-latex'>You are told that $123 x 45 = 5535$
 <emptyline>
 
 Use the above to work out: 
@@ -1020,11 +1020,11 @@ Use the above to work out:
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-123 x 450 
+$123 x 450$ 
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>123 x 450 
+<pre class='language-latex'><code class='language-latex'>$123 x 450$ 
 </code></pre>
 </div>
 
@@ -1034,11 +1034,11 @@ Use the above to work out:
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-1.23 x 45
+$1.23 x 45$
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>1.23 x 45
+<pre class='language-latex'><code class='language-latex'>$1.23 x 45$
 </code></pre>
 </div>
 
@@ -1048,11 +1048,11 @@ Use the above to work out:
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-12.3 x 4500
+$12.3 x 4500$
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>12.3 x 4500
+<pre class='language-latex'><code class='language-latex'>$12.3 x 4500$
 </code></pre>
 </div>
 
@@ -1062,11 +1062,11 @@ Use the above to work out:
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-55.35 ÷ 45
+$55.35 ÷ 45$
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>55.35 ÷ 45
+<pre class='language-latex'><code class='language-latex'>$55.35 ÷ 45$
 </code></pre>
 </div>
 
@@ -1117,7 +1117,7 @@ Use the above to work out:
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>995C1CE2-1C2D-40DC-A20C-F4B6D99DA0D3</p>
 </div>
@@ -1131,7 +1131,7 @@ Use the above to work out:
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1223,7 +1223,7 @@ How many seats will there be in the model?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>B23EE3EC-7469-48CE-B448-5DD0C76E63A6</p>
 </div>
@@ -1237,7 +1237,7 @@ How many seats will there be in the model?
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1332,7 +1332,7 @@ Shade more squares so that 2 of the shape is shaded altogether.                3
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>0891E350-B1EF-4829-93AF-297FCA83A01C</p>
 </div>
@@ -1346,7 +1346,7 @@ Shade more squares so that 2 of the shape is shaded altogether.                3
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1418,7 +1418,7 @@ How wide is each gap?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>DF9419EB-F3A8-4D2F-B496-2C8B22A3750C</p>
 </div>
@@ -1432,7 +1432,7 @@ How wide is each gap?
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1455,11 +1455,11 @@ tnumber
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Calculate
+Calculate:
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Calculate
+<pre class='language-latex'><code class='language-latex'>Calculate:
 </code></pre>
 </div>
 
@@ -1546,7 +1546,7 @@ Use your answer to part (a) to write down the answer to
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>C954F40E-1D09-4B13-991D-3F41AE8C2EBD</p>
 </div>
@@ -1560,7 +1560,7 @@ Use your answer to part (a) to write down the answer to
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1571,21 +1571,21 @@ tnumber
 </div>
 <div class='question question'>
 
-Given that 
+Given that:
 
 **352 $\times$ 48 = 16896**
 
-Workout 
+Workout:
 
 **16896 $\div$  24 =** 
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Given that 
+<pre class='language-latex'><code class='language-latex'>Given that:
 <emptyline>
 **352 $\times$ 48 = 16896**
 <emptyline>
-Workout 
+Workout:
 <emptyline>
 **16896 $\div$  24 =** 
 </code></pre>
@@ -1635,7 +1635,7 @@ Workout
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>6982898E-1D09-4D16-AF1F-A1690147F770</p>
 </div>
@@ -1649,7 +1649,7 @@ Workout
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1751,7 +1751,7 @@ How many times does two hundred go into one million?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>319B61CC-449C-44FE-B38A-92867BEE2EA2</p>
 </div>
@@ -1765,7 +1765,7 @@ How many times does two hundred go into one million?
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1828,7 +1828,7 @@ Write in words the answer to one hundred thousand subtract one hundred and eleve
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>5D23DFC1-FD54-4C99-AB45-64690B6C330D</p>
 </div>
@@ -1842,7 +1842,7 @@ Write in words the answer to one hundred thousand subtract one hundred and eleve
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1948,7 +1948,7 @@ Decide whether for each of the following is correct or not. write Y for 'yes' an
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>1745EB65-D406-49A7-B609-AA0C27FEF72C</p>
 </div>
@@ -1962,7 +1962,7 @@ Decide whether for each of the following is correct or not. write Y for 'yes' an
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1973,7 +1973,7 @@ tnumber
 </div>
 <div class='question question'>
 
-Calculate 
+Calculate:
 
 **$28.3 - 1.64 + 0.57$** 
 
@@ -1982,7 +1982,7 @@ Calculate
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Calculate 
+<pre class='language-latex'><code class='language-latex'>Calculate:
 <emptyline>
 **$28.3 - 1.64 + 0.57$** 
 <emptyline>
@@ -2034,7 +2034,7 @@ Calculate
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>6A6FFDFD-7AF7-4142-8BB3-60B120AA643F</p>
 </div>
@@ -2048,7 +2048,7 @@ Calculate
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2122,7 +2122,7 @@ $8 + \dfrac {7} {10}  +  \dfrac {91} {100}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>90FA7285-C1C4-4EF1-B06F-D1BFF7849CB8</p>
 </div>
@@ -2136,7 +2136,7 @@ $8 + \dfrac {7} {10}  +  \dfrac {91} {100}$
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2199,7 +2199,7 @@ What is half of $1.1$ ?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>15E78FEA-36AF-47C5-8DB7-A71C8949C1F6</p>
 </div>
@@ -2213,7 +2213,7 @@ What is half of $1.1$ ?
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2316,7 +2316,7 @@ Write down the smallest **even** number you can make.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>35AA1232-E2D1-4ED4-A65E-23BDE24875E7</p>
 </div>
@@ -2330,7 +2330,7 @@ Write down the smallest **even** number you can make.
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2341,13 +2341,13 @@ tnumber
 </div>
 <div class='question question'>
 
-Write + or - in each space to make the calculation correct
+Write + or - in each space to make the calculation correct.
 
 $123 \,\,  45 \,\,  67 \,\,  89 = 100$ 
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Write + or - in each space to make the calculation correct
+<pre class='language-latex'><code class='language-latex'>Write + or - in each space to make the calculation correct.
 <emptyline>
 $123 \,\,  45 \,\,  67 \,\,  89 = 100$ 
 </code></pre>
@@ -2397,7 +2397,7 @@ $123 \,\,  45 \,\,  67 \,\,  89 = 100$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>B117AAA6-B09C-4C7D-8322-5A4091AE25A3</p>
 </div>
@@ -2411,7 +2411,7 @@ $123 \,\,  45 \,\,  67 \,\,  89 = 100$
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2500,7 +2500,7 @@ as a product of prime factors.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>399479DE-51A6-4956-8212-54785530A4E3</p>
 </div>
@@ -2514,7 +2514,7 @@ as a product of prime factors.
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2620,7 +2620,7 @@ $4.2 \times 17$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>96E8D2D6-DA2F-4DA4-B311-368105378BF5</p>
 </div>
@@ -2634,7 +2634,7 @@ $4.2 \times 17$
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2645,11 +2645,11 @@ tnumber
 </div>
 <div class='question question'>
 
-Write 
+Write:
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Write 
+<pre class='language-latex'><code class='language-latex'>Write:
 </code></pre>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -2671,11 +2671,11 @@ $0.37$  as a  percentage.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$\dfrac {4} {5}$  as a  decimal
+$\dfrac {4} {5}$  as a  decimal.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac {4} {5}$  as a  decimal
+<pre class='language-latex'><code class='language-latex'>$\dfrac {4} {5}$  as a  decimal.
 </code></pre>
 </div>
 
@@ -2685,11 +2685,11 @@ $\dfrac {4} {5}$  as a  decimal
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$43\%$  as a  fraction
+$43\%$  as a  fraction.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>$43\%$  as a  fraction
+<pre class='language-latex'><code class='language-latex'>$43\%$  as a  fraction.
 </code></pre>
 </div>
 
@@ -2699,11 +2699,11 @@ $43\%$  as a  fraction
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-3 + $\dfrac {123} {100}$  as a  decimal
+3 + $\dfrac {123} {100}$  as a  decimal.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>3 + $\dfrac {123} {100}$  as a  decimal
+<pre class='language-latex'><code class='language-latex'>3 + $\dfrac {123} {100}$  as a  decimal.
 </code></pre>
 </div>
 
@@ -2754,7 +2754,7 @@ $43\%$  as a  fraction
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>EE40CBBD-EE23-4FB7-831B-32B5037D6C4F</p>
 </div>
@@ -2768,7 +2768,7 @@ $43\%$  as a  fraction
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2782,11 +2782,11 @@ tnoexplanation
 </div>
 <div class='question question'>
 
-Write in figures  the   number   “two  hundred  and   three thousand,   one   hundred  and   seventy” 
+Write in figures  the   number   “two  hundred  and   three thousand,   one   hundred  and   seventy”.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Write in figures  the   number   “two  hundred  and   three thousand,   one   hundred  and   seventy” 
+<pre class='language-latex'><code class='language-latex'>Write in figures  the   number   “two  hundred  and   three thousand,   one   hundred  and   seventy”.
 </code></pre>
 </div>
 
@@ -2834,7 +2834,7 @@ Write in figures  the   number   “two  hundred  and   three thousand,   one   
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>2CBA0E15-9CA5-4D50-9647-E8DA79C9D4AE</p>
 </div>
@@ -2848,7 +2848,7 @@ Write in figures  the   number   “two  hundred  and   three thousand,   one   
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2859,11 +2859,11 @@ tnumber
 </div>
 <div class='question question'>
 
-Calculate $0.871 - 0.39 + 1.4$ 
+Calculate $0.871 - 0.39 + 1.4$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Calculate $0.871 - 0.39 + 1.4$ 
+<pre class='language-latex'><code class='language-latex'>Calculate $0.871 - 0.39 + 1.4$.
 </code></pre>
 </div>
 
@@ -2911,7 +2911,7 @@ Calculate $0.871 - 0.39 + 1.4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>1AA79E0A-DA4E-4F61-A71A-BF25667CDA50</p>
 </div>
@@ -2925,7 +2925,7 @@ Calculate $0.871 - 0.39 + 1.4$
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2936,14 +2936,14 @@ tnumber
 </div>
 <div class='question question'>
 
-Fill  in the   missing  numbers  in this  division
+Fill  in the   missing  numbers  in this  division.
 
 ![missing image](/papers/missing_image.svg)
  
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Fill  in the   missing  numbers  in this  division
+<pre class='language-latex'><code class='language-latex'>Fill  in the   missing  numbers  in this  division.
 <emptyline>
 %image% 
 </code></pre>
@@ -2993,7 +2993,7 @@ Fill  in the   missing  numbers  in this  division
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>744CC2DF-DAE1-4383-90BC-F461E38BCEE1</p>
 </div>
@@ -3007,7 +3007,7 @@ Fill  in the   missing  numbers  in this  division
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3047,11 +3047,11 @@ What  number   is half  way   between **3.2** and **5.6**?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What  number   is half  way   between **-6** and **+4**
+What  number   is half  way   between **-6** and **+4**?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>What  number   is half  way   between **-6** and **+4**
+<pre class='language-latex'><code class='language-latex'>What  number   is half  way   between **-6** and **+4**?
 </code></pre>
 </div>
 
@@ -3102,7 +3102,7 @@ What  number   is half  way   between **-6** and **+4**
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>AD7DC95D-4C48-4334-802C-9077E25D2E24</p>
 </div>
@@ -3116,7 +3116,7 @@ What  number   is half  way   between **-6** and **+4**
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3127,11 +3127,11 @@ tnumber
 </div>
 <div class='question question'>
 
-Complete these calculations  
+Complete these calculations:
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Complete these calculations  
+<pre class='language-latex'><code class='language-latex'>Complete these calculations:
 </code></pre>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -3288,7 +3288,7 @@ The planet Jupiter has $69$ moons. The closest moon is called Io and is $421,800
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>26FFB556-39BB-41AA-B00B-2CFED4038F32</p>
 </div>
@@ -3302,7 +3302,7 @@ The planet Jupiter has $69$ moons. The closest moon is called Io and is $421,800
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3316,11 +3316,11 @@ tnoexplanation
 </div>
 <div class='question question'>
 
-Callisto is another moon of Jupiter and its maximum distance from Jupiter as it orbits is $1,882,700\,km$. Write this distance in words 
+Callisto is another moon of Jupiter and its maximum distance from Jupiter as it orbits is $1,882,700\,km$. Write this distance in words.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Callisto is another moon of Jupiter and its maximum distance from Jupiter as it orbits is $1,882,700\,km$. Write this distance in words 
+<pre class='language-latex'><code class='language-latex'>Callisto is another moon of Jupiter and its maximum distance from Jupiter as it orbits is $1,882,700\,km$. Write this distance in words.
 </code></pre>
 </div>
 
@@ -3368,7 +3368,7 @@ Callisto is another moon of Jupiter and its maximum distance from Jupiter as it 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>ECD6D154-2FDF-4C15-B956-FEE5AE1462E4</p>
 </div>
@@ -3382,7 +3382,7 @@ Callisto is another moon of Jupiter and its maximum distance from Jupiter as it 
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3488,7 +3488,7 @@ A kilometre is five eighths of a mile. How many kilometres away from Anfield do 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>E4E827B3-D0E0-4C37-A152-5F341EC0D264</p>
 </div>
@@ -3502,7 +3502,7 @@ A kilometre is five eighths of a mile. How many kilometres away from Anfield do 
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3616,7 +3616,7 @@ Use values in the table to work out  $4.55 \, \div \, 6.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>DAA6B0CE-CF05-45FF-83D8-D30065047D76</p>
 </div>
@@ -3630,7 +3630,7 @@ Use values in the table to work out  $4.55 \, \div \, 6.5$
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3653,11 +3653,11 @@ Round each of the following measurements to the accuracy given in brackets.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$76.49\,cm$   (nearest cm)
+$76.49 \ \text{cm}$   (nearest cm)
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>$76.49\,cm$   (nearest cm)
+<pre class='language-latex'><code class='language-latex'>$76.49 \ \text{cm}$   (nearest cm)
 </code></pre>
 </div>
 
@@ -3667,11 +3667,11 @@ $76.49\,cm$   (nearest cm)
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$127569\,km$   (nearest one thousand km)
+$127569 \ \text{km}$   (nearest one thousand km)
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>$127569\,km$   (nearest one thousand km)
+<pre class='language-latex'><code class='language-latex'>$127569 \ \text{km}$   (nearest one thousand km)
 </code></pre>
 </div>
 
@@ -3681,11 +3681,11 @@ $127569\,km$   (nearest one thousand km)
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$1.073\,cm$   (nearest mm)
+$1.073 \ \text{cm}$   (nearest mm)
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1.073\,cm$   (nearest mm)
+<pre class='language-latex'><code class='language-latex'>$1.073 \ \text{cm}$   (nearest mm)
 </code></pre>
 </div>
 
@@ -3736,7 +3736,7 @@ $1.073\,cm$   (nearest mm)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>CF6BAF33-A5F8-41F9-A140-9829B0BE78AC</p>
 </div>
@@ -3750,7 +3750,7 @@ $1.073\,cm$   (nearest mm)
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3763,19 +3763,19 @@ tnumber
 
 Which of the following distances is the most likely height of the Eiffel Tower in Paris? Circle your answer. 
 
-a) $1250\,m$
-b) 305 feet
-c) 300 metres
-d) 36,000 inches
+- $1250 \ \text{m}$
+- $305 \ \text{feet}$
+- $300 \ \text{metres}$
+- $36,000 \ \text{inches}$
 
 </div>
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>Which of the following distances is the most likely height of the Eiffel Tower in Paris? Circle your answer. 
 <emptyline>
-a) $1250\,m$
-b) 305 feet
-c) 300 metres
-d) 36,000 inches
+- $1250 \ \text{m}$
+- $305 \ \text{feet}$
+- $300 \ \text{metres}$
+- $36,000 \ \text{inches}$
 </code></pre>
 </div>
 
@@ -3823,7 +3823,7 @@ d) 36,000 inches
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>F9D25FF0-D7B8-410C-8287-2F9958F379F9</p>
 </div>
@@ -3837,7 +3837,7 @@ d) 36,000 inches
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

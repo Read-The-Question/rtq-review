@@ -1,7 +1,7 @@
 ---
 slug: "papers/forest-school-11-plus-maths-2020-sample-paper-3"
 title: "Forest School - 11 Plus - Maths - 2020 - Sample Paper 3"
-date: 2022-08-18 10:44:13
+date: 2022-08-19 15:32:50
 questions_count: "35"
 ---
 <div class='paper'>
@@ -1496,7 +1496,7 @@ No. of gaps between daffodils $= 7$
 
 $
 \begin{aligned}
-\text {Length of the row}   &= 7 \times 1.1 \ \text {m} \\\\\
+\text {Length of the row}   &= 7 \times 1.1 \\\\\
                             &= 7.7 \ \text {m}
 \end{aligned}
 $
@@ -1519,7 +1519,7 @@ No. of gaps between daffodils $= 7$
 <emptyline>
 $
 \begin{aligned}
-\text {Length of the row}   &= 7 \times 1.1 \ \text {m} \\\\\
+\text {Length of the row}   &= 7 \times 1.1 \\\\\
                             &= 7.7 \ \text {m}
 \end{aligned}
 $
@@ -1546,15 +1546,7 @@ $
 
 
 
-Remove unit (m) in the below line:
-
-Length of the row = 7 × 1.1 m
-
-
-
-​
-
-
+\"No.\" ==> \"Number\"
 </div>
 
 <div class='review'>
@@ -1741,7 +1733,7 @@ Other number $= 0.142$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>BA1841E5-2EEA-4F9C-B181-DFB0AD348B25</p>
 </div>
@@ -1755,7 +1747,7 @@ Other number $= 0.142$
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1776,41 +1768,37 @@ How many different ways can she score $8$?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+The possible arrangements are:
 
-</div>
-<div class='working'>
+- $2,6$   
+- $3,5$ 
+- $4,4$  
+- $5,3$
+- $6,2$
 
-TODOWORKING
+Total count $= 5$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-The possible arrangements are:
-
-$
-\begin{array}{cccccccccccccc}
-(2,6) & (6,2) \\\\
-(3,5) & (5,3) \\\\
-(4,4)  
-\end{array}
-$
-
-Total count $= 5$ 
+$5$ 
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>The possible arrangements are:
+<emptyline>
+- $2,6$   
+- $3,5$ 
+- $4,4$  
+- $5,3$
+- $6,2$
+<emptyline>
+Total count $= 5$
 </code></pre>
 </div>
 </div>
@@ -1822,17 +1810,7 @@ Total count $= 5$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>The possible arrangements are:
-
-$
-\begin{array}{cccccccccccccc}
-(2,6) & (6,2) \\\\
-(3,5) & (5,3) \\\\
-(4,4)  
-\end{array}
-$
-
-Total count $= 5$ 
+<pre class='language-latex'><code class='language-latex'>$5$ 
 </code></pre>
 </div>
 </div>
@@ -2026,7 +2004,7 @@ Chris hired the hall for $= 9 \ \text {hours}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>7DB65EDC-8295-4BCC-8299-ACF2FFD390A4</p>
 </div>
@@ -2040,7 +2018,7 @@ Chris hired the hall for $= 9 \ \text {hours}$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2126,6 +2104,19 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+In number of days workign, write last two steps in remainder-approx format instead of mixed fraction.
+
+
+
+For reference check this: 1F535340-0428-42BD-88F5-40CC8436C8ED
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2199,24 +2190,24 @@ What is the smallest number that $3, 4$ and $10$ all go into?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2293,24 +2284,24 @@ Draw the shape whose sides are twice as big as the one shown in the space in the
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2655,14 +2646,14 @@ Total   ,       ,               ,$23$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2972,24 +2963,24 @@ What space would you end up on after these $8$ throws: $5, 5, 3, 6, 2, 6, 1, 4$?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3213,24 +3204,24 @@ $NA + RA + TA = WXA$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3283,24 +3274,24 @@ $MB \times NB = GHB$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3387,24 +3378,24 @@ and $30 - 8 = 22$ which is a multiple of $11$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3453,24 +3444,24 @@ Is $978261$ a multiple of $11$? Show your working clearly
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3523,24 +3514,24 @@ $\huge {7 \ \_ \ 5 \ 6 \ \_ \ 0}$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3909,24 +3900,24 @@ How long does it take Shayban to cycle from $A$ to $B$?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3971,7 +3962,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>74AC2383-BAFE-4FBC-99E0-3BE175A9CD52</p>
 </div>
@@ -3985,7 +3976,7 @@ TODOANSWER
 <p>rag_ns_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4005,39 +3996,37 @@ How many ways are there of colouring in three squares in this grid so that exact
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Using permutation,
 
-</div>
-<div class='working'>
+Number of ways we can colour in the first row $= 3$
 
-TODOWORKING
+Number of ways we can colour in the  second row $= 2$
+
+Number of ways we can colouring in the third row $= 2$
+
+Total Number of arrangements $= 3 \times 2 \times 2 = 12$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Using permutation,
-
-Number of ways colouring first row $= 3$
-
-Number of ways colouring second row $= 2$
-
-Number of ways colouring third row $= 2$
-
-Total NUmber of arrangements $= 3 \times 2 \times 2 = 12$
+$12$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Using permutation,
+<emptyline>
+Number of ways we can colour in the first row $= 3$
+<emptyline>
+Number of ways we can colour in the  second row $= 2$
+<emptyline>
+Number of ways we can colouring in the third row $= 2$
+<emptyline>
+Total Number of arrangements $= 3 \times 2 \times 2 = 12$
 </code></pre>
 </div>
 </div>
@@ -4049,15 +4038,7 @@ Total NUmber of arrangements $= 3 \times 2 \times 2 = 12$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Using permutation,
-
-Number of ways colouring first row $= 3$
-
-Number of ways colouring second row $= 2$
-
-Number of ways colouring third row $= 2$
-
-Total NUmber of arrangements $= 3 \times 2 \times 2 = 12$
+<pre class='language-latex'><code class='language-latex'>$12$
 </code></pre>
 </div>
 </div>
@@ -4146,24 +4127,24 @@ Explain clearly your reasoning.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4212,24 +4193,24 @@ $10$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4280,24 +4261,24 @@ $12$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4349,24 +4330,24 @@ Explain your reasoning carefully.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4455,24 +4436,24 @@ Use this information to determine which person is which.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4619,24 +4600,24 @@ Reflect these shapes in the mirror lines.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4718,24 +4699,24 @@ What is the total number of **unpainted** faces on the little cubes? Show clearl
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

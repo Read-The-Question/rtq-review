@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tprofit-1"
 title: "TopicPaper - Profit - 1"
-date: 2022-08-18 11:06:01
+date: 2022-08-19 16:00:22
 questions_count: "33"
 ---
 <div class='paper'>

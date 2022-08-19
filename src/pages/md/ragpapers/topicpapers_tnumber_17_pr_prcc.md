@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-17-pr-prcc"
 title: "TopicPaper - Number - 17 - PR - PRCC"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "7"
 ---
 <ul class='question default-decimal'>
@@ -1991,14 +1991,14 @@ tnumber
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

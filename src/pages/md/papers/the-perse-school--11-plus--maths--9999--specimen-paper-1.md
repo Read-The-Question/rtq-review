@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-1"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 1"
-date: 2022-08-18 10:44:13
+date: 2022-08-19 15:32:50
 questions_count: "20"
 ---
 <div class='paper'>
@@ -1070,24 +1070,24 @@ Brian has $7$ dominoes in a bag. He takes out one domino and finds the total of 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1136,24 +1136,24 @@ Explain why the total $7$ never came up
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1204,24 +1204,24 @@ Explain why the total of $6$ came up most often.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1269,7 +1269,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0A3C048F-79C4-49D7-B58E-976896702ECF</p>
 </div>
@@ -1283,7 +1283,7 @@ TODOANSWER
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1341,8 +1341,20 @@ $93 - \Box - \boxed{18} = 36$
 <div class='workings'>
 <div class='working'>
 
-$93 - \underline{\green
-{39}} - 18 = 43$
+Let the missing number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+93 - a - 18     &= 36 \\\\
+75 - a          &= 36 \\\\
+-a              &= 36 - 75 \\\\
+-a              &= -39 \\\\
+a               &= 39 \\\\
+\end{aligned}
+$
+
 
 </div>
 </div>
@@ -1356,7 +1368,20 @@ $39$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$93 - \underline{\rtq_katex_color_answer{39}} - 18 = 43$
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin{aligned}
+93 - a - 18     &= 36 \\\\
+75 - a          &= 36 \\\\
+-a              &= 36 - 75 \\\\
+-a              &= -39 \\\\
+a               &= 39 \\\\
+\end{aligned}
+$
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1393,8 +1418,8 @@ $
 \begin{aligned}
 (8 + a)\times 7     &= 91 \\\\
 8 + a               &= \dfrac {91} {7} \\\\ 
-                    &= \dfrac {7 \times 13} {7} \\\\
-                    &= \dfrac {\cancel {7} \times 13} {\cancel {7}} \\\\
+8 + a               &= \dfrac {7 \times 13} {7} \\\\
+8 + a               &= \dfrac {\cancel {7} \times 13} {\cancel {7}} \\\\
 8 + a               &= 13 \\\\
 a                   &= 13 - 8 \\\\
 a                   &= 5
@@ -1421,8 +1446,8 @@ $
 \begin{aligned}
 (8 + a)\times 7     &= 91 \\\\
 8 + a               &= \dfrac {91} {7} \\\\ 
-                    &= \dfrac {7 \times 13} {7} \\\\
-                    &= \dfrac {\cancel {7} \times 13} {\cancel {7}} \\\\
+8 + a               &= \dfrac {7 \times 13} {7} \\\\
+8 + a               &= \dfrac {\cancel {7} \times 13} {\cancel {7}} \\\\
 8 + a               &= 13 \\\\
 a                   &= 13 - 8 \\\\
 a                   &= 5
@@ -1617,7 +1642,7 @@ The fraction nearest to $\dfrac {1}{4}$ is $= \dfrac {31}{120}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>DD38D637-4C88-49D5-A00B-F650F7D2F6F7</p>
 </div>
@@ -1631,7 +1656,7 @@ The fraction nearest to $\dfrac {1}{4}$ is $= \dfrac {31}{120}$
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1808,6 +1833,16 @@ $
 
 <h4>Review Comments</h4>
 tratio
+
+
+
+a:
+
+
+
+equivalent ratio missing
+
+summary line missing
 </div>
 
 <div class='review'>
@@ -2030,24 +2065,24 @@ Brian is looking at the schedule of TV programmes for that evening
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2333,7 +2368,7 @@ The whole numbers which leave a remainder of $7$ when dividied into $46 = 13$ an
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>2ABA366D-6722-48B2-9A4C-D98E63A13BFD</p>
 </div>
@@ -2347,7 +2382,7 @@ The whole numbers which leave a remainder of $7$ when dividied into $46 = 13$ an
 <p>rag_am_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2412,13 +2447,13 @@ What is the charge, in $\pounds $, for a party of $20$ people?
 
 As per the question,
 
-Charge per 20 people $\pounds$ C   $= 3 \times 20 + 40$
 
 $
 \begin{aligned}
-&= 3 \times 20 + 40 \\\\
-&= 60 + 40 \\\\
-&= \pounds 100
+\text{Charge per 20 people C}  &= 3 \times 20 + 40 \\\\
+                               &= 3 \times 20 + 40 \\\\
+                               &= 60 + 40 \\\\
+                               &= \pounds 100
 \end{aligned}
 $
 
@@ -2436,13 +2471,13 @@ $\pounds 100$
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
 <emptyline>
-Charge per 20 people $\pounds$ C   $= 3 \times 20 + 40$
-<emptyline>
+
 $
 \begin{aligned}
-&= 3 \times 20 + 40 \\\\
-&= 60 + 40 \\\\
-&= \pounds 100
+\text{Charge per 20 people C}  &= 3 \times 20 + 40 \\\\
+                               &= 3 \times 20 + 40 \\\\
+                               &= 60 + 40 \\\\
+                               &= \pounds 100
 \end{aligned}
 $
 </code></pre>
@@ -2475,10 +2510,11 @@ What is the average cost per person for a party of $20$ people?
 
 $
 \begin{aligned}
-&= \dfrac {100} {20} \\\\
-&= \dfrac {20 \times 5} {20} \\\\
-&= \dfrac {\cancel{20} \times 5} {\cancel{20}} \\\\
-&= \pounds 5
+\text {Average cost per person} &= \dfrac {\text {Cost of 20 people}} {20} \\\\
+                                &= \dfrac {100} {20} \\\\
+                                &= \dfrac {20 \times 5} {20} \\\\
+                                &= \dfrac {\cancel{20} \times 5} {\cancel{20}} \\\\
+                                &= \pounds 5
 \end{aligned}
 $
 
@@ -2496,10 +2532,11 @@ $5$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= \dfrac {100} {20} \\\\
-&= \dfrac {20 \times 5} {20} \\\\
-&= \dfrac {\cancel{20} \times 5} {\cancel{20}} \\\\
-&= \pounds 5
+\text {Average cost per person} &= \dfrac {\text {Cost of 20 people}} {20} \\\\
+                                &= \dfrac {100} {20} \\\\
+                                &= \dfrac {20 \times 5} {20} \\\\
+                                &= \dfrac {\cancel{20} \times 5} {\cancel{20}} \\\\
+                                &= \pounds 5
 \end{aligned}
 $
 </code></pre>
@@ -2628,24 +2665,24 @@ The co-ordinates of $A, B$ and $C$ are: $A (3 , 1) ; B (6 , 2) ; C (12 , 4)$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2694,24 +2731,24 @@ The value of $D$ (not shown) also lies on this line. If $D$ is $(15 , a)$, what 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2763,24 +2800,24 @@ What is the value of $b$?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2831,24 +2868,24 @@ If $(p , q)$ is another point on this same line, write down a relationship (equa
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

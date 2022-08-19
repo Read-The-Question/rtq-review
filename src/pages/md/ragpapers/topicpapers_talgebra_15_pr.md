@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-15-pr"
 title: "TopicPaper - Algebra - 15 - PR"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>AFB999E3-6C2D-410C-B1AC-5FC2B01FD318</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "4"
 <p>rag_am_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -39,14 +39,14 @@ Hattie and Imogen then equally share the sweets that are remaining in the bag.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -84,10 +84,11 @@ If Hattie has $12$ sweets, how many sweets did Georgia take?
 
 $
 \begin{aligned}
-&= \dfrac{1}{4} \times 12 \\\\
-&= \dfrac{3 \times 4}{4} \\\\
-&= \dfrac{3 \times 4}{\cancel 4} \\\\
-&= 3
+\text{Sweets Georgia take}  &= \dfrac{1}{4} \times 12 \\\\
+                            &= \dfrac{12}{4} \\\\
+                            &= \dfrac{3 \times 4}{4} \\\\
+                            &= \dfrac{3 \times 4}{\cancel 4} \\\\
+                            &= 3
 \end{aligned}
 $
 
@@ -105,10 +106,11 @@ $3$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= \dfrac{1}{4} \times 12 \\\\
-&= \dfrac{3 \times 4}{4} \\\\
-&= \dfrac{3 \times 4}{\cancel 4} \\\\
-&= 3
+\text{Sweets Georgia take}  &= \dfrac{1}{4} \times 12 \\\\
+                            &= \dfrac{12}{4} \\\\
+                            &= \dfrac{3 \times 4}{4} \\\\
+                            &= \dfrac{3 \times 4}{\cancel 4} \\\\
+                            &= 3
 \end{aligned}
 $
 </code></pre>
@@ -139,16 +141,15 @@ What fraction of the sweets in the full bag does Imogen have?
 <div class='workings'>
 <div class='working'>
 
-As per the question
 
 $
 \begin{aligned}
-&= (1 - \dfrac{1}{4}) \div 2 \\\\
-&= (\dfrac{1 \times 4}{1 \times 4} - \dfrac{1}{4}) \div 2 \\\\
-&= (\dfrac{4-1}{4}) \div 2 \\\\
-&= \dfrac{3}{4} \times \dfrac{1}{2} \\\\
-&= \dfrac{3}{4 \times 2} \\\\
-&= \dfrac{3}{8}
+\text{Fraction of sweets Imogen have}   &= (1 - \dfrac{1}{4}) \div 2 \\\\
+                                        &= (\dfrac{1 \times 4}{1 \times 4} - \dfrac{1}{4}) \div 2 \\\\
+                                        &= (\dfrac{4-1}{4}) \div 2 \\\\
+                                        &= \dfrac{3}{4} \times \dfrac{1}{2} \\\\
+                                        &= \dfrac{3}{4 \times 2} \\\\
+                                        &= \dfrac{3}{8}
 \end{aligned}
 $
 
@@ -164,16 +165,15 @@ $ \dfrac{3}{8}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question
-<emptyline>
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-&= (1 - \dfrac{1}{4}) \div 2 \\\\
-&= (\dfrac{1 \times 4}{1 \times 4} - \dfrac{1}{4}) \div 2 \\\\
-&= (\dfrac{4-1}{4}) \div 2 \\\\
-&= \dfrac{3}{4} \times \dfrac{1}{2} \\\\
-&= \dfrac{3}{4 \times 2} \\\\
-&= \dfrac{3}{8}
+\text{Fraction of sweets Imogen have}   &= (1 - \dfrac{1}{4}) \div 2 \\\\
+                                        &= (\dfrac{1 \times 4}{1 \times 4} - \dfrac{1}{4}) \div 2 \\\\
+                                        &= (\dfrac{4-1}{4}) \div 2 \\\\
+                                        &= \dfrac{3}{4} \times \dfrac{1}{2} \\\\
+                                        &= \dfrac{3}{4 \times 2} \\\\
+                                        &= \dfrac{3}{8}
 \end{aligned}
 $
 </code></pre>
@@ -268,7 +268,7 @@ then solve further...
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>2AF65CA0-8C6F-4B92-9F42-BF41BAFA0C33</p>
 </div>
@@ -282,7 +282,7 @@ then solve further...
 <p>rag_am_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -302,14 +302,14 @@ Gina buys as many kiwi fruits as she can for $\pounds 5$, and spends all of her 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -345,18 +345,24 @@ How many kiwi fruits does Gina buy?
 <div class='workings'>
 <div class='working'>
 
+ABBR: It is really important to use the right units in calculations and convert where required.
+
+
+Lets convert all the costs into pence.
+
+
 $
 \begin{aligned}
-&= \dfrac{\pounds 5}{78 \text{p}} \\\\
-&= \dfrac{5 \times 100 \text{p}}{78 \text{p}} \\\\
-&= \dfrac{5 \times 50 \times 2 \text{p}}{39 \times 2 \text{p}} \\\\
-&= \dfrac{5 \times 50 \times \cancel 2 \text{p}}{39 \times  \cancel 2 \text{p}} \\\\
-&= \dfrac{250}{39} \\\\
-&= 6.41 
+\text{Number of fruits Gina bought }    &= \dfrac{\pounds 5}{78 \text{p}} \\\\
+                                        &= \dfrac{5 \times 100 \text{p}}{78 \text{p}} \\\\
+                                        &= \dfrac{5 \times 50 \times 2}{39 \times 2 \text{p}} \\\\
+                                        &= \dfrac{5 \times 50 \times \cancel 2 \text{p}}{39 \times  \cancel 2} \\\\
+                                        &= \dfrac{250}{39} \\\\
+                                        &= 6 \dfrac{16}{39} \\\\
+                                        &= 6
 \end{aligned}
 $
 
-Number of kiwis Gina bought $= 6$
 
 </div>
 </div>
@@ -370,18 +376,23 @@ $6$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
+<emptyline>
+Lets convert all the costs into pence.
+<emptyline>
+
+$
 \begin{aligned}
-&= \dfrac{\pounds 5}{78 \text{p}} \\\\
-&= \dfrac{5 \times 100 \text{p}}{78 \text{p}} \\\\
-&= \dfrac{5 \times 50 \times 2 \text{p}}{39 \times 2 \text{p}} \\\\
-&= \dfrac{5 \times 50 \times \cancel 2 \text{p}}{39 \times  \cancel 2 \text{p}} \\\\
-&= \dfrac{250}{39} \\\\
-&= 6.41 
+\text{Number of fruits Gina bought }    &= \dfrac{\pounds 5}{78 \text{p}} \\\\
+                                        &= \dfrac{5 \times 100 \text{p}}{78 \text{p}} \\\\
+                                        &= \dfrac{5 \times 50 \times 2}{39 \times 2 \text{p}} \\\\
+                                        &= \dfrac{5 \times 50 \times \cancel 2 \text{p}}{39 \times  \cancel 2} \\\\
+                                        &= \dfrac{250}{39} \\\\
+                                        &= 6 \dfrac{16}{39} \\\\
+                                        &= 6
 \end{aligned}
 $
 <emptyline>
-Number of kiwis Gina bought $= 6$
 </code></pre>
 </div>
 </div>
@@ -410,18 +421,28 @@ How many cherries does Gina buy?
 <div class='workings'>
 <div class='working'>
 
-Changes left $= 500 \text{p} - 78 \times 6 \text{p}= 32$
+ABBR: It is really important to use the right units in calculations and convert where required.
+
+
+Lets convert all the costs into pence.
 
 $
 \begin{aligned}
-&= \dfrac{32}{8} \\\\
-&= \dfrac{8 \times 4}{8} \\\\
-&= \dfrac{\cancel 8 \times 4}{\cancel 8} \\\\
-&= 4
+\text{Changes left } &= 500 \text{p} - 78 \times 6 \text{p} \\\\
+                     &= 500 - 468 \\\\
+                     &= 32
 \end{aligned}
 $
 
-Number of cherries $= 4$
+$
+\begin{aligned}
+\text{Number of cherries Gina bought}  &= \dfrac{32}{8} \\\\
+                                       &= \dfrac{8 \times 4}{8} \\\\
+                                       &= \dfrac{\cancel 8 \times 4}{\cancel 8} \\\\
+                                       &= 4
+\end{aligned}
+$
+
 
 </div>
 </div>
@@ -435,18 +456,27 @@ $4$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Changes left $= 500 \text{p} - 78 \times 6 \text{p}= 32$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
+<emptyline>
+Lets convert all the costs into pence.
 <emptyline>
 $
 \begin{aligned}
-&= \dfrac{32}{8} \\\\
-&= \dfrac{8 \times 4}{8} \\\\
-&= \dfrac{\cancel 8 \times 4}{\cancel 8} \\\\
-&= 4
+\text{Changes left } &= 500 \text{p} - 78 \times 6 \text{p} \\\\
+                     &= 500 - 468 \\\\
+                     &= 32
 \end{aligned}
 $
 <emptyline>
-Number of cherries $= 4$
+$
+\begin{aligned}
+\text{Number of cherries Gina bought}  &= \dfrac{32}{8} \\\\
+                                       &= \dfrac{8 \times 4}{8} \\\\
+                                       &= \dfrac{\cancel 8 \times 4}{\cancel 8} \\\\
+                                       &= 4
+\end{aligned}
+$
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -567,7 +597,7 @@ then solve further...
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>8988C475-ACC9-4864-8F7F-91364E1B67A1</p>
 </div>
@@ -581,7 +611,7 @@ then solve further...
 <p>rag_am_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -607,7 +637,13 @@ Aidan decides he needs $96$ bottles of wine. Work out the cost by each of the tw
 
 Let the total cost of cases  $= a$
 
-Number of cases he will have to buy $= \dfrac{96}{12}$
+Let the cost of individual bottles $= b$
+
+Number of cases Adian have to buy $= \dfrac{96}{12}$
+
+Number of individual bottles Adian have to buy $= \dfrac{96}{8} \times 6$
+
+As per the question,
 
 $
 \begin{aligned}
@@ -619,9 +655,6 @@ a &= \pounds 320
 \end{aligned}
 $
 
-Let the cost of individual bottles $=b $
-
-Number of individual bottles he will have to buy $= \dfrac{96}{8} \times 6$
 
 $
 \begin{aligned}
@@ -633,7 +666,12 @@ b &= \pounds 324
 \end{aligned}
 $
 
-Therefore first method is cheaper by $= \pounds 324 - \pounds 320 = 4$ 
+$
+\begin{aligned}
+\text{Therefore first method is cheaper by} &= \pounds 324 - \pounds 320 \\\\
+                                            &= \pounds 4
+\end{aligned}
+$ 
 
 </div>
 </div>
@@ -650,7 +688,13 @@ $\pounds 320, \pounds 324, \pounds 4$
 <pre class='language-latex'><code class='language-latex'>
 Let the total cost of cases  $= a$
 <emptyline>
-Number of cases he will have to buy $= \dfrac{96}{12}$
+Let the cost of individual bottles $= b$
+<emptyline>
+Number of cases Adian have to buy $= \dfrac{96}{12}$
+<emptyline>
+Number of individual bottles Adian have to buy $= \dfrac{96}{8} \times 6$
+<emptyline>
+As per the question,
 <emptyline>
 $
 \begin{aligned}
@@ -662,10 +706,7 @@ a &= \pounds 320
 \end{aligned}
 $
 <emptyline>
-Let the cost of individual bottles $=b $
-<emptyline>
-Number of individual bottles he will have to buy $= \dfrac{96}{8} \times 6$
-<emptyline>
+
 $
 \begin{aligned}
 b &= \dfrac{96}{8} \times 6 \times \pounds 4.50 \\\\
@@ -676,7 +717,12 @@ b &= \pounds 324
 \end{aligned}
 $
 <emptyline>
-Therefore first method is cheaper by $= \pounds 324 - \pounds 320 = 4$ 
+$
+\begin{aligned}
+\text{Therefore first method is cheaper by} &= \pounds 324 - \pounds 320 \\\\
+                                            &= \pounds 4
+\end{aligned}
+$ 
 </code></pre>
 </div>
 </div>
@@ -782,7 +828,7 @@ First method is cheaper by = 324 - 320
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>27D02444-74FB-437E-803D-BEE8B6392DD0</p>
 </div>
@@ -796,7 +842,7 @@ First method is cheaper by = 324 - 320
 <p>rag_am_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -811,24 +857,24 @@ Irfan is going to cut a stick $80 \ \text{cm}$ long into pieces.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -881,10 +927,10 @@ If he cuts it into sixteen equal pieces, how long is each piece?
 
 $
 \begin{aligned}
-&= \dfrac{80}{16} \\\\
-&= \dfrac{5 \times 16}{16} \\\\
-&= \dfrac{5 \times \cancel {16}}{\cancel {16}} \\\\
-&= 5
+\text{Length of each piece} &= \dfrac{80}{16} \\\\
+                            &= \dfrac{5 \times 16}{16} \\\\
+                            &= \dfrac{5 \times \cancel {16}}{\cancel {16}} \\\\
+                            &= 5 \ \text{cm}
 \end{aligned}
 $
 
@@ -893,7 +939,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$5$
+$5 \text{cm}$
 
 </div>
 </div>
@@ -902,10 +948,10 @@ $5$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= \dfrac{80}{16} \\\\
-&= \dfrac{5 \times 16}{16} \\\\
-&= \dfrac{5 \times \cancel {16}}{\cancel {16}} \\\\
-&= 5
+\text{Length of each piece} &= \dfrac{80}{16} \\\\
+                            &= \dfrac{5 \times 16}{16} \\\\
+                            &= \dfrac{5 \times \cancel {16}}{\cancel {16}} \\\\
+                            &= 5 \ \text{cm}
 \end{aligned}
 $
 </code></pre>
@@ -919,7 +965,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$5$
+<pre class='language-latex'><code class='language-latex'>$5 \text{cm}$
 </code></pre>
 </div>
 </div>
@@ -936,9 +982,16 @@ If each piece is $25 \ \text{mm}$ long, how many pieces are there?
 <div class='workings'>
 <div class='working'>
 
+
+ABBR: It is really important to use the right units in calculations and convert where required.
+
+
+Lets convert all the lengths into mm.
+
+
 $
 \begin{aligned}
-&= \dfrac{80 \text{cm}}{25 \text{mm}} \\\\
+&= \dfrac{80 \ \text{cm}}{25 \ \text{mm}} \\\\
 &= \dfrac{80 \text{cm} \times 100}{25 \text{cm}} \\\\
 &= \dfrac{80 \times 100}{25} \\\\
 &= \dfrac{80 \times 25 \times 4}{25} \\\\
@@ -953,16 +1006,22 @@ $
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$320$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>
+rtq_abbr_md_unit_note
+<emptyline>
+Lets convert all the lengths into mm.
+<emptyline>
+
+$
 \begin{aligned}
-&= \dfrac{80 \text{cm}}{25 \text{mm}} \\\\
+&= \dfrac{80 \ \text{cm}}{25 \ \text{mm}} \\\\
 &= \dfrac{80 \text{cm} \times 100}{25 \text{cm}} \\\\
 &= \dfrac{80 \times 100}{25} \\\\
 &= \dfrac{80 \times 25 \times 4}{25} \\\\
@@ -982,7 +1041,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$320$
 </code></pre>
 </div>
 </div>
@@ -1117,11 +1176,15 @@ a                       &= 15
 \end{aligned}
 $
 
-Shortest Length $= 15$ cm
-
-Longest piece $= 25 + 15 = 40$ cm
-
-Third piece $= 10 + 15 = 25$ cm
+$
+\begin{aligned}
+\text{Shortest Length} &= 15 \ \text{cm} \\\\
+\text{Longest piece}   &= 25 + 15 \\\\
+                       &= 40 \ \text{cm} \\\\
+\text{Third piece}     &= 10 + 15 \\\\ 
+                       &= 25 \ \text{cm}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1154,11 +1217,15 @@ a                       &= 15
 \end{aligned}
 $
 <emptyline>
-Shortest Length $= 15$ cm
-<emptyline>
-Longest piece $= 25 + 15 = 40$ cm
-<emptyline>
-Third piece $= 10 + 15 = 25$ cm
+$
+\begin{aligned}
+\text{Shortest Length} &= 15 \ \text{cm} \\\\
+\text{Longest piece}   &= 25 + 15 \\\\
+                       &= 40 \ \text{cm} \\\\
+\text{Third piece}     &= 10 + 15 \\\\ 
+                       &= 25 \ \text{cm}
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -1187,41 +1254,41 @@ If there are four pieces, such that one is $\dfrac{1}{5}$ of the stick, one is $
 <div class='workings'>
 <div class='working'>
 
-First stick $= \dfrac{1}{5} \times 80$ cm
 
 $
 \begin{aligned}
-&= \dfrac{1}{5} \times 80 \\\\
-&= \dfrac{1}{5} \times 16 \times 5 \\\\
-&= \dfrac{1}{\cancel 5} \times 16 \times \cancel 5 \\\\
-&= 16 
+\text{First stick}  &= \dfrac{1}{5} \times 80 \ \text{cm} \\\\
+                    &= \dfrac{1}{5} \times 80 \\\\
+                    &= \dfrac{1}{5} \times 16 \times 5 \\\\
+                    &= \dfrac{1}{\cancel 5} \times 16 \times \cancel 5 \\\\
+                    &= 16  \ \text{cm}
 \end{aligned}
 $
-
-Second stick $= \dfrac{3}{10} \times 80$ cm
 
 $
 \begin{aligned}
-&= \dfrac{3}{10} \times 80 \\\\
-&= \dfrac{3}{10} \times 8 \times 10 \\\\
-&= \dfrac{3}{\cancel {10}} \times 8 \times \cancel {10} \\\\
-&= 3 \times 8 \\\\
-&= 24
+\text{Second stick}     &= \dfrac{3}{10} \times 80 \ \text{cm} \\\\
+                        &= \dfrac{3}{10} \times 80 \\\\
+                        &= \dfrac{3}{10} \times 8 \times 10 \\\\
+                        &= \dfrac{3}{\cancel {10}} \times 8 \times \cancel {10} \\\\
+                        &= 3 \times 8 \\\\
+                        &= 24  \ \text{cm}
 \end{aligned}
 $
 
-Third stick $= \dfrac{1}{8} \times 80$ cm
 
 $
 \begin{aligned}
-&= \dfrac{1}{8} \times 80 \\\\
-&= \dfrac{1}{8} \times 8 \times 10 \\\\
-&= \dfrac{1}{\cancel 8} \times 10 \times \cancel 8 \\\\
-&= 10 
+\text{Third stick}  &= \dfrac{1}{8} \times 80 \ \text{cm} \\\\
+                    &= \dfrac{1}{8} \times 80 \\\\
+                    &= \dfrac{1}{8} \times 8 \times 10 \\\\
+                    &= \dfrac{1}{\cancel 8} \times 10 \times \cancel 8 \\\\
+                    &= 10  \ \text{cm}\\\\
+\text{Fourth stick} &= 80 - 16 - 24 - 10 \\\\
+                    &= 30 \ \text{cm}
 \end{aligned}
 $
 
-Fourth stick $= 80 - 16 - 24 - 10 = 30$ cm
 
 </div>
 </div>
@@ -1235,41 +1302,41 @@ $16 \text{ cm }, 24 \text{ cm }, 10 \text{ cm }, 30 \text{ cm }$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>First stick $= \dfrac{1}{5} \times 80$ cm
-<emptyline>
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-&= \dfrac{1}{5} \times 80 \\\\
-&= \dfrac{1}{5} \times 16 \times 5 \\\\
-&= \dfrac{1}{\cancel 5} \times 16 \times \cancel 5 \\\\
-&= 16 
+\text{First stick}  &= \dfrac{1}{5} \times 80 \ \text{cm} \\\\
+                    &= \dfrac{1}{5} \times 80 \\\\
+                    &= \dfrac{1}{5} \times 16 \times 5 \\\\
+                    &= \dfrac{1}{\cancel 5} \times 16 \times \cancel 5 \\\\
+                    &= 16  \ \text{cm}
 \end{aligned}
 $
 <emptyline>
-Second stick $= \dfrac{3}{10} \times 80$ cm
-<emptyline>
 $
 \begin{aligned}
-&= \dfrac{3}{10} \times 80 \\\\
-&= \dfrac{3}{10} \times 8 \times 10 \\\\
-&= \dfrac{3}{\cancel {10}} \times 8 \times \cancel {10} \\\\
-&= 3 \times 8 \\\\
-&= 24
+\text{Second stick}     &= \dfrac{3}{10} \times 80 \ \text{cm} \\\\
+                        &= \dfrac{3}{10} \times 80 \\\\
+                        &= \dfrac{3}{10} \times 8 \times 10 \\\\
+                        &= \dfrac{3}{\cancel {10}} \times 8 \times \cancel {10} \\\\
+                        &= 3 \times 8 \\\\
+                        &= 24  \ \text{cm}
 \end{aligned}
 $
 <emptyline>
-Third stick $= \dfrac{1}{8} \times 80$ cm
-<emptyline>
+
 $
 \begin{aligned}
-&= \dfrac{1}{8} \times 80 \\\\
-&= \dfrac{1}{8} \times 8 \times 10 \\\\
-&= \dfrac{1}{\cancel 8} \times 10 \times \cancel 8 \\\\
-&= 10 
+\text{Third stick}  &= \dfrac{1}{8} \times 80 \ \text{cm} \\\\
+                    &= \dfrac{1}{8} \times 80 \\\\
+                    &= \dfrac{1}{8} \times 8 \times 10 \\\\
+                    &= \dfrac{1}{\cancel 8} \times 10 \times \cancel 8 \\\\
+                    &= 10  \ \text{cm}\\\\
+\text{Fourth stick} &= 80 - 16 - 24 - 10 \\\\
+                    &= 30 \ \text{cm}
 \end{aligned}
 $
 <emptyline>
-Fourth stick $= 80 - 16 - 24 - 10 = 30$ cm
 </code></pre>
 </div>
 </div>

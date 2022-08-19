@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2019-arithmetic-b"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2019 - Arithmetic B"
-date: 2022-08-18 10:44:13
+date: 2022-08-19 15:32:50
 questions_count: "11"
 ---
 <div class='paper'>
@@ -338,7 +338,7 @@ Munich with $25 \degree$ has the largest difference.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FEF8AADE-2D7B-4940-99BD-A18E327E4D0F</p>
 </div>
@@ -352,7 +352,7 @@ Munich with $25 \degree$ has the largest difference.
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -413,14 +413,10 @@ How many units of gas has Andrew used in the three month period from October to 
 <div class='working'>
 
 
-January reading = $6045$ 
-
-October reading = $5475$ 
-
 $
 \begin {aligned}
-&= 6045 - 5475 \\\\
-&= 570
+\text{Gas used in three months}     &= 6045 - 5475 \\\\
+                                    &= 570
 \end {aligned}
 $
 
@@ -439,14 +435,10 @@ $570 \ \text {units}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-January reading = $6045$ 
-<emptyline>
-October reading = $5475$ 
-<emptyline>
 $
 \begin {aligned}
-&= 6045 - 5475 \\\\
-&= 570
+\text{Gas used in three months}     &= 6045 - 5475 \\\\
+                                    &= 570
 \end {aligned}
 $
 <emptyline>
@@ -544,11 +536,10 @@ In fact, M-power also have to add $5\%$ to Andrew's bill which is the tax known 
 
 As per the question,
 
-Final Bill $=$ Total bill + VAT 
-
 $
 \begin{aligned}
-                        &= \pounds 276.60 + (5 \% \ \text {of } 276.60) \\\\
+\text{Final Bill}       &= \text{Total bill} + \text{VAT} \\\\ 
+                        &= 276.60 + (5 \% \ \text {of } 276.60) \\\\
                         &= 276.60 + (5 \% \times 276.60) \\\\
                         &= 276.60 + (\dfrac {5} {100} \times 276.60) \\\\
                         &= 276.60 + (\dfrac {276.60 \times 5}{100}) \\\\
@@ -572,11 +563,10 @@ $\pounds 290.43$
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
 <emptyline>
-Final Bill $=$ Total bill + VAT 
-<emptyline>
 $
 \begin{aligned}
-                        &= \pounds 276.60 + (5 \% \ \text {of } 276.60) \\\\
+\text{Final Bill}       &= \text{Total bill} + \text{VAT} \\\\ 
+                        &= 276.60 + (5 \% \ \text {of } 276.60) \\\\
                         &= 276.60 + (5 \% \times 276.60) \\\\
                         &= 276.60 + (\dfrac {5} {100} \times 276.60) \\\\
                         &= 276.60 + (\dfrac {276.60 \times 5}{100}) \\\\
@@ -1563,24 +1553,24 @@ D                   ,               ,$\pounds 190$  ,$\pounds 160$  ,$\pounds 17
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1916,19 +1906,19 @@ Using this formula,
 
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1994,7 +1984,7 @@ $
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2295,24 +2285,24 @@ A top international bowler playing in a cricket match bowls a cricket ball at $9
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2883,12 +2873,12 @@ The numbers are $18$ and $3$
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3039,24 +3029,24 @@ Using the graph:
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3440,12 +3430,12 @@ Graph plotting
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3611,24 +3601,24 @@ So $84$ is a multisum since $8 + 4 = 12$ and $84$ is a multiple of $12$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4008,24 +3998,24 @@ $\dbinom {5}{2} \wedge \dbinom {6}{7} = 5 \times 7 - 2 \times 6 = 35 - 12 = 23$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

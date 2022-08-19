@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tdivision-3"
 title: "TopicPaper - Division - 3"
-date: 2022-08-18 11:06:01
+date: 2022-08-19 16:00:22
 questions_count: "26"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "26"
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -105,10 +105,10 @@ $8 29648$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -186,10 +186,10 @@ $3256 \div 4$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -267,10 +267,10 @@ $9)2016$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -344,10 +344,10 @@ $3216 \div 6 =$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -421,10 +421,10 @@ $4644 \div 6 =$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -498,10 +498,10 @@ Divide $21060$ by $9$.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -575,10 +575,10 @@ Work out $5502 \div 6$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -652,10 +652,10 @@ Work out $1548 \div  6$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -729,10 +729,10 @@ Work out $5922 \div 6$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -806,10 +806,10 @@ Work out $2394 \div 9$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -883,10 +883,10 @@ Work out $7083 \div 9$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -960,10 +960,10 @@ Work out $3832 \div 8$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1037,10 +1037,10 @@ Work out $2964 \div 6$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1114,10 +1114,10 @@ Work out $3024 \div 9$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1191,10 +1191,10 @@ Work out $4802 \div 7$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1268,10 +1268,10 @@ Work out $2898 \div 6$
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1345,10 +1345,10 @@ Work out $525 \div 25$.
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1457,10 +1457,10 @@ Write numbers in the boxes to make this subtraction correct
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1534,10 +1534,10 @@ Work out $6.48 \div 0.6$, writing your answer as a decimal number.
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1611,10 +1611,10 @@ Work out $2047 \div 23$.
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1688,10 +1688,10 @@ Work out $44.8 \div 0.7$.
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1765,10 +1765,10 @@ Calculate $273 \div 7$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1858,10 +1858,10 @@ Which **ONE** of the following numbers is NOT divisible by $3$?
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1968,10 +1968,10 @@ $7.6 \div 0.89$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2045,10 +2045,10 @@ Divide: $9786 \div 7$
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1:2:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-18-pr"
 title: "TopicPaper - Algebra - 18 - PR"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>5863986B-3C61-4299-99E3-6926BCFBFCAD</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "5"
 <p>rag_am_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -39,24 +39,24 @@ $R=H\begin{pmatrix}
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -109,11 +109,12 @@ If H = $9$ and A = $3.1$, find R .
 
 $
 \begin{aligned}
-&= 9 \times (\dfrac{6570}{3.1^2} -1 ) \\\\
-&= 9 \times (\dfrac{6570}{9.61} -1 ) \\\\
-&= 9 \times (683.66 - 1) \\\\
-&= 9 \times 682.66  \\\\
-&= 6143.96 
+R             &= H \times (\dfrac{6570}{A^2} -1 ) \\\\
+R             &= 9 \times (\dfrac{6570}{3.1^2} -1 ) \\\\
+R             &= 9 \times (\dfrac{6570}{9.61} -1 ) \\\\
+R             &= 9 \times (683.66 - 1) \\\\
+R             &= 9 \times 682.66  \\\\
+R             &= 6143.96 
 \end{aligned}
 $
 
@@ -132,11 +133,12 @@ $6143.96$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 9 \times (\dfrac{6570}{3.1^2} -1 ) \\\\
-&= 9 \times (\dfrac{6570}{9.61} -1 ) \\\\
-&= 9 \times (683.66 - 1) \\\\
-&= 9 \times 682.66  \\\\
-&= 6143.96 
+R             &= H \times (\dfrac{6570}{A^2} -1 ) \\\\
+R             &= 9 \times (\dfrac{6570}{3.1^2} -1 ) \\\\
+R             &= 9 \times (\dfrac{6570}{9.61} -1 ) \\\\
+R             &= 9 \times (683.66 - 1) \\\\
+R             &= 9 \times 682.66  \\\\
+R             &= 6143.96 
 \end{aligned}
 $
 <emptyline>
@@ -350,7 +352,7 @@ Part a) First line write formula \"R =...\" then solve further..
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>BC18B92E-4190-4C3F-B391-1D7F39F5B4D9</p>
 </div>
@@ -364,7 +366,7 @@ Part a) First line write formula \"R =...\" then solve further..
 <p>rag_am_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -379,24 +381,24 @@ Solve the simultaneous equations:
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -508,7 +510,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$-0.7, 1.8$
 
 </div>
 </div>
@@ -581,7 +583,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$-0.7, 1.8$
 </code></pre>
 </div>
 </div>
@@ -596,24 +598,24 @@ $2x + 3y = 4$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -714,7 +716,7 @@ Part b) Not solved, solve it.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>14AE2923-5211-4ABF-BD29-8574263DA505</p>
 </div>
@@ -728,7 +730,7 @@ Part b) Not solved, solve it.
 <p>rag_am_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -743,24 +745,24 @@ A piece of string $231\, cm$ long is to be cut into two pieces. Find the lengths
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -815,25 +817,26 @@ Let the length of first piece $=a$
 
 Length of second piece $= 20a$
 
+As per the question,
+
 $
 \begin{aligned}
 a + 20a      &= 231 \\\\
 21a          &= 231 \\\\
 a            &= \dfrac{231}{21} \\\\
 a            &= \dfrac{21 \times 11}{21} \\\\
-a            &= \dfrac{\cancel 21 \times 11}{\cancel 21} \\\\
+a            &= \dfrac{\cancel {21} \times 11}{\cancel {21}} \\\\
 a            &= 11 \text{ cm}
 \end{aligned}
 $
 
 Length of first piece $=11 \text{ cm}$
 
-Length of second piece $= 20 \times a$
-
 $
 \begin{aligned}
-&= 20 \times 11 \\\\
-&= 220 \text{ cm}
+\text{Length of second piece} &= 20 \times a \\\\
+                              &= 20 \times 11 \\\\
+                              &= 220 \ \text{cm}
 \end{aligned}
 $
 
@@ -853,25 +856,26 @@ $ 11 \text{ cm}, 220 \text{ cm}$
 <emptyline>
 Length of second piece $= 20a$
 <emptyline>
+As per the question,
+<emptyline>
 $
 \begin{aligned}
 a + 20a      &= 231 \\\\
 21a          &= 231 \\\\
 a            &= \dfrac{231}{21} \\\\
 a            &= \dfrac{21 \times 11}{21} \\\\
-a            &= \dfrac{\cancel 21 \times 11}{\cancel 21} \\\\
+a            &= \dfrac{\cancel {21} \times 11}{\cancel {21}} \\\\
 a            &= 11 \text{ cm}
 \end{aligned}
 $
 <emptyline>
 Length of first piece $=11 \text{ cm}$
 <emptyline>
-Length of second piece $= 20 \times a$
-<emptyline>
 $
 \begin{aligned}
-&= 20 \times 11 \\\\
-&= 220 \text{ cm}
+\text{Length of second piece} &= 20 \times a \\\\
+                              &= 20 \times 11 \\\\
+                              &= 220 \ \text{cm}
 \end{aligned}
 $
 </code></pre>
@@ -906,6 +910,8 @@ Let the length of first piece $=a$
 
 Length of second piece $= 20 + a$
 
+As per the question,
+
 $
 \begin{aligned}
 a + 20 + a      &= 231 \\\\
@@ -919,12 +925,11 @@ $
 
 Length of first piece $=105.5 \text{ cm}$
 
-Length of second piece $= 20 + a$
-
 $
 \begin{aligned}
-&= 20 + 105.5 \\\\
-&= 125.5 \text{ cm}
+\text{Length of second piece} &= 20 + a \\\\
+                              &= 20 + 105.5 \\\\
+                              &= 125.5 \text{ cm}
 \end{aligned}
 $
 
@@ -944,6 +949,8 @@ $105.5 \text{ cm}, 125.5 \text{ cm}$
 <emptyline>
 Length of second piece $= 20 + a$
 <emptyline>
+As per the question,
+<emptyline>
 $
 \begin{aligned}
 a + 20 + a      &= 231 \\\\
@@ -957,12 +964,11 @@ $
 <emptyline>
 Length of first piece $=105.5 \text{ cm}$
 <emptyline>
-Length of second piece $= 20 + a$
-<emptyline>
 $
 \begin{aligned}
-&= 20 + 105.5 \\\\
-&= 125.5 \text{ cm}
+\text{Length of second piece} &= 20 + a \\\\
+                              &= 20 + 105.5 \\\\
+                              &= 125.5 \text{ cm}
 \end{aligned}
 $
 </code></pre>
@@ -997,6 +1003,8 @@ Let the length of first piece $=a$
 
 Length of second piece $= 20 \% \text{ of } a + a$
 
+As per the question,
+
 $
 \begin{aligned}
 a + 20 \% \text{ of } a + a                                    &= 231 \\\\
@@ -1016,16 +1024,14 @@ $
 
 Length of first piece $=105 \text{ cm}$
 
-Length of second piece $= 20 \% \text{ of } a + a$
-
 $
 \begin{aligned}
-&= 20 \% a + a \\\\
-&=\dfrac{20 \times 105}{100} + 105 \\\\ 
-&=\dfrac{20 \times 21 \times 5}{20 \times 5} + 105 \\\\
-&=\dfrac{\cancel {20} \times 21 \times \cancel 5}{\cancel {20} \times \cancel 5} + 105 \\\\ 
-&= 21 + 105 \\\\
-&= 126 \text{ cm}
+\text{Length of second piece} &= 20 \% \text{ of } a + a \\\\
+                              &=\dfrac{20 \times 105}{100} + 105 \\\\ 
+                              &=\dfrac{20 \times 21 \times 5}{20 \times 5} + 105 \\\\
+                              &=\dfrac{\cancel {20} \times 21 \times \cancel 5}{\cancel {20} \times \cancel 5} + 105 \\\\ 
+                              &= 21 + 105 \\\\
+                              &= 126 \text{ cm}
 \end{aligned}
 $
 
@@ -1045,6 +1051,8 @@ $105 \text{ cm}, 126 \text{ cm}$
 <emptyline>
 Length of second piece $= 20 \% \text{ of } a + a$
 <emptyline>
+As per the question,
+<emptyline>
 $
 \begin{aligned}
 a + 20 \% \text{ of } a + a                                    &= 231 \\\\
@@ -1064,16 +1072,14 @@ $
 <emptyline>
 Length of first piece $=105 \text{ cm}$
 <emptyline>
-Length of second piece $= 20 \% \text{ of } a + a$
-<emptyline>
 $
 \begin{aligned}
-&= 20 \% a + a \\\\
-&=\dfrac{20 \times 105}{100} + 105 \\\\ 
-&=\dfrac{20 \times 21 \times 5}{20 \times 5} + 105 \\\\
-&=\dfrac{\cancel {20} \times 21 \times \cancel 5}{\cancel {20} \times \cancel 5} + 105 \\\\ 
-&= 21 + 105 \\\\
-&= 126 \text{ cm}
+\text{Length of second piece} &= 20 \% \text{ of } a + a \\\\
+                              &=\dfrac{20 \times 105}{100} + 105 \\\\ 
+                              &=\dfrac{20 \times 21 \times 5}{20 \times 5} + 105 \\\\
+                              &=\dfrac{\cancel {20} \times 21 \times \cancel 5}{\cancel {20} \times \cancel 5} + 105 \\\\ 
+                              &= 21 + 105 \\\\
+                              &= 126 \text{ cm}
 \end{aligned}
 $
 </code></pre>
@@ -1168,7 +1174,7 @@ Part c) Same as part a)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>8E48E97E-BA10-4089-919F-C660C53FBEF5</p>
 </div>
@@ -1182,7 +1188,7 @@ Part c) Same as part a)
 <p>rag_am_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1305,7 +1311,7 @@ ii) give space between 15 and rounds in answer.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>3D42270C-70A1-4EE1-AED9-6A08F7425716</p>
 </div>
@@ -1319,7 +1325,7 @@ ii) give space between 15 and rounds in answer.
 <p>rag_am_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

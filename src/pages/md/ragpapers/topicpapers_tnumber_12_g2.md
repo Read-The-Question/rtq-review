@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-12-g2"
 title: "TopicPaper - Number - 12 - G2"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "32"
 ---
 <ul class='question default-decimal'>
@@ -237,7 +237,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write $\dfrac{3}{5}$ as a decimal
+Write $\dfrac{3}{5}$ as a decimal.
 
 </div>
 <div class='workings'>
@@ -462,7 +462,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Using the information given above, what is $112 \times 67$
+Using the information given above, what is $112 \times 67$?
 
 </div>
 <div class='workings'>
@@ -755,7 +755,7 @@ tnumber
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Convert $13.2\ \text{metres}$ into $\text{centimetres}$
+Convert $13.2\ \text{metres}$ into $\text{centimetres}$.
 
 </div>
 <div class='workings'>
@@ -810,7 +810,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Convert $430\ \text{millimetres}$ into $\text{centimetres}$ 
+Convert $430\ \text{millimetres}$ into $\text{centimetres}$.
 
 </div>
 <div class='workings'>
@@ -867,7 +867,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Convert $2.1\ \text{kilometres}$ into $\text{metres}$ 
+Convert $2.1\ \text{kilometres}$ into $\text{metres}$.
 
 </div>
 <div class='workings'>
@@ -1322,7 +1322,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Find $1\%$ of $200\ \text{kg}$ 
+Find $1\%$ of $200\ \text{kg}$.
 
 </div>
 <div class='workings'>
@@ -1381,7 +1381,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Work out $\dfrac{1}{2}+\dfrac{1}{4}$
+Work out $\dfrac{1}{2}+\dfrac{1}{4}$.
 
 </div>
 <div class='workings'>
@@ -2267,13 +2267,13 @@ tnumber
 
 Write the correct operations ($+$ or $-$ or $\times$ or $\div$) in these statements.
 
-$a\ \ \Box\ \ a = 0$
+- $a\ \ \Box\ \ a = 0$
 
-$a\ \ \Box\ \ a = 1$
+- $a\ \ \Box\ \ a = 1$
 
-$a\ \ \Box\ \ a = 2a$
+- $a\ \ \Box\ \ a = 2a$
 
-$a\ \ \Box\ \ a = a^2$
+- $a\ \ \Box\ \ a = a^2$
 
 </div>
 <div class='workings'>
@@ -2438,7 +2438,7 @@ tnumber
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write down the prime numbers between $10$ and $20$
+Write down the prime numbers between $10$ and $20$.
 
 </div>
 <div class='workings'>
@@ -2481,7 +2481,7 @@ $11, 13, 17, 19$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write down the first three multiples of $15$
+Write down the first three multiples of $15$.
 
 </div>
 <div class='workings'>
@@ -2524,7 +2524,7 @@ $15, 30, 45$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write down the factors of $49$
+Write down the factors of $49$.
 
 </div>
 <div class='workings'>
@@ -2899,7 +2899,7 @@ tnumber
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Work out $36 - 89 + 126$
+Work out $36 - 89 + 126$.
 
 </div>
 <div class='workings'>
@@ -2959,7 +2959,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Work out $253 \times 180$
+Work out $253 \times 180$.
 
 </div>
 <div class='workings'>
@@ -3024,7 +3024,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Work out $20514 \div 26$
+Work out $20514 \div 26$.
 
 </div>
 <div class='workings'>
@@ -5638,7 +5638,7 @@ Round $325.48$ to the following degrees of accuracy:
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Nearest $100$
+Nearest $100$.
 
 </div>
 <div class='workings'>
@@ -5681,7 +5681,7 @@ $300$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Nearest $10$
+Nearest $10$.
 
 </div>
 <div class='workings'>
@@ -5724,7 +5724,7 @@ $330$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Nearest whole number
+Nearest whole number.
 
 </div>
 <div class='workings'>
@@ -5767,7 +5767,7 @@ $325$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-One decimal place
+One decimal place.
 
 </div>
 <div class='workings'>
@@ -5876,7 +5876,7 @@ tnumber
 </div>
 <div class='question question'>
 
-Find
+Find:
 
 </div>
 <div class='workings'>

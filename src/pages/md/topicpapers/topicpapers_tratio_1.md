@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tratio-1"
 title: "TopicPaper - Ratio - 1"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "40"
 ---
 <div class='paper'>
@@ -5886,24 +5886,24 @@ How many hours would it have taken $5$ builders to build the same wall?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -7449,7 +7449,7 @@ a: Solve using whole to part ratio, refer CB7EF112-E190-4553-823D-BE6A00EE6C10
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>6988D985-5AC0-40DF-9615-C7003D875089</p>
 </div>
@@ -7463,7 +7463,7 @@ a: Solve using whole to part ratio, refer CB7EF112-E190-4553-823D-BE6A00EE6C10
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7527,19 +7527,44 @@ How many kroner would I get for $90 \text{p}$?
 <div class='workings'>
 <div class='working'>
 
+Let the amount of kroner I get $= a$
+
+Using equivalent ratio,
+
+$
+\begin{aligned}
+1 \ \text{england} : 18 \ \text{norway}         &= 90 \ \text{england} : a \ \text{norway} \\\\
+\dfrac{\pounds 1} {18}                          &= \dfrac {90 \text{p}} {a} \\\\
+\dfrac{100 \text{p}} {18}                       &= \dfrac {90 \text{p}} {a} \\\\
+\dfrac{100} {18}                                &= \dfrac {90} {a} \\\\
+100a                                            &= 90 \times 18 \\\\
+a                                               &= \dfrac {90 \times 18} {100} \\\\
+a                                               &= \dfrac {1620} {100} \\\\
+a                                               &= 16.2 \text{kroner}
+\end{aligned}
+$
+
+Amount of kroner I get for $90 \text{p}= 16.2 \ \text{kroner}$
+
+</div>
+<div class='working'>
+
 Using ratio,
 
 $
 \begin{array}{cccccccccccccc}
+= & \text{england}                 &:& \text{norway} \\\\
 = & \pounds 1                      &:& 18 \ \text{kroner} \\\\
-= & 1 \times 100 \text{p}          &:& 18 \ \text{kroner} \\\\
-= & 100 \text{p}                   &:& 18 \ \text{kroner} \\\\
+= & 1 \times 100 \text{p}          &:& 18 \\\\
+= & 100 \text{p}                   &:& 18 \\\\
 = & 1                              &:& \dfrac {18} {100} \\\\
-= & 90                             &:& \dfrac {18 \times 90} {100} \\\\
+= & 1 \times 90                    &:& \dfrac {18 \times 90} {100} \\\\
 = & 90                             &:& \dfrac {1620} {100} \\\\
 = & 90 \text{p}                    &:& 16.2 \ \text{kroner}
 \end{array}
 $
+
+Amount of kroner I get for $90 \text{p}= 16.2 \ \text{kroner}$
 
 </div>
 </div>
@@ -7553,19 +7578,44 @@ $16.2 \ \text{kroner}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
+<pre class='language-latex'><code class='language-latex'>Let the amount of kroner I get $= a$
+<emptyline>
+Using equivalent ratio,
+<emptyline>
+$
+\begin{aligned}
+1 \ \text{england} : 18 \ \text{norway}         &= 90 \ \text{england} : a \ \text{norway} \\\\
+\dfrac{\pounds 1} {18}                          &= \dfrac {90 \text{p}} {a} \\\\
+\dfrac{100 \text{p}} {18}                       &= \dfrac {90 \text{p}} {a} \\\\
+\dfrac{100} {18}                                &= \dfrac {90} {a} \\\\
+100a                                            &= 90 \times 18 \\\\
+a                                               &= \dfrac {90 \times 18} {100} \\\\
+a                                               &= \dfrac {1620} {100} \\\\
+a                                               &= 16.2 \text{kroner}
+\end{aligned}
+$
+<emptyline>
+Amount of kroner I get for $90 \text{p}= 16.2 \ \text{kroner}$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
 <pre class='language-latex'><code class='language-latex'>Using ratio,
 <emptyline>
 $
 \begin{array}{cccccccccccccc}
+= & \text{england}                 &:& \text{norway} \\\\
 = & \pounds 1                      &:& 18 \ \text{kroner} \\\\
-= & 1 \times 100 \text{p}          &:& 18 \ \text{kroner} \\\\
-= & 100 \text{p}                   &:& 18 \ \text{kroner} \\\\
+= & 1 \times 100 \text{p}          &:& 18 \\\\
+= & 100 \text{p}                   &:& 18 \\\\
 = & 1                              &:& \dfrac {18} {100} \\\\
-= & 90                             &:& \dfrac {18 \times 90} {100} \\\\
+= & 1 \times 90                    &:& \dfrac {18 \times 90} {100} \\\\
 = & 90                             &:& \dfrac {1620} {100} \\\\
 = & 90 \text{p}                    &:& 16.2 \ \text{kroner}
 \end{array}
 $
+<emptyline>
+Amount of kroner I get for $90 \text{p}= 16.2 \ \text{kroner}$
 </code></pre>
 </div>
 </div>
@@ -7594,18 +7644,42 @@ How much are $12 \ \text{kroner}$ worth?
 <div class='workings'>
 <div class='working'>
 
+Let the amount of pounds I get $= a$
+
+Using equivalent ratio,
+
+$
+\begin{aligned}
+18 \ \text{norway} : 1 \ \text{england}         &= 12 \ \text{norway} : a \ \text{england} \\\\
+18                                              &= \dfrac {12} {a} \\\\
+18a                                             &= 12 \\\\
+a                                               &= \dfrac {12} {18} \\\\
+a                                               &= \dfrac {6 \times 2} {6 \times 3} \\\\
+a                                               &= \dfrac {\cancel 6 \times 2} {\cancel 6 \times 3} \\\\
+a                                               &= \pounds \dfrac {2} {3}
+\end{aligned}
+$
+
+Amount of pounds I get for $12 \ \text{kroner}= \pounds \dfrac {2} {3}$
+
+</div>
+<div class='working'>
+
 Using ratio,
 
 $
 \begin{array}{cccccccccccccc}
+= & \text{norway}                  &:& \text{england} \\\\
 = & 18 \ \text{kroner}             &:& \pounds 1 \\\\
 = & 1                              &:& \dfrac {1} {18} \\\\
-= & 12                             &:& \dfrac {12} {18} \\\\
+= & 1 \times 12                    &:& \dfrac {12} {18} \\\\
 = & 12                             &:& \dfrac {6 \times 2} {6 \times 3} \\\\
 = & 12                             &:& \dfrac {\cancel 6 \times 2} {\cancel 6 \times 3} \\\\
 = & 12 \ \text{kroner}             &:& \pounds \dfrac {2} {3}
 \end{array}
 $
+
+Amount of pounds I get for $12 \ \text{kroner}= \pounds \dfrac {2} {3}$
 
 </div>
 </div>
@@ -7619,18 +7693,42 @@ $\pounds \dfrac {2} {3}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
+<pre class='language-latex'><code class='language-latex'>Let the amount of pounds I get $= a$
+<emptyline>
+Using equivalent ratio,
+<emptyline>
+$
+\begin{aligned}
+18 \ \text{norway} : 1 \ \text{england}         &= 12 \ \text{norway} : a \ \text{england} \\\\
+18                                              &= \dfrac {12} {a} \\\\
+18a                                             &= 12 \\\\
+a                                               &= \dfrac {12} {18} \\\\
+a                                               &= \dfrac {6 \times 2} {6 \times 3} \\\\
+a                                               &= \dfrac {\cancel 6 \times 2} {\cancel 6 \times 3} \\\\
+a                                               &= \pounds \dfrac {2} {3}
+\end{aligned}
+$
+<emptyline>
+Amount of pounds I get for $12 \ \text{kroner}= \pounds \dfrac {2} {3}$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
 <pre class='language-latex'><code class='language-latex'>Using ratio,
 <emptyline>
 $
 \begin{array}{cccccccccccccc}
+= & \text{norway}                  &:& \text{england} \\\\
 = & 18 \ \text{kroner}             &:& \pounds 1 \\\\
 = & 1                              &:& \dfrac {1} {18} \\\\
-= & 12                             &:& \dfrac {12} {18} \\\\
+= & 1 \times 12                    &:& \dfrac {12} {18} \\\\
 = & 12                             &:& \dfrac {6 \times 2} {6 \times 3} \\\\
 = & 12                             &:& \dfrac {\cancel 6 \times 2} {\cancel 6 \times 3} \\\\
 = & 12 \ \text{kroner}             &:& \pounds \dfrac {2} {3}
 \end{array}
 $
+<emptyline>
+Amount of pounds I get for $12 \ \text{kroner}= \pounds \dfrac {2} {3}$
 </code></pre>
 </div>
 </div>
@@ -7660,15 +7758,35 @@ How much is this in kroner?
 <div class='workings'>
 <div class='working'>
 
+Let the value in kroner $= a$
+
+Using equivalent ratio,
+
+$
+\begin{aligned}
+1 \ \text{england} : 18 \ \text{norway}         &= 5.1 \ \text{england} : a \ \text{norway} \\\\
+\dfrac{1} {18}                                  &= \dfrac {5.1} {a} \\\\
+a                                               &= 5.1 \times 18 \\\\
+a                                               &= 91.8 \ \text{kroner}
+\end{aligned}
+$
+
+Value of sweets and magazine in kroner $= 91.8 \ \text{kroner}$
+
+</div>
+<div class='working'>
+
 Using ratio,
 
 $
 \begin{array}{cccccccccccccc}
 = & \pounds 1                      &:& 18 \ \text{kroner} \\\\
-= & 5.10                           &:& 18 \times 5.10 \\\\
+= & 1 \times 5.10                  &:& 18 \times 5.10 \\\\
 = & \pounds 5.10                   &:& 91.8 \ \text{kroner}
 \end{array}
 $
+
+Value of sweets and magazine in kroner $= 91.8 \ \text{kroner}$
 
 </div>
 </div>
@@ -7682,15 +7800,35 @@ $91.8 \ \text{kroner}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
+<pre class='language-latex'><code class='language-latex'>Let the value in kroner $= a$
+<emptyline>
+Using equivalent ratio,
+<emptyline>
+$
+\begin{aligned}
+1 \ \text{england} : 18 \ \text{norway}         &= 5.1 \ \text{england} : a \ \text{norway} \\\\
+\dfrac{1} {18}                                  &= \dfrac {5.1} {a} \\\\
+a                                               &= 5.1 \times 18 \\\\
+a                                               &= 91.8 \ \text{kroner}
+\end{aligned}
+$
+<emptyline>
+Value of sweets and magazine in kroner $= 91.8 \ \text{kroner}$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
 <pre class='language-latex'><code class='language-latex'>Using ratio,
 <emptyline>
 $
 \begin{array}{cccccccccccccc}
 = & \pounds 1                      &:& 18 \ \text{kroner} \\\\
-= & 5.10                           &:& 18 \times 5.10 \\\\
+= & 1 \times 5.10                  &:& 18 \times 5.10 \\\\
 = & \pounds 5.10                   &:& 91.8 \ \text{kroner}
 \end{array}
 $
+<emptyline>
+Value of sweets and magazine in kroner $= 91.8 \ \text{kroner}$
 </code></pre>
 </div>
 </div>
@@ -7767,7 +7905,7 @@ summary lines missing
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>1B759771-8179-43E5-8CD6-F153CDBB82C1</p>
 </div>
@@ -7781,7 +7919,7 @@ summary lines missing
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7846,6 +7984,28 @@ $\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunde
 <div class='workings'>
 <div class='working'>
 
+Let the number of fleece jackets made $= a$
+
+Using equivalent ratio,
+
+$
+\begin{aligned}
+25 \ \text{bottles} : 1 \ \text{jackets}        &= 200 \ \text{bottles} : a \ \text{jackets} \\\\
+\dfrac {25} {1}                                 &= \dfrac {200} {a} \\\\
+25 \times a                                     &= 200 \times 1 \\\\
+a                                               &= \dfrac {200} {25} \\\\
+a                                               &= \dfrac {25 \times 8} {25} \\\\
+a                                               &= \dfrac {\cancel {25} \times 8} {\cancel {25}} \\\\
+a                                               &= 8
+\end{aligned}
+$
+
+
+Number of fleece jackets made from recyling bottles $= 8$
+
+</div>
+<div class='working'>
+
 Using ratio,
 
 $
@@ -7853,12 +8013,14 @@ $
   & \text{plastic bottles}                      &:& \text{fleece jacket} \\\\
 = & 25                                          &:& 1 \\\\
 = & 1                                           &:& \dfrac {1} {25} \\\\
-= & 200                                         &:& \dfrac {200} {25} \\\\
+= & 1 \times 200                                &:& \dfrac {200} {25} \\\\
 = & 200                                         &:& \dfrac {25 \times 8} {25} \\\\
 = & 200                                         &:& \dfrac {\cancel {25} \times 8} {\cancel {25}} \\\\
 = & 200                                         &:& 8
 \end{array}
 $
+
+Number of fleece jackets made from recyling bottles $= 8$
 
 </div>
 </div>
@@ -7872,6 +8034,28 @@ $8$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
+<pre class='language-latex'><code class='language-latex'>Let the number of fleece jackets made $= a$
+<emptyline>
+Using equivalent ratio,
+<emptyline>
+$
+\begin{aligned}
+25 \ \text{bottles} : 1 \ \text{jackets}        &= 200 \ \text{bottles} : a \ \text{jackets} \\\\
+\dfrac {25} {1}                                 &= \dfrac {200} {a} \\\\
+25 \times a                                     &= 200 \times 1 \\\\
+a                                               &= \dfrac {200} {25} \\\\
+a                                               &= \dfrac {25 \times 8} {25} \\\\
+a                                               &= \dfrac {\cancel {25} \times 8} {\cancel {25}} \\\\
+a                                               &= 8
+\end{aligned}
+$
+<emptyline>
+
+Number of fleece jackets made from recyling bottles $= 8$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
 <pre class='language-latex'><code class='language-latex'>Using ratio,
 <emptyline>
 $
@@ -7879,12 +8063,14 @@ $
   & \text{plastic bottles}                      &:& \text{fleece jacket} \\\\
 = & 25                                          &:& 1 \\\\
 = & 1                                           &:& \dfrac {1} {25} \\\\
-= & 200                                         &:& \dfrac {200} {25} \\\\
+= & 1 \times 200                                &:& \dfrac {200} {25} \\\\
 = & 200                                         &:& \dfrac {25 \times 8} {25} \\\\
 = & 200                                         &:& \dfrac {\cancel {25} \times 8} {\cancel {25}} \\\\
 = & 200                                         &:& 8
 \end{array}
 $
+<emptyline>
+Number of fleece jackets made from recyling bottles $= 8$
 </code></pre>
 </div>
 </div>
@@ -7920,7 +8106,7 @@ $
 &= \dfrac {9} {10} \times 100 \\\\
 &= \dfrac {9 \times 100} {10} \\\\
 &= \dfrac {9 \times 10 \cancel {0}} {1\cancel {0}} \\\\
-&= 90 \%
+&= 90 \% \ \text{of people}
 \end{aligned}
 $
 
@@ -7941,7 +8127,7 @@ $90 \%$
 &= \dfrac {9} {10} \times 100 \\\\
 &= \dfrac {9 \times 100} {10} \\\\
 &= \dfrac {9 \times 10 \cancel {0}} {1\cancel {0}} \\\\
-&= 90 \%
+&= 90 \% \ \text{of people}
 \end{aligned}
 $
 </code></pre>

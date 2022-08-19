@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-ttime-4-pr"
 title: "TopicPaper - Time - 4 - PR"
-date: 2022-08-18 11:06:01
+date: 2022-08-19 16:00:22
 questions_count: "40"
 ---
 <ul class='question default-decimal'>
@@ -332,7 +332,7 @@ How many minutes late did the ferry arrive in Calais?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989</p>
 </div>
@@ -346,7 +346,7 @@ How many minutes late did the ferry arrive in Calais?
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -566,7 +566,7 @@ What is the correct time when the watch is showing $19{:}40$ on Friday night?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>87CBCB6E-A278-487F-905C-D1C419C06E43</p>
 </div>
@@ -580,7 +580,7 @@ What is the correct time when the watch is showing $19{:}40$ on Friday night?
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -659,7 +659,7 @@ At what time is registration?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>D29FD65A-D00C-4231-B577-33E395594EC4</p>
 </div>
@@ -673,7 +673,7 @@ At what time is registration?
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -769,7 +769,7 @@ How many minutes fast will the second clock be when the first clock shows the ri
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>F7E38796-7CE2-4B74-B0B7-1F485FC1C56E</p>
 </div>
@@ -783,7 +783,7 @@ How many minutes fast will the second clock be when the first clock shows the ri
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2505,7 +2505,7 @@ Draw the hour and minute hands on this clock to show the time $22{:}30$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>66098699-5BB2-4B78-8DA1-A1F172E7B22B</p>
 </div>
@@ -2519,7 +2519,7 @@ Draw the hour and minute hands on this clock to show the time $22{:}30$.
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2915,7 +2915,7 @@ Arrive Depart Giessbach Interlaken Lauterbrunnen Grutschalp $15{:}10$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>7B74815D-732E-4E67-B878-86DB82735EBA</p>
 </div>
@@ -2929,7 +2929,7 @@ Arrive Depart Giessbach Interlaken Lauterbrunnen Grutschalp $15{:}10$
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2997,7 +2997,7 @@ $10 \ \text{minutes}$. Trains leave from both platforms at $15{:}57$. When do tr
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>8C5ABC3D-6451-479E-9D7A-A87B7C70E2B9</p>
 </div>
@@ -3011,7 +3011,7 @@ $10 \ \text{minutes}$. Trains leave from both platforms at $15{:}57$. When do tr
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3115,7 +3115,7 @@ On another day Alice looks at the clock in the mirror and, without thinking, say
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>AD32A5D3-DB55-4FA4-8EBE-FDE4BE2DDF68</p>
 </div>
@@ -3129,7 +3129,7 @@ On another day Alice looks at the clock in the mirror and, without thinking, say
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3204,7 +3204,7 @@ What is the reflex angle between the two hands on this clock?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>4496A117-6B18-4654-BAF9-62ABE44DB139</p>
 </div>
@@ -3218,7 +3218,7 @@ What is the reflex angle between the two hands on this clock?
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3234,23 +3234,59 @@ ttable
 
 Here is a portion of the Monday to Friday bus timetable for the $724$ bus between St. Albans and Heathrow.
 
-![missing table](/papers/missing_table.svg)
+|                                  |    Hsch   |   HNsch   |    Hsch   |   HNsch   |    Hsch   |   HNsch   |    Hsch   |
+|:--------------------------------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
+|    St. Albans, Railway Station   | $05 \ 55$ | $06 \ 03$ | $06 \ 41$ | $07 \ 15$ | $07 \ 45$ | $08 \ 08$ | $09 \ 09$ |
+|   St. Albans, St Peter’s Street  | $06 \ 00$ | $06 \ 08$ | $06 \ 46$ | $07 \ 21$ | $07 \ 51$ | $08 \ 14$ | $09 \ 15$ |
+|        Garston Bus Garage        | $06 \ 25$ | $06 \ 33$ | $07 \ 16$ | $07 \ 48$ | $08 \ 31$ | $08 \ 45$ | $09 \ 44$ |
+| Watford Junction Railway Station | $06 \ 37$ | $06 \ 45$ | $07 \ 33$ | $08 \ 03$ | $08 \ 53$ | $09 \ 01$ | $10 \ 02$ |
+|        Watford, Town Hall        | $06 \ 40$ | $06 \ 48$ | $07 \ 37$ | $08 \ 07$ | $08 \ 57$ | $09 \ 05$ | $10 \ 06$ |
+|   Rickmansworth Railway Station  | $06 \ 50$ | $06 \ 58$ | $07 \ 54$ | $08 \ 17$ | $09 \ 09$ | $09 \ 15$ | $10 \ 16$ |
+|      Denham, Station Parade      | $07 \ 09$ | $07 \ 13$ | $08 \ 20$ | $08 \ 32$ | $09 \ 25$ | $09 \ 30$ | $10 \ 31$ |
+|      Uxbridge, Belmont Road      | $07 \ 17$ | $07 \ 21$ | $08 \ 33$ | $08 \ 40$ | $09 \ 36$ | $09 \ 38$ | $10 \ 39$ |
+|         Heathrow Airport         | $07 \ 37$ | $07 \ 37$ | $08 \ 57$ | $08 \ 57$ | $09 \ 54$ | $09 \ 54$ | $10 \ 55$ |
 
-
-![missing table](/papers/missing_table.svg)
-
-
+|                                  |    Hsch   |   HNsch   |    Hsch   |   HNsch   |    Hsch   |   HNsch   |    Hsch   |
+|:--------------------------------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
+|         Heathrow Airport         | $06 \ 10$ | $06 \ 15$ | $07 \ 00$ | $07 \ 10$ | $07 \ 55$ | $08 \ 10$ | $09 \ 15$ |
+|      Uxbridge, Belmont Road      | $06 \ 26$ | $06 \ 31$ | $07 \ 17$ | $07 \ 27$ | $08 \ 17$ | $08 \ 27$ | $09 \ 32$ |
+|      Denham, Station Parade      | $06 \ 34$ | $06 \ 39$ | $07 \ 26$ | $07 \ 36$ | $08 \ 28$ | $08 \ 38$ | $09 \ 41$ |
+|   Rickmansworth Railway Station  | $06 \ 50$ | $06 \ 55$ | $07 \ 43$ | $07 \ 53$ | $08 \ 50$ | $09 \ 50$ | $09 \ 57$ |
+|        Watford, Town Hall        | $07 \ 04$ | $07 \ 09$ | $08 \ 04$ | $08 \ 14$ | $09 \ 11$ | $09 \ 11$ | $10 \ 11$ |
+| Watford Junction Railway Station | $07 \ 07$ | $07 \ 12$ | $08 \ 07$ | $08 \ 17$ | $09 \ 14$ | $09 \ 14$ | $10 \ 14$ |
+|        Garston Bus Garage        | $07 \ 22$ | $07 \ 27$ | $08 \ 23$ | $08 \ 33$ | $09 \ 29$ | $09 \ 29$ | $10 \ 29$ |
+|   St. Albans, St Peter’s Street  | $07 \ 45$ | $07 \ 50$ | $08 \ 50$ | $09 \ 00$ | $09 \ 52$ | $09 \ 52$ | $10 \ 52$ |
+|    St. Albans, Railway Station   | $07 \ 56$ | $08 \ 01$ | $09 \ 01$ | $09 \ 11$ | $10 \ 03$ | $10 \ 03$ | $11 \ 03$ |
 
 
 </div>
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>Here is a portion of the Monday to Friday bus timetable for the $724$ bus between St. Albans and Heathrow.
 <emptyline>
-%table%
+|                                  |    Hsch   |   HNsch   |    Hsch   |   HNsch   |    Hsch   |   HNsch   |    Hsch   |
+|:--------------------------------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
+|    St. Albans, Railway Station   | $05 \ 55$ | $06 \ 03$ | $06 \ 41$ | $07 \ 15$ | $07 \ 45$ | $08 \ 08$ | $09 \ 09$ |
+|   St. Albans, St Peter’s Street  | $06 \ 00$ | $06 \ 08$ | $06 \ 46$ | $07 \ 21$ | $07 \ 51$ | $08 \ 14$ | $09 \ 15$ |
+|        Garston Bus Garage        | $06 \ 25$ | $06 \ 33$ | $07 \ 16$ | $07 \ 48$ | $08 \ 31$ | $08 \ 45$ | $09 \ 44$ |
+| Watford Junction Railway Station | $06 \ 37$ | $06 \ 45$ | $07 \ 33$ | $08 \ 03$ | $08 \ 53$ | $09 \ 01$ | $10 \ 02$ |
+|        Watford, Town Hall        | $06 \ 40$ | $06 \ 48$ | $07 \ 37$ | $08 \ 07$ | $08 \ 57$ | $09 \ 05$ | $10 \ 06$ |
+|   Rickmansworth Railway Station  | $06 \ 50$ | $06 \ 58$ | $07 \ 54$ | $08 \ 17$ | $09 \ 09$ | $09 \ 15$ | $10 \ 16$ |
+|      Denham, Station Parade      | $07 \ 09$ | $07 \ 13$ | $08 \ 20$ | $08 \ 32$ | $09 \ 25$ | $09 \ 30$ | $10 \ 31$ |
+|      Uxbridge, Belmont Road      | $07 \ 17$ | $07 \ 21$ | $08 \ 33$ | $08 \ 40$ | $09 \ 36$ | $09 \ 38$ | $10 \ 39$ |
+|         Heathrow Airport         | $07 \ 37$ | $07 \ 37$ | $08 \ 57$ | $08 \ 57$ | $09 \ 54$ | $09 \ 54$ | $10 \ 55$ |
 <emptyline>
-%table%
+|                                  |    Hsch   |   HNsch   |    Hsch   |   HNsch   |    Hsch   |   HNsch   |    Hsch   |
+|:--------------------------------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
+|         Heathrow Airport         | $06 \ 10$ | $06 \ 15$ | $07 \ 00$ | $07 \ 10$ | $07 \ 55$ | $08 \ 10$ | $09 \ 15$ |
+|      Uxbridge, Belmont Road      | $06 \ 26$ | $06 \ 31$ | $07 \ 17$ | $07 \ 27$ | $08 \ 17$ | $08 \ 27$ | $09 \ 32$ |
+|      Denham, Station Parade      | $06 \ 34$ | $06 \ 39$ | $07 \ 26$ | $07 \ 36$ | $08 \ 28$ | $08 \ 38$ | $09 \ 41$ |
+|   Rickmansworth Railway Station  | $06 \ 50$ | $06 \ 55$ | $07 \ 43$ | $07 \ 53$ | $08 \ 50$ | $09 \ 50$ | $09 \ 57$ |
+|        Watford, Town Hall        | $07 \ 04$ | $07 \ 09$ | $08 \ 04$ | $08 \ 14$ | $09 \ 11$ | $09 \ 11$ | $10 \ 11$ |
+| Watford Junction Railway Station | $07 \ 07$ | $07 \ 12$ | $08 \ 07$ | $08 \ 17$ | $09 \ 14$ | $09 \ 14$ | $10 \ 14$ |
+|        Garston Bus Garage        | $07 \ 22$ | $07 \ 27$ | $08 \ 23$ | $08 \ 33$ | $09 \ 29$ | $09 \ 29$ | $10 \ 29$ |
+|   St. Albans, St Peter’s Street  | $07 \ 45$ | $07 \ 50$ | $08 \ 50$ | $09 \ 00$ | $09 \ 52$ | $09 \ 52$ | $10 \ 52$ |
+|    St. Albans, Railway Station   | $07 \ 56$ | $08 \ 01$ | $09 \ 01$ | $09 \ 11$ | $10 \ 03$ | $10 \ 03$ | $11 \ 03$ |
 <emptyline>
-
 </code></pre>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -3394,7 +3430,7 @@ How late does Tom arrive for his meeting with Nic?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>1DCA5CF8-602D-4B6F-B7A6-AD5141CE338F</p>
 </div>
@@ -3408,7 +3444,7 @@ How late does Tom arrive for his meeting with Nic?
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3471,7 +3507,7 @@ How many minutes are there from $11{:}11$ until $23{:}23$ on the same day?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>011051B7-79BC-4F3A-B3E5-9FEA0D775E51</p>
 </div>
@@ -3485,7 +3521,7 @@ How many minutes are there from $11{:}11$ until $23{:}23$ on the same day?
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3764,7 +3800,7 @@ What time is it in Australia when it is $4 \ \text{am}$ in the USA?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>E59625D9-2685-424C-B233-E9123F55D6DF</p>
 </div>
@@ -3778,7 +3814,7 @@ What time is it in Australia when it is $4 \ \text{am}$ in the USA?
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

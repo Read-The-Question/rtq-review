@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2018-sample-paper-9"
 title: "Oundle School - 11 Plus - Maths - 2018 - Sample Paper 9"
-date: 2022-08-18 10:44:13
+date: 2022-08-19 15:32:50
 questions_count: "11"
 ---
 <div class='paper'>
@@ -701,7 +701,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B0474C27-24BE-44CC-8751-8A066A162D28</p>
 </div>
@@ -715,7 +715,7 @@ $
 <p>rag_kr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1049,7 +1049,7 @@ Part c) remove extra $ at the end.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>39E23842-24A9-4406-85BD-91A1D31AE811</p>
 </div>
@@ -1063,7 +1063,7 @@ Part c) remove extra $ at the end.
 <p>rag_kr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1123,15 +1123,15 @@ What was the original number?
 <div class='workings'>
 <div class='working'>
 
-Let the number $=x$
+Let the number $=a$
 
 As per the question,
 
 $
 \begin{aligned}
-x - 12                                                          &= 18 \\\\
-x                                                               &= 18 + 12 \\\\
-x                                                               &= 30
+a - 12                                                          &= 18 \\\\
+a                                                               &= 18 + 12 \\\\
+a                                                               &= 30
 \end{aligned}
 $
 
@@ -1147,15 +1147,15 @@ $30$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number $=x$
+<pre class='language-latex'><code class='language-latex'>Let the number $=a$
 <emptyline>
 As per the question,
 <emptyline>
 $
 \begin{aligned}
-x - 12                                                          &= 18 \\\\
-x                                                               &= 18 + 12 \\\\
-x                                                               &= 30
+a - 12                                                          &= 18 \\\\
+a                                                               &= 18 + 12 \\\\
+a                                                               &= 30
 \end{aligned}
 $
 </code></pre>
@@ -1188,17 +1188,17 @@ What was the original number?
 <div class='workings'>
 <div class='working'>
 
-Let the number $=x$
+Let the number $=a$
 
 As per the question,
 
 $
 \begin{aligned}
-x \times 6 - 9                                          &= -39 \\\\
-x \times 6                                              &= -39 + 9 \\\\
-x \times 6                                              &= -30 \\\\
-x                                                       &= -30 \div 6 \\\\
-x                                                       &= -5
+a \times 6 - 9                                          &= -39 \\\\
+a \times 6                                              &= -39 + 9 \\\\
+a \times 6                                              &= -30 \\\\
+a                                                       &= -30 \div 6 \\\\
+a                                                       &= -5
 \end{aligned}
 $
 
@@ -1214,17 +1214,17 @@ $-5$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number $=x$
+<pre class='language-latex'><code class='language-latex'>Let the number $=a$
 <emptyline>
 As per the question,
 <emptyline>
 $
 \begin{aligned}
-x \times 6 - 9                                          &= -39 \\\\
-x \times 6                                              &= -39 + 9 \\\\
-x \times 6                                              &= -30 \\\\
-x                                                       &= -30 \div 6 \\\\
-x                                                       &= -5
+a \times 6 - 9                                          &= -39 \\\\
+a \times 6                                              &= -39 + 9 \\\\
+a \times 6                                              &= -30 \\\\
+a                                                       &= -30 \div 6 \\\\
+a                                                       &= -5
 \end{aligned}
 $
 </code></pre>
@@ -1257,16 +1257,16 @@ What was the original number?
 <div class='workings'>
 <div class='working'>
 
-Let the number $=x$
+Let the number $=a$
 
 As per the question,
 
 $
 \begin{aligned}
-x \times 2 - 12                                                 &= -3 \\\\
-x \times 2                                                      &= -3 + 12 \\\\
-x \times 2                                                      &= 9 \\\\
-x                                                               &= 9 \div 2 \\\\
+a \times 2 - 12                                                 &= -3 \\\\
+a \times 2                                                      &= -3 + 12 \\\\
+a \times 2                                                      &= 9 \\\\
+a                                                               &= \dfrac{9}{2} \\\\
                                                                 &= 4.5 
 \end{aligned}
 $
@@ -1283,16 +1283,16 @@ $4.5$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number $=x$
+<pre class='language-latex'><code class='language-latex'>Let the number $=a$
 <emptyline>
 As per the question,
 <emptyline>
 $
 \begin{aligned}
-x \times 2 - 12                                                 &= -3 \\\\
-x \times 2                                                      &= -3 + 12 \\\\
-x \times 2                                                      &= 9 \\\\
-x                                                               &= 9 \div 2 \\\\
+a \times 2 - 12                                                 &= -3 \\\\
+a \times 2                                                      &= -3 + 12 \\\\
+a \times 2                                                      &= 9 \\\\
+a                                                               &= \dfrac{9}{2} \\\\
                                                                 &= 4.5 
 \end{aligned}
 $
@@ -1368,7 +1368,7 @@ All part solve taking variable as a instead of x.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5482D9F1-457C-4A2D-BC0F-D0D6F3B98CDF</p>
 </div>
@@ -1382,7 +1382,7 @@ All part solve taking variable as a instead of x.
 <p>rag_kr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1443,13 +1443,13 @@ $3x -7 = 5x + 7$
 
 $
 \begin{aligned}
-3 \times x - 7    &= 5 \times x + 7 \\\\
-3 \times x - 5 \times x  &= 7 + 7 \\\\
--2 \times x      &= 14 \\\\
-x          &= - \dfrac {14} {2} \\\\
-x          &= - \dfrac {7 \times 2} {2} \\\\
-x          &= - \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
-x          &= - 7
+3 \times x - 7                  &= 5 \times x + 7 \\\\
+3 \times x - 5 \times x         &= 7 + 7 \\\\
+-2 \times x                     &= 14 \\\\
+x                               &= - \dfrac {14} {2} \\\\
+x                               &= - \dfrac {7 \times 2} {2} \\\\
+x                               &= - \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
+x                           &= - 7
 \end{aligned}
 $
 
@@ -1468,13 +1468,13 @@ $-7$
 <pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-3 \times x - 7    &= 5 \times x + 7 \\\\
-3 \times x - 5 \times x  &= 7 + 7 \\\\
--2 \times x      &= 14 \\\\
-x          &= - \dfrac {14} {2} \\\\
-x          &= - \dfrac {7 \times 2} {2} \\\\
-x          &= - \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
-x          &= - 7
+3 \times x - 7                  &= 5 \times x + 7 \\\\
+3 \times x - 5 \times x         &= 7 + 7 \\\\
+-2 \times x                     &= 14 \\\\
+x                               &= - \dfrac {14} {2} \\\\
+x                               &= - \dfrac {7 \times 2} {2} \\\\
+x                               &= - \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
+x                           &= - 7
 \end{aligned}
 $
 </code></pre>
@@ -1507,13 +1507,15 @@ $\dfrac{1}{2}x - 3 = \dfrac{x}{3} + 5$
 
 $
 \begin{aligned}
-\dfrac{1}{2}x - 3                                               &= \dfrac{x}{3} + 5 \\\\
-\dfrac{1}{2}x - \dfrac{x}{3}                                    &= 5 + 3 \\\\
-\dfrac{x \times 3 - x \times 2}{6}                       &= 8 \\\\
-\dfrac{x}{6}                                                    &= 8 \\\\
-x                                                               &= 8 \times 6 \\\\
-                                                                &= 48
-\end{aligned}
+\dfrac{1}{2}x - 3                                                   &= \dfrac{x}{3} + 5 \\\\
+\dfrac{x}{2} - \dfrac{x}{3}                                         &= 5 + 3 \\\\
+\dfrac{x \times 3}{2 \times 3} - \dfrac{x \times 2}{3 \times 2}     &= 8 \\\\
+\dfrac{3x}{6} - \dfrac{2x}{6}                                       &= 8 \\\\
+\dfrac{3x - 2x}{6}                                                  &= 8 \\\\
+\dfrac{x}{6}                                                        &= 8 \\\\
+x                                                                   &= 8 \times 6 \\\\
+x                                                                   &= 48
+\end {aligned}
 $
 
 </div>
@@ -1530,13 +1532,15 @@ $48$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\dfrac{1}{2}x - 3                                               &= \dfrac{x}{3} + 5 \\\\
-\dfrac{1}{2}x - \dfrac{x}{3}                                    &= 5 + 3 \\\\
-\dfrac{x \times 3 - x \times 2}{6}                       &= 8 \\\\
-\dfrac{x}{6}                                                    &= 8 \\\\
-x                                                               &= 8 \times 6 \\\\
-                                                                &= 48
-\end{aligned}
+\dfrac{1}{2}x - 3                                                   &= \dfrac{x}{3} + 5 \\\\
+\dfrac{x}{2} - \dfrac{x}{3}                                         &= 5 + 3 \\\\
+\dfrac{x \times 3}{2 \times 3} - \dfrac{x \times 2}{3 \times 2}     &= 8 \\\\
+\dfrac{3x}{6} - \dfrac{2x}{6}                                       &= 8 \\\\
+\dfrac{3x - 2x}{6}                                                  &= 8 \\\\
+\dfrac{x}{6}                                                        &= 8 \\\\
+x                                                                   &= 8 \times 6 \\\\
+x                                                                   &= 48
+\end {aligned}
 $
 </code></pre>
 </div>
@@ -1616,7 +1620,7 @@ the solve further...
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>F4C49E6C-6442-483E-A6A8-7B917E8F9472</p>
 </div>
@@ -1627,7 +1631,7 @@ the solve further...
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_pr</p>
+<p>rag_mr_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1660,7 +1664,6 @@ $
 (b - 6) \ \text{boys} : b \ \text{girls}        &= 3 \ \text{boys} : 5 \ \text{girls} \\\\
 \dfrac {b - 6} {b}                              &= \dfrac {3} {5} \\\\
 (b - 6) \times 5                                &= 3 \times b \\\\
-5b - 6 \times 5                                 &= 3b \\\\
 5b - 30                                         &= 3b \\\\
 5b - 3b                                         &= 30 \\\\
 2b                                              &= 30 \\\\
@@ -1704,7 +1707,6 @@ $
 (b - 6) \ \text{boys} : b \ \text{girls}        &= 3 \ \text{boys} : 5 \ \text{girls} \\\\
 \dfrac {b - 6} {b}                              &= \dfrac {3} {5} \\\\
 (b - 6) \times 5                                &= 3 \times b \\\\
-5b - 6 \times 5                                 &= 3b \\\\
 5b - 30                                         &= 3b \\\\
 5b - 3b                                         &= 30 \\\\
 2b                                              &= 30 \\\\
@@ -1740,44 +1742,39 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-ratio question ask uday for the working
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='F4C49E6C-6442-483E-A6A8-7B917E8F9472' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='F4C49E6C-6442-483E-A6A8-7B917E8F9472' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='F4C49E6C-6442-483E-A6A8-7B917E8F9472' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='F4C49E6C-6442-483E-A6A8-7B917E8F9472' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='F4C49E6C-6442-483E-A6A8-7B917E8F9472' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='F4C49E6C-6442-483E-A6A8-7B917E8F9472' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='F4C49E6C-6442-483E-A6A8-7B917E8F9472' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='F4C49E6C-6442-483E-A6A8-7B917E8F9472' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='F4C49E6C-6442-483E-A6A8-7B917E8F9472' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='F4C49E6C-6442-483E-A6A8-7B917E8F9472' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='F4C49E6C-6442-483E-A6A8-7B917E8F9472' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='F4C49E6C-6442-483E-A6A8-7B917E8F9472' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='F4C49E6C-6442-483E-A6A8-7B917E8F9472' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='F4C49E6C-6442-483E-A6A8-7B917E8F9472' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='F4C49E6C-6442-483E-A6A8-7B917E8F9472' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='F4C49E6C-6442-483E-A6A8-7B917E8F9472' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='F4C49E6C-6442-483E-A6A8-7B917E8F9472' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='F4C49E6C-6442-483E-A6A8-7B917E8F9472' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F4C49E6C-6442-483E-A6A8-7B917E8F9472' id='FORM-F4C49E6C-6442-483E-A6A8-7B917E8F9472' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='F4C49E6C-6442-483E-A6A8-7B917E8F9472' id='FORM-F4C49E6C-6442-483E-A6A8-7B917E8F9472' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1958,7 +1955,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D9131827-8E01-4FF2-A829-4DC3DB09C908</p>
 </div>
@@ -1969,7 +1966,7 @@ $
 <p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_ns_notstarted</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1991,36 +1988,119 @@ How many $4$ digit numbers greater than $2000$ can be formed using the digits $1
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+If we use a $2$ in hundreds place, the possible arrangements are:
+
+- $2134$
+- $2143$
+- $2314$
+- $2341$
+- $2413$
+- $2431$
+
+Count $= 6$
+
+If we use a $3$ in hundreds place, the possible arrangements are:
+
+- $3124$
+- $3142$
+- $3214$
+- $3241$
+- $3412$
+- $3421$
+
+Count $= 6$
+
+
+If we use a $4$ in hundreds place, the possible arrangements are:
+
+- $4123$
+- $4132$
+- $4213$
+- $4231$
+- $4312$
+- $4321$
+
+Count $= 6$
+
+Total count $= 6 + 6 + 6 = 18$
 
 </div>
 <div class='working'>
 
-TODOWORKING
+Using permutation,
+
+Number of digits that can be used in the thousand place $= 3$
+
+Number of digits that can be used in the hundreds place $= 3$
+
+Number of digits that can be used in the tens place $= 2$
+
+Number of digits that can be used in the units place $= 1$
+
+Total arrangements $= 3 \times 3 \times 2 = 18$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$18$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>If we use a $2$ in hundreds place, the possible arrangements are:
+<emptyline>
+- $2134$
+- $2143$
+- $2314$
+- $2341$
+- $2413$
+- $2431$
+<emptyline>
+Count $= 6$
+<emptyline>
+If we use a $3$ in hundreds place, the possible arrangements are:
+<emptyline>
+- $3124$
+- $3142$
+- $3214$
+- $3241$
+- $3412$
+- $3421$
+<emptyline>
+Count $= 6$
+<emptyline>
+
+If we use a $4$ in hundreds place, the possible arrangements are:
+<emptyline>
+- $4123$
+- $4132$
+- $4213$
+- $4231$
+- $4312$
+- $4321$
+<emptyline>
+Count $= 6$
+<emptyline>
+Total count $= 6 + 6 + 6 = 18$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Using permutation,
+<emptyline>
+Number of digits that can be used in the thousand place $= 3$
+<emptyline>
+Number of digits that can be used in the hundreds place $= 3$
+<emptyline>
+Number of digits that can be used in the tens place $= 2$
+<emptyline>
+Number of digits that can be used in the units place $= 1$
+<emptyline>
+Total arrangements $= 3 \times 3 \times 2 = 18$
 </code></pre>
 </div>
 </div>
@@ -2032,26 +2112,56 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$18$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D9131827-8E01-4FF2-A829-4DC3DB09C908' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D9131827-8E01-4FF2-A829-4DC3DB09C908' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D9131827-8E01-4FF2-A829-4DC3DB09C908' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D9131827-8E01-4FF2-A829-4DC3DB09C908' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D9131827-8E01-4FF2-A829-4DC3DB09C908' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D9131827-8E01-4FF2-A829-4DC3DB09C908' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D9131827-8E01-4FF2-A829-4DC3DB09C908' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D9131827-8E01-4FF2-A829-4DC3DB09C908' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D9131827-8E01-4FF2-A829-4DC3DB09C908' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='D9131827-8E01-4FF2-A829-4DC3DB09C908' id='FORM-D9131827-8E01-4FF2-A829-4DC3DB09C908' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D9131827-8E01-4FF2-A829-4DC3DB09C908'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>B2F63041-ED48-4974-9D2B-15C31CCE8E6A</p>
 </div>
@@ -2065,7 +2175,7 @@ TODOANSWER
 <p>rag_kr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2082,9 +2192,11 @@ John picked strawberries every day for $7$ days. Each day after the first day, h
 <div class='workings'>
 <div class='working'>
 
+
+Let the number of strawberries picked on firstday $= x$
+
 $
 \begin{aligned}
-\text{let the number of strawberies picked on firstday = x}
 x + x + 5 + x + 10 + x + 15 + ....                                      &= 175 \\\\
 (x + x + x + x + x + x + x) + (5 + 10 + 15 + 20 + 25 + 30)              &= 175 \\\\
 7x + 105                                                                &= 175 \\\\
@@ -2108,9 +2220,11 @@ $40$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>
+Let the number of strawberries picked on firstday $= x$
+<emptyline>
+$
 \begin{aligned}
-\text{let the number of strawberies picked on firstday = x}
 x + x + 5 + x + 10 + x + 15 + ....                                      &= 175 \\\\
 (x + x + x + x + x + x + x) + (5 + 10 + 15 + 20 + 25 + 30)              &= 175 \\\\
 7x + 105                                                                &= 175 \\\\
@@ -2399,24 +2513,24 @@ What is $327 \ \text{minutes}$ in hours and minutes?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2520,24 +2634,24 @@ The time is 08{:}26. What is the smaller angle between the hour hand and the min
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

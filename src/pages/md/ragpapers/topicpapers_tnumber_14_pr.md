@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-14-pr"
 title: "TopicPaper - Number - 14 - PR"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "11"
 ---
 <ul class='question default-decimal'>
@@ -344,7 +344,7 @@ tnumber
 </div>
 <div class='question question'>
 
-Write the following numbers in words
+Write the following numbers in words.
 
 </div>
 
@@ -637,10 +637,10 @@ tnumber
 
 Which of the following distances is the most likely height of a man? Circle your answer. 
 
-a) $120\,cm$
-b) $150\,mm$ 
-c) $1.8\,m$ 
-d) 112 inches
+a) $120 \ \text{cm}$
+b) $150 \ \text{mm}$ 
+c) $1.8 \ \text{m}$ 
+d) $112 \ \text{inches}$
 
 </div>
 <div class='workings'>

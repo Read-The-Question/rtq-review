@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-12-pr-prcc"
 title: "TopicPaper - Number - 12 - PR - PRCC"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -33,15 +33,15 @@ tnumber
 
 Which  of these is the largest number? (You must show your working)
 
-(a) $2 + 0 \times 1 + 9$
+- $2 + 0 \times 1 + 9$
 
-(b) $2 \times 0 + 1 + 9$
+- $2 \times 0 + 1 + 9$
 
-(c) $2 + 0 \times 1 \times 9$
+- $2 + 0 \times 1 \times 9$
 
-(d) $2 \times 0 + 1 + 9$
+- $2 \times 0 + 1 + 9$
 
-(e) $2 \times 0 \times 1 \times 9$
+- $2 \times 0 \times 1 \times 9$
 
 </div>
 <div class='workings'>
@@ -492,7 +492,7 @@ Complete the table:
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

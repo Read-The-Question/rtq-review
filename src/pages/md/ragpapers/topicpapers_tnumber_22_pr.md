@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-22-pr"
 title: "TopicPaper - Number - 22 - PR"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -289,7 +289,7 @@ A horse is $15\,$ metres high
 |       A horse is $15$ meters high       |        Incorrect        |
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
@@ -301,7 +301,7 @@ TODOWORKING
 'A ten year old boy weighs $35$ kilograms' is the only correct statement.
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-9-oldpr"
 title: "TopicPaper - Algebra - 9 - OLDPR"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "7"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>84C4F75A-1071-4AE8-8252-CDE115D02C03</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "7"
 <p>rag_kr_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -37,14 +37,16 @@ Gary and Martin have some money. Martin has $\pounds 13$ more than Gary, togethe
 <div class='workings'>
 <div class='working'>
 
+
 Let the money Gary have $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-\text{Total money} &= \pounds 51 \\\\
-a + 13 + a &=     \pounds 51 \\\\                                  
+\text{Money Martin have + Money Gary have}              &= \text{Total money}
+\text{Total money}                                      &= \pounds 51 \\\\
+a + 13 + a                                              &= \pounds 51 \\\\                                  
 2a                                                      &= 51 - 13 \\\\
 2a                                                      &= 38 \\\\
 2a                                                      &= 38 \\\\
@@ -75,14 +77,16 @@ $\pounds 32$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the money Gary have $= a$
+<pre class='language-latex'><code class='language-latex'>
+Let the money Gary have $= a$
 <emptyline>
 As per the question,
 <emptyline>
 $
 \begin{aligned}
-\text{Total money} &= \pounds 51 \\\\
-a + 13 + a &=     \pounds 51 \\\\                                  
+\text{Money Martin have + Money Gary have}              &= \text{Total money}
+\text{Total money}                                      &= \pounds 51 \\\\
+a + 13 + a                                              &= \pounds 51 \\\\                                  
 2a                                                      &= 51 - 13 \\\\
 2a                                                      &= 38 \\\\
 2a                                                      &= 38 \\\\
@@ -191,7 +195,7 @@ Second last and last line: \"have\" ==> \"has\"
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcr question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>7E727E97-35F7-45AC-9A84-DFE534728056</p>
 </div>
@@ -205,7 +209,7 @@ Second last and last line: \"have\" ==> \"has\"
 <p>rag_kr_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -472,7 +476,7 @@ Write APTQ after \"Third con....\" line.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcr question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>312B54F7-8745-4C65-B52D-35F6198E8ACD</p>
 </div>
@@ -486,7 +490,7 @@ Write APTQ after \"Third con....\" line.
 <p>rag_kr_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -679,7 +683,7 @@ solve further....
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>5AF5AFC7-6421-43C4-B38A-CD7C667BAE96</p>
 </div>
@@ -693,7 +697,7 @@ solve further....
 <p>rag_kr_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -720,7 +724,6 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Length}(x)         &= \text{Length}(\text{Lower figure}) + \dfrac{1}{3} \times \text{Length}(\text{Upper figure}) \\\\
 x                        &= 15 + \dfrac{1}{3} \times 15  \\\\
 x                        &= 15 + \dfrac {5 \times 3} {3}  \\\\
 x                        &= 15 + \dfrac {5 \times \cancel{3}} {\cancel{3}}  \\\\
@@ -747,7 +750,6 @@ $20 \ \text {cm}$
 <emptyline>
 $
 \begin{aligned}
-\text{Length}(x)         &= \text{Length}(\text{Lower figure}) + \dfrac{1}{3} \times \text{Length}(\text{Upper figure}) \\\\
 x                        &= 15 + \dfrac{1}{3} \times 15  \\\\
 x                        &= 15 + \dfrac {5 \times 3} {3}  \\\\
 x                        &= 15 + \dfrac {5 \times \cancel{3}} {\cancel{3}}  \\\\
@@ -822,7 +824,7 @@ No need to explain this much. Length (x) = length (Lower figure) + 1/3 \times le
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>EF38AE5F-0E2D-457D-BC03-05E80C5371F1</p>
 </div>
@@ -836,7 +838,7 @@ No need to explain this much. Length (x) = length (Lower figure) + 1/3 \times le
 <p>rag_kr_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1147,7 +1149,7 @@ the write.. 2 full buses and for rest $9$ one more bus
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>3BADA08D-7FEF-4ADD-98DC-7E1F438D14C6</p>
 </div>
@@ -1161,7 +1163,7 @@ the write.. 2 full buses and for rest $9$ one more bus
 <p>rag_kr_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1178,52 +1180,58 @@ Michelle has the same number of $10$p and $50$p coins. The total value of the co
 <div class='workings'>
 <div class='working'>
 
-Let's take the number of coins as $= a$ 
-
-As per question,
+Let's take the number of coins $= a$ 
 
 ABBR: It is really important to use the right units in calculations and convert where required.
 
 
+As per question,
+
 $
 \begin{aligned}
-10a + 50a         &= 900 \text{p} \\\\
-60a               &= 900 \\\\
-a                 &= \dfrac {900} {60} \\\\
-a                 &= \dfrac {15 \times 60 }{60} \\\\
-a                 &= \dfrac {15 \times \cancel {60} } {\cancel {60}} \\\\
-a                 &= 15 \text {coins each}
+10 \times a + 50 \times a         &= \pounds900 \\\\
+10a + 50a                         &= 900 \text{p} \\\\
+60a                               &= 900 \\\\
+a                                 &= \dfrac {900} {60} \\\\
+a                                 &= \dfrac {15 \times 60 }{60} \\\\
+a                                 &= \dfrac {15 \times \cancel {60} } {\cancel {60}} \\\\
+a                                 &= 15 \ \text {coins each}
 \end{aligned}
 $
+
+Number of coins Michelle has from each coin $= 15$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$15$ coins of $10$p and $15$ coins of $50$p
+$15$ coins of $10$p,$50$p
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let's take the number of coins as $= a$ 
-<emptyline>
-As per question,
+<pre class='language-latex'><code class='language-latex'>Let's take the number of coins $= a$ 
 <emptyline>
 rtq_abbr_md_unit_note
 <emptyline>
+As per question,
+<emptyline>
 $
 \begin{aligned}
-10a + 50a         &= 900 \text{p} \\\\
-60a               &= 900 \\\\
-a                 &= \dfrac {900} {60} \\\\
-a                 &= \dfrac {15 \times 60 }{60} \\\\
-a                 &= \dfrac {15 \times \cancel {60} } {\cancel {60}} \\\\
-a                 &= 15 \text {coins each}
+10 \times a + 50 \times a         &= \pounds900 \\\\
+10a + 50a                         &= 900 \text{p} \\\\
+60a                               &= 900 \\\\
+a                                 &= \dfrac {900} {60} \\\\
+a                                 &= \dfrac {15 \times 60 }{60} \\\\
+a                                 &= \dfrac {15 \times \cancel {60} } {\cancel {60}} \\\\
+a                                 &= 15 \ \text {coins each}
 \end{aligned}
 $
+<emptyline>
+Number of coins Michelle has from each coin $= 15$
 </code></pre>
 </div>
 </div>
@@ -1235,7 +1243,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$15$ coins of $10$p and $15$ coins of $50$p
+<pre class='language-latex'><code class='language-latex'>$15$ coins of $10$p,$50$p
 </code></pre>
 </div>
 </div>
@@ -1309,7 +1317,7 @@ in blue answer only $15$ delete rest
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>6DD07370-84B5-4E20-889C-79CF42BC0EA0</p>
 </div>
@@ -1323,7 +1331,7 @@ in blue answer only $15$ delete rest
 <p>rag_kr_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1348,13 +1356,15 @@ As per the question,
 
 $
 \begin {aligned}
-\dfrac {5} {6} \times a  &= 60 \\\\
-a                        &= 60 \times \dfrac {6} {5} \\\\
-a                        &= \dfrac {60 \times 6} {5} \\\\
-a                        &= \dfrac {5 \times 12 \times 6} {5} \\\\
-a                        &= \dfrac {\cancel {5} \times 12 \times 6} {\cancel {5}} \\\\
-a                        &= 12 \times 6 \\\\
-a                        &= 72
+\dfrac{5}{6} \times a  &= 60 \\\\
+\dfrac{5 \times a}{6}  &= 60 \\\\
+\dfrac{5a}{6}          &= 60 \\\\
+5a                     &= 60 \times 6 \\\\
+a                      &= \dfrac {60 \times 6} {5} \\\\
+a                      &= \dfrac {5 \times 12 \times 6} {5} \\\\
+a                      &= \dfrac {\cancel {5} \times 12 \times 6} {\cancel {5}} \\\\
+a                      &= 12 \times 6 \\\\
+a                      &= 72
 \end {aligned}
 $
 
@@ -1392,13 +1402,15 @@ As per the question,
 <emptyline>
 $
 \begin {aligned}
-\dfrac {5} {6} \times a  &= 60 \\\\
-a                        &= 60 \times \dfrac {6} {5} \\\\
-a                        &= \dfrac {60 \times 6} {5} \\\\
-a                        &= \dfrac {5 \times 12 \times 6} {5} \\\\
-a                        &= \dfrac {\cancel {5} \times 12 \times 6} {\cancel {5}} \\\\
-a                        &= 12 \times 6 \\\\
-a                        &= 72
+\dfrac{5}{6} \times a  &= 60 \\\\
+\dfrac{5 \times a}{6}  &= 60 \\\\
+\dfrac{5a}{6}          &= 60 \\\\
+5a                     &= 60 \times 6 \\\\
+a                      &= \dfrac {60 \times 6} {5} \\\\
+a                      &= \dfrac {5 \times 12 \times 6} {5} \\\\
+a                      &= \dfrac {\cancel {5} \times 12 \times 6} {\cancel {5}} \\\\
+a                      &= 12 \times 6 \\\\
+a                      &= 72
 \end {aligned}
 $
 <emptyline>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-3"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 3"
-date: 2022-08-18 10:44:13
+date: 2022-08-19 15:32:50
 questions_count: "21"
 ---
 <div class='paper'>
@@ -14,7 +14,7 @@ questions_count: "21"
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>F7A5AEC7-5BE3-4E03-8394-515786CF09D0</p>
 </div>
@@ -28,7 +28,7 @@ questions_count: "21"
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -332,6 +332,39 @@ Number of spare pencils $= 20$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part c) 
+
+i)Add unit-note abbr at the top.
+
+ii) Solve like below.
+
+Money saved = 24 × 15p − £3.12
+
+            = 24 x 15p - 3.12 x 100p
+
+            = 24 x 15  - 3.12 x 100
+
+then solve further...
+
+
+
+Part d)
+
+i) Put everything inside one \begin-end.
+
+
+
+ii) Write mixed fraction into remainder-approx format.
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -607,7 +640,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>7DDBB564-8B87-4D8C-81E5-01AE0DB087C0</p>
 </div>
@@ -621,7 +654,7 @@ $
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -638,36 +671,21 @@ tratio
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -679,17 +697,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -708,9 +716,9 @@ How many sweets do they each receive?
 <div class='workings'>
 <div class='working'>
 
-Let number of sweets received by Ann $= a$
+Let the sweets received by Ann $= a$
 
-Number of sweets received by Ben $= 28 - a$
+Sweets received by Ben $= 28 - a$
 
 Using equivalent ratio,
 
@@ -719,7 +727,6 @@ $
 4 \ \text{Ann} :3 \ \text{Ben}                  &= a \ \text{Ann} : (28 - a) \ \text{Ben} \\\\
 \dfrac{4} {3}                                   &= \dfrac {a} {28 - a} \\\\
 4 \times (28 - a)                               &= a \times 3 \\\\
-4 \times 28 - 4a                                &= 3a \\\\
 112 - 4a                                        &= 3a \\\\
 112                                             &= 3a + 4a \\\\
 3a + 4a                                         &= 112 \\\\
@@ -727,15 +734,10 @@ $
 a                                               &= \dfrac {112} {7} \\\\
 a                                               &= \dfrac {7 \times 16} {7} \\\\
 a                                               &= \dfrac {\cancel 7 \times 16} {\cancel 7} \\\\
-a                                               &= 16
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Number of sweets received by Ann}     &= 16 \\\\
-\text{Number of sweets received by Ben}     &= 28 - 16 \\\\
-                                            &= 12
+a                                               &= 16 \\\\
+\text{Sweets received by Ann}                   &= 16 \\\\
+\text{Sweets received by Ben}                   &= 28 - 16 \\\\
+                                                &= 12
 \end{aligned}
 $
 
@@ -751,9 +753,9 @@ $16, 12$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let number of sweets received by Ann $= a$
+<pre class='language-latex'><code class='language-latex'>Let the sweets received by Ann $= a$
 <emptyline>
-Number of sweets received by Ben $= 28 - a$
+Sweets received by Ben $= 28 - a$
 <emptyline>
 Using equivalent ratio,
 <emptyline>
@@ -762,7 +764,6 @@ $
 4 \ \text{Ann} :3 \ \text{Ben}                  &= a \ \text{Ann} : (28 - a) \ \text{Ben} \\\\
 \dfrac{4} {3}                                   &= \dfrac {a} {28 - a} \\\\
 4 \times (28 - a)                               &= a \times 3 \\\\
-4 \times 28 - 4a                                &= 3a \\\\
 112 - 4a                                        &= 3a \\\\
 112                                             &= 3a + 4a \\\\
 3a + 4a                                         &= 112 \\\\
@@ -770,15 +771,10 @@ $
 a                                               &= \dfrac {112} {7} \\\\
 a                                               &= \dfrac {7 \times 16} {7} \\\\
 a                                               &= \dfrac {\cancel 7 \times 16} {\cancel 7} \\\\
-a                                               &= 16
-\end{aligned}
-$
-<emptyline>
-$
-\begin{aligned}
-\text{Number of sweets received by Ann}     &= 16 \\\\
-\text{Number of sweets received by Ben}     &= 28 - 16 \\\\
-                                            &= 12
+a                                               &= 16 \\\\
+\text{Sweets received by Ann}                   &= 16 \\\\
+\text{Sweets received by Ben}                   &= 28 - 16 \\\\
+                                                &= 12
 \end{aligned}
 $
 </code></pre>
@@ -821,19 +817,34 @@ Using equivalent ratio,
 
 $
 \begin{aligned}
-3 \ \text{black beads} :2 \ \text{white beads}  &= a \ \text{black beads} : (80 - a) \ \text{white beads} \\\\
-\dfrac{3} {2}                                   &= \dfrac {a} {80 - a} \\\\
-3 \times (80 - a)                               &= a \times 2 \\\\
-3 \times 80 - 3a                                &= 2a \\\\
-240 - 3a                                        &= 2a \\\\
-240                                             &= 2a + 3a \\\\
-2a + 3a                                         &= 240 \\\\
-5a                                              &= 240 \\\\
-a                                               &= \dfrac {240} {5} \\\\
-a                                               &= \dfrac {5 \times 48} {5} \\\\
-a                                               &= \dfrac {\cancel 5 \times 48} {\cancel 5} \\\\
-a                                               &= 48
+3 \ \text{black} :2 \ \text{white}    &= a \ \text{black} : (80 - a) \ \text{white} \\\\
+\dfrac{3} {2}                         &= \dfrac {a} {80 - a} \\\\
+3 \times (80 - a)                     &= a \times 2 \\\\
+240 - 3a                              &= 2a \\\\
+240                                   &= 2a + 3a \\\\
+2a + 3a                               &= 240 \\\\
+5a                                    &= 240 \\\\
+a                                     &= \dfrac {240} {5} \\\\
+a                                     &= \dfrac {5 \times 48} {5} \\\\
+a                                     &= \dfrac {\cancel 5 \times 48} {\cancel 5} \\\\
+a                                     &= 48
 \end{aligned}
+$
+
+Number of black beads $= 48$
+
+</div>
+<div class='working'>
+
+Using ratio,
+
+$
+\begin{array}{cccccccccccccc}
+  & \text{whole}                                &:& \text{part} \\\\
+= & 5                                           &:& 3 \\\\
+= & 5 \times 16                                 &:& 3 \times 16 \\\\
+= & 80                                          &:& 48
+\end{array}
 $
 
 Number of black beads $= 48$
@@ -858,19 +869,34 @@ Using equivalent ratio,
 <emptyline>
 $
 \begin{aligned}
-3 \ \text{black beads} :2 \ \text{white beads}  &= a \ \text{black beads} : (80 - a) \ \text{white beads} \\\\
-\dfrac{3} {2}                                   &= \dfrac {a} {80 - a} \\\\
-3 \times (80 - a)                               &= a \times 2 \\\\
-3 \times 80 - 3a                                &= 2a \\\\
-240 - 3a                                        &= 2a \\\\
-240                                             &= 2a + 3a \\\\
-2a + 3a                                         &= 240 \\\\
-5a                                              &= 240 \\\\
-a                                               &= \dfrac {240} {5} \\\\
-a                                               &= \dfrac {5 \times 48} {5} \\\\
-a                                               &= \dfrac {\cancel 5 \times 48} {\cancel 5} \\\\
-a                                               &= 48
+3 \ \text{black} :2 \ \text{white}    &= a \ \text{black} : (80 - a) \ \text{white} \\\\
+\dfrac{3} {2}                         &= \dfrac {a} {80 - a} \\\\
+3 \times (80 - a)                     &= a \times 2 \\\\
+240 - 3a                              &= 2a \\\\
+240                                   &= 2a + 3a \\\\
+2a + 3a                               &= 240 \\\\
+5a                                    &= 240 \\\\
+a                                     &= \dfrac {240} {5} \\\\
+a                                     &= \dfrac {5 \times 48} {5} \\\\
+a                                     &= \dfrac {\cancel 5 \times 48} {\cancel 5} \\\\
+a                                     &= 48
 \end{aligned}
+$
+<emptyline>
+Number of black beads $= 48$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Using ratio,
+<emptyline>
+$
+\begin{array}{cccccccccccccc}
+  & \text{whole}                                &:& \text{part} \\\\
+= & 5                                           &:& 3 \\\\
+= & 5 \times 16                                 &:& 3 \times 16 \\\\
+= & 80                                          &:& 48
+\end{array}
 $
 <emptyline>
 Number of black beads $= 48$
@@ -893,6 +919,15 @@ Number of black beads $= 48$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+b: write ratio version of the answer using part : whole
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1210,24 +1245,24 @@ It takes Margaret $45\ \text{minutes}$ to cycle $9\ \text{km}$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1276,24 +1311,24 @@ How long would it take her to cycle $1\ \text{km}$ at that speed?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1344,24 +1379,24 @@ How far will she have travelled in one hour at that speed?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2368,6 +2403,9 @@ A ball of string is $2\ \text{metres}$ long. Pieces of length $30\ \text{cm}$ ar
 <div class='workings'>
 <div class='working'>
 
+ABBR: It is really important to use the right units in calculations and convert where required.
+
+
 $
 \begin{aligned}
 \text{Number of pieces} &= \dfrac {\text{Length of string}} {\text{Length of a piece}} \\\\
@@ -2375,12 +2413,12 @@ $
                         &= \dfrac {2 \times 100 \ \text{cm}} {30 \ \text{cm}} \\\\
                         &= \dfrac {2 \times 10 \cancel {0}} {3 \cancel {0}} \\\\
                         &= \dfrac {20} {3} \\\\
-                        &= 6 \dfrac {2} {3} \\\\
-                        &= 6
+                        &= 6 \text{ remainder } 2 \\\\
+                        &\approx 6 \\\\
+\text{Remaining length} &= \dfrac{2} {3} \\\\
+                        &= 0.67 \ \text{cm}
 \end{aligned}
 $
-
-Remaining length $= \dfrac{2} {3} \ \text{cm} = 0.67 \ \text{cm}$
 
 </div>
 </div>
@@ -2394,19 +2432,21 @@ $6, \ 0.67 \ \text{cm}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
+<emptyline>
+$
 \begin{aligned}
 \text{Number of pieces} &= \dfrac {\text{Length of string}} {\text{Length of a piece}} \\\\
                         &= \dfrac {2 \ \text{m}} {30  \ \text{cm}} \\\\
                         &= \dfrac {2 \times 100 \ \text{cm}} {30 \ \text{cm}} \\\\
                         &= \dfrac {2 \times 10 \cancel {0}} {3 \cancel {0}} \\\\
                         &= \dfrac {20} {3} \\\\
-                        &= 6 \dfrac {2} {3} \\\\
-                        &= 6
+                        &= 6 \text{ remainder } 2 \\\\
+                        &\approx 6 \\\\
+\text{Remaining length} &= \dfrac{2} {3} \\\\
+                        &= 0.67 \ \text{cm}
 \end{aligned}
 $
-<emptyline>
-Remaining length $= \dfrac{2} {3} \ \text{cm} = 0.67 \ \text{cm}$
 </code></pre>
 </div>
 </div>
@@ -2430,29 +2470,21 @@ Remaining length $= \dfrac{2} {3} \ \text{cm} = 0.67 \ \text{cm}$
 
 
 
-i) Add unit-note abbr at the top.
-
-
-
-ii) Write using remainder-approx instead of mixed fraction.
-
-
-
-iii) Put the last line inside first \beign-end.
-
-
-
-iv) Write last line into multiple lines.
-
-v)remove units in below step
-
-2/3 cm ==> 2/3
 
 
 
 
+Remaining length part is wrong, solve like below.
 
 
+
+Remaining length = 2 m - 6 x 30 cm
+
+                 = 2 x 100 cm - 6 x 30 cm
+
+                 = 200 - 180
+
+                 = 20 cm
 </div>
 
 <div class='review'>
@@ -4438,24 +4470,24 @@ The design on the flag consists of a rectangle and a triangle.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4764,24 +4796,24 @@ Pattern A is shown below for $1,\:\: 2$ and $3$ white squares.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4835,24 +4867,24 @@ Pattern B is shown below for $1,\:\: 2$ and $3$ white squares.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4903,24 +4935,24 @@ $\text{Twenty}$ coloured squares are used in Pattern B. How many white squares a
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4971,24 +5003,24 @@ Which pattern uses fewer coloured squares in general? Explain your answer.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5068,24 +5100,24 @@ Place the numbers from $1$ to $7$ inclusive, one per square, in the diagram on t
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

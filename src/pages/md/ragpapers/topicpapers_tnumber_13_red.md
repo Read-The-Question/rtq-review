@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-13-red"
 title: "TopicPaper - Number - 13 - RED"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -31,7 +31,7 @@ tnumber
 </div>
 <div class='question question'>
 
-Fill  in the   missing  numbers  in this  division
+Fill  in the   missing  numbers  in this  division.
 
 ![missing image](/papers/missing_image.svg)
  

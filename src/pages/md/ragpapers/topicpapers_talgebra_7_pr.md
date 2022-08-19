@@ -1,8 +1,8 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-7-pr"
 title: "TopicPaper - Algebra - 7 - PR"
-date: 2022-08-18 10:50:34
-questions_count: "18"
+date: 2022-08-19 15:40:39
+questions_count: "17"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -52,7 +52,7 @@ x &= 4
 $
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
@@ -64,7 +64,7 @@ TODOWORKING
 $4$
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -158,7 +158,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>D8CD86EC-CEA6-473B-8C9B-8CCE13207DB6</p>
 </div>
@@ -172,7 +172,7 @@ $
 <p>rag_kr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -215,7 +215,7 @@ $
 number of coins = 27
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
@@ -227,7 +227,7 @@ TODOWORKING
 27
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -301,6 +301,40 @@ No proper alignment in katex code.
 Also, the answer is wrong. 
 
 Do the question properly.
+
+
+
+*New comment*
+
+Reference: BB2373FF-1D5B-413C-8160-D9BBA4F4E551
+
+
+
+i) First word should be capitalized:
+
+\"money given\" ==> \"Money given\"
+
+\"number of coins\" ==> \"Number of coins\"
+
+
+
+ii) Add \"rtq_abbr_md_unit_note\" before APTQ, like referenced question.
+
+
+
+iii) Change x to a in working.
+
+
+
+iv) Unit conversion not shown, check reference for the format.
+
+
+
+v) Remove extra answers and the working section.
+
+
+
+In case of any doubt, ping me on slack
 </div>
 
 <div class='review'>
@@ -346,7 +380,7 @@ Do the question properly.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>0CEBC5E0-536A-46C4-8FA7-F58A81C31320</p>
 </div>
@@ -360,7 +394,7 @@ Do the question properly.
 <p>rag_kr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -375,24 +409,24 @@ There are $x$ horses, $y$ cows and one three legged dog in a field.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -450,7 +484,7 @@ $
 $
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
@@ -462,7 +496,7 @@ TODOWORKING
 $x \times 4 + y \times 4 + 3$
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -528,7 +562,7 @@ $
 $
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
@@ -540,7 +574,7 @@ TODOWORKING
 $\dfrac{1}{2} \times x + \dfrac{3}{4} \times y + 1$
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -672,236 +706,7 @@ Change answer to: x/2 + 3y/4 + 1
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
-<div class='uuid'>
-<p>4E85C1E7-DB5A-431E-908C-26BBFD5B6FE8</p>
-</div>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:27</p>
-</div>
-<div class='rag'>
-<p>Kamu Rohith</p>
-</div>
-<div class='rag'>
-<p>rag_kr_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The number of leaf cutter ants doubles every day for the first week.
-
-</div>
-
-
-
-
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-If there were $10$ at the end of the first day how many are there at the end of the second day?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Ants at the end of the second day} &= 2 \times 10 \\\\
-&= 20 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-20
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-\text{Ants at the end of the second day} &= 2 \times 10 \\\\
-&= 20 
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>20
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How many were there at the end of the week?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-| Day | Ants                  |
-|-----|-----------------------|
-| 1   | $2 \times 10 = 20$    |
-| 2   | $2 \times 20 = 40$    |
-| 3   | $2 \times 40 = 80$    |
-| 4   | $2 \times 80 = 160$   |
-| 5   | $2 \times 160 = 320$  |
-| 6   | $2 \times 320 = 640$  |
-| 7   | $2 \times 640 = 1280$ |
-
-Ants at the end of the week $= 1280$ 
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-1280
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>| Day | Ants                  |
-|-----|-----------------------|
-| 1   | $2 \times 10 = 20$    |
-| 2   | $2 \times 20 = 40$    |
-| 3   | $2 \times 40 = 80$    |
-| 4   | $2 \times 80 = 160$   |
-| 5   | $2 \times 160 = 320$  |
-| 6   | $2 \times 320 = 640$  |
-| 7   | $2 \times 640 = 1280$ |
-<emptyline>
-Ants at the end of the week $= 1280$ 
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>1280
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-*Also remove extra TODOWORKING and TODOANSWER sections.*
-
-
-
-Part a)
-
-Write proper definition:
-
-\"Ants at the end of the second day = 2 x 10\"
-
-
-
-Part b)
-
-Solve it using table method.
-
-Create two columns
-
-Day |  Ants
-
-1       10
-
-2       2x10 = 20
-
-3       2x20 = 40
-
-....
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4E85C1E7-DB5A-431E-908C-26BBFD5B6FE8' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4E85C1E7-DB5A-431E-908C-26BBFD5B6FE8' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4E85C1E7-DB5A-431E-908C-26BBFD5B6FE8' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4E85C1E7-DB5A-431E-908C-26BBFD5B6FE8' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4E85C1E7-DB5A-431E-908C-26BBFD5B6FE8' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4E85C1E7-DB5A-431E-908C-26BBFD5B6FE8' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4E85C1E7-DB5A-431E-908C-26BBFD5B6FE8' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4E85C1E7-DB5A-431E-908C-26BBFD5B6FE8' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4E85C1E7-DB5A-431E-908C-26BBFD5B6FE8' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4E85C1E7-DB5A-431E-908C-26BBFD5B6FE8' id='FORM-4E85C1E7-DB5A-431E-908C-26BBFD5B6FE8' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-4E85C1E7-DB5A-431E-908C-26BBFD5B6FE8'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>9B6496FA-879D-4143-A8F4-4F7EC16CCC67</p>
 </div>
@@ -915,7 +720,7 @@ Day |  Ants
 <p>rag_kr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -946,7 +751,7 @@ $
 $
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
@@ -958,7 +763,7 @@ TODOWORKING
 24
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1067,7 +872,7 @@ Also the answer is wrong, no need to subtract 2.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>D2B5105C-0A3B-4768-864F-67E1F909F533</p>
 </div>
@@ -1081,7 +886,7 @@ Also the answer is wrong, no need to subtract 2.
 <p>rag_kr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1176,23 +981,13 @@ water can the tank hold $= 24$
 
 
 
-Capitalize first word
+Last line:
 
-\"let capacity\" ==> \"Let the water tank hold together = a\"
+i) Capitalize first word, 
 
-APTQ, (missing)
-
-7/8 × a    = a/2 + 9   (start with this form)
-
-7a/8 - a/2 = 9
-
-then solve further...
+ii) \"can the tank\" ==> \"the tank can\" 
 
 
-
-
-
-*Also remove extra TODOWORKING and TODOANSWER sections.*
 </div>
 
 <div class='review'>
@@ -1238,7 +1033,7 @@ then solve further...
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>BBCD2C22-8E36-4026-91D7-7A505D12588B</p>
 </div>
@@ -1252,7 +1047,7 @@ then solve further...
 <p>rag_kr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1347,25 +1142,15 @@ distance between $2$ girls $= 30$
 
 
 
-Capitalize first word
+Last line:
 
-\"let capacity\" ==> \"Let the distance between towns = d\"
+i) Captialize the first word:
 
-APTQ, (missing)
-
-d - 10     = d/2 + 5   (start with this form)
-
-d - d/2    = 5 + 10
-
-then solve further...
+ii) \"girls\" ==> \"town\"
 
 
 
-Write units in the final answers.
-
-Put proper spacing in the katex code as per the guidelines.
-
-*Also remove extra TODOWORKING and TODOANSWER sections.*
+\"distance between 2 girls\" ==> \"Distance between two towns\"
 </div>
 
 <div class='review'>
@@ -1411,7 +1196,7 @@ Put proper spacing in the katex code as per the guidelines.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>103E8B78-355F-4A7A-8DC9-7F421908B991</p>
 </div>
@@ -1425,7 +1210,7 @@ Put proper spacing in the katex code as per the guidelines.
 <p>rag_kr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1506,23 +1291,11 @@ cookies he ate on first day $= 76$
 
 
 
-Capitalize first word
+Capitalize first word in last line
 
-\"let capacity\" ==> \"Let the cookies ate on first day = a\"
-
-APTQ, (missing)
-
-5a + 4 x 6 = 100   (start with this form)
-
-then solve further...
+\"cookies he ate....\" ==> \"Cookies he ate....\"
 
 
-
-Write units in the final answers.
-
-Put proper spacing in the katex code as per the guidelines.
-
-*Also remove extra TODOWORKING and TODOANSWER sections.*
 </div>
 
 <div class='review'>
@@ -1568,7 +1341,7 @@ Put proper spacing in the katex code as per the guidelines.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>B5302994-EC09-45D9-8366-DECBAB0E73A2</p>
 </div>
@@ -1582,7 +1355,7 @@ Put proper spacing in the katex code as per the guidelines.
 <p>rag_kr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1691,6 +1464,16 @@ Capitalize first word.
 APTQ, (missing)
 
 write equation properly.
+
+
+
+i) Change x to a in working.
+
+
+
+ii) Capitalize first word in last line:
+
+\"time taken..\" ==> \"Time taken...\"
 </div>
 
 <div class='review'>
@@ -1736,7 +1519,7 @@ write equation properly.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>500FFE5A-6753-4E58-8436-313774F3E51C</p>
 </div>
@@ -1750,7 +1533,7 @@ write equation properly.
 <p>rag_kr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1840,6 +1623,20 @@ weight of two ducks and one duckling $= 12$ kg
 
 
 Question not solved. Solve it!!
+
+
+
+Reference:1622DD6F-538D-47B0-8E04-EE946A7719E6
+
+
+
+Not per the coding guidelines. (Capitalize first word only etc.)
+
+Right format is not followed. Check referenced question and make all the necessary changes.
+
+
+
+
 </div>
 
 <div class='review'>
@@ -1885,7 +1682,7 @@ Question not solved. Solve it!!
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>F6BFC919-78A2-4D42-9BFA-BFC357770BDE</p>
 </div>
@@ -1899,7 +1696,7 @@ Question not solved. Solve it!!
 <p>rag_kr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1928,64 +1725,10 @@ $
 $
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-TODOWORKING
 
-</div>
-<div class='working'>
 
-TODOWORKING
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -2009,36 +1752,33 @@ $= 12$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$= 8 \spadesuit 6$
 
-</div>
-<div class='working'>
+$= 8 \times 2 - 6$
 
-TODOWORKING
+$= 16 - 6$
+
+$= 10$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+10
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$= 8 \spadesuit 6$
+<emptyline>
+$= 8 \times 2 - 6$
+<emptyline>
+$= 16 - 6$
+<emptyline>
+$= 10$
 </code></pre>
 </div>
 </div>
@@ -2050,17 +1790,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>10
 </code></pre>
 </div>
 </div>
@@ -2077,36 +1807,33 @@ Work out $(9 \spadesuit 4)\spadesuit 3$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$= 9 \spadesuit 4$
 
-</div>
-<div class='working'>
+$= 9 \times 2 - 4$
 
-TODOWORKING
+$= 18 - 4$
+
+$= 14$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+14
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$= 9 \spadesuit 4$
+<emptyline>
+$= 9 \times 2 - 4$
+<emptyline>
+$= 18 - 4$
+<emptyline>
+$= 14$
 </code></pre>
 </div>
 </div>
@@ -2118,17 +1845,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>14
 </code></pre>
 </div>
 </div>
@@ -2145,36 +1862,47 @@ If $(6 \spadesuit n) \spadesuit 10 = 8$, what is the number **n**?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+(6 \spadesuit n) \spadesuit 10      &= 8 \\\\
+(6 \times 2 - n) \spadesuit 10      &= 8 \\\\
+(12 - n) \spadesuit 10              &= 8 \\\\
+(12 - n) \times 2 - 10              &= 8 \\\\
+12 \times 2 - n \times 2 - 10       &= 8 \\\\
+24 - 10 - 2n                        &= 8 \\\\
+14 - 2n                             &= 8 \\\\
+14 - 8                              &= 2n \\\\
+2n                                  &= 6 \\\\
+n                                   &= 3
+\end {aligned}
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+3
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>
+$
+\begin{aligned}
+(6 \spadesuit n) \spadesuit 10      &= 8 \\\\
+(6 \times 2 - n) \spadesuit 10      &= 8 \\\\
+(12 - n) \spadesuit 10              &= 8 \\\\
+(12 - n) \times 2 - 10              &= 8 \\\\
+12 \times 2 - n \times 2 - 10       &= 8 \\\\
+24 - 10 - 2n                        &= 8 \\\\
+14 - 2n                             &= 8 \\\\
+14 - 8                              &= 2n \\\\
+2n                                  &= 6 \\\\
+n                                   &= 3
+\end {aligned}
 </code></pre>
 </div>
 </div>
@@ -2186,17 +1914,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>3
 </code></pre>
 </div>
 </div>
@@ -2257,7 +1975,7 @@ Question not solved. Solve it!!
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>C2047E1E-44EC-45A8-8D46-B84E3ACCC574</p>
 </div>
@@ -2271,7 +1989,7 @@ Question not solved. Solve it!!
 <p>rag_kr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2412,7 +2130,7 @@ Change the answer also to 72 days.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>C2E4602D-7614-4602-B0C7-6BE05EC0D2F4</p>
 </div>
@@ -2426,7 +2144,7 @@ Change the answer also to 72 days.
 <p>rag_kr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2577,7 +2295,7 @@ Numbers of stools = a + 9
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>2225AC51-DD9D-4735-95C7-96330E32FE3A</p>
 </div>
@@ -2591,7 +2309,7 @@ Numbers of stools = a + 9
 <p>rag_kr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2744,7 +2462,7 @@ Then solve those equation.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>D7186894-D434-4DCA-9C80-DE0355633F24</p>
 </div>
@@ -2758,7 +2476,7 @@ Then solve those equation.
 <p>rag_kr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2928,24 +2646,24 @@ For example when $3$ is “eighted” the result is $838$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2994,24 +2712,24 @@ Which one-digit numbers produce multiples of $3$ when they are “eighted”?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3062,24 +2780,24 @@ How many times must the number $85$ be “eighted” to produce $8{,}888{,}858{,
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3130,24 +2848,24 @@ How many odd two-digit numbers are divisible by four when they are “eighted”
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3244,7 +2962,7 @@ Question not attempted.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>DB1AD910-8F2A-448D-87E9-93B8F4063A1F</p>
 </div>
@@ -3258,7 +2976,7 @@ Question not attempted.
 <p>rag_kr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3430,24 +3148,24 @@ Calculate the mean of the remaining numbers.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

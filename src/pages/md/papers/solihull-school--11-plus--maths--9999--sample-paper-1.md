@@ -1,7 +1,7 @@
 ---
 slug: "papers/solihull-school-11-plus-maths-9999-sample-paper-1"
 title: "Solihull School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-08-18 10:44:13
+date: 2022-08-19 15:32:50
 questions_count: "31"
 ---
 <div class='paper'>
@@ -392,7 +392,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>48450F7A-0A8A-471A-90C4-B1E78B195B12</p>
 </div>
@@ -403,7 +403,7 @@ $
 <p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_an_pr</p>
+<p>rag_an_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -472,35 +472,35 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='48450F7A-0A8A-471A-90C4-B1E78B195B12' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='48450F7A-0A8A-471A-90C4-B1E78B195B12' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='48450F7A-0A8A-471A-90C4-B1E78B195B12' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='48450F7A-0A8A-471A-90C4-B1E78B195B12' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='48450F7A-0A8A-471A-90C4-B1E78B195B12' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='48450F7A-0A8A-471A-90C4-B1E78B195B12' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='48450F7A-0A8A-471A-90C4-B1E78B195B12' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='48450F7A-0A8A-471A-90C4-B1E78B195B12' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='48450F7A-0A8A-471A-90C4-B1E78B195B12' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='48450F7A-0A8A-471A-90C4-B1E78B195B12' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='48450F7A-0A8A-471A-90C4-B1E78B195B12' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='48450F7A-0A8A-471A-90C4-B1E78B195B12' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='48450F7A-0A8A-471A-90C4-B1E78B195B12' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='48450F7A-0A8A-471A-90C4-B1E78B195B12' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='48450F7A-0A8A-471A-90C4-B1E78B195B12' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='48450F7A-0A8A-471A-90C4-B1E78B195B12' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='48450F7A-0A8A-471A-90C4-B1E78B195B12' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='48450F7A-0A8A-471A-90C4-B1E78B195B12' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='48450F7A-0A8A-471A-90C4-B1E78B195B12' id='FORM-48450F7A-0A8A-471A-90C4-B1E78B195B12' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='48450F7A-0A8A-471A-90C4-B1E78B195B12' id='FORM-48450F7A-0A8A-471A-90C4-B1E78B195B12' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1071,7 +1071,7 @@ no text direct answer
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>9E6D5208-4E0F-419C-BB64-315F2E4817E5</p>
 </div>
@@ -1085,7 +1085,7 @@ no text direct answer
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1336,6 +1336,41 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a)
+
+\"Give away\" ==> \"Percentage give away\"
+
+
+
+Part b) 
+
+Simple word question, no need of such explanation. Simple solve it like below:
+
+Sitckers sticked in the book = 70% of 400
+
+                             = 70/100 x 1400
+
+then solve further..
+
+
+
+Part c) Same as part b) no need of explanation. Solve like below:
+
+
+
+Stickers give away = 5% of 400
+
+then solve further...
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2496,24 +2531,24 @@ Mia cycles at $12  \ \text{mph}$. How far does she travel in
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2562,24 +2597,24 @@ $4  \ \text{hours}$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2630,24 +2665,24 @@ $7\dfrac{1}{2}  \ \text{hours}$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2698,24 +2733,24 @@ $11 \text{ hours } 15  \ \text{minutes}$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2767,7 +2802,7 @@ TODOANSWER
 # Section B
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>F7FB7A20-0F3A-452F-8BE4-998904AC107F</p>
 </div>
@@ -2778,10 +2813,10 @@ TODOANSWER
 <p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_as_oldpr</p>
+<p>rag_as_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2999,54 +3034,39 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-PArt A : Delete last sentence : Total number of players = 352
-
-
-
-PArt B : Delete last sentence : Total number of supporters = 2816
-
-Part C : Line 1 in katex
-
-
-
-Delete last sentence:Total number of goals = 600
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='F7FB7A20-0F3A-452F-8BE4-998904AC107F' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='F7FB7A20-0F3A-452F-8BE4-998904AC107F' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='F7FB7A20-0F3A-452F-8BE4-998904AC107F' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='F7FB7A20-0F3A-452F-8BE4-998904AC107F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='F7FB7A20-0F3A-452F-8BE4-998904AC107F' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='F7FB7A20-0F3A-452F-8BE4-998904AC107F' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='F7FB7A20-0F3A-452F-8BE4-998904AC107F' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='F7FB7A20-0F3A-452F-8BE4-998904AC107F' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='F7FB7A20-0F3A-452F-8BE4-998904AC107F' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='F7FB7A20-0F3A-452F-8BE4-998904AC107F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='F7FB7A20-0F3A-452F-8BE4-998904AC107F' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='F7FB7A20-0F3A-452F-8BE4-998904AC107F' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='F7FB7A20-0F3A-452F-8BE4-998904AC107F' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='F7FB7A20-0F3A-452F-8BE4-998904AC107F' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='F7FB7A20-0F3A-452F-8BE4-998904AC107F' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='F7FB7A20-0F3A-452F-8BE4-998904AC107F' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='F7FB7A20-0F3A-452F-8BE4-998904AC107F' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='F7FB7A20-0F3A-452F-8BE4-998904AC107F' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F7FB7A20-0F3A-452F-8BE4-998904AC107F' id='FORM-F7FB7A20-0F3A-452F-8BE4-998904AC107F' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='F7FB7A20-0F3A-452F-8BE4-998904AC107F' id='FORM-F7FB7A20-0F3A-452F-8BE4-998904AC107F' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3058,7 +3078,7 @@ Delete last sentence:Total number of goals = 600
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>8C3FB2D8-E8CD-47F4-96A7-00A5872C6D30</p>
 </div>
@@ -3072,7 +3092,7 @@ Delete last sentence:Total number of goals = 600
 <p>rag_kr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3547,24 +3567,24 @@ Since $16$ is not divisible by $9$, the number $1357$ is not divisible by $9$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3613,84 +3633,84 @@ Find whether these numbers are divisible by $9$ or not. Write “Yes” or “No
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3874,24 +3894,24 @@ What is the smallest number that must be added to $636$ to make it divisible by 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3942,24 +3962,24 @@ What is the smallest number that must be taken away from $2456$ to make it divis
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4010,24 +4030,24 @@ The five digit number $b6b51$ is divisible by $9$. What is the value of the $b$?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4075,7 +4095,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>EBE09E27-56EC-4341-BA03-66C53B3C3D63</p>
 </div>
@@ -4089,7 +4109,7 @@ TODOANSWER
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4106,36 +4126,21 @@ If you go on holiday to Canada and change your Pounds into Canadian Dollars, you
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -4147,17 +4152,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -4172,20 +4167,40 @@ William changes $\pounds 240$ into Dollars at the beginning of his holiday. How 
 <div class='workings'>
 <div class='working'>
 
+Let the amount of dollars he received $= a$
+
+Using equivalent ratio,
+
+$
+\begin{aligned}
+3 \ \text{pounds} : 5 \ \text{dollars}          &= 240 \ \text{pounds} : a \ \text{dollars} \\\\
+\dfrac{3} {5}                                   &= \dfrac {240} {a} \\\\
+3 \times a                                      &= 240 \times 5 \\\\
+a                                               &= \dfrac {240 \times 5} {3} \\\\
+a                                               &= \dfrac {80 \times 3 \times 5} {3} \\\\
+a                                               &= \dfrac {80 \times \cancel 3 \times 5} {\cancel 3} \\\\
+a                                               &= 80 \times 5 \\\\
+a                                               &= 400 \ \text{dollars}
+\end{aligned}
+$
+
+Amount of dollars he received $= 400$
+
+</div>
+<div class='working'>
+
 Using ratio,
 
 $
 \begin{array}{cccccccccccccc}
   & \pounds                                 &:& \text{dollar} \\\\
 = & 3                                       &:& 5 \\\\
-= & 1                                       &:& \dfrac {5} {3} \\\\
-= & 240                                     &:& \dfrac {240 \times 5} {3} \\\\
-= & 240                                     &:& \dfrac {3 \times 80 \times 5} {3} \\\\
-= & 240                                     &:& \dfrac {\cancel 3 \times 80 \times 5} {\cancel 3} \\\\
-= & 240                                     &:& 80 \times 5 \\\\
+= & 3 \times 80                             &:& 5 \times 80 \\\\
 = & 240                                     &:& 400
 \end{array}
 $
+
+Amount of dollars he received $= 400$
 
 </div>
 </div>
@@ -4199,20 +4214,40 @@ $\text{dollar} \ 400$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
+<pre class='language-latex'><code class='language-latex'>Let the amount of dollars he received $= a$
+<emptyline>
+Using equivalent ratio,
+<emptyline>
+$
+\begin{aligned}
+3 \ \text{pounds} : 5 \ \text{dollars}          &= 240 \ \text{pounds} : a \ \text{dollars} \\\\
+\dfrac{3} {5}                                   &= \dfrac {240} {a} \\\\
+3 \times a                                      &= 240 \times 5 \\\\
+a                                               &= \dfrac {240 \times 5} {3} \\\\
+a                                               &= \dfrac {80 \times 3 \times 5} {3} \\\\
+a                                               &= \dfrac {80 \times \cancel 3 \times 5} {\cancel 3} \\\\
+a                                               &= 80 \times 5 \\\\
+a                                               &= 400 \ \text{dollars}
+\end{aligned}
+$
+<emptyline>
+Amount of dollars he received $= 400$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
 <pre class='language-latex'><code class='language-latex'>Using ratio,
 <emptyline>
 $
 \begin{array}{cccccccccccccc}
   & \pounds                                 &:& \text{dollar} \\\\
 = & 3                                       &:& 5 \\\\
-= & 1                                       &:& \dfrac {5} {3} \\\\
-= & 240                                     &:& \dfrac {240 \times 5} {3} \\\\
-= & 240                                     &:& \dfrac {3 \times 80 \times 5} {3} \\\\
-= & 240                                     &:& \dfrac {\cancel 3 \times 80 \times 5} {\cancel 3} \\\\
-= & 240                                     &:& 80 \times 5 \\\\
+= & 3 \times 80                             &:& 5 \times 80 \\\\
 = & 240                                     &:& 400
 \end{array}
 $
+<emptyline>
+Amount of dollars he received $= 400$
 </code></pre>
 </div>
 </div>
@@ -4241,20 +4276,40 @@ He spends $150$ Dollars on a coat. How many pounds is this?
 <div class='workings'>
 <div class='working'>
 
+Let the amount in pounds $= a$
+
+Using equivalent ratio,
+
+$
+\begin{aligned}
+5 \ \text{dollars} : 3 \ \text{pounds}          &= 150 \ \text{dollars} : a \ \text{pounds} \\\\
+\dfrac{5} {3}                                   &= \dfrac {150} {a} \\\\
+5 \times a                                      &= 150 \times 3 \\\\
+a                                               &= \dfrac {150 \times 3} {5} \\\\
+a                                               &= \dfrac {30 \times 5 \times 3} {5} \\\\
+a                                               &= \dfrac {30 \times \cancel 5 \times 3} {\cancel 5} \\\\
+a                                               &= 30 \times 3 \\\\
+a                                               &= \pounds 90
+\end{aligned}
+$
+
+Amount in pounds $= \pounds 90$
+
+</div>
+<div class='working'>
+
 Using ratio,
 
 $
 \begin{array}{cccccccccccccc}
   & \text{dollar}                           &:& \pounds \\\\
 = & 5                                       &:& 3 \\\\
-= & 1                                       &:& \dfrac {3} {5} \\\\
-= & 150                                     &:& \dfrac {150 \times 3} {5} \\\\
-= & 150                                     &:& \dfrac {5 \times 30 \times 3} {5} \\\\
-= & 150                                     &:& \dfrac {\cancel 5 \times 30 \times 3} {\cancel 5} \\\\
-= & 150                                     &:& 30 \times 3 \\\\
-= & 150                                     &:& 90
+= & 5 \times 30                             &:& 3 \times 30 \\\\
+= & 150                                     &:& \pounds 90
 \end{array}
 $
+
+Amount in pounds $= \pounds 90$
 
 </div>
 </div>
@@ -4268,20 +4323,40 @@ $\pounds 90$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
+<pre class='language-latex'><code class='language-latex'>Let the amount in pounds $= a$
+<emptyline>
+Using equivalent ratio,
+<emptyline>
+$
+\begin{aligned}
+5 \ \text{dollars} : 3 \ \text{pounds}          &= 150 \ \text{dollars} : a \ \text{pounds} \\\\
+\dfrac{5} {3}                                   &= \dfrac {150} {a} \\\\
+5 \times a                                      &= 150 \times 3 \\\\
+a                                               &= \dfrac {150 \times 3} {5} \\\\
+a                                               &= \dfrac {30 \times 5 \times 3} {5} \\\\
+a                                               &= \dfrac {30 \times \cancel 5 \times 3} {\cancel 5} \\\\
+a                                               &= 30 \times 3 \\\\
+a                                               &= \pounds 90
+\end{aligned}
+$
+<emptyline>
+Amount in pounds $= \pounds 90$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
 <pre class='language-latex'><code class='language-latex'>Using ratio,
 <emptyline>
 $
 \begin{array}{cccccccccccccc}
   & \text{dollar}                           &:& \pounds \\\\
 = & 5                                       &:& 3 \\\\
-= & 1                                       &:& \dfrac {3} {5} \\\\
-= & 150                                     &:& \dfrac {150 \times 3} {5} \\\\
-= & 150                                     &:& \dfrac {5 \times 30 \times 3} {5} \\\\
-= & 150                                     &:& \dfrac {\cancel 5 \times 30 \times 3} {\cancel 5} \\\\
-= & 150                                     &:& 30 \times 3 \\\\
-= & 150                                     &:& 90
+= & 5 \times 30                             &:& 3 \times 30 \\\\
+= & 150                                     &:& \pounds 90
 \end{array}
 $
+<emptyline>
+Amount in pounds $= \pounds 90$
 </code></pre>
 </div>
 </div>
@@ -4310,20 +4385,40 @@ He spends $55$ Dollars on a pair of training shoes. How many pounds is this?
 <div class='workings'>
 <div class='working'>
 
+Let the amount in pounds $= a$
+
+Using equivalent ratio,
+
+$
+\begin{aligned}
+5 \ \text{dollars} : 3 \ \text{pounds}          &= 55 \ \text{dollars} : a \ \text{pounds} \\\\
+\dfrac{5} {3}                                   &= \dfrac {55} {a} \\\\
+5 \times a                                      &= 55 \times 3 \\\\
+a                                               &= \dfrac {55 \times 3} {5} \\\\
+a                                               &= \dfrac {11 \times 5 \times 3} {5} \\\\
+a                                               &= \dfrac {11 \times \cancel 5 \times 3} {\cancel 5} \\\\
+a                                               &= 11 \times 3 \\\\
+a                                               &= \pounds 33
+\end{aligned}
+$
+
+Amount in pounds $= \pounds 33$
+
+</div>
+<div class='working'>
+
 Using ratio,
 
 $
 \begin{array}{cccccccccccccc}
   & \text{dollar}                           &:& \pounds \\\\
 = & 5                                       &:& 3 \\\\
-= & 1                                       &:& \dfrac {3} {5} \\\\
-= & 55                                      &:& \dfrac {55 \times 3} {5} \\\\
-= & 55                                      &:& \dfrac {5 \times 11 \times 3} {5} \\\\
-= & 55                                      &:& \dfrac {\cancel 5 \times 11 \times 3} {\cancel 5} \\\\
-= & 55                                      &:& 11 \times 3 \\\\
-= & 55                                      &:& 33
+= & 5 \times 11                             &:& 3 \times 11 \\\\
+= & 55                                      &:& \pounds 33
 \end{array}
 $
+
+Amount in pounds $= \pounds 33$
 
 </div>
 </div>
@@ -4337,20 +4432,40 @@ $\pounds 33$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
+<pre class='language-latex'><code class='language-latex'>Let the amount in pounds $= a$
+<emptyline>
+Using equivalent ratio,
+<emptyline>
+$
+\begin{aligned}
+5 \ \text{dollars} : 3 \ \text{pounds}          &= 55 \ \text{dollars} : a \ \text{pounds} \\\\
+\dfrac{5} {3}                                   &= \dfrac {55} {a} \\\\
+5 \times a                                      &= 55 \times 3 \\\\
+a                                               &= \dfrac {55 \times 3} {5} \\\\
+a                                               &= \dfrac {11 \times 5 \times 3} {5} \\\\
+a                                               &= \dfrac {11 \times \cancel 5 \times 3} {\cancel 5} \\\\
+a                                               &= 11 \times 3 \\\\
+a                                               &= \pounds 33
+\end{aligned}
+$
+<emptyline>
+Amount in pounds $= \pounds 33$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
 <pre class='language-latex'><code class='language-latex'>Using ratio,
 <emptyline>
 $
 \begin{array}{cccccccccccccc}
   & \text{dollar}                           &:& \pounds \\\\
 = & 5                                       &:& 3 \\\\
-= & 1                                       &:& \dfrac {3} {5} \\\\
-= & 55                                      &:& \dfrac {55 \times 3} {5} \\\\
-= & 55                                      &:& \dfrac {5 \times 11 \times 3} {5} \\\\
-= & 55                                      &:& \dfrac {\cancel 5 \times 11 \times 3} {\cancel 5} \\\\
-= & 55                                      &:& 11 \times 3 \\\\
-= & 55                                      &:& 33
+= & 5 \times 11                             &:& 3 \times 11 \\\\
+= & 55                                      &:& \pounds 33
 \end{array}
 $
+<emptyline>
+Amount in pounds $= \pounds 33$
 </code></pre>
 </div>
 </div>
@@ -4432,20 +4547,40 @@ If these Dollars are changed back into pounds, how many pounds does he receive?
 <div class='workings'>
 <div class='working'>
 
+Let the amount received in pounds $= a$
+
+Using equivalent ratio,
+
+$
+\begin{aligned}
+5 \ \text{dollars} : 3 \ \text{pounds}          &= 195 \ \text{dollars} : a \ \text{pounds} \\\\
+\dfrac{5} {3}                                   &= \dfrac {195} {a} \\\\
+5 \times a                                      &= 195 \times 3 \\\\
+a                                               &= \dfrac {195 \times 3} {5} \\\\
+a                                               &= \dfrac {39 \times 5 \times 3} {5} \\\\
+a                                               &= \dfrac {39 \times \cancel 5 \times 3} {\cancel 5} \\\\
+a                                               &= 39 \times 3 \\\\
+a                                               &= \pounds 117
+\end{aligned}
+$
+
+Amount in pounds $= \pounds 117$
+
+</div>
+<div class='working'>
+
 Using ratio,
 
 $
 \begin{array}{cccccccccccccc}
   & \text{dollar}                            &:& \pounds \\\\
 = & 5                                        &:& 3 \\\\
-= & 1                                        &:& \dfrac {3} {5} \\\\
-= & 195                                      &:& \dfrac {195 \times 3} {5} \\\\
-= & 195                                      &:& \dfrac {5 \times 39 \times 3} {5} \\\\
-= & 195                                      &:& \dfrac {\cancel 5 \times 39 \times 3} {\cancel 5} \\\\
-= & 195                                      &:& 39 \times 3 \\\\
-= & 195                                      &:& 117
+= & 5 \times 39                              &:& 3 \times 39 \\\\
+= & 195                                      &:& \pounds 117
 \end{array}
 $
+
+Amount in pounds $= \pounds 117$
 
 </div>
 </div>
@@ -4459,20 +4594,40 @@ $117$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
+<pre class='language-latex'><code class='language-latex'>Let the amount received in pounds $= a$
+<emptyline>
+Using equivalent ratio,
+<emptyline>
+$
+\begin{aligned}
+5 \ \text{dollars} : 3 \ \text{pounds}          &= 195 \ \text{dollars} : a \ \text{pounds} \\\\
+\dfrac{5} {3}                                   &= \dfrac {195} {a} \\\\
+5 \times a                                      &= 195 \times 3 \\\\
+a                                               &= \dfrac {195 \times 3} {5} \\\\
+a                                               &= \dfrac {39 \times 5 \times 3} {5} \\\\
+a                                               &= \dfrac {39 \times \cancel 5 \times 3} {\cancel 5} \\\\
+a                                               &= 39 \times 3 \\\\
+a                                               &= \pounds 117
+\end{aligned}
+$
+<emptyline>
+Amount in pounds $= \pounds 117$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
 <pre class='language-latex'><code class='language-latex'>Using ratio,
 <emptyline>
 $
 \begin{array}{cccccccccccccc}
   & \text{dollar}                            &:& \pounds \\\\
 = & 5                                        &:& 3 \\\\
-= & 1                                        &:& \dfrac {3} {5} \\\\
-= & 195                                      &:& \dfrac {195 \times 3} {5} \\\\
-= & 195                                      &:& \dfrac {5 \times 39 \times 3} {5} \\\\
-= & 195                                      &:& \dfrac {\cancel 5 \times 39 \times 3} {\cancel 5} \\\\
-= & 195                                      &:& 39 \times 3 \\\\
-= & 195                                      &:& 117
+= & 5 \times 39                              &:& 3 \times 39 \\\\
+= & 195                                      &:& \pounds 117
 \end{array}
 $
+<emptyline>
+Amount in pounds $= \pounds 117$
 </code></pre>
 </div>
 </div>
@@ -4935,24 +5090,24 @@ James starts a journey at $10.00  \ \text{am}$ and drives at $60   \ \text{mph}$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5001,24 +5156,24 @@ How far does he travel?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5071,24 +5226,24 @@ How far does he go in this stage?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5139,24 +5294,24 @@ What is the total distance he has travelled?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5207,24 +5362,24 @@ What is the total time he has taken?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5275,24 +5430,24 @@ What is his average speed for the whole journey?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6365,7 +6520,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>54031DD7-DAC6-44A3-A2F6-593F6B620F71</p>
 </div>
@@ -6376,7 +6531,7 @@ $
 <p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_ns_notstarted</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6396,36 +6551,21 @@ Some numbers read the same forwards and backwards, like $343$ and $1221$. We cal
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -6437,17 +6577,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -6462,36 +6592,45 @@ Find all *mirror numbers* between $10$ and $100$. Write your answers in the spac
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+The possible arrangements are:
 
-</div>
-<div class='working'>
+- $11$
+- $22$
+- $33$
+- $44$
+- $55$
+- $66$
+- $77$
+- $88$
+- $99$
 
-TODOWORKING
+Total count $= 9$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$9$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>The possible arrangements are:
+<emptyline>
+- $11$
+- $22$
+- $33$
+- $44$
+- $55$
+- $66$
+- $77$
+- $88$
+- $99$
+<emptyline>
+Total count $= 9$
 </code></pre>
 </div>
 </div>
@@ -6503,17 +6642,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$9$
 </code></pre>
 </div>
 </div>
@@ -6530,36 +6659,47 @@ Find all the *mirror numbers* between $100$ and $200$. Write your answers in the
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+The possible arrangements are:
 
-</div>
-<div class='working'>
+- $101$
+- $111$
+- $121$
+- $131$
+- $141$
+- $151$
+- $161$
+- $171$
+- $181$
+- $191$
 
-TODOWORKING
+Count $= 10$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$10$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>The possible arrangements are:
+<emptyline>
+- $101$
+- $111$
+- $121$
+- $131$
+- $141$
+- $151$
+- $161$
+- $171$
+- $181$
+- $191$
+<emptyline>
+Count $= 10$
 </code></pre>
 </div>
 </div>
@@ -6571,17 +6711,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$10$
 </code></pre>
 </div>
 </div>
@@ -6590,10 +6720,50 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='54031DD7-DAC6-44A3-A2F6-593F6B620F71' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='54031DD7-DAC6-44A3-A2F6-593F6B620F71' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='54031DD7-DAC6-44A3-A2F6-593F6B620F71' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='54031DD7-DAC6-44A3-A2F6-593F6B620F71' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='54031DD7-DAC6-44A3-A2F6-593F6B620F71' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='54031DD7-DAC6-44A3-A2F6-593F6B620F71' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='54031DD7-DAC6-44A3-A2F6-593F6B620F71' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='54031DD7-DAC6-44A3-A2F6-593F6B620F71' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='54031DD7-DAC6-44A3-A2F6-593F6B620F71' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='54031DD7-DAC6-44A3-A2F6-593F6B620F71' id='FORM-54031DD7-DAC6-44A3-A2F6-593F6B620F71' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-54031DD7-DAC6-44A3-A2F6-593F6B620F71'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>80F7B21B-042A-463F-B512-9DFE4B52A8BB</p>
 </div>
@@ -6604,7 +6774,7 @@ TODOANSWER
 <p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_ns_notstarted</p>
+<p>rag_ns_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6628,36 +6798,53 @@ Write down in the space below all $3$ digit numbers that have a digit sum equal 
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+If we use $7$, $9$ and $9$, the possible arrangements are:
 
-</div>
-<div class='working'>
+- $799$
+- $979$
+- $997$
 
-TODOWORKING
+Count $= 3$
+
+If we use $8$, $8$ and $9$, the possible arrangements are:
+
+- $889$
+- $898$
+- $988$
+
+Count $= 3$
+
+Total count $= 3 + 3 = 6$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$6$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>If we use $7$, $9$ and $9$, the possible arrangements are:
+<emptyline>
+- $799$
+- $979$
+- $997$
+<emptyline>
+Count $= 3$
+<emptyline>
+If we use $8$, $8$ and $9$, the possible arrangements are:
+<emptyline>
+- $889$
+- $898$
+- $988$
+<emptyline>
+Count $= 3$
+<emptyline>
+Total count $= 3 + 3 = 6$
 </code></pre>
 </div>
 </div>
@@ -6669,22 +6856,52 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$6$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='80F7B21B-042A-463F-B512-9DFE4B52A8BB' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='80F7B21B-042A-463F-B512-9DFE4B52A8BB' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='80F7B21B-042A-463F-B512-9DFE4B52A8BB' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='80F7B21B-042A-463F-B512-9DFE4B52A8BB' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='80F7B21B-042A-463F-B512-9DFE4B52A8BB' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='80F7B21B-042A-463F-B512-9DFE4B52A8BB' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='80F7B21B-042A-463F-B512-9DFE4B52A8BB' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='80F7B21B-042A-463F-B512-9DFE4B52A8BB' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='80F7B21B-042A-463F-B512-9DFE4B52A8BB' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='80F7B21B-042A-463F-B512-9DFE4B52A8BB' id='FORM-80F7B21B-042A-463F-B512-9DFE4B52A8BB' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-80F7B21B-042A-463F-B512-9DFE4B52A8BB'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -7151,24 +7368,24 @@ Fill in the missing numbers so that adding each pair of corner numbers gives you
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -7467,36 +7684,35 @@ Some of the digits are missing in the multiplications below. Find the missing di
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-%TODOKATEX%
 
-6 
-*
-*
+$6$ 
+$*$
+$*$
 X
-3 
-*
-4 
+$3$ 
+$*$
+$4$ 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -7543,39 +7759,38 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-%TODOKATEX%
 
 
-* 
-6
-*
-7
+$*$ 
+$6$
+$*$
+$7$
 X
-*
-1
-*
-3 
+$*$
+$1$
+$*$
+$3$ 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

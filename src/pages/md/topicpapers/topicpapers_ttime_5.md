@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-5"
 title: "TopicPaper - Time - 5"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "39"
 ---
 <div class='paper'>
@@ -46,14 +46,14 @@ She started to learn to play the piano on the $1 \text{st}$ September $1998$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -391,22 +391,15 @@ Kyra parks her car at $10.30 \ \text{am}$.
 She collects the car at $2.15 \ \text{pm}$. 
 How much does she have to pay?
 
-![missing table](/papers/missing_table.svg)
+| **Car Park Charges** |                  |
+|:--------------------:|:----------------:|
+|       **Time**       |    **Charge**    |
+|     Up to 1 hour     | $20 \ \text{p}$  |
+|     1 to 2 hours     |  $50 \ \text{p}$ |
+|     2 to 3 hours     | $\pounds \ 1.00$ |
+|     3 to 4 hours     | $\pounds \ 1.70$ |
+|     Over 4 hours     | $\pounds \ 5.00$ |
 
-
-Car Park Charges
-
-**Time**              **Charge**
-
-Up to $1 \ \text{hour}$        $20 \text{p}$
-
-$1$ to $2 \ \text{hours}$      $50 \text{p}$
-
-$2$ to $3 \ \text{hours}$      $\pounds 1.00$
-
-$3$ to $4 \ \text{hours}$      $\pounds 1.70$
-
-Over to $4 \ \text{hours}$     $\pounds 5.00$
 
 </div>
 <div class='workings'>
@@ -546,24 +539,23 @@ ttable
 
 Here is part of a train timetable for trains running from Bunley to Wester. 
 
-Bunley  depart  $08 00$
+| Bunley | depart | $08 \ 00$ |
+|:------:|:------:|:---------:|
+| Sidcot | arrive | $08 \ 43$ |
+| Sidcot | depart | $08 \ 45$ |
+| Wester | arrive | $10 \ 32$ |
 
-Sidcot  arrive  $08 43$ 
-
-Sidcot  depart  $08 45$
-
-Wester  arrive  $10 32$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -778,14 +770,14 @@ time in train. She spent $2$ hours on the train.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1058,8 +1050,10 @@ ttime
 
 The timetable below shows information about the overnight train from London to Scotland.
 
-![missing table](/papers/missing_table.svg)
-
+|   London Euston Station  | (Fri) depart | $1957$ |
+|:------------------------:|:------------:|:------:|
+| Birmingham International | (Fri) depart | $2107$ |
+|          Glasgow         | (Sat) arrive | $0645$ |
 
 How long does the train take
 
@@ -1541,14 +1535,14 @@ tdraw
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1628,14 +1622,14 @@ This clock shows a time in the evening.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -1832,11 +1826,10 @@ ttime
 
 The start and finish times of a film are shown on this notice. 
 
-**The Tiger Prince**
-
-Start $7.45 \ \text{pm}$
-
-End $10.34 \ \text{pm}$
+| **The Tiger Prince** |                     |
+|:--------------------:|:-------------------:|
+|         Start        |  $7.45 \ \text{pm}$ |
+|          End         | $10.34 \ \text{pm}$ |
 
 For how long did the film last?
 
@@ -2254,7 +2247,10 @@ The notice below shows part of a train timetable between $2$ towns, Taymar and R
 
 One of the times has been covered.
 
-![missing table](/papers/missing_table.svg)
+|            | train $1$ | train $2$ |
+|:----------:|:---------:|:---------:|
+| **Taymar** | $09{:}24$ | $14{:}51$ |
+| **Raymar** | $11{:}43$ |           |
 
 
 </div>
@@ -2606,37 +2602,35 @@ On their sports day, five girls took part in the $400 \ \text{metres}$ race.
 
 Their times were recorded in the table below.
 
-![missing table](/papers/missing_table.svg)
-
-
-name        time taken
-Angie      1 min 18 secs
-Bella      1 min 25 secs
-Clemmie    1 min 13 secs
-Davina     1 min 22 secs
-Erin       1 min 19 secs
+|   Name  |             Time Taken            |
+|:-------:|:---------------------------------:|
+|  Angie  | $1 \ \text{min} \ 18 \ \text{secs}$ |
+|  Bella  | $1 \ \text{min} \ 25 \ \text{secs}$ |
+| Clemmie | $1 \ \text{min} \ 13 \ \text{secs}$ |
+|  Davina | $1 \ \text{min} \ 22 \ \text{secs}$ |
+|   Erin  | $1 \ \text{min} \ 19 \ \text{secs}$ |
 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3157,7 +3151,11 @@ $
 
 Three friends started a sponsored silence at exactly $15{:}00$ and, one by one, burst out in giggles at the times shown in the table below.
 
-![missing table](/papers/missing_table.svg)
+|   name  | time silence ended |
+|:-------:|:------------------:|
+|  Holly  |      $16{:}29$     |
+| Rebecca |      $17{:}08$     |
+|  Stacey |      $16{:}23$     |
 
 
 </div>
@@ -3801,29 +3799,33 @@ ttable
 
 Below is part of a train timetable:
 
-![missing table](/papers/missing_table.svg)
+|         | Spongeton |  Bobville | Squareford | Pantsbridge |
+|:-------:|:---------:|:---------:|:----------:|:-----------:|
+| train 1 | $10{:}45$ | $11{:}10$ |            |             |
+| train 2 | $11{:}30$ |           |            |  $12{:}40$  |
+| train 3 | $12{:}15$ | $12{:}51$ |  $13{:}22$ |  $13{:}45$  |
 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4235,24 +4237,24 @@ The diagram below shows $7$ train stations, labelled $A$ to $G$, and the times, 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4717,7 +4719,10 @@ ttime
 
 Which bus takes the shortest time from Elgin to Inverness and by how many minutes?
 
-![missing table](/papers/missing_table.svg)
+|           |          Bus P          |          Bus Q          |
+|:---------:|:-----------------------:|:-----------------------:|
+|   Elgin   | $11{:}47 \ \text{a.m.}$ | $12{:}33 \ \text{p.m.}$ |
+| Inverness |  $1{:}06 \ \text{p.m.}$ |  $1{:}50 \ \text{p.m.}$ |
 
 
 </div>
@@ -5137,24 +5142,24 @@ All stopping trains take the same time between stations as each other.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6118,24 +6123,24 @@ ttime
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6397,24 +6402,24 @@ Brian is looking at the schedule of TV programmes for that evening
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6625,24 +6630,24 @@ Mr Smith is planning to catch the $10:47 \ \text{am}$ plane flight from Heathrow
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -6763,12 +6768,12 @@ $07{:}57$
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -7357,7 +7362,6 @@ ttable
 
 The timetable shows the bus times between Shoh Street and London Road. must allow $6\, minutes$ to walk from my home to the bus stop in Short Street where I will catch a bus to London Road. From there it takes $8\, minutes$ to walk to John's house. f want to be at John's house by $2.00 \,pm$
 
-
 |                  |  Bus A      |  Bus B      |  Bus C      |  Bus D      |
 |--------------    |:-------:    |:-------:    |:-------:    |:-------:    |
 | Short Street     | $12.49$     | $13.11$     | $13.29$     | $13.43$     |
@@ -7366,24 +7370,24 @@ The timetable shows the bus times between Shoh Street and London Road. must allo
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -7919,24 +7923,24 @@ Look at this bus timetable, from Highbury to Colton:
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -7985,24 +7989,24 @@ A bus leaves **Highbury** at **$08{:}30$.**
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

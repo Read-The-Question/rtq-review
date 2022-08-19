@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2012-sample-paper-3"
 title: "Sevenoaks School - 11 Plus - Maths - 2012 - Sample Paper 3"
-date: 2022-08-18 10:44:13
+date: 2022-08-19 15:32:50
 questions_count: "12"
 ---
 <div class='paper'>
@@ -612,7 +612,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcr question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>7E727E97-35F7-45AC-9A84-DFE534728056</p>
 </div>
@@ -626,7 +626,7 @@ $
 <p>rag_kr_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -893,7 +893,7 @@ Write APTQ after \"Third con....\" line.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B5C73911-F262-422F-8F91-C2B9B4CF5D09</p>
 </div>
@@ -907,7 +907,7 @@ Write APTQ after \"Third con....\" line.
 <p>rag_kr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -968,7 +968,9 @@ $(x \times 18) \div 9 = 16$
 $
 \begin{aligned}
 (x \times 18) \div 9                                &= 16 \\\\
-\dfrac {x \times 18} {9}                            &= 16 \\\\
+(x \times 18) \times \dfrac{1}{9}                   &= 16 \\\\
+\dfrac {18x}{9}                                     &= 16 \\\\
+18x                                                 &= 16 \times 9 \\\\
 x                                                   &= \dfrac {16 \times 9} {18} \\\\
 x                                                   &= \dfrac {2 \times 8 \times 9} {2 \times 9} \\\\
 x                                                   &= \dfrac {\cancel {2} \times 8 \times \cancel {9}} {\cancel {2} \times \cancel {9}} \\\\
@@ -991,7 +993,9 @@ $8$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 (x \times 18) \div 9                                &= 16 \\\\
-\dfrac {x \times 18} {9}                            &= 16 \\\\
+(x \times 18) \times \dfrac{1}{9}                   &= 16 \\\\
+\dfrac {18x}{9}                                     &= 16 \\\\
+18x                                                 &= 16 \times 9 \\\\
 x                                                   &= \dfrac {16 \times 9} {18} \\\\
 x                                                   &= \dfrac {2 \times 8 \times 9} {2 \times 9} \\\\
 x                                                   &= \dfrac {\cancel {2} \times 8 \times \cancel {9}} {\cancel {2} \times \cancel {9}} \\\\
@@ -1031,9 +1035,11 @@ $
 (x + 12) \times 4 + 2    &= 62 \\\\
 (x + 12) \times 4        &= 62 - 2\\\\
 (x + 12) \times 4        &= 60 \\\\
-x                        &= \dfrac {60} {4} - 12 \\\\
-x                        &= \dfrac {15 \times 4} {4} - 12 \\\\
-x                        &= \dfrac {15 \times \cancel {4} } {\cancel {4} } - 12 \\\\
+x + 12                   &= \dfrac {60}{4} \\\\
+x + 12                   &= \dfrac {60}{4} \\\\
+x + 12                   &= \dfrac {15 \times 4} {4} \\\\
+x + 12                   &= \dfrac {15 \times \cancel {4} } {\cancel {4} } \\\\
+x + 12                   &= 15 \\\\
 x                        &= 15 - 12 \\\\
 x                        &= 3
 \end{aligned}
@@ -1056,9 +1062,11 @@ $3$
 (x + 12) \times 4 + 2    &= 62 \\\\
 (x + 12) \times 4        &= 62 - 2\\\\
 (x + 12) \times 4        &= 60 \\\\
-x                        &= \dfrac {60} {4} - 12 \\\\
-x                        &= \dfrac {15 \times 4} {4} - 12 \\\\
-x                        &= \dfrac {15 \times \cancel {4} } {\cancel {4} } - 12 \\\\
+x + 12                   &= \dfrac {60}{4} \\\\
+x + 12                   &= \dfrac {60}{4} \\\\
+x + 12                   &= \dfrac {15 \times 4} {4} \\\\
+x + 12                   &= \dfrac {15 \times \cancel {4} } {\cancel {4} } \\\\
+x + 12                   &= 15 \\\\
 x                        &= 15 - 12 \\\\
 x                        &= 3
 \end{aligned}
@@ -1707,7 +1715,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>388505B0-6454-438D-940F-B9BB634F8E46</p>
 </div>
@@ -1721,7 +1729,7 @@ $
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1738,36 +1746,21 @@ Maya draws a plan of her school using a scale of $1 \ \text{cm}$ to $12  \ \text
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -1779,17 +1772,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -1804,6 +1787,24 @@ On the plan, the garden is $2  \ \text{cm}$ wide. What is the real width of the 
 <div class='workings'>
 <div class='working'>
 
+Let the actual width of garden $= a$
+
+Using equivalent ratio,
+
+$
+\begin{aligned}
+1 \ \text{map} : 12 \ \text{actual}             &= 2 \ \text{map} : a \ \text{actual} \\\\
+\dfrac {1} {12}                                 &= \dfrac {2} {a} \\\\
+1 \times a                                      &= 2 \times 12 \\\\
+a                                               &= 24 \ \text{m}
+\end{aligned}
+$
+
+Real width of the garden $= 24 \ \text{m}$
+
+</div>
+<div class='working'>
+
 Using ratio,
 
 $
@@ -1814,6 +1815,8 @@ $
 = & 2                   &:& 24 \ \text{m}
 \end{array}
 $
+
+Real width of the garden $= 24 \ \text{m}$
 
 </div>
 </div>
@@ -1827,6 +1830,24 @@ $24 \ \text{m}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
+<pre class='language-latex'><code class='language-latex'>Let the actual width of garden $= a$
+<emptyline>
+Using equivalent ratio,
+<emptyline>
+$
+\begin{aligned}
+1 \ \text{map} : 12 \ \text{actual}             &= 2 \ \text{map} : a \ \text{actual} \\\\
+\dfrac {1} {12}                                 &= \dfrac {2} {a} \\\\
+1 \times a                                      &= 2 \times 12 \\\\
+a                                               &= 24 \ \text{m}
+\end{aligned}
+$
+<emptyline>
+Real width of the garden $= 24 \ \text{m}$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
 <pre class='language-latex'><code class='language-latex'>Using ratio,
 <emptyline>
 $
@@ -1837,6 +1858,8 @@ $
 = & 2                   &:& 24 \ \text{m}
 \end{array}
 $
+<emptyline>
+Real width of the garden $= 24 \ \text{m}$
 </code></pre>
 </div>
 </div>
@@ -1877,6 +1900,8 @@ $
 \end{array}
 $
 
+Maths classroom dimensions on the plane $= \dfrac {1} {3} \ \text{cm by} \ \dfrac {1} {4} \ \text{cm}$
+
 </div>
 </div>
 <div class='answers'>
@@ -1900,6 +1925,8 @@ $
 = & 4 \ \text{m by} \ 3 \ \text{m}        &:& \dfrac {1} {3} \ \text{cm by} \ \dfrac {1} {4} \ \text{cm}
 \end{array}
 $
+<emptyline>
+Maths classroom dimensions on the plane $= \dfrac {1} {3} \ \text{cm by} \ \dfrac {1} {4} \ \text{cm}$
 </code></pre>
 </div>
 </div>
@@ -1919,6 +1946,17 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+a: summary line
+
+b: summary line
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2461,24 +2499,24 @@ Class Five conduct a traffic survey of the colours of $180$ cars.  They put thei
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2586,24 +2624,24 @@ How many red cars were seen?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2837,24 +2875,24 @@ Boxes are formed from sticks as below.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2903,24 +2941,24 @@ How many sticks are needed to make the pattern with eight boxes?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2971,24 +3009,24 @@ How many sticks are needed to make the pattern with eighty- eight boxes?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3069,24 +3107,24 @@ Do this several times. What do you notice about your answers?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

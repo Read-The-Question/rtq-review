@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2018-sample-paper-10"
 title: "Oundle School - 11 Plus - Maths - 2018 - Sample Paper 10"
-date: 2022-08-18 10:44:13
+date: 2022-08-19 15:32:50
 questions_count: "10"
 ---
 <div class='paper'>
@@ -1784,7 +1784,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>31BD2044-3056-47C9-8E05-88DECA154BCC</p>
 </div>
@@ -1795,7 +1795,7 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g2</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2081,35 +2081,35 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='31BD2044-3056-47C9-8E05-88DECA154BCC' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='31BD2044-3056-47C9-8E05-88DECA154BCC' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='31BD2044-3056-47C9-8E05-88DECA154BCC' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='31BD2044-3056-47C9-8E05-88DECA154BCC' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='31BD2044-3056-47C9-8E05-88DECA154BCC' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='31BD2044-3056-47C9-8E05-88DECA154BCC' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='31BD2044-3056-47C9-8E05-88DECA154BCC' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='31BD2044-3056-47C9-8E05-88DECA154BCC' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='31BD2044-3056-47C9-8E05-88DECA154BCC' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='31BD2044-3056-47C9-8E05-88DECA154BCC' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='31BD2044-3056-47C9-8E05-88DECA154BCC' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='31BD2044-3056-47C9-8E05-88DECA154BCC' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='31BD2044-3056-47C9-8E05-88DECA154BCC' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='31BD2044-3056-47C9-8E05-88DECA154BCC' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='31BD2044-3056-47C9-8E05-88DECA154BCC' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='31BD2044-3056-47C9-8E05-88DECA154BCC' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='31BD2044-3056-47C9-8E05-88DECA154BCC' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='31BD2044-3056-47C9-8E05-88DECA154BCC' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='31BD2044-3056-47C9-8E05-88DECA154BCC' id='FORM-31BD2044-3056-47C9-8E05-88DECA154BCC' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='31BD2044-3056-47C9-8E05-88DECA154BCC' id='FORM-31BD2044-3056-47C9-8E05-88DECA154BCC' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3055,7 +3055,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A8B52462-A833-4D1A-AD6D-8D8F5E26916D</p>
 </div>
@@ -3069,7 +3069,7 @@ $
 <p>rag_kr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3199,19 +3199,27 @@ What number did John think of?
 <div class='workings'>
 <div class='working'>
 
-Let the number $=x$
+Let the number John thought of $= a$
 
 As per the the question,
 
 $
 \begin{aligned}
-(x - 10) \div 3                                                &= 2x \\\\
-x- 10                                                          &= 6x \\\\
-x - 6x                                                         &= 10 \\\\
--5x                                                            &= 10 \\\\
-x                                                              &= -\dfrac{10}{5} \\\\
-x                                                              &= -2
+(a - 10) \div 3                                                &= 2a \\\\
+\dfrac{a - 10}{3}                                              &= 2a \\\\
+a- 10                                                          &= 2a \times 3 \\\\
+a- 10                                                          &= 6a \\\\
+-10                                                            &= 6a - a\\\\
+-10                                                            &= 5a \\\\
+5a                                                             &= -10 \\\\
+a                                                              &= \dfrac{-10}{5} \\\\
+a                                                              &= \dfrac{-2 \times 5}{5} \\\\
+a                                                              &= \dfrac{-2 \times \cancel{5}}{\cancel{5}} \\\\
+a                                                              &= -2 \\\\
 \end{aligned}
+
+The number John thought of $= -2$
+
 $
 
 </div>
@@ -3226,19 +3234,27 @@ $-2$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number $=x$
+<pre class='language-latex'><code class='language-latex'>Let the number John thought of $= a$
 <emptyline>
 As per the the question,
 <emptyline>
 $
 \begin{aligned}
-(x - 10) \div 3                                                &= 2x \\\\
-x- 10                                                          &= 6x \\\\
-x - 6x                                                         &= 10 \\\\
--5x                                                            &= 10 \\\\
-x                                                              &= -\dfrac{10}{5} \\\\
-x                                                              &= -2
+(a - 10) \div 3                                                &= 2a \\\\
+\dfrac{a - 10}{3}                                              &= 2a \\\\
+a- 10                                                          &= 2a \times 3 \\\\
+a- 10                                                          &= 6a \\\\
+-10                                                            &= 6a - a\\\\
+-10                                                            &= 5a \\\\
+5a                                                             &= -10 \\\\
+a                                                              &= \dfrac{-10}{5} \\\\
+a                                                              &= \dfrac{-2 \times 5}{5} \\\\
+a                                                              &= \dfrac{-2 \times \cancel{5}}{\cancel{5}} \\\\
+a                                                              &= -2 \\\\
 \end{aligned}
+<emptyline>
+The number John thought of $= -2$
+<emptyline>
 $
 </code></pre>
 </div>
@@ -3272,21 +3288,33 @@ Find the dimensions of the rectangle.
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
+
+
+Let the height of rectangle $= h$
+
+Width $= 4h$
+
+As per the question,
+
 $
 \begin{aligned}
-\text{Let Width} &= w \\\\ 
-\text{Let Height} &= h \\\\ 
-w                                &= 4 \times h \\\\
-2 \times (w + h)                    &= 12 \\\\
 2 \times (4 \times h + h)          &= 12 \\\\
-2 \times (5 \times h)                       &= 12 \\\\
-10 \times h                      &= 12 \\\\
-h                                &= \dfrac{12}{10} \\\\
-                                      &= 1.2 \\\\
-w                                &= 4 \times 1.2 \\\\
-                                      &= 4.8
+2 \times (4h + h)                  &= 12 \\\\
+2 \times (5h)                      &= 12 \\\\
+10 \times h                        &= 12 \\\\
+10h                                &= 12 \\\\
+h                                  &= \dfrac{12}{10} \\\\
+                                   &= 1.2 \\\\
+\text{height of rectangle}         &= h \\\\
+                                   &= 1.2 \ \text{cm} \\\\
+\text{Width}                       &= 4 \times h \\\\
+                                   &= 4 \times 1.2 \\\\
+                                   &= 4.8 \ \text{cm}
 \end{aligned}
 $
+
+
 
 </div>
 </div>
@@ -3300,21 +3328,32 @@ $1.2,4.8$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
+<emptyline>
+Let the height of rectangle $= h$
+<emptyline>
+Width $= 4h$
+<emptyline>
+As per the question,
+<emptyline>
+$
 \begin{aligned}
-\text{Let Width} &= w \\\\ 
-\text{Let Height} &= h \\\\ 
-w                                &= 4 \times h \\\\
-2 \times (w + h)                    &= 12 \\\\
 2 \times (4 \times h + h)          &= 12 \\\\
-2 \times (5 \times h)                       &= 12 \\\\
-10 \times h                      &= 12 \\\\
-h                                &= \dfrac{12}{10} \\\\
-                                      &= 1.2 \\\\
-w                                &= 4 \times 1.2 \\\\
-                                      &= 4.8
+2 \times (4h + h)                  &= 12 \\\\
+2 \times (5h)                      &= 12 \\\\
+10 \times h                        &= 12 \\\\
+10h                                &= 12 \\\\
+h                                  &= \dfrac{12}{10} \\\\
+                                   &= 1.2 \\\\
+\text{height of rectangle}         &= h \\\\
+                                   &= 1.2 \ \text{cm} \\\\
+\text{Width}                       &= 4 \times h \\\\
+                                   &= 4 \times 1.2 \\\\
+                                   &= 4.8 \ \text{cm}
 \end{aligned}
 $
+<emptyline>
+
 </code></pre>
 </div>
 </div>

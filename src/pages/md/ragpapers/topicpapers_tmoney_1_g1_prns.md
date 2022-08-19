@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-1-g1-prns"
 title: "TopicPaper - Money - 1 - G1 - PRNS"
-date: 2022-08-18 10:50:34
+date: 2022-08-19 15:40:39
 questions_count: "8"
 ---
 <ul class='question default-decimal'>
@@ -1092,7 +1092,12 @@ tmoney
 
 Sasha is selling greetings cards and gifts for Mothers' Day.
 
-![missing table](/papers/missing_table.svg)
+|   Medium card & envelope  | $\pounds \ 1.79$ |
+|:-------------------------:|:----------------:|
+|   Large card & envelope   | $\pounds \ 2.59$ |
+| Small chocolate selection | $\pounds \ 1.49$ |
+|    Dried flower (bunch)   | $\pounds \ 3.65$ |
+|     Candles in holder     | $\pounds \ 5.49$ |
 
 
 </div>
@@ -1191,7 +1196,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-How much change would be needed, from a $\pounds 10$ note, if Sasha sells a medium card & envelope with a bunch of dried flowers?
+How much change would be needed, from a $\pounds \ 10$ note, if Sasha sells a medium card & envelope with a bunch of dried flowers?
 
 </div>
 <div class='workings'>
@@ -1250,10 +1255,10 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Sasha is asked for an itemised receipt for a bill of $\pounds 7.73$. 
+Sasha is asked for an itemised receipt for a bill of $\pounds \ 7.73$. 
 He knew that three items, bought tor=gether, have that total price.
 
-Which three prices total $\pounds 7.73$?
+Which three prices total $\pounds \ 7.73$?
 
 </div>
 <div class='workings'>

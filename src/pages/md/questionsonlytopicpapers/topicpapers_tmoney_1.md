@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tmoney-1"
 title: "TopicPaper - Money - 1"
-date: 2022-08-18 11:06:01
+date: 2022-08-19 16:00:22
 questions_count: "40"
 ---
 <div class='paper'>
@@ -3097,7 +3097,7 @@ How much **extra** will Ola collect, in total, if he completes the extra $2 \ \t
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>52153412-2F82-4D52-970C-B08AEBF2A3CC</p>
 </div>
@@ -3111,7 +3111,7 @@ How much **extra** will Ola collect, in total, if he completes the extra $2 \ \t
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3124,14 +3124,25 @@ tmoney
 
 Sasha is selling greetings cards and gifts for Mothers' Day.
 
-![missing table](/papers/missing_table.svg)
+|   Medium card & envelope  | $\pounds \ 1.79$ |
+|:-------------------------:|:----------------:|
+|   Large card & envelope   | $\pounds \ 2.59$ |
+| Small chocolate selection | $\pounds \ 1.49$ |
+|    Dried flower (bunch)   | $\pounds \ 3.65$ |
+|     Candles in holder     | $\pounds \ 5.49$ |
 
 
 </div>
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>Sasha is selling greetings cards and gifts for Mothers' Day.
 <emptyline>
-%table%
+|   Medium card & envelope  | $\pounds \ 1.79$ |
+|:-------------------------:|:----------------:|
+|   Large card & envelope   | $\pounds \ 2.59$ |
+| Small chocolate selection | $\pounds \ 1.49$ |
+|    Dried flower (bunch)   | $\pounds \ 3.65$ |
+|     Candles in holder     | $\pounds \ 5.49$ |
+<emptyline>
 </code></pre>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -3153,11 +3164,11 @@ What is the total cost of a large card & envelope, candles and a small chocolate
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-How much change would be needed, from a $\pounds 10$ note, if Sasha sells a medium card & envelope with a bunch of dried flowers?
+How much change would be needed, from a $\pounds \ 10$ note, if Sasha sells a medium card & envelope with a bunch of dried flowers?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>How much change would be needed, from a $\pounds 10$ note, if Sasha sells a medium card & envelope with a bunch of dried flowers?
+<pre class='language-latex'><code class='language-latex'>How much change would be needed, from a $\pounds \ 10$ note, if Sasha sells a medium card & envelope with a bunch of dried flowers?
 </code></pre>
 </div>
 
@@ -3167,17 +3178,17 @@ How much change would be needed, from a $\pounds 10$ note, if Sasha sells a medi
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Sasha is asked for an itemised receipt for a bill of $\pounds 7.73$. 
+Sasha is asked for an itemised receipt for a bill of $\pounds \ 7.73$. 
 He knew that three items, bought tor=gether, have that total price.
 
-Which three prices total $\pounds 7.73$?
+Which three prices total $\pounds \ 7.73$?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Sasha is asked for an itemised receipt for a bill of $\pounds 7.73$. 
+<pre class='language-latex'><code class='language-latex'>Sasha is asked for an itemised receipt for a bill of $\pounds \ 7.73$. 
 He knew that three items, bought tor=gether, have that total price.
 <emptyline>
-Which three prices total $\pounds 7.73$?
+Which three prices total $\pounds \ 7.73$?
 </code></pre>
 </div>
 

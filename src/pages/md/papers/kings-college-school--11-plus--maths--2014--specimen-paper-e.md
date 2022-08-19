@@ -1,7 +1,7 @@
 ---
 slug: "papers/kings-college-school-11-plus-maths-2014-specimen-paper-e"
 title: "Kings College School - 11 Plus - Maths - 2014 - Specimen Paper E"
-date: 2022-08-18 10:44:13
+date: 2022-08-19 15:32:50
 questions_count: "16"
 ---
 <div class='paper'>
@@ -2037,7 +2037,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>076F0F92-E64F-40AF-AD2C-146434B41156</p>
 </div>
@@ -2051,7 +2051,7 @@ $
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2079,24 +2079,24 @@ How much of the film is shot inside The Manor House?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -2382,6 +2382,25 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) Remove min from first line.
+
+
+
+Part c) 
+
+i)Remove % from first line.
+
+
+
+ii) Put space between 35 and % in working as well as ans.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3020,24 +3039,24 @@ On the two shapes above draw the correct signs onto the shapes to show:
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3086,24 +3105,24 @@ its equal sides
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3154,24 +3173,24 @@ its equal angles
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3222,24 +3241,24 @@ its parallel sides
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3321,24 +3340,24 @@ Example: Square $A \ B \ C \ H$
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3387,24 +3406,24 @@ Rectangle $C \ E \ \text{\textunderscore \textunderscore \textunderscore } \ \te
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3455,24 +3474,24 @@ Isosceles triangle $B \ D \ \text{\textunderscore \textunderscore \textunderscor
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3523,24 +3542,24 @@ Parallelogram $G  \ F \ \text{\textunderscore \textunderscore \textunderscore } 
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3591,24 +3610,24 @@ Isosceles Trapezium $A  \ H \ \text{\textunderscore \textunderscore \textundersc
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -3698,24 +3717,24 @@ Write **TWO** other things which are the same about **ALL** the $4$ shapes.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -4510,7 +4529,7 @@ Please aligned(&) according to the format and change pound to p inside the katex
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>5726C3F5-B8F4-4E0B-8C4F-00B818DD5396</p>
 </div>
@@ -4521,7 +4540,7 @@ Please aligned(&) according to the format and change pound to p inside the katex
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_g2</p>
+<p>rag_mr_g3</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4594,7 +4613,7 @@ Using ratio,
 
 $
 \begin{array}{cccccccccccccc}
-  & \text{pancakes} &:& \text{eggs}                                                                  &:& \text{milk} \\\\
+  & \text{people}   &:& \text{eggs}                                                                  &:& \text{milk} \\\\
 = & 6               &:& 3                                                                            &:& 150 \ \text{ml} \\\\
 = & 1               &:& \dfrac {3} {6}                                                               &:& \dfrac {150} {6} \\\\
 = & 1 \times 8      &:& \dfrac {3 \times 8} {6}                                                      &:& \dfrac {150 \times 8} {6} \\\\
@@ -4626,7 +4645,7 @@ Milk $=$ $200 \ \text{ml}$
 <emptyline>
 $
 \begin{array}{cccccccccccccc}
-  & \text{pancakes} &:& \text{eggs}                                                                  &:& \text{milk} \\\\
+  & \text{people}   &:& \text{eggs}                                                                  &:& \text{milk} \\\\
 = & 6               &:& 3                                                                            &:& 150 \ \text{ml} \\\\
 = & 1               &:& \dfrac {3} {6}                                                               &:& \dfrac {150} {6} \\\\
 = & 1 \times 8      &:& \dfrac {3 \times 8} {6}                                                      &:& \dfrac {150 \times 8} {6} \\\\
@@ -4680,7 +4699,7 @@ Using ratio,
 
 $
 \begin{array}{cccccccccccccc}
-  & \text{pancakes} &:& \text{sultanas}                                      &:& \text{butter} \\\\
+  & \text{people}   &:& \text{sultanas}                                      &:& \text{butter} \\\\
 = & 6               &:& 90 \ \text{g}                                        &:& 45 \ \text{g} \\\\
 = & 1               &:& \dfrac {90} {6}                                      &:& \dfrac {45} {6} \\\\
 = & 1 \times 9      &:& \dfrac {90 \times 9} {6}                             &:& \dfrac {45 \times 9} {6} \\\\
@@ -4714,7 +4733,7 @@ Butter $=$ $67.5 \ \text{g}$
 <emptyline>
 $
 \begin{array}{cccccccccccccc}
-  & \text{pancakes} &:& \text{sultanas}                                      &:& \text{butter} \\\\
+  & \text{people}   &:& \text{sultanas}                                      &:& \text{butter} \\\\
 = & 6               &:& 90 \ \text{g}                                        &:& 45 \ \text{g} \\\\
 = & 1               &:& \dfrac {90} {6}                                      &:& \dfrac {45} {6} \\\\
 = & 1 \times 9      &:& \dfrac {90 \times 9} {6}                             &:& \dfrac {45 \times 9} {6} \\\\
@@ -4889,7 +4908,7 @@ Using equivalent ratio,
 
 $
 \begin{aligned}
-3 \ \text{eggs} : 240 \ \text{g}                &= 5 \ \text{eggs} : a \ \text{g} \\\\
+3 \ \text{eggs} : 240 \ \text{grams}                &= 5 \ \text{eggs} : a \ \text{grams} \\\\
 \dfrac {3} {240}                                &= \dfrac {5} {a} \\\\
 3 \times a                                      &= 5 \times 240 \\\\
 a                                               &= \dfrac {5 \times 240} {3} \\\\
@@ -4940,7 +4959,7 @@ Using equivalent ratio,
 <emptyline>
 $
 \begin{aligned}
-3 \ \text{eggs} : 240 \ \text{g}                &= 5 \ \text{eggs} : a \ \text{g} \\\\
+3 \ \text{eggs} : 240 \ \text{grams}                &= 5 \ \text{eggs} : a \ \text{grams} \\\\
 \dfrac {3} {240}                                &= \dfrac {5} {a} \\\\
 3 \times a                                      &= 5 \times 240 \\\\
 a                                               &= \dfrac {5 \times 240} {3} \\\\
@@ -4995,35 +5014,35 @@ Flour used $= 400 \ \text{g}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='5726C3F5-B8F4-4E0B-8C4F-00B818DD5396' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G3' data-uuid='5726C3F5-B8F4-4E0B-8C4F-00B818DD5396' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='5726C3F5-B8F4-4E0B-8C4F-00B818DD5396' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G3' data-uuid='5726C3F5-B8F4-4E0B-8C4F-00B818DD5396' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='5726C3F5-B8F4-4E0B-8C4F-00B818DD5396' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G3' data-uuid='5726C3F5-B8F4-4E0B-8C4F-00B818DD5396' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='5726C3F5-B8F4-4E0B-8C4F-00B818DD5396' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G3' data-uuid='5726C3F5-B8F4-4E0B-8C4F-00B818DD5396' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='5726C3F5-B8F4-4E0B-8C4F-00B818DD5396' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G3' data-uuid='5726C3F5-B8F4-4E0B-8C4F-00B818DD5396' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='5726C3F5-B8F4-4E0B-8C4F-00B818DD5396' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G3' data-uuid='5726C3F5-B8F4-4E0B-8C4F-00B818DD5396' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='5726C3F5-B8F4-4E0B-8C4F-00B818DD5396' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G3' data-uuid='5726C3F5-B8F4-4E0B-8C4F-00B818DD5396' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='5726C3F5-B8F4-4E0B-8C4F-00B818DD5396' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G3' data-uuid='5726C3F5-B8F4-4E0B-8C4F-00B818DD5396' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='5726C3F5-B8F4-4E0B-8C4F-00B818DD5396' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G3' data-uuid='5726C3F5-B8F4-4E0B-8C4F-00B818DD5396' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='5726C3F5-B8F4-4E0B-8C4F-00B818DD5396' id='FORM-5726C3F5-B8F4-4E0B-8C4F-00B818DD5396' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G3' data-uuid='5726C3F5-B8F4-4E0B-8C4F-00B818DD5396' id='FORM-5726C3F5-B8F4-4E0B-8C4F-00B818DD5396' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -5075,24 +5094,24 @@ Another example: the King’s Digit of $9$ is $1 + 3 + 9 = 13$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5141,24 +5160,24 @@ Find the Kings Digit of $16$.
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5209,24 +5228,24 @@ If the Kings Digit of a number $= 7$, what is the number?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5278,24 +5297,24 @@ What are they?
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
@@ -5346,24 +5365,24 @@ The King’s digit of three different numbers $= 24$. Two of them are consecutiv
 
 </div>
 <div class='workings'>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
-<div class='working'>
+<div class='working placeholder'>
 
 TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 
 </div>
-<div class='answer'>
+<div class='answer placeholder'>
 
 TODOANSWER
 

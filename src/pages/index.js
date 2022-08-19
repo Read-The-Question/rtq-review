@@ -156,6 +156,9 @@ const IndexPage = ({data}) => {
         (slug.includes("-prns"))
       ) &&
       !(
+        slug.includes("-g2")
+      ) &&
+      !(
         (slug.includes("-prccrl"))
       );
 
@@ -237,15 +240,15 @@ const IndexPage = ({data}) => {
       return slug.startsWith("ragpapers") && 
       (
         slug.includes("-prcc") || 
-        (slug.includes("-prns"))
-      ) &&
-      !(
-        slug.includes("-g1")
+        (
+          slug.includes("-prns") &&
+      
+          !(slug.includes("-g1") || slug.includes("-g2"))
+        )
       ) &&
       !(
         (slug.includes("-prccrl"))
       );
-
     });
   }
 

@@ -233,6 +233,25 @@ const IndexPage = ({data}) => {
     });
   }
 
+  // const prccNodes = (data) => {
+  //   return data.allMarkdownRemark.edges.filter(({ node }) => {
+  //     const slug = node.frontmatter.slug;
+  //     // console.log(slug);
+  //     return slug.startsWith("ragpapers") && 
+  //     (
+  //       slug.includes("-prcc") || 
+  //       (
+  //         slug.includes("-prns") &&
+      
+  //         !(slug.includes("-g1") || slug.includes("-g2"))
+  //       )
+  //     ) &&
+  //     !(
+  //       (slug.includes("-prccrl"))
+  //     );
+  //   });
+  // }
+
   const prccNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
@@ -240,15 +259,15 @@ const IndexPage = ({data}) => {
       return slug.startsWith("ragpapers") && 
       (
         slug.includes("-prcc") || 
-        (
-          slug.includes("-prns") &&
-      
-          !(slug.includes("-g1") || slug.includes("-g2"))
-        )
+        (slug.includes("-prns"))
+      ) &&
+      !(
+        slug.includes("-g1") || slug.includes("-g2")
       ) &&
       !(
         (slug.includes("-prccrl"))
       );
+
     });
   }
 
@@ -276,7 +295,7 @@ const IndexPage = ({data}) => {
         (slug.includes("-prns"))
       ) &&
       (
-        slug.includes("-g1")
+        slug.includes("-g1") || slug.includes("-g2")
       ) &&
       !(
         (slug.includes("-prccrl"))
@@ -484,7 +503,7 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h2 style={headingStyles}>
-      Answers - TopicPapers - RAG - PRCC - G1
+      Answers - TopicPapers - RAG - PRCC - G1 / G2
       </h2>
 
       {/* Filter Ragpapers and PRCC */}
@@ -509,7 +528,7 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h2 style={headingStyles}>
-      Answers - TopicPapers - RAG - PRCCRL - G1
+      Answers - TopicPapers - RAG - PRCCRL - G1 / G2
       </h2>
 
       {/* Filter Ragpapers and PRCC */}

@@ -140,7 +140,7 @@ const IndexPage = ({data}) => {
   //       (slug.includes("-prns"))
   //     ) &&
   //     !(
-  //       (slug.includess("-prccrl"))
+  //       (slug.includess("-prrl"))
   //     );
 
   //   });
@@ -159,7 +159,7 @@ const IndexPage = ({data}) => {
         slug.includes("-g2")
       ) &&
       !(
-        (slug.includes("-prccrl"))
+        (slug.includes("-prrl"))
       );
 
     });
@@ -169,13 +169,13 @@ const IndexPage = ({data}) => {
     });
   }
 
-  const questionOnlyPrccrlNodes = (data) => {
+  const questionOnlyPrrlNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return slug.startsWith("questionsonlyragpapers") && 
       (
-        slug.includes("-prccrl")
+        slug.includes("-prrl")
       );
     });
   }
@@ -247,7 +247,7 @@ const IndexPage = ({data}) => {
   //       )
   //     ) &&
   //     !(
-  //       (slug.includes("-prccrl"))
+  //       (slug.includes("-prrl"))
   //     );
   //   });
   // }
@@ -265,19 +265,19 @@ const IndexPage = ({data}) => {
         slug.includes("-g1") || slug.includes("-g2")
       ) &&
       !(
-        (slug.includes("-prccrl"))
+        (slug.includes("-prrl"))
       );
 
     });
   }
 
-  const prccrlNodes = (data) => {
+  const prrlNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return slug.startsWith("ragpapers") && 
       (
-        slug.includes("-prccrl")
+        slug.includes("-prrl")
       ) &&
       !(
         slug.includes("-g1")
@@ -298,19 +298,19 @@ const IndexPage = ({data}) => {
         slug.includes("-g1") || slug.includes("-g2")
       ) &&
       !(
-        (slug.includes("-prccrl"))
+        (slug.includes("-prrl"))
       );
 
     });
   }
 
-  const prccrlPhaseTwoNodes = (data) => {
+  const prrlPhaseTwoNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return slug.startsWith("ragpapers") && 
       (
-        slug.includes("-prccrl")
+        slug.includes("-prrl")
       ) &&
       (
         slug.includes("-g1")
@@ -478,12 +478,12 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h2 style={headingStyles}>
-      Answers - TopicPapers - RAG - PRCCRL
+      Answers - TopicPapers - RAG - PRRL
       </h2>
 
       {/* Filter Ragpapers and PRCC */}
       <ul style={listStyles}>
-        {prccrlNodes(data).map(({ node }) => (
+        {prrlNodes(data).map(({ node }) => (
           <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
             <span>
               <Link
@@ -528,12 +528,12 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h2 style={headingStyles}>
-      Answers - TopicPapers - RAG - PRCCRL - G1 / G2
+      Answers - TopicPapers - RAG - PRRL - G1 / G2
       </h2>
 
       {/* Filter Ragpapers and PRCC */}
       <ul style={listStyles}>
-        {prccrlPhaseTwoNodes(data).map(({ node }) => (
+        {prrlPhaseTwoNodes(data).map(({ node }) => (
           <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
             <span>
               <Link
@@ -732,12 +732,12 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h2 style={headingStyles}>
-      Questions - TopicPapers - RAG - PRCCRL
+      Questions - TopicPapers - RAG - PRRL
       </h2>
 
       {/* Filter Ragpapers and PRCC */}
       <ul style={listStyles}>
-        {questionOnlyPrccrlNodes(data).map(({ node }) => (
+        {questionOnlyPrrlNodes(data).map(({ node }) => (
           <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
             <span>
               <Link

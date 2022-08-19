@@ -172,7 +172,7 @@ img {
     background-color: paleturquoise;
 }
 
-.question_envelope.question.rag_prccrl {
+.question_envelope.question.rag_prrl {
     /* background-color: rgba(0, 255, 0, 0.2); */
     /* background-color: lightgreen; */
     background-color: paleturquoise;
@@ -391,7 +391,7 @@ button.rag_prcc {
     background-color: paleturquoise;
 }
 
-button.rag_prccrl {
+button.rag_prrl {
     padding: 20px 20px;
     background-color: orange;
 }

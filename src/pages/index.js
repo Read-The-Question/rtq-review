@@ -10,7 +10,7 @@ const pageStyles = {
 const headingStyles = {
   marginTop: 0,
   marginBottom: 64,
-  maxWidth: 320,
+  // maxWidth: 320,
 }
 // const headingAccentStyles = {
 //   color: "#663399",
@@ -81,71 +81,8 @@ const linkStyle = {
 //   lineHeight: 1,
 // }
 
-// data
-// const links = [
-//   {
-//     text: "Tutorial",
-//     url: "https://www.gatsbyjs.com/docs/tutorial/",
-//     description:
-//       "A great place to get started if you're new to web development. Designed to guide you through setting up your first Gatsby site.",
-//     color: "#E95800",
-//   },
-//   {
-//     text: "How to Guides",
-//     url: "https://www.gatsbyjs.com/docs/how-to/",
-//     description:
-//       "Practical step-by-step guides to help you achieve a specific goal. Most useful when you're trying to get something done.",
-//     color: "#1099A8",
-//   },
-//   {
-//     text: "Reference Guides",
-//     url: "https://www.gatsbyjs.com/docs/reference/",
-//     description:
-//       "Nitty-gritty technical descriptions of how Gatsby works. Most useful when you need detailed information about Gatsby's APIs.",
-//     color: "#BC027F",
-//   },
-//   {
-//     text: "Conceptual Guides",
-//     url: "https://www.gatsbyjs.com/docs/conceptual/",
-//     description:
-//       "Big-picture explanations of higher-level Gatsby concepts. Most useful for building understanding of a particular topic.",
-//     color: "#0D96F2",
-//   },
-//   {
-//     text: "Plugin Library",
-//     url: "https://www.gatsbyjs.com/plugins",
-//     description:
-//       "Add functionality and customize your Gatsby site or app with thousands of plugins built by our amazing developer community.",
-//     color: "#8EB814",
-//   },
-//   {
-//     text: "Build and Host",
-//     url: "https://www.gatsbyjs.com/cloud",
-//     badge: true,
-//     description:
-//       "Now you’re ready to show the world! Give your Gatsby site superpowers: Build and host on Gatsby Cloud. Get started for free!",
-//     color: "#663399",
-//   },
-// ]
-
 // markup
 const IndexPage = ({data}) => {
-  // const originalQuetionOnlyPrccNodes = (data) => {
-  //   return data.allMarkdownRemark.edges.filter(({ node }) => {
-  //     const slug = node.frontmatter.slug;
-  //     console.log(slug);
-  //     return slug.startsWith("questionsonlyragpapers") && 
-  //     (
-  //       slug.includes("-prcc") || 
-  //       (slug.includes("-prns"))
-  //     ) &&
-  //     !(
-  //       (slug.includess("-prrl"))
-  //     );
-
-  //   });
-  // }
-
   const questionOnlyPrccNodes = (data) => {
     const filteredData = data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
@@ -233,26 +170,7 @@ const IndexPage = ({data}) => {
     });
   }
 
-  // const prccNodes = (data) => {
-  //   return data.allMarkdownRemark.edges.filter(({ node }) => {
-  //     const slug = node.frontmatter.slug;
-  //     // console.log(slug);
-  //     return slug.startsWith("ragpapers") && 
-  //     (
-  //       slug.includes("-prcc") || 
-  //       (
-  //         slug.includes("-prns") &&
-      
-  //         !(slug.includes("-g1") || slug.includes("-g2"))
-  //       )
-  //     ) &&
-  //     !(
-  //       (slug.includes("-prrl"))
-  //     );
-  //   });
-  // }
-
-  const prccNodes = (data) => {
+  const phaseOnePrccNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
@@ -271,7 +189,7 @@ const IndexPage = ({data}) => {
     });
   }
 
-  const prrlNodes = (data) => {
+  const phaseOnePrrlNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
@@ -280,12 +198,12 @@ const IndexPage = ({data}) => {
         slug.includes("-prrl")
       ) &&
       !(
-        slug.includes("-g1")
+        slug.includes("-g1") || slug.includes("-g2")
       );
     });
   }
 
-  const prccPhaseTwoNodes = (data) => {
+  const phaseTwoPrccNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
@@ -304,7 +222,7 @@ const IndexPage = ({data}) => {
     });
   }
 
-  const prrlPhaseTwoNodes = (data) => {
+  const phaseTwoPrrlNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
@@ -313,27 +231,61 @@ const IndexPage = ({data}) => {
         slug.includes("-prrl")
       ) &&
       (
-        slug.includes("-g1")
+        slug.includes("-g1") || slug.includes("-g2")
       )
     });
   }
 
-  const prpcrNodes = (data) => {
+  const phaseOnePrpcrNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return slug.startsWith("ragpapers") && 
+      !(
+        slug.includes("-g1") || slug.includes("-g2")
+      ) &&
       (
         slug.includes("-prpcr")
       );
     });
   }
 
-  const prcrNodes = (data) => {
+  const phaseOnePrcrNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return slug.startsWith("ragpapers") && 
+      !(
+        slug.includes("-g1") || slug.includes("-g2")
+      ) &&
+      (
+        slug.includes("-prcr")
+      );
+    });
+  }
+
+  const phaseTwoPrpcrNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      // console.log(slug);
+      return slug.startsWith("ragpapers") && 
+      (
+        slug.includes("-g1") || slug.includes("-g2")
+      ) &&
+      (
+        slug.includes("-prpcr")
+      );
+    });
+  }
+
+  const phaseTwoPrcrNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      // console.log(slug);
+      return slug.startsWith("ragpapers") && 
+      (
+        slug.includes("-g1") || slug.includes("-g2")
+      ) &&
       (
         slug.includes("-prcr")
       );
@@ -365,6 +317,7 @@ const IndexPage = ({data}) => {
         (slug.includes("-notstarted")) || 
         (slug.includes("-prcc")) || 
         (slug.includes("-prcr")) || 
+        (slug.includes("-prrl")) || 
         (slug.includes("-prpcr")) ||
         (slug.includes("-prns"))
         );
@@ -379,12 +332,15 @@ const IndexPage = ({data}) => {
       </h1>
 
       <h2 style={headingStyles}>
-        Answers - TopicPapers - RAG - PRPCR
+        Answers - Review - Phase 1 (PR / OPR / G0)
       </h2>
 
-      {/* Filter Ragpapers and PRCC */}
+      <h3 style={headingStyles}>
+        Answers - Phase 1 - TopicPapers - RAG - PRPCR
+      </h3>
+
       <ul style={listStyles}>
-        {prpcrNodes(data).map(({ node }) => (
+        {phaseOnePrpcrNodes(data).map(({ node }) => (
           <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
             <span>
               <Link
@@ -404,12 +360,12 @@ const IndexPage = ({data}) => {
         ))}
       </ul>
 
-      <h2 style={headingStyles}>
-      Answers - TopicPapers - RAG - PRCR
-      </h2>
+      <h3 style={headingStyles}>
+      Answers - Phase 1 - TopicPapers - RAG - PRCR
+      </h3>
 
       <ul style={listStyles}>
-        {prcrNodes(data).map(({ node }) => (
+        {phaseOnePrcrNodes(data).map(({ node }) => (
           <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
             <span>
               <Link
@@ -428,9 +384,9 @@ const IndexPage = ({data}) => {
         ))}
       </ul>
 
-      <h2 style={headingStyles}>
-      Answers - TopicPapers - RAG - Not Started
-      </h2>
+      <h3 style={headingStyles}>
+      Answers - Phase 1 - TopicPapers - RAG - Not Started
+      </h3>
 
       <ul style={listStyles}>
         {notstartedNodes(data).map(({ node }) => (
@@ -452,13 +408,37 @@ const IndexPage = ({data}) => {
         ))}
       </ul>
 
-      <h2 style={headingStyles}>
-      Answers - TopicPapers - RAG - PRCC
-      </h2>
+      <h3 style={headingStyles}>
+      Answers - Phase 1 - TopicPapers - RAG - PRCC / PRNS
+      </h3>
 
       {/* Filter Ragpapers and PRCC */}
       <ul style={listStyles}>
-        {prccNodes(data).map(({ node }) => (
+        {phaseOnePrccNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "} 
+              </Link>
+
+            </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
+          </li>
+        ))}
+      </ul>
+
+      <h3 style={headingStyles}>
+      Answers - Phase 1 - TopicPapers - RAG - PRRL
+      </h3>
+
+      <ul style={listStyles}>
+        {phaseOnePrrlNodes(data).map(({ node }) => (
           <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
             <span>
               <Link
@@ -478,12 +458,90 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h2 style={headingStyles}>
-      Answers - TopicPapers - RAG - PRRL
+        Answers - Review - Phase 2 (G1 / G2)
       </h2>
+
+      <h3 style={headingStyles}>
+        Answers - Phase 1 - TopicPapers - RAG - PRPCR
+      </h3>
+
+      <ul style={listStyles}>
+        {phaseTwoPrpcrNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "}
+              </Link>
+
+            </span>
+
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
+          </li>
+        ))}
+      </ul>
+
+      <h3 style={headingStyles}>
+      Answers - Phase 2 - TopicPapers - RAG - PRCR
+      </h3>
+
+      <ul style={listStyles}>
+        {phaseTwoPrcrNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "}
+              </Link>
+
+            </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
+          </li>
+        ))}
+      </ul>
+
+      <h3 style={headingStyles}>
+      Answers - Phase 2 - TopicPapers - RAG - PRCC / PRNS
+      </h3>
 
       {/* Filter Ragpapers and PRCC */}
       <ul style={listStyles}>
-        {prrlNodes(data).map(({ node }) => (
+        {phaseTwoPrccNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "} 
+              </Link>
+
+            </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
+          </li>
+        ))}
+      </ul>
+
+      <h3 style={headingStyles}>
+      Answers - Phase 2 - TopicPapers - RAG - PRRL
+      </h3>
+
+      {/* Filter Ragpapers and PRCC */}
+      <ul style={listStyles}>
+        {phaseTwoPrrlNodes(data).map(({ node }) => (
           <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
             <span>
               <Link
@@ -503,59 +561,12 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h2 style={headingStyles}>
-      Answers - TopicPapers - RAG - PRCC - G1 / G2
+        Answers - Review - RAG Papers
       </h2>
 
-      {/* Filter Ragpapers and PRCC */}
-      <ul style={listStyles}>
-        {prccPhaseTwoNodes(data).map(({ node }) => (
-          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
-            <span>
-              <Link
-                style={linkStyle}
-                to={node.frontmatter.slug}
-              >
-                {node.frontmatter.title} {" "} 
-              </Link>
-
-            </span>
-            <span>
-             ({node.frontmatter.questions_count})
-            </span>
-
-          </li>
-        ))}
-      </ul>
-
-      <h2 style={headingStyles}>
-      Answers - TopicPapers - RAG - PRRL - G1 / G2
-      </h2>
-
-      {/* Filter Ragpapers and PRCC */}
-      <ul style={listStyles}>
-        {prrlPhaseTwoNodes(data).map(({ node }) => (
-          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
-            <span>
-              <Link
-                style={linkStyle}
-                to={node.frontmatter.slug}
-              >
-                {node.frontmatter.title} {" "} 
-              </Link>
-
-            </span>
-            <span>
-             ({node.frontmatter.questions_count})
-            </span>
-
-          </li>
-        ))}
-      </ul>
-
-
-      <h2 style={headingStyles}>
+      <h3 style={headingStyles}>
       Answers - TopicPapers - RAG
-      </h2>
+      </h3>
 
       {/* Filter Rest */}
       <ul style={listStyles}>
@@ -578,9 +589,9 @@ const IndexPage = ({data}) => {
         ))}
       </ul>
 
-      <h2 style={headingStyles}>
+      <h3 style={headingStyles}>
       Answers - TopicPapers - Blocked
-      </h2>
+      </h3>
 
       {/* Filter Ragpapers and Blocked */}
       <ul style={listStyles}>
@@ -632,11 +643,10 @@ const IndexPage = ({data}) => {
       </ul>
 
 
-      <h2 style={headingStyles}>
+      <h3 style={headingStyles}>
         Questions - TopicPapers - RAG - PRPCR
-      </h2>
+      </h3>
 
-      {/* Filter Ragpapers and PRCC */}
       <ul style={listStyles}>
         {questionOnlyPrpcrNodes(data).map(({ node }) => (
           <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
@@ -658,9 +668,9 @@ const IndexPage = ({data}) => {
         ))}
       </ul>
 
-      <h2 style={headingStyles}>
+      <h3 style={headingStyles}>
       Questions - TopicPapers - RAG - PRCR
-      </h2>
+      </h3>
 
       <ul style={listStyles}>
         {questionOnlyPrcrNodes(data).map(({ node }) => (
@@ -682,9 +692,9 @@ const IndexPage = ({data}) => {
         ))}
       </ul>
 
-      <h2 style={headingStyles}>
+      <h3 style={headingStyles}>
       Questions - TopicPapers - RAG - Not Started
-      </h2>
+      </h3>
 
       <ul style={listStyles}>
         {questionOnlyNotstartedNodes(data).map(({ node }) => (
@@ -706,11 +716,10 @@ const IndexPage = ({data}) => {
         ))}
       </ul>
 
-      <h2 style={headingStyles}>
+      <h3 style={headingStyles}>
       Questions - TopicPapers - RAG - PRCC
-      </h2>
+      </h3>
 
-      {/* Filter Ragpapers and PRCC */}
       <ul style={listStyles}>
         {questionOnlyPrccNodes(data).map(({ node }) => (
           <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
@@ -731,11 +740,10 @@ const IndexPage = ({data}) => {
         ))}
       </ul>
 
-      <h2 style={headingStyles}>
+      <h3 style={headingStyles}>
       Questions - TopicPapers - RAG - PRRL
-      </h2>
+      </h3>
 
-      {/* Filter Ragpapers and PRCC */}
       <ul style={listStyles}>
         {questionOnlyPrrlNodes(data).map(({ node }) => (
           <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
@@ -756,9 +764,9 @@ const IndexPage = ({data}) => {
         ))}
       </ul>
 
-      <h2 style={headingStyles}>
+      <h3 style={headingStyles}>
       Questions - TopicPapers - RAG
-      </h2>
+      </h3>
 
       {/* Filter Rest */}
       <ul style={listStyles}>
@@ -781,9 +789,9 @@ const IndexPage = ({data}) => {
         ))}
       </ul>
 
-      <h2 style={headingStyles}>
+      <h3 style={headingStyles}>
       Questions - TopicPapers - Blocked
-      </h2>
+      </h3>
 
       {/* Filter Ragpapers and Blocked */}
       <ul style={listStyles}>
@@ -810,9 +818,9 @@ const IndexPage = ({data}) => {
 
 
 
-      <h2 style={headingStyles}>
+      <h3 style={headingStyles}>
       Questions - TopicPapers
-      </h2>
+      </h3>
 
       <ul style={listStyles}>
         {data.allMarkdownRemark.edges.filter(({ node }) => (node.frontmatter.slug.startsWith("questionsonlytopicpapers"))).map(({ node }) => (
@@ -836,9 +844,9 @@ const IndexPage = ({data}) => {
 
 
 
-      <h2 style={headingStyles}>
+      <h3 style={headingStyles}>
       Answers - Owners
-      </h2>
+      </h3>
 
       <ul style={listStyles}>
         {data.allMarkdownRemark.edges.filter(({ node }) => (node.frontmatter.slug.startsWith("owners"))).map(({ node }) => (
@@ -860,9 +868,9 @@ const IndexPage = ({data}) => {
         ))}
       </ul>
 
-      <h2 style={headingStyles}>
+      <h3 style={headingStyles}>
       Answers - Reviewers
-      </h2>
+      </h3>
 
       <ul style={listStyles}>
         {data.allMarkdownRemark.edges.filter(({ node }) => (node.frontmatter.slug.startsWith("reviewers"))).map(({ node }) => (
@@ -884,9 +892,9 @@ const IndexPage = ({data}) => {
         ))}
       </ul>
 
-      <h2 style={headingStyles}>
+      <h3 style={headingStyles}>
       Answers -  Topics
-      </h2>
+      </h3>
 
       <ul style={listStyles}>
         {data.allMarkdownRemark.edges.filter(({ node }) => (node.frontmatter.slug.startsWith("topics"))).map(({ node }) => (
@@ -908,9 +916,9 @@ const IndexPage = ({data}) => {
         ))}
       </ul>
 
-      <h2 style={headingStyles}>
+      <h3 style={headingStyles}>
       Answers - Papers
-      </h2>
+      </h3>
 
       <ul style={listStyles}>
         {data.allMarkdownRemark.edges.filter(({ node }) => (node.frontmatter.slug.startsWith("papers"))).map(({ node }) => (

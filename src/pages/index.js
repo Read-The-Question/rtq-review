@@ -3,15 +3,30 @@ import { Link, graphql } from 'gatsby'
 
 // styles
 const pageStyles = {
-  color: "#232129",
+  // color: "#232129",
   padding: 96,
   fontFamily: "-apple-system, Roboto, sans-serif, serif",
 }
 const headingStyles = {
   marginTop: 0,
   marginBottom: 64,
-  // maxWidth: 320,
+  color: "#232129",
+  // backgroundColor: "#FFF4DB",
+  // color: "#8A6534",
+  maxWidth: 500,
+  padding: 10
 }
+
+const h2HeadingStyles = {
+  marginTop: 0,
+  marginBottom: 64,
+  color: "#232129",
+  backgroundColor: "#FFF4DB",
+  // color: "#8A6534",
+  maxWidth: 500,
+  padding: 10
+}
+
 // const headingAccentStyles = {
 //   color: "#663399",
 // }
@@ -31,6 +46,7 @@ const listStyles = {
   listStyle: "decimal"
 
 }
+
 const listItemStyles = {
   fontWeight: 300,
   fontSize: 24,
@@ -331,7 +347,7 @@ const IndexPage = ({data}) => {
         Read The Question
       </h1>
 
-      <h2 style={headingStyles}>
+      <h2 style={h2HeadingStyles}>
         Answers - Review - Phase 1 (PR / OPR / G0)
       </h2>
 
@@ -457,7 +473,7 @@ const IndexPage = ({data}) => {
         ))}
       </ul>
 
-      <h2 style={headingStyles}>
+      <h2 style={h2HeadingStyles}>
         Answers - Review - Phase 2 (G1 / G2)
       </h2>
 
@@ -560,7 +576,7 @@ const IndexPage = ({data}) => {
         ))}
       </ul>
 
-      <h2 style={headingStyles}>
+      <h2 style={h2HeadingStyles}>
         Answers - Review - RAG Papers
       </h2>
 
@@ -618,7 +634,7 @@ const IndexPage = ({data}) => {
 
 
 
-      <h2 style={headingStyles}>
+      <h2 style={h2HeadingStyles}>
       Answers - TopicPapers
       </h2>
 

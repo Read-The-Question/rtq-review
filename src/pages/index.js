@@ -829,6 +829,10 @@ const IndexPage = ({data}) => {
         ))}
       </ul>
 
+      <h2 style={h2HeadingStyles}>
+        Questions - Review - Phase 0 (PR / OPR / G0 -> G1 / G2)
+      </h2>
+
 
       <h3 style={headingStyles}>
         Questions - TopicPapers - RAG - PRPCR
@@ -1030,8 +1034,12 @@ const IndexPage = ({data}) => {
       </ul>
 
 
+      <h2 style={h2HeadingStyles}>
+        Answers - Original Papers
+      </h2>
 
-      <h3 style={headingStyles}>
+
+      {/* <h3 style={headingStyles}>
       Answers - Owners
       </h3>
 
@@ -1053,9 +1061,9 @@ const IndexPage = ({data}) => {
 
           </li>
         ))}
-      </ul>
+      </ul> */}
 
-      <h3 style={headingStyles}>
+      {/* <h3 style={headingStyles}>
       Answers - Reviewers
       </h3>
 
@@ -1077,9 +1085,9 @@ const IndexPage = ({data}) => {
 
           </li>
         ))}
-      </ul>
+      </ul> */}
 
-      <h3 style={headingStyles}>
+      {/* <h3 style={headingStyles}>
       Answers -  Topics
       </h3>
 
@@ -1101,7 +1109,7 @@ const IndexPage = ({data}) => {
 
           </li>
         ))}
-      </ul>
+      </ul> */}
 
       <h3 style={headingStyles}>
       Answers - Papers

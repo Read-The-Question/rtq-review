@@ -89,6 +89,34 @@ const submitComment = (event) => {
 
 }
 
+const resetComment = (event) => {
+    event.preventDefault();
+    // console.log(`Submit review for: UUID: ${uuid}, sheet: ${sheet}, Review RAG: ${rag}`)
+    // alert(`Submit review for: UUID: ${uuid}, sheet: ${sheet}, Review RAG: ${rag}`);
+    // alert("Submit comment");
+    // console.log(event);
+
+    const btn = event.currentTarget;
+
+    const uuid = btn.dataset.uuid;
+    const sheet = btn.dataset.sheet;
+    const reviewType = btn.dataset.reviewType;
+
+    const body = {uuid, sheet};
+    console.log(body);
+
+    // const url = 'http://localhost:5000/comments';
+    const answer_url = 'https://read-the-question-20220609.herokuapp.com/resetanswercomments';
+    const question_url = 'https://read-the-question-20220609.herokuapp.com/resetquestioncomments';
+
+    if (reviewType == "REVIEW_QUESTION") {
+        submitAsyncRequest(uuid, body, question_url, 'REVIEW');
+    } else {
+        submitAsyncRequest(uuid, body, answer_url, 'REVIEW');
+    }
+
+}
+
 async function submitAsyncRequest(uuid, body, url, reviewPrefix) {
     const review_status = document.getElementById(`${reviewPrefix}-STATUS-${uuid}`);
 

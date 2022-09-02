@@ -73,8 +73,9 @@ const submitComment = (event) => {
     const uuid = form.dataset.uuid;
     const sheet = form.dataset.sheet;
     const reviewType = form.dataset.reviewType;
+    const reviewer = btn.dataset.reviewer;
 
-    const body = {uuid, sheet, comment};
+    const body = {uuid, sheet, comment, reviewer};
     console.log(body);
 
     const url = 'http://localhost:5000/comments';

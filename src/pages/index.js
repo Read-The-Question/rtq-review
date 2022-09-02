@@ -108,6 +108,7 @@ const IndexPage = ({data}) => {
       return slug.startsWith("questionsonlyragpapers") && 
       (
         slug.includes("-prcc") || 
+        slug.includes("-prpcc") || 
         (slug.includes("-prns"))
       ) &&
       !(
@@ -181,6 +182,7 @@ const IndexPage = ({data}) => {
         (slug.includes("-blocked")) || 
         (slug.includes("-notstarted")) || 
         (slug.includes("-prcc")) || 
+        (slug.includes("-prpcc")) || 
         (slug.includes("-prcr")) || 
         (slug.includes("-prpcr")) ||
         (slug.includes("-prns"))
@@ -197,6 +199,7 @@ const IndexPage = ({data}) => {
       return slug.startsWith("ragpapers") && 
       (
         slug.includes("-prcc") || 
+        slug.includes("-prpcc") || 
         (slug.includes("-prns"))
       ) &&
       !(
@@ -216,6 +219,7 @@ const IndexPage = ({data}) => {
       return slug.startsWith("ragpapers") && 
       (
         slug.includes("-prcc") || 
+        slug.includes("-prpcc") || 
         (slug.includes("-prns"))
       ) &&
       (
@@ -235,6 +239,7 @@ const IndexPage = ({data}) => {
       return slug.startsWith("ragpapers") && 
       (
         slug.includes("-prcc") || 
+        slug.includes("-prpcc") || 
         (slug.includes("-prns"))
       ) &&
       (
@@ -400,6 +405,7 @@ const IndexPage = ({data}) => {
         (slug.includes("-blocked")) || 
         (slug.includes("-notstarted")) || 
         (slug.includes("-prcc")) || 
+        (slug.includes("-prpcc")) || 
         (slug.includes("-prcr")) || 
         (slug.includes("-prrl")) || 
         (slug.includes("-prpcr")) ||
@@ -493,7 +499,7 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h3 style={headingStyles}>
-      Answers - Phase 0 - TopicPapers - RAG - PRCC / PRNS
+      Answers - Phase 0 - TopicPapers - RAG - PRPCC / PRCC / PRNS
       </h3>
 
       {/* Filter Ragpapers and PRCC */}
@@ -595,7 +601,7 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h3 style={headingStyles}>
-      Answers - Phase 1 - TopicPapers - RAG - PRCC / PRNS
+      Answers - Phase 1 - TopicPapers - RAG - PRPCC / PRCC / PRNS
       </h3>
 
       {/* Filter Ragpapers and PRCC */}
@@ -698,7 +704,7 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h3 style={headingStyles}>
-      Answers - Phase 2 - TopicPapers - RAG - PRCC / PRNS
+      Answers - Phase 2 - TopicPapers - RAG - PRPCC / PRCC / PRNS
       </h3>
 
       {/* Filter Ragpapers and PRCC */}
@@ -835,7 +841,7 @@ const IndexPage = ({data}) => {
 
 
       <h3 style={headingStyles}>
-        Questions - TopicPapers - RAG - PRPCR
+        Questions - Phase 0 - TopicPapers - RAG - PRPCR
       </h3>
 
       <ul style={listStyles}>
@@ -860,7 +866,7 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h3 style={headingStyles}>
-      Questions - TopicPapers - RAG - PRCR
+      Questions - Phase 0 - TopicPapers - RAG - PRCR
       </h3>
 
       <ul style={listStyles}>
@@ -884,7 +890,7 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h3 style={headingStyles}>
-      Questions - TopicPapers - RAG - Not Started
+      Questions - Phase 0 - TopicPapers - RAG - Not Started
       </h3>
 
       <ul style={listStyles}>
@@ -908,7 +914,7 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h3 style={headingStyles}>
-      Questions - TopicPapers - RAG - PRCC
+      Questions - Phase 0 - TopicPapers - RAG - PRPCC / PRCC / PRNS
       </h3>
 
       <ul style={listStyles}>
@@ -932,7 +938,7 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h3 style={headingStyles}>
-      Questions - TopicPapers - RAG - PRRL
+      Questions - Phase 0 - TopicPapers - RAG - PRRL
       </h3>
 
       <ul style={listStyles}>

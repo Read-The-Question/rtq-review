@@ -73,7 +73,7 @@ const submitComment = (event) => {
     const uuid = form.dataset.uuid;
     const sheet = form.dataset.sheet;
     const reviewType = form.dataset.reviewType;
-    const reviewer = btn.dataset.reviewer;
+    const reviewer = form.dataset.reviewer;
 
     const body = {uuid, sheet, comment, reviewer};
     console.log(body);

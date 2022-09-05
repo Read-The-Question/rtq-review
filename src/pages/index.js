@@ -190,6 +190,42 @@ const IndexPage = ({data}) => {
     });
   }
 
+  const questionOnlyFullTopicPaperNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+
+      return slug.startsWith("questionsonlytopicpapers") && 
+      !(
+        (slug.includes("-blocked")) || 
+        (slug.includes("-notstarted")) || 
+        (slug.includes("-prcc")) || 
+        (slug.includes("-prpcc")) || 
+        (slug.includes("-prrl")) || 
+        (slug.includes("-prcr")) || 
+        (slug.includes("-prpcr")) ||
+        (slug.includes("-prns"))
+        );
+    });
+  }
+
+  const questionOnlyFullPaperNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+
+      return slug.startsWith("questionsonlypapers") && 
+      !(
+        (slug.includes("-blocked")) || 
+        (slug.includes("-notstarted")) || 
+        (slug.includes("-prcc")) || 
+        (slug.includes("-prpcc")) || 
+        (slug.includes("-prrl")) || 
+        (slug.includes("-prcr")) || 
+        (slug.includes("-prpcr")) ||
+        (slug.includes("-prns"))
+        );
+    });
+  }
+
     // =========== ANSWERS ==============
 
   const phaseZeroPrccNodes = (data) => {
@@ -408,6 +444,42 @@ const IndexPage = ({data}) => {
         (slug.includes("-prpcc")) || 
         (slug.includes("-prcr")) || 
         (slug.includes("-prrl")) || 
+        (slug.includes("-prpcr")) ||
+        (slug.includes("-prns"))
+        );
+    });
+  }
+
+  const fullTopicPaperNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+
+      return slug.startsWith("topicpapers") && 
+      !(
+        (slug.includes("-blocked")) || 
+        (slug.includes("-notstarted")) || 
+        (slug.includes("-prcc")) || 
+        (slug.includes("-prpcc")) || 
+        (slug.includes("-prrl")) || 
+        (slug.includes("-prcr")) || 
+        (slug.includes("-prpcr")) ||
+        (slug.includes("-prns"))
+        );
+    });
+  }
+
+  const fullPaperNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+
+      return slug.startsWith("papers") && 
+      !(
+        (slug.includes("-blocked")) || 
+        (slug.includes("-notstarted")) || 
+        (slug.includes("-prcc")) || 
+        (slug.includes("-prpcc")) || 
+        (slug.includes("-prrl")) || 
+        (slug.includes("-prcr")) || 
         (slug.includes("-prpcr")) ||
         (slug.includes("-prns"))
         );
@@ -809,21 +881,44 @@ const IndexPage = ({data}) => {
 
 
 
-
-
-      <h2 style={h2HeadingStyles}>
-      Answers - TopicPapers
-      </h2>
+      <h3 style={headingStyles}>
+      Answers - Papers
+      </h3>
 
       <ul style={listStyles}>
-        {data.allMarkdownRemark.edges.filter(({ node }) => (node.frontmatter.slug.startsWith("topicpapers"))).map(({ node }) => (
+        {fullPaperNodes(data).map(({ node }) => (
           <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
             <span>
               <Link
                 style={linkStyle}
                 to={node.frontmatter.slug}
               >
-                {node.frontmatter.title} {" "} 
+                {node.frontmatter.title} {" "}
+              </Link>
+
+            </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
+          </li>
+        ))}
+      </ul>
+
+
+      <h3 style={headingStyles}>
+      Answers - TopicPapers
+      </h3>
+
+      <ul style={listStyles}>
+        {fullTopicPaperNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "}
               </Link>
 
             </span>
@@ -1012,7 +1107,29 @@ const IndexPage = ({data}) => {
       </ul>
 
 
+      <h3 style={headingStyles}>
+      Questions - Papers
+      </h3>
 
+      <ul style={listStyles}>
+        {questionOnlyFullPaperNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "}
+              </Link>
+
+            </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
+          </li>
+        ))}
+      </ul>
 
 
       <h3 style={headingStyles}>
@@ -1020,14 +1137,14 @@ const IndexPage = ({data}) => {
       </h3>
 
       <ul style={listStyles}>
-        {data.allMarkdownRemark.edges.filter(({ node }) => (node.frontmatter.slug.startsWith("questionsonlytopicpapers"))).map(({ node }) => (
+        {questionOnlyFullTopicPaperNodes(data).map(({ node }) => (
           <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
             <span>
               <Link
                 style={linkStyle}
                 to={node.frontmatter.slug}
               >
-                {node.frontmatter.title} {" "} 
+                {node.frontmatter.title} {" "}
               </Link>
 
             </span>
@@ -1117,7 +1234,7 @@ const IndexPage = ({data}) => {
         ))}
       </ul> */}
 
-      <h3 style={headingStyles}>
+      {/* <h3 style={headingStyles}>
       Answers - Papers
       </h3>
 
@@ -1139,7 +1256,7 @@ const IndexPage = ({data}) => {
 
           </li>
         ))}
-      </ul>
+      </ul> */}
 
     </main>
   );

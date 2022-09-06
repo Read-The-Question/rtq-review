@@ -326,7 +326,7 @@ const IndexPage = ({data}) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
 
-      return slug.startsWith("papers") && 
+      return slug.startsWith("questionsonlytopicpapers") && 
       !(
         (slug.includes("-blocked")) || 
         (slug.includes("-notstarted")) || 
@@ -344,7 +344,7 @@ const IndexPage = ({data}) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
 
-      return slug.startsWith("papers") && 
+      return slug.startsWith("questionsonlypapers") && 
       !(
         (slug.includes("-blocked")) || 
         (slug.includes("-notstarted")) || 

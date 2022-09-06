@@ -1626,7 +1626,7 @@ const IndexPage = ({data}) => {
 
 
       <h2 style={h2HeadingStyles}>
-        Answers - Original Papers
+        Questions - Original Papers
       </h2>
 
 

@@ -209,7 +209,7 @@ const IndexPage = ({data}) => {
 
 
   const phaseZeroQuestionsOnlyPrpcrNodes = (data) => {
-    return data.allMarkdownRemark.edges.filter(({ node }) => {
+    const filteredData = data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return slug.startsWith("questionsonlyragpapers") && 
@@ -220,6 +220,11 @@ const IndexPage = ({data}) => {
         slug.includes("-prpcr")
       );
     });
+
+    return filteredData.sort((a, b) => {
+      return b.node.frontmatter.questions_count - a.node.frontmatter.questions_count;
+    });
+
   }
 
   const phaseOneQuestionsOnlyPrpcrNodes = (data) => {
@@ -252,7 +257,7 @@ const IndexPage = ({data}) => {
 
 
   const phaseZeroQuestionsOnlyPrcrNodes = (data) => {
-    return data.allMarkdownRemark.edges.filter(({ node }) => {
+    const filteredData = data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return slug.startsWith("questionsonlyragpapers") && 
@@ -263,6 +268,11 @@ const IndexPage = ({data}) => {
         slug.includes("-prcr")
       );
     });
+
+    return filteredData.sort((a, b) => {
+      return b.node.frontmatter.questions_count - a.node.frontmatter.questions_count;
+    });
+
   }
 
   const phaseOneQuestionsOnlyPrcrNodes = (data) => {

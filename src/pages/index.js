@@ -100,9 +100,8 @@ const linkStyle = {
 // markup
 const IndexPage = ({data}) => {
   // =========== QUESTIONS ==============
-
-  const questionOnlyPrccNodes = (data) => {
-    const filteredData = data.allMarkdownRemark.edges.filter(({ node }) => {
+  const phaseZeroQuestionsOnlyPrccNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return slug.startsWith("questionsonlyragpapers") && 
@@ -112,6 +111,46 @@ const IndexPage = ({data}) => {
         (slug.includes("-prns"))
       ) &&
       !(
+        slug.includes("-g1") || slug.includes("-g2")
+      ) &&
+      !(
+        (slug.includes("-prrl"))
+      );
+
+    });
+  }
+
+  const phaseOneQuestionsOnlyPrccNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      // console.log(slug);
+      return slug.startsWith("questionsonlyragpapers") && 
+      (
+        slug.includes("-prcc") || 
+        slug.includes("-prpcc") || 
+        (slug.includes("-prns"))
+      ) &&
+      (
+        slug.includes("-g1")
+      ) &&
+      !(
+        (slug.includes("-prrl"))
+      );
+
+    });
+  }
+
+  const phaseTwoQuestionsOnlyPrccNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      // console.log(slug);
+      return slug.startsWith("questionsonlyragpapers") && 
+      (
+        slug.includes("-prcc") || 
+        slug.includes("-prpcc") || 
+        (slug.includes("-prns"))
+      ) &&
+      (
         slug.includes("-g2")
       ) &&
       !(
@@ -119,53 +158,145 @@ const IndexPage = ({data}) => {
       );
 
     });
-
-    return filteredData.sort((a, b) => {
-      return b.node.frontmatter.questions_count - a.node.frontmatter.questions_count;
-    });
   }
 
-  const questionOnlyPrrlNodes = (data) => {
+  const phaseZeroQuestionsOnlyPrrlNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return slug.startsWith("questionsonlyragpapers") && 
       (
         slug.includes("-prrl")
+      ) &&
+      !(
+        slug.includes("-g1") || slug.includes("-g2")
       );
     });
   }
 
-  const questionOnlyPrpcrNodes = (data) => {
+
+  const phaseOneQuestionsOnlyPrrlNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return slug.startsWith("questionsonlyragpapers") && 
+      (
+        slug.includes("-prrl")
+      ) &&
+      (
+        slug.includes("-g1")
+      )
+    });
+  }
+
+  const phaseTwoQuestionsOnlyPrrlNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      // console.log(slug);
+      return slug.startsWith("questionsonlyragpapers") && 
+      (
+        slug.includes("-prrl")
+      ) &&
+      (
+        slug.includes("-g2")
+      )
+    });
+  }
+
+
+  const phaseZeroQuestionsOnlyPrpcrNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      // console.log(slug);
+      return slug.startsWith("questionsonlyragpapers") && 
+      !(
+        slug.includes("-g1") || slug.includes("-g2")
+      ) &&
       (
         slug.includes("-prpcr")
       );
     });
   }
 
-  const questionOnlyPrcrNodes = (data) => {
+  const phaseOneQuestionsOnlyPrpcrNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return slug.startsWith("questionsonlyragpapers") && 
+      (
+        slug.includes("-g1")
+      ) &&
+      (
+        slug.includes("-prpcr")
+      );
+    });
+  }
+
+  const phaseTwoQuestionsOnlyPrpcrNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      // console.log(slug);
+      return slug.startsWith("questionsonlyragpapers") && 
+      (
+        slug.includes("-g2")
+      ) &&
+      (
+        slug.includes("-prpcr")
+      );
+    });
+  }
+
+
+  const phaseZeroQuestionsOnlyPrcrNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      // console.log(slug);
+      return slug.startsWith("questionsonlyragpapers") && 
+      !(
+        slug.includes("-g1") || slug.includes("-g2")
+      ) &&
       (
         slug.includes("-prcr")
       );
     });
   }
 
-  const questionOnlyBlockedNodes = (data) => {
+  const phaseOneQuestionsOnlyPrcrNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      // console.log(slug);
+      return slug.startsWith("questionsonlyragpapers") && 
+      (
+        slug.includes("-g1")
+      ) &&
+      (
+        slug.includes("-prcr")
+      );
+    });
+  }
+
+  const phaseTwoQuestionsOnlyPrcrNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      // console.log(slug);
+      return slug.startsWith("questionsonlyragpapers") && 
+      (
+        slug.includes("-g2")
+      ) &&
+      (
+        slug.includes("-prcr")
+      );
+    });
+  }
+
+  const questionsOnlyBlockedNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       return slug.startsWith("questionsonlyragpapers") && slug.includes("-blocked");
     });
   }
 
-  const questionOnlyNotstartedNodes = (data) => {
+  const questionsOnlyNotstartedNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       return slug.startsWith("questionsonlyragpapers") && slug.includes("-notstarted");
@@ -173,7 +304,7 @@ const IndexPage = ({data}) => {
   }
 
 
-  const questionOnlyRestOfNodes = (data) => {
+  const questionsOnlyRestOfNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
 
@@ -184,17 +315,18 @@ const IndexPage = ({data}) => {
         (slug.includes("-prcc")) || 
         (slug.includes("-prpcc")) || 
         (slug.includes("-prcr")) || 
+        (slug.includes("-prrl")) || 
         (slug.includes("-prpcr")) ||
         (slug.includes("-prns"))
         );
     });
   }
 
-  const questionOnlyFullTopicPaperNodes = (data) => {
+  const questionsOnlyFullTopicPaperNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
 
-      return slug.startsWith("questionsonlytopicpapers") && 
+      return slug.startsWith("papers") && 
       !(
         (slug.includes("-blocked")) || 
         (slug.includes("-notstarted")) || 
@@ -208,11 +340,11 @@ const IndexPage = ({data}) => {
     });
   }
 
-  const questionOnlyFullPaperNodes = (data) => {
+  const questionsOnlyFullPaperNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
 
-      return slug.startsWith("questionsonlypapers") && 
+      return slug.startsWith("papers") && 
       !(
         (slug.includes("-blocked")) || 
         (slug.includes("-notstarted")) || 
@@ -225,6 +357,126 @@ const IndexPage = ({data}) => {
         );
     });
   }
+
+  // const phaseZeroQuestionsOnlyPrccNodes = (data) => {
+  //   const filteredData = data.allMarkdownRemark.edges.filter(({ node }) => {
+  //     const slug = node.frontmatter.slug;
+  //     return slug.startsWith("questionsonlyragpapers") && 
+  //     (
+  //       slug.includes("-prcc") || 
+  //       slug.includes("-prpcc") || 
+  //       (slug.includes("-prns"))
+  //     ) &&
+  //     !(
+  //       slug.includes("-g1") || slug.includes("-g2")
+  //     ) &&
+  //     !(
+  //       (slug.includes("-prrl"))
+  //     );
+
+  //   });
+  // }
+
+  // const phaseZeroQuestionsOnlyPrrlNodes = (data) => {
+  //   return data.allMarkdownRemark.edges.filter(({ node }) => {
+  //     const slug = node.frontmatter.slug;
+  //     // console.log(slug);
+  //     return slug.startsWith("questionsonlyragpapers") && 
+  //     (
+  //       slug.includes("-prrl")
+  //     );
+  //   });
+  // }
+
+  // const phaseZeroQuestionsOnlyPrpcrNodes = (data) => {
+  //   return data.allMarkdownRemark.edges.filter(({ node }) => {
+  //     const slug = node.frontmatter.slug;
+  //     // console.log(slug);
+  //     return slug.startsWith("questionsonlyragpapers") && 
+  //     (
+  //       slug.includes("-prpcr")
+  //     );
+  //   });
+  // }
+
+  // const phaseZeroQuestionsOnlyPrcrNodes = (data) => {
+  //   return data.allMarkdownRemark.edges.filter(({ node }) => {
+  //     const slug = node.frontmatter.slug;
+  //     // console.log(slug);
+  //     return slug.startsWith("questionsonlyragpapers") && 
+  //     (
+  //       slug.includes("-prcr")
+  //     );
+  //   });
+  // }
+
+  // const phaseZeroQuestionsOnlyBlockedNodes = (data) => {
+  //   return data.allMarkdownRemark.edges.filter(({ node }) => {
+  //     const slug = node.frontmatter.slug;
+  //     return slug.startsWith("questionsonlyragpapers") && slug.includes("-blocked");
+  //   });
+  // }
+
+  // const phaseZeroQuestionsOnlyNotstartedNodes = (data) => {
+  //   return data.allMarkdownRemark.edges.filter(({ node }) => {
+  //     const slug = node.frontmatter.slug;
+  //     return slug.startsWith("questionsonlyragpapers") && slug.includes("-notstarted");
+  //   });
+  // }
+
+
+  // const questionsOnlyRestOfNodes = (data) => {
+  //   return data.allMarkdownRemark.edges.filter(({ node }) => {
+  //     const slug = node.frontmatter.slug;
+
+  //     return slug.startsWith("questionsonlyragpapers") && 
+  //     !(
+  //       (slug.includes("-blocked")) || 
+  //       (slug.includes("-notstarted")) || 
+  //       (slug.includes("-prcc")) || 
+  //       (slug.includes("-prpcc")) || 
+  //       (slug.includes("-prcr")) || 
+  //       (slug.includes("-prpcr")) ||
+  //       (slug.includes("-prns"))
+  //       );
+  //   });
+  // }
+
+  // const questionsOnlyFullTopicPaperNodes = (data) => {
+  //   return data.allMarkdownRemark.edges.filter(({ node }) => {
+  //     const slug = node.frontmatter.slug;
+
+  //     return slug.startsWith("questionsonlytopicpapers") && 
+  //     !(
+  //       (slug.includes("-blocked")) || 
+  //       (slug.includes("-notstarted")) || 
+  //       (slug.includes("-prcc")) || 
+  //       (slug.includes("-prpcc")) || 
+  //       (slug.includes("-prrl")) || 
+  //       (slug.includes("-prcr")) || 
+  //       (slug.includes("-prpcr")) ||
+  //       (slug.includes("-prns"))
+  //       );
+  //   });
+  // }
+
+  // const questionsOnlyFullPaperNodes = (data) => {
+  //   return data.allMarkdownRemark.edges.filter(({ node }) => {
+  //     const slug = node.frontmatter.slug;
+
+  //     return slug.startsWith("questionsonlypapers") && 
+  //     !(
+  //       (slug.includes("-blocked")) || 
+  //       (slug.includes("-notstarted")) || 
+  //       (slug.includes("-prcc")) || 
+  //       (slug.includes("-prpcc")) || 
+  //       (slug.includes("-prrl")) || 
+  //       (slug.includes("-prcr")) || 
+  //       (slug.includes("-prpcr")) ||
+  //       (slug.includes("-prns"))
+  //       );
+  //   });
+  // }
 
     // =========== ANSWERS ==============
 
@@ -880,6 +1132,10 @@ const IndexPage = ({data}) => {
       </ul>
 
 
+      <h2 style={h2HeadingStyles}>
+        Answers - Complete Papers
+      </h2>
+
 
       <h3 style={headingStyles}>
       Answers - Papers
@@ -940,7 +1196,7 @@ const IndexPage = ({data}) => {
       </h3>
 
       <ul style={listStyles}>
-        {questionOnlyPrpcrNodes(data).map(({ node }) => (
+        {phaseZeroQuestionsOnlyPrpcrNodes(data).map(({ node }) => (
           <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
             <span>
               <Link
@@ -965,7 +1221,7 @@ const IndexPage = ({data}) => {
       </h3>
 
       <ul style={listStyles}>
-        {questionOnlyPrcrNodes(data).map(({ node }) => (
+        {phaseZeroQuestionsOnlyPrcrNodes(data).map(({ node }) => (
           <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
             <span>
               <Link
@@ -989,7 +1245,7 @@ const IndexPage = ({data}) => {
       </h3>
 
       <ul style={listStyles}>
-        {questionOnlyNotstartedNodes(data).map(({ node }) => (
+        {questionsOnlyNotstartedNodes(data).map(({ node }) => (
           <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
             <span>
               <Link
@@ -1013,7 +1269,7 @@ const IndexPage = ({data}) => {
       </h3>
 
       <ul style={listStyles}>
-        {questionOnlyPrccNodes(data).map(({ node }) => (
+        {phaseZeroQuestionsOnlyPrccNodes(data).map(({ node }) => (
           <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
             <span>
               <Link
@@ -1037,7 +1293,85 @@ const IndexPage = ({data}) => {
       </h3>
 
       <ul style={listStyles}>
-        {questionOnlyPrrlNodes(data).map(({ node }) => (
+        {phaseZeroQuestionsOnlyPrrlNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "} 
+              </Link>
+
+            </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
+          </li>
+        ))}
+      </ul>
+
+      <h2 style={h2HeadingStyles}>
+        Questions - Review - Phase 1 (PR / OPR / G0 -> G1 / G2)
+      </h2>
+
+
+      <h3 style={headingStyles}>
+        Questions - Phase 1 - TopicPapers - RAG - PRPCR
+      </h3>
+
+      <ul style={listStyles}>
+        {phaseOneQuestionsOnlyPrpcrNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "}
+              </Link>
+
+            </span>
+
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
+          </li>
+        ))}
+      </ul>
+
+      <h3 style={headingStyles}>
+      Questions - Phase 1 - TopicPapers - RAG - PRCR
+      </h3>
+
+      <ul style={listStyles}>
+        {phaseOneQuestionsOnlyPrcrNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "}
+              </Link>
+
+            </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
+          </li>
+        ))}
+      </ul>
+
+      <h3 style={headingStyles}>
+      Questions - Phase 1 - TopicPapers - RAG - PRPCC / PRCC / PRNS
+      </h3>
+
+      <ul style={listStyles}>
+        {phaseOneQuestionsOnlyPrccNodes(data).map(({ node }) => (
           <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
             <span>
               <Link
@@ -1057,12 +1391,142 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h3 style={headingStyles}>
+      Questions - Phase 1 - TopicPapers - RAG - PRRL
+      </h3>
+
+      <ul style={listStyles}>
+        {phaseOneQuestionsOnlyPrrlNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "} 
+              </Link>
+
+            </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
+          </li>
+        ))}
+      </ul>
+
+      <h2 style={h2HeadingStyles}>
+        Questions - Review - Phase 2 (PR / OPR / G0 -> G1 / G2)
+      </h2>
+
+
+      <h3 style={headingStyles}>
+        Questions - Phase 2 - TopicPapers - RAG - PRPCR
+      </h3>
+
+      <ul style={listStyles}>
+        {phaseTwoQuestionsOnlyPrpcrNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "}
+              </Link>
+
+            </span>
+
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
+          </li>
+        ))}
+      </ul>
+
+      <h3 style={headingStyles}>
+      Questions - Phase 2 - TopicPapers - RAG - PRCR
+      </h3>
+
+      <ul style={listStyles}>
+        {phaseTwoQuestionsOnlyPrcrNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "}
+              </Link>
+
+            </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
+          </li>
+        ))}
+      </ul>
+
+      <h3 style={headingStyles}>
+      Questions - Phase 2 - TopicPapers - RAG - PRPCC / PRCC / PRNS
+      </h3>
+
+      <ul style={listStyles}>
+        {phaseTwoQuestionsOnlyPrccNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "} 
+              </Link>
+
+            </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
+          </li>
+        ))}
+      </ul>
+
+      <h3 style={headingStyles}>
+      Questions - Phase 2 - TopicPapers - RAG - PRRL
+      </h3>
+
+      <ul style={listStyles}>
+        {phaseTwoQuestionsOnlyPrrlNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "} 
+              </Link>
+
+            </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
+          </li>
+        ))}
+      </ul>
+
+      <h2 style={h2HeadingStyles}>
+        Answers - Review - RAG Papers
+      </h2>
+
+      <h3 style={headingStyles}>
       Questions - TopicPapers - RAG
       </h3>
 
       {/* Filter Rest */}
       <ul style={listStyles}>
-        {questionOnlyRestOfNodes(data).map(({ node }) => (
+        {questionsOnlyRestOfNodes(data).map(({ node }) => (
           <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
             <span>
               <Link
@@ -1087,7 +1551,7 @@ const IndexPage = ({data}) => {
 
       {/* Filter Ragpapers and Blocked */}
       <ul style={listStyles}>
-        {questionOnlyBlockedNodes(data).map(({ node }) => (
+        {questionsOnlyBlockedNodes(data).map(({ node }) => (
           <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
             <span>
               <Link
@@ -1107,12 +1571,16 @@ const IndexPage = ({data}) => {
       </ul>
 
 
+      <h2 style={h2HeadingStyles}>
+        Answers - Complete Papers
+      </h2>
+
       <h3 style={headingStyles}>
       Questions - Papers
       </h3>
 
       <ul style={listStyles}>
-        {questionOnlyFullPaperNodes(data).map(({ node }) => (
+        {questionsOnlyFullPaperNodes(data).map(({ node }) => (
           <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
             <span>
               <Link
@@ -1137,7 +1605,7 @@ const IndexPage = ({data}) => {
       </h3>
 
       <ul style={listStyles}>
-        {questionOnlyFullTopicPaperNodes(data).map(({ node }) => (
+        {questionsOnlyFullTopicPaperNodes(data).map(({ node }) => (
           <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
             <span>
               <Link

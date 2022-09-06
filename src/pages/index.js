@@ -101,7 +101,7 @@ const linkStyle = {
 const IndexPage = ({data}) => {
   // =========== QUESTIONS ==============
   const phaseZeroQuestionsOnlyPrccNodes = (data) => {
-    return data.allMarkdownRemark.edges.filter(({ node }) => {
+    const filteredData = data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return slug.startsWith("questionsonlyragpapers") && 
@@ -117,6 +117,10 @@ const IndexPage = ({data}) => {
         (slug.includes("-prrl"))
       );
 
+    });
+
+    return filteredData.sort((a, b) => {
+      return b.node.frontmatter.questions_count - a.node.frontmatter.questions_count;
     });
   }
 

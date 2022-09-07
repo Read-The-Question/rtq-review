@@ -100,6 +100,64 @@ const linkStyle = {
 // markup
 const IndexPage = ({data}) => {
   // =========== QUESTIONS ==============
+  const phaseZeroQuestionsOnlyPrpccNodes = (data) => {
+    const filteredData = data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      // console.log(slug);
+      return slug.startsWith("questionsonlyragpapers") && 
+      (
+        slug.includes("-prpcc")
+      ) &&
+      !(
+        slug.includes("-g1") || slug.includes("-g2")
+      ) &&
+      !(
+        (slug.includes("-prrl"))
+      );
+
+    });
+
+    return filteredData.sort((a, b) => {
+      return b.node.frontmatter.questions_count - a.node.frontmatter.questions_count;
+    });
+  }
+
+  const phaseOneQuestionsOnlyPrpccNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      // console.log(slug);
+      return slug.startsWith("questionsonlyragpapers") && 
+      (
+        slug.includes("-prpcc")
+      ) &&
+      (
+        slug.includes("-g1")
+      ) &&
+      !(
+        (slug.includes("-prrl"))
+      );
+
+    });
+  }
+
+  const phaseTwoQuestionsOnlyPrpccNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      // console.log(slug);
+      return slug.startsWith("questionsonlyragpapers") && 
+      (
+        slug.includes("-prpcc")
+      ) &&
+      (
+        slug.includes("-g2")
+      ) &&
+      !(
+        (slug.includes("-prrl"))
+      );
+
+    });
+  }
+
   const phaseZeroQuestionsOnlyPrccNodes = (data) => {
     const filteredData = data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
@@ -107,7 +165,6 @@ const IndexPage = ({data}) => {
       return slug.startsWith("questionsonlyragpapers") && 
       (
         slug.includes("-prcc") || 
-        slug.includes("-prpcc") || 
         (slug.includes("-prns"))
       ) &&
       !(
@@ -131,7 +188,6 @@ const IndexPage = ({data}) => {
       return slug.startsWith("questionsonlyragpapers") && 
       (
         slug.includes("-prcc") || 
-        slug.includes("-prpcc") || 
         (slug.includes("-prns"))
       ) &&
       (
@@ -151,7 +207,6 @@ const IndexPage = ({data}) => {
       return slug.startsWith("questionsonlyragpapers") && 
       (
         slug.includes("-prcc") || 
-        slug.includes("-prpcc") || 
         (slug.includes("-prns"))
       ) &&
       (
@@ -372,127 +427,61 @@ const IndexPage = ({data}) => {
     });
   }
 
-  // const phaseZeroQuestionsOnlyPrccNodes = (data) => {
-  //   const filteredData = data.allMarkdownRemark.edges.filter(({ node }) => {
-  //     const slug = node.frontmatter.slug;
-  //     return slug.startsWith("questionsonlyragpapers") && 
-  //     (
-  //       slug.includes("-prcc") || 
-  //       slug.includes("-prpcc") || 
-  //       (slug.includes("-prns"))
-  //     ) &&
-  //     !(
-  //       slug.includes("-g1") || slug.includes("-g2")
-  //     ) &&
-  //     !(
-  //       (slug.includes("-prrl"))
-  //     );
-
-  //   });
-  // }
-
-  // const phaseZeroQuestionsOnlyPrrlNodes = (data) => {
-  //   return data.allMarkdownRemark.edges.filter(({ node }) => {
-  //     const slug = node.frontmatter.slug;
-  //     // console.log(slug);
-  //     return slug.startsWith("questionsonlyragpapers") && 
-  //     (
-  //       slug.includes("-prrl")
-  //     );
-  //   });
-  // }
-
-  // const phaseZeroQuestionsOnlyPrpcrNodes = (data) => {
-  //   return data.allMarkdownRemark.edges.filter(({ node }) => {
-  //     const slug = node.frontmatter.slug;
-  //     // console.log(slug);
-  //     return slug.startsWith("questionsonlyragpapers") && 
-  //     (
-  //       slug.includes("-prpcr")
-  //     );
-  //   });
-  // }
-
-  // const phaseZeroQuestionsOnlyPrcrNodes = (data) => {
-  //   return data.allMarkdownRemark.edges.filter(({ node }) => {
-  //     const slug = node.frontmatter.slug;
-  //     // console.log(slug);
-  //     return slug.startsWith("questionsonlyragpapers") && 
-  //     (
-  //       slug.includes("-prcr")
-  //     );
-  //   });
-  // }
-
-  // const phaseZeroQuestionsOnlyBlockedNodes = (data) => {
-  //   return data.allMarkdownRemark.edges.filter(({ node }) => {
-  //     const slug = node.frontmatter.slug;
-  //     return slug.startsWith("questionsonlyragpapers") && slug.includes("-blocked");
-  //   });
-  // }
-
-  // const phaseZeroQuestionsOnlyNotstartedNodes = (data) => {
-  //   return data.allMarkdownRemark.edges.filter(({ node }) => {
-  //     const slug = node.frontmatter.slug;
-  //     return slug.startsWith("questionsonlyragpapers") && slug.includes("-notstarted");
-  //   });
-  // }
-
-
-  // const questionsOnlyRestOfNodes = (data) => {
-  //   return data.allMarkdownRemark.edges.filter(({ node }) => {
-  //     const slug = node.frontmatter.slug;
-
-  //     return slug.startsWith("questionsonlyragpapers") && 
-  //     !(
-  //       (slug.includes("-blocked")) || 
-  //       (slug.includes("-notstarted")) || 
-  //       (slug.includes("-prcc")) || 
-  //       (slug.includes("-prpcc")) || 
-  //       (slug.includes("-prcr")) || 
-  //       (slug.includes("-prpcr")) ||
-  //       (slug.includes("-prns"))
-  //       );
-  //   });
-  // }
-
-  // const questionsOnlyFullTopicPaperNodes = (data) => {
-  //   return data.allMarkdownRemark.edges.filter(({ node }) => {
-  //     const slug = node.frontmatter.slug;
-
-  //     return slug.startsWith("questionsonlytopicpapers") && 
-  //     !(
-  //       (slug.includes("-blocked")) || 
-  //       (slug.includes("-notstarted")) || 
-  //       (slug.includes("-prcc")) || 
-  //       (slug.includes("-prpcc")) || 
-  //       (slug.includes("-prrl")) || 
-  //       (slug.includes("-prcr")) || 
-  //       (slug.includes("-prpcr")) ||
-  //       (slug.includes("-prns"))
-  //       );
-  //   });
-  // }
-
-  // const questionsOnlyFullPaperNodes = (data) => {
-  //   return data.allMarkdownRemark.edges.filter(({ node }) => {
-  //     const slug = node.frontmatter.slug;
-
-  //     return slug.startsWith("questionsonlypapers") && 
-  //     !(
-  //       (slug.includes("-blocked")) || 
-  //       (slug.includes("-notstarted")) || 
-  //       (slug.includes("-prcc")) || 
-  //       (slug.includes("-prpcc")) || 
-  //       (slug.includes("-prrl")) || 
-  //       (slug.includes("-prcr")) || 
-  //       (slug.includes("-prpcr")) ||
-  //       (slug.includes("-prns"))
-  //       );
-  //   });
-  // }
-
     // =========== ANSWERS ==============
+
+  const phaseZeroPrpccNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      // console.log(slug);
+      return slug.startsWith("ragpapers") && 
+      (
+        slug.includes("-prpcc")
+      ) &&
+      !(
+        slug.includes("-g1") || slug.includes("-g2")
+      ) &&
+      !(
+        (slug.includes("-prrl"))
+      );
+
+    });
+  }
+
+  const phaseOnePrpccNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      // console.log(slug);
+      return slug.startsWith("ragpapers") && 
+      (
+        slug.includes("-prpcc")
+      ) &&
+      (
+        slug.includes("-g1")
+      ) &&
+      !(
+        (slug.includes("-prrl"))
+      );
+
+    });
+  }
+
+  const phaseTwoPrpccNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      // console.log(slug);
+      return slug.startsWith("ragpapers") && 
+      (
+        slug.includes("-prpcc")
+      ) &&
+      (
+        slug.includes("-g2")
+      ) &&
+      !(
+        (slug.includes("-prrl"))
+      );
+
+    });
+  }
 
   const phaseZeroPrccNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
@@ -501,7 +490,6 @@ const IndexPage = ({data}) => {
       return slug.startsWith("ragpapers") && 
       (
         slug.includes("-prcc") || 
-        slug.includes("-prpcc") || 
         (slug.includes("-prns"))
       ) &&
       !(
@@ -521,7 +509,6 @@ const IndexPage = ({data}) => {
       return slug.startsWith("ragpapers") && 
       (
         slug.includes("-prcc") || 
-        slug.includes("-prpcc") || 
         (slug.includes("-prns"))
       ) &&
       (
@@ -541,7 +528,6 @@ const IndexPage = ({data}) => {
       return slug.startsWith("ragpapers") && 
       (
         slug.includes("-prcc") || 
-        slug.includes("-prpcc") || 
         (slug.includes("-prns"))
       ) &&
       (
@@ -837,7 +823,32 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h3 style={headingStyles}>
-      Answers - Phase 0 - TopicPapers - RAG - PRPCC / PRCC / PRNS
+      Answers - Phase 0 - TopicPapers - RAG - PRPCC 
+      </h3>
+
+      {/* Filter Ragpapers and PRCC */}
+      <ul style={listStyles}>
+        {phaseZeroPrpccNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "} 
+              </Link>
+
+            </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
+          </li>
+        ))}
+      </ul>
+
+      <h3 style={headingStyles}>
+      Answers - Phase 0 - TopicPapers - RAG - PRCC / PRNS
       </h3>
 
       {/* Filter Ragpapers and PRCC */}
@@ -939,7 +950,32 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h3 style={headingStyles}>
-      Answers - Phase 1 - TopicPapers - RAG - PRPCC / PRCC / PRNS
+      Answers - Phase 1 - TopicPapers - RAG - PRPCC
+      </h3>
+
+      {/* Filter Ragpapers and PRCC */}
+      <ul style={listStyles}>
+        {phaseOnePrpccNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "} 
+              </Link>
+
+            </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
+          </li>
+        ))}
+      </ul>
+
+      <h3 style={headingStyles}>
+      Answers - Phase 1 - TopicPapers - RAG - PRCC / PRNS
       </h3>
 
       {/* Filter Ragpapers and PRCC */}
@@ -1030,6 +1066,31 @@ const IndexPage = ({data}) => {
                 to={node.frontmatter.slug}
               >
                 {node.frontmatter.title} {" "}
+              </Link>
+
+            </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
+          </li>
+        ))}
+      </ul>
+
+      <h3 style={headingStyles}>
+      Answers - Phase 2 - TopicPapers - RAG - PRPCC
+      </h3>
+
+      {/* Filter Ragpapers and PRCC */}
+      <ul style={listStyles}>
+        {phaseTwoPrpccNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "} 
               </Link>
 
             </span>
@@ -1279,7 +1340,31 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h3 style={headingStyles}>
-      Questions - Phase 0 - TopicPapers - RAG - PRPCC / PRCC / PRNS
+      Questions - Phase 0 - TopicPapers - RAG - PRPCC 
+      </h3>
+
+      <ul style={listStyles}>
+        {phaseZeroQuestionsOnlyPrpccNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "} 
+              </Link>
+
+            </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
+          </li>
+        ))}
+      </ul>
+
+      <h3 style={headingStyles}>
+      Questions - Phase 0 - TopicPapers - RAG - PRCC / PRNS
       </h3>
 
       <ul style={listStyles}>
@@ -1381,7 +1466,31 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h3 style={headingStyles}>
-      Questions - Phase 1 - TopicPapers - RAG - PRPCC / PRCC / PRNS
+      Questions - Phase 1 - TopicPapers - RAG - PRPCC 
+      </h3>
+
+      <ul style={listStyles}>
+        {phaseOneQuestionsOnlyPrpccNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "} 
+              </Link>
+
+            </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
+          </li>
+        ))}
+      </ul>
+
+      <h3 style={headingStyles}>
+      Questions - Phase 1 - TopicPapers - RAG - PRCC / PRNS
       </h3>
 
       <ul style={listStyles}>
@@ -1483,7 +1592,31 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h3 style={headingStyles}>
-      Questions - Phase 2 - TopicPapers - RAG - PRPCC / PRCC / PRNS
+      Questions - Phase 2 - TopicPapers - RAG - PRPCC
+      </h3>
+
+      <ul style={listStyles}>
+        {phaseTwoQuestionsOnlyPrpccNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "} 
+              </Link>
+
+            </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
+          </li>
+        ))}
+      </ul>
+
+      <h3 style={headingStyles}>
+      Questions - Phase 2 - TopicPapers - RAG - PRCC / PRNS
       </h3>
 
       <ul style={listStyles}>

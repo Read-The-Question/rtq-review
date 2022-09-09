@@ -1,26 +1,26 @@
 ---
 slug: "ragpapers/topicpapers-tpermutation-1-g2"
 title: "TopicPaper - Permutation - 1 - G2"
-date: 2022-08-19 15:40:39
-questions_count: "5"
+date: 2022-09-09 06:13:00
+questions_count: "1"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prpcr question'>
 <div class='uuid'>
-<p>54129CC4-C133-47C6-8EE6-B29248C827BD</p>
+<p>CE2F50A4-A29C-4267-8728-7D80877E6590</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:41</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-a:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Neeraj Singh</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g2</p>
+<p>rag_ns_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -29,45 +29,99 @@ tpermutation
 </li>
 </ul>
 </div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-CE2F50A4-A29C-4267-8728-7D80877E6590'>Initial</p>
 <div class='question question'>
 
-Mary has $\text{three}$ brothers and $\text{four}$ sisters. If they, and Mary, all buy each other an Easter egg, how many eggs will be bought?
+On the island of Pythageuleria all vehicle number plates have $2$ letters from the selection A, B, C, D, followed by a number 
+$1, 2, 3$ or $4$. 
+
+For example:
+
+$\boxed{ \text {A D 1} } \qquad 
+\boxed{ \text {A D 4} } \qquad 
+\boxed{ \text {C A 3} } \qquad 
+\boxed{ \text {D D 2} }$
+
+Note that repeated letters are allowed.
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-\text{Total siblings}                   &= 1 + 3 + 4 = 8 \\\\
-\text{Numer of eggs each buys}          &= 8 - 1 \\\\
-                                        &= 7 \\\\
-\text{Total eggs bought}                &= 8 \times 7 \\\\
-                                        &= 56
-\end{aligned}
-$
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$56$
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-\text{Total siblings}                   &= 1 + 3 + 4 = 8 \\\\
-\text{Numer of eggs each buys}          &= 8 - 1 \\\\
-                                        &= 7 \\\\
-\text{Total eggs bought}                &= 8 \times 7 \\\\
-                                        &= 56
-\end{aligned}
-$
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -79,87 +133,16 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$56$
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='54129CC4-C133-47C6-8EE6-B29248C827BD' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='54129CC4-C133-47C6-8EE6-B29248C827BD' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='54129CC4-C133-47C6-8EE6-B29248C827BD' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='54129CC4-C133-47C6-8EE6-B29248C827BD' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='54129CC4-C133-47C6-8EE6-B29248C827BD' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='54129CC4-C133-47C6-8EE6-B29248C827BD' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='54129CC4-C133-47C6-8EE6-B29248C827BD' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='54129CC4-C133-47C6-8EE6-B29248C827BD' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='54129CC4-C133-47C6-8EE6-B29248C827BD' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='54129CC4-C133-47C6-8EE6-B29248C827BD' id='FORM-54129CC4-C133-47C6-8EE6-B29248C827BD' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-54129CC4-C133-47C6-8EE6-B29248C827BD'>Initial</p>
-</div>
-</div>
-</li>
+<ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
-<div class='uuid'>
-<p>B2B533E5-F5B6-48FF-A96C-1BFB3BF4BBAA</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:11</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpermutation
-</li>
-</ul>
-</div>
-<div class='question question'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
 
-This number plate has the number $279$.
-
-$\boxed {\quad 279 \quad}$
-
-Write down all the other $3$-figure numbers 
-you could make using $2, 7$ and $9$ once in each $3$-figure number.
-You can only use $2, 7$ and $9$ once in each $3$-figure number.
+Calculate how many plates start with a double B.
 
 </div>
 <div class='workings'>
@@ -167,34 +150,32 @@ You can only use $2, 7$ and $9$ once in each $3$-figure number.
 
 The possible arrangements are:
 
-- $279$
-- $297$
-- $729$
-- $792$
-- $927$
-- $972$
+- $\text{BB1}$
+- $\text{BB2}$
+- $\text{BB3}$
+- $\text{BB4}$
 
-Count $= 6$
+Total count $= 4$
 
 </div>
 <div class='working'>
 
 Using permutation,
 
-Number of digits that can be used in the hundreds place $= 3$
+Number of letters that can be used in the first place $= 1$
 
-Number of digits that can be used in the tens place $= 2$
+Number of letters that can be used in the second place $= 1$
 
-Number of digits that can be used in the units place $= 1$
+Number of digits that can be used in the third place $= 4$
 
-Total arrangements $= 3 \times 2 \times 1 = 6$
+Total arrangements $= 1 \times 1 \times 4 = 4$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$6$
+$4$  
 
 </div>
 </div>
@@ -203,27 +184,25 @@ $6$
 
 <pre class='language-latex'><code class='language-latex'>The possible arrangements are:
 <emptyline>
-- $279$
-- $297$
-- $729$
-- $792$
-- $927$
-- $972$
+- $\text{BB1}$
+- $\text{BB2}$
+- $\text{BB3}$
+- $\text{BB4}$
 <emptyline>
-Count $= 6$
+Total count $= 4$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Using permutation,
 <emptyline>
-Number of digits that can be used in the hundreds place $= 3$
+Number of letters that can be used in the first place $= 1$
 <emptyline>
-Number of digits that can be used in the tens place $= 2$
+Number of letters that can be used in the second place $= 1$
 <emptyline>
-Number of digits that can be used in the units place $= 1$
+Number of digits that can be used in the third place $= 4$
 <emptyline>
-Total arrangements $= 3 \times 2 \times 1 = 6$
+Total arrangements $= 1 \times 1 \times 4 = 4$
 </code></pre>
 </div>
 </div>
@@ -235,133 +214,136 @@ Total arrangements $= 3 \times 2 \times 1 = 6$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$6$
+<pre class='language-latex'><code class='language-latex'>$4$  
 </code></pre>
 </div>
 </div>
 
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='B2B533E5-F5B6-48FF-A96C-1BFB3BF4BBAA' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='B2B533E5-F5B6-48FF-A96C-1BFB3BF4BBAA' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='B2B533E5-F5B6-48FF-A96C-1BFB3BF4BBAA' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='B2B533E5-F5B6-48FF-A96C-1BFB3BF4BBAA' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='B2B533E5-F5B6-48FF-A96C-1BFB3BF4BBAA' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='B2B533E5-F5B6-48FF-A96C-1BFB3BF4BBAA' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='B2B533E5-F5B6-48FF-A96C-1BFB3BF4BBAA' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='B2B533E5-F5B6-48FF-A96C-1BFB3BF4BBAA' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='B2B533E5-F5B6-48FF-A96C-1BFB3BF4BBAA' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='B2B533E5-F5B6-48FF-A96C-1BFB3BF4BBAA' id='FORM-B2B533E5-F5B6-48FF-A96C-1BFB3BF4BBAA' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-B2B533E5-F5B6-48FF-A96C-1BFB3BF4BBAA'>Initial</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
-<div class='uuid'>
-<p>A467E5ED-C83A-436F-95CE-C93C3DF23377</p>
-</div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:18</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpermutation
-</li>
-</ul>
-</div>
-<div class='question question'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
 
-How many different four digit numbers can be made from the digits $2, 2, 2, 3$ and $3$?
+Calculate how many plates there are that start with any repeated letter.
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-If we use three $2$ and one $3$, the possible arrangements are:
+If we use double $\text{A}$ in the first and the second place, the possible arrangements are:
 
-- $2223$
-- $2232$
-- $2322$
-- $3222$
+- $\text{AA1}$
+- $\text{AA2}$
+- $\text{AA3}$
+- $\text{AA4}$
 
-If we use two $2$ and two $3$, the possible arrangements are:
+Count $= 4$
 
-- $2233$
-- $2323$
-- $2332$
-- $3223$
-- $3232$
-- $3322$
+If we use double $\text{B}$ in the first and the second place, the possible arrangements are:
 
-Total count $= 4 + 6 = 10$
+- $\text{BB1}$
+- $\text{BB2}$
+- $\text{BB3}$
+- $\text{BB4}$
+
+Count $= 4$
+
+If we use double $\text{C}$ in the first and the second place, the possible arrangements are:
+
+- $\text{CC1}$
+- $\text{CC2}$
+- $\text{CC3}$
+- $\text{CC4}$
+
+Count $= 4$
+
+If we use double $\text{D}$ in the first and the second place, the possible arrangements are:
+
+- $\text{DD1}$
+- $\text{DD2}$
+- $\text{DD3}$
+- $\text{DD4}$
+
+Count $= 4$
+
+Total count $= 4 + 4 + 4 + 4 = 16$
+
+</div>
+<div class='working'>
+
+Using permutation,
+
+Number of letters that can be used in the first place $(\text{A B C D}) = 4$
+
+Number of letters that can be used in the second place (same as first letter) $= 1$
+
+Number of digits that can be used in the third place $= 4$
+
+Total arrangements $= 4 \times 1 \times 4 = 16$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$10$
+$16$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>If we use three $2$ and one $3$, the possible arrangements are:
+<pre class='language-latex'><code class='language-latex'>If we use double $\text{A}$ in the first and the second place, the possible arrangements are:
 <emptyline>
-- $2223$
-- $2232$
-- $2322$
-- $3222$
+- $\text{AA1}$
+- $\text{AA2}$
+- $\text{AA3}$
+- $\text{AA4}$
 <emptyline>
-If we use two $2$ and two $3$, the possible arrangements are:
+Count $= 4$
 <emptyline>
-- $2233$
-- $2323$
-- $2332$
-- $3223$
-- $3232$
-- $3322$
+If we use double $\text{B}$ in the first and the second place, the possible arrangements are:
 <emptyline>
-Total count $= 4 + 6 = 10$
+- $\text{BB1}$
+- $\text{BB2}$
+- $\text{BB3}$
+- $\text{BB4}$
+<emptyline>
+Count $= 4$
+<emptyline>
+If we use double $\text{C}$ in the first and the second place, the possible arrangements are:
+<emptyline>
+- $\text{CC1}$
+- $\text{CC2}$
+- $\text{CC3}$
+- $\text{CC4}$
+<emptyline>
+Count $= 4$
+<emptyline>
+If we use double $\text{D}$ in the first and the second place, the possible arrangements are:
+<emptyline>
+- $\text{DD1}$
+- $\text{DD2}$
+- $\text{DD3}$
+- $\text{DD4}$
+<emptyline>
+Count $= 4$
+<emptyline>
+Total count $= 4 + 4 + 4 + 4 = 16$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Using permutation,
+<emptyline>
+Number of letters that can be used in the first place $(\text{A B C D}) = 4$
+<emptyline>
+Number of letters that can be used in the second place (same as first letter) $= 1$
+<emptyline>
+Number of digits that can be used in the third place $= 4$
+<emptyline>
+Total arrangements $= 4 \times 1 \times 4 = 16$
 </code></pre>
 </div>
 </div>
@@ -373,137 +355,82 @@ Total count $= 4 + 6 = 10$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$10$
+<pre class='language-latex'><code class='language-latex'>$16$
 </code></pre>
 </div>
 </div>
 
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='A467E5ED-C83A-436F-95CE-C93C3DF23377' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='A467E5ED-C83A-436F-95CE-C93C3DF23377' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='A467E5ED-C83A-436F-95CE-C93C3DF23377' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='A467E5ED-C83A-436F-95CE-C93C3DF23377' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='A467E5ED-C83A-436F-95CE-C93C3DF23377' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='A467E5ED-C83A-436F-95CE-C93C3DF23377' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='A467E5ED-C83A-436F-95CE-C93C3DF23377' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='A467E5ED-C83A-436F-95CE-C93C3DF23377' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='A467E5ED-C83A-436F-95CE-C93C3DF23377' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='A467E5ED-C83A-436F-95CE-C93C3DF23377' id='FORM-A467E5ED-C83A-436F-95CE-C93C3DF23377' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-A467E5ED-C83A-436F-95CE-C93C3DF23377'>Initial</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
-<div class='uuid'>
-<p>6789607F-5F2D-4D59-A07E-046CD61362DB</p>
-</div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:1:6</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpermutation
-</li>
-</ul>
-</div>
-<div class='question question'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
 
-How many $2$-digit numbers contain at least one $4$?
+Calculate how many plates contain just one vowel and an odd number.
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Two digit numbers with first digit as $4$ are:
+If we use $\text{A}$ in the first place, the possible arrangements are:
 
-$
-\begin{matrix}
-40 &  41 &  42 &  43 &  44 \\\\
-45 &  46 &  47 &  48 &  49
-\end{matrix}
-$
+- $\text{AB1}$
+- $\text{AB3}$
+- $\text{AC1}$
+- $\text{AC3}$
+- $\text{AD1}$
+- $\text{AD3}$
 
-Two digit numbers with last digit as $4$ are (ensure you do not count $44$ twice):
+Count $= 6$
 
-$
-\begin{matrix}
-14 & 24 & 34 & 54 \\\\
-64 & 74 & 84 & 94
-\end{matrix}
-$
+If we use $\text{A}$ in the second place, the possible arrangements are:
 
-Count $= 10 + 8 = 18$
+- $\text{BA1}$
+- $\text{BA3}$
+- $\text{CA1}$
+- $\text{CA3}$
+- $\text{DA1}$
+- $\text{DA3}$
+
+Count $= 6$
+
+Total count $= 6 + 6 = 12$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$18$
+$12$  
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Two digit numbers with first digit as $4$ are:
+<pre class='language-latex'><code class='language-latex'>If we use $\text{A}$ in the first place, the possible arrangements are:
 <emptyline>
-$
-\begin{matrix}
-40 &  41 &  42 &  43 &  44 \\\\
-45 &  46 &  47 &  48 &  49
-\end{matrix}
-$
+- $\text{AB1}$
+- $\text{AB3}$
+- $\text{AC1}$
+- $\text{AC3}$
+- $\text{AD1}$
+- $\text{AD3}$
 <emptyline>
-Two digit numbers with last digit as $4$ are (ensure you do not count $44$ twice):
+Count $= 6$
 <emptyline>
-$
-\begin{matrix}
-14 & 24 & 34 & 54 \\\\
-64 & 74 & 84 & 94
-\end{matrix}
-$
+If we use $\text{A}$ in the second place, the possible arrangements are:
 <emptyline>
-Count $= 10 + 8 = 18$
+- $\text{BA1}$
+- $\text{BA3}$
+- $\text{CA1}$
+- $\text{CA3}$
+- $\text{DA1}$
+- $\text{DA3}$
+<emptyline>
+Count $= 6$
+<emptyline>
+Total count $= 6 + 6 = 12$
 </code></pre>
 </div>
 </div>
@@ -515,191 +442,123 @@ Count $= 10 + 8 = 18$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$18$
+<pre class='language-latex'><code class='language-latex'>$12$  
 </code></pre>
 </div>
 </div>
 
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='6789607F-5F2D-4D59-A07E-046CD61362DB' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='6789607F-5F2D-4D59-A07E-046CD61362DB' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='6789607F-5F2D-4D59-A07E-046CD61362DB' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='6789607F-5F2D-4D59-A07E-046CD61362DB' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='6789607F-5F2D-4D59-A07E-046CD61362DB' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='6789607F-5F2D-4D59-A07E-046CD61362DB' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='6789607F-5F2D-4D59-A07E-046CD61362DB' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='6789607F-5F2D-4D59-A07E-046CD61362DB' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='6789607F-5F2D-4D59-A07E-046CD61362DB' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='6789607F-5F2D-4D59-A07E-046CD61362DB' id='FORM-6789607F-5F2D-4D59-A07E-046CD61362DB' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-6789607F-5F2D-4D59-A07E-046CD61362DB'>Initial</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
-<div class='uuid'>
-<p>7DEB0853-0DD5-4F2B-AA9D-2F777753D9B3</p>
-</div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:1:19</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpermutation
-</li>
-</ul>
-</div>
-<div class='question question'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
 
-How many three digit numbers contain at least two sevens?
+Given that there are $64$ possible codes in total, calculate what fraction of the number plates have their own two letters in 
+alphabetical order, giving your answer in its lowest form.
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-If we use a $7$ in hundreds and tens place, the possible arrangements (excluding $777$) are:
 
-- $770$
-- $771$
-- $772$
-- $773$
-- $774$
-- $775$
-- $776$
-- $778$
-- $779$
+If we use $\text{A}$ in the first place, the possible arrangements are:
 
-Count $= 9$
+$
+\begin{matrix}
+\text{AB1}  &  \text{AB2}  &  \text{AB3}  &  \text{AB4} \\
+\text{AC1}  &  \text{AC2}  &  \text{AC3}  &  \text{AC4} \\
+\text{AD1}  &  \text{AD2}  &  \text{AD3}  &  \text{AD4} \\
+\end{matrix}
+$
 
-If we use a $7$ in hundreds and units place, the possible arrangements (excluding $777$) are:
+Count $=12$
 
-- $707$
-- $717$
-- $727$
-- $737$
-- $747$
-- $757$
-- $767$
-- $787$
-- $797$
+If we use $\text{B}$ in the first place, the possible arrangements are:
 
-Count $= 9$
+$
+\begin{matrix}
+\text{BC1}  &  \text{BC2}  &  \text{BC3}  &  \text{BC4} \\
+\text{BD1}  &  \text{BD2}  &  \text{BD3}  &  \text{BD4} \\
+\end{matrix}
+$
 
+Count $=8$
 
-If we use a $7$ in tens and units place, the possible arrangements (including $777$) are:
+If we use $\text{C}$ in the first place, the possible arrangements are:
 
-- $177$
-- $277$
-- $377$
-- $477$
-- $577$
-- $677$
-- $777$
-- $877$
-- $977$
+$
+\begin{matrix}
+\text{CD1}  &  \text{CD2}  &  \text{CD3}  &  \text{CD4} \\
+\end{matrix}
+$
 
-Count $= 9$
+Count $=4$
 
-Note: $777$ will occur in every sequence, so we ensure to count it only once.
-
-Total count $= 9 + 9 + 9 = 27$
+$
+\begin{aligned}
+\text{Fraction} &= \dfrac {12 + 8 + 4} {64} \\\\
+                &= \dfrac {24} {64} \\\\
+                &= \dfrac {8 \times 3} {8 \times 8} \\\\
+                &= \dfrac {\cancel{8} \times 3} {\cancel{8} \times 8} \\\\
+                &= \dfrac {3} {8}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$27$
+$\dfrac {3} {8}$ 
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>If we use a $7$ in hundreds and tens place, the possible arrangements (excluding $777$) are:
+<pre class='language-latex'><code class='language-latex'>
+If we use $\text{A}$ in the first place, the possible arrangements are:
 <emptyline>
-- $770$
-- $771$
-- $772$
-- $773$
-- $774$
-- $775$
-- $776$
-- $778$
-- $779$
+$
+\begin{matrix}
+\text{AB1}  &  \text{AB2}  &  \text{AB3}  &  \text{AB4} \\
+\text{AC1}  &  \text{AC2}  &  \text{AC3}  &  \text{AC4} \\
+\text{AD1}  &  \text{AD2}  &  \text{AD3}  &  \text{AD4} \\
+\end{matrix}
+$
 <emptyline>
-Count $= 9$
+Count $=12$
 <emptyline>
-If we use a $7$ in hundreds and units place, the possible arrangements (excluding $777$) are:
+If we use $\text{B}$ in the first place, the possible arrangements are:
 <emptyline>
-- $707$
-- $717$
-- $727$
-- $737$
-- $747$
-- $757$
-- $767$
-- $787$
-- $797$
+$
+\begin{matrix}
+\text{BC1}  &  \text{BC2}  &  \text{BC3}  &  \text{BC4} \\
+\text{BD1}  &  \text{BD2}  &  \text{BD3}  &  \text{BD4} \\
+\end{matrix}
+$
 <emptyline>
-Count $= 9$
+Count $=8$
 <emptyline>
-
-If we use a $7$ in tens and units place, the possible arrangements (including $777$) are:
+If we use $\text{C}$ in the first place, the possible arrangements are:
 <emptyline>
-- $177$
-- $277$
-- $377$
-- $477$
-- $577$
-- $677$
-- $777$
-- $877$
-- $977$
+$
+\begin{matrix}
+\text{CD1}  &  \text{CD2}  &  \text{CD3}  &  \text{CD4} \\
+\end{matrix}
+$
 <emptyline>
-Count $= 9$
+Count $=4$
 <emptyline>
-Note: $777$ will occur in every sequence, so we ensure to count it only once.
-<emptyline>
-Total count $= 9 + 9 + 9 = 27$
+$
+\begin{aligned}
+\text{Fraction} &= \dfrac {12 + 8 + 4} {64} \\\\
+                &= \dfrac {24} {64} \\\\
+                &= \dfrac {8 \times 3} {8 \times 8} \\\\
+                &= \dfrac {\cancel{8} \times 3} {\cancel{8} \times 8} \\\\
+                &= \dfrac {3} {8}
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -711,51 +570,97 @@ Total count $= 9 + 9 + 9 = 27$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$27$
+<pre class='language-latex'><code class='language-latex'>$\dfrac {3} {8}$ 
 </code></pre>
 </div>
 </div>
 
+</div>
+</li>
+</ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Main question working not required
+
+b: Second working
+
+Change to same as the first letter
+
+d: Change the first phrases to:
+
+If the number plate starts with A
+
+
+
+
+
+Main question working not required
+
+b: Second working
+
+Change to same as the first letter
+
+d: Change the first phrases to:
+
+If the number plate starts with A
+
+
+
+
+
+Comments do not seem to be complete, lets discuss tomorrow: uday
+</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='7DEB0853-0DD5-4F2B-AA9D-2F777753D9B3' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='7DEB0853-0DD5-4F2B-AA9D-2F777753D9B3' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='submitReview(event)'>PRPCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='7DEB0853-0DD5-4F2B-AA9D-2F777753D9B3' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='7DEB0853-0DD5-4F2B-AA9D-2F777753D9B3' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='7DEB0853-0DD5-4F2B-AA9D-2F777753D9B3' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='7DEB0853-0DD5-4F2B-AA9D-2F777753D9B3' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='7DEB0853-0DD5-4F2B-AA9D-2F777753D9B3' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='7DEB0853-0DD5-4F2B-AA9D-2F777753D9B3' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='7DEB0853-0DD5-4F2B-AA9D-2F777753D9B3' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' onclick='resetComment(event)'>Reset Comments</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='7DEB0853-0DD5-4F2B-AA9D-2F777753D9B3' id='FORM-7DEB0853-0DD5-4F2B-AA9D-2F777753D9B3' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G2' data-uuid='CE2F50A4-A29C-4267-8728-7D80877E6590' id='FORM-CE2F50A4-A29C-4267-8728-7D80877E6590' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
 <input type='reset' value='Reset'>
 </form>
 
-<p class='review_status initial' id='REVIEW-STATUS-7DEB0853-0DD5-4F2B-AA9D-2F777753D9B3'>Initial</p>
+<p class='review_status initial' id='REVIEW-STATUS-CE2F50A4-A29C-4267-8728-7D80877E6590'>Initial</p>
 </div>
 </div>
 </li>

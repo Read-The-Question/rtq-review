@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tangle-3-pr"
 title: "TopicPaper - Angle - 3 - PR"
-date: 2022-08-19 16:00:22
+date: 2022-09-09 06:32:25
 questions_count: "22"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "22"
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:1:8</p>
 </div>
 <div class='rag'>
-<p>Neeraj Singh</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_ns_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -115,6 +115,9 @@ What special type of quadrilateral is $ABCD$?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='79C9163C-A4D6-4C83-870C-4A5426B23C1E' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='79C9163C-A4D6-4C83-870C-4A5426B23C1E' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='79C9163C-A4D6-4C83-870C-4A5426B23C1E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -127,7 +130,7 @@ What special type of quadrilateral is $ABCD$?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='79C9163C-A4D6-4C83-870C-4A5426B23C1E' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='79C9163C-A4D6-4C83-870C-4A5426B23C1E' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='79C9163C-A4D6-4C83-870C-4A5426B23C1E' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='79C9163C-A4D6-4C83-870C-4A5426B23C1E' onclick='submitReview(event)'>PRR</button>
@@ -138,9 +141,12 @@ What special type of quadrilateral is $ABCD$?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='79C9163C-A4D6-4C83-870C-4A5426B23C1E' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='79C9163C-A4D6-4C83-870C-4A5426B23C1E' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='79C9163C-A4D6-4C83-870C-4A5426B23C1E' id='FORM-79C9163C-A4D6-4C83-870C-4A5426B23C1E' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='79C9163C-A4D6-4C83-870C-4A5426B23C1E' id='FORM-79C9163C-A4D6-4C83-870C-4A5426B23C1E' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -160,10 +166,10 @@ What special type of quadrilateral is $ABCD$?
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:1:7</p>
 </div>
 <div class='rag'>
-<p>Neeraj Singh</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_ns_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -250,6 +256,9 @@ Measure and write down the size of angle $B$ in the triangle.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0121C7A4-EA5C-4597-A069-9F6FBD460C70' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0121C7A4-EA5C-4597-A069-9F6FBD460C70' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0121C7A4-EA5C-4597-A069-9F6FBD460C70' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -262,7 +271,7 @@ Measure and write down the size of angle $B$ in the triangle.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0121C7A4-EA5C-4597-A069-9F6FBD460C70' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0121C7A4-EA5C-4597-A069-9F6FBD460C70' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0121C7A4-EA5C-4597-A069-9F6FBD460C70' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0121C7A4-EA5C-4597-A069-9F6FBD460C70' onclick='submitReview(event)'>PRR</button>
@@ -273,9 +282,12 @@ Measure and write down the size of angle $B$ in the triangle.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0121C7A4-EA5C-4597-A069-9F6FBD460C70' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='0121C7A4-EA5C-4597-A069-9F6FBD460C70' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='0121C7A4-EA5C-4597-A069-9F6FBD460C70' id='FORM-0121C7A4-EA5C-4597-A069-9F6FBD460C70' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0121C7A4-EA5C-4597-A069-9F6FBD460C70' id='FORM-0121C7A4-EA5C-4597-A069-9F6FBD460C70' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -295,10 +307,10 @@ Measure and write down the size of angle $B$ in the triangle.
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:18</p>
 </div>
 <div class='rag'>
-<p>Neeraj Singh</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_ns_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -377,6 +389,9 @@ Find the sizes of the angles marked $a, b$ and $c$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -389,7 +404,7 @@ Find the sizes of the angles marked $a, b$ and $c$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='submitReview(event)'>PRR</button>
@@ -400,9 +415,12 @@ Find the sizes of the angles marked $a, b$ and $c$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' id='FORM-2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' id='FORM-2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -422,10 +440,10 @@ Find the sizes of the angles marked $a, b$ and $c$.
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Neeraj Singh</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_ns_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -462,6 +480,9 @@ Work out the value of the angle labelled $x$ in the diagram below. The diagram i
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -474,7 +495,7 @@ Work out the value of the angle labelled $x$ in the diagram below. The diagram i
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='submitReview(event)'>PRR</button>
@@ -485,9 +506,12 @@ Work out the value of the angle labelled $x$ in the diagram below. The diagram i
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' id='FORM-F7B13CED-C215-4AE0-A046-CA11FC93E811' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' id='FORM-F7B13CED-C215-4AE0-A046-CA11FC93E811' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -507,10 +531,10 @@ Work out the value of the angle labelled $x$ in the diagram below. The diagram i
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:17</p>
 </div>
 <div class='rag'>
-<p>Neeraj Singh</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_ns_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -549,6 +573,9 @@ The diagram is not drawn to scale.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92AD100E-4F0C-43B3-8449-31A16D2E0DEA' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92AD100E-4F0C-43B3-8449-31A16D2E0DEA' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92AD100E-4F0C-43B3-8449-31A16D2E0DEA' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -561,7 +588,7 @@ The diagram is not drawn to scale.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92AD100E-4F0C-43B3-8449-31A16D2E0DEA' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92AD100E-4F0C-43B3-8449-31A16D2E0DEA' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92AD100E-4F0C-43B3-8449-31A16D2E0DEA' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92AD100E-4F0C-43B3-8449-31A16D2E0DEA' onclick='submitReview(event)'>PRR</button>
@@ -572,9 +599,12 @@ The diagram is not drawn to scale.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92AD100E-4F0C-43B3-8449-31A16D2E0DEA' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='92AD100E-4F0C-43B3-8449-31A16D2E0DEA' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='92AD100E-4F0C-43B3-8449-31A16D2E0DEA' id='FORM-92AD100E-4F0C-43B3-8449-31A16D2E0DEA' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92AD100E-4F0C-43B3-8449-31A16D2E0DEA' id='FORM-92AD100E-4F0C-43B3-8449-31A16D2E0DEA' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -594,10 +624,10 @@ The diagram is not drawn to scale.
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Neeraj Singh</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_ns_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -629,6 +659,9 @@ One angle of a triangle is $30 \degree$. The second angle is twice the size of t
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2C5C8574-9C13-4432-A6BD-A69701D55857' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2C5C8574-9C13-4432-A6BD-A69701D55857' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2C5C8574-9C13-4432-A6BD-A69701D55857' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -641,7 +674,7 @@ One angle of a triangle is $30 \degree$. The second angle is twice the size of t
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2C5C8574-9C13-4432-A6BD-A69701D55857' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2C5C8574-9C13-4432-A6BD-A69701D55857' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2C5C8574-9C13-4432-A6BD-A69701D55857' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2C5C8574-9C13-4432-A6BD-A69701D55857' onclick='submitReview(event)'>PRR</button>
@@ -652,9 +685,12 @@ One angle of a triangle is $30 \degree$. The second angle is twice the size of t
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2C5C8574-9C13-4432-A6BD-A69701D55857' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='2C5C8574-9C13-4432-A6BD-A69701D55857' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='2C5C8574-9C13-4432-A6BD-A69701D55857' id='FORM-2C5C8574-9C13-4432-A6BD-A69701D55857' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2C5C8574-9C13-4432-A6BD-A69701D55857' id='FORM-2C5C8574-9C13-4432-A6BD-A69701D55857' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -674,10 +710,10 @@ One angle of a triangle is $30 \degree$. The second angle is twice the size of t
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:1:4</p>
 </div>
 <div class='rag'>
-<p>Neeraj Singh</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_ns_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -800,6 +836,9 @@ Find $c$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='49AAD1B8-2F4E-4147-AA60-E6B5D8F00875' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='49AAD1B8-2F4E-4147-AA60-E6B5D8F00875' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='49AAD1B8-2F4E-4147-AA60-E6B5D8F00875' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -812,7 +851,7 @@ Find $c$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='49AAD1B8-2F4E-4147-AA60-E6B5D8F00875' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='49AAD1B8-2F4E-4147-AA60-E6B5D8F00875' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='49AAD1B8-2F4E-4147-AA60-E6B5D8F00875' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='49AAD1B8-2F4E-4147-AA60-E6B5D8F00875' onclick='submitReview(event)'>PRR</button>
@@ -823,9 +862,12 @@ Find $c$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='49AAD1B8-2F4E-4147-AA60-E6B5D8F00875' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='49AAD1B8-2F4E-4147-AA60-E6B5D8F00875' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='49AAD1B8-2F4E-4147-AA60-E6B5D8F00875' id='FORM-49AAD1B8-2F4E-4147-AA60-E6B5D8F00875' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='49AAD1B8-2F4E-4147-AA60-E6B5D8F00875' id='FORM-49AAD1B8-2F4E-4147-AA60-E6B5D8F00875' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -845,10 +887,10 @@ Find $c$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b:1:2</p>
 </div>
 <div class='rag'>
-<p>Neeraj Singh</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_ns_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -925,6 +967,9 @@ What is the size of angle $A$?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DB9E2E26-0316-4C3F-9AF2-5DD67552215E' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DB9E2E26-0316-4C3F-9AF2-5DD67552215E' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DB9E2E26-0316-4C3F-9AF2-5DD67552215E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -937,7 +982,7 @@ What is the size of angle $A$?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DB9E2E26-0316-4C3F-9AF2-5DD67552215E' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DB9E2E26-0316-4C3F-9AF2-5DD67552215E' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DB9E2E26-0316-4C3F-9AF2-5DD67552215E' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DB9E2E26-0316-4C3F-9AF2-5DD67552215E' onclick='submitReview(event)'>PRR</button>
@@ -948,9 +993,12 @@ What is the size of angle $A$?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DB9E2E26-0316-4C3F-9AF2-5DD67552215E' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='DB9E2E26-0316-4C3F-9AF2-5DD67552215E' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='DB9E2E26-0316-4C3F-9AF2-5DD67552215E' id='FORM-DB9E2E26-0316-4C3F-9AF2-5DD67552215E' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DB9E2E26-0316-4C3F-9AF2-5DD67552215E' id='FORM-DB9E2E26-0316-4C3F-9AF2-5DD67552215E' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -970,10 +1018,10 @@ What is the size of angle $A$?
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:9</p>
 </div>
 <div class='rag'>
-<p>Neeraj Singh</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_ns_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1005,6 +1053,9 @@ One of the angles in a triangle is $40 \degree$. One of the remaining two angles
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A56ACBA8-8B03-4C19-A720-E78F6EDE381F' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A56ACBA8-8B03-4C19-A720-E78F6EDE381F' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A56ACBA8-8B03-4C19-A720-E78F6EDE381F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1017,7 +1068,7 @@ One of the angles in a triangle is $40 \degree$. One of the remaining two angles
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A56ACBA8-8B03-4C19-A720-E78F6EDE381F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A56ACBA8-8B03-4C19-A720-E78F6EDE381F' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A56ACBA8-8B03-4C19-A720-E78F6EDE381F' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A56ACBA8-8B03-4C19-A720-E78F6EDE381F' onclick='submitReview(event)'>PRR</button>
@@ -1028,9 +1079,12 @@ One of the angles in a triangle is $40 \degree$. One of the remaining two angles
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A56ACBA8-8B03-4C19-A720-E78F6EDE381F' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='A56ACBA8-8B03-4C19-A720-E78F6EDE381F' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A56ACBA8-8B03-4C19-A720-E78F6EDE381F' id='FORM-A56ACBA8-8B03-4C19-A720-E78F6EDE381F' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A56ACBA8-8B03-4C19-A720-E78F6EDE381F' id='FORM-A56ACBA8-8B03-4C19-A720-E78F6EDE381F' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1050,10 +1104,10 @@ One of the angles in a triangle is $40 \degree$. One of the remaining two angles
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:1:12</p>
 </div>
 <div class='rag'>
-<p>Neeraj Singh</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_ns_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1085,6 +1139,9 @@ In a triangle, the largest angle is two times the middle angle and the middle an
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='534AB0EB-98BA-4FF7-BBA3-6A6F9B846FB2' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='534AB0EB-98BA-4FF7-BBA3-6A6F9B846FB2' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='534AB0EB-98BA-4FF7-BBA3-6A6F9B846FB2' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1097,7 +1154,7 @@ In a triangle, the largest angle is two times the middle angle and the middle an
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='534AB0EB-98BA-4FF7-BBA3-6A6F9B846FB2' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='534AB0EB-98BA-4FF7-BBA3-6A6F9B846FB2' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='534AB0EB-98BA-4FF7-BBA3-6A6F9B846FB2' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='534AB0EB-98BA-4FF7-BBA3-6A6F9B846FB2' onclick='submitReview(event)'>PRR</button>
@@ -1108,9 +1165,12 @@ In a triangle, the largest angle is two times the middle angle and the middle an
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='534AB0EB-98BA-4FF7-BBA3-6A6F9B846FB2' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='534AB0EB-98BA-4FF7-BBA3-6A6F9B846FB2' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='534AB0EB-98BA-4FF7-BBA3-6A6F9B846FB2' id='FORM-534AB0EB-98BA-4FF7-BBA3-6A6F9B846FB2' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='534AB0EB-98BA-4FF7-BBA3-6A6F9B846FB2' id='FORM-534AB0EB-98BA-4FF7-BBA3-6A6F9B846FB2' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1130,10 +1190,10 @@ In a triangle, the largest angle is two times the middle angle and the middle an
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>Neeraj Singh</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_ns_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1174,6 +1234,9 @@ Calculate each of the angles marked $x$ and $y$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D5B7995B-1A69-47C2-AD74-3593471D778A' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D5B7995B-1A69-47C2-AD74-3593471D778A' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D5B7995B-1A69-47C2-AD74-3593471D778A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1186,7 +1249,7 @@ Calculate each of the angles marked $x$ and $y$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D5B7995B-1A69-47C2-AD74-3593471D778A' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D5B7995B-1A69-47C2-AD74-3593471D778A' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D5B7995B-1A69-47C2-AD74-3593471D778A' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D5B7995B-1A69-47C2-AD74-3593471D778A' onclick='submitReview(event)'>PRR</button>
@@ -1197,9 +1260,12 @@ Calculate each of the angles marked $x$ and $y$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D5B7995B-1A69-47C2-AD74-3593471D778A' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='D5B7995B-1A69-47C2-AD74-3593471D778A' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='D5B7995B-1A69-47C2-AD74-3593471D778A' id='FORM-D5B7995B-1A69-47C2-AD74-3593471D778A' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D5B7995B-1A69-47C2-AD74-3593471D778A' id='FORM-D5B7995B-1A69-47C2-AD74-3593471D778A' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1219,10 +1285,10 @@ Calculate each of the angles marked $x$ and $y$.
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:16</p>
 </div>
 <div class='rag'>
-<p>Neeraj Singh</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_ns_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1259,6 +1325,9 @@ What is the size of the angle marked $x$ in the diagram below? [diagram not draw
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='93995941-DF79-4306-A16E-1B3F36315184' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='93995941-DF79-4306-A16E-1B3F36315184' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='93995941-DF79-4306-A16E-1B3F36315184' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1271,7 +1340,7 @@ What is the size of the angle marked $x$ in the diagram below? [diagram not draw
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='93995941-DF79-4306-A16E-1B3F36315184' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='93995941-DF79-4306-A16E-1B3F36315184' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='93995941-DF79-4306-A16E-1B3F36315184' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='93995941-DF79-4306-A16E-1B3F36315184' onclick='submitReview(event)'>PRR</button>
@@ -1282,9 +1351,12 @@ What is the size of the angle marked $x$ in the diagram below? [diagram not draw
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='93995941-DF79-4306-A16E-1B3F36315184' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='93995941-DF79-4306-A16E-1B3F36315184' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='93995941-DF79-4306-A16E-1B3F36315184' id='FORM-93995941-DF79-4306-A16E-1B3F36315184' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='93995941-DF79-4306-A16E-1B3F36315184' id='FORM-93995941-DF79-4306-A16E-1B3F36315184' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1304,10 +1376,10 @@ What is the size of the angle marked $x$ in the diagram below? [diagram not draw
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4:1:19</p>
 </div>
 <div class='rag'>
-<p>Neeraj Singh</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_ns_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1344,6 +1416,9 @@ Find the value of $x$ in the diagram below
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7DEE085F-FD27-4FBE-B961-7848EFAF05B5' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7DEE085F-FD27-4FBE-B961-7848EFAF05B5' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7DEE085F-FD27-4FBE-B961-7848EFAF05B5' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1356,7 +1431,7 @@ Find the value of $x$ in the diagram below
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7DEE085F-FD27-4FBE-B961-7848EFAF05B5' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7DEE085F-FD27-4FBE-B961-7848EFAF05B5' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7DEE085F-FD27-4FBE-B961-7848EFAF05B5' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7DEE085F-FD27-4FBE-B961-7848EFAF05B5' onclick='submitReview(event)'>PRR</button>
@@ -1367,9 +1442,12 @@ Find the value of $x$ in the diagram below
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7DEE085F-FD27-4FBE-B961-7848EFAF05B5' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='7DEE085F-FD27-4FBE-B961-7848EFAF05B5' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='7DEE085F-FD27-4FBE-B961-7848EFAF05B5' id='FORM-7DEE085F-FD27-4FBE-B961-7848EFAF05B5' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7DEE085F-FD27-4FBE-B961-7848EFAF05B5' id='FORM-7DEE085F-FD27-4FBE-B961-7848EFAF05B5' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1389,10 +1467,10 @@ Find the value of $x$ in the diagram below
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5:1:5</p>
 </div>
 <div class='rag'>
-<p>Neeraj Singh</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_ns_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1429,6 +1507,9 @@ Calculate the missing angle in the triangle shown below:
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D5EA307D-A637-466A-B45F-001616286B7A' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D5EA307D-A637-466A-B45F-001616286B7A' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D5EA307D-A637-466A-B45F-001616286B7A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1441,7 +1522,7 @@ Calculate the missing angle in the triangle shown below:
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D5EA307D-A637-466A-B45F-001616286B7A' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D5EA307D-A637-466A-B45F-001616286B7A' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D5EA307D-A637-466A-B45F-001616286B7A' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D5EA307D-A637-466A-B45F-001616286B7A' onclick='submitReview(event)'>PRR</button>
@@ -1452,9 +1533,12 @@ Calculate the missing angle in the triangle shown below:
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D5EA307D-A637-466A-B45F-001616286B7A' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='D5EA307D-A637-466A-B45F-001616286B7A' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='D5EA307D-A637-466A-B45F-001616286B7A' id='FORM-D5EA307D-A637-466A-B45F-001616286B7A' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D5EA307D-A637-466A-B45F-001616286B7A' id='FORM-D5EA307D-A637-466A-B45F-001616286B7A' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1474,10 +1558,10 @@ Calculate the missing angle in the triangle shown below:
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Neeraj Singh</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_ns_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1511,6 +1595,9 @@ In the triangle below measure the side AB and the angle A.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='30F14B44-C370-42DC-ACB1-B6C24CB565FD' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='30F14B44-C370-42DC-ACB1-B6C24CB565FD' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='30F14B44-C370-42DC-ACB1-B6C24CB565FD' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1523,7 +1610,7 @@ In the triangle below measure the side AB and the angle A.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='30F14B44-C370-42DC-ACB1-B6C24CB565FD' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='30F14B44-C370-42DC-ACB1-B6C24CB565FD' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='30F14B44-C370-42DC-ACB1-B6C24CB565FD' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='30F14B44-C370-42DC-ACB1-B6C24CB565FD' onclick='submitReview(event)'>PRR</button>
@@ -1534,9 +1621,12 @@ In the triangle below measure the side AB and the angle A.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='30F14B44-C370-42DC-ACB1-B6C24CB565FD' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='30F14B44-C370-42DC-ACB1-B6C24CB565FD' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='30F14B44-C370-42DC-ACB1-B6C24CB565FD' id='FORM-30F14B44-C370-42DC-ACB1-B6C24CB565FD' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='30F14B44-C370-42DC-ACB1-B6C24CB565FD' id='FORM-30F14B44-C370-42DC-ACB1-B6C24CB565FD' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1556,10 +1646,10 @@ In the triangle below measure the side AB and the angle A.
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Neeraj Singh</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_ns_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1600,6 +1690,9 @@ In the diagram below the straight lines ABG and DEF are parallel. Lines CB and E
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='17360B83-7524-4915-9C57-EA134B592244' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='17360B83-7524-4915-9C57-EA134B592244' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='17360B83-7524-4915-9C57-EA134B592244' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1612,7 +1705,7 @@ In the diagram below the straight lines ABG and DEF are parallel. Lines CB and E
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='17360B83-7524-4915-9C57-EA134B592244' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='17360B83-7524-4915-9C57-EA134B592244' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='17360B83-7524-4915-9C57-EA134B592244' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='17360B83-7524-4915-9C57-EA134B592244' onclick='submitReview(event)'>PRR</button>
@@ -1623,9 +1716,12 @@ In the diagram below the straight lines ABG and DEF are parallel. Lines CB and E
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='17360B83-7524-4915-9C57-EA134B592244' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='17360B83-7524-4915-9C57-EA134B592244' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='17360B83-7524-4915-9C57-EA134B592244' id='FORM-17360B83-7524-4915-9C57-EA134B592244' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='17360B83-7524-4915-9C57-EA134B592244' id='FORM-17360B83-7524-4915-9C57-EA134B592244' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1645,10 +1741,10 @@ In the diagram below the straight lines ABG and DEF are parallel. Lines CB and E
 <p>tonbridge-school--scholarship--maths--2016--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Neeraj Singh</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_ns_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1686,6 +1782,9 @@ $x$ = ABC in degrees. Use algebra to calculate the size of angle $𝑥$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='350C5860-89A9-49E5-ADDE-D75EE7765786' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='350C5860-89A9-49E5-ADDE-D75EE7765786' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='350C5860-89A9-49E5-ADDE-D75EE7765786' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1698,7 +1797,7 @@ $x$ = ABC in degrees. Use algebra to calculate the size of angle $𝑥$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='350C5860-89A9-49E5-ADDE-D75EE7765786' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='350C5860-89A9-49E5-ADDE-D75EE7765786' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='350C5860-89A9-49E5-ADDE-D75EE7765786' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='350C5860-89A9-49E5-ADDE-D75EE7765786' onclick='submitReview(event)'>PRR</button>
@@ -1709,9 +1808,12 @@ $x$ = ABC in degrees. Use algebra to calculate the size of angle $𝑥$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='350C5860-89A9-49E5-ADDE-D75EE7765786' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='350C5860-89A9-49E5-ADDE-D75EE7765786' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='350C5860-89A9-49E5-ADDE-D75EE7765786' id='FORM-350C5860-89A9-49E5-ADDE-D75EE7765786' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='350C5860-89A9-49E5-ADDE-D75EE7765786' id='FORM-350C5860-89A9-49E5-ADDE-D75EE7765786' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1731,10 +1833,10 @@ $x$ = ABC in degrees. Use algebra to calculate the size of angle $𝑥$.
 <p>tonbridge-school--scholarship--maths--2016--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Neeraj Singh</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_ns_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1806,6 +1908,9 @@ It is possible for *A, B, C* all to be square numbers.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FCB631C7-7D98-4CFE-836A-038C985519BC' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FCB631C7-7D98-4CFE-836A-038C985519BC' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FCB631C7-7D98-4CFE-836A-038C985519BC' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1818,7 +1923,7 @@ It is possible for *A, B, C* all to be square numbers.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FCB631C7-7D98-4CFE-836A-038C985519BC' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FCB631C7-7D98-4CFE-836A-038C985519BC' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FCB631C7-7D98-4CFE-836A-038C985519BC' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FCB631C7-7D98-4CFE-836A-038C985519BC' onclick='submitReview(event)'>PRR</button>
@@ -1829,9 +1934,12 @@ It is possible for *A, B, C* all to be square numbers.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FCB631C7-7D98-4CFE-836A-038C985519BC' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='FCB631C7-7D98-4CFE-836A-038C985519BC' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='FCB631C7-7D98-4CFE-836A-038C985519BC' id='FORM-FCB631C7-7D98-4CFE-836A-038C985519BC' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FCB631C7-7D98-4CFE-836A-038C985519BC' id='FORM-FCB631C7-7D98-4CFE-836A-038C985519BC' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1851,10 +1959,10 @@ It is possible for *A, B, C* all to be square numbers.
 <p>tonbridge-school--scholarship--maths--2017--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Neeraj Singh</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_ns_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1931,6 +2039,9 @@ If triangle BCD is equilateral, what is the value of $x$ ?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='87FA4AD1-10FF-4E33-A2D5-9DABB8D57F60' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='87FA4AD1-10FF-4E33-A2D5-9DABB8D57F60' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='87FA4AD1-10FF-4E33-A2D5-9DABB8D57F60' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1943,7 +2054,7 @@ If triangle BCD is equilateral, what is the value of $x$ ?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='87FA4AD1-10FF-4E33-A2D5-9DABB8D57F60' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='87FA4AD1-10FF-4E33-A2D5-9DABB8D57F60' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='87FA4AD1-10FF-4E33-A2D5-9DABB8D57F60' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='87FA4AD1-10FF-4E33-A2D5-9DABB8D57F60' onclick='submitReview(event)'>PRR</button>
@@ -1954,9 +2065,12 @@ If triangle BCD is equilateral, what is the value of $x$ ?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='87FA4AD1-10FF-4E33-A2D5-9DABB8D57F60' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='87FA4AD1-10FF-4E33-A2D5-9DABB8D57F60' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='87FA4AD1-10FF-4E33-A2D5-9DABB8D57F60' id='FORM-87FA4AD1-10FF-4E33-A2D5-9DABB8D57F60' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='87FA4AD1-10FF-4E33-A2D5-9DABB8D57F60' id='FORM-87FA4AD1-10FF-4E33-A2D5-9DABB8D57F60' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1976,10 +2090,10 @@ If triangle BCD is equilateral, what is the value of $x$ ?
 <p>tonbridge-school--scholarship--maths--2018--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
-<p>Neeraj Singh</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_ns_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -2081,6 +2195,9 @@ Pre question - Letters in KATEX
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C3637EB3-06AC-44BA-B12B-9EC4A9565D76' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C3637EB3-06AC-44BA-B12B-9EC4A9565D76' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C3637EB3-06AC-44BA-B12B-9EC4A9565D76' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2093,7 +2210,7 @@ Pre question - Letters in KATEX
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C3637EB3-06AC-44BA-B12B-9EC4A9565D76' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C3637EB3-06AC-44BA-B12B-9EC4A9565D76' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C3637EB3-06AC-44BA-B12B-9EC4A9565D76' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C3637EB3-06AC-44BA-B12B-9EC4A9565D76' onclick='submitReview(event)'>PRR</button>
@@ -2104,9 +2221,12 @@ Pre question - Letters in KATEX
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C3637EB3-06AC-44BA-B12B-9EC4A9565D76' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='C3637EB3-06AC-44BA-B12B-9EC4A9565D76' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='C3637EB3-06AC-44BA-B12B-9EC4A9565D76' id='FORM-C3637EB3-06AC-44BA-B12B-9EC4A9565D76' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C3637EB3-06AC-44BA-B12B-9EC4A9565D76' id='FORM-C3637EB3-06AC-44BA-B12B-9EC4A9565D76' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2126,10 +2246,10 @@ Pre question - Letters in KATEX
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
-<p>Neeraj Singh</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_ns_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -2172,6 +2292,9 @@ Calculate the value of angle $x$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D90DBE3D-71F6-47D8-B03D-147F904077DE' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D90DBE3D-71F6-47D8-B03D-147F904077DE' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D90DBE3D-71F6-47D8-B03D-147F904077DE' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2184,7 +2307,7 @@ Calculate the value of angle $x$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D90DBE3D-71F6-47D8-B03D-147F904077DE' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D90DBE3D-71F6-47D8-B03D-147F904077DE' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D90DBE3D-71F6-47D8-B03D-147F904077DE' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D90DBE3D-71F6-47D8-B03D-147F904077DE' onclick='submitReview(event)'>PRR</button>
@@ -2195,9 +2318,12 @@ Calculate the value of angle $x$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D90DBE3D-71F6-47D8-B03D-147F904077DE' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='D90DBE3D-71F6-47D8-B03D-147F904077DE' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='D90DBE3D-71F6-47D8-B03D-147F904077DE' id='FORM-D90DBE3D-71F6-47D8-B03D-147F904077DE' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D90DBE3D-71F6-47D8-B03D-147F904077DE' id='FORM-D90DBE3D-71F6-47D8-B03D-147F904077DE' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2217,10 +2343,10 @@ Calculate the value of angle $x$.
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Neeraj Singh</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_ns_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -2261,6 +2387,9 @@ $\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7DCDB0A0-BAE3-4B88-AE9A-61CD1E101BC6' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7DCDB0A0-BAE3-4B88-AE9A-61CD1E101BC6' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7DCDB0A0-BAE3-4B88-AE9A-61CD1E101BC6' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2273,7 +2402,7 @@ $\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7DCDB0A0-BAE3-4B88-AE9A-61CD1E101BC6' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7DCDB0A0-BAE3-4B88-AE9A-61CD1E101BC6' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7DCDB0A0-BAE3-4B88-AE9A-61CD1E101BC6' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7DCDB0A0-BAE3-4B88-AE9A-61CD1E101BC6' onclick='submitReview(event)'>PRR</button>
@@ -2284,9 +2413,12 @@ $\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7DCDB0A0-BAE3-4B88-AE9A-61CD1E101BC6' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='7DCDB0A0-BAE3-4B88-AE9A-61CD1E101BC6' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='7DCDB0A0-BAE3-4B88-AE9A-61CD1E101BC6' id='FORM-7DCDB0A0-BAE3-4B88-AE9A-61CD1E101BC6' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7DCDB0A0-BAE3-4B88-AE9A-61CD1E101BC6' id='FORM-7DCDB0A0-BAE3-4B88-AE9A-61CD1E101BC6' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

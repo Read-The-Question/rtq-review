@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tspeed-2-pr-prcr"
 title: "TopicPaper - Speed - 2 - PR - PRCR"
-date: 2022-08-19 16:00:22
+date: 2022-09-09 06:32:25
 questions_count: "18"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "18"
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -71,6 +71,9 @@ At what time does train $B$ overtake train $A$?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1D053FF5-F5C3-4A33-9F15-EF02705C8BD0' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1D053FF5-F5C3-4A33-9F15-EF02705C8BD0' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1D053FF5-F5C3-4A33-9F15-EF02705C8BD0' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -83,7 +86,7 @@ At what time does train $B$ overtake train $A$?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1D053FF5-F5C3-4A33-9F15-EF02705C8BD0' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1D053FF5-F5C3-4A33-9F15-EF02705C8BD0' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1D053FF5-F5C3-4A33-9F15-EF02705C8BD0' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1D053FF5-F5C3-4A33-9F15-EF02705C8BD0' onclick='submitReview(event)'>PRR</button>
@@ -94,9 +97,12 @@ At what time does train $B$ overtake train $A$?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1D053FF5-F5C3-4A33-9F15-EF02705C8BD0' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='1D053FF5-F5C3-4A33-9F15-EF02705C8BD0' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='1D053FF5-F5C3-4A33-9F15-EF02705C8BD0' id='FORM-1D053FF5-F5C3-4A33-9F15-EF02705C8BD0' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1D053FF5-F5C3-4A33-9F15-EF02705C8BD0' id='FORM-1D053FF5-F5C3-4A33-9F15-EF02705C8BD0' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -116,10 +122,10 @@ At what time does train $B$ overtake train $A$?
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -159,6 +165,9 @@ At what speed (in metres per minute) does the tortoise need to run to cross the 
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='10B39F70-A4DD-4349-8C17-8BB01B8438F1' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='10B39F70-A4DD-4349-8C17-8BB01B8438F1' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='10B39F70-A4DD-4349-8C17-8BB01B8438F1' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -171,7 +180,7 @@ At what speed (in metres per minute) does the tortoise need to run to cross the 
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='10B39F70-A4DD-4349-8C17-8BB01B8438F1' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='10B39F70-A4DD-4349-8C17-8BB01B8438F1' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='10B39F70-A4DD-4349-8C17-8BB01B8438F1' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='10B39F70-A4DD-4349-8C17-8BB01B8438F1' onclick='submitReview(event)'>PRR</button>
@@ -182,9 +191,12 @@ At what speed (in metres per minute) does the tortoise need to run to cross the 
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='10B39F70-A4DD-4349-8C17-8BB01B8438F1' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='10B39F70-A4DD-4349-8C17-8BB01B8438F1' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='10B39F70-A4DD-4349-8C17-8BB01B8438F1' id='FORM-10B39F70-A4DD-4349-8C17-8BB01B8438F1' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='10B39F70-A4DD-4349-8C17-8BB01B8438F1' id='FORM-10B39F70-A4DD-4349-8C17-8BB01B8438F1' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -204,10 +216,10 @@ At what speed (in metres per minute) does the tortoise need to run to cross the 
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -238,6 +250,9 @@ Work out his speed in both kilometres per hour and metres per minute.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5DCC416B-7200-4C81-96BF-BAFD35E63E30' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5DCC416B-7200-4C81-96BF-BAFD35E63E30' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5DCC416B-7200-4C81-96BF-BAFD35E63E30' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -250,7 +265,7 @@ Work out his speed in both kilometres per hour and metres per minute.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5DCC416B-7200-4C81-96BF-BAFD35E63E30' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5DCC416B-7200-4C81-96BF-BAFD35E63E30' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5DCC416B-7200-4C81-96BF-BAFD35E63E30' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5DCC416B-7200-4C81-96BF-BAFD35E63E30' onclick='submitReview(event)'>PRR</button>
@@ -261,9 +276,12 @@ Work out his speed in both kilometres per hour and metres per minute.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5DCC416B-7200-4C81-96BF-BAFD35E63E30' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='5DCC416B-7200-4C81-96BF-BAFD35E63E30' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='5DCC416B-7200-4C81-96BF-BAFD35E63E30' id='FORM-5DCC416B-7200-4C81-96BF-BAFD35E63E30' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5DCC416B-7200-4C81-96BF-BAFD35E63E30' id='FORM-5DCC416B-7200-4C81-96BF-BAFD35E63E30' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -283,10 +301,10 @@ Work out his speed in both kilometres per hour and metres per minute.
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -352,6 +370,9 @@ On what date did Maya sow the seed in the ground?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='63467E59-BFD1-4B74-9DA5-FA1429DF09FA' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='63467E59-BFD1-4B74-9DA5-FA1429DF09FA' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='63467E59-BFD1-4B74-9DA5-FA1429DF09FA' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -364,7 +385,7 @@ On what date did Maya sow the seed in the ground?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='63467E59-BFD1-4B74-9DA5-FA1429DF09FA' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='63467E59-BFD1-4B74-9DA5-FA1429DF09FA' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='63467E59-BFD1-4B74-9DA5-FA1429DF09FA' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='63467E59-BFD1-4B74-9DA5-FA1429DF09FA' onclick='submitReview(event)'>PRR</button>
@@ -375,9 +396,12 @@ On what date did Maya sow the seed in the ground?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='63467E59-BFD1-4B74-9DA5-FA1429DF09FA' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='63467E59-BFD1-4B74-9DA5-FA1429DF09FA' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='63467E59-BFD1-4B74-9DA5-FA1429DF09FA' id='FORM-63467E59-BFD1-4B74-9DA5-FA1429DF09FA' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='63467E59-BFD1-4B74-9DA5-FA1429DF09FA' id='FORM-63467E59-BFD1-4B74-9DA5-FA1429DF09FA' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -397,10 +421,10 @@ On what date did Maya sow the seed in the ground?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:41</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -470,6 +494,9 @@ After how many days will the two icebergs have the same mass?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='103CC4D8-F4C0-4CF7-9976-61BA9AA7017D' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='103CC4D8-F4C0-4CF7-9976-61BA9AA7017D' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='103CC4D8-F4C0-4CF7-9976-61BA9AA7017D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -482,7 +509,7 @@ After how many days will the two icebergs have the same mass?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='103CC4D8-F4C0-4CF7-9976-61BA9AA7017D' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='103CC4D8-F4C0-4CF7-9976-61BA9AA7017D' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='103CC4D8-F4C0-4CF7-9976-61BA9AA7017D' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='103CC4D8-F4C0-4CF7-9976-61BA9AA7017D' onclick='submitReview(event)'>PRR</button>
@@ -493,9 +520,12 @@ After how many days will the two icebergs have the same mass?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='103CC4D8-F4C0-4CF7-9976-61BA9AA7017D' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='103CC4D8-F4C0-4CF7-9976-61BA9AA7017D' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='103CC4D8-F4C0-4CF7-9976-61BA9AA7017D' id='FORM-103CC4D8-F4C0-4CF7-9976-61BA9AA7017D' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='103CC4D8-F4C0-4CF7-9976-61BA9AA7017D' id='FORM-103CC4D8-F4C0-4CF7-9976-61BA9AA7017D' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -515,10 +545,10 @@ After how many days will the two icebergs have the same mass?
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -550,6 +580,9 @@ Adam ran $3 \ \text{kilometres}$ in $13 \ \text{minutes}$. Jackie started $30 \ 
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1726FC9C-67EA-46CA-9AE2-A3CB7D96F149' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1726FC9C-67EA-46CA-9AE2-A3CB7D96F149' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1726FC9C-67EA-46CA-9AE2-A3CB7D96F149' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -562,7 +595,7 @@ Adam ran $3 \ \text{kilometres}$ in $13 \ \text{minutes}$. Jackie started $30 \ 
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1726FC9C-67EA-46CA-9AE2-A3CB7D96F149' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1726FC9C-67EA-46CA-9AE2-A3CB7D96F149' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1726FC9C-67EA-46CA-9AE2-A3CB7D96F149' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1726FC9C-67EA-46CA-9AE2-A3CB7D96F149' onclick='submitReview(event)'>PRR</button>
@@ -573,9 +606,12 @@ Adam ran $3 \ \text{kilometres}$ in $13 \ \text{minutes}$. Jackie started $30 \ 
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1726FC9C-67EA-46CA-9AE2-A3CB7D96F149' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='1726FC9C-67EA-46CA-9AE2-A3CB7D96F149' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='1726FC9C-67EA-46CA-9AE2-A3CB7D96F149' id='FORM-1726FC9C-67EA-46CA-9AE2-A3CB7D96F149' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1726FC9C-67EA-46CA-9AE2-A3CB7D96F149' id='FORM-1726FC9C-67EA-46CA-9AE2-A3CB7D96F149' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -595,10 +631,10 @@ Adam ran $3 \ \text{kilometres}$ in $13 \ \text{minutes}$. Jackie started $30 \ 
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-2:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -674,6 +710,9 @@ At what speed is the horse running, in miles per hour?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E02F1C9F-BBD8-40C2-BCD2-66B3C1A9B555' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E02F1C9F-BBD8-40C2-BCD2-66B3C1A9B555' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E02F1C9F-BBD8-40C2-BCD2-66B3C1A9B555' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -686,7 +725,7 @@ At what speed is the horse running, in miles per hour?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E02F1C9F-BBD8-40C2-BCD2-66B3C1A9B555' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E02F1C9F-BBD8-40C2-BCD2-66B3C1A9B555' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E02F1C9F-BBD8-40C2-BCD2-66B3C1A9B555' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E02F1C9F-BBD8-40C2-BCD2-66B3C1A9B555' onclick='submitReview(event)'>PRR</button>
@@ -697,9 +736,12 @@ At what speed is the horse running, in miles per hour?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E02F1C9F-BBD8-40C2-BCD2-66B3C1A9B555' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='E02F1C9F-BBD8-40C2-BCD2-66B3C1A9B555' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='E02F1C9F-BBD8-40C2-BCD2-66B3C1A9B555' id='FORM-E02F1C9F-BBD8-40C2-BCD2-66B3C1A9B555' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E02F1C9F-BBD8-40C2-BCD2-66B3C1A9B555' id='FORM-E02F1C9F-BBD8-40C2-BCD2-66B3C1A9B555' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -719,10 +761,10 @@ At what speed is the horse running, in miles per hour?
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -758,6 +800,9 @@ Stephen does the same journey at a speed of $30 \ \text{kilometres per hour}$. H
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BEB3546E-2716-4336-88AC-C154568C8CE6' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BEB3546E-2716-4336-88AC-C154568C8CE6' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BEB3546E-2716-4336-88AC-C154568C8CE6' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -770,7 +815,7 @@ Stephen does the same journey at a speed of $30 \ \text{kilometres per hour}$. H
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BEB3546E-2716-4336-88AC-C154568C8CE6' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BEB3546E-2716-4336-88AC-C154568C8CE6' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BEB3546E-2716-4336-88AC-C154568C8CE6' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BEB3546E-2716-4336-88AC-C154568C8CE6' onclick='submitReview(event)'>PRR</button>
@@ -781,9 +826,12 @@ Stephen does the same journey at a speed of $30 \ \text{kilometres per hour}$. H
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BEB3546E-2716-4336-88AC-C154568C8CE6' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='BEB3546E-2716-4336-88AC-C154568C8CE6' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='BEB3546E-2716-4336-88AC-C154568C8CE6' id='FORM-BEB3546E-2716-4336-88AC-C154568C8CE6' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BEB3546E-2716-4336-88AC-C154568C8CE6' id='FORM-BEB3546E-2716-4336-88AC-C154568C8CE6' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -803,10 +851,10 @@ Stephen does the same journey at a speed of $30 \ \text{kilometres per hour}$. H
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-b:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -962,6 +1010,9 @@ What distance would the car be from the child when the driver stopped if he was 
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9C47F6E7-B85D-44F3-8F0D-59F57D3BDDA4' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9C47F6E7-B85D-44F3-8F0D-59F57D3BDDA4' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9C47F6E7-B85D-44F3-8F0D-59F57D3BDDA4' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -974,7 +1025,7 @@ What distance would the car be from the child when the driver stopped if he was 
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9C47F6E7-B85D-44F3-8F0D-59F57D3BDDA4' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9C47F6E7-B85D-44F3-8F0D-59F57D3BDDA4' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9C47F6E7-B85D-44F3-8F0D-59F57D3BDDA4' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9C47F6E7-B85D-44F3-8F0D-59F57D3BDDA4' onclick='submitReview(event)'>PRR</button>
@@ -985,9 +1036,12 @@ What distance would the car be from the child when the driver stopped if he was 
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9C47F6E7-B85D-44F3-8F0D-59F57D3BDDA4' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='9C47F6E7-B85D-44F3-8F0D-59F57D3BDDA4' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='9C47F6E7-B85D-44F3-8F0D-59F57D3BDDA4' id='FORM-9C47F6E7-B85D-44F3-8F0D-59F57D3BDDA4' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9C47F6E7-B85D-44F3-8F0D-59F57D3BDDA4' id='FORM-9C47F6E7-B85D-44F3-8F0D-59F57D3BDDA4' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1007,10 +1061,10 @@ What distance would the car be from the child when the driver stopped if he was 
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1100,6 +1154,9 @@ A truck travels $50 \ \text{metres}$ while accelerating at a rate of $4$. How lo
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B7EB2E1D-9C20-4BB4-BF98-6B88805D2EA3' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B7EB2E1D-9C20-4BB4-BF98-6B88805D2EA3' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B7EB2E1D-9C20-4BB4-BF98-6B88805D2EA3' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1112,7 +1169,7 @@ A truck travels $50 \ \text{metres}$ while accelerating at a rate of $4$. How lo
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B7EB2E1D-9C20-4BB4-BF98-6B88805D2EA3' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B7EB2E1D-9C20-4BB4-BF98-6B88805D2EA3' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B7EB2E1D-9C20-4BB4-BF98-6B88805D2EA3' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B7EB2E1D-9C20-4BB4-BF98-6B88805D2EA3' onclick='submitReview(event)'>PRR</button>
@@ -1123,9 +1180,12 @@ A truck travels $50 \ \text{metres}$ while accelerating at a rate of $4$. How lo
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B7EB2E1D-9C20-4BB4-BF98-6B88805D2EA3' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='B7EB2E1D-9C20-4BB4-BF98-6B88805D2EA3' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='B7EB2E1D-9C20-4BB4-BF98-6B88805D2EA3' id='FORM-B7EB2E1D-9C20-4BB4-BF98-6B88805D2EA3' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B7EB2E1D-9C20-4BB4-BF98-6B88805D2EA3' id='FORM-B7EB2E1D-9C20-4BB4-BF98-6B88805D2EA3' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1145,10 +1205,10 @@ A truck travels $50 \ \text{metres}$ while accelerating at a rate of $4$. How lo
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-b:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1285,6 +1345,9 @@ A Gold award is achieved by scoring a total of $270$ points.  What is the **slow
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C2048F15-27A7-4CAC-BC52-555B3FC8848C' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C2048F15-27A7-4CAC-BC52-555B3FC8848C' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C2048F15-27A7-4CAC-BC52-555B3FC8848C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1297,7 +1360,7 @@ A Gold award is achieved by scoring a total of $270$ points.  What is the **slow
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C2048F15-27A7-4CAC-BC52-555B3FC8848C' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C2048F15-27A7-4CAC-BC52-555B3FC8848C' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C2048F15-27A7-4CAC-BC52-555B3FC8848C' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C2048F15-27A7-4CAC-BC52-555B3FC8848C' onclick='submitReview(event)'>PRR</button>
@@ -1308,9 +1371,12 @@ A Gold award is achieved by scoring a total of $270$ points.  What is the **slow
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C2048F15-27A7-4CAC-BC52-555B3FC8848C' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='C2048F15-27A7-4CAC-BC52-555B3FC8848C' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='C2048F15-27A7-4CAC-BC52-555B3FC8848C' id='FORM-C2048F15-27A7-4CAC-BC52-555B3FC8848C' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C2048F15-27A7-4CAC-BC52-555B3FC8848C' id='FORM-C2048F15-27A7-4CAC-BC52-555B3FC8848C' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1330,10 +1396,10 @@ A Gold award is achieved by scoring a total of $270$ points.  What is the **slow
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1419,6 +1485,9 @@ If the distance the ball travels through the air from the point where the bowler
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1431,7 +1500,7 @@ If the distance the ball travels through the air from the point where the bowler
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onclick='submitReview(event)'>PRR</button>
@@ -1442,9 +1511,12 @@ If the distance the ball travels through the air from the point where the bowler
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' id='FORM-00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' id='FORM-00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1464,10 +1536,10 @@ If the distance the ball travels through the air from the point where the bowler
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1516,6 +1588,9 @@ If it takes me $45\, minutes$ to swim the $1.5\, km$ how long would it take me t
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3B26E7CB-1B5C-4199-8C38-B92AA306E351' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3B26E7CB-1B5C-4199-8C38-B92AA306E351' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3B26E7CB-1B5C-4199-8C38-B92AA306E351' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1528,7 +1603,7 @@ If it takes me $45\, minutes$ to swim the $1.5\, km$ how long would it take me t
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3B26E7CB-1B5C-4199-8C38-B92AA306E351' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3B26E7CB-1B5C-4199-8C38-B92AA306E351' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3B26E7CB-1B5C-4199-8C38-B92AA306E351' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3B26E7CB-1B5C-4199-8C38-B92AA306E351' onclick='submitReview(event)'>PRR</button>
@@ -1539,9 +1614,12 @@ If it takes me $45\, minutes$ to swim the $1.5\, km$ how long would it take me t
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3B26E7CB-1B5C-4199-8C38-B92AA306E351' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='3B26E7CB-1B5C-4199-8C38-B92AA306E351' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='3B26E7CB-1B5C-4199-8C38-B92AA306E351' id='FORM-3B26E7CB-1B5C-4199-8C38-B92AA306E351' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3B26E7CB-1B5C-4199-8C38-B92AA306E351' id='FORM-3B26E7CB-1B5C-4199-8C38-B92AA306E351' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1561,10 +1639,10 @@ If it takes me $45\, minutes$ to swim the $1.5\, km$ how long would it take me t
 <p>tonbridge-school--scholarship--maths--2016--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1644,6 +1722,9 @@ What should my speed be (with the same start time) if I want to arrive at 12.00 
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E5FF003D-6546-4BF1-991C-059F2C4EE567' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E5FF003D-6546-4BF1-991C-059F2C4EE567' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E5FF003D-6546-4BF1-991C-059F2C4EE567' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1656,7 +1737,7 @@ What should my speed be (with the same start time) if I want to arrive at 12.00 
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E5FF003D-6546-4BF1-991C-059F2C4EE567' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E5FF003D-6546-4BF1-991C-059F2C4EE567' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E5FF003D-6546-4BF1-991C-059F2C4EE567' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E5FF003D-6546-4BF1-991C-059F2C4EE567' onclick='submitReview(event)'>PRR</button>
@@ -1667,9 +1748,12 @@ What should my speed be (with the same start time) if I want to arrive at 12.00 
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E5FF003D-6546-4BF1-991C-059F2C4EE567' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='E5FF003D-6546-4BF1-991C-059F2C4EE567' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='E5FF003D-6546-4BF1-991C-059F2C4EE567' id='FORM-E5FF003D-6546-4BF1-991C-059F2C4EE567' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E5FF003D-6546-4BF1-991C-059F2C4EE567' id='FORM-E5FF003D-6546-4BF1-991C-059F2C4EE567' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1689,10 +1773,10 @@ What should my speed be (with the same start time) if I want to arrive at 12.00 
 <p>tonbridge-school--scholarship--maths--2017--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1752,6 +1836,9 @@ After they pass each other for the second time, how much further does Brian need
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6D5ECDFC-21C2-4419-84A6-F605A61E9D0E' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6D5ECDFC-21C2-4419-84A6-F605A61E9D0E' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6D5ECDFC-21C2-4419-84A6-F605A61E9D0E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1764,7 +1851,7 @@ After they pass each other for the second time, how much further does Brian need
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6D5ECDFC-21C2-4419-84A6-F605A61E9D0E' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6D5ECDFC-21C2-4419-84A6-F605A61E9D0E' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6D5ECDFC-21C2-4419-84A6-F605A61E9D0E' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6D5ECDFC-21C2-4419-84A6-F605A61E9D0E' onclick='submitReview(event)'>PRR</button>
@@ -1775,9 +1862,12 @@ After they pass each other for the second time, how much further does Brian need
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6D5ECDFC-21C2-4419-84A6-F605A61E9D0E' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='6D5ECDFC-21C2-4419-84A6-F605A61E9D0E' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='6D5ECDFC-21C2-4419-84A6-F605A61E9D0E' id='FORM-6D5ECDFC-21C2-4419-84A6-F605A61E9D0E' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6D5ECDFC-21C2-4419-84A6-F605A61E9D0E' id='FORM-6D5ECDFC-21C2-4419-84A6-F605A61E9D0E' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1797,10 +1887,10 @@ After they pass each other for the second time, how much further does Brian need
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1829,6 +1919,9 @@ If a hovercraft travels at $80\, kilometres$ per hour how far will it travel in 
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5158C016-23DB-4CF4-BD1A-5CD2AF7241A9' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5158C016-23DB-4CF4-BD1A-5CD2AF7241A9' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5158C016-23DB-4CF4-BD1A-5CD2AF7241A9' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1841,7 +1934,7 @@ If a hovercraft travels at $80\, kilometres$ per hour how far will it travel in 
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5158C016-23DB-4CF4-BD1A-5CD2AF7241A9' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5158C016-23DB-4CF4-BD1A-5CD2AF7241A9' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5158C016-23DB-4CF4-BD1A-5CD2AF7241A9' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5158C016-23DB-4CF4-BD1A-5CD2AF7241A9' onclick='submitReview(event)'>PRR</button>
@@ -1852,9 +1945,12 @@ If a hovercraft travels at $80\, kilometres$ per hour how far will it travel in 
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5158C016-23DB-4CF4-BD1A-5CD2AF7241A9' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='5158C016-23DB-4CF4-BD1A-5CD2AF7241A9' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='5158C016-23DB-4CF4-BD1A-5CD2AF7241A9' id='FORM-5158C016-23DB-4CF4-BD1A-5CD2AF7241A9' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5158C016-23DB-4CF4-BD1A-5CD2AF7241A9' id='FORM-5158C016-23DB-4CF4-BD1A-5CD2AF7241A9' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1874,10 +1970,10 @@ If a hovercraft travels at $80\, kilometres$ per hour how far will it travel in 
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1906,6 +2002,9 @@ In $3\, hours$ a train travels $156\, km$. What is it speed in $km/h$?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='54803EB1-E644-44A4-A8DA-6EE11D0583CC' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='54803EB1-E644-44A4-A8DA-6EE11D0583CC' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='54803EB1-E644-44A4-A8DA-6EE11D0583CC' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1918,7 +2017,7 @@ In $3\, hours$ a train travels $156\, km$. What is it speed in $km/h$?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='54803EB1-E644-44A4-A8DA-6EE11D0583CC' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='54803EB1-E644-44A4-A8DA-6EE11D0583CC' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='54803EB1-E644-44A4-A8DA-6EE11D0583CC' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='54803EB1-E644-44A4-A8DA-6EE11D0583CC' onclick='submitReview(event)'>PRR</button>
@@ -1929,9 +2028,12 @@ In $3\, hours$ a train travels $156\, km$. What is it speed in $km/h$?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='54803EB1-E644-44A4-A8DA-6EE11D0583CC' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='54803EB1-E644-44A4-A8DA-6EE11D0583CC' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='54803EB1-E644-44A4-A8DA-6EE11D0583CC' id='FORM-54803EB1-E644-44A4-A8DA-6EE11D0583CC' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='54803EB1-E644-44A4-A8DA-6EE11D0583CC' id='FORM-54803EB1-E644-44A4-A8DA-6EE11D0583CC' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1951,10 +2053,10 @@ In $3\, hours$ a train travels $156\, km$. What is it speed in $km/h$?
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1983,6 +2085,9 @@ David jogs at $3\, metres$ per second. How far does he jog in $15\, minutes$?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4B5465FD-B5E3-4550-93F3-DB018C7F95FA' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4B5465FD-B5E3-4550-93F3-DB018C7F95FA' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4B5465FD-B5E3-4550-93F3-DB018C7F95FA' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1995,7 +2100,7 @@ David jogs at $3\, metres$ per second. How far does he jog in $15\, minutes$?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4B5465FD-B5E3-4550-93F3-DB018C7F95FA' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4B5465FD-B5E3-4550-93F3-DB018C7F95FA' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4B5465FD-B5E3-4550-93F3-DB018C7F95FA' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4B5465FD-B5E3-4550-93F3-DB018C7F95FA' onclick='submitReview(event)'>PRR</button>
@@ -2006,9 +2111,12 @@ David jogs at $3\, metres$ per second. How far does he jog in $15\, minutes$?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4B5465FD-B5E3-4550-93F3-DB018C7F95FA' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='4B5465FD-B5E3-4550-93F3-DB018C7F95FA' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='4B5465FD-B5E3-4550-93F3-DB018C7F95FA' id='FORM-4B5465FD-B5E3-4550-93F3-DB018C7F95FA' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4B5465FD-B5E3-4550-93F3-DB018C7F95FA' id='FORM-4B5465FD-B5E3-4550-93F3-DB018C7F95FA' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

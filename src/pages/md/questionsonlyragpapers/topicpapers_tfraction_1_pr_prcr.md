@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tfraction-1-pr-prcr"
 title: "TopicPaper - Fraction - 1 - PR - PRCR"
-date: 2022-08-19 16:00:22
+date: 2022-09-09 06:32:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "1"
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_an_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -60,6 +60,9 @@ $\dfrac{8}{32}$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -72,7 +75,7 @@ $\dfrac{8}{32}$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='submitReview(event)'>PRR</button>
@@ -83,9 +86,12 @@ $\dfrac{8}{32}$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' id='FORM-3F78446A-189F-4A34-981D-45191F1D3768' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' id='FORM-3F78446A-189F-4A34-981D-45191F1D3768' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

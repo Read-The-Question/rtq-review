@@ -1,704 +1,10 @@
 ---
 slug: "ragpapers/topicpapers-tpermutation-1-notstarted"
 title: "TopicPaper - Permutation - 1 - NOTSTARTED"
-date: 2022-08-19 15:40:39
-questions_count: "15"
+date: 2022-09-09 06:13:00
+questions_count: "2"
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>0C19F5B4-A542-431A-BD14-2E771AE5B4BA</p>
-</div>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2020--sample-paper-6:1:28</p>
-</div>
-<div class='rag'>
-<p>Neeraj Singh</p>
-</div>
-<div class='rag'>
-<p>rag_ns_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpermutation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a game you need to get three coloured discs (green, blue and red) in the correct order.
-
-Three attempts have been made and are shown below, with the number of discs that are in the correct positions.
-
-What is the correct order for the three coloured discs?
-
-![missing table](/papers/missing_table.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>31275674-A54A-40CB-954F-6A4D5E749290</p>
-</div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2017--sample-paper-7:1:11</p>
-</div>
-<div class='rag'>
-<p>Neeraj Singh</p>
-</div>
-<div class='rag'>
-<p>rag_ns_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpermutation
-</li>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A palindrome is a positive integer that is the same when read forwards or backwards.
-
-The numbers $101$ and $4554$ are examples of palindromes.
-
-Calculate the ratio of the number of $4$-digit palindromes to the number of $5$-digit palindromes. 
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>7EDDF78D-BEA1-49D0-8794-F22BBE025F62</p>
-</div>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:41</p>
-</div>
-<div class='rag'>
-<p>Neeraj Singh</p>
-</div>
-<div class='rag'>
-<p>rag_ns_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpermutation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a game of football the final score was $3-2$. How many possible half time scores were there?
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>F0E5AC4B-9543-44E6-BAB8-0991A9B073BD</p>
-</div>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:20</p>
-</div>
-<div class='rag'>
-<p>Neeraj Singh</p>
-</div>
-<div class='rag'>
-<p>rag_ns_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpermutation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-There are $5$ competitors in a tennis competition. If each player plays every other player once only, how many matches will there be?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Total matches}            &= 4 + 3 + 2 + 1 \\\\
-                                &= 10
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>As per the question,
-<emptyline>
-$
-\begin{aligned}
-\text{Total matches}            &= 4 + 3 + 2 + 1 \\\\
-                                &= 10
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$10$
-</code></pre>
-</div>
-</div>
-
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>1B6BD0A7-D1DE-432B-8605-593C8A9C8CEE</p>
-</div>
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:22</p>
-</div>
-<div class='rag'>
-<p>Neeraj Singh</p>
-</div>
-<div class='rag'>
-<p>rag_ns_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpermutation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Four people meet to discuss a new swimming competition. Each person shakes everyone else’s hand exactly once. How many handshakes are there in total? 
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>CE18C1B7-2AEA-42B6-AC9E-022DFFB1AE9F</p>
-</div>
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:43</p>
-</div>
-<div class='rag'>
-<p>Neeraj Singh</p>
-</div>
-<div class='rag'>
-<p>rag_ns_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpermutation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Three people stand in a line in order A B C. The people then change positions in the line so that no one person is left standing in the same position as they were to start with. 
-For example C A B. 
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-What is the only other possible order?
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-This process is now repeated with four people, A B C D.
-
-The people then change positions in the line so that, again, **no one person is left standing in the same position as they were to start with**.
-
-How many possible ways are there of doing this? Use any space on the next page that you need to.
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-</div>
-</li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
@@ -726,6 +32,66 @@ tdraw
 </li>
 </ul>
 </div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-45D0708C-8684-4037-9E55-49C523679E3E'>Initial</p>
 <div class='question question'>
 
 The equilateral triangle ADF is split into four equally sized smaller equilateral triangles.
@@ -860,1618 +226,58 @@ $\text {A}, \quad  \text {B}, \quad \text {D}, \quad \text {E}, \quad \text {F},
 </div>
 </li>
 </ul>
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+please look at the tags before solving we are only supposed to solve the tags that are in G
 </div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='submitReview(event)'>PRCC</button>
 </li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>C7F20EB0-C4C4-4499-BD65-DF14A74B3D94</p>
-</div>
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:1:30</p>
-</div>
-<div class='rag'>
-<p>Neeraj Singh</p>
-</div>
-<div class='rag'>
-<p>rag_ns_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpermutation
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='submitReview(event)'>PRPCC</button>
 </li>
-<li>
-tdraw
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='submitReview(event)'>PRG</button>
 </li>
-</ul>
-</div>
-<div class='question question'>
-
-Four friends, Archibald, Bertram, Camilla and Daphne go on holiday together on the French Riviera. On the first evening at 
-the hotel they sit down to dinner at a square table shown below. Archibald insists that he sits facing South so that he can have a clear view of the Mediterranean Sea, whilst Bertram and Camilla decide to sit next to each other. Show the four possible seating arrangements on the diagrams below. The first one has been done for you.
-
-![missing image](/papers/missing_image.svg)
-
-![missing image](/papers/missing_image.svg)
-
-![missing image](/papers/missing_image.svg)
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-On the second day of the holiday, Archibald relents and graciously allows anyone (including himself) to face the sea, 
-although Bertram and Camilla still choose to sit next to each other. How many possible arrangements are there now?
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='submitReview(event)'>PRG2</button>
 </li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-On the last day of the holiday, all four friends decide that they can sit where they like.  How many possible arrangements are there now?
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='NS' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' onclick='resetComment(event)'>Reset Comments</button>
 </li>
 </ul>
 
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='45D0708C-8684-4037-9E55-49C523679E3E' id='FORM-45D0708C-8684-4037-9E55-49C523679E3E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-45D0708C-8684-4037-9E55-49C523679E3E'>Initial</p>
 </div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>922BF11C-6CA4-42A0-9968-DD93678A9BF4</p>
-</div>
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:1:21</p>
-</div>
-<div class='rag'>
-<p>Neeraj Singh</p>
-</div>
-<div class='rag'>
-<p>rag_ns_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpermutation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Amar (form captain), Brian (vice captain), Charles and Daniel are best friends in the same class at school. 
-They always like to stand next to each other in the lunch queue. 
-
-On Mondays it is a school rule that the form captain is at the front of the queue followed by the vice captain. 
-There are two ways in which these boys can queue up on a Monday: $ABCD$ and $ABDC$. 
-
-On Tuesdays, the form captain must again queue up first but the remaining three boys can follow in any order. 
-There are six ways in which these boys can queue up on a Tuesday. Four of these ways are listed below. 
-Write down the remaining two: $ABCD, ABDC, ACBD, ACDB, \text{\textunderscore \textunderscore \textunderscore}, \text{\textunderscore \textunderscore \textunderscore}$ 
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-On Wednesdays there are no restrictions and all four boys can queue up together in any order. In how many ways can this be done? 
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>BC6FB873-8414-4318-9DC4-D285568AABAC</p>
-</div>
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:29</p>
-</div>
-<div class='rag'>
-<p>Neeraj Singh</p>
-</div>
-<div class='rag'>
-<p>rag_ns_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpermutation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The streets of New York are arranged in a grid as shown in the diagram.
-
-![missing image](/papers/missing_image.svg)
-
-
-There are three direct ways of travelling from $A$ to $B$.
-
-Travel one block North followed by two blocks East
-
-Travel one block East followed by one block North followed by one block East
-
-Travel two blocks East followed by one block North.
-
-We write these as $NEE, ENE$ and $EEN$ respectively.
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-There are six direct routes from $A$ to $C$. Four of these routes are $NNEE, NENE, ENEN$ and $EENN$. 
-Write down the remaining two routes.
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How many direct routes are there to travel from $A$ to $D$?
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How many direct routes are there to travel from $A$ to $E$?
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>77947EF2-B0D5-4A19-9491-ABCEBCA5D788</p>
-</div>
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:19</p>
-</div>
-<div class='rag'>
-<p>Neeraj Singh</p>
-</div>
-<div class='rag'>
-<p>rag_ns_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpermutation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The diagram shows the one-way cycle paths in a town. The diagram is not to scale but the distance along each section of the route is shown and is measured in kilometres.
-
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How many possible routes are there in total from $A$ to $B$? 
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How long is the shortest distance from $A$ to $B$?
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>32B69904-7049-4D11-B264-0FB9BA6B09EC</p>
-</div>
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:30</p>
-</div>
-<div class='rag'>
-<p>Neeraj Singh</p>
-</div>
-<div class='rag'>
-<p>rag_ns_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpermutation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Mr Green buys four cinema tickets for himself, his wife and their best friends Mr and Mrs White. 
-Mrs Green is a rather large lady who must sit in a wider aisle seat. 
-In the interest of marital harmony each husband must sit next to his wife. 
-The tickets are for seats, $A1, A2, A3$ and $A4$ shown on the plan below.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-In how many possible ways can Mr Green allocate tickets?
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-The following week they are joined by their next best friends, Mr and Mrs Brown.
-Again it is decided that every husband sits next to his wife, and Mrs Green must sit on the end of a row. 
-The tickets are for seats $A1, A2, A3, A4, A5$ and $A6$.
-
-In how many possible ways can Mr Green allocate tickets?
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-The outing was so enjoyable that all three couples decide to repeat the experience the following week but this time 
-Mr Green buys tickets for seats $A1, A2, A3, A4, B1$ and $B2$. Assuming that the usual restrictions about where they can 
-sit still apply, work out the number of ways in which Mr Green can allocate the tickets.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>27B57ED9-A575-4269-8600-10EC69A4DB57</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:43</p>
-</div>
-<div class='rag'>
-<p>Neeraj Singh</p>
-</div>
-<div class='rag'>
-<p>rag_ns_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpermutation
-</li>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$A \ B \ C \ D \ E$ are the first five letters of the alphabet in the usual order.
-
-$A$ and $B$ are neighbours as they are next to each other in the alphabet.
-
-$B$ and $C$ are also neighbours.
-
-$C$ and $D$ are neighbours, $D$ and $E$ are neighbours.
-
-The five letters have to be written down in some other order so that no neighbours are next to each other (in any order).
-
-For example, $A \ C \ E \ D \ B$ is **not allowed** because the neighbours $D$ and $E$ are next to each other.
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-If we start with $A$ there are only two ways of writing the five letters 
-with no neighbours next to each other. The first one is done for you.
-
-
-
-Complete the other way.
-
-Answer1:  $A \quad C \quad E \quad B \quad D$
-
-Answer2: $
-A \quad
-D \quad 
-\text{\textunderscore \textunderscore \textunderscore} \quad 
-\text{\textunderscore \textunderscore \textunderscore} \quad 
-\text{\textunderscore \textunderscore \textunderscore}
-$
-
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Now start with the letter $B$. There are three ways of writing the five 
-letters with no neighbours next to each other. 
-
-The first one is done for you. Complete the other two ways.
-
-Answer1: $B \quad D \quad A \quad C \quad E$
-
-Answer2: $
-B \quad
-D \quad 
-\text{\textunderscore \textunderscore \textunderscore} \quad 
-\text{\textunderscore \textunderscore \textunderscore} \quad 
-\text{\textunderscore \textunderscore \textunderscore}
-$
-
-Answer3: $
-B \quad
-E \quad 
-\text{\textunderscore \textunderscore \textunderscore} \quad 
-\text{\textunderscore \textunderscore \textunderscore} \quad 
-\text{\textunderscore \textunderscore \textunderscore}
-$
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-In total, how many ways are there of arranging the letters $A \ B \ C \ D \ E$, so that none are next to their neighbours?
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>D0785C67-7A11-491E-929B-4EF2726E748A</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:37</p>
-</div>
-<div class='rag'>
-<p>Neeraj Singh</p>
-</div>
-<div class='rag'>
-<p>rag_ns_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpermutation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The diagram below shows the footpaths between villages.
-
-Each village is represented by a letter.
-
-For example, there are three different possible footpaths between villages $Q$ and $R$.
-
-![missing image](/papers/missing_image.svg)
-
-
-Jane wants to walk from village $A$ and $B$ without travelling through any village twice on her route.
-
-Work out how many different possible routes Jane could take?
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-
 </div>
 </li>
 <li>
@@ -2498,6 +304,66 @@ tpermutation
 </li>
 </ul>
 </div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-FF923789-7B2B-4E80-84B8-F3CABD0B1538'>Initial</p>
 <div class='question question'>
 
 Following independence, the new country of Oldhallia is trying to design its national flag. The government decide that their flag will consist of two colours. 
@@ -2536,38 +402,23 @@ which gives a total number of possible flags $= 4 \times 3 \times 3 = 36$.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -2579,17 +430,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -2604,30 +445,11 @@ How many possible flags are there if they can choose from $10$ colours?
 <div class='workings'>
 <div class='working'>
 
+If we choose for left side of flag, the number of possible choices $= 10$
 
-Total colours availble for the left side is $10$.
+If we choose for right side of flag, the number of possible choices $= 9$
 
-Right side will have $1$ option less than left side.
-
-Colours remaining for right side = total colours $- 1$ option
-
-$= 10 - 1 = 9$
-
-
-Flags = Total colours $\times$ Total colors remaining  
-
-So, 
-
-$
-\begin{aligned}
-\text {Flags} &= 10 \times (10-1) \\
-              &= 10 \times 9 \\
-              &= 90 
-\end{aligned}
-$
-
-
-A total of $90$ flags are possible with $10$ colours to choose from. 
+Total arrangement $= 10 \times 9 = 90$ 
 
 </div>
 </div>
@@ -2641,30 +463,11 @@ $90$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>
-Total colours availble for the left side is $10$.
+<pre class='language-latex'><code class='language-latex'>If we choose for left side of flag, the number of possible choices $= 10$
 <emptyline>
-Right side will have $1$ option less than left side.
+If we choose for right side of flag, the number of possible choices $= 9$
 <emptyline>
-Colours remaining for right side = total colours $- 1$ option
-<emptyline>
-$= 10 - 1 = 9$
-<emptyline>
-
-Flags = Total colours $\times$ Total colors remaining  
-<emptyline>
-So, 
-<emptyline>
-$
-\begin{aligned}
-\text {Flags} &= 10 \times (10-1) \\
-              &= 10 \times 9 \\
-              &= 90 
-\end{aligned}
-$
-<emptyline>
-
-A total of $90$ flags are possible with $10$ colours to choose from. 
+Total arrangement $= 10 \times 9 = 90$ 
 </code></pre>
 </div>
 </div>
@@ -2813,9 +616,6 @@ $= 6 + 30$
 
 $= 36$ Flags
 
-
-
-
 </div>
 </div>
 <div class='answers'>
@@ -2848,9 +648,6 @@ $= (1$ colour $+ 2$ colour) Flags
 $= 6 + 30$ 
 <emptyline>
 $= 36$ Flags
-<emptyline>
-
-<emptyline>
 </code></pre>
 </div>
 </div>
@@ -3043,6 +840,52 @@ $810$ different flags are possible with $10$ colours.
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='NS' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='FF923789-7B2B-4E80-84B8-F3CABD0B1538' id='FORM-FF923789-7B2B-4E80-84B8-F3CABD0B1538' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-FF923789-7B2B-4E80-84B8-F3CABD0B1538'>Initial</p>
+</div>
 </div>
 </li>
 </ul>

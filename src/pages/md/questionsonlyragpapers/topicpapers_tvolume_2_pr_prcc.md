@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tvolume-2-pr-prcc"
 title: "TopicPaper - Volume - 2 - PR - PRCC"
-date: 2022-08-19 16:00:22
+date: 2022-09-09 06:32:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "1"
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:1:27</p>
 </div>
 <div class='rag'>
-<p>Neeraj Singh</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_ns_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -100,6 +100,9 @@ What is the new height of orange juice in the carton?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='18581DC5-877B-43DE-8089-69B5096D5DC7' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='18581DC5-877B-43DE-8089-69B5096D5DC7' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='18581DC5-877B-43DE-8089-69B5096D5DC7' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -112,7 +115,7 @@ What is the new height of orange juice in the carton?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='18581DC5-877B-43DE-8089-69B5096D5DC7' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='18581DC5-877B-43DE-8089-69B5096D5DC7' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='18581DC5-877B-43DE-8089-69B5096D5DC7' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='18581DC5-877B-43DE-8089-69B5096D5DC7' onclick='submitReview(event)'>PRR</button>
@@ -123,9 +126,12 @@ What is the new height of orange juice in the carton?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='18581DC5-877B-43DE-8089-69B5096D5DC7' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='18581DC5-877B-43DE-8089-69B5096D5DC7' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='18581DC5-877B-43DE-8089-69B5096D5DC7' id='FORM-18581DC5-877B-43DE-8089-69B5096D5DC7' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='18581DC5-877B-43DE-8089-69B5096D5DC7' id='FORM-18581DC5-877B-43DE-8089-69B5096D5DC7' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

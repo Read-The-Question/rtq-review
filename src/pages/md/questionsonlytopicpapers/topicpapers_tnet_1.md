@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tnet-1"
 title: "TopicPaper - Net - 1"
-date: 2022-08-19 16:00:22
+date: 2022-09-09 06:32:25
 questions_count: "29"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "29"
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -103,6 +103,9 @@ Which of the following are possible nets for a cube?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='25263436-B903-4DB2-BFE2-39BD729585F9' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='25263436-B903-4DB2-BFE2-39BD729585F9' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='25263436-B903-4DB2-BFE2-39BD729585F9' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -115,7 +118,7 @@ Which of the following are possible nets for a cube?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='25263436-B903-4DB2-BFE2-39BD729585F9' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='25263436-B903-4DB2-BFE2-39BD729585F9' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='25263436-B903-4DB2-BFE2-39BD729585F9' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='25263436-B903-4DB2-BFE2-39BD729585F9' onclick='submitReview(event)'>PRR</button>
@@ -126,9 +129,12 @@ Which of the following are possible nets for a cube?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='25263436-B903-4DB2-BFE2-39BD729585F9' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='25263436-B903-4DB2-BFE2-39BD729585F9' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='25263436-B903-4DB2-BFE2-39BD729585F9' id='FORM-25263436-B903-4DB2-BFE2-39BD729585F9' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='25263436-B903-4DB2-BFE2-39BD729585F9' id='FORM-25263436-B903-4DB2-BFE2-39BD729585F9' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -140,7 +146,7 @@ Which of the following are possible nets for a cube?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>CF4AB2A8-05C2-40AE-9885-196521F491E5</p>
 </div>
@@ -148,13 +154,13 @@ Which of the following are possible nets for a cube?
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -186,35 +192,41 @@ Write the letters $(A, B, C, D, E)$ of the nets which do NOT make a cube.
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CF4AB2A8-05C2-40AE-9885-196521F491E5' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CF4AB2A8-05C2-40AE-9885-196521F491E5' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CF4AB2A8-05C2-40AE-9885-196521F491E5' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CF4AB2A8-05C2-40AE-9885-196521F491E5' onclick='submitReview(event)'>PRPCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CF4AB2A8-05C2-40AE-9885-196521F491E5' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CF4AB2A8-05C2-40AE-9885-196521F491E5' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CF4AB2A8-05C2-40AE-9885-196521F491E5' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CF4AB2A8-05C2-40AE-9885-196521F491E5' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CF4AB2A8-05C2-40AE-9885-196521F491E5' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CF4AB2A8-05C2-40AE-9885-196521F491E5' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CF4AB2A8-05C2-40AE-9885-196521F491E5' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CF4AB2A8-05C2-40AE-9885-196521F491E5' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CF4AB2A8-05C2-40AE-9885-196521F491E5' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CF4AB2A8-05C2-40AE-9885-196521F491E5' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CF4AB2A8-05C2-40AE-9885-196521F491E5' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CF4AB2A8-05C2-40AE-9885-196521F491E5' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CF4AB2A8-05C2-40AE-9885-196521F491E5' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CF4AB2A8-05C2-40AE-9885-196521F491E5' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CF4AB2A8-05C2-40AE-9885-196521F491E5' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='CF4AB2A8-05C2-40AE-9885-196521F491E5' onclick='resetComment(event)'>Reset Comments</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='CF4AB2A8-05C2-40AE-9885-196521F491E5' id='FORM-CF4AB2A8-05C2-40AE-9885-196521F491E5' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CF4AB2A8-05C2-40AE-9885-196521F491E5' id='FORM-CF4AB2A8-05C2-40AE-9885-196521F491E5' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -234,10 +246,10 @@ Write the letters $(A, B, C, D, E)$ of the nets which do NOT make a cube.
 <p>bancrofts-school--11-plus--maths--2017--sample-paper-3:2:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -363,6 +375,9 @@ Who is directly in front of Noor?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EB55E644-8551-43C5-B998-14BE242B72E2' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EB55E644-8551-43C5-B998-14BE242B72E2' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EB55E644-8551-43C5-B998-14BE242B72E2' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -375,7 +390,7 @@ Who is directly in front of Noor?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EB55E644-8551-43C5-B998-14BE242B72E2' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EB55E644-8551-43C5-B998-14BE242B72E2' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EB55E644-8551-43C5-B998-14BE242B72E2' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EB55E644-8551-43C5-B998-14BE242B72E2' onclick='submitReview(event)'>PRR</button>
@@ -386,9 +401,12 @@ Who is directly in front of Noor?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EB55E644-8551-43C5-B998-14BE242B72E2' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='EB55E644-8551-43C5-B998-14BE242B72E2' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='EB55E644-8551-43C5-B998-14BE242B72E2' id='FORM-EB55E644-8551-43C5-B998-14BE242B72E2' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EB55E644-8551-43C5-B998-14BE242B72E2' id='FORM-EB55E644-8551-43C5-B998-14BE242B72E2' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -408,10 +426,10 @@ Who is directly in front of Noor?
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:30</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -449,6 +467,9 @@ Write the letter of the one shape below that is a net for the pentagonal prism.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BD3B9572-8926-4E64-9F5B-9DFF25ABA577' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BD3B9572-8926-4E64-9F5B-9DFF25ABA577' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BD3B9572-8926-4E64-9F5B-9DFF25ABA577' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -461,7 +482,7 @@ Write the letter of the one shape below that is a net for the pentagonal prism.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BD3B9572-8926-4E64-9F5B-9DFF25ABA577' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BD3B9572-8926-4E64-9F5B-9DFF25ABA577' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BD3B9572-8926-4E64-9F5B-9DFF25ABA577' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BD3B9572-8926-4E64-9F5B-9DFF25ABA577' onclick='submitReview(event)'>PRR</button>
@@ -472,9 +493,12 @@ Write the letter of the one shape below that is a net for the pentagonal prism.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BD3B9572-8926-4E64-9F5B-9DFF25ABA577' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='BD3B9572-8926-4E64-9F5B-9DFF25ABA577' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='BD3B9572-8926-4E64-9F5B-9DFF25ABA577' id='FORM-BD3B9572-8926-4E64-9F5B-9DFF25ABA577' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BD3B9572-8926-4E64-9F5B-9DFF25ABA577' id='FORM-BD3B9572-8926-4E64-9F5B-9DFF25ABA577' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -494,10 +518,10 @@ Write the letter of the one shape below that is a net for the pentagonal prism.
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:28</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -531,6 +555,9 @@ Which net cannot be folded to make a triangular prism?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5E85EBCD-A0C3-4C41-BF74-F637D8E4CF0E' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5E85EBCD-A0C3-4C41-BF74-F637D8E4CF0E' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5E85EBCD-A0C3-4C41-BF74-F637D8E4CF0E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -543,7 +570,7 @@ Which net cannot be folded to make a triangular prism?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5E85EBCD-A0C3-4C41-BF74-F637D8E4CF0E' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5E85EBCD-A0C3-4C41-BF74-F637D8E4CF0E' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5E85EBCD-A0C3-4C41-BF74-F637D8E4CF0E' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5E85EBCD-A0C3-4C41-BF74-F637D8E4CF0E' onclick='submitReview(event)'>PRR</button>
@@ -554,9 +581,12 @@ Which net cannot be folded to make a triangular prism?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5E85EBCD-A0C3-4C41-BF74-F637D8E4CF0E' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='5E85EBCD-A0C3-4C41-BF74-F637D8E4CF0E' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='5E85EBCD-A0C3-4C41-BF74-F637D8E4CF0E' id='FORM-5E85EBCD-A0C3-4C41-BF74-F637D8E4CF0E' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5E85EBCD-A0C3-4C41-BF74-F637D8E4CF0E' id='FORM-5E85EBCD-A0C3-4C41-BF74-F637D8E4CF0E' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -576,10 +606,10 @@ Which net cannot be folded to make a triangular prism?
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -618,6 +648,9 @@ Shade the square that will be opposite the black square when the net is folded i
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='56AD0220-1DD0-4600-94B2-C3802804FA7F' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='56AD0220-1DD0-4600-94B2-C3802804FA7F' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='56AD0220-1DD0-4600-94B2-C3802804FA7F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -630,7 +663,7 @@ Shade the square that will be opposite the black square when the net is folded i
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='56AD0220-1DD0-4600-94B2-C3802804FA7F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='56AD0220-1DD0-4600-94B2-C3802804FA7F' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='56AD0220-1DD0-4600-94B2-C3802804FA7F' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='56AD0220-1DD0-4600-94B2-C3802804FA7F' onclick='submitReview(event)'>PRR</button>
@@ -641,9 +674,12 @@ Shade the square that will be opposite the black square when the net is folded i
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='56AD0220-1DD0-4600-94B2-C3802804FA7F' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='56AD0220-1DD0-4600-94B2-C3802804FA7F' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='56AD0220-1DD0-4600-94B2-C3802804FA7F' id='FORM-56AD0220-1DD0-4600-94B2-C3802804FA7F' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='56AD0220-1DD0-4600-94B2-C3802804FA7F' id='FORM-56AD0220-1DD0-4600-94B2-C3802804FA7F' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -663,10 +699,10 @@ Shade the square that will be opposite the black square when the net is folded i
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -695,6 +731,9 @@ Draw a net of a triangular prism
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7D05F4E4-C4BC-47B5-BE94-12454B711F46' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7D05F4E4-C4BC-47B5-BE94-12454B711F46' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7D05F4E4-C4BC-47B5-BE94-12454B711F46' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -707,7 +746,7 @@ Draw a net of a triangular prism
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7D05F4E4-C4BC-47B5-BE94-12454B711F46' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7D05F4E4-C4BC-47B5-BE94-12454B711F46' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7D05F4E4-C4BC-47B5-BE94-12454B711F46' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7D05F4E4-C4BC-47B5-BE94-12454B711F46' onclick='submitReview(event)'>PRR</button>
@@ -718,9 +757,12 @@ Draw a net of a triangular prism
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7D05F4E4-C4BC-47B5-BE94-12454B711F46' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='7D05F4E4-C4BC-47B5-BE94-12454B711F46' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='7D05F4E4-C4BC-47B5-BE94-12454B711F46' id='FORM-7D05F4E4-C4BC-47B5-BE94-12454B711F46' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7D05F4E4-C4BC-47B5-BE94-12454B711F46' id='FORM-7D05F4E4-C4BC-47B5-BE94-12454B711F46' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -740,10 +782,10 @@ Draw a net of a triangular prism
 <p>csse--11-plus--maths--2015--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -822,6 +864,9 @@ In each part of the question, based on the net illustrated, indicate how many do
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C0F858F2-CD23-4CBF-97E1-A6AE5C39D887' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C0F858F2-CD23-4CBF-97E1-A6AE5C39D887' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C0F858F2-CD23-4CBF-97E1-A6AE5C39D887' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -834,7 +879,7 @@ In each part of the question, based on the net illustrated, indicate how many do
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C0F858F2-CD23-4CBF-97E1-A6AE5C39D887' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C0F858F2-CD23-4CBF-97E1-A6AE5C39D887' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C0F858F2-CD23-4CBF-97E1-A6AE5C39D887' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C0F858F2-CD23-4CBF-97E1-A6AE5C39D887' onclick='submitReview(event)'>PRR</button>
@@ -845,9 +890,12 @@ In each part of the question, based on the net illustrated, indicate how many do
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C0F858F2-CD23-4CBF-97E1-A6AE5C39D887' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='C0F858F2-CD23-4CBF-97E1-A6AE5C39D887' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='C0F858F2-CD23-4CBF-97E1-A6AE5C39D887' id='FORM-C0F858F2-CD23-4CBF-97E1-A6AE5C39D887' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C0F858F2-CD23-4CBF-97E1-A6AE5C39D887' id='FORM-C0F858F2-CD23-4CBF-97E1-A6AE5C39D887' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -867,10 +915,10 @@ In each part of the question, based on the net illustrated, indicate how many do
 <p>csse--11-plus--maths--2015--sample-paper-2:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -954,6 +1002,9 @@ In each part of the question below mark the square on the net that needs to be s
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5B0EF0B2-1246-4497-97ED-CD4A814CA1F2' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5B0EF0B2-1246-4497-97ED-CD4A814CA1F2' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5B0EF0B2-1246-4497-97ED-CD4A814CA1F2' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -966,7 +1017,7 @@ In each part of the question below mark the square on the net that needs to be s
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5B0EF0B2-1246-4497-97ED-CD4A814CA1F2' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5B0EF0B2-1246-4497-97ED-CD4A814CA1F2' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5B0EF0B2-1246-4497-97ED-CD4A814CA1F2' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5B0EF0B2-1246-4497-97ED-CD4A814CA1F2' onclick='submitReview(event)'>PRR</button>
@@ -977,9 +1028,12 @@ In each part of the question below mark the square on the net that needs to be s
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5B0EF0B2-1246-4497-97ED-CD4A814CA1F2' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='5B0EF0B2-1246-4497-97ED-CD4A814CA1F2' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='5B0EF0B2-1246-4497-97ED-CD4A814CA1F2' id='FORM-5B0EF0B2-1246-4497-97ED-CD4A814CA1F2' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5B0EF0B2-1246-4497-97ED-CD4A814CA1F2' id='FORM-5B0EF0B2-1246-4497-97ED-CD4A814CA1F2' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -999,10 +1053,10 @@ In each part of the question below mark the square on the net that needs to be s
 <p>king-edwards-school--11-plus--maths--9999--sample-paper-1:3:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1040,6 +1094,9 @@ Which of the dice below can be made from this net?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3268582D-0831-4303-8C14-5BB104D7F7EA' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3268582D-0831-4303-8C14-5BB104D7F7EA' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3268582D-0831-4303-8C14-5BB104D7F7EA' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1052,7 +1109,7 @@ Which of the dice below can be made from this net?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3268582D-0831-4303-8C14-5BB104D7F7EA' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3268582D-0831-4303-8C14-5BB104D7F7EA' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3268582D-0831-4303-8C14-5BB104D7F7EA' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3268582D-0831-4303-8C14-5BB104D7F7EA' onclick='submitReview(event)'>PRR</button>
@@ -1063,9 +1120,12 @@ Which of the dice below can be made from this net?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3268582D-0831-4303-8C14-5BB104D7F7EA' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='3268582D-0831-4303-8C14-5BB104D7F7EA' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='3268582D-0831-4303-8C14-5BB104D7F7EA' id='FORM-3268582D-0831-4303-8C14-5BB104D7F7EA' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3268582D-0831-4303-8C14-5BB104D7F7EA' id='FORM-3268582D-0831-4303-8C14-5BB104D7F7EA' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1085,10 +1145,10 @@ Which of the dice below can be made from this net?
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:32</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1134,6 +1194,9 @@ Here is the net of the cube. Draw in the two missing shaded triangles.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='46A85C17-1777-4A70-A5AD-86719C9EB7AA' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='46A85C17-1777-4A70-A5AD-86719C9EB7AA' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='46A85C17-1777-4A70-A5AD-86719C9EB7AA' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1146,7 +1209,7 @@ Here is the net of the cube. Draw in the two missing shaded triangles.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='46A85C17-1777-4A70-A5AD-86719C9EB7AA' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='46A85C17-1777-4A70-A5AD-86719C9EB7AA' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='46A85C17-1777-4A70-A5AD-86719C9EB7AA' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='46A85C17-1777-4A70-A5AD-86719C9EB7AA' onclick='submitReview(event)'>PRR</button>
@@ -1157,9 +1220,12 @@ Here is the net of the cube. Draw in the two missing shaded triangles.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='46A85C17-1777-4A70-A5AD-86719C9EB7AA' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='46A85C17-1777-4A70-A5AD-86719C9EB7AA' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='46A85C17-1777-4A70-A5AD-86719C9EB7AA' id='FORM-46A85C17-1777-4A70-A5AD-86719C9EB7AA' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='46A85C17-1777-4A70-A5AD-86719C9EB7AA' id='FORM-46A85C17-1777-4A70-A5AD-86719C9EB7AA' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1179,10 +1245,10 @@ Here is the net of the cube. Draw in the two missing shaded triangles.
 <p>oundle-school--11-plus--maths--2016--sample-paper-2:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1227,6 +1293,9 @@ Circle each diagram that is the net of a cube.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A920A7CF-C11C-40BF-85F5-3355E914C8ED' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A920A7CF-C11C-40BF-85F5-3355E914C8ED' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A920A7CF-C11C-40BF-85F5-3355E914C8ED' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1239,7 +1308,7 @@ Circle each diagram that is the net of a cube.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A920A7CF-C11C-40BF-85F5-3355E914C8ED' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A920A7CF-C11C-40BF-85F5-3355E914C8ED' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A920A7CF-C11C-40BF-85F5-3355E914C8ED' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A920A7CF-C11C-40BF-85F5-3355E914C8ED' onclick='submitReview(event)'>PRR</button>
@@ -1250,9 +1319,12 @@ Circle each diagram that is the net of a cube.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A920A7CF-C11C-40BF-85F5-3355E914C8ED' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='A920A7CF-C11C-40BF-85F5-3355E914C8ED' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A920A7CF-C11C-40BF-85F5-3355E914C8ED' id='FORM-A920A7CF-C11C-40BF-85F5-3355E914C8ED' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A920A7CF-C11C-40BF-85F5-3355E914C8ED' id='FORM-A920A7CF-C11C-40BF-85F5-3355E914C8ED' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1272,10 +1344,10 @@ Circle each diagram that is the net of a cube.
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1309,6 +1381,9 @@ The diagram shows the net of a cube. Which edge meets the edge $X$ when the net 
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FC38D60A-CA26-4B8A-B998-3CE9EDF1BDC0' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FC38D60A-CA26-4B8A-B998-3CE9EDF1BDC0' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FC38D60A-CA26-4B8A-B998-3CE9EDF1BDC0' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1321,7 +1396,7 @@ The diagram shows the net of a cube. Which edge meets the edge $X$ when the net 
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FC38D60A-CA26-4B8A-B998-3CE9EDF1BDC0' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FC38D60A-CA26-4B8A-B998-3CE9EDF1BDC0' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FC38D60A-CA26-4B8A-B998-3CE9EDF1BDC0' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FC38D60A-CA26-4B8A-B998-3CE9EDF1BDC0' onclick='submitReview(event)'>PRR</button>
@@ -1332,9 +1407,12 @@ The diagram shows the net of a cube. Which edge meets the edge $X$ when the net 
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FC38D60A-CA26-4B8A-B998-3CE9EDF1BDC0' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='FC38D60A-CA26-4B8A-B998-3CE9EDF1BDC0' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='FC38D60A-CA26-4B8A-B998-3CE9EDF1BDC0' id='FORM-FC38D60A-CA26-4B8A-B998-3CE9EDF1BDC0' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FC38D60A-CA26-4B8A-B998-3CE9EDF1BDC0' id='FORM-FC38D60A-CA26-4B8A-B998-3CE9EDF1BDC0' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1354,10 +1432,10 @@ The diagram shows the net of a cube. Which edge meets the edge $X$ when the net 
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1404,6 +1482,9 @@ Which of the following could not be the resulting shape?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1E81D061-F222-4E30-8BCC-6C114DE19F77' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1E81D061-F222-4E30-8BCC-6C114DE19F77' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1E81D061-F222-4E30-8BCC-6C114DE19F77' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1416,7 +1497,7 @@ Which of the following could not be the resulting shape?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1E81D061-F222-4E30-8BCC-6C114DE19F77' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1E81D061-F222-4E30-8BCC-6C114DE19F77' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1E81D061-F222-4E30-8BCC-6C114DE19F77' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1E81D061-F222-4E30-8BCC-6C114DE19F77' onclick='submitReview(event)'>PRR</button>
@@ -1427,9 +1508,12 @@ Which of the following could not be the resulting shape?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1E81D061-F222-4E30-8BCC-6C114DE19F77' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='1E81D061-F222-4E30-8BCC-6C114DE19F77' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='1E81D061-F222-4E30-8BCC-6C114DE19F77' id='FORM-1E81D061-F222-4E30-8BCC-6C114DE19F77' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1E81D061-F222-4E30-8BCC-6C114DE19F77' id='FORM-1E81D061-F222-4E30-8BCC-6C114DE19F77' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1449,10 +1533,10 @@ Which of the following could not be the resulting shape?
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1490,6 +1574,9 @@ Circle the net(s) below which can be folded to make a cube.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9920B5B4-74D9-4B39-A720-229B3E4021E7' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9920B5B4-74D9-4B39-A720-229B3E4021E7' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9920B5B4-74D9-4B39-A720-229B3E4021E7' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1502,7 +1589,7 @@ Circle the net(s) below which can be folded to make a cube.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9920B5B4-74D9-4B39-A720-229B3E4021E7' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9920B5B4-74D9-4B39-A720-229B3E4021E7' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9920B5B4-74D9-4B39-A720-229B3E4021E7' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9920B5B4-74D9-4B39-A720-229B3E4021E7' onclick='submitReview(event)'>PRR</button>
@@ -1513,9 +1600,12 @@ Circle the net(s) below which can be folded to make a cube.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9920B5B4-74D9-4B39-A720-229B3E4021E7' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='9920B5B4-74D9-4B39-A720-229B3E4021E7' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='9920B5B4-74D9-4B39-A720-229B3E4021E7' id='FORM-9920B5B4-74D9-4B39-A720-229B3E4021E7' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9920B5B4-74D9-4B39-A720-229B3E4021E7' id='FORM-9920B5B4-74D9-4B39-A720-229B3E4021E7' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1535,10 +1625,10 @@ Circle the net(s) below which can be folded to make a cube.
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:28</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1576,6 +1666,9 @@ What are the missing numbers?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9BF12B81-A11A-4FF1-B440-CD121C18231F' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9BF12B81-A11A-4FF1-B440-CD121C18231F' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9BF12B81-A11A-4FF1-B440-CD121C18231F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1588,7 +1681,7 @@ What are the missing numbers?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9BF12B81-A11A-4FF1-B440-CD121C18231F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9BF12B81-A11A-4FF1-B440-CD121C18231F' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9BF12B81-A11A-4FF1-B440-CD121C18231F' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9BF12B81-A11A-4FF1-B440-CD121C18231F' onclick='submitReview(event)'>PRR</button>
@@ -1599,9 +1692,12 @@ What are the missing numbers?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9BF12B81-A11A-4FF1-B440-CD121C18231F' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='9BF12B81-A11A-4FF1-B440-CD121C18231F' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='9BF12B81-A11A-4FF1-B440-CD121C18231F' id='FORM-9BF12B81-A11A-4FF1-B440-CD121C18231F' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9BF12B81-A11A-4FF1-B440-CD121C18231F' id='FORM-9BF12B81-A11A-4FF1-B440-CD121C18231F' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1621,10 +1717,10 @@ What are the missing numbers?
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1675,6 +1771,9 @@ This cardboard shape is cut out and folded into a cube. Circle the cube which co
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1C994D51-0A67-441A-9CB3-F4F975B72CE1' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1C994D51-0A67-441A-9CB3-F4F975B72CE1' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1C994D51-0A67-441A-9CB3-F4F975B72CE1' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1687,7 +1786,7 @@ This cardboard shape is cut out and folded into a cube. Circle the cube which co
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1C994D51-0A67-441A-9CB3-F4F975B72CE1' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1C994D51-0A67-441A-9CB3-F4F975B72CE1' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1C994D51-0A67-441A-9CB3-F4F975B72CE1' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1C994D51-0A67-441A-9CB3-F4F975B72CE1' onclick='submitReview(event)'>PRR</button>
@@ -1698,9 +1797,12 @@ This cardboard shape is cut out and folded into a cube. Circle the cube which co
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1C994D51-0A67-441A-9CB3-F4F975B72CE1' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='1C994D51-0A67-441A-9CB3-F4F975B72CE1' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='1C994D51-0A67-441A-9CB3-F4F975B72CE1' id='FORM-1C994D51-0A67-441A-9CB3-F4F975B72CE1' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1C994D51-0A67-441A-9CB3-F4F975B72CE1' id='FORM-1C994D51-0A67-441A-9CB3-F4F975B72CE1' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1720,10 +1822,10 @@ This cardboard shape is cut out and folded into a cube. Circle the cube which co
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:2:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1775,6 +1877,9 @@ Which of the views below show the same cube as in $A$ and $B$?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4F1A59B3-6091-4F30-BE75-46B2D77DF1E7' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4F1A59B3-6091-4F30-BE75-46B2D77DF1E7' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4F1A59B3-6091-4F30-BE75-46B2D77DF1E7' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1787,7 +1892,7 @@ Which of the views below show the same cube as in $A$ and $B$?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4F1A59B3-6091-4F30-BE75-46B2D77DF1E7' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4F1A59B3-6091-4F30-BE75-46B2D77DF1E7' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4F1A59B3-6091-4F30-BE75-46B2D77DF1E7' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4F1A59B3-6091-4F30-BE75-46B2D77DF1E7' onclick='submitReview(event)'>PRR</button>
@@ -1798,9 +1903,12 @@ Which of the views below show the same cube as in $A$ and $B$?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4F1A59B3-6091-4F30-BE75-46B2D77DF1E7' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='4F1A59B3-6091-4F30-BE75-46B2D77DF1E7' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='4F1A59B3-6091-4F30-BE75-46B2D77DF1E7' id='FORM-4F1A59B3-6091-4F30-BE75-46B2D77DF1E7' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4F1A59B3-6091-4F30-BE75-46B2D77DF1E7' id='FORM-4F1A59B3-6091-4F30-BE75-46B2D77DF1E7' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1820,10 +1928,10 @@ Which of the views below show the same cube as in $A$ and $B$?
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:2:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1871,6 +1979,9 @@ Which letter is on the face opposite $M$?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='08FFB9EF-BDF0-49DC-A1FB-6B32890EE987' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='08FFB9EF-BDF0-49DC-A1FB-6B32890EE987' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='08FFB9EF-BDF0-49DC-A1FB-6B32890EE987' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1883,7 +1994,7 @@ Which letter is on the face opposite $M$?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='08FFB9EF-BDF0-49DC-A1FB-6B32890EE987' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='08FFB9EF-BDF0-49DC-A1FB-6B32890EE987' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='08FFB9EF-BDF0-49DC-A1FB-6B32890EE987' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='08FFB9EF-BDF0-49DC-A1FB-6B32890EE987' onclick='submitReview(event)'>PRR</button>
@@ -1894,9 +2005,12 @@ Which letter is on the face opposite $M$?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='08FFB9EF-BDF0-49DC-A1FB-6B32890EE987' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='08FFB9EF-BDF0-49DC-A1FB-6B32890EE987' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='08FFB9EF-BDF0-49DC-A1FB-6B32890EE987' id='FORM-08FFB9EF-BDF0-49DC-A1FB-6B32890EE987' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='08FFB9EF-BDF0-49DC-A1FB-6B32890EE987' id='FORM-08FFB9EF-BDF0-49DC-A1FB-6B32890EE987' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1916,10 +2030,10 @@ Which letter is on the face opposite $M$?
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1986,6 +2100,9 @@ The number $2$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F0C7B5D9-CC50-46F5-A4EA-B9EB901F3A3A' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F0C7B5D9-CC50-46F5-A4EA-B9EB901F3A3A' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F0C7B5D9-CC50-46F5-A4EA-B9EB901F3A3A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1998,7 +2115,7 @@ The number $2$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F0C7B5D9-CC50-46F5-A4EA-B9EB901F3A3A' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F0C7B5D9-CC50-46F5-A4EA-B9EB901F3A3A' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F0C7B5D9-CC50-46F5-A4EA-B9EB901F3A3A' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F0C7B5D9-CC50-46F5-A4EA-B9EB901F3A3A' onclick='submitReview(event)'>PRR</button>
@@ -2009,9 +2126,12 @@ The number $2$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F0C7B5D9-CC50-46F5-A4EA-B9EB901F3A3A' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='F0C7B5D9-CC50-46F5-A4EA-B9EB901F3A3A' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='F0C7B5D9-CC50-46F5-A4EA-B9EB901F3A3A' id='FORM-F0C7B5D9-CC50-46F5-A4EA-B9EB901F3A3A' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F0C7B5D9-CC50-46F5-A4EA-B9EB901F3A3A' id='FORM-F0C7B5D9-CC50-46F5-A4EA-B9EB901F3A3A' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2031,10 +2151,10 @@ The number $2$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2068,6 +2188,9 @@ Circle the net which can be folded into a cube that looks different from the oth
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C7D64437-62D0-43BC-A170-39AAF0E62794' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C7D64437-62D0-43BC-A170-39AAF0E62794' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C7D64437-62D0-43BC-A170-39AAF0E62794' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2080,7 +2203,7 @@ Circle the net which can be folded into a cube that looks different from the oth
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C7D64437-62D0-43BC-A170-39AAF0E62794' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C7D64437-62D0-43BC-A170-39AAF0E62794' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C7D64437-62D0-43BC-A170-39AAF0E62794' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C7D64437-62D0-43BC-A170-39AAF0E62794' onclick='submitReview(event)'>PRR</button>
@@ -2091,9 +2214,12 @@ Circle the net which can be folded into a cube that looks different from the oth
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C7D64437-62D0-43BC-A170-39AAF0E62794' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='C7D64437-62D0-43BC-A170-39AAF0E62794' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='C7D64437-62D0-43BC-A170-39AAF0E62794' id='FORM-C7D64437-62D0-43BC-A170-39AAF0E62794' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C7D64437-62D0-43BC-A170-39AAF0E62794' id='FORM-C7D64437-62D0-43BC-A170-39AAF0E62794' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2113,10 +2239,10 @@ Circle the net which can be folded into a cube that looks different from the oth
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:32</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2212,6 +2338,9 @@ Write the number $6$ on the correct face on the diagram.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AA63C504-EE7E-4AB1-9F0A-F28C05EBAE47' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AA63C504-EE7E-4AB1-9F0A-F28C05EBAE47' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AA63C504-EE7E-4AB1-9F0A-F28C05EBAE47' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2224,7 +2353,7 @@ Write the number $6$ on the correct face on the diagram.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AA63C504-EE7E-4AB1-9F0A-F28C05EBAE47' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AA63C504-EE7E-4AB1-9F0A-F28C05EBAE47' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AA63C504-EE7E-4AB1-9F0A-F28C05EBAE47' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AA63C504-EE7E-4AB1-9F0A-F28C05EBAE47' onclick='submitReview(event)'>PRR</button>
@@ -2235,9 +2364,12 @@ Write the number $6$ on the correct face on the diagram.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AA63C504-EE7E-4AB1-9F0A-F28C05EBAE47' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='AA63C504-EE7E-4AB1-9F0A-F28C05EBAE47' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='AA63C504-EE7E-4AB1-9F0A-F28C05EBAE47' id='FORM-AA63C504-EE7E-4AB1-9F0A-F28C05EBAE47' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AA63C504-EE7E-4AB1-9F0A-F28C05EBAE47' id='FORM-AA63C504-EE7E-4AB1-9F0A-F28C05EBAE47' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2257,10 +2389,10 @@ Write the number $6$ on the correct face on the diagram.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:26</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2296,6 +2428,9 @@ Circle the one which will **not** fold up to make a cube.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='ADC1066B-6CAE-4BD1-8ADF-BCF0FEA1DEDA' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='ADC1066B-6CAE-4BD1-8ADF-BCF0FEA1DEDA' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='ADC1066B-6CAE-4BD1-8ADF-BCF0FEA1DEDA' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2308,7 +2443,7 @@ Circle the one which will **not** fold up to make a cube.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='ADC1066B-6CAE-4BD1-8ADF-BCF0FEA1DEDA' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='ADC1066B-6CAE-4BD1-8ADF-BCF0FEA1DEDA' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='ADC1066B-6CAE-4BD1-8ADF-BCF0FEA1DEDA' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='ADC1066B-6CAE-4BD1-8ADF-BCF0FEA1DEDA' onclick='submitReview(event)'>PRR</button>
@@ -2319,9 +2454,12 @@ Circle the one which will **not** fold up to make a cube.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='ADC1066B-6CAE-4BD1-8ADF-BCF0FEA1DEDA' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='ADC1066B-6CAE-4BD1-8ADF-BCF0FEA1DEDA' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='ADC1066B-6CAE-4BD1-8ADF-BCF0FEA1DEDA' id='FORM-ADC1066B-6CAE-4BD1-8ADF-BCF0FEA1DEDA' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='ADC1066B-6CAE-4BD1-8ADF-BCF0FEA1DEDA' id='FORM-ADC1066B-6CAE-4BD1-8ADF-BCF0FEA1DEDA' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2341,10 +2479,10 @@ Circle the one which will **not** fold up to make a cube.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:36</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2390,6 +2528,9 @@ Fill in all the missing numbers.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='730F1881-F7E7-4295-BE2E-3FC4C40281E5' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='730F1881-F7E7-4295-BE2E-3FC4C40281E5' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='730F1881-F7E7-4295-BE2E-3FC4C40281E5' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2402,7 +2543,7 @@ Fill in all the missing numbers.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='730F1881-F7E7-4295-BE2E-3FC4C40281E5' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='730F1881-F7E7-4295-BE2E-3FC4C40281E5' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='730F1881-F7E7-4295-BE2E-3FC4C40281E5' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='730F1881-F7E7-4295-BE2E-3FC4C40281E5' onclick='submitReview(event)'>PRR</button>
@@ -2413,9 +2554,12 @@ Fill in all the missing numbers.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='730F1881-F7E7-4295-BE2E-3FC4C40281E5' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='730F1881-F7E7-4295-BE2E-3FC4C40281E5' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='730F1881-F7E7-4295-BE2E-3FC4C40281E5' id='FORM-730F1881-F7E7-4295-BE2E-3FC4C40281E5' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='730F1881-F7E7-4295-BE2E-3FC4C40281E5' id='FORM-730F1881-F7E7-4295-BE2E-3FC4C40281E5' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2435,10 +2579,10 @@ Fill in all the missing numbers.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:28</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2480,6 +2624,9 @@ Complete the net.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4C011819-DCF8-4191-AEA8-EECEDE644C92' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4C011819-DCF8-4191-AEA8-EECEDE644C92' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4C011819-DCF8-4191-AEA8-EECEDE644C92' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2492,7 +2639,7 @@ Complete the net.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4C011819-DCF8-4191-AEA8-EECEDE644C92' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4C011819-DCF8-4191-AEA8-EECEDE644C92' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4C011819-DCF8-4191-AEA8-EECEDE644C92' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4C011819-DCF8-4191-AEA8-EECEDE644C92' onclick='submitReview(event)'>PRR</button>
@@ -2503,9 +2650,12 @@ Complete the net.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4C011819-DCF8-4191-AEA8-EECEDE644C92' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='4C011819-DCF8-4191-AEA8-EECEDE644C92' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='4C011819-DCF8-4191-AEA8-EECEDE644C92' id='FORM-4C011819-DCF8-4191-AEA8-EECEDE644C92' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4C011819-DCF8-4191-AEA8-EECEDE644C92' id='FORM-4C011819-DCF8-4191-AEA8-EECEDE644C92' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2525,10 +2675,10 @@ Complete the net.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:30</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2573,6 +2723,9 @@ Circle the diagram below which **cannot** be a net of this cube.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='127AD8DA-CA4B-4030-BE37-B731348CB883' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='127AD8DA-CA4B-4030-BE37-B731348CB883' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='127AD8DA-CA4B-4030-BE37-B731348CB883' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2585,7 +2738,7 @@ Circle the diagram below which **cannot** be a net of this cube.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='127AD8DA-CA4B-4030-BE37-B731348CB883' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='127AD8DA-CA4B-4030-BE37-B731348CB883' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='127AD8DA-CA4B-4030-BE37-B731348CB883' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='127AD8DA-CA4B-4030-BE37-B731348CB883' onclick='submitReview(event)'>PRR</button>
@@ -2596,9 +2749,12 @@ Circle the diagram below which **cannot** be a net of this cube.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='127AD8DA-CA4B-4030-BE37-B731348CB883' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='127AD8DA-CA4B-4030-BE37-B731348CB883' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='127AD8DA-CA4B-4030-BE37-B731348CB883' id='FORM-127AD8DA-CA4B-4030-BE37-B731348CB883' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='127AD8DA-CA4B-4030-BE37-B731348CB883' id='FORM-127AD8DA-CA4B-4030-BE37-B731348CB883' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2618,10 +2774,10 @@ Circle the diagram below which **cannot** be a net of this cube.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:28</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2670,6 +2826,9 @@ Circle the net below which will make the cube described above.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='63ADFBFF-1873-48A5-8FA0-912118441B65' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='63ADFBFF-1873-48A5-8FA0-912118441B65' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='63ADFBFF-1873-48A5-8FA0-912118441B65' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2682,7 +2841,7 @@ Circle the net below which will make the cube described above.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='63ADFBFF-1873-48A5-8FA0-912118441B65' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='63ADFBFF-1873-48A5-8FA0-912118441B65' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='63ADFBFF-1873-48A5-8FA0-912118441B65' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='63ADFBFF-1873-48A5-8FA0-912118441B65' onclick='submitReview(event)'>PRR</button>
@@ -2693,9 +2852,12 @@ Circle the net below which will make the cube described above.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='63ADFBFF-1873-48A5-8FA0-912118441B65' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='63ADFBFF-1873-48A5-8FA0-912118441B65' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='63ADFBFF-1873-48A5-8FA0-912118441B65' id='FORM-63ADFBFF-1873-48A5-8FA0-912118441B65' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='63ADFBFF-1873-48A5-8FA0-912118441B65' id='FORM-63ADFBFF-1873-48A5-8FA0-912118441B65' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2715,10 +2877,10 @@ Circle the net below which will make the cube described above.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:24</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2759,6 +2921,9 @@ The numbers $3$ and $4$ have already been placed for you.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6E7E2FEC-1D9D-41E8-8613-0B8CF4C287A4' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6E7E2FEC-1D9D-41E8-8613-0B8CF4C287A4' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6E7E2FEC-1D9D-41E8-8613-0B8CF4C287A4' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2771,7 +2936,7 @@ The numbers $3$ and $4$ have already been placed for you.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6E7E2FEC-1D9D-41E8-8613-0B8CF4C287A4' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6E7E2FEC-1D9D-41E8-8613-0B8CF4C287A4' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6E7E2FEC-1D9D-41E8-8613-0B8CF4C287A4' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6E7E2FEC-1D9D-41E8-8613-0B8CF4C287A4' onclick='submitReview(event)'>PRR</button>
@@ -2782,9 +2947,12 @@ The numbers $3$ and $4$ have already been placed for you.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6E7E2FEC-1D9D-41E8-8613-0B8CF4C287A4' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='6E7E2FEC-1D9D-41E8-8613-0B8CF4C287A4' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='6E7E2FEC-1D9D-41E8-8613-0B8CF4C287A4' id='FORM-6E7E2FEC-1D9D-41E8-8613-0B8CF4C287A4' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6E7E2FEC-1D9D-41E8-8613-0B8CF4C287A4' id='FORM-6E7E2FEC-1D9D-41E8-8613-0B8CF4C287A4' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2804,10 +2972,10 @@ The numbers $3$ and $4$ have already been placed for you.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:37</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2841,6 +3009,9 @@ Circle the net which could make the cube shown.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7EF5476D-E3E6-47D4-9AE5-4ADB40A40124' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7EF5476D-E3E6-47D4-9AE5-4ADB40A40124' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7EF5476D-E3E6-47D4-9AE5-4ADB40A40124' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2853,7 +3024,7 @@ Circle the net which could make the cube shown.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7EF5476D-E3E6-47D4-9AE5-4ADB40A40124' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7EF5476D-E3E6-47D4-9AE5-4ADB40A40124' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7EF5476D-E3E6-47D4-9AE5-4ADB40A40124' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7EF5476D-E3E6-47D4-9AE5-4ADB40A40124' onclick='submitReview(event)'>PRR</button>
@@ -2864,9 +3035,12 @@ Circle the net which could make the cube shown.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7EF5476D-E3E6-47D4-9AE5-4ADB40A40124' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='7EF5476D-E3E6-47D4-9AE5-4ADB40A40124' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='7EF5476D-E3E6-47D4-9AE5-4ADB40A40124' id='FORM-7EF5476D-E3E6-47D4-9AE5-4ADB40A40124' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7EF5476D-E3E6-47D4-9AE5-4ADB40A40124' id='FORM-7EF5476D-E3E6-47D4-9AE5-4ADB40A40124' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-talgebra-15"
 title: "TopicPaper - Algebra - 15"
-date: 2022-08-19 16:00:22
+date: 2022-09-09 06:32:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "40"
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -56,6 +56,9 @@ Which number divided by $1000$ gives $2.08$?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='40A1042E-46FD-4240-8581-0BE5D177E5C3' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='40A1042E-46FD-4240-8581-0BE5D177E5C3' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='40A1042E-46FD-4240-8581-0BE5D177E5C3' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -68,7 +71,7 @@ Which number divided by $1000$ gives $2.08$?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='40A1042E-46FD-4240-8581-0BE5D177E5C3' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='40A1042E-46FD-4240-8581-0BE5D177E5C3' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='40A1042E-46FD-4240-8581-0BE5D177E5C3' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='40A1042E-46FD-4240-8581-0BE5D177E5C3' onclick='submitReview(event)'>PRR</button>
@@ -79,9 +82,12 @@ Which number divided by $1000$ gives $2.08$?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='40A1042E-46FD-4240-8581-0BE5D177E5C3' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='40A1042E-46FD-4240-8581-0BE5D177E5C3' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='40A1042E-46FD-4240-8581-0BE5D177E5C3' id='FORM-40A1042E-46FD-4240-8581-0BE5D177E5C3' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='40A1042E-46FD-4240-8581-0BE5D177E5C3' id='FORM-40A1042E-46FD-4240-8581-0BE5D177E5C3' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -101,10 +107,10 @@ Which number divided by $1000$ gives $2.08$?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -141,6 +147,9 @@ How many egg boxes will Farmer Andrew be able to **completely fill** with these 
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A49B42DF-977B-48A4-9AA3-E3A3ECC2DDC1' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A49B42DF-977B-48A4-9AA3-E3A3ECC2DDC1' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A49B42DF-977B-48A4-9AA3-E3A3ECC2DDC1' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -153,7 +162,7 @@ How many egg boxes will Farmer Andrew be able to **completely fill** with these 
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A49B42DF-977B-48A4-9AA3-E3A3ECC2DDC1' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A49B42DF-977B-48A4-9AA3-E3A3ECC2DDC1' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A49B42DF-977B-48A4-9AA3-E3A3ECC2DDC1' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A49B42DF-977B-48A4-9AA3-E3A3ECC2DDC1' onclick='submitReview(event)'>PRR</button>
@@ -164,9 +173,12 @@ How many egg boxes will Farmer Andrew be able to **completely fill** with these 
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A49B42DF-977B-48A4-9AA3-E3A3ECC2DDC1' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='A49B42DF-977B-48A4-9AA3-E3A3ECC2DDC1' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A49B42DF-977B-48A4-9AA3-E3A3ECC2DDC1' id='FORM-A49B42DF-977B-48A4-9AA3-E3A3ECC2DDC1' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A49B42DF-977B-48A4-9AA3-E3A3ECC2DDC1' id='FORM-A49B42DF-977B-48A4-9AA3-E3A3ECC2DDC1' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -186,10 +198,10 @@ How many egg boxes will Farmer Andrew be able to **completely fill** with these 
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -261,6 +273,9 @@ $7^2 =5 1 - (\boxed{{\phantom{11}}} \times 4)$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='32EB0062-998B-4864-B2C0-301E5BCAA66A' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='32EB0062-998B-4864-B2C0-301E5BCAA66A' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='32EB0062-998B-4864-B2C0-301E5BCAA66A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -273,7 +288,7 @@ $7^2 =5 1 - (\boxed{{\phantom{11}}} \times 4)$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='32EB0062-998B-4864-B2C0-301E5BCAA66A' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='32EB0062-998B-4864-B2C0-301E5BCAA66A' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='32EB0062-998B-4864-B2C0-301E5BCAA66A' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='32EB0062-998B-4864-B2C0-301E5BCAA66A' onclick='submitReview(event)'>PRR</button>
@@ -284,9 +299,12 @@ $7^2 =5 1 - (\boxed{{\phantom{11}}} \times 4)$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='32EB0062-998B-4864-B2C0-301E5BCAA66A' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='32EB0062-998B-4864-B2C0-301E5BCAA66A' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='32EB0062-998B-4864-B2C0-301E5BCAA66A' id='FORM-32EB0062-998B-4864-B2C0-301E5BCAA66A' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='32EB0062-998B-4864-B2C0-301E5BCAA66A' id='FORM-32EB0062-998B-4864-B2C0-301E5BCAA66A' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -306,10 +324,10 @@ $7^2 =5 1 - (\boxed{{\phantom{11}}} \times 4)$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -382,6 +400,9 @@ What was the price of the **cheaper** book?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='29F24834-5082-45DE-A93E-0937145E16AE' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='29F24834-5082-45DE-A93E-0937145E16AE' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='29F24834-5082-45DE-A93E-0937145E16AE' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -394,7 +415,7 @@ What was the price of the **cheaper** book?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='29F24834-5082-45DE-A93E-0937145E16AE' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='29F24834-5082-45DE-A93E-0937145E16AE' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='29F24834-5082-45DE-A93E-0937145E16AE' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='29F24834-5082-45DE-A93E-0937145E16AE' onclick='submitReview(event)'>PRR</button>
@@ -405,9 +426,12 @@ What was the price of the **cheaper** book?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='29F24834-5082-45DE-A93E-0937145E16AE' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='29F24834-5082-45DE-A93E-0937145E16AE' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='29F24834-5082-45DE-A93E-0937145E16AE' id='FORM-29F24834-5082-45DE-A93E-0937145E16AE' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='29F24834-5082-45DE-A93E-0937145E16AE' id='FORM-29F24834-5082-45DE-A93E-0937145E16AE' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -427,10 +451,10 @@ What was the price of the **cheaper** book?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:33</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -471,6 +495,9 @@ What was the total number of sweets in the packet?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='376F37EC-1A3D-4857-B11B-3A35720D6E40' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='376F37EC-1A3D-4857-B11B-3A35720D6E40' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='376F37EC-1A3D-4857-B11B-3A35720D6E40' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -483,7 +510,7 @@ What was the total number of sweets in the packet?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='376F37EC-1A3D-4857-B11B-3A35720D6E40' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='376F37EC-1A3D-4857-B11B-3A35720D6E40' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='376F37EC-1A3D-4857-B11B-3A35720D6E40' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='376F37EC-1A3D-4857-B11B-3A35720D6E40' onclick='submitReview(event)'>PRR</button>
@@ -494,9 +521,12 @@ What was the total number of sweets in the packet?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='376F37EC-1A3D-4857-B11B-3A35720D6E40' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='376F37EC-1A3D-4857-B11B-3A35720D6E40' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='376F37EC-1A3D-4857-B11B-3A35720D6E40' id='FORM-376F37EC-1A3D-4857-B11B-3A35720D6E40' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='376F37EC-1A3D-4857-B11B-3A35720D6E40' id='FORM-376F37EC-1A3D-4857-B11B-3A35720D6E40' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -516,10 +546,10 @@ What was the total number of sweets in the packet?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -560,6 +590,9 @@ Which two numbers has Janet written down?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='72C1C1EE-244B-4996-987D-70CF6D6C69F2' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='72C1C1EE-244B-4996-987D-70CF6D6C69F2' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='72C1C1EE-244B-4996-987D-70CF6D6C69F2' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -572,7 +605,7 @@ Which two numbers has Janet written down?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='72C1C1EE-244B-4996-987D-70CF6D6C69F2' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='72C1C1EE-244B-4996-987D-70CF6D6C69F2' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='72C1C1EE-244B-4996-987D-70CF6D6C69F2' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='72C1C1EE-244B-4996-987D-70CF6D6C69F2' onclick='submitReview(event)'>PRR</button>
@@ -583,9 +616,12 @@ Which two numbers has Janet written down?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='72C1C1EE-244B-4996-987D-70CF6D6C69F2' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='72C1C1EE-244B-4996-987D-70CF6D6C69F2' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='72C1C1EE-244B-4996-987D-70CF6D6C69F2' id='FORM-72C1C1EE-244B-4996-987D-70CF6D6C69F2' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='72C1C1EE-244B-4996-987D-70CF6D6C69F2' id='FORM-72C1C1EE-244B-4996-987D-70CF6D6C69F2' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -605,10 +641,10 @@ Which two numbers has Janet written down?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -680,6 +716,9 @@ $6^2 = 4^2 + (2 \times \boxed{{\phantom{11}}})$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CA18EE51-E05D-43B3-9A52-6279C6630C9D' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CA18EE51-E05D-43B3-9A52-6279C6630C9D' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CA18EE51-E05D-43B3-9A52-6279C6630C9D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -692,7 +731,7 @@ $6^2 = 4^2 + (2 \times \boxed{{\phantom{11}}})$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CA18EE51-E05D-43B3-9A52-6279C6630C9D' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CA18EE51-E05D-43B3-9A52-6279C6630C9D' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CA18EE51-E05D-43B3-9A52-6279C6630C9D' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CA18EE51-E05D-43B3-9A52-6279C6630C9D' onclick='submitReview(event)'>PRR</button>
@@ -703,9 +742,12 @@ $6^2 = 4^2 + (2 \times \boxed{{\phantom{11}}})$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CA18EE51-E05D-43B3-9A52-6279C6630C9D' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='CA18EE51-E05D-43B3-9A52-6279C6630C9D' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='CA18EE51-E05D-43B3-9A52-6279C6630C9D' id='FORM-CA18EE51-E05D-43B3-9A52-6279C6630C9D' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CA18EE51-E05D-43B3-9A52-6279C6630C9D' id='FORM-CA18EE51-E05D-43B3-9A52-6279C6630C9D' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -725,10 +767,10 @@ $6^2 = 4^2 + (2 \times \boxed{{\phantom{11}}})$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -770,6 +812,9 @@ Given that the sandwich cost $\pounds 3.85$, how much did the muffin cost?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='242EEF52-EC83-4981-9213-C3AB0000BF4B' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='242EEF52-EC83-4981-9213-C3AB0000BF4B' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='242EEF52-EC83-4981-9213-C3AB0000BF4B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -782,7 +827,7 @@ Given that the sandwich cost $\pounds 3.85$, how much did the muffin cost?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='242EEF52-EC83-4981-9213-C3AB0000BF4B' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='242EEF52-EC83-4981-9213-C3AB0000BF4B' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='242EEF52-EC83-4981-9213-C3AB0000BF4B' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='242EEF52-EC83-4981-9213-C3AB0000BF4B' onclick='submitReview(event)'>PRR</button>
@@ -793,9 +838,12 @@ Given that the sandwich cost $\pounds 3.85$, how much did the muffin cost?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='242EEF52-EC83-4981-9213-C3AB0000BF4B' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='242EEF52-EC83-4981-9213-C3AB0000BF4B' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='242EEF52-EC83-4981-9213-C3AB0000BF4B' id='FORM-242EEF52-EC83-4981-9213-C3AB0000BF4B' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='242EEF52-EC83-4981-9213-C3AB0000BF4B' id='FORM-242EEF52-EC83-4981-9213-C3AB0000BF4B' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -815,10 +863,10 @@ Given that the sandwich cost $\pounds 3.85$, how much did the muffin cost?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -884,6 +932,9 @@ What fraction of the sweets in the full bag does Imogen have?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AFB999E3-6C2D-410C-B1AC-5FC2B01FD318' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AFB999E3-6C2D-410C-B1AC-5FC2B01FD318' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AFB999E3-6C2D-410C-B1AC-5FC2B01FD318' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -896,7 +947,7 @@ What fraction of the sweets in the full bag does Imogen have?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AFB999E3-6C2D-410C-B1AC-5FC2B01FD318' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AFB999E3-6C2D-410C-B1AC-5FC2B01FD318' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AFB999E3-6C2D-410C-B1AC-5FC2B01FD318' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AFB999E3-6C2D-410C-B1AC-5FC2B01FD318' onclick='submitReview(event)'>PRR</button>
@@ -907,9 +958,12 @@ What fraction of the sweets in the full bag does Imogen have?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AFB999E3-6C2D-410C-B1AC-5FC2B01FD318' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='AFB999E3-6C2D-410C-B1AC-5FC2B01FD318' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='AFB999E3-6C2D-410C-B1AC-5FC2B01FD318' id='FORM-AFB999E3-6C2D-410C-B1AC-5FC2B01FD318' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AFB999E3-6C2D-410C-B1AC-5FC2B01FD318' id='FORM-AFB999E3-6C2D-410C-B1AC-5FC2B01FD318' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -929,10 +983,10 @@ What fraction of the sweets in the full bag does Imogen have?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -983,6 +1037,9 @@ How much does David save by buying $1 \ \text{kilogram}$ of coffee in $100 \ \te
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A3322121-290F-4CFC-9806-85525C62D61C' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A3322121-290F-4CFC-9806-85525C62D61C' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A3322121-290F-4CFC-9806-85525C62D61C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -995,7 +1052,7 @@ How much does David save by buying $1 \ \text{kilogram}$ of coffee in $100 \ \te
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A3322121-290F-4CFC-9806-85525C62D61C' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A3322121-290F-4CFC-9806-85525C62D61C' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A3322121-290F-4CFC-9806-85525C62D61C' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A3322121-290F-4CFC-9806-85525C62D61C' onclick='submitReview(event)'>PRR</button>
@@ -1006,9 +1063,12 @@ How much does David save by buying $1 \ \text{kilogram}$ of coffee in $100 \ \te
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A3322121-290F-4CFC-9806-85525C62D61C' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='A3322121-290F-4CFC-9806-85525C62D61C' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A3322121-290F-4CFC-9806-85525C62D61C' id='FORM-A3322121-290F-4CFC-9806-85525C62D61C' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A3322121-290F-4CFC-9806-85525C62D61C' id='FORM-A3322121-290F-4CFC-9806-85525C62D61C' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1028,10 +1088,10 @@ How much does David save by buying $1 \ \text{kilogram}$ of coffee in $100 \ \te
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:32</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1078,6 +1138,9 @@ How many jupiterian jellyfish are there in the aquarium?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CE545B6F-60A2-4CD2-AC8A-401E23D2D1B6' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CE545B6F-60A2-4CD2-AC8A-401E23D2D1B6' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CE545B6F-60A2-4CD2-AC8A-401E23D2D1B6' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1090,7 +1153,7 @@ How many jupiterian jellyfish are there in the aquarium?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CE545B6F-60A2-4CD2-AC8A-401E23D2D1B6' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CE545B6F-60A2-4CD2-AC8A-401E23D2D1B6' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CE545B6F-60A2-4CD2-AC8A-401E23D2D1B6' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CE545B6F-60A2-4CD2-AC8A-401E23D2D1B6' onclick='submitReview(event)'>PRR</button>
@@ -1101,9 +1164,12 @@ How many jupiterian jellyfish are there in the aquarium?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CE545B6F-60A2-4CD2-AC8A-401E23D2D1B6' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='CE545B6F-60A2-4CD2-AC8A-401E23D2D1B6' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='CE545B6F-60A2-4CD2-AC8A-401E23D2D1B6' id='FORM-CE545B6F-60A2-4CD2-AC8A-401E23D2D1B6' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CE545B6F-60A2-4CD2-AC8A-401E23D2D1B6' id='FORM-CE545B6F-60A2-4CD2-AC8A-401E23D2D1B6' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1123,10 +1189,10 @@ How many jupiterian jellyfish are there in the aquarium?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:38</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1230,6 +1296,9 @@ Work out the value of $t$ so that $(6  t)  4 = 12$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AD0D1E9C-99FC-49ED-8ECA-6200C0DF1BE4' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AD0D1E9C-99FC-49ED-8ECA-6200C0DF1BE4' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AD0D1E9C-99FC-49ED-8ECA-6200C0DF1BE4' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1242,7 +1311,7 @@ Work out the value of $t$ so that $(6  t)  4 = 12$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AD0D1E9C-99FC-49ED-8ECA-6200C0DF1BE4' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AD0D1E9C-99FC-49ED-8ECA-6200C0DF1BE4' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AD0D1E9C-99FC-49ED-8ECA-6200C0DF1BE4' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AD0D1E9C-99FC-49ED-8ECA-6200C0DF1BE4' onclick='submitReview(event)'>PRR</button>
@@ -1253,9 +1322,12 @@ Work out the value of $t$ so that $(6  t)  4 = 12$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AD0D1E9C-99FC-49ED-8ECA-6200C0DF1BE4' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='AD0D1E9C-99FC-49ED-8ECA-6200C0DF1BE4' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='AD0D1E9C-99FC-49ED-8ECA-6200C0DF1BE4' id='FORM-AD0D1E9C-99FC-49ED-8ECA-6200C0DF1BE4' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AD0D1E9C-99FC-49ED-8ECA-6200C0DF1BE4' id='FORM-AD0D1E9C-99FC-49ED-8ECA-6200C0DF1BE4' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1275,10 +1347,10 @@ Work out the value of $t$ so that $(6  t)  4 = 12$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1311,6 +1383,9 @@ What is the number?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='45C6BBA8-D606-45A4-8947-D8C2E2DFC0E9' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='45C6BBA8-D606-45A4-8947-D8C2E2DFC0E9' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='45C6BBA8-D606-45A4-8947-D8C2E2DFC0E9' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1323,7 +1398,7 @@ What is the number?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='45C6BBA8-D606-45A4-8947-D8C2E2DFC0E9' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='45C6BBA8-D606-45A4-8947-D8C2E2DFC0E9' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='45C6BBA8-D606-45A4-8947-D8C2E2DFC0E9' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='45C6BBA8-D606-45A4-8947-D8C2E2DFC0E9' onclick='submitReview(event)'>PRR</button>
@@ -1334,9 +1409,12 @@ What is the number?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='45C6BBA8-D606-45A4-8947-D8C2E2DFC0E9' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='45C6BBA8-D606-45A4-8947-D8C2E2DFC0E9' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='45C6BBA8-D606-45A4-8947-D8C2E2DFC0E9' id='FORM-45C6BBA8-D606-45A4-8947-D8C2E2DFC0E9' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='45C6BBA8-D606-45A4-8947-D8C2E2DFC0E9' id='FORM-45C6BBA8-D606-45A4-8947-D8C2E2DFC0E9' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1356,10 +1434,10 @@ What is the number?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1396,6 +1474,9 @@ What are their two numbers?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6DE9A7A7-AD34-403D-8860-9E22A51BF727' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6DE9A7A7-AD34-403D-8860-9E22A51BF727' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6DE9A7A7-AD34-403D-8860-9E22A51BF727' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1408,7 +1489,7 @@ What are their two numbers?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6DE9A7A7-AD34-403D-8860-9E22A51BF727' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6DE9A7A7-AD34-403D-8860-9E22A51BF727' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6DE9A7A7-AD34-403D-8860-9E22A51BF727' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6DE9A7A7-AD34-403D-8860-9E22A51BF727' onclick='submitReview(event)'>PRR</button>
@@ -1419,9 +1500,12 @@ What are their two numbers?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6DE9A7A7-AD34-403D-8860-9E22A51BF727' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='6DE9A7A7-AD34-403D-8860-9E22A51BF727' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='6DE9A7A7-AD34-403D-8860-9E22A51BF727' id='FORM-6DE9A7A7-AD34-403D-8860-9E22A51BF727' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6DE9A7A7-AD34-403D-8860-9E22A51BF727' id='FORM-6DE9A7A7-AD34-403D-8860-9E22A51BF727' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1441,10 +1525,10 @@ What are their two numbers?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1491,6 +1575,9 @@ How much more does it cost to buy $250 \text{g}$ of ground coffee than $250 \tex
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F922D651-408E-4359-84E9-92753CFE0F39' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F922D651-408E-4359-84E9-92753CFE0F39' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F922D651-408E-4359-84E9-92753CFE0F39' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1503,7 +1590,7 @@ How much more does it cost to buy $250 \text{g}$ of ground coffee than $250 \tex
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F922D651-408E-4359-84E9-92753CFE0F39' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F922D651-408E-4359-84E9-92753CFE0F39' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F922D651-408E-4359-84E9-92753CFE0F39' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F922D651-408E-4359-84E9-92753CFE0F39' onclick='submitReview(event)'>PRR</button>
@@ -1514,9 +1601,12 @@ How much more does it cost to buy $250 \text{g}$ of ground coffee than $250 \tex
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F922D651-408E-4359-84E9-92753CFE0F39' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='F922D651-408E-4359-84E9-92753CFE0F39' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='F922D651-408E-4359-84E9-92753CFE0F39' id='FORM-F922D651-408E-4359-84E9-92753CFE0F39' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F922D651-408E-4359-84E9-92753CFE0F39' id='FORM-F922D651-408E-4359-84E9-92753CFE0F39' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1536,10 +1626,10 @@ How much more does it cost to buy $250 \text{g}$ of ground coffee than $250 \tex
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1572,6 +1662,9 @@ How many pizzas will she need to feed $35$ people?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A69B26AB-BBDB-41AE-8C1F-CE46981F5AF5' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A69B26AB-BBDB-41AE-8C1F-CE46981F5AF5' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A69B26AB-BBDB-41AE-8C1F-CE46981F5AF5' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1584,7 +1677,7 @@ How many pizzas will she need to feed $35$ people?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A69B26AB-BBDB-41AE-8C1F-CE46981F5AF5' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A69B26AB-BBDB-41AE-8C1F-CE46981F5AF5' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A69B26AB-BBDB-41AE-8C1F-CE46981F5AF5' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A69B26AB-BBDB-41AE-8C1F-CE46981F5AF5' onclick='submitReview(event)'>PRR</button>
@@ -1595,9 +1688,12 @@ How many pizzas will she need to feed $35$ people?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A69B26AB-BBDB-41AE-8C1F-CE46981F5AF5' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='A69B26AB-BBDB-41AE-8C1F-CE46981F5AF5' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A69B26AB-BBDB-41AE-8C1F-CE46981F5AF5' id='FORM-A69B26AB-BBDB-41AE-8C1F-CE46981F5AF5' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A69B26AB-BBDB-41AE-8C1F-CE46981F5AF5' id='FORM-A69B26AB-BBDB-41AE-8C1F-CE46981F5AF5' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1617,10 +1713,10 @@ How many pizzas will she need to feed $35$ people?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1662,6 +1758,9 @@ What was the original mass of the chocolate bar?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4E3F385A-D69B-41D1-A8C0-0B1AB628B01A' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4E3F385A-D69B-41D1-A8C0-0B1AB628B01A' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4E3F385A-D69B-41D1-A8C0-0B1AB628B01A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1674,7 +1773,7 @@ What was the original mass of the chocolate bar?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4E3F385A-D69B-41D1-A8C0-0B1AB628B01A' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4E3F385A-D69B-41D1-A8C0-0B1AB628B01A' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4E3F385A-D69B-41D1-A8C0-0B1AB628B01A' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4E3F385A-D69B-41D1-A8C0-0B1AB628B01A' onclick='submitReview(event)'>PRR</button>
@@ -1685,9 +1784,12 @@ What was the original mass of the chocolate bar?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4E3F385A-D69B-41D1-A8C0-0B1AB628B01A' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='4E3F385A-D69B-41D1-A8C0-0B1AB628B01A' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='4E3F385A-D69B-41D1-A8C0-0B1AB628B01A' id='FORM-4E3F385A-D69B-41D1-A8C0-0B1AB628B01A' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4E3F385A-D69B-41D1-A8C0-0B1AB628B01A' id='FORM-4E3F385A-D69B-41D1-A8C0-0B1AB628B01A' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1707,10 +1809,10 @@ What was the original mass of the chocolate bar?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1764,6 +1866,9 @@ What number is Agnes thinking of?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1776,7 +1881,7 @@ What number is Agnes thinking of?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='submitReview(event)'>PRR</button>
@@ -1787,9 +1892,12 @@ What number is Agnes thinking of?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' id='FORM-FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' id='FORM-FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1809,10 +1917,10 @@ What number is Agnes thinking of?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1854,6 +1962,9 @@ How much is each monthly amount?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DECB8B2F-C98F-461B-8772-23E3052D7DF2' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DECB8B2F-C98F-461B-8772-23E3052D7DF2' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DECB8B2F-C98F-461B-8772-23E3052D7DF2' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1866,7 +1977,7 @@ How much is each monthly amount?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DECB8B2F-C98F-461B-8772-23E3052D7DF2' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DECB8B2F-C98F-461B-8772-23E3052D7DF2' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DECB8B2F-C98F-461B-8772-23E3052D7DF2' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DECB8B2F-C98F-461B-8772-23E3052D7DF2' onclick='submitReview(event)'>PRR</button>
@@ -1877,9 +1988,12 @@ How much is each monthly amount?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DECB8B2F-C98F-461B-8772-23E3052D7DF2' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='DECB8B2F-C98F-461B-8772-23E3052D7DF2' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='DECB8B2F-C98F-461B-8772-23E3052D7DF2' id='FORM-DECB8B2F-C98F-461B-8772-23E3052D7DF2' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DECB8B2F-C98F-461B-8772-23E3052D7DF2' id='FORM-DECB8B2F-C98F-461B-8772-23E3052D7DF2' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1899,10 +2013,10 @@ How much is each monthly amount?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:36</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1968,6 +2082,9 @@ How many mangoes does she buy?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A797888F-EA60-476D-A295-F49C7CBF4F2C' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A797888F-EA60-476D-A295-F49C7CBF4F2C' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A797888F-EA60-476D-A295-F49C7CBF4F2C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1980,7 +2097,7 @@ How many mangoes does she buy?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A797888F-EA60-476D-A295-F49C7CBF4F2C' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A797888F-EA60-476D-A295-F49C7CBF4F2C' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A797888F-EA60-476D-A295-F49C7CBF4F2C' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A797888F-EA60-476D-A295-F49C7CBF4F2C' onclick='submitReview(event)'>PRR</button>
@@ -1991,9 +2108,12 @@ How many mangoes does she buy?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A797888F-EA60-476D-A295-F49C7CBF4F2C' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='A797888F-EA60-476D-A295-F49C7CBF4F2C' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A797888F-EA60-476D-A295-F49C7CBF4F2C' id='FORM-A797888F-EA60-476D-A295-F49C7CBF4F2C' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A797888F-EA60-476D-A295-F49C7CBF4F2C' id='FORM-A797888F-EA60-476D-A295-F49C7CBF4F2C' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2013,10 +2133,10 @@ How many mangoes does she buy?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2074,6 +2194,9 @@ $\boxed{\phantom{11}} \div 1000 = 1.05$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D6C77BFE-E594-4024-93C0-48A0970659C7' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D6C77BFE-E594-4024-93C0-48A0970659C7' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D6C77BFE-E594-4024-93C0-48A0970659C7' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2086,7 +2209,7 @@ $\boxed{\phantom{11}} \div 1000 = 1.05$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D6C77BFE-E594-4024-93C0-48A0970659C7' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D6C77BFE-E594-4024-93C0-48A0970659C7' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D6C77BFE-E594-4024-93C0-48A0970659C7' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D6C77BFE-E594-4024-93C0-48A0970659C7' onclick='submitReview(event)'>PRR</button>
@@ -2097,9 +2220,12 @@ $\boxed{\phantom{11}} \div 1000 = 1.05$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D6C77BFE-E594-4024-93C0-48A0970659C7' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='D6C77BFE-E594-4024-93C0-48A0970659C7' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='D6C77BFE-E594-4024-93C0-48A0970659C7' id='FORM-D6C77BFE-E594-4024-93C0-48A0970659C7' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D6C77BFE-E594-4024-93C0-48A0970659C7' id='FORM-D6C77BFE-E594-4024-93C0-48A0970659C7' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2119,10 +2245,10 @@ $\boxed{\phantom{11}} \div 1000 = 1.05$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2165,6 +2291,9 @@ What was the number Aisha first thought of?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2A88B7B6-AD6F-452A-ACC1-75AD1DD3F661' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2A88B7B6-AD6F-452A-ACC1-75AD1DD3F661' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2A88B7B6-AD6F-452A-ACC1-75AD1DD3F661' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2177,7 +2306,7 @@ What was the number Aisha first thought of?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2A88B7B6-AD6F-452A-ACC1-75AD1DD3F661' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2A88B7B6-AD6F-452A-ACC1-75AD1DD3F661' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2A88B7B6-AD6F-452A-ACC1-75AD1DD3F661' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2A88B7B6-AD6F-452A-ACC1-75AD1DD3F661' onclick='submitReview(event)'>PRR</button>
@@ -2188,9 +2317,12 @@ What was the number Aisha first thought of?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2A88B7B6-AD6F-452A-ACC1-75AD1DD3F661' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='2A88B7B6-AD6F-452A-ACC1-75AD1DD3F661' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='2A88B7B6-AD6F-452A-ACC1-75AD1DD3F661' id='FORM-2A88B7B6-AD6F-452A-ACC1-75AD1DD3F661' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2A88B7B6-AD6F-452A-ACC1-75AD1DD3F661' id='FORM-2A88B7B6-AD6F-452A-ACC1-75AD1DD3F661' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2210,10 +2342,10 @@ What was the number Aisha first thought of?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2250,6 +2382,9 @@ What is Autumn’s number?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5160958B-A4E0-465D-AF30-2B59CDE40F74' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5160958B-A4E0-465D-AF30-2B59CDE40F74' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5160958B-A4E0-465D-AF30-2B59CDE40F74' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2262,7 +2397,7 @@ What is Autumn’s number?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5160958B-A4E0-465D-AF30-2B59CDE40F74' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5160958B-A4E0-465D-AF30-2B59CDE40F74' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5160958B-A4E0-465D-AF30-2B59CDE40F74' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5160958B-A4E0-465D-AF30-2B59CDE40F74' onclick='submitReview(event)'>PRR</button>
@@ -2273,9 +2408,12 @@ What is Autumn’s number?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5160958B-A4E0-465D-AF30-2B59CDE40F74' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='5160958B-A4E0-465D-AF30-2B59CDE40F74' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='5160958B-A4E0-465D-AF30-2B59CDE40F74' id='FORM-5160958B-A4E0-465D-AF30-2B59CDE40F74' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5160958B-A4E0-465D-AF30-2B59CDE40F74' id='FORM-5160958B-A4E0-465D-AF30-2B59CDE40F74' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2295,10 +2433,10 @@ What is Autumn’s number?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2363,6 +2501,9 @@ How many cherries does Gina buy?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2AF65CA0-8C6F-4B92-9F42-BF41BAFA0C33' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2AF65CA0-8C6F-4B92-9F42-BF41BAFA0C33' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2AF65CA0-8C6F-4B92-9F42-BF41BAFA0C33' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2375,7 +2516,7 @@ How many cherries does Gina buy?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2AF65CA0-8C6F-4B92-9F42-BF41BAFA0C33' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2AF65CA0-8C6F-4B92-9F42-BF41BAFA0C33' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2AF65CA0-8C6F-4B92-9F42-BF41BAFA0C33' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2AF65CA0-8C6F-4B92-9F42-BF41BAFA0C33' onclick='submitReview(event)'>PRR</button>
@@ -2386,9 +2527,12 @@ How many cherries does Gina buy?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2AF65CA0-8C6F-4B92-9F42-BF41BAFA0C33' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='2AF65CA0-8C6F-4B92-9F42-BF41BAFA0C33' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='2AF65CA0-8C6F-4B92-9F42-BF41BAFA0C33' id='FORM-2AF65CA0-8C6F-4B92-9F42-BF41BAFA0C33' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2AF65CA0-8C6F-4B92-9F42-BF41BAFA0C33' id='FORM-2AF65CA0-8C6F-4B92-9F42-BF41BAFA0C33' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2408,10 +2552,10 @@ How many cherries does Gina buy?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:40</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2495,6 +2639,9 @@ Which two combinations of container, flavour and topping could she choose?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5777C924-5686-4F39-B664-8811F6230813' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5777C924-5686-4F39-B664-8811F6230813' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5777C924-5686-4F39-B664-8811F6230813' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2507,7 +2654,7 @@ Which two combinations of container, flavour and topping could she choose?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5777C924-5686-4F39-B664-8811F6230813' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5777C924-5686-4F39-B664-8811F6230813' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5777C924-5686-4F39-B664-8811F6230813' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5777C924-5686-4F39-B664-8811F6230813' onclick='submitReview(event)'>PRR</button>
@@ -2518,9 +2665,12 @@ Which two combinations of container, flavour and topping could she choose?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5777C924-5686-4F39-B664-8811F6230813' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='5777C924-5686-4F39-B664-8811F6230813' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='5777C924-5686-4F39-B664-8811F6230813' id='FORM-5777C924-5686-4F39-B664-8811F6230813' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5777C924-5686-4F39-B664-8811F6230813' id='FORM-5777C924-5686-4F39-B664-8811F6230813' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2540,10 +2690,10 @@ Which two combinations of container, flavour and topping could she choose?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:42</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2590,6 +2740,9 @@ How many leaves did each hedgehog collect?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='308A9EC5-48D0-4A9A-B391-60317A1D8F6E' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='308A9EC5-48D0-4A9A-B391-60317A1D8F6E' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='308A9EC5-48D0-4A9A-B391-60317A1D8F6E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2602,7 +2755,7 @@ How many leaves did each hedgehog collect?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='308A9EC5-48D0-4A9A-B391-60317A1D8F6E' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='308A9EC5-48D0-4A9A-B391-60317A1D8F6E' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='308A9EC5-48D0-4A9A-B391-60317A1D8F6E' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='308A9EC5-48D0-4A9A-B391-60317A1D8F6E' onclick='submitReview(event)'>PRR</button>
@@ -2613,9 +2766,12 @@ How many leaves did each hedgehog collect?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='308A9EC5-48D0-4A9A-B391-60317A1D8F6E' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='308A9EC5-48D0-4A9A-B391-60317A1D8F6E' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='308A9EC5-48D0-4A9A-B391-60317A1D8F6E' id='FORM-308A9EC5-48D0-4A9A-B391-60317A1D8F6E' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='308A9EC5-48D0-4A9A-B391-60317A1D8F6E' id='FORM-308A9EC5-48D0-4A9A-B391-60317A1D8F6E' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2635,10 +2791,10 @@ How many leaves did each hedgehog collect?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:43</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2769,6 +2925,9 @@ What do you think will be the most common single digit result if you calculate t
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5FBF3B0A-A6A2-4722-A3DB-7B166D6A55DA' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5FBF3B0A-A6A2-4722-A3DB-7B166D6A55DA' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5FBF3B0A-A6A2-4722-A3DB-7B166D6A55DA' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2781,7 +2940,7 @@ What do you think will be the most common single digit result if you calculate t
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5FBF3B0A-A6A2-4722-A3DB-7B166D6A55DA' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5FBF3B0A-A6A2-4722-A3DB-7B166D6A55DA' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5FBF3B0A-A6A2-4722-A3DB-7B166D6A55DA' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5FBF3B0A-A6A2-4722-A3DB-7B166D6A55DA' onclick='submitReview(event)'>PRR</button>
@@ -2792,9 +2951,12 @@ What do you think will be the most common single digit result if you calculate t
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5FBF3B0A-A6A2-4722-A3DB-7B166D6A55DA' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='5FBF3B0A-A6A2-4722-A3DB-7B166D6A55DA' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='5FBF3B0A-A6A2-4722-A3DB-7B166D6A55DA' id='FORM-5FBF3B0A-A6A2-4722-A3DB-7B166D6A55DA' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5FBF3B0A-A6A2-4722-A3DB-7B166D6A55DA' id='FORM-5FBF3B0A-A6A2-4722-A3DB-7B166D6A55DA' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2814,10 +2976,10 @@ What do you think will be the most common single digit result if you calculate t
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2875,6 +3037,9 @@ $\boxed{\phantom{1111}} \div 100 = 3.7$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D22E8139-C56E-4623-B929-0A178195BA8D' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D22E8139-C56E-4623-B929-0A178195BA8D' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D22E8139-C56E-4623-B929-0A178195BA8D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2887,7 +3052,7 @@ $\boxed{\phantom{1111}} \div 100 = 3.7$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D22E8139-C56E-4623-B929-0A178195BA8D' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D22E8139-C56E-4623-B929-0A178195BA8D' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D22E8139-C56E-4623-B929-0A178195BA8D' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D22E8139-C56E-4623-B929-0A178195BA8D' onclick='submitReview(event)'>PRR</button>
@@ -2898,9 +3063,12 @@ $\boxed{\phantom{1111}} \div 100 = 3.7$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D22E8139-C56E-4623-B929-0A178195BA8D' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='D22E8139-C56E-4623-B929-0A178195BA8D' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='D22E8139-C56E-4623-B929-0A178195BA8D' id='FORM-D22E8139-C56E-4623-B929-0A178195BA8D' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D22E8139-C56E-4623-B929-0A178195BA8D' id='FORM-D22E8139-C56E-4623-B929-0A178195BA8D' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2920,10 +3088,10 @@ $\boxed{\phantom{1111}} \div 100 = 3.7$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2993,6 +3161,9 @@ How many biscuits are in the box?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B2C71E9E-FF5E-4A8B-95AE-A1D6B8ACEB4A' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B2C71E9E-FF5E-4A8B-95AE-A1D6B8ACEB4A' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B2C71E9E-FF5E-4A8B-95AE-A1D6B8ACEB4A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -3005,7 +3176,7 @@ How many biscuits are in the box?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B2C71E9E-FF5E-4A8B-95AE-A1D6B8ACEB4A' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B2C71E9E-FF5E-4A8B-95AE-A1D6B8ACEB4A' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B2C71E9E-FF5E-4A8B-95AE-A1D6B8ACEB4A' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B2C71E9E-FF5E-4A8B-95AE-A1D6B8ACEB4A' onclick='submitReview(event)'>PRR</button>
@@ -3016,9 +3187,12 @@ How many biscuits are in the box?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B2C71E9E-FF5E-4A8B-95AE-A1D6B8ACEB4A' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='B2C71E9E-FF5E-4A8B-95AE-A1D6B8ACEB4A' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='B2C71E9E-FF5E-4A8B-95AE-A1D6B8ACEB4A' id='FORM-B2C71E9E-FF5E-4A8B-95AE-A1D6B8ACEB4A' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B2C71E9E-FF5E-4A8B-95AE-A1D6B8ACEB4A' id='FORM-B2C71E9E-FF5E-4A8B-95AE-A1D6B8ACEB4A' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3038,10 +3212,10 @@ How many biscuits are in the box?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3080,6 +3254,9 @@ If there are $45$ squares, how many shapes are there altogether?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='34C4A0D4-9A04-4290-879F-66A94B759004' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='34C4A0D4-9A04-4290-879F-66A94B759004' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='34C4A0D4-9A04-4290-879F-66A94B759004' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -3092,7 +3269,7 @@ If there are $45$ squares, how many shapes are there altogether?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='34C4A0D4-9A04-4290-879F-66A94B759004' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='34C4A0D4-9A04-4290-879F-66A94B759004' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='34C4A0D4-9A04-4290-879F-66A94B759004' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='34C4A0D4-9A04-4290-879F-66A94B759004' onclick='submitReview(event)'>PRR</button>
@@ -3103,9 +3280,12 @@ If there are $45$ squares, how many shapes are there altogether?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='34C4A0D4-9A04-4290-879F-66A94B759004' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='34C4A0D4-9A04-4290-879F-66A94B759004' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='34C4A0D4-9A04-4290-879F-66A94B759004' id='FORM-34C4A0D4-9A04-4290-879F-66A94B759004' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='34C4A0D4-9A04-4290-879F-66A94B759004' id='FORM-34C4A0D4-9A04-4290-879F-66A94B759004' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3125,10 +3305,10 @@ If there are $45$ squares, how many shapes are there altogether?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:45</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3173,6 +3353,9 @@ How many of each type of animal can she see?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C918F898-DCE1-4B0B-95FA-F2465D672E52' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C918F898-DCE1-4B0B-95FA-F2465D672E52' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C918F898-DCE1-4B0B-95FA-F2465D672E52' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -3185,7 +3368,7 @@ How many of each type of animal can she see?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C918F898-DCE1-4B0B-95FA-F2465D672E52' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C918F898-DCE1-4B0B-95FA-F2465D672E52' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C918F898-DCE1-4B0B-95FA-F2465D672E52' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C918F898-DCE1-4B0B-95FA-F2465D672E52' onclick='submitReview(event)'>PRR</button>
@@ -3196,9 +3379,12 @@ How many of each type of animal can she see?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C918F898-DCE1-4B0B-95FA-F2465D672E52' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='C918F898-DCE1-4B0B-95FA-F2465D672E52' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='C918F898-DCE1-4B0B-95FA-F2465D672E52' id='FORM-C918F898-DCE1-4B0B-95FA-F2465D672E52' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C918F898-DCE1-4B0B-95FA-F2465D672E52' id='FORM-C918F898-DCE1-4B0B-95FA-F2465D672E52' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3218,10 +3404,10 @@ How many of each type of animal can she see?
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3250,6 +3436,9 @@ In an arithmetic test, $4$ marks were given for each correct answer and a mark w
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A19BFD7F-4748-4122-BDBF-42DCC2932E75' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A19BFD7F-4748-4122-BDBF-42DCC2932E75' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A19BFD7F-4748-4122-BDBF-42DCC2932E75' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -3262,7 +3451,7 @@ In an arithmetic test, $4$ marks were given for each correct answer and a mark w
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A19BFD7F-4748-4122-BDBF-42DCC2932E75' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A19BFD7F-4748-4122-BDBF-42DCC2932E75' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A19BFD7F-4748-4122-BDBF-42DCC2932E75' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A19BFD7F-4748-4122-BDBF-42DCC2932E75' onclick='submitReview(event)'>PRR</button>
@@ -3273,9 +3462,12 @@ In an arithmetic test, $4$ marks were given for each correct answer and a mark w
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A19BFD7F-4748-4122-BDBF-42DCC2932E75' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='A19BFD7F-4748-4122-BDBF-42DCC2932E75' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A19BFD7F-4748-4122-BDBF-42DCC2932E75' id='FORM-A19BFD7F-4748-4122-BDBF-42DCC2932E75' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A19BFD7F-4748-4122-BDBF-42DCC2932E75' id='FORM-A19BFD7F-4748-4122-BDBF-42DCC2932E75' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3295,10 +3487,10 @@ In an arithmetic test, $4$ marks were given for each correct answer and a mark w
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3330,6 +3522,9 @@ Nigel spent $\pounds 71$ on CDs, some costing $\pounds 8$ each, and the rest $\p
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4DACC7C4-808D-4D5B-9F08-E7D2914E09BD' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4DACC7C4-808D-4D5B-9F08-E7D2914E09BD' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4DACC7C4-808D-4D5B-9F08-E7D2914E09BD' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -3342,7 +3537,7 @@ Nigel spent $\pounds 71$ on CDs, some costing $\pounds 8$ each, and the rest $\p
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4DACC7C4-808D-4D5B-9F08-E7D2914E09BD' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4DACC7C4-808D-4D5B-9F08-E7D2914E09BD' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4DACC7C4-808D-4D5B-9F08-E7D2914E09BD' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4DACC7C4-808D-4D5B-9F08-E7D2914E09BD' onclick='submitReview(event)'>PRR</button>
@@ -3353,9 +3548,12 @@ Nigel spent $\pounds 71$ on CDs, some costing $\pounds 8$ each, and the rest $\p
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4DACC7C4-808D-4D5B-9F08-E7D2914E09BD' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='4DACC7C4-808D-4D5B-9F08-E7D2914E09BD' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='4DACC7C4-808D-4D5B-9F08-E7D2914E09BD' id='FORM-4DACC7C4-808D-4D5B-9F08-E7D2914E09BD' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4DACC7C4-808D-4D5B-9F08-E7D2914E09BD' id='FORM-4DACC7C4-808D-4D5B-9F08-E7D2914E09BD' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3375,10 +3573,10 @@ Nigel spent $\pounds 71$ on CDs, some costing $\pounds 8$ each, and the rest $\p
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3416,6 +3614,9 @@ A sum of $90$ pence is made up of equal numbers of $1 \text{p}$ coins, $2 \text{
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E41C3B84-B13C-4220-B083-2712C0B5265C' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E41C3B84-B13C-4220-B083-2712C0B5265C' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E41C3B84-B13C-4220-B083-2712C0B5265C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -3428,7 +3629,7 @@ A sum of $90$ pence is made up of equal numbers of $1 \text{p}$ coins, $2 \text{
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E41C3B84-B13C-4220-B083-2712C0B5265C' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E41C3B84-B13C-4220-B083-2712C0B5265C' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E41C3B84-B13C-4220-B083-2712C0B5265C' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E41C3B84-B13C-4220-B083-2712C0B5265C' onclick='submitReview(event)'>PRR</button>
@@ -3439,9 +3640,12 @@ A sum of $90$ pence is made up of equal numbers of $1 \text{p}$ coins, $2 \text{
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E41C3B84-B13C-4220-B083-2712C0B5265C' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='E41C3B84-B13C-4220-B083-2712C0B5265C' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='E41C3B84-B13C-4220-B083-2712C0B5265C' id='FORM-E41C3B84-B13C-4220-B083-2712C0B5265C' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E41C3B84-B13C-4220-B083-2712C0B5265C' id='FORM-E41C3B84-B13C-4220-B083-2712C0B5265C' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3461,10 +3665,10 @@ A sum of $90$ pence is made up of equal numbers of $1 \text{p}$ coins, $2 \text{
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3493,6 +3697,9 @@ A bull and three cows costs $\pounds 1300$. Four bulls and eight cows cost $\pou
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3477EB4B-8C2A-4748-BA06-47119B363368' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3477EB4B-8C2A-4748-BA06-47119B363368' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3477EB4B-8C2A-4748-BA06-47119B363368' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -3505,7 +3712,7 @@ A bull and three cows costs $\pounds 1300$. Four bulls and eight cows cost $\pou
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3477EB4B-8C2A-4748-BA06-47119B363368' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3477EB4B-8C2A-4748-BA06-47119B363368' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3477EB4B-8C2A-4748-BA06-47119B363368' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3477EB4B-8C2A-4748-BA06-47119B363368' onclick='submitReview(event)'>PRR</button>
@@ -3516,9 +3723,12 @@ A bull and three cows costs $\pounds 1300$. Four bulls and eight cows cost $\pou
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3477EB4B-8C2A-4748-BA06-47119B363368' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='3477EB4B-8C2A-4748-BA06-47119B363368' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='3477EB4B-8C2A-4748-BA06-47119B363368' id='FORM-3477EB4B-8C2A-4748-BA06-47119B363368' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3477EB4B-8C2A-4748-BA06-47119B363368' id='FORM-3477EB4B-8C2A-4748-BA06-47119B363368' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3538,10 +3748,10 @@ A bull and three cows costs $\pounds 1300$. Four bulls and eight cows cost $\pou
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3582,6 +3792,9 @@ Aidan decides he needs $96$ bottles of wine. Work out the cost by each of the tw
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8988C475-ACC9-4864-8F7F-91364E1B67A1' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8988C475-ACC9-4864-8F7F-91364E1B67A1' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8988C475-ACC9-4864-8F7F-91364E1B67A1' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -3594,7 +3807,7 @@ Aidan decides he needs $96$ bottles of wine. Work out the cost by each of the tw
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8988C475-ACC9-4864-8F7F-91364E1B67A1' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8988C475-ACC9-4864-8F7F-91364E1B67A1' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8988C475-ACC9-4864-8F7F-91364E1B67A1' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8988C475-ACC9-4864-8F7F-91364E1B67A1' onclick='submitReview(event)'>PRR</button>
@@ -3605,9 +3818,12 @@ Aidan decides he needs $96$ bottles of wine. Work out the cost by each of the tw
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8988C475-ACC9-4864-8F7F-91364E1B67A1' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='8988C475-ACC9-4864-8F7F-91364E1B67A1' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='8988C475-ACC9-4864-8F7F-91364E1B67A1' id='FORM-8988C475-ACC9-4864-8F7F-91364E1B67A1' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8988C475-ACC9-4864-8F7F-91364E1B67A1' id='FORM-8988C475-ACC9-4864-8F7F-91364E1B67A1' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3627,10 +3843,10 @@ Aidan decides he needs $96$ bottles of wine. Work out the cost by each of the tw
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-2:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3730,6 +3946,9 @@ If there are four pieces, such that one is $\dfrac{1}{5}$ of the stick, one is $
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='27D02444-74FB-437E-803D-BEE8B6392DD0' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='27D02444-74FB-437E-803D-BEE8B6392DD0' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='27D02444-74FB-437E-803D-BEE8B6392DD0' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -3742,7 +3961,7 @@ If there are four pieces, such that one is $\dfrac{1}{5}$ of the stick, one is $
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='27D02444-74FB-437E-803D-BEE8B6392DD0' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='27D02444-74FB-437E-803D-BEE8B6392DD0' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='27D02444-74FB-437E-803D-BEE8B6392DD0' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='27D02444-74FB-437E-803D-BEE8B6392DD0' onclick='submitReview(event)'>PRR</button>
@@ -3753,9 +3972,12 @@ If there are four pieces, such that one is $\dfrac{1}{5}$ of the stick, one is $
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='27D02444-74FB-437E-803D-BEE8B6392DD0' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='27D02444-74FB-437E-803D-BEE8B6392DD0' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='27D02444-74FB-437E-803D-BEE8B6392DD0' id='FORM-27D02444-74FB-437E-803D-BEE8B6392DD0' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='27D02444-74FB-437E-803D-BEE8B6392DD0' id='FORM-27D02444-74FB-437E-803D-BEE8B6392DD0' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3775,10 +3997,10 @@ If there are four pieces, such that one is $\dfrac{1}{5}$ of the stick, one is $
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-2:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3892,6 +4114,9 @@ Fiona's number is $8$ less than Kath's number. Kath's number is $5$ times as big
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='65264E31-A41E-4690-BB10-C5FBD6D4BCE9' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='65264E31-A41E-4690-BB10-C5FBD6D4BCE9' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='65264E31-A41E-4690-BB10-C5FBD6D4BCE9' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -3904,7 +4129,7 @@ Fiona's number is $8$ less than Kath's number. Kath's number is $5$ times as big
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='65264E31-A41E-4690-BB10-C5FBD6D4BCE9' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='65264E31-A41E-4690-BB10-C5FBD6D4BCE9' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='65264E31-A41E-4690-BB10-C5FBD6D4BCE9' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='65264E31-A41E-4690-BB10-C5FBD6D4BCE9' onclick='submitReview(event)'>PRR</button>
@@ -3915,9 +4140,12 @@ Fiona's number is $8$ less than Kath's number. Kath's number is $5$ times as big
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='65264E31-A41E-4690-BB10-C5FBD6D4BCE9' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='65264E31-A41E-4690-BB10-C5FBD6D4BCE9' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='65264E31-A41E-4690-BB10-C5FBD6D4BCE9' id='FORM-65264E31-A41E-4690-BB10-C5FBD6D4BCE9' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='65264E31-A41E-4690-BB10-C5FBD6D4BCE9' id='FORM-65264E31-A41E-4690-BB10-C5FBD6D4BCE9' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3937,10 +4165,10 @@ Fiona's number is $8$ less than Kath's number. Kath's number is $5$ times as big
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3973,6 +4201,9 @@ How long was it last week?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4C2A869B-1707-489C-A49A-F96518FD445D' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4C2A869B-1707-489C-A49A-F96518FD445D' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4C2A869B-1707-489C-A49A-F96518FD445D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -3985,7 +4216,7 @@ How long was it last week?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4C2A869B-1707-489C-A49A-F96518FD445D' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4C2A869B-1707-489C-A49A-F96518FD445D' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4C2A869B-1707-489C-A49A-F96518FD445D' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4C2A869B-1707-489C-A49A-F96518FD445D' onclick='submitReview(event)'>PRR</button>
@@ -3996,9 +4227,12 @@ How long was it last week?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4C2A869B-1707-489C-A49A-F96518FD445D' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='4C2A869B-1707-489C-A49A-F96518FD445D' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='4C2A869B-1707-489C-A49A-F96518FD445D' id='FORM-4C2A869B-1707-489C-A49A-F96518FD445D' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4C2A869B-1707-489C-A49A-F96518FD445D' id='FORM-4C2A869B-1707-489C-A49A-F96518FD445D' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -4018,10 +4252,10 @@ How long was it last week?
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4054,6 +4288,9 @@ For example, the *facsum* of $6$ is $12$ because $1 + 2 + 3 + 6 = 12$. Work out 
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BF903884-5D0D-4F9E-B0F7-EDC591FE49F7' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BF903884-5D0D-4F9E-B0F7-EDC591FE49F7' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BF903884-5D0D-4F9E-B0F7-EDC591FE49F7' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -4066,7 +4303,7 @@ For example, the *facsum* of $6$ is $12$ because $1 + 2 + 3 + 6 = 12$. Work out 
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BF903884-5D0D-4F9E-B0F7-EDC591FE49F7' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BF903884-5D0D-4F9E-B0F7-EDC591FE49F7' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BF903884-5D0D-4F9E-B0F7-EDC591FE49F7' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BF903884-5D0D-4F9E-B0F7-EDC591FE49F7' onclick='submitReview(event)'>PRR</button>
@@ -4077,9 +4314,12 @@ For example, the *facsum* of $6$ is $12$ because $1 + 2 + 3 + 6 = 12$. Work out 
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BF903884-5D0D-4F9E-B0F7-EDC591FE49F7' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='BF903884-5D0D-4F9E-B0F7-EDC591FE49F7' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='BF903884-5D0D-4F9E-B0F7-EDC591FE49F7' id='FORM-BF903884-5D0D-4F9E-B0F7-EDC591FE49F7' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BF903884-5D0D-4F9E-B0F7-EDC591FE49F7' id='FORM-BF903884-5D0D-4F9E-B0F7-EDC591FE49F7' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tage-2-pr"
 title: "TopicPaper - Age - 2 - PR"
-date: 2022-08-19 16:00:22
+date: 2022-09-09 06:32:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "1"
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:2:15</p>
 </div>
 <div class='rag'>
-<p>Neeraj Singh</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_ns_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -57,6 +57,9 @@ How old is the father?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6C90D298-28FD-41C8-A233-C293F44572FA' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6C90D298-28FD-41C8-A233-C293F44572FA' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6C90D298-28FD-41C8-A233-C293F44572FA' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -69,7 +72,7 @@ How old is the father?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6C90D298-28FD-41C8-A233-C293F44572FA' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6C90D298-28FD-41C8-A233-C293F44572FA' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6C90D298-28FD-41C8-A233-C293F44572FA' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6C90D298-28FD-41C8-A233-C293F44572FA' onclick='submitReview(event)'>PRR</button>
@@ -80,9 +83,12 @@ How old is the father?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6C90D298-28FD-41C8-A233-C293F44572FA' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='6C90D298-28FD-41C8-A233-C293F44572FA' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='6C90D298-28FD-41C8-A233-C293F44572FA' id='FORM-6C90D298-28FD-41C8-A233-C293F44572FA' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6C90D298-28FD-41C8-A233-C293F44572FA' id='FORM-6C90D298-28FD-41C8-A233-C293F44572FA' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

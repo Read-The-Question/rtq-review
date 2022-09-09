@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tnumber-9-pr-prcr"
 title: "TopicPaper - Number - 9 - PR - PRCR"
-date: 2022-08-19 16:00:22
+date: 2022-09-09 06:32:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "1"
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_an_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -49,6 +49,9 @@ Write down what the $4$ stands for in $3427$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8F9DB9B1-6CAE-44A6-8A7E-2E6C0B41C39E' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8F9DB9B1-6CAE-44A6-8A7E-2E6C0B41C39E' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8F9DB9B1-6CAE-44A6-8A7E-2E6C0B41C39E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -61,7 +64,7 @@ Write down what the $4$ stands for in $3427$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8F9DB9B1-6CAE-44A6-8A7E-2E6C0B41C39E' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8F9DB9B1-6CAE-44A6-8A7E-2E6C0B41C39E' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8F9DB9B1-6CAE-44A6-8A7E-2E6C0B41C39E' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8F9DB9B1-6CAE-44A6-8A7E-2E6C0B41C39E' onclick='submitReview(event)'>PRR</button>
@@ -72,9 +75,12 @@ Write down what the $4$ stands for in $3427$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8F9DB9B1-6CAE-44A6-8A7E-2E6C0B41C39E' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='8F9DB9B1-6CAE-44A6-8A7E-2E6C0B41C39E' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='8F9DB9B1-6CAE-44A6-8A7E-2E6C0B41C39E' id='FORM-8F9DB9B1-6CAE-44A6-8A7E-2E6C0B41C39E' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8F9DB9B1-6CAE-44A6-8A7E-2E6C0B41C39E' id='FORM-8F9DB9B1-6CAE-44A6-8A7E-2E6C0B41C39E' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

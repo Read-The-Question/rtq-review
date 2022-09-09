@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tinfer-2-g2"
 title: "TopicPaper - Infer - 2 - G2"
-date: 2022-08-19 16:00:22
+date: 2022-09-09 06:32:25
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -58,6 +58,9 @@ What space would you end up on after these $8$ throws: $5, 5, 3, 6, 2, 6, 1, 4$?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='88358144-6C16-4B16-98BA-7FA689321043' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='88358144-6C16-4B16-98BA-7FA689321043' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='88358144-6C16-4B16-98BA-7FA689321043' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -70,7 +73,7 @@ What space would you end up on after these $8$ throws: $5, 5, 3, 6, 2, 6, 1, 4$?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='88358144-6C16-4B16-98BA-7FA689321043' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='88358144-6C16-4B16-98BA-7FA689321043' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='88358144-6C16-4B16-98BA-7FA689321043' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='88358144-6C16-4B16-98BA-7FA689321043' onclick='submitReview(event)'>PRR</button>
@@ -81,9 +84,12 @@ What space would you end up on after these $8$ throws: $5, 5, 3, 6, 2, 6, 1, 4$?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='88358144-6C16-4B16-98BA-7FA689321043' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='88358144-6C16-4B16-98BA-7FA689321043' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='88358144-6C16-4B16-98BA-7FA689321043' id='FORM-88358144-6C16-4B16-98BA-7FA689321043' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='88358144-6C16-4B16-98BA-7FA689321043' id='FORM-88358144-6C16-4B16-98BA-7FA689321043' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -166,6 +172,9 @@ $MB \times NB = GHB$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0397F9ED-9BAA-42DD-BD1F-0057097C21C5' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0397F9ED-9BAA-42DD-BD1F-0057097C21C5' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0397F9ED-9BAA-42DD-BD1F-0057097C21C5' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -178,7 +187,7 @@ $MB \times NB = GHB$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0397F9ED-9BAA-42DD-BD1F-0057097C21C5' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0397F9ED-9BAA-42DD-BD1F-0057097C21C5' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0397F9ED-9BAA-42DD-BD1F-0057097C21C5' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0397F9ED-9BAA-42DD-BD1F-0057097C21C5' onclick='submitReview(event)'>PRR</button>
@@ -189,9 +198,12 @@ $MB \times NB = GHB$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0397F9ED-9BAA-42DD-BD1F-0057097C21C5' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='0397F9ED-9BAA-42DD-BD1F-0057097C21C5' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='0397F9ED-9BAA-42DD-BD1F-0057097C21C5' id='FORM-0397F9ED-9BAA-42DD-BD1F-0057097C21C5' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0397F9ED-9BAA-42DD-BD1F-0057097C21C5' id='FORM-0397F9ED-9BAA-42DD-BD1F-0057097C21C5' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -267,6 +279,9 @@ Use this information to determine which person is which.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5CB24FFD-04C6-49E1-8304-A8A8A52EFF38' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5CB24FFD-04C6-49E1-8304-A8A8A52EFF38' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5CB24FFD-04C6-49E1-8304-A8A8A52EFF38' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -279,7 +294,7 @@ Use this information to determine which person is which.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5CB24FFD-04C6-49E1-8304-A8A8A52EFF38' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5CB24FFD-04C6-49E1-8304-A8A8A52EFF38' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5CB24FFD-04C6-49E1-8304-A8A8A52EFF38' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5CB24FFD-04C6-49E1-8304-A8A8A52EFF38' onclick='submitReview(event)'>PRR</button>
@@ -290,9 +305,12 @@ Use this information to determine which person is which.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5CB24FFD-04C6-49E1-8304-A8A8A52EFF38' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='5CB24FFD-04C6-49E1-8304-A8A8A52EFF38' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='5CB24FFD-04C6-49E1-8304-A8A8A52EFF38' id='FORM-5CB24FFD-04C6-49E1-8304-A8A8A52EFF38' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5CB24FFD-04C6-49E1-8304-A8A8A52EFF38' id='FORM-5CB24FFD-04C6-49E1-8304-A8A8A52EFF38' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -387,6 +405,9 @@ Imran says he has found a three digit number whose digits multiply together to g
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2975B92D-90B9-4A30-A3B6-9F2FC7C950F5' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2975B92D-90B9-4A30-A3B6-9F2FC7C950F5' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2975B92D-90B9-4A30-A3B6-9F2FC7C950F5' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -399,7 +420,7 @@ Imran says he has found a three digit number whose digits multiply together to g
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2975B92D-90B9-4A30-A3B6-9F2FC7C950F5' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2975B92D-90B9-4A30-A3B6-9F2FC7C950F5' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2975B92D-90B9-4A30-A3B6-9F2FC7C950F5' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2975B92D-90B9-4A30-A3B6-9F2FC7C950F5' onclick='submitReview(event)'>PRR</button>
@@ -410,9 +431,12 @@ Imran says he has found a three digit number whose digits multiply together to g
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2975B92D-90B9-4A30-A3B6-9F2FC7C950F5' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='2975B92D-90B9-4A30-A3B6-9F2FC7C950F5' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='2975B92D-90B9-4A30-A3B6-9F2FC7C950F5' id='FORM-2975B92D-90B9-4A30-A3B6-9F2FC7C950F5' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2975B92D-90B9-4A30-A3B6-9F2FC7C950F5' id='FORM-2975B92D-90B9-4A30-A3B6-9F2FC7C950F5' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

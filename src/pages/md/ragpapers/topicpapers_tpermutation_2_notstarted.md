@@ -1,242 +1,10 @@
 ---
 slug: "ragpapers/topicpapers-tpermutation-2-notstarted"
 title: "TopicPaper - Permutation - 2 - NOTSTARTED"
-date: 2022-08-19 15:40:39
-questions_count: "5"
+date: 2022-09-09 06:13:00
+questions_count: "2"
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>64D05414-BEA8-4226-8051-BDA5464DA810</p>
-</div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:1:18</p>
-</div>
-<div class='rag'>
-<p>Neeraj Singh</p>
-</div>
-<div class='rag'>
-<p>rag_ns_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpermutation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In how many different ways can the letters $M, A, T, H$ be placed in a line if the $T$ is **always** first and the $A$ is **never** last?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's try and find all the possible arrangements.
-
-- $\text{T A H M}$
-- $\text{T A M H}$
-- $\text{T H A M}$
-- $\text{T M A H}$
-
-Total count $= 4$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let's try and find all the possible arrangements.
-<emptyline>
-- $\text{T A H M}$
-- $\text{T A M H}$
-- $\text{T H A M}$
-- $\text{T M A H}$
-<emptyline>
-Total count $= 4$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$4$
-</code></pre>
-</div>
-</div>
-
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>19528BB0-C11D-48F8-8DAB-32D249EC8D2D</p>
-</div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:1:19</p>
-</div>
-<div class='rag'>
-<p>Neeraj Singh</p>
-</div>
-<div class='rag'>
-<p>rag_ns_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpermutation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How many numbers between $300$ and $500$ contain **at least one** $4$ in their digits?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's try and find all the possible arrangements.
-
-Let's first count all the numbers between $300$ and $399$.
-
-If we use $4$ in the units place, the possible arrangements are:
-
-- $304$
-- $314$
-- $324$
-- $334$
-- $344$
-- $354$
-- $364$
-- $374$
-- $384$
-- $394$
-
-Count $= 10$
-
-If we use $4$ in the tens place, the possible arrangements are: 
-
-- $341$
-- $342$
-- $343$
-- $345$
-- $346$
-- $347$
-- $348$
-- $349$
-
-Count $= 9$
-
-*Note: $344$ is already accounted for in the first list, so ensure you do not count it again.*
-
-Now let's look at all the numbers between $400$ and $499$. As every number in this range will have at least one $4$, so
-
-Count between $400$ and $499 = 100$
-
-$
-\begin {aligned}
-\text{Total count}   &= 100 + 10 + 9 \\\\
-                     &= 119
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$119$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let's try and find all the possible arrangements.
-<emptyline>
-Let's first count all the numbers between $300$ and $399$.
-<emptyline>
-If we use $4$ in the units place, the possible arrangements are:
-<emptyline>
-- $304$
-- $314$
-- $324$
-- $334$
-- $344$
-- $354$
-- $364$
-- $374$
-- $384$
-- $394$
-<emptyline>
-Count $= 10$
-<emptyline>
-If we use $4$ in the tens place, the possible arrangements are: 
-<emptyline>
-- $341$
-- $342$
-- $343$
-- $345$
-- $346$
-- $347$
-- $348$
-- $349$
-<emptyline>
-Count $= 9$
-<emptyline>
-*Note: $344$ is already accounted for in the first list, so ensure you do not count it again.*
-<emptyline>
-Now let's look at all the numbers between $400$ and $499$. As every number in this range will have at least one $4$, so
-<emptyline>
-Count between $400$ and $499 = 100$
-<emptyline>
-$
-\begin {aligned}
-\text{Total count}   &= 100 + 10 + 9 \\\\
-                     &= 119
-\end {aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$119$
-</code></pre>
-</div>
-</div>
-
-
-</div>
-</li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
@@ -261,6 +29,66 @@ tpermutation
 </li>
 </ul>
 </div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-826766D1-0786-4F68-AD0B-6CA2C8F22C40'>Initial</p>
 <div class='question question'>
 
 In a school table-tennis league each team plays each of the other teams **twice** during the year, once at home and once away. If there are $30$ matches in total during the season, how many teams are there in the table-tennis league?
@@ -363,6 +191,52 @@ There are total of $6$ teams playing the league
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='NS' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='826766D1-0786-4F68-AD0B-6CA2C8F22C40' id='FORM-826766D1-0786-4F68-AD0B-6CA2C8F22C40' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-826766D1-0786-4F68-AD0B-6CA2C8F22C40'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -389,6 +263,66 @@ tpermutation
 </li>
 </ul>
 </div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-D1877BC6-DBDD-470A-9061-101346F1F6A4'>Initial</p>
 <div class='question question'>
 
 Yesterday, the reading on Mr Smith’s electricity meter was $098157$. He was shocked to realise that all six of these digits are different. How many more units of electricity will he use before the next time all the digits are different?
@@ -470,73 +404,58 @@ The number of units required to get next time all different digits = $098162 - 0
 </div>
 </div>
 
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+Full stop 
 </div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='submitReview(event)'>PRCC</button>
 </li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>FAD3A72B-8B37-4011-BDA2-D70E94CDEB4B</p>
-</div>
-<div class='papername'>
-<p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:20</p>
-</div>
-<div class='rag'>
-<p>Neeraj Singh</p>
-</div>
-<div class='rag'>
-<p>rag_ns_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpermutation
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='NS' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' onclick='resetComment(event)'>Reset Comments</button>
 </li>
 </ul>
-</div>
-<div class='question question'>
 
-Write down in rising order of size all the $3$-digit numbers which can be formed by using te digits $7$,$8$ and $9$ once each. The first is $789$.
- 
-</div>
-<div class='workings'>
-<div class='working'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='D1877BC6-DBDD-470A-9061-101346F1F6A4' id='FORM-D1877BC6-DBDD-470A-9061-101346F1F6A4' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
 
-$789 \quad < \quad 798 \quad < \quad 879 \quad < \quad 897 \quad < \quad 978 \quad < \quad 987$
-
+<p class='review_status initial' id='REVIEW-STATUS-D1877BC6-DBDD-470A-9061-101346F1F6A4'>Initial</p>
 </div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$789 \quad < \quad 798 \quad < \quad 879 \quad < \quad 897 \quad < \quad 978 \quad < \quad 987$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$789 \quad < \quad 798 \quad < \quad 879 \quad < \quad 897 \quad < \quad 978 \quad < \quad 987$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$789 \quad < \quad 798 \quad < \quad 879 \quad < \quad 897 \quad < \quad 978 \quad < \quad 987$
-</code></pre>
-</div>
-</div>
-
-
 </div>
 </li>
 </ul>

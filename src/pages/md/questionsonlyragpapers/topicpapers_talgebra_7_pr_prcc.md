@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-talgebra-7-pr-prcc"
 title: "TopicPaper - Algebra - 7 - PR - PRCC"
-date: 2022-08-19 16:00:22
+date: 2022-09-09 06:32:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "3"
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:8</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_as_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -98,6 +98,9 @@ Part c) Remove \text
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9534D4D0-5ABE-4A31-B52C-8A1B05281589' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9534D4D0-5ABE-4A31-B52C-8A1B05281589' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9534D4D0-5ABE-4A31-B52C-8A1B05281589' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -110,7 +113,7 @@ Part c) Remove \text
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9534D4D0-5ABE-4A31-B52C-8A1B05281589' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9534D4D0-5ABE-4A31-B52C-8A1B05281589' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9534D4D0-5ABE-4A31-B52C-8A1B05281589' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9534D4D0-5ABE-4A31-B52C-8A1B05281589' onclick='submitReview(event)'>PRR</button>
@@ -121,9 +124,12 @@ Part c) Remove \text
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9534D4D0-5ABE-4A31-B52C-8A1B05281589' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='9534D4D0-5ABE-4A31-B52C-8A1B05281589' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='9534D4D0-5ABE-4A31-B52C-8A1B05281589' id='FORM-9534D4D0-5ABE-4A31-B52C-8A1B05281589' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9534D4D0-5ABE-4A31-B52C-8A1B05281589' id='FORM-9534D4D0-5ABE-4A31-B52C-8A1B05281589' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -143,10 +149,10 @@ Part c) Remove \text
 <p>oundle-school--11-plus--maths--2008--sample-paper-1:1:24</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_as_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -200,6 +206,9 @@ Write in all the full stops
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2225AC51-DD9D-4735-95C7-96330E32FE3A' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2225AC51-DD9D-4735-95C7-96330E32FE3A' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2225AC51-DD9D-4735-95C7-96330E32FE3A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -212,7 +221,7 @@ Write in all the full stops
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2225AC51-DD9D-4735-95C7-96330E32FE3A' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2225AC51-DD9D-4735-95C7-96330E32FE3A' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2225AC51-DD9D-4735-95C7-96330E32FE3A' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2225AC51-DD9D-4735-95C7-96330E32FE3A' onclick='submitReview(event)'>PRR</button>
@@ -223,9 +232,12 @@ Write in all the full stops
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2225AC51-DD9D-4735-95C7-96330E32FE3A' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='2225AC51-DD9D-4735-95C7-96330E32FE3A' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='2225AC51-DD9D-4735-95C7-96330E32FE3A' id='FORM-2225AC51-DD9D-4735-95C7-96330E32FE3A' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2225AC51-DD9D-4735-95C7-96330E32FE3A' id='FORM-2225AC51-DD9D-4735-95C7-96330E32FE3A' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -245,10 +257,10 @@ Write in all the full stops
 <p>oundle-school--11-plus--maths--2016--sample-paper-4:1:9</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_as_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -333,6 +345,9 @@ Part b) Just write the numbers without commas
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E282A566-3F9E-4A8A-BA38-2034EE0DB396' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E282A566-3F9E-4A8A-BA38-2034EE0DB396' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E282A566-3F9E-4A8A-BA38-2034EE0DB396' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -345,7 +360,7 @@ Part b) Just write the numbers without commas
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E282A566-3F9E-4A8A-BA38-2034EE0DB396' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E282A566-3F9E-4A8A-BA38-2034EE0DB396' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E282A566-3F9E-4A8A-BA38-2034EE0DB396' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E282A566-3F9E-4A8A-BA38-2034EE0DB396' onclick='submitReview(event)'>PRR</button>
@@ -356,9 +371,12 @@ Part b) Just write the numbers without commas
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E282A566-3F9E-4A8A-BA38-2034EE0DB396' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='E282A566-3F9E-4A8A-BA38-2034EE0DB396' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='E282A566-3F9E-4A8A-BA38-2034EE0DB396' id='FORM-E282A566-3F9E-4A8A-BA38-2034EE0DB396' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E282A566-3F9E-4A8A-BA38-2034EE0DB396' id='FORM-E282A566-3F9E-4A8A-BA38-2034EE0DB396' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

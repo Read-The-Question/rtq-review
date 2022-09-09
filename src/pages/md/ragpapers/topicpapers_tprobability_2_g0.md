@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tprobability-2-g0"
 title: "TopicPaper - Probability - 2 - G0"
-date: 2022-08-19 15:40:39
+date: 2022-09-09 06:13:00
 questions_count: "7"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "7"
 <p>rag_ns_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -29,6 +29,66 @@ tprobability
 </li>
 </ul>
 </div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D'>Initial</p>
 <div class='question question'>
 
 I have a bag containing red, blue and white counters. A counter is chosen at random from the bag. There are $24$ red counters in the bag and the probability of choosing a red counter is $\dfrac {1} {6}$ . The bag contains $15$ blue counters. How many white counters are there in the bag? 
@@ -37,18 +97,16 @@ I have a bag containing red, blue and white counters. A counter is chosen at ran
 <div class='workings'>
 <div class='working'>
 
-Let the white counters $= a$
+ABBR: $\text{Probability}  = \dfrac { \text{ Favourable outcomes} } { \text{Total outcomes} }$
 
-As per the question,
+
+Let the white counters $= a$
 
 Total counters $= 24 + 15 + a$
 
-\text{Probability}  &= \dfrac { \text{ Favourable outcomes} } { \text{Total outcomes} }
-
-
 $
 \begin{aligned}
-\text {Probability of choosing a red counter is} &= \dfrac {\text {Red counters}} {\text {Total counters}} \\\\
+\text {P(red counter)}                           &= \dfrac {24} {24 + 15 + a} \\\\
 \dfrac {1} {6}                                   &= \dfrac {24} {24 + 15 + a} \\\\
 24 + 15 + a                                      &= 24 \times 6 \\\\
 a + 39                                           &= 144 \\\\
@@ -71,17 +129,15 @@ $105$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the white counters $= a$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_probability
 <emptyline>
-As per the question,
+Let the white counters $= a$
 <emptyline>
 Total counters $= 24 + 15 + a$
 <emptyline>
-rtq_abbr_katex_formula_aligned_probability
-<emptyline>
 $
 \begin{aligned}
-\text {Probability of choosing a red counter is} &= \dfrac {\text {Red counters}} {\text {Total counters}} \\\\
+\text {P(red counter)}                           &= \dfrac {24} {24 + 15 + a} \\\\
 \dfrac {1} {6}                                   &= \dfrac {24} {24 + 15 + a} \\\\
 24 + 15 + a                                      &= 24 \times 6 \\\\
 a + 39                                           &= 144 \\\\
@@ -114,6 +170,9 @@ There are $105$ white counters in the bag.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -126,7 +185,7 @@ There are $105$ white counters in the bag.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='submitReview(event)'>PRR</button>
@@ -137,9 +196,12 @@ There are $105$ white counters in the bag.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G0' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G0' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' id='FORM-F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' id='FORM-F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -151,7 +213,7 @@ There are $105$ white counters in the bag.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>804485E5-7451-4F75-8F5C-D624DA927416</p>
 </div>
@@ -165,7 +227,7 @@ There are $105$ white counters in the bag.
 <p>rag_ns_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -174,6 +236,66 @@ tprobability
 </li>
 </ul>
 </div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-804485E5-7451-4F75-8F5C-D624DA927416'>Initial</p>
 <div class='question question'>
 
 I have a bag containing red, blue and white counters. A counter is chosen at random from the bag. There are $32$ white counters in the bag and the probability of choosing a white counter is $\dfrac {1} {4}$. The bag contains $14$ red counters. How many blue counters are there in the bag?  
@@ -182,18 +304,18 @@ I have a bag containing red, blue and white counters. A counter is chosen at ran
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Probability}  = \dfrac { \text{ Favourable outcomes} } { \text{Total outcomes} }$
+
+
 Let the blue counters $= a$
 
 As per the question,
 
 Total counters $= 32 + 14 + a$
 
-\text{Probability}  &= \dfrac { \text{ Favourable outcomes} } { \text{Total outcomes} }
-
-
 $
 \begin{aligned}
-\text {Probability of choosing a white counter is} &= \dfrac {\text {White counters}} {\text {Total counters}} \\\\
+\text {P(white counter)}                           &= \dfrac {32} {32 + 14 + a} \\\\
 \dfrac {1} {4}                                     &= \dfrac {32} {32 + 14 + a} \\\\
 32 + 14 + a                                        &= 32 \times 4 \\\\
 a + 46                                             &= 128 \\\\
@@ -216,17 +338,17 @@ $82$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the blue counters $= a$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_probability
+<emptyline>
+Let the blue counters $= a$
 <emptyline>
 As per the question,
 <emptyline>
 Total counters $= 32 + 14 + a$
 <emptyline>
-rtq_abbr_katex_formula_aligned_probability
-<emptyline>
 $
 \begin{aligned}
-\text {Probability of choosing a white counter is} &= \dfrac {\text {White counters}} {\text {Total counters}} \\\\
+\text {P(white counter)}                           &= \dfrac {32} {32 + 14 + a} \\\\
 \dfrac {1} {4}                                     &= \dfrac {32} {32 + 14 + a} \\\\
 32 + 14 + a                                        &= 32 \times 4 \\\\
 a + 46                                             &= 128 \\\\
@@ -259,6 +381,9 @@ There are 82 blue counters in the bag.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -271,7 +396,7 @@ There are 82 blue counters in the bag.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='submitReview(event)'>PRR</button>
@@ -282,9 +407,12 @@ There are 82 blue counters in the bag.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G0' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G0' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' id='FORM-804485E5-7451-4F75-8F5C-D624DA927416' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='804485E5-7451-4F75-8F5C-D624DA927416' id='FORM-804485E5-7451-4F75-8F5C-D624DA927416' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -296,7 +424,7 @@ There are 82 blue counters in the bag.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>81411267-4268-441B-B266-ABB3F942DF98</p>
 </div>
@@ -310,7 +438,7 @@ There are 82 blue counters in the bag.
 <p>rag_ns_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -319,9 +447,69 @@ tprobability
 </li>
 </ul>
 </div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-81411267-4268-441B-B266-ABB3F942DF98'>Initial</p>
 <div class='question question'>
 
-A box contains $7$ red smarties, $4$ blue smarties, $5$ orange smarties and $2$ pink smartie. If a smartie is picked at random what is the probability of getting, 
+A box contains $7$ red smarties, $4$ blue smarties, $5$ orange smarties and $2$ pink smarties. If a smartie is picked at random what is the probability of getting: 
 
 </div>
 <div class='workings'>
@@ -368,11 +556,12 @@ a red smartie?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Probability}  = \dfrac { \text{ Favourable outcomes} } { \text{Total outcomes} }$
+
+
 $
 \begin{aligned}
-\text{Probability}  &= \dfrac { \text{ Favourable outcomes} } { \text{Total outcomes} }
- \\\\
-                    &= \dfrac {7} {7 + 4 + 2 + 5} \\\\
+\text{P(red)}       &= \dfrac {7} {7 + 4 + 2 + 5} \\\\
                     &= \dfrac {7} {18}
 \end{aligned}
 $
@@ -389,10 +578,11 @@ $\dfrac {7} {18}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_probability
+<emptyline>
+$
 \begin{aligned}
-rtq_abbr_katex_formula_aligned_probability \\\\
-                    &= \dfrac {7} {7 + 4 + 2 + 5} \\\\
+\text{P(red)}       &= \dfrac {7} {7 + 4 + 2 + 5} \\\\
                     &= \dfrac {7} {18}
 \end{aligned}
 $
@@ -424,15 +614,16 @@ a blue or pink smartie?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Probability}  = \dfrac { \text{ Favourable outcomes} } { \text{Total outcomes} }$
+
+
 $
 \begin{aligned}
-\text{Probability}  &= \dfrac { \text{ Favourable outcomes} } { \text{Total outcomes} }
- \\\\
-                    &= \dfrac {4 + 2} {7 + 4 + 2 + 5} \\\\
-                    &= \dfrac {6} {18} \\\\
-                    &= \dfrac {6} {6 \times 3} \\\\
-                    &= \dfrac {\cancel {6}} {\cancel {6} \times {3}} \\\\
-                    &= \dfrac {1} {3}
+\text{P(blue or pink)}  &= \dfrac {4 + 2} {7 + 4 + 2 + 5} \\\\
+                        &= \dfrac {6} {18} \\\\
+                        &= \dfrac {6} {6 \times 3} \\\\
+                        &= \dfrac {\cancel {6}} {\cancel {6} \times {3}} \\\\
+                        &= \dfrac {1} {3}
 \end{aligned}
 $
 
@@ -448,14 +639,15 @@ $\dfrac {1} {3}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_probability
+<emptyline>
+$
 \begin{aligned}
-rtq_abbr_katex_formula_aligned_probability \\\\
-                    &= \dfrac {4 + 2} {7 + 4 + 2 + 5} \\\\
-                    &= \dfrac {6} {18} \\\\
-                    &= \dfrac {6} {6 \times 3} \\\\
-                    &= \dfrac {\cancel {6}} {\cancel {6} \times {3}} \\\\
-                    &= \dfrac {1} {3}
+\text{P(blue or pink)}  &= \dfrac {4 + 2} {7 + 4 + 2 + 5} \\\\
+                        &= \dfrac {6} {18} \\\\
+                        &= \dfrac {6} {6 \times 3} \\\\
+                        &= \dfrac {\cancel {6}} {\cancel {6} \times {3}} \\\\
+                        &= \dfrac {1} {3}
 \end{aligned}
 $
 </code></pre>
@@ -486,12 +678,13 @@ not an orange smartie?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Probability}  = \dfrac { \text{ Favourable outcomes} } { \text{Total outcomes} }$
+
+
 $
 \begin{aligned}
-\text{Probability}  &= \dfrac { \text{ Favourable outcomes} } { \text{Total outcomes} }
- \\\\
-                    &= \dfrac {7 + 4 + 2} {7 + 4 + 2 + 5} \\\\
-                    &= \dfrac {13} {18}
+\text{P(not orange)} &= \dfrac {7 + 4 + 2} {7 + 4 + 2 + 5} \\\\
+                     &= \dfrac {13} {18}
 \end{aligned}
 $
 
@@ -507,11 +700,12 @@ $\dfrac {13} {18}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_probability
+<emptyline>
+$
 \begin{aligned}
-rtq_abbr_katex_formula_aligned_probability \\\\
-                    &= \dfrac {7 + 4 + 2} {7 + 4 + 2 + 5} \\\\
-                    &= \dfrac {13} {18}
+\text{P(not orange)} &= \dfrac {7 + 4 + 2} {7 + 4 + 2 + 5} \\\\
+                     &= \dfrac {13} {18}
 \end{aligned}
 $
 </code></pre>
@@ -540,6 +734,9 @@ $
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -552,7 +749,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='submitReview(event)'>PRR</button>
@@ -563,9 +760,12 @@ $
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G0' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G0' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' id='FORM-81411267-4268-441B-B266-ABB3F942DF98' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='81411267-4268-441B-B266-ABB3F942DF98' id='FORM-81411267-4268-441B-B266-ABB3F942DF98' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -577,7 +777,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B</p>
 </div>
@@ -591,7 +791,7 @@ $
 <p>rag_ns_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -600,6 +800,66 @@ tprobability
 </li>
 </ul>
 </div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B'>Initial</p>
 <div class='question question'>
 
 [In this question note that $1$ is NOT a prime number.] 
@@ -631,19 +891,10 @@ Write one of the following phrases in the spaces below to make each statement co
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Probability}  = \dfrac { \text{ Favourable outcomes} } { \text{Total outcomes} }$
 
-If we read the question carefully, similar set of events are repeated and **we have to derive if the phrases are correct for the 
-inter-related statements for all the events**.
 
 Let's check the probability of outcomes of Events A, B C and D step by step and draw out interpretation at end.
-
-
-$
-\begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable outcomes} } { \text{Total outcomes} }
-
-\end{aligned}
-$
 
 We will compare the possibilties to derive which statement fits which two given events. 
 
@@ -663,7 +914,7 @@ $
 \begin{aligned} 
     \text{A}             & : \text{B}             \\\\
     \dfrac {2}{6}        & : \dfrac {3}{6}        \\\\
-    \text{Probability A} & < \text{Probability B} 
+    \text{P(A)} & < \text{P(B)} 
 \end{aligned}
 $
 
@@ -677,7 +928,7 @@ $
 \begin{aligned} 
     \text{B}             & : \text{C}             \\\\
     \dfrac {3}{6}        & : \dfrac {3}{6}        \\\\
-    \text{Probability B} & < \text{Probability C} 
+    \text{P(B)} & < \text{P(C)} 
 \end{aligned}
 $
 
@@ -689,7 +940,7 @@ $
 \begin{aligned} 
     \text{C}             & : \text{D}             \\\\
     \dfrac {3}{6}        & : \dfrac {2}{6}        \\\\
-    \text{Probability C} & < \text{Probability D} 
+    \text{P(C)} & < \text{P(D)} 
 \end{aligned}
 $
 
@@ -712,18 +963,9 @@ C $\underline {\text  {is more likely to happen than}}$ D.
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>
-If we read the question carefully, similar set of events are repeated and **we have to derive if the phrases are correct for the 
-inter-related statements for all the events**.
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_probability
 <emptyline>
 Let's check the probability of outcomes of Events A, B C and D step by step and draw out interpretation at end.
-<emptyline>
-
-$
-\begin{aligned} 
-rtq_abbr_katex_formula_aligned_probability
-\end{aligned}
-$
 <emptyline>
 We will compare the possibilties to derive which statement fits which two given events. 
 <emptyline>
@@ -743,7 +985,7 @@ $
 \begin{aligned} 
     \text{A}             & : \text{B}             \\\\
     \dfrac {2}{6}        & : \dfrac {3}{6}        \\\\
-    \text{Probability A} & < \text{Probability B} 
+    \text{P(A)} & < \text{P(B)} 
 \end{aligned}
 $
 <emptyline>
@@ -757,7 +999,7 @@ $
 \begin{aligned} 
     \text{B}             & : \text{C}             \\\\
     \dfrac {3}{6}        & : \dfrac {3}{6}        \\\\
-    \text{Probability B} & < \text{Probability C} 
+    \text{P(B)} & < \text{P(C)} 
 \end{aligned}
 $
 <emptyline>
@@ -769,7 +1011,7 @@ $
 \begin{aligned} 
     \text{C}             & : \text{D}             \\\\
     \dfrac {3}{6}        & : \dfrac {2}{6}        \\\\
-    \text{Probability C} & < \text{Probability D} 
+    \text{P(C)} & < \text{P(D)} 
 \end{aligned}
 $
 <emptyline>
@@ -802,6 +1044,9 @@ C $\underline {\text  {is more likely to happen than}}$ D.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -814,7 +1059,7 @@ C $\underline {\text  {is more likely to happen than}}$ D.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='submitReview(event)'>PRR</button>
@@ -825,9 +1070,12 @@ C $\underline {\text  {is more likely to happen than}}$ D.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G0' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G0' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' id='FORM-DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' id='FORM-DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -839,7 +1087,7 @@ C $\underline {\text  {is more likely to happen than}}$ D.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5386A862-7004-4EB7-85BF-4DB8111B2763</p>
 </div>
@@ -853,7 +1101,7 @@ C $\underline {\text  {is more likely to happen than}}$ D.
 <p>rag_ns_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -862,6 +1110,66 @@ tprobability
 </li>
 </ul>
 </div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-5386A862-7004-4EB7-85BF-4DB8111B2763'>Initial</p>
 <div class='question question'>
 
 Which is more likely, rolling a $3$ with an unbiased die with six faces, or getting a head with a fair coin?
@@ -870,23 +1178,18 @@ Which is more likely, rolling a $3$ with an unbiased die with six faces, or gett
 <div class='workings'>
 <div class='working'>
 
-Let's calculate the first value.
+ABBR: $\text{Probability}  = \dfrac { \text{ Favourable outcomes} } { \text{Total outcomes} }$
+
 
 $
-\begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable outcomes} } { \text{Total outcomes} }
- \\\\
-                    &= \dfrac {1} {6}
+\begin{aligned}
+\text{P(3)}     &= \dfrac {1} {6}
 \end{aligned}
 $
 
-Let's calculate the second value.
-
 $
-\begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable outcomes} } { \text{Total outcomes} }
- \\\\
-                    &= \dfrac {1} {2} \\\\
+\begin{aligned}
+\text{P(head)}      &= \dfrac {1} {2} \\\\
                     &= \dfrac {1 \times 3} {2 \times 3} \\\\
                     &= \dfrac {3} {6}
 \end{aligned}
@@ -908,21 +1211,17 @@ $\text {Getting a head with a fair coin}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let's calculate the first value.
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_probability
 <emptyline>
 $
-\begin{aligned} 
-rtq_abbr_katex_formula_aligned_probability \\\\
-                    &= \dfrac {1} {6}
+\begin{aligned}
+\text{P(3)}     &= \dfrac {1} {6}
 \end{aligned}
 $
 <emptyline>
-Let's calculate the second value.
-<emptyline>
 $
-\begin{aligned} 
-rtq_abbr_katex_formula_aligned_probability \\\\
-                    &= \dfrac {1} {2} \\\\
+\begin{aligned}
+\text{P(head)}      &= \dfrac {1} {2} \\\\
                     &= \dfrac {1 \times 3} {2 \times 3} \\\\
                     &= \dfrac {3} {6}
 \end{aligned}
@@ -954,6 +1253,9 @@ So it is more likely to get a head with a fair coin than rolling a $3$ with an u
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -966,7 +1268,7 @@ So it is more likely to get a head with a fair coin than rolling a $3$ with an u
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='submitReview(event)'>PRR</button>
@@ -977,9 +1279,12 @@ So it is more likely to get a head with a fair coin than rolling a $3$ with an u
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G0' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G0' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' id='FORM-5386A862-7004-4EB7-85BF-4DB8111B2763' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='5386A862-7004-4EB7-85BF-4DB8111B2763' id='FORM-5386A862-7004-4EB7-85BF-4DB8111B2763' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -991,7 +1296,7 @@ So it is more likely to get a head with a fair coin than rolling a $3$ with an u
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FF850235-7104-4915-9390-211E83691462</p>
 </div>
@@ -1005,7 +1310,7 @@ So it is more likely to get a head with a fair coin than rolling a $3$ with an u
 <p>rag_ns_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1014,6 +1319,66 @@ tprobability
 </li>
 </ul>
 </div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-FF850235-7104-4915-9390-211E83691462'>Initial</p>
 <div class='question question'>
 
 Tim has a box containing $9$ red, $6$ blue and $5$ yellow counters. He 
@@ -1026,14 +1391,15 @@ Give your answer as a fraction.
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Probability}  = \dfrac { \text{ Favourable outcomes} } { \text{Total outcomes} }$
+
+
 **NOT** selecting a red counter is same as selecting a blue or yellow counter instead.
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable outcomes} } { \text{Total outcomes} }
- \\\\
-                    &= \dfrac { 6 +  5 } {  6 + 5 + 9 } \\\\
-                    &= \dfrac { 11 } {  20 }
+\text{P(Not a red counter)}      &= \dfrac {6 +  5} {6 + 5 + 9} \\\\
+                                 &= \dfrac {11} {20}
 \end{aligned}
 $
 
@@ -1042,20 +1408,21 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac { 11 } {  20 }$
+$\dfrac {11} {20}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>**NOT** selecting a red counter is same as selecting a blue or yellow counter instead.
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_probability
+<emptyline>
+**NOT** selecting a red counter is same as selecting a blue or yellow counter instead.
 <emptyline>
 $
 \begin{aligned} 
-rtq_abbr_katex_formula_aligned_probability \\\\
-                    &= \dfrac { 6 +  5 } {  6 + 5 + 9 } \\\\
-                    &= \dfrac { 11 } {  20 }
+\text{P(Not a red counter)}      &= \dfrac {6 +  5} {6 + 5 + 9} \\\\
+                                 &= \dfrac {11} {20}
 \end{aligned}
 $
 </code></pre>
@@ -1069,7 +1436,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac { 11 } {  20 }$
+<pre class='language-latex'><code class='language-latex'>$\dfrac {11} {20}$
 </code></pre>
 </div>
 </div>
@@ -1079,6 +1446,9 @@ $
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='submitReview(event)'>PRPCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='submitReview(event)'>PRG</button>
@@ -1093,7 +1463,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='submitReview(event)'>PRR</button>
@@ -1104,9 +1474,12 @@ $
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G0' data-uuid='FF850235-7104-4915-9390-211E83691462' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G0' data-uuid='FF850235-7104-4915-9390-211E83691462' id='FORM-FF850235-7104-4915-9390-211E83691462' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='FF850235-7104-4915-9390-211E83691462' id='FORM-FF850235-7104-4915-9390-211E83691462' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1118,7 +1491,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E6588871-D766-4716-B6B4-2BB08ABB7D9F</p>
 </div>
@@ -1132,7 +1505,7 @@ $
 <p>rag_ns_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1141,6 +1514,66 @@ tprobability
 </li>
 </ul>
 </div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-E6588871-D766-4716-B6B4-2BB08ABB7D9F'>Initial</p>
 <div class='question question'>
 
 A bag contains coloured counters of just **__two__** colours.  There are twenty green counters numbered $1$ to $20$ and thirty blue counters numbered $1$ to $30$. What is the probability of picking a counter from the bag which is a multiple of four?
@@ -1150,19 +1583,18 @@ A bag contains coloured counters of just **__two__** colours.  There are twenty 
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Probability}  = \dfrac { \text{ Favourable outcomes} } { \text{Total outcomes} }$
+
+
 $
 \begin{aligned} 
-\text{Count of multiples of } 4 \text{ in green}    &= 4, 8, 12, 16, 20 \\\\
-                                                    &= 5 \\\\
-\text{Count of multiples of } 4 \text{ in blue}     &= 4, 8, 12, 16, 20, 24, 28 \\\\
-                                                    &= 7 \\\\
-\text{Probability}  &= \dfrac { \text{ Favourable outcomes} } { \text{Total outcomes} }
- \\\\
-                                                    &= \dfrac { 5 + 7 } {  50 } \\\\
-                                                    &= \dfrac { 12 } {  50 } \\\\
-                                                    &= \dfrac { 2 \times 6 } {  2 \times 25 } \\\\
-                                                    &= \dfrac { \cancel{2} \times 6 } {  \cancel{2} \times 25 } \\\\
-                                                    &= \dfrac { 6 } { 25 }
+\text{Multiples of } 4 \text{ in green counter}    &= 4, 8, 12, 16, 20 \\\\
+\text{Multiples of } 4 \text{ in blue counter}     &= 4, 8, 12, 16, 20, 24, 28 \\\\
+\text{P(Multiple of 4)}                             &= \dfrac {5 + 7} {50} \\\\
+                                                    &= \dfrac {12} {50} \\\\
+                                                    &= \dfrac {2 \times 6} {2 \times 25} \\\\
+                                                    &= \dfrac {\cancel{2} \times 6} {\cancel{2} \times 25} \\\\
+                                                    &= \dfrac {6} {25}
 \end{aligned}
 $
 
@@ -1171,25 +1603,24 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac { 6 } { 25 }$
+$\dfrac {6} {25}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_probability
+<emptyline>
+$
 \begin{aligned} 
-\text{Count of multiples of } 4 \text{ in green}    &= 4, 8, 12, 16, 20 \\\\
-                                                    &= 5 \\\\
-\text{Count of multiples of } 4 \text{ in blue}     &= 4, 8, 12, 16, 20, 24, 28 \\\\
-                                                    &= 7 \\\\
-rtq_abbr_katex_formula_aligned_probability \\\\
-                                                    &= \dfrac { 5 + 7 } {  50 } \\\\
-                                                    &= \dfrac { 12 } {  50 } \\\\
-                                                    &= \dfrac { 2 \times 6 } {  2 \times 25 } \\\\
-                                                    &= \dfrac { \cancel{2} \times 6 } {  \cancel{2} \times 25 } \\\\
-                                                    &= \dfrac { 6 } { 25 }
+\text{Multiples of } 4 \text{ in green counter}    &= 4, 8, 12, 16, 20 \\\\
+\text{Multiples of } 4 \text{ in blue counter}     &= 4, 8, 12, 16, 20, 24, 28 \\\\
+\text{P(Multiple of 4)}                             &= \dfrac {5 + 7} {50} \\\\
+                                                    &= \dfrac {12} {50} \\\\
+                                                    &= \dfrac {2 \times 6} {2 \times 25} \\\\
+                                                    &= \dfrac {\cancel{2} \times 6} {\cancel{2} \times 25} \\\\
+                                                    &= \dfrac {6} {25}
 \end{aligned}
 $
 </code></pre>
@@ -1203,7 +1634,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac { 6 } { 25 }$
+<pre class='language-latex'><code class='language-latex'>$\dfrac {6} {25}$
 </code></pre>
 </div>
 </div>
@@ -1213,6 +1644,9 @@ $
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='submitReview(event)'>PRPCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='submitReview(event)'>PRG</button>
@@ -1227,7 +1661,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='submitReview(event)'>PRR</button>
@@ -1238,9 +1672,12 @@ $
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G0' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='G0' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' id='FORM-E6588871-D766-4716-B6B4-2BB08ABB7D9F' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' id='FORM-E6588871-D766-4716-B6B4-2BB08ABB7D9F' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

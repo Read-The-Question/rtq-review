@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tinfer-6-g2-prns"
 title: "TopicPaper - Infer - 6 - G2 - PRNS"
-date: 2022-08-19 16:00:22
+date: 2022-09-09 06:32:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -107,6 +107,9 @@ Work out and write down all the numbers between $20$ and $30$ which are **NOT** 
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='65502277-EEEF-42CB-9903-83CA9F8D359A' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='65502277-EEEF-42CB-9903-83CA9F8D359A' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='65502277-EEEF-42CB-9903-83CA9F8D359A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -119,7 +122,7 @@ Work out and write down all the numbers between $20$ and $30$ which are **NOT** 
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='65502277-EEEF-42CB-9903-83CA9F8D359A' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='65502277-EEEF-42CB-9903-83CA9F8D359A' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='65502277-EEEF-42CB-9903-83CA9F8D359A' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='65502277-EEEF-42CB-9903-83CA9F8D359A' onclick='submitReview(event)'>PRR</button>
@@ -130,9 +133,12 @@ Work out and write down all the numbers between $20$ and $30$ which are **NOT** 
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='65502277-EEEF-42CB-9903-83CA9F8D359A' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='65502277-EEEF-42CB-9903-83CA9F8D359A' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='65502277-EEEF-42CB-9903-83CA9F8D359A' id='FORM-65502277-EEEF-42CB-9903-83CA9F8D359A' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='65502277-EEEF-42CB-9903-83CA9F8D359A' id='FORM-65502277-EEEF-42CB-9903-83CA9F8D359A' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

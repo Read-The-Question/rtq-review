@@ -1,8 +1,8 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tdetailedmultiplication-2-g2-prns"
 title: "TopicPaper - Detailedmultiplication - 2 - G2 - PRNS"
-date: 2022-08-19 16:00:22
-questions_count: "27"
+date: 2022-09-09 06:32:25
+questions_count: "28"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -46,6 +46,9 @@ Work out $789 \times 6$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='672ED6D1-CC3D-4A63-A7FF-473FEF56BC49' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='672ED6D1-CC3D-4A63-A7FF-473FEF56BC49' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='672ED6D1-CC3D-4A63-A7FF-473FEF56BC49' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -58,7 +61,7 @@ Work out $789 \times 6$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='672ED6D1-CC3D-4A63-A7FF-473FEF56BC49' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='672ED6D1-CC3D-4A63-A7FF-473FEF56BC49' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='672ED6D1-CC3D-4A63-A7FF-473FEF56BC49' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='672ED6D1-CC3D-4A63-A7FF-473FEF56BC49' onclick='submitReview(event)'>PRR</button>
@@ -69,9 +72,12 @@ Work out $789 \times 6$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='672ED6D1-CC3D-4A63-A7FF-473FEF56BC49' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='672ED6D1-CC3D-4A63-A7FF-473FEF56BC49' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='672ED6D1-CC3D-4A63-A7FF-473FEF56BC49' id='FORM-672ED6D1-CC3D-4A63-A7FF-473FEF56BC49' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='672ED6D1-CC3D-4A63-A7FF-473FEF56BC49' id='FORM-672ED6D1-CC3D-4A63-A7FF-473FEF56BC49' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -123,6 +129,9 @@ Work out $53 \times 58$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='51009A67-A32F-47AB-8235-58A743394681' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='51009A67-A32F-47AB-8235-58A743394681' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='51009A67-A32F-47AB-8235-58A743394681' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -135,7 +144,7 @@ Work out $53 \times 58$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='51009A67-A32F-47AB-8235-58A743394681' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='51009A67-A32F-47AB-8235-58A743394681' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='51009A67-A32F-47AB-8235-58A743394681' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='51009A67-A32F-47AB-8235-58A743394681' onclick='submitReview(event)'>PRR</button>
@@ -146,9 +155,12 @@ Work out $53 \times 58$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='51009A67-A32F-47AB-8235-58A743394681' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='51009A67-A32F-47AB-8235-58A743394681' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='51009A67-A32F-47AB-8235-58A743394681' id='FORM-51009A67-A32F-47AB-8235-58A743394681' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='51009A67-A32F-47AB-8235-58A743394681' id='FORM-51009A67-A32F-47AB-8235-58A743394681' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -200,6 +212,9 @@ $25 \times \ldots = 300$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='37A3DF42-1B85-4931-843A-6A0DA7076F88' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='37A3DF42-1B85-4931-843A-6A0DA7076F88' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='37A3DF42-1B85-4931-843A-6A0DA7076F88' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -212,7 +227,7 @@ $25 \times \ldots = 300$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='37A3DF42-1B85-4931-843A-6A0DA7076F88' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='37A3DF42-1B85-4931-843A-6A0DA7076F88' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='37A3DF42-1B85-4931-843A-6A0DA7076F88' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='37A3DF42-1B85-4931-843A-6A0DA7076F88' onclick='submitReview(event)'>PRR</button>
@@ -223,9 +238,12 @@ $25 \times \ldots = 300$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='37A3DF42-1B85-4931-843A-6A0DA7076F88' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='37A3DF42-1B85-4931-843A-6A0DA7076F88' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='37A3DF42-1B85-4931-843A-6A0DA7076F88' id='FORM-37A3DF42-1B85-4931-843A-6A0DA7076F88' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='37A3DF42-1B85-4931-843A-6A0DA7076F88' id='FORM-37A3DF42-1B85-4931-843A-6A0DA7076F88' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -297,6 +315,9 @@ E: $1440$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='AE9309E3-39F8-4402-875E-80C8ABE317C4' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='AE9309E3-39F8-4402-875E-80C8ABE317C4' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='AE9309E3-39F8-4402-875E-80C8ABE317C4' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -309,7 +330,7 @@ E: $1440$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='AE9309E3-39F8-4402-875E-80C8ABE317C4' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='AE9309E3-39F8-4402-875E-80C8ABE317C4' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='AE9309E3-39F8-4402-875E-80C8ABE317C4' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='AE9309E3-39F8-4402-875E-80C8ABE317C4' onclick='submitReview(event)'>PRR</button>
@@ -320,9 +341,12 @@ E: $1440$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='AE9309E3-39F8-4402-875E-80C8ABE317C4' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='AE9309E3-39F8-4402-875E-80C8ABE317C4' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='AE9309E3-39F8-4402-875E-80C8ABE317C4' id='FORM-AE9309E3-39F8-4402-875E-80C8ABE317C4' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='AE9309E3-39F8-4402-875E-80C8ABE317C4' id='FORM-AE9309E3-39F8-4402-875E-80C8ABE317C4' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -394,6 +418,9 @@ E: $8400$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D3AA05D7-151A-4527-BEEA-EC5A2A270C0F' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D3AA05D7-151A-4527-BEEA-EC5A2A270C0F' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D3AA05D7-151A-4527-BEEA-EC5A2A270C0F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -406,7 +433,7 @@ E: $8400$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D3AA05D7-151A-4527-BEEA-EC5A2A270C0F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D3AA05D7-151A-4527-BEEA-EC5A2A270C0F' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D3AA05D7-151A-4527-BEEA-EC5A2A270C0F' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D3AA05D7-151A-4527-BEEA-EC5A2A270C0F' onclick='submitReview(event)'>PRR</button>
@@ -417,9 +444,12 @@ E: $8400$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D3AA05D7-151A-4527-BEEA-EC5A2A270C0F' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='D3AA05D7-151A-4527-BEEA-EC5A2A270C0F' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='D3AA05D7-151A-4527-BEEA-EC5A2A270C0F' id='FORM-D3AA05D7-151A-4527-BEEA-EC5A2A270C0F' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D3AA05D7-151A-4527-BEEA-EC5A2A270C0F' id='FORM-D3AA05D7-151A-4527-BEEA-EC5A2A270C0F' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -471,6 +501,9 @@ $2010 \times 12 =$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='26F2C665-1D37-416F-BEEC-54972E872912' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='26F2C665-1D37-416F-BEEC-54972E872912' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='26F2C665-1D37-416F-BEEC-54972E872912' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -483,7 +516,7 @@ $2010 \times 12 =$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='26F2C665-1D37-416F-BEEC-54972E872912' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='26F2C665-1D37-416F-BEEC-54972E872912' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='26F2C665-1D37-416F-BEEC-54972E872912' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='26F2C665-1D37-416F-BEEC-54972E872912' onclick='submitReview(event)'>PRR</button>
@@ -494,9 +527,12 @@ $2010 \times 12 =$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='26F2C665-1D37-416F-BEEC-54972E872912' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='26F2C665-1D37-416F-BEEC-54972E872912' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='26F2C665-1D37-416F-BEEC-54972E872912' id='FORM-26F2C665-1D37-416F-BEEC-54972E872912' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='26F2C665-1D37-416F-BEEC-54972E872912' id='FORM-26F2C665-1D37-416F-BEEC-54972E872912' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -548,6 +584,9 @@ $2011 \times 11 =$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9E48D2C7-6C16-414D-8885-6F1845A27BEA' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9E48D2C7-6C16-414D-8885-6F1845A27BEA' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9E48D2C7-6C16-414D-8885-6F1845A27BEA' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -560,7 +599,7 @@ $2011 \times 11 =$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9E48D2C7-6C16-414D-8885-6F1845A27BEA' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9E48D2C7-6C16-414D-8885-6F1845A27BEA' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9E48D2C7-6C16-414D-8885-6F1845A27BEA' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9E48D2C7-6C16-414D-8885-6F1845A27BEA' onclick='submitReview(event)'>PRR</button>
@@ -571,9 +610,12 @@ $2011 \times 11 =$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9E48D2C7-6C16-414D-8885-6F1845A27BEA' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='9E48D2C7-6C16-414D-8885-6F1845A27BEA' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='9E48D2C7-6C16-414D-8885-6F1845A27BEA' id='FORM-9E48D2C7-6C16-414D-8885-6F1845A27BEA' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9E48D2C7-6C16-414D-8885-6F1845A27BEA' id='FORM-9E48D2C7-6C16-414D-8885-6F1845A27BEA' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -625,6 +667,9 @@ Use your previous answer to write down the answer to $2400 \times 90$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A64047D5-B54A-426C-A41A-39320D26F531' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A64047D5-B54A-426C-A41A-39320D26F531' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A64047D5-B54A-426C-A41A-39320D26F531' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -637,7 +682,7 @@ Use your previous answer to write down the answer to $2400 \times 90$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A64047D5-B54A-426C-A41A-39320D26F531' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A64047D5-B54A-426C-A41A-39320D26F531' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A64047D5-B54A-426C-A41A-39320D26F531' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A64047D5-B54A-426C-A41A-39320D26F531' onclick='submitReview(event)'>PRR</button>
@@ -648,9 +693,12 @@ Use your previous answer to write down the answer to $2400 \times 90$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A64047D5-B54A-426C-A41A-39320D26F531' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='A64047D5-B54A-426C-A41A-39320D26F531' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='A64047D5-B54A-426C-A41A-39320D26F531' id='FORM-A64047D5-B54A-426C-A41A-39320D26F531' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A64047D5-B54A-426C-A41A-39320D26F531' id='FORM-A64047D5-B54A-426C-A41A-39320D26F531' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -702,6 +750,9 @@ Use your previous answer to write down $2002 \times 5$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='28567DF7-C205-4EA9-ADD3-0DD66CC0BD8C' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='28567DF7-C205-4EA9-ADD3-0DD66CC0BD8C' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='28567DF7-C205-4EA9-ADD3-0DD66CC0BD8C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -714,7 +765,7 @@ Use your previous answer to write down $2002 \times 5$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='28567DF7-C205-4EA9-ADD3-0DD66CC0BD8C' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='28567DF7-C205-4EA9-ADD3-0DD66CC0BD8C' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='28567DF7-C205-4EA9-ADD3-0DD66CC0BD8C' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='28567DF7-C205-4EA9-ADD3-0DD66CC0BD8C' onclick='submitReview(event)'>PRR</button>
@@ -725,9 +776,12 @@ Use your previous answer to write down $2002 \times 5$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='28567DF7-C205-4EA9-ADD3-0DD66CC0BD8C' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='28567DF7-C205-4EA9-ADD3-0DD66CC0BD8C' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='28567DF7-C205-4EA9-ADD3-0DD66CC0BD8C' id='FORM-28567DF7-C205-4EA9-ADD3-0DD66CC0BD8C' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='28567DF7-C205-4EA9-ADD3-0DD66CC0BD8C' id='FORM-28567DF7-C205-4EA9-ADD3-0DD66CC0BD8C' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -779,6 +833,9 @@ Use these last two answers to write down $2002 \times 15$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CEEFE661-3F94-486A-860F-03203D78E68B' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CEEFE661-3F94-486A-860F-03203D78E68B' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CEEFE661-3F94-486A-860F-03203D78E68B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -791,7 +848,7 @@ Use these last two answers to write down $2002 \times 15$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CEEFE661-3F94-486A-860F-03203D78E68B' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CEEFE661-3F94-486A-860F-03203D78E68B' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CEEFE661-3F94-486A-860F-03203D78E68B' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CEEFE661-3F94-486A-860F-03203D78E68B' onclick='submitReview(event)'>PRR</button>
@@ -802,9 +859,12 @@ Use these last two answers to write down $2002 \times 15$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CEEFE661-3F94-486A-860F-03203D78E68B' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='CEEFE661-3F94-486A-860F-03203D78E68B' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='CEEFE661-3F94-486A-860F-03203D78E68B' id='FORM-CEEFE661-3F94-486A-860F-03203D78E68B' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CEEFE661-3F94-486A-860F-03203D78E68B' id='FORM-CEEFE661-3F94-486A-860F-03203D78E68B' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -812,6 +872,103 @@ Use these last two answers to write down $2002 \times 15$.
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-CEEFE661-3F94-486A-860F-03203D78E68B'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>F5E382B1-9D12-48B3-BD9E-21F57EBDAE9D</p>
+</div>
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-1:1:3</p>
+</div>
+<div class='rag'>
+<p>Neeraj Singh</p>
+</div>
+<div class='rag'>
+<p>rag_ns_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$
+\begin{array}{cccccccccccccc}
+         &  6  &  7  &  4 \\
+{}\times &     &     &  7 \\
+\hline\\
+\hline
+\end{array}
+$ 
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>$
+\begin{array}{cccccccccccccc}
+         &  6  &  7  &  4 \\
+{}\times &     &     &  7 \\
+\hline\\
+\hline
+\end{array}
+$ 
+</code></pre>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='F5E382B1-9D12-48B3-BD9E-21F57EBDAE9D' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='F5E382B1-9D12-48B3-BD9E-21F57EBDAE9D' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='F5E382B1-9D12-48B3-BD9E-21F57EBDAE9D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='F5E382B1-9D12-48B3-BD9E-21F57EBDAE9D' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='F5E382B1-9D12-48B3-BD9E-21F57EBDAE9D' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='F5E382B1-9D12-48B3-BD9E-21F57EBDAE9D' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='F5E382B1-9D12-48B3-BD9E-21F57EBDAE9D' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='F5E382B1-9D12-48B3-BD9E-21F57EBDAE9D' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='F5E382B1-9D12-48B3-BD9E-21F57EBDAE9D' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='F5E382B1-9D12-48B3-BD9E-21F57EBDAE9D' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='F5E382B1-9D12-48B3-BD9E-21F57EBDAE9D' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='F5E382B1-9D12-48B3-BD9E-21F57EBDAE9D' id='FORM-F5E382B1-9D12-48B3-BD9E-21F57EBDAE9D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-F5E382B1-9D12-48B3-BD9E-21F57EBDAE9D'>Initial</p>
 </div>
 </div>
 </li>
@@ -856,6 +1013,9 @@ Multiply $24 \times 7$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='03D42D48-3FB7-4714-B187-0AE67DB44618' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='03D42D48-3FB7-4714-B187-0AE67DB44618' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='03D42D48-3FB7-4714-B187-0AE67DB44618' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -868,7 +1028,7 @@ Multiply $24 \times 7$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='03D42D48-3FB7-4714-B187-0AE67DB44618' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='03D42D48-3FB7-4714-B187-0AE67DB44618' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='03D42D48-3FB7-4714-B187-0AE67DB44618' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='03D42D48-3FB7-4714-B187-0AE67DB44618' onclick='submitReview(event)'>PRR</button>
@@ -879,9 +1039,12 @@ Multiply $24 \times 7$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='03D42D48-3FB7-4714-B187-0AE67DB44618' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='03D42D48-3FB7-4714-B187-0AE67DB44618' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='03D42D48-3FB7-4714-B187-0AE67DB44618' id='FORM-03D42D48-3FB7-4714-B187-0AE67DB44618' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='03D42D48-3FB7-4714-B187-0AE67DB44618' id='FORM-03D42D48-3FB7-4714-B187-0AE67DB44618' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -933,6 +1096,9 @@ Multiply $18 \times 9$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='EA7DB42E-E628-40A2-860E-9AC25520203C' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='EA7DB42E-E628-40A2-860E-9AC25520203C' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='EA7DB42E-E628-40A2-860E-9AC25520203C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -945,7 +1111,7 @@ Multiply $18 \times 9$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='EA7DB42E-E628-40A2-860E-9AC25520203C' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='EA7DB42E-E628-40A2-860E-9AC25520203C' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='EA7DB42E-E628-40A2-860E-9AC25520203C' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='EA7DB42E-E628-40A2-860E-9AC25520203C' onclick='submitReview(event)'>PRR</button>
@@ -956,9 +1122,12 @@ Multiply $18 \times 9$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='EA7DB42E-E628-40A2-860E-9AC25520203C' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='EA7DB42E-E628-40A2-860E-9AC25520203C' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='EA7DB42E-E628-40A2-860E-9AC25520203C' id='FORM-EA7DB42E-E628-40A2-860E-9AC25520203C' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='EA7DB42E-E628-40A2-860E-9AC25520203C' id='FORM-EA7DB42E-E628-40A2-860E-9AC25520203C' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1010,6 +1179,9 @@ Calculate  $129  \times 32$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='DAAB04F2-F9D2-4F37-A0C3-2B9D33692008' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='DAAB04F2-F9D2-4F37-A0C3-2B9D33692008' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='DAAB04F2-F9D2-4F37-A0C3-2B9D33692008' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1022,7 +1194,7 @@ Calculate  $129  \times 32$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='DAAB04F2-F9D2-4F37-A0C3-2B9D33692008' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='DAAB04F2-F9D2-4F37-A0C3-2B9D33692008' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='DAAB04F2-F9D2-4F37-A0C3-2B9D33692008' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='DAAB04F2-F9D2-4F37-A0C3-2B9D33692008' onclick='submitReview(event)'>PRR</button>
@@ -1033,9 +1205,12 @@ Calculate  $129  \times 32$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='DAAB04F2-F9D2-4F37-A0C3-2B9D33692008' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='DAAB04F2-F9D2-4F37-A0C3-2B9D33692008' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='DAAB04F2-F9D2-4F37-A0C3-2B9D33692008' id='FORM-DAAB04F2-F9D2-4F37-A0C3-2B9D33692008' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='DAAB04F2-F9D2-4F37-A0C3-2B9D33692008' id='FORM-DAAB04F2-F9D2-4F37-A0C3-2B9D33692008' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1087,6 +1262,9 @@ $13 \times 8 =$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='15499DD8-36CD-4883-B0BF-7C747D432B36' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='15499DD8-36CD-4883-B0BF-7C747D432B36' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='15499DD8-36CD-4883-B0BF-7C747D432B36' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1099,7 +1277,7 @@ $13 \times 8 =$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='15499DD8-36CD-4883-B0BF-7C747D432B36' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='15499DD8-36CD-4883-B0BF-7C747D432B36' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='15499DD8-36CD-4883-B0BF-7C747D432B36' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='15499DD8-36CD-4883-B0BF-7C747D432B36' onclick='submitReview(event)'>PRR</button>
@@ -1110,9 +1288,12 @@ $13 \times 8 =$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='15499DD8-36CD-4883-B0BF-7C747D432B36' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='15499DD8-36CD-4883-B0BF-7C747D432B36' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='15499DD8-36CD-4883-B0BF-7C747D432B36' id='FORM-15499DD8-36CD-4883-B0BF-7C747D432B36' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='15499DD8-36CD-4883-B0BF-7C747D432B36' id='FORM-15499DD8-36CD-4883-B0BF-7C747D432B36' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1164,6 +1345,9 @@ $195 \times 47 =$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='40C245E0-C364-4A86-ACD3-59D1D8B4BFF0' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='40C245E0-C364-4A86-ACD3-59D1D8B4BFF0' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='40C245E0-C364-4A86-ACD3-59D1D8B4BFF0' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1176,7 +1360,7 @@ $195 \times 47 =$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='40C245E0-C364-4A86-ACD3-59D1D8B4BFF0' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='40C245E0-C364-4A86-ACD3-59D1D8B4BFF0' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='40C245E0-C364-4A86-ACD3-59D1D8B4BFF0' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='40C245E0-C364-4A86-ACD3-59D1D8B4BFF0' onclick='submitReview(event)'>PRR</button>
@@ -1187,9 +1371,12 @@ $195 \times 47 =$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='40C245E0-C364-4A86-ACD3-59D1D8B4BFF0' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='40C245E0-C364-4A86-ACD3-59D1D8B4BFF0' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='40C245E0-C364-4A86-ACD3-59D1D8B4BFF0' id='FORM-40C245E0-C364-4A86-ACD3-59D1D8B4BFF0' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='40C245E0-C364-4A86-ACD3-59D1D8B4BFF0' id='FORM-40C245E0-C364-4A86-ACD3-59D1D8B4BFF0' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1244,6 +1431,9 @@ Calculate $31.6 \times 7$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0FCDA851-B2B2-4FFB-A955-50509068409F' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0FCDA851-B2B2-4FFB-A955-50509068409F' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0FCDA851-B2B2-4FFB-A955-50509068409F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1256,7 +1446,7 @@ Calculate $31.6 \times 7$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0FCDA851-B2B2-4FFB-A955-50509068409F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0FCDA851-B2B2-4FFB-A955-50509068409F' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0FCDA851-B2B2-4FFB-A955-50509068409F' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0FCDA851-B2B2-4FFB-A955-50509068409F' onclick='submitReview(event)'>PRR</button>
@@ -1267,9 +1457,12 @@ Calculate $31.6 \times 7$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0FCDA851-B2B2-4FFB-A955-50509068409F' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='0FCDA851-B2B2-4FFB-A955-50509068409F' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='0FCDA851-B2B2-4FFB-A955-50509068409F' id='FORM-0FCDA851-B2B2-4FFB-A955-50509068409F' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0FCDA851-B2B2-4FFB-A955-50509068409F' id='FORM-0FCDA851-B2B2-4FFB-A955-50509068409F' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1321,6 +1514,9 @@ Calculate $37 \times 4 \times 5$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='95B95D83-440E-4D37-9093-A8502BF8615F' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='95B95D83-440E-4D37-9093-A8502BF8615F' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='95B95D83-440E-4D37-9093-A8502BF8615F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1333,7 +1529,7 @@ Calculate $37 \times 4 \times 5$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='95B95D83-440E-4D37-9093-A8502BF8615F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='95B95D83-440E-4D37-9093-A8502BF8615F' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='95B95D83-440E-4D37-9093-A8502BF8615F' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='95B95D83-440E-4D37-9093-A8502BF8615F' onclick='submitReview(event)'>PRR</button>
@@ -1344,9 +1540,12 @@ Calculate $37 \times 4 \times 5$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='95B95D83-440E-4D37-9093-A8502BF8615F' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='95B95D83-440E-4D37-9093-A8502BF8615F' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='95B95D83-440E-4D37-9093-A8502BF8615F' id='FORM-95B95D83-440E-4D37-9093-A8502BF8615F' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='95B95D83-440E-4D37-9093-A8502BF8615F' id='FORM-95B95D83-440E-4D37-9093-A8502BF8615F' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1427,6 +1626,9 @@ $39 \times 16$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='42B172FC-BBD5-4557-9351-313D4B254286' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='42B172FC-BBD5-4557-9351-313D4B254286' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='42B172FC-BBD5-4557-9351-313D4B254286' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1439,7 +1641,7 @@ $39 \times 16$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='42B172FC-BBD5-4557-9351-313D4B254286' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='42B172FC-BBD5-4557-9351-313D4B254286' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='42B172FC-BBD5-4557-9351-313D4B254286' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='42B172FC-BBD5-4557-9351-313D4B254286' onclick='submitReview(event)'>PRR</button>
@@ -1450,9 +1652,12 @@ $39 \times 16$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='42B172FC-BBD5-4557-9351-313D4B254286' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='42B172FC-BBD5-4557-9351-313D4B254286' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='42B172FC-BBD5-4557-9351-313D4B254286' id='FORM-42B172FC-BBD5-4557-9351-313D4B254286' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='42B172FC-BBD5-4557-9351-313D4B254286' id='FORM-42B172FC-BBD5-4557-9351-313D4B254286' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1520,6 +1725,9 @@ $1^2 \times 2^2 \times 3^2 \times 4^2$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C170856E-E8AE-41D4-9721-1CD44BC88A84' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C170856E-E8AE-41D4-9721-1CD44BC88A84' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C170856E-E8AE-41D4-9721-1CD44BC88A84' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1532,7 +1740,7 @@ $1^2 \times 2^2 \times 3^2 \times 4^2$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C170856E-E8AE-41D4-9721-1CD44BC88A84' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C170856E-E8AE-41D4-9721-1CD44BC88A84' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C170856E-E8AE-41D4-9721-1CD44BC88A84' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C170856E-E8AE-41D4-9721-1CD44BC88A84' onclick='submitReview(event)'>PRR</button>
@@ -1543,9 +1751,12 @@ $1^2 \times 2^2 \times 3^2 \times 4^2$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C170856E-E8AE-41D4-9721-1CD44BC88A84' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='C170856E-E8AE-41D4-9721-1CD44BC88A84' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='C170856E-E8AE-41D4-9721-1CD44BC88A84' id='FORM-C170856E-E8AE-41D4-9721-1CD44BC88A84' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C170856E-E8AE-41D4-9721-1CD44BC88A84' id='FORM-C170856E-E8AE-41D4-9721-1CD44BC88A84' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1609,6 +1820,9 @@ Work out $361 \times 13$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='40C6D51F-4323-450E-8F8E-0EB94069101F' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='40C6D51F-4323-450E-8F8E-0EB94069101F' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='40C6D51F-4323-450E-8F8E-0EB94069101F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1621,7 +1835,7 @@ Work out $361 \times 13$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='40C6D51F-4323-450E-8F8E-0EB94069101F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='40C6D51F-4323-450E-8F8E-0EB94069101F' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='40C6D51F-4323-450E-8F8E-0EB94069101F' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='40C6D51F-4323-450E-8F8E-0EB94069101F' onclick='submitReview(event)'>PRR</button>
@@ -1632,9 +1846,12 @@ Work out $361 \times 13$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='40C6D51F-4323-450E-8F8E-0EB94069101F' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='40C6D51F-4323-450E-8F8E-0EB94069101F' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='40C6D51F-4323-450E-8F8E-0EB94069101F' id='FORM-40C6D51F-4323-450E-8F8E-0EB94069101F' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='40C6D51F-4323-450E-8F8E-0EB94069101F' id='FORM-40C6D51F-4323-450E-8F8E-0EB94069101F' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1686,6 +1903,9 @@ Multiply: $17 \times 5$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='B2CBF5C0-FFDF-44F0-8EC5-ADB33C1AA853' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='B2CBF5C0-FFDF-44F0-8EC5-ADB33C1AA853' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='B2CBF5C0-FFDF-44F0-8EC5-ADB33C1AA853' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1698,7 +1918,7 @@ Multiply: $17 \times 5$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='B2CBF5C0-FFDF-44F0-8EC5-ADB33C1AA853' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='B2CBF5C0-FFDF-44F0-8EC5-ADB33C1AA853' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='B2CBF5C0-FFDF-44F0-8EC5-ADB33C1AA853' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='B2CBF5C0-FFDF-44F0-8EC5-ADB33C1AA853' onclick='submitReview(event)'>PRR</button>
@@ -1709,9 +1929,12 @@ Multiply: $17 \times 5$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='B2CBF5C0-FFDF-44F0-8EC5-ADB33C1AA853' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='B2CBF5C0-FFDF-44F0-8EC5-ADB33C1AA853' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='B2CBF5C0-FFDF-44F0-8EC5-ADB33C1AA853' id='FORM-B2CBF5C0-FFDF-44F0-8EC5-ADB33C1AA853' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='B2CBF5C0-FFDF-44F0-8EC5-ADB33C1AA853' id='FORM-B2CBF5C0-FFDF-44F0-8EC5-ADB33C1AA853' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1763,6 +1986,9 @@ Multiply: $43 \times 6$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A0F22995-6BFC-44F2-B293-97CAF232195A' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A0F22995-6BFC-44F2-B293-97CAF232195A' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A0F22995-6BFC-44F2-B293-97CAF232195A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1775,7 +2001,7 @@ Multiply: $43 \times 6$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A0F22995-6BFC-44F2-B293-97CAF232195A' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A0F22995-6BFC-44F2-B293-97CAF232195A' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A0F22995-6BFC-44F2-B293-97CAF232195A' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A0F22995-6BFC-44F2-B293-97CAF232195A' onclick='submitReview(event)'>PRR</button>
@@ -1786,9 +2012,12 @@ Multiply: $43 \times 6$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A0F22995-6BFC-44F2-B293-97CAF232195A' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='A0F22995-6BFC-44F2-B293-97CAF232195A' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='A0F22995-6BFC-44F2-B293-97CAF232195A' id='FORM-A0F22995-6BFC-44F2-B293-97CAF232195A' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A0F22995-6BFC-44F2-B293-97CAF232195A' id='FORM-A0F22995-6BFC-44F2-B293-97CAF232195A' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1840,6 +2069,9 @@ What is the total number of players in $32$ five-a-side football teams?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='F190A8F4-A50F-4F3C-9C83-077CD0C9961E' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='F190A8F4-A50F-4F3C-9C83-077CD0C9961E' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='F190A8F4-A50F-4F3C-9C83-077CD0C9961E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1852,7 +2084,7 @@ What is the total number of players in $32$ five-a-side football teams?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='F190A8F4-A50F-4F3C-9C83-077CD0C9961E' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='F190A8F4-A50F-4F3C-9C83-077CD0C9961E' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='F190A8F4-A50F-4F3C-9C83-077CD0C9961E' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='F190A8F4-A50F-4F3C-9C83-077CD0C9961E' onclick='submitReview(event)'>PRR</button>
@@ -1863,9 +2095,12 @@ What is the total number of players in $32$ five-a-side football teams?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='F190A8F4-A50F-4F3C-9C83-077CD0C9961E' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='F190A8F4-A50F-4F3C-9C83-077CD0C9961E' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='F190A8F4-A50F-4F3C-9C83-077CD0C9961E' id='FORM-F190A8F4-A50F-4F3C-9C83-077CD0C9961E' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='F190A8F4-A50F-4F3C-9C83-077CD0C9961E' id='FORM-F190A8F4-A50F-4F3C-9C83-077CD0C9961E' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1917,6 +2152,9 @@ Multiply: $62 \times 7$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='8C6A0833-0F7A-46D0-AE4D-33C291CC56D6' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='8C6A0833-0F7A-46D0-AE4D-33C291CC56D6' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='8C6A0833-0F7A-46D0-AE4D-33C291CC56D6' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1929,7 +2167,7 @@ Multiply: $62 \times 7$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='8C6A0833-0F7A-46D0-AE4D-33C291CC56D6' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='8C6A0833-0F7A-46D0-AE4D-33C291CC56D6' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='8C6A0833-0F7A-46D0-AE4D-33C291CC56D6' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='8C6A0833-0F7A-46D0-AE4D-33C291CC56D6' onclick='submitReview(event)'>PRR</button>
@@ -1940,9 +2178,12 @@ Multiply: $62 \times 7$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='8C6A0833-0F7A-46D0-AE4D-33C291CC56D6' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='8C6A0833-0F7A-46D0-AE4D-33C291CC56D6' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='8C6A0833-0F7A-46D0-AE4D-33C291CC56D6' id='FORM-8C6A0833-0F7A-46D0-AE4D-33C291CC56D6' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='8C6A0833-0F7A-46D0-AE4D-33C291CC56D6' id='FORM-8C6A0833-0F7A-46D0-AE4D-33C291CC56D6' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1994,6 +2235,9 @@ Work out the product of $528$ and $99$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='AFC01A5F-DFE5-4512-A316-799D2FC52ABB' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='AFC01A5F-DFE5-4512-A316-799D2FC52ABB' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='AFC01A5F-DFE5-4512-A316-799D2FC52ABB' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2006,7 +2250,7 @@ Work out the product of $528$ and $99$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='AFC01A5F-DFE5-4512-A316-799D2FC52ABB' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='AFC01A5F-DFE5-4512-A316-799D2FC52ABB' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='AFC01A5F-DFE5-4512-A316-799D2FC52ABB' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='AFC01A5F-DFE5-4512-A316-799D2FC52ABB' onclick='submitReview(event)'>PRR</button>
@@ -2017,9 +2261,12 @@ Work out the product of $528$ and $99$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='AFC01A5F-DFE5-4512-A316-799D2FC52ABB' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='AFC01A5F-DFE5-4512-A316-799D2FC52ABB' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='AFC01A5F-DFE5-4512-A316-799D2FC52ABB' id='FORM-AFC01A5F-DFE5-4512-A316-799D2FC52ABB' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='AFC01A5F-DFE5-4512-A316-799D2FC52ABB' id='FORM-AFC01A5F-DFE5-4512-A316-799D2FC52ABB' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2074,6 +2321,9 @@ Work out $0.08$ multiplied by $5$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CE97FB1F-AA68-41D1-BD54-0147E9CD7F70' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CE97FB1F-AA68-41D1-BD54-0147E9CD7F70' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CE97FB1F-AA68-41D1-BD54-0147E9CD7F70' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2086,7 +2336,7 @@ Work out $0.08$ multiplied by $5$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CE97FB1F-AA68-41D1-BD54-0147E9CD7F70' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CE97FB1F-AA68-41D1-BD54-0147E9CD7F70' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CE97FB1F-AA68-41D1-BD54-0147E9CD7F70' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CE97FB1F-AA68-41D1-BD54-0147E9CD7F70' onclick='submitReview(event)'>PRR</button>
@@ -2097,9 +2347,12 @@ Work out $0.08$ multiplied by $5$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CE97FB1F-AA68-41D1-BD54-0147E9CD7F70' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='CE97FB1F-AA68-41D1-BD54-0147E9CD7F70' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='CE97FB1F-AA68-41D1-BD54-0147E9CD7F70' id='FORM-CE97FB1F-AA68-41D1-BD54-0147E9CD7F70' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CE97FB1F-AA68-41D1-BD54-0147E9CD7F70' id='FORM-CE97FB1F-AA68-41D1-BD54-0147E9CD7F70' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2151,6 +2404,9 @@ Multiply: $67 \times 8$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='647D85F6-502C-403E-87CF-21B9C27E9F6E' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='647D85F6-502C-403E-87CF-21B9C27E9F6E' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='647D85F6-502C-403E-87CF-21B9C27E9F6E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2163,7 +2419,7 @@ Multiply: $67 \times 8$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='647D85F6-502C-403E-87CF-21B9C27E9F6E' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='647D85F6-502C-403E-87CF-21B9C27E9F6E' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='647D85F6-502C-403E-87CF-21B9C27E9F6E' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='647D85F6-502C-403E-87CF-21B9C27E9F6E' onclick='submitReview(event)'>PRR</button>
@@ -2174,9 +2430,12 @@ Multiply: $67 \times 8$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='647D85F6-502C-403E-87CF-21B9C27E9F6E' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='647D85F6-502C-403E-87CF-21B9C27E9F6E' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='647D85F6-502C-403E-87CF-21B9C27E9F6E' id='FORM-647D85F6-502C-403E-87CF-21B9C27E9F6E' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='647D85F6-502C-403E-87CF-21B9C27E9F6E' id='FORM-647D85F6-502C-403E-87CF-21B9C27E9F6E' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

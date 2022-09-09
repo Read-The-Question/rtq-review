@@ -1,111 +1,10 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-5-notstarted"
 title: "TopicPaper - Areaperimeter - 5 - NOTSTARTED"
-date: 2022-08-19 15:40:39
-questions_count: "7"
+date: 2022-09-09 06:13:00
+questions_count: "1"
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>DB80BC38-6D84-4321-8587-01580D4A93A6</p>
-</div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2010--sample-paper-1:1:14</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Six cubes each have a **surface area** of **$24\ \text{cm}^2$**. They are joined together to make a cuboid.
-
-![missing image](/papers/missing_image.svg)
-
-
-What could the **surface area** of this cuboid be? 
-
-There are two different answers. Write them both.
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-
-</div>
-</li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
@@ -115,10 +14,10 @@ TODOANSWER
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_am_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -133,6 +32,66 @@ ttable
 </li>
 </ul>
 </div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770'>Initial</p>
 <div class='question question'>
 
 %empty%
@@ -144,18 +103,8 @@ ttable
 TODOWORKING
 
 </div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
 <div class='answer placeholder'>
 
 TODOANSWER
@@ -168,23 +117,8 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
 </div>
 <div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
@@ -228,23 +162,41 @@ Complete the table below to show the area and perimeter of each shape.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+ABBR: $\text{Perimeter} = 2 \times (\text{length} + \text{width})$
+
+
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
+
+
+$
+\begin{aligned}
+\text{Area of A}        &= 8 \times 8 \\\\
+                        &= 64 \ \text{cm}^2 \\\\
+\text{Perimeter of A}   &= 4 \times 8 \\\\
+                        &= 32\ \text{cm}  \\\\
+\text{Area of B}        &= 8 \times 4 \\\\
+                        &= 32 \ \text{cm}^2 \\\\
+\text{Perimeter of B}   &= 2 \times (4 + 8) \\\\
+                        &= 12 \times 2 \\\\
+                        &= 24\ \text{cm}  \\\\
+\text{Area of c}        &= 4 \times 4 \\\\
+                        &= 16 \ \text{cm}^2 \\\\
+\text{Perimeter of C}   &= 4 \times 4 \\\\
+                        &= 16\ \text{cm}  \\\\
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
 <div class='answer placeholder'>
 
 TODOANSWER
@@ -254,26 +206,35 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
+<emptyline>
+rtq_abbr_katex_formula_area_rectangle_expanded
+<emptyline>
+rtq_abbr_katex_formula_perimeter_rectangle
+<emptyline>
+rtq_abbr_katex_formula_expanded_perimeter_square
+<emptyline>
+$
+\begin{aligned}
+\text{Area of A}        &= 8 \times 8 \\\\
+                        &= 64 \ \text{cm}^2 \\\\
+\text{Perimeter of A}   &= 4 \times 8 \\\\
+                        &= 32\ \text{cm}  \\\\
+\text{Area of B}        &= 8 \times 4 \\\\
+                        &= 32 \ \text{cm}^2 \\\\
+\text{Perimeter of B}   &= 2 \times (4 + 8) \\\\
+                        &= 12 \times 2 \\\\
+                        &= 24\ \text{cm}  \\\\
+\text{Area of c}        &= 4 \times 4 \\\\
+                        &= 16 \ \text{cm}^2 \\\\
+\text{Perimeter of C}   &= 4 \times 4 \\\\
+                        &= 16\ \text{cm}  \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
 <div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
@@ -444,596 +405,52 @@ TODOANSWER
 </li>
 </ul>
 
-</div>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='submitReview(event)'>PRCC</button>
 </li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>EF3A6414-092C-43F5-AEB1-9034F22E8C6C</p>
-</div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:1:16</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='submitReview(event)'>PRPCC</button>
 </li>
-<li>
-talgebra
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='submitReview(event)'>PRG</button>
 </li>
-</ul>
-</div>
-<div class='question question'>
-
-Which two shapes have the same area?
-
-![missing image](/papers/missing_image.svg)
-
-
-This may be helpful:
-
-![missing image](/papers/missing_image.svg)
-
-
-$\text{Area of a trapezium} = \dfrac {1} {2} (a + b) h$
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-
-</div>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='submitReview(event)'>PRG2</button>
 </li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>954B239D-561E-432E-8792-5E69FD530CC8</p>
-</div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:25</p>
-</div>
-<div class='rag'>
-<p>Naman Pant</p>
-</div>
-<div class='rag'>
-<p>rag_na_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='submitReview(event)'>PRCR</button>
 </li>
-<li>
-tratio
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='submitReview(event)'>PRPCR</button>
 </li>
-<li>
-tsimpleword
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='submitReview(event)'>PRRL</button>
 </li>
-</ul>
-</div>
-<div class='question question'>
-
-A square is divided into three congruent rectangles. The middle rectangle is removed and replaced on the side of the original square to form an octagon as shown. 
-
-![missing image](/papers/missing_image.svg)
-
-
-![missing image](/papers/missing_image.svg)
- 
-
-
-What is the ratio of the perimeter of the square to the perimeter of the octagon?
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-
-</div>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='submitReview(event)'>PRR</button>
 </li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>CDD2B30C-5A35-4232-8AA3-59308BB893E2</p>
-</div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:1:14</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='submitReview(event)'>PRBD</button>
 </li>
-<li>
-talgebra
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='submitReview(event)'>PRCT</button>
 </li>
-</ul>
-</div>
-<div class='question question'>
-
-Dini has $72$ small wooden cubes, each measuring $1 \ \text{cm} \times 1 \ \text{cm} \times 1 \ \text{cm}$. She arranges them all so that they form a cuboid. Given that the perimeter of the base of the cuboid is $16 \ \text{cm}$, what is its height?
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>997305C0-43E0-414C-9637-DF71FC2B8CF8</p>
-</div>
-<div class='papername'>
-<p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:18</p>
-</div>
-<div class='rag'>
-<p>Naman Pant</p>
-</div>
-<div class='rag'>
-<p>rag_na_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Find  the   area  of this  shape.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the diagram
-
-$
-\begin{aligned}
-\text{Area}    &= 2 \times (1 \times 6)  + 1 \times 1 \\\\
-               &= 12 + 1 \\\\
-               &= 13 \ \text {cm}^2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$13 \text {cm}^2$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>As per the diagram
-<emptyline>
-$
-\begin{aligned}
-\text{Area}    &= 2 \times (1 \times 6)  + 1 \times 1 \\\\
-               &= 12 + 1 \\\\
-               &= 13 \ \text {cm}^2
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$13 \text {cm}^2$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Find  the   perimeter.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-$
-\begin{aligned}
-&= 2 \times (2 \times 7)  + 4 \times 1 \\\\
-&= 28 + 4 \\\\
-&= 32 \text {cm}
-\end{aligned}
-$
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$32 \text {cm}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-$
-\begin{aligned}
-&= 2 \times (2 \times 7)  + 4 \times 1 \\\\
-&= 28 + 4 \\\\
-&= 32 \text {cm}
-\end{aligned}
-$
-<emptyline>
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$32 \text {cm}$
-</code></pre>
-</div>
-</div>
-
-</div>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='NS' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onclick='resetComment(event)'>Reset Comments</button>
 </li>
 </ul>
 
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>64CC096E-602F-4563-9D0B-C17332B52F8D</p>
-</div>
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:2:7</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' id='FORM-DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
 
-![missing image](/papers/missing_image.svg)
-
-
-All the long edges of the shape above have the same length and each long edge is twice as long as each short edge. 
-All angles are $90 \degree$ or $270 \degree$. If the area of the figure is $200 \ \text{cm}^2$, what is the perimeter?
-
+<p class='review_status initial' id='REVIEW-STATUS-DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770'>Initial</p>
 </div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-
 </div>
 </li>
 </ul>

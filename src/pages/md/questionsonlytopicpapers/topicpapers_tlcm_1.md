@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tlcm-1"
 title: "TopicPaper - Lcm - 1"
-date: 2022-08-19 16:00:22
+date: 2022-09-09 06:32:25
 questions_count: "23"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "23"
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -62,6 +62,9 @@ What two numbers could I have thought of?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BA59A3A5-9E0F-4FA1-AD60-9FB49787E4D0' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BA59A3A5-9E0F-4FA1-AD60-9FB49787E4D0' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BA59A3A5-9E0F-4FA1-AD60-9FB49787E4D0' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -74,7 +77,7 @@ What two numbers could I have thought of?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BA59A3A5-9E0F-4FA1-AD60-9FB49787E4D0' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BA59A3A5-9E0F-4FA1-AD60-9FB49787E4D0' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BA59A3A5-9E0F-4FA1-AD60-9FB49787E4D0' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BA59A3A5-9E0F-4FA1-AD60-9FB49787E4D0' onclick='submitReview(event)'>PRR</button>
@@ -85,9 +88,12 @@ What two numbers could I have thought of?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BA59A3A5-9E0F-4FA1-AD60-9FB49787E4D0' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='BA59A3A5-9E0F-4FA1-AD60-9FB49787E4D0' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='BA59A3A5-9E0F-4FA1-AD60-9FB49787E4D0' id='FORM-BA59A3A5-9E0F-4FA1-AD60-9FB49787E4D0' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BA59A3A5-9E0F-4FA1-AD60-9FB49787E4D0' id='FORM-BA59A3A5-9E0F-4FA1-AD60-9FB49787E4D0' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -107,10 +113,10 @@ What two numbers could I have thought of?
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -155,6 +161,9 @@ You should show some justification for your answer.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='42A023B5-3C67-4C83-9439-341ADE408EE2' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='42A023B5-3C67-4C83-9439-341ADE408EE2' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='42A023B5-3C67-4C83-9439-341ADE408EE2' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -167,7 +176,7 @@ You should show some justification for your answer.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='42A023B5-3C67-4C83-9439-341ADE408EE2' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='42A023B5-3C67-4C83-9439-341ADE408EE2' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='42A023B5-3C67-4C83-9439-341ADE408EE2' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='42A023B5-3C67-4C83-9439-341ADE408EE2' onclick='submitReview(event)'>PRR</button>
@@ -178,9 +187,12 @@ You should show some justification for your answer.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='42A023B5-3C67-4C83-9439-341ADE408EE2' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='42A023B5-3C67-4C83-9439-341ADE408EE2' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='42A023B5-3C67-4C83-9439-341ADE408EE2' id='FORM-42A023B5-3C67-4C83-9439-341ADE408EE2' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='42A023B5-3C67-4C83-9439-341ADE408EE2' id='FORM-42A023B5-3C67-4C83-9439-341ADE408EE2' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -200,10 +212,10 @@ You should show some justification for your answer.
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -242,6 +254,9 @@ $21 \quad 42 \quad 40 \quad 36 \quad 44$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C9A8EF96-F835-4936-A102-25300907D7F3' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C9A8EF96-F835-4936-A102-25300907D7F3' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C9A8EF96-F835-4936-A102-25300907D7F3' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -254,7 +269,7 @@ $21 \quad 42 \quad 40 \quad 36 \quad 44$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C9A8EF96-F835-4936-A102-25300907D7F3' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C9A8EF96-F835-4936-A102-25300907D7F3' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C9A8EF96-F835-4936-A102-25300907D7F3' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C9A8EF96-F835-4936-A102-25300907D7F3' onclick='submitReview(event)'>PRR</button>
@@ -265,9 +280,12 @@ $21 \quad 42 \quad 40 \quad 36 \quad 44$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C9A8EF96-F835-4936-A102-25300907D7F3' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='C9A8EF96-F835-4936-A102-25300907D7F3' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='C9A8EF96-F835-4936-A102-25300907D7F3' id='FORM-C9A8EF96-F835-4936-A102-25300907D7F3' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C9A8EF96-F835-4936-A102-25300907D7F3' id='FORM-C9A8EF96-F835-4936-A102-25300907D7F3' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -287,10 +305,10 @@ $21 \quad 42 \quad 40 \quad 36 \quad 44$
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:25</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -326,6 +344,9 @@ $21 \quad 84 \quad 40 \quad 36 \quad 44$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F2FDC331-149E-4CB3-868A-C1F1F4C2C8C0' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F2FDC331-149E-4CB3-868A-C1F1F4C2C8C0' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F2FDC331-149E-4CB3-868A-C1F1F4C2C8C0' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -338,7 +359,7 @@ $21 \quad 84 \quad 40 \quad 36 \quad 44$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F2FDC331-149E-4CB3-868A-C1F1F4C2C8C0' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F2FDC331-149E-4CB3-868A-C1F1F4C2C8C0' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F2FDC331-149E-4CB3-868A-C1F1F4C2C8C0' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F2FDC331-149E-4CB3-868A-C1F1F4C2C8C0' onclick='submitReview(event)'>PRR</button>
@@ -349,9 +370,12 @@ $21 \quad 84 \quad 40 \quad 36 \quad 44$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F2FDC331-149E-4CB3-868A-C1F1F4C2C8C0' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='F2FDC331-149E-4CB3-868A-C1F1F4C2C8C0' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='F2FDC331-149E-4CB3-868A-C1F1F4C2C8C0' id='FORM-F2FDC331-149E-4CB3-868A-C1F1F4C2C8C0' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F2FDC331-149E-4CB3-868A-C1F1F4C2C8C0' id='FORM-F2FDC331-149E-4CB3-868A-C1F1F4C2C8C0' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -371,10 +395,10 @@ $21 \quad 84 \quad 40 \quad 36 \quad 44$
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:28</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -407,6 +431,9 @@ $25 \quad 45 \quad 60 \quad 35 \quad 84$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='20A4B918-2E06-4B52-A48E-BA949CCDF0FE' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='20A4B918-2E06-4B52-A48E-BA949CCDF0FE' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='20A4B918-2E06-4B52-A48E-BA949CCDF0FE' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -419,7 +446,7 @@ $25 \quad 45 \quad 60 \quad 35 \quad 84$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='20A4B918-2E06-4B52-A48E-BA949CCDF0FE' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='20A4B918-2E06-4B52-A48E-BA949CCDF0FE' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='20A4B918-2E06-4B52-A48E-BA949CCDF0FE' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='20A4B918-2E06-4B52-A48E-BA949CCDF0FE' onclick='submitReview(event)'>PRR</button>
@@ -430,9 +457,12 @@ $25 \quad 45 \quad 60 \quad 35 \quad 84$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='20A4B918-2E06-4B52-A48E-BA949CCDF0FE' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='20A4B918-2E06-4B52-A48E-BA949CCDF0FE' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='20A4B918-2E06-4B52-A48E-BA949CCDF0FE' id='FORM-20A4B918-2E06-4B52-A48E-BA949CCDF0FE' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='20A4B918-2E06-4B52-A48E-BA949CCDF0FE' id='FORM-20A4B918-2E06-4B52-A48E-BA949CCDF0FE' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -452,10 +482,10 @@ $25 \quad 45 \quad 60 \quad 35 \quad 84$
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:25</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -488,6 +518,9 @@ $144 \quad  2311 \quad  132 \quad  123 \quad  124$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5C659920-A7EE-45CC-A45F-690D44F8A92E' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5C659920-A7EE-45CC-A45F-690D44F8A92E' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5C659920-A7EE-45CC-A45F-690D44F8A92E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -500,7 +533,7 @@ $144 \quad  2311 \quad  132 \quad  123 \quad  124$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5C659920-A7EE-45CC-A45F-690D44F8A92E' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5C659920-A7EE-45CC-A45F-690D44F8A92E' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5C659920-A7EE-45CC-A45F-690D44F8A92E' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5C659920-A7EE-45CC-A45F-690D44F8A92E' onclick='submitReview(event)'>PRR</button>
@@ -511,9 +544,12 @@ $144 \quad  2311 \quad  132 \quad  123 \quad  124$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5C659920-A7EE-45CC-A45F-690D44F8A92E' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='5C659920-A7EE-45CC-A45F-690D44F8A92E' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='5C659920-A7EE-45CC-A45F-690D44F8A92E' id='FORM-5C659920-A7EE-45CC-A45F-690D44F8A92E' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5C659920-A7EE-45CC-A45F-690D44F8A92E' id='FORM-5C659920-A7EE-45CC-A45F-690D44F8A92E' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -533,10 +569,10 @@ $144 \quad  2311 \quad  132 \quad  123 \quad  124$
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -565,6 +601,9 @@ What is the smallest number that $3, 4$ and $10$ all go into?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1BDCDFD7-F72F-42DD-ADE2-A40527C5D7B1' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1BDCDFD7-F72F-42DD-ADE2-A40527C5D7B1' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1BDCDFD7-F72F-42DD-ADE2-A40527C5D7B1' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -577,7 +616,7 @@ What is the smallest number that $3, 4$ and $10$ all go into?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1BDCDFD7-F72F-42DD-ADE2-A40527C5D7B1' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1BDCDFD7-F72F-42DD-ADE2-A40527C5D7B1' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1BDCDFD7-F72F-42DD-ADE2-A40527C5D7B1' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1BDCDFD7-F72F-42DD-ADE2-A40527C5D7B1' onclick='submitReview(event)'>PRR</button>
@@ -588,9 +627,12 @@ What is the smallest number that $3, 4$ and $10$ all go into?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1BDCDFD7-F72F-42DD-ADE2-A40527C5D7B1' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='1BDCDFD7-F72F-42DD-ADE2-A40527C5D7B1' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='1BDCDFD7-F72F-42DD-ADE2-A40527C5D7B1' id='FORM-1BDCDFD7-F72F-42DD-ADE2-A40527C5D7B1' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1BDCDFD7-F72F-42DD-ADE2-A40527C5D7B1' id='FORM-1BDCDFD7-F72F-42DD-ADE2-A40527C5D7B1' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -610,10 +652,10 @@ What is the smallest number that $3, 4$ and $10$ all go into?
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -642,6 +684,9 @@ What is the smallest number which can be divided by $3, 4, 5$ and $6$ exactly?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7F5BDD39-4545-4E7B-B13F-34C3E0D43567' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7F5BDD39-4545-4E7B-B13F-34C3E0D43567' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7F5BDD39-4545-4E7B-B13F-34C3E0D43567' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -654,7 +699,7 @@ What is the smallest number which can be divided by $3, 4, 5$ and $6$ exactly?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7F5BDD39-4545-4E7B-B13F-34C3E0D43567' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7F5BDD39-4545-4E7B-B13F-34C3E0D43567' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7F5BDD39-4545-4E7B-B13F-34C3E0D43567' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7F5BDD39-4545-4E7B-B13F-34C3E0D43567' onclick='submitReview(event)'>PRR</button>
@@ -665,9 +710,12 @@ What is the smallest number which can be divided by $3, 4, 5$ and $6$ exactly?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7F5BDD39-4545-4E7B-B13F-34C3E0D43567' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='7F5BDD39-4545-4E7B-B13F-34C3E0D43567' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='7F5BDD39-4545-4E7B-B13F-34C3E0D43567' id='FORM-7F5BDD39-4545-4E7B-B13F-34C3E0D43567' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7F5BDD39-4545-4E7B-B13F-34C3E0D43567' id='FORM-7F5BDD39-4545-4E7B-B13F-34C3E0D43567' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -687,10 +735,10 @@ What is the smallest number which can be divided by $3, 4, 5$ and $6$ exactly?
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:25</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -719,6 +767,9 @@ What is the biggest number that divides exactly into $60, 72$ and $84$?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='48D78FC4-31BF-4BD0-9BDC-C334B1A96BDB' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='48D78FC4-31BF-4BD0-9BDC-C334B1A96BDB' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='48D78FC4-31BF-4BD0-9BDC-C334B1A96BDB' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -731,7 +782,7 @@ What is the biggest number that divides exactly into $60, 72$ and $84$?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='48D78FC4-31BF-4BD0-9BDC-C334B1A96BDB' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='48D78FC4-31BF-4BD0-9BDC-C334B1A96BDB' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='48D78FC4-31BF-4BD0-9BDC-C334B1A96BDB' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='48D78FC4-31BF-4BD0-9BDC-C334B1A96BDB' onclick='submitReview(event)'>PRR</button>
@@ -742,9 +793,12 @@ What is the biggest number that divides exactly into $60, 72$ and $84$?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='48D78FC4-31BF-4BD0-9BDC-C334B1A96BDB' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='48D78FC4-31BF-4BD0-9BDC-C334B1A96BDB' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='48D78FC4-31BF-4BD0-9BDC-C334B1A96BDB' id='FORM-48D78FC4-31BF-4BD0-9BDC-C334B1A96BDB' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='48D78FC4-31BF-4BD0-9BDC-C334B1A96BDB' id='FORM-48D78FC4-31BF-4BD0-9BDC-C334B1A96BDB' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -764,10 +818,10 @@ What is the biggest number that divides exactly into $60, 72$ and $84$?
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:26</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -796,6 +850,9 @@ What is the smallest number that $2, 3,$ and $8$ all divide into?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='314AC472-EE1E-42D7-A310-5BCAE66FD04A' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='314AC472-EE1E-42D7-A310-5BCAE66FD04A' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='314AC472-EE1E-42D7-A310-5BCAE66FD04A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -808,7 +865,7 @@ What is the smallest number that $2, 3,$ and $8$ all divide into?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='314AC472-EE1E-42D7-A310-5BCAE66FD04A' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='314AC472-EE1E-42D7-A310-5BCAE66FD04A' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='314AC472-EE1E-42D7-A310-5BCAE66FD04A' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='314AC472-EE1E-42D7-A310-5BCAE66FD04A' onclick='submitReview(event)'>PRR</button>
@@ -819,9 +876,12 @@ What is the smallest number that $2, 3,$ and $8$ all divide into?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='314AC472-EE1E-42D7-A310-5BCAE66FD04A' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='314AC472-EE1E-42D7-A310-5BCAE66FD04A' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='314AC472-EE1E-42D7-A310-5BCAE66FD04A' id='FORM-314AC472-EE1E-42D7-A310-5BCAE66FD04A' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='314AC472-EE1E-42D7-A310-5BCAE66FD04A' id='FORM-314AC472-EE1E-42D7-A310-5BCAE66FD04A' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -841,10 +901,10 @@ What is the smallest number that $2, 3,$ and $8$ all divide into?
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:25</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -873,6 +933,9 @@ What is the biggest number that divides exactly into $28 , 84$ and $126$?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='98B9C18C-5D45-4158-A859-9750F91F8CE8' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='98B9C18C-5D45-4158-A859-9750F91F8CE8' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='98B9C18C-5D45-4158-A859-9750F91F8CE8' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -885,7 +948,7 @@ What is the biggest number that divides exactly into $28 , 84$ and $126$?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='98B9C18C-5D45-4158-A859-9750F91F8CE8' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='98B9C18C-5D45-4158-A859-9750F91F8CE8' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='98B9C18C-5D45-4158-A859-9750F91F8CE8' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='98B9C18C-5D45-4158-A859-9750F91F8CE8' onclick='submitReview(event)'>PRR</button>
@@ -896,9 +959,12 @@ What is the biggest number that divides exactly into $28 , 84$ and $126$?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='98B9C18C-5D45-4158-A859-9750F91F8CE8' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='98B9C18C-5D45-4158-A859-9750F91F8CE8' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='98B9C18C-5D45-4158-A859-9750F91F8CE8' id='FORM-98B9C18C-5D45-4158-A859-9750F91F8CE8' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='98B9C18C-5D45-4158-A859-9750F91F8CE8' id='FORM-98B9C18C-5D45-4158-A859-9750F91F8CE8' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -918,10 +984,10 @@ What is the biggest number that divides exactly into $28 , 84$ and $126$?
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:26</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -950,6 +1016,9 @@ What is the smallest number that $3,5$ and $12$ all divide into?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7C81779B-E92C-4725-B417-DA7968C3341A' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7C81779B-E92C-4725-B417-DA7968C3341A' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7C81779B-E92C-4725-B417-DA7968C3341A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -962,7 +1031,7 @@ What is the smallest number that $3,5$ and $12$ all divide into?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7C81779B-E92C-4725-B417-DA7968C3341A' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7C81779B-E92C-4725-B417-DA7968C3341A' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7C81779B-E92C-4725-B417-DA7968C3341A' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7C81779B-E92C-4725-B417-DA7968C3341A' onclick='submitReview(event)'>PRR</button>
@@ -973,9 +1042,12 @@ What is the smallest number that $3,5$ and $12$ all divide into?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7C81779B-E92C-4725-B417-DA7968C3341A' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='7C81779B-E92C-4725-B417-DA7968C3341A' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='7C81779B-E92C-4725-B417-DA7968C3341A' id='FORM-7C81779B-E92C-4725-B417-DA7968C3341A' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7C81779B-E92C-4725-B417-DA7968C3341A' id='FORM-7C81779B-E92C-4725-B417-DA7968C3341A' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -995,10 +1067,10 @@ What is the smallest number that $3,5$ and $12$ all divide into?
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:43</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1027,6 +1099,9 @@ How many numbers less than $100$ are divisible by both $2$ and $5$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='72AA9961-FE6B-438D-AEFB-1F49998E249D' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='72AA9961-FE6B-438D-AEFB-1F49998E249D' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='72AA9961-FE6B-438D-AEFB-1F49998E249D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1039,7 +1114,7 @@ How many numbers less than $100$ are divisible by both $2$ and $5$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='72AA9961-FE6B-438D-AEFB-1F49998E249D' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='72AA9961-FE6B-438D-AEFB-1F49998E249D' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='72AA9961-FE6B-438D-AEFB-1F49998E249D' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='72AA9961-FE6B-438D-AEFB-1F49998E249D' onclick='submitReview(event)'>PRR</button>
@@ -1050,9 +1125,12 @@ How many numbers less than $100$ are divisible by both $2$ and $5$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='72AA9961-FE6B-438D-AEFB-1F49998E249D' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='72AA9961-FE6B-438D-AEFB-1F49998E249D' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='72AA9961-FE6B-438D-AEFB-1F49998E249D' id='FORM-72AA9961-FE6B-438D-AEFB-1F49998E249D' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='72AA9961-FE6B-438D-AEFB-1F49998E249D' id='FORM-72AA9961-FE6B-438D-AEFB-1F49998E249D' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1072,10 +1150,10 @@ How many numbers less than $100$ are divisible by both $2$ and $5$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1104,6 +1182,9 @@ What is the biggest number that divides into $14, 35,$ and $42$?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='00B5F39E-C744-444A-A565-D57BCA594277' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='00B5F39E-C744-444A-A565-D57BCA594277' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='00B5F39E-C744-444A-A565-D57BCA594277' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1116,7 +1197,7 @@ What is the biggest number that divides into $14, 35,$ and $42$?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='00B5F39E-C744-444A-A565-D57BCA594277' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='00B5F39E-C744-444A-A565-D57BCA594277' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='00B5F39E-C744-444A-A565-D57BCA594277' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='00B5F39E-C744-444A-A565-D57BCA594277' onclick='submitReview(event)'>PRR</button>
@@ -1127,9 +1208,12 @@ What is the biggest number that divides into $14, 35,$ and $42$?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='00B5F39E-C744-444A-A565-D57BCA594277' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='00B5F39E-C744-444A-A565-D57BCA594277' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='00B5F39E-C744-444A-A565-D57BCA594277' id='FORM-00B5F39E-C744-444A-A565-D57BCA594277' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='00B5F39E-C744-444A-A565-D57BCA594277' id='FORM-00B5F39E-C744-444A-A565-D57BCA594277' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1149,10 +1233,10 @@ What is the biggest number that divides into $14, 35,$ and $42$?
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1181,6 +1265,9 @@ What is the biggest number that divides into $16, 32,$ and $56$?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0EC15166-4610-4A6E-9117-A2461D762D1D' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0EC15166-4610-4A6E-9117-A2461D762D1D' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0EC15166-4610-4A6E-9117-A2461D762D1D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1193,7 +1280,7 @@ What is the biggest number that divides into $16, 32,$ and $56$?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0EC15166-4610-4A6E-9117-A2461D762D1D' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0EC15166-4610-4A6E-9117-A2461D762D1D' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0EC15166-4610-4A6E-9117-A2461D762D1D' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0EC15166-4610-4A6E-9117-A2461D762D1D' onclick='submitReview(event)'>PRR</button>
@@ -1204,9 +1291,12 @@ What is the biggest number that divides into $16, 32,$ and $56$?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0EC15166-4610-4A6E-9117-A2461D762D1D' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='0EC15166-4610-4A6E-9117-A2461D762D1D' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='0EC15166-4610-4A6E-9117-A2461D762D1D' id='FORM-0EC15166-4610-4A6E-9117-A2461D762D1D' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0EC15166-4610-4A6E-9117-A2461D762D1D' id='FORM-0EC15166-4610-4A6E-9117-A2461D762D1D' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1226,10 +1316,10 @@ What is the biggest number that divides into $16, 32,$ and $56$?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1258,6 +1348,9 @@ Which number between $140$ and $170$ can be divided exactly by both $8$ and $9$?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C8C3BB23-7980-4A19-8082-5F985DD48CAC' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C8C3BB23-7980-4A19-8082-5F985DD48CAC' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C8C3BB23-7980-4A19-8082-5F985DD48CAC' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1270,7 +1363,7 @@ Which number between $140$ and $170$ can be divided exactly by both $8$ and $9$?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C8C3BB23-7980-4A19-8082-5F985DD48CAC' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C8C3BB23-7980-4A19-8082-5F985DD48CAC' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C8C3BB23-7980-4A19-8082-5F985DD48CAC' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C8C3BB23-7980-4A19-8082-5F985DD48CAC' onclick='submitReview(event)'>PRR</button>
@@ -1281,9 +1374,12 @@ Which number between $140$ and $170$ can be divided exactly by both $8$ and $9$?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C8C3BB23-7980-4A19-8082-5F985DD48CAC' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='C8C3BB23-7980-4A19-8082-5F985DD48CAC' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='C8C3BB23-7980-4A19-8082-5F985DD48CAC' id='FORM-C8C3BB23-7980-4A19-8082-5F985DD48CAC' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C8C3BB23-7980-4A19-8082-5F985DD48CAC' id='FORM-C8C3BB23-7980-4A19-8082-5F985DD48CAC' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1303,10 +1399,10 @@ Which number between $140$ and $170$ can be divided exactly by both $8$ and $9$?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1335,6 +1431,9 @@ Which number between $60$ and $70$ is both divisble by $7$ and $9$?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CE083B1E-5BCC-4335-A042-D895FCF015A8' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CE083B1E-5BCC-4335-A042-D895FCF015A8' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CE083B1E-5BCC-4335-A042-D895FCF015A8' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1347,7 +1446,7 @@ Which number between $60$ and $70$ is both divisble by $7$ and $9$?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CE083B1E-5BCC-4335-A042-D895FCF015A8' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CE083B1E-5BCC-4335-A042-D895FCF015A8' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CE083B1E-5BCC-4335-A042-D895FCF015A8' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CE083B1E-5BCC-4335-A042-D895FCF015A8' onclick='submitReview(event)'>PRR</button>
@@ -1358,9 +1457,12 @@ Which number between $60$ and $70$ is both divisble by $7$ and $9$?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CE083B1E-5BCC-4335-A042-D895FCF015A8' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='CE083B1E-5BCC-4335-A042-D895FCF015A8' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='CE083B1E-5BCC-4335-A042-D895FCF015A8' id='FORM-CE083B1E-5BCC-4335-A042-D895FCF015A8' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CE083B1E-5BCC-4335-A042-D895FCF015A8' id='FORM-CE083B1E-5BCC-4335-A042-D895FCF015A8' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1380,10 +1482,10 @@ Which number between $60$ and $70$ is both divisble by $7$ and $9$?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1412,6 +1514,9 @@ Which number between $50$ and $75$ is a multiple of both $3$ and $7$?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4E2CC2F8-A2C6-4373-8B60-1726ADBF85AE' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4E2CC2F8-A2C6-4373-8B60-1726ADBF85AE' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4E2CC2F8-A2C6-4373-8B60-1726ADBF85AE' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1424,7 +1529,7 @@ Which number between $50$ and $75$ is a multiple of both $3$ and $7$?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4E2CC2F8-A2C6-4373-8B60-1726ADBF85AE' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4E2CC2F8-A2C6-4373-8B60-1726ADBF85AE' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4E2CC2F8-A2C6-4373-8B60-1726ADBF85AE' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4E2CC2F8-A2C6-4373-8B60-1726ADBF85AE' onclick='submitReview(event)'>PRR</button>
@@ -1435,9 +1540,12 @@ Which number between $50$ and $75$ is a multiple of both $3$ and $7$?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4E2CC2F8-A2C6-4373-8B60-1726ADBF85AE' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='4E2CC2F8-A2C6-4373-8B60-1726ADBF85AE' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='4E2CC2F8-A2C6-4373-8B60-1726ADBF85AE' id='FORM-4E2CC2F8-A2C6-4373-8B60-1726ADBF85AE' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4E2CC2F8-A2C6-4373-8B60-1726ADBF85AE' id='FORM-4E2CC2F8-A2C6-4373-8B60-1726ADBF85AE' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1457,10 +1565,10 @@ Which number between $50$ and $75$ is a multiple of both $3$ and $7$?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1492,6 +1600,9 @@ Which number between $60$ and $80$ is a multiple of both $3$ and $8$?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B5DB3AFD-E2AC-4A89-AEFA-2E6E6188E3D1' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B5DB3AFD-E2AC-4A89-AEFA-2E6E6188E3D1' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B5DB3AFD-E2AC-4A89-AEFA-2E6E6188E3D1' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1504,7 +1615,7 @@ Which number between $60$ and $80$ is a multiple of both $3$ and $8$?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B5DB3AFD-E2AC-4A89-AEFA-2E6E6188E3D1' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B5DB3AFD-E2AC-4A89-AEFA-2E6E6188E3D1' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B5DB3AFD-E2AC-4A89-AEFA-2E6E6188E3D1' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B5DB3AFD-E2AC-4A89-AEFA-2E6E6188E3D1' onclick='submitReview(event)'>PRR</button>
@@ -1515,9 +1626,12 @@ Which number between $60$ and $80$ is a multiple of both $3$ and $8$?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B5DB3AFD-E2AC-4A89-AEFA-2E6E6188E3D1' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='B5DB3AFD-E2AC-4A89-AEFA-2E6E6188E3D1' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='B5DB3AFD-E2AC-4A89-AEFA-2E6E6188E3D1' id='FORM-B5DB3AFD-E2AC-4A89-AEFA-2E6E6188E3D1' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B5DB3AFD-E2AC-4A89-AEFA-2E6E6188E3D1' id='FORM-B5DB3AFD-E2AC-4A89-AEFA-2E6E6188E3D1' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1537,10 +1651,10 @@ Which number between $60$ and $80$ is a multiple of both $3$ and $8$?
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1569,6 +1683,9 @@ What is the largest number less than $100$ which is a multiple of $2$, and of $3
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CD686836-E4B0-4D8F-AB0D-439432C61B1B' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CD686836-E4B0-4D8F-AB0D-439432C61B1B' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CD686836-E4B0-4D8F-AB0D-439432C61B1B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1581,7 +1698,7 @@ What is the largest number less than $100$ which is a multiple of $2$, and of $3
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CD686836-E4B0-4D8F-AB0D-439432C61B1B' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CD686836-E4B0-4D8F-AB0D-439432C61B1B' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CD686836-E4B0-4D8F-AB0D-439432C61B1B' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CD686836-E4B0-4D8F-AB0D-439432C61B1B' onclick='submitReview(event)'>PRR</button>
@@ -1592,9 +1709,12 @@ What is the largest number less than $100$ which is a multiple of $2$, and of $3
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CD686836-E4B0-4D8F-AB0D-439432C61B1B' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='CD686836-E4B0-4D8F-AB0D-439432C61B1B' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='CD686836-E4B0-4D8F-AB0D-439432C61B1B' id='FORM-CD686836-E4B0-4D8F-AB0D-439432C61B1B' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CD686836-E4B0-4D8F-AB0D-439432C61B1B' id='FORM-CD686836-E4B0-4D8F-AB0D-439432C61B1B' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1614,10 +1734,10 @@ What is the largest number less than $100$ which is a multiple of $2$, and of $3
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1650,6 +1770,9 @@ What is the next time that three trains will arrive together?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4817AFE3-64E1-4D90-8D0F-8DD10D486240' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4817AFE3-64E1-4D90-8D0F-8DD10D486240' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4817AFE3-64E1-4D90-8D0F-8DD10D486240' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1662,7 +1785,7 @@ What is the next time that three trains will arrive together?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4817AFE3-64E1-4D90-8D0F-8DD10D486240' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4817AFE3-64E1-4D90-8D0F-8DD10D486240' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4817AFE3-64E1-4D90-8D0F-8DD10D486240' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4817AFE3-64E1-4D90-8D0F-8DD10D486240' onclick='submitReview(event)'>PRR</button>
@@ -1673,9 +1796,12 @@ What is the next time that three trains will arrive together?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4817AFE3-64E1-4D90-8D0F-8DD10D486240' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='4817AFE3-64E1-4D90-8D0F-8DD10D486240' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='4817AFE3-64E1-4D90-8D0F-8DD10D486240' id='FORM-4817AFE3-64E1-4D90-8D0F-8DD10D486240' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4817AFE3-64E1-4D90-8D0F-8DD10D486240' id='FORM-4817AFE3-64E1-4D90-8D0F-8DD10D486240' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1695,10 +1821,10 @@ What is the next time that three trains will arrive together?
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1727,6 +1853,9 @@ How many whole numbers less than $100$ **cannot** be divided exactly by $4$ or b
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B2D61F27-0340-481E-A898-0EB99514A60B' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B2D61F27-0340-481E-A898-0EB99514A60B' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B2D61F27-0340-481E-A898-0EB99514A60B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1739,7 +1868,7 @@ How many whole numbers less than $100$ **cannot** be divided exactly by $4$ or b
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B2D61F27-0340-481E-A898-0EB99514A60B' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B2D61F27-0340-481E-A898-0EB99514A60B' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B2D61F27-0340-481E-A898-0EB99514A60B' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B2D61F27-0340-481E-A898-0EB99514A60B' onclick='submitReview(event)'>PRR</button>
@@ -1750,9 +1879,12 @@ How many whole numbers less than $100$ **cannot** be divided exactly by $4$ or b
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B2D61F27-0340-481E-A898-0EB99514A60B' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='B2D61F27-0340-481E-A898-0EB99514A60B' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='B2D61F27-0340-481E-A898-0EB99514A60B' id='FORM-B2D61F27-0340-481E-A898-0EB99514A60B' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B2D61F27-0340-481E-A898-0EB99514A60B' id='FORM-B2D61F27-0340-481E-A898-0EB99514A60B' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1772,10 +1904,10 @@ How many whole numbers less than $100$ **cannot** be divided exactly by $4$ or b
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1810,6 +1942,9 @@ write down the total number of buses that will call at the stop **between** $4.2
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5907B5FC-027E-4008-8AF3-0700A9C05277' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5907B5FC-027E-4008-8AF3-0700A9C05277' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5907B5FC-027E-4008-8AF3-0700A9C05277' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1822,7 +1957,7 @@ write down the total number of buses that will call at the stop **between** $4.2
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5907B5FC-027E-4008-8AF3-0700A9C05277' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5907B5FC-027E-4008-8AF3-0700A9C05277' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5907B5FC-027E-4008-8AF3-0700A9C05277' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5907B5FC-027E-4008-8AF3-0700A9C05277' onclick='submitReview(event)'>PRR</button>
@@ -1833,9 +1968,12 @@ write down the total number of buses that will call at the stop **between** $4.2
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5907B5FC-027E-4008-8AF3-0700A9C05277' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='5907B5FC-027E-4008-8AF3-0700A9C05277' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='5907B5FC-027E-4008-8AF3-0700A9C05277' id='FORM-5907B5FC-027E-4008-8AF3-0700A9C05277' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5907B5FC-027E-4008-8AF3-0700A9C05277' id='FORM-5907B5FC-027E-4008-8AF3-0700A9C05277' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

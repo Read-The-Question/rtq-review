@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-ttime-2-g2-prns"
 title: "TopicPaper - Time - 2 - G2 - PRNS"
-date: 2022-08-19 16:00:22
+date: 2022-09-09 06:32:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -46,6 +46,9 @@ A coach journey from Plymouth to Exeter leaves at $16.15$ and arrives at $17.36$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='31A2A40E-5814-48CC-8C71-91011C0B3F1C' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='31A2A40E-5814-48CC-8C71-91011C0B3F1C' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='31A2A40E-5814-48CC-8C71-91011C0B3F1C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -58,7 +61,7 @@ A coach journey from Plymouth to Exeter leaves at $16.15$ and arrives at $17.36$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='31A2A40E-5814-48CC-8C71-91011C0B3F1C' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='31A2A40E-5814-48CC-8C71-91011C0B3F1C' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='31A2A40E-5814-48CC-8C71-91011C0B3F1C' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='31A2A40E-5814-48CC-8C71-91011C0B3F1C' onclick='submitReview(event)'>PRR</button>
@@ -69,9 +72,12 @@ A coach journey from Plymouth to Exeter leaves at $16.15$ and arrives at $17.36$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='31A2A40E-5814-48CC-8C71-91011C0B3F1C' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='31A2A40E-5814-48CC-8C71-91011C0B3F1C' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='31A2A40E-5814-48CC-8C71-91011C0B3F1C' id='FORM-31A2A40E-5814-48CC-8C71-91011C0B3F1C' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='31A2A40E-5814-48CC-8C71-91011C0B3F1C' id='FORM-31A2A40E-5814-48CC-8C71-91011C0B3F1C' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -126,6 +132,9 @@ How many seconds in a day?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='46D8EC39-6DB3-4670-BF10-214CD634C665' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='46D8EC39-6DB3-4670-BF10-214CD634C665' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='46D8EC39-6DB3-4670-BF10-214CD634C665' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -138,7 +147,7 @@ How many seconds in a day?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='46D8EC39-6DB3-4670-BF10-214CD634C665' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='46D8EC39-6DB3-4670-BF10-214CD634C665' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='46D8EC39-6DB3-4670-BF10-214CD634C665' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='46D8EC39-6DB3-4670-BF10-214CD634C665' onclick='submitReview(event)'>PRR</button>
@@ -149,9 +158,12 @@ How many seconds in a day?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='46D8EC39-6DB3-4670-BF10-214CD634C665' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='46D8EC39-6DB3-4670-BF10-214CD634C665' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='46D8EC39-6DB3-4670-BF10-214CD634C665' id='FORM-46D8EC39-6DB3-4670-BF10-214CD634C665' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='46D8EC39-6DB3-4670-BF10-214CD634C665' id='FORM-46D8EC39-6DB3-4670-BF10-214CD634C665' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -254,6 +266,9 @@ Bob lives in Earley, and needs to be in Waterloo before $8.30 \ \text{am}$ for w
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5144F358-9680-48EE-9A0C-9E3C3DA622E2' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5144F358-9680-48EE-9A0C-9E3C3DA622E2' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5144F358-9680-48EE-9A0C-9E3C3DA622E2' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -266,7 +281,7 @@ Bob lives in Earley, and needs to be in Waterloo before $8.30 \ \text{am}$ for w
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5144F358-9680-48EE-9A0C-9E3C3DA622E2' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5144F358-9680-48EE-9A0C-9E3C3DA622E2' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5144F358-9680-48EE-9A0C-9E3C3DA622E2' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5144F358-9680-48EE-9A0C-9E3C3DA622E2' onclick='submitReview(event)'>PRR</button>
@@ -277,9 +292,12 @@ Bob lives in Earley, and needs to be in Waterloo before $8.30 \ \text{am}$ for w
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5144F358-9680-48EE-9A0C-9E3C3DA622E2' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='5144F358-9680-48EE-9A0C-9E3C3DA622E2' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='5144F358-9680-48EE-9A0C-9E3C3DA622E2' id='FORM-5144F358-9680-48EE-9A0C-9E3C3DA622E2' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5144F358-9680-48EE-9A0C-9E3C3DA622E2' id='FORM-5144F358-9680-48EE-9A0C-9E3C3DA622E2' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

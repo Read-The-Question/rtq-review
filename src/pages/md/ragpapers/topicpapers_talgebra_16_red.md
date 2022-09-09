@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-16-red"
 title: "TopicPaper - Algebra - 16 - RED"
-date: 2022-08-19 15:40:39
+date: 2022-09-09 06:13:00
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "1"
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_as_red</p>
+<p>rag_am_red</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prr</p>
@@ -35,6 +35,66 @@ ttrialerror
 </li>
 </ul>
 </div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-C862B344-92C5-4BC5-81A4-E798F30F2402'>Initial</p>
 <div class='question question'>
 
 Alison has a large number of coloured pencils. 

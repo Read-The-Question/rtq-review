@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tnumber-10-g2-prns"
 title: "TopicPaper - Number - 10 - G2 - PRNS"
-date: 2022-08-19 16:00:22
+date: 2022-09-09 06:32:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "3"
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:2</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_an_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -78,6 +78,9 @@ Write the answer to the sum of two hundred and six plus two thousand three hundr
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='7D4D7D66-A219-4530-8AD2-9B49EAA75FC9' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='7D4D7D66-A219-4530-8AD2-9B49EAA75FC9' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='7D4D7D66-A219-4530-8AD2-9B49EAA75FC9' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -90,7 +93,7 @@ Write the answer to the sum of two hundred and six plus two thousand three hundr
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='7D4D7D66-A219-4530-8AD2-9B49EAA75FC9' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='7D4D7D66-A219-4530-8AD2-9B49EAA75FC9' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='7D4D7D66-A219-4530-8AD2-9B49EAA75FC9' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='7D4D7D66-A219-4530-8AD2-9B49EAA75FC9' onclick='submitReview(event)'>PRR</button>
@@ -101,9 +104,12 @@ Write the answer to the sum of two hundred and six plus two thousand three hundr
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='7D4D7D66-A219-4530-8AD2-9B49EAA75FC9' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='7D4D7D66-A219-4530-8AD2-9B49EAA75FC9' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='7D4D7D66-A219-4530-8AD2-9B49EAA75FC9' id='FORM-7D4D7D66-A219-4530-8AD2-9B49EAA75FC9' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='7D4D7D66-A219-4530-8AD2-9B49EAA75FC9' id='FORM-7D4D7D66-A219-4530-8AD2-9B49EAA75FC9' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -123,10 +129,10 @@ Write the answer to the sum of two hundred and six plus two thousand three hundr
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:12</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_an_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -184,6 +190,9 @@ $3.75^2 - 11.63 \times 2.87$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='16721642-68D6-4CE6-8540-43C600013099' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='16721642-68D6-4CE6-8540-43C600013099' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='16721642-68D6-4CE6-8540-43C600013099' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -196,7 +205,7 @@ $3.75^2 - 11.63 \times 2.87$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='16721642-68D6-4CE6-8540-43C600013099' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='16721642-68D6-4CE6-8540-43C600013099' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='16721642-68D6-4CE6-8540-43C600013099' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='16721642-68D6-4CE6-8540-43C600013099' onclick='submitReview(event)'>PRR</button>
@@ -207,9 +216,12 @@ $3.75^2 - 11.63 \times 2.87$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='16721642-68D6-4CE6-8540-43C600013099' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='16721642-68D6-4CE6-8540-43C600013099' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='16721642-68D6-4CE6-8540-43C600013099' id='FORM-16721642-68D6-4CE6-8540-43C600013099' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='16721642-68D6-4CE6-8540-43C600013099' id='FORM-16721642-68D6-4CE6-8540-43C600013099' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -229,10 +241,10 @@ $3.75^2 - 11.63 \times 2.87$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:15</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_an_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -293,6 +305,9 @@ Find the lowest common multiple (LCM) of $12$ and $8$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='836169C8-E272-4A22-ACB9-5D73CCEFC167' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='836169C8-E272-4A22-ACB9-5D73CCEFC167' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='836169C8-E272-4A22-ACB9-5D73CCEFC167' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -305,7 +320,7 @@ Find the lowest common multiple (LCM) of $12$ and $8$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='836169C8-E272-4A22-ACB9-5D73CCEFC167' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='836169C8-E272-4A22-ACB9-5D73CCEFC167' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='836169C8-E272-4A22-ACB9-5D73CCEFC167' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='836169C8-E272-4A22-ACB9-5D73CCEFC167' onclick='submitReview(event)'>PRR</button>
@@ -316,9 +331,12 @@ Find the lowest common multiple (LCM) of $12$ and $8$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='836169C8-E272-4A22-ACB9-5D73CCEFC167' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='836169C8-E272-4A22-ACB9-5D73CCEFC167' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='836169C8-E272-4A22-ACB9-5D73CCEFC167' id='FORM-836169C8-E272-4A22-ACB9-5D73CCEFC167' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='836169C8-E272-4A22-ACB9-5D73CCEFC167' id='FORM-836169C8-E272-4A22-ACB9-5D73CCEFC167' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

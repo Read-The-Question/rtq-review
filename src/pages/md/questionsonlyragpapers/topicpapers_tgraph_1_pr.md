@@ -1,639 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tgraph-1-pr"
 title: "TopicPaper - Graph - 1 - PR"
-date: 2022-08-19 16:00:22
-questions_count: "40"
+date: 2022-09-09 06:32:25
+questions_count: "10"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>85A847F7-E5C8-4B24-8432-F8CCDC4E0AC8</p>
-</div>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:6</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Three vertices of a parallelogram are $(-8, -3), (-5, 4)$ and $(3, 4)$.
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Three vertices of a parallelogram are $(-8, -3), (-5, 4)$ and $(3, 4)$.
-</code></pre>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Plot these points on the axes below.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Plot these points on the axes below.
-<emptyline>
-%image%
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Write down the $4 \text{th}$ co-ordinate of the missing vertex of the parallelogram.
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Write down the $4 \text{th}$ co-ordinate of the missing vertex of the parallelogram.
-</code></pre>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='85A847F7-E5C8-4B24-8432-F8CCDC4E0AC8' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='85A847F7-E5C8-4B24-8432-F8CCDC4E0AC8' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='85A847F7-E5C8-4B24-8432-F8CCDC4E0AC8' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='85A847F7-E5C8-4B24-8432-F8CCDC4E0AC8' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='85A847F7-E5C8-4B24-8432-F8CCDC4E0AC8' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='85A847F7-E5C8-4B24-8432-F8CCDC4E0AC8' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='85A847F7-E5C8-4B24-8432-F8CCDC4E0AC8' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='85A847F7-E5C8-4B24-8432-F8CCDC4E0AC8' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='85A847F7-E5C8-4B24-8432-F8CCDC4E0AC8' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='85A847F7-E5C8-4B24-8432-F8CCDC4E0AC8' id='FORM-85A847F7-E5C8-4B24-8432-F8CCDC4E0AC8' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-85A847F7-E5C8-4B24-8432-F8CCDC4E0AC8'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>42D01A3A-E963-4FEF-8EF6-1CDE382F6FD0</p>
-</div>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:23</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Students at Arlington Secondary School were polled regarding their favourite drinks.
-
-![missing image](/papers/missing_image.svg)
-
-
-Given that there are $600$ students at the school, how many more preferred root beer than lemonade?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Students at Arlington Secondary School were polled regarding their favourite drinks.
-<emptyline>
-%image%
-<emptyline>
-Given that there are $600$ students at the school, how many more preferred root beer than lemonade?
-</code></pre>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='42D01A3A-E963-4FEF-8EF6-1CDE382F6FD0' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='42D01A3A-E963-4FEF-8EF6-1CDE382F6FD0' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='42D01A3A-E963-4FEF-8EF6-1CDE382F6FD0' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='42D01A3A-E963-4FEF-8EF6-1CDE382F6FD0' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='42D01A3A-E963-4FEF-8EF6-1CDE382F6FD0' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='42D01A3A-E963-4FEF-8EF6-1CDE382F6FD0' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='42D01A3A-E963-4FEF-8EF6-1CDE382F6FD0' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='42D01A3A-E963-4FEF-8EF6-1CDE382F6FD0' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='42D01A3A-E963-4FEF-8EF6-1CDE382F6FD0' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='42D01A3A-E963-4FEF-8EF6-1CDE382F6FD0' id='FORM-42D01A3A-E963-4FEF-8EF6-1CDE382F6FD0' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-42D01A3A-E963-4FEF-8EF6-1CDE382F6FD0'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>55F3DD5A-48EF-49CD-A205-140E55476230</p>
-</div>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-2:1:22</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The pie charts show the results of a cycling test taken by all pupils in year $7$.
-
-![missing image](/papers/missing_image.svg)
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>The pie charts show the results of a cycling test taken by all pupils in year $7$.
-<emptyline>
-%image%
-%image%
-</code></pre>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-The number of boys who fail the test is $15$.
-
-How many boys pass the test?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>The number of boys who fail the test is $15$.
-<emptyline>
-How many boys pass the test?
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Charlie says that more girls fail the test than boys. Explain why he might not be correct.
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Charlie says that more girls fail the test than boys. Explain why he might not be correct.
-</code></pre>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='55F3DD5A-48EF-49CD-A205-140E55476230' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='55F3DD5A-48EF-49CD-A205-140E55476230' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='55F3DD5A-48EF-49CD-A205-140E55476230' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='55F3DD5A-48EF-49CD-A205-140E55476230' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='55F3DD5A-48EF-49CD-A205-140E55476230' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='55F3DD5A-48EF-49CD-A205-140E55476230' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='55F3DD5A-48EF-49CD-A205-140E55476230' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='55F3DD5A-48EF-49CD-A205-140E55476230' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='55F3DD5A-48EF-49CD-A205-140E55476230' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='55F3DD5A-48EF-49CD-A205-140E55476230' id='FORM-55F3DD5A-48EF-49CD-A205-140E55476230' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-55F3DD5A-48EF-49CD-A205-140E55476230'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>A63813BA-B505-42F9-A4AC-93F2FC9CB6E7</p>
-</div>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-3:1:11</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Three vertices of a kite are $(-4, 1), (-1, 5)$ and $(-1, -8)$.
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Three vertices of a kite are $(-4, 1), (-1, 5)$ and $(-1, -8)$.
-</code></pre>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Plot these points on the axes below.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Plot these points on the axes below.
-<emptyline>
-%image%
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Write down the co-ordinate of the missing vertex of the kite.
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Write down the co-ordinate of the missing vertex of the kite.
-</code></pre>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A63813BA-B505-42F9-A4AC-93F2FC9CB6E7' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A63813BA-B505-42F9-A4AC-93F2FC9CB6E7' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A63813BA-B505-42F9-A4AC-93F2FC9CB6E7' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A63813BA-B505-42F9-A4AC-93F2FC9CB6E7' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A63813BA-B505-42F9-A4AC-93F2FC9CB6E7' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A63813BA-B505-42F9-A4AC-93F2FC9CB6E7' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A63813BA-B505-42F9-A4AC-93F2FC9CB6E7' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A63813BA-B505-42F9-A4AC-93F2FC9CB6E7' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A63813BA-B505-42F9-A4AC-93F2FC9CB6E7' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A63813BA-B505-42F9-A4AC-93F2FC9CB6E7' id='FORM-A63813BA-B505-42F9-A4AC-93F2FC9CB6E7' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-A63813BA-B505-42F9-A4AC-93F2FC9CB6E7'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>C1B53CEE-9E06-4975-9A59-4BA0A87006B1</p>
-</div>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-3:1:21</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Students in 6C were asked about their favourite sports. The results are displayed in the pie chart below.
-
-![missing image](/papers/missing_image.svg)
-
-
-$36$ students chose hockey.
-
-How many students chose swimming?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Students in 6C were asked about their favourite sports. The results are displayed in the pie chart below.
-<emptyline>
-%image%
-<emptyline>
-$36$ students chose hockey.
-<emptyline>
-How many students chose swimming?
-</code></pre>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C1B53CEE-9E06-4975-9A59-4BA0A87006B1' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C1B53CEE-9E06-4975-9A59-4BA0A87006B1' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C1B53CEE-9E06-4975-9A59-4BA0A87006B1' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C1B53CEE-9E06-4975-9A59-4BA0A87006B1' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C1B53CEE-9E06-4975-9A59-4BA0A87006B1' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C1B53CEE-9E06-4975-9A59-4BA0A87006B1' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C1B53CEE-9E06-4975-9A59-4BA0A87006B1' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C1B53CEE-9E06-4975-9A59-4BA0A87006B1' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C1B53CEE-9E06-4975-9A59-4BA0A87006B1' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='C1B53CEE-9E06-4975-9A59-4BA0A87006B1' id='FORM-C1B53CEE-9E06-4975-9A59-4BA0A87006B1' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-C1B53CEE-9E06-4975-9A59-4BA0A87006B1'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>EB8DEFE8-8C21-46BB-B230-ED8458A32909</p>
-</div>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:19</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A survey was carried out to see what colour cars people owned. Here are the results:
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>A survey was carried out to see what colour cars people owned. Here are the results:
-<emptyline>
-%image%
-</code></pre>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-What fraction of people owned a black car?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>What fraction of people owned a black car?
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Given that $5$ people owned a white car, how many people owned a silver car?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Given that $5$ people owned a white car, how many people owned a silver car?
-</code></pre>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EB8DEFE8-8C21-46BB-B230-ED8458A32909' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EB8DEFE8-8C21-46BB-B230-ED8458A32909' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EB8DEFE8-8C21-46BB-B230-ED8458A32909' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EB8DEFE8-8C21-46BB-B230-ED8458A32909' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EB8DEFE8-8C21-46BB-B230-ED8458A32909' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EB8DEFE8-8C21-46BB-B230-ED8458A32909' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EB8DEFE8-8C21-46BB-B230-ED8458A32909' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EB8DEFE8-8C21-46BB-B230-ED8458A32909' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EB8DEFE8-8C21-46BB-B230-ED8458A32909' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='EB8DEFE8-8C21-46BB-B230-ED8458A32909' id='FORM-EB8DEFE8-8C21-46BB-B230-ED8458A32909' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-EB8DEFE8-8C21-46BB-B230-ED8458A32909'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>2E4D898B-50D2-4B8A-B279-75EF60B4BD43</p>
 </div>
@@ -641,13 +14,13 @@ Given that $5$ people owned a white car, how many people owned a silver car?
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:2:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -752,11 +125,39 @@ Show working to explain your answer.
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reviewer: [up] Date:2022-09-06::14:49
+
+
+
+remove \bold
+
+
+
+add correct symbol abbre, use \spadesuit as placeholder instead of TODO
+
+
+
+Reviewer: [up] Date:2022-09-06::14:49
+
+
+
+fix rest of the issues too
+</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2E4D898B-50D2-4B8A-B279-75EF60B4BD43' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2E4D898B-50D2-4B8A-B279-75EF60B4BD43' onclick='submitReview(event)'>PRPCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2E4D898B-50D2-4B8A-B279-75EF60B4BD43' onclick='submitReview(event)'>PRG</button>
@@ -771,7 +172,7 @@ Show working to explain your answer.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2E4D898B-50D2-4B8A-B279-75EF60B4BD43' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2E4D898B-50D2-4B8A-B279-75EF60B4BD43' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2E4D898B-50D2-4B8A-B279-75EF60B4BD43' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2E4D898B-50D2-4B8A-B279-75EF60B4BD43' onclick='submitReview(event)'>PRR</button>
@@ -782,9 +183,12 @@ Show working to explain your answer.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2E4D898B-50D2-4B8A-B279-75EF60B4BD43' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='2E4D898B-50D2-4B8A-B279-75EF60B4BD43' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='2E4D898B-50D2-4B8A-B279-75EF60B4BD43' id='FORM-2E4D898B-50D2-4B8A-B279-75EF60B4BD43' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2E4D898B-50D2-4B8A-B279-75EF60B4BD43' id='FORM-2E4D898B-50D2-4B8A-B279-75EF60B4BD43' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -796,7 +200,7 @@ Show working to explain your answer.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>52983814-93FB-4D20-8042-2C3DEF961EF6</p>
 </div>
@@ -804,13 +208,13 @@ Show working to explain your answer.
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:2:24</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -873,11 +277,27 @@ Work out the total number of students that Betty asked.
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reviewer: [up] Date:2022-09-06::15:02
+
+
+
+remove ** bold
+</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='52983814-93FB-4D20-8042-2C3DEF961EF6' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='52983814-93FB-4D20-8042-2C3DEF961EF6' onclick='submitReview(event)'>PRPCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='52983814-93FB-4D20-8042-2C3DEF961EF6' onclick='submitReview(event)'>PRG</button>
@@ -892,7 +312,7 @@ Work out the total number of students that Betty asked.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='52983814-93FB-4D20-8042-2C3DEF961EF6' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='52983814-93FB-4D20-8042-2C3DEF961EF6' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='52983814-93FB-4D20-8042-2C3DEF961EF6' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='52983814-93FB-4D20-8042-2C3DEF961EF6' onclick='submitReview(event)'>PRR</button>
@@ -903,9 +323,12 @@ Work out the total number of students that Betty asked.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='52983814-93FB-4D20-8042-2C3DEF961EF6' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='52983814-93FB-4D20-8042-2C3DEF961EF6' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='52983814-93FB-4D20-8042-2C3DEF961EF6' id='FORM-52983814-93FB-4D20-8042-2C3DEF961EF6' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='52983814-93FB-4D20-8042-2C3DEF961EF6' id='FORM-52983814-93FB-4D20-8042-2C3DEF961EF6' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -917,2140 +340,7 @@ Work out the total number of students that Betty asked.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>914E327B-A7A6-4DC8-B6D4-1728426C35A8</p>
-</div>
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:25</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Seven out of forty pupils said they watch the news on television. 
-What angle would this be on a pie chart? 
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Seven out of forty pupils said they watch the news on television. 
-What angle would this be on a pie chart? 
-</code></pre>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='914E327B-A7A6-4DC8-B6D4-1728426C35A8' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='914E327B-A7A6-4DC8-B6D4-1728426C35A8' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='914E327B-A7A6-4DC8-B6D4-1728426C35A8' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='914E327B-A7A6-4DC8-B6D4-1728426C35A8' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='914E327B-A7A6-4DC8-B6D4-1728426C35A8' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='914E327B-A7A6-4DC8-B6D4-1728426C35A8' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='914E327B-A7A6-4DC8-B6D4-1728426C35A8' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='914E327B-A7A6-4DC8-B6D4-1728426C35A8' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='914E327B-A7A6-4DC8-B6D4-1728426C35A8' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='914E327B-A7A6-4DC8-B6D4-1728426C35A8' id='FORM-914E327B-A7A6-4DC8-B6D4-1728426C35A8' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-914E327B-A7A6-4DC8-B6D4-1728426C35A8'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>0F4CF8F2-E42D-4C16-83EE-A54625E11AE9</p>
-</div>
-<div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:16</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-<li>
-tdraw
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>%image%
-</code></pre>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Reflect shape $A$ in the x-axis and label the new shape $B$.
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Reflect shape $A$ in the x-axis and label the new shape $B$.
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Reflect shape $B$ in the y-axis and label the new shape $C$.
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Reflect shape $B$ in the y-axis and label the new shape $C$.
-</code></pre>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0F4CF8F2-E42D-4C16-83EE-A54625E11AE9' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0F4CF8F2-E42D-4C16-83EE-A54625E11AE9' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0F4CF8F2-E42D-4C16-83EE-A54625E11AE9' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0F4CF8F2-E42D-4C16-83EE-A54625E11AE9' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0F4CF8F2-E42D-4C16-83EE-A54625E11AE9' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0F4CF8F2-E42D-4C16-83EE-A54625E11AE9' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0F4CF8F2-E42D-4C16-83EE-A54625E11AE9' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0F4CF8F2-E42D-4C16-83EE-A54625E11AE9' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0F4CF8F2-E42D-4C16-83EE-A54625E11AE9' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='0F4CF8F2-E42D-4C16-83EE-A54625E11AE9' id='FORM-0F4CF8F2-E42D-4C16-83EE-A54625E11AE9' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-0F4CF8F2-E42D-4C16-83EE-A54625E11AE9'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>9E719330-0153-4C8D-83E0-A6369D143FAA</p>
-</div>
-<div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:24</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-<li>
-tareaperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg)
-
-
-The point $A (4,1)$ has been marked.
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>%image%
-<emptyline>
-The point $A (4,1)$ has been marked.
-</code></pre>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Mark the point $B$ with co-ordinates $(0,4)$.
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Mark the point $B$ with co-ordinates $(0,4)$.
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Mark the point $C$ with co-ordinates $(-3,0)$.
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Mark the point $C$ with co-ordinates $(-3,0)$.
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-The point $D$ forms a square ‘$ABCD$’. Write down the coordinates of point $D$.
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>The point $D$ forms a square ‘$ABCD$’. Write down the coordinates of point $D$.
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-What is the area of the square $ABCD$?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>What is the area of the square $ABCD$?
-</code></pre>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9E719330-0153-4C8D-83E0-A6369D143FAA' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9E719330-0153-4C8D-83E0-A6369D143FAA' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9E719330-0153-4C8D-83E0-A6369D143FAA' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9E719330-0153-4C8D-83E0-A6369D143FAA' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9E719330-0153-4C8D-83E0-A6369D143FAA' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9E719330-0153-4C8D-83E0-A6369D143FAA' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9E719330-0153-4C8D-83E0-A6369D143FAA' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9E719330-0153-4C8D-83E0-A6369D143FAA' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9E719330-0153-4C8D-83E0-A6369D143FAA' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='9E719330-0153-4C8D-83E0-A6369D143FAA' id='FORM-9E719330-0153-4C8D-83E0-A6369D143FAA' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-9E719330-0153-4C8D-83E0-A6369D143FAA'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>2264C733-6A32-48A8-A722-6FBBC3D72E21</p>
-</div>
-<div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:25</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-This graph shows the progress of two cars in a race from Leeds to Blackpool and back again. Car $A$ is the bold line. Car $B$ is the dotted line.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>This graph shows the progress of two cars in a race from Leeds to Blackpool and back again. Car $A$ is the bold line. Car $B$ is the dotted line.
-<emptyline>
-%image%
-</code></pre>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How far is it from Leeds to Blackpool?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>How far is it from Leeds to Blackpool?
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Which car was winning at $3.30 \ \text{pm}$?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Which car was winning at $3.30 \ \text{pm}$?
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Which car was winning at $4.15 \ \text{pm}$?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Which car was winning at $4.15 \ \text{pm}$?
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
- What was the distance between the cars at $4.45 \ \text{pm}$?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'> What was the distance between the cars at $4.45 \ \text{pm}$?
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-What happened just after $6 \ \text{pm}$?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>What happened just after $6 \ \text{pm}$?
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Which car achieved the highest speed, and between which times did this happen?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Which car achieved the highest speed, and between which times did this happen?
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Which car won the race?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Which car won the race?
-</code></pre>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2264C733-6A32-48A8-A722-6FBBC3D72E21' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2264C733-6A32-48A8-A722-6FBBC3D72E21' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2264C733-6A32-48A8-A722-6FBBC3D72E21' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2264C733-6A32-48A8-A722-6FBBC3D72E21' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2264C733-6A32-48A8-A722-6FBBC3D72E21' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2264C733-6A32-48A8-A722-6FBBC3D72E21' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2264C733-6A32-48A8-A722-6FBBC3D72E21' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2264C733-6A32-48A8-A722-6FBBC3D72E21' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2264C733-6A32-48A8-A722-6FBBC3D72E21' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='2264C733-6A32-48A8-A722-6FBBC3D72E21' id='FORM-2264C733-6A32-48A8-A722-6FBBC3D72E21' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-2264C733-6A32-48A8-A722-6FBBC3D72E21'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>12897F19-C08C-469A-9155-41C4FE32F1BE</p>
-</div>
-<div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:16</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-<li>
-tdraw
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg)
- 
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>%image% 
-</code></pre>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Reflect shape $A$ in the y-axis and label the new shape $B$.
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Reflect shape $A$ in the y-axis and label the new shape $B$.
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Reflect shape $B$ in the x-axis and label the new shape $C$.
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Reflect shape $B$ in the x-axis and label the new shape $C$.
-</code></pre>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='12897F19-C08C-469A-9155-41C4FE32F1BE' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='12897F19-C08C-469A-9155-41C4FE32F1BE' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='12897F19-C08C-469A-9155-41C4FE32F1BE' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='12897F19-C08C-469A-9155-41C4FE32F1BE' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='12897F19-C08C-469A-9155-41C4FE32F1BE' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='12897F19-C08C-469A-9155-41C4FE32F1BE' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='12897F19-C08C-469A-9155-41C4FE32F1BE' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='12897F19-C08C-469A-9155-41C4FE32F1BE' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='12897F19-C08C-469A-9155-41C4FE32F1BE' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='12897F19-C08C-469A-9155-41C4FE32F1BE' id='FORM-12897F19-C08C-469A-9155-41C4FE32F1BE' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-12897F19-C08C-469A-9155-41C4FE32F1BE'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>FCB6B08C-EEFA-489B-A540-D421A04B94A5</p>
-</div>
-<div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:24</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-<li>
-tareaperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg)
-
-
-The point $A (2,1)$ has been marked.
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>%image%
-<emptyline>
-The point $A (2,1)$ has been marked.
-</code></pre>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Mark the point $B$ with co-ordinates $(0,2)$.
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Mark the point $B$ with co-ordinates $(0,2)$.
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Mark the point $C$ with co-ordinates $(-1,1)$.
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Mark the point $C$ with co-ordinates $(-1,1)$.
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-There are three possible places for a fourth point $D$ to make a parallelogram using the four points $A, B, C$ and $D$. 
-Write down the coordinates of these three points.
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>There are three possible places for a fourth point $D$ to make a parallelogram using the four points $A, B, C$ and $D$. 
-Write down the coordinates of these three points.
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-What is the area of the triangle formed by these three points?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>What is the area of the triangle formed by these three points?
-</code></pre>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FCB6B08C-EEFA-489B-A540-D421A04B94A5' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FCB6B08C-EEFA-489B-A540-D421A04B94A5' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FCB6B08C-EEFA-489B-A540-D421A04B94A5' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FCB6B08C-EEFA-489B-A540-D421A04B94A5' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FCB6B08C-EEFA-489B-A540-D421A04B94A5' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FCB6B08C-EEFA-489B-A540-D421A04B94A5' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FCB6B08C-EEFA-489B-A540-D421A04B94A5' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FCB6B08C-EEFA-489B-A540-D421A04B94A5' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FCB6B08C-EEFA-489B-A540-D421A04B94A5' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='FCB6B08C-EEFA-489B-A540-D421A04B94A5' id='FORM-FCB6B08C-EEFA-489B-A540-D421A04B94A5' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-FCB6B08C-EEFA-489B-A540-D421A04B94A5'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>F6DE395B-6BD0-4AD7-A195-94D5A9EFA30C</p>
-</div>
-<div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:25</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg)
-
-
-This graph shows the depth of water in Grandma’s bath one evening. Label each section of the graph with one of the following letters. Some letters may appear more than once on your graph
-
-A - Both the hot and cold taps are running
-
-B - Grandma gets into the bath
-
-C - Grandma takes the plug out
-
-D - Grandma sits in the bath reading her book 
-
-E - Only the hot tap is running
-
-F - Grandma gets out of the bath
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>%image%
-<emptyline>
-This graph shows the depth of water in Grandma’s bath one evening. Label each section of the graph with one of the following letters. Some letters may appear more than once on your graph
-<emptyline>
-A - Both the hot and cold taps are running
-<emptyline>
-B - Grandma gets into the bath
-<emptyline>
-C - Grandma takes the plug out
-<emptyline>
-D - Grandma sits in the bath reading her book 
-<emptyline>
-E - Only the hot tap is running
-<emptyline>
-F - Grandma gets out of the bath
-</code></pre>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F6DE395B-6BD0-4AD7-A195-94D5A9EFA30C' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F6DE395B-6BD0-4AD7-A195-94D5A9EFA30C' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F6DE395B-6BD0-4AD7-A195-94D5A9EFA30C' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F6DE395B-6BD0-4AD7-A195-94D5A9EFA30C' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F6DE395B-6BD0-4AD7-A195-94D5A9EFA30C' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F6DE395B-6BD0-4AD7-A195-94D5A9EFA30C' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F6DE395B-6BD0-4AD7-A195-94D5A9EFA30C' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F6DE395B-6BD0-4AD7-A195-94D5A9EFA30C' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F6DE395B-6BD0-4AD7-A195-94D5A9EFA30C' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='F6DE395B-6BD0-4AD7-A195-94D5A9EFA30C' id='FORM-F6DE395B-6BD0-4AD7-A195-94D5A9EFA30C' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-F6DE395B-6BD0-4AD7-A195-94D5A9EFA30C'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>CBB08297-63E5-4C09-AD2C-ADAB5E8E6060</p>
-</div>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:15</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Each year a school has a quiz between two teams, North and South. 
-The diagram shows the results.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Each year a school has a quiz between two teams, North and South. 
-The diagram shows the results.
-<emptyline>
-%image%
-</code></pre>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-In which year did North beat South by $100$ points?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>In which year did North beat South by $100$ points?
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-In which year did South beat North by the greatest amount?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>In which year did South beat North by the greatest amount?
-</code></pre>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CBB08297-63E5-4C09-AD2C-ADAB5E8E6060' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CBB08297-63E5-4C09-AD2C-ADAB5E8E6060' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CBB08297-63E5-4C09-AD2C-ADAB5E8E6060' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CBB08297-63E5-4C09-AD2C-ADAB5E8E6060' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CBB08297-63E5-4C09-AD2C-ADAB5E8E6060' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CBB08297-63E5-4C09-AD2C-ADAB5E8E6060' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CBB08297-63E5-4C09-AD2C-ADAB5E8E6060' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CBB08297-63E5-4C09-AD2C-ADAB5E8E6060' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CBB08297-63E5-4C09-AD2C-ADAB5E8E6060' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='CBB08297-63E5-4C09-AD2C-ADAB5E8E6060' id='FORM-CBB08297-63E5-4C09-AD2C-ADAB5E8E6060' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-CBB08297-63E5-4C09-AD2C-ADAB5E8E6060'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>5054A868-02F3-4E61-96F6-2578408B299C</p>
-</div>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2016--sample-paper-2:1:24</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The bar chart shows the numbers of patients (adults and children) seen by Dr Patel in June and July.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>The bar chart shows the numbers of patients (adults and children) seen by Dr Patel in June and July.
-<emptyline>
-%image%
-</code></pre>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How many patients did Dr Patel see in June?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>How many patients did Dr Patel see in June?
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How many children did Dr Patel see in July?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>How many children did Dr Patel see in July?
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-What fraction of the patients seen by Dr Patel in July were children?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>What fraction of the patients seen by Dr Patel in July were children?
-</code></pre>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5054A868-02F3-4E61-96F6-2578408B299C' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5054A868-02F3-4E61-96F6-2578408B299C' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5054A868-02F3-4E61-96F6-2578408B299C' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5054A868-02F3-4E61-96F6-2578408B299C' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5054A868-02F3-4E61-96F6-2578408B299C' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5054A868-02F3-4E61-96F6-2578408B299C' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5054A868-02F3-4E61-96F6-2578408B299C' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5054A868-02F3-4E61-96F6-2578408B299C' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5054A868-02F3-4E61-96F6-2578408B299C' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='5054A868-02F3-4E61-96F6-2578408B299C' id='FORM-5054A868-02F3-4E61-96F6-2578408B299C' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-5054A868-02F3-4E61-96F6-2578408B299C'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>B1881995-FBBD-4145-AF49-1BCDE17A6361</p>
-</div>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2016--sample-paper-2:1:25</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-<li>
-tdraw
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Write down the coordinates of point $A$.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Write down the coordinates of point $A$.
-<emptyline>
-%image%
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Draw a line from $B$ to $C$ and write down the coordinates of the midpoint of the line.
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Draw a line from $B$ to $C$ and write down the coordinates of the midpoint of the line.
-</code></pre>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B1881995-FBBD-4145-AF49-1BCDE17A6361' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B1881995-FBBD-4145-AF49-1BCDE17A6361' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B1881995-FBBD-4145-AF49-1BCDE17A6361' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B1881995-FBBD-4145-AF49-1BCDE17A6361' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B1881995-FBBD-4145-AF49-1BCDE17A6361' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B1881995-FBBD-4145-AF49-1BCDE17A6361' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B1881995-FBBD-4145-AF49-1BCDE17A6361' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B1881995-FBBD-4145-AF49-1BCDE17A6361' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B1881995-FBBD-4145-AF49-1BCDE17A6361' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='B1881995-FBBD-4145-AF49-1BCDE17A6361' id='FORM-B1881995-FBBD-4145-AF49-1BCDE17A6361' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-B1881995-FBBD-4145-AF49-1BCDE17A6361'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>424590E9-5F4D-43A0-9C16-39E65D86B156</p>
-</div>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2017--sample-paper-3:1:24</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The bar chart shows the favourite cold drinks of the students in Class $6A$.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>The bar chart shows the favourite cold drinks of the students in Class $6A$.
-<emptyline>
-%image%
-</code></pre>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How many students like squash best? 
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>How many students like squash best? 
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Four students prefer which drink?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Four students prefer which drink?
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How many **more** students prefer fizzy drinks to juice? 
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>How many **more** students prefer fizzy drinks to juice? 
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How many students are in Class $6A$?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>How many students are in Class $6A$?
-</code></pre>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='424590E9-5F4D-43A0-9C16-39E65D86B156' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='424590E9-5F4D-43A0-9C16-39E65D86B156' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='424590E9-5F4D-43A0-9C16-39E65D86B156' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='424590E9-5F4D-43A0-9C16-39E65D86B156' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='424590E9-5F4D-43A0-9C16-39E65D86B156' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='424590E9-5F4D-43A0-9C16-39E65D86B156' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='424590E9-5F4D-43A0-9C16-39E65D86B156' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='424590E9-5F4D-43A0-9C16-39E65D86B156' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='424590E9-5F4D-43A0-9C16-39E65D86B156' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='424590E9-5F4D-43A0-9C16-39E65D86B156' id='FORM-424590E9-5F4D-43A0-9C16-39E65D86B156' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-424590E9-5F4D-43A0-9C16-39E65D86B156'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>173F0773-5ABA-45CB-8EB7-AEE368A5D195</p>
-</div>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2017--sample-paper-3:1:25</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The diagram shows the coordinates of three points $A, B$ and $C$. 
-
-Shape $ABCD$ is a rectangle.
-
-![missing image](/papers/missing_image.svg)
-
-
-What are the coordinates of point D?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>The diagram shows the coordinates of three points $A, B$ and $C$. 
-<emptyline>
-Shape $ABCD$ is a rectangle.
-<emptyline>
-%image%
-<emptyline>
-What are the coordinates of point D?
-</code></pre>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='173F0773-5ABA-45CB-8EB7-AEE368A5D195' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='173F0773-5ABA-45CB-8EB7-AEE368A5D195' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='173F0773-5ABA-45CB-8EB7-AEE368A5D195' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='173F0773-5ABA-45CB-8EB7-AEE368A5D195' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='173F0773-5ABA-45CB-8EB7-AEE368A5D195' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='173F0773-5ABA-45CB-8EB7-AEE368A5D195' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='173F0773-5ABA-45CB-8EB7-AEE368A5D195' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='173F0773-5ABA-45CB-8EB7-AEE368A5D195' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='173F0773-5ABA-45CB-8EB7-AEE368A5D195' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='173F0773-5ABA-45CB-8EB7-AEE368A5D195' id='FORM-173F0773-5ABA-45CB-8EB7-AEE368A5D195' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-173F0773-5ABA-45CB-8EB7-AEE368A5D195'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>43F84204-42F8-4724-B79B-7274620519B8</p>
-</div>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:24</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Maria and Kay ran a $1500 \ \text{metres}$ race.
-
-The graph shows information about the race.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Maria and Kay ran a $1500 \ \text{metres}$ race.
-<emptyline>
-The graph shows information about the race.
-<emptyline>
-%image%
-</code></pre>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-For how many minutes was Kay in the lead?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>For how many minutes was Kay in the lead?
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-After how many metres were they level during the race?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>After how many metres were they level during the race?
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Who won the race?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Who won the race?
-</code></pre>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='43F84204-42F8-4724-B79B-7274620519B8' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='43F84204-42F8-4724-B79B-7274620519B8' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='43F84204-42F8-4724-B79B-7274620519B8' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='43F84204-42F8-4724-B79B-7274620519B8' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='43F84204-42F8-4724-B79B-7274620519B8' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='43F84204-42F8-4724-B79B-7274620519B8' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='43F84204-42F8-4724-B79B-7274620519B8' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='43F84204-42F8-4724-B79B-7274620519B8' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='43F84204-42F8-4724-B79B-7274620519B8' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='43F84204-42F8-4724-B79B-7274620519B8' id='FORM-43F84204-42F8-4724-B79B-7274620519B8' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-43F84204-42F8-4724-B79B-7274620519B8'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>75A33354-05CD-4A15-A79F-F1544509C92E</p>
-</div>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:21</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A group of students were asked to name their favourite subject at school.
-
-The results of the survey are shown on the graph on the right.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>A group of students were asked to name their favourite subject at school.
-<emptyline>
-The results of the survey are shown on the graph on the right.
-<emptyline>
-%image%
-</code></pre>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-What was the most popular subject?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>What was the most popular subject?
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Four students prefer which subject?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Four students prefer which subject?
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How many **more** students prefer Mathematics to History?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>How many **more** students prefer Mathematics to History?
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How many students took part in the survey?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>How many students took part in the survey?
-</code></pre>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='75A33354-05CD-4A15-A79F-F1544509C92E' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='75A33354-05CD-4A15-A79F-F1544509C92E' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='75A33354-05CD-4A15-A79F-F1544509C92E' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='75A33354-05CD-4A15-A79F-F1544509C92E' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='75A33354-05CD-4A15-A79F-F1544509C92E' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='75A33354-05CD-4A15-A79F-F1544509C92E' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='75A33354-05CD-4A15-A79F-F1544509C92E' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='75A33354-05CD-4A15-A79F-F1544509C92E' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='75A33354-05CD-4A15-A79F-F1544509C92E' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='75A33354-05CD-4A15-A79F-F1544509C92E' id='FORM-75A33354-05CD-4A15-A79F-F1544509C92E' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-75A33354-05CD-4A15-A79F-F1544509C92E'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>9DDDB2CF-0F0A-486E-99E4-C50FC0802B88</p>
-</div>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:22</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The graph below shows how Ben and Anne travelled to their Grandmother’s house one weekend.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>The graph below shows how Ben and Anne travelled to their Grandmother’s house one weekend.
-<emptyline>
-%image%
-</code></pre>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How much later did Ben start his journey?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>How much later did Ben start his journey?
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How far were they both from their Grandmother’s house when Ben
-passed Anne?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>How far were they both from their Grandmother’s house when Ben
-passed Anne?
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How long did Anne stop for?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>How long did Anne stop for?
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How far from Ben and Anne's house is their Grandmother's house?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>How far from Ben and Anne's house is their Grandmother's house?
-</code></pre>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9DDDB2CF-0F0A-486E-99E4-C50FC0802B88' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9DDDB2CF-0F0A-486E-99E4-C50FC0802B88' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9DDDB2CF-0F0A-486E-99E4-C50FC0802B88' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9DDDB2CF-0F0A-486E-99E4-C50FC0802B88' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9DDDB2CF-0F0A-486E-99E4-C50FC0802B88' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9DDDB2CF-0F0A-486E-99E4-C50FC0802B88' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9DDDB2CF-0F0A-486E-99E4-C50FC0802B88' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9DDDB2CF-0F0A-486E-99E4-C50FC0802B88' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9DDDB2CF-0F0A-486E-99E4-C50FC0802B88' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='9DDDB2CF-0F0A-486E-99E4-C50FC0802B88' id='FORM-9DDDB2CF-0F0A-486E-99E4-C50FC0802B88' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-9DDDB2CF-0F0A-486E-99E4-C50FC0802B88'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>52405CEB-6BF5-4540-B66B-59B339D30F72</p>
-</div>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:35</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-<li>
-tareaperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-The coordinates of the 4 vertices of a quadrilateral are:
-
-$(a - 3, b) \ (a, b) \ (a - 3, b + 2) \ (a, b + 2)$ 
-
-What shape is this?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>The coordinates of the 4 vertices of a quadrilateral are:
-<emptyline>
-$(a - 3, b) \ (a, b) \ (a - 3, b + 2) \ (a, b + 2)$ 
-<emptyline>
-What shape is this?
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-A square of side length $3 \ \text{cm}$ is divided into three
-rectangles of equal size.
-
-The middle rectangle is removed and replaced on the side of the 
-original square to form an octagon as shown.
-
-How many times bigger is the perimeter of the octagon than 
-the perimeter of the original square?
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>A square of side length $3 \ \text{cm}$ is divided into three
-rectangles of equal size.
-<emptyline>
-The middle rectangle is removed and replaced on the side of the 
-original square to form an octagon as shown.
-<emptyline>
-How many times bigger is the perimeter of the octagon than 
-the perimeter of the original square?
-<emptyline>
-%image%
-</code></pre>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='52405CEB-6BF5-4540-B66B-59B339D30F72' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='52405CEB-6BF5-4540-B66B-59B339D30F72' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='52405CEB-6BF5-4540-B66B-59B339D30F72' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='52405CEB-6BF5-4540-B66B-59B339D30F72' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='52405CEB-6BF5-4540-B66B-59B339D30F72' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='52405CEB-6BF5-4540-B66B-59B339D30F72' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='52405CEB-6BF5-4540-B66B-59B339D30F72' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='52405CEB-6BF5-4540-B66B-59B339D30F72' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='52405CEB-6BF5-4540-B66B-59B339D30F72' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='52405CEB-6BF5-4540-B66B-59B339D30F72' id='FORM-52405CEB-6BF5-4540-B66B-59B339D30F72' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-52405CEB-6BF5-4540-B66B-59B339D30F72'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>4C19B7C0-D4F3-4F5D-9B7E-05EA7E3E0DAE</p>
-</div>
-<div class='papername'>
-<p>benenden-school--11-plus--maths--2020--sample-paper-2:1:10</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-On the grid below, 
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>On the grid below, 
-</code></pre>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Plot and label the points $A(3,2)$ and $B(10, 6)$.
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Plot and label the points $A(3,2)$ and $B(10, 6)$.
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Write down the co-ordinates of $C$, the midpoint of line $AB$.
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Write down the co-ordinates of $C$, the midpoint of line $AB$.
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Plot point $D(9,9)$.
-$ABDE$ is a parallelogram. 
-
-Plot point $E$ and write down its co-ordinates.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Plot point $D(9,9)$.
-$ABDE$ is a parallelogram. 
-<emptyline>
-Plot point $E$ and write down its co-ordinates.
-<emptyline>
-%image%
-</code></pre>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4C19B7C0-D4F3-4F5D-9B7E-05EA7E3E0DAE' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4C19B7C0-D4F3-4F5D-9B7E-05EA7E3E0DAE' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4C19B7C0-D4F3-4F5D-9B7E-05EA7E3E0DAE' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4C19B7C0-D4F3-4F5D-9B7E-05EA7E3E0DAE' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4C19B7C0-D4F3-4F5D-9B7E-05EA7E3E0DAE' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4C19B7C0-D4F3-4F5D-9B7E-05EA7E3E0DAE' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4C19B7C0-D4F3-4F5D-9B7E-05EA7E3E0DAE' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4C19B7C0-D4F3-4F5D-9B7E-05EA7E3E0DAE' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4C19B7C0-D4F3-4F5D-9B7E-05EA7E3E0DAE' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='4C19B7C0-D4F3-4F5D-9B7E-05EA7E3E0DAE' id='FORM-4C19B7C0-D4F3-4F5D-9B7E-05EA7E3E0DAE' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-4C19B7C0-D4F3-4F5D-9B7E-05EA7E3E0DAE'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>B261F07B-7F67-439A-9C92-1946327A60A0</p>
 </div>
@@ -3058,13 +348,13 @@ Plot point $E$ and write down its co-ordinates.
 <p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3159,11 +449,35 @@ How many buses were there in total over the whole week?
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reviewer: [up] Date:2022-09-06::19:46
+
+
+
+use table
+
+
+
+Reviewer: [up] Date:2022-09-06::19:47
+
+
+
+use table
+</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B261F07B-7F67-439A-9C92-1946327A60A0' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B261F07B-7F67-439A-9C92-1946327A60A0' onclick='submitReview(event)'>PRPCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B261F07B-7F67-439A-9C92-1946327A60A0' onclick='submitReview(event)'>PRG</button>
@@ -3178,7 +492,7 @@ How many buses were there in total over the whole week?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B261F07B-7F67-439A-9C92-1946327A60A0' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B261F07B-7F67-439A-9C92-1946327A60A0' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B261F07B-7F67-439A-9C92-1946327A60A0' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B261F07B-7F67-439A-9C92-1946327A60A0' onclick='submitReview(event)'>PRR</button>
@@ -3189,9 +503,12 @@ How many buses were there in total over the whole week?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B261F07B-7F67-439A-9C92-1946327A60A0' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='B261F07B-7F67-439A-9C92-1946327A60A0' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='B261F07B-7F67-439A-9C92-1946327A60A0' id='FORM-B261F07B-7F67-439A-9C92-1946327A60A0' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B261F07B-7F67-439A-9C92-1946327A60A0' id='FORM-B261F07B-7F67-439A-9C92-1946327A60A0' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3203,481 +520,7 @@ How many buses were there in total over the whole week?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>187C32F1-42E7-4762-9F5E-633DB9690D3E</p>
-</div>
-<div class='papername'>
-<p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:1:6</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-<li>
-tsymmetry
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-These patterns are from Islamic designs. Example
-
-![missing image](/papers/missing_image.svg)
-
-
-Each pattern has one or more lines of symmetry.
-
-Draw all the lines of symmetry in each pattern.
-
-![missing image](/papers/missing_image.svg)
- ![missing image](/papers/missing_image.svg)
- ![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>These patterns are from Islamic designs. Example
-<emptyline>
-%image%
-<emptyline>
-Each pattern has one or more lines of symmetry.
-<emptyline>
-Draw all the lines of symmetry in each pattern.
-<emptyline>
-%image% %image% %image%
-</code></pre>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='187C32F1-42E7-4762-9F5E-633DB9690D3E' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='187C32F1-42E7-4762-9F5E-633DB9690D3E' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='187C32F1-42E7-4762-9F5E-633DB9690D3E' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='187C32F1-42E7-4762-9F5E-633DB9690D3E' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='187C32F1-42E7-4762-9F5E-633DB9690D3E' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='187C32F1-42E7-4762-9F5E-633DB9690D3E' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='187C32F1-42E7-4762-9F5E-633DB9690D3E' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='187C32F1-42E7-4762-9F5E-633DB9690D3E' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='187C32F1-42E7-4762-9F5E-633DB9690D3E' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='187C32F1-42E7-4762-9F5E-633DB9690D3E' id='FORM-187C32F1-42E7-4762-9F5E-633DB9690D3E' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-187C32F1-42E7-4762-9F5E-633DB9690D3E'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>074DE07B-CAA4-4F6F-BCE8-72338C46ACA8</p>
-</div>
-<div class='papername'>
-<p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:1:15</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The point $A$ has co-ordinates $(2,1)$.
-
-![missing image](/papers/missing_image.svg)
-
-
-What are the co-ordinates of $B$ and $C$?
-
-On the graph above, mark the points $L(6,1)$ and $M(6, 5)$.
-
-Mark a third point $N$ so that the three points $L, M$ and $N$ join up to make an isosceles triangle.
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>The point $A$ has co-ordinates $(2,1)$.
-<emptyline>
-%image%
-<emptyline>
-What are the co-ordinates of $B$ and $C$?
-<emptyline>
-On the graph above, mark the points $L(6,1)$ and $M(6, 5)$.
-<emptyline>
-Mark a third point $N$ so that the three points $L, M$ and $N$ join up to make an isosceles triangle.
-</code></pre>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='074DE07B-CAA4-4F6F-BCE8-72338C46ACA8' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='074DE07B-CAA4-4F6F-BCE8-72338C46ACA8' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='074DE07B-CAA4-4F6F-BCE8-72338C46ACA8' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='074DE07B-CAA4-4F6F-BCE8-72338C46ACA8' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='074DE07B-CAA4-4F6F-BCE8-72338C46ACA8' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='074DE07B-CAA4-4F6F-BCE8-72338C46ACA8' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='074DE07B-CAA4-4F6F-BCE8-72338C46ACA8' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='074DE07B-CAA4-4F6F-BCE8-72338C46ACA8' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='074DE07B-CAA4-4F6F-BCE8-72338C46ACA8' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='074DE07B-CAA4-4F6F-BCE8-72338C46ACA8' id='FORM-074DE07B-CAA4-4F6F-BCE8-72338C46ACA8' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-074DE07B-CAA4-4F6F-BCE8-72338C46ACA8'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>BC34D604-7AC7-4E7B-A560-445B932559C0</p>
-</div>
-<div class='papername'>
-<p>brentwood-school--11-plus--maths--9999--sample-paper-1:1:10</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg)
- 
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>%image% 
-</code></pre>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Write down the coordinates of point $B$.
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Write down the coordinates of point $B$.
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Plot the point $(1, 4)$ on the graph and label it $A$.
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Plot the point $(1, 4)$ on the graph and label it $A$.
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Plot the point $(5, 4)$ and label it $C$.
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Plot the point $(5, 4)$ and label it $C$.
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Join points $A, B$ and $C$ to make a triangle. 
-
-What type of triangle is triangle $ABC$?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Join points $A, B$ and $C$ to make a triangle. 
-<emptyline>
-What type of triangle is triangle $ABC$?
-</code></pre>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BC34D604-7AC7-4E7B-A560-445B932559C0' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BC34D604-7AC7-4E7B-A560-445B932559C0' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BC34D604-7AC7-4E7B-A560-445B932559C0' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BC34D604-7AC7-4E7B-A560-445B932559C0' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BC34D604-7AC7-4E7B-A560-445B932559C0' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BC34D604-7AC7-4E7B-A560-445B932559C0' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BC34D604-7AC7-4E7B-A560-445B932559C0' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BC34D604-7AC7-4E7B-A560-445B932559C0' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BC34D604-7AC7-4E7B-A560-445B932559C0' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='BC34D604-7AC7-4E7B-A560-445B932559C0' id='FORM-BC34D604-7AC7-4E7B-A560-445B932559C0' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-BC34D604-7AC7-4E7B-A560-445B932559C0'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>1F82D6FB-6154-43EC-B6DF-62ACE7EB0421</p>
-</div>
-<div class='papername'>
-<p>brentwood-school--11-plus--maths--9999--sample-paper-1:2:6</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-One day, Postman Patrick recorded the number of houses which received no letters, one letter, two letters, and so on. 
-This bar chart shows the results:
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>One day, Postman Patrick recorded the number of houses which received no letters, one letter, two letters, and so on. 
-This bar chart shows the results:
-<emptyline>
-%image%
-</code></pre>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How many houses received just one letter?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>How many houses received just one letter?
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-What was the most common number of letters received?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>What was the most common number of letters received?
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How many houses received fewer than three letters?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>How many houses received fewer than three letters?
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-What fraction of the houses received an odd number of letters?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>What fraction of the houses received an odd number of letters?
-</code></pre>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1F82D6FB-6154-43EC-B6DF-62ACE7EB0421' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1F82D6FB-6154-43EC-B6DF-62ACE7EB0421' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1F82D6FB-6154-43EC-B6DF-62ACE7EB0421' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1F82D6FB-6154-43EC-B6DF-62ACE7EB0421' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1F82D6FB-6154-43EC-B6DF-62ACE7EB0421' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1F82D6FB-6154-43EC-B6DF-62ACE7EB0421' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1F82D6FB-6154-43EC-B6DF-62ACE7EB0421' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1F82D6FB-6154-43EC-B6DF-62ACE7EB0421' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1F82D6FB-6154-43EC-B6DF-62ACE7EB0421' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='1F82D6FB-6154-43EC-B6DF-62ACE7EB0421' id='FORM-1F82D6FB-6154-43EC-B6DF-62ACE7EB0421' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-1F82D6FB-6154-43EC-B6DF-62ACE7EB0421'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>7AB8618E-873A-40B5-8080-F0C32BA0B9F4</p>
 </div>
@@ -3685,13 +528,13 @@ What fraction of the houses received an odd number of letters?
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3755,11 +598,27 @@ What name best describes the shape that you have drawn?
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reviewer: [na] Date:2022-09-08::21:48
+
+
+
+x and y should be within $$
+</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7AB8618E-873A-40B5-8080-F0C32BA0B9F4' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7AB8618E-873A-40B5-8080-F0C32BA0B9F4' onclick='submitReview(event)'>PRPCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7AB8618E-873A-40B5-8080-F0C32BA0B9F4' onclick='submitReview(event)'>PRG</button>
@@ -3774,7 +633,7 @@ What name best describes the shape that you have drawn?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7AB8618E-873A-40B5-8080-F0C32BA0B9F4' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7AB8618E-873A-40B5-8080-F0C32BA0B9F4' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7AB8618E-873A-40B5-8080-F0C32BA0B9F4' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7AB8618E-873A-40B5-8080-F0C32BA0B9F4' onclick='submitReview(event)'>PRR</button>
@@ -3785,9 +644,12 @@ What name best describes the shape that you have drawn?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7AB8618E-873A-40B5-8080-F0C32BA0B9F4' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='7AB8618E-873A-40B5-8080-F0C32BA0B9F4' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='7AB8618E-873A-40B5-8080-F0C32BA0B9F4' id='FORM-7AB8618E-873A-40B5-8080-F0C32BA0B9F4' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7AB8618E-873A-40B5-8080-F0C32BA0B9F4' id='FORM-7AB8618E-873A-40B5-8080-F0C32BA0B9F4' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3799,7 +661,7 @@ What name best describes the shape that you have drawn?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>ED4C081C-6597-4D20-97E3-303B63DD20C5</p>
 </div>
@@ -3807,13 +669,13 @@ What name best describes the shape that you have drawn?
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3885,8 +747,8 @@ Jane is average height for her age. Her height is $\bold{80\ \text{cm}}$. Use th
 
 This formula tells you how tall a boy is likely to be when he grows up.
 
-![missing image](/papers/missing_image.svg)
-
+| Add the mother's and father's heights. Divide by $2$. Add $7 \ \text{cm}$ to the result. The boy is likely to be this height, **plus or minus $10 \ \text{cm}$**. |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 
 Marc's mother is $\bold{168\ \text{cm}}$ tall. His father is $\bold{194\ \text{cm}}$ tall.
 
@@ -3898,7 +760,8 @@ Show your working.
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>This formula tells you how tall a boy is likely to be when he grows up.
 <emptyline>
-%image%
+| Add the mother's and father's heights. Divide by $2$. Add $7 \ \text{cm}$ to the result. The boy is likely to be this height, **plus or minus $10 \ \text{cm}$**. |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 <emptyline>
 Marc's mother is $\bold{168\ \text{cm}}$ tall. His father is $\bold{194\ \text{cm}}$ tall.
 <emptyline>
@@ -3911,11 +774,27 @@ Show your working.
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reviewer: [na] Date:2022-09-08::03:49
+
+
+
+remove \bold and (** **) everywhere
+</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='ED4C081C-6597-4D20-97E3-303B63DD20C5' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='ED4C081C-6597-4D20-97E3-303B63DD20C5' onclick='submitReview(event)'>PRPCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='ED4C081C-6597-4D20-97E3-303B63DD20C5' onclick='submitReview(event)'>PRG</button>
@@ -3930,7 +809,7 @@ Show your working.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='ED4C081C-6597-4D20-97E3-303B63DD20C5' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='ED4C081C-6597-4D20-97E3-303B63DD20C5' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='ED4C081C-6597-4D20-97E3-303B63DD20C5' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='ED4C081C-6597-4D20-97E3-303B63DD20C5' onclick='submitReview(event)'>PRR</button>
@@ -3941,9 +820,12 @@ Show your working.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='ED4C081C-6597-4D20-97E3-303B63DD20C5' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='ED4C081C-6597-4D20-97E3-303B63DD20C5' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='ED4C081C-6597-4D20-97E3-303B63DD20C5' id='FORM-ED4C081C-6597-4D20-97E3-303B63DD20C5' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='ED4C081C-6597-4D20-97E3-303B63DD20C5' id='FORM-ED4C081C-6597-4D20-97E3-303B63DD20C5' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3955,7 +837,7 @@ Show your working.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>F9B2F6C8-EF60-4E71-91EE-1E668DFDA14C</p>
 </div>
@@ -3963,13 +845,13 @@ Show your working.
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3999,7 +881,7 @@ P is the **midpoint** of line AB.
 
 What are the coordinates of point **P**?
 
-P is (....., .....)
+P is ($\ldots$ , $\ldots$ )
 
 </div>
 <div class='questioncodeblock'>
@@ -4009,7 +891,7 @@ P is (....., .....)
 <emptyline>
 What are the coordinates of point **P**?
 <emptyline>
-P is (....., .....)
+P is ($\ldots$ , $\ldots$ )
 </code></pre>
 </div>
 
@@ -4028,9 +910,9 @@ The coordinates of Q are $( 30, 50 )$
 
 What are the c-oordinates of points **M** and **N**? 
 
-M is (....., .....)
+M is ($\ldots$ , $\ldots$ )
 
-N is (....., .....)
+N is ($\ldots$ , $\ldots$ )
 
 </div>
 <div class='questioncodeblock'>
@@ -4042,20 +924,38 @@ The coordinates of Q are $( 30, 50 )$
 <emptyline>
 What are the c-oordinates of points **M** and **N**? 
 <emptyline>
-M is (....., .....)
+M is ($\ldots$ , $\ldots$ )
 <emptyline>
-N is (....., .....)
+N is ($\ldots$ , $\ldots$ )
 </code></pre>
 </div>
 
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reviewer: [na] Date:2022-09-08::03:52
+
+
+
+Remove ** ** around words.
+
+Change $\ldots$ , $\ldots$  ===>  $\ldots, \ldots$
+</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F9B2F6C8-EF60-4E71-91EE-1E668DFDA14C' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F9B2F6C8-EF60-4E71-91EE-1E668DFDA14C' onclick='submitReview(event)'>PRPCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F9B2F6C8-EF60-4E71-91EE-1E668DFDA14C' onclick='submitReview(event)'>PRG</button>
@@ -4070,7 +970,7 @@ N is (....., .....)
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F9B2F6C8-EF60-4E71-91EE-1E668DFDA14C' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F9B2F6C8-EF60-4E71-91EE-1E668DFDA14C' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F9B2F6C8-EF60-4E71-91EE-1E668DFDA14C' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F9B2F6C8-EF60-4E71-91EE-1E668DFDA14C' onclick='submitReview(event)'>PRR</button>
@@ -4081,9 +981,12 @@ N is (....., .....)
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F9B2F6C8-EF60-4E71-91EE-1E668DFDA14C' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='F9B2F6C8-EF60-4E71-91EE-1E668DFDA14C' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='F9B2F6C8-EF60-4E71-91EE-1E668DFDA14C' id='FORM-F9B2F6C8-EF60-4E71-91EE-1E668DFDA14C' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F9B2F6C8-EF60-4E71-91EE-1E668DFDA14C' id='FORM-F9B2F6C8-EF60-4E71-91EE-1E668DFDA14C' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -4095,251 +998,7 @@ N is (....., .....)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>04D4F515-2903-4E39-8006-27D56222DCEA</p>
-</div>
-<div class='papername'>
-<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:13</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Here is a bar chart.
-
-![missing image](/papers/missing_image.svg)
-
-
-The bar for strawberry is missing! Mr Gauss spent $\pounds 15$ on Strawberry ice cream. 
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Here is a bar chart.
-<emptyline>
-%image%
-<emptyline>
-The bar for strawberry is missing! Mr Gauss spent $\pounds 15$ on Strawberry ice cream. 
-</code></pre>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Draw a bar to show how much Mr Gauss spent on Strawberry ice cream.
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Draw a bar to show how much Mr Gauss spent on Strawberry ice cream.
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How much did Mr Gauss spend on Vanilla Ice Cream?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>How much did Mr Gauss spend on Vanilla Ice Cream?
-</code></pre>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='04D4F515-2903-4E39-8006-27D56222DCEA' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='04D4F515-2903-4E39-8006-27D56222DCEA' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='04D4F515-2903-4E39-8006-27D56222DCEA' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='04D4F515-2903-4E39-8006-27D56222DCEA' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='04D4F515-2903-4E39-8006-27D56222DCEA' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='04D4F515-2903-4E39-8006-27D56222DCEA' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='04D4F515-2903-4E39-8006-27D56222DCEA' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='04D4F515-2903-4E39-8006-27D56222DCEA' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='04D4F515-2903-4E39-8006-27D56222DCEA' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='04D4F515-2903-4E39-8006-27D56222DCEA' id='FORM-04D4F515-2903-4E39-8006-27D56222DCEA' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-04D4F515-2903-4E39-8006-27D56222DCEA'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>A17DBD1B-AF36-43CC-9F8D-8BBCF318210D</p>
-</div>
-<div class='papername'>
-<p>colfes-school--11-plus--maths--9999--sample-paper:1:18</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I asked $48$ year $7$ students what their favourite food was.
-
-The results are shown in this pie chart.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>I asked $48$ year $7$ students what their favourite food was.
-<emptyline>
-The results are shown in this pie chart.
-<emptyline>
-%image%
-</code></pre>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How many year $7$s have chips as their favourite food?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>How many year $7$s have chips as their favourite food?
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-What fraction of year $7$s have chocolate as their favourite food?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>What fraction of year $7$s have chocolate as their favourite food?
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Estimate the number of year $7$s who have pizza as their favourite food.
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Estimate the number of year $7$s who have pizza as their favourite food.
-</code></pre>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A17DBD1B-AF36-43CC-9F8D-8BBCF318210D' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A17DBD1B-AF36-43CC-9F8D-8BBCF318210D' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A17DBD1B-AF36-43CC-9F8D-8BBCF318210D' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A17DBD1B-AF36-43CC-9F8D-8BBCF318210D' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A17DBD1B-AF36-43CC-9F8D-8BBCF318210D' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A17DBD1B-AF36-43CC-9F8D-8BBCF318210D' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A17DBD1B-AF36-43CC-9F8D-8BBCF318210D' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A17DBD1B-AF36-43CC-9F8D-8BBCF318210D' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A17DBD1B-AF36-43CC-9F8D-8BBCF318210D' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A17DBD1B-AF36-43CC-9F8D-8BBCF318210D' id='FORM-A17DBD1B-AF36-43CC-9F8D-8BBCF318210D' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-A17DBD1B-AF36-43CC-9F8D-8BBCF318210D'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>F5BAF6A4-6EAB-4502-94EE-2430B7FAF0C8</p>
 </div>
@@ -4347,13 +1006,13 @@ Estimate the number of year $7$s who have pizza as their favourite food.
 <p>colfes-school--11-plus--maths--9999--sample-paper:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4426,11 +1085,27 @@ Reflect the rectangle in the X axis and draw the result on the coordinate grid.
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reviewer: [na] Date:2022-09-08::20:31
+
+
+
+X ==> $x$
+</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F5BAF6A4-6EAB-4502-94EE-2430B7FAF0C8' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F5BAF6A4-6EAB-4502-94EE-2430B7FAF0C8' onclick='submitReview(event)'>PRPCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F5BAF6A4-6EAB-4502-94EE-2430B7FAF0C8' onclick='submitReview(event)'>PRG</button>
@@ -4445,7 +1120,7 @@ Reflect the rectangle in the X axis and draw the result on the coordinate grid.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F5BAF6A4-6EAB-4502-94EE-2430B7FAF0C8' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F5BAF6A4-6EAB-4502-94EE-2430B7FAF0C8' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F5BAF6A4-6EAB-4502-94EE-2430B7FAF0C8' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F5BAF6A4-6EAB-4502-94EE-2430B7FAF0C8' onclick='submitReview(event)'>PRR</button>
@@ -4456,9 +1131,12 @@ Reflect the rectangle in the X axis and draw the result on the coordinate grid.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F5BAF6A4-6EAB-4502-94EE-2430B7FAF0C8' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='F5BAF6A4-6EAB-4502-94EE-2430B7FAF0C8' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='F5BAF6A4-6EAB-4502-94EE-2430B7FAF0C8' id='FORM-F5BAF6A4-6EAB-4502-94EE-2430B7FAF0C8' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F5BAF6A4-6EAB-4502-94EE-2430B7FAF0C8' id='FORM-F5BAF6A4-6EAB-4502-94EE-2430B7FAF0C8' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -4470,136 +1148,7 @@ Reflect the rectangle in the X axis and draw the result on the coordinate grid.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>5CF08C1D-77D1-49A4-8AFA-EA3208B6403E</p>
-</div>
-<div class='papername'>
-<p>csse--11-plus--maths--2015--sample-paper-1:1:6</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$25$ children were asked how many cousins they had.
-
-The results are shown in the bar chart.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>$25$ children were asked how many cousins they had.
-<emptyline>
-The results are shown in the bar chart.
-<emptyline>
-%image%
-</code></pre>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How many children had no cousins?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>How many children had no cousins?
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How many children had more than two cousins?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>How many children had more than two cousins?
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How many cousins did all the children have in total?
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>How many cousins did all the children have in total?
-</code></pre>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5CF08C1D-77D1-49A4-8AFA-EA3208B6403E' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5CF08C1D-77D1-49A4-8AFA-EA3208B6403E' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5CF08C1D-77D1-49A4-8AFA-EA3208B6403E' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5CF08C1D-77D1-49A4-8AFA-EA3208B6403E' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5CF08C1D-77D1-49A4-8AFA-EA3208B6403E' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5CF08C1D-77D1-49A4-8AFA-EA3208B6403E' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5CF08C1D-77D1-49A4-8AFA-EA3208B6403E' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5CF08C1D-77D1-49A4-8AFA-EA3208B6403E' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5CF08C1D-77D1-49A4-8AFA-EA3208B6403E' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='5CF08C1D-77D1-49A4-8AFA-EA3208B6403E' id='FORM-5CF08C1D-77D1-49A4-8AFA-EA3208B6403E' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-5CF08C1D-77D1-49A4-8AFA-EA3208B6403E'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>06CC20E6-3C03-43FB-A718-204EA7FB6AC8</p>
 </div>
@@ -4607,13 +1156,13 @@ How many cousins did all the children have in total?
 <p>csse--11-plus--maths--2015--sample-paper-2:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4634,8 +1183,13 @@ A class carried out a survey on journeys to school.
 
 The table and the bar chart have not been completed.
 
-![missing table](/papers/missing_table.svg)
-
+|    Taxi   |      4      |
+|:---------:|:-----------:|
+|    Walk   |             |
+|           |      15     |
+|    Bike   |      27     |
+|    Car    |      11     |
+| **Total** | $\bold{70}$ |
 
 ![missing image](/papers/missing_image.svg)
 
@@ -4646,7 +1200,13 @@ The table and the bar chart have not been completed.
 <emptyline>
 The table and the bar chart have not been completed.
 <emptyline>
-%table%
+|    Taxi   |      4      |
+|:---------:|:-----------:|
+|    Walk   |             |
+|           |      15     |
+|    Bike   |      27     |
+|    Car    |      11     |
+| **Total** | $\bold{70}$ |
 <emptyline>
 %image%
 </code></pre>
@@ -4730,6 +1290,9 @@ On the bar chart add the missing bar.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='06CC20E6-3C03-43FB-A718-204EA7FB6AC8' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='06CC20E6-3C03-43FB-A718-204EA7FB6AC8' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='06CC20E6-3C03-43FB-A718-204EA7FB6AC8' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -4742,7 +1305,7 @@ On the bar chart add the missing bar.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='06CC20E6-3C03-43FB-A718-204EA7FB6AC8' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='06CC20E6-3C03-43FB-A718-204EA7FB6AC8' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='06CC20E6-3C03-43FB-A718-204EA7FB6AC8' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='06CC20E6-3C03-43FB-A718-204EA7FB6AC8' onclick='submitReview(event)'>PRR</button>
@@ -4753,9 +1316,12 @@ On the bar chart add the missing bar.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='06CC20E6-3C03-43FB-A718-204EA7FB6AC8' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='06CC20E6-3C03-43FB-A718-204EA7FB6AC8' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='06CC20E6-3C03-43FB-A718-204EA7FB6AC8' id='FORM-06CC20E6-3C03-43FB-A718-204EA7FB6AC8' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='06CC20E6-3C03-43FB-A718-204EA7FB6AC8' id='FORM-06CC20E6-3C03-43FB-A718-204EA7FB6AC8' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -4767,7 +1333,7 @@ On the bar chart add the missing bar.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>AB2F2D06-5118-4DAD-8AE1-FA7A2D5E85CB</p>
 </div>
@@ -4775,13 +1341,13 @@ On the bar chart add the missing bar.
 <p>csse--11-plus--maths--2015--sample-paper-2:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4841,6 +1407,9 @@ What is the value of $y$?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AB2F2D06-5118-4DAD-8AE1-FA7A2D5E85CB' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AB2F2D06-5118-4DAD-8AE1-FA7A2D5E85CB' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AB2F2D06-5118-4DAD-8AE1-FA7A2D5E85CB' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -4853,7 +1422,7 @@ What is the value of $y$?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AB2F2D06-5118-4DAD-8AE1-FA7A2D5E85CB' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AB2F2D06-5118-4DAD-8AE1-FA7A2D5E85CB' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AB2F2D06-5118-4DAD-8AE1-FA7A2D5E85CB' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AB2F2D06-5118-4DAD-8AE1-FA7A2D5E85CB' onclick='submitReview(event)'>PRR</button>
@@ -4864,9 +1433,12 @@ What is the value of $y$?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AB2F2D06-5118-4DAD-8AE1-FA7A2D5E85CB' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='AB2F2D06-5118-4DAD-8AE1-FA7A2D5E85CB' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='AB2F2D06-5118-4DAD-8AE1-FA7A2D5E85CB' id='FORM-AB2F2D06-5118-4DAD-8AE1-FA7A2D5E85CB' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AB2F2D06-5118-4DAD-8AE1-FA7A2D5E85CB' id='FORM-AB2F2D06-5118-4DAD-8AE1-FA7A2D5E85CB' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -4878,7 +1450,7 @@ What is the value of $y$?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>50935C99-8760-4047-9849-9D55E3963F4D</p>
 </div>
@@ -4886,13 +1458,13 @@ What is the value of $y$?
 <p>csse--11-plus--maths--2016--sample-paper-3:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4966,6 +1538,9 @@ For how many hours is the tide above $6 \ \text{metres}$?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='50935C99-8760-4047-9849-9D55E3963F4D' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='50935C99-8760-4047-9849-9D55E3963F4D' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='50935C99-8760-4047-9849-9D55E3963F4D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -4978,7 +1553,7 @@ For how many hours is the tide above $6 \ \text{metres}$?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='50935C99-8760-4047-9849-9D55E3963F4D' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='50935C99-8760-4047-9849-9D55E3963F4D' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='50935C99-8760-4047-9849-9D55E3963F4D' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='50935C99-8760-4047-9849-9D55E3963F4D' onclick='submitReview(event)'>PRR</button>
@@ -4989,9 +1564,12 @@ For how many hours is the tide above $6 \ \text{metres}$?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='50935C99-8760-4047-9849-9D55E3963F4D' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='50935C99-8760-4047-9849-9D55E3963F4D' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='50935C99-8760-4047-9849-9D55E3963F4D' id='FORM-50935C99-8760-4047-9849-9D55E3963F4D' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='50935C99-8760-4047-9849-9D55E3963F4D' id='FORM-50935C99-8760-4047-9849-9D55E3963F4D' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

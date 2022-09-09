@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-talgebra-16-g2"
 title: "TopicPaper - Algebra - 16 - G2"
-date: 2022-08-19 16:00:22
+date: 2022-09-09 06:32:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -46,6 +46,9 @@ Neil thinks of a number, he halves it and then subtracts $9$.  If the answer he 
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3ACC56E9-45C3-48B3-BD78-324451DE6879' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3ACC56E9-45C3-48B3-BD78-324451DE6879' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3ACC56E9-45C3-48B3-BD78-324451DE6879' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -58,7 +61,7 @@ Neil thinks of a number, he halves it and then subtracts $9$.  If the answer he 
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3ACC56E9-45C3-48B3-BD78-324451DE6879' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3ACC56E9-45C3-48B3-BD78-324451DE6879' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3ACC56E9-45C3-48B3-BD78-324451DE6879' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3ACC56E9-45C3-48B3-BD78-324451DE6879' onclick='submitReview(event)'>PRR</button>
@@ -69,9 +72,12 @@ Neil thinks of a number, he halves it and then subtracts $9$.  If the answer he 
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3ACC56E9-45C3-48B3-BD78-324451DE6879' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='3ACC56E9-45C3-48B3-BD78-324451DE6879' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='3ACC56E9-45C3-48B3-BD78-324451DE6879' id='FORM-3ACC56E9-45C3-48B3-BD78-324451DE6879' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3ACC56E9-45C3-48B3-BD78-324451DE6879' id='FORM-3ACC56E9-45C3-48B3-BD78-324451DE6879' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -126,6 +132,9 @@ Two shirts and three tops cost $\pounds 29$. Three shirts and one top cost $\pou
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='71FE7449-4F1E-4FA7-AA3E-E13ECDAD6EF7' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='71FE7449-4F1E-4FA7-AA3E-E13ECDAD6EF7' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='71FE7449-4F1E-4FA7-AA3E-E13ECDAD6EF7' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -138,7 +147,7 @@ Two shirts and three tops cost $\pounds 29$. Three shirts and one top cost $\pou
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='71FE7449-4F1E-4FA7-AA3E-E13ECDAD6EF7' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='71FE7449-4F1E-4FA7-AA3E-E13ECDAD6EF7' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='71FE7449-4F1E-4FA7-AA3E-E13ECDAD6EF7' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='71FE7449-4F1E-4FA7-AA3E-E13ECDAD6EF7' onclick='submitReview(event)'>PRR</button>
@@ -149,9 +158,12 @@ Two shirts and three tops cost $\pounds 29$. Three shirts and one top cost $\pou
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='71FE7449-4F1E-4FA7-AA3E-E13ECDAD6EF7' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='71FE7449-4F1E-4FA7-AA3E-E13ECDAD6EF7' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='71FE7449-4F1E-4FA7-AA3E-E13ECDAD6EF7' id='FORM-71FE7449-4F1E-4FA7-AA3E-E13ECDAD6EF7' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='71FE7449-4F1E-4FA7-AA3E-E13ECDAD6EF7' id='FORM-71FE7449-4F1E-4FA7-AA3E-E13ECDAD6EF7' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -229,6 +241,9 @@ What is the smallest number of coloured pencils that Alison could have?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -241,7 +256,7 @@ What is the smallest number of coloured pencils that Alison could have?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='submitReview(event)'>PRR</button>
@@ -252,9 +267,12 @@ What is the smallest number of coloured pencils that Alison could have?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' id='FORM-C862B344-92C5-4BC5-81A4-E798F30F2402' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C862B344-92C5-4BC5-81A4-E798F30F2402' id='FORM-C862B344-92C5-4BC5-81A4-E798F30F2402' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

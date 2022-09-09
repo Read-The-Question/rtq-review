@@ -1,17 +1,17 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-7-pr-prpcr"
 title: "TopicPaper - Algebra - 7 - PR - PRPCR"
-date: 2022-08-19 15:40:39
-questions_count: "6"
+date: 2022-09-09 06:13:00
+questions_count: "1"
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
-<p>D8CD86EC-CEA6-473B-8C9B-8CCE13207DB6</p>
+<p>F6BFC919-78A2-4D42-9BFA-BFC357770BDE</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:16</p>
+<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:42</p>
 </div>
 <div class='rag'>
 <p>Kamu Rohith</p>
@@ -27,57 +27,247 @@ questions_count: "6"
 <li>
 talgebra
 </li>
-<li>
-tmoney
-</li>
 </ul>
 </div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-F6BFC919-78A2-4D42-9BFA-BFC357770BDE'>Initial</p>
 <div class='question question'>
 
-Fazal has $\pounds 2.60$ and Gareth has $\pounds 5.30$. Gareth gives Fazal some $5 \text{p}$ coins. 
-Each boy now has the same amount of money. How many $5 \text{p}$ coins did Gareth give Fazal?
+*ABBR: TODO:: Find the right katex symbol.*
+
+
+On the planet Arithmetica, the natives have a special sort of arithmetic using the symbol $\spadesuit$.
+
+For example, $5 \spadesuit 3$ means double $5$ then subtract $3$.
+
+So,
+
+$
+\begin{aligned} 
+5 \spadesuit 3 &= 2 \times 5 - 3 \\\\
+&= 10 - 3 \\\\
+&=7
+\end{aligned}
+$
+
+</div>
+
+
+
+
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Work out $8 \spadesuit 6$
+
+They also use this symbol twice:
+
+For example $(5 \spadesuit 3) \spadesuit 2 = (2 \times 5 - 3) \spadesuit 2$
+
+$= 7 \spadesuit 2$
+
+$= 2 \times 7 - 2$
+
+$= 14 - 2$
+
+$= 12$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
+$= 8 \spadesuit 6$
 
-Let number of coins $= a$
+$= 8 \times 2 - 6$
 
-money given $= a \times 5\ \text{p}$ 
+$= 16 - 6$
 
-As per the question,
-
-$
-\begin{aligned}
-530 - 5 \times x &= 260 + 5 \times x\\\\
-530 - 5x &= 260 + 5x \\\\
-530 - 260 &= 5x + 5x \\\\
-5x + 5x &= 530 - 260 \\\\
-10x &= 270 \\\\
-x &= \dfrac{270}{10} \\\\
-x &= 27
-\end{aligned}
-$
-
-number of coins = 27
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$= 10$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-27
+$10$
 
 </div>
-<div class='answer placeholder'>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
 
-TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$= 8 \spadesuit 6$
+<emptyline>
+$= 8 \times 2 - 6$
+<emptyline>
+$= 16 - 6$
+<emptyline>
+$= 10$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$10$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Work out $(9 \spadesuit 4)\spadesuit 3$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$= 9 \spadesuit 4$
+
+$= 9 \times 2 - 4$
+
+$= 18 - 4$
+
+$= 14$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$= 9 \spadesuit 4$
+<emptyline>
+$= 9 \times 2 - 4$
+<emptyline>
+$= 18 - 4$
+<emptyline>
+$= 14$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$14$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+If $(6 \spadesuit n) \spadesuit 10 = 8$, what is the number $\text{n}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+$
+\begin{aligned}
+(6 \spadesuit n) \spadesuit 10      &= 8 \\\\
+(6 \times 2 - n) \spadesuit 10      &= 8 \\\\
+(12 - n) \spadesuit 10              &= 8 \\\\
+(12 - n) \times 2 - 10              &= 8 \\\\
+12 \times 2 - n \times 2 - 10       &= 8 \\\\
+24 - 10 - 2n                        &= 8 \\\\
+14 - 2n                             &= 8 \\\\
+14 - 8                              &= 2n \\\\
+2n                                  &= 6 \\\\
+n                                   &= 3
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$
 
 </div>
 </div>
@@ -85,30 +275,20 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-Let number of coins $= a$
-<emptyline>
-money given $= a \times 5\ \text{p}$ 
-<emptyline>
-As per the question,
-<emptyline>
 $
 \begin{aligned}
-530 - 5 \times x &= 260 + 5 \times x\\\\
-530 - 5x &= 260 + 5x \\\\
-530 - 260 &= 5x + 5x \\\\
-5x + 5x &= 530 - 260 \\\\
-10x &= 270 \\\\
-x &= \dfrac{270}{10} \\\\
-x &= 27
-\end{aligned}
+(6 \spadesuit n) \spadesuit 10      &= 8 \\\\
+(6 \times 2 - n) \spadesuit 10      &= 8 \\\\
+(12 - n) \spadesuit 10              &= 8 \\\\
+(12 - n) \times 2 - 10              &= 8 \\\\
+12 \times 2 - n \times 2 - 10       &= 8 \\\\
+24 - 10 - 2n                        &= 8 \\\\
+14 - 2n                             &= 8 \\\\
+14 - 8                              &= 2n \\\\
+2n                                  &= 6 \\\\
+n                                   &= 3
+\end {aligned}
 $
-<emptyline>
-number of coins = 27
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
 </div>
@@ -120,857 +300,14 @@ number of coins = 27
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>27
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$3$
 </code></pre>
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Coding guidelines not followed.
-
-No proper alignment in katex code. 
-
-Also, the answer is wrong. 
-
-Do the question properly.
-
-
-
-*New comment*
-
-Reference: BB2373FF-1D5B-413C-8160-D9BBA4F4E551
-
-
-
-i) First word should be capitalized:
-
-\"money given\" ==> \"Money given\"
-
-\"number of coins\" ==> \"Number of coins\"
-
-
-
-ii) Add \"rtq_abbr_md_unit_note\" before APTQ, like referenced question.
-
-
-
-iii) Change x to a in working.
-
-
-
-iv) Unit conversion not shown, check reference for the format.
-
-
-
-v) Remove extra answers and the working section.
-
-
-
-In case of any doubt, ping me on slack
 </div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D8CD86EC-CEA6-473B-8C9B-8CCE13207DB6' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D8CD86EC-CEA6-473B-8C9B-8CCE13207DB6' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D8CD86EC-CEA6-473B-8C9B-8CCE13207DB6' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D8CD86EC-CEA6-473B-8C9B-8CCE13207DB6' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D8CD86EC-CEA6-473B-8C9B-8CCE13207DB6' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D8CD86EC-CEA6-473B-8C9B-8CCE13207DB6' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D8CD86EC-CEA6-473B-8C9B-8CCE13207DB6' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D8CD86EC-CEA6-473B-8C9B-8CCE13207DB6' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D8CD86EC-CEA6-473B-8C9B-8CCE13207DB6' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='D8CD86EC-CEA6-473B-8C9B-8CCE13207DB6' id='FORM-D8CD86EC-CEA6-473B-8C9B-8CCE13207DB6' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-D8CD86EC-CEA6-473B-8C9B-8CCE13207DB6'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prpcr question'>
-<div class='uuid'>
-<p>D2B5105C-0A3B-4768-864F-67E1F909F533</p>
-</div>
-<div class='papername'>
-<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:16</p>
-</div>
-<div class='rag'>
-<p>Kamu Rohith</p>
-</div>
-<div class='rag'>
-<p>rag_kr_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prpcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Jenn's fish tank was filled half way. She added $9$ gallons of water to the tank and found that it was then $\dfrac{7}{8}$ full. 
-
-How much water can the tank hold altogether?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the water tank hold together $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-\dfrac{7}{8} \times a                                   &= 9 + \dfrac{a}{2} \\\\
-\dfrac{7}{8} \times a - \dfrac{a}{2}                    &= 9 \\\\
-\dfrac{7 \times a}{8} - \dfrac{a \times 4}{2 \times 4}  &= 9 \\\\
-\dfrac{7 \times a}{8} - \dfrac{a \times 4}{2 \times 4}  &= 9 \\\\
-\dfrac{7a}{8} - \dfrac{4a}{8}                           &= 9 \\\\
-\dfrac{3a}{8}                                           &= 9 \\\\
-3a                                                      &= 9 \times 8 \\\\
-3a                                                      &= 72 \\\\
-a                                                       &= \dfrac{72}{3} \\\\
-a                                                       &= 24
-\end{aligned}
-$
-
-water can the tank hold $= 24$  
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-24
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the water tank hold together $= a$
-<emptyline>
-As per the question,
-<emptyline>
-$
-\begin{aligned}
-\dfrac{7}{8} \times a                                   &= 9 + \dfrac{a}{2} \\\\
-\dfrac{7}{8} \times a - \dfrac{a}{2}                    &= 9 \\\\
-\dfrac{7 \times a}{8} - \dfrac{a \times 4}{2 \times 4}  &= 9 \\\\
-\dfrac{7 \times a}{8} - \dfrac{a \times 4}{2 \times 4}  &= 9 \\\\
-\dfrac{7a}{8} - \dfrac{4a}{8}                           &= 9 \\\\
-\dfrac{3a}{8}                                           &= 9 \\\\
-3a                                                      &= 9 \times 8 \\\\
-3a                                                      &= 72 \\\\
-a                                                       &= \dfrac{72}{3} \\\\
-a                                                       &= 24
-\end{aligned}
-$
-<emptyline>
-water can the tank hold $= 24$  
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>24
-</code></pre>
-</div>
-</div>
-
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Last line:
-
-i) Capitalize first word, 
-
-ii) \"can the tank\" ==> \"the tank can\" 
-
-
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D2B5105C-0A3B-4768-864F-67E1F909F533' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D2B5105C-0A3B-4768-864F-67E1F909F533' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D2B5105C-0A3B-4768-864F-67E1F909F533' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D2B5105C-0A3B-4768-864F-67E1F909F533' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D2B5105C-0A3B-4768-864F-67E1F909F533' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D2B5105C-0A3B-4768-864F-67E1F909F533' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D2B5105C-0A3B-4768-864F-67E1F909F533' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D2B5105C-0A3B-4768-864F-67E1F909F533' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D2B5105C-0A3B-4768-864F-67E1F909F533' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='D2B5105C-0A3B-4768-864F-67E1F909F533' id='FORM-D2B5105C-0A3B-4768-864F-67E1F909F533' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-D2B5105C-0A3B-4768-864F-67E1F909F533'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prpcr question'>
-<div class='uuid'>
-<p>BBCD2C22-8E36-4026-91D7-7A505D12588B</p>
-</div>
-<div class='papername'>
-<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:19</p>
-</div>
-<div class='rag'>
-<p>Kamu Rohith</p>
-</div>
-<div class='rag'>
-<p>rag_kr_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prpcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Two girls were on a sponsored walk from Pangbourne to Goring.
-
-One of them gave up $5 \ \text{km}$ after she had passed the half-way check-point.
-
-She was then $10 \ \text{km}$ from Goring.
-
-How far apart are the towns?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-Let the distance between towns $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-a - 10                                          &= \dfrac{a}{2} + 5 \\\\ 
-a - \dfrac{a}{2}                                &= 5 + 10 \\\\ 
-\dfrac{a \times 2}{1 \times 2}  - \dfrac{a}{2}  &= 15 \\\\ 
-\dfrac{2a}{2}  - \dfrac{a}{2}                   &= 15 \\\\ 
-\dfrac{2a - a}{2}                               &= 15 \\\\ 
-\dfrac{a}{2}                                    &= 15 \\\\
-a                                               &= 30
-\end{aligned}
-$
-
-distance between $2$ girls $= 30$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-30
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-Let the distance between towns $= a$
-<emptyline>
-As per the question,
-<emptyline>
-$
-\begin{aligned}
-a - 10                                          &= \dfrac{a}{2} + 5 \\\\ 
-a - \dfrac{a}{2}                                &= 5 + 10 \\\\ 
-\dfrac{a \times 2}{1 \times 2}  - \dfrac{a}{2}  &= 15 \\\\ 
-\dfrac{2a}{2}  - \dfrac{a}{2}                   &= 15 \\\\ 
-\dfrac{2a - a}{2}                               &= 15 \\\\ 
-\dfrac{a}{2}                                    &= 15 \\\\
-a                                               &= 30
-\end{aligned}
-$
-<emptyline>
-distance between $2$ girls $= 30$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>30
-</code></pre>
-</div>
-</div>
-
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Last line:
-
-i) Captialize the first word:
-
-ii) \"girls\" ==> \"town\"
-
-
-
-\"distance between 2 girls\" ==> \"Distance between two towns\"
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='BBCD2C22-8E36-4026-91D7-7A505D12588B' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='BBCD2C22-8E36-4026-91D7-7A505D12588B' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='BBCD2C22-8E36-4026-91D7-7A505D12588B' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='BBCD2C22-8E36-4026-91D7-7A505D12588B' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='BBCD2C22-8E36-4026-91D7-7A505D12588B' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='BBCD2C22-8E36-4026-91D7-7A505D12588B' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='BBCD2C22-8E36-4026-91D7-7A505D12588B' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='BBCD2C22-8E36-4026-91D7-7A505D12588B' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='BBCD2C22-8E36-4026-91D7-7A505D12588B' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='BBCD2C22-8E36-4026-91D7-7A505D12588B' id='FORM-BBCD2C22-8E36-4026-91D7-7A505D12588B' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-BBCD2C22-8E36-4026-91D7-7A505D12588B'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prpcr question'>
-<div class='uuid'>
-<p>103E8B78-355F-4A7A-8DC9-7F421908B991</p>
-</div>
-<div class='papername'>
-<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:25</p>
-</div>
-<div class='rag'>
-<p>Kamu Rohith</p>
-</div>
-<div class='rag'>
-<p>rag_kr_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prpcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A boy ate $100$ cookies in $\text{five}$ days. Each day he ate $6$ more then the day before. How many cookies did he eat on the first day?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the cookies ate on first day $= a$
-
-As per the question
-
-$
-\begin{aligned}
-a + 4 \times 6  &= 100 \\\\
-a + 24          &= 100 \\\\
-a               &= 100 - 24 \\\\
-a               &= 76
-\end{aligned}
-$
-
-cookies he ate on first day $= 76$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-76
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the cookies ate on first day $= a$
-<emptyline>
-As per the question
-<emptyline>
-$
-\begin{aligned}
-a + 4 \times 6  &= 100 \\\\
-a + 24          &= 100 \\\\
-a               &= 100 - 24 \\\\
-a               &= 76
-\end{aligned}
-$
-<emptyline>
-cookies he ate on first day $= 76$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>76
-</code></pre>
-</div>
-</div>
-
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Capitalize first word in last line
-
-\"cookies he ate....\" ==> \"Cookies he ate....\"
-
-
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='103E8B78-355F-4A7A-8DC9-7F421908B991' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='103E8B78-355F-4A7A-8DC9-7F421908B991' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='103E8B78-355F-4A7A-8DC9-7F421908B991' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='103E8B78-355F-4A7A-8DC9-7F421908B991' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='103E8B78-355F-4A7A-8DC9-7F421908B991' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='103E8B78-355F-4A7A-8DC9-7F421908B991' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='103E8B78-355F-4A7A-8DC9-7F421908B991' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='103E8B78-355F-4A7A-8DC9-7F421908B991' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='103E8B78-355F-4A7A-8DC9-7F421908B991' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='103E8B78-355F-4A7A-8DC9-7F421908B991' id='FORM-103E8B78-355F-4A7A-8DC9-7F421908B991' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-103E8B78-355F-4A7A-8DC9-7F421908B991'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prpcr question'>
-<div class='uuid'>
-<p>B5302994-EC09-45D9-8366-DECBAB0E73A2</p>
-</div>
-<div class='papername'>
-<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:35</p>
-</div>
-<div class='rag'>
-<p>Kamu Rohith</p>
-</div>
-<div class='rag'>
-<p>rag_kr_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prpcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-It takes two decorators $8$ days to paint a house.
-
-One is lazy and one is energetic.
-
-The energetic one could paint the house in $12$ days on his own.
-
-How many days would it take the lazy one to paint the house on his own?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-Let time taken by lazy person $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-\dfrac{1}{8}  &= \dfrac{1}{12} + \dfrac{1}{x}  \\\\
-\dfrac{1}{8} &= \dfrac{x + 12}{12 \times x} \\\\
-12 \times x &= 8 \times x + 96 \\\\
-4 \times x &= 96 \\\\
-x &= \dfrac{96}{4} \\\\
-x &= \dfrac{4 \times 24}{4} \\\\
-x &= \dfrac{\cancel 4 \times 24}{\cancel 4} \\\\
-x &= 24\ \text{days}
-\end{aligned}
-$
-
-time taken by lazy person to paint a house $= 24$ days
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$24$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-Let time taken by lazy person $= a$
-<emptyline>
-As per the question,
-<emptyline>
-$
-\begin{aligned}
-\dfrac{1}{8}  &= \dfrac{1}{12} + \dfrac{1}{x}  \\\\
-\dfrac{1}{8} &= \dfrac{x + 12}{12 \times x} \\\\
-12 \times x &= 8 \times x + 96 \\\\
-4 \times x &= 96 \\\\
-x &= \dfrac{96}{4} \\\\
-x &= \dfrac{4 \times 24}{4} \\\\
-x &= \dfrac{\cancel 4 \times 24}{\cancel 4} \\\\
-x &= 24\ \text{days}
-\end{aligned}
-$
-<emptyline>
-time taken by lazy person to paint a house $= 24$ days
-<emptyline>
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$24$
-</code></pre>
-</div>
-</div>
-
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Coding guidelines not followed.
-
-Capitalize first word.
-
-APTQ, (missing)
-
-write equation properly.
-
-
-
-i) Change x to a in working.
-
-
-
-ii) Capitalize first word in last line:
-
-\"time taken..\" ==> \"Time taken...\"
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='B5302994-EC09-45D9-8366-DECBAB0E73A2' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='B5302994-EC09-45D9-8366-DECBAB0E73A2' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='B5302994-EC09-45D9-8366-DECBAB0E73A2' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='B5302994-EC09-45D9-8366-DECBAB0E73A2' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='B5302994-EC09-45D9-8366-DECBAB0E73A2' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='B5302994-EC09-45D9-8366-DECBAB0E73A2' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='B5302994-EC09-45D9-8366-DECBAB0E73A2' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='B5302994-EC09-45D9-8366-DECBAB0E73A2' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='B5302994-EC09-45D9-8366-DECBAB0E73A2' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B5302994-EC09-45D9-8366-DECBAB0E73A2' id='FORM-B5302994-EC09-45D9-8366-DECBAB0E73A2' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-B5302994-EC09-45D9-8366-DECBAB0E73A2'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prpcr question'>
-<div class='uuid'>
-<p>500FFE5A-6753-4E58-8436-313774F3E51C</p>
-</div>
-<div class='papername'>
-<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:37</p>
-</div>
-<div class='rag'>
-<p>Kamu Rohith</p>
-</div>
-<div class='rag'>
-<p>rag_kr_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prpcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Three ducks and two ducklings weigh $32 \ \text{kg}$. Four ducks and three ducklings weigh $44 \ \text{kg}$. All ducks weigh the same as each other and all ducklings weigh the same as each other.
-
-What is the weight of two ducks and one duckling?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the weight of the duck $= a$
-
-Let the weight of the duckling $= b$
-
-As per the question,
-
-$
-\begin{aligned}
-2a + 2b           &= 32 \\\\
-4a + 3b           &= 44 \\\\
-\text{subtract the above two equations} \\\\
-4a + 3b - 2a - 2b &= 44 - 32 \\\\
-2a + 1b           &= 12 \text{kg}
-\end{aligned}
-$
-
-weight of two ducks and one duckling $= 12$ kg
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-12
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the weight of the duck $= a$
-<emptyline>
-Let the weight of the duckling $= b$
-<emptyline>
-As per the question,
-<emptyline>
-$
-\begin{aligned}
-2a + 2b           &= 32 \\\\
-4a + 3b           &= 44 \\\\
-\text{subtract the above two equations} \\\\
-4a + 3b - 2a - 2b &= 44 - 32 \\\\
-2a + 1b           &= 12 \text{kg}
-\end{aligned}
-$
-<emptyline>
-weight of two ducks and one duckling $= 12$ kg
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>12
-</code></pre>
-</div>
-</div>
-
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
@@ -982,58 +319,58 @@ Question not solved. Solve it!!
 
 
 
-Reference:1622DD6F-538D-47B0-8E04-EE946A7719E6
+Part b) wrong answer, solve again.
 
 
 
-Not per the coding guidelines. (Capitalize first word only etc.)
-
-Right format is not followed. Check referenced question and make all the necessary changes.
-
-
-
-
+Part b) wrong answer, solve again.
 </div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='500FFE5A-6753-4E58-8436-313774F3E51C' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='500FFE5A-6753-4E58-8436-313774F3E51C' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='submitReview(event)'>PRPCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='500FFE5A-6753-4E58-8436-313774F3E51C' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='500FFE5A-6753-4E58-8436-313774F3E51C' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='500FFE5A-6753-4E58-8436-313774F3E51C' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='500FFE5A-6753-4E58-8436-313774F3E51C' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='500FFE5A-6753-4E58-8436-313774F3E51C' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='500FFE5A-6753-4E58-8436-313774F3E51C' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='500FFE5A-6753-4E58-8436-313774F3E51C' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onclick='resetComment(event)'>Reset Comments</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='500FFE5A-6753-4E58-8436-313774F3E51C' id='FORM-500FFE5A-6753-4E58-8436-313774F3E51C' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='F6BFC919-78A2-4D42-9BFA-BFC357770BDE' id='FORM-F6BFC919-78A2-4D42-9BFA-BFC357770BDE' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
 <input type='reset' value='Reset'>
 </form>
 
-<p class='review_status initial' id='REVIEW-STATUS-500FFE5A-6753-4E58-8436-313774F3E51C'>Initial</p>
+<p class='review_status initial' id='REVIEW-STATUS-F6BFC919-78A2-4D42-9BFA-BFC357770BDE'>Initial</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tdirection-1-pr"
 title: "TopicPaper - Direction - 1 - PR"
-date: 2022-08-19 16:00:22
+date: 2022-09-09 06:32:25
 questions_count: "13"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "13"
 <p>bancrofts-school--11-plus--maths--2017--sample-paper-3:1:30</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -106,6 +106,9 @@ Which number does it point to after turning through $10 \dfrac{1}{4}$ whole turn
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C87FC561-9D4C-498D-A61C-47C145D25056' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C87FC561-9D4C-498D-A61C-47C145D25056' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C87FC561-9D4C-498D-A61C-47C145D25056' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -118,7 +121,7 @@ Which number does it point to after turning through $10 \dfrac{1}{4}$ whole turn
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C87FC561-9D4C-498D-A61C-47C145D25056' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C87FC561-9D4C-498D-A61C-47C145D25056' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C87FC561-9D4C-498D-A61C-47C145D25056' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C87FC561-9D4C-498D-A61C-47C145D25056' onclick='submitReview(event)'>PRR</button>
@@ -129,9 +132,12 @@ Which number does it point to after turning through $10 \dfrac{1}{4}$ whole turn
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C87FC561-9D4C-498D-A61C-47C145D25056' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='C87FC561-9D4C-498D-A61C-47C145D25056' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='C87FC561-9D4C-498D-A61C-47C145D25056' id='FORM-C87FC561-9D4C-498D-A61C-47C145D25056' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C87FC561-9D4C-498D-A61C-47C145D25056' id='FORM-C87FC561-9D4C-498D-A61C-47C145D25056' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -151,10 +157,10 @@ Which number does it point to after turning through $10 \dfrac{1}{4}$ whole turn
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -187,6 +193,9 @@ In which direction will he be facing if he turns clockwise through $3$ right ang
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2435DACD-2A4E-4356-9B51-B7EB491D9F2D' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2435DACD-2A4E-4356-9B51-B7EB491D9F2D' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2435DACD-2A4E-4356-9B51-B7EB491D9F2D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -199,7 +208,7 @@ In which direction will he be facing if he turns clockwise through $3$ right ang
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2435DACD-2A4E-4356-9B51-B7EB491D9F2D' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2435DACD-2A4E-4356-9B51-B7EB491D9F2D' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2435DACD-2A4E-4356-9B51-B7EB491D9F2D' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2435DACD-2A4E-4356-9B51-B7EB491D9F2D' onclick='submitReview(event)'>PRR</button>
@@ -210,9 +219,12 @@ In which direction will he be facing if he turns clockwise through $3$ right ang
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2435DACD-2A4E-4356-9B51-B7EB491D9F2D' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='2435DACD-2A4E-4356-9B51-B7EB491D9F2D' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='2435DACD-2A4E-4356-9B51-B7EB491D9F2D' id='FORM-2435DACD-2A4E-4356-9B51-B7EB491D9F2D' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2435DACD-2A4E-4356-9B51-B7EB491D9F2D' id='FORM-2435DACD-2A4E-4356-9B51-B7EB491D9F2D' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -224,7 +236,7 @@ In which direction will he be facing if he turns clockwise through $3$ right ang
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <div class='uuid'>
 <p>4FFD94B0-D235-4853-A1FD-75046B63791D</p>
 </div>
@@ -232,13 +244,13 @@ In which direction will he be facing if he turns clockwise through $3$ right ang
 <p>bancrofts-school--11-plus--maths--2020--sample-paper-6:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prpcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -268,6 +280,9 @@ In which direction will he be facing if he turns clockwise through $3$ right ang
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4FFD94B0-D235-4853-A1FD-75046B63791D' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4FFD94B0-D235-4853-A1FD-75046B63791D' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4FFD94B0-D235-4853-A1FD-75046B63791D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -280,7 +295,7 @@ In which direction will he be facing if he turns clockwise through $3$ right ang
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4FFD94B0-D235-4853-A1FD-75046B63791D' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4FFD94B0-D235-4853-A1FD-75046B63791D' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4FFD94B0-D235-4853-A1FD-75046B63791D' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4FFD94B0-D235-4853-A1FD-75046B63791D' onclick='submitReview(event)'>PRR</button>
@@ -291,9 +306,12 @@ In which direction will he be facing if he turns clockwise through $3$ right ang
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4FFD94B0-D235-4853-A1FD-75046B63791D' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='4FFD94B0-D235-4853-A1FD-75046B63791D' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='4FFD94B0-D235-4853-A1FD-75046B63791D' id='FORM-4FFD94B0-D235-4853-A1FD-75046B63791D' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4FFD94B0-D235-4853-A1FD-75046B63791D' id='FORM-4FFD94B0-D235-4853-A1FD-75046B63791D' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -313,10 +331,10 @@ In which direction will he be facing if he turns clockwise through $3$ right ang
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:30</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -345,6 +363,9 @@ State a compass direction that is perpendicular to South West.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1AFD9867-078C-4827-909E-806BE2644291' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1AFD9867-078C-4827-909E-806BE2644291' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1AFD9867-078C-4827-909E-806BE2644291' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -357,7 +378,7 @@ State a compass direction that is perpendicular to South West.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1AFD9867-078C-4827-909E-806BE2644291' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1AFD9867-078C-4827-909E-806BE2644291' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1AFD9867-078C-4827-909E-806BE2644291' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1AFD9867-078C-4827-909E-806BE2644291' onclick='submitReview(event)'>PRR</button>
@@ -368,9 +389,12 @@ State a compass direction that is perpendicular to South West.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1AFD9867-078C-4827-909E-806BE2644291' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='1AFD9867-078C-4827-909E-806BE2644291' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='1AFD9867-078C-4827-909E-806BE2644291' id='FORM-1AFD9867-078C-4827-909E-806BE2644291' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1AFD9867-078C-4827-909E-806BE2644291' id='FORM-1AFD9867-078C-4827-909E-806BE2644291' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -390,10 +414,10 @@ State a compass direction that is perpendicular to South West.
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -422,6 +446,9 @@ If you are facing South, what is the smaller angle you have to turn through to f
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6EA0765F-F469-4E4F-B913-8FD6A3AD3900' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6EA0765F-F469-4E4F-B913-8FD6A3AD3900' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6EA0765F-F469-4E4F-B913-8FD6A3AD3900' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -434,7 +461,7 @@ If you are facing South, what is the smaller angle you have to turn through to f
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6EA0765F-F469-4E4F-B913-8FD6A3AD3900' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6EA0765F-F469-4E4F-B913-8FD6A3AD3900' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6EA0765F-F469-4E4F-B913-8FD6A3AD3900' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6EA0765F-F469-4E4F-B913-8FD6A3AD3900' onclick='submitReview(event)'>PRR</button>
@@ -445,9 +472,12 @@ If you are facing South, what is the smaller angle you have to turn through to f
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6EA0765F-F469-4E4F-B913-8FD6A3AD3900' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='6EA0765F-F469-4E4F-B913-8FD6A3AD3900' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='6EA0765F-F469-4E4F-B913-8FD6A3AD3900' id='FORM-6EA0765F-F469-4E4F-B913-8FD6A3AD3900' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6EA0765F-F469-4E4F-B913-8FD6A3AD3900' id='FORM-6EA0765F-F469-4E4F-B913-8FD6A3AD3900' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -467,10 +497,10 @@ If you are facing South, what is the smaller angle you have to turn through to f
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -506,6 +536,9 @@ W for West, name the eight points on this compass. North (N) has been marked for
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CA23C5E2-91FF-48FD-B71E-7EF3D48082C5' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CA23C5E2-91FF-48FD-B71E-7EF3D48082C5' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CA23C5E2-91FF-48FD-B71E-7EF3D48082C5' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -518,7 +551,7 @@ W for West, name the eight points on this compass. North (N) has been marked for
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CA23C5E2-91FF-48FD-B71E-7EF3D48082C5' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CA23C5E2-91FF-48FD-B71E-7EF3D48082C5' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CA23C5E2-91FF-48FD-B71E-7EF3D48082C5' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CA23C5E2-91FF-48FD-B71E-7EF3D48082C5' onclick='submitReview(event)'>PRR</button>
@@ -529,9 +562,12 @@ W for West, name the eight points on this compass. North (N) has been marked for
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CA23C5E2-91FF-48FD-B71E-7EF3D48082C5' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='CA23C5E2-91FF-48FD-B71E-7EF3D48082C5' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='CA23C5E2-91FF-48FD-B71E-7EF3D48082C5' id='FORM-CA23C5E2-91FF-48FD-B71E-7EF3D48082C5' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CA23C5E2-91FF-48FD-B71E-7EF3D48082C5' id='FORM-CA23C5E2-91FF-48FD-B71E-7EF3D48082C5' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -551,10 +587,10 @@ W for West, name the eight points on this compass. North (N) has been marked for
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -592,6 +628,9 @@ Imagine you are facing North East. If you turn through $135 \degree$ clockwise, 
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EEAB5168-31BA-48D5-BCC1-246B7057116F' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EEAB5168-31BA-48D5-BCC1-246B7057116F' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EEAB5168-31BA-48D5-BCC1-246B7057116F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -604,7 +643,7 @@ Imagine you are facing North East. If you turn through $135 \degree$ clockwise, 
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EEAB5168-31BA-48D5-BCC1-246B7057116F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EEAB5168-31BA-48D5-BCC1-246B7057116F' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EEAB5168-31BA-48D5-BCC1-246B7057116F' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EEAB5168-31BA-48D5-BCC1-246B7057116F' onclick='submitReview(event)'>PRR</button>
@@ -615,9 +654,12 @@ Imagine you are facing North East. If you turn through $135 \degree$ clockwise, 
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EEAB5168-31BA-48D5-BCC1-246B7057116F' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='EEAB5168-31BA-48D5-BCC1-246B7057116F' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='EEAB5168-31BA-48D5-BCC1-246B7057116F' id='FORM-EEAB5168-31BA-48D5-BCC1-246B7057116F' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EEAB5168-31BA-48D5-BCC1-246B7057116F' id='FORM-EEAB5168-31BA-48D5-BCC1-246B7057116F' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -637,10 +679,10 @@ Imagine you are facing North East. If you turn through $135 \degree$ clockwise, 
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -678,6 +720,9 @@ Imagine you are facing South East. If you turn through $270^o$ clockwise, which 
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='070527C3-6A11-424D-AEFC-59BB8CAE2D1A' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='070527C3-6A11-424D-AEFC-59BB8CAE2D1A' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='070527C3-6A11-424D-AEFC-59BB8CAE2D1A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -690,7 +735,7 @@ Imagine you are facing South East. If you turn through $270^o$ clockwise, which 
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='070527C3-6A11-424D-AEFC-59BB8CAE2D1A' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='070527C3-6A11-424D-AEFC-59BB8CAE2D1A' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='070527C3-6A11-424D-AEFC-59BB8CAE2D1A' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='070527C3-6A11-424D-AEFC-59BB8CAE2D1A' onclick='submitReview(event)'>PRR</button>
@@ -701,9 +746,12 @@ Imagine you are facing South East. If you turn through $270^o$ clockwise, which 
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='070527C3-6A11-424D-AEFC-59BB8CAE2D1A' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='070527C3-6A11-424D-AEFC-59BB8CAE2D1A' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='070527C3-6A11-424D-AEFC-59BB8CAE2D1A' id='FORM-070527C3-6A11-424D-AEFC-59BB8CAE2D1A' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='070527C3-6A11-424D-AEFC-59BB8CAE2D1A' id='FORM-070527C3-6A11-424D-AEFC-59BB8CAE2D1A' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -723,10 +771,10 @@ Imagine you are facing South East. If you turn through $270^o$ clockwise, which 
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -764,6 +812,9 @@ Imagine you are facing west. If you turn through $270^o$ anticlockwise, which wa
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='260A6D88-AF7C-4DE1-8891-04DDBADA221E' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='260A6D88-AF7C-4DE1-8891-04DDBADA221E' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='260A6D88-AF7C-4DE1-8891-04DDBADA221E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -776,7 +827,7 @@ Imagine you are facing west. If you turn through $270^o$ anticlockwise, which wa
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='260A6D88-AF7C-4DE1-8891-04DDBADA221E' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='260A6D88-AF7C-4DE1-8891-04DDBADA221E' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='260A6D88-AF7C-4DE1-8891-04DDBADA221E' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='260A6D88-AF7C-4DE1-8891-04DDBADA221E' onclick='submitReview(event)'>PRR</button>
@@ -787,9 +838,12 @@ Imagine you are facing west. If you turn through $270^o$ anticlockwise, which wa
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='260A6D88-AF7C-4DE1-8891-04DDBADA221E' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='260A6D88-AF7C-4DE1-8891-04DDBADA221E' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='260A6D88-AF7C-4DE1-8891-04DDBADA221E' id='FORM-260A6D88-AF7C-4DE1-8891-04DDBADA221E' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='260A6D88-AF7C-4DE1-8891-04DDBADA221E' id='FORM-260A6D88-AF7C-4DE1-8891-04DDBADA221E' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -809,10 +863,10 @@ Imagine you are facing west. If you turn through $270^o$ anticlockwise, which wa
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -847,6 +901,9 @@ in which direction should I turn and what should the angle be?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7FCDB203-C6E3-4ED5-81C0-0160CF3A63CF' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7FCDB203-C6E3-4ED5-81C0-0160CF3A63CF' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7FCDB203-C6E3-4ED5-81C0-0160CF3A63CF' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -859,7 +916,7 @@ in which direction should I turn and what should the angle be?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7FCDB203-C6E3-4ED5-81C0-0160CF3A63CF' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7FCDB203-C6E3-4ED5-81C0-0160CF3A63CF' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7FCDB203-C6E3-4ED5-81C0-0160CF3A63CF' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7FCDB203-C6E3-4ED5-81C0-0160CF3A63CF' onclick='submitReview(event)'>PRR</button>
@@ -870,9 +927,12 @@ in which direction should I turn and what should the angle be?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7FCDB203-C6E3-4ED5-81C0-0160CF3A63CF' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='7FCDB203-C6E3-4ED5-81C0-0160CF3A63CF' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='7FCDB203-C6E3-4ED5-81C0-0160CF3A63CF' id='FORM-7FCDB203-C6E3-4ED5-81C0-0160CF3A63CF' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7FCDB203-C6E3-4ED5-81C0-0160CF3A63CF' id='FORM-7FCDB203-C6E3-4ED5-81C0-0160CF3A63CF' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -892,10 +952,10 @@ in which direction should I turn and what should the angle be?
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -927,6 +987,9 @@ If I face West and turn $270 \ \text{degrees}$ clockwise, in which direction am 
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3EDB2A44-4631-4836-84B5-D2C4601E4863' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3EDB2A44-4631-4836-84B5-D2C4601E4863' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3EDB2A44-4631-4836-84B5-D2C4601E4863' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -939,7 +1002,7 @@ If I face West and turn $270 \ \text{degrees}$ clockwise, in which direction am 
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3EDB2A44-4631-4836-84B5-D2C4601E4863' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3EDB2A44-4631-4836-84B5-D2C4601E4863' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3EDB2A44-4631-4836-84B5-D2C4601E4863' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3EDB2A44-4631-4836-84B5-D2C4601E4863' onclick='submitReview(event)'>PRR</button>
@@ -950,9 +1013,12 @@ If I face West and turn $270 \ \text{degrees}$ clockwise, in which direction am 
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3EDB2A44-4631-4836-84B5-D2C4601E4863' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='3EDB2A44-4631-4836-84B5-D2C4601E4863' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='3EDB2A44-4631-4836-84B5-D2C4601E4863' id='FORM-3EDB2A44-4631-4836-84B5-D2C4601E4863' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3EDB2A44-4631-4836-84B5-D2C4601E4863' id='FORM-3EDB2A44-4631-4836-84B5-D2C4601E4863' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -972,10 +1038,10 @@ If I face West and turn $270 \ \text{degrees}$ clockwise, in which direction am 
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:27</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1066,6 +1132,9 @@ Sandra is facing N and turns clockwise through $495 \degree$. In which direction
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C63BD524-E11C-4F90-BC65-BC6E01C4AB5D' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C63BD524-E11C-4F90-BC65-BC6E01C4AB5D' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C63BD524-E11C-4F90-BC65-BC6E01C4AB5D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1078,7 +1147,7 @@ Sandra is facing N and turns clockwise through $495 \degree$. In which direction
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C63BD524-E11C-4F90-BC65-BC6E01C4AB5D' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C63BD524-E11C-4F90-BC65-BC6E01C4AB5D' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C63BD524-E11C-4F90-BC65-BC6E01C4AB5D' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C63BD524-E11C-4F90-BC65-BC6E01C4AB5D' onclick='submitReview(event)'>PRR</button>
@@ -1089,9 +1158,12 @@ Sandra is facing N and turns clockwise through $495 \degree$. In which direction
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C63BD524-E11C-4F90-BC65-BC6E01C4AB5D' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='C63BD524-E11C-4F90-BC65-BC6E01C4AB5D' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='C63BD524-E11C-4F90-BC65-BC6E01C4AB5D' id='FORM-C63BD524-E11C-4F90-BC65-BC6E01C4AB5D' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C63BD524-E11C-4F90-BC65-BC6E01C4AB5D' id='FORM-C63BD524-E11C-4F90-BC65-BC6E01C4AB5D' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1111,10 +1183,10 @@ Sandra is facing N and turns clockwise through $495 \degree$. In which direction
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:36</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1191,6 +1263,9 @@ Bertie then flies from $C$ back to $A$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='78D2E211-B587-4FE4-BA0D-63ACD98B73FF' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='78D2E211-B587-4FE4-BA0D-63ACD98B73FF' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='78D2E211-B587-4FE4-BA0D-63ACD98B73FF' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1203,7 +1278,7 @@ Bertie then flies from $C$ back to $A$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='78D2E211-B587-4FE4-BA0D-63ACD98B73FF' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='78D2E211-B587-4FE4-BA0D-63ACD98B73FF' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='78D2E211-B587-4FE4-BA0D-63ACD98B73FF' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='78D2E211-B587-4FE4-BA0D-63ACD98B73FF' onclick='submitReview(event)'>PRR</button>
@@ -1214,9 +1289,12 @@ Bertie then flies from $C$ back to $A$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='78D2E211-B587-4FE4-BA0D-63ACD98B73FF' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='78D2E211-B587-4FE4-BA0D-63ACD98B73FF' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='78D2E211-B587-4FE4-BA0D-63ACD98B73FF' id='FORM-78D2E211-B587-4FE4-BA0D-63ACD98B73FF' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='78D2E211-B587-4FE4-BA0D-63ACD98B73FF' id='FORM-78D2E211-B587-4FE4-BA0D-63ACD98B73FF' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

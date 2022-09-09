@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tsequence-6-g2"
 title: "TopicPaper - Sequence - 6 - G2"
-date: 2022-08-19 16:00:22
+date: 2022-09-09 06:32:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -46,6 +46,9 @@ In the sequence of numbers $2, 3, 5, 8, 12, \ldots$, what is the first **three d
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='FF6E72A7-F3CD-473B-B807-49A3B1525D81' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='FF6E72A7-F3CD-473B-B807-49A3B1525D81' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='FF6E72A7-F3CD-473B-B807-49A3B1525D81' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -58,7 +61,7 @@ In the sequence of numbers $2, 3, 5, 8, 12, \ldots$, what is the first **three d
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='FF6E72A7-F3CD-473B-B807-49A3B1525D81' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='FF6E72A7-F3CD-473B-B807-49A3B1525D81' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='FF6E72A7-F3CD-473B-B807-49A3B1525D81' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='FF6E72A7-F3CD-473B-B807-49A3B1525D81' onclick='submitReview(event)'>PRR</button>
@@ -69,9 +72,12 @@ In the sequence of numbers $2, 3, 5, 8, 12, \ldots$, what is the first **three d
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='FF6E72A7-F3CD-473B-B807-49A3B1525D81' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='FF6E72A7-F3CD-473B-B807-49A3B1525D81' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='FF6E72A7-F3CD-473B-B807-49A3B1525D81' id='FORM-FF6E72A7-F3CD-473B-B807-49A3B1525D81' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='FF6E72A7-F3CD-473B-B807-49A3B1525D81' id='FORM-FF6E72A7-F3CD-473B-B807-49A3B1525D81' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tsymmetry-3"
 title: "TopicPaper - Symmetry - 3"
-date: 2022-08-19 16:00:22
+date: 2022-09-09 06:32:25
 questions_count: "8"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "8"
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:23</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -64,6 +64,9 @@ Draw all of the lines of symmetry on each shape below.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='130546B4-3179-47F7-BB98-73C40D8471B6' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='130546B4-3179-47F7-BB98-73C40D8471B6' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='130546B4-3179-47F7-BB98-73C40D8471B6' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -76,7 +79,7 @@ Draw all of the lines of symmetry on each shape below.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='130546B4-3179-47F7-BB98-73C40D8471B6' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='130546B4-3179-47F7-BB98-73C40D8471B6' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='130546B4-3179-47F7-BB98-73C40D8471B6' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='130546B4-3179-47F7-BB98-73C40D8471B6' onclick='submitReview(event)'>PRR</button>
@@ -87,9 +90,12 @@ Draw all of the lines of symmetry on each shape below.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='130546B4-3179-47F7-BB98-73C40D8471B6' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='130546B4-3179-47F7-BB98-73C40D8471B6' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='130546B4-3179-47F7-BB98-73C40D8471B6' id='FORM-130546B4-3179-47F7-BB98-73C40D8471B6' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='130546B4-3179-47F7-BB98-73C40D8471B6' id='FORM-130546B4-3179-47F7-BB98-73C40D8471B6' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -109,10 +115,10 @@ Draw all of the lines of symmetry on each shape below.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:28</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -146,6 +152,9 @@ Reflect the shaded shape in the mirror line.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='91AFF35D-3A45-4A33-8ABE-8546C43B8144' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='91AFF35D-3A45-4A33-8ABE-8546C43B8144' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='91AFF35D-3A45-4A33-8ABE-8546C43B8144' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -158,7 +167,7 @@ Reflect the shaded shape in the mirror line.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='91AFF35D-3A45-4A33-8ABE-8546C43B8144' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='91AFF35D-3A45-4A33-8ABE-8546C43B8144' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='91AFF35D-3A45-4A33-8ABE-8546C43B8144' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='91AFF35D-3A45-4A33-8ABE-8546C43B8144' onclick='submitReview(event)'>PRR</button>
@@ -169,9 +178,12 @@ Reflect the shaded shape in the mirror line.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='91AFF35D-3A45-4A33-8ABE-8546C43B8144' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='91AFF35D-3A45-4A33-8ABE-8546C43B8144' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='91AFF35D-3A45-4A33-8ABE-8546C43B8144' id='FORM-91AFF35D-3A45-4A33-8ABE-8546C43B8144' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='91AFF35D-3A45-4A33-8ABE-8546C43B8144' id='FORM-91AFF35D-3A45-4A33-8ABE-8546C43B8144' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -191,10 +203,10 @@ Reflect the shaded shape in the mirror line.
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -248,6 +260,9 @@ Draw in all the axes of symmetry in these shapes. If any shape has no axes of sy
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0F83B378-870A-46A5-BBA2-DB87BF64CCC4' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0F83B378-870A-46A5-BBA2-DB87BF64CCC4' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0F83B378-870A-46A5-BBA2-DB87BF64CCC4' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -260,7 +275,7 @@ Draw in all the axes of symmetry in these shapes. If any shape has no axes of sy
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0F83B378-870A-46A5-BBA2-DB87BF64CCC4' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0F83B378-870A-46A5-BBA2-DB87BF64CCC4' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0F83B378-870A-46A5-BBA2-DB87BF64CCC4' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0F83B378-870A-46A5-BBA2-DB87BF64CCC4' onclick='submitReview(event)'>PRR</button>
@@ -271,9 +286,12 @@ Draw in all the axes of symmetry in these shapes. If any shape has no axes of sy
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0F83B378-870A-46A5-BBA2-DB87BF64CCC4' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='0F83B378-870A-46A5-BBA2-DB87BF64CCC4' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='0F83B378-870A-46A5-BBA2-DB87BF64CCC4' id='FORM-0F83B378-870A-46A5-BBA2-DB87BF64CCC4' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0F83B378-870A-46A5-BBA2-DB87BF64CCC4' id='FORM-0F83B378-870A-46A5-BBA2-DB87BF64CCC4' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -293,10 +311,10 @@ Draw in all the axes of symmetry in these shapes. If any shape has no axes of sy
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -359,6 +377,9 @@ Draw in the lines of symmetry.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='370538D7-8B44-4815-88C4-A4A248322B31' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='370538D7-8B44-4815-88C4-A4A248322B31' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='370538D7-8B44-4815-88C4-A4A248322B31' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -371,7 +392,7 @@ Draw in the lines of symmetry.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='370538D7-8B44-4815-88C4-A4A248322B31' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='370538D7-8B44-4815-88C4-A4A248322B31' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='370538D7-8B44-4815-88C4-A4A248322B31' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='370538D7-8B44-4815-88C4-A4A248322B31' onclick='submitReview(event)'>PRR</button>
@@ -382,9 +403,12 @@ Draw in the lines of symmetry.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='370538D7-8B44-4815-88C4-A4A248322B31' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='370538D7-8B44-4815-88C4-A4A248322B31' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='370538D7-8B44-4815-88C4-A4A248322B31' id='FORM-370538D7-8B44-4815-88C4-A4A248322B31' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='370538D7-8B44-4815-88C4-A4A248322B31' id='FORM-370538D7-8B44-4815-88C4-A4A248322B31' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -404,10 +428,10 @@ Draw in the lines of symmetry.
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -441,6 +465,9 @@ Draw **ALL** the lines of symmetry on this shape.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FB9F8255-11B1-4564-84E4-AFE75E43E3A9' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FB9F8255-11B1-4564-84E4-AFE75E43E3A9' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FB9F8255-11B1-4564-84E4-AFE75E43E3A9' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -453,7 +480,7 @@ Draw **ALL** the lines of symmetry on this shape.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FB9F8255-11B1-4564-84E4-AFE75E43E3A9' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FB9F8255-11B1-4564-84E4-AFE75E43E3A9' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FB9F8255-11B1-4564-84E4-AFE75E43E3A9' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FB9F8255-11B1-4564-84E4-AFE75E43E3A9' onclick='submitReview(event)'>PRR</button>
@@ -464,9 +491,12 @@ Draw **ALL** the lines of symmetry on this shape.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FB9F8255-11B1-4564-84E4-AFE75E43E3A9' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='FB9F8255-11B1-4564-84E4-AFE75E43E3A9' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='FB9F8255-11B1-4564-84E4-AFE75E43E3A9' id='FORM-FB9F8255-11B1-4564-84E4-AFE75E43E3A9' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FB9F8255-11B1-4564-84E4-AFE75E43E3A9' id='FORM-FB9F8255-11B1-4564-84E4-AFE75E43E3A9' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -486,10 +516,10 @@ Draw **ALL** the lines of symmetry on this shape.
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -561,6 +591,9 @@ A rhombus with the two diagonals having lengths $6\,cm$ and $4\,cm$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='172D0E8E-A210-45CB-B358-6DF27FE2BD71' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='172D0E8E-A210-45CB-B358-6DF27FE2BD71' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='172D0E8E-A210-45CB-B358-6DF27FE2BD71' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -573,7 +606,7 @@ A rhombus with the two diagonals having lengths $6\,cm$ and $4\,cm$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='172D0E8E-A210-45CB-B358-6DF27FE2BD71' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='172D0E8E-A210-45CB-B358-6DF27FE2BD71' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='172D0E8E-A210-45CB-B358-6DF27FE2BD71' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='172D0E8E-A210-45CB-B358-6DF27FE2BD71' onclick='submitReview(event)'>PRR</button>
@@ -584,9 +617,12 @@ A rhombus with the two diagonals having lengths $6\,cm$ and $4\,cm$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='172D0E8E-A210-45CB-B358-6DF27FE2BD71' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='172D0E8E-A210-45CB-B358-6DF27FE2BD71' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='172D0E8E-A210-45CB-B358-6DF27FE2BD71' id='FORM-172D0E8E-A210-45CB-B358-6DF27FE2BD71' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='172D0E8E-A210-45CB-B358-6DF27FE2BD71' id='FORM-172D0E8E-A210-45CB-B358-6DF27FE2BD71' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -606,10 +642,10 @@ A rhombus with the two diagonals having lengths $6\,cm$ and $4\,cm$.
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -650,6 +686,9 @@ line of symmetry
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EFD630B0-38EB-449E-9AB9-7360C4E43E48' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EFD630B0-38EB-449E-9AB9-7360C4E43E48' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EFD630B0-38EB-449E-9AB9-7360C4E43E48' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -662,7 +701,7 @@ line of symmetry
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EFD630B0-38EB-449E-9AB9-7360C4E43E48' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EFD630B0-38EB-449E-9AB9-7360C4E43E48' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EFD630B0-38EB-449E-9AB9-7360C4E43E48' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EFD630B0-38EB-449E-9AB9-7360C4E43E48' onclick='submitReview(event)'>PRR</button>
@@ -673,9 +712,12 @@ line of symmetry
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EFD630B0-38EB-449E-9AB9-7360C4E43E48' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='EFD630B0-38EB-449E-9AB9-7360C4E43E48' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='EFD630B0-38EB-449E-9AB9-7360C4E43E48' id='FORM-EFD630B0-38EB-449E-9AB9-7360C4E43E48' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EFD630B0-38EB-449E-9AB9-7360C4E43E48' id='FORM-EFD630B0-38EB-449E-9AB9-7360C4E43E48' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -695,10 +737,10 @@ line of symmetry
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -742,6 +784,9 @@ $Square$\:\:\:\:\:\:\:\:$Isosceles$\:\:\:\:\:\:\:\:$Triangle$\:\:\:\:\:\:\:\:$Re
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A1B581B6-B6B5-4295-8E37-D7719E34A473' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A1B581B6-B6B5-4295-8E37-D7719E34A473' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A1B581B6-B6B5-4295-8E37-D7719E34A473' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -754,7 +799,7 @@ $Square$\:\:\:\:\:\:\:\:$Isosceles$\:\:\:\:\:\:\:\:$Triangle$\:\:\:\:\:\:\:\:$Re
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A1B581B6-B6B5-4295-8E37-D7719E34A473' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A1B581B6-B6B5-4295-8E37-D7719E34A473' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A1B581B6-B6B5-4295-8E37-D7719E34A473' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A1B581B6-B6B5-4295-8E37-D7719E34A473' onclick='submitReview(event)'>PRR</button>
@@ -765,9 +810,12 @@ $Square$\:\:\:\:\:\:\:\:$Isosceles$\:\:\:\:\:\:\:\:$Triangle$\:\:\:\:\:\:\:\:$Re
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A1B581B6-B6B5-4295-8E37-D7719E34A473' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='A1B581B6-B6B5-4295-8E37-D7719E34A473' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A1B581B6-B6B5-4295-8E37-D7719E34A473' id='FORM-A1B581B6-B6B5-4295-8E37-D7719E34A473' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A1B581B6-B6B5-4295-8E37-D7719E34A473' id='FORM-A1B581B6-B6B5-4295-8E37-D7719E34A473' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

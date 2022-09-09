@@ -1,10 +1,93 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tprobability-1-g2-prns"
 title: "TopicPaper - Probability - 1 - G2 - PRNS"
-date: 2022-08-19 16:00:22
-questions_count: "14"
+date: 2022-09-09 06:32:25
+questions_count: "22"
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>4D10C32B-84EF-4926-8792-562717818250</p>
+</div>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:18</p>
+</div>
+<div class='rag'>
+<p>Puttaraja Hosalli</p>
+</div>
+<div class='rag'>
+<p>rag_ph_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If the probability of it raining tomorrow is $0.08$, what is the probability of it not raining tomorrow?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>If the probability of it raining tomorrow is $0.08$, what is the probability of it not raining tomorrow?
+</code></pre>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='4D10C32B-84EF-4926-8792-562717818250' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='4D10C32B-84EF-4926-8792-562717818250' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='4D10C32B-84EF-4926-8792-562717818250' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='4D10C32B-84EF-4926-8792-562717818250' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='4D10C32B-84EF-4926-8792-562717818250' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='4D10C32B-84EF-4926-8792-562717818250' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='4D10C32B-84EF-4926-8792-562717818250' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='4D10C32B-84EF-4926-8792-562717818250' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='4D10C32B-84EF-4926-8792-562717818250' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='4D10C32B-84EF-4926-8792-562717818250' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='4D10C32B-84EF-4926-8792-562717818250' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='4D10C32B-84EF-4926-8792-562717818250' id='FORM-4D10C32B-84EF-4926-8792-562717818250' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-4D10C32B-84EF-4926-8792-562717818250'>Initial</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
@@ -62,6 +145,9 @@ A bag contains $3$ red and $6$ green marbles. If you pick out a marble at random
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='75E7A90C-2653-4952-86DC-C11074CCF1D1' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='75E7A90C-2653-4952-86DC-C11074CCF1D1' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='75E7A90C-2653-4952-86DC-C11074CCF1D1' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -74,7 +160,7 @@ A bag contains $3$ red and $6$ green marbles. If you pick out a marble at random
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='75E7A90C-2653-4952-86DC-C11074CCF1D1' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='75E7A90C-2653-4952-86DC-C11074CCF1D1' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='75E7A90C-2653-4952-86DC-C11074CCF1D1' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='75E7A90C-2653-4952-86DC-C11074CCF1D1' onclick='submitReview(event)'>PRR</button>
@@ -85,9 +171,12 @@ A bag contains $3$ red and $6$ green marbles. If you pick out a marble at random
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='75E7A90C-2653-4952-86DC-C11074CCF1D1' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='75E7A90C-2653-4952-86DC-C11074CCF1D1' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='75E7A90C-2653-4952-86DC-C11074CCF1D1' id='FORM-75E7A90C-2653-4952-86DC-C11074CCF1D1' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='75E7A90C-2653-4952-86DC-C11074CCF1D1' id='FORM-75E7A90C-2653-4952-86DC-C11074CCF1D1' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -151,6 +240,9 @@ fifth time, is she **more likely** to get Heads or Tails?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9D4AAFBD-929B-4085-BF68-987E2C0DF9F0' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9D4AAFBD-929B-4085-BF68-987E2C0DF9F0' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9D4AAFBD-929B-4085-BF68-987E2C0DF9F0' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -163,7 +255,7 @@ fifth time, is she **more likely** to get Heads or Tails?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9D4AAFBD-929B-4085-BF68-987E2C0DF9F0' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9D4AAFBD-929B-4085-BF68-987E2C0DF9F0' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9D4AAFBD-929B-4085-BF68-987E2C0DF9F0' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9D4AAFBD-929B-4085-BF68-987E2C0DF9F0' onclick='submitReview(event)'>PRR</button>
@@ -174,9 +266,12 @@ fifth time, is she **more likely** to get Heads or Tails?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9D4AAFBD-929B-4085-BF68-987E2C0DF9F0' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='9D4AAFBD-929B-4085-BF68-987E2C0DF9F0' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='9D4AAFBD-929B-4085-BF68-987E2C0DF9F0' id='FORM-9D4AAFBD-929B-4085-BF68-987E2C0DF9F0' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9D4AAFBD-929B-4085-BF68-987E2C0DF9F0' id='FORM-9D4AAFBD-929B-4085-BF68-987E2C0DF9F0' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -184,6 +279,147 @@ fifth time, is she **more likely** to get Heads or Tails?
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-9D4AAFBD-929B-4085-BF68-987E2C0DF9F0'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>6140D059-D75D-4768-A80F-0B80AD6CCF60</p>
+</div>
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:2:23</p>
+</div>
+<div class='rag'>
+<p>Puttaraja Hosalli</p>
+</div>
+<div class='rag'>
+<p>rag_ph_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram shows five fair spinners with grey and white sectors. Each spinner is divided into equal sectors.
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+
+I am going to spin all the pointers.
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>The diagram shows five fair spinners with grey and white sectors. Each spinner is divided into equal sectors.
+<emptyline>
+%image%
+%image%
+%image%
+%image%
+%image%
+<emptyline>
+I am going to spin all the pointers.
+</code></pre>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+For one of the spinners, the probability of spinning grey is $\dfrac{3}{4}$.
+
+Which spinner is this?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>For one of the spinners, the probability of spinning grey is $\dfrac{3}{4}$.
+<emptyline>
+Which spinner is this?
+</code></pre>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+For two of the spinners, the probability of spinning grey is more than $60\%$ but less than $70\%$.
+
+Which two spinners are these?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>For two of the spinners, the probability of spinning grey is more than $60\%$ but less than $70\%$.
+<emptyline>
+Which two spinners are these?
+</code></pre>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6140D059-D75D-4768-A80F-0B80AD6CCF60' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6140D059-D75D-4768-A80F-0B80AD6CCF60' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6140D059-D75D-4768-A80F-0B80AD6CCF60' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6140D059-D75D-4768-A80F-0B80AD6CCF60' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6140D059-D75D-4768-A80F-0B80AD6CCF60' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6140D059-D75D-4768-A80F-0B80AD6CCF60' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6140D059-D75D-4768-A80F-0B80AD6CCF60' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6140D059-D75D-4768-A80F-0B80AD6CCF60' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6140D059-D75D-4768-A80F-0B80AD6CCF60' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6140D059-D75D-4768-A80F-0B80AD6CCF60' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='6140D059-D75D-4768-A80F-0B80AD6CCF60' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6140D059-D75D-4768-A80F-0B80AD6CCF60' id='FORM-6140D059-D75D-4768-A80F-0B80AD6CCF60' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-6140D059-D75D-4768-A80F-0B80AD6CCF60'>Initial</p>
 </div>
 </div>
 </li>
@@ -255,6 +491,9 @@ It is **impossible** that you will get a multiple of $3$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='049EB50A-F271-4BDA-9E86-6E06689C682E' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='049EB50A-F271-4BDA-9E86-6E06689C682E' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='049EB50A-F271-4BDA-9E86-6E06689C682E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -267,7 +506,7 @@ It is **impossible** that you will get a multiple of $3$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='049EB50A-F271-4BDA-9E86-6E06689C682E' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='049EB50A-F271-4BDA-9E86-6E06689C682E' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='049EB50A-F271-4BDA-9E86-6E06689C682E' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='049EB50A-F271-4BDA-9E86-6E06689C682E' onclick='submitReview(event)'>PRR</button>
@@ -278,9 +517,12 @@ It is **impossible** that you will get a multiple of $3$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='049EB50A-F271-4BDA-9E86-6E06689C682E' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='049EB50A-F271-4BDA-9E86-6E06689C682E' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='049EB50A-F271-4BDA-9E86-6E06689C682E' id='FORM-049EB50A-F271-4BDA-9E86-6E06689C682E' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='049EB50A-F271-4BDA-9E86-6E06689C682E' id='FORM-049EB50A-F271-4BDA-9E86-6E06689C682E' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -288,6 +530,310 @@ It is **impossible** that you will get a multiple of $3$.
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-049EB50A-F271-4BDA-9E86-6E06689C682E'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>6FF8AB7F-81B1-4F62-A908-9FE87732692F</p>
+</div>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2016--sample-paper-2:1:27</p>
+</div>
+<div class='rag'>
+<p>Puttaraja Hosalli</p>
+</div>
+<div class='rag'>
+<p>rag_ph_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jada picks one of these cards at random.
+
+$
+\large {
+\boxed {1} \quad
+\boxed {2} \quad
+\boxed {3} \quad
+\boxed {4} \quad
+\boxed {5} \quad
+\boxed {6} \quad
+\boxed {7} \quad
+\boxed {8} \quad
+\boxed {9}
+}
+$
+
+Here are some possible outcomes:
+
+- The number on the card will be a factor of $24$.
+- The number on the card will be a multiple of $2$.
+- The number on the card will be a multiple of $3$.
+- The number on the card will be a multiple of $5$.
+- The number on the card will be a square number.
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Jada picks one of these cards at random.
+<emptyline>
+$
+\large {
+\boxed {1} \quad
+\boxed {2} \quad
+\boxed {3} \quad
+\boxed {4} \quad
+\boxed {5} \quad
+\boxed {6} \quad
+\boxed {7} \quad
+\boxed {8} \quad
+\boxed {9}
+}
+$
+<emptyline>
+Here are some possible outcomes:
+<emptyline>
+- The number on the card will be a factor of $24$.
+- The number on the card will be a multiple of $2$.
+- The number on the card will be a multiple of $3$.
+- The number on the card will be a multiple of $5$.
+- The number on the card will be a square number.
+</code></pre>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Which of these outcomes $(A, B, C, D, E)$ is most likely to happen?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Which of these outcomes $(A, B, C, D, E)$ is most likely to happen?
+</code></pre>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Which of these outcomes is least likely to happen?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Which of these outcomes is least likely to happen?
+</code></pre>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Which of these outcomes is are equally likely to happen?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Which of these outcomes is are equally likely to happen?
+</code></pre>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6FF8AB7F-81B1-4F62-A908-9FE87732692F' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6FF8AB7F-81B1-4F62-A908-9FE87732692F' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6FF8AB7F-81B1-4F62-A908-9FE87732692F' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6FF8AB7F-81B1-4F62-A908-9FE87732692F' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6FF8AB7F-81B1-4F62-A908-9FE87732692F' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6FF8AB7F-81B1-4F62-A908-9FE87732692F' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6FF8AB7F-81B1-4F62-A908-9FE87732692F' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6FF8AB7F-81B1-4F62-A908-9FE87732692F' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6FF8AB7F-81B1-4F62-A908-9FE87732692F' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6FF8AB7F-81B1-4F62-A908-9FE87732692F' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='6FF8AB7F-81B1-4F62-A908-9FE87732692F' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6FF8AB7F-81B1-4F62-A908-9FE87732692F' id='FORM-6FF8AB7F-81B1-4F62-A908-9FE87732692F' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-6FF8AB7F-81B1-4F62-A908-9FE87732692F'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>241B7016-CCDD-4772-8E08-6AB8F115D0BE</p>
+</div>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2017--sample-paper-3:1:27</p>
+</div>
+<div class='rag'>
+<p>Puttaraja Hosalli</p>
+</div>
+<div class='rag'>
+<p>rag_ph_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Toby is given four bags of fruit. 
+
+Bag $A$ contains $2$ apples, $4$ oranges and $3$ pears. 
+
+Bag $B$ contains $4$ apples, $5$ oranges and $3$ pears. 
+
+Bag $C$ contains $3$ apples, $6$ oranges and $4$ pears. 
+
+Bag $D$ contains $5$ apples, $4$ oranges and $9$ pears.
+
+Toby is allowed to choose one bag and then he is given one piece of fruit from that bag at random.
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Toby is given four bags of fruit. 
+<emptyline>
+Bag $A$ contains $2$ apples, $4$ oranges and $3$ pears. 
+<emptyline>
+Bag $B$ contains $4$ apples, $5$ oranges and $3$ pears. 
+<emptyline>
+Bag $C$ contains $3$ apples, $6$ oranges and $4$ pears. 
+<emptyline>
+Bag $D$ contains $5$ apples, $4$ oranges and $9$ pears.
+<emptyline>
+Toby is allowed to choose one bag and then he is given one piece of fruit from that bag at random.
+</code></pre>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Which bag should Toby choose to have the **greatest** chance
+of getting an apple?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Which bag should Toby choose to have the **greatest** chance
+of getting an apple?
+</code></pre>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Which bag should Toby choose to have the **least** chance of getting an orange?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Which bag should Toby choose to have the **least** chance of getting an orange?
+</code></pre>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='241B7016-CCDD-4772-8E08-6AB8F115D0BE' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='241B7016-CCDD-4772-8E08-6AB8F115D0BE' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='241B7016-CCDD-4772-8E08-6AB8F115D0BE' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='241B7016-CCDD-4772-8E08-6AB8F115D0BE' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='241B7016-CCDD-4772-8E08-6AB8F115D0BE' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='241B7016-CCDD-4772-8E08-6AB8F115D0BE' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='241B7016-CCDD-4772-8E08-6AB8F115D0BE' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='241B7016-CCDD-4772-8E08-6AB8F115D0BE' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='241B7016-CCDD-4772-8E08-6AB8F115D0BE' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='241B7016-CCDD-4772-8E08-6AB8F115D0BE' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='241B7016-CCDD-4772-8E08-6AB8F115D0BE' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='241B7016-CCDD-4772-8E08-6AB8F115D0BE' id='FORM-241B7016-CCDD-4772-8E08-6AB8F115D0BE' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-241B7016-CCDD-4772-8E08-6AB8F115D0BE'>Initial</p>
 </div>
 </div>
 </li>
@@ -433,6 +979,9 @@ How many balls are there in each box?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E56DBF27-927F-4678-A6A7-0C849472E41F' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E56DBF27-927F-4678-A6A7-0C849472E41F' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E56DBF27-927F-4678-A6A7-0C849472E41F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -445,7 +994,7 @@ How many balls are there in each box?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E56DBF27-927F-4678-A6A7-0C849472E41F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E56DBF27-927F-4678-A6A7-0C849472E41F' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E56DBF27-927F-4678-A6A7-0C849472E41F' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E56DBF27-927F-4678-A6A7-0C849472E41F' onclick='submitReview(event)'>PRR</button>
@@ -456,9 +1005,12 @@ How many balls are there in each box?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E56DBF27-927F-4678-A6A7-0C849472E41F' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='E56DBF27-927F-4678-A6A7-0C849472E41F' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='E56DBF27-927F-4678-A6A7-0C849472E41F' id='FORM-E56DBF27-927F-4678-A6A7-0C849472E41F' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E56DBF27-927F-4678-A6A7-0C849472E41F' id='FORM-E56DBF27-927F-4678-A6A7-0C849472E41F' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -466,6 +1018,447 @@ How many balls are there in each box?
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-E56DBF27-927F-4678-A6A7-0C849472E41F'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>CE11E8A6-7C91-4E3C-9A27-3084EC1FE0DC</p>
+</div>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2020--sample-paper-5:1:9</p>
+</div>
+<div class='rag'>
+<p>Puttaraja Hosalli</p>
+</div>
+<div class='rag'>
+<p>rag_ph_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+I roll $2$ fair $6$-sided dice and add up the numbers shown on each to get a total score. 
+
+What is the most likely total score that I can get?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>I roll $2$ fair $6$-sided dice and add up the numbers shown on each to get a total score. 
+<emptyline>
+What is the most likely total score that I can get?
+</code></pre>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+I now roll $3$ fair $6$-sided dice and multiply the numbers shown on each dice to get a total score of $80$. 
+
+What numbers did I roll?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>I now roll $3$ fair $6$-sided dice and multiply the numbers shown on each dice to get a total score of $80$. 
+<emptyline>
+What numbers did I roll?
+</code></pre>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CE11E8A6-7C91-4E3C-9A27-3084EC1FE0DC' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CE11E8A6-7C91-4E3C-9A27-3084EC1FE0DC' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CE11E8A6-7C91-4E3C-9A27-3084EC1FE0DC' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CE11E8A6-7C91-4E3C-9A27-3084EC1FE0DC' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CE11E8A6-7C91-4E3C-9A27-3084EC1FE0DC' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CE11E8A6-7C91-4E3C-9A27-3084EC1FE0DC' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CE11E8A6-7C91-4E3C-9A27-3084EC1FE0DC' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CE11E8A6-7C91-4E3C-9A27-3084EC1FE0DC' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CE11E8A6-7C91-4E3C-9A27-3084EC1FE0DC' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CE11E8A6-7C91-4E3C-9A27-3084EC1FE0DC' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='CE11E8A6-7C91-4E3C-9A27-3084EC1FE0DC' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CE11E8A6-7C91-4E3C-9A27-3084EC1FE0DC' id='FORM-CE11E8A6-7C91-4E3C-9A27-3084EC1FE0DC' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-CE11E8A6-7C91-4E3C-9A27-3084EC1FE0DC'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>5919346F-96D5-4612-8C20-45351C26564B</p>
+</div>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:23</p>
+</div>
+<div class='rag'>
+<p>Puttaraja Hosalli</p>
+</div>
+<div class='rag'>
+<p>rag_ph_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A bag of marbles contains the following:
+
+$4$ red marbles
+
+$3$ blue marbles
+
+$8$ yellow marbles 
+
+$1$ green marble
+
+Without looking Omar takes a marble from the bag.
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>A bag of marbles contains the following:
+<emptyline>
+$4$ red marbles
+<emptyline>
+$3$ blue marbles
+<emptyline>
+$8$ yellow marbles 
+<emptyline>
+$1$ green marble
+<emptyline>
+Without looking Omar takes a marble from the bag.
+</code></pre>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Answer true or false for each statement below:
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Answer true or false for each statement below:
+</code></pre>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+Omar is more likely to get a blue marble than a red marble.
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Omar is more likely to get a blue marble than a red marble.
+</code></pre>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+Omar is just as likely to get a yellow marble, or a non-yellow marble.
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Omar is just as likely to get a yellow marble, or a non-yellow marble.
+</code></pre>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+This time, he wants to draw two marbles of the same colour. 
+If he removes them one by one without looking, how many 
+marbles will he need to take out to guarantee drawing two marbles 
+of the same colour?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>This time, he wants to draw two marbles of the same colour. 
+If he removes them one by one without looking, how many 
+marbles will he need to take out to guarantee drawing two marbles 
+of the same colour?
+</code></pre>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5919346F-96D5-4612-8C20-45351C26564B' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5919346F-96D5-4612-8C20-45351C26564B' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5919346F-96D5-4612-8C20-45351C26564B' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5919346F-96D5-4612-8C20-45351C26564B' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5919346F-96D5-4612-8C20-45351C26564B' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5919346F-96D5-4612-8C20-45351C26564B' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5919346F-96D5-4612-8C20-45351C26564B' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5919346F-96D5-4612-8C20-45351C26564B' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5919346F-96D5-4612-8C20-45351C26564B' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5919346F-96D5-4612-8C20-45351C26564B' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='5919346F-96D5-4612-8C20-45351C26564B' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5919346F-96D5-4612-8C20-45351C26564B' id='FORM-5919346F-96D5-4612-8C20-45351C26564B' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-5919346F-96D5-4612-8C20-45351C26564B'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>D0484192-23DF-499C-81DD-45D542B3C1F6</p>
+</div>
+<div class='papername'>
+<p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:1:14</p>
+</div>
+<div class='rag'>
+<p>Puttaraja Hosalli</p>
+</div>
+<div class='rag'>
+<p>rag_ph_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty% 
+</code></pre>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+If you throw a fair die $36$ times, how many $3$'s would you expect to get?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>If you throw a fair die $36$ times, how many $3$'s would you expect to get?
+</code></pre>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Natasha took another die and threw it $30$ times. She got these results:
+
+$3 \quad 4 \quad 1 \quad 6 \quad 1 \quad 3 \quad 4 \quad 5 \quad 1 \quad 4 \quad 4$
+
+$5 \quad 6 \quad 3 \quad 1 \quad 4 \quad 1 \quad 5 \quad 1 \quad 6 \quad 3 \quad 1$
+
+$5 \quad 4 \quad 1 \quad 6 \quad 3 \quad 5 \quad 6 \quad 4$
+
+Fill in this tally chart and work out the frequencies (how many times she got each number).
+
+| Score     | Tally     | Frequency     |
+|:---:  |:---:  |:---:  |
+| $1$   |   |   |
+| $2$   |   |   |
+| $3$   |   |   |
+| $4$   |   |   |
+| $5$   |   |   |
+| $6$   |   |   |
+
+Do you think the die was fair?
+
+Explain your answer:
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Natasha took another die and threw it $30$ times. She got these results:
+<emptyline>
+$3 \quad 4 \quad 1 \quad 6 \quad 1 \quad 3 \quad 4 \quad 5 \quad 1 \quad 4 \quad 4$
+<emptyline>
+$5 \quad 6 \quad 3 \quad 1 \quad 4 \quad 1 \quad 5 \quad 1 \quad 6 \quad 3 \quad 1$
+<emptyline>
+$5 \quad 4 \quad 1 \quad 6 \quad 3 \quad 5 \quad 6 \quad 4$
+<emptyline>
+Fill in this tally chart and work out the frequencies (how many times she got each number).
+<emptyline>
+| Score     | Tally     | Frequency     |
+|:---:  |:---:  |:---:  |
+| $1$   |   |   |
+| $2$   |   |   |
+| $3$   |   |   |
+| $4$   |   |   |
+| $5$   |   |   |
+| $6$   |   |   |
+<emptyline>
+Do you think the die was fair?
+<emptyline>
+Explain your answer:
+</code></pre>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D0484192-23DF-499C-81DD-45D542B3C1F6' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D0484192-23DF-499C-81DD-45D542B3C1F6' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D0484192-23DF-499C-81DD-45D542B3C1F6' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D0484192-23DF-499C-81DD-45D542B3C1F6' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D0484192-23DF-499C-81DD-45D542B3C1F6' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D0484192-23DF-499C-81DD-45D542B3C1F6' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D0484192-23DF-499C-81DD-45D542B3C1F6' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D0484192-23DF-499C-81DD-45D542B3C1F6' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D0484192-23DF-499C-81DD-45D542B3C1F6' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D0484192-23DF-499C-81DD-45D542B3C1F6' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='D0484192-23DF-499C-81DD-45D542B3C1F6' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D0484192-23DF-499C-81DD-45D542B3C1F6' id='FORM-D0484192-23DF-499C-81DD-45D542B3C1F6' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D0484192-23DF-499C-81DD-45D542B3C1F6'>Initial</p>
 </div>
 </div>
 </li>
@@ -510,6 +1503,9 @@ How many pens should I add to the original pencil case so that it is equally lik
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='675DE6CE-81D9-4032-994A-7C24719EF132' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='675DE6CE-81D9-4032-994A-7C24719EF132' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='675DE6CE-81D9-4032-994A-7C24719EF132' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -522,7 +1518,7 @@ How many pens should I add to the original pencil case so that it is equally lik
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='675DE6CE-81D9-4032-994A-7C24719EF132' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='675DE6CE-81D9-4032-994A-7C24719EF132' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='675DE6CE-81D9-4032-994A-7C24719EF132' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='675DE6CE-81D9-4032-994A-7C24719EF132' onclick='submitReview(event)'>PRR</button>
@@ -533,9 +1529,12 @@ How many pens should I add to the original pencil case so that it is equally lik
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='675DE6CE-81D9-4032-994A-7C24719EF132' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='675DE6CE-81D9-4032-994A-7C24719EF132' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='675DE6CE-81D9-4032-994A-7C24719EF132' id='FORM-675DE6CE-81D9-4032-994A-7C24719EF132' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='675DE6CE-81D9-4032-994A-7C24719EF132' id='FORM-675DE6CE-81D9-4032-994A-7C24719EF132' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -587,6 +1586,9 @@ A bicycle will have two wheels.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -599,7 +1601,7 @@ A bicycle will have two wheels.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1' onclick='submitReview(event)'>PRR</button>
@@ -610,9 +1612,12 @@ A bicycle will have two wheels.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1' id='FORM-EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1' id='FORM-EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -664,6 +1669,9 @@ A boy selected at random from Year $7$ will have red hair.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A47DB4E1-F2E1-4223-910E-E35218E5B40F' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A47DB4E1-F2E1-4223-910E-E35218E5B40F' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A47DB4E1-F2E1-4223-910E-E35218E5B40F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -676,7 +1684,7 @@ A boy selected at random from Year $7$ will have red hair.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A47DB4E1-F2E1-4223-910E-E35218E5B40F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A47DB4E1-F2E1-4223-910E-E35218E5B40F' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A47DB4E1-F2E1-4223-910E-E35218E5B40F' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A47DB4E1-F2E1-4223-910E-E35218E5B40F' onclick='submitReview(event)'>PRR</button>
@@ -687,9 +1695,12 @@ A boy selected at random from Year $7$ will have red hair.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A47DB4E1-F2E1-4223-910E-E35218E5B40F' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='A47DB4E1-F2E1-4223-910E-E35218E5B40F' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='A47DB4E1-F2E1-4223-910E-E35218E5B40F' id='FORM-A47DB4E1-F2E1-4223-910E-E35218E5B40F' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A47DB4E1-F2E1-4223-910E-E35218E5B40F' id='FORM-A47DB4E1-F2E1-4223-910E-E35218E5B40F' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -741,6 +1752,9 @@ An ordinary dice will show a number below ten.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='97658705-5BFD-43C2-8EC0-F96EA2170CC7' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='97658705-5BFD-43C2-8EC0-F96EA2170CC7' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='97658705-5BFD-43C2-8EC0-F96EA2170CC7' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -753,7 +1767,7 @@ An ordinary dice will show a number below ten.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='97658705-5BFD-43C2-8EC0-F96EA2170CC7' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='97658705-5BFD-43C2-8EC0-F96EA2170CC7' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='97658705-5BFD-43C2-8EC0-F96EA2170CC7' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='97658705-5BFD-43C2-8EC0-F96EA2170CC7' onclick='submitReview(event)'>PRR</button>
@@ -764,9 +1778,12 @@ An ordinary dice will show a number below ten.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='97658705-5BFD-43C2-8EC0-F96EA2170CC7' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='97658705-5BFD-43C2-8EC0-F96EA2170CC7' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='97658705-5BFD-43C2-8EC0-F96EA2170CC7' id='FORM-97658705-5BFD-43C2-8EC0-F96EA2170CC7' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='97658705-5BFD-43C2-8EC0-F96EA2170CC7' id='FORM-97658705-5BFD-43C2-8EC0-F96EA2170CC7' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -818,6 +1835,9 @@ A card selected from a normal pack of playing cards will not be black or red.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='22C2F81E-348A-4147-8F66-92DD1DE389E0' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='22C2F81E-348A-4147-8F66-92DD1DE389E0' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='22C2F81E-348A-4147-8F66-92DD1DE389E0' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -830,7 +1850,7 @@ A card selected from a normal pack of playing cards will not be black or red.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='22C2F81E-348A-4147-8F66-92DD1DE389E0' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='22C2F81E-348A-4147-8F66-92DD1DE389E0' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='22C2F81E-348A-4147-8F66-92DD1DE389E0' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='22C2F81E-348A-4147-8F66-92DD1DE389E0' onclick='submitReview(event)'>PRR</button>
@@ -841,9 +1861,12 @@ A card selected from a normal pack of playing cards will not be black or red.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='22C2F81E-348A-4147-8F66-92DD1DE389E0' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='22C2F81E-348A-4147-8F66-92DD1DE389E0' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='22C2F81E-348A-4147-8F66-92DD1DE389E0' id='FORM-22C2F81E-348A-4147-8F66-92DD1DE389E0' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='22C2F81E-348A-4147-8F66-92DD1DE389E0' id='FORM-22C2F81E-348A-4147-8F66-92DD1DE389E0' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -908,6 +1931,9 @@ If I pick another card, what is the probability it will have a $C$ on it?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='FA4F6584-F867-4263-B1CA-F813E4733C7A' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='FA4F6584-F867-4263-B1CA-F813E4733C7A' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='FA4F6584-F867-4263-B1CA-F813E4733C7A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -920,7 +1946,7 @@ If I pick another card, what is the probability it will have a $C$ on it?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='FA4F6584-F867-4263-B1CA-F813E4733C7A' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='FA4F6584-F867-4263-B1CA-F813E4733C7A' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='FA4F6584-F867-4263-B1CA-F813E4733C7A' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='FA4F6584-F867-4263-B1CA-F813E4733C7A' onclick='submitReview(event)'>PRR</button>
@@ -931,9 +1957,12 @@ If I pick another card, what is the probability it will have a $C$ on it?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='FA4F6584-F867-4263-B1CA-F813E4733C7A' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='FA4F6584-F867-4263-B1CA-F813E4733C7A' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='FA4F6584-F867-4263-B1CA-F813E4733C7A' id='FORM-FA4F6584-F867-4263-B1CA-F813E4733C7A' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='FA4F6584-F867-4263-B1CA-F813E4733C7A' id='FORM-FA4F6584-F867-4263-B1CA-F813E4733C7A' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -941,6 +1970,102 @@ If I pick another card, what is the probability it will have a $C$ on it?
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-FA4F6584-F867-4263-B1CA-F813E4733C7A'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>2B0B43F3-6E8B-41F9-A516-B83235232CD8</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:37</p>
+</div>
+<div class='rag'>
+<p>Neeraj Singh</p>
+</div>
+<div class='rag'>
+<p>rag_ns_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$16$ cards each have a letter on them. The chart below shows how many with each letter on them.
+
+![missing image](/papers/missing_image.svg)
+
+
+I pick a card with an $E$ on it and don’t put it back.
+
+If I pick another card, what is the probability it will have a $F$ on it?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>$16$ cards each have a letter on them. The chart below shows how many with each letter on them.
+<emptyline>
+%image%
+<emptyline>
+I pick a card with an $E$ on it and don’t put it back.
+<emptyline>
+If I pick another card, what is the probability it will have a $F$ on it?
+</code></pre>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2B0B43F3-6E8B-41F9-A516-B83235232CD8' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2B0B43F3-6E8B-41F9-A516-B83235232CD8' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2B0B43F3-6E8B-41F9-A516-B83235232CD8' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2B0B43F3-6E8B-41F9-A516-B83235232CD8' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2B0B43F3-6E8B-41F9-A516-B83235232CD8' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2B0B43F3-6E8B-41F9-A516-B83235232CD8' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2B0B43F3-6E8B-41F9-A516-B83235232CD8' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2B0B43F3-6E8B-41F9-A516-B83235232CD8' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2B0B43F3-6E8B-41F9-A516-B83235232CD8' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2B0B43F3-6E8B-41F9-A516-B83235232CD8' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='2B0B43F3-6E8B-41F9-A516-B83235232CD8' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2B0B43F3-6E8B-41F9-A516-B83235232CD8' id='FORM-2B0B43F3-6E8B-41F9-A516-B83235232CD8' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-2B0B43F3-6E8B-41F9-A516-B83235232CD8'>Initial</p>
 </div>
 </div>
 </li>
@@ -989,6 +2114,9 @@ What is the probability of picking a green counter?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E50AC62E-2A13-48E0-95A5-375ED2BF99DD' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E50AC62E-2A13-48E0-95A5-375ED2BF99DD' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E50AC62E-2A13-48E0-95A5-375ED2BF99DD' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1001,7 +2129,7 @@ What is the probability of picking a green counter?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E50AC62E-2A13-48E0-95A5-375ED2BF99DD' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E50AC62E-2A13-48E0-95A5-375ED2BF99DD' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E50AC62E-2A13-48E0-95A5-375ED2BF99DD' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E50AC62E-2A13-48E0-95A5-375ED2BF99DD' onclick='submitReview(event)'>PRR</button>
@@ -1012,9 +2140,12 @@ What is the probability of picking a green counter?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E50AC62E-2A13-48E0-95A5-375ED2BF99DD' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='E50AC62E-2A13-48E0-95A5-375ED2BF99DD' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='E50AC62E-2A13-48E0-95A5-375ED2BF99DD' id='FORM-E50AC62E-2A13-48E0-95A5-375ED2BF99DD' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E50AC62E-2A13-48E0-95A5-375ED2BF99DD' id='FORM-E50AC62E-2A13-48E0-95A5-375ED2BF99DD' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1079,6 +2210,9 @@ If I pick another card, what is the probability it will have a $E$ on it?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='869FD852-D1F1-49AF-B701-45D924CC185A' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='869FD852-D1F1-49AF-B701-45D924CC185A' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='869FD852-D1F1-49AF-B701-45D924CC185A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1091,7 +2225,7 @@ If I pick another card, what is the probability it will have a $E$ on it?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='869FD852-D1F1-49AF-B701-45D924CC185A' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='869FD852-D1F1-49AF-B701-45D924CC185A' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='869FD852-D1F1-49AF-B701-45D924CC185A' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='869FD852-D1F1-49AF-B701-45D924CC185A' onclick='submitReview(event)'>PRR</button>
@@ -1102,9 +2236,12 @@ If I pick another card, what is the probability it will have a $E$ on it?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='869FD852-D1F1-49AF-B701-45D924CC185A' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='869FD852-D1F1-49AF-B701-45D924CC185A' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='869FD852-D1F1-49AF-B701-45D924CC185A' id='FORM-869FD852-D1F1-49AF-B701-45D924CC185A' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='869FD852-D1F1-49AF-B701-45D924CC185A' id='FORM-869FD852-D1F1-49AF-B701-45D924CC185A' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1144,53 +2281,35 @@ tprobability
 Twelve balls labelled $1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11$ and $12$ are placed in a bag
 and one ball is chosen at random.
 
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Twelve balls labelled $1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11$ and $12$ are placed in a bag
-and one ball is chosen at random.
-</code></pre>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
 Circle which of the following is more likely:
 
 | The ball shows a multiple of $3$ | The ball shows an even number |
 |:------------------------------:|:-----------------------------:|
 
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Circle which of the following is more likely:
-<emptyline>
-| The ball shows a multiple of $3$ | The ball shows an even number |
-|:------------------------------:|:-----------------------------:|
-</code></pre>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
 Explain your answer clearly.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Explain your answer clearly.
+<pre class='language-latex'><code class='language-latex'>Twelve balls labelled $1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11$ and $12$ are placed in a bag
+and one ball is chosen at random.
+<emptyline>
+Circle which of the following is more likely:
+<emptyline>
+| The ball shows a multiple of $3$ | The ball shows an even number |
+|:------------------------------:|:-----------------------------:|
+<emptyline>
+Explain your answer clearly.
 </code></pre>
 </div>
 
-</div>
-</li>
-</ul>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E968A4AB-9158-45EC-BEFC-4C7850264B5F' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E968A4AB-9158-45EC-BEFC-4C7850264B5F' onclick='submitReview(event)'>PRPCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E968A4AB-9158-45EC-BEFC-4C7850264B5F' onclick='submitReview(event)'>PRG</button>
@@ -1205,7 +2324,7 @@ Explain your answer clearly.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E968A4AB-9158-45EC-BEFC-4C7850264B5F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E968A4AB-9158-45EC-BEFC-4C7850264B5F' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E968A4AB-9158-45EC-BEFC-4C7850264B5F' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E968A4AB-9158-45EC-BEFC-4C7850264B5F' onclick='submitReview(event)'>PRR</button>
@@ -1216,9 +2335,12 @@ Explain your answer clearly.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E968A4AB-9158-45EC-BEFC-4C7850264B5F' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='E968A4AB-9158-45EC-BEFC-4C7850264B5F' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='E968A4AB-9158-45EC-BEFC-4C7850264B5F' id='FORM-E968A4AB-9158-45EC-BEFC-4C7850264B5F' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E968A4AB-9158-45EC-BEFC-4C7850264B5F' id='FORM-E968A4AB-9158-45EC-BEFC-4C7850264B5F' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1270,6 +2392,9 @@ Give an example of an event which has a probability of about $\dfrac{1}{2}$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9399728B-F412-4B6A-801C-32CC4953FD6F' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9399728B-F412-4B6A-801C-32CC4953FD6F' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9399728B-F412-4B6A-801C-32CC4953FD6F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1282,7 +2407,7 @@ Give an example of an event which has a probability of about $\dfrac{1}{2}$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9399728B-F412-4B6A-801C-32CC4953FD6F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9399728B-F412-4B6A-801C-32CC4953FD6F' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9399728B-F412-4B6A-801C-32CC4953FD6F' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9399728B-F412-4B6A-801C-32CC4953FD6F' onclick='submitReview(event)'>PRR</button>
@@ -1293,9 +2418,12 @@ Give an example of an event which has a probability of about $\dfrac{1}{2}$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9399728B-F412-4B6A-801C-32CC4953FD6F' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='9399728B-F412-4B6A-801C-32CC4953FD6F' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='9399728B-F412-4B6A-801C-32CC4953FD6F' id='FORM-9399728B-F412-4B6A-801C-32CC4953FD6F' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9399728B-F412-4B6A-801C-32CC4953FD6F' id='FORM-9399728B-F412-4B6A-801C-32CC4953FD6F' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

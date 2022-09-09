@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tfraction-2-g2-prns"
 title: "TopicPaper - Fraction - 2 - G2 - PRNS"
-date: 2022-08-19 16:00:22
+date: 2022-09-09 06:32:25
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "4"
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_an_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -66,6 +66,9 @@ Work out three-sevenths of $91$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='374C875F-6104-457A-9946-7366D583AA37' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='374C875F-6104-457A-9946-7366D583AA37' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='374C875F-6104-457A-9946-7366D583AA37' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -78,7 +81,7 @@ Work out three-sevenths of $91$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='374C875F-6104-457A-9946-7366D583AA37' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='374C875F-6104-457A-9946-7366D583AA37' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='374C875F-6104-457A-9946-7366D583AA37' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='374C875F-6104-457A-9946-7366D583AA37' onclick='submitReview(event)'>PRR</button>
@@ -89,9 +92,12 @@ Work out three-sevenths of $91$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='374C875F-6104-457A-9946-7366D583AA37' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='374C875F-6104-457A-9946-7366D583AA37' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='374C875F-6104-457A-9946-7366D583AA37' id='FORM-374C875F-6104-457A-9946-7366D583AA37' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='374C875F-6104-457A-9946-7366D583AA37' id='FORM-374C875F-6104-457A-9946-7366D583AA37' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -111,10 +117,10 @@ Work out three-sevenths of $91$.
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_an_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -163,6 +169,9 @@ What number is halfway between $4\dfrac{1}{2}$ and $7\dfrac{1}{2}$ ?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0966D772-1DBA-4DD8-A2D9-C6E088334DE5' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0966D772-1DBA-4DD8-A2D9-C6E088334DE5' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0966D772-1DBA-4DD8-A2D9-C6E088334DE5' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -175,7 +184,7 @@ What number is halfway between $4\dfrac{1}{2}$ and $7\dfrac{1}{2}$ ?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0966D772-1DBA-4DD8-A2D9-C6E088334DE5' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0966D772-1DBA-4DD8-A2D9-C6E088334DE5' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0966D772-1DBA-4DD8-A2D9-C6E088334DE5' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0966D772-1DBA-4DD8-A2D9-C6E088334DE5' onclick='submitReview(event)'>PRR</button>
@@ -186,9 +195,12 @@ What number is halfway between $4\dfrac{1}{2}$ and $7\dfrac{1}{2}$ ?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0966D772-1DBA-4DD8-A2D9-C6E088334DE5' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='0966D772-1DBA-4DD8-A2D9-C6E088334DE5' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='0966D772-1DBA-4DD8-A2D9-C6E088334DE5' id='FORM-0966D772-1DBA-4DD8-A2D9-C6E088334DE5' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0966D772-1DBA-4DD8-A2D9-C6E088334DE5' id='FORM-0966D772-1DBA-4DD8-A2D9-C6E088334DE5' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -208,10 +220,10 @@ What number is halfway between $4\dfrac{1}{2}$ and $7\dfrac{1}{2}$ ?
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_an_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -260,6 +272,9 @@ Work out three eighths of $264$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3A3AB715-05E4-4635-8C9A-641EC20949C8' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3A3AB715-05E4-4635-8C9A-641EC20949C8' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3A3AB715-05E4-4635-8C9A-641EC20949C8' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -272,7 +287,7 @@ Work out three eighths of $264$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3A3AB715-05E4-4635-8C9A-641EC20949C8' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3A3AB715-05E4-4635-8C9A-641EC20949C8' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3A3AB715-05E4-4635-8C9A-641EC20949C8' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3A3AB715-05E4-4635-8C9A-641EC20949C8' onclick='submitReview(event)'>PRR</button>
@@ -283,9 +298,12 @@ Work out three eighths of $264$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3A3AB715-05E4-4635-8C9A-641EC20949C8' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='3A3AB715-05E4-4635-8C9A-641EC20949C8' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='3A3AB715-05E4-4635-8C9A-641EC20949C8' id='FORM-3A3AB715-05E4-4635-8C9A-641EC20949C8' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3A3AB715-05E4-4635-8C9A-641EC20949C8' id='FORM-3A3AB715-05E4-4635-8C9A-641EC20949C8' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -305,10 +323,10 @@ Work out three eighths of $264$.
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_an_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -357,6 +375,9 @@ Work out: $\dfrac{2}{5} - \dfrac{1}{3}$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -369,7 +390,7 @@ Work out: $\dfrac{2}{5} - \dfrac{1}{3}$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' onclick='submitReview(event)'>PRR</button>
@@ -380,9 +401,12 @@ Work out: $\dfrac{2}{5} - \dfrac{1}{3}$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' id='FORM-E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' id='FORM-E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tareaperimeter-6"
 title: "TopicPaper - Areaperimeter - 6"
-date: 2022-08-19 16:00:22
+date: 2022-09-09 06:32:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "40"
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:31</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -95,6 +95,9 @@ or less than $18 \ \text{cm}$?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DC2F2A73-6A15-47D6-9058-3966F167DE33' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DC2F2A73-6A15-47D6-9058-3966F167DE33' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DC2F2A73-6A15-47D6-9058-3966F167DE33' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -107,7 +110,7 @@ or less than $18 \ \text{cm}$?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DC2F2A73-6A15-47D6-9058-3966F167DE33' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DC2F2A73-6A15-47D6-9058-3966F167DE33' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DC2F2A73-6A15-47D6-9058-3966F167DE33' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DC2F2A73-6A15-47D6-9058-3966F167DE33' onclick='submitReview(event)'>PRR</button>
@@ -118,9 +121,12 @@ or less than $18 \ \text{cm}$?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DC2F2A73-6A15-47D6-9058-3966F167DE33' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='DC2F2A73-6A15-47D6-9058-3966F167DE33' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='DC2F2A73-6A15-47D6-9058-3966F167DE33' id='FORM-DC2F2A73-6A15-47D6-9058-3966F167DE33' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DC2F2A73-6A15-47D6-9058-3966F167DE33' id='FORM-DC2F2A73-6A15-47D6-9058-3966F167DE33' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -140,10 +146,10 @@ or less than $18 \ \text{cm}$?
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:9</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -196,6 +202,9 @@ Area = $49 \ \text{cm}^{2}$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7ED92958-A20C-4CB1-B94C-7667D1274879' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7ED92958-A20C-4CB1-B94C-7667D1274879' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7ED92958-A20C-4CB1-B94C-7667D1274879' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -208,7 +217,7 @@ Area = $49 \ \text{cm}^{2}$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7ED92958-A20C-4CB1-B94C-7667D1274879' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7ED92958-A20C-4CB1-B94C-7667D1274879' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7ED92958-A20C-4CB1-B94C-7667D1274879' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7ED92958-A20C-4CB1-B94C-7667D1274879' onclick='submitReview(event)'>PRR</button>
@@ -219,9 +228,12 @@ Area = $49 \ \text{cm}^{2}$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7ED92958-A20C-4CB1-B94C-7667D1274879' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='7ED92958-A20C-4CB1-B94C-7667D1274879' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='7ED92958-A20C-4CB1-B94C-7667D1274879' id='FORM-7ED92958-A20C-4CB1-B94C-7667D1274879' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7ED92958-A20C-4CB1-B94C-7667D1274879' id='FORM-7ED92958-A20C-4CB1-B94C-7667D1274879' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -241,10 +253,10 @@ Area = $49 \ \text{cm}^{2}$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:15</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -293,6 +305,9 @@ Calculate the area of the trapezium.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6082C51C-48FB-4A15-B156-8BC33B276648' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6082C51C-48FB-4A15-B156-8BC33B276648' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6082C51C-48FB-4A15-B156-8BC33B276648' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -305,7 +320,7 @@ Calculate the area of the trapezium.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6082C51C-48FB-4A15-B156-8BC33B276648' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6082C51C-48FB-4A15-B156-8BC33B276648' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6082C51C-48FB-4A15-B156-8BC33B276648' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6082C51C-48FB-4A15-B156-8BC33B276648' onclick='submitReview(event)'>PRR</button>
@@ -316,9 +331,12 @@ Calculate the area of the trapezium.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6082C51C-48FB-4A15-B156-8BC33B276648' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='6082C51C-48FB-4A15-B156-8BC33B276648' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='6082C51C-48FB-4A15-B156-8BC33B276648' id='FORM-6082C51C-48FB-4A15-B156-8BC33B276648' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6082C51C-48FB-4A15-B156-8BC33B276648' id='FORM-6082C51C-48FB-4A15-B156-8BC33B276648' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -338,10 +356,10 @@ Calculate the area of the trapezium.
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:22</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -384,6 +402,9 @@ wallpaper are needed to cover a wall $3 \ \text{m}$ high and $8 \ \text{m}$ wide
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9A5410BD-3EE5-409F-8688-DA50768205F0' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9A5410BD-3EE5-409F-8688-DA50768205F0' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9A5410BD-3EE5-409F-8688-DA50768205F0' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -396,7 +417,7 @@ wallpaper are needed to cover a wall $3 \ \text{m}$ high and $8 \ \text{m}$ wide
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9A5410BD-3EE5-409F-8688-DA50768205F0' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9A5410BD-3EE5-409F-8688-DA50768205F0' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9A5410BD-3EE5-409F-8688-DA50768205F0' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9A5410BD-3EE5-409F-8688-DA50768205F0' onclick='submitReview(event)'>PRR</button>
@@ -407,9 +428,12 @@ wallpaper are needed to cover a wall $3 \ \text{m}$ high and $8 \ \text{m}$ wide
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9A5410BD-3EE5-409F-8688-DA50768205F0' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='9A5410BD-3EE5-409F-8688-DA50768205F0' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='9A5410BD-3EE5-409F-8688-DA50768205F0' id='FORM-9A5410BD-3EE5-409F-8688-DA50768205F0' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9A5410BD-3EE5-409F-8688-DA50768205F0' id='FORM-9A5410BD-3EE5-409F-8688-DA50768205F0' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -429,10 +453,10 @@ wallpaper are needed to cover a wall $3 \ \text{m}$ high and $8 \ \text{m}$ wide
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:23</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -481,6 +505,9 @@ Find the perimeter of the compound shape.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F1B80E8B-8F3D-4D7C-B004-64E862ADAB50' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F1B80E8B-8F3D-4D7C-B004-64E862ADAB50' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F1B80E8B-8F3D-4D7C-B004-64E862ADAB50' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -493,7 +520,7 @@ Find the perimeter of the compound shape.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F1B80E8B-8F3D-4D7C-B004-64E862ADAB50' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F1B80E8B-8F3D-4D7C-B004-64E862ADAB50' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F1B80E8B-8F3D-4D7C-B004-64E862ADAB50' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F1B80E8B-8F3D-4D7C-B004-64E862ADAB50' onclick='submitReview(event)'>PRR</button>
@@ -504,9 +531,12 @@ Find the perimeter of the compound shape.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F1B80E8B-8F3D-4D7C-B004-64E862ADAB50' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='F1B80E8B-8F3D-4D7C-B004-64E862ADAB50' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='F1B80E8B-8F3D-4D7C-B004-64E862ADAB50' id='FORM-F1B80E8B-8F3D-4D7C-B004-64E862ADAB50' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F1B80E8B-8F3D-4D7C-B004-64E862ADAB50' id='FORM-F1B80E8B-8F3D-4D7C-B004-64E862ADAB50' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -526,10 +556,10 @@ Find the perimeter of the compound shape.
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:2:6</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -579,6 +609,9 @@ What is the  perimeter of the other rectangle?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A2279230-AADE-4793-B27A-4810B6805DE7' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A2279230-AADE-4793-B27A-4810B6805DE7' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A2279230-AADE-4793-B27A-4810B6805DE7' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -591,7 +624,7 @@ What is the  perimeter of the other rectangle?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A2279230-AADE-4793-B27A-4810B6805DE7' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A2279230-AADE-4793-B27A-4810B6805DE7' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A2279230-AADE-4793-B27A-4810B6805DE7' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A2279230-AADE-4793-B27A-4810B6805DE7' onclick='submitReview(event)'>PRR</button>
@@ -602,9 +635,12 @@ What is the  perimeter of the other rectangle?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A2279230-AADE-4793-B27A-4810B6805DE7' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='A2279230-AADE-4793-B27A-4810B6805DE7' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A2279230-AADE-4793-B27A-4810B6805DE7' id='FORM-A2279230-AADE-4793-B27A-4810B6805DE7' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A2279230-AADE-4793-B27A-4810B6805DE7' id='FORM-A2279230-AADE-4793-B27A-4810B6805DE7' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -624,10 +660,10 @@ What is the  perimeter of the other rectangle?
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:2:14</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -678,6 +714,9 @@ perimeter of the shape remaining the same?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='47EFAF0C-137C-44C4-BF63-3C7AD7B35914' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='47EFAF0C-137C-44C4-BF63-3C7AD7B35914' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='47EFAF0C-137C-44C4-BF63-3C7AD7B35914' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -690,7 +729,7 @@ perimeter of the shape remaining the same?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='47EFAF0C-137C-44C4-BF63-3C7AD7B35914' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='47EFAF0C-137C-44C4-BF63-3C7AD7B35914' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='47EFAF0C-137C-44C4-BF63-3C7AD7B35914' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='47EFAF0C-137C-44C4-BF63-3C7AD7B35914' onclick='submitReview(event)'>PRR</button>
@@ -701,9 +740,12 @@ perimeter of the shape remaining the same?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='47EFAF0C-137C-44C4-BF63-3C7AD7B35914' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='47EFAF0C-137C-44C4-BF63-3C7AD7B35914' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='47EFAF0C-137C-44C4-BF63-3C7AD7B35914' id='FORM-47EFAF0C-137C-44C4-BF63-3C7AD7B35914' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='47EFAF0C-137C-44C4-BF63-3C7AD7B35914' id='FORM-47EFAF0C-137C-44C4-BF63-3C7AD7B35914' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -723,10 +765,10 @@ perimeter of the shape remaining the same?
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -772,6 +814,9 @@ Calculate the area of the rectangle.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A7776F84-C1E8-4F7A-B95D-0642729A4BD1' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A7776F84-C1E8-4F7A-B95D-0642729A4BD1' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A7776F84-C1E8-4F7A-B95D-0642729A4BD1' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -784,7 +829,7 @@ Calculate the area of the rectangle.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A7776F84-C1E8-4F7A-B95D-0642729A4BD1' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A7776F84-C1E8-4F7A-B95D-0642729A4BD1' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A7776F84-C1E8-4F7A-B95D-0642729A4BD1' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A7776F84-C1E8-4F7A-B95D-0642729A4BD1' onclick='submitReview(event)'>PRR</button>
@@ -795,9 +840,12 @@ Calculate the area of the rectangle.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A7776F84-C1E8-4F7A-B95D-0642729A4BD1' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='A7776F84-C1E8-4F7A-B95D-0642729A4BD1' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A7776F84-C1E8-4F7A-B95D-0642729A4BD1' id='FORM-A7776F84-C1E8-4F7A-B95D-0642729A4BD1' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='A7776F84-C1E8-4F7A-B95D-0642729A4BD1' id='FORM-A7776F84-C1E8-4F7A-B95D-0642729A4BD1' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -817,10 +865,10 @@ Calculate the area of the rectangle.
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -869,6 +917,9 @@ The area of the parallelogram is $38 \ \text{cm}^2$. Find the length of its base
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='61A3F8DC-F527-4F5A-ACC5-9DD9A5F2E7FE' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='61A3F8DC-F527-4F5A-ACC5-9DD9A5F2E7FE' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='61A3F8DC-F527-4F5A-ACC5-9DD9A5F2E7FE' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -881,7 +932,7 @@ The area of the parallelogram is $38 \ \text{cm}^2$. Find the length of its base
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='61A3F8DC-F527-4F5A-ACC5-9DD9A5F2E7FE' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='61A3F8DC-F527-4F5A-ACC5-9DD9A5F2E7FE' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='61A3F8DC-F527-4F5A-ACC5-9DD9A5F2E7FE' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='61A3F8DC-F527-4F5A-ACC5-9DD9A5F2E7FE' onclick='submitReview(event)'>PRR</button>
@@ -892,9 +943,12 @@ The area of the parallelogram is $38 \ \text{cm}^2$. Find the length of its base
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='61A3F8DC-F527-4F5A-ACC5-9DD9A5F2E7FE' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='61A3F8DC-F527-4F5A-ACC5-9DD9A5F2E7FE' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='61A3F8DC-F527-4F5A-ACC5-9DD9A5F2E7FE' id='FORM-61A3F8DC-F527-4F5A-ACC5-9DD9A5F2E7FE' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='61A3F8DC-F527-4F5A-ACC5-9DD9A5F2E7FE' id='FORM-61A3F8DC-F527-4F5A-ACC5-9DD9A5F2E7FE' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -914,10 +968,10 @@ The area of the parallelogram is $38 \ \text{cm}^2$. Find the length of its base
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1007,6 +1061,9 @@ Find the area of the garden.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='73F88708-385D-49B6-B52A-C7C9AF1BAE57' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='73F88708-385D-49B6-B52A-C7C9AF1BAE57' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='73F88708-385D-49B6-B52A-C7C9AF1BAE57' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1019,7 +1076,7 @@ Find the area of the garden.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='73F88708-385D-49B6-B52A-C7C9AF1BAE57' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='73F88708-385D-49B6-B52A-C7C9AF1BAE57' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='73F88708-385D-49B6-B52A-C7C9AF1BAE57' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='73F88708-385D-49B6-B52A-C7C9AF1BAE57' onclick='submitReview(event)'>PRR</button>
@@ -1030,9 +1087,12 @@ Find the area of the garden.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='73F88708-385D-49B6-B52A-C7C9AF1BAE57' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='73F88708-385D-49B6-B52A-C7C9AF1BAE57' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='73F88708-385D-49B6-B52A-C7C9AF1BAE57' id='FORM-73F88708-385D-49B6-B52A-C7C9AF1BAE57' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='73F88708-385D-49B6-B52A-C7C9AF1BAE57' id='FORM-73F88708-385D-49B6-B52A-C7C9AF1BAE57' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1052,10 +1112,10 @@ Find the area of the garden.
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:2:13</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1114,6 +1174,9 @@ The perimeter of this outer square shape
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8F274E8D-5AD2-4460-B3B3-A57416506B6E' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8F274E8D-5AD2-4460-B3B3-A57416506B6E' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8F274E8D-5AD2-4460-B3B3-A57416506B6E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1126,7 +1189,7 @@ The perimeter of this outer square shape
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8F274E8D-5AD2-4460-B3B3-A57416506B6E' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8F274E8D-5AD2-4460-B3B3-A57416506B6E' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8F274E8D-5AD2-4460-B3B3-A57416506B6E' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8F274E8D-5AD2-4460-B3B3-A57416506B6E' onclick='submitReview(event)'>PRR</button>
@@ -1137,9 +1200,12 @@ The perimeter of this outer square shape
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8F274E8D-5AD2-4460-B3B3-A57416506B6E' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='8F274E8D-5AD2-4460-B3B3-A57416506B6E' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='8F274E8D-5AD2-4460-B3B3-A57416506B6E' id='FORM-8F274E8D-5AD2-4460-B3B3-A57416506B6E' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8F274E8D-5AD2-4460-B3B3-A57416506B6E' id='FORM-8F274E8D-5AD2-4460-B3B3-A57416506B6E' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1159,10 +1225,10 @@ The perimeter of this outer square shape
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:2:14</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1206,6 +1272,9 @@ The area of the shaded inner square.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AA6E0084-63AD-4E84-B181-6CAB6581076E' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AA6E0084-63AD-4E84-B181-6CAB6581076E' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AA6E0084-63AD-4E84-B181-6CAB6581076E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1218,7 +1287,7 @@ The area of the shaded inner square.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AA6E0084-63AD-4E84-B181-6CAB6581076E' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AA6E0084-63AD-4E84-B181-6CAB6581076E' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AA6E0084-63AD-4E84-B181-6CAB6581076E' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AA6E0084-63AD-4E84-B181-6CAB6581076E' onclick='submitReview(event)'>PRR</button>
@@ -1229,9 +1298,12 @@ The area of the shaded inner square.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AA6E0084-63AD-4E84-B181-6CAB6581076E' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='AA6E0084-63AD-4E84-B181-6CAB6581076E' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='AA6E0084-63AD-4E84-B181-6CAB6581076E' id='FORM-AA6E0084-63AD-4E84-B181-6CAB6581076E' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AA6E0084-63AD-4E84-B181-6CAB6581076E' id='FORM-AA6E0084-63AD-4E84-B181-6CAB6581076E' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1251,10 +1323,10 @@ The area of the shaded inner square.
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1305,6 +1377,9 @@ Work out the area of one of the squares.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0015986A-8689-4697-907E-D8FF9E05B338' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0015986A-8689-4697-907E-D8FF9E05B338' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0015986A-8689-4697-907E-D8FF9E05B338' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1317,7 +1392,7 @@ Work out the area of one of the squares.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0015986A-8689-4697-907E-D8FF9E05B338' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0015986A-8689-4697-907E-D8FF9E05B338' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0015986A-8689-4697-907E-D8FF9E05B338' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0015986A-8689-4697-907E-D8FF9E05B338' onclick='submitReview(event)'>PRR</button>
@@ -1328,9 +1403,12 @@ Work out the area of one of the squares.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0015986A-8689-4697-907E-D8FF9E05B338' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='0015986A-8689-4697-907E-D8FF9E05B338' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='0015986A-8689-4697-907E-D8FF9E05B338' id='FORM-0015986A-8689-4697-907E-D8FF9E05B338' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0015986A-8689-4697-907E-D8FF9E05B338' id='FORM-0015986A-8689-4697-907E-D8FF9E05B338' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1350,10 +1428,10 @@ Work out the area of one of the squares.
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:30</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1394,6 +1472,9 @@ What area of the table is covered?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='19234F0C-4C85-4F00-8A0C-D18A9430B6A0' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='19234F0C-4C85-4F00-8A0C-D18A9430B6A0' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='19234F0C-4C85-4F00-8A0C-D18A9430B6A0' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1406,7 +1487,7 @@ What area of the table is covered?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='19234F0C-4C85-4F00-8A0C-D18A9430B6A0' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='19234F0C-4C85-4F00-8A0C-D18A9430B6A0' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='19234F0C-4C85-4F00-8A0C-D18A9430B6A0' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='19234F0C-4C85-4F00-8A0C-D18A9430B6A0' onclick='submitReview(event)'>PRR</button>
@@ -1417,9 +1498,12 @@ What area of the table is covered?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='19234F0C-4C85-4F00-8A0C-D18A9430B6A0' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='19234F0C-4C85-4F00-8A0C-D18A9430B6A0' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='19234F0C-4C85-4F00-8A0C-D18A9430B6A0' id='FORM-19234F0C-4C85-4F00-8A0C-D18A9430B6A0' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='19234F0C-4C85-4F00-8A0C-D18A9430B6A0' id='FORM-19234F0C-4C85-4F00-8A0C-D18A9430B6A0' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1439,10 +1523,10 @@ What area of the table is covered?
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:31</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1478,6 +1562,9 @@ What are the lengths of its edges?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='80391C1A-13B4-4C02-A048-8C0B0C4AF7B9' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='80391C1A-13B4-4C02-A048-8C0B0C4AF7B9' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='80391C1A-13B4-4C02-A048-8C0B0C4AF7B9' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1490,7 +1577,7 @@ What are the lengths of its edges?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='80391C1A-13B4-4C02-A048-8C0B0C4AF7B9' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='80391C1A-13B4-4C02-A048-8C0B0C4AF7B9' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='80391C1A-13B4-4C02-A048-8C0B0C4AF7B9' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='80391C1A-13B4-4C02-A048-8C0B0C4AF7B9' onclick='submitReview(event)'>PRR</button>
@@ -1501,9 +1588,12 @@ What are the lengths of its edges?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='80391C1A-13B4-4C02-A048-8C0B0C4AF7B9' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='80391C1A-13B4-4C02-A048-8C0B0C4AF7B9' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='80391C1A-13B4-4C02-A048-8C0B0C4AF7B9' id='FORM-80391C1A-13B4-4C02-A048-8C0B0C4AF7B9' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='80391C1A-13B4-4C02-A048-8C0B0C4AF7B9' id='FORM-80391C1A-13B4-4C02-A048-8C0B0C4AF7B9' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1523,10 +1613,10 @@ What are the lengths of its edges?
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:1:30</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1587,6 +1677,9 @@ These semi-circles overlap to create four petals which are shaded on the diagram
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F8A86128-E9CD-4E5B-81FE-655FA461B833' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F8A86128-E9CD-4E5B-81FE-655FA461B833' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F8A86128-E9CD-4E5B-81FE-655FA461B833' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1599,7 +1692,7 @@ These semi-circles overlap to create four petals which are shaded on the diagram
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F8A86128-E9CD-4E5B-81FE-655FA461B833' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F8A86128-E9CD-4E5B-81FE-655FA461B833' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F8A86128-E9CD-4E5B-81FE-655FA461B833' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F8A86128-E9CD-4E5B-81FE-655FA461B833' onclick='submitReview(event)'>PRR</button>
@@ -1610,9 +1703,12 @@ These semi-circles overlap to create four petals which are shaded on the diagram
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F8A86128-E9CD-4E5B-81FE-655FA461B833' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='F8A86128-E9CD-4E5B-81FE-655FA461B833' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='F8A86128-E9CD-4E5B-81FE-655FA461B833' id='FORM-F8A86128-E9CD-4E5B-81FE-655FA461B833' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F8A86128-E9CD-4E5B-81FE-655FA461B833' id='FORM-F8A86128-E9CD-4E5B-81FE-655FA461B833' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1632,10 +1728,10 @@ These semi-circles overlap to create four petals which are shaded on the diagram
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:24</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1718,6 +1814,9 @@ to turn on. How long does it take me to mow my lawn?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3603BB2B-CD77-4715-948E-F254C76F0ED3' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3603BB2B-CD77-4715-948E-F254C76F0ED3' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3603BB2B-CD77-4715-948E-F254C76F0ED3' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1730,7 +1829,7 @@ to turn on. How long does it take me to mow my lawn?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3603BB2B-CD77-4715-948E-F254C76F0ED3' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3603BB2B-CD77-4715-948E-F254C76F0ED3' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3603BB2B-CD77-4715-948E-F254C76F0ED3' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3603BB2B-CD77-4715-948E-F254C76F0ED3' onclick='submitReview(event)'>PRR</button>
@@ -1741,9 +1840,12 @@ to turn on. How long does it take me to mow my lawn?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3603BB2B-CD77-4715-948E-F254C76F0ED3' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='3603BB2B-CD77-4715-948E-F254C76F0ED3' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='3603BB2B-CD77-4715-948E-F254C76F0ED3' id='FORM-3603BB2B-CD77-4715-948E-F254C76F0ED3' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='3603BB2B-CD77-4715-948E-F254C76F0ED3' id='FORM-3603BB2B-CD77-4715-948E-F254C76F0ED3' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1763,10 +1865,10 @@ to turn on. How long does it take me to mow my lawn?
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:28</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1855,6 +1957,9 @@ A total of $121$ people live on the island. If $81$ people live on land which is
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4ECFAAF5-2DF4-47D3-964C-185579B461DA' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4ECFAAF5-2DF4-47D3-964C-185579B461DA' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4ECFAAF5-2DF4-47D3-964C-185579B461DA' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1867,7 +1972,7 @@ A total of $121$ people live on the island. If $81$ people live on land which is
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4ECFAAF5-2DF4-47D3-964C-185579B461DA' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4ECFAAF5-2DF4-47D3-964C-185579B461DA' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4ECFAAF5-2DF4-47D3-964C-185579B461DA' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4ECFAAF5-2DF4-47D3-964C-185579B461DA' onclick='submitReview(event)'>PRR</button>
@@ -1878,9 +1983,12 @@ A total of $121$ people live on the island. If $81$ people live on land which is
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4ECFAAF5-2DF4-47D3-964C-185579B461DA' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='4ECFAAF5-2DF4-47D3-964C-185579B461DA' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='4ECFAAF5-2DF4-47D3-964C-185579B461DA' id='FORM-4ECFAAF5-2DF4-47D3-964C-185579B461DA' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4ECFAAF5-2DF4-47D3-964C-185579B461DA' id='FORM-4ECFAAF5-2DF4-47D3-964C-185579B461DA' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1900,10 +2008,10 @@ A total of $121$ people live on the island. If $81$ people live on land which is
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:26</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1982,6 +2090,9 @@ Assuming that this connection works for all right-angled triangles, work out the
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9AFCEC15-E0F7-498D-AF0F-C1E51D8491EB' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9AFCEC15-E0F7-498D-AF0F-C1E51D8491EB' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9AFCEC15-E0F7-498D-AF0F-C1E51D8491EB' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1994,7 +2105,7 @@ Assuming that this connection works for all right-angled triangles, work out the
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9AFCEC15-E0F7-498D-AF0F-C1E51D8491EB' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9AFCEC15-E0F7-498D-AF0F-C1E51D8491EB' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9AFCEC15-E0F7-498D-AF0F-C1E51D8491EB' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9AFCEC15-E0F7-498D-AF0F-C1E51D8491EB' onclick='submitReview(event)'>PRR</button>
@@ -2005,9 +2116,12 @@ Assuming that this connection works for all right-angled triangles, work out the
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9AFCEC15-E0F7-498D-AF0F-C1E51D8491EB' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='9AFCEC15-E0F7-498D-AF0F-C1E51D8491EB' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='9AFCEC15-E0F7-498D-AF0F-C1E51D8491EB' id='FORM-9AFCEC15-E0F7-498D-AF0F-C1E51D8491EB' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9AFCEC15-E0F7-498D-AF0F-C1E51D8491EB' id='FORM-9AFCEC15-E0F7-498D-AF0F-C1E51D8491EB' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2027,10 +2141,10 @@ Assuming that this connection works for all right-angled triangles, work out the
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:30</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -2112,6 +2226,9 @@ Use this fact to work out the area of each of the shaded regions shown in the di
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92314102-4E5A-424B-A741-DAF7CFDCBC2C' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92314102-4E5A-424B-A741-DAF7CFDCBC2C' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92314102-4E5A-424B-A741-DAF7CFDCBC2C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2124,7 +2241,7 @@ Use this fact to work out the area of each of the shaded regions shown in the di
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92314102-4E5A-424B-A741-DAF7CFDCBC2C' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92314102-4E5A-424B-A741-DAF7CFDCBC2C' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92314102-4E5A-424B-A741-DAF7CFDCBC2C' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92314102-4E5A-424B-A741-DAF7CFDCBC2C' onclick='submitReview(event)'>PRR</button>
@@ -2135,9 +2252,12 @@ Use this fact to work out the area of each of the shaded regions shown in the di
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92314102-4E5A-424B-A741-DAF7CFDCBC2C' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='92314102-4E5A-424B-A741-DAF7CFDCBC2C' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='92314102-4E5A-424B-A741-DAF7CFDCBC2C' id='FORM-92314102-4E5A-424B-A741-DAF7CFDCBC2C' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92314102-4E5A-424B-A741-DAF7CFDCBC2C' id='FORM-92314102-4E5A-424B-A741-DAF7CFDCBC2C' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2157,10 +2277,10 @@ Use this fact to work out the area of each of the shaded regions shown in the di
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:15</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -2196,6 +2316,9 @@ Find the perimeter of a square with an area of $121 \ \text{cm}^2$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C3229D2F-CF27-4E5A-A8CC-334AD15D2A96' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C3229D2F-CF27-4E5A-A8CC-334AD15D2A96' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C3229D2F-CF27-4E5A-A8CC-334AD15D2A96' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2208,7 +2331,7 @@ Find the perimeter of a square with an area of $121 \ \text{cm}^2$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C3229D2F-CF27-4E5A-A8CC-334AD15D2A96' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C3229D2F-CF27-4E5A-A8CC-334AD15D2A96' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C3229D2F-CF27-4E5A-A8CC-334AD15D2A96' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C3229D2F-CF27-4E5A-A8CC-334AD15D2A96' onclick='submitReview(event)'>PRR</button>
@@ -2219,9 +2342,12 @@ Find the perimeter of a square with an area of $121 \ \text{cm}^2$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C3229D2F-CF27-4E5A-A8CC-334AD15D2A96' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='C3229D2F-CF27-4E5A-A8CC-334AD15D2A96' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='C3229D2F-CF27-4E5A-A8CC-334AD15D2A96' id='FORM-C3229D2F-CF27-4E5A-A8CC-334AD15D2A96' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C3229D2F-CF27-4E5A-A8CC-334AD15D2A96' id='FORM-C3229D2F-CF27-4E5A-A8CC-334AD15D2A96' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2241,10 +2367,10 @@ Find the perimeter of a square with an area of $121 \ \text{cm}^2$.
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:23</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -2331,6 +2457,9 @@ She starts at the bottom left-hand corner labelled A on the diagram. Given that 
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C7E86479-B31F-4991-93EC-2154A3C5A2FE' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C7E86479-B31F-4991-93EC-2154A3C5A2FE' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C7E86479-B31F-4991-93EC-2154A3C5A2FE' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2343,7 +2472,7 @@ She starts at the bottom left-hand corner labelled A on the diagram. Given that 
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C7E86479-B31F-4991-93EC-2154A3C5A2FE' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C7E86479-B31F-4991-93EC-2154A3C5A2FE' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C7E86479-B31F-4991-93EC-2154A3C5A2FE' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C7E86479-B31F-4991-93EC-2154A3C5A2FE' onclick='submitReview(event)'>PRR</button>
@@ -2354,9 +2483,12 @@ She starts at the bottom left-hand corner labelled A on the diagram. Given that 
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C7E86479-B31F-4991-93EC-2154A3C5A2FE' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='C7E86479-B31F-4991-93EC-2154A3C5A2FE' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='C7E86479-B31F-4991-93EC-2154A3C5A2FE' id='FORM-C7E86479-B31F-4991-93EC-2154A3C5A2FE' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C7E86479-B31F-4991-93EC-2154A3C5A2FE' id='FORM-C7E86479-B31F-4991-93EC-2154A3C5A2FE' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2376,10 +2508,10 @@ She starts at the bottom left-hand corner labelled A on the diagram. Given that 
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:27</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -2426,6 +2558,9 @@ Draw a possible right-angled triangle, $E$, which corresponds to the remaining b
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BA362291-5D3D-4A14-B988-DD3D44D7753B' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BA362291-5D3D-4A14-B988-DD3D44D7753B' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BA362291-5D3D-4A14-B988-DD3D44D7753B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2438,7 +2573,7 @@ Draw a possible right-angled triangle, $E$, which corresponds to the remaining b
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BA362291-5D3D-4A14-B988-DD3D44D7753B' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BA362291-5D3D-4A14-B988-DD3D44D7753B' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BA362291-5D3D-4A14-B988-DD3D44D7753B' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BA362291-5D3D-4A14-B988-DD3D44D7753B' onclick='submitReview(event)'>PRR</button>
@@ -2449,9 +2584,12 @@ Draw a possible right-angled triangle, $E$, which corresponds to the remaining b
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BA362291-5D3D-4A14-B988-DD3D44D7753B' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='BA362291-5D3D-4A14-B988-DD3D44D7753B' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='BA362291-5D3D-4A14-B988-DD3D44D7753B' id='FORM-BA362291-5D3D-4A14-B988-DD3D44D7753B' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BA362291-5D3D-4A14-B988-DD3D44D7753B' id='FORM-BA362291-5D3D-4A14-B988-DD3D44D7753B' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2471,10 +2609,10 @@ Draw a possible right-angled triangle, $E$, which corresponds to the remaining b
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:22</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -2538,6 +2676,9 @@ How much money does Stuart have left after buying the picket fencing?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F1F1A10E-00DD-4BD6-8869-3317F652EBF6' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F1F1A10E-00DD-4BD6-8869-3317F652EBF6' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F1F1A10E-00DD-4BD6-8869-3317F652EBF6' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2550,7 +2691,7 @@ How much money does Stuart have left after buying the picket fencing?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F1F1A10E-00DD-4BD6-8869-3317F652EBF6' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F1F1A10E-00DD-4BD6-8869-3317F652EBF6' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F1F1A10E-00DD-4BD6-8869-3317F652EBF6' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F1F1A10E-00DD-4BD6-8869-3317F652EBF6' onclick='submitReview(event)'>PRR</button>
@@ -2561,9 +2702,12 @@ How much money does Stuart have left after buying the picket fencing?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F1F1A10E-00DD-4BD6-8869-3317F652EBF6' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='F1F1A10E-00DD-4BD6-8869-3317F652EBF6' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='F1F1A10E-00DD-4BD6-8869-3317F652EBF6' id='FORM-F1F1A10E-00DD-4BD6-8869-3317F652EBF6' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F1F1A10E-00DD-4BD6-8869-3317F652EBF6' id='FORM-F1F1A10E-00DD-4BD6-8869-3317F652EBF6' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2583,10 +2727,10 @@ How much money does Stuart have left after buying the picket fencing?
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:28</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -2670,6 +2814,9 @@ By thinking of two different ways to work out the area of the triangle, calculat
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92F80963-988F-40D1-8627-64ABC7E9229B' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92F80963-988F-40D1-8627-64ABC7E9229B' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92F80963-988F-40D1-8627-64ABC7E9229B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2682,7 +2829,7 @@ By thinking of two different ways to work out the area of the triangle, calculat
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92F80963-988F-40D1-8627-64ABC7E9229B' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92F80963-988F-40D1-8627-64ABC7E9229B' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92F80963-988F-40D1-8627-64ABC7E9229B' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92F80963-988F-40D1-8627-64ABC7E9229B' onclick='submitReview(event)'>PRR</button>
@@ -2693,9 +2840,12 @@ By thinking of two different ways to work out the area of the triangle, calculat
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92F80963-988F-40D1-8627-64ABC7E9229B' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='92F80963-988F-40D1-8627-64ABC7E9229B' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='92F80963-988F-40D1-8627-64ABC7E9229B' id='FORM-92F80963-988F-40D1-8627-64ABC7E9229B' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92F80963-988F-40D1-8627-64ABC7E9229B' id='FORM-92F80963-988F-40D1-8627-64ABC7E9229B' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2715,10 +2865,10 @@ By thinking of two different ways to work out the area of the triangle, calculat
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -2875,6 +3025,9 @@ find how much it will cost Farmer Fred to buy $15 \ \text{metres}$ of fence.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DFB8F18B-6FCB-4527-8F2A-F126CF63FF3F' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DFB8F18B-6FCB-4527-8F2A-F126CF63FF3F' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DFB8F18B-6FCB-4527-8F2A-F126CF63FF3F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2887,7 +3040,7 @@ find how much it will cost Farmer Fred to buy $15 \ \text{metres}$ of fence.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DFB8F18B-6FCB-4527-8F2A-F126CF63FF3F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DFB8F18B-6FCB-4527-8F2A-F126CF63FF3F' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DFB8F18B-6FCB-4527-8F2A-F126CF63FF3F' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DFB8F18B-6FCB-4527-8F2A-F126CF63FF3F' onclick='submitReview(event)'>PRR</button>
@@ -2898,9 +3051,12 @@ find how much it will cost Farmer Fred to buy $15 \ \text{metres}$ of fence.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DFB8F18B-6FCB-4527-8F2A-F126CF63FF3F' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='DFB8F18B-6FCB-4527-8F2A-F126CF63FF3F' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='DFB8F18B-6FCB-4527-8F2A-F126CF63FF3F' id='FORM-DFB8F18B-6FCB-4527-8F2A-F126CF63FF3F' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DFB8F18B-6FCB-4527-8F2A-F126CF63FF3F' id='FORM-DFB8F18B-6FCB-4527-8F2A-F126CF63FF3F' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2920,10 +3076,10 @@ find how much it will cost Farmer Fred to buy $15 \ \text{metres}$ of fence.
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:1:7</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -3035,6 +3191,9 @@ Calculate the area of shape $A$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='52B57CEE-EB59-46CE-89AD-B64FB5FFC423' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='52B57CEE-EB59-46CE-89AD-B64FB5FFC423' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='52B57CEE-EB59-46CE-89AD-B64FB5FFC423' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -3047,7 +3206,7 @@ Calculate the area of shape $A$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='52B57CEE-EB59-46CE-89AD-B64FB5FFC423' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='52B57CEE-EB59-46CE-89AD-B64FB5FFC423' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='52B57CEE-EB59-46CE-89AD-B64FB5FFC423' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='52B57CEE-EB59-46CE-89AD-B64FB5FFC423' onclick='submitReview(event)'>PRR</button>
@@ -3058,9 +3217,12 @@ Calculate the area of shape $A$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='52B57CEE-EB59-46CE-89AD-B64FB5FFC423' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='52B57CEE-EB59-46CE-89AD-B64FB5FFC423' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='52B57CEE-EB59-46CE-89AD-B64FB5FFC423' id='FORM-52B57CEE-EB59-46CE-89AD-B64FB5FFC423' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='52B57CEE-EB59-46CE-89AD-B64FB5FFC423' id='FORM-52B57CEE-EB59-46CE-89AD-B64FB5FFC423' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3080,10 +3242,10 @@ Calculate the area of shape $A$.
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:1:11</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -3192,6 +3354,9 @@ Calculate the area of shape $A$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BCC3D76C-C7FD-43BE-A95D-7899BEACE5D1' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BCC3D76C-C7FD-43BE-A95D-7899BEACE5D1' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BCC3D76C-C7FD-43BE-A95D-7899BEACE5D1' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -3204,7 +3369,7 @@ Calculate the area of shape $A$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BCC3D76C-C7FD-43BE-A95D-7899BEACE5D1' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BCC3D76C-C7FD-43BE-A95D-7899BEACE5D1' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BCC3D76C-C7FD-43BE-A95D-7899BEACE5D1' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BCC3D76C-C7FD-43BE-A95D-7899BEACE5D1' onclick='submitReview(event)'>PRR</button>
@@ -3215,9 +3380,12 @@ Calculate the area of shape $A$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BCC3D76C-C7FD-43BE-A95D-7899BEACE5D1' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='BCC3D76C-C7FD-43BE-A95D-7899BEACE5D1' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='BCC3D76C-C7FD-43BE-A95D-7899BEACE5D1' id='FORM-BCC3D76C-C7FD-43BE-A95D-7899BEACE5D1' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BCC3D76C-C7FD-43BE-A95D-7899BEACE5D1' id='FORM-BCC3D76C-C7FD-43BE-A95D-7899BEACE5D1' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3237,10 +3405,10 @@ Calculate the area of shape $A$.
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:1:16</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -3331,6 +3499,9 @@ than the $3$ rectangles above.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B6B76252-CCC5-4801-94D1-62EACE5B2AA6' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B6B76252-CCC5-4801-94D1-62EACE5B2AA6' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B6B76252-CCC5-4801-94D1-62EACE5B2AA6' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -3343,7 +3514,7 @@ than the $3$ rectangles above.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B6B76252-CCC5-4801-94D1-62EACE5B2AA6' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B6B76252-CCC5-4801-94D1-62EACE5B2AA6' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B6B76252-CCC5-4801-94D1-62EACE5B2AA6' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B6B76252-CCC5-4801-94D1-62EACE5B2AA6' onclick='submitReview(event)'>PRR</button>
@@ -3354,9 +3525,12 @@ than the $3$ rectangles above.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B6B76252-CCC5-4801-94D1-62EACE5B2AA6' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='B6B76252-CCC5-4801-94D1-62EACE5B2AA6' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='B6B76252-CCC5-4801-94D1-62EACE5B2AA6' id='FORM-B6B76252-CCC5-4801-94D1-62EACE5B2AA6' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B6B76252-CCC5-4801-94D1-62EACE5B2AA6' id='FORM-B6B76252-CCC5-4801-94D1-62EACE5B2AA6' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3376,10 +3550,10 @@ than the $3$ rectangles above.
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:6</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -3474,6 +3648,9 @@ Give your answer with the correct units.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4542586E-006B-43F3-866D-BE386E0404C7' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4542586E-006B-43F3-866D-BE386E0404C7' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4542586E-006B-43F3-866D-BE386E0404C7' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -3486,7 +3663,7 @@ Give your answer with the correct units.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4542586E-006B-43F3-866D-BE386E0404C7' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4542586E-006B-43F3-866D-BE386E0404C7' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4542586E-006B-43F3-866D-BE386E0404C7' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4542586E-006B-43F3-866D-BE386E0404C7' onclick='submitReview(event)'>PRR</button>
@@ -3497,9 +3674,12 @@ Give your answer with the correct units.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4542586E-006B-43F3-866D-BE386E0404C7' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='4542586E-006B-43F3-866D-BE386E0404C7' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='4542586E-006B-43F3-866D-BE386E0404C7' id='FORM-4542586E-006B-43F3-866D-BE386E0404C7' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4542586E-006B-43F3-866D-BE386E0404C7' id='FORM-4542586E-006B-43F3-866D-BE386E0404C7' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3519,10 +3699,10 @@ Give your answer with the correct units.
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:20</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -3668,6 +3848,9 @@ If the total length of this fence is $30 \ \text{m}$, write down two possible va
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CC765B1A-2C48-4EA1-BE5D-B7BC07413F8B' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CC765B1A-2C48-4EA1-BE5D-B7BC07413F8B' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CC765B1A-2C48-4EA1-BE5D-B7BC07413F8B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -3680,7 +3863,7 @@ If the total length of this fence is $30 \ \text{m}$, write down two possible va
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CC765B1A-2C48-4EA1-BE5D-B7BC07413F8B' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CC765B1A-2C48-4EA1-BE5D-B7BC07413F8B' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CC765B1A-2C48-4EA1-BE5D-B7BC07413F8B' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CC765B1A-2C48-4EA1-BE5D-B7BC07413F8B' onclick='submitReview(event)'>PRR</button>
@@ -3691,9 +3874,12 @@ If the total length of this fence is $30 \ \text{m}$, write down two possible va
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CC765B1A-2C48-4EA1-BE5D-B7BC07413F8B' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='CC765B1A-2C48-4EA1-BE5D-B7BC07413F8B' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='CC765B1A-2C48-4EA1-BE5D-B7BC07413F8B' id='FORM-CC765B1A-2C48-4EA1-BE5D-B7BC07413F8B' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CC765B1A-2C48-4EA1-BE5D-B7BC07413F8B' id='FORM-CC765B1A-2C48-4EA1-BE5D-B7BC07413F8B' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3713,10 +3899,10 @@ If the total length of this fence is $30 \ \text{m}$, write down two possible va
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -3756,6 +3942,9 @@ How many posts does he need?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8B7C8089-6C3E-4010-9B82-DDD78E28A7D4' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8B7C8089-6C3E-4010-9B82-DDD78E28A7D4' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8B7C8089-6C3E-4010-9B82-DDD78E28A7D4' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -3768,7 +3957,7 @@ How many posts does he need?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8B7C8089-6C3E-4010-9B82-DDD78E28A7D4' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8B7C8089-6C3E-4010-9B82-DDD78E28A7D4' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8B7C8089-6C3E-4010-9B82-DDD78E28A7D4' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8B7C8089-6C3E-4010-9B82-DDD78E28A7D4' onclick='submitReview(event)'>PRR</button>
@@ -3779,9 +3968,12 @@ How many posts does he need?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8B7C8089-6C3E-4010-9B82-DDD78E28A7D4' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='8B7C8089-6C3E-4010-9B82-DDD78E28A7D4' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='8B7C8089-6C3E-4010-9B82-DDD78E28A7D4' id='FORM-8B7C8089-6C3E-4010-9B82-DDD78E28A7D4' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8B7C8089-6C3E-4010-9B82-DDD78E28A7D4' id='FORM-8B7C8089-6C3E-4010-9B82-DDD78E28A7D4' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3801,10 +3993,10 @@ How many posts does he need?
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -3867,6 +4059,9 @@ Find its area.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='405D4AAD-9D11-4939-A93A-534F1098034F' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='405D4AAD-9D11-4939-A93A-534F1098034F' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='405D4AAD-9D11-4939-A93A-534F1098034F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -3879,7 +4074,7 @@ Find its area.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='405D4AAD-9D11-4939-A93A-534F1098034F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='405D4AAD-9D11-4939-A93A-534F1098034F' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='405D4AAD-9D11-4939-A93A-534F1098034F' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='405D4AAD-9D11-4939-A93A-534F1098034F' onclick='submitReview(event)'>PRR</button>
@@ -3890,9 +4085,12 @@ Find its area.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='405D4AAD-9D11-4939-A93A-534F1098034F' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='405D4AAD-9D11-4939-A93A-534F1098034F' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='405D4AAD-9D11-4939-A93A-534F1098034F' id='FORM-405D4AAD-9D11-4939-A93A-534F1098034F' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='405D4AAD-9D11-4939-A93A-534F1098034F' id='FORM-405D4AAD-9D11-4939-A93A-534F1098034F' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3912,10 +4110,10 @@ Find its area.
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:21</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -3994,6 +4192,9 @@ Each small square is $1 \ \text{cm}$ by $1 \ \text{cm}$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6855E337-9382-4955-A945-C9309C3BE90F' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6855E337-9382-4955-A945-C9309C3BE90F' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6855E337-9382-4955-A945-C9309C3BE90F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -4006,7 +4207,7 @@ Each small square is $1 \ \text{cm}$ by $1 \ \text{cm}$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6855E337-9382-4955-A945-C9309C3BE90F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6855E337-9382-4955-A945-C9309C3BE90F' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6855E337-9382-4955-A945-C9309C3BE90F' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6855E337-9382-4955-A945-C9309C3BE90F' onclick='submitReview(event)'>PRR</button>
@@ -4017,9 +4218,12 @@ Each small square is $1 \ \text{cm}$ by $1 \ \text{cm}$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6855E337-9382-4955-A945-C9309C3BE90F' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='6855E337-9382-4955-A945-C9309C3BE90F' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='6855E337-9382-4955-A945-C9309C3BE90F' id='FORM-6855E337-9382-4955-A945-C9309C3BE90F' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6855E337-9382-4955-A945-C9309C3BE90F' id='FORM-6855E337-9382-4955-A945-C9309C3BE90F' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -4039,10 +4243,10 @@ Each small square is $1 \ \text{cm}$ by $1 \ \text{cm}$.
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:26</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -4083,6 +4287,9 @@ Draw and shade in another shape which has an area of $4$ hexagons and a perimete
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0C434C5A-79A3-42C3-B33C-785D8644C7DA' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0C434C5A-79A3-42C3-B33C-785D8644C7DA' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0C434C5A-79A3-42C3-B33C-785D8644C7DA' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -4095,7 +4302,7 @@ Draw and shade in another shape which has an area of $4$ hexagons and a perimete
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0C434C5A-79A3-42C3-B33C-785D8644C7DA' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0C434C5A-79A3-42C3-B33C-785D8644C7DA' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0C434C5A-79A3-42C3-B33C-785D8644C7DA' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0C434C5A-79A3-42C3-B33C-785D8644C7DA' onclick='submitReview(event)'>PRR</button>
@@ -4106,9 +4313,12 @@ Draw and shade in another shape which has an area of $4$ hexagons and a perimete
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0C434C5A-79A3-42C3-B33C-785D8644C7DA' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='0C434C5A-79A3-42C3-B33C-785D8644C7DA' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='0C434C5A-79A3-42C3-B33C-785D8644C7DA' id='FORM-0C434C5A-79A3-42C3-B33C-785D8644C7DA' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0C434C5A-79A3-42C3-B33C-785D8644C7DA' id='FORM-0C434C5A-79A3-42C3-B33C-785D8644C7DA' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -4128,10 +4338,10 @@ Draw and shade in another shape which has an area of $4$ hexagons and a perimete
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:29</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -4168,6 +4378,9 @@ The area of this rectangle is $24 \ \text{cm}^2$. What is its perimeter in cm?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8CFFC8B9-38B4-4B21-8408-CE0D03137FD7' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8CFFC8B9-38B4-4B21-8408-CE0D03137FD7' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8CFFC8B9-38B4-4B21-8408-CE0D03137FD7' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -4180,7 +4393,7 @@ The area of this rectangle is $24 \ \text{cm}^2$. What is its perimeter in cm?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8CFFC8B9-38B4-4B21-8408-CE0D03137FD7' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8CFFC8B9-38B4-4B21-8408-CE0D03137FD7' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8CFFC8B9-38B4-4B21-8408-CE0D03137FD7' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8CFFC8B9-38B4-4B21-8408-CE0D03137FD7' onclick='submitReview(event)'>PRR</button>
@@ -4191,9 +4404,12 @@ The area of this rectangle is $24 \ \text{cm}^2$. What is its perimeter in cm?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8CFFC8B9-38B4-4B21-8408-CE0D03137FD7' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='8CFFC8B9-38B4-4B21-8408-CE0D03137FD7' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='8CFFC8B9-38B4-4B21-8408-CE0D03137FD7' id='FORM-8CFFC8B9-38B4-4B21-8408-CE0D03137FD7' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8CFFC8B9-38B4-4B21-8408-CE0D03137FD7' id='FORM-8CFFC8B9-38B4-4B21-8408-CE0D03137FD7' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -4213,10 +4429,10 @@ The area of this rectangle is $24 \ \text{cm}^2$. What is its perimeter in cm?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:33</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -4303,6 +4519,9 @@ A teacher is weighing herself. The outer scale shows **stones*8 and **lbs** and 
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1D50D67D-D88C-49B9-949E-848E73310A92' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1D50D67D-D88C-49B9-949E-848E73310A92' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1D50D67D-D88C-49B9-949E-848E73310A92' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -4315,7 +4534,7 @@ A teacher is weighing herself. The outer scale shows **stones*8 and **lbs** and 
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1D50D67D-D88C-49B9-949E-848E73310A92' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1D50D67D-D88C-49B9-949E-848E73310A92' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1D50D67D-D88C-49B9-949E-848E73310A92' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1D50D67D-D88C-49B9-949E-848E73310A92' onclick='submitReview(event)'>PRR</button>
@@ -4326,9 +4545,12 @@ A teacher is weighing herself. The outer scale shows **stones*8 and **lbs** and 
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1D50D67D-D88C-49B9-949E-848E73310A92' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='1D50D67D-D88C-49B9-949E-848E73310A92' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='1D50D67D-D88C-49B9-949E-848E73310A92' id='FORM-1D50D67D-D88C-49B9-949E-848E73310A92' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='1D50D67D-D88C-49B9-949E-848E73310A92' id='FORM-1D50D67D-D88C-49B9-949E-848E73310A92' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -4340,7 +4562,7 @@ A teacher is weighing herself. The outer scale shows **stones*8 and **lbs** and 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>E7D1BED3-00FC-4923-94CA-88CE3E83BB8C</p>
 </div>
@@ -4348,13 +4570,13 @@ A teacher is weighing herself. The outer scale shows **stones*8 and **lbs** and 
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:31</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4405,6 +4627,9 @@ After the second sentence put a full stop.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E7D1BED3-00FC-4923-94CA-88CE3E83BB8C' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E7D1BED3-00FC-4923-94CA-88CE3E83BB8C' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E7D1BED3-00FC-4923-94CA-88CE3E83BB8C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -4417,7 +4642,7 @@ After the second sentence put a full stop.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E7D1BED3-00FC-4923-94CA-88CE3E83BB8C' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E7D1BED3-00FC-4923-94CA-88CE3E83BB8C' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E7D1BED3-00FC-4923-94CA-88CE3E83BB8C' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E7D1BED3-00FC-4923-94CA-88CE3E83BB8C' onclick='submitReview(event)'>PRR</button>
@@ -4428,9 +4653,12 @@ After the second sentence put a full stop.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E7D1BED3-00FC-4923-94CA-88CE3E83BB8C' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='E7D1BED3-00FC-4923-94CA-88CE3E83BB8C' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='E7D1BED3-00FC-4923-94CA-88CE3E83BB8C' id='FORM-E7D1BED3-00FC-4923-94CA-88CE3E83BB8C' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E7D1BED3-00FC-4923-94CA-88CE3E83BB8C' id='FORM-E7D1BED3-00FC-4923-94CA-88CE3E83BB8C' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -4450,10 +4678,10 @@ After the second sentence put a full stop.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -4490,6 +4718,9 @@ What is the area of this shape?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C56E63F7-3A43-43A3-BC1A-1FC3E09AE47C' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C56E63F7-3A43-43A3-BC1A-1FC3E09AE47C' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C56E63F7-3A43-43A3-BC1A-1FC3E09AE47C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -4502,7 +4733,7 @@ What is the area of this shape?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C56E63F7-3A43-43A3-BC1A-1FC3E09AE47C' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C56E63F7-3A43-43A3-BC1A-1FC3E09AE47C' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C56E63F7-3A43-43A3-BC1A-1FC3E09AE47C' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C56E63F7-3A43-43A3-BC1A-1FC3E09AE47C' onclick='submitReview(event)'>PRR</button>
@@ -4513,9 +4744,12 @@ What is the area of this shape?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C56E63F7-3A43-43A3-BC1A-1FC3E09AE47C' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='C56E63F7-3A43-43A3-BC1A-1FC3E09AE47C' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='C56E63F7-3A43-43A3-BC1A-1FC3E09AE47C' id='FORM-C56E63F7-3A43-43A3-BC1A-1FC3E09AE47C' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C56E63F7-3A43-43A3-BC1A-1FC3E09AE47C' id='FORM-C56E63F7-3A43-43A3-BC1A-1FC3E09AE47C' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -4535,10 +4769,10 @@ What is the area of this shape?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:28</p>
 </div>
 <div class='rag'>
-<p>Kamu Rohith</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_kr_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -4614,6 +4848,9 @@ What is the area of the shape?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6B9D5017-DB62-4D8E-872B-43FC3BA5B779' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6B9D5017-DB62-4D8E-872B-43FC3BA5B779' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6B9D5017-DB62-4D8E-872B-43FC3BA5B779' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -4626,7 +4863,7 @@ What is the area of the shape?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6B9D5017-DB62-4D8E-872B-43FC3BA5B779' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6B9D5017-DB62-4D8E-872B-43FC3BA5B779' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6B9D5017-DB62-4D8E-872B-43FC3BA5B779' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6B9D5017-DB62-4D8E-872B-43FC3BA5B779' onclick='submitReview(event)'>PRR</button>
@@ -4637,9 +4874,12 @@ What is the area of the shape?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6B9D5017-DB62-4D8E-872B-43FC3BA5B779' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='6B9D5017-DB62-4D8E-872B-43FC3BA5B779' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='6B9D5017-DB62-4D8E-872B-43FC3BA5B779' id='FORM-6B9D5017-DB62-4D8E-872B-43FC3BA5B779' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6B9D5017-DB62-4D8E-872B-43FC3BA5B779' id='FORM-6B9D5017-DB62-4D8E-872B-43FC3BA5B779' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tclock-1"
 title: "TopicPaper - Clock - 1"
-date: 2022-08-19 16:00:22
+date: 2022-09-09 06:32:25
 questions_count: "33"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "33"
 <p>benenden-school--11-plus--maths--2020--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -115,6 +115,9 @@ What angle does the minute hand turn through between $15{:}25$ and $15{:}35$?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='352F3C44-BB51-43E0-917D-DF972F69E92B' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='352F3C44-BB51-43E0-917D-DF972F69E92B' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='352F3C44-BB51-43E0-917D-DF972F69E92B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -127,7 +130,7 @@ What angle does the minute hand turn through between $15{:}25$ and $15{:}35$?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='352F3C44-BB51-43E0-917D-DF972F69E92B' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='352F3C44-BB51-43E0-917D-DF972F69E92B' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='352F3C44-BB51-43E0-917D-DF972F69E92B' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='352F3C44-BB51-43E0-917D-DF972F69E92B' onclick='submitReview(event)'>PRR</button>
@@ -138,9 +141,12 @@ What angle does the minute hand turn through between $15{:}25$ and $15{:}35$?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='352F3C44-BB51-43E0-917D-DF972F69E92B' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='352F3C44-BB51-43E0-917D-DF972F69E92B' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='352F3C44-BB51-43E0-917D-DF972F69E92B' id='FORM-352F3C44-BB51-43E0-917D-DF972F69E92B' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='352F3C44-BB51-43E0-917D-DF972F69E92B' id='FORM-352F3C44-BB51-43E0-917D-DF972F69E92B' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -160,10 +166,10 @@ What angle does the minute hand turn through between $15{:}25$ and $15{:}35$?
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -199,6 +205,9 @@ Calculate the angle between the hands of a clock at $9.30$.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='12548B45-68EA-4775-9632-A2AC3ED386E3' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='12548B45-68EA-4775-9632-A2AC3ED386E3' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='12548B45-68EA-4775-9632-A2AC3ED386E3' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -211,7 +220,7 @@ Calculate the angle between the hands of a clock at $9.30$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='12548B45-68EA-4775-9632-A2AC3ED386E3' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='12548B45-68EA-4775-9632-A2AC3ED386E3' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='12548B45-68EA-4775-9632-A2AC3ED386E3' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='12548B45-68EA-4775-9632-A2AC3ED386E3' onclick='submitReview(event)'>PRR</button>
@@ -222,9 +231,12 @@ Calculate the angle between the hands of a clock at $9.30$.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='12548B45-68EA-4775-9632-A2AC3ED386E3' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='12548B45-68EA-4775-9632-A2AC3ED386E3' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='12548B45-68EA-4775-9632-A2AC3ED386E3' id='FORM-12548B45-68EA-4775-9632-A2AC3ED386E3' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='12548B45-68EA-4775-9632-A2AC3ED386E3' id='FORM-12548B45-68EA-4775-9632-A2AC3ED386E3' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -244,10 +256,10 @@ Calculate the angle between the hands of a clock at $9.30$.
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:2:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -289,6 +301,9 @@ You can use the clock face to help you.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E8EB3103-93A6-476A-BE8D-CACD9D13E7BF' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E8EB3103-93A6-476A-BE8D-CACD9D13E7BF' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E8EB3103-93A6-476A-BE8D-CACD9D13E7BF' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -301,7 +316,7 @@ You can use the clock face to help you.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E8EB3103-93A6-476A-BE8D-CACD9D13E7BF' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E8EB3103-93A6-476A-BE8D-CACD9D13E7BF' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E8EB3103-93A6-476A-BE8D-CACD9D13E7BF' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E8EB3103-93A6-476A-BE8D-CACD9D13E7BF' onclick='submitReview(event)'>PRR</button>
@@ -312,9 +327,12 @@ You can use the clock face to help you.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E8EB3103-93A6-476A-BE8D-CACD9D13E7BF' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='E8EB3103-93A6-476A-BE8D-CACD9D13E7BF' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='E8EB3103-93A6-476A-BE8D-CACD9D13E7BF' id='FORM-E8EB3103-93A6-476A-BE8D-CACD9D13E7BF' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E8EB3103-93A6-476A-BE8D-CACD9D13E7BF' id='FORM-E8EB3103-93A6-476A-BE8D-CACD9D13E7BF' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -334,10 +352,10 @@ You can use the clock face to help you.
 <p>csse--11-plus--maths--2016--sample-paper-3:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -409,6 +427,9 @@ Through how many degrees does the minute hand of a clock turn between $0900$ and
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='46999D58-537F-44BC-B9A5-9C2318BA2DC8' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='46999D58-537F-44BC-B9A5-9C2318BA2DC8' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='46999D58-537F-44BC-B9A5-9C2318BA2DC8' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -421,7 +442,7 @@ Through how many degrees does the minute hand of a clock turn between $0900$ and
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='46999D58-537F-44BC-B9A5-9C2318BA2DC8' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='46999D58-537F-44BC-B9A5-9C2318BA2DC8' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='46999D58-537F-44BC-B9A5-9C2318BA2DC8' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='46999D58-537F-44BC-B9A5-9C2318BA2DC8' onclick='submitReview(event)'>PRR</button>
@@ -432,9 +453,12 @@ Through how many degrees does the minute hand of a clock turn between $0900$ and
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='46999D58-537F-44BC-B9A5-9C2318BA2DC8' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='46999D58-537F-44BC-B9A5-9C2318BA2DC8' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='46999D58-537F-44BC-B9A5-9C2318BA2DC8' id='FORM-46999D58-537F-44BC-B9A5-9C2318BA2DC8' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='46999D58-537F-44BC-B9A5-9C2318BA2DC8' id='FORM-46999D58-537F-44BC-B9A5-9C2318BA2DC8' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -454,10 +478,10 @@ Through how many degrees does the minute hand of a clock turn between $0900$ and
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:38</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -486,6 +510,9 @@ Through what angles does the hour hand of a clock rotate between $8 \ \text{am}$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9A2CE487-4367-455E-A627-FFFE0C8FF292' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9A2CE487-4367-455E-A627-FFFE0C8FF292' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9A2CE487-4367-455E-A627-FFFE0C8FF292' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -498,7 +525,7 @@ Through what angles does the hour hand of a clock rotate between $8 \ \text{am}$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9A2CE487-4367-455E-A627-FFFE0C8FF292' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9A2CE487-4367-455E-A627-FFFE0C8FF292' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9A2CE487-4367-455E-A627-FFFE0C8FF292' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9A2CE487-4367-455E-A627-FFFE0C8FF292' onclick='submitReview(event)'>PRR</button>
@@ -509,9 +536,12 @@ Through what angles does the hour hand of a clock rotate between $8 \ \text{am}$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9A2CE487-4367-455E-A627-FFFE0C8FF292' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='9A2CE487-4367-455E-A627-FFFE0C8FF292' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='9A2CE487-4367-455E-A627-FFFE0C8FF292' id='FORM-9A2CE487-4367-455E-A627-FFFE0C8FF292' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9A2CE487-4367-455E-A627-FFFE0C8FF292' id='FORM-9A2CE487-4367-455E-A627-FFFE0C8FF292' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -531,10 +561,10 @@ Through what angles does the hour hand of a clock rotate between $8 \ \text{am}$
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:38</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -563,6 +593,9 @@ Through what angles does the hour hand of a clock rotate between $6 \ \text{am}$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7F4A6D5C-6E5A-4FD1-98FB-FBD8DE3BFC66' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7F4A6D5C-6E5A-4FD1-98FB-FBD8DE3BFC66' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7F4A6D5C-6E5A-4FD1-98FB-FBD8DE3BFC66' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -575,7 +608,7 @@ Through what angles does the hour hand of a clock rotate between $6 \ \text{am}$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7F4A6D5C-6E5A-4FD1-98FB-FBD8DE3BFC66' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7F4A6D5C-6E5A-4FD1-98FB-FBD8DE3BFC66' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7F4A6D5C-6E5A-4FD1-98FB-FBD8DE3BFC66' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7F4A6D5C-6E5A-4FD1-98FB-FBD8DE3BFC66' onclick='submitReview(event)'>PRR</button>
@@ -586,9 +619,12 @@ Through what angles does the hour hand of a clock rotate between $6 \ \text{am}$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7F4A6D5C-6E5A-4FD1-98FB-FBD8DE3BFC66' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='7F4A6D5C-6E5A-4FD1-98FB-FBD8DE3BFC66' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='7F4A6D5C-6E5A-4FD1-98FB-FBD8DE3BFC66' id='FORM-7F4A6D5C-6E5A-4FD1-98FB-FBD8DE3BFC66' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7F4A6D5C-6E5A-4FD1-98FB-FBD8DE3BFC66' id='FORM-7F4A6D5C-6E5A-4FD1-98FB-FBD8DE3BFC66' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -608,10 +644,10 @@ Through what angles does the hour hand of a clock rotate between $6 \ \text{am}$
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:40</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -640,6 +676,9 @@ What angle do the hours of a clock make between each other at $7{:}30$?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='14F5E25E-982B-4BD0-99BF-68170A5DA82C' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='14F5E25E-982B-4BD0-99BF-68170A5DA82C' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='14F5E25E-982B-4BD0-99BF-68170A5DA82C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -652,7 +691,7 @@ What angle do the hours of a clock make between each other at $7{:}30$?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='14F5E25E-982B-4BD0-99BF-68170A5DA82C' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='14F5E25E-982B-4BD0-99BF-68170A5DA82C' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='14F5E25E-982B-4BD0-99BF-68170A5DA82C' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='14F5E25E-982B-4BD0-99BF-68170A5DA82C' onclick='submitReview(event)'>PRR</button>
@@ -663,9 +702,12 @@ What angle do the hours of a clock make between each other at $7{:}30$?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='14F5E25E-982B-4BD0-99BF-68170A5DA82C' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='14F5E25E-982B-4BD0-99BF-68170A5DA82C' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='14F5E25E-982B-4BD0-99BF-68170A5DA82C' id='FORM-14F5E25E-982B-4BD0-99BF-68170A5DA82C' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='14F5E25E-982B-4BD0-99BF-68170A5DA82C' id='FORM-14F5E25E-982B-4BD0-99BF-68170A5DA82C' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -685,10 +727,10 @@ What angle do the hours of a clock make between each other at $7{:}30$?
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:38</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -717,6 +759,9 @@ Through what angles does the hour hand of a clock rotate between $3 \ \text{am}$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4FAE2ECB-8394-4207-9FAD-04BFD8BDE179' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4FAE2ECB-8394-4207-9FAD-04BFD8BDE179' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4FAE2ECB-8394-4207-9FAD-04BFD8BDE179' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -729,7 +774,7 @@ Through what angles does the hour hand of a clock rotate between $3 \ \text{am}$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4FAE2ECB-8394-4207-9FAD-04BFD8BDE179' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4FAE2ECB-8394-4207-9FAD-04BFD8BDE179' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4FAE2ECB-8394-4207-9FAD-04BFD8BDE179' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4FAE2ECB-8394-4207-9FAD-04BFD8BDE179' onclick='submitReview(event)'>PRR</button>
@@ -740,9 +785,12 @@ Through what angles does the hour hand of a clock rotate between $3 \ \text{am}$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4FAE2ECB-8394-4207-9FAD-04BFD8BDE179' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='4FAE2ECB-8394-4207-9FAD-04BFD8BDE179' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='4FAE2ECB-8394-4207-9FAD-04BFD8BDE179' id='FORM-4FAE2ECB-8394-4207-9FAD-04BFD8BDE179' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4FAE2ECB-8394-4207-9FAD-04BFD8BDE179' id='FORM-4FAE2ECB-8394-4207-9FAD-04BFD8BDE179' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -762,10 +810,10 @@ Through what angles does the hour hand of a clock rotate between $3 \ \text{am}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -868,6 +916,9 @@ Work out the angle between the hour and minute hands when the time is $3.15 \ \t
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='740AC690-48AA-4E21-8089-6C13550F3C52' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='740AC690-48AA-4E21-8089-6C13550F3C52' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='740AC690-48AA-4E21-8089-6C13550F3C52' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -880,7 +931,7 @@ Work out the angle between the hour and minute hands when the time is $3.15 \ \t
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='740AC690-48AA-4E21-8089-6C13550F3C52' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='740AC690-48AA-4E21-8089-6C13550F3C52' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='740AC690-48AA-4E21-8089-6C13550F3C52' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='740AC690-48AA-4E21-8089-6C13550F3C52' onclick='submitReview(event)'>PRR</button>
@@ -891,9 +942,12 @@ Work out the angle between the hour and minute hands when the time is $3.15 \ \t
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='740AC690-48AA-4E21-8089-6C13550F3C52' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='740AC690-48AA-4E21-8089-6C13550F3C52' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='740AC690-48AA-4E21-8089-6C13550F3C52' id='FORM-740AC690-48AA-4E21-8089-6C13550F3C52' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='740AC690-48AA-4E21-8089-6C13550F3C52' id='FORM-740AC690-48AA-4E21-8089-6C13550F3C52' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -913,10 +967,10 @@ Work out the angle between the hour and minute hands when the time is $3.15 \ \t
 <p>forest-school--11-plus--maths--9999--sample-paper-1:1:32</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -947,6 +1001,9 @@ How many times are the hands at right angles again before $5$ o'clock, $2  \ \te
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F9CC45B1-F623-44F8-94DD-62959CCE978D' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F9CC45B1-F623-44F8-94DD-62959CCE978D' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F9CC45B1-F623-44F8-94DD-62959CCE978D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -959,7 +1016,7 @@ How many times are the hands at right angles again before $5$ o'clock, $2  \ \te
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F9CC45B1-F623-44F8-94DD-62959CCE978D' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F9CC45B1-F623-44F8-94DD-62959CCE978D' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F9CC45B1-F623-44F8-94DD-62959CCE978D' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F9CC45B1-F623-44F8-94DD-62959CCE978D' onclick='submitReview(event)'>PRR</button>
@@ -970,9 +1027,12 @@ How many times are the hands at right angles again before $5$ o'clock, $2  \ \te
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F9CC45B1-F623-44F8-94DD-62959CCE978D' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='F9CC45B1-F623-44F8-94DD-62959CCE978D' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='F9CC45B1-F623-44F8-94DD-62959CCE978D' id='FORM-F9CC45B1-F623-44F8-94DD-62959CCE978D' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F9CC45B1-F623-44F8-94DD-62959CCE978D' id='FORM-F9CC45B1-F623-44F8-94DD-62959CCE978D' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -992,10 +1052,10 @@ How many times are the hands at right angles again before $5$ o'clock, $2  \ \te
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-1:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1131,6 +1191,9 @@ Find the perimeter of your rectangle.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F0074CAA-965E-4553-A0BB-0FDEAA3BBD71' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F0074CAA-965E-4553-A0BB-0FDEAA3BBD71' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F0074CAA-965E-4553-A0BB-0FDEAA3BBD71' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1143,7 +1206,7 @@ Find the perimeter of your rectangle.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F0074CAA-965E-4553-A0BB-0FDEAA3BBD71' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F0074CAA-965E-4553-A0BB-0FDEAA3BBD71' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F0074CAA-965E-4553-A0BB-0FDEAA3BBD71' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F0074CAA-965E-4553-A0BB-0FDEAA3BBD71' onclick='submitReview(event)'>PRR</button>
@@ -1154,9 +1217,12 @@ Find the perimeter of your rectangle.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F0074CAA-965E-4553-A0BB-0FDEAA3BBD71' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='F0074CAA-965E-4553-A0BB-0FDEAA3BBD71' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='F0074CAA-965E-4553-A0BB-0FDEAA3BBD71' id='FORM-F0074CAA-965E-4553-A0BB-0FDEAA3BBD71' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='F0074CAA-965E-4553-A0BB-0FDEAA3BBD71' id='FORM-F0074CAA-965E-4553-A0BB-0FDEAA3BBD71' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1176,10 +1242,10 @@ Find the perimeter of your rectangle.
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1251,6 +1317,9 @@ At what time between $6 \ \text{pm}$ and $6.30 \ \text{pm}$ will the hour and mi
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C50EAF4F-A2AB-40C6-96BE-B25DF54FFE0F' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C50EAF4F-A2AB-40C6-96BE-B25DF54FFE0F' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C50EAF4F-A2AB-40C6-96BE-B25DF54FFE0F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1263,7 +1332,7 @@ At what time between $6 \ \text{pm}$ and $6.30 \ \text{pm}$ will the hour and mi
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C50EAF4F-A2AB-40C6-96BE-B25DF54FFE0F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C50EAF4F-A2AB-40C6-96BE-B25DF54FFE0F' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C50EAF4F-A2AB-40C6-96BE-B25DF54FFE0F' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C50EAF4F-A2AB-40C6-96BE-B25DF54FFE0F' onclick='submitReview(event)'>PRR</button>
@@ -1274,9 +1343,12 @@ At what time between $6 \ \text{pm}$ and $6.30 \ \text{pm}$ will the hour and mi
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C50EAF4F-A2AB-40C6-96BE-B25DF54FFE0F' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='C50EAF4F-A2AB-40C6-96BE-B25DF54FFE0F' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='C50EAF4F-A2AB-40C6-96BE-B25DF54FFE0F' id='FORM-C50EAF4F-A2AB-40C6-96BE-B25DF54FFE0F' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C50EAF4F-A2AB-40C6-96BE-B25DF54FFE0F' id='FORM-C50EAF4F-A2AB-40C6-96BE-B25DF54FFE0F' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1296,10 +1368,10 @@ At what time between $6 \ \text{pm}$ and $6.30 \ \text{pm}$ will the hour and mi
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1362,6 +1434,9 @@ $3$ to the $7$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8D9C54BC-6E17-4740-929F-C604E748B5B7' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8D9C54BC-6E17-4740-929F-C604E748B5B7' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8D9C54BC-6E17-4740-929F-C604E748B5B7' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1374,7 +1449,7 @@ $3$ to the $7$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8D9C54BC-6E17-4740-929F-C604E748B5B7' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8D9C54BC-6E17-4740-929F-C604E748B5B7' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8D9C54BC-6E17-4740-929F-C604E748B5B7' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8D9C54BC-6E17-4740-929F-C604E748B5B7' onclick='submitReview(event)'>PRR</button>
@@ -1385,9 +1460,12 @@ $3$ to the $7$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8D9C54BC-6E17-4740-929F-C604E748B5B7' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='8D9C54BC-6E17-4740-929F-C604E748B5B7' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='8D9C54BC-6E17-4740-929F-C604E748B5B7' id='FORM-8D9C54BC-6E17-4740-929F-C604E748B5B7' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8D9C54BC-6E17-4740-929F-C604E748B5B7' id='FORM-8D9C54BC-6E17-4740-929F-C604E748B5B7' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1407,10 +1485,10 @@ $3$ to the $7$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:33</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1454,6 +1532,9 @@ $20 \ \text{minutes}$ per hour. How long will it be in hours before both clocks 
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='344A1524-870E-448F-A60D-F9207E4D110F' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='344A1524-870E-448F-A60D-F9207E4D110F' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='344A1524-870E-448F-A60D-F9207E4D110F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1466,7 +1547,7 @@ $20 \ \text{minutes}$ per hour. How long will it be in hours before both clocks 
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='344A1524-870E-448F-A60D-F9207E4D110F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='344A1524-870E-448F-A60D-F9207E4D110F' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='344A1524-870E-448F-A60D-F9207E4D110F' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='344A1524-870E-448F-A60D-F9207E4D110F' onclick='submitReview(event)'>PRR</button>
@@ -1477,9 +1558,12 @@ $20 \ \text{minutes}$ per hour. How long will it be in hours before both clocks 
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='344A1524-870E-448F-A60D-F9207E4D110F' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='344A1524-870E-448F-A60D-F9207E4D110F' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='344A1524-870E-448F-A60D-F9207E4D110F' id='FORM-344A1524-870E-448F-A60D-F9207E4D110F' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='344A1524-870E-448F-A60D-F9207E4D110F' id='FORM-344A1524-870E-448F-A60D-F9207E4D110F' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1499,10 +1583,10 @@ $20 \ \text{minutes}$ per hour. How long will it be in hours before both clocks 
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1560,6 +1644,9 @@ How many degrees has the minute hand moved between $3.55 \ \text{pm}$ and $5.15 
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B8DF93F8-50C2-48D7-931A-7B1C65AEA797' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B8DF93F8-50C2-48D7-931A-7B1C65AEA797' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B8DF93F8-50C2-48D7-931A-7B1C65AEA797' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1572,7 +1659,7 @@ How many degrees has the minute hand moved between $3.55 \ \text{pm}$ and $5.15 
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B8DF93F8-50C2-48D7-931A-7B1C65AEA797' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B8DF93F8-50C2-48D7-931A-7B1C65AEA797' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B8DF93F8-50C2-48D7-931A-7B1C65AEA797' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B8DF93F8-50C2-48D7-931A-7B1C65AEA797' onclick='submitReview(event)'>PRR</button>
@@ -1583,9 +1670,12 @@ How many degrees has the minute hand moved between $3.55 \ \text{pm}$ and $5.15 
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B8DF93F8-50C2-48D7-931A-7B1C65AEA797' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='B8DF93F8-50C2-48D7-931A-7B1C65AEA797' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='B8DF93F8-50C2-48D7-931A-7B1C65AEA797' id='FORM-B8DF93F8-50C2-48D7-931A-7B1C65AEA797' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='B8DF93F8-50C2-48D7-931A-7B1C65AEA797' id='FORM-B8DF93F8-50C2-48D7-931A-7B1C65AEA797' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1605,10 +1695,10 @@ How many degrees has the minute hand moved between $3.55 \ \text{pm}$ and $5.15 
 <p>oundle-school--11-plus--maths--2008--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1641,6 +1731,9 @@ On a clock face, what is the angle between the hands at $8.30$?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92E95BCC-497F-4231-9BB1-F3CFFD1D9536' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92E95BCC-497F-4231-9BB1-F3CFFD1D9536' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92E95BCC-497F-4231-9BB1-F3CFFD1D9536' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1653,7 +1746,7 @@ On a clock face, what is the angle between the hands at $8.30$?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92E95BCC-497F-4231-9BB1-F3CFFD1D9536' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92E95BCC-497F-4231-9BB1-F3CFFD1D9536' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92E95BCC-497F-4231-9BB1-F3CFFD1D9536' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92E95BCC-497F-4231-9BB1-F3CFFD1D9536' onclick='submitReview(event)'>PRR</button>
@@ -1664,9 +1757,12 @@ On a clock face, what is the angle between the hands at $8.30$?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92E95BCC-497F-4231-9BB1-F3CFFD1D9536' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='92E95BCC-497F-4231-9BB1-F3CFFD1D9536' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='92E95BCC-497F-4231-9BB1-F3CFFD1D9536' id='FORM-92E95BCC-497F-4231-9BB1-F3CFFD1D9536' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='92E95BCC-497F-4231-9BB1-F3CFFD1D9536' id='FORM-92E95BCC-497F-4231-9BB1-F3CFFD1D9536' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1686,10 +1782,10 @@ On a clock face, what is the angle between the hands at $8.30$?
 <p>oundle-school--11-plus--maths--2017--sample-paper-6:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1779,6 +1875,9 @@ What is the exact time when this occurs?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='265B80BE-9E6E-4413-BBDD-F6650C3E42E1' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='265B80BE-9E6E-4413-BBDD-F6650C3E42E1' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='265B80BE-9E6E-4413-BBDD-F6650C3E42E1' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1791,7 +1890,7 @@ What is the exact time when this occurs?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='265B80BE-9E6E-4413-BBDD-F6650C3E42E1' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='265B80BE-9E6E-4413-BBDD-F6650C3E42E1' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='265B80BE-9E6E-4413-BBDD-F6650C3E42E1' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='265B80BE-9E6E-4413-BBDD-F6650C3E42E1' onclick='submitReview(event)'>PRR</button>
@@ -1802,9 +1901,12 @@ What is the exact time when this occurs?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='265B80BE-9E6E-4413-BBDD-F6650C3E42E1' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='265B80BE-9E6E-4413-BBDD-F6650C3E42E1' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='265B80BE-9E6E-4413-BBDD-F6650C3E42E1' id='FORM-265B80BE-9E6E-4413-BBDD-F6650C3E42E1' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='265B80BE-9E6E-4413-BBDD-F6650C3E42E1' id='FORM-265B80BE-9E6E-4413-BBDD-F6650C3E42E1' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1824,10 +1926,10 @@ What is the exact time when this occurs?
 <p>oundle-school--11-plus--maths--2018--sample-paper-9:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1899,6 +2001,9 @@ The time is 08{:}26. What is the smaller angle between the hour hand and the min
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='512D2020-735C-4BFD-9AD7-B89CD1ECD997' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='512D2020-735C-4BFD-9AD7-B89CD1ECD997' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='512D2020-735C-4BFD-9AD7-B89CD1ECD997' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1911,7 +2016,7 @@ The time is 08{:}26. What is the smaller angle between the hour hand and the min
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='512D2020-735C-4BFD-9AD7-B89CD1ECD997' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='512D2020-735C-4BFD-9AD7-B89CD1ECD997' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='512D2020-735C-4BFD-9AD7-B89CD1ECD997' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='512D2020-735C-4BFD-9AD7-B89CD1ECD997' onclick='submitReview(event)'>PRR</button>
@@ -1922,9 +2027,12 @@ The time is 08{:}26. What is the smaller angle between the hour hand and the min
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='512D2020-735C-4BFD-9AD7-B89CD1ECD997' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='512D2020-735C-4BFD-9AD7-B89CD1ECD997' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='512D2020-735C-4BFD-9AD7-B89CD1ECD997' id='FORM-512D2020-735C-4BFD-9AD7-B89CD1ECD997' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='512D2020-735C-4BFD-9AD7-B89CD1ECD997' id='FORM-512D2020-735C-4BFD-9AD7-B89CD1ECD997' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1944,10 +2052,10 @@ The time is 08{:}26. What is the smaller angle between the hour hand and the min
 <p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1983,6 +2091,9 @@ What is the smaller angle between the hour hand and the minute hand at the follo
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='56A1AAB2-A1B3-49BF-AC55-957C14C8F2B9' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='56A1AAB2-A1B3-49BF-AC55-957C14C8F2B9' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='56A1AAB2-A1B3-49BF-AC55-957C14C8F2B9' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1995,7 +2106,7 @@ What is the smaller angle between the hour hand and the minute hand at the follo
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='56A1AAB2-A1B3-49BF-AC55-957C14C8F2B9' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='56A1AAB2-A1B3-49BF-AC55-957C14C8F2B9' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='56A1AAB2-A1B3-49BF-AC55-957C14C8F2B9' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='56A1AAB2-A1B3-49BF-AC55-957C14C8F2B9' onclick='submitReview(event)'>PRR</button>
@@ -2006,9 +2117,12 @@ What is the smaller angle between the hour hand and the minute hand at the follo
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='56A1AAB2-A1B3-49BF-AC55-957C14C8F2B9' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='56A1AAB2-A1B3-49BF-AC55-957C14C8F2B9' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='56A1AAB2-A1B3-49BF-AC55-957C14C8F2B9' id='FORM-56A1AAB2-A1B3-49BF-AC55-957C14C8F2B9' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='56A1AAB2-A1B3-49BF-AC55-957C14C8F2B9' id='FORM-56A1AAB2-A1B3-49BF-AC55-957C14C8F2B9' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2028,10 +2142,10 @@ What is the smaller angle between the hour hand and the minute hand at the follo
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2063,6 +2177,9 @@ A twenty-four hour digital watch shows only hours and minutes. How many times ea
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5612D86A-AFE6-4BB3-A38A-725413199CD9' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5612D86A-AFE6-4BB3-A38A-725413199CD9' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5612D86A-AFE6-4BB3-A38A-725413199CD9' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2075,7 +2192,7 @@ A twenty-four hour digital watch shows only hours and minutes. How many times ea
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5612D86A-AFE6-4BB3-A38A-725413199CD9' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5612D86A-AFE6-4BB3-A38A-725413199CD9' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5612D86A-AFE6-4BB3-A38A-725413199CD9' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5612D86A-AFE6-4BB3-A38A-725413199CD9' onclick='submitReview(event)'>PRR</button>
@@ -2086,9 +2203,12 @@ A twenty-four hour digital watch shows only hours and minutes. How many times ea
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5612D86A-AFE6-4BB3-A38A-725413199CD9' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='5612D86A-AFE6-4BB3-A38A-725413199CD9' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='5612D86A-AFE6-4BB3-A38A-725413199CD9' id='FORM-5612D86A-AFE6-4BB3-A38A-725413199CD9' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5612D86A-AFE6-4BB3-A38A-725413199CD9' id='FORM-5612D86A-AFE6-4BB3-A38A-725413199CD9' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2108,10 +2228,10 @@ A twenty-four hour digital watch shows only hours and minutes. How many times ea
 <p>solihull-school--11-plus--maths--9999--sample-paper-2:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2183,6 +2303,9 @@ What is the angle between the hands of a clock at $1{:}30 \ \text{pm}$?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9890F453-D2D2-4DB2-AF39-4C5D0EF87394' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9890F453-D2D2-4DB2-AF39-4C5D0EF87394' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9890F453-D2D2-4DB2-AF39-4C5D0EF87394' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2195,7 +2318,7 @@ What is the angle between the hands of a clock at $1{:}30 \ \text{pm}$?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9890F453-D2D2-4DB2-AF39-4C5D0EF87394' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9890F453-D2D2-4DB2-AF39-4C5D0EF87394' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9890F453-D2D2-4DB2-AF39-4C5D0EF87394' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9890F453-D2D2-4DB2-AF39-4C5D0EF87394' onclick='submitReview(event)'>PRR</button>
@@ -2206,9 +2329,12 @@ What is the angle between the hands of a clock at $1{:}30 \ \text{pm}$?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9890F453-D2D2-4DB2-AF39-4C5D0EF87394' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='9890F453-D2D2-4DB2-AF39-4C5D0EF87394' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='9890F453-D2D2-4DB2-AF39-4C5D0EF87394' id='FORM-9890F453-D2D2-4DB2-AF39-4C5D0EF87394' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='9890F453-D2D2-4DB2-AF39-4C5D0EF87394' id='FORM-9890F453-D2D2-4DB2-AF39-4C5D0EF87394' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2228,10 +2354,10 @@ What is the angle between the hands of a clock at $1{:}30 \ \text{pm}$?
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2262,6 +2388,9 @@ It is then turned anticlockwise by $240 \degree$. What number does it now point 
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='74320B89-0398-4C7E-AE4D-9BA6A82EBF7F' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='74320B89-0398-4C7E-AE4D-9BA6A82EBF7F' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='74320B89-0398-4C7E-AE4D-9BA6A82EBF7F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2274,7 +2403,7 @@ It is then turned anticlockwise by $240 \degree$. What number does it now point 
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='74320B89-0398-4C7E-AE4D-9BA6A82EBF7F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='74320B89-0398-4C7E-AE4D-9BA6A82EBF7F' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='74320B89-0398-4C7E-AE4D-9BA6A82EBF7F' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='74320B89-0398-4C7E-AE4D-9BA6A82EBF7F' onclick='submitReview(event)'>PRR</button>
@@ -2285,9 +2414,12 @@ It is then turned anticlockwise by $240 \degree$. What number does it now point 
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='74320B89-0398-4C7E-AE4D-9BA6A82EBF7F' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='74320B89-0398-4C7E-AE4D-9BA6A82EBF7F' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='74320B89-0398-4C7E-AE4D-9BA6A82EBF7F' id='FORM-74320B89-0398-4C7E-AE4D-9BA6A82EBF7F' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='74320B89-0398-4C7E-AE4D-9BA6A82EBF7F' id='FORM-74320B89-0398-4C7E-AE4D-9BA6A82EBF7F' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2307,10 +2439,10 @@ It is then turned anticlockwise by $240 \degree$. What number does it now point 
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2339,6 +2471,9 @@ Find the obtuse angle between the hands of a clock at $5$ o’clock.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='98FB3AC6-2728-458B-AA28-1E5EF428AAFB' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='98FB3AC6-2728-458B-AA28-1E5EF428AAFB' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='98FB3AC6-2728-458B-AA28-1E5EF428AAFB' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2351,7 +2486,7 @@ Find the obtuse angle between the hands of a clock at $5$ o’clock.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='98FB3AC6-2728-458B-AA28-1E5EF428AAFB' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='98FB3AC6-2728-458B-AA28-1E5EF428AAFB' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='98FB3AC6-2728-458B-AA28-1E5EF428AAFB' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='98FB3AC6-2728-458B-AA28-1E5EF428AAFB' onclick='submitReview(event)'>PRR</button>
@@ -2362,9 +2497,12 @@ Find the obtuse angle between the hands of a clock at $5$ o’clock.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='98FB3AC6-2728-458B-AA28-1E5EF428AAFB' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='98FB3AC6-2728-458B-AA28-1E5EF428AAFB' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='98FB3AC6-2728-458B-AA28-1E5EF428AAFB' id='FORM-98FB3AC6-2728-458B-AA28-1E5EF428AAFB' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='98FB3AC6-2728-458B-AA28-1E5EF428AAFB' id='FORM-98FB3AC6-2728-458B-AA28-1E5EF428AAFB' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2384,10 +2522,10 @@ Find the obtuse angle between the hands of a clock at $5$ o’clock.
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:33</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2416,6 +2554,9 @@ What is the angle between the hands of a clock at $2{:}30 \ \text{pm}$. (Remembe
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FD242CB2-2E51-4FB4-8221-CB91DA5B1239' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FD242CB2-2E51-4FB4-8221-CB91DA5B1239' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FD242CB2-2E51-4FB4-8221-CB91DA5B1239' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2428,7 +2569,7 @@ What is the angle between the hands of a clock at $2{:}30 \ \text{pm}$. (Remembe
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FD242CB2-2E51-4FB4-8221-CB91DA5B1239' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FD242CB2-2E51-4FB4-8221-CB91DA5B1239' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FD242CB2-2E51-4FB4-8221-CB91DA5B1239' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FD242CB2-2E51-4FB4-8221-CB91DA5B1239' onclick='submitReview(event)'>PRR</button>
@@ -2439,9 +2580,12 @@ What is the angle between the hands of a clock at $2{:}30 \ \text{pm}$. (Remembe
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FD242CB2-2E51-4FB4-8221-CB91DA5B1239' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='FD242CB2-2E51-4FB4-8221-CB91DA5B1239' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='FD242CB2-2E51-4FB4-8221-CB91DA5B1239' id='FORM-FD242CB2-2E51-4FB4-8221-CB91DA5B1239' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FD242CB2-2E51-4FB4-8221-CB91DA5B1239' id='FORM-FD242CB2-2E51-4FB4-8221-CB91DA5B1239' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2461,10 +2605,10 @@ What is the angle between the hands of a clock at $2{:}30 \ \text{pm}$. (Remembe
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:39</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2527,6 +2671,9 @@ $6.30 \ \text{pm}$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2376B6AD-BDBA-4C3C-BD72-024C556FDBEB' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2376B6AD-BDBA-4C3C-BD72-024C556FDBEB' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2376B6AD-BDBA-4C3C-BD72-024C556FDBEB' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2539,7 +2686,7 @@ $6.30 \ \text{pm}$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2376B6AD-BDBA-4C3C-BD72-024C556FDBEB' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2376B6AD-BDBA-4C3C-BD72-024C556FDBEB' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2376B6AD-BDBA-4C3C-BD72-024C556FDBEB' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2376B6AD-BDBA-4C3C-BD72-024C556FDBEB' onclick='submitReview(event)'>PRR</button>
@@ -2550,9 +2697,12 @@ $6.30 \ \text{pm}$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2376B6AD-BDBA-4C3C-BD72-024C556FDBEB' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='2376B6AD-BDBA-4C3C-BD72-024C556FDBEB' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='2376B6AD-BDBA-4C3C-BD72-024C556FDBEB' id='FORM-2376B6AD-BDBA-4C3C-BD72-024C556FDBEB' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2376B6AD-BDBA-4C3C-BD72-024C556FDBEB' id='FORM-2376B6AD-BDBA-4C3C-BD72-024C556FDBEB' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2572,10 +2722,10 @@ $6.30 \ \text{pm}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2672,6 +2822,9 @@ What time is it?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2D0270DE-21B9-45BD-8E4E-7757F505490B' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2D0270DE-21B9-45BD-8E4E-7757F505490B' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2D0270DE-21B9-45BD-8E4E-7757F505490B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2684,7 +2837,7 @@ What time is it?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2D0270DE-21B9-45BD-8E4E-7757F505490B' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2D0270DE-21B9-45BD-8E4E-7757F505490B' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2D0270DE-21B9-45BD-8E4E-7757F505490B' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2D0270DE-21B9-45BD-8E4E-7757F505490B' onclick='submitReview(event)'>PRR</button>
@@ -2695,9 +2848,12 @@ What time is it?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2D0270DE-21B9-45BD-8E4E-7757F505490B' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='2D0270DE-21B9-45BD-8E4E-7757F505490B' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='2D0270DE-21B9-45BD-8E4E-7757F505490B' id='FORM-2D0270DE-21B9-45BD-8E4E-7757F505490B' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='2D0270DE-21B9-45BD-8E4E-7757F505490B' id='FORM-2D0270DE-21B9-45BD-8E4E-7757F505490B' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2717,10 +2873,10 @@ What time is it?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:35</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2772,6 +2928,9 @@ List all of the times, using the $24$-hour clock, which show the same time when 
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0DFD6E6E-CC28-4934-8A72-B571610B4151' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0DFD6E6E-CC28-4934-8A72-B571610B4151' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0DFD6E6E-CC28-4934-8A72-B571610B4151' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2784,7 +2943,7 @@ List all of the times, using the $24$-hour clock, which show the same time when 
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0DFD6E6E-CC28-4934-8A72-B571610B4151' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0DFD6E6E-CC28-4934-8A72-B571610B4151' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0DFD6E6E-CC28-4934-8A72-B571610B4151' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0DFD6E6E-CC28-4934-8A72-B571610B4151' onclick='submitReview(event)'>PRR</button>
@@ -2795,9 +2954,12 @@ List all of the times, using the $24$-hour clock, which show the same time when 
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0DFD6E6E-CC28-4934-8A72-B571610B4151' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='0DFD6E6E-CC28-4934-8A72-B571610B4151' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='0DFD6E6E-CC28-4934-8A72-B571610B4151' id='FORM-0DFD6E6E-CC28-4934-8A72-B571610B4151' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0DFD6E6E-CC28-4934-8A72-B571610B4151' id='FORM-0DFD6E6E-CC28-4934-8A72-B571610B4151' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2817,10 +2979,10 @@ List all of the times, using the $24$-hour clock, which show the same time when 
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:32</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2901,6 +3063,9 @@ $6.30 \ \text{p.m.}$ and $8.50 \ \text{p.m.}$
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DE7D75F8-CEE8-431B-91E0-09FB47C0D06F' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DE7D75F8-CEE8-431B-91E0-09FB47C0D06F' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DE7D75F8-CEE8-431B-91E0-09FB47C0D06F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2913,7 +3078,7 @@ $6.30 \ \text{p.m.}$ and $8.50 \ \text{p.m.}$
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DE7D75F8-CEE8-431B-91E0-09FB47C0D06F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DE7D75F8-CEE8-431B-91E0-09FB47C0D06F' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DE7D75F8-CEE8-431B-91E0-09FB47C0D06F' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DE7D75F8-CEE8-431B-91E0-09FB47C0D06F' onclick='submitReview(event)'>PRR</button>
@@ -2924,9 +3089,12 @@ $6.30 \ \text{p.m.}$ and $8.50 \ \text{p.m.}$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DE7D75F8-CEE8-431B-91E0-09FB47C0D06F' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='DE7D75F8-CEE8-431B-91E0-09FB47C0D06F' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='DE7D75F8-CEE8-431B-91E0-09FB47C0D06F' id='FORM-DE7D75F8-CEE8-431B-91E0-09FB47C0D06F' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DE7D75F8-CEE8-431B-91E0-09FB47C0D06F' id='FORM-DE7D75F8-CEE8-431B-91E0-09FB47C0D06F' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2946,10 +3114,10 @@ $6.30 \ \text{p.m.}$ and $8.50 \ \text{p.m.}$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3049,6 +3217,9 @@ Through what angle will the hour hand have turned from $2$ o'clock, when the clo
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='97D098CD-FA0C-4FD9-B9F2-AE1076B52CD4' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='97D098CD-FA0C-4FD9-B9F2-AE1076B52CD4' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='97D098CD-FA0C-4FD9-B9F2-AE1076B52CD4' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -3061,7 +3232,7 @@ Through what angle will the hour hand have turned from $2$ o'clock, when the clo
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='97D098CD-FA0C-4FD9-B9F2-AE1076B52CD4' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='97D098CD-FA0C-4FD9-B9F2-AE1076B52CD4' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='97D098CD-FA0C-4FD9-B9F2-AE1076B52CD4' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='97D098CD-FA0C-4FD9-B9F2-AE1076B52CD4' onclick='submitReview(event)'>PRR</button>
@@ -3072,9 +3243,12 @@ Through what angle will the hour hand have turned from $2$ o'clock, when the clo
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='97D098CD-FA0C-4FD9-B9F2-AE1076B52CD4' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='97D098CD-FA0C-4FD9-B9F2-AE1076B52CD4' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='97D098CD-FA0C-4FD9-B9F2-AE1076B52CD4' id='FORM-97D098CD-FA0C-4FD9-B9F2-AE1076B52CD4' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='97D098CD-FA0C-4FD9-B9F2-AE1076B52CD4' id='FORM-97D098CD-FA0C-4FD9-B9F2-AE1076B52CD4' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3094,10 +3268,10 @@ Through what angle will the hour hand have turned from $2$ o'clock, when the clo
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3126,6 +3300,9 @@ What is the smaller angle between the hands of a clock at $2{:}    30$?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D74BAFDC-19D4-4AB6-AE64-3736F916FD8E' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D74BAFDC-19D4-4AB6-AE64-3736F916FD8E' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D74BAFDC-19D4-4AB6-AE64-3736F916FD8E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -3138,7 +3315,7 @@ What is the smaller angle between the hands of a clock at $2{:}    30$?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D74BAFDC-19D4-4AB6-AE64-3736F916FD8E' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D74BAFDC-19D4-4AB6-AE64-3736F916FD8E' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D74BAFDC-19D4-4AB6-AE64-3736F916FD8E' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D74BAFDC-19D4-4AB6-AE64-3736F916FD8E' onclick='submitReview(event)'>PRR</button>
@@ -3149,9 +3326,12 @@ What is the smaller angle between the hands of a clock at $2{:}    30$?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D74BAFDC-19D4-4AB6-AE64-3736F916FD8E' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='D74BAFDC-19D4-4AB6-AE64-3736F916FD8E' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='D74BAFDC-19D4-4AB6-AE64-3736F916FD8E' id='FORM-D74BAFDC-19D4-4AB6-AE64-3736F916FD8E' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='D74BAFDC-19D4-4AB6-AE64-3736F916FD8E' id='FORM-D74BAFDC-19D4-4AB6-AE64-3736F916FD8E' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3171,10 +3351,10 @@ What is the smaller angle between the hands of a clock at $2{:}    30$?
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3203,6 +3383,9 @@ What is the smaller angle between the hands of a clock at five o’clock?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8A9063D5-C24D-4AFF-8F78-64CFD7E6C8B0' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8A9063D5-C24D-4AFF-8F78-64CFD7E6C8B0' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8A9063D5-C24D-4AFF-8F78-64CFD7E6C8B0' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -3215,7 +3398,7 @@ What is the smaller angle between the hands of a clock at five o’clock?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8A9063D5-C24D-4AFF-8F78-64CFD7E6C8B0' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8A9063D5-C24D-4AFF-8F78-64CFD7E6C8B0' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8A9063D5-C24D-4AFF-8F78-64CFD7E6C8B0' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8A9063D5-C24D-4AFF-8F78-64CFD7E6C8B0' onclick='submitReview(event)'>PRR</button>
@@ -3226,9 +3409,12 @@ What is the smaller angle between the hands of a clock at five o’clock?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8A9063D5-C24D-4AFF-8F78-64CFD7E6C8B0' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='8A9063D5-C24D-4AFF-8F78-64CFD7E6C8B0' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='8A9063D5-C24D-4AFF-8F78-64CFD7E6C8B0' id='FORM-8A9063D5-C24D-4AFF-8F78-64CFD7E6C8B0' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8A9063D5-C24D-4AFF-8F78-64CFD7E6C8B0' id='FORM-8A9063D5-C24D-4AFF-8F78-64CFD7E6C8B0' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3248,10 +3434,10 @@ What is the smaller angle between the hands of a clock at five o’clock?
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3309,6 +3495,9 @@ How many degrees does the **hour** hand move between $1.10\,am$ and $4.30\,am$?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0164ED96-C121-4885-A678-58A96865E7B8' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0164ED96-C121-4885-A678-58A96865E7B8' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0164ED96-C121-4885-A678-58A96865E7B8' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -3321,7 +3510,7 @@ How many degrees does the **hour** hand move between $1.10\,am$ and $4.30\,am$?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0164ED96-C121-4885-A678-58A96865E7B8' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0164ED96-C121-4885-A678-58A96865E7B8' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0164ED96-C121-4885-A678-58A96865E7B8' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0164ED96-C121-4885-A678-58A96865E7B8' onclick='submitReview(event)'>PRR</button>
@@ -3332,9 +3521,12 @@ How many degrees does the **hour** hand move between $1.10\,am$ and $4.30\,am$?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0164ED96-C121-4885-A678-58A96865E7B8' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='0164ED96-C121-4885-A678-58A96865E7B8' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='0164ED96-C121-4885-A678-58A96865E7B8' id='FORM-0164ED96-C121-4885-A678-58A96865E7B8' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='0164ED96-C121-4885-A678-58A96865E7B8' id='FORM-0164ED96-C121-4885-A678-58A96865E7B8' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3354,10 +3546,10 @@ How many degrees does the **hour** hand move between $1.10\,am$ and $4.30\,am$?
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3391,6 +3583,9 @@ What is the angle between the hands of this clock?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='022B178B-A61E-45AF-B47D-66CBD5264557' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='022B178B-A61E-45AF-B47D-66CBD5264557' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='022B178B-A61E-45AF-B47D-66CBD5264557' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -3403,7 +3598,7 @@ What is the angle between the hands of this clock?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='022B178B-A61E-45AF-B47D-66CBD5264557' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='022B178B-A61E-45AF-B47D-66CBD5264557' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='022B178B-A61E-45AF-B47D-66CBD5264557' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='022B178B-A61E-45AF-B47D-66CBD5264557' onclick='submitReview(event)'>PRR</button>
@@ -3414,9 +3609,12 @@ What is the angle between the hands of this clock?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='022B178B-A61E-45AF-B47D-66CBD5264557' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='022B178B-A61E-45AF-B47D-66CBD5264557' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='022B178B-A61E-45AF-B47D-66CBD5264557' id='FORM-022B178B-A61E-45AF-B47D-66CBD5264557' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='022B178B-A61E-45AF-B47D-66CBD5264557' id='FORM-022B178B-A61E-45AF-B47D-66CBD5264557' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

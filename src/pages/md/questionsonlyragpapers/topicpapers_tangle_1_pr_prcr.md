@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tangle-1-pr-prcr"
 title: "TopicPaper - Angle - 1 - PR - PRCR"
-date: 2022-08-19 16:00:22
+date: 2022-09-09 06:32:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "1"
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:3:3</p>
 </div>
 <div class='rag'>
-<p>Neeraj Singh</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_ns_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -64,6 +64,9 @@ Find the missing angles a ̊and b ̊:
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6F6B6B48-EC9B-41A8-8A65-09482A6B04A0' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6F6B6B48-EC9B-41A8-8A65-09482A6B04A0' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6F6B6B48-EC9B-41A8-8A65-09482A6B04A0' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -76,7 +79,7 @@ Find the missing angles a ̊and b ̊:
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6F6B6B48-EC9B-41A8-8A65-09482A6B04A0' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6F6B6B48-EC9B-41A8-8A65-09482A6B04A0' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6F6B6B48-EC9B-41A8-8A65-09482A6B04A0' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6F6B6B48-EC9B-41A8-8A65-09482A6B04A0' onclick='submitReview(event)'>PRR</button>
@@ -87,9 +90,12 @@ Find the missing angles a ̊and b ̊:
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6F6B6B48-EC9B-41A8-8A65-09482A6B04A0' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='6F6B6B48-EC9B-41A8-8A65-09482A6B04A0' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='6F6B6B48-EC9B-41A8-8A65-09482A6B04A0' id='FORM-6F6B6B48-EC9B-41A8-8A65-09482A6B04A0' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='6F6B6B48-EC9B-41A8-8A65-09482A6B04A0' id='FORM-6F6B6B48-EC9B-41A8-8A65-09482A6B04A0' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-ttemperature-2"
 title: "TopicPaper - Temperature - 2"
-date: 2022-08-19 16:00:22
+date: 2022-09-09 06:32:25
 questions_count: "6"
 ---
 <div class='paper'>
@@ -16,7 +16,7 @@ questions_count: "6"
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>CDD05D37-D2CC-42D7-9DB4-49E00FBA3F6A</p>
 </div>
@@ -24,13 +24,13 @@ questions_count: "6"
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_as_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -62,6 +62,9 @@ What is the temperature in Paris?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CDD05D37-D2CC-42D7-9DB4-49E00FBA3F6A' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CDD05D37-D2CC-42D7-9DB4-49E00FBA3F6A' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CDD05D37-D2CC-42D7-9DB4-49E00FBA3F6A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -74,7 +77,7 @@ What is the temperature in Paris?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CDD05D37-D2CC-42D7-9DB4-49E00FBA3F6A' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CDD05D37-D2CC-42D7-9DB4-49E00FBA3F6A' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CDD05D37-D2CC-42D7-9DB4-49E00FBA3F6A' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CDD05D37-D2CC-42D7-9DB4-49E00FBA3F6A' onclick='submitReview(event)'>PRR</button>
@@ -85,9 +88,12 @@ What is the temperature in Paris?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CDD05D37-D2CC-42D7-9DB4-49E00FBA3F6A' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='CDD05D37-D2CC-42D7-9DB4-49E00FBA3F6A' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='CDD05D37-D2CC-42D7-9DB4-49E00FBA3F6A' id='FORM-CDD05D37-D2CC-42D7-9DB4-49E00FBA3F6A' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='CDD05D37-D2CC-42D7-9DB4-49E00FBA3F6A' id='FORM-CDD05D37-D2CC-42D7-9DB4-49E00FBA3F6A' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -99,7 +105,7 @@ What is the temperature in Paris?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>622F8B62-0BE0-42FC-B5A4-E1D1EF0B04E7</p>
 </div>
@@ -107,13 +113,13 @@ What is the temperature in Paris?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:10</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_as_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -143,6 +149,9 @@ How many degrees warmer is it inside than outside?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='622F8B62-0BE0-42FC-B5A4-E1D1EF0B04E7' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='622F8B62-0BE0-42FC-B5A4-E1D1EF0B04E7' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='622F8B62-0BE0-42FC-B5A4-E1D1EF0B04E7' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -155,7 +164,7 @@ How many degrees warmer is it inside than outside?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='622F8B62-0BE0-42FC-B5A4-E1D1EF0B04E7' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='622F8B62-0BE0-42FC-B5A4-E1D1EF0B04E7' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='622F8B62-0BE0-42FC-B5A4-E1D1EF0B04E7' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='622F8B62-0BE0-42FC-B5A4-E1D1EF0B04E7' onclick='submitReview(event)'>PRR</button>
@@ -166,9 +175,12 @@ How many degrees warmer is it inside than outside?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='622F8B62-0BE0-42FC-B5A4-E1D1EF0B04E7' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='622F8B62-0BE0-42FC-B5A4-E1D1EF0B04E7' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='622F8B62-0BE0-42FC-B5A4-E1D1EF0B04E7' id='FORM-622F8B62-0BE0-42FC-B5A4-E1D1EF0B04E7' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='622F8B62-0BE0-42FC-B5A4-E1D1EF0B04E7' id='FORM-622F8B62-0BE0-42FC-B5A4-E1D1EF0B04E7' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -180,7 +192,7 @@ How many degrees warmer is it inside than outside?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>55164706-0C04-4C69-84E5-9EEFD1BE6DA1</p>
 </div>
@@ -188,13 +200,13 @@ How many degrees warmer is it inside than outside?
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:1:1</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_as_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -317,6 +329,9 @@ Which city has the largest difference between its highest and lowest temperature
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -329,7 +344,7 @@ Which city has the largest difference between its highest and lowest temperature
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onclick='submitReview(event)'>PRR</button>
@@ -340,9 +355,12 @@ Which city has the largest difference between its highest and lowest temperature
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' id='FORM-55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' id='FORM-55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -354,7 +372,7 @@ Which city has the largest difference between its highest and lowest temperature
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>C77F4094-E254-4BDE-8724-852A89BFB58F</p>
 </div>
@@ -362,13 +380,13 @@ Which city has the largest difference between its highest and lowest temperature
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_as_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -394,6 +412,9 @@ In Moscow at noon it is $4˚\,C$. By midnight the temperature has dropped by $10
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C77F4094-E254-4BDE-8724-852A89BFB58F' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C77F4094-E254-4BDE-8724-852A89BFB58F' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C77F4094-E254-4BDE-8724-852A89BFB58F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -406,7 +427,7 @@ In Moscow at noon it is $4˚\,C$. By midnight the temperature has dropped by $10
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C77F4094-E254-4BDE-8724-852A89BFB58F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C77F4094-E254-4BDE-8724-852A89BFB58F' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C77F4094-E254-4BDE-8724-852A89BFB58F' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C77F4094-E254-4BDE-8724-852A89BFB58F' onclick='submitReview(event)'>PRR</button>
@@ -417,9 +438,12 @@ In Moscow at noon it is $4˚\,C$. By midnight the temperature has dropped by $10
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C77F4094-E254-4BDE-8724-852A89BFB58F' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='C77F4094-E254-4BDE-8724-852A89BFB58F' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='C77F4094-E254-4BDE-8724-852A89BFB58F' id='FORM-C77F4094-E254-4BDE-8724-852A89BFB58F' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='C77F4094-E254-4BDE-8724-852A89BFB58F' id='FORM-C77F4094-E254-4BDE-8724-852A89BFB58F' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -431,7 +455,7 @@ In Moscow at noon it is $4˚\,C$. By midnight the temperature has dropped by $10
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>54012999-742D-48BD-A138-DB7E6775B4C3</p>
 </div>
@@ -439,13 +463,13 @@ In Moscow at noon it is $4˚\,C$. By midnight the temperature has dropped by $10
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:18</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_as_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -457,11 +481,11 @@ ttemperature
 <div class='question question'>
 
 On Christmas day the temperature in Lisbon was $-5˚\,C$. On New Year’s day the temperature was $3$ degrees lower. What was the temperature on New Year’s day?
- 
+
 </div>
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>On Christmas day the temperature in Lisbon was $-5˚\,C$. On New Year’s day the temperature was $3$ degrees lower. What was the temperature on New Year’s day?
- </code></pre>
+</code></pre>
 </div>
 
 
@@ -469,6 +493,9 @@ On Christmas day the temperature in Lisbon was $-5˚\,C$. On New Year’s day th
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='54012999-742D-48BD-A138-DB7E6775B4C3' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='54012999-742D-48BD-A138-DB7E6775B4C3' onclick='submitReview(event)'>PRPCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='54012999-742D-48BD-A138-DB7E6775B4C3' onclick='submitReview(event)'>PRG</button>
@@ -483,7 +510,7 @@ On Christmas day the temperature in Lisbon was $-5˚\,C$. On New Year’s day th
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='54012999-742D-48BD-A138-DB7E6775B4C3' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='54012999-742D-48BD-A138-DB7E6775B4C3' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='54012999-742D-48BD-A138-DB7E6775B4C3' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='54012999-742D-48BD-A138-DB7E6775B4C3' onclick='submitReview(event)'>PRR</button>
@@ -494,9 +521,12 @@ On Christmas day the temperature in Lisbon was $-5˚\,C$. On New Year’s day th
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='54012999-742D-48BD-A138-DB7E6775B4C3' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='54012999-742D-48BD-A138-DB7E6775B4C3' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='54012999-742D-48BD-A138-DB7E6775B4C3' id='FORM-54012999-742D-48BD-A138-DB7E6775B4C3' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='54012999-742D-48BD-A138-DB7E6775B4C3' id='FORM-54012999-742D-48BD-A138-DB7E6775B4C3' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -508,7 +538,7 @@ On Christmas day the temperature in Lisbon was $-5˚\,C$. On New Year’s day th
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>BA2765DA-2BA9-4476-B1E5-4B10DE8E89C6</p>
 </div>
@@ -516,13 +546,13 @@ On Christmas day the temperature in Lisbon was $-5˚\,C$. On New Year’s day th
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Puttaraja Hosalli</p>
 </div>
 <div class='rag'>
-<p>rag_as_pr</p>
+<p>rag_ph_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -552,6 +582,9 @@ What is the temperature at midnight in Moscow?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BA2765DA-2BA9-4476-B1E5-4B10DE8E89C6' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BA2765DA-2BA9-4476-B1E5-4B10DE8E89C6' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BA2765DA-2BA9-4476-B1E5-4B10DE8E89C6' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -564,7 +597,7 @@ What is the temperature at midnight in Moscow?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BA2765DA-2BA9-4476-B1E5-4B10DE8E89C6' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BA2765DA-2BA9-4476-B1E5-4B10DE8E89C6' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BA2765DA-2BA9-4476-B1E5-4B10DE8E89C6' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BA2765DA-2BA9-4476-B1E5-4B10DE8E89C6' onclick='submitReview(event)'>PRR</button>
@@ -575,9 +608,12 @@ What is the temperature at midnight in Moscow?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BA2765DA-2BA9-4476-B1E5-4B10DE8E89C6' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='BA2765DA-2BA9-4476-B1E5-4B10DE8E89C6' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='BA2765DA-2BA9-4476-B1E5-4B10DE8E89C6' id='FORM-BA2765DA-2BA9-4476-B1E5-4B10DE8E89C6' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='BA2765DA-2BA9-4476-B1E5-4B10DE8E89C6' id='FORM-BA2765DA-2BA9-4476-B1E5-4B10DE8E89C6' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

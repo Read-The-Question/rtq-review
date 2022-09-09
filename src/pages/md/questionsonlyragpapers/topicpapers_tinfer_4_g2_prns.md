@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tinfer-4-g2-prns"
 title: "TopicPaper - Infer - 4 - G2 - PRNS"
-date: 2022-08-19 16:00:22
+date: 2022-09-09 06:32:25
 questions_count: "8"
 ---
 <ul class='question default-decimal'>
@@ -46,6 +46,9 @@ Both $4$ and $8$ can be written as the sum of two prime numbers $(4 = 2 + 2, 8 =
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='06CD3DA8-2B58-436D-A89E-76C09A15DD66' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='06CD3DA8-2B58-436D-A89E-76C09A15DD66' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='06CD3DA8-2B58-436D-A89E-76C09A15DD66' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -58,7 +61,7 @@ Both $4$ and $8$ can be written as the sum of two prime numbers $(4 = 2 + 2, 8 =
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='06CD3DA8-2B58-436D-A89E-76C09A15DD66' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='06CD3DA8-2B58-436D-A89E-76C09A15DD66' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='06CD3DA8-2B58-436D-A89E-76C09A15DD66' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='06CD3DA8-2B58-436D-A89E-76C09A15DD66' onclick='submitReview(event)'>PRR</button>
@@ -69,9 +72,12 @@ Both $4$ and $8$ can be written as the sum of two prime numbers $(4 = 2 + 2, 8 =
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='06CD3DA8-2B58-436D-A89E-76C09A15DD66' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='06CD3DA8-2B58-436D-A89E-76C09A15DD66' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='06CD3DA8-2B58-436D-A89E-76C09A15DD66' id='FORM-06CD3DA8-2B58-436D-A89E-76C09A15DD66' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='06CD3DA8-2B58-436D-A89E-76C09A15DD66' id='FORM-06CD3DA8-2B58-436D-A89E-76C09A15DD66' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -132,6 +138,9 @@ Prove that the rectangle can be tiled by these T-tetrominoes so that it is cover
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='F77A6D00-B2EC-46DF-B02C-C9DC60707FF3' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='F77A6D00-B2EC-46DF-B02C-C9DC60707FF3' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='F77A6D00-B2EC-46DF-B02C-C9DC60707FF3' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -144,7 +153,7 @@ Prove that the rectangle can be tiled by these T-tetrominoes so that it is cover
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='F77A6D00-B2EC-46DF-B02C-C9DC60707FF3' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='F77A6D00-B2EC-46DF-B02C-C9DC60707FF3' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='F77A6D00-B2EC-46DF-B02C-C9DC60707FF3' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='F77A6D00-B2EC-46DF-B02C-C9DC60707FF3' onclick='submitReview(event)'>PRR</button>
@@ -155,9 +164,12 @@ Prove that the rectangle can be tiled by these T-tetrominoes so that it is cover
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='F77A6D00-B2EC-46DF-B02C-C9DC60707FF3' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='F77A6D00-B2EC-46DF-B02C-C9DC60707FF3' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='F77A6D00-B2EC-46DF-B02C-C9DC60707FF3' id='FORM-F77A6D00-B2EC-46DF-B02C-C9DC60707FF3' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='F77A6D00-B2EC-46DF-B02C-C9DC60707FF3' id='FORM-F77A6D00-B2EC-46DF-B02C-C9DC60707FF3' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -219,6 +231,9 @@ At what station did these four passengers get off the train?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C2BCB7BC-794E-4CCC-A392-3F7E1B313901' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C2BCB7BC-794E-4CCC-A392-3F7E1B313901' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C2BCB7BC-794E-4CCC-A392-3F7E1B313901' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -231,7 +246,7 @@ At what station did these four passengers get off the train?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C2BCB7BC-794E-4CCC-A392-3F7E1B313901' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C2BCB7BC-794E-4CCC-A392-3F7E1B313901' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C2BCB7BC-794E-4CCC-A392-3F7E1B313901' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C2BCB7BC-794E-4CCC-A392-3F7E1B313901' onclick='submitReview(event)'>PRR</button>
@@ -242,9 +257,12 @@ At what station did these four passengers get off the train?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C2BCB7BC-794E-4CCC-A392-3F7E1B313901' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='C2BCB7BC-794E-4CCC-A392-3F7E1B313901' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='C2BCB7BC-794E-4CCC-A392-3F7E1B313901' id='FORM-C2BCB7BC-794E-4CCC-A392-3F7E1B313901' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C2BCB7BC-794E-4CCC-A392-3F7E1B313901' id='FORM-C2BCB7BC-794E-4CCC-A392-3F7E1B313901' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -344,6 +362,9 @@ Complete the triangle of numbers:
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1E9F03BA-7298-4606-953B-9C6149610C9A' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1E9F03BA-7298-4606-953B-9C6149610C9A' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1E9F03BA-7298-4606-953B-9C6149610C9A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -356,7 +377,7 @@ Complete the triangle of numbers:
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1E9F03BA-7298-4606-953B-9C6149610C9A' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1E9F03BA-7298-4606-953B-9C6149610C9A' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1E9F03BA-7298-4606-953B-9C6149610C9A' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1E9F03BA-7298-4606-953B-9C6149610C9A' onclick='submitReview(event)'>PRR</button>
@@ -367,9 +388,12 @@ Complete the triangle of numbers:
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1E9F03BA-7298-4606-953B-9C6149610C9A' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='1E9F03BA-7298-4606-953B-9C6149610C9A' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='1E9F03BA-7298-4606-953B-9C6149610C9A' id='FORM-1E9F03BA-7298-4606-953B-9C6149610C9A' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1E9F03BA-7298-4606-953B-9C6149610C9A' id='FORM-1E9F03BA-7298-4606-953B-9C6149610C9A' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -463,6 +487,9 @@ Which two rectangles in the list below are similar?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C879CF61-B2A9-4CA6-B2AF-A48ACAE5D01E' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C879CF61-B2A9-4CA6-B2AF-A48ACAE5D01E' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C879CF61-B2A9-4CA6-B2AF-A48ACAE5D01E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -475,7 +502,7 @@ Which two rectangles in the list below are similar?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C879CF61-B2A9-4CA6-B2AF-A48ACAE5D01E' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C879CF61-B2A9-4CA6-B2AF-A48ACAE5D01E' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C879CF61-B2A9-4CA6-B2AF-A48ACAE5D01E' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C879CF61-B2A9-4CA6-B2AF-A48ACAE5D01E' onclick='submitReview(event)'>PRR</button>
@@ -486,9 +513,12 @@ Which two rectangles in the list below are similar?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C879CF61-B2A9-4CA6-B2AF-A48ACAE5D01E' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='C879CF61-B2A9-4CA6-B2AF-A48ACAE5D01E' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='C879CF61-B2A9-4CA6-B2AF-A48ACAE5D01E' id='FORM-C879CF61-B2A9-4CA6-B2AF-A48ACAE5D01E' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='C879CF61-B2A9-4CA6-B2AF-A48ACAE5D01E' id='FORM-C879CF61-B2A9-4CA6-B2AF-A48ACAE5D01E' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -545,6 +575,9 @@ Complete the multiplication table.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='7A744AD5-F944-4C41-802C-1A451D6B7ADC' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='7A744AD5-F944-4C41-802C-1A451D6B7ADC' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='7A744AD5-F944-4C41-802C-1A451D6B7ADC' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -557,7 +590,7 @@ Complete the multiplication table.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='7A744AD5-F944-4C41-802C-1A451D6B7ADC' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='7A744AD5-F944-4C41-802C-1A451D6B7ADC' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='7A744AD5-F944-4C41-802C-1A451D6B7ADC' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='7A744AD5-F944-4C41-802C-1A451D6B7ADC' onclick='submitReview(event)'>PRR</button>
@@ -568,9 +601,12 @@ Complete the multiplication table.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='7A744AD5-F944-4C41-802C-1A451D6B7ADC' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='7A744AD5-F944-4C41-802C-1A451D6B7ADC' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='7A744AD5-F944-4C41-802C-1A451D6B7ADC' id='FORM-7A744AD5-F944-4C41-802C-1A451D6B7ADC' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='7A744AD5-F944-4C41-802C-1A451D6B7ADC' id='FORM-7A744AD5-F944-4C41-802C-1A451D6B7ADC' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -673,6 +709,9 @@ It is a cold rainy day. I wear my raincoat, hat and no gloves.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='36C75B5F-BB13-4FEA-9598-8E6F7DA4161C' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='36C75B5F-BB13-4FEA-9598-8E6F7DA4161C' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='36C75B5F-BB13-4FEA-9598-8E6F7DA4161C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -685,7 +724,7 @@ It is a cold rainy day. I wear my raincoat, hat and no gloves.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='36C75B5F-BB13-4FEA-9598-8E6F7DA4161C' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='36C75B5F-BB13-4FEA-9598-8E6F7DA4161C' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='36C75B5F-BB13-4FEA-9598-8E6F7DA4161C' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='36C75B5F-BB13-4FEA-9598-8E6F7DA4161C' onclick='submitReview(event)'>PRR</button>
@@ -696,9 +735,12 @@ It is a cold rainy day. I wear my raincoat, hat and no gloves.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='36C75B5F-BB13-4FEA-9598-8E6F7DA4161C' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='36C75B5F-BB13-4FEA-9598-8E6F7DA4161C' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='36C75B5F-BB13-4FEA-9598-8E6F7DA4161C' id='FORM-36C75B5F-BB13-4FEA-9598-8E6F7DA4161C' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='36C75B5F-BB13-4FEA-9598-8E6F7DA4161C' id='FORM-36C75B5F-BB13-4FEA-9598-8E6F7DA4161C' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -782,6 +824,9 @@ What are the values of $\text{A}, \text{B}$ and $\text{C}$?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2A0612DC-A87B-4754-87AA-7F3A56DCD7B3' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2A0612DC-A87B-4754-87AA-7F3A56DCD7B3' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2A0612DC-A87B-4754-87AA-7F3A56DCD7B3' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -794,7 +839,7 @@ What are the values of $\text{A}, \text{B}$ and $\text{C}$?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2A0612DC-A87B-4754-87AA-7F3A56DCD7B3' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2A0612DC-A87B-4754-87AA-7F3A56DCD7B3' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2A0612DC-A87B-4754-87AA-7F3A56DCD7B3' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2A0612DC-A87B-4754-87AA-7F3A56DCD7B3' onclick='submitReview(event)'>PRR</button>
@@ -805,9 +850,12 @@ What are the values of $\text{A}, \text{B}$ and $\text{C}$?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2A0612DC-A87B-4754-87AA-7F3A56DCD7B3' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='2A0612DC-A87B-4754-87AA-7F3A56DCD7B3' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='2A0612DC-A87B-4754-87AA-7F3A56DCD7B3' id='FORM-2A0612DC-A87B-4754-87AA-7F3A56DCD7B3' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2A0612DC-A87B-4754-87AA-7F3A56DCD7B3' id='FORM-2A0612DC-A87B-4754-87AA-7F3A56DCD7B3' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

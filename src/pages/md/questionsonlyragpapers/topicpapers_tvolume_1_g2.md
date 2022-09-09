@@ -1,8 +1,8 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tvolume-1-g2"
 title: "TopicPaper - Volume - 1 - G2"
-date: 2022-08-19 16:00:22
-questions_count: "13"
+date: 2022-09-09 06:32:25
+questions_count: "14"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -57,6 +57,9 @@ How many small cubes are used to make this shape?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='333DC7CB-42F5-4E07-A556-253BF3AEF796' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='333DC7CB-42F5-4E07-A556-253BF3AEF796' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='333DC7CB-42F5-4E07-A556-253BF3AEF796' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -69,7 +72,7 @@ How many small cubes are used to make this shape?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='333DC7CB-42F5-4E07-A556-253BF3AEF796' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='333DC7CB-42F5-4E07-A556-253BF3AEF796' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='333DC7CB-42F5-4E07-A556-253BF3AEF796' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='333DC7CB-42F5-4E07-A556-253BF3AEF796' onclick='submitReview(event)'>PRR</button>
@@ -80,9 +83,12 @@ How many small cubes are used to make this shape?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='333DC7CB-42F5-4E07-A556-253BF3AEF796' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='333DC7CB-42F5-4E07-A556-253BF3AEF796' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='333DC7CB-42F5-4E07-A556-253BF3AEF796' id='FORM-333DC7CB-42F5-4E07-A556-253BF3AEF796' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='333DC7CB-42F5-4E07-A556-253BF3AEF796' id='FORM-333DC7CB-42F5-4E07-A556-253BF3AEF796' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -151,6 +157,9 @@ How many of these $2 \ \text{cm}$ cubes can Kaylee make?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='540F116C-7575-4E7C-8384-A326C28BAEA5' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='540F116C-7575-4E7C-8384-A326C28BAEA5' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='540F116C-7575-4E7C-8384-A326C28BAEA5' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -163,7 +172,7 @@ How many of these $2 \ \text{cm}$ cubes can Kaylee make?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='540F116C-7575-4E7C-8384-A326C28BAEA5' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='540F116C-7575-4E7C-8384-A326C28BAEA5' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='540F116C-7575-4E7C-8384-A326C28BAEA5' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='540F116C-7575-4E7C-8384-A326C28BAEA5' onclick='submitReview(event)'>PRR</button>
@@ -174,9 +183,12 @@ How many of these $2 \ \text{cm}$ cubes can Kaylee make?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='540F116C-7575-4E7C-8384-A326C28BAEA5' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='540F116C-7575-4E7C-8384-A326C28BAEA5' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='540F116C-7575-4E7C-8384-A326C28BAEA5' id='FORM-540F116C-7575-4E7C-8384-A326C28BAEA5' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='540F116C-7575-4E7C-8384-A326C28BAEA5' id='FORM-540F116C-7575-4E7C-8384-A326C28BAEA5' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -261,6 +273,9 @@ What is the length of one side of a cube?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='ACBAF178-BDF9-4247-936C-A5729B32A986' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='ACBAF178-BDF9-4247-936C-A5729B32A986' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='ACBAF178-BDF9-4247-936C-A5729B32A986' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -273,7 +288,7 @@ What is the length of one side of a cube?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='ACBAF178-BDF9-4247-936C-A5729B32A986' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='ACBAF178-BDF9-4247-936C-A5729B32A986' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='ACBAF178-BDF9-4247-936C-A5729B32A986' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='ACBAF178-BDF9-4247-936C-A5729B32A986' onclick='submitReview(event)'>PRR</button>
@@ -284,9 +299,12 @@ What is the length of one side of a cube?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='ACBAF178-BDF9-4247-936C-A5729B32A986' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='ACBAF178-BDF9-4247-936C-A5729B32A986' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='ACBAF178-BDF9-4247-936C-A5729B32A986' id='FORM-ACBAF178-BDF9-4247-936C-A5729B32A986' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='ACBAF178-BDF9-4247-936C-A5729B32A986' id='FORM-ACBAF178-BDF9-4247-936C-A5729B32A986' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -294,6 +312,129 @@ What is the length of one side of a cube?
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-ACBAF178-BDF9-4247-936C-A5729B32A986'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>E5EFA8AA-67B9-49E3-9B10-FCDDA374A512</p>
+</div>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2020--sample-paper-6:1:22</p>
+</div>
+<div class='rag'>
+<p>Puttaraja Hosalli</p>
+</div>
+<div class='rag'>
+<p>rag_ph_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tvolume
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A cube has each of its faces covered by one face of
+an identical cube, making the solid shape shown.
+
+The volume of the solid shape is $875 \ \text{cm}^3$. 
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>A cube has each of its faces covered by one face of
+an identical cube, making the solid shape shown.
+<emptyline>
+The volume of the solid shape is $875 \ \text{cm}^3$. 
+<emptyline>
+%image%
+</code></pre>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What is the volume of one of the cubes?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>What is the volume of one of the cubes?
+</code></pre>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What is the length of one side of a cube?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>What is the length of one side of a cube?
+</code></pre>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E5EFA8AA-67B9-49E3-9B10-FCDDA374A512' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E5EFA8AA-67B9-49E3-9B10-FCDDA374A512' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E5EFA8AA-67B9-49E3-9B10-FCDDA374A512' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E5EFA8AA-67B9-49E3-9B10-FCDDA374A512' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E5EFA8AA-67B9-49E3-9B10-FCDDA374A512' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E5EFA8AA-67B9-49E3-9B10-FCDDA374A512' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E5EFA8AA-67B9-49E3-9B10-FCDDA374A512' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E5EFA8AA-67B9-49E3-9B10-FCDDA374A512' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E5EFA8AA-67B9-49E3-9B10-FCDDA374A512' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E5EFA8AA-67B9-49E3-9B10-FCDDA374A512' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='E5EFA8AA-67B9-49E3-9B10-FCDDA374A512' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E5EFA8AA-67B9-49E3-9B10-FCDDA374A512' id='FORM-E5EFA8AA-67B9-49E3-9B10-FCDDA374A512' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E5EFA8AA-67B9-49E3-9B10-FCDDA374A512'>Initial</p>
 </div>
 </div>
 </li>
@@ -342,6 +483,9 @@ How many of these cubes are painted on exactly two sides?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CB4DEFFE-6371-44CF-8A90-FD3681A657D0' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CB4DEFFE-6371-44CF-8A90-FD3681A657D0' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CB4DEFFE-6371-44CF-8A90-FD3681A657D0' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -354,7 +498,7 @@ How many of these cubes are painted on exactly two sides?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CB4DEFFE-6371-44CF-8A90-FD3681A657D0' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CB4DEFFE-6371-44CF-8A90-FD3681A657D0' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CB4DEFFE-6371-44CF-8A90-FD3681A657D0' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CB4DEFFE-6371-44CF-8A90-FD3681A657D0' onclick='submitReview(event)'>PRR</button>
@@ -365,9 +509,12 @@ How many of these cubes are painted on exactly two sides?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CB4DEFFE-6371-44CF-8A90-FD3681A657D0' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='CB4DEFFE-6371-44CF-8A90-FD3681A657D0' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='CB4DEFFE-6371-44CF-8A90-FD3681A657D0' id='FORM-CB4DEFFE-6371-44CF-8A90-FD3681A657D0' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='CB4DEFFE-6371-44CF-8A90-FD3681A657D0' id='FORM-CB4DEFFE-6371-44CF-8A90-FD3681A657D0' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -428,6 +575,9 @@ All measurements are in centimetres.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3A749E22-6FE5-47A7-B614-E273124F46A5' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3A749E22-6FE5-47A7-B614-E273124F46A5' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3A749E22-6FE5-47A7-B614-E273124F46A5' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -440,7 +590,7 @@ All measurements are in centimetres.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3A749E22-6FE5-47A7-B614-E273124F46A5' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3A749E22-6FE5-47A7-B614-E273124F46A5' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3A749E22-6FE5-47A7-B614-E273124F46A5' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3A749E22-6FE5-47A7-B614-E273124F46A5' onclick='submitReview(event)'>PRR</button>
@@ -451,9 +601,12 @@ All measurements are in centimetres.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3A749E22-6FE5-47A7-B614-E273124F46A5' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='3A749E22-6FE5-47A7-B614-E273124F46A5' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='3A749E22-6FE5-47A7-B614-E273124F46A5' id='FORM-3A749E22-6FE5-47A7-B614-E273124F46A5' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3A749E22-6FE5-47A7-B614-E273124F46A5' id='FORM-3A749E22-6FE5-47A7-B614-E273124F46A5' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -515,6 +668,9 @@ Be careful - you can’t chop up the shoe boxes!
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A0766DE9-1D5E-461E-A564-4BC6C96FAF4C' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A0766DE9-1D5E-461E-A564-4BC6C96FAF4C' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A0766DE9-1D5E-461E-A564-4BC6C96FAF4C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -527,7 +683,7 @@ Be careful - you can’t chop up the shoe boxes!
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A0766DE9-1D5E-461E-A564-4BC6C96FAF4C' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A0766DE9-1D5E-461E-A564-4BC6C96FAF4C' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A0766DE9-1D5E-461E-A564-4BC6C96FAF4C' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A0766DE9-1D5E-461E-A564-4BC6C96FAF4C' onclick='submitReview(event)'>PRR</button>
@@ -538,9 +694,12 @@ Be careful - you can’t chop up the shoe boxes!
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A0766DE9-1D5E-461E-A564-4BC6C96FAF4C' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='A0766DE9-1D5E-461E-A564-4BC6C96FAF4C' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='A0766DE9-1D5E-461E-A564-4BC6C96FAF4C' id='FORM-A0766DE9-1D5E-461E-A564-4BC6C96FAF4C' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A0766DE9-1D5E-461E-A564-4BC6C96FAF4C' id='FORM-A0766DE9-1D5E-461E-A564-4BC6C96FAF4C' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -597,6 +756,9 @@ What is the volume of the box above?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6C18DFA0-8423-43ED-9915-3051E3628B08' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6C18DFA0-8423-43ED-9915-3051E3628B08' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6C18DFA0-8423-43ED-9915-3051E3628B08' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -609,7 +771,7 @@ What is the volume of the box above?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6C18DFA0-8423-43ED-9915-3051E3628B08' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6C18DFA0-8423-43ED-9915-3051E3628B08' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6C18DFA0-8423-43ED-9915-3051E3628B08' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6C18DFA0-8423-43ED-9915-3051E3628B08' onclick='submitReview(event)'>PRR</button>
@@ -620,9 +782,12 @@ What is the volume of the box above?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6C18DFA0-8423-43ED-9915-3051E3628B08' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='6C18DFA0-8423-43ED-9915-3051E3628B08' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='6C18DFA0-8423-43ED-9915-3051E3628B08' id='FORM-6C18DFA0-8423-43ED-9915-3051E3628B08' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6C18DFA0-8423-43ED-9915-3051E3628B08' id='FORM-6C18DFA0-8423-43ED-9915-3051E3628B08' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -708,6 +873,9 @@ Find the volume of this shape.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E7BD6A06-5B5F-4598-9094-CAB4FE07D5E3' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E7BD6A06-5B5F-4598-9094-CAB4FE07D5E3' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E7BD6A06-5B5F-4598-9094-CAB4FE07D5E3' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -720,7 +888,7 @@ Find the volume of this shape.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E7BD6A06-5B5F-4598-9094-CAB4FE07D5E3' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E7BD6A06-5B5F-4598-9094-CAB4FE07D5E3' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E7BD6A06-5B5F-4598-9094-CAB4FE07D5E3' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E7BD6A06-5B5F-4598-9094-CAB4FE07D5E3' onclick='submitReview(event)'>PRR</button>
@@ -731,9 +899,12 @@ Find the volume of this shape.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E7BD6A06-5B5F-4598-9094-CAB4FE07D5E3' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='E7BD6A06-5B5F-4598-9094-CAB4FE07D5E3' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='E7BD6A06-5B5F-4598-9094-CAB4FE07D5E3' id='FORM-E7BD6A06-5B5F-4598-9094-CAB4FE07D5E3' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E7BD6A06-5B5F-4598-9094-CAB4FE07D5E3' id='FORM-E7BD6A06-5B5F-4598-9094-CAB4FE07D5E3' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -790,6 +961,9 @@ A model house is made by sticking a triangular prism on top of a rectangular blo
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='159F7FF8-2EDF-4182-ADFD-95F6291506A6' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='159F7FF8-2EDF-4182-ADFD-95F6291506A6' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='159F7FF8-2EDF-4182-ADFD-95F6291506A6' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -802,7 +976,7 @@ A model house is made by sticking a triangular prism on top of a rectangular blo
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='159F7FF8-2EDF-4182-ADFD-95F6291506A6' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='159F7FF8-2EDF-4182-ADFD-95F6291506A6' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='159F7FF8-2EDF-4182-ADFD-95F6291506A6' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='159F7FF8-2EDF-4182-ADFD-95F6291506A6' onclick='submitReview(event)'>PRR</button>
@@ -813,9 +987,12 @@ A model house is made by sticking a triangular prism on top of a rectangular blo
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='159F7FF8-2EDF-4182-ADFD-95F6291506A6' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='159F7FF8-2EDF-4182-ADFD-95F6291506A6' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='159F7FF8-2EDF-4182-ADFD-95F6291506A6' id='FORM-159F7FF8-2EDF-4182-ADFD-95F6291506A6' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='159F7FF8-2EDF-4182-ADFD-95F6291506A6' id='FORM-159F7FF8-2EDF-4182-ADFD-95F6291506A6' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -934,6 +1111,9 @@ How many $1 \ \text{cm}$ cubes will have two red faces?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2F7C07CA-4370-40FB-8A91-FD313818A4F2' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2F7C07CA-4370-40FB-8A91-FD313818A4F2' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2F7C07CA-4370-40FB-8A91-FD313818A4F2' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -946,7 +1126,7 @@ How many $1 \ \text{cm}$ cubes will have two red faces?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2F7C07CA-4370-40FB-8A91-FD313818A4F2' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2F7C07CA-4370-40FB-8A91-FD313818A4F2' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2F7C07CA-4370-40FB-8A91-FD313818A4F2' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2F7C07CA-4370-40FB-8A91-FD313818A4F2' onclick='submitReview(event)'>PRR</button>
@@ -957,9 +1137,12 @@ How many $1 \ \text{cm}$ cubes will have two red faces?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2F7C07CA-4370-40FB-8A91-FD313818A4F2' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='2F7C07CA-4370-40FB-8A91-FD313818A4F2' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='2F7C07CA-4370-40FB-8A91-FD313818A4F2' id='FORM-2F7C07CA-4370-40FB-8A91-FD313818A4F2' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='2F7C07CA-4370-40FB-8A91-FD313818A4F2' id='FORM-2F7C07CA-4370-40FB-8A91-FD313818A4F2' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1021,6 +1204,9 @@ Blocks of this shape are packed into the container on the right. What is the gre
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1F50F7CD-F3E8-44BF-B1E4-AF4F6393A329' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1F50F7CD-F3E8-44BF-B1E4-AF4F6393A329' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1F50F7CD-F3E8-44BF-B1E4-AF4F6393A329' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1033,7 +1219,7 @@ Blocks of this shape are packed into the container on the right. What is the gre
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1F50F7CD-F3E8-44BF-B1E4-AF4F6393A329' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1F50F7CD-F3E8-44BF-B1E4-AF4F6393A329' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1F50F7CD-F3E8-44BF-B1E4-AF4F6393A329' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1F50F7CD-F3E8-44BF-B1E4-AF4F6393A329' onclick='submitReview(event)'>PRR</button>
@@ -1044,9 +1230,12 @@ Blocks of this shape are packed into the container on the right. What is the gre
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1F50F7CD-F3E8-44BF-B1E4-AF4F6393A329' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='1F50F7CD-F3E8-44BF-B1E4-AF4F6393A329' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='1F50F7CD-F3E8-44BF-B1E4-AF4F6393A329' id='FORM-1F50F7CD-F3E8-44BF-B1E4-AF4F6393A329' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1F50F7CD-F3E8-44BF-B1E4-AF4F6393A329' id='FORM-1F50F7CD-F3E8-44BF-B1E4-AF4F6393A329' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1132,6 +1321,9 @@ What fraction of the bigger box’s volume is the volume of the smaller box?
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6F96E3F8-8999-42DE-A8DF-52DA739B2658' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6F96E3F8-8999-42DE-A8DF-52DA739B2658' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6F96E3F8-8999-42DE-A8DF-52DA739B2658' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1144,7 +1336,7 @@ What fraction of the bigger box’s volume is the volume of the smaller box?
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6F96E3F8-8999-42DE-A8DF-52DA739B2658' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6F96E3F8-8999-42DE-A8DF-52DA739B2658' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6F96E3F8-8999-42DE-A8DF-52DA739B2658' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6F96E3F8-8999-42DE-A8DF-52DA739B2658' onclick='submitReview(event)'>PRR</button>
@@ -1155,9 +1347,12 @@ What fraction of the bigger box’s volume is the volume of the smaller box?
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6F96E3F8-8999-42DE-A8DF-52DA739B2658' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='6F96E3F8-8999-42DE-A8DF-52DA739B2658' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='6F96E3F8-8999-42DE-A8DF-52DA739B2658' id='FORM-6F96E3F8-8999-42DE-A8DF-52DA739B2658' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6F96E3F8-8999-42DE-A8DF-52DA739B2658' id='FORM-6F96E3F8-8999-42DE-A8DF-52DA739B2658' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1216,6 +1411,9 @@ Work out the volume of the box and state the units.
 <button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='75E1CEAE-F769-495F-847A-307CFF060739' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='75E1CEAE-F769-495F-847A-307CFF060739' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='75E1CEAE-F769-495F-847A-307CFF060739' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1228,7 +1426,7 @@ Work out the volume of the box and state the units.
 <button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='75E1CEAE-F769-495F-847A-307CFF060739' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='75E1CEAE-F769-495F-847A-307CFF060739' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='75E1CEAE-F769-495F-847A-307CFF060739' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='75E1CEAE-F769-495F-847A-307CFF060739' onclick='submitReview(event)'>PRR</button>
@@ -1239,9 +1437,12 @@ Work out the volume of the box and state the units.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='75E1CEAE-F769-495F-847A-307CFF060739' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='75E1CEAE-F769-495F-847A-307CFF060739' onclick='resetComment(event)'>Reset Comments</button>
+</li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='75E1CEAE-F769-495F-847A-307CFF060739' id='FORM-75E1CEAE-F769-495F-847A-307CFF060739' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='75E1CEAE-F769-495F-847A-307CFF060739' id='FORM-75E1CEAE-F769-495F-847A-307CFF060739' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

@@ -1103,7 +1103,7 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h3 style={headingStyles}>
-      Answers - Phase 2 - TopicPapers - RAG - PRPCC / PRCC / PRNS
+      Answers - Phase 2 - TopicPapers - RAG - PRCC / PRNS
       </h3>
 
       {/* Filter Ragpapers and PRCC */}

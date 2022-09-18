@@ -55,11 +55,16 @@ ul ul ul {
 
 img {
     border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 5px;
-    width: 200px;
+    /* border-radius: 4px; */
+    /* padding: 5px; */
+    width: 500px;
+    min-height: 150px;
     /* width:max-content; */
     /* width: 600px; */
+    background-color:red;
+    background-color: darkorchid;
+    /* background-image: url("/papers/missing_image.svg"); */
+
 }
 
 

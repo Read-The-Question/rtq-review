@@ -1,94 +1,14 @@
 ---
 slug: "ragpapers/topicpapers-tsymmetry-1-blocked"
 title: "TopicPaper - Symmetry - 1 - BLOCKED"
-date: 2022-09-09 06:13:00
+date: 2022-09-21 20:40:31
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
-<div class='uuid'>
-<p>3D982CA3-A3A2-427C-862C-A15D9949CF81</p>
-</div>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-b:1:9</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_blocked</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsymmetry
-</li>
-</ul>
-</div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='3D982CA3-A3A2-427C-862C-A15D9949CF81' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='3D982CA3-A3A2-427C-862C-A15D9949CF81' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='3D982CA3-A3A2-427C-862C-A15D9949CF81' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='3D982CA3-A3A2-427C-862C-A15D9949CF81' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='3D982CA3-A3A2-427C-862C-A15D9949CF81' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='3D982CA3-A3A2-427C-862C-A15D9949CF81' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='3D982CA3-A3A2-427C-862C-A15D9949CF81' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='3D982CA3-A3A2-427C-862C-A15D9949CF81' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='3D982CA3-A3A2-427C-862C-A15D9949CF81' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='3D982CA3-A3A2-427C-862C-A15D9949CF81' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='3D982CA3-A3A2-427C-862C-A15D9949CF81' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='3D982CA3-A3A2-427C-862C-A15D9949CF81' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='3D982CA3-A3A2-427C-862C-A15D9949CF81' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='3D982CA3-A3A2-427C-862C-A15D9949CF81' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='3D982CA3-A3A2-427C-862C-A15D9949CF81' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='3D982CA3-A3A2-427C-862C-A15D9949CF81' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='3D982CA3-A3A2-427C-862C-A15D9949CF81' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='3D982CA3-A3A2-427C-862C-A15D9949CF81' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='3D982CA3-A3A2-427C-862C-A15D9949CF81' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='3D982CA3-A3A2-427C-862C-A15D9949CF81' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='3D982CA3-A3A2-427C-862C-A15D9949CF81' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='3D982CA3-A3A2-427C-862C-A15D9949CF81' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='3D982CA3-A3A2-427C-862C-A15D9949CF81' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='3D982CA3-A3A2-427C-862C-A15D9949CF81' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-3D982CA3-A3A2-427C-862C-A15D9949CF81'>Initial</p>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 %empty%
@@ -108,25 +28,6 @@ tsymmetry
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -134,8 +35,7 @@ tsymmetry
 
 Circle which of the four options below shows a correct **rotation** of the word:
 
-![missing image](/papers/missing_image.svg)
-
+![dulwich-college--11-plus--maths--9999--specimen-paper-b/section-1-question-9-subquestion-1-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-b/section-1-question-9-subquestion-1-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-b/section-1-question-9-subquestion-1-00.png")
 
 </div>
 <div class='workings'>
@@ -150,25 +50,6 @@ $\text {option 4}$
 
 $\text {option 4}$
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$\text {option 4}$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\text {option 4}$
-</code></pre>
 </div>
 </div>
 
@@ -180,8 +61,7 @@ $\text {option 4}$
 
 Circle which of the four options below shows a correct **reflection** of the word:
 
-![missing image](/papers/missing_image.svg)
-
+![dulwich-college--11-plus--maths--9999--specimen-paper-b/section-1-question-9-subquestion-2-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-b/section-1-question-9-subquestion-2-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-b/section-1-question-9-subquestion-2-00.png")
 
 </div>
 <div class='workings'>
@@ -198,30 +78,10 @@ $\text {option 3}$
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$\text {option 3}$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\text {option 3}$
-</code></pre>
-</div>
-</div>
 
 </div>
 </li>
 </ul>
-
 </div>
 </li>
 </ul>

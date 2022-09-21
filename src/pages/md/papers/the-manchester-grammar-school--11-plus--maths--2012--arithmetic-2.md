@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2012-arithmetic-2"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2012 - Arithmetic 2"
-date: 2022-09-09 06:05:20
+date: 2022-09-21 20:38:03
 questions_count: "12"
 ---
 <div class='paper'>
@@ -15,97 +15,13 @@ questions_count: "12"
 <ul class='question decimal'>
 <li>
 <div class='question_envelope rag_g0 rag_prcc question'>
-<div class='uuid'>
-<p>AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B</p>
-</div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2:1:1</p>
-</div>
-<div class='rag'>
-<p>Ayushi Mishra</p>
-</div>
-<div class='rag'>
-<p>rag_am_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B'>Initial</p>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 All the measurements in the following diagram are given in centimetres
 
-![missing image](/papers/missing_image.svg)
-
+![the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-1-00.png](/assets/the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-1-00.png "the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-1-00.png")
 
 </div>
 <div class='workings'>
@@ -120,25 +36,6 @@ All the measurements in the following diagram are given in centimetres
 
 %empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
 </div>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -181,38 +78,6 @@ Perimeter of letter F $= 42 \ \text {cm}$
 
 $42 \ \text {cm}$
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
-*TODO:: Show the given diagram with missing sides calculated.*
-rtq_abbr_md_add_drawing_ends
-<emptyline>
-rtq_abbr_katex_formula_expanded_perimeter_polygon
-<emptyline>
-$
-\begin{aligned}
-\text {Perimeter} &= 6 + 13 + 2 + 5 + 2 + 2 + 2 + 4 + 4 + 2 \\\\
-                  &= 42 \ \text {cm}
-\end{aligned}
-$
-<emptyline>
-Perimeter of letter F $= 42 \ \text {cm}$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$42 \ \text {cm}$
-</code></pre>
 </div>
 </div>
 
@@ -261,177 +126,16 @@ $38 \ \text {cm} ^ 2$
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
-*TODO:: Show the given diagram divided into 3 rectangles with missing sides calculated.*
-rtq_abbr_md_add_drawing_ends
-<emptyline>
-rtq_abbr_katex_formula_area_rectangle_expanded
-<emptyline>
-As per the question, the shape can be divided into three rectangles
-<emptyline>
-$
-\begin{aligned}
-\text {Total Area}      &= \text {Rectangle 1} + \text {Rectangle 2} + \text {Rectangle 3} \\\\
-                        &= (13 \times 2) + (2 \times 2) + (4 \times 2) \\\\
-                        &= 26 + 4 + 8 \\\\
-                        &= 38 \ \text {cm} ^ 2
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$38 \ \text {cm} ^ 2$
-</code></pre>
-</div>
-</div>
 
 </div>
 </li>
 </ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G0' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' id='FORM-AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B'>Initial</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g1 rag_prns question'>
-<div class='uuid'>
-<p>D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24</p>
-</div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2:1:2</p>
-</div>
-<div class='rag'>
-<p>Neeraj Singh</p>
-</div>
-<div class='rag'>
-<p>rag_ns_g1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24'>Initial</p>
+<div class='question_envelope rag_g2 rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The $\text{FAB}$ of a number is obtained by multiplying the number by all the whole numbers less than or equal to it down to one.
@@ -451,25 +155,6 @@ So $\text{FAB } 3 = 6$ because $3 \times 2 \times 1 = 6$
 
 %empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
 </div>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -499,30 +184,6 @@ $120$
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-\text {FAB} \ 5   &= 5 \times 4 \times 3 \times 2 \times 1 \\\\
-                  &= 120
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$120$
-</code></pre>
-</div>
-</div>
 
 </div>
 </li>
@@ -550,30 +211,6 @@ $x = 6$
 
 $6$
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>| FAB              |     Value                                       |
-|:----------------:|:-----------------------------------------------:|
-| $5$              | $5 \times 4 \times 3 \times 2 \times 1 = 120$   |
-| $6$              | $120 \times 6 = 720$                            |
-<emptyline>
-$x = 6$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$6$
-</code></pre>
 </div>
 </div>
 
@@ -608,33 +245,6 @@ $110$
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-&= \dfrac {\text {FAB} \ 11} {\text {FAB} \ 9} \\\\
-&= \dfrac {11 \times 10 \times \text {FAB} \ 9} {\text {FAB} \ 9} \\\\
-&= \dfrac {11 \times 10 \times \cancel {\text {FAB} \ 9}} {\cancel {\text {FAB} \ 9}} \\\\
-&= 11 \times 10 \\\\
-&= 110
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$110$
-</code></pre>
-</div>
-</div>
 
 </div>
 </li>
@@ -665,182 +275,27 @@ $362880$
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-\text {FAB} \ 9                     &= \dfrac {\text {FAB} \ 10} {10} \\\\
-                                    &= \dfrac {3628800} {10} \\\\
-                                    &= 362880
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$362880$
-</code></pre>
-</div>
-</div>
 
 </div>
 </li>
 </ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' id='FORM-D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24'>Initial</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g1 rag_prns question'>
-<div class='uuid'>
-<p>6985EE7A-C7F7-4045-AF01-B9B001667366</p>
-</div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2:1:3</p>
-</div>
-<div class='rag'>
-<p>Md Rameez</p>
-</div>
-<div class='rag'>
-<p>rag_mr_g1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-6985EE7A-C7F7-4045-AF01-B9B001667366'>Initial</p>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Cheadle Construction uses metal beams, like the one below, in buildings to support walls and ceilings.
 
-![missing image](/papers/missing_image.svg)
-
+![the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-3-00.png](/assets/the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-3-00.png "the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-3-00.png")
 
 The beams can be placed in one of two ways so the end of the beam is in either Position $1$ or Position $2$.
 
-![missing image](/papers/missing_image.svg)
+![the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-3-01.png](/assets/the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-3-01.png "the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-3-01.png")
 
-
-![missing image](/papers/missing_image.svg)
-
+![the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-3-02.png](/assets/the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-3-02.png "the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-3-02.png")
 
 The height and width of a beam (in cms) determines the size of the greatest load (in kgs) the beam can support, according to the following formula
 
@@ -863,25 +318,6 @@ $L = 10 \times 4 \times 4 \times 6 = 960 \ \text{kg}$
 
 %empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
 </div>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -917,38 +353,6 @@ $
 
 $2000 \ \text {kg}$
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Height in position $1 = 5 \ \text {cm}$
-<emptyline>
-Width in position $1 = 8 \ \text {cm}$
-<emptyline>
-As per the question,
-<emptyline>
-$
-\begin{aligned}
-\text{Load}    &= 10 \times 5 \times 5 \times 8 \\\\
-               &= 50 \times 40 \\\\
-               &= 2000 \ \text {kg}
-\end{aligned}
-$
-<emptyline>
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$2000 \ \text {kg}$
-</code></pre>
 </div>
 </div>
 
@@ -989,41 +393,6 @@ $
 
 $1200 \ \text {kg}$
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Height in position $2 = 8 \ \text {cm}$
-<emptyline>
-Width in position $2 = 5 \ \text {cm}$
-<emptyline>
-As per the question,
-<emptyline>
-$
-\begin{aligned}
-\text{Load}                                            &= 10 \times 8 \times 8 \times 5 \\\\
-                                                       &= 80 \times 40 \\\\
-                                                       &= 3200 \ \text {kg} \\\\
-\text{Difference in the loads between two positions}   &= \text{Load 2} - \text{Load 1} \\\\
-                                                       &= 3200 - 2000 \\\\
-                                                       &= 1200 \ \text {kg}
-\end{aligned}
-$
-<emptyline>
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1200 \ \text {kg}$
-</code></pre>
 </div>
 </div>
 
@@ -1067,202 +436,32 @@ $9 \ \text {cm}$
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the height of the beam $= h$
-<emptyline>
-As per the question,
-<emptyline>
-$
-\begin{aligned}
-10 \times h \times h \times 6      &= 4860 \\\\
-10 \times 6 \times h ^ 2           &= 4860 \\\\
-h ^ 2                              &= \dfrac {4860} {10 \times 6} \\\\
-h ^ 2                              &= \dfrac {10 \times 6 \times 81} {10 \times 6} \\\\
-h ^ 2                              &= \dfrac {\cancel {10} \times \cancel 6 \times 81} {\cancel {10} \times \cancel 6} \\\\
-h ^ 2                              &= 81 \\\\
-h                                  &= \sqrt {81} \\\\
-h                                  &= 9 \ \text{cm}
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$9 \ \text {cm}$
-</code></pre>
-</div>
-</div>
 
 </div>
 </li>
 </ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' id='FORM-6985EE7A-C7F7-4045-AF01-B9B001667366' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-6985EE7A-C7F7-4045-AF01-B9B001667366'>Initial</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>D7F85DE9-50FB-4FF8-8109-B722467E136F</p>
-</div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2:1:4</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-D7F85DE9-50FB-4FF8-8109-B722467E136F'>Initial</p>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The Code Club at Bletchley Park School were taking a break from their normal activities to devise some codes of their own. One of the apprentice code makers came up with the following system for listing circles and circles inside circles, using only brackets and the number l.
 
 |     Code    |            for the picture of            |
 |-------------|------------------------------------------|
-|   ![missing image](/papers/missing_image.svg)
-   |                 a circle                 |
-|   ![missing image](/papers/missing_image.svg)
-   |         a circle inside a circle         |
-| and ![missing image](/papers/missing_image.svg)
- | a circle inside a circle inside a circle |
+|   ![the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-00.png](/assets/the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-00.png "the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-00.png")   |                 a circle                 |
+|   ![the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-01.png](/assets/the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-01.png "the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-01.png")   |         a circle inside a circle         |
+| and ![the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-02.png](/assets/the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-02.png "the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-02.png") | a circle inside a circle inside a circle |
 
 and so on.
 
-|  So | ![missing image](/papers/missing_image.svg)
- | is | ![missing image](/papers/missing_image.svg)
- |
+|  So | ![the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-03.png](/assets/the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-03.png "the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-03.png") | is | ![the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-04.png](/assets/the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-04.png "the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-04.png") |
 |:---:|:-------:|----|---------|
-| and | ![missing image](/papers/missing_image.svg)
- | is | ![missing image](/papers/missing_image.svg)
- |
-| and | ![missing image](/papers/missing_image.svg)
- | is | ![missing image](/papers/missing_image.svg)
- |
+| and | ![the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-05.png](/assets/the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-05.png "the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-05.png") | is | ![the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-06.png](/assets/the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-06.png "the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-06.png") |
+| and | ![the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-07.png](/assets/the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-07.png "the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-07.png") | is | ![the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-08.png](/assets/the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-08.png "the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-08.png") |
 
 </div>
 <div class='workings'>
@@ -1287,40 +486,6 @@ TODOANSWER
 
 TODOANSWER
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
 </div>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -1345,32 +510,12 @@ TODOANSWER
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
 <ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
 <div class='question subsubquestion'>
 
-![missing image](/papers/missing_image.svg)
-
+![the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-subquestion-1--subsubquestion-1--00.png](/assets/the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-subquestion-1--subsubquestion-1--00.png "the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-subquestion-1--subsubquestion-1--00.png")
 
 </div>
 <div class='workings'>
@@ -1387,25 +532,6 @@ $| \ \ |(|) \ |(|)$
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$| \ || \ |(|)$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$| \ \ |(|) \ |(|)$
-</code></pre>
-</div>
-</div>
 
 </div>
 </li>
@@ -1413,8 +539,7 @@ $| \ \ |(|) \ |(|)$
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
 <div class='question subsubquestion'>
 
-![missing image](/papers/missing_image.svg)
-
+![the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-subquestion-1--subsubquestion-2--00.png](/assets/the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-subquestion-1--subsubquestion-2--00.png "the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-subquestion-1--subsubquestion-2--00.png")
 
 </div>
 <div class='workings'>
@@ -1431,25 +556,6 @@ $|(| |) \ |(|(|))$
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$|(| |) \ |(|(|))$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$|(| |) \ |(|(|))$
-</code></pre>
-</div>
-</div>
 
 </div>
 </li>
@@ -1462,8 +568,7 @@ $|(| |) \ |(|(|))$
 
 Draw the picture for the following code 
 
-![missing image](/papers/missing_image.svg)
-
+![the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-subquestion-2-00.png](/assets/the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-subquestion-2-00.png "the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-4-subquestion-2-00.png")
 
 </div>
 <div class='workings'>
@@ -1489,176 +594,16 @@ TODOANSWER
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'></code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
 
 </div>
 </li>
 </ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='NS' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='D7F85DE9-50FB-4FF8-8109-B722467E136F' id='FORM-D7F85DE9-50FB-4FF8-8109-B722467E136F' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-D7F85DE9-50FB-4FF8-8109-B722467E136F'>Initial</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_pr rag_prrl question'>
-<div class='uuid'>
-<p>E96F9980-E746-44A5-BF5E-740293EF65A9</p>
-</div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2:1:5</p>
-</div>
-<div class='rag'>
-<p>Md Rameez</p>
-</div>
-<div class='rag'>
-<p>rag_mr_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prrl</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-E96F9980-E746-44A5-BF5E-740293EF65A9'>Initial</p>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A festival in Platt Fields attracted a huge crowd and all the people attending brought food with them to share out. Some people brought bread with them, others brought fish while the remainder brought fruit in the form of apples.
@@ -1680,25 +625,6 @@ TODOWORKING
 
 TODOANSWER
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
 </div>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -1733,33 +659,6 @@ $12 \ \text{apples}$
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-\text{Number of apples Oliver get}        &= 2 \ \text{fish} \\\\
-                                          &= 2 \times 2 \ \text{loaves} \\\\
-                                          &= 4 \ \text{loaves} \\\\
-                                          &= 4 \times 3 \ \text{apples} \\\\
-                                          &= 12 \ \text{apples}
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$12 \ \text{apples}$
-</code></pre>
-</div>
-</div>
 
 </div>
 </li>
@@ -1791,34 +690,6 @@ $
 
 $10 \ \text{loaves}$
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-\text{Number of loaves Irfan get}         &= 3 \ \text{fish} + 12 \ \text{apples} \\\\
-                                          &= 3 \times 2 \ \text{loaves} + \dfrac {12} {3} \ \text{loaves} \\\\
-                                          &= 6 + \dfrac {4 \times 3} {3} \\\\
-                                          &= 6 + \dfrac {4 \times \cancel 3} {\cancel 3} \\\\
-                                          &= 6 + 4 \\\\
-                                          &= 10 \ \text{loaves}
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$10 \ \text{loaves}$
-</code></pre>
 </div>
 </div>
 
@@ -1869,186 +740,16 @@ $2 \ \text{loaves}, 8 \ \text{fish}$
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the number of loaves be $= a$
-<emptyline>
-Number of fish $= 4a$
-<emptyline>
-As per the question,
-<emptyline>
-$
-\begin{aligned}
-a \times 3 + 4a \times 2 \times 3         &= 54 \\\\
-3a + 24a                                  &= 54 \\\\
-27a                                       &= 54 \\\\
-a                                         &= \dfrac {54} {27} \\\\
-a                                         &= \dfrac {27 \times 2} {27} \\\\
-a                                         &= \dfrac {\cancel {27} \times 2} {\cancel {27}} \\\\
-a                                         &= 2
-\end{aligned}
-$
-<emptyline>
-$
-\begin{aligned}
-\text{Number of loaves}          &= 2 \\\\
-\text{Number of fish}            &= 2 \times 4 \\\\
-                                 &= 8
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$2 \ \text{loaves}, 8 \ \text{fish}$
-</code></pre>
-</div>
-</div>
 
 </div>
 </li>
 </ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E96F9980-E746-44A5-BF5E-740293EF65A9' id='FORM-E96F9980-E746-44A5-BF5E-740293EF65A9' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-E96F9980-E746-44A5-BF5E-740293EF65A9'>Initial</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>B2840747-46F0-4E96-BFB6-23B78D10FEA6</p>
-</div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2:1:6</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttable
-</li>
-</ul>
-</div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-B2840747-46F0-4E96-BFB6-23B78D10FEA6'>Initial</p>
+<div class='question_envelope rag_pr rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In a skate-boarding competition competitors do a series of tricks which judges score as follows:-
@@ -2074,344 +775,36 @@ Fill in all the missing numbers on the board so that the judges have a complete 
 <div class='workings'>
 <div class='working'>
 
+Let's complete the table.
 
-No. of tricks as $n$
-
-Super tricks as $s$
-
-Good tricks as $g$
-
-Poor tricks as $p$
-
-Total points as $t$
-
-$n = s + g + p$
-
-$t = (s \times 5) + (g \times 3) + (p \times 2)$
-
-</div>
-<div class='working'>
-
-DEREK
-
-$
-\begin{aligned}
-n &= 8 \\\\
-g &= 1 \\\\
-p &= 2
-\end{aligned}
-$
-
-Let's find $s$ and $t$ using the formula above.
-
-$
-\begin{aligned}
-8 &= s + 1 + 2 \\\\
-s &= 8 - 3 \\\\
-s &= 5 \\\\
-t &= (5 \times 5) + (1 \times 3) + (2 \times 2) \\\\
-t &= 25 + 3 + 4 \\\\
-t &= 32\\
-\end{aligned}
-$
-
-Dereck : Super points are 5 and total points are 32.
-
-
-
-</div>
-<div class='working'>
-
-
-ALI
-
-n = 9
-
-Ali scored lower points than Dereck.
-
-Dereck > Ali > 
-
-Charlie 32 > Ali >   30
-
-Ali has total of 31 points.
-
-Using trial and error. 
-
-$3$ or $2$ combinations for tricks which add up 
-
-$
-\begin{aligned}
-t &= (4 \times 5) + (3 \times 3) + (2 \times 2) \\\\
-n &= 9
-\end{aligned}
-$
-
-Let's find $s$ and $t$ using the formula above.
-
-$
-\begin{aligned}
-8 &= s + 1 + 2 \\\\
-s &= 8 - 3 \\\\
-s &= 5 \\\\
-t &= (5 \times 5) + (1 \times 3) + (2 \times 2) \\\\
-t &= 25 + 3 + 4\\\\
-t &= 32
-\end{aligned}
-$
-
-Dereck : Super points are 5 and total points are 32.
-
-
+| **Name**|          **No of tricks**            |          **Super**                   |           **Good**       |               **Poor**               |                                  **Total Points**                             |
+|:-------:|:------------------------------------:|:------------------------------------:|:------------------------:|:------------------------------------:|:-----------------------------------------------------------------------------:|
+|  Derek  |                $8$                   | $8 - 1 - 2 = 5 \ \footnotesize{(1)}$ |            $1$           |                 $2$                  | $5 \times 5 + 1 \times 3 + 2 \times 2 = 25 + 3 + 4 = 32 \ \footnotesize{(2)}$ |
+|   Ali   |                $9$                   |      $4 \ \footnotesize{(4)}$        | $1 \ \footnotesize{(5)}$ | $9 - 4 - 1 = 4 \ \footnotesize{(6)}$ |                          $31 \ \footnotesize{(3)}$                            |
+| Charlie |                $9$                   |              $2$                     | $6 \ \footnotesize{(7)}$ | $9 - 2 - 6 = 1 \ \footnotesize{(8)}$ |                                       $30$                                    |
+|  Brian  | $4 + 1 + 0 = 5 \ \footnotesize{(9)}$ |              $4$                     | $1 \ \footnotesize{(10)}$|       $0 \ \footnotesize{(11)}$      |                                       $23$                                    |
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+| **Name**| **No of tricks** | **Super** | **Good** | **Poor** | **Total Points** |
+|:-------:|:----------------:|:---------:|:--------:|:--------:|:----------------:|
+|  Derek  |     $8$          | $5$       | $1$      | $2$      |     $32$         |
+|   Ali   |     $9$          | $4$       | $1$      | $4$      |     $31$         |
+| Charlie |     $9$          | $2$       | $6$      | $1$      |    $30$          |
+|  Brian  |     $5$          | $4$       | $1$      | $0$      |    $23$          |
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>
-No. of tricks as $n$
-<emptyline>
-Super tricks as $s$
-<emptyline>
-Good tricks as $g$
-<emptyline>
-Poor tricks as $p$
-<emptyline>
-Total points as $t$
-<emptyline>
-$n = s + g + p$
-<emptyline>
-$t = (s \times 5) + (g \times 3) + (p \times 2)$
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>DEREK
-<emptyline>
-$
-\begin{aligned}
-n &= 8 \\\\
-g &= 1 \\\\
-p &= 2
-\end{aligned}
-$
-<emptyline>
-Let's find $s$ and $t$ using the formula above.
-<emptyline>
-$
-\begin{aligned}
-8 &= s + 1 + 2 \\\\
-s &= 8 - 3 \\\\
-s &= 5 \\\\
-t &= (5 \times 5) + (1 \times 3) + (2 \times 2) \\\\
-t &= 25 + 3 + 4 \\\\
-t &= 32\\
-\end{aligned}
-$
-<emptyline>
-Dereck : Super points are 5 and total points are 32.
-<emptyline>
-
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-ALI
-<emptyline>
-n = 9
-<emptyline>
-Ali scored lower points than Dereck.
-<emptyline>
-Dereck > Ali > 
-<emptyline>
-Charlie 32 > Ali >   30
-<emptyline>
-Ali has total of 31 points.
-<emptyline>
-Using trial and error. 
-<emptyline>
-$3$ or $2$ combinations for tricks which add up 
-<emptyline>
-$
-\begin{aligned}
-t &= (4 \times 5) + (3 \times 3) + (2 \times 2) \\\\
-n &= 9
-\end{aligned}
-$
-<emptyline>
-Let's find $s$ and $t$ using the formula above.
-<emptyline>
-$
-\begin{aligned}
-8 &= s + 1 + 2 \\\\
-s &= 8 - 3 \\\\
-s &= 5 \\\\
-t &= (5 \times 5) + (1 \times 3) + (2 \times 2) \\\\
-t &= 25 + 3 + 4\\\\
-t &= 32
-\end{aligned}
-$
-<emptyline>
-Dereck : Super points are 5 and total points are 32.
-<emptyline>
-
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='NS' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='B2840747-46F0-4E96-BFB6-23B78D10FEA6' id='FORM-B2840747-46F0-4E96-BFB6-23B78D10FEA6' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-B2840747-46F0-4E96-BFB6-23B78D10FEA6'>Initial</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
-<div class='uuid'>
-<p>589E5E44-10C8-4537-8ED7-9C02B0A0532C</p>
-</div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2:1:7</p>
-</div>
-<div class='rag'>
-<p>Neeraj Singh</p>
-</div>
-<div class='rag'>
-<p>rag_ns_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-589E5E44-10C8-4537-8ED7-9C02B0A0532C'>Initial</p>
+<div class='question_envelope rag_g0 rag_prpcr question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 You are given that $27 \times 351 = 9477$. 
@@ -2419,8 +812,6 @@ You are given that $27 \times 351 = 9477$.
 Use this information to answer the following questions
 
 </div>
-
-
 
 
 <ul class='subquestion lower-alpha'>
@@ -2453,33 +844,6 @@ $27$
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-&= 9477 \div 351 \\\\
-&= \dfrac{9477}{351}
-\\\\
-&= \dfrac{27 \times 351} {351} \\\\
-&= \dfrac{27 \times \cancel{351}}{\cancel{351}}
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$27$
-</code></pre>
-</div>
-</div>
 
 </div>
 </li>
@@ -2510,33 +874,6 @@ $
 
 $9.477$
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-&= 2.7\times 3.51 \\\\
-&= \dfrac{27}{10} \times \dfrac{351}{100} \\\\
-&= \dfrac {27 \times 351} {10 \times 100} \\\\
-&= \dfrac {9477} {1000} \\\\
-&= 9.477
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$9.477$
-</code></pre>
 </div>
 </div>
 
@@ -2574,36 +911,6 @@ $3.51$
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-&= 947.7 \div 270 \\\\
-&= \dfrac {947.7} {270} \\\\
-&= \dfrac {947.7 \times 10} {270 \times 10}\\\\
-&= \dfrac{9477} {27 \times 10 \times 10}\\\\
-&= \dfrac{27 \times 351} {27 \times 100}\\\\
-&= \dfrac{\cancel{27} \times 351} {\cancel{27} \times 100}\\\\
-&= \dfrac{351} {100}\\\\
-&= 3.51
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$3.51$
-</code></pre>
-</div>
-</div>
 
 </div>
 </li>
@@ -2635,169 +942,16 @@ $18954$
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-&= 54 \times 351 \\\\
-&= 2 \times 27 \times 351 \\\\
-&= 54 \times 351 \\\\
-&= 18954
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$18954$
-</code></pre>
-</div>
-</div>
 
 </div>
 </li>
 </ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G0' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G0' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' id='FORM-589E5E44-10C8-4537-8ED7-9C02B0A0532C' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-589E5E44-10C8-4537-8ED7-9C02B0A0532C'>Initial</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770</p>
-</div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2:1:8</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770'>Initial</p>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 If the differences between each pair of consecutive terms of a sequence are taken, and then the differences in this new sequence are taken, and so on, the numbers may turn out to be the same.
@@ -2816,57 +970,15 @@ As the second differences are the same, we say that the original sequence is a *
 <div class='workings'>
 <div class='working'>
 
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+%empty%
 
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'></code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
 </div>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -2888,18 +1000,10 @@ $
 <div class='workings'>
 <div class='working'>
 
-
-If the number in first sequence is added with the number below to its right in the second sequence, the answers is the next number on the above sequence. 
-
-Start with $3 + 1$ then $1 + 5 \ldots$
-
-
 $
 \begin{aligned}
 3   &&  &&   4   &&  &&   10   && && 21 && && 37 \\
-{}&+  &&\nearrow &&+  &&\nearrow   &&  +  &&\nearrow    &&+  &&\nearrow  \\
-&&  1  &&  &&  6   &&  && 11  && && 16         \\ 
-{}&&&  +  &&\nearrow   &&+  &&\nearrow   &&+  &&\nearrow   &&\\
+&&  1  &&  &&  6    &&  && 11  && && 16          \\ 
 &&  &&  5  &&  &&   5 && && 5
 \end{aligned}
 $
@@ -2907,43 +1011,16 @@ $
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-If the number in first sequence is added with the number below to its right in the second sequence, the answers is the next number on the above sequence. 
-<emptyline>
-Start with $3 + 1$ then $1 + 5 \ldots$
-<emptyline>
+<div class='answer'>
 
 $
 \begin{aligned}
 3   &&  &&   4   &&  &&   10   && && 21 && && 37 \\
-{}&+  &&\nearrow &&+  &&\nearrow   &&  +  &&\nearrow    &&+  &&\nearrow  \\
-&&  1  &&  &&  6   &&  && 11  && && 16         \\ 
-{}&&&  +  &&\nearrow   &&+  &&\nearrow   &&+  &&\nearrow   &&\\
+&&  1  &&  &&  6    &&  && 11  && && 16          \\ 
 &&  &&  5  &&  &&   5 && && 5
 \end{aligned}
 $
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
+
 </div>
 </div>
 
@@ -2966,203 +1043,43 @@ $
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+11   &&  &&  12  &&  && 17 && && 29 && && 51 \\
+&& 1 && && 5 && && 12 && && 22 \\ 
+&&  &&  4  &&  &&   7 && && 10 \\
+&& && &&  3  &&  &&  3 
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+$
+\begin{aligned}
+11   &&  &&  12  &&  && 17 && && 29 && && 51 \\
+&& 1 && && 5 && && 12 && && 22 \\ 
+&&  &&  4  &&  &&   7 && && 10 \\
+&& && &&  3  &&  &&  3 
+\end{aligned}
+$
 
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
 </div>
 </div>
 
 </div>
 </li>
 </ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='NS' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' id='FORM-E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770'>Initial</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>C1EE3E84-DC2E-4C19-A416-2A6035D47A47</p>
-</div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2:1:9</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tinfer
-</li>
-<li>
-ttable
-</li>
-</ul>
-</div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-C1EE3E84-DC2E-4C19-A416-2A6035D47A47'>Initial</p>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In the game of flog, a player has to try to get a ball in a hole in as few shots as possible. The target number of shots for each hole is $5$. The player is awarded a number of points according to how many shots he took:
@@ -3208,40 +1125,6 @@ TODOANSWER
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -3272,40 +1155,6 @@ TODOANSWER
 
 TODOANSWER
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
 </div>
 </div>
 <ul class='subsubquestion lower-roman'>
@@ -3341,38 +1190,6 @@ $=-3$
 
 $-3$
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-As per table in question,
-<emptyline>
-| Shots | Points |
-|-------|--------|
-| 5     | 0      |
-| 6     | -1     |
-<emptyline>
-$6, 6, 6, 5$ and $5 \text {Shots}$
-<emptyline>
-$= -1 -1 -1 +0 +0$
-<emptyline>
-$=-3$
-<emptyline>
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$-3$
-</code></pre>
 </div>
 </div>
 
@@ -3419,47 +1236,6 @@ $
 
 $0$
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-As per table in question,
-<emptyline>
-
-| Shots | Points |
-|-------|--------|
-| 2     | 3      |
-| 5     | 0      |
-| 7     | -2     |
-| 4     | 1      |
-<emptyline>
-$2, 5, 7, 4$ and $7 \text {Shots}$
-<emptyline>
-$
-\begin{aligned}
-            &= 3 + 0 - 2 + 1 - 2 \\
-\text {Or, }&= 3 + 0 + 1 - 2 - 2 \\
-            &= 4 - 4 \\
-            &= 0
-\end{aligned}
-$
-<emptyline>
-
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$0$
-</code></pre>
 </div>
 </div>
 
@@ -3510,48 +1286,6 @@ To score $-2$ Points, Howard must have played $7$ shots. (Refer to the table in 
 
 $7$
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-| Shots | Points |
-|-------|--------|
-| 4     | 1      |
-| 1     | 4      |
-| 5     | 0      |
-| x     | ?      |
-<emptyline>
-Total points $= 3$
-<emptyline>
-Let's take the scored points on $4$ hole  as $y$
-<emptyline>
-$
-\begin{aligned}
-3 &= 1 + 4 + 0 + y \\\\
-  &= 5 + y \\\\
-3 - 5 &= y \\\\
--2 &= y
-\end{aligned}
-$
-<emptyline>
-To score $-2$ Points, Howard must have played $7$ shots. (Refer to the table in the question)
-<emptyline>
-
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$7$
-</code></pre>
 </div>
 </div>
 
@@ -3607,54 +1341,6 @@ $4$
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-| Hole | Shots | Points |
-|------|-------|--------|
-| 1    | 7     | −2     |
-| 2    | 2     | 3      |
-| 3    | 6     | −1     |
-| 4    | 6     | −1     |
-| 5    | 2     | 3      |
-| 6    | 2     | 3      |
-<emptyline>
-Total points $= 3$
-<emptyline>
-Let's take the scored points on $6$ hole  as $x$
-<emptyline>
-$
-\begin{aligned}
-    3 &= -2 + 3 - 1 - 1 + 3  + y  \\\\
-      &= 3 + 3 -2 -1 -1 + y \\\\
-      &= 6 - 4 + y\\\\
-      &= 2 + y\\\\
-3 - 2 &= y\\\\
-    1 &= y
-\end{aligned}
-$
-<emptyline>
-(Refer to the table in the question)
-<emptyline>
-To score $1$ Point, Rachel must have played $4$ shots  on Hole $6$.
-<emptyline>
-
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$4$
-</code></pre>
-</div>
-</div>
 
 </div>
 </li>
@@ -3689,40 +1375,6 @@ TODOANSWER
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
 <ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
@@ -3751,33 +1403,6 @@ $= 20 \ \text {points}$
 
 $20$
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-As per the table in the question the maximum points that we scored is $4$.
-<emptyline>
-So dfor $5$ holes
-<emptyline>
-$= 5 \times 4$
-<emptyline>
-$= 20 \ \text {points}$
-<emptyline>
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$20$
-</code></pre>
 </div>
 </div>
 
@@ -3823,46 +1448,6 @@ The maximum points scored will be $7$.
 
 $7$
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-As per the table in the question the maximum points that we scored is $4$.
-<emptyline>
-| Hole | Shots | Points |
-|------|-------|--------|
-| 1    | 6     | −1     |
-| 2    | 7     | −2     |
-| 3    | 7     | −2     |
-| 4    |       | 4      |
-| 5    |       | 4      |
-| 6    |       | 4      |
-<emptyline>
-$
-\begin{aligned}
-&= -1 -2 - 2 + (3 \times 4) \\
-&= -5 + 12 \\
-&= 7
-\end{aligned}
-$
-<emptyline>
-The maximum points scored will be $7$.
-<emptyline>
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$7$
-</code></pre>
 </div>
 </div>
 
@@ -3920,202 +1505,21 @@ $4$
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-<emptyline>
-Let's assume T = 4 
-<emptyline>
-i.e., $5 - 4 = 1$ so the change in points will be a decrease in points by $1$ per hole
-<emptyline>
-
-| Holes | T=5 | T=4 |
-|-------|-----|-----|
-| 1     | 4   | 3   |
-| 2     | 3   | 2   |
-| 3     | 2   | 1   |
-| 4     | 1   | 0   |
-| 5     | 0   | −1  |
-| 6     | -1  | −2  |
-Tim played $6$ holes hat $5, 5, 3, 3, 2, 4$ shots. 
-<emptyline>
-So points scored 
-<emptyline>
-$
-\begin{aligned}
-&= - 1 - 1 + 1 + 1 + 2 + 0 \\
-&= -2 + 4 \\
-&= 2
-\end{aligned}
-$
-<emptyline>
-Score with Target point $4$ is $2$
-<emptyline>
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$4$
-</code></pre>
-</div>
-</div>
 
 </div>
 </li>
 </ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='NS' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='C1EE3E84-DC2E-4C19-A416-2A6035D47A47' id='FORM-C1EE3E84-DC2E-4C19-A416-2A6035D47A47' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-C1EE3E84-DC2E-4C19-A416-2A6035D47A47'>Initial</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_pr rag_prns question'>
-<div class='uuid'>
-<p>B47F258B-B664-46F7-A478-546D5D3A016B</p>
-</div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2:1:10</p>
-</div>
-<div class='rag'>
-<p>Ayushi Mishra</p>
-</div>
-<div class='rag'>
-<p>rag_am_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-tunitprompt
-</li>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-B47F258B-B664-46F7-A478-546D5D3A016B'>Initial</p>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The distance all the way round the outside of my bicycle wheel is known as the circumference. It is about three times the distance across the middle of the wheel, known as the diameter.
 
-![missing image](/papers/missing_image.svg)
-
+![the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-10-00.png](/assets/the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-10-00.png "the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-10-00.png")
 
 So if Andrew has a wheel with diameter $50 \ \text{centimetres}$, its circumference would be about $150 \ \text{cm}$ or $1.5 \ \text{metres}$ and it would take $100$ turns of the wheel to travel a distance of $150 \ \text{m}$ and $1000$ turns to travel $1.5 \ \text{kilometres}$.
 
@@ -4144,40 +1548,6 @@ TODOANSWER
 
 TODOANSWER
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
 </div>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -4218,41 +1588,6 @@ $90  \ \text {m}$
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>As per the question,
-<emptyline>
-$
-\begin{aligned}
-100 \ \text {Turns}             &= 150 \ \text {m} \\\\
-1 \ \text {Turn}                &= \dfrac {150} {100} \\\\
-                                &= \dfrac {50 \times 3} {50 \times 2} \\\\
-                                &= \dfrac {\cancel {50} \times 3} {\cancel {50} \times 2} \\\\
-                                &= \dfrac {3} {2} \\\\
-                                &= 1.5 \ \text {m} \\\\
-60 \ \text {Turns}              &= 60 \times 1.5 \\\\
-                                &= 6 \times 15 \\\\
-                                &= 90  \ \text {m}
-\end{aligned}
-$
-<emptyline>
-Andrew travels $90  \ \text {m}$ in $60$ turns of the wheel.
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$90  \ \text {m}$
-</code></pre>
-</div>
-</div>
 
 </div>
 </li>
@@ -4291,41 +1626,6 @@ It would take him $400$ Turns to cover $600 \ \text{m}$
 
 $400$
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the number of turns $= a$
-<emptyline>
-As per the question,
-<emptyline>
-$
-\begin{aligned}
-a \times 1.5  &= 600  \\\\
-a             &= 600 \times 1.5 \\\\
-a             &= \dfrac {600 \times 10}{1.5 \times 10}\\\\
-a             &= \dfrac {15 \times 400} {15} \\\\
-a             &= \dfrac {\cancel {15} \times 400} {\cancel {15}} \\\\
-a             &= 400 \ \text {Turns}
-\end{aligned}
-$
-<emptyline>
-It would take him $400$ Turns to cover $600 \ \text{m}$
-<emptyline>
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$400$
-</code></pre>
 </div>
 </div>
 
@@ -4374,47 +1674,6 @@ It would take him $50000$ Turns to cover $75 \ \text{km}$
 
 $50000$
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-Distance travelled = No. of turns $\times 1.5$
-<emptyline>
-Distance travelled $= 75 \ \text{km}$ 
-<emptyline>
-Let's take the number of turns as $x$
-<emptyline>
-$
-\begin{aligned}
-x \times 1.5 &= 75 \ \text{km}  \\\\
-x \times 1.5 &= 75 \times 1000 \ \text{m}  \\\\
-          x  &=  \dfrac{75000} {1.5} \\\\
-           x &= \dfrac {75000 \times 10}{1.5 \times 10}\\\\
-           x &= \dfrac {750000}{15} \\\\
-           x &= \dfrac {15 \times 5 \times 10000}{15} \\\\
-           x &= \dfrac {\cancel {15} \times 5 \times 10000}{\cancel {15}} \\\\
-           x &= 5 \times 10000 \\\\
-           x &= 50000 \ \text {Turns}
-\end{aligned}
-$
-<emptyline>
-It would take him $50000$ Turns to cover $75 \ \text{km}$
-<emptyline>
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$50000$
-</code></pre>
 </div>
 </div>
 
@@ -4474,56 +1733,6 @@ $12500$
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-Diameter of wheel $d = 2 \ \text{metres}$
-<emptyline>
-
-$
-\begin{aligned}
-\text{Circumference} &= 3 \times d \\\\
-                     &= 3 \times 2 \\\\
-                     &= 6 \ \text{m}
-\end{aligned}
-$
-<emptyline>
-Distance travelled $= 75 \ \text{km}$ 
-<emptyline>
-Distance travelled = No. of turns $\times$ circumference
-<emptyline>
-Let the the Number of turns $= x$
-<emptyline>
-$
-\begin{aligned}
-x  &= \dfrac {75 \ \text{km}}{6 \ \text{m}} \\\\
-x  &= \dfrac {75 \times 1000}{6} \\\\
-x  &= \dfrac {75000}{6} \\\\
-x  &= \dfrac {12500 \times 6}{6} \\\\
-x  &= \dfrac {12500 \times \cancel 6}{\cancel 6} \\\\
-x  &= 12500 \ \text {Turns}
-\end{aligned}
-$
-<emptyline>
-It would take him $12500$ Turns to cover $75 \ \text{km}$
-<emptyline>
-
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$12500$
-</code></pre>
-</div>
-</div>
 
 </div>
 </li>
@@ -4566,45 +1775,6 @@ Fraction $=\dfrac {1}{4}$
 
 $\dfrac {1}{4}$
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-To cover the distance of $75 \ \text{km}$
-<emptyline>
-
-|          | Andrew | GG.Grandpa |
-|----------|--------|------------|
-| Diameter | 50cm   | 200cm      |
-| Turns    | 12500  | 50000      |
-<emptyline>
-Fraction $= \dfrac {\text {Andrew's Turn}}{\text {G.Grandpa's Turn}}$
-<emptyline>
-$
-\begin{aligned}
-&= \dfrac {12500}{50000} \\\\
-&= \dfrac {125 \times 100}{125 \times 4 \times 100} \\\\
-&= \dfrac {\cancel {125} \times \cancel {100}}{\cancel {125} \times 4 \times \cancel {100}} \\\\
-&=\dfrac {1}{4}
-\end{aligned}
-$
-<emptyline>
-Fraction $=\dfrac {1}{4}$ 
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac {1}{4}$
-</code></pre>
 </div>
 </div>
 
@@ -4658,189 +1828,16 @@ Ratio of Rurns and Diameters is smaller
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-|          | Andrew | GG.Grandpa |
-|----------|--------|------------|
-| Diameter | 50cm   | 200cm      |
-| Turns    | 12500  | 50000      |
-<emptyline>
-
-Ratio of Diameter  $= \dfrac {\text {Andrew's wheel}}{\text {G.Grandpa's wheel}}$
-<emptyline>
-$
-\begin{aligned}
-&= \dfrac {50}{200} \\\\
-&= \dfrac {50}{50 \times 4} \\\\
-&= \dfrac {\cancel {50}}{\cancel {50} \times 4} \\\\
-&=\dfrac {1}{4}
-\end{aligned}
-$
-<emptyline>
-$
-\begin{aligned}
-\text{Ratio of Turns} &= \dfrac {\text {Andrew's Turn}}{\text {G.Grandpa's Turn}} \\\\
-                      &= \dfrac {1}{4}
-\end{aligned}
-$
-<emptyline>
-The ratio of diameter of both the wheels is equal to the ratio of the turns.
-<emptyline>
-
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Ratio of Rurns and Diameters is smaller
-</code></pre>
-</div>
-</div>
 
 </div>
 </li>
 </ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='B47F258B-B664-46F7-A478-546D5D3A016B' id='FORM-B47F258B-B664-46F7-A478-546D5D3A016B' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-B47F258B-B664-46F7-A478-546D5D3A016B'>Initial</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g1 rag_prns question'>
-<div class='uuid'>
-<p>B283FEE5-8695-4B69-9E3B-FAC317A0C93E</p>
-</div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2:1:11</p>
-</div>
-<div class='rag'>
-<p>Kamu Rohith</p>
-</div>
-<div class='rag'>
-<p>rag_kr_g1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-B283FEE5-8695-4B69-9E3B-FAC317A0C93E'>Initial</p>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The Yummy Jam Company makes jam for a wide range of shops and supermarkets. The cost of a jar of jam is made up by adding the costs of the jam, the jar and the lid. 
@@ -4864,25 +1861,6 @@ At present, the company calculates that the cost of the jam is $20 \text{p}$ for
 
 %empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
 </div>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -4913,33 +1891,6 @@ $
 
 $100 \text{p}$
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin {aligned}
-\text {Cost of} \ 1 \text { g jam}      &= \dfrac {20} {100} \\\\
-                                        &= 0.20 \text {p} \\\\
-\text {Total cost}                      &= 200 \times 0.20 + 10 + 50 \\\\
-                                        &= 40 + 60 \\\\
-                                        &= 100 \text {p}
-\end {aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$100 \text{p}$
-</code></pre>
 </div>
 </div>
 
@@ -4975,35 +1926,6 @@ $
 
 $25 \text{p}$
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-<emptyline>
-$
-\begin {aligned}
-\text {Cost of lid}     &= \pounds 1.55 - 350 \times 0.20 \text {p} - 60 \text {p} \\\\
-                        &= 155 \text {p} - 70 \text {p} - 60 \text {p} \\\\
-                        &= 155 - 70 - 60 \\\\
-                        &= 155 - 130 \\\\
-                        &= 25 \text {p}
-\end {aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$25 \text{p}$
-</code></pre>
 </div>
 </div>
 
@@ -5056,52 +1978,6 @@ $
 
 $160 \text{p}$
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-<emptyline>
-Let the cost of lid (in $\text {pence}$) $= a$
-<emptyline>
-Cost of jar (in $\text {pence}$) $= 4a$
-<emptyline>
-As per the question,
-<emptyline>
-$
-\begin {aligned}
-500 \times 0.20 \text {p} + a + 4a      &= \pounds 3 \\\\
-100 \text {p} + 5a                      &= 300 \text {p} \\\\
-5a                                      &= 300 - 100 \\\\
-5a                                      &= 200 \\\\
-a                                       &= \dfrac {200} {5} \\\\
-a                                       &= \dfrac {5 \times 40} {5} \\\\
-a                                       &= \dfrac {\cancel {5} \times 40} {\cancel {5}} \\\\
-a                                       &= 40 \text {p}
-\end {aligned}
-$
-<emptyline>
-$
-\begin {aligned}
-\text {Cost of lid}     &= 40 \text {p} \\\\
-\text {Cost of jar}     &= 4 \times 40 \\\\
-                        &= 160 \text {p}
-\end {aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$160 \text{p}$
-</code></pre>
 </div>
 </div>
 
@@ -5157,194 +2033,19 @@ $1000 \ \text{g}$
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-<emptyline>
-Let the cost of jam (in $\text {pence}$) $= a$
-<emptyline>
-As per the question,
-<emptyline>
-$
-\begin {aligned}
-65 \text {p} + \pounds 2 + a        &= \pounds 4.65 \\\\
-65 \text {p} + 200 \text {p} + a    &= 465 \text {p} \\\\
-265 + a                             &= 465 \\\\
-a                                   &= 465 - 265 \\\\
-a                                   &= 200 \text {p}
-\end {aligned}
-$
-<emptyline>
-Cost of jam $= 200 \text {p}$
-<emptyline>
-$
-\begin {aligned}
-\text {Weight of jam} \times 0.20 \text {p}     &= 200 \text {p} \\\\
-\text {Weight of jam}                           &= \dfrac {200} {0.20} \\\\
-                                                &= \dfrac {200 \times 100} {0.20 \times 100} \\\\
-                                                &= \dfrac {20000} {20} \\\\
-                                                &= \dfrac {2 \times 10 \times 1000} {2 \times 10} \\\\
-                                                &= \dfrac {\cancel {2} \times \cancel {10} \times 1000} {\cancel {2} \times \cancel {10}} \\\\
-                                                &= 1000 \ \text {g} 
-\end {aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1000 \ \text{g}$
-</code></pre>
-</div>
-</div>
 
 </div>
 </li>
 </ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G1' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='G1' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' id='FORM-B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-B283FEE5-8695-4B69-9E3B-FAC317A0C93E'>Initial</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>9EE40186-B13A-47E3-8C0F-173A981163C9</p>
-</div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2:1:12</p>
-</div>
-<div class='rag'>
-<p>Md Rameez</p>
-</div>
-<div class='rag'>
-<p>rag_mr_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-</ul>
-</div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-9EE40186-B13A-47E3-8C0F-173A981163C9'>Initial</p>
+<div class='question_envelope rag_pr rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg)
-
+![the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-12-00.png](/assets/the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-12-00.png "the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2/section-1-question-12-00.png")
 
 A point is described by its coordinates, eg point $B$ on the diagram has coordinates $(9,8)$. This is not the same as $(8,9)$. Point $A$ has coordinates $(0,0)$.
 
@@ -5356,61 +2057,17 @@ A $T$-step moves you $3$ places to the right and $1$ place up.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+%empty%
 
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
 </div>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -5424,19 +2081,18 @@ Starting from point $A$, what would your coordinates be after a $K$-step followe
 <div class='workings'>
 <div class='working'>
 
+$
+\begin {aligned}
+\text {x - coordinate}    &= 0 + 1 R + 3 R \\\\
+                          &= 0 + 1 + 3 \\\\
+                          &= 4 \\\\
+\text {y - coordinate}    &= 0 + 2 U + 1 U \\\\
+                          &= 0 + 2 + 1 \\\\
+                          &= 3
+\end {aligned}
+$
 
-$K$-step : 1 R 2 U
-
-$T$-step : 3 R 1 U
-
-
-| 1R  | 1R  | 3R    | 1U    |
-|-----|-----|-------|-------|
-| →   | →   | →     | ↑     |
-| A→1 | A→1 | (4,2) | (4,3) |
-
-
-
+$(4, 3)$
 
 </div>
 </div>
@@ -5445,37 +2101,6 @@ $T$-step : 3 R 1 U
 
 $(4,3)$
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-$K$-step : 1 R 2 U
-<emptyline>
-$T$-step : 3 R 1 U
-<emptyline>
-
-| 1R  | 1R  | 3R    | 1U    |
-|-----|-----|-------|-------|
-| →   | →   | →     | ↑     |
-| A→1 | A→1 | (4,2) | (4,3) |
-<emptyline>
-
-<emptyline>
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$(4,3)$
-</code></pre>
 </div>
 </div>
 
@@ -5493,121 +2118,62 @@ Write down how many $K$-steps and $T$-steps are needed.
 <div class='workings'>
 <div class='working'>
 
+Let the number of K step $= a$
 
+Let the number of T step $= b$
 
-$K$-step : 1 R 2 U
-
-$T$-step : 3 R 1 U
-
-Let's get from A to Point B $(9,8)$
-
-It's known from answer above that 
-
-$1 \ K$-step  and $1$ $T$-step $= (4,3)$
-
-So repeating the step will get us at 
-
-$4 \times 2$ and  $3 \times 2)$
-
-$= (8,6)$
-
-Point B $(9,8)$ to $A$
-
-(9 -8 R ) (8 - 6 U) 
+As per the question,
 
 $
-\begin{aligned}
-A &= 1 R, 2 U \\\\
-  &=K-step
-\end{aligned}
+\begin {aligned}
+a + 3b    &= 9    &  (1) \\\\
+2a + b    &= 8    &  (2)
+\end {aligned}
 $
 
-So, total steps needed
+Lets subtract equation $2$ from twice of equation $1$ to get the value of b.
 
-$K$-step : $3$
+$
+\begin {aligned}
+2 \times (a + 3b) - (2a + b)      &= 2 \times 9 - 8 \\\\
+2a + 6b - 2a - b                  &= 18 - 8 \\\\
+2a - 2a + 6b - b                  &= 10 \\\\
+5b                                &= 10 \\\\
+b                                 &= \dfrac {10} {5} \\\\
+b                                 &= \dfrac {5 \times 2} {5} \\\\
+b                                 &= \dfrac {\cancel 5 \times 2} {\cancel 5} \\\\
+b                                 &= 2
+\end {aligned}
+$
 
-$T$-step : $2$
+Lets substitute value of b in equation $1$ to get the value of a.
 
+$
+\begin {aligned}
+a + 3b            &= 9 \\\\
+a + 3 \times 2    &= 9 \\\\
+a + 6             &= 9 \\\\
+a                 &= 9 - 6 \\\\
+a                 &= 3
+\end {aligned}
+$
+
+$3$ K-steps
+
+$2$ T-steps
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$K$-step : $3$
-
-
+$K$-step $=$ $3$
 
 </div>
 <div class='answer'>
 
-$T$-step : $2$
+$T$-step $=$ $2$
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-<emptyline>
-$K$-step : 1 R 2 U
-<emptyline>
-$T$-step : 3 R 1 U
-<emptyline>
-Let's get from A to Point B $(9,8)$
-<emptyline>
-It's known from answer above that 
-<emptyline>
-$1 \ K$-step  and $1$ $T$-step $= (4,3)$
-<emptyline>
-So repeating the step will get us at 
-<emptyline>
-$4 \times 2$ and  $3 \times 2)$
-<emptyline>
-$= (8,6)$
-<emptyline>
-Point B $(9,8)$ to $A$
-<emptyline>
-(9 -8 R ) (8 - 6 U) 
-<emptyline>
-$
-\begin{aligned}
-A &= 1 R, 2 U \\\\
-  &=K-step
-\end{aligned}
-$
-<emptyline>
-So, total steps needed
-<emptyline>
-$K$-step : $3$
-<emptyline>
-$T$-step : $2$
-<emptyline>
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$K$-step : $3$
-
-
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$T$-step : $2$
-</code></pre>
 </div>
 </div>
 
@@ -5623,32 +2189,20 @@ To get from point $C$ (which is not shown on the diagram) to point $B$ you need 
 <div class='workings'>
 <div class='working'>
 
-one $K$-step and two $T$-steps
-
 $
-\begin{aligned}
-T-step :& 3 \ R \ 1 \ U \times 2 \\
-T-step :& 6 \ R \ 2 \ U \\
-K-step :& 1 \ R \ 2 \ U \\
-\end{aligned}
+\begin {aligned}
+\text {x - coordinate of C}   &= 9 - 1 R - 2 \times 3 R \\\\
+                              &= 9 - 1 R - 6 R \\\\
+                              &= 9 - 1 - 6 \\\\
+                              &= 2 \\\\
+\text {y - coordinate of C}   &= 8 - 2 U - 2 \times 1 U \\\\
+                              &= 8 - 2 U - 2 U \\\\
+                              &= 8 - 2 - 2 \\\\
+                              &= 4
+\end {aligned}
 $
 
-Total-steps $: 7 \ R \ 4 \ U$
-
-From Point $B$ to $C$, we need to trace back the steps. As such the
-
-Total-steps $: 7 \ R \ 4 \ U$
-
-will be
-
-Total-steps $:& 7 \ L \ 4 \ D$
-
-Point B $(9,8)$ to $C$
-
-(9 -7 R) (8 - 4 D) 
-
-$C = (2, 4)$
-
+$(2, 4)$
 
 </div>
 </div>
@@ -5657,50 +2211,6 @@ $C = (2, 4)$
 
 $(2, 4)$
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>one $K$-step and two $T$-steps
-<emptyline>
-$
-\begin{aligned}
-T-step :& 3 \ R \ 1 \ U \times 2 \\
-T-step :& 6 \ R \ 2 \ U \\
-K-step :& 1 \ R \ 2 \ U \\
-\end{aligned}
-$
-<emptyline>
-Total-steps $: 7 \ R \ 4 \ U$
-<emptyline>
-From Point $B$ to $C$, we need to trace back the steps. As such the
-<emptyline>
-Total-steps $: 7 \ R \ 4 \ U$
-<emptyline>
-will be
-<emptyline>
-Total-steps $:& 7 \ L \ 4 \ D$
-<emptyline>
-Point B $(9,8)$ to $C$
-<emptyline>
-(9 -7 R) (8 - 4 D) 
-<emptyline>
-$C = (2, 4)$
-<emptyline>
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$(2, 4)$
-</code></pre>
 </div>
 </div>
 
@@ -5718,22 +2228,18 @@ Starting from point $B$, and then doing a $U$-step, a $K$-step and a $T$-step, y
 <div class='workings'>
 <div class='working'>
 
-$U$-step $: 3 \ L \ 1 \ D$
+$
+\begin {aligned}
+\text {x - coordinate of D}   &= 9 + 3 L + 1 R + 3 R \\\\
+                              &= 9 - 3 + 1 + 3 \\\\
+                              &= 10 \\\\
+\text {y - coordinate of D}   &= 8 + 1 D + 2 U +  1 U \\\\
+                              &= 8 - 1 + 2 + 1 \\\\
+                              &= 10
+\end {aligned}
+$
 
-$K$-step $: 1 \ R \ 2 \ U$
-
-$T$-step $: 3 \ R \ 1 \ U$
-
-A $U$-step is the reverse of a $T$-step
-
-So, only $K$-step has to be followed.
-
-Point B $(9,8)$ to $D$
-
-(9 + 1 R) (8 + 2 U) 
-
-$D = (10, 10)$
-
+$(10, 10)$
 
 </div>
 </div>
@@ -5744,91 +2250,10 @@ $(10, 10)$
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$U$-step $: 3 \ L \ 1 \ D$
-<emptyline>
-$K$-step $: 1 \ R \ 2 \ U$
-<emptyline>
-$T$-step $: 3 \ R \ 1 \ U$
-<emptyline>
-A $U$-step is the reverse of a $T$-step
-<emptyline>
-So, only $K$-step has to be followed.
-<emptyline>
-Point B $(9,8)$ to $D$
-<emptyline>
-(9 + 1 R) (8 + 2 U) 
-<emptyline>
-$D = (10, 10)$
-<emptyline>
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$(10, 10)$
-</code></pre>
-</div>
-</div>
 
 </div>
 </li>
 </ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='NS' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='NS' data-uuid='9EE40186-B13A-47E3-8C0F-173A981163C9' id='FORM-9EE40186-B13A-47E3-8C0F-173A981163C9' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-9EE40186-B13A-47E3-8C0F-173A981163C9'>Initial</p>
-</div>
 </div>
 </li>
 </ul>

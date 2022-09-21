@@ -1,45 +1,18 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-todo-1-pr"
 title: "TopicPaper - Odo - 1 - PR"
-date: 2022-09-09 06:32:25
+date: 2022-09-21 20:47:03
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>300033DE-A804-42AC-B5FE-8B0610DB7BB4</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:16</p>
-</div>
-<div class='rag'>
-<p>Puttaraja Hosalli</p>
-</div>
-<div class='rag'>
-<p>rag_ph_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttemperature
-</li>
-<li>
-todo
-</li>
-</ul>
-</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The scale is measured in degrees Celsius, $\degree \text{C}$.
 
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>The scale is measured in degrees Celsius, $\degree \text{C}$.
-</code></pre>
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
@@ -48,15 +21,8 @@ The scale is measured in degrees Celsius, $\degree \text{C}$.
 
 What temperature does the thermometer show?
 
-![missing image](/papers/missing_image.svg)
+![the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1/section-1-question-16-subquestion-1-00.png](/assets/the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1/section-1-question-16-subquestion-1-00.png "the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1/section-1-question-16-subquestion-1-00.png")
 
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>What temperature does the thermometer show?
-<emptyline>
-%image%
-</code></pre>
 </div>
 
 </div>
@@ -67,15 +33,8 @@ What temperature does the thermometer show?
 
 What temperature does this thermometer show?
 
-![missing image](/papers/missing_image.svg)
+![the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1/section-1-question-16-subquestion-2-00.png](/assets/the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1/section-1-question-16-subquestion-2-00.png "the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1/section-1-question-16-subquestion-2-00.png")
 
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>What temperature does this thermometer show?
-<emptyline>
-%image%
-</code></pre>
 </div>
 
 </div>
@@ -87,10 +46,6 @@ What temperature does this thermometer show?
 What is the difference between these two temperatures in $\degree \text{C}$?
 
 </div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>What is the difference between these two temperatures in $\degree \text{C}$?
-</code></pre>
-</div>
 
 </div>
 </li>
@@ -100,15 +55,8 @@ What is the difference between these two temperatures in $\degree \text{C}$?
 
 A flow chart for converting $\degree \text{C}$ into degrees Fahrenheit, $\degree \text{F}$, is
 
-![missing image](/papers/missing_image.svg)
+![the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1/section-1-question-16-subquestion-4-00.png](/assets/the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1/section-1-question-16-subquestion-4-00.png "the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1/section-1-question-16-subquestion-4-00.png")
 
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>A flow chart for converting $\degree \text{C}$ into degrees Fahrenheit, $\degree \text{F}$, is
-<emptyline>
-%image%
-</code></pre>
 </div>
 <ul class='subsubquestion lower-roman'>
 <li>
@@ -117,10 +65,6 @@ A flow chart for converting $\degree \text{C}$ into degrees Fahrenheit, $\degree
 
 What temperature is $20 \degree \text{C}$ in $\degree \text{F}$?
 
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>What temperature is $20 \degree \text{C}$ in $\degree \text{F}$?
-</code></pre>
 </div>
 
 </div>
@@ -132,10 +76,6 @@ What temperature is $20 \degree \text{C}$ in $\degree \text{F}$?
 What temperature is $59 \degree \text{F}$ in $\degree \text{C}$?
 
 </div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>What temperature is $59 \degree \text{F}$ in $\degree \text{C}$?
-</code></pre>
-</div>
 
 </div>
 </li>
@@ -143,53 +83,6 @@ What temperature is $59 \degree \text{F}$ in $\degree \text{C}$?
 </div>
 </li>
 </ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='300033DE-A804-42AC-B5FE-8B0610DB7BB4' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='300033DE-A804-42AC-B5FE-8B0610DB7BB4' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='300033DE-A804-42AC-B5FE-8B0610DB7BB4' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='300033DE-A804-42AC-B5FE-8B0610DB7BB4' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='300033DE-A804-42AC-B5FE-8B0610DB7BB4' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='300033DE-A804-42AC-B5FE-8B0610DB7BB4' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='300033DE-A804-42AC-B5FE-8B0610DB7BB4' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='300033DE-A804-42AC-B5FE-8B0610DB7BB4' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='300033DE-A804-42AC-B5FE-8B0610DB7BB4' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='300033DE-A804-42AC-B5FE-8B0610DB7BB4' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='300033DE-A804-42AC-B5FE-8B0610DB7BB4' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='300033DE-A804-42AC-B5FE-8B0610DB7BB4' id='FORM-300033DE-A804-42AC-B5FE-8B0610DB7BB4' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-300033DE-A804-42AC-B5FE-8B0610DB7BB4'>Initial</p>
-</div>
 </div>
 </li>
 </ul>

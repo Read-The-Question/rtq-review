@@ -1,94 +1,14 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-13-pr-prcr"
 title: "TopicPaper - Number - 13 - PR - PRCR"
-date: 2022-09-09 06:13:00
-questions_count: "1"
+date: 2022-09-21 20:40:31
+questions_count: "9"
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_pr rag_prcr question'>
-<div class='uuid'>
-<p>6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD</p>
-</div>
-<div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-2:1:6</p>
-</div>
-<div class='rag'>
-<p>Neeraj Singh</p>
-</div>
-<div class='rag'>
-<p>rag_ns_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD'>Initial</p>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 All these fractions are different:
@@ -96,8 +16,6 @@ All these fractions are different:
 $\dfrac {9}{12}  \quad \dfrac {8}{9}  \quad   \dfrac {14}{18}  \quad   \dfrac {50}{60}$  
 
 </div>
-
-
 
 
 <ul class='subquestion lower-alpha'>
@@ -152,57 +70,6 @@ The smallest fraction $ =\dfrac{9} {12}$
 
 $\dfrac{9} {12}$
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let's first reduce the fraction by listing and canceling the common factors, 
-<emptyline>
-$
-\begin{aligned}
-&= \dfrac {9}{12},  \quad \dfrac {8}{9},  \quad   \dfrac {14}{18},  \quad   \dfrac {50}{60} \\\\
-&=\dfrac {3 \times 3}{3 \times 4},  \quad \dfrac {8}{9},  \quad   \dfrac {2 \times 7}{2 \times 9},  \quad   \dfrac {10 \times 5}{10 \times 6} \\\\
-&=\dfrac {\cancel {3} \times 3}{\cancel {3} \times 4},  \quad \dfrac {8}{9},  \quad   \dfrac {\cancel {2} \times 7}{\cancel {2} \times 9},  \quad   \dfrac {\cancel {10} \times 5}{\cancel {10} \times 6} \\\\
-&= \dfrac {3} {4},  \quad \dfrac {8} {9},  \quad   \dfrac {7} {9},  \quad   \dfrac {5} {6}
-\end{aligned}
-$
-<emptyline>
-To compare, let's make the denominator the same for all the fractions.
-<emptyline>
-LCM for $4, 9 \text{and} 6 = 36$
-<emptyline>
-$
-\begin{aligned}
-&= \dfrac{3}{4}, \quad \dfrac{8}{9}, \quad \dfrac{7}{9}, \quad\dfrac{5}{6} \\\\
-&= \dfrac{3 \times 9}{4 \times 9}, \quad \dfrac{8 \times 4}{9 \times 4}, \quad \dfrac{7 \times 4}{9 \times 4}, \quad\dfrac{5 \times 6}{6 \times 6} \\\\
-&= \dfrac{27}{36}, \quad \dfrac{32}{36}, \quad \dfrac{28}{36}, \quad\dfrac{30}{36}
-\end{aligned}
-$
-<emptyline>
-Let's arrange the fractions in ascending order now.
-<emptyline>
-$
-\begin{aligned}
-&= \dfrac{27}{36}, \quad \dfrac{28}{36}, \quad \dfrac{30}{36} \quad\dfrac{32}{36} \\\\
-&= \dfrac{9}{12}, \quad \dfrac{14}{18}, \quad \dfrac{50}{60}, \quad \dfrac{8}{9}
-\end{aligned}
-$
-<emptyline>
-The smallest fraction $ =\dfrac{9} {12}$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac{9} {12}$
-</code></pre>
 </div>
 </div>
 
@@ -261,108 +128,582 @@ $\dfrac{8} {9}$
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let's first reduce the fraction by listing and canceling the common factors, 
-<emptyline>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prcr question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+The digits $3, 1, 9$ and $2$ can be arranged in any order to make four digit numbers. What is the difference between the largest and smallest numbers that you can make? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
 $
 \begin{aligned}
-&= \dfrac {9}{12},  \quad \dfrac {8}{9},  \quad   \dfrac {14}{18},  \quad   \dfrac {50}{60} \\\\
-&=\dfrac {3 \times 3}{3 \times 4},  \quad \dfrac {8}{9},  \quad   \dfrac {2 \times 7}{2 \times 9},  \quad   \dfrac {10 \times 5}{10 \times 6} \\\\
-&=\dfrac {\cancel {3} \times 3}{\cancel {3} \times 4},  \quad \dfrac {8}{9},  \quad   \dfrac {\cancel {2} \times 7}{\cancel {2} \times 9},  \quad   \dfrac {\cancel {10} \times 5}{\cancel {10} \times 6} \\\\
-&= \dfrac {3} {4},  \quad \dfrac {8} {9},  \quad   \dfrac {7} {9},  \quad   \dfrac {5} {6}
+\text{ largest number}  &= 3921 \\\
+\text{ smallest number}  &= 1239 \\\
+\text{difference}  &= 3921-1239 \\\\
+&= 2682
 \end{aligned}
 $
-<emptyline>
-To compare, let's make the denominator the same for all the fractions.
-<emptyline>
-LCM for $4, 9 \text{and} 6 = 36$
-<emptyline>
-$
-\begin{aligned}
-&= \dfrac{3}{4}, \quad \dfrac{8}{9}, \quad \dfrac{7}{9}, \quad\dfrac{5}{6} \\\\
-&= \dfrac{3 \times 9}{4 \times 9}, \quad \dfrac{8 \times 4}{9 \times 4}, \quad \dfrac{7 \times 4}{9 \times 4}, \quad\dfrac{5 \times 6}{6 \times 6} \\\\
-&= \dfrac{27}{36}, \quad \dfrac{32}{36}, \quad \dfrac{28}{36}, \quad\dfrac{30}{36}
-\end{aligned}
-$
-<emptyline>
-Let's arrange the fractions in descending order now.
-<emptyline>
-$
-\begin{aligned}
-&= \dfrac{32}{36}, \quad \dfrac{30}{36}, \quad \dfrac{28}{36} \quad\dfrac{27}{36} \\\\
-&= \dfrac{8}{9}, \quad \dfrac{50}{60}, \quad \dfrac{14}{18}, \quad \dfrac{9}{12}
-\end{aligned}
-$
-<emptyline>
-The biggest fraction $ =\dfrac{8} {9}$
-</code></pre>
+
 </div>
 </div>
 <div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+<div class='answer'>
+
+$2682$
+
 </div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac{8} {9}$
-</code></pre>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prcr question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+A number is multiplied by itself and the answer is $41$. The number that I first thought of lies 
+between two whole numbers. Write the two whole numbers in the boxes below. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+$
+\begin{aligned}
+6^2 &= 36 \\\\
+7^2 &= 49 \\\\
+\therefore \ \text{number must lie between 6 and 7}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+6,7
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prcr question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+You are told that $123 x 45 = 5535$
+
+
+Use the above to work out: 
+
+</div>
+
+
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$123 x 450$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 123 \times 450 \\\\
+&= 123 \times 45 \times 10 \\\\
+&= 5535 \times 10 \\\\
+&= 55350
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$55350$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$1.23 x 45$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 1.23 \times 45 \\\\
+&= \dfrac{1.23 \times 100 \times 45} {1 \times 100} \\\\
+&= \dfrac{123 \times 45} {100} \\\\
+&= \dfrac{5535} {100} \\\\
+&= 55.35
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$55.35$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$12.3 x 4500$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 12.3 \times 4500 \\\\
+&= 12.3 \times 45 \times 10 \times 10 \\\\
+&= 123 \times 45 \times 10 \\\\
+&= 5535 \times 10 \\\\
+&= 55350
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$55350$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$55.35 ÷ 45$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 55.35 \div 45 \\\\
+&= \dfrac{55.35}{45} \\\\
+&= \dfrac{55.35 \times 100}{45 \times 100} \\\\
+&= \dfrac{5535}{45 \times 100} \\\\
+&= \dfrac{ 123 \times 45}{45 \times 100} \\\\
+&= \dfrac{ 123 \times \cancel{45}}{\cancel{45} \times 100} \\\\
+&= \dfrac{123}{100} \\\\
+&= 1.23
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer placeholder'>
+
+TODOANSWER
+
 </div>
 </div>
 
 </div>
 </li>
 </ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prcr question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='submitReview(event)'>PRCC</button>
+![st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2/section-1-question-22-00.png](/assets/st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2/section-1-question-22-00.png "st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2/section-1-question-22-00.png") 
+
+</div>
+
+
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What fraction of the shape is shaded?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{total number of shape} &= 15 \\\\
+\text{total number of shaded shape} &= 3 \\\\
+\therefore \ \text{the fraction of shaded shape} &= \dfrac{3}{15} \\\\
+&= \dfrac{3}{3\times 5} \\\\
+&= \dfrac{\cancel{3}} {\cancel{3} \times 5} \\\\
+&= \dfrac{1}{5}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{1}{5}$
+
+</div>
+</div>
+
+</div>
 </li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onclick='resetComment(event)'>Reset Comments</button>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Shade more squares so that 2 of the shape is shaded altogether.                3
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{the fraction of shaded shape} &= \dfrac{2}{3} \\\\
+\therefore \ \text{the number of shaded shape} &= \dfrac{2}{3} \times 15 \\\\
+&= \dfrac{2 \times 3 \times 5}{3} \\\\
+&= \dfrac{2 \times 3 \times \cancel{5}} {\cancel{3}} \\\\
+&= 2 \times 5 \\\\
+&= 10 \\\\
+\therefore \ \text{We should have to shade 7 shape more.} 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10$
+
+</div>
+</div>
+
+</div>
 </li>
 </ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' id='FORM-6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD'>Initial</p>
 </div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prcr question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+In this fence the posts are all the same width as each other. The gaps are all the same width as each other, too.
+
+![st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2/section-1-question-32-00.png](/assets/st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2/section-1-question-32-00.png "st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2/section-1-question-32-00.png")
+
+How wide is each gap? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the length of gap $=a$
+
+Let the length of the post $= b$
+
+As per the question,
+
+$
+\begin{aligned} 
+a + b                    &= 57 \\\\
+2a + 3b                  &= 131
+\end{aligned}
+$
+
+There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
+
+Multiply the first equation by $3$.
+
+$
+\begin{aligned} 
+3(a + b)                    &= 3 \times 57 \\\\
+3a + 3b                     &= 171
+\end{aligned}
+$
+
+Subtract the second equation from this new equation to reduce it to one variable.
+
+$
+\begin{aligned}
+3a + 3b - (2a + 3b)       &= 171 - 131 \\\\
+3a + 3b - 2a - 3b         &= 40 \\\\
+3a - 2a                   &= 40 \\\\
+a                         &= 40 \ \text{cm}
+\end{aligned}
+$
+
+The length of the each gap is $= 40 \ \text{cm}$
+
+</div>
+<div class='working'>
+
+Alternative Solution,
+
+As per the question,
+
+$
+\begin {aligned}
+57 \ \text{cm} + 57 \ \text{cm}  + \ \text{Post}     &= 131 \ \text{cm} \\\\
+\text{Post}                                          &= 131 - 57 - 57 \\\\
+                                                     &= 17 \ \text{cm}
+\end {aligned} 
+$
+
+$
+\begin {aligned}
+\text{Width of gap}                                  &= 57 \ \text{cm} - \text{Width of post} \\\\
+                                                     &= 57 \ \text{cm} -17  \ \text{cm} \\\\
+                                                     &= 40  \ \text{cm}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prcr question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+%empty% 
+
+</div>
+
+
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Calculate:
+
+</div>
+
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Use your answer to part (a) to write down the answer to 
+
+27 $\times$ 18 =
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+As we know,
+
+$
+\begin{aligned}
+&= 27 \times 18 \\\\
+&= \dfrac {27 \times 18 \times 2} {1 \times 2} \\\\
+&= \dfrac {27 \times 36} {2} \\\\
+&= \dfrac {972} {2} \\\\
+&= 486
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$486$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Use your answer to part (a) to write down the answer to 
+
+**2.7 $\times$ 3.6 =**
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+$
+\begin{aligned}
+&= 2.7 \times 3.6 \\\\
+&= \dfrac {2.7 \times 10 \times 3.6 \times 10} {10 \times 10} \\\\
+&= \dfrac {27 \times 36} {100} \\\\
+&= \dfrac {972} {100} \\\\
+&= 9.72
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9.72$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prcr question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Write + or - in each space to make the calculation correct.
+
+$123 \,\,  45 \,\,  67 \,\,  89 = 100$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$ 123 \ \boxed{\green{-}} ( 45 \ \boxed{\green{+}} (67 \ \boxed{\green{-}} 89))  = 100
+$
+
+Let's verify,
+
+$
+\begin{aligned}
+&= 123 - (45 + (67 - 89)) \\\\
+&= 123 - (45 + (-22)) \\\\
+&= 123 - (45 - 22) \\\\
+&= 123 - 23 \\\\
+&= 100
+\end{aligned}
+$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$ 123 \ \boxed{\green{-}} ( 45 \ \boxed{\green{+}} (67 \ \boxed{\green{-}} 89))  = 100
+$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prcr question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+A factor tree can be used to write any number as a product of prime factors.
+
+![st-albans-school--11-plus--maths--2019--sample-paper-1/section-1-question-18-00.png](/assets/st-albans-school--11-plus--maths--2019--sample-paper-1/section-1-question-18-00.png "st-albans-school--11-plus--maths--2019--sample-paper-1/section-1-question-18-00.png")
+
+We can say that 
+
+**180 = 2 $\times$ 2 $\times$ 3 $\times$ 3 $\times$ 5**
+
+(The order of the numbers does not matter)
+
+Use a factor tree, or any other method you know, to write **420**
+as a product of prime factors. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= &&&&&&&&&&420\\\\
+&= &&&42&&&&&&&&&&&&&10 \\\\
+&= 2&&&&&&21&&&&&&&5&&&&2 \\\\
+&= 2&&&7&&&&&&3&&&&5&&&&2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 \times 7 \times 3 \times 5 \times 2$
+
+</div>
+</div>
+
 </div>
 </li>
 </ul>

@@ -1,97 +1,300 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-4-pr"
 title: "TopicPaper - Sequence - 4 - PR"
-date: 2022-09-09 06:13:00
-questions_count: "5"
+date: 2022-09-21 20:40:31
+questions_count: "13"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
-<div class='uuid'>
-<p>DD824474-6CCA-4CD1-8006-E5FB53539BD8</p>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Boxes are formed from sticks as below.
+
+![sevenoaks-school--11-plus--maths--2012--sample-paper-3/section-1-question-11-00.png](/assets/sevenoaks-school--11-plus--maths--2012--sample-paper-3/section-1-question-11-00.png "sevenoaks-school--11-plus--maths--2012--sample-paper-3/section-1-question-11-00.png")          ![sevenoaks-school--11-plus--maths--2012--sample-paper-3/section-1-question-11-01.png](/assets/sevenoaks-school--11-plus--maths--2012--sample-paper-3/section-1-question-11-01.png "sevenoaks-school--11-plus--maths--2012--sample-paper-3/section-1-question-11-01.png")           ![sevenoaks-school--11-plus--maths--2012--sample-paper-3/section-1-question-11-02.png](/assets/sevenoaks-school--11-plus--maths--2012--sample-paper-3/section-1-question-11-02.png "sevenoaks-school--11-plus--maths--2012--sample-paper-3/section-1-question-11-02.png") 
+
 </div>
-<div class='papername'>
-<p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:2</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
+
+
+<ul class='subquestion lower-alpha'>
 <li>
-tsequence
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How many sticks are needed to make the pattern with eight boxes?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The number of sticks is calculated by adding $5$ to the previous number of sticks.
+
+This is an arithmetic sequence too and the difference between the consecutive patterns of the sequence is constant.
+
+The next pattern is made by adding multiple of $5$ sticks to the first pattern and the number of times it is added is based on the position in the sequence.
+
+$
+\begin{aligned}
+\text{Number of sticks} &= 6 + (8 - 1) \times 5 \\\\
+                        &= 6 + 7 \times 5 \\\\
+                        &= 6 + 35 \\\\
+                        &= 41
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$41$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How many sticks are needed to make the pattern with eighty- eight boxes?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The number of sticks is calculated by adding $5$ to the previous number of sticks.
+
+This is an arithmetic sequence too and the difference between the consecutive patterns of the sequence is constant.
+
+The next pattern is made by adding multiple of $5$ sticks to the first pattern and the number of times it is added is based on the position in the sequence.
+
+$
+\begin{aligned}
+\text{Number of sticks} &= 6 + (88 - 1) \times 5 \\\\
+                        &= 6 + 87 \times 5 \\\\
+                        &= 6 + 435 \\\\
+                        &= 441
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$441$
+
+</div>
+</div>
+
+</div>
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-DD824474-6CCA-4CD1-8006-E5FB53539BD8'>Initial</p>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Work out the next three numbers in each of these sequences: 
+A pattern is made using matches. The first three patterns are shown below:
+
+![sevenoaks-school--11-plus--maths--2013--sample-paper-4/section-1-question-13-00.png](/assets/sevenoaks-school--11-plus--maths--2013--sample-paper-4/section-1-question-13-00.png "sevenoaks-school--11-plus--maths--2013--sample-paper-4/section-1-question-13-00.png")              ![sevenoaks-school--11-plus--maths--2013--sample-paper-4/section-1-question-13-01.png](/assets/sevenoaks-school--11-plus--maths--2013--sample-paper-4/section-1-question-13-01.png "sevenoaks-school--11-plus--maths--2013--sample-paper-4/section-1-question-13-01.png")          ![sevenoaks-school--11-plus--maths--2013--sample-paper-4/section-1-question-13-02.png](/assets/sevenoaks-school--11-plus--maths--2013--sample-paper-4/section-1-question-13-02.png "sevenoaks-school--11-plus--maths--2013--sample-paper-4/section-1-question-13-02.png")
+
+</div>
+
+
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Write down the number of matches used in each pattern.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Number of matches in pattern A}   &=  4 \\\\
+\text{Number of matches in pattern B}   &=  4 + 6 \\\\
+                                        &=  10 \\\\
+\text{Number of matches in pattern C}   &=  4 + 6 + 8\\\\
+                                        &=  18 \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+A = $4$,B = $10$,C = $18$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Draw the $4 \text{th}$ pattern in the sequence.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Draw the $4 \text{th}$ pattern in the sequence.
+
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How many matches have you used for this pattern?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Number of matches in pattern D}   &=  4 + 6 + 8 + 10 \\\\
+                                        &=  10 + 18 \\\\
+                                        &=  28
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$28$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Without doing any more drawing, write down how many matches will be used in:
+
+</div>
+
+
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+pattern $E$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Number of matches in pattern E}   &=  4 + 6 + 8 + 10 + 12 \\\\
+                                        &=  10 + 18 + 12 \\\\
+                                        &=  10 + 30 \\\\
+                                        &=  40 \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+pattern $J$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Number of matches in pattern J}   &=  4 + 6 + 8 + 10 + 12 + 14 + 16 + 18 + 20 + 22 \\\\
+                                        &=  130
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$130$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Find the next **two** numbers in these sequences. Write your answers in the gaps. 
 
 </div>
 <div class='workings'>
@@ -106,25 +309,6 @@ Work out the next three numbers in each of these sequences:
 
 %empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
 </div>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -132,7 +316,7 @@ Work out the next three numbers in each of these sequences:
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$20\:\:\:  17\:\:\:  14\:\:\: .……..\:\:\: ………\:\:\: ………$
+$5, 9, 13, 17, 21, \text{\textunderscore \textunderscore \textunderscore}, \text{\textunderscore \textunderscore \textunderscore}$
 
 </div>
 <div class='workings'>
@@ -141,160 +325,33 @@ $20\:\:\:  17\:\:\:  14\:\:\: .……..\:\:\: ………\:\:\: ………$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The next term is calculated by subtracting $3$ from the previous term. Hence, the sequence would be:
+The next term is calculated by adding $4$ to the previous term. Hence, the sequence would be:
 
 $
-\begin {matrix}
+\begin{matrix}
 &   \footnotesize{\maroonC
-{(-3)}}
+{(+4)}}
 &&  \footnotesize{\maroonC
-{(-3)}}
+{(+4)}}
 &&  \footnotesize{\maroonC
-{(-3)}}
+{(+4)}}
 &&  \footnotesize{\maroonC
-{(-3)}}
+{(+4)}}
 &&  \footnotesize{\maroonC
-{(-3)}}  \\
-20,  &&    17,  &&  14,  &&   \ldots,  &&   \ldots, && \ldots
-\end {matrix}
-$
-
-$
-\begin {aligned}
-\text {First missing number}       &= 14 - 3 \\\\
-                                   &= 11 \\\\
-\text {Second missing number}      &= 11 - 3 \\\\
-                                   &= 8 \\\\
-\text {Third missing number}       &= 8 - 3 \\\\
-                                   &= 5
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11$
-
-</div>
-<div class='answer'>
-
-$8$
-
-</div>
-<div class='answer'>
-
-$5$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-<emptyline>
-The next term is calculated by subtracting $3$ from the previous term. Hence, the sequence would be:
-<emptyline>
-$
-\begin {matrix}
-&   \footnotesize{\rtq_katex_color_info{(-3)}}
-&&  \footnotesize{\rtq_katex_color_info{(-3)}}
-&&  \footnotesize{\rtq_katex_color_info{(-3)}}
-&&  \footnotesize{\rtq_katex_color_info{(-3)}}
-&&  \footnotesize{\rtq_katex_color_info{(-3)}}  \\
-20,  &&    17,  &&  14,  &&   \ldots,  &&   \ldots, && \ldots
-\end {matrix}
-$
-<emptyline>
-$
-\begin {aligned}
-\text {First missing number}       &= 14 - 3 \\\\
-                                   &= 11 \\\\
-\text {Second missing number}      &= 11 - 3 \\\\
-                                   &= 8 \\\\
-\text {Third missing number}       &= 8 - 3 \\\\
-                                   &= 5
-\end {aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$11$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$8$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$5$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$1\:\:\:  4\:\:\:  9\:\:\:  16\:\:\: ……..\:\:\: ………\:\:\: ………$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR:  Let's find the relation between the consecutive terms of the sequence.
-
-
-$
-\begin {matrix}
-&   \footnotesize{\maroonC
-{(+3)}}
+{(+4)}}
 &&  \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+7)}}
-&&  \footnotesize{\maroonC
-{(+9)}}
-&&  \footnotesize{\maroonC
-{(+11)}}
-&&  \footnotesize{\maroonC
-{(+13)}}  \\
-1,  &&    4,  &&  9,  &&   16,  && \ldots,  &&   \ldots, && \ldots
-\end {matrix}
+{(+4)}}  \\
+5, && 9, && 13, && 17, && 21, && \ldots, && \ldots
+\end{matrix}
 $
 
 $
-\begin {aligned}
-\text {First missing number}       &= 16 + 9 \\\\
-                                   &= 25 \\\\
-\text {Second missing number}      &= 25 + 11 \\\\
-                                   &= 36 \\\\
-\text {Third missing number}       &= 36 + 13 \\\\
-                                   &= 49
-\end {aligned}
+\begin{aligned}
+\text{First missing number}     &= 21 + 4 \\\\
+                                &= 25 \\\\
+\text{Second missing number}    &= 25 + 4 \\\\
+                                &= 29
+\end{aligned}
 $
 
 </div>
@@ -307,6 +364,180 @@ $25$
 </div>
 <div class='answer'>
 
+$29$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$14, 13, 11, 8, 4, \text{\textunderscore \textunderscore \textunderscore}, \text{\textunderscore \textunderscore \textunderscore}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(-1)}}
+&&  \footnotesize{\maroonC
+{(-2)}}
+&&  \footnotesize{\maroonC
+{(-3)}}
+&&  \footnotesize{\maroonC
+{(-4)}}
+&&  \footnotesize{\maroonC
+{(-5)}}
+&&  \footnotesize{\maroonC
+{(-6)}}  \\
+14, && 13, && 11, && 8, && 4, && \ldots, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}     &= 4 - 5 \\\\
+                                &= -1 \\\\
+\text{Second missing number}    &= -1 - 6 \\\\
+                                &= -7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-1$
+
+</div>
+<div class='answer'>
+
+$-7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$3, 5, 9, 17, 33, \text{\textunderscore \textunderscore \textunderscore}, \text{\textunderscore \textunderscore \textunderscore}$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+Each consecutive term is calculated by multiplying the previous term by $2$ and subtracted by $1$.
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(\times 2 - 1)}}
+&&  \footnotesize{\maroonC
+{(\times 2 - 1)}}
+&&  \footnotesize{\maroonC
+{(\times 2 - 1)}}
+&&  \footnotesize{\maroonC
+{(\times 2 - 1)}}
+&&  \footnotesize{\maroonC
+{(\times 2 - 1)}}
+&&  \footnotesize{\maroonC
+{(\times 2 - 1)}}  \\
+3, && 5, && 9, && 17, && 33, && \ldots, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}     &= 33 \times 2 - 1 \\\\
+                                &= 66 - 1 \\\\
+                                &= 65 \\\\
+\text{Second missing number}    &= 65 \times 2 - 1 \\\\
+                                &= 130 - 1 \\\\
+                                &= 129
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$65$
+
+</div>
+<div class='answer'>
+
+$129$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$1, 4, 9, 16, 25, \text{\textunderscore \textunderscore \textunderscore}, \text{\textunderscore \textunderscore \textunderscore}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+It is a sequence of square numbers.
+
+$
+\begin {matrix}
+    \footnotesize{\maroonC
+{(1^2)}}
+&&  \footnotesize{\maroonC
+{(2^2)}}
+&&  \footnotesize{\maroonC
+{(3^2)}}
+&&  \footnotesize{\maroonC
+{(4^2)}}
+&&  \footnotesize{\maroonC
+{(5^2)}}
+&&  \footnotesize{\maroonC
+{(6^2)}}
+&&  \footnotesize{\maroonC
+{(7^2)}}  \\\\
+1, && 4, && 9, && 16, && 25, && \ldots, && \ldots
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text {First missing number}       &= 6^2 \\\\
+                                   &= 36 \\\\
+\text {Second missing number}      &= 7^2 \\\\
+                                   &= 49
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
 $36$
 
 </div>
@@ -316,68 +547,6 @@ $49$
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-<emptyline>
-$
-\begin {matrix}
-&   \footnotesize{\rtq_katex_color_info{(+3)}}
-&&  \footnotesize{\rtq_katex_color_info{(+5)}}
-&&  \footnotesize{\rtq_katex_color_info{(+7)}}
-&&  \footnotesize{\rtq_katex_color_info{(+9)}}
-&&  \footnotesize{\rtq_katex_color_info{(+11)}}
-&&  \footnotesize{\rtq_katex_color_info{(+13)}}  \\
-1,  &&    4,  &&  9,  &&   16,  && \ldots,  &&   \ldots, && \ldots
-\end {matrix}
-$
-<emptyline>
-$
-\begin {aligned}
-\text {First missing number}       &= 16 + 9 \\\\
-                                   &= 25 \\\\
-\text {Second missing number}      &= 25 + 11 \\\\
-                                   &= 36 \\\\
-\text {Third missing number}       &= 36 + 13 \\\\
-                                   &= 49
-\end {aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$25$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$36$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$49$
-</code></pre>
-</div>
-</div>
 
 </div>
 </li>
@@ -385,7 +554,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$5\:\:\:  6\:\:\:8\:\:\:  11\:\:\:  15\:\:\:  20\:\:\: ………\:\:\: ………\:\:\: ……….$
+$32, 16, 8, 4, 2, \text{\textunderscore \textunderscore \textunderscore}, \text{\textunderscore \textunderscore \textunderscore}$
 
 </div>
 <div class='workings'>
@@ -394,550 +563,34 @@ $5\:\:\:  6\:\:\:8\:\:\:  11\:\:\:  15\:\:\:  20\:\:\: ………\:\:\: ………
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
+The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
+
 $
-\begin {matrix}
+\begin{matrix}
 &   \footnotesize{\maroonC
-{(+1)}}
+{(\div 2)}}
 &&  \footnotesize{\maroonC
-{(+2)}}
+{(\div 2)}}
 &&  \footnotesize{\maroonC
-{(+3)}}
+{(\div 2)}}
 &&  \footnotesize{\maroonC
-{(+4)}}
+{(\div 2)}}
 &&  \footnotesize{\maroonC
-{(+5)}}
+{(\div 2)}}
 &&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+7)}}
-&&  \footnotesize{\maroonC
-{(+8)}}  \\
-5,  &&    6,  &&  8,  &&   11,  &&  15,  &&  20,  && \ldots,  &&   \ldots, && \ldots
-\end {matrix}
+{(\div 2)}}  \\
+32, && 16, && 8, && 4, &&  2, && \ldots, && \ldots
+\end{matrix}
 $
 
 $
-\begin {aligned}
-\text {First missing number}       &= 20 + 6 \\\\
-                                   &= 26 \\\\
-\text {Second missing number}      &= 26 + 7 \\\\
-                                   &= 33 \\\\
-\text {Third missing number}       &= 33 + 8 \\\\
-                                   &= 41
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$26$
-
-</div>
-<div class='answer'>
-
-$33$
-
-</div>
-<div class='answer'>
-
-$41$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-<emptyline>
-$
-\begin {matrix}
-&   \footnotesize{\rtq_katex_color_info{(+1)}}
-&&  \footnotesize{\rtq_katex_color_info{(+2)}}
-&&  \footnotesize{\rtq_katex_color_info{(+3)}}
-&&  \footnotesize{\rtq_katex_color_info{(+4)}}
-&&  \footnotesize{\rtq_katex_color_info{(+5)}}
-&&  \footnotesize{\rtq_katex_color_info{(+6)}}
-&&  \footnotesize{\rtq_katex_color_info{(+7)}}
-&&  \footnotesize{\rtq_katex_color_info{(+8)}}  \\
-5,  &&    6,  &&  8,  &&   11,  &&  15,  &&  20,  && \ldots,  &&   \ldots, && \ldots
-\end {matrix}
-$
-<emptyline>
-$
-\begin {aligned}
-\text {First missing number}       &= 20 + 6 \\\\
-                                   &= 26 \\\\
-\text {Second missing number}      &= 26 + 7 \\\\
-                                   &= 33 \\\\
-\text {Third missing number}       &= 33 + 8 \\\\
-                                   &= 41
-\end {aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$26$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$33$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$41$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='DD824474-6CCA-4CD1-8006-E5FB53539BD8' id='FORM-DD824474-6CCA-4CD1-8006-E5FB53539BD8' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-DD824474-6CCA-4CD1-8006-E5FB53539BD8'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prns question'>
-<div class='uuid'>
-<p>E78B3025-8842-4BD7-8D15-513879497798</p>
-</div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:1:5</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-E78B3025-8842-4BD7-8D15-513879497798'>Initial</p>
-<div class='question question'>
-
-Fill in the missing numbers in the following sequences:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$2, 3, 5, 8, \text{\textunderscore \textunderscore \textunderscore}, \text{\textunderscore \textunderscore \textunderscore},  23$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR:  Let's find the relation between the consecutive terms of the sequence.
-
-
-$
-\begin {matrix}
-&   \footnotesize{\maroonC
-{(+1)}}
-&&  \footnotesize{\maroonC
-{(+2)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+6)}}  \\
-2,  &&    3,  &&  5,  &&   8,  &&   \ldots, && \ldots,  &&  23
-\end {matrix}
-$
-
-$
-\begin {aligned}
-\text {First missing number}       &= 8 + 4 \\\\
-                                   &= 12 \\\\
-\text {Second missing number}      &= 12 + 5 \\\\
-                                   &= 17
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12$
-
-</div>
-<div class='answer'>
-
-$17$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-<emptyline>
-$
-\begin {matrix}
-&   \footnotesize{\rtq_katex_color_info{(+1)}}
-&&  \footnotesize{\rtq_katex_color_info{(+2)}}
-&&  \footnotesize{\rtq_katex_color_info{(+3)}}
-&&  \footnotesize{\rtq_katex_color_info{(+4)}}
-&&  \footnotesize{\rtq_katex_color_info{(+5)}}
-&&  \footnotesize{\rtq_katex_color_info{(+6)}}  \\
-2,  &&    3,  &&  5,  &&   8,  &&   \ldots, && \ldots,  &&  23
-\end {matrix}
-$
-<emptyline>
-$
-\begin {aligned}
-\text {First missing number}       &= 8 + 4 \\\\
-                                   &= 12 \\\\
-\text {Second missing number}      &= 12 + 5 \\\\
-                                   &= 17
-\end {aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$12$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$17$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$35, 29, 23,  \text{\textunderscore \textunderscore \textunderscore},  \text{\textunderscore \textunderscore \textunderscore}, 5$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR:  Let's find the relation between the consecutive terms of the sequence.
-
-
-The next term is calculated by subtracting $6$ from the previous term. Hence, the sequence would be:
-
-$
-\begin {matrix}
-&   \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(-6)}}  \\
-35,  &&    29,  &&  23,  &&   \ldots,  &&   \ldots, && 5
-\end {matrix}
-$
-
-$
-\begin {aligned}
-\text {First missing number}       &= 23 - 6 \\\\
-                                   &= 17 \\\\
-\text {Second missing number}      &= 17 -6 \\\\
-                                   &= 11
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$17$
-
-</div>
-<div class='answer'>
-
-$11$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-<emptyline>
-The next term is calculated by subtracting $6$ from the previous term. Hence, the sequence would be:
-<emptyline>
-$
-\begin {matrix}
-&   \footnotesize{\rtq_katex_color_info{(-6)}}
-&&  \footnotesize{\rtq_katex_color_info{(-6)}}
-&&  \footnotesize{\rtq_katex_color_info{(-6)}}
-&&  \footnotesize{\rtq_katex_color_info{(-6)}}
-&&  \footnotesize{\rtq_katex_color_info{(-6)}}  \\
-35,  &&    29,  &&  23,  &&   \ldots,  &&   \ldots, && 5
-\end {matrix}
-$
-<emptyline>
-$
-\begin {aligned}
-\text {First missing number}       &= 23 - 6 \\\\
-                                   &= 17 \\\\
-\text {Second missing number}      &= 17 -6 \\\\
-                                   &= 11
-\end {aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$17$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$11$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$1000, 100, 10, \text{\textunderscore \textunderscore \textunderscore},  \text{\textunderscore \textunderscore \textunderscore}$
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR:  Let's find the relation between the consecutive terms of the sequence.
-
-
-The next term is calculated by dividing the previous term by $10$. Hence, the sequence would be:
-
-$
-\begin {matrix}
-&   \footnotesize{\maroonC
-{(\div 10)}}
-&&  \footnotesize{\maroonC
-{(\div 10)}}
-&&  \footnotesize{\maroonC
-{(\div 10)}}
-&&  \footnotesize{\maroonC
-{(\div 10)}}  \\
-1000,  &&    100,  &&  10, &&   \ldots, && \ldots
-\end {matrix}
-$
-
-$
-\begin {aligned}
-\text {First missing number}       &= 10 \div 10 \\\\
-                                   &= 1 \\\\
-\text {Second missing number}      &= 1 \div 10 \\\\
-                                   &= 0.10
-\end {aligned}
+\begin{aligned}
+\text{First missing number}     &= 2 \div 2 \\\\
+                                &= 1 \\\\
+\text{Second missing number}    &= 1 \div 2 \\\\
+                                &= \dfrac {1} {2} \\\\
+                                &= 0.5
+\end{aligned}
 $
 
 </div>
@@ -950,200 +603,82 @@ $1$
 </div>
 <div class='answer'>
 
-$0.10$
+$0.5$
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-<emptyline>
-The next term is calculated by dividing the previous term by $10$. Hence, the sequence would be:
-<emptyline>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$2, 3, 5, 8, 13, \text{\textunderscore \textunderscore \textunderscore}, \text{\textunderscore \textunderscore \textunderscore}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The next term is calculated by adding together the last two terms. Hence, the sequence would be:
+
 $
-\begin {matrix}
-&   \footnotesize{\rtq_katex_color_info{(\div 10)}}
-&&  \footnotesize{\rtq_katex_color_info{(\div 10)}}
-&&  \footnotesize{\rtq_katex_color_info{(\div 10)}}
-&&  \footnotesize{\rtq_katex_color_info{(\div 10)}}  \\
-1000,  &&    100,  &&  10, &&   \ldots, && \ldots
-\end {matrix}
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(1 + 2)}}
+&&  \footnotesize{\maroonC
+{(2 + 3)}}
+&&  \footnotesize{\maroonC
+{(3 + 5)}}
+&&  \footnotesize{\maroonC
+{(5 + 8)}}
+&&  \footnotesize{\maroonC
+{(8 + 13)}}
+&&  \footnotesize{\maroonC
+{(13 + 21)}}  \\
+2, && 3, && 5, && 8, && 13, && \ldots, && \ldots
+\end{matrix}
 $
-<emptyline>
+
 $
-\begin {aligned}
-\text {First missing number}       &= 10 \div 10 \\\\
-                                   &= 1 \\\\
-\text {Second missing number}      &= 1 \div 10 \\\\
-                                   &= 0.10
-\end {aligned}
+\begin{aligned}
+\text{First missing number}     &= 8 + 13 \\\\
+                                &= 21 \\\\
+\text{Second missing number}    &= 13 + 21 \\\\
+                                &= 34
+\end{aligned}
 $
-</code></pre>
+
 </div>
 </div>
 <div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+<div class='answer'>
+
+$21$
+
 </div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$0.10$
-</code></pre>
+<div class='answer'>
+
+$34$
+
 </div>
 </div>
 
 </div>
 </li>
 </ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E78B3025-8842-4BD7-8D15-513879497798' id='FORM-E78B3025-8842-4BD7-8D15-513879497798' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-E78B3025-8842-4BD7-8D15-513879497798'>Initial</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_pr rag_prns question'>
-<div class='uuid'>
-<p>FC1FAB4D-6BD6-4D42-930F-0137334EBB1F</p>
-</div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:1:7</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-FC1FAB4D-6BD6-4D42-930F-0137334EBB1F'>Initial</p>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Write down the next two terms in each of the following sequences: 
+For each of the sequences, write down the next three terms. 
 
 </div>
 <div class='workings'>
@@ -1158,25 +693,6 @@ Write down the next two terms in each of the following sequences:
 
 %empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
 </div>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -1184,608 +700,7 @@ Write down the next two terms in each of the following sequences:
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$5$, $11$, $17$, $23, \ldots, \ldots$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR:  Let's find the relation between the consecutive terms of the sequence.
-
-
-The next term is calculated by adding $6$ to the previous term. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}  \\
-5,  &&   11,  &&  17,  &&   23,  &&   \ldots, && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text {First missing number}    &= 23 + 6 \\\\
-                                &= 29 \\\\
-\text {Second missing number}   &= 29 + 6 \\\\
-                                &= 35
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$29$
-
-</div>
-<div class='answer'>
-
-$35$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-<emptyline>
-The next term is calculated by adding $6$ to the previous term. Hence, the sequence would be:
-<emptyline>
-$
-\begin{matrix}
-&   \footnotesize{\rtq_katex_color_info{(+6)}}
-&&  \footnotesize{\rtq_katex_color_info{(+6)}}
-&&  \footnotesize{\rtq_katex_color_info{(+6)}}
-&&  \footnotesize{\rtq_katex_color_info{(+6)}}
-&&  \footnotesize{\rtq_katex_color_info{(+6)}}  \\
-5,  &&   11,  &&  17,  &&   23,  &&   \ldots, && \ldots
-\end{matrix}
-$
-<emptyline>
-$
-\begin{aligned}
-\text {First missing number}    &= 23 + 6 \\\\
-                                &= 29 \\\\
-\text {Second missing number}   &= 29 + 6 \\\\
-                                &= 35
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$29$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$35$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$52$, $45$, $38$, $31, \ldots, \ldots$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR:  Let's find the relation between the consecutive terms of the sequence.
-
-
-The next term is calculated by subtracting $7$ from the previous term. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(-7)}}
-&&  \footnotesize{\maroonC
-{(-7)}}
-&&  \footnotesize{\maroonC
-{(-7)}}
-&&  \footnotesize{\maroonC
-{(-7)}}
-&&  \footnotesize{\maroonC
-{(-7)}}  \\
-52,  &&   45,  &&  38,  &&   31,  &&   \ldots, && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text {First missing number}    &= 31 - 7 \\\\
-                                &= 24 \\\\
-\text {Second missing number}   &= 24 - 7 \\\\
-                                &= 17
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$24$
-
-</div>
-<div class='answer'>
-
-$17$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-<emptyline>
-The next term is calculated by subtracting $7$ from the previous term. Hence, the sequence would be:
-<emptyline>
-$
-\begin{matrix}
-&   \footnotesize{\rtq_katex_color_info{(-7)}}
-&&  \footnotesize{\rtq_katex_color_info{(-7)}}
-&&  \footnotesize{\rtq_katex_color_info{(-7)}}
-&&  \footnotesize{\rtq_katex_color_info{(-7)}}
-&&  \footnotesize{\rtq_katex_color_info{(-7)}}  \\
-52,  &&   45,  &&  38,  &&   31,  &&   \ldots, && \ldots
-\end{matrix}
-$
-<emptyline>
-$
-\begin{aligned}
-\text {First missing number}    &= 31 - 7 \\\\
-                                &= 24 \\\\
-\text {Second missing number}   &= 24 - 7 \\\\
-                                &= 17
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$24$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$17$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$1$, $2$, $4$, $8, \ldots, \ldots$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR:  Let's find the relation between the consecutive terms of the sequence.
-
-
-The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}  \\
-1,  &&   2,  &&  4,  &&   8,  &&   \ldots, && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text {First missing number}    &= 8 \times 2 \\\\
-                                &= 16 \\\\
-\text {Second missing number}   &= 16 \times 2 \\\\
-                                &= 32
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$16$
-
-</div>
-<div class='answer'>
-
-$32$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-<emptyline>
-The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
-<emptyline>
-$
-\begin{matrix}
-&   \footnotesize{\rtq_katex_color_info{(\times 2)}}
-&&  \footnotesize{\rtq_katex_color_info{(\times 2)}}
-&&  \footnotesize{\rtq_katex_color_info{(\times 2)}}
-&&  \footnotesize{\rtq_katex_color_info{(\times 2)}}
-&&  \footnotesize{\rtq_katex_color_info{(\times 2)}}  \\
-1,  &&   2,  &&  4,  &&   8,  &&   \ldots, && \ldots
-\end{matrix}
-$
-<emptyline>
-$
-\begin{aligned}
-\text {First missing number}    &= 8 \times 2 \\\\
-                                &= 16 \\\\
-\text {Second missing number}   &= 16 \times 2 \\\\
-                                &= 32
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$16$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$32$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$3$, $8$, $15$, $24, \ldots, \ldots$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR:  Let's find the relation between the consecutive terms of the sequence.
-
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+7)}}
-&&  \footnotesize{\maroonC
-{(+9)}}
-&&  \footnotesize{\maroonC
-{(+11)}}
-&&  \footnotesize{\maroonC
-{(+13)}}  \\
-3,  &&   8,  &&  15,  &&   24,  &&   \ldots, && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text {First missing number}    &= 24 + 11 \\\\
-                                &= 35 \\\\
-\text {Second missing number}   &= 35 + 13 \\\\
-                                &= 48
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$35$
-
-</div>
-<div class='answer'>
-
-$48$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-<emptyline>
-$
-\begin{matrix}
-&   \footnotesize{\rtq_katex_color_info{(+5)}}
-&&  \footnotesize{\rtq_katex_color_info{(+7)}}
-&&  \footnotesize{\rtq_katex_color_info{(+9)}}
-&&  \footnotesize{\rtq_katex_color_info{(+11)}}
-&&  \footnotesize{\rtq_katex_color_info{(+13)}}  \\
-3,  &&   8,  &&  15,  &&   24,  &&   \ldots, && \ldots
-\end{matrix}
-$
-<emptyline>
-$
-\begin{aligned}
-\text {First missing number}    &= 24 + 11 \\\\
-                                &= 35 \\\\
-\text {Second missing number}   &= 35 + 13 \\\\
-                                &= 48
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$35$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$48$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' id='FORM-FC1FAB4D-6BD6-4D42-930F-0137334EBB1F' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-FC1FAB4D-6BD6-4D42-930F-0137334EBB1F'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prns question'>
-<div class='uuid'>
-<p>97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9</p>
-</div>
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:26</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9'>Initial</p>
-<div class='question question'>
-
-Write the next number in each of the lists below.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$3 \quad 7  \quad 11 \quad 15 \quad 19 \quad \text{\textunderscore\textunderscore\textunderscore}$ 
+$3  \quad 7 \quad  11 \quad 15 \quad  19 \quad  \ldots \quad   \ldots \quad   \ldots$
 
 </div>
 <div class='workings'>
@@ -1807,464 +722,29 @@ $
 &&  \footnotesize{\maroonC
 {(+4)}}
 &&  \footnotesize{\maroonC
-{(+4)}}  \\
-3,  &&    7,  &&  11,  &&   15,  &&   19, && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Missing number}   &= 19 + 4 \\\\
-                        &= 23
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$23$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-<emptyline>
-The next term is calculated by adding $4$ to the previous term. Hence, the sequence would be:
-<emptyline>
-$
-\begin{matrix}
-&   \footnotesize{\rtq_katex_color_info{(+4)}}
-&&  \footnotesize{\rtq_katex_color_info{(+4)}}
-&&  \footnotesize{\rtq_katex_color_info{(+4)}}
-&&  \footnotesize{\rtq_katex_color_info{(+4)}}
-&&  \footnotesize{\rtq_katex_color_info{(+4)}}  \\
-3,  &&    7,  &&  11,  &&   15,  &&   19, && \ldots
-\end{matrix}
-$
-<emptyline>
-$
-\begin{aligned}
-\text{Missing number}   &= 19 + 4 \\\\
-                        &= 23
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$23$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$4 \quad 9 \quad 16 \quad 25 \quad 36 \quad \text{\textunderscore\textunderscore\textunderscore}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR:  Let's find the relation between the consecutive terms of the sequence.
-
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+7)}}
-&&  \footnotesize{\maroonC
-{(+9)}}
-&&  \footnotesize{\maroonC
-{(+11)}}
-&&  \footnotesize{\maroonC
-{(+13)}}  \\
-5,  &&    7,  &&  9,  &&   11,  &&   13, && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Missing number}   &= 36 + 13 \\\\
-                        &= 49
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$49$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-<emptyline>
-$
-\begin{matrix}
-&   \footnotesize{\rtq_katex_color_info{(+5)}}
-&&  \footnotesize{\rtq_katex_color_info{(+7)}}
-&&  \footnotesize{\rtq_katex_color_info{(+9)}}
-&&  \footnotesize{\rtq_katex_color_info{(+11)}}
-&&  \footnotesize{\rtq_katex_color_info{(+13)}}  \\
-5,  &&    7,  &&  9,  &&   11,  &&   13, && \ldots
-\end{matrix}
-$
-<emptyline>
-$
-\begin{aligned}
-\text{Missing number}   &= 36 + 13 \\\\
-                        &= 49
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$49$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$23 \quad  19  \quad  13 \quad  5  \quad  {-}5 \quad \text{\textunderscore\textunderscore\textunderscore}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR:  Let's find the relation between the consecutive terms of the sequence.
-
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(-8)}}
-&&  \footnotesize{\maroonC
-{(-10)}}
-&&  \footnotesize{\maroonC
-{(-12)}}  \\
-23,  &&    19,  &&  13,  &&   5,  &&   -5, && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Missing number}   &= -5 - 12 \\\\
-                        &= -17
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$-17$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-<emptyline>
-$
-\begin{matrix}
-&   \footnotesize{\rtq_katex_color_info{(-4)}}
-&&  \footnotesize{\rtq_katex_color_info{(-6)}}
-&&  \footnotesize{\rtq_katex_color_info{(-8)}}
-&&  \footnotesize{\rtq_katex_color_info{(-10)}}
-&&  \footnotesize{\rtq_katex_color_info{(-12)}}  \\
-23,  &&    19,  &&  13,  &&   5,  &&   -5, && \ldots
-\end{matrix}
-$
-<emptyline>
-$
-\begin{aligned}
-\text{Missing number}   &= -5 - 12 \\\\
-                        &= -17
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$-17$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' id='FORM-97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prns question'>
-<div class='uuid'>
-<p>E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6</p>
-</div>
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:7</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6'>Initial</p>
-<div class='question question'>
-
-Fill in the next three numbers in these sequences:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$3, \quad 7, \quad 11, \quad 15, \quad \ldots, \quad \ldots, \quad \ldots$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR:  Let's find the relation between the consecutive terms of the sequence.
-
-
-The difference between the terms is $4$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
 {(+4)}}
 &&  \footnotesize{\maroonC
 {(+4)}}
 &&  \footnotesize{\maroonC
 {(+4)}}  \\
-3,  &&    7,  &&  11,  &&   15,  &&   \ldots,  &&  \ldots,  && \ldots
+3,  &&    7,  &&  11,  &&   15,  &&   19,  && \ldots,  && \ldots, && \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{First missing number}         &= 15 + 4 \\\\
-                                    &= 19 \\\\
-\text{Second missing number}        &= 19 + 4 \\\\
-                                    &= 23 \\\\
-\text{Third missing number}         &= 23 + 4 \\\\
-                                    &= 27
+\text {First missing number}    &= 19 + 4 \\\\
+                                &= 23 \\\\
+\text {Second missing number}   &= 23 + 4 \\\\
+                                &= 27 \\\\
+\text {Third missing number}    &= 27 + 4 \\\\
+                                &= 31
 \end{aligned}
 $
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-$19$
-
-</div>
 <div class='answer'>
 
 $23$
@@ -2275,195 +755,76 @@ $23$
 $27$
 
 </div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-<emptyline>
-The difference between the terms is $4$. Hence, the sequence would be:
-<emptyline>
-$
-\begin{matrix}
-&   \footnotesize{\rtq_katex_color_info{(+4)}}
-&&  \footnotesize{\rtq_katex_color_info{(+4)}}
-&&  \footnotesize{\rtq_katex_color_info{(+4)}}
-&&  \footnotesize{\rtq_katex_color_info{(+4)}}
-&&  \footnotesize{\rtq_katex_color_info{(+4)}}
-&&  \footnotesize{\rtq_katex_color_info{(+4)}}  \\
-3,  &&    7,  &&  11,  &&   15,  &&   \ldots,  &&  \ldots,  && \ldots
-\end{matrix}
-$
-<emptyline>
-$
-\begin{aligned}
-\text{First missing number}         &= 15 + 4 \\\\
-                                    &= 19 \\\\
-\text{Second missing number}        &= 19 + 4 \\\\
-                                    &= 23 \\\\
-\text{Third missing number}         &= 23 + 4 \\\\
-                                    &= 27
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$19$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$23$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$27$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$53, \quad 46, \quad 40, \quad 35, \quad \ldots, \quad \ldots, \quad \ldots$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR:  Let's find the relation between the consecutive terms of the sequence.
-
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(-7)}}
-&&  \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(-5)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-3)}}
-&&  \footnotesize{\maroonC
-{(-2)}}  \\
-53,  &&   46,  &&  40,  &&   35,  &&   \ldots,  &&  \ldots,  && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}         &= 35 - 4 \\\\
-                                    &= 31 \\\\
-\text{Second missing number}        &= 31 - 3 \\\\
-                                    &= 28 \\\\
-\text{Third missing number}         &= 28 - 2 \\\\
-                                    &= 26
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
 <div class='answer'>
 
 $31$
 
 </div>
-<div class='answer'>
-
-$28$
+</div>
 
 </div>
-<div class='answer'>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
 
-$26$
+$8 \quad  17 \quad  35 \quad  71 \quad  143 \quad  \ldots \quad   \ldots \quad  \ldots$
 
 </div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
+<div class='workings'>
+<div class='working'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-<emptyline>
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
 $
 \begin{matrix}
-&   \footnotesize{\rtq_katex_color_info{(-7)}}
-&&  \footnotesize{\rtq_katex_color_info{(-6)}}
-&&  \footnotesize{\rtq_katex_color_info{(-5)}}
-&&  \footnotesize{\rtq_katex_color_info{(-4)}}
-&&  \footnotesize{\rtq_katex_color_info{(-3)}}
-&&  \footnotesize{\rtq_katex_color_info{(-2)}}  \\
-53,  &&   46,  &&  40,  &&   35,  &&   \ldots,  &&  \ldots,  && \ldots
+&   \footnotesize{\maroonC
+{(+9)}}
+&&  \footnotesize{\maroonC
+{(+18)}}
+&&  \footnotesize{\maroonC
+{(+36)}}
+&&  \footnotesize{\maroonC
+{(+72)}}
+&&  \footnotesize{\maroonC
+{(+144)}}
+&&  \footnotesize{\maroonC
+{(+288)}}
+&&  \footnotesize{\maroonC
+{(+576)}}  \\
+8,  &&    17,  &&  35,  &&   71,  &&   143,  && \ldots,  && \ldots, && \ldots
 \end{matrix}
 $
-<emptyline>
+
 $
 \begin{aligned}
-\text{First missing number}         &= 35 - 4 \\\\
-                                    &= 31 \\\\
-\text{Second missing number}        &= 31 - 3 \\\\
-                                    &= 28 \\\\
-\text{Third missing number}         &= 28 - 2 \\\\
-                                    &= 26
+\text {First missing number}    &= 143 + 144 \\\\
+                                &= 287 \\\\
+\text {Second missing number}   &= 287 + 288 \\\\
+                                &= 575 \\\\
+\text {Third missing number}    &= 575 + 576 \\\\
+                                &= 1151
 \end{aligned}
 $
-</code></pre>
+
 </div>
 </div>
 <div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+<div class='answer'>
+
+$287$
+
 </div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+<div class='answer'>
+
+$575$
+
 </div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$31$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$28$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$26$
-</code></pre>
+<div class='answer'>
+
+$1151$
+
 </div>
 </div>
 
@@ -2473,7 +834,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$1, \quad 2, \quad 4, \quad 8, \quad \ldots, \quad \ldots, \quad \ldots$
+$\dfrac {2} {3} \quad   \dfrac {3} {5} \quad   \dfrac {5} {7} \quad  \dfrac {7} {11} \quad    \dfrac {11} {13} \quad  \ldots \quad    \ldots \quad  \ldots$  
 
 </div>
 <div class='workings'>
@@ -2482,36 +843,274 @@ $1, \quad 2, \quad 4, \quad 8, \quad \ldots, \quad \ldots, \quad \ldots$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
+$\dfrac {2} {3} \quad   \dfrac {3} {5} \quad   \dfrac {5} {7} \quad  \dfrac {7} {11} \quad    \dfrac {11} {13} \quad  \ldots \quad    \ldots \quad  \ldots$  
+
+$
+\begin{aligned}
+\text {First missing number}    &= \dfrac{13}{17} \\\\
+\text {Second missing number}   &= \dfrac{17}{19} \\\\
+\text {Third missing number}    &= \dfrac{19}{23} \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{13}{17}$
+
+</div>
+<div class='answer'>
+
+$\dfrac{17}{19}$
+
+</div>
+<div class='answer'>
+
+$\dfrac{19}{23}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$11  \quad 24 \quad  46 \quad  86 \quad  162 \quad  \ldots \quad   \ldots \quad  \ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The next term is calculated by adding $4$ to the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
 &   \footnotesize{\maroonC
-{(\times 2)}}
+{(+13)}}
 &&  \footnotesize{\maroonC
-{(\times 2)}}
+{(+13 + 9)}}
 &&  \footnotesize{\maroonC
-{(\times 2)}}
+{(+22 + 9 \times 2)}}
 &&  \footnotesize{\maroonC
-{(\times 2)}}
+{(+40 + 18 \times 2)}}
 &&  \footnotesize{\maroonC
-{(\times 2)}}
+{(+76 + 36 \times 2)}}
 &&  \footnotesize{\maroonC
-{(\times 2)}}  \\
-1,  &&    2,  &&  4,  &&   8,  &&   \ldots,  && \ldots, && \ldots
+{(+148 + 72 \times 2)}}
+&&  \footnotesize{\maroonC
+{(+292 + 144 \times 2)}}  \\
+11,  &&    24,  &&  46,  &&   86,  &&   162,  && \ldots,  && \ldots, && \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{First missing number}         &= 8 \times 2 \\\\
-                                    &= 16 \\\\
-\text{Second missing number}        &= 16 \times 2 \\\\
-                                    &= 32 \\\\
-\text{Third missing number}         &= 32 \times 2 \\\\
-                                    &= 64
+\text {First missing number}    &= 162 + 76 + 36 \times 2 \\\\
+                                &= 238 + 72 \\\\
+                                &= 310 \\\\
+\text {Second missing number}   &= 310 + 148 + 72 \times 2 \\\\
+                                &= 458 + 144 \\\\
+                                &= 602 \\\\
+\text {Third missing number}    &= 602 + 292 + 144 \times 2 \\\\
+                                &= 894 + 288 \\\\
+                                &= 1182
 \end{aligned}
 $
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$310$
+
+</div>
+<div class='answer'>
+
+$602$
+
+</div>
+<div class='answer'>
+
+$1182$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Here is a sequence of patterns.
+
+![st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2/section-1-question-27-00.png](/assets/st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2/section-1-question-27-00.png "st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2/section-1-question-27-00.png") 
+
+</div>
+
+
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How many triangles are there in the pattern with $3$ rectangles? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$8$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How many triangles would there be in a pattern with
+
+</div>
+
+
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+$5$ rectangles?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The number of rectangles is calculated by adding $2$ to the previous number of rectangles.
+
+This is an arithmetic sequence too and the difference between the consecutive patterns of the sequence is constant.
+
+The next pattern is made by adding multiple of $2$ rectangles to the first pattern and the number of times it is added is based on the position in the sequence.
+
+$
+\begin{aligned}
+\text{Number of rectangles} &= 4 + (5 - 1) \times 2 \\\\
+                            &= 4 + 4 \times 2 \\\\
+                            &= 4 + 8 \\\\
+                            &= 12
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+$10$ rectangles?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The number of rectangles is calculated by adding $2$ to the previous number of rectangles.
+
+This is an arithmetic sequence too and the difference between the consecutive patterns of the sequence is constant.
+
+The next pattern is made by adding multiple of $2$ rectangles to the first pattern and the number of times it is added is based on the position in the sequence.
+
+$
+\begin{aligned}
+\text{Number of rectangles} &= 4 + (10 - 1) \times 2 \\\\
+                            &= 4 + 9 \times 2 \\\\
+                            &= 4 + 18 \\\\
+                            &= 22
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$22$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How many rectangles would there be in a pattern with $34$ 
+triangles?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of rectangles $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+4 + (a-1) \times 2   &= 34 \\\\
+4 + 2a - 2           &= 34 \\\\
+4 - 2 + 2a           &= 34 \\\\
+2 + 2a               &= 34 \\\\
+2a                   &= 34 - 2 \\\\
+2a                   &= 32 \\\\
+a                    &= \dfrac{32}{2} \\\\
+a                    &= \dfrac{16 \times 2}{2} \\\\
+a                    &= \dfrac{16 \times \cancel{2}}{\cancel{2}} \\\\
+a                    &= 16
+\end{aligned}
+$
+
+Number of rectangles $= 16$
 
 </div>
 </div>
@@ -2521,132 +1120,739 @@ $
 $16$
 
 </div>
-<div class='answer'>
-
-$32$
+</div>
 
 </div>
-<div class='answer'>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
 
-$64$
+Complete the spaces shown by dotted lines below. 
 
 </div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
+<div class='workings'>
+<div class='working'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-<emptyline>
-The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
-<emptyline>
-$
-\begin{matrix}
-&   \footnotesize{\rtq_katex_color_info{(\times 2)}}
-&&  \footnotesize{\rtq_katex_color_info{(\times 2)}}
-&&  \footnotesize{\rtq_katex_color_info{(\times 2)}}
-&&  \footnotesize{\rtq_katex_color_info{(\times 2)}}
-&&  \footnotesize{\rtq_katex_color_info{(\times 2)}}
-&&  \footnotesize{\rtq_katex_color_info{(\times 2)}}  \\
-1,  &&    2,  &&  4,  &&   8,  &&   \ldots,  && \ldots, && \ldots
-\end{matrix}
-$
-<emptyline>
-$
-\begin{aligned}
-\text{First missing number}         &= 8 \times 2 \\\\
-                                    &= 16 \\\\
-\text{Second missing number}        &= 16 \times 2 \\\\
-                                    &= 32 \\\\
-\text{Third missing number}         &= 32 \times 2 \\\\
-                                    &= 64
-\end{aligned}
-$
-</code></pre>
+%empty%
+
 </div>
 </div>
 <div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+<div class='answer'>
+
+%empty%
+
 </div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$16$
-</code></pre>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+START                                                 END 
+$\boxed {......}$ Subtract 19  $\boxed {......}$  Add 8  $\boxed {100}$
+
 </div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+<div class='workings'>
+<div class='working'>
+
+Let the first missing number $= a$
+
+As per the question, 
+
+$
+\begin{aligned}
+a - 19 +  8 &= 100 \\\\
+a - 11      &= 100 \\\\
+a - 11      &= 100 + 11 \\\\
+a           &= 111
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{First missing number}   &= a \\\\
+                              &= 111 \\\\
+\text{Second missing number}  &= a - 19 \\\\
+                              &= 92
+\end{aligned}
+$
+
 </div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$32$
-</code></pre>
+<div class='answers'>
+<div class='answer'>
+
+$111$
+
 </div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+<div class='answer'>
+
+$92$
+
 </div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$64$
-</code></pre>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+START                                                 END 
+$\boxed {-23}$ Add.......  $\boxed {35}$  Divide by..... $\boxed {70}$  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the first missing number $= a$
+
+and the second missing number $= b$
+
+As per the question, 
+
+Let's find $a$ first
+
+$
+\begin{aligned}
+-23 + a     &= 35 \\\\
+a           &= 35 + 23 \\\\
+a           &= 58
+\end{aligned}
+$
+
+Now let's find $b$
+
+$
+\begin{aligned}
+\dfrac{35}{b}       &= 70 \\\\
+\dfrac{35}{70}      &= b \\\\
+b                   &= \dfrac{35}{70} \\\\
+b                   &= \dfrac{35}{35 \times 2} \\\\
+b                   &= \dfrac{\cancel{35}}{\cancel{35} \times 2} \\\\
+b                   &= \dfrac{1}{2} \\\\
+b                   &= 0.5
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{First missing number}   &= a \\\\
+                              &= 58 \\\\
+\text{Second missing number}  &= b \\\\
+                              &= 0.5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$58$
+
+</div>
+<div class='answer'>
+
+$0.5$
+
 </div>
 </div>
 
 </div>
 </li>
 </ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='submitReview(event)'>PRCC</button>
+You are told that
+
+$N_{5}$ means 'add up the first $5$ counting numbers', so $N_{5} = 1 + 2 + 3 + 4 + 5 = 15$
+
+$O_{3}$ means 'add up the first $3$ odd numbers', so $O_{3} = 1 + 3 + 5 = 9$
+
+$E_{4}$ means 'add up the first $4$ even numbers', so $E_{4} = 2 + 4 + 6 + 8 = 20$ and so on.
+
+</div>
+
+
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Work out the following:
+
+$E_{7} = $
+
+$N_{8} = $
+
+$N_{9} = $
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+E_{7} &= 2 + 4 + 6 + 8 + 10 + 12 + 14 \\\\ 
+      &= 56 \\\\ 
+N_{8} &= 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 \\\\ 
+      &= 36 \\\\ 
+N_{9} &= 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 \\\\
+      &= N_{8} + 9 \\\\
+      &= 36 + 9 \\\\
+      &= 45
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$56$
+
+</div>
+<div class='answer'>
+
+$36$
+
+</div>
+<div class='answer'>
+
+$45$
+
+</div>
+</div>
+
+</div>
 </li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='submitReview(event)'>PRPCC</button>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Find the value of $N_{401} - N_{400}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+N_{401} - N_{400}   &= 1 + 2 + 3 + \ldots + 400 + 401  - (1 + 2 + 3 + \ldots + 400) \\\\ 
+                    &= (1 + 2 + 3 + \ldots + 400) + 401  - (1 + 2 + 3 + \ldots + 400) \\\\ 
+                    &= \cancel{(1 + 2 + 3 + \ldots + 400)} + 401  - \cancel{(1 + 2 + 3 + \ldots + 400)} \\\\ 
+                    &= 401
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$401$
+
+</div>
+</div>
+
+</div>
 </li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='submitReview(event)'>PRG</button>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+There is a different way of finding, for example, $O_{7}$:
+
+Find the value of 
+
+$O_{13} = $
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+O_{13} &= 1 + 3 + 5 + 7 + \ldots + 25 \\\\ 
+       &= 13^2 \\\\ 
+       &= 169
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$169$
+
+</div>
+</div>
+
+</div>
 </li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='submitReview(event)'>PRG2</button>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Notice that $N_{6}$ can be split into $2$ parts to make the calculation easier:
+
+$N_{6} = 1 + 2 + 3 + 4 + 5 + 6 = O_{3} + E_{3}$
+
+Complete the following line **by filling in the boxes**.
+
+$N_{10} =  \ ^O  \boxed{\phantom{1}} \ + \ ^E \boxed{\phantom{1}}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$N_{10} =  O_{5}  + E_{5}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$N_{10} =  O_{5}  + E_{5}$
+
+</div>
+</div>
+
+</div>
 </li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onclick='resetComment(event)'>Reset Comments</button>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+You are told that $N_{200} = 20100$ and $N_{401} = 80601$.
+
+Use this information to work out the following:
+
+$E_{100} = $
+
+$E_{200} = $
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+N_{200}             &= E_{100} + O_{100} \\\\
+N_{200} - O_{100}   &= E_{100} \\\\
+E_{100}             &= N_{200} - O_{100} \\\\
+E_{100}             &= 20100 - 100^2 \\\\
+E_{100}             &= 20100 - 10000 \\\\
+E_{100}             &= 10100 \\\\
+N_{400}             &= N_{401} - 401 \\\\
+N_{400}             &= 80601 - 401 \\\\
+N_{400}             &= 80200 \\\\
+N_{400}             &= E_{200} + O_{200} \\\\
+N_{400} - O_{200}   &= E_{200} \\\\
+E_{200}             &= N_{400} - O_{200} \\\\
+E_{200}             &= 80200 - 200^2 \\\\
+E_{200}             &= 80200 - 40000 \\\\
+E_{200}             &= 40200 \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10100$
+
+</div>
+<div class='answer'>
+
+$40200$
+
+</div>
+</div>
+
+</div>
 </li>
 </ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' id='FORM-E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6'>Initial</p>
 </div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prrl question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Here is part of a number sequence. The numbers increase by the same amount each time.
+
+$150, \quad 165, \quad 180, \quad 195, \quad 210$
+
+The sequence continues. 
+
+Circle **all** of the numbers below that would appear in the sequence:
+
+$315, \quad 561, \quad 240, \quad 620, \quad 964$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The next term is calculated by adding $15$ to the previous term. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+15)}}
+&&  \footnotesize{\maroonC
+{(+15)}}
+&&  \footnotesize{\maroonC
+{(+15)}}
+&&  \footnotesize{\maroonC
+{(+15)}}
+&&  \footnotesize{\maroonC
+{(+15)}}
+&&  \footnotesize{\maroonC
+{(+15)}}  \\
+150,  &&    165,  &&  180,  &&   195,   &&   210,  &&   \ldots, && \ldots
+\end{matrix}
+$
+
+So, we can say that, the numbers that would appear in the sequence are multiples of $15$ .
+
+Numbers that are divisible by $15$ and would appear in the sequence are $=240, 315$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$240$
+
+</div>
+<div class='answer'>
+
+$315$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+The first two terms of a sequence are $1, 2$. 
+Each term after is the sum of all the previous terms in the sequence. 
+Which of these is not part of the sequence?
+
+- $3$
+- $6$
+- $24$
+- $50$
+- $96$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, the sequence would be:
+
+$
+\begin{matrix}
+&  \footnotesize {\maroonC
+ {(+1)} }
+&&  \footnotesize {\maroonC
+ {(+1)} }
+&&  \footnotesize {\maroonC
+ {(+3)} }
+&&  \footnotesize {\maroonC
+ {(+6)} }
+&&  \footnotesize {\maroonC
+ {(+12)} }
+&&  \footnotesize {\maroonC
+ {(+24)} }
+&&  \footnotesize {\maroonC
+ {(+48)} }  \\
+1,  &&  2, &&  \ldots, &&  \ldots, &&  \ldots, && \ldots, &&  \ldots, && \ldots
+\end{matrix}
+$
+
+| Pattern number | Value          |
+|----------------|----------------|
+| $3$            | $2 + 1 = 3$    |
+| $4$            | $3 + 3 = 6$    |
+| $5$            | $6 + 6 = 12$   |
+| $6$            | $12 + 12 = 24$ |
+| $7$            | $24 + 24 = 48$ |
+| $8$            | $48 + 48 = 96$ |
+
+As per the table,
+
+$50$ is not part of the sequence.
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
+<div class='answer'>
+
+$50$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prrl question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+![streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1/section-2-question-1-00.png](/assets/streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1/section-2-question-1-00.png "streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1/section-2-question-1-00.png")  
+
+This is a magic square.  
+
+All the columns, rows and diagonals add up to $30$.  
+
+Several numbers have been missed out.
+
+What number replaces $B$?
+
+- $6$
+- $8$
+- $7$
+- $5$
+- $10$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+|         | column $1$ | column $2$ | column $3$ |
+|---------|------------|------------|------------|
+| row $1$ | $9$        | $A$        | $R1C3$     |
+| row $2$ | $R2C1$     | $10$       | $R2C3$     |
+| row $3$ | $13$       | $B$        | $R3C3$     |
+
+To find $B$ we need to first find the value of R3C3.
+
+As per the question, solving diagonally,
+
+$
+\begin{aligned}
+R3C3 &= 30 - 9 - 10 \\\\
+     &= 21 - 10 \\\\
+     &= 11
+\end{aligned}
+$
+
+Now lets find value of $B$, solving Row $3$
+
+$
+\begin{aligned}
+13 + B + 11 &= 30 \\\\
+24 + B      &= 30 \\\\
+B           &= 30 - 24 \\\\
+B           &= 6
+\end{aligned}
+$
+
+The number that replaces $B = 6$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prrl question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+What number replaces $A$?
+
+- $12$ 
+- $13$  
+- $14$
+- $15$
+- $16$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+|         | column $1$ | column $2$ | column $3$ |
+|---------|------------|------------|------------|
+| row $1$ | $9$        | $A$        | $R1C3$     |
+| row $2$ | $R2C1$     | $10$       | $R2C3$     |
+| row $3$ | $13$       | $B$        | $R3C3$     |
+
+To find $A$ we need to first find the value of R1C3.
+
+As per the question, solving diagonally,
+
+$
+\begin{aligned}
+R1C3 &= 30 - 13 - 10 \\\\
+     &= 17 - 10 \\\\
+     &= 7
+\end{aligned}
+$
+
+Now lets find value of $A$, solving Row $1$
+
+$
+\begin{aligned}
+9 + A + 7   &= 30 \\\\
+9 + 7 + A   &= 30 \\\\
+16 + A      &= 30 \\\\
+A           &= 30 - 16 \\\\
+A           &= 14
+\end{aligned}
+$
+
+The number that replaces $A = 14$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>H</p>
+</div>
+<div class='answer'>
+
+$A = 14$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prrl question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+A number of shapes have been made with matches.
+
+For this pattern:
+
+![streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1/section-2-question-3-00.png](/assets/streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1/section-2-question-3-00.png "streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1/section-2-question-3-00.png")
+
+How many matches will be in the $4^\text{th}$ shape?
+
+- $26$
+- $18$  
+- $24$   
+- $20$  
+- $22$  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 4 + (4-1) \times 6 \\\\
+&= 4 + 3 \times 6 \\\\
+&= 4 + 18 \\\\
+&= 22
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>Q</p>
+</div>
+<div class='answer'>
+
+$22$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prrl question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+![missing table](/papers/missing_table.svg)
+  
+
+For the above pattern, what is $x$ in this table.
+
+- $24$ 
+- $26$ 
+- $32$  
+- $30$ 
+- $28$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 4 + (5-1) \times 6 \\\\
+&= 4 + 4 \times 6 \\\\
+&= 4 + 24 \\\\
+&= 28
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>V</p>
+</div>
+<div class='answer'>
+
+$28$
+
+</div>
+</div>
+
 </div>
 </li>
 </ul>

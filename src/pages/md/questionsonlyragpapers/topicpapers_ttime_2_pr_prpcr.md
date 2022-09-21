@@ -1,129 +1,26 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-ttime-2-pr-prpcr"
 title: "TopicPaper - Time - 2 - PR - PRPCR"
-date: 2022-09-09 06:32:25
-questions_count: "4"
+date: 2022-09-21 20:47:03
+questions_count: "16"
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_pr rag_prpcr question'>
-<div class='uuid'>
-<p>907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1</p>
-</div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:3</p>
-</div>
-<div class='rag'>
-<p>Puttaraja Hosalli</p>
-</div>
-<div class='rag'>
-<p>rag_ph_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prpcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Shanghai in China is $8 hours$ ahead of the time in the UK. If it is $09.00$ in the UK, what time is it in Shanghai?
 
 </div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Shanghai in China is $8 hours$ ahead of the time in the UK. If it is $09.00$ in the UK, what time is it in Shanghai?
-</code></pre>
-</div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Write hours in KATEX text      
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1' id='FORM-907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1'>Initial</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_pr rag_prpcr question'>
-<div class='uuid'>
-<p>5F835DBB-CCED-48B0-B76D-D2F01B1FC0FB</p>
-</div>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-a:1:19</p>
-</div>
-<div class='rag'>
-<p>Puttaraja Hosalli</p>
-</div>
-<div class='rag'>
-<p>rag_ph_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prpcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-<li>
-tdraw
-</li>
-</ul>
-</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A new design for a novelty watch gives the time in $24-\text{hour}$ clock format by showing a particular combination of lights 
@@ -131,18 +28,8 @@ below a set of numbers. The lit-up numbers are added together to find the actual
 
 For example, the display below represents the time $05{:}26$ since: 
 
-![missing image](/papers/missing_image.svg)
+![dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-19-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-19-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-19-00.png")
 
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>A new design for a novelty watch gives the time in $24-\text{hour}$ clock format by showing a particular combination of lights 
-below a set of numbers. The lit-up numbers are added together to find the actual time, with the first row showing the hour and the second row displaying the minutes.
-<emptyline>
-For example, the display below represents the time $05{:}26$ since: 
-<emptyline>
-%image%
-</code></pre>
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
@@ -151,15 +38,8 @@ For example, the display below represents the time $05{:}26$ since:
 
 Write down the time in ($24-\text{hour}$ format) represented by the display:
 
-![missing image](/papers/missing_image.svg)
+![dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-19-subquestion-1-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-19-subquestion-1-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-19-subquestion-1-00.png")
 
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Write down the time in ($24-\text{hour}$ format) represented by the display:
-<emptyline>
-%image%
-</code></pre>
 </div>
 
 </div>
@@ -170,15 +50,8 @@ Write down the time in ($24-\text{hour}$ format) represented by the display:
 
 Mark the grid below to show the time "a quarter to ten in the evening"
 
-![missing image](/papers/missing_image.svg)
+![dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-19-subquestion-2-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-19-subquestion-2-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-19-subquestion-2-00.png")
 
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Mark the grid below to show the time "a quarter to ten in the evening"
-<emptyline>
-%image%
-</code></pre>
 </div>
 
 </div>
@@ -189,117 +62,24 @@ Mark the grid below to show the time "a quarter to ten in the evening"
 
 Calculate how long it is between the times displayed on watch A and watch B below:
 
-![missing image](/papers/missing_image.svg)
+![dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-19-subquestion-3-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-19-subquestion-3-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-19-subquestion-3-00.png")
+![dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-19-subquestion-3-01.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-19-subquestion-3-01.png "dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-19-subquestion-3-01.png")
 
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Calculate how long it is between the times displayed on watch A and watch B below:
-<emptyline>
-%image%
-%image%
-</code></pre>
 </div>
 
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [na] Date:2022-09-08::23:48
-
-
-
-part a) Write \"in\" inside (24-hour format)
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5F835DBB-CCED-48B0-B76D-D2F01B1FC0FB' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5F835DBB-CCED-48B0-B76D-D2F01B1FC0FB' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5F835DBB-CCED-48B0-B76D-D2F01B1FC0FB' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5F835DBB-CCED-48B0-B76D-D2F01B1FC0FB' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5F835DBB-CCED-48B0-B76D-D2F01B1FC0FB' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5F835DBB-CCED-48B0-B76D-D2F01B1FC0FB' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5F835DBB-CCED-48B0-B76D-D2F01B1FC0FB' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5F835DBB-CCED-48B0-B76D-D2F01B1FC0FB' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5F835DBB-CCED-48B0-B76D-D2F01B1FC0FB' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5F835DBB-CCED-48B0-B76D-D2F01B1FC0FB' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='5F835DBB-CCED-48B0-B76D-D2F01B1FC0FB' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='5F835DBB-CCED-48B0-B76D-D2F01B1FC0FB' id='FORM-5F835DBB-CCED-48B0-B76D-D2F01B1FC0FB' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-5F835DBB-CCED-48B0-B76D-D2F01B1FC0FB'>Initial</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_pr rag_prpcr question'>
-<div class='uuid'>
-<p>87100C80-7419-46D8-A123-F5A2D5ECF629</p>
-</div>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-c:1:11</p>
-</div>
-<div class='rag'>
-<p>Puttaraja Hosalli</p>
-</div>
-<div class='rag'>
-<p>rag_ph_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prpcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A sleeper train leaves London at $22{:}45$ and reaches Aberdeen at $06{:}30$ the next morning.
 
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>A sleeper train leaves London at $22{:}45$ and reaches Aberdeen at $06{:}30$ the next morning.
-</code></pre>
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
@@ -308,10 +88,6 @@ A sleeper train leaves London at $22{:}45$ and reaches Aberdeen at $06{:}30$ the
 
 Work out how long the journey takes in hours and minutes.
 
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Work out how long the journey takes in hours and minutes.
-</code></pre>
 </div>
 
 </div>
@@ -326,115 +102,20 @@ Hong Kong is $7 \ \text{hours}$ ahead of London (i.e., when the time is $13{:}00
 Work out what the local time is in Hong Kong when the flight lands. Give your answer in $24 \ \text{hour}$ format.
 
 </div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>A jumbo jet also leaves London at $22{:}45$ and takes a total of $11 \ \text{hours } 35 \ \text{minutes}$ to fly to Hong Kong. 
-Hong Kong is $7 \ \text{hours}$ ahead of London (i.e., when the time is $13{:}00$ in London, it is $20{:}00$ in Hong Kong).
-<emptyline>
-Work out what the local time is in Hong Kong when the flight lands. Give your answer in $24 \ \text{hour}$ format.
-</code></pre>
-</div>
 
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [na] Date:2022-09-09::00:08
-
-
-
-Part a) 
-
-hours ==> $\text{hours}$
-
-minutes ==> $\text{minutes}$
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='87100C80-7419-46D8-A123-F5A2D5ECF629' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='87100C80-7419-46D8-A123-F5A2D5ECF629' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='87100C80-7419-46D8-A123-F5A2D5ECF629' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='87100C80-7419-46D8-A123-F5A2D5ECF629' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='87100C80-7419-46D8-A123-F5A2D5ECF629' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='87100C80-7419-46D8-A123-F5A2D5ECF629' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='87100C80-7419-46D8-A123-F5A2D5ECF629' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='87100C80-7419-46D8-A123-F5A2D5ECF629' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='87100C80-7419-46D8-A123-F5A2D5ECF629' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='87100C80-7419-46D8-A123-F5A2D5ECF629' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='87100C80-7419-46D8-A123-F5A2D5ECF629' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='87100C80-7419-46D8-A123-F5A2D5ECF629' id='FORM-87100C80-7419-46D8-A123-F5A2D5ECF629' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-87100C80-7419-46D8-A123-F5A2D5ECF629'>Initial</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_pr rag_prpcr question'>
-<div class='uuid'>
-<p>E5936295-077E-4EE6-87AB-C6DED7D9335C</p>
-</div>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-h:1:11</p>
-</div>
-<div class='rag'>
-<p>Puttaraja Hosalli</p>
-</div>
-<div class='rag'>
-<p>rag_ph_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prpcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 %empty%
 
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
@@ -443,10 +124,6 @@ ttime
 
 Rosa takes $37 \ \text{minutes}$ to travel to work each morning. She leaves home at $8.15 \ \text{a.m.}$ What time does she arrive at work? 
 
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Rosa takes $37 \ \text{minutes}$ to travel to work each morning. She leaves home at $8.15 \ \text{a.m.}$ What time does she arrive at work? 
-</code></pre>
 </div>
 
 </div>
@@ -458,74 +135,356 @@ Rosa takes $37 \ \text{minutes}$ to travel to work each morning. She leaves home
 The journey home in the evening takes the same time. She arrives home at $6.23 \ \text{p.m.}$. At what time did she leave work? 
 
 </div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>The journey home in the evening takes the same time. She arrives home at $6.23 \ \text{p.m.}$. At what time did she leave work? 
-</code></pre>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcr question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Daniela is travelling from London to Birmingham.
+
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+The distance from London to Birmingham is $189.5 \ \text{km}$. Convert the distance she istravelling to meters. 
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+The journey takes $2.25 \ \text{hours}$, if Daniela leaves London at $10.18 \ \text{am}$, what time will she arrives in Birmingham? 
+
 </div>
 
 </div>
 </li>
 </ul>
-<div class='review-comments'>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcr question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
 
-<h4>Review Comments</h4>
+Here is part of a railway timetable
 
+| London King's Cross | $10 \ 30$ | $11 \ 30$ | $12 \ 35$ | $13 \ 25$ | $14 \ 30$ |
+|:-------------------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|     Peterborough    | $11 \ 24$ | $12 \ 35$ | $13 \ 27$ | $14 \ 15$ | $15 \ 45$ |
+|      Newcastle      | $13 \ 36$ | $14 \ 58$ | $15 \ 39$ | $17 \ 05$ | $17 \ 30$ |
 
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
 
+How long does it take the $10 30$ from London to reach Peterborough?
 
-Reviewer: [na] Date:2022-09-08::22:52
-
-
-
-two full stops after 6:23 pm, remove one of them.
 </div>
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E5936295-077E-4EE6-87AB-C6DED7D9335C' onclick='submitReview(event)'>PRCC</button>
+</div>
 </li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E5936295-077E-4EE6-87AB-C6DED7D9335C' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E5936295-077E-4EE6-87AB-C6DED7D9335C' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E5936295-077E-4EE6-87AB-C6DED7D9335C' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E5936295-077E-4EE6-87AB-C6DED7D9335C' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E5936295-077E-4EE6-87AB-C6DED7D9335C' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E5936295-077E-4EE6-87AB-C6DED7D9335C' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E5936295-077E-4EE6-87AB-C6DED7D9335C' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E5936295-077E-4EE6-87AB-C6DED7D9335C' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E5936295-077E-4EE6-87AB-C6DED7D9335C' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='E5936295-077E-4EE6-87AB-C6DED7D9335C' onclick='resetComment(event)'>Reset Comments</button>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+If you set off from home on the $11.30$ train from King’s Cross and
+travelled to Newcastle before taking another $1 \ \text{hour}$ and $38 \ \text{minutes}$ to
+finish your jorney home at what time would you arrive home?
+
+</div>
+
+</div>
 </li>
 </ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='E5936295-077E-4EE6-87AB-C6DED7D9335C' id='FORM-E5936295-077E-4EE6-87AB-C6DED7D9335C' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-E5936295-077E-4EE6-87AB-C6DED7D9335C'>Initial</p>
 </div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcr question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Some people use this rule to work out how many hours’ sleep each night young children need.
+
+Subtract the child’s age in years from $30$, then divide the result by $2$ 
+
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Sanjay is $8$ years old.
+
+Use the rule to work out how many hours’ sleep he needs.
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Lisa is $6$ years old.
+
+She wakes up every morning at $7 \ \text{am}$.
+
+Use the rule to work out what time she needs to go to sleep.
+
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcr question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+I start counting at $19$ and go up to $89$.
+I take one second to say each number.
+How long do I take altogether?
+
+|      A     |      B     |      C     |      D     |      E     |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| 70 Seconds | 71 Seconds | 72 Seconds | 73 Seconds | 74 Seconds |
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcr question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+**Use the clock below**.
+
+![king-henry-viii-school--11-plus--maths--9999--sample-paper-1/section-1-question-12-00.png](/assets/king-henry-viii-school--11-plus--maths--9999--sample-paper-1/section-1-question-12-00.png "king-henry-viii-school--11-plus--maths--9999--sample-paper-1/section-1-question-12-00.png")
+
+One **afternoon**, Eadie looks at the clock.
+Write the time in $12 \ \text{hour}$ clock
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcr question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Eadie has to catch a train at $1710$. How long does she have before the train leaves?
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcr question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+A train leaves Waterloo at $11.35$ and arrives in Portsmouth after one hour and thirty-eight minutes. When does it arrive?
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcr question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+My watch (which is a $12 \ \text{hour}$ watch) gains $3 \ \text{minutes}$ every $2 \ \text{hours}$.
+
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+I set my watch to the correct time at noon on $1^{st}$ January. If I don’t reset it, when will it next show the correct time?
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Mrs Varma’s watch (also a $12 \ \text{hour}$ watch) loses $5 \ \text{minutes}$ every $2 \ \text{hours}$. She also sets her watch to the correct time at noon on $1^{st}$ January.
+
+When will our two watches next show the same time?
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+When will our watches next show the same, **correct** time?
+
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcr question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Part of the TV programme schedule for Saturday morning is shown below.
+
+$8.25\ \text{Rugrats}$
+
+$8.50\ \text{Smart Guy}$
+
+$9.15\ \text{Live and Kicking}$ 
+
+$12.10\ \text{BBC News; Weather}$
+
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+For how many $\text{minutes}$ does the programme Smart Guy last?
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Carla wants to record *Live* and *Kicking*. She thinks that the $180\ \text{minute}$ tape she has will be long enough. How many spare minutes will be left on the tape after recording *Live* and *Kicking*.
+
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcr question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+The timetable shows the times of $3$ trains travelling from Birmingham to Leicester in the afternoon.
+
+**Birmingham New Street-Nuneaton-Narborough-Leicester**
+
+|                           |  *Train 1*      |  *Train 2*     |  *Train 3*     |
+|-----------------------    |:-----------:    |:----------:    |:----------:    |
+| Birmingham New Street     | $16\:\: 03$     | $16\:\:20$     | $17\:\:07$     |
+| Nuneaton                  | $16\:\: 30$     | $16\:\:58$     | $17\:\:36$     |
+| Narborough                | $16\:\: 45$     | $17\:\:11$     | $17\:\:50$     |
+| Leicester                 | $16\:\:56$      | $17\:\:25$     | $18\:\:03$     |
+
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Which train is the slowest?
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Which train should Mrs Brown catch if she wants to be back in Leicester by $5 \ \text{pm}$?
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How long does train $3$ take from Birmingham New Street to Leicester? Give you answer in minutes.
+
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcr question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+*Ten green bottles hanging on a wall*
+
+*Ten green bottles hanging on a wall*
+
+*If one green bottle should accidentally fall,* 
+
+*There'd be nine green bottles hanging on the wall*
+
+*Nine green bottles...*
+
+If the first bottle fell at ten past five in the morning $(5.10 \ \text{am})$ and the others fell down at five minute 
+intervals, at what time would the last bottle fall?
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcr question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+A child's heart beats $80$ times per minute. How many times will it beat between $05{:}30$ and $15{:}30$ on the same day.
+
+</div>
+
 </div>
 </li>
 </ul>

@@ -1,34 +1,14 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-ttemperature-1-pr-prpcr"
 title: "TopicPaper - Temperature - 1 - PR - PRPCR"
-date: 2022-09-09 06:32:25
-questions_count: "2"
+date: 2022-09-21 20:47:03
+questions_count: "7"
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_pr rag_prpcr question'>
-<div class='uuid'>
-<p>4EE0BEE2-497E-407A-8E96-B9E684AA0A05</p>
-</div>
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:2:12</p>
-</div>
-<div class='rag'>
-<p>Puttaraja Hosalli</p>
-</div>
-<div class='rag'>
-<p>rag_ph_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prpcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttemperature
-</li>
-</ul>
-</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 When the wind blows it feels colder.
@@ -48,124 +28,19 @@ The first row is done for you.
 
 
 </div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>When the wind blows it feels colder.
-<emptyline>
-The stronger the wind blows, the colder it feels.
-<emptyline>
-Fill in the gaps in the table.
-<emptyline>
-The first row is done for you.
-<emptyline>
-|  Wind Strength  | Temperature out of the wind ( $ \degree C $) | How much **colder** it feels in the wind ( $\degree C$)  | Temperature it feels in the wind ( $ \degree C $) |
-|:---------------:|:--------------------------------------------:|:--------------------------------------------------------:|:-------------------------------------------------:|
-| Moderate breeze |                      $5$                     |                    $7$ degrees colder                    |                       $ -2 $                      |
-|   Fresh breeze  |                     $-8$                     |                    $11$ degrees colder                   |                      $\ldots$                     |
-|  Strong breeze  |                     $-4$                     |                $\ldots \ $ degrees colder                |                       $-20$                       |
-|       Gale      |                   $\ldots$                   |                    $23$ degrees colder                   |                       $-45$                       |
-<emptyline>
-</code></pre>
-</div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-06::14:47
-
-
-
-C should be in \text{}
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4EE0BEE2-497E-407A-8E96-B9E684AA0A05' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4EE0BEE2-497E-407A-8E96-B9E684AA0A05' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4EE0BEE2-497E-407A-8E96-B9E684AA0A05' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4EE0BEE2-497E-407A-8E96-B9E684AA0A05' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4EE0BEE2-497E-407A-8E96-B9E684AA0A05' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4EE0BEE2-497E-407A-8E96-B9E684AA0A05' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4EE0BEE2-497E-407A-8E96-B9E684AA0A05' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4EE0BEE2-497E-407A-8E96-B9E684AA0A05' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4EE0BEE2-497E-407A-8E96-B9E684AA0A05' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4EE0BEE2-497E-407A-8E96-B9E684AA0A05' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='4EE0BEE2-497E-407A-8E96-B9E684AA0A05' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='4EE0BEE2-497E-407A-8E96-B9E684AA0A05' id='FORM-4EE0BEE2-497E-407A-8E96-B9E684AA0A05' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-4EE0BEE2-497E-407A-8E96-B9E684AA0A05'>Initial</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_pr rag_prpcr question'>
-<div class='uuid'>
-<p>769EDE45-5C4E-4FA8-B1BF-32600F0B0875</p>
-</div>
-<div class='papername'>
-<p>csse--11-plus--maths--2015--sample-paper-2:1:8</p>
-</div>
-<div class='rag'>
-<p>Puttaraja Hosalli</p>
-</div>
-<div class='rag'>
-<p>rag_ph_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prpcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttemperature
-</li>
-</ul>
-</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Ola is looking at the scale on a thermometer.
 
-![missing image](/papers/missing_image.svg)
+![csse--11-plus--maths--2015--sample-paper-2/section-1-question-8-00.png](/assets/csse--11-plus--maths--2015--sample-paper-2/section-1-question-8-00.png "csse--11-plus--maths--2015--sample-paper-2/section-1-question-8-00.png")
 
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Ola is looking at the scale on a thermometer.
-<emptyline>
-%image%
-</code></pre>
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
@@ -174,10 +49,6 @@ Ola is looking at the scale on a thermometer.
 
 What is the value on the scale at $A$?
 
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>What is the value on the scale at $A$?
-</code></pre>
 </div>
 
 </div>
@@ -189,10 +60,6 @@ What is the value on the scale at $A$?
 What is the value on the scale at $B$?
 
 </div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>What is the value on the scale at $B$?
-</code></pre>
-</div>
 
 </div>
 </li>
@@ -202,10 +69,6 @@ What is the value on the scale at $B$?
 
 What is the value of $A - B$?
 
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>What is the value of $A - B$?
-</code></pre>
 </div>
 
 </div>
@@ -217,61 +80,260 @@ What is the value of $A - B$?
 What is the value of $A + B$?
 
 </div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>What is the value of $A + B$?
-</code></pre>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcr question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Temperatures were taken on one day in each of five cities. The results are shown in the table.
+
+|    City    | Temperature at midnight | Temperature at midday |
+|:----------:|:-----------------------:|:---------------------:|
+|   Bristol  |    $ 2\ \degree \ C$    |   $ 8\ \degree \ C$   |
+| Manchester |    $ -2\ \degree \ C$   |   $ 8\ \degree \ C$   |
+|  Liverpool |    $ -4\ \degree \ C$   |   $ 7\ \degree \ C$   |
+|   Norwich  |    $ -3\ \degree \ C$   |   $ -1\ \degree \ C$  |
+|    York    |    $ -7\ \degree \ C$   |   $ 2\ \degree \ C$   |
+
+
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Which city had the lowest temperature at midnight? 
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Which city had the greatest rise in temperature between midnight and midday? 
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What is the greatest difference in temperature between any two cities at midnight? 
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Which of the five cities is being described here?
+
+‘It’s temperature at midday is $6 \degree \text{C}$ higher than the 
+temperature in York and its temperature at midnight is $2 \degree \text{C}$ higher than the temperature in Liverpool’. 
+
 </div>
 
 </div>
 </li>
 </ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcr question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='769EDE45-5C4E-4FA8-B1BF-32600F0B0875' onclick='submitReview(event)'>PRCC</button>
+There are high mountains in Nepal.
+
+At different heights, the temperature is different.
+
+The graph shows information about temperatures in one month.
+
+![leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4/section-1-question-15-00.png](/assets/leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4/section-1-question-15-00.png "leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4/section-1-question-15-00.png")
+
+For example:
+
+At $1000\ \text{metres}$, the maximum temperature is $30\degree\text{C}$.
+
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+At $\bold{3000\ \text{metres}}$, what is the **minimum** temperature?
+
+</div>
+
+</div>
 </li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='769EDE45-5C4E-4FA8-B1BF-32600F0B0875' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='769EDE45-5C4E-4FA8-B1BF-32600F0B0875' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='769EDE45-5C4E-4FA8-B1BF-32600F0B0875' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='769EDE45-5C4E-4FA8-B1BF-32600F0B0875' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='769EDE45-5C4E-4FA8-B1BF-32600F0B0875' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='769EDE45-5C4E-4FA8-B1BF-32600F0B0875' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='769EDE45-5C4E-4FA8-B1BF-32600F0B0875' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='769EDE45-5C4E-4FA8-B1BF-32600F0B0875' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='769EDE45-5C4E-4FA8-B1BF-32600F0B0875' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-uuid='769EDE45-5C4E-4FA8-B1BF-32600F0B0875' onclick='resetComment(event)'>Reset Comments</button>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+At $\bold{5000\ \text{metres}}$, the minimum temperature is $-3\degree\text{C}$.
+
+The **range** in temperature is $15\degree\text{C}$.
+
+On the graph above, draw a bar to show this information.
+
+</div>
+
+</div>
 </li>
 </ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='769EDE45-5C4E-4FA8-B1BF-32600F0B0875' id='FORM-769EDE45-5C4E-4FA8-B1BF-32600F0B0875' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-769EDE45-5C4E-4FA8-B1BF-32600F0B0875'>Initial</p>
 </div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcr question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+At noon the temperature is $3$ degrees Celsius and it rises at a steady $1.5$ degrees per hour throughout the afternoon.
+
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What will the temperature be at $1500 \ \text{hrs}$?
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+From $1800 \ \text{hrs}$ the temperature begins to fall at a steady rate so that by midnight it is $-3$ degrees and continues to 
+fall at this same rate through the rest of the night.
+
+What will the temperature be by $0400 \ \text{hrs}$?
+
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcr question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+%empty%
+
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What temperature is $12$ degrees colder than $-4 \degree \text{C}$?
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Raj is overdrawn at the bank by $\pounds 40$. His sister Sarina is richer than him by $\pounds 70$. How much money does Sarina have?
+
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcr question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+A gardener measures the night time temperatures over two evenings and records the results in the table shown below:
+
+|                  | **Monday Temperature in degrees Centigrade** | **Tuesday Temperature in degree Centigrade** |
+|------------------|----------------------------------------------|----------------------------------------------|
+| $ 10\ \text{pm}$ |                      $3$                     |                      $2$                     |
+| $ 11\ \text{pm}$ |                      $3$                     |                      $1$                     |
+| $ 12\ \text{am}$ |                      $2$                     |                      $1$                     |
+| $ 1\ \text{am}$  |                      $1$                     |                      $0$                     |
+| $ 2\ \text{am}$  |                      $0$                     |                     $-1$                     |
+| $ 3\ \text{am}$  |                     $-2$                     |                     $-3$                     |
+| $ 4\ \text{am}$  |                     $-1$                     |                     $-1$                     |
+| $ 5\ \text{am}$  |                      $0$                     |                      $0$                     |
+| $ 6\ \text{am}$  |                      $1$                     |                      $2$                     |
+| $ 7\ \text{am}$  |                      $2$                     |                      $4$                     |
+
+
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+At what time and on which day was the lowest temperature recorded?
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What was the difference between the lowest and highest temperature on Tuesday?
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+He realises his thermometer is recording incorrectly and that each temperature should be $5 \degree \text{C}$ lower than was recorded. 
+What is the correct temperature at $1 \ \text{am}$ on Monday?
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+On Wednesday the forecast is for all temperatures to drop by $3 \degree \text{C}$ from what they were on Tuesday. 
+Bearing in mind his thermometer is broken, what will the actual temperature be on Wednesday at $2 \ \text{am}$?
+
+</div>
+
+</div>
+</li>
+</ul>
 </div>
 </li>
 </ul>

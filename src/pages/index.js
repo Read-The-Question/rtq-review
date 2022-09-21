@@ -1664,7 +1664,7 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h2 style={h2HeadingStyles}>
-        Answers - Review - RAG Papers
+      Questions - Review - RAG Papers
       </h2>
 
       <h3 style={headingStyles}>
@@ -1719,7 +1719,7 @@ const IndexPage = ({data}) => {
 
 
       <h2 style={h2HeadingStyles}>
-        Answers - Complete Papers
+      Questions - Complete Papers
       </h2>
 
       <h3 style={headingStyles}>

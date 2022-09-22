@@ -1,0 +1,1517 @@
+---
+slug: "ragpapers/topicpapers-tnumber-2-pr-prcc"
+title: "TopicPaper - Number - 2 - PR - PRCC"
+date: 2022-09-21 20:40:31
+questions_count: "11"
+---
+<ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_pr rag_prcc question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Show your working when answering these questions.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$454 + 297 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+        &  4  &  5  &  4 \\
+    {}+ &  2  &  9  &  7 \\
+    \hline
+        &  7  &  5  &  1
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$751$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$604 - 447 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+        &  6  &  0  &  4 \\
+    {}- &  4  &  4  &  7 \\
+    \hline
+        &  1  &  5  &  7 
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$157$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$32 \times 74 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+     &           &  3  &  2 \\
+     & {}\times  &  7  &  4 \\
+\hline
+     &  1        &  2  &  8 \\
+2    &  2        &  4  &  0 \\
+\hline 
+2    &  3        &  6  &  8
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2368$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$4184 \div 8 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 4184 \div 8  \\\\
+&= \dfrac{4184}{8} \\\\
+&= \dfrac{523 \times 8}{8} \\\\
+&= \dfrac{523 \times \cancel{8}}{\cancel{8}} \\\\
+&= 523
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$523$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prcc question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Show your working when answering these questions:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$274 + 398 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+        &  2  &  7  &  4 \\
+    {}+ &  3  &  9  &  8 \\
+    \hline
+        &  6  &  7  &  2 
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$672$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$708 - 444 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+        &  7  &  0  &  8 \\
+    {}- &  4  &  4  &  4 \\
+    \hline
+        &  2  &  6  &  4 
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$264$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$23 \times 47 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+      &           &  2  &  3 \\
+      & {}\times  &  4  &  7 \\
+\hline
+      &  1        &  6  &  1 \\
+      &  9        &  2  &  0 \\
+\hline 
+1     &  0        &  8  &  1
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1081$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$5058 \div 6 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 5058 \div 6 \\\\
+&= \dfrac{5058}{6} \\\\
+&= \dfrac{843 \times 6}{6} \\\\
+&= \dfrac{843 \times \cancel{6}}{\cancel{6}} \\\\
+&= 843
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$843$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prcc question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Each of the following statements is false!
+
+In each statement, at least one zero has been missed out.
+
+Adapt each statement by inserting the smallest possible numbers of zeros to make it true.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$52 + 41 = 543$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$5 \ \boxed{\green{0}} \ 2 + 41 = 543$
+
+Lets verify.
+
+$
+\begin{aligned}
+&= 502 + 41 \\\\
+&= 543
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5 \ \boxed{\green{0}} \ 2 + 41 = 543$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$163 + 71 = 1764$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1 \ \boxed{\green{0}} \ 63 + 7 \ \boxed{\green{0}} \ 1 = 1764$
+
+Lets verify.
+
+$
+\begin{aligned}
+&= 1063 + 701 \\\\
+&= 1764
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1 \ \boxed{\green{0}} \ 63 + 7 \ \boxed{\green{0}} \ 1 = 1764$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$126 + 234 = 144$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$12 \ \boxed{\green{0}} \ 6 + 234 = 144 \ \boxed{\green{0}}$
+
+Lets verify.
+
+$
+\begin{aligned}
+&= 1206 + 234 \\\\
+&= 1440
+\end{aligned}
+$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12 \ \boxed{\green{0}} \ 6 + 234 = 144 \ \boxed{\green{0}}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$1 - 499 = 51$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1 \ \boxed{\green{0}\green{0}\green{0}} - 499 = 5 \ \boxed{\green{0}} \ 1$
+
+Lets verify.
+
+$
+\begin{aligned}
+&= 1000 - 499 \\\\
+&= 501
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1 \ \boxed{\green{0}\green{0}\green{0}} - 499 = 5 \ \boxed{\green{0}} \ 1$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$32 - 114 = 1898$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$3 \ \boxed{\green{0}\green{0}} \ 2 - 11 \ \boxed{\green{0}} \ 4 = 1898$
+
+Lets verify.
+
+$
+\begin{aligned}
+&= 3002 - 1104 \\\\
+&= 1898
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3 \ \boxed{\green{0}\green{0}} \ 2 - 11 \ \boxed{\green{0}} \ 4 = 1898$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prcc question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Fill in the missing numbers in the boxes.
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$123 - \boxed{\phantom{5555}} = 78$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$123 - \boxed{\green{45}} = 78$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$( 24 \div 3 ) + ( 12 \div 12 ) = \boxed{\phantom{5555}}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= ( 24 \div 3 ) + ( 12 \div 12 ) \\\\
+&= \dfrac{24}{3} + \dfrac{12}{12} \\\\
+&= \dfrac{8 \times 3}{3} + \dfrac{12}{12} \\\\
+&= \dfrac{8 \times \cancel{3}}{\cancel{3}} + \dfrac{\cancel{12}}{\cancel{12}} \\\\
+&= 8 + 1 \\\\
+&= 9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$18 - \boxed{\phantom{5555}} + 22 = 37$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+18 - a + 22 &= 37 \\\\
+40 - a      &= 37 \\\\
+a           &= 40 - 37 \\\\
+a           &= 3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$\boxed{\phantom{5555}} \times 3 \times 2 \times 1 = 48$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times 3 \times 2 \times 1 &= 48 \\\\
+a \times 6                   &= 48 \\\\
+a                            &= \dfrac {48} {6} \\\\
+a                            &= \dfrac {8 \times 6} {6} \\\\
+a                            &= \dfrac {8 \times \cancel{6}} {\cancel{6}} \\\\
+a                            &= 8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$125 \times 4 = 1000 \div \boxed{\phantom{5555}}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+125 \times 4 &= 1000 \div a \\\\
+125 \times 4 &= \dfrac{1000}{a} \\\\
+500          &= \dfrac{1000}{a} \\\\
+a            &= \dfrac{1000}{500}  \\\\
+a            &= \dfrac{100 \times 10}{500}  \\\\
+a            &= \dfrac{\cancel{500} \times 2}{\cancel{500}}  \\\\
+a            &= 2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$1.1 + 2.2 + 3.3 + 4.4 = \boxed{\phantom{5555}}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 1.1 + 2.2 + 3.3 + 4.4 \\\\
+&= 11
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prcc question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+In the boxes, write the numbers that their arrows are pointing to.
+
+![bancrofts-school--11-plus--maths--2017--sample-paper-3/section-1-question-10-subquestion-1-00.png](/assets/bancrofts-school--11-plus--maths--2017--sample-paper-3/section-1-question-10-subquestion-1-00.png "bancrofts-school--11-plus--maths--2017--sample-paper-3/section-1-question-10-subquestion-1-00.png")
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Add the image with -10 in first box and 45 in the second box.*
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-10 , 45$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Write down (in simplest form) the fraction that the arrow is pointing to.
+
+![bancrofts-school--11-plus--maths--2017--sample-paper-3/section-1-question-10-subquestion-2-00.png](/assets/bancrofts-school--11-plus--maths--2017--sample-paper-3/section-1-question-10-subquestion-2-00.png "bancrofts-school--11-plus--maths--2017--sample-paper-3/section-1-question-10-subquestion-2-00.png")
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {4}{6} \\\\
+&= \dfrac {2 \times 2} {2 \times 3} \\\\
+&= \dfrac {2 \times \cancel {2}} {3 \times \cancel{2}} \\\\
+&= \dfrac {2}{3}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$ \dfrac {2}{3} $
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+There is some liquid in the container.
+
+How many **more** millilitres must be added to fill it up to the $900 \ \text{ml}$ mark?
+
+![bancrofts-school--11-plus--maths--2017--sample-paper-3/section-1-question-10-subquestion-3-00.png](/assets/bancrofts-school--11-plus--maths--2017--sample-paper-3/section-1-question-10-subquestion-3-00.png "bancrofts-school--11-plus--maths--2017--sample-paper-3/section-1-question-10-subquestion-3-00.png")
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Amount of liquid added to fill it up to the 900 ml mark}             &= 360 \div 1000 \\\\
+                                                                           &= \dfrac{360}{1000} \\\\
+                                                                           &= \dfrac{36\cancel{0}}{100\cancel{0}} \\\\
+                                                                           &= \dfrac{36}{100} \\\\
+                                                                           &= 0.36 \ \text{ml}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.36 \ \text{ml}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prcc question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+*ABBR: TODO:: Find the right katex symbol.*
+
+
+Each of the four different symbols stands for a number. 
+
+Work out the number that each symbol stands for.
+
+$\triangle + \triangle + \triangle = 27$
+
+$\triangle + \clubsuit = 26$
+
+$\clubsuit - \heartsuit = 9$ 
+
+$\triangle + \clubsuit + \heartsuit = \diamondsuit$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+9 + 9 + 9 &= 27 \\\\
+9 + 17 &= 26 \\\\
+17 - 8 &= 9 \\\\
+9 + 17 + 8 &= 34
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9, 17, 8, 34$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prcc question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What is the product of the smallest two-digit prime number and the largest two-digit square number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Two-digit prime numbers $= 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97$
+
+Two-digit square numbers $= 16, 25, 36, 49, 64, 81$
+
+$
+\begin{aligned}
+\text{Smallest two-digit prime number} &= 11 \\\\
+\text{Largest two-digit square number} &= 81 \\\\
+\text{Product}              &= 11 \times 81 \\\\
+                                       &= 891 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$891$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$585$ and $7227$ are examples of palindromic numbers as they 
+read the same when the order of their digits is reversed.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+Which three-digit number is palindromic, has the sum of its digits 
+equal to $7$ and has the product of its digits equal to $12$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Three-digit palindromic number with digit sum $7$ and digit product $12 = 232$
+
+Lets verify.
+
+$
+\begin{aligned}
+\text{Sum of digits}         &= 2 + 3 + 2 \\\\
+                             &= 7 \\\\
+\text{Product of digits}     &= 2 \times 3 \times 2 \\\\
+                             &= 12
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$232$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+Which five-digit number is palindromic, has the sum 
+of its digits equal to $27$ and has the product of its digits equal to $0$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Five-digit palindromic number with digit sum $27$ and digit product $0 = 90909$
+
+Lets verify.
+
+$
+\begin{aligned}
+\text{Sum of digits}         &= 9 + 0 + 9 + 0 + 9 \\\\
+                             &= 27 \\\\
+\text{Product of digits}     &= 9 \times 0 \times 9 \times 0 \times 9 \\\\
+                             &= 0
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$90909$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prcc question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$105$ has $3$ prime factors. List them. 
+
+A factor of $105$ is a number that divides (goes into) $105$. 
+A prime number is a number whose only factors are itself and $1$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Factors}          &= 1, 3, 5, 7, 15, 21, 35, 105 \\\\
+\text{Prime Factors}    &= 3, 5, 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3, 5, 7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$105$ has $8$ factors in total. List all the factors of $105$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Factors} &= 1, 3, 5, 7, 15, 21, 35, 105
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1, 3, 5, 7, 15, 21, 35, 105$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Write down the prime factors of $66$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Factors}          &= 1, 2, 3, 6, 11, 22, 33, 66 \\\\
+\text{Prime factors}    &= 2, 3, 11
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2, 3, 11$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How many factors does $66$ have in total?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Factors}  &= 1, 2, 3, 6, 11, 22, 33, 66 \\\\
+\text{Count}    &= 8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prcc question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+By writing a $1$ digit number in the big box and an 
+operation $(+ , - , \times \text{ or } \div )$ in the small box, make 
+the following calculation true.
+
+$
+\boxed{\phantom{\ 1 \ }} \ 
+\boxed{\phantom{\ 1 \ }} \ 
+(3 - \dfrac{8}{3}) = 24
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$8 \div (3 - \dfrac{8}{3}) = 24$
+
+Lets verify.
+
+$
+\begin{aligned}
+&= 8 \div (3 - \dfrac{8}{3}) \\\\
+&= 8 \div (\dfrac{9 - 8}{3}) \\\\
+&= 8 \div (\dfrac{1}{3}) \\\\
+&= 8 \times 3 \\\\
+&= 24
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8, \div $
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prcc question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+** THIS PAPER IS SAME AS bancrofts-school--11-plus--maths--2018--sample-paper-4 **
+
+** SECTIONS ARE DIFFERENT, WILL HAVE TO FIGURE OUT HOW TO SHARE QUESTONS BETWEEN PAPERS **
+
+Fill in the missing numbers in the boxes.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$2018 - \boxed{\phantom{5555}} = 1989$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$2018 - \boxed{\green{29}} = 1989$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$29$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$0.5 \div \dfrac{1}{2} = \boxed{\phantom{5555}}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 0.5 \div \dfrac{1}{2} \\\\
+&= \dfrac{1}{2} \div \dfrac{1}{2} \\\\
+&= \dfrac{1 \times 2}{2 \times 1} \\\\
+&= \dfrac{\cancel{1} \times \cancel{2}}{\cancel{2} \times \cancel{1}} \\\\
+&= 1
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$18 + \boxed{\phantom{5555}} + 23 = 67$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+18 + a + 23 &= 67 \\\\
+a + 41      &= 67 \\\\
+a           &= 67 - 41 \\\\
+a           &= 26
+\end{aligned}
+$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$26$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$\boxed{\phantom{5555}} \times 5 \times 10 = 4500$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times 5 \times 10    &= 4500 \\\\
+a                       &= \dfrac{4500} {5 \times 10} \\\\
+a                       &= \dfrac{90 \times 5 \times 10} {5 \times 10} \\\\
+a                       &= \dfrac{90 \times \cancel {5} \times \cancel {10}} {\cancel {5} \times \cancel {10}} \\\\
+a                       &= 90
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$90$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$\dfrac{3}{4}$ of $36 = \boxed{\phantom{5555}}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac{3}{4} \text { of } 36  \\\\
+&= \dfrac{3}{4} \times 36 \\\\
+&= \dfrac{3 \times 9 \times 4}{4} \\\\
+&= \dfrac{3 \times 9 \times \cancel{4}}{\cancel{4}} \\\\
+&= 27
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$27$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Write in figures the number two million, two 
+hundred and two.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$2000202$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+2000202
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prcc question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Multiply $2018$ by $17$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+          &  2  &  0  &  1  &  8 \\
+{}\times  &     &     &  1  &  7 \\
+\hline
+1         &  4  &  1  &  2  &  6 \\
+2         &  0  &  1  &  8  &  0 \\
+\hline 
+3         &  4  &  3  &  0  &  6
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$34306$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>

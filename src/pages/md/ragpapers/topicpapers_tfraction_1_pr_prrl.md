@@ -1,0 +1,428 @@
+---
+slug: "ragpapers/topicpapers-tfraction-1-pr-prrl"
+title: "TopicPaper - Fraction - 1 - PR - PRRL"
+date: 2022-09-21 20:40:31
+questions_count: "5"
+---
+<ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_pr rag_prrl question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Write down the decimal number that the arrow is pointing to:
+
+![bancrofts-school--11-plus--maths--2016--sample-paper-2/section-1-question-9-subquestion-1-00.png](/assets/bancrofts-school--11-plus--maths--2016--sample-paper-2/section-1-question-9-subquestion-1-00.png "bancrofts-school--11-plus--maths--2016--sample-paper-2/section-1-question-9-subquestion-1-00.png")
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$0.7$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Write down (in simplest form) the fraction that the arrow is pointing to:
+
+![bancrofts-school--11-plus--maths--2016--sample-paper-2/section-1-question-9-subquestion-2-00.png](/assets/bancrofts-school--11-plus--maths--2016--sample-paper-2/section-1-question-9-subquestion-2-00.png "bancrofts-school--11-plus--maths--2016--sample-paper-2/section-1-question-9-subquestion-2-00.png")
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {1} {2} \bigg ( \dfrac {3} {10} + \dfrac {1} {2} \bigg ) \\\\
+&= \dfrac {1} {2} \bigg ( \dfrac {3} {10} + \dfrac {5} {2 \times 5} \bigg ) \\\\
+&= \dfrac {1} {2} \bigg ( \dfrac {3} {10} + \dfrac {5} {10} \bigg ) \\\\
+&= \dfrac {1} {2} \bigg ( \dfrac {3 + 5} {10} \bigg ) \\\\
+&= \dfrac {1} {2} \bigg ( \dfrac {8} {10} \bigg ) \\\\
+&= \dfrac {8} {2 \times 10} \\\\
+&= \dfrac {\cancel{2} \times 4} {\cancel{2} \times 10} \\\\
+&= \dfrac {4} {10}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {4} {10}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+%empty%
+
+</div>
+
+
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+The jug contains water up to the level shown in the diagram. How many millilitres (ml) of water are in the jug?
+
+![bancrofts-school--11-plus--maths--2016--sample-paper-2/section-1-question-9-subquestion-3--subsubquestion-1--00.png](/assets/bancrofts-school--11-plus--maths--2016--sample-paper-2/section-1-question-9-subquestion-3--subsubquestion-1--00.png "bancrofts-school--11-plus--maths--2016--sample-paper-2/section-1-question-9-subquestion-3--subsubquestion-1--00.png")
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Water in five divisions}     &= 1 \text {litre} \\\\
+\text {Water in one division}       &= \dfrac {1} {5} \\\\
+\text {Level of water}              &= \text {Water in 9 divisions} \\\\
+                                    &= 9 \times \text {Water in one division} \\\\
+                                    &= 9 \times \dfrac {1} {5} \\\\
+                                    &= \dfrac {9} {5} \\\\
+                                    &= 1.8 \text {litres} \\\\
+                                    &= 1.8 * 100 \text{millilitres} \\\\
+                                    &= 1800 \text{ml}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1800 \text {ml}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+Chan now empties the jug of water by pouring equal amounts into six identical empty beakers. 
+One of the beakers is shown in the diagram.
+
+Draw a line on the beaker to indicate the level of water in it.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Water in each beaker}                      &= \dfrac {\text{total water}} {\text{total beakers}} \\\\
+                                                  &= \dfrac {1800} {6} \\\\
+                                                  &= 300 \text {ml} \\\\
+\text {Water in one division of beaker}           &= \dfrac {\text{total capacity}} {\text{number of divisions}} \\\\
+                                                  &= \dfrac {400} {8} \\\\
+                                                  &= \dfrac {8 \times 50} {8} \\\\
+                                                  &= \dfrac {\cancel{8} \times 50} {\cancel{8}} \\\\
+                                                  &= 50 \\\\
+\text{Number of divisions containing 300ml water} &= \dfrac {300} {50} \\\\
+                                                  &= \dfrac {50 \times 6} {50} \\\\
+                                                  &= \dfrac {\cancel{50} \times 6} {50} \\\\
+                                                  &= 6
+\end{aligned}
+$
+
+6th division is to be marked.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prrl question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Even though the method of cancelling shown below is incorrect, the student has got the correct answer by chance. Can you find a similar fraction which will cancel down to give $\dfrac{2}{5}$?
+
+![city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-20-00.png](/assets/city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-20-00.png "city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-20-00.png")
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\dfrac{4}{10}$
+
+Lets verify.
+
+$
+\begin{aligned}
+&= \dfrac{4}{10} \\\\
+&= \dfrac{2 \times 2}{2 \times 5} \\\\
+&= \dfrac{\cancel{2} \times 2}{\cancel{2} \times 5} \\\\
+&= \dfrac{2}{5} 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{4}{10}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prrl question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What fraction of the above design is shaded? Give your fraction in its simplest form.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Fraction shaded}  &= \dfrac {4} {12} \\\\
+                        &= \dfrac {4} {4 \times 3} \\\\
+                        &= \dfrac {\cancel{4}} {\cancel{4} \times 3} \\\\
+                        &= \dfrac {1} {3}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {3}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How many more of the hexagons need to be shaded so that $\dfrac{3} {4}$ of the design is shaded? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Fraction shaded}  &= \dfrac {3} {4} \times 12  - 4 \\\\
+                        &= \dfrac {3 \times 12} {4} - 4 \\\\
+                        &= \dfrac {3 \times 3 \times 4} {4} - 4 \\\\
+                        &= \dfrac {3 \times 3 \times \cancel{4}} {\cancel{4}} - 4 \\\\
+                        &= 3 \times 3- 4 \\\\
+                        &= 9 - 4 \\\\
+                        &= 5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What fraction of the large rectangle below is shaded?
+
+![city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-8-subquestion-3-00.png](/assets/city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-8-subquestion-3-00.png "city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-8-subquestion-3-00.png")
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {total shaded boxes}      &= 3 + 1 + 1 + \dfrac {1} {2} \\\\
+                                &= 5 + \dfrac {1} {2} \\\\
+                                &= \dfrac {5 \times 2} {2} + \dfrac {1} {2} \\\\
+                                &= \dfrac {10} {2} + \dfrac {1} {2} \\\\
+                                &= \dfrac {11} {2}
+\text {fraction of area shaded} &= \dfrac {11} {2} \times \dfrac {1} {8} \\\\
+                                &= \dfrac {11} {2 \times 8} \\\\
+                                &= \dfrac {11} {16}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {11} {16}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prrl question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Shade in $\dfrac{3}{5}$ of this shape.
+
+![city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1/section-1-question-9-00.png](/assets/city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1/section-1-question-9-00.png "city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1/section-1-question-9-00.png")
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Shaded Portion} &= 1 - \drac{6}{8} \\\\
+                      &= \dfrac{8-6}{8}  \\\\
+                      &= \dfrac{2}{8} \\\\
+                      &= \dfrac{1 \times 2}{2 \times 4} \\\\
+                      &= \dfrac{1 \times \cancel{2}}{\cancel{2} \times 4} \\\\
+                      &= \dfrac{1}{4}
+\end{aligned}
+$  
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{1}{4}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prrl question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+This diagram shows a regular hexagon.
+
+![city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1/section-2-question-11-00.png](/assets/city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1/section-2-question-11-00.png "city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1/section-2-question-11-00.png")
+
+What fraction of the hexagon is shaded? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>

@@ -1,0 +1,32 @@
+---
+slug: "questionsonlyragpapers/topicpapers-tdetailedsubtraction-1-pr-prcr"
+title: "TopicPaper - Detailedsubtraction - 1 - PR - PRCR"
+date: 2022-09-21 20:47:03
+questions_count: "2"
+---
+<ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_pr rag_prcr question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Work out $10000 - 4769$
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prcr question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Calculate $6 - 4.226$.
+
+</div>
+
+</div>
+</li>
+</ul>

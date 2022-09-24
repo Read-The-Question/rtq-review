@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-a"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper A"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "23"
 ---
 <div class='paper'>
@@ -443,7 +443,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -480,7 +480,7 @@ Write down the fraction of the school children who liked tennis, giving your ans
 
 $
 \begin{aligned}
-\text{Fraction of children who liked tennis}    &= \dfrac {45} {360} \\\\
+\text{Children who liked tennis}                &= \dfrac {45} {360} \\\\
                                                 &= \dfrac {45} {45 \times 8} \\\\
                                                 &= \dfrac {\cancel {45}} {\cancel {45}  \times 8} \\\\
                                                 &= \dfrac {1} {8}
@@ -511,11 +511,10 @@ A total of $240$ children were asked to complete the survey. Calculate how many 
 
 $
 \begin{aligned}
-\text{Number of children who liked cricket}     &= \dfrac {60} {360} \times 240 \\\\
+\text{Children who liked cricket}               &= \dfrac {60} {360} \times 240 \\\\
                                                 &= \dfrac {60 \times 240} {360} \\\\
-                                                &= \dfrac {3 \times 20 \times 120 \times 2} {120 \times 3} \\\\
-                                                &= \dfrac {\cancel 3 \times 20 \times \cancel {120} \times 2} {\cancel {120} \times \cancel 3} \\\\
-                                                &= 20 \times 2 \\\\
+                                                &= \dfrac {60 \times 6 \times 40} {60 \times 6} \\\\
+                                                &= \dfrac {\cancel{60} \times \cancel{6} \times 40} {\cancel{60} \times \cancel{6}} \\\\
                                                 &= 40
 \end{aligned}
 $
@@ -544,7 +543,7 @@ Estimate how many children would say their favorite sport was football out of th
 
 $
 \begin{aligned}
-\text{Number of children who liked football}    &= \dfrac {360 - 90 - 45 - 60 - 30} {360} \times 1200 \\\\
+\text{Children who liked football}              &= \dfrac {360 - 90 - 45 - 60 - 30} {360} \times 1200 \\\\
                                                 &= \dfrac {360 - 225} {360} \times 1200 \\\\
                                                 &= \dfrac {135} {360} \times 1200 \\\\
                                                 &= \dfrac {135 \times 1200} {360} \\\\
@@ -742,7 +741,7 @@ $85 \text {p}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -771,8 +770,8 @@ Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= \dfrac {1} {20}, \quad \dfrac {4} {20}, \quad \dfrac {5} {20}, \quad \dfrac {6} {20}, \quad \dfrac {30} {20} \\\\
-&= \dfrac {1} {20}, \quad \dfrac {1} {5}, \quad \dfrac {1} {4}, \quad \dfrac {3} {10}, \quad \dfrac {3} {2}
+&= \dfrac {1} {20} < \dfrac {4} {20} < \dfrac {5} {20} < \dfrac {6} {20} < \dfrac {30} {20} \\\\
+&= \dfrac {1} {20} < \dfrac {1} {5} < \dfrac {1} {4} < \dfrac {3} {10} < \dfrac {3} {2}
 \end{aligned}
 $
 
@@ -900,7 +899,7 @@ $16$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -999,18 +998,20 @@ Plot another point $D$, and then join $ABCD$ **in that order** so that you can f
 
 
 
-Plot the 4th point on the graph such that it is has only one line of symmetry
+Plot the point D on the graph such that the quadrilateral ABCD becomes a kite with BC as its longer diagonal
 
 
 *ABBR: TODO:: Add drawing ends.*
 
+
+$(3, 7)$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-%empty%
+$(3, 7)$
 
 </div>
 </div>
@@ -1893,7 +1894,7 @@ $12 \ \text{years}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2002,6 +2003,23 @@ $
 Expected number of white flowers $= 5$
 
 </div>
+<div class='working'>
+
+Using whole to part ratio,
+
+$
+\begin{array}{cccccccccccccc}
+  & \text{seeds}                                      &:& \text{white} \\\\
+= & 1 + 2 + 3                                         &:& 1 \\\\
+= & 6                                                 &:& 1 \\\\
+= & 6 \times 5                                        &:& 1 \times 5 \\\\
+= & 30                                                &:& 5
+\end{array}
+$
+
+Expected number of white flowers $= 5$
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -2023,39 +2041,47 @@ In another area of the garden, $24$ blue flowers are grown. Calculate how many p
 <div class='workings'>
 <div class='working'>
 
-Let the expected number of white flowers $= a$
+Let the expected number of pink flowers $= a$
 
-Expected number of pink flowers $= 2a$
-
-Expected number of blue flowers $= 3a$
-
-As per the question,
+Using equivalent ratio,
 
 $
 \begin{aligned}
-a + 2a + 3a         &= 24 \\\\
-6a                  &= 24 \\\\
-a                   &= \dfrac {24} {6} \\\\
-a                   &= \dfrac {6 \times 4} {6} \\\\
-a                   &= \dfrac {\cancel 6 \times 4} {\cancel 6} \\\\
-a                   &= 4
+3 \ \text{blue} : 2 \ \text{pink}               &= 24 \ \text{blue} : a \ \text{pink} \\\\
+\dfrac{3}{2}                                    &= \dfrac {24} {a} \\\\
+3 \times a                                      &= 24 \times 2 \\\\
+a                                               &= \dfrac {24 \times 2} {3} \\\\
+a                                               &= \dfrac {8 \times 3 \times 2} {3} \\\\
+a                                               &= \dfrac {8 \times \cancel 3 \times 2} {\cancel 3} \\\\
+a                                               &= 8 \times 2 \\\\
+a                                               &= 16
 \end{aligned}
 $
 
+Expected number of pink flowers $= 16$
+
+</div>
+<div class='working'>
+
+Using ratio,
+
 $
-\begin{aligned}
-\text{Expected number of pink flowers}      &= 2a \\\\
-                                            &= 2 \times 4 \\\\
-                                            &= 8
-\end{aligned}
-$                                          
+\begin{array}{cccccccccccccc}
+  & \text{blue}                               &:& \text{pink} \\\\
+= & 3                                         &:& 2 \\\\
+= & 3 \times 8                                &:& 2 \times 8 \\\\
+= & 24                                        &:& 16
+\end{array}
+$
+
+Expected number of pink flowers $= 16$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$8$
+$16$
 
 </div>
 </div>
@@ -2083,7 +2109,7 @@ Complete the table and bar chart for the students' findings.
 
 $
 \begin{aligned}
-\text{Number of orange flowers}         &= 150 - 72 - 20 \\\\
+\text{Orange flowers}                   &= 150 - 72 - 20 \\\\
                                         &= 150 - 92 \\\\
                                         &= 58
 \end{aligned}
@@ -2133,27 +2159,33 @@ starting with the least likely:
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Probability}  = \dfrac { \text{ Favourable outcomes} } { \text{Total outcomes} }$
+
+
 $
 \begin{aligned}
-\text{Possibility of picking a red or orange flower}    &= \dfrac {20 + 58} {150} \\\\
-                                                        &= \dfrac {78} {150} \\\\
-\text{Possibility of picking a purple flower}           &= \dfrac {0} {150} \\\\
-\text{Possibility of picking a orange or yellow flower} &= \dfrac {58 + 72} {150} \\\\
-                                                        &= \dfrac {130} {150} \\\\
-\text{Possibility of picking a yellow flower}           &= \dfrac {72} {150}
+\text{red or orange flower}    &= \dfrac {20 + 58} {150} \\\\
+                               &= \dfrac {78} {150} \\\\
+\text{purple flower}           &= \dfrac {0} {150} \\\\
+\text{orange or yellow flower} &= \dfrac {58 + 72} {150} \\\\
+                               &= \dfrac {130} {150} \\\\
+\text{yellow flower}           &= \dfrac {72} {150}
 \end{aligned}
 $
 
 Order of likelihood
 
-(ii), (iv), (i), (iii)
+-  picking a purple flower
+-  picking a yellow flower
+-  picking a red or orange flower
+-  picking an orange or yellow flower
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-(ii), (iv), (i), (iii)
+B, D, A, C
 
 </div>
 </div>

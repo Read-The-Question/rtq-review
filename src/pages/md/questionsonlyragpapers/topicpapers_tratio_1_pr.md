@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tratio-1-pr"
 title: "TopicPaper - Ratio - 1 - PR"
-date: 2022-09-21 20:47:03
+date: 2022-09-24 05:07:09
 questions_count: "39"
 ---
 <ul class='question default-decimal'>

@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tprofit-1"
 title: "TopicPaper - Profit - 1"
-date: 2022-09-21 20:47:03
+date: 2022-09-24 05:07:09
 questions_count: "33"
 ---
 <div class='paper'>
@@ -97,6 +97,8 @@ $200$ items are bought for $\pounds 2.10$. Each are now worth $\pounds 1.61$. Fi
 
 Clarissa buys the sunglasses and a sun hat. 
 How much change, in pounds, does she get from a $\pounds 10$ note?
+
+![bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-10-subquestion-1-00.png](/assets/bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-10-subquestion-1-00.png "bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-10-subquestion-1-00.png")
 
 </div>
 
@@ -375,7 +377,7 @@ A book usually costs $\pounds 18.60$ but it is reduced by $15\%$.How much does i
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-A bicycle at Store $P$ costs $$200$. The regular price of the same bicycle at Store $Q$ is $15\%$ more than it is at Store P. The bicycle is on sale at Store Q for $10\%$ off of the regular price.
+A bicycle at Store $P$ costs $\text{\textdollar} 200$. The regular price of the same bicycle at Store $Q$ is $15\%$ more than it is at Store P. The bicycle is on sale at Store Q for $10\%$ off of the regular price.
 
 What is the sale price of the bicycle at Store $Q$? 
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/james-allens-girls-school-11-plus-maths-2020-sample-paper-2"
 title: "James Allens Girls School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "22"
 ---
 <div class='paper'>
@@ -274,7 +274,7 @@ $9.3 \ \text{kg}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -290,16 +290,28 @@ At which point does the snail finally arrive?
 <div class='workings'>
 <div class='working'>
 
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Draw the path of the snail and also write the length of each path
+
 $
 \begin{aligned}
-\text{Y co-ordinate of snail}   &= 1 N + 3 S + 5 N + 7 S + 9 N \\\\
-                                &= 1 - 3 + 5 - 7 + 9 \\\\
-                                &= 5 \\\\
-\text{X co-ordinate of snail}   &= 2 E + 4 W + 6 E + 8 W + 10 E \\\\
-                                &= 2 - 4 + 6 - 8 + 10 \\\\
-                                &= 6
+\text{x-coordinates}    &= 2 E + 4 W + 6 E + 8 W + 10 E \\\\
+                        &= 2 - 4 + 6 - 8 + 10 \\\\
+                        &= 6 \\\\
+\text{y-coordinates}    &= 1 N + 3 S + 5 N + 7 S + 9 N \\\\
+                        &= 1 - 3 + 5 - 7 + 9 \\\\
+                        &= 5
 \end{aligned}
 $
+
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 Point at which finally snail arrive $= (6, 5)$
 
@@ -1345,7 +1357,7 @@ $75 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1437,14 +1449,14 @@ In which country did $240$ people own a computer?
 
 $
 \begin {aligned}
-\text{Number of computers in pictograph}    &= \dfrac {240} {50} \\\\
+\text{Computers in pictograph}              &= \dfrac {240} {50} \\\\
                                             &= \dfrac {240 \times 2} {50 \times 2} \\\\
                                             &= \dfrac {480} {100} \\\\
                                             &= 4.8
 \end {aligned}
 $
 
-Korea
+Country = Korea
 
 </div>
 </div>

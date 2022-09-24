@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2013-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2013 - Group 2"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "38"
 ---
 <div class='paper'>
@@ -254,7 +254,7 @@ $48$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -267,18 +267,15 @@ $1.905 \quad 1.05 \quad 0.905 \quad 1.005 \quad 1.095$
 <div class='workings'>
 <div class='working'>
 
-Let's write the numbers in order to find the middle number,
+Let's put them in ascending order.
 
 $0.905, \quad 1.005, \quad 1.05, \quad 1.095, \quad 1.905$
 
-$1.05$ is in middle when the numbers are written in size orders.
+Middle number $= 1.05$
 
 </div>
 </div>
 <div class='answers'>
-<div class='option'>
-<p>B</p>
-</div>
 <div class='answer'>
 
 $1.05$

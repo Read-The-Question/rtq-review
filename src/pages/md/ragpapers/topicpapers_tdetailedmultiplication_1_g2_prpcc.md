@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedmultiplication-1-g2-prpcc"
 title: "TopicPaper - Detailedmultiplication - 1 - G2 - PRPCC"
-date: 2022-09-21 20:40:31
+date: 2022-09-24 04:59:20
 questions_count: "4"
 ---
 <ul class='question default-decimal'>

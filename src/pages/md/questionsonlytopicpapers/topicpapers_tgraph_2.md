@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tgraph-2"
 title: "TopicPaper - Graph - 2"
-date: 2022-09-21 20:47:03
+date: 2022-09-24 05:07:09
 questions_count: "40"
 ---
 <div class='paper'>
@@ -746,7 +746,7 @@ Write down the angle of the wedge representing the number of school children who
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write down the number of children who said Rugby was their favourite, giving your answer in its lowest form.
+Write down the fraction of the children who said Rugby was their favourite, giving your answer in its lowest form.
 
 </div>
 

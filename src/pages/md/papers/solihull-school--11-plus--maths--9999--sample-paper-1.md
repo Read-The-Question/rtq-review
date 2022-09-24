@@ -1,7 +1,7 @@
 ---
 slug: "papers/solihull-school-11-plus-maths-9999-sample-paper-1"
 title: "Solihull School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "31"
 ---
 <div class='paper'>
@@ -296,7 +296,7 @@ $75$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -331,7 +331,7 @@ Which is the smallest?
 <div class='workings'>
 <div class='working'>
 
-The smallest number $= 0.09$
+$0.09$
 
 </div>
 </div>
@@ -355,7 +355,7 @@ Which is the largest?
 <div class='workings'>
 <div class='working'>
 
-The largest number $= 0.909$
+$0.909$
 
 </div>
 </div>

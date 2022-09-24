@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2012-sample-paper-3"
 title: "Sevenoaks School - 11 Plus - Maths - 2012 - Sample Paper 3"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "12"
 ---
 <div class='paper'>
@@ -919,7 +919,7 @@ $74$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -952,18 +952,32 @@ The normal price of a TV was $\pounds 600$. Work out the sale price of the TV.
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+$
+\begin {aligned}
+\text {Sale price}  &= \text {Normal Price} - \text {Discount} \\\\
+                    &= 600  - 35\% \ \text{of} \ 600 \\\\
+                    &= 600 - \dfrac {35} {100} \times 600 \\\\
+                    &= 600 - \dfrac {35 \times 600} {100} \\\\
+                    &= 600 - \dfrac {35 \times 6 \cancel {00}} {1 \cancel {00}} \\\\
+                    &= 600 - 35 \times 6 \\\\
+                    &= 600 - 210 \\\\
+                    &= \pounds 390
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+If the price is reduced by $35 \%$, then the new price will be $100 - 35 = 65 \%$ of the original price. Using that, we get
 
 $
 \begin {aligned}
-\text {Sale price of Tv}  &= \text {Normal Price} - \text {Discount} \\\\
-                          &= \pounds 600  - 35\% \ \text{of} \ 600 \\\\
-                          &= 600 - \dfrac {35} {100} \times 600 \\\\
-                          &= 600 - \dfrac {35 \times 600} {100} \\\\
-                          &= 600 - \dfrac {35 \times 6\cancel{00}} {1\cancel {00}} \\\\
-                          &= 600 - 35 \times 6 \\\\
-                          &= 600 - 210 \\\\
-                          &= \pounds 390
+\text {Sale price}  &= 65\% \ \text{of} \ 600 \\\\
+                    &= \dfrac {65} {100} \times 600 \\\\
+                    &= \dfrac {65 \times 600} {100} \\\\
+                    &= \dfrac {65 \times 6 \cancel {00}} {1 \cancel {00}} \\\\
+                    &= 65 \times 6 \\\\
+                    &= \pounds 390
 \end{aligned}
 $
 
@@ -995,13 +1009,13 @@ As per the question,
 
 $
 \begin{aligned}
-35\% \ \text{of} \ a         &= \pounds 140 \\\\
+35\% \ \text{of} \ a         &= 140 \\\\
 \dfrac {35} {100} \times a   &= 140 \\\\
 a                            &= 140 \times \dfrac {100} {35} \\\\
 a                            &= \dfrac {140 \times 100} {35} \\\\
-a                            &= \dfrac {7 \times 2 \times 2 \times 5 \times 100} {7 \times 5} \\\\
-a                            &= \dfrac {\cancel {7} \times 2 \times 2 \times \cancel {5} \times 100} {\cancel {7} \times \cancel {5}} \\\\
-a                            &= 2 \times 2 \times 100 \\\\
+a                            &= \dfrac {35 \times 4 \times 100} {35} \\\\
+a                            &= \dfrac {\cancel {35} \times 4 \times 100} {\cancel {35}} \\\\
+a                            &= 4 \times 100 \\\\
 a                            &= \pounds 400
 \end {aligned}
 $
@@ -1034,24 +1048,25 @@ As per the question,
 
 $ 
 \begin {aligned}
-\text {Normal price }   &= \text {Sale price} + \text {Discount} \\\\
-                        &= \pounds 884 + 35\% \ \text{of} \ 884 \\\\
-                        &= 884 + \dfrac {35} {100} \times 884 \\\\
-                        &= 884 + \dfrac {35 \times 884} {100} \\\\
-                        &= 884 + \dfrac {7 \times 5 \times 2 \times 442} {2 \times 10 \times 5} \\\\
-                        &= 884 + \dfrac {7 \times \cancel {5} \times \cancel {2} \times 442} {\cancel {2} \times 10 \times \cancel {5}} \\\\
-                        &= 884 + \dfrac {3094} {10} \\\\
-                        &= 884 + 309.4 \\\\
-                        &= \pounds 1193.4
+65 \% \ \text{of} \ a             &= 884 \\\\
+\dfrac {65} {100} \times a        &= 884 \\\\
+a                                 &= 884 \times \dfrac {100} {65} \\\\
+a                                 &= \dfrac {884 \times 100} {65} \\\\
+a                                 &= \dfrac {13 \times 68 \times 5 \times 20} {13 \times 5} \\\\
+a                                 &= \dfrac {\cancel {13} \times 68 \times \cancel 5 \times 20} {\cancel {13} \times \cancel 5} \\\\
+a                                 &= 68 \times 20 \\\\
+a                                 &= \pounds 1360
 \end {aligned}
 $
+
+Normal price of a computer $\pounds 1360$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 1193.4$
+$\pounds 1360$
 
 </div>
 </div>

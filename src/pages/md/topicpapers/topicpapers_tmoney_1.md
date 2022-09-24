@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-1"
 title: "TopicPaper - Money - 1"
-date: 2022-09-21 20:40:31
+date: 2022-09-24 04:59:20
 questions_count: "40"
 ---
 <div class='paper'>
@@ -106,6 +106,8 @@ Each ticket cost $\pounds 480$.
 |  Tickets R US | Buy $3$ get $25 \%$ off total price |
 | Ticket Galore |    Buy $1$ get $2$ at $40 \%$ off   |
 |   Top Ticket  |      Buy $2$ get $1$ half price     |
+
+![aldenham-school--11-plus--maths--9999--sample-paper-4/section-1-question-28-00.png](/assets/aldenham-school--11-plus--maths--9999--sample-paper-4/section-1-question-28-00.png "aldenham-school--11-plus--maths--9999--sample-paper-4/section-1-question-28-00.png")
 
 If I needed $3$ tickets, put the vendors in order (cheapest first).
 

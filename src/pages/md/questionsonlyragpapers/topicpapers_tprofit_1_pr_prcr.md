@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tprofit-1-pr-prcr"
 title: "TopicPaper - Profit - 1 - PR - PRCR"
-date: 2022-09-21 20:47:03
+date: 2022-09-24 05:07:09
 questions_count: "30"
 ---
 <ul class='question default-decimal'>
@@ -271,7 +271,7 @@ A book usually costs $\pounds 18.60$ but it is reduced by $15\%$.How much does i
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-A bicycle at Store $P$ costs $$200$. The regular price of the same bicycle at Store $Q$ is $15\%$ more than it is at Store P. The bicycle is on sale at Store Q for $10\%$ off of the regular price.
+A bicycle at Store $P$ costs $\text{\textdollar} 200$. The regular price of the same bicycle at Store $Q$ is $15\%$ more than it is at Store P. The bicycle is on sale at Store Q for $10\%$ off of the regular price.
 
 What is the sale price of the bicycle at Store $Q$? 
 

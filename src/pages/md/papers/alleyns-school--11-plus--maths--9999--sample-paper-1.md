@@ -1,7 +1,7 @@
 ---
 slug: "papers/alleyns-school-11-plus-maths-9999-sample-paper-1"
 title: "Alleyns School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "26"
 ---
 <div class='paper'>
@@ -1069,7 +1069,7 @@ $512$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1270,7 +1270,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1789,8 +1789,6 @@ Farmer Giles has two legs and each of his cows have four legs. In the picture be
 
 Fill in the table below for the total number of legs if Farmer Giles is always present, but the number of cows increases.
 
-![alleyns-school--11-plus--maths--9999--sample-paper-1/section-1-question-20-00.png](/assets/alleyns-school--11-plus--maths--9999--sample-paper-1/section-1-question-20-00.png "alleyns-school--11-plus--maths--9999--sample-paper-1/section-1-question-20-00.png")
-
 |    Number of Cows    | $1$ | $2$ |  $3$ | $4$ | $10$ | $100$ |
 |:--------------------:|:---:|:---:|:----:|:---:|:----:|:-----:|
 | Total Number of Legs | $6$ |     | $14$ |     |      |       |
@@ -1798,8 +1796,6 @@ Fill in the table below for the total number of legs if Farmer Giles is always p
 Hillary is trying to find a formula that links the Number of Cows, $C$, to the number of Legs, $L$. 
 
 Fill in the gaps to help her. 
-
-
 
 </div>
 <div class='workings'>
@@ -2027,7 +2023,7 @@ $1.6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2448,8 +2444,6 @@ $
    \hline
 \end{darray}
 $
-
-![alleyns-school--11-plus--maths--9999--sample-paper-1/section-1-question-26-subquestion-1-00.png](/assets/alleyns-school--11-plus--maths--9999--sample-paper-1/section-1-question-26-subquestion-1-00.png "alleyns-school--11-plus--maths--9999--sample-paper-1/section-1-question-26-subquestion-1-00.png")
 
 </div>
 <div class='workings'>

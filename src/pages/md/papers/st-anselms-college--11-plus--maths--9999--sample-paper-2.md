@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-2"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "24"
 ---
 <div class='paper'>
@@ -1007,7 +1007,7 @@ $\text {North East}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g3 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

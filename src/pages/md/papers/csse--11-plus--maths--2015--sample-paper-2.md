@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2015-sample-paper-2"
 title: "Csse - 11 Plus - Maths - 2015 - Sample Paper 2"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "17"
 ---
 <div class='paper'>
@@ -537,7 +537,7 @@ $19 \ \text{years}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -588,7 +588,7 @@ On the bar chart add the three missing labels under the axis.
 
 
 
-Plot the labels under the axis
+Plot the labels Car, Bike, Bus, Walk and Taki in the order under the axis
 
 
 *ABBR: TODO:: Add drawing ends.*
@@ -622,7 +622,7 @@ Complete the scale on the bar chart adding six values to the axis.
 
 
 
-Complete the scale of the chart
+Write the scale $1 unit = 5$ on the bar chart
 
 
 *ABBR: TODO:: Add drawing ends.*
@@ -704,7 +704,7 @@ On the bar chart add the missing bar.
 
 
 
-Plot the missing bar
+Plot $27$ in the bus column in the bar chart
 
 
 *ABBR: TODO:: Add drawing ends.*
@@ -2510,7 +2510,7 @@ $64$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2569,7 +2569,32 @@ What is the value of $y$?
 <div class='workings'>
 <div class='working'>
 
-$15$
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Show the coordinates of the origin and distance $2, 5, 6$ and $y$
+
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+Using equivalent ratio,
+
+$
+\begin{aligned}
+2 : 5                                           &= 6 : y \\\\
+\dfrac {2} {5}                                  &= \dfrac {6} {y} \\\\
+2 \times y                                      &= 6 \times 5 \\\\
+y                                               &= \dfrac {6 \times 5} {2} \\\\
+y                                               &= \dfrac {2 \times 3 \times 5} {2} \\\\
+y                                               &= \dfrac {\cancel 2 \times 3 \times 5} {\cancel 2} \\\\
+y                                               &= 3 \times 5 \\\\
+y                                               &= 15
+\end{aligned}
+$
 
 </div>
 </div>

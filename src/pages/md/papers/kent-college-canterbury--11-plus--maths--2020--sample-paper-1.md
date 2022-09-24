@@ -1,7 +1,7 @@
 ---
 slug: "papers/kent-college-canterbury-11-plus-maths-2020-sample-paper-1"
 title: "Kent College Canterbury - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "23"
 ---
 <div class='paper'>
@@ -765,7 +765,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -850,8 +850,8 @@ Let's make the units the same for all the numbers, so we can compare them.
 
 $
 \begin{aligned}
-&1 \ \text{m} \ 43 \ \text{cm}, \quad  140 \ \text{cm}, \quad  1 \ \text{m} \ 6 \ \text{cm}, \quad  1423 \ \text{mm} \\\\
-&143 \ \text {cm}, \quad 140 \ \text {cm}, \quad  106  \ \text {cm}, \quad  142.3  \ \text {cm}
+&= 1 \ \text{m} \ 43 \ \text{cm}, \quad  140 \ \text{cm}, \quad  1 \ \text{m} \ 6 \ \text{cm}, \quad  1423 \ \text{mm} \\\\
+&= 143 \ \text {cm}, \quad 140 \ \text {cm}, \quad  106  \ \text {cm}, \quad  142.3  \ \text {cm}
 \end{aligned}
 $
 
@@ -859,8 +859,8 @@ Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&106 \ \text {cm}, \quad 140 \ \text {cm}, \quad  142.3  \ \text {cm}, \quad  143  \ \text {cm} \\\\
-&1 \ \text{m} \ 6 \ \text{cm}, \quad  140 \ \text{cm}, \quad  1423 \ \text{mm}, \quad  1 \ \text{m} \ 43 \ \text{cm}
+&= 106 \ \text {cm} < 140 \ \text {cm} < 142.3  \ \text {cm} < 143  \ \text {cm} \\\\
+&= 1 \ \text{m} \ 6 \ \text{cm} <  140 \ \text{cm} < 1423 \ \text{mm} <  1 \ \text{m} \ 43 \ \text{cm}
 \end{aligned}
 $
 

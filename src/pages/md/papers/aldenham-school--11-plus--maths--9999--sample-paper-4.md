@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-4"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "28"
 ---
 <div class='paper'>
@@ -1489,7 +1489,7 @@ $0.92$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2214,6 +2214,8 @@ Each ticket cost $\pounds 480$.
 |  Tickets R US | Buy $3$ get $25 \%$ off total price |
 | Ticket Galore |    Buy $1$ get $2$ at $40 \%$ off   |
 |   Top Ticket  |      Buy $2$ get $1$ half price     |
+
+![aldenham-school--11-plus--maths--9999--sample-paper-4/section-1-question-28-00.png](/assets/aldenham-school--11-plus--maths--9999--sample-paper-4/section-1-question-28-00.png "aldenham-school--11-plus--maths--9999--sample-paper-4/section-1-question-28-00.png")
 
 If I needed $3$ tickets, put the vendors in order (cheapest first).
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2009-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2009 - Group 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "37"
 ---
 <div class='paper'>
@@ -199,7 +199,7 @@ $\dfrac{2}{3}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -212,9 +212,9 @@ $\dfrac{2}{3},  \quad \dfrac{3}{5},   \quad \dfrac{29}{45}$
 <div class='workings'>
 <div class='working'>
 
-To compare, we can convert all the numbers to fractions, decimals or percentages. 
+Let's make the denominator the same for all the numbers, so we can compare them.
 
-Let's convert all the numbers into fractions.
+LCM for $3, 5, 45 = 45$
 
 $
 \begin{aligned}
@@ -228,11 +228,10 @@ Now let's put them in ascending order.
 
 $
 \begin{aligned}
-&= \dfrac{27}{45},  \quad \dfrac{29}{45},   \quad \dfrac{30}{45} \\\\
-&= \dfrac{3}{5},  \quad \dfrac{29}{45},   \quad \dfrac{2}{3} 
+&= \dfrac{27}{45} < \dfrac{29}{45} < \dfrac{30}{45} \\\\
+&= \dfrac{3}{5} < \dfrac{29}{45} < \dfrac{2}{3} 
 \end{aligned}
 $
-
 
 </div>
 </div>
@@ -247,7 +246,7 @@ $\dfrac{3}{5},  \quad \dfrac{29}{45},   \quad \dfrac{2}{3}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -260,15 +259,7 @@ $0.54     \quad 0.092  \quad    0.635  \quad    0.3$
 <div class='workings'>
 <div class='working'>
 
-As per the Question,
-
-$0.54, \quad 0.092, \quad 0.635, \quad 0.3$
-
-lets Arrange in ascending order.
-
-$0.092, \quad 0.3, \quad 0.54, \quad 0.635$
-
-The  smallest number is $= 0.092$. 
+$0.092$
 
 </div>
 </div>
@@ -1112,7 +1103,7 @@ $21{:}00$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1524,7 +1515,7 @@ $\dfrac {1} {2}$ hour
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1562,7 +1553,7 @@ How many pupils chose Comedy?
 
 $
 \begin{aligned}
-\text{Number of pupils who chose comedy}    &= \dfrac {90} {360} \times 72 \\\\
+\text{Pupils who chose comedy}              &= \dfrac {90} {360} \times 72 \\\\
                                             &= \dfrac {90 \times 72} {360} \\\\
                                             &= \dfrac {90 \times 4 \times 18} {90 \times 4} \\\\
                                             &= \dfrac {\cancel {90} \times \cancel 4 \times 18} {\cancel {90} \times \cancel 4} \\\\
@@ -1591,6 +1582,9 @@ What angle should be in the sector representing Romance?
 </div>
 <div class='workings'>
 <div class='working'>
+
+ABBR: $\text{Angles around a point add up to} = 360 \degree$
+
 
 $
 \begin{aligned}
@@ -1958,7 +1952,7 @@ $72 \ \text{m}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

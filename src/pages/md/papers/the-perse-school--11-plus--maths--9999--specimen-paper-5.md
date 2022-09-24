@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-5"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 5"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "22"
 ---
 <div class='paper'>
@@ -280,7 +280,7 @@ $27 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -315,12 +315,12 @@ What is the largest number he can get?
 <div class='workings'>
 <div class='working'>
 
-Let's arrange the number in descending order,
+Let's put them in ascending order now.
 
 $
 \begin{aligned}
-8 , \quad   16 , \quad   10 , \quad   12 \\\\
-16 , \quad   12 , \quad   10 , \quad   8
+&= 8 , \quad   16 , \quad   10 , \quad   12 \\\\
+&= 16 , \quad   12 , \quad   10 , \quad   8
 \end{aligned}
 $
 
@@ -358,12 +358,12 @@ What is the smallest result?
 <div class='workings'>
 <div class='working'>
 
-Let's arrange the number in ascending order,
+Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&8 , \quad   16 , \quad   10 , \quad   12 \\\\
-&8 , \quad   10 , \quad   12 , \quad   16
+&= 8 , \quad   16 , \quad   10 , \quad   12 \\\\
+&= 8 , \quad   10 , \quad   12 , \quad   16
 \end{aligned}
 $
 
@@ -401,12 +401,12 @@ What division gives the result closest to $1$?
 <div class='workings'>
 <div class='working'>
 
-Let's arrange the number in ascending order,
+Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&8 , \quad   16 , \quad   10 , \quad   12 \\\\
-&8 , \quad   10 , \quad   12 , \quad   16
+&= 8 , \quad   16 , \quad   10 , \quad   12 \\\\
+&= 8 , \quad   10 , \quad   12 , \quad   16
 \end{aligned}
 $
 
@@ -428,8 +428,7 @@ Let's arrange the decimals in ascending order.
 
 $
 \begin{aligned}
-0.8 , \quad 1.25 , \quad 0.83 , \quad 1.2 , \quad 0.75 , \quad 1.33 \\\\
-0.75 , \quad 0.8 , \quad 0.83 , \quad 1.2 , \quad 1.25 , \quad 1.33
+&= 0.75 , \quad 0.8 , \quad 0.83 , \quad 1.2 , \quad 1.25 , \quad 1.33
 \end{aligned}
 $
 
@@ -1337,7 +1336,7 @@ $\dfrac{1} {2}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1377,12 +1376,10 @@ How many more pizzas were sold on Tuesday than on Saturday?
 
 $
 \begin {aligned}
-\text{Difference}       &= 13 - 9 \\\\
-                        &= 4
+\text{Extra pizzas sold}        &= 13 - 9 \\\\
+                                &= 4
 \end {aligned}
 $
-
-$4$ more pizzas were sold on Tuesday than on Saturday.
 
 </div>
 </div>

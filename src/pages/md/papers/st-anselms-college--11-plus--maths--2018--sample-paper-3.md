@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-2018-sample-paper-3"
 title: "St Anselms College - 11 Plus - Maths - 2018 - Sample Paper 3"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "22"
 ---
 <div class='paper'>
@@ -1531,7 +1531,7 @@ $11 \ \text{mm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1544,12 +1544,21 @@ Write the following numbers in order of size, starting with the smallest.
 <div class='workings'>
 <div class='working'>
 
+Let's convert all the numbers into decimals.
+
 $
 \begin{aligned}
 &= 0.2,   \quad \dfrac {3} {10},    \quad 0.21,              \quad \dfrac {37} {100},     \quad 0.36 \\\\
-&= 0.2,   \quad 0.3,                \quad 0.21,              \quad 0.37,                  \quad 0.36 \\\\
-&= 0.2,   \quad 0.21,               \quad 0.3,               \quad 0.36,                  \quad 0.37 \\\\
-&= 0.2,   \quad 0.21,               \quad \dfrac {3} {10},   \quad 0.36,                  \quad \dfrac {37} {100}
+&= 0.2,   \quad 0.3,                \quad 0.21,              \quad 0.37,                  \quad 0.36
+\end{aligned}
+$
+
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= 0.2 < 0.21 < 0.3               < 0.36 < 0.37 \\\\
+&= 0.2 < 0.21 < \dfrac {3} {10}   < 0.36 < \dfrac {37} {100}
 \end{aligned}
 $
 

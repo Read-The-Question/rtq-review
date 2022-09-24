@@ -1,7 +1,7 @@
 ---
 slug: "papers/streatham-and-clapham-high-school-11-plus-maths-2019-sample-paper-2"
 title: "Streatham And Clapham High School - 11 Plus - Maths - 2019 - Sample Paper 2"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "43"
 ---
 <div class='paper'>
@@ -59,7 +59,7 @@ $63$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -78,19 +78,7 @@ $0.6 \quad 0.0061 \quad 0.601 \quad 0.061 \quad 0.6001$
 <div class='workings'>
 <div class='working'>
 
-
-To compare, we can convert all the numbers to fractions, decimals or percentages. 
-
-In this case, there are more decimals than fractions, so let's convert all the numbers into decimals.
-
-$0.6, 0.0061,  0.601, 0.061, 0.6001$
-
-Let's put them in ascending order.
-
-$0.0061, \quad 0.061, \quad 0.6, \quad 0.601, \quad 0.6001$
-
-The largest value $= 0.601$
-
+$0.601$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tnet-1-pr"
 title: "TopicPaper - Net - 1 - PR"
-date: 2022-09-21 20:47:03
+date: 2022-09-24 05:07:09
 questions_count: "28"
 ---
 <ul class='question default-decimal'>
@@ -38,6 +38,7 @@ Which of the following are possible nets for a cube?
 (Write 'yes' or 'no' in each of the spaces provided.)
 
 ![bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-23-subquestion-2-00.png](/assets/bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-23-subquestion-2-00.png "bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-23-subquestion-2-00.png")
+![bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-23-subquestion-2-01.png](/assets/bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-23-subquestion-2-01.png "bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-23-subquestion-2-01.png")
 
 </div>
 
@@ -129,6 +130,7 @@ The diagram shows a pentagonal prism.
 Write the letter of the one shape below that is a net for the pentagonal prism.
 
 ![bancrofts-school--11-plus--maths--2018--sample-paper-4/section-1-question-30-00.png](/assets/bancrofts-school--11-plus--maths--2018--sample-paper-4/section-1-question-30-00.png "bancrofts-school--11-plus--maths--2018--sample-paper-4/section-1-question-30-00.png")
+![bancrofts-school--11-plus--maths--2018--sample-paper-4/section-1-question-30-01.png](/assets/bancrofts-school--11-plus--maths--2018--sample-paper-4/section-1-question-30-01.png "bancrofts-school--11-plus--maths--2018--sample-paper-4/section-1-question-30-01.png")
 
 </div>
 
@@ -143,6 +145,7 @@ Write the letter of the one shape below that is a net for the pentagonal prism.
 Which net cannot be folded to make a triangular prism?
 
 ![bancrofts-school--11-plus--maths--2021--sample-paper-7/section-1-question-28-00.png](/assets/bancrofts-school--11-plus--maths--2021--sample-paper-7/section-1-question-28-00.png "bancrofts-school--11-plus--maths--2021--sample-paper-7/section-1-question-28-00.png")
+![bancrofts-school--11-plus--maths--2021--sample-paper-7/section-1-question-28-01.png](/assets/bancrofts-school--11-plus--maths--2021--sample-paper-7/section-1-question-28-01.png "bancrofts-school--11-plus--maths--2021--sample-paper-7/section-1-question-28-01.png")
 
 </div>
 

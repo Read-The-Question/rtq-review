@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-ttable-2-pr-prcr"
 title: "TopicPaper - Table - 2 - PR - PRCR"
-date: 2022-09-21 20:47:03
+date: 2022-09-24 05:07:09
 questions_count: "9"
 ---
 <ul class='question default-decimal'>

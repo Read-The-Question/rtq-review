@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2021-sample-paper-7"
 title: "Bancrofts School - 11 Plus - Maths - 2021 - Sample Paper 7"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "38"
 ---
 <div class='paper'>
@@ -698,6 +698,7 @@ Which of the following would show how the polecat would
 look if it had been rotated and then reflected in the same way?
 
 ![bancrofts-school--11-plus--maths--2021--sample-paper-7/section-1-question-9-01.png](/assets/bancrofts-school--11-plus--maths--2021--sample-paper-7/section-1-question-9-01.png "bancrofts-school--11-plus--maths--2021--sample-paper-7/section-1-question-9-01.png")
+![bancrofts-school--11-plus--maths--2021--sample-paper-7/section-1-question-9-02.png](/assets/bancrofts-school--11-plus--maths--2021--sample-paper-7/section-1-question-9-02.png "bancrofts-school--11-plus--maths--2021--sample-paper-7/section-1-question-9-02.png")
 
 </div>
 <div class='workings'>
@@ -1526,7 +1527,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g3 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1663,7 +1664,7 @@ $50$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1698,7 +1699,12 @@ How much later did Ben start his journey?
 <div class='workings'>
 <div class='working'>
 
-$30 \ \text{mins}$
+$
+\begin {aligned}
+\text {Time}    &= 12.30 - 12.00 \\\\
+                &= 30 \ \text{mins}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1723,7 +1729,12 @@ passed Anne?
 <div class='workings'>
 <div class='working'>
 
-$5 \ \text{km}$
+$
+\begin {aligned}
+\text {Distance}    &= 27.5 - 22.5 \\\\
+                    &= 5 \ \text{km}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1747,7 +1758,12 @@ How long did Anne stop for?
 <div class='workings'>
 <div class='working'>
 
-$20 \ \text{mins}$
+$
+\begin {aligned}
+\text {Stop time}   &= 12.40 - 12.20 \\\\
+                    &= 20 \ \text{mins}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -2124,6 +2140,7 @@ TODOANSWER
 Which net cannot be folded to make a triangular prism?
 
 ![bancrofts-school--11-plus--maths--2021--sample-paper-7/section-1-question-28-00.png](/assets/bancrofts-school--11-plus--maths--2021--sample-paper-7/section-1-question-28-00.png "bancrofts-school--11-plus--maths--2021--sample-paper-7/section-1-question-28-00.png")
+![bancrofts-school--11-plus--maths--2021--sample-paper-7/section-1-question-28-01.png](/assets/bancrofts-school--11-plus--maths--2021--sample-paper-7/section-1-question-28-01.png "bancrofts-school--11-plus--maths--2021--sample-paper-7/section-1-question-28-01.png")
 
 </div>
 <div class='workings'>
@@ -2603,7 +2620,7 @@ Thursday
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2640,6 +2657,18 @@ What shape is this?
 <div class='workings'>
 <div class='working'>
 
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Plot the points on the graph and join them in order
+
+
+*ABBR: TODO:: Add drawing ends.*
+
+
 Rectangle
 
 </div>
@@ -2673,9 +2702,26 @@ the perimeter of the original square?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
+
+ABBR: $\text{Perimeter of polygon} = \text{Sum of all sides}$
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Plot the octagon and label the side length of all edges
+
+
+*ABBR: TODO:: Add drawing ends.*
+
+
 $
 \begin{aligned}
-\text{Perimeter of square}      &= 3 + 3 + 3 + 3 \\\\
+\text{Perimeter of square}      &= 4 \times 3 \\\\
                                 &= 12 \ \text{cm} \\\\
 \text{Perimeter of octagon}     &= 1 + 4 + 3 + 4 + 1 + 3 + 1 + 3 \\\\
                                 &= 20 \ \text{cm} \\\\

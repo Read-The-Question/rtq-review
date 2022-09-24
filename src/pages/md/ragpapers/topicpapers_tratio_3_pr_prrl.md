@@ -1,8 +1,8 @@
 ---
 slug: "ragpapers/topicpapers-tratio-3-pr-prrl"
 title: "TopicPaper - Ratio - 3 - PR - PRRL"
-date: 2022-09-21 20:40:31
-questions_count: "2"
+date: 2022-09-24 04:59:20
+questions_count: "3"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -208,6 +208,289 @@ $240$
 </div>
 </div>
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prrl question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Morag has a pet mouse, Squeak, shown in the life-size picture below.
+
+![the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1/section-1-question-32-00.png](/assets/the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1/section-1-question-32-00.png "the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1/section-1-question-32-00.png")
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Estimate the length of Squeak, from the tip of his nose to the tip of his tail.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+A $280 \ \text{g}$ packet of mouse food will feed Squeak for $8$ weeks.
+
+What mass of food does Squeak eat each week?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Food Squeak eats per week}      &= \dfrac {280} {8} \\\\
+                                      &= \dfrac {8 \times 35} {8} \\\\
+                                      &= \dfrac {\cancel 8 \times 35} {\cancel 8} \\\\
+                                      &= 35 \ \text{g}
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+Let the mass of food $= a$
+
+Using equivalent ratio,
+
+$
+\begin{aligned}
+8 \ \text{weeks} : 280 \ \text{g}               &= 1 \ \text{weeks} : a \ \text{g} \\\\
+\dfrac{8} {280}                                 &= \dfrac {1} {a} \\\\
+8 \times a                                      &= 280 \\\\
+a                                               &= \dfrac {280} {8} \\\\
+a                                               &= \dfrac {8 \times 35} {8} \\\\
+a                                               &= \dfrac {\cancel 8 \times 35} {\cancel 8} \\\\
+a                                               &= 35 \ \text{g}
+\end{aligned}
+$
+
+Mass of food $35 \ \text{g}$
+
+</div>
+<div class='working'>
+
+Using ratio,
+
+$
+\begin{array}{cccccccccccccc}
+  & \text{weeks}                            &:& \text{food} \\\\
+= & 8                                       &:& 280 \ \text{g} \\\\
+= & 1                                       &:& \dfrac {280} {8} \\\\
+= & 1                                       &:& \dfrac {8 \times 35} {8} \\\\
+= & 1                                       &:& \dfrac {\cancel 8 \times 35} {\cancel 8} \\\\
+= & 1                                       &:& 35 \ \text{g}
+\end{array}
+$
+
+Mass of food $35 \ \text{g}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$35 \ \text{g}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+A $280 \ \text{g}$ packet of mouse food costs $\pounds 2.50$
+
+Work out the cost of feeding Squeak for $2$ years.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Cost of 1 week}           &= \pounds \dfrac {2.5} {8} \\\\
+\text{Cost of 2 years}          &= 2 \times 52 \times \dfrac {2.5} {8} \\\\
+                                &= \dfrac {2 \times 52 \times 2.5} {8} \\\\
+                                &= \dfrac {2 \times 4 \times 13 \times 2.5} {2 \times 4} \\\\
+                                &= \dfrac {\cancel 2 \times \cancel 4 \times 13 \times 2.5} {\cancel 2 \times \cancel 4} \\\\
+                                &= 13 \times 2.5 \\\\
+                                &= \pounds 32.5
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+Let the cost for $2$ years $= a$
+
+Using equivalent ratio,
+
+$
+\begin{aligned}
+8 \ \text{weeks} : \pounds 2.5                  &= 2 \times 52 \ \text{weeks} : \pounds a \\\\
+\dfrac{8} {2.5}                                 &= \dfrac {2 \times 52} {a} \\\\
+8 \times a                                      &= 2 \times 52 \times 2.5 \\\\
+a                                               &= \dfrac {2 \times 52 \times 2.5} {8} \\\\
+a                                               &= \dfrac {2 \times 4 \times 13 \times 2.5} {2 \times 4} \\\\
+a                                               &= \dfrac {\cancel 2 \times \cancel 4 \times 13 \times 2.5} {\cancel 2 \times \cancel 4} \\\\
+a                                               &= 13 \times 2.5 \\\\
+a                                               &= \pounds 32.5
+\end{aligned}
+$
+
+Cost for $2$ years $= \pounds 32.5$
+
+</div>
+<div class='working'>
+
+Using ratio,
+
+$
+\begin{array}{cccccccccccccc}
+  & \text{weeks}                            &:& \text{cost} \\\\
+= & 8                                       &:& \pounds 2.5 \\\\
+= & 1                                       &:& \dfrac {2.5} {8} \\\\
+= & 1 \times 52 \times 2                    &:& \dfrac {2.5 \times 2 \times 52} {8} \\\\
+= & 104                                     &:& \dfrac {25 \times 2 \times 52} {8 \times 10} \\\\
+= & 104                                     &:& \dfrac {25 \times 2 \times 4 \times 13} {4 \times 2 \times 10} \\\\
+= & 104                                     &:& \dfrac {25 \times \cancel 2 \times \cancel 4 \times 13} {\cancel 4 \times \cancel 2 \times 10} \\\\
+= & 104                                     &:& \dfrac {25 \times 13} {10} \\\\
+= & 104                                     &:& \dfrac {325} {10} \\\\
+= & 104                                     &:& \pounds 32.5
+\end{array}
+$
+
+Cost for $2$ years $= \pounds 32.5$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 32.5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Squeak ‘squeaks’ once every $15 \ \text{seconds}$.
+
+He squeaks once at $07{:}30$
+
+How many times will Squeak ‘squeak’ between $07{:}30$ when Morag gets up,and $21{:}30$ when she goes to bed?
+
+*Give your answer to the nearest $500$*
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Number of times Squeak will squeak}         &= \dfrac {21:30 - 7:30} {15} \\\\
+                                                  &= \dfrac {14 \times 60 \times 60} {15} \\\\
+                                                  &= \dfrac {14 \times 60 \times 15 \times 4} {15} \\\\
+                                                  &= \dfrac {14 \times 60 \times \cancel {15} \times 4} {\cancel {15}} \\\\
+                                                  &= 14 \times 60 \times 4 \\\\
+                                                  &= 3360
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+Let the number of times Squeak squeaks $= a$
+
+Using equivalent ratio,
+
+$
+\begin{aligned}
+15 \ \text{seconds} : 1                         &= (21:30 - 7:30) \ \text{seconds} : a \\\\
+15                                              &= \dfrac {21:30 - 7:30} {a} \\\\
+15                                              &= \dfrac {14 \times 60 \times 60} {a} \\\\
+15 \times a                                     &= 14 \times 60 \times 60 \\\\
+a                                               &= \dfrac {14 \times 60 \times 60} {15} \\\\
+a                                               &= \dfrac {14 \times 60 \times 15 \times 4} {15} \\\\
+a                                               &= \dfrac {14 \times 60 \times \cancel {15} \times 4} {\cancel {15}} \\\\
+a                                               &= 14 \times 60 \times 4 \\\\
+a                                               &= 3360
+\end{aligned}
+$
+
+Number of squeaks $= 3360$
+
+</div>
+<div class='working'>
+
+Using ratio,
+
+$
+\begin{array}{cccccccccccccc}
+  & \text{time}                                 &:& \text{squeaks} \\\\
+= & 15 \ \text{s}                               &:& 1 \\\\
+= & 15 \times 4 \times 60 \times 14 \ \text{s}  &:& 4 \times 60 \times 14 \\\\
+= & 14 \ \text{hours}                           &:& 3360
+\end{array}
+$
+
+Number of squeaks $= 3360$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3360$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 </div>
 </li>
 </ul>

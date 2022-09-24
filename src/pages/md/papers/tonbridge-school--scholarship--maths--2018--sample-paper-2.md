@@ -1,7 +1,7 @@
 ---
 slug: "papers/tonbridge-school-scholarship-maths-2018-sample-paper-2"
 title: "Tonbridge School - Scholarship - Maths - 2018 - Sample Paper 2"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "7"
 ---
 <div class='paper'>
@@ -802,7 +802,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

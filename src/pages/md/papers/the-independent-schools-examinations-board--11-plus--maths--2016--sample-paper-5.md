@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2016-sample-paper-5"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2016 - Sample Paper 5"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "22"
 ---
 <div class='paper'>
@@ -1537,7 +1537,7 @@ $93$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1550,10 +1550,7 @@ $27.8 \ \text{km} \quad 2.087 \ \text{km} \quad 2778 \ \text{m} \quad 2.708 \ \t
 <div class='workings'>
 <div class='working'>
 
-ABBR: It is really important to use the right units in calculations and convert where required
-.
-
-To compare, let's convert all the units to $\text {km}$. 
+Let's convert all the units into km. 
 
 $
 \begin{aligned}
@@ -1563,12 +1560,12 @@ $
 \end{aligned}
 $
 
-Let's put them from smallest to largest.
+Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= 2.087 \ \text {km}, \quad 2.708 \ \text {km}, \quad 2.778 \ \text {km}, \quad 27.8 \ \text {km} \\\\
-&= 2.087 \ \text {km}, \quad 2.708 \ \text {km}, \quad 2778 \ \text {m}, \quad 27.8 \ \text {km}
+&= 2.087 \ \text {km} < 2.708 \ \text {km} < 2.778 \ \text {km} < 27.8 \ \text {km} \\\\
+&= 2.087 \ \text {km} < 2.708 \ \text {km} < 2778 \ \text {m} < 27.8 \ \text {km}
 \end{aligned}
 $
 

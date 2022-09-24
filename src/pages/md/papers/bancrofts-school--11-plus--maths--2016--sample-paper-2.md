@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2016-sample-paper-2"
 title: "Bancrofts School - 11 Plus - Maths - 2016 - Sample Paper 2"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "37"
 ---
 <div class='paper'>
@@ -2240,7 +2240,7 @@ $36 \ \text{degrees}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2354,7 +2354,7 @@ $\dfrac {2} {3}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2425,7 +2425,18 @@ Plot the line between the point B and point C
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(4, 3)$
+$
+\begin {aligned}
+\text{x-coordinates}    &= \dfrac {2 + 6} {2} \\\\
+                        &= \dfrac {8} {2} \\\\
+                        &= 4 \\\\
+\text{y-coordinates}    &= \dfrac {0 + 6} {2} \\\\
+                        &= \dfrac {6} {2} \\\\
+                        &= 3
+\end {aligned}
+$
+
+Coordinates $= (4, 3)$
 
 </div>
 </div>

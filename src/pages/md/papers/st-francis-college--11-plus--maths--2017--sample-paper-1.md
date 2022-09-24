@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-francis-college-11-plus-maths-2017-sample-paper-1"
 title: "St Francis College - 11 Plus - Maths - 2017 - Sample Paper 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "38"
 ---
 <div class='paper'>
@@ -219,7 +219,7 @@ $47$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g3 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -669,7 +669,7 @@ $35\degree \text{C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -702,20 +702,14 @@ $2.34\:\:\:  2.4\:\:\:   3.42\:\:\:   2.43\:\:\:   4.3\:\:\:$
 <div class='workings'>
 <div class='working'>
 
-Since all values ae in similar form i.e. decimal 
-
-So, we can write directly in acending order
-
-$
-2.34\:\:\:  2.4\:\:\:   2.43\:\:\:   3.42\:\:\:   4.3\:\:\:
-$
+$2.34, \quad  2.4, \quad 2.43, \quad 3.42, \quad  4.3$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$ 2.34\:\:\:  2.4\:\:\:   2.43\:\:\:   3.42\:\:\:   4.3\:\:\: $
+$2.34, \quad  2.4, \quad 2.43, \quad 3.42, \quad  4.3$
 
 </div>
 </div>
@@ -732,23 +726,12 @@ $\dfrac{1}{2}\:\:\:    0.55\:\:\:   48\%\:\:\:     \dfrac{2}{5}\:\:\:       0.46
 <div class='workings'>
 <div class='working'>
 
-To compare, we can convert all the numbers to fractions, decimals or percentages. 
+Let's convert all the numbers into decimals.
 
-In this case, there are more fractions, so let's convert all the numbers into fractions.
 $
 \begin{aligned}
 &= \dfrac {1} {2}, \quad 0.55, \quad 48\%, \quad \dfrac {2} {5}, \quad 0.467 \\\\
-&= \dfrac {1} {2}, \quad \dfrac {55} {100}, \quad \dfrac {48} {100}, \quad \dfrac {2} {5}, \quad \dfrac {467} {1000}
-\end{aligned}
-$
-
-LCM for $2, 100, 100, 5, 1000 = 1000$
-
-Let's use the LCM result to make the denominator the same for all the fractions. 
-$
-\begin{aligned}
-&= \dfrac {1 \times 500} {2 \times 500}, \quad \dfrac {55 \times 10} {100 \times 10}, \quad \dfrac {48 \times 10} {100 \times 10}, \quad \dfrac {2 \times 200} {5 \times 200}, \quad \dfrac {467 } {1000 } \\\\
-&= \dfrac {500} {1000}, \quad \dfrac {550} {1000}, \quad \dfrac {480} {1000}, \quad \dfrac {400} {1000}, \quad \dfrac {467} {1000}
+&= 0.5, \quad 0.55, \quad 0.48, \quad 0.4, \quad 0.467
 \end{aligned}
 $
 
@@ -756,12 +739,9 @@ Now let's put them in ascending order.
 
 $
 \begin{aligned}
-&= \dfrac {400} {1000}, \quad \dfrac {467} {1000}, \quad \dfrac {480} {1000}, \quad \dfrac {500} {1000}, \quad \dfrac {550} {1000}
+&= 0.4 < 0.467 < 0.48 < 0.5 < 0.55 \\\\
+&= \dfrac {2} {5} < 0.467 < 48\% < \dfrac {1} {2} < 0.55 
 \end{aligned}
-$
-
-$
-&= \dfrac {2} {5}, \quad 0.467, \quad 48\%, \quad \dfrac {1} {2}, \quad 0.55 
 $
 
 </div>
@@ -908,7 +888,7 @@ $\dfrac {3} {4}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

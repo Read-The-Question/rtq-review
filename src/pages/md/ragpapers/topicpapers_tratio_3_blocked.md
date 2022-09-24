@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tratio-3-blocked"
 title: "TopicPaper - Ratio - 3 - BLOCKED"
-date: 2022-09-21 20:40:31
+date: 2022-09-24 04:59:20
 questions_count: "6"
 ---
 <ul class='question default-decimal'>

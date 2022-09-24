@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-school-11-plus-maths-2008-sample-paper-group-2"
 title: "City Of London School - 11 Plus - Maths - 2008 - Sample Paper Group 2"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "26"
 ---
 <div class='paper'>
@@ -196,7 +196,7 @@ $10$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -314,13 +314,12 @@ Show your working.
 
 $
 \begin{aligned}
-\text{Greatest height of Marc}      &= \left( \dfrac {\text{Mother's height} + \text{Father's height}} {2} + 7 \right) + 10 \\\\
-                                    &= \left( \dfrac {168 + 194} {2} + 7 \right) + 10 \\\\
-                                    &= \left( \dfrac {362} {2} + 7 \right) + 10 \\\\
-                                    &= \left( \dfrac {2 \times 181} {2} + 7 \right) + 10 \\\\
-                                    &= \left( \dfrac {\cancel 2 \times 181} {\cancel 2} + 7 \right) + 10 \\\\
-                                    &= (181 + 7) + 10 \\\\
-                                    &= 188 + 10 \\\\
+\text{Max height of Marc}           &= \dfrac {1} {2} \times (168 + 194) + 7 + 10 \\\\
+                                    &= \dfrac {168 + 194} {2} + 17  \\\\
+                                    &= \dfrac {362} {2} + 17 \\\\
+                                    &= \dfrac {2 \times 181} {2} + 17 \\\\
+                                    &= \dfrac {\cancel 2 \times 181} {\cancel 2} + 17 \\\\
+                                    &= 181 + 17 \\\\
                                     &= 198 \ \text{cm}
 \end{aligned}
 $
@@ -341,7 +340,7 @@ $191 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -380,7 +379,18 @@ P is ($\ldots$ , $\ldots$ )
 <div class='workings'>
 <div class='working'>
 
-$(60, 60)$
+$
+\begin {aligned}
+\text{x-coordinates}    &= \dfrac {0 + 120} {2} \\\\
+                        &= \dfrac {120} {2} \\\\
+                        &= 60 \\\\
+\text{y-coordinates}    &= \dfrac {120 + 0} {2} \\\\
+                        &= \dfrac {120} {2} \\\\
+                        &= 60
+\end {aligned}
+$
+
+Coordinates $= (60, 60)$
 
 </div>
 </div>
@@ -414,9 +424,28 @@ N is ($\ldots$ , $\ldots$ )
 <div class='workings'>
 <div class='working'>
 
-M is $(0, 100)$
+Let the coordinates of M $= (0, b)$
 
-N is $(60, 0)$
+Let the coordinates of N $= (a, 0)$
+
+As per the question,
+
+$
+\begin {aligned}
+\dfrac {0 + a} {2}          &= 30 \\\\
+\dfrac {a} {2}              &= 30 \\\\
+a                           &= 30 \times 2 \\\\
+a                           &= 60 \\\\
+\dfrac {b + 0} {2}          &= 50 \\\\
+\dfrac {b} {2}              &= 50 \\\\
+b                           &= 50 \times 2 \\\\
+b                           &= 100
+\end {aligned}
+$
+
+Coordinates of M $= (0, 100)$
+
+Coordinates of N $= (60, 0)$
 
 </div>
 </div>

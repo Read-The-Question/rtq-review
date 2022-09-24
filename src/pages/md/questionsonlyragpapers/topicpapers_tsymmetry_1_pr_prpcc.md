@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tsymmetry-1-pr-prpcc"
 title: "TopicPaper - Symmetry - 1 - PR - PRPCC"
-date: 2022-09-21 20:47:03
+date: 2022-09-24 05:07:09
 questions_count: "1"
 ---
 <ul class='question default-decimal'>

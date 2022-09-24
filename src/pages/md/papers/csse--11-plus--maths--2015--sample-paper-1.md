@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2015-sample-paper-1"
 title: "Csse - 11 Plus - Maths - 2015 - Sample Paper 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "24"
 ---
 <div class='paper'>
@@ -586,7 +586,7 @@ $5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -649,8 +649,8 @@ How many children had more than two cousins?
 
 $
 \begin {aligned}
-\text {Children that have more than two cousins} &= 5 + 3 \\\\
-                                                 &= 8
+\text {Number of children} &= 5 + 3 \\\\
+                           &= 8
 \end {aligned}
 $
 

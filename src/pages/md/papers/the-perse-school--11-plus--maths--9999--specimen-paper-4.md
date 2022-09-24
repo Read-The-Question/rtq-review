@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-4"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 4"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "21"
 ---
 <div class='paper'>
@@ -334,7 +334,7 @@ $3 \ \text{cm}, 2 \ \text{cm}, 12 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1438,7 +1438,7 @@ $130 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1476,7 +1476,7 @@ Tosco and Sunbury are two supermarket chains. They each sell a variety of differ
 
 $
 \begin {aligned}
-\text{Amount of Brie sold by Tosco}     &= \dfrac {90} {360} \times 300 \\\\
+\text{Brie sold by Tosco}               &= \dfrac {90} {360} \times 300 \\\\
                                         &= \dfrac {90 \times 300} {360} \\\\
                                         &= \dfrac {90 \times 4 \times 75} {90 \times 4} \\\\
                                         &= \dfrac {\cancel {90} \times \cancel 4 \times 75} {\cancel {90} \times \cancel 4} \\\\
@@ -1506,18 +1506,18 @@ Stuart says that Tosco sold more Gloucester cheese, in one week, that Sunbury. E
 <div class='workings'>
 <div class='working'>
 
-The angle of Gloucester cheese sector in Tosco is almost same as in Sunbury Supermarket but total amount is much more in Sunbury Supermarket
+The angle of Gloucester cheese sector in Tosco is almost the same as in Sunbury Supermarket. 
 
-Therefore Stuart may be wrong because Sunbury sold more Gloucester cheese than Tosco Supermarket.
+But the total amount of cheese sold is more in Sunbury Supermarket and so Gloucester cheese sold will be more more too.
+
+Therefore Stuart may be wrong.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-The angle of Gloucester cheese sector in Tosco is almost same as in Sunbury Supermarket but total amount is much more in Sunbury Supermarket
-
-Therefore Stuart may be wrong because Sunbury sold more Gloucester cheese than Tosco Supermarket.
+%empty%
 
 </div>
 </div>

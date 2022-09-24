@@ -1,7 +1,7 @@
 ---
 slug: "papers/streatham-and-clapham-high-school-11-plus-maths-9999-sample-paper-1"
 title: "Streatham And Clapham High School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "46"
 ---
 <div class='paper'>
@@ -203,7 +203,7 @@ $36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -222,14 +222,7 @@ $0.0073   \quad 0.073  \quad 0.008   \quad 0.7098   \quad 0.7$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
-Let's arrange the given numbers in ascending order.
-
-$0.0073, \quad 0.008, \quad 0.073, \quad 0.7, \quad 0.7098$
-
-The  largest value  $= 0.7098$. 
-
+$0.7098$
 
 </div>
 </div>
@@ -239,7 +232,7 @@ The  largest value  $= 0.7098$.
 </div>
 <div class='answer'>
 
-$= 0.7098$
+$0.7098$
 
 </div>
 </div>

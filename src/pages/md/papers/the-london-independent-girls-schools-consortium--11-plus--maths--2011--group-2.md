@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2011-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2011 - Group 2"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "40"
 ---
 <div class='paper'>
@@ -496,7 +496,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -553,13 +553,7 @@ Complete the table below.
 <div class='answers'>
 <div class='answer'>
 
-|   Hair Colour   |   Number of Girls   |
-|:---------------:|:-------------------:|
-|      Black      |         $11$        |
-|    Dark brown   |         $15$        |
-|   Light brown   |         $9$         |
-|      Blonde     |         $10$        |
-|       Red       |         $5$         |
+Red $=$ $5$
 
 </div>
 </div>
@@ -578,13 +572,13 @@ What percentage of girls have brown hair?
 
 $
 \begin{aligned}
-\text{Percentage of girl having brown hair}     &= \dfrac {9 + 15} {11 + 15 + 9 + 10 + 5} \times 100 \\\\
+\text{\% of girl with brown hair}               &= \dfrac {9 + 15} {11 + 15 + 9 + 10 + 5} \times 100 \\\\
                                                 &= \dfrac {24} {50} \times 100 \\\\
                                                 &= \dfrac {24 \times 100} {50} \\\\
                                                 &= \dfrac {24 \times 50 \times 2} {50} \\\\
                                                 &= \dfrac {24 \times \cancel {50} \times 2} {\cancel {50}} \\\\
                                                 &= 24 \times 2 \\\\
-                                                &= 48 \ \%
+                                                &= 48 \%
 \end{aligned}
 $
 
@@ -593,7 +587,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$48 \ \%$
+$48 \%$
 
 </div>
 </div>

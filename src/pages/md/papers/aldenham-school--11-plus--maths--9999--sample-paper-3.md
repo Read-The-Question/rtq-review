@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-3"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 3"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "25"
 ---
 <div class='paper'>
@@ -440,7 +440,7 @@ $500$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -453,10 +453,10 @@ $200$ items are bought for $\pounds 2.10$. Each are now worth $\pounds 1.61$. Fi
 
 $
 \begin{aligned}
-\text{Loss for} \ 1 \ \text{item}     &= 2.10 - 1.61 \\\\
-                                      &= 0.49 \\\\
-\text{Loss for} \ 200 \ \text{items}  &= 0.49 \times 200 \\\\
-                                      &= \pounds 98
+\text{Loss for 1 item}     &= 2.10 - 1.61 \\\\
+                           &= 0.49 \\\\
+\text{Loss for 200 items}  &= 0.49 \times 200 \\\\
+                           &= \pounds 98
 \end{aligned}
 $
 
@@ -663,7 +663,7 @@ $68 \ \text {miles/hour}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g3 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1361,7 +1361,7 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g3 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tvolume-1"
 title: "TopicPaper - Volume - 1"
-date: 2022-09-21 20:40:31
+date: 2022-09-24 04:59:20
 questions_count: "40"
 ---
 <div class='paper'>
@@ -167,6 +167,8 @@ $27$
 A cube has each of its faces covered by one face of an identical cube, making the solid shape shown.
 
 The volume of the solid shape is $875 \ \text{cm}^3$. 
+
+![bancrofts-school--11-plus--maths--2018--sample-paper-4/section-1-question-22-00.png](/assets/bancrofts-school--11-plus--maths--2018--sample-paper-4/section-1-question-22-00.png "bancrofts-school--11-plus--maths--2018--sample-paper-4/section-1-question-22-00.png")
 
 </div>
 <div class='workings'>

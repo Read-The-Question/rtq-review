@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-talgebra-2-pr"
 title: "TopicPaper - Algebra - 2 - PR"
-date: 2022-09-21 20:47:03
+date: 2022-09-24 05:07:09
 questions_count: "30"
 ---
 <ul class='question default-decimal'>

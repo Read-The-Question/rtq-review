@@ -1,154 +1,10 @@
 ---
 slug: "ragpapers/topicpapers-tprofit-1-notstarted"
 title: "TopicPaper - Profit - 1 - NOTSTARTED"
-date: 2022-09-21 20:40:31
-questions_count: "16"
+date: 2022-09-24 04:59:20
+questions_count: "14"
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Clarissa buys the sunglasses and a sun hat. 
-How much change, in pounds, does she get from a $\pounds 10$ note?
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Jo and Aisha bought identical jeans from a market stall. 
-
-Jo got $10 \%$ discount of the full price. 
-
-Aisha got $15 \%$ discount of the full price. Jo paid $\pounds 1.20$ more than Aisha. 
-
-What was the full price of the jeans?
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
-Asif wants to buy a computer game that costs $\pounds 32.99$ in the shop but decides to wait until there is a sale.
-In the sale Asif buys the computer game for $\pounds 25.62$. How much money did he save?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= 32.99 - 25.62 \\\\
-&= \pounds 7.37
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 7.37$
-
-</div>
-</div>
-
-</div>
-</li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <!-- - if !options[:questions_only] -->
@@ -159,26 +15,16 @@ A coat is advertised on a discount website. The original price is $\pounds 120$.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -191,26 +37,43 @@ Ashok buys the coat for sale at '$40\%$ off'. How much does he pay for it?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Sale price}  &= \text {Original price} - \text {Discount} \\\\
+                   &= 120 - 40 \% \times 120  \\\\
+                   &= 120 - \dfrac {40} {100} \times 120 \\\\
+                   &= 120 - \dfrac {40 \times 120} {100} \\\\
+                   &= 120 - \dfrac {4 \cancel 0 \times 12 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
+                   &= 120 - 4 \times 12 \\\\
+                   &= 120 - 48 \\\\
+                   &= \pounds 72
+\end{aligned}
+$
 
 </div>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+If the price is reduced by $40 \%$, then the new price will be $100 - 40 = 60 \%$ of the original price. Using that, we get
+
+$
+\begin{aligned}
+\text {Sale price}          &= 60 \% \times 120 \\\\
+                            &= \dfrac {60} {100} \times 120 \\\\
+                            &= \dfrac {60 \times 120} {100}  \\\\
+                            &= \dfrac {6 \cancel 0 \times 12 \cancel 0} {1 \cancel 0 \cancel 0}  \\\\
+                            &= 6 \times 12 \\\\
+                            &= \pounds 72
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\pounds 72$
 
 </div>
 </div>
@@ -229,26 +92,39 @@ Reduce the advertised price by $10\%$. How much does Ed pay?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+If the price is reduced by $30 \%$, then the advertised price will be $100 - 30 = 70 \%$ of the original price. Using that, we get
 
-</div>
-<div class='working placeholder'>
+$
+\begin{aligned}
+\text {Advertised price}    &= 70 \% \times 120 \\\\
+                            &= \dfrac {70} {100} \times 120 \\\\
+                            &= \dfrac {70 \times 120} {100}  \\\\
+                            &= \dfrac {7 \cancel 0 \times 12 \cancel 0} {1 \cancel 0 \cancel 0}  \\\\
+                            &= 7 \times 12 \\\\
+                            &= \pounds 84
+\end{aligned}
+$
 
-TODOWORKING
+If the price is reduced by $10 \%$, then the new advertised price will be $100 - 10 = 90 \%$ of the original price. Using that, we get
+
+$
+\begin{aligned}
+\text {New advertised price}    &= 90 \% \times 120 \\\\
+                                &= \dfrac {90} {100} \times 84 \\\\
+                                &= \dfrac {90 \times 84} {100}  \\\\
+                                &= \dfrac {7560} {100}  \\\\
+                                &= \pounds 75.6
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\pounds 75.6$
 
 </div>
 </div>
@@ -270,26 +146,27 @@ What is its new value?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+If the price is reduced by $35 \%$, then the new price will be $100 - 35 = 65 \%$ of the original price. Using that, we get
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text {New price}           &= 65 \% \times 50000 \\\\
+                            &= \dfrac {65} {100} \times 50000 \\\\
+                            &= \dfrac {65 \times 50000} {100}  \\\\
+                            &= \dfrac {65 \times 500 \cancel {00}} {1 \cancel {00}}  \\\\
+                            &= 65 \times 500 \\\\
+                            &= \pounds 32500
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\pounds 32500$
 
 </div>
 </div>
@@ -308,26 +185,27 @@ What is the new price of the television?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+If the price is reduced by $15 \%$, then the new price will be $100 + 15 = 115 \%$ of the original price. Using that, we get
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text {New price}           &= 115 \% \times 300 \\\\
+                            &= \dfrac {115} {100} \times 300 \\\\
+                            &= \dfrac {115 \times 300} {100}  \\\\
+                            &= \dfrac {115 \times 3 \cancel {00}} {1 \cancel {00}}  \\\\
+                            &= 115 \times 3 \\\\
+                            &= \pounds 345
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\pounds 345$
 
 </div>
 </div>
@@ -346,26 +224,22 @@ If you buy $5$ bars how much money do you save by buying the $5$ pack?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin {aligned}
+\text{Money saved}    &= 5 \times 0.45 - 1.90 \\\\
+                      &= 2.25 - 1.90 \\\\
+                      &= \pounds 0.35
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\pounds 0.35$
 
 </div>
 </div>
@@ -384,26 +258,43 @@ What is its new value?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Sale price}  &= \text {Original price} - \text{Discount} \\\\
+                   &= 50000 - 15 \% \times 50000  \\\\
+                   &= 50000 - \dfrac {15} {100} \times 50000 \\\\
+                   &= 50000 - \dfrac {15 \times 50000} {100} \\\\
+                   &= 50000 - \dfrac {15 \times 500 \cancel {00}} {1 \cancel {00}} \\\\
+                   &= 50000 - 15 \times 500 \\\\
+                   &= 50000 - 7500 \\\\
+                   &= \pounds 42500
+\end{aligned}
+$
 
 </div>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+If the price is reduced by $15 \%$, then the new price will be $100 - 15 = 85 \%$ of the original price. Using that, we get
+
+$
+\begin{aligned}
+\text {Sale price}          &= 85 \% \times 50000 \\\\
+                            &= \dfrac {85}{100} \times 50000 \\\\
+                            &= \dfrac {85 \times 50000}{100}  \\\\
+                            &= \dfrac {85 \times 500 \cancel {00}}{1 \cancel {00}}  \\\\
+                            &= 85 \times 500 \\\\
+                            &= \pounds 42500
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\pounds 42500$
 
 </div>
 </div>

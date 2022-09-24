@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2010-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2010 - Group 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "44"
 ---
 <div class='paper'>
@@ -168,7 +168,7 @@ $536$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -181,9 +181,9 @@ $\dfrac{2}{5} \quad \dfrac{5}{8} \quad \dfrac{1}{2}$
 <div class='workings'>
 <div class='working'>
 
-LCM of $5, 8, 2 = 40$
+Let's make the denominator the same for all the numbers, so we can compare them.
 
-Let's use the LCM result to make the denominator the same for all the fractions. 
+LCM for $5, 8, 2 = 40$
 
 $
 \begin{aligned}
@@ -197,8 +197,8 @@ Now let's put them in ascending order.
 
 $
 \begin{aligned}
-&= \dfrac {16} {40}, \quad \dfrac {20} {40}, \quad \dfrac {25} {40} \\\\
-&= \dfrac {2} {5}, \quad \dfrac {1} {2}, \quad \dfrac {5} {8}
+&= \dfrac {16} {40} < \dfrac {20} {40} < \dfrac {25} {40} \\\\
+&= \dfrac {2} {5} < \dfrac {1} {2} < \dfrac {5} {8}
 \end{aligned}
 $
 
@@ -882,7 +882,7 @@ $9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1778,7 +1778,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1844,6 +1844,9 @@ What fraction of the cars were blue?
 </div>
 <div class='workings'>
 <div class='working'>
+
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$
+
 
 $
 \begin{aligned}

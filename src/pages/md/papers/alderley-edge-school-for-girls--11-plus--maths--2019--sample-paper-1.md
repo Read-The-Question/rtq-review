@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-2019-sample-paper-1"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "50"
 ---
 <div class='paper'>
@@ -537,9 +537,6 @@ TODOANSWER
 Three of these shapes have an even number of vertices. Which one does not?
 
 -  ![alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-1-question-13-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-1-question-13-00.png "alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-1-question-13-00.png")
--  ![alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-1-question-13-01.png](/assets/alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-1-question-13-01.png "alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-1-question-13-01.png")
--  ![alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-1-question-13-02.png](/assets/alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-1-question-13-02.png "alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-1-question-13-02.png")
--  ![alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-1-question-13-03.png](/assets/alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-1-question-13-03.png "alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-1-question-13-03.png")
 
 </div>
 <div class='workings'>
@@ -1843,7 +1840,7 @@ $64$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1872,7 +1869,7 @@ I put square tiles on a large grid so that the tiles touch at the corners. The d
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The **bottom right-hand** corner of **tile** $\bold{2}$ is marked with a TODO
+The **bottom right-hand** corner of **tile** $2$ is marked with a $\spadesuit$.
 
 Write the coordinates of this point.
 
@@ -1898,7 +1895,7 @@ $(2, 1)$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-**Tile** $\bold{4}$ touches two other tiles.
+**Tile** $4$ touches two other tiles.
 Write the coordinates of the points where tile $4$ touches two other tiles.
 
 </div>
@@ -1928,7 +1925,7 @@ $(4, 4)$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write the coordinates of the points where **tile** $\bold{17}$ touches two other tiles.
+Write the coordinates of the points where **tile** $17$ touches two other tiles.
 
 </div>
 <div class='workings'>
@@ -1957,7 +1954,7 @@ $(17, 17)$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-I have $\bold{30}$ **tiles** to make a pattern on a grid. The pattern is a series of squares.
+I have $30$ **tiles** to make a pattern on a grid. The pattern is a series of squares.
 
 
 ![alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-2-question-17-subquestion-4-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-2-question-17-subquestion-4-00.png "alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-2-question-17-subquestion-4-00.png")
@@ -2590,7 +2587,7 @@ Spinner A, Spinner D
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g3 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

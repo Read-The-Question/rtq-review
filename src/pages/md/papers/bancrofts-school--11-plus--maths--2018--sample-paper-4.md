@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2018-sample-paper-4"
 title: "Bancrofts School - 11 Plus - Maths - 2018 - Sample Paper 4"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "37"
 ---
 <div class='paper'>
@@ -1895,6 +1895,8 @@ A cube has each of its faces covered by one face of an identical cube, making th
 
 The volume of the solid shape is $875 \ \text{cm}^3$. 
 
+![bancrofts-school--11-plus--maths--2018--sample-paper-4/section-1-question-22-00.png](/assets/bancrofts-school--11-plus--maths--2018--sample-paper-4/section-1-question-22-00.png "bancrofts-school--11-plus--maths--2018--sample-paper-4/section-1-question-22-00.png")
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2030,7 +2032,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g3 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2482,6 +2484,7 @@ The diagram shows a pentagonal prism.
 Write the letter of the one shape below that is a net for the pentagonal prism.
 
 ![bancrofts-school--11-plus--maths--2018--sample-paper-4/section-1-question-30-00.png](/assets/bancrofts-school--11-plus--maths--2018--sample-paper-4/section-1-question-30-00.png "bancrofts-school--11-plus--maths--2018--sample-paper-4/section-1-question-30-00.png")
+![bancrofts-school--11-plus--maths--2018--sample-paper-4/section-1-question-30-01.png](/assets/bancrofts-school--11-plus--maths--2018--sample-paper-4/section-1-question-30-01.png "bancrofts-school--11-plus--maths--2018--sample-paper-4/section-1-question-30-01.png")
 
 </div>
 <div class='workings'>

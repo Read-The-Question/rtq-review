@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2013-sample-paper-1"
 title: "Bancrofts School - 11 Plus - Maths - 2013 - Sample Paper 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "36"
 ---
 <div class='paper'>
@@ -683,7 +683,7 @@ $64 \%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -692,26 +692,16 @@ $64 \%$
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -723,28 +713,26 @@ TODOANSWER
 Clarissa buys the sunglasses and a sun hat. 
 How much change, in pounds, does she get from a $\pounds 10$ note?
 
+![bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-10-subquestion-1-00.png](/assets/bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-10-subquestion-1-00.png "bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-10-subquestion-1-00.png")
+
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Change she get}       &= 10 - 5.85 - 3.29 \\\\
+                            &= 10 - 9.14 \\\\
+                            &= \pounds 0.86
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\pounds 0.86$
 
 </div>
 </div>
@@ -765,26 +753,38 @@ What was the full price of the jeans?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Let the full price of the jeans $= a$
 
-</div>
-<div class='working placeholder'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+a - 10 \% \ \text{of} \ a                             &= a - 15 \% \ \text{of} \ a + 1.2 \\\\
+a - \dfrac {10} {100} \times a                        &= a - \dfrac {15} {100} \times a + 1.2 \\\\
+a - \dfrac {10a} {100}                                &= a - \dfrac {15a} {100} + 1.2 \\\\
+a - \dfrac {10a} {100} - a + \dfrac {15a} {100}       &= 1.2 \\\\
+a - a + \dfrac {15a} {100} - \dfrac {10a} {100}       &= 1.2 \\\\
+\dfrac {15a - 10a} {100}                              &= 1.2 \\\\
+\dfrac {5a} {100}                                     &= 1.2 \\\\
+a                                                     &= 1.2 \times \dfrac {100} {5} \\\\
+a                                                     &= \dfrac {1.2 \times 100} {5} \\\\
+a                                                     &= \dfrac {1.2 \times 20 \times 5} {5} \\\\
+a                                                     &= \dfrac {1.2 \times 20 \times \cancel 5} {\cancel 5} \\\\
+a                                                     &= 1.2 \times 20 \\\\
+a                                                     &= \pounds 24
+\end{aligned}
+$
+
+Full price of the jeans $= \pounds 24$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\pounds 24$
 
 </div>
 </div>
@@ -1303,7 +1303,7 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2022,6 +2022,7 @@ Which of the following are possible nets for a cube?
 (Write 'yes' or 'no' in each of the spaces provided.)
 
 ![bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-23-subquestion-2-00.png](/assets/bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-23-subquestion-2-00.png "bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-23-subquestion-2-00.png")
+![bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-23-subquestion-2-01.png](/assets/bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-23-subquestion-2-01.png "bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-23-subquestion-2-01.png")
 
 </div>
 <div class='workings'>
@@ -2401,6 +2402,7 @@ The pyramid was made by using cubes as building blocks.
 How many blocks did it take to make the pyramid?
 
 ![bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-28-00.png](/assets/bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-28-00.png "bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-28-00.png")
+![bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-28-01.png](/assets/bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-28-01.png "bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-28-01.png")
 
 </div>
 <div class='workings'>
@@ -2579,6 +2581,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-30-subquestion-1-00.png](/assets/bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-30-subquestion-1-00.png "bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-30-subquestion-1-00.png")
+![bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-30-subquestion-1-01.png](/assets/bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-30-subquestion-1-01.png "bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-30-subquestion-1-01.png")
 
 </div>
 <div class='workings'>
@@ -2687,6 +2690,7 @@ Which view ($P, Q$ or $R$) can I get by looking
 down at the cylinder from above, in the direction of arrow $Z$?
 
 ![bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-30-subquestion-2-00.png](/assets/bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-30-subquestion-2-00.png "bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-30-subquestion-2-00.png")
+![bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-30-subquestion-2-01.png](/assets/bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-30-subquestion-2-01.png "bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-30-subquestion-2-01.png")
 
 </div>
 <div class='workings'>

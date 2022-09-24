@@ -1,7 +1,7 @@
 ---
 slug: "papers/tonbridge-school-11-plus-maths-9999-sample-paper-1"
 title: "Tonbridge School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "17"
 ---
 <div class='paper'>
@@ -14,7 +14,7 @@ questions_count: "17"
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -75,7 +75,7 @@ How many boys in total in all four classes?
 
 $
 \begin{aligned}
-\text{Total number of boys}     &= 14 + 12 + 7 + 5 \\\\
+\text{Number of boys}           &= 14 + 12 + 7 + 5 \\\\
                                 &= 38
 \end{aligned}
 $
@@ -454,7 +454,7 @@ $23$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -490,6 +490,7 @@ Write $0.2$ as a fraction in its lowest terms.
 $
 \begin{aligned}
 &= 0.2 \\\\
+&= \dfrac {0.2 \times 10} {1 \times 10} \\\\
 &= \dfrac {2} {10} \\\\
 &= \dfrac {2} {2 \times 5} \\\\
 &= \dfrac {\cancel {2}} {\cancel {2} \times 5} \\\\
@@ -521,16 +522,12 @@ $0.3,\:\:\:\dfrac{8} {25},\:\:\:33\%,\:\:\:\dfrac {1} {3}$
 <div class='workings'>
 <div class='working'>
 
-To compare, we can convert all the numbers to fractions, decimals or percentages.
-
-In this case, there are more fractions, so let's convert all the numbers into fractions.
+Let's convert all the numbers into decimals.
 
 $
 \begin{aligned}
-&= 0.3,                                 \quad \dfrac {8} {25},                      \quad 33\%,                                 \quad \dfrac {1} {3} \\\\
-&= \dfrac {3} {10},                     \quad \dfrac {8} {25},                      \quad \dfrac {33} {100},                    \quad \dfrac {1} {3} \\\\
-&= \dfrac {3 \times 30} {10 \times 30}, \quad \dfrac {8 \times 12} {25 \times 12},  \quad \dfrac {33 \times 3} {100 \times 3},  \quad \dfrac {1 \times 100} {3 \times 100} \\\\
-&= \dfrac {90} {300},                   \quad \dfrac {96} {300},                    \quad \dfrac {99} {300},                    \quad \dfrac {100} {300}
+&= 0.3, \quad \dfrac {8} {25}, \quad 33\%, \quad \dfrac {1} {3} \\\\
+&= 0.3, \quad 0.32, \quad 0.33, \quad 0.\overline{3}
 \end{aligned}
 $
 
@@ -538,8 +535,8 @@ Let's put them in ascending order now.
 
 $ 
 \begin{aligned}
-&=\dfrac {90} {300},    \quad \dfrac {96} {300},    \quad \dfrac {99} {300},    \quad \dfrac {100} {300} \\\\
-&= 0.3 ,                \quad \dfrac {8} {25},      \quad 33\%,                 \quad \dfrac {1} {3}
+&= 0.3 < 0.32 < 0.33 < 0.\overline{3} \\\\
+&= 0.3 < \dfrac {8} {25} < 33\% < \dfrac {1} {3}
 \end{aligned}
 $
 
@@ -549,7 +546,7 @@ $
 <div class='answer'>
 
     
-$0.3 , \quad \dfrac {8} {25} , \quad 33% , \quad \dfrac {1} {3}$
+$0.3 , \quad \dfrac {8} {25} , \quad 33\% , \quad \dfrac{1}{3}$
 
 </div>
 </div>

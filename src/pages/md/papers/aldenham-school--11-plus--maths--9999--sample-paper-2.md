@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-2"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "26"
 ---
 <div class='paper'>
@@ -729,6 +729,7 @@ The total weight of one large and three small cans of Best Beans is $1.25 \ \tex
 The large can weighs $425 \ \text{grams}$.
 
 ![aldenham-school--11-plus--maths--9999--sample-paper-2/section-1-question-8-00.png](/assets/aldenham-school--11-plus--maths--9999--sample-paper-2/section-1-question-8-00.png "aldenham-school--11-plus--maths--9999--sample-paper-2/section-1-question-8-00.png")
+![aldenham-school--11-plus--maths--9999--sample-paper-2/section-1-question-8-01.png](/assets/aldenham-school--11-plus--maths--9999--sample-paper-2/section-1-question-8-01.png "aldenham-school--11-plus--maths--9999--sample-paper-2/section-1-question-8-01.png")
 
 Work out the weight of one small can.
 
@@ -947,7 +948,7 @@ $0.609 \quad     0.069 \quad     0.63 \quad     0.063$
 <div class='workings'>
 <div class='working'>
 
-$0.609 \quad     0.069 \quad     \boxed{\green{0.63}} \quad     0.063$
+$0.63$
 
 </div>
 </div>
@@ -971,7 +972,7 @@ $-7.5 \quad    -1 \quad      -8 \quad     -1.5$
 <div class='workings'>
 <div class='working'>
 
-$-7.5 \quad   \boxed{\green{-1}} \quad      -8 \quad     -1.5$
+$-1$
 
 </div>
 </div>
@@ -999,12 +1000,12 @@ Let's convert all the numbers into fractions.
 
 $
 \begin{aligned}
-&= 0.09 \quad     39\% \quad    0.44 \quad     \dfrac{2}{5} \\\
-&= 0.09 \quad     0.39 \quad    0.44 \quad     0.4 \\\
+&= 0.09, \quad     39\%, \quad    0.44, \quad     \dfrac{2}{5} \\\\
+&= 0.09, \quad     0.39, \quad    0.44, \quad     0.4
 \end{aligned}
 $
 
-$0.09 \quad     39\% \quad    \boxed{\green{0.44}} \quad     \dfrac{2}{5}$
+Highest number $= 0.44$
 
 </div>
 </div>
@@ -1724,7 +1725,7 @@ Length $= 9 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

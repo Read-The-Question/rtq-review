@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tpermutation-1"
 title: "TopicPaper - Permutation - 1"
-date: 2022-09-21 20:47:03
+date: 2022-09-24 05:07:09
 questions_count: "40"
 ---
 <div class='paper'>

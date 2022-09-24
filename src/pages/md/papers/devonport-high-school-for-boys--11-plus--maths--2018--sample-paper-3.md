@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2018-sample-paper-3"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2018 - Sample Paper 3"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "45"
 ---
 <div class='paper'>
@@ -71,7 +71,7 @@ $16{:}30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -84,14 +84,25 @@ What are the coordinates of the centre of the square?
 <div class='workings'>
 <div class='working'>
 
-$(2, 5)$
+$
+\begin {aligned}
+\text{x-coordinates}    &= \dfrac {3 + 3 + 7 + 7} {4} \\\\
+                        &= \dfrac {20} {4} \\\\
+                        &= 5 \\\\
+\text{y-coordinates}    &= \dfrac {0 + 4 + 4 + 0} {4} \\\\
+                        &= \dfrac {8} {4} \\\\
+                        &= 2
+\end {aligned}
+$
+
+Coordinates $= (5, 2)$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$(2, 5)$
+$(5, 2)$
 
 </div>
 </div>
@@ -262,7 +273,7 @@ $40 \%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1265,26 +1276,27 @@ What is the new price of the television?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+If the price is reduced by $15 \%$, then the new price will be $100 + 15 = 115 \%$ of the original price. Using that, we get
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text {New price}           &= 115 \% \times 300 \\\\
+                            &= \dfrac {115} {100} \times 300 \\\\
+                            &= \dfrac {115 \times 300} {100}  \\\\
+                            &= \dfrac {115 \times 3 \cancel {00}} {1 \cancel {00}}  \\\\
+                            &= 115 \times 3 \\\\
+                            &= \pounds 345
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\pounds 345$
 
 </div>
 </div>
@@ -1339,26 +1351,22 @@ If you buy $5$ bars how much money do you save by buying the $5$ pack?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin {aligned}
+\text{Money saved}    &= 5 \times 0.45 - 1.90 \\\\
+                      &= 2.25 - 1.90 \\\\
+                      &= \pounds 0.35
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\pounds 0.35$
 
 </div>
 </div>
@@ -1366,7 +1374,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1383,7 +1391,7 @@ A pie chart is drawn to show children’s favourite colour using the table above
 
 $
 \begin{aligned}
-\text{Angle that would represent red}       &= \dfrac {5} {5 + 7 + 8 + 3 + 2} \times 360 \\\\
+\text{Angle red}                            &= \dfrac {5} {5 + 7 + 8 + 3 + 2} \times 360 \\\\
                                             &= \dfrac {5} {25} \times 360 \\\\
                                             &= \dfrac {5 \times 360} {25} \\\\
                                             &= \dfrac {5 \times 5 \times 72} {5 \times 5} \\\\
@@ -1551,7 +1559,7 @@ $264$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1566,11 +1574,10 @@ $180$ children were surveyed as to their favourite pastime. The results are in t
 
 $
 \begin{aligned}
-\text{Number of children who prefer computers}          &= \dfrac {186} {360} \times 80 \\\\
+\text{Children who prefer computers}                    &= \dfrac {186} {360} \times 180 \\\\
                                                         &= \dfrac {186 \times 180} {360} \\\\
-                                                        &= \dfrac {6 \times 31 \times 60 \times 3} {60 \times 6} \\\\
-                                                        &= \dfrac {\cancel 6 \times 31 \times \cancel {60} \times 3} {\cancel {60} \times \cancel 6} \\\\
-                                                        &= 31 \times 3 \\\\
+                                                        &= \dfrac {93 \times 2 \times 180} {2 \times 180} \\\\
+                                                        &= \dfrac {93 \times \cancel{2} \times \cancel{180}} {\cancel{2} \times \cancel{180}} \\\\
                                                         &= 93
 \end{aligned}
 $

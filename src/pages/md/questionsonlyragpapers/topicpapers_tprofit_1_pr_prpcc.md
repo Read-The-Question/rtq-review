@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tprofit-1-pr-prpcc"
 title: "TopicPaper - Profit - 1 - PR - PRPCC"
-date: 2022-09-21 20:47:03
+date: 2022-09-24 05:07:09
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -21,6 +21,8 @@ questions_count: "1"
 
 Clarissa buys the sunglasses and a sun hat. 
 How much change, in pounds, does she get from a $\pounds 10$ note?
+
+![bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-10-subquestion-1-00.png](/assets/bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-10-subquestion-1-00.png "bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-10-subquestion-1-00.png")
 
 </div>
 

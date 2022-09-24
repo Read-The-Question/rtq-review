@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-1-g1"
 title: "TopicPaper - Simpleword - 1 - G1"
-date: 2022-09-21 20:40:31
+date: 2022-09-24 04:59:20
 questions_count: "28"
 ---
 <ul class='question default-decimal'>
@@ -15,16 +15,16 @@ Look at the pictogram below.
 
 |   Name  |   Kilometres run  |
 |:-------:| ----------------- |
-|   Jeff  | # # #             |
-| Baldwin | # # # # # # # !   |
-|  Trent  | # # # # # # # # ! |
-|  Norma  | # # # #           |
-|  Steven | #                 |
-|  Alvin  | #                 |
+|   Jeff  | ![aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-00.png](/assets/aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-00.png "aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-00.png")           |
+| Baldwin | ![aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-01.png](/assets/aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-01.png "aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-01.png")           |
+|  Trent  | ![aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-02.png](/assets/aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-02.png "aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-02.png")           |
+|  Norma  | ![aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-03.png](/assets/aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-03.png "aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-03.png")           |
+|  Steven | ![aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-04.png](/assets/aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-04.png "aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-04.png")           |
+|  Alvin  | ![aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-05.png](/assets/aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-05.png "aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-05.png")           |
 
-Each \# - $2$ kilometres
+Each ![aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-06.png](/assets/aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-06.png "aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-06.png") - $2$ kilometres
 
-Each \! - $1$ kilometres
+Each ![aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-07.png](/assets/aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-07.png "aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-07.png") - $1$ kilometres
 
 How many more km did Baldwin run compared to Jeff? 
 

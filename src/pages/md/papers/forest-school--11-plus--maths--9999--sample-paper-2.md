@@ -1,7 +1,7 @@
 ---
 slug: "papers/forest-school-11-plus-maths-9999-sample-paper-2"
 title: "Forest School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "38"
 ---
 <div class='paper'>
@@ -1547,7 +1547,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1564,14 +1564,16 @@ Do you agree? Explain your answer.
 <div class='workings'>
 <div class='working'>
 
-Favourite subject of maximum number of students is History, therefore I agree with Alex that most people prefer History.
+As per the bar chart, History is the favourite subject of maximum number of students.
+
+So I agree with the statement.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Favourite subject of maximum number of students is History, therefore I agree with Alex that most people prefer History.
+Agree
 
 </div>
 </div>

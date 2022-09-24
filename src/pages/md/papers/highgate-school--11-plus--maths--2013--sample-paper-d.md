@@ -1,7 +1,7 @@
 ---
 slug: "papers/highgate-school-11-plus-maths-2013-sample-paper-d"
 title: "Highgate School - 11 Plus - Maths - 2013 - Sample Paper D"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "6"
 ---
 <div class='paper'>
@@ -54,7 +54,7 @@ $20 \text {p}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -71,25 +71,16 @@ If the price is reduced by $35 \%$, then the sale price will be $100 - 35 = 65 \
 
 $
 \begin {aligned}
-\text {New price}   &= 65 \% \ \text {of} \ \pounds 12000 \\\\
-                    &= \dfrac {65} {100} \times 12000 \\\\
-                    &= \dfrac {65 \times 12000} {100} \\\\
-                    &= \dfrac {65 \times 120 \cancel {00}} {1 \cancel {00}} \\\\
-                    &= 65 \times 120 \\\\
-                    &= \pounds 7800
-\end {aligned}
-$
-
-The new price for the car $= 7800$.
-
-$
-\begin {aligned}
+\text {New price}         &= 65 \% \ \text {of} \ 12000 \\\\
+                          &= \dfrac {65} {100} \times 12000 \\\\
+                          &= \dfrac {65 \times 12000} {100} \\\\
+                          &= \dfrac {65 \times 120 \cancel {00}} {1 \cancel {00}} \\\\
+                          &= 65 \times 120 \\\\
+                          &= \pounds 7800 \\\\
 \text {Money she needs}   &= 7800 - 7350 \\\\
                           &= \pounds 450
 \end {aligned}
 $
-
-Monique needs $\pounds 450$ more to buy the car.
 
 </div>
 </div>

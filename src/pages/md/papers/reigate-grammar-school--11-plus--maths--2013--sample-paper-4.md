@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2013-sample-paper-4"
 title: "Reigate Grammar School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "45"
 ---
 <div class='paper'>
@@ -760,55 +760,13 @@ Let's convert all the numbers into decimals.
 $
 \begin{aligned}
 &= 65\% , \quad 0.605 , \quad \dfrac {3} {5} \\\\
-&= \dfrac {65} {100} , \quad 0.605 , \quad \dfrac {3 \times 2} {5 \times 2} \\\\
-&= 0.65 , \quad 0.605 , \quad \dfrac {6} {10} \\\\
 &= 0.65 , \quad 0.605 , \quad 0.6
 \end{aligned}
 $
 
-Let's put them in ascending order now.
+Largest $= 0.65 = 65\%$
 
-$
-\begin{aligned}
-&= 0.6 < 0.605 < 0.65 \\\\
-&= \dfrac{3}{5} < 0.605 < 65\%
-\end{aligned}
-$
-
-Largest $= \ 65\%$
-
-Smallest $= \ \dfrac {3} {5}$
-
-</div>
-<div class='working'>
-
-Alternative solution
-
-To compare, we can convert all the numbers to fractions, decimals or percentages.
-
-In this case, we will convert all the numbers into fraction.
-
-$
-\begin{aligned}
-&= 65\% , \quad 0.605 , \quad \dfrac {3} {5} \\\\
-&= \dfrac {65} {100} , \quad \dfrac {605} {1000} , \quad \dfrac {3} {5} \\\\
-&= \dfrac {65 \times 10} {100 \times 10} , \quad \dfrac {605} {1000} , \quad \dfrac {3 \times 200} {5 \times 200} \\\\
-&= \dfrac {650} {1000} , \quad \dfrac {605} {1000} , \quad \dfrac {600} {1000}
-\end{aligned}
-$
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= \dfrac {600} {1000} < \dfrac {605} {1000} < \dfrac {650} {1000} \\\\
-&= \dfrac{3}{5} < 0.605 < 65\%
-\end{aligned}
-$
-
-Largest $= \ 65\%$
-
-Smallest $= \ \dfrac {3} {5}$
+Smallest $= 0.6 = \dfrac {3} {5}$
 
 </div>
 </div>
@@ -816,6 +774,9 @@ Smallest $= \ \dfrac {3} {5}$
 <div class='answer'>
 
 Largest $= 65\%$
+
+</div>
+<div class='answer'>
 
 Smallest $= \dfrac {3} {5}$
 
@@ -1373,7 +1334,7 @@ $64$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

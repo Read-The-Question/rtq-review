@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-f"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper F"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "26"
 ---
 <div class='paper'>
@@ -853,7 +853,7 @@ $2000$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -946,22 +946,30 @@ The side length of each small square in the grid is $1 \ \text{cm}$. Work out th
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Area of trapezium} = \dfrac {\text{length} + \text{width}} {2} \times \text {height}$
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Write the length of edges of the trapezium
+
+
+*ABBR: TODO:: Add drawing ends.*
+
+
 $
 \begin{aligned}
-\text{Height of the trapezium}          &= 5 - 1 \\\\
-                                        &= 4 \ \text{cm} \\\\
-\text{Length of one parallel side}      &= 4 - 1 \\\\
-                                        &= 3 \ \text{cm} \\\\
-\text{Length of another parallel side}  &= 3 - 1 \\\\
-                                        &= 2 \ \text{cm} \\\\
-\text{Area of the trapezium}            &= \dfrac {1} {2} \times \text{Sum of parallel sides} \times \text{Height of the trapezium} \\\\
-                                        &= \dfrac {1} {2} \times (3 + 2) \times 4 \\\\
-                                        &= \dfrac {1} {2} \times 5 \times 4 \\\\
-                                        &= \dfrac {5 \times 4} {2} \\\\
-                                        &= \dfrac {5 \times 2 \times 2} {2} \\\\
-                                        &= \dfrac {5 \times 2 \times \cancel 2} {\cancel 2} \\\\
-                                        &= 5 \times 2 \\\\
-                                        &= 10 \ {\text{cm}} ^ 2
+\text{Area}       &= \dfrac {3 + 2} {2} \times 4 \\\\
+                  &= \dfrac {5} {2} \times 4 \\\\
+                  &= \dfrac {5 \times 4} {2} \\\\
+                  &= \dfrac {5 \times 2 \times 2} {2} \\\\
+                  &= \dfrac {5 \times 2 \times \cancel 2} {\cancel 2} \\\\
+                  &= 5 \times 2 \\\\
+                  &= 10 \ {\text{cm}} ^ 2
 \end{aligned}
 $
 

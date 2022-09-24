@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-kings-school-chester-11-plus-maths-9999-sample-paper-2"
 title: "The Kings School Chester - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "26"
 ---
 <div class='paper'>
@@ -556,7 +556,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -575,12 +575,15 @@ $
 <div class='workings'>
 <div class='working'>
 
-To compare, we can convert all the numbers to decimals
+Let's make the denominator the same for all the numbers, so we can compare them.
+
+LCM for $8,3,2,12,24 = 24$
 
 $
 \begin{aligned}
 &= \dfrac {5} {8}, \quad \dfrac {2} {3},  \quad \dfrac {1} {2}, \quad \dfrac {7} {12}, \quad \dfrac {17} {24} \\\\
-&= 0.625, \quad 0.666, \quad 0.5, \quad 0.583, \quad 0.728
+&= \dfrac {5 \times 3} {8 \times 3}, \quad \dfrac {2 \times 8} {3 \times 8},  \quad \dfrac {1 \times 12} {2 \times 12}, \quad \dfrac {7 \times 2} {12 \times 2}, \quad \dfrac {17 \times 1} {24 \times 1} \\\\
+&= \dfrac {15} {24}, \quad \dfrac {16} {24},  \quad \dfrac {12} {24}, \quad \dfrac {14} {24}, \quad \dfrac {17} {24}
 \end{aligned}
 $
 
@@ -588,8 +591,8 @@ Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= 0.5, \quad 0.583, \quad 0.626, \quad 0.666, \quad 0.728 \\\\
-&= \dfrac {1} {2}, \quad \dfrac {7} {12}, \quad \dfrac {5} {8}, \quad \dfrac {2} {3}, \quad \dfrac {17} {24}
+&= \dfrac {12} {24} < \dfrac {14} {24} < \dfrac {15} {24} < \dfrac {16} {24} < \dfrac {17} {24} \\\\
+&= \dfrac {1} {2} < \dfrac {7} {12} < \dfrac {5} {8} < \dfrac {2} {3} < \dfrac {17} {24}
 \end{aligned}
 $
 

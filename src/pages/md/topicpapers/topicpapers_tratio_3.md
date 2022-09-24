@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tratio-3"
 title: "TopicPaper - Ratio - 3"
-date: 2022-09-21 20:40:31
+date: 2022-09-24 04:59:20
 questions_count: "40"
 ---
 <div class='paper'>
@@ -2516,7 +2516,7 @@ $18$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2767,7 +2767,7 @@ $103$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2803,8 +2803,7 @@ How many stickers can be bought for $\pounds 2.40$?
 $
 \begin{aligned}
 \text{Number of stickers for 1p}            &= \dfrac {3} {40} \\\\
-\text{Number of stickers for \pounds 2.4}   &= \dfrac {3} {40} \times 2.4 \times 100 \\\\
-                                            &= \dfrac {3} {40} \times 240 \\\\
+\text{Number of stickers for \pounds 2.40}  &= \dfrac {3} {40} \times 2.40 \times 100 \\\\
                                             &= \dfrac {3 \times 240} {40} \\\\
                                             &= \dfrac {3 \times 40 \times 6} {40} \\\\
                                             &= \dfrac {3 \times \cancel {40} \times 6} {\cancel {40}} \\\\
@@ -2822,9 +2821,9 @@ Using equivalent ratio,
 
 $
 \begin{aligned}
-40 \text{p} : 3 \ \text{stickers}               &= 2.4 \times 100 \text{p} : a \ \text{stickers} \\\\
-\dfrac{40} {3}                                  &= \dfrac {2.4 \times 100} {a} \\\\
-40 \times a                                     &= 2.4 \times 100 \times 3 \\\\
+40 \text{p} : 3 \ \text{stickers}               &= 2.40 \times 100 \text{p} : a \ \text{stickers} \\\\
+\dfrac{40} {3}                                  &= \dfrac {2.40 \times 100} {a} \\\\
+40 \times a                                     &= 2.40 \times 100 \times 3 \\\\
 40 \times a                                     &= 240 \times 3 \\\\
 a                                               &= \dfrac {240 \times 3} {40} \\\\
 a                                               &= \dfrac {40 \times 6 \times 3} {40} \\\\
@@ -2847,8 +2846,7 @@ $
 = & 40 \text{p}                             &:& 3 \\\\
 = & 40 \times 6                             &:& 3 \times 6 \\\\
 = & 240 \text{p}                            &:& 18 \\\\
-= & \dfrac {240} {100} \ \text{pence}       &:& 18 \\\\
-= & \pounds 2.4                             &:& 18 \\\\
+= & \pounds 2.40                            &:& 18
 \end{array}
 $
 
@@ -2885,7 +2883,7 @@ $
                               &= \dfrac {40 \times \cancel 3 \times 11} {\cancel 3} \\\\
                               &= 40 \times 11 \\\\
                               &= 440 \text{p} \\\\
-                              &= \pounds 4.4
+                              &= \pounds 4.40
 \end{aligned}
 $
 
@@ -2898,7 +2896,7 @@ Using equivalent ratio,
 
 $
 \begin{aligned}
-3 \ \text{stickers} : 40 \text{p}               &= 33 \ \text{stickers} : a \text{p} \\\\
+3 \ \text{stickers} : 40 \text{p}               &= 33 \ \text{stickers} : a \ \text{p} \\\\
 \dfrac{3} {40}                                  &= \dfrac {33} {a} \\\\
 3 \times a                                      &= 33 \times 40 \\\\
 a                                               &= \dfrac {33 \times 40} {3} \\\\
@@ -2906,7 +2904,7 @@ a                                               &= \dfrac {3 \times 11 \times 40
 a                                               &= \dfrac {\cancel 3 \times 11 \times 40} {\cancel 3} \\\\
 a                                               &= 11 \times 40 \\\\
 a                                               &= 440 \text{p} \\\\
-a                                               &= \pounds 4.4
+a                                               &= \pounds 4.40
 \end{aligned}
 $
 
@@ -2922,9 +2920,8 @@ $
   & \text{stickers}                         &:& \text{cost} \\\\
 = & 3                                       &:& 40 \text{p} \\\\
 = & 3 \times 11                             &:& 40 \times 11 \text{p} \\\\
-= & 33                                      &:& \pounds \dfrac {40 \times 11} {100} \\\\
-= & 33                                      &:& \dfrac {440} {100} \\\\
-= & 33                                      &:& \pounds 4.4
+= & 3 \times 11                             &:& 440 \text{p} \\\\
+= & 33                                      &:& \pounds 4.40
 \end{array}
 $
 
@@ -2935,7 +2932,7 @@ Cost of stickers $= \pounds 4.4$
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 4.4$
+$\pounds 4.40$
 
 </div>
 </div>
@@ -3141,7 +3138,7 @@ $\pounds 13.14$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3320,7 +3317,7 @@ $36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3673,7 +3670,7 @@ $\pounds 52.2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -4008,7 +4005,7 @@ $100 \ \text {bags}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -4059,7 +4056,7 @@ $250 \ \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -4265,7 +4262,7 @@ $17.5 \ \text{g}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -4284,11 +4281,10 @@ $
 \begin{aligned}
 1 \times 10 \ \text{mm} : 2 \times 1000 \ \text{m}              &= 3 \ \text{mm} : a \ \text{m} \\\\
 \dfrac {10} {2 \times 1000}                                     &= \dfrac {3} {a} \\\\
-\dfrac {10} {2000}                                              &= \dfrac {3} {a} \\\\
-10a                                                             &= 3 \times 2000 \\\\
-a                                                               &= \dfrac {3 \times 2000} {10} \\\\
-a                                                               &= \dfrac {3 \times 200 \cancel 0} {1 \cancel 0} \\\\
-a                                                               &= 3 \times 200 \\\\
+10 \times a                                                     &= 3 \times 2 \times 1000 \\\\
+a                                                               &= \dfrac {3 \times 2 \times 1000} {10} \\\\
+a                                                               &= \dfrac {3 \times 2 \times 100 \cancel 0} {1 \cancel 0} \\\\
+a                                                               &= 3 \times 2 \times 100 \\\\
 a                                                               &= 600 \ \text{m}
 \end{aligned}
 $
@@ -4307,10 +4303,10 @@ $
 = & 1 \times 10 \ \text{mm}   &:& 2 \times 1000 \ \text{m} \\\\
 = & 10                        &:& 2000 \\\\
 = & 1                         &:& \dfrac{2000} {10} \\\\
-= & 3                         &:& \dfrac{2000 \times 3} {10} \\\\
+= & 1 \times 3                &:& \dfrac{2000 \times 3} {10} \\\\
 = & 3                         &:& \dfrac{200 \cancel 0 \times 3} {1 \cancel 0} \\\\
 = & 3                         &:& 200 \times 3 \\\\
-= & 3 \ \text{mm}             &:& 600 \ \text{m} \\\\
+= & 3 \ \text{mm}             &:& 600 \ \text{m}
 \end{array}
 $
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/eltham-college-11-plus-maths-2019-sample-paper-1"
 title: "Eltham College - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "23"
 ---
 <div class='paper'>
@@ -910,7 +910,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -941,11 +941,14 @@ Plot the reflection of the triangle on the graph
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(4, 8)$
+New coordinates $= (4, 8)$
 
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
 <div class='answer'>
 
 $(4, 8)$

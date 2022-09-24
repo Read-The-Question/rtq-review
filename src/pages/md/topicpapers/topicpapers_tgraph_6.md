@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tgraph-6"
 title: "TopicPaper - Graph - 6"
-date: 2022-09-21 20:40:31
+date: 2022-09-24 04:59:20
 questions_count: "10"
 ---
 <div class='paper'>
@@ -16,7 +16,7 @@ questions_count: "10"
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -42,16 +42,24 @@ Whose toys are not on the graph?
 <div class='workings'>
 <div class='working'>
 
-$
-\begin {aligned}
-\text{Number of board games not present on graph}       &= 1 + 3 + 0 + 2 + 1 + 0 - 6 \\\\
-                                                        &= 1 \\\\
-\text{Number of computer games not present on graph}    &= 3 + 0 + 2 + 1 + 0 + 0 - 3 \\\\
-                                                        &= 3 \\\\
-\text{Number of sports equipment not present on graph}  &= 2 + 3 + 0 + 1 + 0 + 4 - 8 \\\\
-                                                        &= 2
-\end {aligned}
-$
+|    Child       | Board games     | Computer games     | Sports equipment     |
+|:----------:    |:-----------:    |:--------------:    |:----------------:    |
+|  **Alan**      |     $1$         |       $3$          |        $2$           |
+|   **Ben**      |     $3$         |       $0$          |        $3$           |
+|  **Chris**     |     $0$         |       $2$          |        $0$           |
+|  **Dvid**      |     $2$         |       $1$          |        $1$           |
+|   **Ed**       |     $1$         |       $0$          |        $0$           |
+| **Faizal**     |     $0$         |       $0$          |        $4$           |
+| **Total**      |     $7$         |       $6$          |        $10$          |
+
+
+Board games missing from graph $ = 7 - 6 = 1$
+
+Computer games missing from graph  $= 6 - 3 = 3$
+
+Sports equipment missing from graph $= 10 - 8 = 2$
+
+A quick look shows that Alan has $1$ board game, $3$ computer games and $2$ sports equipment.
 
 Alan's toys are not on the graph.
 
@@ -68,7 +76,7 @@ Alan
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -106,7 +114,7 @@ Plot the diagram on the graph so that the dotted line is the axis of symmetry
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -144,7 +152,7 @@ Tosco and Sunbury are two supermarket chains. They each sell a variety of differ
 
 $
 \begin {aligned}
-\text{Amount of Brie sold by Tosco}     &= \dfrac {90} {360} \times 300 \\\\
+\text{Brie sold by Tosco}               &= \dfrac {90} {360} \times 300 \\\\
                                         &= \dfrac {90 \times 300} {360} \\\\
                                         &= \dfrac {90 \times 4 \times 75} {90 \times 4} \\\\
                                         &= \dfrac {\cancel {90} \times \cancel 4 \times 75} {\cancel {90} \times \cancel 4} \\\\
@@ -174,18 +182,18 @@ Stuart says that Tosco sold more Gloucester cheese, in one week, that Sunbury. E
 <div class='workings'>
 <div class='working'>
 
-The angle of Gloucester cheese sector in Tosco is almost same as in Sunbury Supermarket but total amount is much more in Sunbury Supermarket
+The angle of Gloucester cheese sector in Tosco is almost the same as in Sunbury Supermarket. 
 
-Therefore Stuart may be wrong because Sunbury sold more Gloucester cheese than Tosco Supermarket.
+But the total amount of cheese sold is more in Sunbury Supermarket and so Gloucester cheese sold will be more more too.
+
+Therefore Stuart may be wrong.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-The angle of Gloucester cheese sector in Tosco is almost same as in Sunbury Supermarket but total amount is much more in Sunbury Supermarket
-
-Therefore Stuart may be wrong because Sunbury sold more Gloucester cheese than Tosco Supermarket.
+%empty%
 
 </div>
 </div>
@@ -196,7 +204,7 @@ Therefore Stuart may be wrong because Sunbury sold more Gloucester cheese than T
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -236,12 +244,10 @@ How many more pizzas were sold on Tuesday than on Saturday?
 
 $
 \begin {aligned}
-\text{Difference}       &= 13 - 9 \\\\
-                        &= 4
+\text{Extra pizzas sold}        &= 13 - 9 \\\\
+                                &= 4
 \end {aligned}
 $
-
-$4$ more pizzas were sold on Tuesday than on Saturday.
 
 </div>
 </div>
@@ -294,7 +300,7 @@ $10$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -355,7 +361,7 @@ How many boys in total in all four classes?
 
 $
 \begin{aligned}
-\text{Total number of boys}     &= 14 + 12 + 7 + 5 \\\\
+\text{Number of boys}           &= 14 + 12 + 7 + 5 \\\\
                                 &= 38
 \end{aligned}
 $
@@ -408,7 +414,7 @@ $3 : 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -583,7 +589,7 @@ $5.4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -757,7 +763,7 @@ $5.35$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -818,7 +824,7 @@ How many children were there in the class?
 
 $
 \begin{aligned}
-\text{Total number of children in class}    &= 4 + 10 + 7 + 1 \\\\
+\text{Total children in class}              &= 4 + 10 + 7 + 1 \\\\
                                             &= 22
 \end{aligned}
 $
@@ -847,7 +853,7 @@ What is the total number of computers owned by the whole class?
 
 $
 \begin{aligned}
-\text{Total number of computers owned by class} &= 4 \times 0 + 10 \times 1 + 7 \times 2 + 1 \times 3 \\\\
+\text{Total computers owned by class}           &= 4 \times 0 + 10 \times 1 + 7 \times 2 + 1 \times 3 \\\\
                                                 &= 0 + 10 + 14 + 3 \\\\
                                                 &= 27
 \end{aligned}
@@ -869,7 +875,7 @@ $27$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -948,7 +954,7 @@ Plot the $4$th point on the graph and show the length of the side of parallelogr
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(3, 1)$
+Coordinates $= (3, 1)$
 
 </div>
 </div>
@@ -966,7 +972,7 @@ $(3, 1)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

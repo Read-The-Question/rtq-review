@@ -1,7 +1,7 @@
 ---
 slug: "papers/warwick-school-11-plus-maths-9999-sample-paper-1"
 title: "Warwick School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "28"
 ---
 <div class='paper'>
@@ -1092,7 +1092,7 @@ $56$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1106,15 +1106,11 @@ ${4}\diagup{5}\:\:\:\:\:0.82\:\:\:\:\:0.802\:\:\:\:\:8\%\:\:\:\:\:9\, hundredths
 <div class='workings'>
 <div class='working'>
 
-To compare, we can convert all the numbers to fractions, decimals or percentages.
-
-In this case, let's convert all the numbers into decimals.
+Let's convert all the numbers into decimals.
 
 $
 \begin{aligned}
 &= \dfrac {4} {5} , \quad 0.82 , \quad 0.802 , \quad 8\% , \quad 9 \ \text {hundredths} , \quad \dfrac {3} {4} \\\\
-&= \dfrac {4 \times 20} {5 \times 20} , \quad 0.82 , \quad 0.802 , \quad \dfrac {8} {100} , \quad \dfrac {9} {100} , \quad \dfrac {3 \times 25} {4 \times 25} \\\\
-&= \dfrac {80} {100} , \quad 0.82 , \quad 0.802 , \quad 0.08 , \quad 0.09 , \quad \dfrac {75} {100} \\\\
 &= 0.8 , \quad 0.82 , \quad 0.802 , \quad 0.08 , \quad 0.09 , \quad 0.75
 \end{aligned}
 $
@@ -1123,8 +1119,8 @@ Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= 0.08 , \quad 0.09 , \quad 0.75 , \quad 0.8 , \quad 0.802 , \quad 0.82 \\\\
-&= 8\% , \quad 9 \ \text{hundredths}, \quad \dfrac {3} {4} , \quad \dfrac {4} {5} , \quad 0.802 , \quad 0.82
+&= 0.08 < 0.09 < 0.75 < 0.8 < 0.802 < 0.82 \\\\
+&= 8\% < 9 \ \text{hundredths}< \dfrac {3} {4} < \dfrac {4} {5} < 0.802 < 0.82
 \end{aligned}
 $
 
@@ -1714,7 +1710,7 @@ $28 \ \text{m}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1793,7 +1789,7 @@ Plot the $4$th point on the graph and show the length of the side of parallelogr
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(3, 1)$
+Coordinates $= (3, 1)$
 
 </div>
 </div>

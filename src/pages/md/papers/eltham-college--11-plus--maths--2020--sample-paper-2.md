@@ -1,7 +1,7 @@
 ---
 slug: "papers/eltham-college-11-plus-maths-2020-sample-paper-2"
 title: "Eltham College - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "23"
 ---
 <div class='paper'>
@@ -627,7 +627,7 @@ $9 \times 6 + 73 = 96 + 7 \times 3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -658,16 +658,7 @@ $
 \end{aligned}
 $
 
-Let's arrange them in increasing order of size.
-
-$
-\begin{aligned}
-&= \dfrac {315} {630}< \quad \dfrac {350} {630}< \quad \dfrac {360} {630}< \quad \dfrac {378} {630} \\\\
-&= \dfrac {1} {2}< \quad \dfrac {5} {9}< \quad \dfrac {4} {7}< \quad \dfrac {3} {5}
-\end{aligned}
-$
-
-The smallest fraction is $= \dfrac {1} {2}$
+Smallest fraction $= \dfrac{315}{630} = \dfrac{1}{2}$
 
 </div>
 </div>

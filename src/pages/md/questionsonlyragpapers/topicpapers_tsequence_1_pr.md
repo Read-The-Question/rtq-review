@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tsequence-1-pr"
 title: "TopicPaper - Sequence - 1 - PR"
-date: 2022-09-21 20:47:03
+date: 2022-09-24 05:07:09
 questions_count: "12"
 ---
 <ul class='question default-decimal'>
@@ -22,6 +22,8 @@ questions_count: "12"
 These rules show how to get from one number to the next in these sequences.
 
 Use the rules to write the next **two** numbers in each sequence.
+
+![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-3-subquestion-1-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-3-subquestion-1-00.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-3-subquestion-1-00.png")
 
 </div>
 <ul class='subsubquestion lower-roman'>

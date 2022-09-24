@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-torder-1-g1"
 title: "TopicPaper - Order - 1 - G1"
-date: 2022-09-21 20:47:03
+date: 2022-09-24 05:07:09
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -112,7 +112,7 @@ $\dfrac{1}{3}, \quad 0.305, \quad 35\%, \quad \dfrac{3}{10}$
 
 Circle the fraction which has a different value from the others:
 
-$\dfrac{6} {9} \qquad \dfrac{2} {3} \qquad \dfrac{18} {27} \qquad \dfrac{7} {10}$
+$\dfrac{6} {9} \quad \dfrac{2} {3} \quad \dfrac{18} {27} \quad \dfrac{7} {10}$
 
 </div>
 
@@ -124,7 +124,7 @@ $\dfrac{6} {9} \qquad \dfrac{2} {3} \qquad \dfrac{18} {27} \qquad \dfrac{7} {10}
 
 Circle the smallest of the following fractions:
 
-$\dfrac{1}{4} \qquad \dfrac{1}{5} \qquad \dfrac{5}{16} \qquad \dfrac{1}{3}$
+$\dfrac{1}{4} \quad \dfrac{1}{5} \quad \dfrac{5}{16} \quad \dfrac{1}{3}$
 
 </div>
 
@@ -136,7 +136,7 @@ $\dfrac{1}{4} \qquad \dfrac{1}{5} \qquad \dfrac{5}{16} \qquad \dfrac{1}{3}$
 
 Circle the largest of the following fractions:
 
-$\dfrac{2}{3} \qquad \dfrac{7}{9} \qquad \dfrac{17}{27} \qquad \dfrac{1}{2}$
+$\dfrac{2}{3} \quad \dfrac{7}{9} \quad \dfrac{17}{27} \quad \dfrac{1}{2}$
 
 </div>
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-2019-sample-paper-1"
 title: "Aldenham School - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "27"
 ---
 <div class='paper'>
@@ -508,7 +508,7 @@ $p - 71$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g3 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -872,7 +872,7 @@ $42 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -892,28 +892,33 @@ Show workings.
 <div class='workings'>
 <div class='working'>
 
-Original price $= \pounds 260$
+Let's calculate the sale price of bicycle from each deal.
 
-Let's look at Deal A. 
+**Deal A**
 
 If the price is reduced by $25 \%$, then the sale price will be $100 - 25 = 75 \%$ of the original price. Using that, we get
 
 $
 \begin{aligned}
-\text{Deal A}     &= 75 \% \ \text{of} \ 260 \\\\
-                  &= \dfrac {75} {100} \times 260   \\\\
-                  &= \dfrac {75 \times 260 } {100}  \\\\
-                  &= \dfrac {25 \times 3 \times 4 \times 65 } {25 \times 4}  \\\\
-                  &= \dfrac {\cancel{25} \times 3 \times \cancel{4} \times 65 } {\cancel{25}  \times \cancel{4}}   \\\\
-                  &= 3 \times 65 \\\\
-                  &= \pounds 195
+\text{Sale price from Deal A}     &= 75 \% \ \text{of} \ 260 \\\\
+                                  &= \dfrac {75} {100} \times 260   \\\\
+                                  &= \dfrac {75 \times 260 } {100}  \\\\
+                                  &= \dfrac {25 \times 3 \times 4 \times 65 } {25 \times 4}  \\\\
+                                  &= \dfrac {\cancel{25} \times 3 \times \cancel{4} \times 65 } {\cancel{25}  \times \cancel{4}}   \\\\
+                                  &= 3 \times 65 \\\\
+                                  &= \pounds 195
 \end{aligned}
 $
 
-Deal B $= \pounds 205$
+**Deal B**
 
+$
+\begin{aligned}
+\text{Sale price from Deal B}     &= \pounds 205
+\end{aligned}
+$
 
-From the above calcuation, we can see that Deal A is better than Deal B.
+Better deal $= \text{Deal A} = \pounds 195$
 
 </div>
 </div>
@@ -937,16 +942,16 @@ Look at the pictogram below.
 
 |   Name  |   Kilometres run  |
 |:-------:| ----------------- |
-|   Jeff  | # # #             |
-| Baldwin | # # # # # # # !   |
-|  Trent  | # # # # # # # # ! |
-|  Norma  | # # # #           |
-|  Steven | #                 |
-|  Alvin  | #                 |
+|   Jeff  | ![aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-00.png](/assets/aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-00.png "aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-00.png")           |
+| Baldwin | ![aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-01.png](/assets/aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-01.png "aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-01.png")           |
+|  Trent  | ![aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-02.png](/assets/aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-02.png "aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-02.png")           |
+|  Norma  | ![aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-03.png](/assets/aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-03.png "aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-03.png")           |
+|  Steven | ![aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-04.png](/assets/aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-04.png "aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-04.png")           |
+|  Alvin  | ![aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-05.png](/assets/aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-05.png "aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-05.png")           |
 
-Each \# - $2$ kilometres
+Each ![aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-06.png](/assets/aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-06.png "aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-06.png") - $2$ kilometres
 
-Each \! - $1$ kilometres
+Each ![aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-07.png](/assets/aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-07.png "aldenham-school--11-plus--maths--2019--sample-paper-1/section-1-question-11-07.png") - $1$ kilometres
 
 How many more km did Baldwin run compared to Jeff? 
 
@@ -1309,7 +1314,7 @@ $12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1327,6 +1332,14 @@ Let's convert all the numbers into fractions.
 $
 \begin{aligned}
 &= \dfrac{3}{4}, \quad 65\%,  \quad \dfrac{14}{20} \\\\
+&= \dfrac{3}{4}, \quad \dfrac{65}{100},  \quad \dfrac{14}{20}
+\end{aligned}
+$
+
+LCM for  $4, 100, 20 = 100$
+
+$
+\begin{aligned}
 &= \dfrac{3 \times 25}{4 \times 25}, \quad \dfrac{65}{100},  \quad \dfrac{14 \times 5}{20 \times 5}  \\\\
 &= \dfrac{75}{100}, \quad \dfrac{65}{100},  \quad \dfrac{70}{100}
 \end{aligned}
@@ -1336,8 +1349,8 @@ Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= \dfrac{65}{100}< \quad \dfrac{70}{100}<  \quad \dfrac{75}{100} \\\\
-&= 65\%<  \quad \dfrac{14}{20}<  \quad \dfrac{3}{4} 
+&= \dfrac{65}{100} < \dfrac{70}{100} < \dfrac{75}{100} \\\\
+&= 65\% < \dfrac{14}{20} < \dfrac{3}{4} 
 \end{aligned}
 $
 
@@ -1822,7 +1835,7 @@ $10$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g3 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

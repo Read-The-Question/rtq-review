@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tratio-2"
 title: "TopicPaper - Ratio - 2"
-date: 2022-09-21 20:40:31
+date: 2022-09-24 04:59:20
 questions_count: "40"
 ---
 <div class='paper'>
@@ -2058,7 +2058,7 @@ $\pounds 8.75$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2223,7 +2223,7 @@ $\pounds 7.95$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2256,7 +2256,7 @@ How much water should be mixed with $30 \ \text{ml}$ of cordial?
 <div class='workings'>
 <div class='working'>
 
-Let the volume of water $= a$
+Let the water mixed $= a$
 
 Using equivalent ratio,
 
@@ -2309,15 +2309,15 @@ How much cordial should be used to make $750 \ \text{ml}$ of the drink?
 <div class='workings'>
 <div class='working'>
 
-Let the volume of cordial used $= a$
+Let cordial used $= a$
 
-Volume of water used $= 750 - a$
+Water used $= 750 - a$
 
 Using equivalent ratio,
 
 $
 \begin{aligned}
-1 \ \text{ml} : 4 \ \text{ml}                   &= a \ \text{ml} : (750 - a)) \ \text{ml} \\\\
+1 \ \text{ml} : 4 \ \text{ml}                   &= a \ \text{ml} : (750 - a) \ \text{ml} \\\\
 \dfrac {1} {4}                                  &= \dfrac {a} {750 - a} \\\\
 750 - a                                         &= 4a \\\\
 750                                             &= 4a + a \\\\
@@ -2330,12 +2330,12 @@ a                                               &= 150 \ \text{ml}
 \end{aligned}
 $
 
-Amount of water $= 150 \ \text{ml}$
+Cordial used $= 150 \ \text{ml}$
 
 </div>
 <div class='working'>
 
-Using ratio,
+Using whole to part ratio,
 
 $
 \begin{array}{cccccccccccccc}
@@ -2347,7 +2347,7 @@ $
 \end{array}
 $
 
-Amount of water $= 150 \ \text{ml}$
+Cordial used $= 150 \ \text{ml}$
 
 </div>
 </div>
@@ -2365,7 +2365,7 @@ $150 \ \text{ml}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2387,7 +2387,6 @@ $
 2 \ \text{g} : 7 \ \text{g}                     &= a \ \text{g} : (117 - a) \ \text{g} \\\\
 \dfrac {2} {7}                                  &= \dfrac {a} {117 - a} \\\\
 2 \times (117 - a)                              &= 7a \\\\
-2 \times 117 - 2a                               &= 7a \\\\
 234 - 2a                                        &= 7a \\\\
 234                                             &= 7a + 2a \\\\
 2a + 7a                                         &= 234 \\\\
@@ -2817,7 +2816,7 @@ $75 \ \text{pence}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2840,7 +2839,6 @@ $
 \pounds 2 : \pounds 3          &= \pounds (75 - a) : \pounds a \\\\
 \dfrac {2} {3}                 &= \dfrac {75 - a} {a} \\\\
 2a                             &= 3 \times (75 - a) \\\\
-2a                             &= 3 \times 75 - 3a \\\\
 2a                             &= 225 - 3a \\\\
 2a + 3a                        &= 225 \\\\
 5a                             &= 225 \\\\
@@ -2851,13 +2849,10 @@ a                              &= \pounds 45
 \end{aligned}
 $
 
-$
-\begin{aligned}
-\text{Money received by Jason}        &= \pounds 45 \\\\
-\text{Money received by Patrick}      &= 75 - 45 \\\\
-                                      &= \pounds 30
-\end{aligned}
-$
+
+Money received by Jason $= \pounds 45$
+
+Money received by Patrick $= 75 - 45 = \pounds 30$
 
 </div>
 <div class='working'>
@@ -2866,24 +2861,30 @@ Using whole to part ratio,
 
 $
 \begin{array}{cccccccccccccc}
-  & \pounds                     &:& \pounds                     &:& \pounds \\\\
-= & 2 + 3                       &:& 2                           &:& 3 \\\\
+  & \text{Total}                &:& \text{Patrick}              &:& \text{Jason} \\\\
+= & \pounds (2 + 3)             &:& \pounds 2                   &:& \pounds 3 \\\\
 = & 5                           &:& 2                           &:& 3 \\\\
 = & 5 \times 15                 &:& 2 \times 15                 &:& 3 \times 15 \\\\
 = & \pounds 75                  &:& \pounds 30                  &:& \pounds 45
 \end{array}
 $
 
-Money received by Patrick $= \pounds 30$
 
 Money received by Jason $= \pounds 45$
+
+Money received by Patrick $= \pounds 30$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 45, \pounds 30$
+Jason $=$ $\pounds 45$
+
+</div>
+<div class='answer'>
+
+Patrick $=$ $\pounds 30$
 
 </div>
 </div>

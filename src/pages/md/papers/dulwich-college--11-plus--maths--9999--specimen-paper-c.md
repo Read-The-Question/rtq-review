@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-c"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper C"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "21"
 ---
 <div class='paper'>
@@ -288,7 +288,7 @@ $23$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -362,7 +362,7 @@ Plot the 4th point on the graph too and show the length of the side of the recta
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(4, 0)$
+D $= (4, 0)$
 
 </div>
 </div>
@@ -494,7 +494,7 @@ $\text {Option 3}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -530,6 +530,9 @@ Write down the angle of the wedge representing the number of school children who
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$
+
+
 $
 \begin{aligned}
 \text{Angle of the golf sector}     &= 180 - 90 - 60 \\\\
@@ -554,7 +557,7 @@ $30 \degree$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write down the number of children who said Rugby was their favourite, giving your answer in its lowest form.
+Write down the fraction of the children who said Rugby was their favourite, giving your answer in its lowest form.
 
 </div>
 <div class='workings'>
@@ -591,9 +594,12 @@ A total of $240$ children were asked to complete the survey. Calculate how many 
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$
+
+
 $
 \begin{aligned}
-\text{Number of children who liked football}    &= \dfrac {180 - 45} {360} \times 240 \\\\
+\text{Children who liked football}              &= \dfrac {180 - 45} {360} \times 240 \\\\
                                                 &= \dfrac {135} {360} \times 240 \\\\
                                                 &= \dfrac {135 \times 240} {360} \\\\
                                                 &= \dfrac {3 \times 45 \times 120 \times 2} {120 \times 3} \\\\
@@ -627,7 +633,7 @@ The whole school has $1320$ pupils. Estimate how many of them you would expect t
 
 $
 \begin{aligned}
-\text{Number of children who liked swimmimg}    &= \dfrac {60} {360} \times 1320 \\\\
+\text{Children who liked swimmimg}              &= \dfrac {60} {360} \times 1320 \\\\
                                                 &= \dfrac {60 \times 1320} {360} \\\\
                                                 &= \dfrac {60 \times 220 \times 6} {60 \times 6} \\\\
                                                 &= \dfrac {\cancel {60} \times 220 \times \cancel 6} {\cancel {60} \times \cancel 6} \\\\
@@ -965,7 +971,7 @@ $18 \ \text{days}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1004,9 +1010,9 @@ Use the information in the table and the bar chart to complete the entry for **W
 <div class='workings'>
 <div class='working'>
 
-|         Day            | Mon | Tues | Wed | Thur | Fri | Sat | Sun |
-|:----------------------:|:---:|:----:|:---:|:----:|:---:|:---:|:---:|
-| Number of burgers sold | $14$| $25$ | $18$| $12$ | $21$| $27$|     |
+|         Day            | Mon | Tues | Wed                          | Thur | Fri | Sat | Sun |
+|:----------------------:|:---:|:----:|:----------------------------:|:----:|:---:|:---:|:---:|
+| Number of burgers sold | $14$| $25$ | $\green{18}$| $12$ | $21$| $27$|     |
 
 *ABBR: TODO:: Add drawing starts.*
 
@@ -1045,15 +1051,15 @@ with **Sunday's** entry.
 
 $
 \begin{aligned}
-\text{Number of burgers sold on Sunday} &= 140 - 14 - 25 - 18 - 12 - 21 - 27 \\\\
+\text{Burgers sold on Sunday}           &= 140 - 14 - 25 - 18 - 12 - 21 - 27 \\\\
                                         &= 140 - 117 \\\\
                                         &= 23
 \end{aligned}
 $
 
-|         Day            | Mon | Tues | Wed | Thur | Fri | Sat | Sun |
-|:----------------------:|:---:|:----:|:---:|:----:|:---:|:---:|:---:|
-| Number of burgers sold | $14$| $25$ | $18$| $12$ | $21$| $27$| $23$|
+|         Day            | Mon | Tues | Wed | Thur | Fri | Sat | Sun                          |
+|:----------------------:|:---:|:----:|:---:|:----:|:---:|:---:|:----------------------------:|
+| Number of burgers sold | $14$| $25$ | $18$| $12$ | $21$| $27$| $\green{23}$|
 
 *ABBR: TODO:: Add drawing starts.*
 

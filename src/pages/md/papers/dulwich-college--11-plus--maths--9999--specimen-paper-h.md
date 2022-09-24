@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-h"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper H"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "24"
 ---
 <div class='paper'>
@@ -184,7 +184,7 @@ $630$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1181,7 +1181,7 @@ $196 \ \text {cm} ^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1514,7 +1514,7 @@ $50 \ \text{cm} ^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1551,13 +1551,10 @@ the difference in minutes between the slowest and fastest times,
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text{Range} = \text{Highest number} - \text{Lowest number}$
-
-
 $
 \begin{aligned}
 \text{Difference}     &= 18 - 14 \\\\
-                      &= 4 \ \text{min}
+                      &= 4 \ \text{minutes}
 \end{aligned}
 $
 
@@ -1566,7 +1563,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$4 \ \text{min}$
+$4 \ \text{minutes}$
 
 </div>
 </div>
@@ -1586,7 +1583,7 @@ the sum, in minutes, of the individual times,
 $
 \begin{aligned}
 \text{Total sum}        &= 15 + 17 + 14 + 18 + 16 \\\\
-                        &= 80 \ \text{min}
+                        &= 80 \ \text{minutes}
 \end{aligned}
 $
 
@@ -1595,7 +1592,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$80 \ \text{min}$
+$80 \ \text{minutes}$
 
 </div>
 </div>
@@ -1620,7 +1617,7 @@ $
 \text{Average time}     &= \dfrac {80} {5} \\\\
                         &= \dfrac {5 \times 16} {5} \\\\
                         &= \dfrac {\cancel 5 \times 16} {\cancel 5} \\\\
-                        &= 16 \ \text{min}
+                        &= 16 \ \text{minutes}
 \end{aligned}
 $
 
@@ -1629,7 +1626,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$16 \ \text{min}$
+$16 \ \text{minutes}$
 
 </div>
 </div>
@@ -1648,19 +1645,20 @@ How far is it around the school field?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
+
+
 ABBR: It is really important to use the right units in calculations and convert where required.
 
 
 $
 \begin{aligned}
-\text{Distance travelled by Peter}    &= \text{Speed} \times \text{Time} \\\\
-                                      &= 4 \times (15 \ \text{min}) \\\\
-                                      &= 4 \times (\dfrac {15} {60} \ \text{h}) \\\\
-                                      &= 4 \times \dfrac {15} {60} \\\\
-                                      &= \dfrac {4 \times 15} {60} \\\\
-                                      &= \dfrac {4 \times 15} {4 \times 15} \\\\
-                                      &= \dfrac {\cancel 4 \times \cancel {15}} {\cancel 4 \times \cancel {15}} \\\\
-                                      &= 1 \ \text{km}
+\text{Distance}     &= 4 \ \text{km/h} \times \dfrac {15} {60} \ \text{h} \\\\
+                    &= 4 \ \text{km/h} \times \dfrac {15} {60} \ \text{h} \\\\
+                    &= \dfrac {4 \times 15} {60} \\\\
+                    &= \dfrac {4 \times 15} {4 \times 15} \\\\
+                    &= \dfrac {\cancel 4 \times \cancel {15}} {\cancel 4 \times \cancel {15}} \\\\
+                    &= 1 \ \text{km}
 \end{aligned}
 $
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/trinity-school-croydon-11-plus-maths-9999-sample-paper-1"
 title: "Trinity School Croydon - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "28"
 ---
 <div class='paper'>
@@ -634,7 +634,7 @@ $52 \text{ km/h}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -667,35 +667,30 @@ $\dfrac {4} {5}\:\:\:\:\:0.9\:\:\:\:\:0.1\:\:\:\:\:\dfrac {1} {100}\:\:\:\:\:\df
 <div class='workings'>
 <div class='working'>
 
-To compare, we can convert all the numbers to fractions, decimals or percentages.
-
-In this case, there are more fractions than percentages, so let's convert all the numbers into fractions.
+Let's convert all the numbers into decimals.
 
 $
 \begin{aligned}
-&\dfrac {4} {5},                     \quad 0.9,                                 \quad 0.1,                                  \quad \dfrac {1} {100}, \quad \dfrac {2} {10} \\\\
-&\dfrac {4} {5},                     \quad \dfrac {9} {10},                     \quad \dfrac {1} {10},                      \quad \dfrac {1} {100}, \quad \dfrac {2} {10} \\\\
-&\dfrac {4 \times 20} {5 \times 20}, \quad \dfrac {9 \times 10} {10 \times 10}, \quad \dfrac {1 \times 10} {10 \times 10},  \quad \dfrac {1} {100}, \quad \dfrac {2 \times 10} {10 \times 10} \\\\
-&\dfrac {80} {100},                  \quad \dfrac {90} {100},                   \quad \dfrac {10} {100},                    \quad \dfrac {1} {100}, \quad \dfrac {20} {100}
+&= \dfrac {4} {5}, \quad 0.9, \quad 0.1, \quad \dfrac {1} {100}, \quad \dfrac {2} {10} \\\\
+&= 0.8, \quad 0.9, \quad 0.1, \quad 0.01, \quad 0.2
 \end{aligned}
 $
 
-Let's put them in ascending order now.
+Largest $= 0.9$
 
-$\dfrac {1} {100}, \quad \dfrac {10} {100}, \quad \dfrac{20} {100}, \quad \dfrac {80} {100}, \quad \dfrac{90} {100}$
-
-$\dfrac {1} {100}, \quad 0.1, \quad \dfrac{2} {10}, \quad \dfrac {4} {5}, \quad 0.9$
-
-Largest number = $0.9$
-
-Smallest number = $\dfrac {1} {100}$
+Smallest $= 0.01 = \dfrac {1} {100}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$ \text {Largest} = 0.9, \text {Smallest} = \dfrac {1} {100}$
+Largest $= 0.9$
+
+</div>
+<div class='answer'>
+
+Smallest $= \dfrac {1} {100}$
 
 </div>
 </div>
@@ -724,22 +719,21 @@ $
 \end{aligned}
 $
 
-Lets put them in ascending order now.
+Largest $= \dfrac{80}{60} = \dfrac{4}{3}$
 
-$= \dfrac {30} {60} , \quad \dfrac {45} {60} , \quad \dfrac {48} {60} , \quad \dfrac {60} {60} , \quad \dfrac {80} {60}$
-
-$= \dfrac {1} {2} , \quad \dfrac {3} {4} , \quad \dfrac {4} {5} , \quad 1 , \quad \dfrac {4} {3}$
-
-Largest number = $\dfrac {4} {3}$
-
-Smallest number = $\dfrac {1} {2}$
+Smallest $= \dfrac{30}{60} = \dfrac{1}{2}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Largest} = \dfrac {4} {3}, \text {Smallest} =  \dfrac {1} {2}$
+Largest $= \dfrac {4} {3}$
+
+</div>
+<div class='answer'>
+
+Smallest $= \dfrac{1}{2}$
 
 </div>
 </div>
@@ -756,26 +750,21 @@ $0.8\:\:\:\:\:0.803\:\:\:\:\:0.828\:\:\:\:\:0.84\:\:\:\:\:0.087$
 <div class='workings'>
 <div class='working'>
 
-To compare, we can convert all the numbers to fractions, decimals or percentages.
+Largest $= 0.84$
 
-In this case, they all are in decimals.
-
-$0.8 , \quad 0.803 , \quad 0.828 , \quad 0.84 , \quad 0.087$
-
-Let's put them in ascending order.
-
-$0.087 , \quad 0.8 , \quad 0.803 , \quad 0.828 , \quad 0.84$
-
-Largest number = $0.84$
-
-Smallest number = $0.087$
+Smallest $= 0.087$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Largest} = 0.84, \text {Smallest} =  0.087$
+Largest $= 0.84$
+
+</div>
+<div class='answer'>
+
+Smallest $= 0.087$
 
 </div>
 </div>
@@ -1494,7 +1483,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1555,7 +1544,7 @@ How many children were there in the class?
 
 $
 \begin{aligned}
-\text{Total number of children in class}    &= 4 + 10 + 7 + 1 \\\\
+\text{Total children in class}              &= 4 + 10 + 7 + 1 \\\\
                                             &= 22
 \end{aligned}
 $
@@ -1584,7 +1573,7 @@ What is the total number of computers owned by the whole class?
 
 $
 \begin{aligned}
-\text{Total number of computers owned by class} &= 4 \times 0 + 10 \times 1 + 7 \times 2 + 1 \times 3 \\\\
+\text{Total computers owned by class}           &= 4 \times 0 + 10 \times 1 + 7 \times 2 + 1 \times 3 \\\\
                                                 &= 0 + 10 + 14 + 3 \\\\
                                                 &= 27
 \end{aligned}

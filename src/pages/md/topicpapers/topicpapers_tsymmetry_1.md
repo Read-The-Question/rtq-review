@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsymmetry-1"
 title: "TopicPaper - Symmetry - 1"
-date: 2022-09-21 20:40:31
+date: 2022-09-24 04:59:20
 questions_count: "40"
 ---
 <div class='paper'>
@@ -643,6 +643,7 @@ Which of the following would show how the polecat would
 look if it had been rotated and then reflected in the same way?
 
 ![bancrofts-school--11-plus--maths--2021--sample-paper-7/section-1-question-9-01.png](/assets/bancrofts-school--11-plus--maths--2021--sample-paper-7/section-1-question-9-01.png "bancrofts-school--11-plus--maths--2021--sample-paper-7/section-1-question-9-01.png")
+![bancrofts-school--11-plus--maths--2021--sample-paper-7/section-1-question-9-02.png](/assets/bancrofts-school--11-plus--maths--2021--sample-paper-7/section-1-question-9-02.png "bancrofts-school--11-plus--maths--2021--sample-paper-7/section-1-question-9-02.png")
 
 </div>
 <div class='workings'>

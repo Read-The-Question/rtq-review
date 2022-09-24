@@ -1,12 +1,12 @@
 ---
-slug: "ragpapers/topicpapers-torder-2-oldpr-prcr"
-title: "TopicPaper - Order - 2 - OLDPR - PRCR"
-date: 2022-09-21 20:40:31
+slug: "ragpapers/topicpapers-torder-2-oldpr-prpcc"
+title: "TopicPaper - Order - 2 - OLDPR - PRPCC"
+date: 2022-09-24 04:59:20
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -25,9 +25,9 @@ LCM for $10, 20, 3 = 60$
 
 $
 \begin{aligned}
-&= \dfrac {7} {10}, \dfrac {13} {20}, \dfrac {2} {3} \\\\
-&= \dfrac {7 \times 6} {10 \times 6}, \quad  \dfrac {13 \times 3} {20 \times 3 }, \quad \dfrac {2 \times 20} {3 \times 20} \\\\
-&= \dfrac {42} {60}, \dfrac {39} {60}, \dfrac {40} {60}
+&= \dfrac {7} {10}, \quad \dfrac {13} {20}, \quad \dfrac {2} {3} \\\\
+&= \dfrac {7 \times 6} {10 \times 6}, \quad \quad  \dfrac {13 \times 3} {20 \times 3 }, \quad \quad \dfrac {2 \times 20} {3 \times 20} \\\\
+&= \dfrac {42} {60}, \quad \dfrac {39} {60}, \quad \dfrac {40} {60}
 \end{aligned}
 $
 
@@ -35,8 +35,8 @@ Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= \dfrac {39} {60}, \quad \dfrac {40} {60}, \quad \dfrac {42} {60}  \\\\
-&=  \dfrac {13} {20}, \quad \dfrac {2} {3}, \quad \dfrac {7} {10}
+&= \dfrac {39} {60} < \dfrac {40} {60} < \dfrac {42} {60}  \\\\
+&=  \dfrac {13} {20} < \dfrac {2} {3} < \dfrac {7} {10}
 \end{aligned}
 $
 
@@ -53,7 +53,7 @@ $\dfrac {13} {20}, \quad \dfrac {2} {3}, \quad \dfrac {7} {10}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -81,7 +81,7 @@ $1.008, \quad 1.02, \quad 1.15, \quad 1.2, \quad 1.9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -116,7 +116,7 @@ Which is the smallest?
 <div class='workings'>
 <div class='working'>
 
-The smallest number $= 0.09$
+$0.09$
 
 </div>
 </div>
@@ -140,7 +140,7 @@ Which is the largest?
 <div class='workings'>
 <div class='working'>
 
-The largest number $= 0.909$
+$0.909$
 
 </div>
 </div>
@@ -158,7 +158,7 @@ $0.909$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -171,19 +171,14 @@ $0.56 \,\,\,\,  0.5  \,\,\,\,  0.051 \,\,\,\,  0.507 \,\,\,\,  0.308$
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-&= 0.051  \ \ < \quad  0.5 \ \ < \quad  0.5 \ \ < \quad 0.507 \ \ < \quad 0.56 \\\\
-&= 0.051  \ \quad  0.5 \ \quad  0.5 \ \quad 0.507 \ \quad 0.56
-\end{aligned}
-$
+$0.051, \quad  0.308, \quad  0.5, \quad 0.507, \quad 0.56$ 
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$0.051  \ \quad  0.5 \ \quad  0.5 \ \quad 0.507 \ \quad 0.56$ 
+$0.051, \quad  0.308, \quad  0.5, \quad 0.507, \quad 0.56$ 
 
 </div>
 </div>
@@ -191,7 +186,7 @@ $0.051  \ \quad  0.5 \ \quad  0.5 \ \quad 0.507 \ \quad 0.56$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -204,14 +199,14 @@ $0.105 \,\,\,\,  0.115 \,\,\,\,  0.1 \,\,\,\,  0.11 \,\,\,\, 0.015 \,\,\,\,   0.
 <div class='workings'>
 <div class='working'>
 
-$0.015  \ < \quad  0.1  \ < \quad  0.101  \ < \quad  0.105   \ < \quad 0.11   \ < \quad   0.115$
+$0.015, \quad  0.1, \quad  0.101, \quad  0.105 , \quad 0.11, \quad 0.115$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$0.015  \ < \quad  0.1  \ < \quad  0.101  \ < \quad  0.105   \ < \quad 0.11   \ < \quad   0.115$
+$0.015, \quad  0.1, \quad  0.101, \quad  0.105 , \quad 0.11, \quad 0.115$
 
 </div>
 </div>
@@ -219,7 +214,7 @@ $0.015  \ < \quad  0.1  \ < \quad  0.101  \ < \quad  0.105   \ < \quad 0.11   \ 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -232,20 +227,14 @@ $9.7, \quad 9.63, \quad 9.099, \quad 9.199, \quad 9.20001$
 <div class='workings'>
 <div class='working'>
 
-Let's put them in ascending order.
-
-$
-\begin{aligned}
-&= 9.099, \quad 9.199, \quad 9.20001, \quad  9.36, \quad 9.7
-\end{aligned}
-$
+$9.099, \quad 9.199, \quad 9.20001, \quad  9.63, \quad 9.7$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$9.099, \quad 9.199, \quad 9.20001, \quad  9.36, \quad 9.7$
+$9.099, \quad 9.199, \quad 9.20001, \quad  9.63, \quad 9.7$
 
 </div>
 </div>
@@ -253,7 +242,7 @@ $9.099, \quad 9.199, \quad 9.20001, \quad  9.36, \quad 9.7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -266,22 +255,14 @@ $6.01 \quad 16.0 \quad 0.61 \quad 1.60 \quad 6.1$
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-&= 6.01,  \quad   16.0,  \quad   0.61,  \quad   6.1 \\\\
-&= 6.01,  \quad   16.00,  \quad   0.61,  \quad   6.10 \\\\
-&\text{Let's put them in ascending order now.} \\\\
-&= 0.61 <  \quad   6.01 <  \quad   6.10 <  \quad   16.00 \\\\
-&= 0.61 < \quad   6.01 < \quad   6.1 <  \quad   16.0
-\end{aligned}
-$
+$0.61, \quad 1.60, \quad 6.01, \quad 6.1, \quad 16.0$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$0.61 < \quad   6.01 < \quad   6.1 <  \quad   16.0$
+$0.61, \quad 1.60, \quad 6.01, \quad 6.1, \quad 16.0$
 
 </div>
 </div>
@@ -289,7 +270,7 @@ $0.61 < \quad   6.01 < \quad   6.1 <  \quad   16.0$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -318,8 +299,8 @@ Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= \dfrac {12} {20} < \quad  \dfrac {15} {20} < \quad \dfrac {17}{20} < \quad \dfrac {18} {20} \\\\
-&= \dfrac {3} {5} < \quad \dfrac {3} {5} < \quad \dfrac {17} {20} < \quad \dfrac {9} {10}
+&= \dfrac {12} {20} <  \dfrac {15} {20} < \dfrac {17}{20} < \dfrac {18} {20} \\\\
+&= \dfrac {3} {5} < \dfrac {3} {4} < \dfrac {17} {20} < \dfrac {9} {10}
 \end{aligned}
 $
 
@@ -328,7 +309,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {3} {5} < \quad \dfrac {3} {5} < \quad \dfrac {17} {20} < \quad \dfrac {9} {10}$
+$\dfrac {3} {5}, \quad \dfrac {3} {4}, \quad \dfrac {17} {20}, \quad \dfrac {9} {10}$
 
 </div>
 </div>
@@ -336,7 +317,7 @@ $\dfrac {3} {5} < \quad \dfrac {3} {5} < \quad \dfrac {17} {20} < \quad \dfrac {
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -349,22 +330,14 @@ $4.321, \quad 4.32, \quad 4.132, \quad 4.3, \quad 4.123$
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-&= 4.321, \quad 4.32, \quad 4.132, \quad 4.3, \quad 4.123 \\\\
-&= 4.321, \quad 4.320, \quad 4.132, \quad 4.300, \quad 4.123 \\\\
-&\text{Let's put them in ascending order now.} \\\\
-&= 4.123 < \quad 4.132 < \quad 4.300 < \quad 4.320 < \quad 4.321 \\\\
-&= 4.123 < \quad 4.132 < \quad 4.3 < \quad 4.32 < \quad 4.321
-\end{aligned}
-$
+$4.123, \quad 4.132, \quad 4.3, \quad 4.32, \quad 4.321$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$4.123 < \quad 4.132 < \quad 4.3 < \quad 4.32 < \quad 4.321$
+$4.123, \quad 4.132, \quad 4.3, \quad 4.32, \quad 4.321$
 
 </div>
 </div>

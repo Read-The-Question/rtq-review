@@ -1,7 +1,7 @@
 ---
 slug: "papers/halifax-grammar-school-11-plus-maths-9999-sample-paper-1"
 title: "Halifax Grammar School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "10"
 ---
 <div class='paper'>

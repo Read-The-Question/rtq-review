@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tdetailedaddition-1-g2-prns"
 title: "TopicPaper - Detailedaddition - 1 - G2 - PRNS"
-date: 2022-09-21 20:47:03
+date: 2022-09-24 05:07:09
 questions_count: "40"
 ---
 <ul class='question default-decimal'>

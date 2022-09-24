@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2011-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2011 - Group 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "42"
 ---
 <div class='paper'>
@@ -840,7 +840,7 @@ $12.5 \text{p}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -876,6 +876,35 @@ How many hamsters were there in the survey?
 <div class='workings'>
 <div class='working'>
 
+Let the total number of pets $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {120} {360} \times a     &= 48 \\\\
+a                               &= 48 \times \dfrac {360} {120} \\\\
+a                               &= \dfrac {48 \times 360} {120} \\\\
+a                               &= \dfrac {48 \times 120 \times 3} {120} \\\\
+a                               &= \dfrac {48 \times \cancel {120} \times 3} {\cancel {120}} \\\\
+a                               &= 48 \times 3 \\\\
+a                               &= 144
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Number of hamsters}       &= \dfrac {60} {360} \times 144 \\\\
+                                &= \dfrac {60 \times 144} {360} \\\\
+                                &= \dfrac {60 \times 6 \times 24} {60 \times 6} \\\\
+                                &= \dfrac {\cancel {60} \times \cancel 6 \times 24} {\cancel {60} \times \cancel 6} \\\\
+                                &= 24
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
 Using ratio,
 
 $
@@ -892,7 +921,6 @@ $
 $
 
 Number of hamsters $= 24$
-
 
 </div>
 </div>
@@ -914,6 +942,23 @@ How many dogs?
 
 </div>
 <div class='workings'>
+<div class='working'>
+
+Using value from the answer above,
+
+$
+\begin{aligned}
+\text{Number of dogs}   &= \dfrac {360 - 120 - 60 - 30} {360} \times 144 \\\\
+                        &= \dfrac {150} {360} \times 144 \\\\
+                        &= \dfrac {150 \times 144} {360} \\\\
+                        &= \dfrac {5 \times 30 \times 12 \times 12} {30 \times 12} \\\\
+                        &= \dfrac {5 \times \cancel {30} \times \cancel {12} \times 12} {\cancel {30} \times \cancel {12}} \\\\
+                        &= 5 \times 12 \\\\
+                        &= 60
+\end{aligned}
+$
+
+</div>
 <div class='working'>
 
 Using ratio,
@@ -1404,7 +1449,7 @@ $18$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1467,8 +1512,9 @@ How much **more** money do they need to reach their target?
 
 $
 \begin{aligned}
-\text{Amount of money needed}     &= 50 - 8 - 11 - 4 - 12 - 7 \\\\
-                                  &= 50 - 42 \\\\
+\text{Money raised}               &= 8 + 11 + 4 + 12 + 7 \\\\
+                                  &= \pounds 42 \\\\
+\text{More money needed}          &= 50 - 42 \\\\
                                   &= \pounds 8
 \end{aligned}
 $
@@ -2215,7 +2261,7 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2260,7 +2306,7 @@ Plot the points on the graph and show the length of the sides of square
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(9, 1)$
+Coordinates $= (9, 1)$
 
 </div>
 </div>
@@ -2296,7 +2342,7 @@ Plot the points on the graph and show the length of the sides of rectangle
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(5, 7)$
+Coordinates $= (5, 7)$
 
 </div>
 </div>
@@ -2332,7 +2378,7 @@ Plot the points on the graph and show the length of the sides of square
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(4, 8)$
+Coordinates $= (4, 8)$
 
 </div>
 </div>
@@ -2526,7 +2572,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

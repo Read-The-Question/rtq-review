@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2016-sample-paper-7"
 title: "Sevenoaks School - 11 Plus - Maths - 2016 - Sample Paper 7"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "27"
 ---
 <div class='paper'>
@@ -371,7 +371,7 @@ $15$ coins of each $10$p and $50$p
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -390,9 +390,9 @@ LCM for $10, 20, 3 = 60$
 
 $
 \begin{aligned}
-&= \dfrac {7} {10}, \dfrac {13} {20}, \dfrac {2} {3} \\\\
-&= \dfrac {7 \times 6} {10 \times 6}, \quad  \dfrac {13 \times 3} {20 \times 3 }, \quad \dfrac {2 \times 20} {3 \times 20} \\\\
-&= \dfrac {42} {60}, \dfrac {39} {60}, \dfrac {40} {60}
+&= \dfrac {7} {10}, \quad \dfrac {13} {20}, \quad \dfrac {2} {3} \\\\
+&= \dfrac {7 \times 6} {10 \times 6}, \quad \quad  \dfrac {13 \times 3} {20 \times 3 }, \quad \quad \dfrac {2 \times 20} {3 \times 20} \\\\
+&= \dfrac {42} {60}, \quad \dfrac {39} {60}, \quad \dfrac {40} {60}
 \end{aligned}
 $
 
@@ -400,8 +400,8 @@ Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= \dfrac {39} {60}, \quad \dfrac {40} {60}, \quad \dfrac {42} {60}  \\\\
-&=  \dfrac {13} {20}, \quad \dfrac {2} {3}, \quad \dfrac {7} {10}
+&= \dfrac {39} {60} < \dfrac {40} {60} < \dfrac {42} {60}  \\\\
+&=  \dfrac {13} {20} < \dfrac {2} {3} < \dfrac {7} {10}
 \end{aligned}
 $
 
@@ -574,7 +574,7 @@ $\pounds 30000$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

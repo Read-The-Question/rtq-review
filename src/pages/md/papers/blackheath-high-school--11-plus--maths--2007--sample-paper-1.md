@@ -1,7 +1,7 @@
 ---
 slug: "papers/blackheath-high-school-11-plus-maths-2007-sample-paper-1"
 title: "Blackheath High School - 11 Plus - Maths - 2007 - Sample Paper 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "21"
 ---
 <div class='paper'>
@@ -514,7 +514,7 @@ $\pounds 14.25$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -575,8 +575,8 @@ How many buses were there on Thursday?
 
 $
 \begin{aligned}
-\text{Number of buses on Thursday}      &= 4 \times 20 \\\\
-                                        &= 80
+\text{Buses on Thursday}    &= 4 \times 20 \\\\
+                            &= 80
 \end{aligned}
 $
 
@@ -604,8 +604,8 @@ How many buses were there on Tuesday?
 
 $
 \begin{aligned}
-\text{Number of buses on Tuesday}       &= 4.5 \times 20 \\\\
-                                        &= 90
+\text{Buses on Tuesday}      &= 4.5 \times 20 \\\\
+                                &= 90
 \end{aligned}
 $
 
@@ -637,7 +637,7 @@ On Friday there were $60$ buses. Add this information to the graph.
 
 
 
-Plot the number of buses on the graph
+Plot three buses in the Friday row on the pictograph
 
 
 *ABBR: TODO:: Add drawing ends.*
@@ -667,8 +667,9 @@ How many buses were there in total over the whole week?
 
 $
 \begin{aligned}
-\text{Total number of buses}            &= 5 \times 20 + 4.5 \times 20 + 2 \times 20 + 4 \times 20 + 60 \\\\
-                                        &= 100 + 90 + 40 + 80 + 60 \\\\
+\text{Total number of buses}            &= 20 \times (5 + 4.5 + 2 + 4) + 60 \\\\
+                                        &= 20 \times 15.5 + 60 \\\\
+                                        &= 310 + 60 \\\\
                                         &= 370
 \end{aligned}
 $
@@ -689,7 +690,7 @@ $370$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1284,7 +1285,7 @@ $80 \%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1319,8 +1320,6 @@ Explain why $25 \%$ is one-quarter.
 <div class='workings'>
 <div class='working'>
 
-Since one-quarter is $\dfrac {1} {4}$, so lets expand 25 \%
-
 $
 \begin{aligned}
 &= 25 \% \\\\
@@ -1330,8 +1329,6 @@ $
 &= \dfrac {1} {4}
 \end{aligned}
 $
-
-Hence 25 \% is equal to \dfrac {1} {4}
 
 </div>
 </div>
@@ -1357,13 +1354,12 @@ Snadra chooses a pair of jeans marked $\pounds 48$. How much did Sandra save by 
 
 $
 \begin{aligned}
-\text{Sandra saved} &= 48 - 25 \% \times 48 \\\\
-                    &= 48 - \dfrac {25} {100} \times 48 \\\\
-                    &= 48 - \dfrac {25 \times 48} {100} \\\\
-                    &= 48 - \dfrac {25 \times 4 \times 12} {25 \times 4} \\\\
-                    &= 48 - \dfrac {\cancel {25} \times \cancel {4} \times 12} {\cancel {25} \times \cancel {4}} \\\\
-                    &= 48 - 12 \\\\
-                    &= \pounds 36
+\text{Sandra saved} &= 25 \% \ \text{of} \ 48 \\\\
+                    &= \dfrac {25} {100} \times 48 \\\\
+                    &= \dfrac {25 \times 48} {100} \\\\
+                    &= \dfrac {25 \times 4 \times 12} {25 \times 4} \\\\
+                    &= \dfrac {\cancel {25} \times \cancel {4} \times 12} {\cancel {25} \times \cancel {4}} \\\\
+                    &= \pounds 12
 \end{aligned}
 $
 
@@ -1372,7 +1368,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 36$
+$\pounds 12$
 
 </div>
 </div>
@@ -1391,8 +1387,8 @@ How much will she actually have to pay for them in sale?
 
 $
 \begin{aligned}
-\text{She paid} &= 48 - 36 \\\\
-                &= \pounds 12
+\text{She paid} &= 48 - 12 \\\\
+                &= \pounds 36
 \end{aligned}
 $
 
@@ -1401,7 +1397,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 12$
+$\pounds 36$
 
 </div>
 </div>
@@ -1535,7 +1531,7 @@ Not a fair dice
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1554,7 +1550,12 @@ Mark a third point $N$ so that the three points $L, M$ and $N$ join up to make a
 <div class='workings'>
 <div class='working'>
 
-$(0, 4), (2, 4)$
+B $= (0, 4)$
+
+C $= (2, 4)$
+
+</div>
+<div class='working'>
 
 *ABBR: TODO:: Add drawing starts.*
 
@@ -1562,11 +1563,28 @@ $(0, 4), (2, 4)$
 
 
 
-Plot the points L, M and N to make an isosceles triangle
+Plot the points L and M on the graph
 
 
 *ABBR: TODO:: Add drawing ends.*
 
+
+</div>
+<div class='working'>
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Plot the point N such that L, M and N forms an isosceles triangle
+
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$(0, 3)$
 
 </div>
 </div>
@@ -1574,6 +1592,16 @@ Plot the points L, M and N to make an isosceles triangle
 <div class='answer'>
 
 $(0, 4), (2, 4)$
+
+</div>
+<div class='answer'>
+
+%empty%
+
+</div>
+<div class='answer'>
+
+$(0, 3)$
 
 </div>
 </div>

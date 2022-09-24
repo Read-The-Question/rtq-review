@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-ttemperature-1"
 title: "TopicPaper - Temperature - 1"
-date: 2022-09-21 20:47:03
+date: 2022-09-24 05:07:09
 questions_count: "40"
 ---
 <div class='paper'>
@@ -118,7 +118,7 @@ What was the difference in temperature between Oslo and NewYork?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

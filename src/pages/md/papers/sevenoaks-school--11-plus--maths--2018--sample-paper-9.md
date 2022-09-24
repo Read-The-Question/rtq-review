@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2018-sample-paper-9"
 title: "Sevenoaks School - 11 Plus - Maths - 2018 - Sample Paper 9"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "20"
 ---
 <div class='paper'>
@@ -546,7 +546,7 @@ $325.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -618,7 +618,7 @@ $2, 3, 11$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -651,7 +651,7 @@ How much water should be mixed with $30 \ \text{ml}$ of cordial?
 <div class='workings'>
 <div class='working'>
 
-Let the volume of water $= a$
+Let the water mixed $= a$
 
 Using equivalent ratio,
 
@@ -704,15 +704,15 @@ How much cordial should be used to make $750 \ \text{ml}$ of the drink?
 <div class='workings'>
 <div class='working'>
 
-Let the volume of cordial used $= a$
+Let cordial used $= a$
 
-Volume of water used $= 750 - a$
+Water used $= 750 - a$
 
 Using equivalent ratio,
 
 $
 \begin{aligned}
-1 \ \text{ml} : 4 \ \text{ml}                   &= a \ \text{ml} : (750 - a)) \ \text{ml} \\\\
+1 \ \text{ml} : 4 \ \text{ml}                   &= a \ \text{ml} : (750 - a) \ \text{ml} \\\\
 \dfrac {1} {4}                                  &= \dfrac {a} {750 - a} \\\\
 750 - a                                         &= 4a \\\\
 750                                             &= 4a + a \\\\
@@ -725,12 +725,12 @@ a                                               &= 150 \ \text{ml}
 \end{aligned}
 $
 
-Amount of water $= 150 \ \text{ml}$
+Cordial used $= 150 \ \text{ml}$
 
 </div>
 <div class='working'>
 
-Using ratio,
+Using whole to part ratio,
 
 $
 \begin{array}{cccccccccccccc}
@@ -742,7 +742,7 @@ $
 \end{array}
 $
 
-Amount of water $= 150 \ \text{ml}$
+Cordial used $= 150 \ \text{ml}$
 
 </div>
 </div>

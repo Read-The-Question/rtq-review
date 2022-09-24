@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2014-sample-paper-5"
 title: "Sevenoaks School - 11 Plus - Maths - 2014 - Sample Paper 5"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "18"
 ---
 <div class='paper'>
@@ -560,16 +560,12 @@ $\dfrac {7} {9} , 0.7,\dfrac {770} {1000} , 75 \%$
 <div class='workings'>
 <div class='working'>
 
-To compare, we can convert all the numbers to fractions, decimals or percentages. 
-
-In this case, there are more fractions than percentages, so let's convert all the numbers into fractions.
+Let's convert all the numbers into decimals.
 
 $
 \begin{aligned}
 &= \dfrac {7} {9}, \quad 0.7, \quad \dfrac {770} {1000}, \quad 75\% \\\\
-&= \dfrac {7} {9}, \quad \dfrac {7} {10}, \quad \dfrac {77\cancel {0}} {100\cancel {0}}, \quad \dfrac {75} {100} \\\\
-&= \dfrac {7 \times 100} {9 \times 100}, \quad \dfrac {7 \times 90} {10 \times 90}, \quad \dfrac {77 \times 9} {100 \times 9}, \quad \dfrac {75 \times 9} {9 \times 100} \\\\
-&= \dfrac {700} {900}, \quad \dfrac {630} {900}, \quad \dfrac {693} {900}, \quad \dfrac {675} {900}
+&= 0.\overline{7}, \quad 0.7, \quad 0.77, \quad 0.75
 \end{aligned}
 $
 
@@ -577,8 +573,8 @@ Let's put them in ascending order now,
 
 $
 \begin{aligned}
-&= \dfrac{630}{900}, \quad \dfrac {675} {900},  \quad \dfrac {693} {900}, \quad \dfrac {700} {900} \\\\
-&= 0.7, \quad 75 \%, \quad \dfrac {770} {1000}, \quad \dfrac {7} {9}
+&= 0.7 < 0.75 < 0.77 < 0.\overline{7} \\\\
+&= 0.7 < 75 \% < \dfrac {770} {1000} < \dfrac {7} {9}
 \end{aligned}
 $
 

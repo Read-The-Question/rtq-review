@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2013-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2013 - Group 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "40"
 ---
 <div class='paper'>
@@ -394,7 +394,7 @@ $36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -407,7 +407,7 @@ $5.22 \quad 5.02 \quad 5.202 \quad 5.2$
 <div class='workings'>
 <div class='working'>
 
-$5.02  < \quad  5.2 < \quad 5.202 < \quad 5.22$
+$5.02, \quad  5.2, \quad 5.202, \quad 5.22$
 
 </div>
 </div>
@@ -1630,7 +1630,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1669,7 +1669,7 @@ What fraction of the children in class $6A$ chose swimming?
 
 $
 \begin{aligned}
-\text{Fraction of children who chose swimming}      &= \dfrac {90} {360} \\\\
+\text{Fraction who chose swimming}                  &= \dfrac {90} {360} \\\\
                                                     &= \dfrac {90} {90 \times 4} \\\\
                                                     &= \dfrac {\cancel {90}} {\cancel {90} \times 4} \\\\
                                                     &= \dfrac {1} {4}
@@ -1700,11 +1700,11 @@ What percentage of the children in class $6A$ chose athletics?
 
 $
 \begin{aligned}
-\text{Percentage of children who chose swimming}    &= \dfrac {180} {360} \times 100 \\\\
+\text{\%  who chose athletics}                      &= \dfrac {180} {360} \times 100 \\\\
                                                     &= \dfrac {180 \times 100} {360} \\\\
                                                     &= \dfrac {180 \times 50 \times 2} {180 \times 2} \\\\
                                                     &= \dfrac {\cancel {180} \times 50 \times \cancel 2} {\cancel {180} \times \cancel 2} \\\\
-                                                    &= 50 \ \%
+                                                    &= 50 \%
 \end{aligned}
 $
 
@@ -1713,7 +1713,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$50 \ \%$
+$50 \%$
 
 </div>
 </div>
@@ -1732,7 +1732,7 @@ How many children are there altogether in class $6A$?
 <div class='workings'>
 <div class='working'>
 
-Let the total number of children in class $= a$
+Let the total number of children in the class $= a$
 
 As per the question,
 
@@ -1771,7 +1771,9 @@ How many more children chose athletics than gymnastics?
 
 $
 \begin{aligned}
-\text{Difference}       &= \dfrac {180 - 45} {360} \times 24 \\\\
+\text{Difference}       &= \dfrac {180} {360} \times 24 - \dfrac {45} {360} \times 24 \\\\
+                        &= (\dfrac {180} {360} - \dfrac {45} {360}) \times 24 \\\\
+                        &= \dfrac {180 - 45} {360} \times 24 \\\\
                         &= \dfrac {135} {360} \times 24 \\\\
                         &= \dfrac {135 \times 24} {360} \\\\
                         &= \dfrac {45 \times 3 \times 8 \times 3} {45 \times 8} \\\\
@@ -2340,7 +2342,7 @@ D
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2401,18 +2403,34 @@ Using only whole numbers, write down $3$ possible coordinates of point $R$.
 <div class='workings'>
 <div class='working'>
 
-$(2, 2)$
+*ABBR: TODO:: Add drawing starts.*
 
-$(2, 8)$
+![missing image](/papers/missing_image.svg)
+
+
+
+Plot the traingle with points P, Q, R $(1, 3)$
+
+Plot the traingle with points P, Q, R $(4, 6)$
+
+Plot the traingle with points P, Q, R $(7, 5)$
+
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$(1, 3)$
 
 $(4, 6)$
+
+$(7, 5)$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$(2, 2), (2, 8), (4, 6)$
+$(1, 3), (4, 6), (7, 5)$
 
 </div>
 </div>
@@ -3156,7 +3174,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2011-sample-paper-3"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2011 - Sample Paper 3"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "30"
 ---
 <div class='paper'>
@@ -323,14 +323,14 @@ $7400 \ \text{grams}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Arrange the following numbers in order of size starting with the smallest: 
 
-$32.043, 0.099, 1.072, 0.491, 0.5$
+$32.043, \quad 0.099, \quad 1.072, \quad 0.491, \quad 0.5$
 
 </div>
 <div class='workings'>

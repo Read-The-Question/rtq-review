@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-b"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper B"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "19"
 ---
 <div class='paper'>
@@ -147,7 +147,7 @@ $362$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -160,14 +160,13 @@ $\dfrac{1}{3}, \quad 0.305, \quad 35\%, \quad \dfrac{3}{10}$
 <div class='workings'>
 <div class='working'>
 
-Let's convert all the numbers into percentages.
+Let's convert all the numbers into decimals.
 
 $
 \begin{aligned}
 &= \dfrac {1} {3}, \quad 0.305, \quad 35 \%, \quad \dfrac {3} {10} \\\\
-&= \dfrac {1 \times 100} {3}\%, \quad \dfrac {305} {1000} \times 100\%, \quad 35 \%, \quad \dfrac {3 \times 100} {10}\% \\\\
-&= \dfrac {100} {3} \%, \quad 30.5 \%, \quad 35 \%, \quad \dfrac {3 \times 10 \cancel {0}} {1 \cancel {0}} \% \\\\
-&= 33.33 \%, \quad 30.5 \%, \quad 35 \%, \quad 30 \%
+&= 0.33\overline{3}, \quad 0.305 , \quad \dfrac {35} {100}, \quad 0.3 \\\\
+&= 0.33\overline{3}, \quad 0.305 , \quad 0.35, \quad 0.3
 \end{aligned}
 $
 
@@ -175,8 +174,8 @@ Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= 30 \%, \quad 30.5 \%, \quad 33.33 \%, \quad 35 \% \\\\
-&= \dfrac {3} {10}, \quad 0.305, \quad \dfrac {1} {3}, \quad 35 \%
+&= 0.3 < 0.305 < 0.33\overline{3} < 0.35 \\\\
+&= \dfrac {3} {10} <  0.305 < \dfrac {1} {3} <  35 \%
 \end{aligned}
 $
 
@@ -860,7 +859,7 @@ $2 \ \text {hours} \ 30 \ \text {minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -962,7 +961,11 @@ Draw the reflected image of the triangle across this mirror line and label the t
 
 
 
-Plot the reflected points on the graph
+Plot the reflection of the triangle ABC in the line $x = 3$ on the graph
+
+Coordinate of point D = $(1, 2)$
+
+Coordinate of point E = $(2, 5)$
 
 
 *ABBR: TODO:: Add drawing ends.*
@@ -990,16 +993,21 @@ Write down the co-ordinates of these new points $D$ and $E$:
 <div class='workings'>
 <div class='working'>
 
-D is at $(1, 2)$
+D $= (1, 2)$
 
-E is at $(2, 5)$
+E $= (2, 5)$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$(1, 2), (2, 5)$
+D $=$ $(1, 2)$
+
+</div>
+<div class='answer'>
+
+E $=$ $(2, 5)$
 
 </div>
 </div>
@@ -1020,7 +1028,21 @@ Write down which new point completes this triangle in the diagram and explain br
 <div class='workings'>
 <div class='working'>
 
-Point E will form an isosceles because an isosceles triangle has at least one pair of equal sides.
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Plot the sidelengths of both triangle A, E, origin and A, D, origin
+
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+Point E, A and the origin will complete an isosceles triangle.
+
+An isosceles triangle has two equal sides.
 
 </div>
 </div>
@@ -1076,7 +1098,7 @@ $0.4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1118,7 +1140,7 @@ Use the information in the table and the bar chart to complete the entry for **W
 
 |         Day         | Mon | Tues | Wed | Thur | Fri | Sat | Sun |
 |:-------------------:|:---:|:----:|:---:|:----:|:---:|:---:|:---:|
-| Number of cars sold | $3$ | $5 $ | $2$ | $1$  | $4$ | $7$ |     |
+| Number of cars sold | $3$ | $5 $ | $\green{2}$ | $1$  | $4$ | $7$ |     |
 
 *ABBR: TODO:: Add drawing starts.*
 
@@ -1157,7 +1179,7 @@ The total number of cars sold in the week was $28$. Use this information to help
 
 $
 \begin{aligned}
-\text{Number of cars sold on Sunday}    &= 28 - 3 - 5 - 2 - 1 - 4 - 7 \\\\
+\text{Cars sold on Sunday}              &= 28 - 3 - 5 - 2 - 1 - 4 - 7 \\\\
                                         &= 28 - 22 \\\\
                                         &= 6
 \end{aligned}
@@ -1165,7 +1187,7 @@ $
 
 |         Day         | Mon | Tues | Wed | Thur | Fri | Sat | Sun |
 |:-------------------:|:---:|:----:|:---:|:----:|:---:|:---:|:---:|
-| Number of cars sold | $3$ | $5 $ | $2$ | $1$  | $4$ | $7$ | $6$ |
+| Number of cars sold | $3$ | $5 $ | $2$ | $1$  | $4$ | $7$ | $\green{6}$ |
 
 *ABBR: TODO:: Add drawing starts.*
 

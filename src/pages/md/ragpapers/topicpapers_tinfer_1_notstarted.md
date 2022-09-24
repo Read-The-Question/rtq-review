@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tinfer-1-notstarted"
 title: "TopicPaper - Infer - 1 - NOTSTARTED"
-date: 2022-09-21 20:40:31
+date: 2022-09-24 04:59:20
 questions_count: "37"
 ---
 <ul class='question default-decimal'>
@@ -304,8 +304,6 @@ $
    \hline
 \end{darray}
 $
-
-![alleyns-school--11-plus--maths--9999--sample-paper-1/section-1-question-26-subquestion-1-00.png](/assets/alleyns-school--11-plus--maths--9999--sample-paper-1/section-1-question-26-subquestion-1-00.png "alleyns-school--11-plus--maths--9999--sample-paper-1/section-1-question-26-subquestion-1-00.png")
 
 </div>
 <div class='workings'>

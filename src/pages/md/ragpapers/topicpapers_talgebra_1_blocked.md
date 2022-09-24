@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-1-blocked"
 title: "TopicPaper - Algebra - 1 - BLOCKED"
-date: 2022-09-21 20:40:31
+date: 2022-09-24 04:59:20
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -20,6 +20,8 @@ $\boxed{p = 3x}$
 As $x$ increases, $p$ decreases.
 
 For each function below, tick $(\checkmark)$ the correct box.
+
+![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-5-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-5-00.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-5-00.png")
 
 $\boxed{q = x - 2}$
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2019-sample-paper-10"
 title: "Sevenoaks School - 11 Plus - Maths - 2019 - Sample Paper 10"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "20"
 ---
 <div class='paper'>
@@ -942,7 +942,7 @@ $48$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -964,7 +964,6 @@ $
 2 \ \text{g} : 7 \ \text{g}                     &= a \ \text{g} : (117 - a) \ \text{g} \\\\
 \dfrac {2} {7}                                  &= \dfrac {a} {117 - a} \\\\
 2 \times (117 - a)                              &= 7a \\\\
-2 \times 117 - 2a                               &= 7a \\\\
 234 - 2a                                        &= 7a \\\\
 234                                             &= 7a + 2a \\\\
 2a + 7a                                         &= 234 \\\\

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2008-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2008 - Group 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "43"
 ---
 <div class='paper'>
@@ -250,7 +250,7 @@ $90$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -264,9 +264,7 @@ $3 \dfrac{1}{4}  \quad   3.34  \quad   3 \dfrac{3}{4}  \quad   3.025$
 <div class='workings'>
 <div class='working'>
 
-To compare, we can convert all the numbers to fractions, decimals or percentages. 
-
-In this case, there are more decimals than fractions, so let's convert all the numbers into decimals.
+Let's convert all the numbers into decimals.
 
 $
 \begin{aligned}
@@ -279,8 +277,8 @@ Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= 3.025,  \quad   3.25,  \quad   3.34,  \quad   3.75 \\\\
-&= 3.025,  \quad   3 \dfrac{1}{4},  \quad   3.34,  \quad   3 \dfrac{3}{4}
+&= 3.025 < 3.25 < 3.34 < 3.75 \\\\
+&= 3.025 < 3 \dfrac{1}{4} < 3.34 < 3 \dfrac{3}{4}
 \end{aligned}
 $
 
@@ -1510,7 +1508,7 @@ Shape B has a greater fraction shaded than A.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1545,10 +1543,13 @@ What angle has been used to show yellow?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$
+
+
 $
 \begin{aligned}
-\text{Angle used to show yellow}      &= 360 - 180 - 90 - 60 \\\\
-                                      &= 30 \degree
+\text{Angle for yellow}      &= 180 - 90 - 60 \\\\
+                             &= 30 \degree
 \end{aligned}
 $
 
@@ -1576,11 +1577,11 @@ What percentage of pupils have red as their favourite colour?
 
 $
 \begin{aligned}
-\text{Percentage of pupils with favourite colour as red}  &= \dfrac {90} {360} \times 100 \\\\
-                                                          &= \dfrac {90 \times 100} {360} \\\\
-                                                          &= \dfrac {90 \times 4 \times 25} {90 \times 4} \\\\
-                                                          &= \dfrac {\cancel {90} \times \cancel 4 \times 25} {\cancel {90} \times \cancel 4} \\\\
-                                                          &= 25 \ \%
+\text{\% with favourite colour red}   &= \dfrac {90} {360} \times 180 \\\\
+                                      &= \dfrac {90 \times 180} {360} \\\\
+                                      &= \dfrac {45 \times 2 \times 180} {180 \times 2} \\\\
+                                      &= \dfrac {45 \times \cancel 2 \times \cancel {180}} {\cancel {180} \times \cancel 2} \\\\
+                                      &= 45 \ \%
 \end{aligned}
 $
 
@@ -1589,7 +1590,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$25 \ \%$
+$45 \ \%$
 
 </div>
 </div>
@@ -1606,9 +1607,12 @@ How many pupils have black as their favourite colour?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Angles around a point add up to} = 360 \degree$
+
+
 $
 \begin{aligned}
-\text{Number of pupils with favourite colour as black}    &= \dfrac {360 - 180} {360} \times 180 \\\\
+\text{\% with favourite colour black}                     &= \dfrac {360 - 180} {360} \times 180 \\\\
                                                           &= \dfrac {180} {360} \times 180 \\\\
                                                           &= \dfrac {180 \times 180} {360} \\\\
                                                           &= \dfrac {180 \times 2 \times 90} {180 \times 2} \\\\
@@ -1746,7 +1750,7 @@ $20 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tspeed-2-g0-prpcc"
 title: "TopicPaper - Speed - 2 - G0 - PRPCC"
-date: 2022-09-21 20:40:31
+date: 2022-09-24 04:59:20
 questions_count: "2"
 ---
 <ul class='question default-decimal'>

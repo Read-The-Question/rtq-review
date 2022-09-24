@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2017-sample-paper-1"
 title: "St Pauls Girls School - 11 Plus - Maths - 2017 - Sample Paper 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "31"
 ---
 <div class='paper'>
@@ -190,7 +190,7 @@ $\dfrac{2}{3}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -203,22 +203,14 @@ $4.321, \quad 4.32, \quad 4.132, \quad 4.3, \quad 4.123$
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-&= 4.321, \quad 4.32, \quad 4.132, \quad 4.3, \quad 4.123 \\\\
-&= 4.321, \quad 4.320, \quad 4.132, \quad 4.300, \quad 4.123 \\\\
-&\text{Let's put them in ascending order now.} \\\\
-&= 4.123 < \quad 4.132 < \quad 4.300 < \quad 4.320 < \quad 4.321 \\\\
-&= 4.123 < \quad 4.132 < \quad 4.3 < \quad 4.32 < \quad 4.321
-\end{aligned}
-$
+$4.123, \quad 4.132, \quad 4.3, \quad 4.32, \quad 4.321$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$4.123 < \quad 4.132 < \quad 4.3 < \quad 4.32 < \quad 4.321$
+$4.123, \quad 4.132, \quad 4.3, \quad 4.32, \quad 4.321$
 
 </div>
 </div>

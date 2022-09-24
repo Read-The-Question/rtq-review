@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2011-sample-paper-2"
 title: "Reigate Grammar School - 11 Plus - Maths - 2011 - Sample Paper 2"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "38"
 ---
 <div class='paper'>
@@ -677,7 +677,7 @@ $50$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -707,30 +707,6 @@ Let's put them in decending order now.
 $
 \begin{aligned}
 &= \dfrac {48} {120} > \dfrac {45} {120} > \dfrac {40}{120} \\\\
-&= \dfrac {2} {5} > \dfrac {3} {8} > \dfrac {1} {3}
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-Alternative solution
-
-If two or more fraction has common numerator then fraction with smallest denominator is the largest.
-
-$
-\begin{aligned}
-&= \dfrac {1} {3} , \quad \dfrac {3} {8} , \quad \dfrac{2} {5} \\\\
-&= \dfrac {1 \times 6} {3 \times 6} , \quad \dfrac {3 \times 2} {8 \times 2} , \quad \dfrac {2 \times 3} {5 \times 3} \\\\
-&= \dfrac {6} {18} , \quad \dfrac {6} {16} , \quad \dfrac {6} {15}
-\end{aligned}
-$
-
-Let's put them in decending order now.
-
-$
-\begin{aligned}
-&= \dfrac {6} {15} > \dfrac {6} {16} > \dfrac {6}{18} \\\\
 &= \dfrac {2} {5} > \dfrac {3} {8} > \dfrac {1} {3}
 \end{aligned}
 $
@@ -880,7 +856,7 @@ $255 \text{p}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

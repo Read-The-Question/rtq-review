@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2008-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2008 - Group 2"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "39"
 ---
 <div class='paper'>
@@ -775,7 +775,7 @@ $8 \ \text{hours} \ 15 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -794,23 +794,13 @@ $
 <div class='workings'>
 <div class='working'>
 
-To compare, we can convert all the numbers to fractions, decimals or percentages.
-
-In this case, there are more fractions than percentages, so let's convert all the numbers into fractions.
+Let's convert all the numbers into decimals.
 
 $
 \begin{aligned}
 &= 0.7, \quad \dfrac {3} {4}, \quad \dfrac {4} {5},  \quad 0.65, \quad \text{five twelfths} \\\\
-&= \dfrac {7} {10}, \quad \dfrac {3} {4}, \quad \dfrac {4} {5},  \quad \dfrac {65} {100}, \quad \dfrac {5} {12}
-\end{aligned}
-$
-
-LCM of $10, \ 4, \ 5, \ 100, \ 12 = 300$
-
-$
-\begin{aligned}
-&= \dfrac {7 \times 30} {10 \times 30}, \quad \dfrac {3 \times 75} {4 \times 75}, \quad \dfrac {4 \times 60} {5 \times 60},  \quad \dfrac {65 \times 3} {100 \times 3}, \quad \dfrac {5 \times 25} {12 \times 25} \\\\
-&= \dfrac {210} {300}, \quad \dfrac {225} {300}, \quad \dfrac {240} {300},  \quad \dfrac {195} {300}, \quad \dfrac {125} {300}
+&= 0.7, \quad 0.75, \quad 0.8,  \quad 0.65, \quad \dfrac {5} {12} \\\\
+&= 0.7, \quad 0.75, \quad 0.8,  \quad 0.65, \quad 0.41\overline{6}
 \end{aligned}
 $
 
@@ -818,8 +808,8 @@ Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= \dfrac {125} {300}, \quad \dfrac {195} {300}, \quad \dfrac {210} {300},  \quad \dfrac {225} {300}, \quad \dfrac {240} {300} \\\\
-&= \text{five twelfths}, \quad 0.65, \quad 0.7,  \quad \dfrac {3} {4}, \quad \dfrac {4} {5}
+&= 0.41\overline{6} < 0.65 < 0.7,  \quad 0.75 < 0.8 \\\\
+&= \text{five twelfths} < 0.65 < 0.7,  \quad \dfrac {3} {4} < \dfrac {4} {5}
 \end{aligned}
 $
 

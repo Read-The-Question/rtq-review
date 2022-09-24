@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tareaperimeter-5-g2"
 title: "TopicPaper - Areaperimeter - 5 - G2"
-date: 2022-09-21 20:47:03
+date: 2022-09-24 05:07:09
 questions_count: "17"
 ---
 <ul class='question default-decimal'>

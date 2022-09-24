@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-1-g1-prns"
 title: "TopicPaper - Algebra - 1 - G1 - PRNS"
-date: 2022-09-21 20:40:31
+date: 2022-09-24 04:59:20
 questions_count: "38"
 ---
 <ul class='question default-decimal'>
@@ -498,6 +498,7 @@ The total weight of one large and three small cans of Best Beans is $1.25 \ \tex
 The large can weighs $425 \ \text{grams}$.
 
 ![aldenham-school--11-plus--maths--9999--sample-paper-2/section-1-question-8-00.png](/assets/aldenham-school--11-plus--maths--9999--sample-paper-2/section-1-question-8-00.png "aldenham-school--11-plus--maths--9999--sample-paper-2/section-1-question-8-00.png")
+![aldenham-school--11-plus--maths--9999--sample-paper-2/section-1-question-8-01.png](/assets/aldenham-school--11-plus--maths--9999--sample-paper-2/section-1-question-8-01.png "aldenham-school--11-plus--maths--9999--sample-paper-2/section-1-question-8-01.png")
 
 Work out the weight of one small can.
 
@@ -1783,6 +1784,8 @@ A pen costs $m$ pence.
 Match each statement with the correct expression for the amount in pence.
 
 The first on is done for you.
+
+![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-10-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-10-00.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-10-00.png")
 
 Statement
 - The total cost of $5$ rulers

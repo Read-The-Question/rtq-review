@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-georges-college-11-plus-maths-9999-sample-paper-2"
 title: "St Georges College - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "24"
 ---
 <div class='paper'>
@@ -383,7 +383,7 @@ $\dfrac{3}{25}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -396,20 +396,14 @@ $9.7, \quad 9.63, \quad 9.099, \quad 9.199, \quad 9.20001$
 <div class='workings'>
 <div class='working'>
 
-Let's put them in ascending order.
-
-$
-\begin{aligned}
-&= 9.099, \quad 9.199, \quad 9.20001, \quad  9.36, \quad 9.7
-\end{aligned}
-$
+$9.099, \quad 9.199, \quad 9.20001, \quad  9.63, \quad 9.7$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$9.099, \quad 9.199, \quad 9.20001, \quad  9.36, \quad 9.7$
+$9.099, \quad 9.199, \quad 9.20001, \quad  9.63, \quad 9.7$
 
 </div>
 </div>

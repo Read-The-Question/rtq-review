@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2020-sample-paper-6"
 title: "Bancrofts School - 11 Plus - Maths - 2020 - Sample Paper 6"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "37"
 ---
 <div class='paper'>
@@ -2054,6 +2054,7 @@ When piece $A$ is turned over, which one of the shapes below shows its black sid
 Put a ring around the correct answer.
 
 ![bancrofts-school--11-plus--maths--2020--sample-paper-6/section-1-question-23-00.png](/assets/bancrofts-school--11-plus--maths--2020--sample-paper-6/section-1-question-23-00.png "bancrofts-school--11-plus--maths--2020--sample-paper-6/section-1-question-23-00.png")
+![bancrofts-school--11-plus--maths--2020--sample-paper-6/section-1-question-23-01.png](/assets/bancrofts-school--11-plus--maths--2020--sample-paper-6/section-1-question-23-01.png "bancrofts-school--11-plus--maths--2020--sample-paper-6/section-1-question-23-01.png")
 
 </div>
 <div class='workings'>
@@ -2527,6 +2528,7 @@ The diagram shows a pentagonal prism.
 Write the letter of the one shape below that is a net for the pentagonal prism.
 
 ![bancrofts-school--11-plus--maths--2020--sample-paper-6/section-1-question-30-00.png](/assets/bancrofts-school--11-plus--maths--2020--sample-paper-6/section-1-question-30-00.png "bancrofts-school--11-plus--maths--2020--sample-paper-6/section-1-question-30-00.png")
+![bancrofts-school--11-plus--maths--2020--sample-paper-6/section-1-question-30-01.png](/assets/bancrofts-school--11-plus--maths--2020--sample-paper-6/section-1-question-30-01.png "bancrofts-school--11-plus--maths--2020--sample-paper-6/section-1-question-30-01.png")
 
 </div>
 <div class='workings'>

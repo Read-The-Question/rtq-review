@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-torder-3-pr-prcr"
 title: "TopicPaper - Order - 3 - PR - PRCR"
-date: 2022-09-21 20:47:03
+date: 2022-09-24 05:07:09
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -13,7 +13,7 @@ questions_count: "1"
 
 Arrange the following numbers in order of size starting with the smallest: 
 
-$32.043, 0.099, 1.072, 0.491, 0.5$
+$32.043, \quad 0.099, \quad 1.072, \quad 0.491, \quad 0.5$
 
 </div>
 

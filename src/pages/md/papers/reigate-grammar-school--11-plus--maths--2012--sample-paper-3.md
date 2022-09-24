@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2012-sample-paper-3"
 title: "Reigate Grammar School - 11 Plus - Maths - 2012 - Sample Paper 3"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "45"
 ---
 <div class='paper'>
@@ -702,27 +702,16 @@ $70\%\:\: 0.65\:\:\dfrac{4}{5}$
 <div class='workings'>
 <div class='working'>
 
-Let's convert all the numbers into percentages.
+Let's convert all the numbers into decimals.
 
 $
 \begin{aligned}
 &= 70\% , \quad 0.65 , \quad \dfrac {4} {5} \\\\
-&= 70\% , \quad \dfrac {65} {100} , \quad \dfrac {4 \times 20} {5 \times 20} \\\\
-&= 70\% , \quad 65\% , \quad \dfrac {80} {100} \\\\
-&= 70\% , \quad 65\% , \quad 80\%
+&= 0.7 , \quad 0.65 , \quad 0.8
 \end{aligned}
 $
 
-Let's put them in acending order now.
-
-$
-\begin{aligned}
-&= 65\%, < 70\%, < 80\% \\\\
-&= 0.65, < 70\%, < \dfrac {4} {5}
-\end{aligned}
-$
-
-Largest $= \dfrac {4} {5}$
+Largest $= 0.8 = \dfrac {4} {5}$
 
 Smallest $= 0.65$
 
@@ -732,6 +721,9 @@ Smallest $= 0.65$
 <div class='answer'>
 
 Largest $= \dfrac {4} {5}$
+
+</div>
+<div class='answer'>
 
 Smallest $= 0.65$
 
@@ -1299,7 +1291,7 @@ $21$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

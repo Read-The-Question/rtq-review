@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2016-sample-paper-1"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "43"
 ---
 <div class='paper'>
@@ -14,7 +14,7 @@ questions_count: "43"
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -47,7 +47,7 @@ $\pounds 57.85$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -254,7 +254,7 @@ $60 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -275,14 +275,9 @@ Which statement is wrong?
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-\text{Difference between red and yellow}                &= 10 - 3 \\\\
-                                                        &= 7 \\\\
-\text{Total pupils in class}                            &= 4 + 10 + 3 + 7 + 6 \\\\
-                                                        &= 30
-\end{aligned}
-$
+Following statement is wrong:
+
+There are ten pupils in the class
 
 </div>
 </div>
@@ -292,7 +287,7 @@ $
 </div>
 <div class='answer'>
 
-There are ten pupils in the class
+There are ten pupils in the class.
 
 </div>
 </div>
@@ -647,7 +642,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -664,8 +659,8 @@ How many members were aged $25$ or older?
 
 $
 \begin{aligned}
-\text{Number of members with age 25 or more}            &= 17 + 9 \\\\
-                                                        &= 26
+\text{Number of members age 25 or more}     &= 17 + 9 \\\\
+                                            &= 26
 \end{aligned}
 $
 
@@ -1257,7 +1252,7 @@ $9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-1"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "20"
 ---
 <div class='paper'>
@@ -288,7 +288,7 @@ $2300$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -323,14 +323,14 @@ $540, 452, 524, 425, 504$
 <div class='workings'>
 <div class='working'>
 
-$425, 452, 504, 524, 540$
+$425, \quad 452, \quad 504, \quad 524, \quad 540$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$425, 452, 504, 524, 540$
+$425, \quad 452, \quad 504, \quad 524, \quad 540$
 
 </div>
 </div>

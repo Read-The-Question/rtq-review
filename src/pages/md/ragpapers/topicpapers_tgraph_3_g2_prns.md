@@ -1,12 +1,12 @@
 ---
-slug: "ragpapers/topicpapers-tgraph-3-g3"
-title: "TopicPaper - Graph - 3 - G3"
-date: 2022-09-21 20:40:31
+slug: "ragpapers/topicpapers-tgraph-3-g2-prns"
+title: "TopicPaper - Graph - 3 - G2 - PRNS"
+date: 2022-09-24 04:59:20
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g3 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

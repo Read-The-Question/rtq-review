@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tgraph-1-pr-prpcr"
 title: "TopicPaper - Graph - 1 - PR - PRPCR"
-date: 2022-09-21 20:47:03
+date: 2022-09-24 05:07:09
 questions_count: "10"
 ---
 <ul class='question default-decimal'>
@@ -21,7 +21,7 @@ I put square tiles on a large grid so that the tiles touch at the corners. The d
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The **bottom right-hand** corner of **tile** $\bold{2}$ is marked with a TODO
+The **bottom right-hand** corner of **tile** $2$ is marked with a $\spadesuit$.
 
 Write the coordinates of this point.
 
@@ -33,7 +33,7 @@ Write the coordinates of this point.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-**Tile** $\bold{4}$ touches two other tiles.
+**Tile** $4$ touches two other tiles.
 Write the coordinates of the points where tile $4$ touches two other tiles.
 
 </div>
@@ -44,7 +44,7 @@ Write the coordinates of the points where tile $4$ touches two other tiles.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write the coordinates of the points where **tile** $\bold{17}$ touches two other tiles.
+Write the coordinates of the points where **tile** $17$ touches two other tiles.
 
 </div>
 
@@ -54,7 +54,7 @@ Write the coordinates of the points where **tile** $\bold{17}$ touches two other
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-I have $\bold{30}$ **tiles** to make a pattern on a grid. The pattern is a series of squares.
+I have $30$ **tiles** to make a pattern on a grid. The pattern is a series of squares.
 
 
 ![alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-2-question-17-subquestion-4-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-2-question-17-subquestion-4-00.png "alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-2-question-17-subquestion-4-00.png")

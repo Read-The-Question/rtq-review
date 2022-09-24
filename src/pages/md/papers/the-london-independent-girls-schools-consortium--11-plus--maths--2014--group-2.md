@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2014-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2014 - Group 2"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "41"
 ---
 <div class='paper'>
@@ -231,7 +231,7 @@ $2080$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -244,11 +244,11 @@ $3.64 \quad 3.564 \quad 3.654 \quad 3.465 \quad 3.546$
 <div class='workings'>
 <div class='working'>
 
-Let's write the numbers in increasing order to find the middle number,
+Let's put them in ascending order now.
 
 $3.465, \quad 3.546, \quad 3.564, \quad 3.64, \quad 3.654$
 
-$3.564$ is in middle when the numbers are written in size orders.
+Middle number $= 3.564$
 
 </div>
 </div>

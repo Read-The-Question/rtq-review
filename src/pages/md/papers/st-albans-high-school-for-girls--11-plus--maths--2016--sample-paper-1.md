@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-high-school-for-girls-11-plus-maths-2016-sample-paper-1"
 title: "St Albans High School For Girls - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "32"
 ---
 <div class='paper'>
@@ -1193,7 +1193,7 @@ $36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1216,7 +1216,6 @@ $
 \pounds 2 : \pounds 3          &= \pounds (75 - a) : \pounds a \\\\
 \dfrac {2} {3}                 &= \dfrac {75 - a} {a} \\\\
 2a                             &= 3 \times (75 - a) \\\\
-2a                             &= 3 \times 75 - 3a \\\\
 2a                             &= 225 - 3a \\\\
 2a + 3a                        &= 225 \\\\
 5a                             &= 225 \\\\
@@ -1227,13 +1226,10 @@ a                              &= \pounds 45
 \end{aligned}
 $
 
-$
-\begin{aligned}
-\text{Money received by Jason}        &= \pounds 45 \\\\
-\text{Money received by Patrick}      &= 75 - 45 \\\\
-                                      &= \pounds 30
-\end{aligned}
-$
+
+Money received by Jason $= \pounds 45$
+
+Money received by Patrick $= 75 - 45 = \pounds 30$
 
 </div>
 <div class='working'>
@@ -1242,24 +1238,30 @@ Using whole to part ratio,
 
 $
 \begin{array}{cccccccccccccc}
-  & \pounds                     &:& \pounds                     &:& \pounds \\\\
-= & 2 + 3                       &:& 2                           &:& 3 \\\\
+  & \text{Total}                &:& \text{Patrick}              &:& \text{Jason} \\\\
+= & \pounds (2 + 3)             &:& \pounds 2                   &:& \pounds 3 \\\\
 = & 5                           &:& 2                           &:& 3 \\\\
 = & 5 \times 15                 &:& 2 \times 15                 &:& 3 \times 15 \\\\
 = & \pounds 75                  &:& \pounds 30                  &:& \pounds 45
 \end{array}
 $
 
-Money received by Patrick $= \pounds 30$
 
 Money received by Jason $= \pounds 45$
+
+Money received by Patrick $= \pounds 30$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 45, \pounds 30$
+Jason $=$ $\pounds 45$
+
+</div>
+<div class='answer'>
+
+Patrick $=$ $\pounds 30$
 
 </div>
 </div>

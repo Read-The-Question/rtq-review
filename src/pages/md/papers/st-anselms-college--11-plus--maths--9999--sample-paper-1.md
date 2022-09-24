@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-1"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "24"
 ---
 <div class='paper'>
@@ -1002,7 +1002,7 @@ $\text {South}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g3 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1500,7 +1500,7 @@ $45.2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1513,19 +1513,14 @@ $0.56 \,\,\,\,  0.5  \,\,\,\,  0.051 \,\,\,\,  0.507 \,\,\,\,  0.308$
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-&= 0.051  \ \ < \quad  0.5 \ \ < \quad  0.5 \ \ < \quad 0.507 \ \ < \quad 0.56 \\\\
-&= 0.051  \ \quad  0.5 \ \quad  0.5 \ \quad 0.507 \ \quad 0.56
-\end{aligned}
-$
+$0.051, \quad  0.308, \quad  0.5, \quad 0.507, \quad 0.56$ 
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$0.051  \ \quad  0.5 \ \quad  0.5 \ \quad 0.507 \ \quad 0.56$ 
+$0.051, \quad  0.308, \quad  0.5, \quad 0.507, \quad 0.56$ 
 
 </div>
 </div>

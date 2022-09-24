@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2016-sample-paper-2"
 title: "Oundle School - 11 Plus - Maths - 2016 - Sample Paper 2"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "18"
 ---
 <div class='paper'>
@@ -484,7 +484,7 @@ $5, \ 4, \ 1, \ 3, \ 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -495,15 +495,16 @@ A book usually costs $\pounds 18.60$ but it is reduced by $15\%$.How much does i
 <div class='workings'>
 <div class='working'>
 
+If the price is reduced by $15 \%$, then the sale price will be $100 - 15 = 85 \%$ of the original price. Using that we get,
+
 $
-\begin{aligned}
-&= \dfrac {15} {100} \times 18.60 \% \\\\
-&= \dfrac {15 \times 18.60} {100} \\\\
-&= \dfrac {279} {100} \\\\
-&= 2.79 \\\\
-&= 18.60 - 2.79 \\\\
-&= 15.81
-\end{aligned}
+\begin {aligned}
+\text {New price}         &= 85 \% \ \text {of} \ 18.60 \\\\
+                          &= \dfrac {85} {100} \times 18.6 \\\\
+                          &= \dfrac {85 \times 18.6} {100} \\\\
+                          &= \dfrac {1581} {100} \\\\
+                          &= \pounds 15.81
+\end {aligned}
 $
 
 </div>
@@ -511,7 +512,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$15.81$
+$\pounds 15.81$
 
 </div>
 </div>
@@ -821,7 +822,7 @@ twenty-one over thirty-two
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

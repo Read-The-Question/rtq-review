@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tgraph-5"
 title: "TopicPaper - Graph - 5"
-date: 2022-09-21 20:40:31
+date: 2022-09-24 04:59:20
 questions_count: "40"
 ---
 <div class='paper'>
@@ -16,7 +16,7 @@ questions_count: "40"
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -51,10 +51,13 @@ What angle has been used to show yellow?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$
+
+
 $
 \begin{aligned}
-\text{Angle used to show yellow}      &= 360 - 180 - 90 - 60 \\\\
-                                      &= 30 \degree
+\text{Angle for yellow}      &= 180 - 90 - 60 \\\\
+                             &= 30 \degree
 \end{aligned}
 $
 
@@ -82,11 +85,11 @@ What percentage of pupils have red as their favourite colour?
 
 $
 \begin{aligned}
-\text{Percentage of pupils with favourite colour as red}  &= \dfrac {90} {360} \times 100 \\\\
-                                                          &= \dfrac {90 \times 100} {360} \\\\
-                                                          &= \dfrac {90 \times 4 \times 25} {90 \times 4} \\\\
-                                                          &= \dfrac {\cancel {90} \times \cancel 4 \times 25} {\cancel {90} \times \cancel 4} \\\\
-                                                          &= 25 \ \%
+\text{\% with favourite colour red}   &= \dfrac {90} {360} \times 180 \\\\
+                                      &= \dfrac {90 \times 180} {360} \\\\
+                                      &= \dfrac {45 \times 2 \times 180} {180 \times 2} \\\\
+                                      &= \dfrac {45 \times \cancel 2 \times \cancel {180}} {\cancel {180} \times \cancel 2} \\\\
+                                      &= 45 \ \%
 \end{aligned}
 $
 
@@ -95,7 +98,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$25 \ \%$
+$45 \ \%$
 
 </div>
 </div>
@@ -112,9 +115,12 @@ How many pupils have black as their favourite colour?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Angles around a point add up to} = 360 \degree$
+
+
 $
 \begin{aligned}
-\text{Number of pupils with favourite colour as black}    &= \dfrac {360 - 180} {360} \times 180 \\\\
+\text{\% with favourite colour black}                     &= \dfrac {360 - 180} {360} \times 180 \\\\
                                                           &= \dfrac {180} {360} \times 180 \\\\
                                                           &= \dfrac {180 \times 180} {360} \\\\
                                                           &= \dfrac {180 \times 2 \times 90} {180 \times 2} \\\\
@@ -139,7 +145,7 @@ $90$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -245,7 +251,7 @@ $13$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -372,7 +378,7 @@ $48 \degree \text{C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -410,7 +416,7 @@ How many pupils chose Comedy?
 
 $
 \begin{aligned}
-\text{Number of pupils who chose comedy}    &= \dfrac {90} {360} \times 72 \\\\
+\text{Pupils who chose comedy}              &= \dfrac {90} {360} \times 72 \\\\
                                             &= \dfrac {90 \times 72} {360} \\\\
                                             &= \dfrac {90 \times 4 \times 18} {90 \times 4} \\\\
                                             &= \dfrac {\cancel {90} \times \cancel 4 \times 18} {\cancel {90} \times \cancel 4} \\\\
@@ -440,6 +446,9 @@ What angle should be in the sector representing Romance?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Angles around a point add up to} = 360 \degree$
+
+
 $
 \begin{aligned}
 \text{Angle of Romance sector}      &= 360 - 160 - 90 - 60 \\\\
@@ -463,7 +472,7 @@ $50 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -560,7 +569,7 @@ Trapezium
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -627,6 +636,9 @@ What fraction of the cars were blue?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$
+
+
 $
 \begin{aligned}
 \text{Fraction of blue cars}    &= \dfrac {180 - 45} {360} \\\\
@@ -653,7 +665,7 @@ $\dfrac {3} {8}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -689,6 +701,35 @@ How many hamsters were there in the survey?
 <div class='workings'>
 <div class='working'>
 
+Let the total number of pets $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {120} {360} \times a     &= 48 \\\\
+a                               &= 48 \times \dfrac {360} {120} \\\\
+a                               &= \dfrac {48 \times 360} {120} \\\\
+a                               &= \dfrac {48 \times 120 \times 3} {120} \\\\
+a                               &= \dfrac {48 \times \cancel {120} \times 3} {\cancel {120}} \\\\
+a                               &= 48 \times 3 \\\\
+a                               &= 144
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Number of hamsters}       &= \dfrac {60} {360} \times 144 \\\\
+                                &= \dfrac {60 \times 144} {360} \\\\
+                                &= \dfrac {60 \times 6 \times 24} {60 \times 6} \\\\
+                                &= \dfrac {\cancel {60} \times \cancel 6 \times 24} {\cancel {60} \times \cancel 6} \\\\
+                                &= 24
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
 Using ratio,
 
 $
@@ -705,7 +746,6 @@ $
 $
 
 Number of hamsters $= 24$
-
 
 </div>
 </div>
@@ -727,6 +767,23 @@ How many dogs?
 
 </div>
 <div class='workings'>
+<div class='working'>
+
+Using value from the answer above,
+
+$
+\begin{aligned}
+\text{Number of dogs}   &= \dfrac {360 - 120 - 60 - 30} {360} \times 144 \\\\
+                        &= \dfrac {150} {360} \times 144 \\\\
+                        &= \dfrac {150 \times 144} {360} \\\\
+                        &= \dfrac {5 \times 30 \times 12 \times 12} {30 \times 12} \\\\
+                        &= \dfrac {5 \times \cancel {30} \times \cancel {12} \times 12} {\cancel {30} \times \cancel {12}} \\\\
+                        &= 5 \times 12 \\\\
+                        &= 60
+\end{aligned}
+$
+
+</div>
 <div class='working'>
 
 Using ratio,
@@ -764,7 +821,7 @@ $60$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -827,8 +884,9 @@ How much **more** money do they need to reach their target?
 
 $
 \begin{aligned}
-\text{Amount of money needed}     &= 50 - 8 - 11 - 4 - 12 - 7 \\\\
-                                  &= 50 - 42 \\\\
+\text{Money raised}               &= 8 + 11 + 4 + 12 + 7 \\\\
+                                  &= \pounds 42 \\\\
+\text{More money needed}          &= 50 - 42 \\\\
                                   &= \pounds 8
 \end{aligned}
 $
@@ -849,7 +907,7 @@ $\pounds 8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -894,7 +952,7 @@ Plot the points on the graph and show the length of the sides of square
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(9, 1)$
+Coordinates $= (9, 1)$
 
 </div>
 </div>
@@ -930,7 +988,7 @@ Plot the points on the graph and show the length of the sides of rectangle
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(5, 7)$
+Coordinates $= (5, 7)$
 
 </div>
 </div>
@@ -966,7 +1024,7 @@ Plot the points on the graph and show the length of the sides of square
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(4, 8)$
+Coordinates $= (4, 8)$
 
 </div>
 </div>
@@ -984,7 +1042,7 @@ $(4, 8)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1061,7 +1119,7 @@ $3.5 \ \text{weeks}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1118,13 +1176,7 @@ Complete the table below.
 <div class='answers'>
 <div class='answer'>
 
-|   Hair Colour   |   Number of Girls   |
-|:---------------:|:-------------------:|
-|      Black      |         $11$        |
-|    Dark brown   |         $15$        |
-|   Light brown   |         $9$         |
-|      Blonde     |         $10$        |
-|       Red       |         $5$         |
+Red $=$ $5$
 
 </div>
 </div>
@@ -1143,13 +1195,13 @@ What percentage of girls have brown hair?
 
 $
 \begin{aligned}
-\text{Percentage of girl having brown hair}     &= \dfrac {9 + 15} {11 + 15 + 9 + 10 + 5} \times 100 \\\\
+\text{\% of girl with brown hair}               &= \dfrac {9 + 15} {11 + 15 + 9 + 10 + 5} \times 100 \\\\
                                                 &= \dfrac {24} {50} \times 100 \\\\
                                                 &= \dfrac {24 \times 100} {50} \\\\
                                                 &= \dfrac {24 \times 50 \times 2} {50} \\\\
                                                 &= \dfrac {24 \times \cancel {50} \times 2} {\cancel {50}} \\\\
                                                 &= 24 \times 2 \\\\
-                                                &= 48 \ \%
+                                                &= 48 \%
 \end{aligned}
 $
 
@@ -1158,7 +1210,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$48 \ \%$
+$48 \%$
 
 </div>
 </div>
@@ -1169,7 +1221,7 @@ $48 \ \%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1321,7 +1373,7 @@ $56$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1360,7 +1412,7 @@ What fraction of the children in class $6A$ chose swimming?
 
 $
 \begin{aligned}
-\text{Fraction of children who chose swimming}      &= \dfrac {90} {360} \\\\
+\text{Fraction who chose swimming}                  &= \dfrac {90} {360} \\\\
                                                     &= \dfrac {90} {90 \times 4} \\\\
                                                     &= \dfrac {\cancel {90}} {\cancel {90} \times 4} \\\\
                                                     &= \dfrac {1} {4}
@@ -1391,11 +1443,11 @@ What percentage of the children in class $6A$ chose athletics?
 
 $
 \begin{aligned}
-\text{Percentage of children who chose swimming}    &= \dfrac {180} {360} \times 100 \\\\
+\text{\%  who chose athletics}                      &= \dfrac {180} {360} \times 100 \\\\
                                                     &= \dfrac {180 \times 100} {360} \\\\
                                                     &= \dfrac {180 \times 50 \times 2} {180 \times 2} \\\\
                                                     &= \dfrac {\cancel {180} \times 50 \times \cancel 2} {\cancel {180} \times \cancel 2} \\\\
-                                                    &= 50 \ \%
+                                                    &= 50 \%
 \end{aligned}
 $
 
@@ -1404,7 +1456,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$50 \ \%$
+$50 \%$
 
 </div>
 </div>
@@ -1423,7 +1475,7 @@ How many children are there altogether in class $6A$?
 <div class='workings'>
 <div class='working'>
 
-Let the total number of children in class $= a$
+Let the total number of children in the class $= a$
 
 As per the question,
 
@@ -1462,7 +1514,9 @@ How many more children chose athletics than gymnastics?
 
 $
 \begin{aligned}
-\text{Difference}       &= \dfrac {180 - 45} {360} \times 24 \\\\
+\text{Difference}       &= \dfrac {180} {360} \times 24 - \dfrac {45} {360} \times 24 \\\\
+                        &= (\dfrac {180} {360} - \dfrac {45} {360}) \times 24 \\\\
+                        &= \dfrac {180 - 45} {360} \times 24 \\\\
                         &= \dfrac {135} {360} \times 24 \\\\
                         &= \dfrac {135 \times 24} {360} \\\\
                         &= \dfrac {45 \times 3 \times 8 \times 3} {45 \times 8} \\\\
@@ -1488,7 +1542,7 @@ $9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1549,18 +1603,34 @@ Using only whole numbers, write down $3$ possible coordinates of point $R$.
 <div class='workings'>
 <div class='working'>
 
-$(2, 2)$
+*ABBR: TODO:: Add drawing starts.*
 
-$(2, 8)$
+![missing image](/papers/missing_image.svg)
+
+
+
+Plot the traingle with points P, Q, R $(1, 3)$
+
+Plot the traingle with points P, Q, R $(4, 6)$
+
+Plot the traingle with points P, Q, R $(7, 5)$
+
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$(1, 3)$
 
 $(4, 6)$
+
+$(7, 5)$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$(2, 2), (2, 8), (4, 6)$
+$(1, 3), (4, 6), (7, 5)$
 
 </div>
 </div>
@@ -1571,7 +1641,7 @@ $(2, 2), (2, 8), (4, 6)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

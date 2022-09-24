@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-talgebra-1"
 title: "TopicPaper - Algebra - 1"
-date: 2022-09-21 20:47:03
+date: 2022-09-24 05:07:09
 questions_count: "40"
 ---
 <div class='paper'>
@@ -210,6 +210,7 @@ The total weight of one large and three small cans of Best Beans is $1.25 \ \tex
 The large can weighs $425 \ \text{grams}$.
 
 ![aldenham-school--11-plus--maths--9999--sample-paper-2/section-1-question-8-00.png](/assets/aldenham-school--11-plus--maths--9999--sample-paper-2/section-1-question-8-00.png "aldenham-school--11-plus--maths--9999--sample-paper-2/section-1-question-8-00.png")
+![aldenham-school--11-plus--maths--9999--sample-paper-2/section-1-question-8-01.png](/assets/aldenham-school--11-plus--maths--9999--sample-paper-2/section-1-question-8-01.png "aldenham-school--11-plus--maths--9999--sample-paper-2/section-1-question-8-01.png")
 
 Work out the weight of one small can.
 
@@ -652,6 +653,8 @@ Match each statement with the correct expression for the amount in pence.
 
 The first on is done for you.
 
+![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-10-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-10-00.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-10-00.png")
+
 Statement
 - The total cost of $5$ rulers
 - The total cost of $5$ rulers and and $5$ pens
@@ -761,6 +764,8 @@ $\boxed{p = 3x}$
 As $x$ increases, $p$ decreases.
 
 For each function below, tick $(\checkmark)$ the correct box.
+
+![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-5-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-5-00.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-5-00.png")
 
 $\boxed{q = x - 2}$
 

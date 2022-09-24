@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-queens-school-11-plus-maths-9999-sample-paper-1"
 title: "The Queens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "29"
 ---
 <div class='paper'>
@@ -781,7 +781,7 @@ $50 \text {p}, \ 10 \text {p}, \ 10 \text {p}, \ 5 \text {p}, \ 2 \text {p}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -794,18 +794,14 @@ $0.56,\:\:\:0.506,\:\:\:0.605,\:\:\:0.65,\:\:\:0.056$
 <div class='workings'>
 <div class='working'>
 
-$0.56 , \quad   0.506 , \quad   0.605 , \quad   0.65 , \quad 0.056$
-
-Let's arrange the decimals in ascending order,
-
-$0.056, \ < \quad 0.506, \ < \quad 0.56, \ < \quad 0.605, \ < \quad 0.65$
+$0.056,  \quad 0.506,  \quad 0.56,  \quad 0.605,  \quad 0.65$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$0.056, \ < \quad 0.506, \ < \quad 0.56, \ < \quad 0.605, \ < \quad 0.65$
+$0.056,  \quad 0.506,  \quad 0.56,  \quad 0.605,  \quad 0.65$
 
 </div>
 </div>

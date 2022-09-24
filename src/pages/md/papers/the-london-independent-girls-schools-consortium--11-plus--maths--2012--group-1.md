@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2012-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2012 - Group 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "41"
 ---
 <div class='paper'>
@@ -337,7 +337,7 @@ $30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -358,7 +358,7 @@ $
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $0.2$. Hence, the sequence would be:
+The next term is calculated by adding $0.2$ to the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -370,7 +370,7 @@ $
 {(+0.2)}}   
 &&  \footnotesize{\maroonC
 {(+0.2)}}  \\
-\boxed{\phantom{\ 55.5 \ }}, && 20.0, &&  20.2, &&  20.4
+\ldots, && 20.0, &&  20.2, &&  20.4
 \end{matrix}
 $
 
@@ -537,7 +537,7 @@ $1000$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -550,14 +550,14 @@ $52.4    \quad 52.42    \quad 52.402$
 <div class='workings'>
 <div class='working'>
 
-$52.4  \quad 52.402 \quad 52.42$
+$52.4,  \quad 52.402, \quad 52.42$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$52.4  \quad 52.402 \quad 52.42$
+$52.4,  \quad 52.402, \quad 52.42$
 
 </div>
 </div>
@@ -706,7 +706,7 @@ $-11 \degree \text{C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -742,8 +742,7 @@ How many stickers can be bought for $\pounds 2.40$?
 $
 \begin{aligned}
 \text{Number of stickers for 1p}            &= \dfrac {3} {40} \\\\
-\text{Number of stickers for \pounds 2.4}   &= \dfrac {3} {40} \times 2.4 \times 100 \\\\
-                                            &= \dfrac {3} {40} \times 240 \\\\
+\text{Number of stickers for \pounds 2.40}  &= \dfrac {3} {40} \times 2.40 \times 100 \\\\
                                             &= \dfrac {3 \times 240} {40} \\\\
                                             &= \dfrac {3 \times 40 \times 6} {40} \\\\
                                             &= \dfrac {3 \times \cancel {40} \times 6} {\cancel {40}} \\\\
@@ -761,9 +760,9 @@ Using equivalent ratio,
 
 $
 \begin{aligned}
-40 \text{p} : 3 \ \text{stickers}               &= 2.4 \times 100 \text{p} : a \ \text{stickers} \\\\
-\dfrac{40} {3}                                  &= \dfrac {2.4 \times 100} {a} \\\\
-40 \times a                                     &= 2.4 \times 100 \times 3 \\\\
+40 \text{p} : 3 \ \text{stickers}               &= 2.40 \times 100 \text{p} : a \ \text{stickers} \\\\
+\dfrac{40} {3}                                  &= \dfrac {2.40 \times 100} {a} \\\\
+40 \times a                                     &= 2.40 \times 100 \times 3 \\\\
 40 \times a                                     &= 240 \times 3 \\\\
 a                                               &= \dfrac {240 \times 3} {40} \\\\
 a                                               &= \dfrac {40 \times 6 \times 3} {40} \\\\
@@ -786,8 +785,7 @@ $
 = & 40 \text{p}                             &:& 3 \\\\
 = & 40 \times 6                             &:& 3 \times 6 \\\\
 = & 240 \text{p}                            &:& 18 \\\\
-= & \dfrac {240} {100} \ \text{pence}       &:& 18 \\\\
-= & \pounds 2.4                             &:& 18 \\\\
+= & \pounds 2.40                            &:& 18
 \end{array}
 $
 
@@ -824,7 +822,7 @@ $
                               &= \dfrac {40 \times \cancel 3 \times 11} {\cancel 3} \\\\
                               &= 40 \times 11 \\\\
                               &= 440 \text{p} \\\\
-                              &= \pounds 4.4
+                              &= \pounds 4.40
 \end{aligned}
 $
 
@@ -837,7 +835,7 @@ Using equivalent ratio,
 
 $
 \begin{aligned}
-3 \ \text{stickers} : 40 \text{p}               &= 33 \ \text{stickers} : a \text{p} \\\\
+3 \ \text{stickers} : 40 \text{p}               &= 33 \ \text{stickers} : a \ \text{p} \\\\
 \dfrac{3} {40}                                  &= \dfrac {33} {a} \\\\
 3 \times a                                      &= 33 \times 40 \\\\
 a                                               &= \dfrac {33 \times 40} {3} \\\\
@@ -845,7 +843,7 @@ a                                               &= \dfrac {3 \times 11 \times 40
 a                                               &= \dfrac {\cancel 3 \times 11 \times 40} {\cancel 3} \\\\
 a                                               &= 11 \times 40 \\\\
 a                                               &= 440 \text{p} \\\\
-a                                               &= \pounds 4.4
+a                                               &= \pounds 4.40
 \end{aligned}
 $
 
@@ -861,9 +859,8 @@ $
   & \text{stickers}                         &:& \text{cost} \\\\
 = & 3                                       &:& 40 \text{p} \\\\
 = & 3 \times 11                             &:& 40 \times 11 \text{p} \\\\
-= & 33                                      &:& \pounds \dfrac {40 \times 11} {100} \\\\
-= & 33                                      &:& \dfrac {440} {100} \\\\
-= & 33                                      &:& \pounds 4.4
+= & 3 \times 11                             &:& 440 \text{p} \\\\
+= & 33                                      &:& \pounds 4.40
 \end{array}
 $
 
@@ -874,7 +871,7 @@ Cost of stickers $= \pounds 4.4$
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 4.4$
+$\pounds 4.40$
 
 </div>
 </div>
@@ -1923,7 +1920,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

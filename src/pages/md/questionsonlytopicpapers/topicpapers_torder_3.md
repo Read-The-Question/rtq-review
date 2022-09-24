@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-torder-3"
 title: "TopicPaper - Order - 3"
-date: 2022-09-21 20:47:03
+date: 2022-09-24 05:07:09
 questions_count: "33"
 ---
 <div class='paper'>
@@ -43,7 +43,7 @@ $0.0073   \quad 0.073  \quad 0.008   \quad 0.7098   \quad 0.7$
 
 Arrange the following numbers in order of size starting with the smallest: 
 
-$32.043, 0.099, 1.072, 0.491, 0.5$
+$32.043, \quad 0.099, \quad 1.072, \quad 0.491, \quad 0.5$
 
 </div>
 

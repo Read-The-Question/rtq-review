@@ -1,7 +1,7 @@
 ---
 slug: "papers/epsom-college-11-plus-maths-9999-sample-paper-1"
 title: "Epsom College - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "15"
 ---
 <div class='paper'>
@@ -881,7 +881,7 @@ $138$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -954,8 +954,8 @@ Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= \dfrac {24} {60},  \quad \dfrac {30} {60},  \quad \dfrac {40} {60},  \quad \dfrac {45} {60} \\\\
-&= \dfrac {2} {5},  \quad \dfrac {1} {2},  \quad \dfrac {2} {3},  \quad \dfrac {3} {4}
+&= \dfrac {24} {60} < \dfrac {30} {60} < \dfrac {40} {60} < \dfrac {45} {60} \\\\
+&= \dfrac {2} {5} < \dfrac {1} {2} < \dfrac {2} {3} < \dfrac {3} {4}
 \end{aligned}
 $
 
@@ -964,7 +964,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {2} {5},  \quad \dfrac {1} {2},  \quad dfrac {2} {3},  \quad \dfrac {3} {4}$
+$\dfrac {2} {5},  \quad \dfrac {1} {2},  \quad \dfrac {2} {3},  \quad \dfrac {3} {4}$
 
 </div>
 </div>

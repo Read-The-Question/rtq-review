@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2014-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2014 - Group 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "36"
 ---
 <div class='paper'>
@@ -378,7 +378,7 @@ $2, 3, 7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -391,7 +391,7 @@ $3.808 \quad 3.8 \quad 3.88 \quad 3.08$
 <div class='workings'>
 <div class='working'>
 
-$3.08 < \quad 3.8 < \quad 3.808 < \quad 3.88$
+$3.08, \quad 3.8, \quad 3.808, \quad 3.88$
 
 </div>
 </div>
@@ -1300,7 +1300,7 @@ $75 \ \text{g}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3021,7 +3021,7 @@ a triangle with area $9 \ \text{cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

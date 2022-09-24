@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2016-sample-paper-3"
 title: "Csse - 11 Plus - Maths - 2016 - Sample Paper 3"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "13"
 ---
 <div class='paper'>
@@ -1708,7 +1708,7 @@ $2 \text { hours } 5 \text{ minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1767,14 +1767,14 @@ At what clock time does the tide drop below $4 \ \text{metres}$?
 <div class='workings'>
 <div class='working'>
 
-$18 \ \text{hours}$
+$19 \ \text{hours}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$18 \ \text{hours}$
+$19 \ \text{hours}$
 
 </div>
 </div>
@@ -1793,8 +1793,8 @@ For how many hours is the tide above $6 \ \text{metres}$?
 
 $
 \begin{aligned}
-\text{Number of hours tide is above 6 metres}       &= 15 - 5 \\\\
-                                                    &= 10 \ \text{hours}
+\text{Number of hours tide is above 6 metres}       &= 14 - 5 \\\\
+                                                    &= 9 \ \text{hours}
 \end{aligned}
 $
 
@@ -1803,7 +1803,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$10 \ \text{hours}$
+$9 \ \text{hours}$
 
 </div>
 </div>

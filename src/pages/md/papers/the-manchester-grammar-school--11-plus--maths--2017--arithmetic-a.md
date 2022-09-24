@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2017-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2017 - Arithmetic A"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "20"
 ---
 <div class='paper'>
@@ -143,7 +143,7 @@ $20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -155,8 +155,6 @@ $0.67, \quad 55 \%, \quad \dfrac{3}{5}, \quad \dfrac{7}{10}$ and $\dfrac{2}{3}$
 </div>
 <div class='workings'>
 <div class='working'>
-
-To compare, we can convert all the numbers to fractions, decimals or percentages. 
 
 Let's convert all the numbers into decimals.
 
@@ -171,8 +169,8 @@ Now let's put them in ascending order.
 
 $
 \begin{aligned}
-&= 0.55, \quad  0.60, \quad  0.666, \quad  0.67, \quad  0.70 \\\\
-&= 55 \%, \quad \dfrac {3} {5}, \quad \dfrac {2} {3}, \quad 0.67, \quad \dfrac {7} {10}
+&= 0.55 <  0.60 <  0.666 <  0.67 <  0.70 \\\\
+&= 55 \% < \dfrac {3} {5} < \dfrac {2} {3} < 0.67 < \dfrac {7} {10}
 \end{aligned}
 $
 

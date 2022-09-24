@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-d"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper D"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "25"
 ---
 <div class='paper'>
@@ -535,7 +535,7 @@ $3 - (7 - 4)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -564,7 +564,7 @@ $3 - (7 - 4)$
 
 Circle the fraction which has a different value from the others:
 
-$\dfrac{6} {9} \qquad \dfrac{2} {3} \qquad \dfrac{18} {27} \qquad \dfrac{7} {10}$
+$\dfrac{6} {9} \quad \dfrac{2} {3} \quad \dfrac{18} {27} \quad \dfrac{7} {10}$
 
 </div>
 <div class='workings'>
@@ -572,20 +572,14 @@ $\dfrac{6} {9} \qquad \dfrac{2} {3} \qquad \dfrac{18} {27} \qquad \dfrac{7} {10}
 
 $
 \begin{aligned}
-\dfrac {6} {9}      &= \dfrac {2 \times 3} {3 \times 3} \\\\
-                    &= \dfrac {2 \times \cancel {3}} {3 \times \cancel {3}} \\\\
-                    &= \dfrac {2} {3} \\\\
-\dfrac {2} {3}      &= \dfrac {2} {3} \\\\
-\dfrac {18} {27}    &= \dfrac {9 \times 2} {9 \times 3} \\\\
-                    &= \dfrac {\cancel {9} \times 2} {\cancel {9} \times 3} \\\\
-                    &= \dfrac {2} {3} \\\\
-\dfrac {7} {10}     &= \dfrac {7} {10}
+&= \dfrac{6} {9}, \quad \dfrac{2} {3}, \quad \dfrac{18} {27}, \quad \dfrac{7} {10} \\\\
+&= \dfrac{3 \times 2} {3 \times 3}, \quad \dfrac{2} {3}, \quad \dfrac{9 \times 2} {9 \times 3}, \quad \dfrac{7} {10} \\\\
+&= \dfrac{\cancel{3} \times 2} {\cancel{3} \times 3}, \quad \dfrac{2} {3}, \quad \dfrac{\cancel{9} \times 2} {\cancel{9} \times 3}, \quad \dfrac{7} {10} \\\\
+&= \dfrac{2} {3}, \quad \dfrac{2} {3}, \quad \dfrac{2} {3}, \quad \dfrac{7} {10}
 \end{aligned}
 $
 
-Using this we get,
-
-$\dfrac{6} {9} \qquad \dfrac{2} {3} \qquad \dfrac{18} {27} \qquad \boxed{ \green {\dfrac {7} {10}} }$
+Different fraction $= \dfrac{7}{10}$
 
 </div>
 </div>
@@ -605,25 +599,25 @@ $\dfrac {7} {10}$
 
 Circle the smallest of the following fractions:
 
-$\dfrac{1}{4} \qquad \dfrac{1}{5} \qquad \dfrac{5}{16} \qquad \dfrac{1}{3}$
+$\dfrac{1}{4} \quad \dfrac{1}{5} \quad \dfrac{5}{16} \quad \dfrac{1}{3}$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-To compare, let's make the denominator of all the fractions equal.
+Let's make the denominator of all the fractions equal.
 
 LCM of $4,5,16,3 = 240$
 
 $
 \begin{aligned}
-&= \dfrac {1} {4}, \qquad \dfrac {1} {5}, \qquad \dfrac {5} {16}, \qquad \dfrac {1} {3} \\\\
-&= \dfrac {1 \times 60} {4 \times 60}, \qquad \dfrac {1 \times 48 } {5 \times 48}, \qquad \dfrac {5 \times 15} {16 \times 15}, \qquad \dfrac {1 \times 80} {3 \times 80} \\\\
-&= \dfrac {60} {240}, \qquad \dfrac {48} {240}, \qquad \dfrac {75} {240}, \qquad \dfrac {80} {240}
+&= \dfrac {1} {4}, \quad \dfrac {1} {5}, \quad \dfrac {5} {16}, \quad \dfrac {1} {3} \\\\
+&= \dfrac {1 \times 60} {4 \times 60}, \quad \dfrac {1 \times 48 } {5 \times 48}, \quad \dfrac {5 \times 15} {16 \times 15}, \quad \dfrac {1 \times 80} {3 \times 80} \\\\
+&= \dfrac {60} {240}, \quad \dfrac {48} {240}, \quad \dfrac {75} {240}, \quad \dfrac {80} {240}
 \end{aligned}
 $
 
-The smallest fraction $= \dfrac {48} {240} = \dfrac {1} {5}$.
+Smallest fraction $= \dfrac {48} {240} = \dfrac {1} {5}$
 
 </div>
 </div>
@@ -643,25 +637,25 @@ $\dfrac {1} {5}$
 
 Circle the largest of the following fractions:
 
-$\dfrac{2}{3} \qquad \dfrac{7}{9} \qquad \dfrac{17}{27} \qquad \dfrac{1}{2}$
+$\dfrac{2}{3} \quad \dfrac{7}{9} \quad \dfrac{17}{27} \quad \dfrac{1}{2}$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-To compare, let's make the denominator of all the fractions equal. 
+Let's make the denominator of all the fractions equal.
 
 LCM of $3,9,27,2 = 54$
 
 $
 \begin{aligned}
-&= \dfrac {2} {3}, \qquad \dfrac {7} {9}, \qquad \dfrac {17} {27}, \qquad \dfrac {1} {2} \\\\
-&= \dfrac {2 \times 18} {3 \times 18}, \qquad \dfrac {7 \times 6} {9 \times 6}, \qquad \dfrac {17 \times 2} {27 \times 2}, \qquad \dfrac {1 \times 27} {2 \times 27} \\\\
-&= \dfrac {36} {54}, \qquad \dfrac {42} {54}, \qquad \dfrac {34} {54}, \qquad \dfrac {27} {54}
+&= \dfrac {2} {3}, \quad \dfrac {7} {9}, \quad \dfrac {17} {27}, \quad \dfrac {1} {2} \\\\
+&= \dfrac {2 \times 18} {3 \times 18}, \quad \dfrac {7 \times 6} {9 \times 6}, \quad \dfrac {17 \times 2} {27 \times 2}, \quad \dfrac {1 \times 27} {2 \times 27} \\\\
+&= \dfrac {36} {54}, \quad \dfrac {42} {54}, \quad \dfrac {34} {54}, \quad \dfrac {27} {54}
 \end{aligned}
 $
 
-The largest fraction $= \dfrac {42} {54} = \dfrac {7} {9}$.
+Largest fraction $= \dfrac {42} {54} = \dfrac {7} {9}$
 
 </div>
 </div>
@@ -679,7 +673,7 @@ $\dfrac {7} {9}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -748,6 +742,18 @@ The $y$ co-ordinate of point $D$ is $4$ and $ABCD$ is a kite. Write down the $x$
 <div class='workings'>
 <div class='working'>
 
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Plot the point D on the line $y = 4$ such that ABCD is a kite and diagonal AB is perpendicular to diagonal CD
+
+
+*ABBR: TODO:: Add drawing ends.*
+
+
 $0$
 
 </div>
@@ -771,6 +777,18 @@ The point $E$ is such that $ABCE$ is a rhombus. Write down the coordinates of th
 </div>
 <div class='workings'>
 <div class='working'>
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Plot the point E such that all sides of quadrilateral ABCE are equal
+
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 $(0, 3)$
 

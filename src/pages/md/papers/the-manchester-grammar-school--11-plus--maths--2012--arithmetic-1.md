@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2012-arithmetic-1"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2012 - Arithmetic 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "20"
 ---
 <div class='paper'>
@@ -254,7 +254,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -269,21 +269,23 @@ How much would it have cost before the sale started?
 
 Let the original price $= p$
 
-Sale price $= 80 \%$ of the original price.
+If the price is reduced by $20 \%$, then the new price will be $100 - 20 = 80 \%$ of the original price. Using that, we get
 
 As per the question,
 
 $
 \begin{aligned}
-80\% \text{ of } p              &= 60 \\\\
-\dfrac {80 } { 100 } \times p   &= 60 \\\\
-p                               &= \dfrac {60 \times 100 } { 80 } \\\\
-p                               &= \dfrac {2 \times 3 \times 10 \times 4 \times 25 } { 2 \times 4 \times 10} \\\\
-p                               &= \dfrac {\cancel{2} \times 3 \times \cancel{10} \times \cancel{4} \times 25 } { \cancel{2} \times \cancel{4} \times \cancel{10}} \\\\
+80 \% \ \text{of} \ p           &= 60 \\\\
+\dfrac {80} {100} \times p      &= 60 \\\\
+p                               &= \dfrac {60 \times 100} {80} \\\\
+p                               &= \dfrac {20 \times 3 \times 4 \times 25} {20 \times 4} \\\\
+p                               &= \dfrac {\cancel{20} \times 3 \times \cancel 4 \times 25} {\cancel{20} \times \cancel 4} \\\\
 p                               &= 3 \times 25 \\\\
 p                               &= \pounds 75
 \end{aligned}
 $
+
+Original price $\pounds 75$
 
 </div>
 </div>
@@ -495,7 +497,7 @@ $35 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -513,7 +515,7 @@ Let's convert all the numbers into decimals.
 $
 \begin{aligned}
 &= 0.66, \quad \dfrac {3} {4}, \quad 70\%, \quad \dfrac {2} {3}, \quad \dfrac {6} {10} \\\\
-&= 0.66, \quad 0.75, \quad 0.70, \quad 0.666, \quad 0.60
+&= 0.66, \quad 0.75, \quad 0.70, \quad 0.\overline{6}, \quad 0.60
 \end{aligned}
 $
 
@@ -521,8 +523,8 @@ Now let's put them in ascending order.
 
 $
 \begin{aligned}
-&= 0.60, \quad 0.66, \quad 0.666, \quad  0.70, \quad 0.75 \\\\
-&= \dfrac {6} {10}, \quad 0.66, \quad \dfrac {2} {3}, \quad 70 \%, \quad \dfrac {3} {4}
+&= 0.60\ < 0.66\ < 0.\overline{6}\ <  0.70\ < 0.75 \\\\
+&= \dfrac {6} {10}\ < 0.66\ < \dfrac {2} {3}\ < 70 \%\ < \dfrac {3} {4}
 \end{aligned}
 $
 

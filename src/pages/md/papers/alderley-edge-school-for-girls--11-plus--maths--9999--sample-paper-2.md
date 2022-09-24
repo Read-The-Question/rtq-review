@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-9999-sample-paper-2"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "59"
 ---
 <div class='paper'>
@@ -212,6 +212,8 @@ $\dfrac{3}{5} \quad \dfrac{4}{6} \quad \dfrac{5}{7} \quad \dfrac{6}{8}$
 <div class='workings'>
 <div class='working'>
 
+$= \dfrac{3}{5} \quad \dfrac{4}{6} \quad \dfrac{5}{7} \quad \dfrac{6}{8}$
+
 Let's make the denominator the same for all the numbers, so we can compare them.
 
 LCM of $5,6,7,8 = 840$
@@ -219,20 +221,11 @@ LCM of $5,6,7,8 = 840$
 $
 \begin{aligned}
 &= \dfrac{3 \times 168}{5 \times 168},  \quad   \dfrac{4 \times 140}{6 \times 140},  \quad   \dfrac{5 \times 120}{7 \times 120},  \quad   \dfrac{6 \times 105}{8 \times 105} \\\\
-&= \dfrac{504}{840},  \quad   \dfrac{560}{840},  \quad   \dfrac{600}{840},  \quad   \dfrac{630}{840} \\\\
+&= \dfrac{504}{840},  \quad   \dfrac{560}{840},  \quad   \dfrac{600}{840},  \quad   \dfrac{630}{840}
 \end{aligned}
 $
 
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= \dfrac{504}{840} < \dfrac{560}{840} < \dfrac{600}{840} < \dfrac{630}{840} \\\\
-&= \dfrac{3}{5} < \dfrac{4}{6} < \dfrac{5}{7} < \dfrac{6}{8}
-\end{aligned}
-$
-
-Therefore $\dfrac{6}{8}$ is the largest fraction.
+Largest fraction $= \dfrac{630}{840} = \dfrac{6}{8}$
 
 </div>
 </div>
@@ -894,7 +887,7 @@ $600 \ \text{mm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g3 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1257,6 +1250,8 @@ TODOANSWER
 These rules show how to get from one number to the next in these sequences.
 
 Use the rules to write the next **two** numbers in each sequence.
+
+![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-3-subquestion-1-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-3-subquestion-1-00.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-3-subquestion-1-00.png")
 
 </div>
 
@@ -1986,6 +1981,8 @@ The grids in this question are a centimetre square grids.
 For each shape on the left, draw a **rectangle** that has the same area.
 
 ![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-9-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-9-00.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-9-00.png")
+![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-9-01.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-9-01.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-9-01.png")
+![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-9-02.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-9-02.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-9-02.png")
 
 </div>
 <div class='workings'>
@@ -2028,6 +2025,8 @@ A pen costs $m$ pence.
 Match each statement with the correct expression for the amount in pence.
 
 The first on is done for you.
+
+![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-10-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-10-00.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-10-00.png")
 
 Statement
 - The total cost of $5$ rulers
@@ -3207,6 +3206,8 @@ $\boxed{p = 3x}$
 As $x$ increases, $p$ decreases.
 
 For each function below, tick $(\checkmark)$ the correct box.
+
+![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-5-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-5-00.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-5-00.png")
 
 $\boxed{q = x - 2}$
 

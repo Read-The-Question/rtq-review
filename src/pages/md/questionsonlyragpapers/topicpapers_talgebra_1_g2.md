@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-talgebra-1-g2"
 title: "TopicPaper - Algebra - 1 - G2"
-date: 2022-09-21 20:47:03
+date: 2022-09-24 05:07:09
 questions_count: "34"
 ---
 <ul class='question default-decimal'>
@@ -200,6 +200,7 @@ The total weight of one large and three small cans of Best Beans is $1.25 \ \tex
 The large can weighs $425 \ \text{grams}$.
 
 ![aldenham-school--11-plus--maths--9999--sample-paper-2/section-1-question-8-00.png](/assets/aldenham-school--11-plus--maths--9999--sample-paper-2/section-1-question-8-00.png "aldenham-school--11-plus--maths--9999--sample-paper-2/section-1-question-8-00.png")
+![aldenham-school--11-plus--maths--9999--sample-paper-2/section-1-question-8-01.png](/assets/aldenham-school--11-plus--maths--9999--sample-paper-2/section-1-question-8-01.png "aldenham-school--11-plus--maths--9999--sample-paper-2/section-1-question-8-01.png")
 
 Work out the weight of one small can.
 

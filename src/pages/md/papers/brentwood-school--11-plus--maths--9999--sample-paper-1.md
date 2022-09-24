@@ -1,7 +1,7 @@
 ---
 slug: "papers/brentwood-school-11-plus-maths-9999-sample-paper-1"
 title: "Brentwood School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "28"
 ---
 <div class='paper'>
@@ -885,7 +885,7 @@ $1$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1619,7 +1619,7 @@ $73188$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1705,8 +1705,8 @@ How many houses received fewer than three letters?
 
 $
 \begin{aligned}
-\text{Number of houses received less than 3 letters}    &= 3 + 6 + 8 \\\\
-                                                        &= 17
+\text{Number of houses}    &= 3 + 6 + 8 \\\\
+                           &= 17
 \end{aligned}
 $
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2015-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2015 - Group 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "38"
 ---
 <div class='paper'>
@@ -309,7 +309,7 @@ $27$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -322,11 +322,11 @@ $0.63 \quad 0.06 \quad 0.4 \quad 0.603 \quad 0.64$
 <div class='workings'>
 <div class='working'>
 
-Let's first arrange the sequence in ascending order.
+Let's put them in ascending order.
 
-$0.06, \quad 0.4 \quad 0.603 \quad 0.63  \quad 0.64$
+$0.06, \quad 0.4, \quad 0.603, \quad 0.63,  \quad 0.64$
 
-Hence, it can be observed that $0.603$ is in the middle while arranged in ascending order.
+Middle number $= 0.603$
 
 </div>
 </div>
@@ -914,7 +914,7 @@ $7509$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

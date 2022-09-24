@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2019-sample-paper-4"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2019 - Sample Paper 4"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "43"
 ---
 <div class='paper'>
@@ -14,7 +14,7 @@ questions_count: "43"
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -47,7 +47,7 @@ $\pounds 161.35$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -234,7 +234,7 @@ $120 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -255,14 +255,11 @@ Which statement is **wrong**?
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-\text{Difference between red and yellow}                &= 10 - 3 \\\\
-                                                        &= 7 \\\\
-\text{Total pupils in class}                            &= 4 + 10 + 3 + 7 + 6 \\\\
-                                                        &= 30
-\end{aligned}
-$
+Difference between red and yellow $= 10 - 3 = 7$
+
+The following statement is wrong:
+
+Red received five more votes than yellow.
 
 </div>
 </div>
@@ -272,7 +269,7 @@ $
 </div>
 <div class='answer'>
 
-Red received five more votes than yellow
+Red received five more votes than yellow.
 
 </div>
 </div>
@@ -635,7 +632,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -652,7 +649,7 @@ How many members were aged $25$ or older?
 
 $
 \begin{aligned}
-\text{Number of members with age 25 or more}            &= 17 + 9 \\\\
+\text{Number of members age 25 or more}            &= 17 + 9 \\\\
                                                         &= 26
 \end{aligned}
 $
@@ -1255,26 +1252,43 @@ What is its new value?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Sale price}  &= \text {Original price} - \text{Discount} \\\\
+                   &= 50000 - 15 \% \times 50000  \\\\
+                   &= 50000 - \dfrac {15} {100} \times 50000 \\\\
+                   &= 50000 - \dfrac {15 \times 50000} {100} \\\\
+                   &= 50000 - \dfrac {15 \times 500 \cancel {00}} {1 \cancel {00}} \\\\
+                   &= 50000 - 15 \times 500 \\\\
+                   &= 50000 - 7500 \\\\
+                   &= \pounds 42500
+\end{aligned}
+$
 
 </div>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+If the price is reduced by $15 \%$, then the new price will be $100 - 15 = 85 \%$ of the original price. Using that, we get
+
+$
+\begin{aligned}
+\text {Sale price}          &= 85 \% \times 50000 \\\\
+                            &= \dfrac {85}{100} \times 50000 \\\\
+                            &= \dfrac {85 \times 50000}{100}  \\\\
+                            &= \dfrac {85 \times 500 \cancel {00}}{1 \cancel {00}}  \\\\
+                            &= 85 \times 500 \\\\
+                            &= \pounds 42500
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\pounds 42500$
 
 </div>
 </div>

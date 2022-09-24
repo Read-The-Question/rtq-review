@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-9999-practice-paper-3"
 title: "Merchant Taylors School - 11 Plus - Maths - 9999 - Practice Paper 3"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "36"
 ---
 <div class='paper'>
@@ -113,7 +113,7 @@ $\text {Parallelogram}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -126,21 +126,12 @@ $0.43, \quad \dfrac{3}{7}, \quad \dfrac{2}{5}, \quad 44\%$
 <div class='workings'>
 <div class='working'>
 
-Let's convert all the numbers into fractions.
+Let's convert all the numbers into decimals.
 
 $
 \begin{aligned}
 &= 0.43,  \quad \dfrac {3} {7}, \quad \dfrac {2} {5}, \quad 44 \% \\\\
-&= \dfrac {43} {100},  \quad \dfrac {3} {7}, \quad \dfrac {2} {5}, \quad \dfrac {44} {100}
-\end{aligned}
-$
-
-LCM for $100, 7, 5, 100 = 700$
-
-$
-\begin{aligned}
-&= \dfrac {43 \times 7} {100 \times 7},  \quad \dfrac {3 \times 100} {7 \times 100}, \quad \dfrac {2 \times 140} {5 \times 140}, \quad \dfrac {44 \times 7} {100 \times 7} \\\\
-&= \dfrac {301} {700},  \quad \dfrac {300} {700}, \quad \dfrac {280} {700}, \quad \dfrac {308} {700}
+&= 0.43,  \quad 0.428, \quad 0.4, \quad 0.44
 \end{aligned}
 $
 
@@ -148,7 +139,7 @@ Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= \dfrac {280} {700} < \dfrac {300} {700} < \dfrac {301} {700} < \dfrac {308} {700} \\\\ 
+&= 0.4 < 0.428 < 0.43 < 0.44 \\\\ 
 &= \dfrac {2} {5} < \dfrac {3} {7} < 0.43 < 44 \%
 \end{aligned}
 $

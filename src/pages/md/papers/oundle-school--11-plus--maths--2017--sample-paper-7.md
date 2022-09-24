@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2017-sample-paper-7"
 title: "Oundle School - 11 Plus - Maths - 2017 - Sample Paper 7"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "11"
 ---
 <div class='paper'>
@@ -925,12 +925,12 @@ $63$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-A bicycle at Store $P$ costs $$200$. The regular price of the same bicycle at Store $Q$ is $15\%$ more than it is at Store P. The bicycle is on sale at Store Q for $10\%$ off of the regular price.
+A bicycle at Store $P$ costs $\text{\textdollar} 200$. The regular price of the same bicycle at Store $Q$ is $15\%$ more than it is at Store P. The bicycle is on sale at Store Q for $10\%$ off of the regular price.
 
 What is the sale price of the bicycle at Store $Q$? 
 
@@ -940,15 +940,17 @@ What is the sale price of the bicycle at Store $Q$?
 
 $
 \begin{aligned}
-\text{Cost of bicycle at store P}                         &= 200 \\\\
-\text{Price at store}                                     &= 15 \% 200 + 200 \\\\
-                                                          &= \dfrac{15 \times 200}{100} + 200 \\\\
-                                                          &= 30 + 200 \\\\
-                                                          &= 230 \\\\
-\text{Price at store Q}                                   &= 230 - 10 \% 200\\\\
-                                                          &= 230 - 20 \\\\
-                                                          &= 210
-                                            
+\text{Regular price at store}     &= 200 + 15 \% \ \text{of} \ 200 \\\\
+                                  &= 200 + \dfrac {15 \times 200} {100} \\\\
+                                  &= 200 + \dfrac {15 \times 2 \cancel {00}} {1 \cancel {00}} \\\\
+                                  &= 200 + 15 \times 2 \\\\
+                                  &= 200 + 30 \\\\
+                                  &= \pounds 230 \\\\
+\text{Sale price at store Q}      &= 230 - 10 \% \ \text{of} \ 230 \\\\
+                                  &= 230 - \dfrac {10 \times 230} {100} \\\\
+                                  &= 230 - \dfrac {1 \cancel 0 \times 23 \cancel 0} {1 \cancel {00}} \\\\
+                                  &= 230 - 23 \\\\
+                                  &= \pounds 207
 \end{aligned}
 $
 
@@ -957,7 +959,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$210$
+$\pounds 207$
 
 </div>
 </div>

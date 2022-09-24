@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tinfer-1-pr-prpcr"
 title: "TopicPaper - Infer - 1 - PR - PRPCR"
-date: 2022-09-21 20:47:03
+date: 2022-09-24 05:07:09
 questions_count: "6"
 ---
 <ul class='question default-decimal'>
@@ -49,8 +49,6 @@ $
    \hline
 \end{darray}
 $
-
-![alleyns-school--11-plus--maths--9999--sample-paper-1/section-1-question-26-subquestion-1-00.png](/assets/alleyns-school--11-plus--maths--9999--sample-paper-1/section-1-question-26-subquestion-1-00.png "alleyns-school--11-plus--maths--9999--sample-paper-1/section-1-question-26-subquestion-1-00.png")
 
 </div>
 

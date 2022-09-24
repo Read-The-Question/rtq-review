@@ -1,7 +1,7 @@
 ---
 slug: "papers/colfes-school-11-plus-maths-9999-sample-paper"
 title: "Colfes School - 11 Plus - Maths - 9999 - Sample Paper"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "32"
 ---
 <div class='paper'>
@@ -363,7 +363,7 @@ $2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -377,8 +377,8 @@ In the sale Asif buys the computer game for $\pounds 25.62$. How much money did 
 
 $
 \begin {aligned}
-&= 32.99 - 25.62 \\\\
-&= \pounds 7.37
+\text{Money saved}    &= 32.99 - 25.62 \\\\
+                      &= \pounds 7.37
 \end {aligned}
 $
 
@@ -744,7 +744,7 @@ $3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -783,7 +783,7 @@ How many year $7$s have chips as their favourite food?
 
 $
 \begin{aligned}
-\text{Number of students who like chips}    &= \dfrac {180} {360} \times 48 \\\\
+\text{Students who like chips}    &= \dfrac {180} {360} \times 48 \\\\
                                             &= \dfrac {180 \times 48} {360} \\\\
                                             &= \dfrac {180 \times 2 \times 24} {180 \times 2} \\\\
                                             &= \dfrac {\cancel {180} \times \cancel 2 \times 24} {\cancel {180} \times \cancel 2} \\\\
@@ -815,11 +815,10 @@ What fraction of year $7$s have chocolate as their favourite food?
 
 $
 \begin{aligned}
-\text{Number of students who like chocolate}    &= \dfrac {90} {360} \times 48 \\\\
-                                                &= \dfrac {90 \times 48} {360} \\\\
-                                                &= \dfrac {90 \times 4 \times 12} {90 \times 4} \\\\
-                                                &= \dfrac {\cancel {90} \times \cancel 4 \times 12} {\cancel {90} \times \cancel 4} \\\\
-                                                &= 12
+\text{Fraction of students who like chocolate}      &= \dfrac {90} {360} \\\\
+                                                    &= \dfrac {90} {90 \times 4} \\\\
+                                                    &= \dfrac {\cancel {90}} {\cancel {90} \times 4} \\\\
+                                                    &= \dfrac {1} {4}
 \end{aligned}
 $
 
@@ -828,7 +827,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$12$
+$\dfrac {1} {4}$
 
 </div>
 </div>
@@ -847,7 +846,7 @@ Estimate the number of year $7$s who have pizza as their favourite food.
 
 $
 \begin{aligned}
-\text{Number of students who like pizza}        &= \dfrac {30} {360} \times 48 \\\\
+\text{Students who like pizza}        &= \dfrac {30} {360} \times 48 \\\\
                                                 &= \dfrac {30 \times 48} {360} \\\\
                                                 &= \dfrac {30 \times 12 \times 4} {30 \times 12} \\\\
                                                 &= \dfrac {\cancel {30} \times \cancel {12} \times 4} {\cancel {30} \times \cancel {12}} \\\\
@@ -1031,7 +1030,7 @@ $39$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

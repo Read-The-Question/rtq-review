@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-2"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 2"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "25"
 ---
 <div class='paper'>
@@ -939,7 +939,7 @@ No
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -965,16 +965,24 @@ Whose toys are not on the graph?
 <div class='workings'>
 <div class='working'>
 
-$
-\begin {aligned}
-\text{Number of board games not present on graph}       &= 1 + 3 + 0 + 2 + 1 + 0 - 6 \\\\
-                                                        &= 1 \\\\
-\text{Number of computer games not present on graph}    &= 3 + 0 + 2 + 1 + 0 + 0 - 3 \\\\
-                                                        &= 3 \\\\
-\text{Number of sports equipment not present on graph}  &= 2 + 3 + 0 + 1 + 0 + 4 - 8 \\\\
-                                                        &= 2
-\end {aligned}
-$
+|    Child       | Board games     | Computer games     | Sports equipment     |
+|:----------:    |:-----------:    |:--------------:    |:----------------:    |
+|  **Alan**      |     $1$         |       $3$          |        $2$           |
+|   **Ben**      |     $3$         |       $0$          |        $3$           |
+|  **Chris**     |     $0$         |       $2$          |        $0$           |
+|  **Dvid**      |     $2$         |       $1$          |        $1$           |
+|   **Ed**       |     $1$         |       $0$          |        $0$           |
+| **Faizal**     |     $0$         |       $0$          |        $4$           |
+| **Total**      |     $7$         |       $6$          |        $10$          |
+
+
+Board games missing from graph $ = 7 - 6 = 1$
+
+Computer games missing from graph  $= 6 - 3 = 3$
+
+Sports equipment missing from graph $= 10 - 8 = 2$
+
+A quick look shows that Alan has $1$ board game, $3$ computer games and $2$ sports equipment.
 
 Alan's toys are not on the graph.
 

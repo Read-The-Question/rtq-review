@@ -1,7 +1,7 @@
 ---
 slug: "papers/benenden-school-11-plus-maths-2020-sample-paper-2"
 title: "Benenden School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "17"
 ---
 <div class='paper'>
@@ -1424,7 +1424,7 @@ $2, 3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1491,7 +1491,18 @@ Write down the co-ordinates of $C$, the midpoint of line $AB$.
 <div class='workings'>
 <div class='working'>
 
-$(6.5, 4)$
+$
+\begin {aligned}
+\text{x-coordinates}    &= \dfrac {3 + 10} {2} \\\\
+                        &= \dfrac {13} {2} \\\\
+                        &= 6.5 \\\\
+\text{y-coordinates}    &= \dfrac {2 + 6} {2} \\\\
+                        &= \dfrac {8} {2} \\\\
+                        &= 4
+\end {aligned}
+$
+
+Coordinates $= (6.5, 4)$
 
 </div>
 </div>

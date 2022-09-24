@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttable-1-pr-prns"
 title: "TopicPaper - Table - 1 - PR - PRNS"
-date: 2022-09-21 20:40:31
+date: 2022-09-24 04:59:20
 questions_count: "38"
 ---
 <ul class='question default-decimal'>
@@ -209,8 +209,6 @@ Farmer Giles has two legs and each of his cows have four legs. In the picture be
 
 Fill in the table below for the total number of legs if Farmer Giles is always present, but the number of cows increases.
 
-![alleyns-school--11-plus--maths--9999--sample-paper-1/section-1-question-20-00.png](/assets/alleyns-school--11-plus--maths--9999--sample-paper-1/section-1-question-20-00.png "alleyns-school--11-plus--maths--9999--sample-paper-1/section-1-question-20-00.png")
-
 |    Number of Cows    | $1$ | $2$ |  $3$ | $4$ | $10$ | $100$ |
 |:--------------------:|:---:|:---:|:----:|:---:|:----:|:-----:|
 | Total Number of Legs | $6$ |     | $14$ |     |      |       |
@@ -218,8 +216,6 @@ Fill in the table below for the total number of legs if Farmer Giles is always p
 Hillary is trying to find a formula that links the Number of Cows, $C$, to the number of Legs, $L$. 
 
 Fill in the gaps to help her. 
-
-
 
 </div>
 <div class='workings'>

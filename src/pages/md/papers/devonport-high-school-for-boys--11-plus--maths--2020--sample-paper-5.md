@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2020 - Sample Paper 5"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "44"
 ---
 <div class='paper'>
@@ -40,7 +40,7 @@ $2569$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -99,7 +99,7 @@ $17{:}00$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -476,7 +476,7 @@ $- 2 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -491,7 +491,7 @@ $40$ students were asked which was their favourite colour. How many students cho
 
 $
 \begin{aligned}
-\text{Number of students who choose yellow}     &= \dfrac {45} {360} \times 40 \\\\
+\text{Students who choose yellow}               &= \dfrac {45} {360} \times 40 \\\\
                                                 &= \dfrac {45 \times 40} {360} \\\\
                                                 &= \dfrac {45 \times 8 \times 5} {45 \times 8} \\\\
                                                 &= \dfrac {\cancel {45} \times \cancel 8 \times 5} {\cancel {45} \times \cancel 8} \\\\
@@ -831,7 +831,7 @@ $225 \ \text{g}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -843,6 +843,18 @@ What would be the coordinates of $D$ if the shape above was reflected in the y-a
 </div>
 <div class='workings'>
 <div class='working'>
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Plot the reflected image in y-axis of the given shape on the graph
+
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 $(2, 4)$
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2014-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2014 - Arithmetic A"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "20"
 ---
 <div class='paper'>
@@ -279,7 +279,7 @@ $\dfrac{16}{25}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -292,9 +292,7 @@ $\dfrac{3}{10}, \quad \dfrac{1}{3}, \quad \dfrac{1}{4}, \quad 0.35, \quad 33\%$
 <div class='workings'>
 <div class='working'>
 
-To compare, we can convert all the numbers to fractions, decimals or percentages. 
-
-In this case, there are more fractions, so let's convert all the numbers into fractions.
+Let's make the denominator the same for all the numbers, so we can compare them.
 
 $
 \begin{aligned}
@@ -304,8 +302,6 @@ $
 $
 
 LCM for $10, 3, 4, 100, 100 = 300$
-
-Let's use the LCM result to make the denominator the same for all the fractions. 
 
 $
 \begin{aligned}
@@ -319,11 +315,10 @@ Now let's put them in ascending order.
 
 $
 \begin{aligned}
-&= \dfrac{75}{300}, \quad \dfrac{90}{300}, \quad \dfrac{99}{300}, \quad \dfrac{100}{300}, \quad \dfrac{105}{300}
+&= \dfrac{75}{300} < \dfrac{90}{300} < \dfrac{99}{300} < \dfrac{100}{300} < \dfrac{105}{300} \\\\
+&= \dfrac{1}{4} < \dfrac{3}{10} < 33\% < \dfrac{1}{3} < 0.35
 \end{aligned}
 $
-
-The number in the middle $= \dfrac{99}{300}$.
 
 The number in the middle $= 33\%$.
 
@@ -581,7 +576,7 @@ $5.4 \ \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -593,58 +588,43 @@ would be the sale price of a coat that originally cost $\pounds 30$?
 <div class='workings'>
 <div class='working'>
 
-If the price is reduced by $15 \%$, then the sale price would be $100 - 15 = 85 \%$ of the original price.
-
-Let's use this to calculate the sale price.
-
 $
 \begin{aligned}
-\text{Sale price}               &= 85\% \text{ of } \pounds 30\\\\
-                                &= \dfrac {85 \times 30 } { 100 } \\\\
-                                &= \dfrac {85 \times 3\cancel{0} } { 10 \times 1\cancel{0} } \\\\
-                                &= \dfrac {85 \times 3 } { 10 } \\\\
-                                &= \dfrac {255 } { 10 } \\\\
-                                &= \pounds 25.50
+\text{Sale price}  &= \text {Original price} - \text {Discount} \\\\
+                   &= 30 - 15 \% \ \text{of} \ 30 \\\\
+                   &= 30 - \dfrac {15} {100} \times 30 \\\\
+                   &= 30 - \dfrac {15 \times 30} {100} \\\\
+                   &= 30 - \dfrac {15 \times 3 \cancel 0} {10 \cancel 0} \\\\
+                   &= 30 - \dfrac {15 \times 3} {10} \\\\
+                   &= 30 - \dfrac {45} {10} \\\\
+                   &= 30 - 4.5 \\\\
+                   &= \pounds 25.5
 \end{aligned}
 $
-
-Sale price $= \pounds 25.50$
 
 </div>
 <div class='working'>
 
-We can also calculate the reduction in the price first and use that to calculate 
-the final sale price. This approach involves little extra work though.
+If the price is reduced by $15 \%$, then the sale price would be $100 - 15 = 85 \%$ of the original price.
 
 $
 \begin{aligned}
-\text{Original price}           &= \pounds 30 \\\\
-\text{Reduction on price}       &= 15\% \\\\
-                                &= 15\% \text{ of } \pounds 30\\\\
-                                &= \dfrac {15 \times 30 } { 100 } \\\\
-                                &= \dfrac {15 \times 3\cancel{0} } { 10 \times 1\cancel{0} } \\\\
-                                &= \dfrac {15 \times 3 } { 10 } \\\\
-                                &= \dfrac {45 } { 10 } \\\\
-                                &= \pounds 4.50
+\text{Sale price}               &= 85 \% \ \text{of} \ 30\\\\
+                                &= \dfrac {85} {100} \times 30 \\\\
+                                &= \dfrac {85 \times 30} {100} \\\\
+                                &= \dfrac {85 \times 3 \cancel{0}} {10 \cancel{0}} \\\\
+                                &= \dfrac {85 \times 3} {10} \\\\
+                                &= \dfrac {255} {10} \\\\
+                                &= \pounds 25.5
 \end{aligned}
 $
-
-$
-\begin{aligned}
-\text{Sale price}               &= \text{Original price} - \text{Reduction on price} \\\\
-                                &= 30 - 4.50 \\\\
-                                &= \pounds 25.50
-\end{aligned}
-$
-
-Sale price $= \pounds 25.50$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 25.50$
+$\pounds 25.5$
 
 </div>
 </div>

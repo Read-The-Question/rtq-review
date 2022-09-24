@@ -1,8 +1,8 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-ttemperature-1-g2"
 title: "TopicPaper - Temperature - 1 - G2"
-date: 2022-09-21 20:47:03
-questions_count: "6"
+date: 2022-09-24 05:07:09
+questions_count: "7"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -105,6 +105,32 @@ What was the difference in temperature between Oslo and NewYork?
 </div>
 </li>
 </ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+When the wind blows it feels colder.
+
+The stronger the wind blows, the colder it feels.
+
+Fill in the gaps in the table.
+
+The first row is done for you.
+
+|  Wind Strength  | Temperature out of the wind ( $ \degree C $) | How much **colder** it feels in the wind ( $\degree C$)  | Temperature it feels in the wind ( $ \degree C $) |
+|:---------------:|:--------------------------------------------:|:--------------------------------------------------------:|:-------------------------------------------------:|
+| Moderate breeze |                      $5$                     |                    $7$ degrees colder                    |                       $ -2 $                      |
+|   Fresh breeze  |                     $-8$                     |                    $11$ degrees colder                   |                      $\ldots$                     |
+|  Strong breeze  |                     $-4$                     |                $\ldots \ $ degrees colder                |                       $-20$                       |
+|       Gale      |                   $\ldots$                   |                    $23$ degrees colder                   |                       $-45$                       |
+
+
+</div>
+
 </div>
 </li>
 <li>

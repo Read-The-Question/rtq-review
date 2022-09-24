@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tgraph-1"
 title: "TopicPaper - Graph - 1"
-date: 2022-09-21 20:40:31
+date: 2022-09-24 04:59:20
 questions_count: "40"
 ---
 <div class='paper'>
@@ -16,7 +16,7 @@ questions_count: "40"
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g3 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -115,7 +115,7 @@ $(0, -3)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g3 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -157,7 +157,7 @@ $50$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -264,7 +264,7 @@ This is because a fraction represents the proportion, rather than the exact numb
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g3 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -363,7 +363,7 @@ $(2, 1)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g3 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -419,7 +419,7 @@ $54$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -527,7 +527,7 @@ $30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -556,7 +556,7 @@ I put square tiles on a large grid so that the tiles touch at the corners. The d
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The **bottom right-hand** corner of **tile** $\bold{2}$ is marked with a TODO
+The **bottom right-hand** corner of **tile** $2$ is marked with a $\spadesuit$.
 
 Write the coordinates of this point.
 
@@ -582,7 +582,7 @@ $(2, 1)$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-**Tile** $\bold{4}$ touches two other tiles.
+**Tile** $4$ touches two other tiles.
 Write the coordinates of the points where tile $4$ touches two other tiles.
 
 </div>
@@ -612,7 +612,7 @@ $(4, 4)$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write the coordinates of the points where **tile** $\bold{17}$ touches two other tiles.
+Write the coordinates of the points where **tile** $17$ touches two other tiles.
 
 </div>
 <div class='workings'>
@@ -641,7 +641,7 @@ $(17, 17)$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-I have $\bold{30}$ **tiles** to make a pattern on a grid. The pattern is a series of squares.
+I have $30$ **tiles** to make a pattern on a grid. The pattern is a series of squares.
 
 
 ![alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-2-question-17-subquestion-4-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-2-question-17-subquestion-4-00.png "alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-2-question-17-subquestion-4-00.png")
@@ -684,7 +684,7 @@ Yes
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g3 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -788,7 +788,7 @@ $60$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g3 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -824,7 +824,7 @@ $63 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -919,7 +919,7 @@ Plot the points on the graph
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1289,7 +1289,7 @@ Car B
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1384,7 +1384,7 @@ Plot the points on the graph
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1560,7 +1560,7 @@ $1.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1610,7 +1610,7 @@ Plot the points on the graph
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1705,7 +1705,7 @@ $2000$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1819,7 +1819,7 @@ $\dfrac {2} {3}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1890,7 +1890,18 @@ Plot the line between the point B and point C
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(4, 3)$
+$
+\begin {aligned}
+\text{x-coordinates}    &= \dfrac {2 + 6} {2} \\\\
+                        &= \dfrac {8} {2} \\\\
+                        &= 4 \\\\
+\text{y-coordinates}    &= \dfrac {0 + 6} {2} \\\\
+                        &= \dfrac {6} {2} \\\\
+                        &= 3
+\end {aligned}
+$
+
+Coordinates $= (4, 3)$
 
 </div>
 </div>
@@ -1908,7 +1919,7 @@ $(4, 3)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g3 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2043,7 +2054,7 @@ $30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g3 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2087,7 +2098,7 @@ $(2, 1)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g3 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2195,7 +2206,7 @@ Maria
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g3 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2332,7 +2343,7 @@ $50$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2367,7 +2378,12 @@ How much later did Ben start his journey?
 <div class='workings'>
 <div class='working'>
 
-$30 \ \text{mins}$
+$
+\begin {aligned}
+\text {Time}    &= 12.30 - 12.00 \\\\
+                &= 30 \ \text{mins}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -2392,7 +2408,12 @@ passed Anne?
 <div class='workings'>
 <div class='working'>
 
-$5 \ \text{km}$
+$
+\begin {aligned}
+\text {Distance}    &= 27.5 - 22.5 \\\\
+                    &= 5 \ \text{km}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -2416,7 +2437,12 @@ How long did Anne stop for?
 <div class='workings'>
 <div class='working'>
 
-$20 \ \text{mins}$
+$
+\begin {aligned}
+\text {Stop time}   &= 12.40 - 12.20 \\\\
+                    &= 20 \ \text{mins}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -2458,7 +2484,7 @@ $27.5 \ \text{km}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2495,6 +2521,18 @@ What shape is this?
 <div class='workings'>
 <div class='working'>
 
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Plot the points on the graph and join them in order
+
+
+*ABBR: TODO:: Add drawing ends.*
+
+
 Rectangle
 
 </div>
@@ -2528,9 +2566,26 @@ the perimeter of the original square?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
+
+ABBR: $\text{Perimeter of polygon} = \text{Sum of all sides}$
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Plot the octagon and label the side length of all edges
+
+
+*ABBR: TODO:: Add drawing ends.*
+
+
 $
 \begin{aligned}
-\text{Perimeter of square}      &= 3 + 3 + 3 + 3 \\\\
+\text{Perimeter of square}      &= 4 \times 3 \\\\
                                 &= 12 \ \text{cm} \\\\
 \text{Perimeter of octagon}     &= 1 + 4 + 3 + 4 + 1 + 3 + 1 + 3 \\\\
                                 &= 20 \ \text{cm} \\\\
@@ -2555,7 +2610,7 @@ $8 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2622,7 +2677,18 @@ Write down the co-ordinates of $C$, the midpoint of line $AB$.
 <div class='workings'>
 <div class='working'>
 
-$(6.5, 4)$
+$
+\begin {aligned}
+\text{x-coordinates}    &= \dfrac {3 + 10} {2} \\\\
+                        &= \dfrac {13} {2} \\\\
+                        &= 6.5 \\\\
+\text{y-coordinates}    &= \dfrac {2 + 6} {2} \\\\
+                        &= \dfrac {8} {2} \\\\
+                        &= 4
+\end {aligned}
+$
+
+Coordinates $= (6.5, 4)$
 
 </div>
 </div>
@@ -2683,7 +2749,7 @@ $(2, 5)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2744,8 +2810,8 @@ How many buses were there on Thursday?
 
 $
 \begin{aligned}
-\text{Number of buses on Thursday}      &= 4 \times 20 \\\\
-                                        &= 80
+\text{Buses on Thursday}    &= 4 \times 20 \\\\
+                            &= 80
 \end{aligned}
 $
 
@@ -2773,8 +2839,8 @@ How many buses were there on Tuesday?
 
 $
 \begin{aligned}
-\text{Number of buses on Tuesday}       &= 4.5 \times 20 \\\\
-                                        &= 90
+\text{Buses on Tuesday}      &= 4.5 \times 20 \\\\
+                                &= 90
 \end{aligned}
 $
 
@@ -2806,7 +2872,7 @@ On Friday there were $60$ buses. Add this information to the graph.
 
 
 
-Plot the number of buses on the graph
+Plot three buses in the Friday row on the pictograph
 
 
 *ABBR: TODO:: Add drawing ends.*
@@ -2836,8 +2902,9 @@ How many buses were there in total over the whole week?
 
 $
 \begin{aligned}
-\text{Total number of buses}            &= 5 \times 20 + 4.5 \times 20 + 2 \times 20 + 4 \times 20 + 60 \\\\
-                                        &= 100 + 90 + 40 + 80 + 60 \\\\
+\text{Total number of buses}            &= 20 \times (5 + 4.5 + 2 + 4) + 60 \\\\
+                                        &= 20 \times 15.5 + 60 \\\\
+                                        &= 310 + 60 \\\\
                                         &= 370
 \end{aligned}
 $
@@ -2858,7 +2925,7 @@ $370$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2902,7 +2969,7 @@ Draw the lines of symmetry
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2921,7 +2988,12 @@ Mark a third point $N$ so that the three points $L, M$ and $N$ join up to make a
 <div class='workings'>
 <div class='working'>
 
-$(0, 4), (2, 4)$
+B $= (0, 4)$
+
+C $= (2, 4)$
+
+</div>
+<div class='working'>
 
 *ABBR: TODO:: Add drawing starts.*
 
@@ -2929,11 +3001,28 @@ $(0, 4), (2, 4)$
 
 
 
-Plot the points L, M and N to make an isosceles triangle
+Plot the points L and M on the graph
 
 
 *ABBR: TODO:: Add drawing ends.*
 
+
+</div>
+<div class='working'>
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Plot the point N such that L, M and N forms an isosceles triangle
+
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$(0, 3)$
 
 </div>
 </div>
@@ -2943,12 +3032,22 @@ Plot the points L, M and N to make an isosceles triangle
 $(0, 4), (2, 4)$
 
 </div>
+<div class='answer'>
+
+%empty%
+
+</div>
+<div class='answer'>
+
+$(0, 3)$
+
+</div>
 </div>
 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3105,7 +3204,7 @@ Isosceles triangle
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3191,8 +3290,8 @@ How many houses received fewer than three letters?
 
 $
 \begin{aligned}
-\text{Number of houses received less than 3 letters}    &= 3 + 6 + 8 \\\\
-                                                        &= 17
+\text{Number of houses}    &= 3 + 6 + 8 \\\\
+                           &= 17
 \end{aligned}
 $
 
@@ -3241,7 +3340,7 @@ $\dfrac {13} {28}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3344,7 +3443,7 @@ Kite
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3462,13 +3561,12 @@ Show your working.
 
 $
 \begin{aligned}
-\text{Greatest height of Marc}      &= \left( \dfrac {\text{Mother's height} + \text{Father's height}} {2} + 7 \right) + 10 \\\\
-                                    &= \left( \dfrac {168 + 194} {2} + 7 \right) + 10 \\\\
-                                    &= \left( \dfrac {362} {2} + 7 \right) + 10 \\\\
-                                    &= \left( \dfrac {2 \times 181} {2} + 7 \right) + 10 \\\\
-                                    &= \left( \dfrac {\cancel 2 \times 181} {\cancel 2} + 7 \right) + 10 \\\\
-                                    &= (181 + 7) + 10 \\\\
-                                    &= 188 + 10 \\\\
+\text{Max height of Marc}           &= \dfrac {1} {2} \times (168 + 194) + 7 + 10 \\\\
+                                    &= \dfrac {168 + 194} {2} + 17  \\\\
+                                    &= \dfrac {362} {2} + 17 \\\\
+                                    &= \dfrac {2 \times 181} {2} + 17 \\\\
+                                    &= \dfrac {\cancel 2 \times 181} {\cancel 2} + 17 \\\\
+                                    &= 181 + 17 \\\\
                                     &= 198 \ \text{cm}
 \end{aligned}
 $
@@ -3489,7 +3587,7 @@ $191 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3528,7 +3626,18 @@ P is ($\ldots$ , $\ldots$ )
 <div class='workings'>
 <div class='working'>
 
-$(60, 60)$
+$
+\begin {aligned}
+\text{x-coordinates}    &= \dfrac {0 + 120} {2} \\\\
+                        &= \dfrac {120} {2} \\\\
+                        &= 60 \\\\
+\text{y-coordinates}    &= \dfrac {120 + 0} {2} \\\\
+                        &= \dfrac {120} {2} \\\\
+                        &= 60
+\end {aligned}
+$
+
+Coordinates $= (60, 60)$
 
 </div>
 </div>
@@ -3562,9 +3671,28 @@ N is ($\ldots$ , $\ldots$ )
 <div class='workings'>
 <div class='working'>
 
-M is $(0, 100)$
+Let the coordinates of M $= (0, b)$
 
-N is $(60, 0)$
+Let the coordinates of N $= (a, 0)$
+
+As per the question,
+
+$
+\begin {aligned}
+\dfrac {0 + a} {2}          &= 30 \\\\
+\dfrac {a} {2}              &= 30 \\\\
+a                           &= 30 \times 2 \\\\
+a                           &= 60 \\\\
+\dfrac {b + 0} {2}          &= 50 \\\\
+\dfrac {b} {2}              &= 50 \\\\
+b                           &= 50 \times 2 \\\\
+b                           &= 100
+\end {aligned}
+$
+
+Coordinates of M $= (0, 100)$
+
+Coordinates of N $= (60, 0)$
 
 </div>
 </div>
@@ -3584,7 +3712,7 @@ N is $(60, 0)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3655,14 +3783,14 @@ How much did Mr Gauss spend on Vanilla Ice Cream?
 <div class='workings'>
 <div class='working'>
 
-$\pounds 8$
+$\pounds 7.5$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 8$
+$\pounds 7.5$
 
 </div>
 </div>
@@ -3673,7 +3801,7 @@ $\pounds 8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3712,7 +3840,7 @@ How many year $7$s have chips as their favourite food?
 
 $
 \begin{aligned}
-\text{Number of students who like chips}    &= \dfrac {180} {360} \times 48 \\\\
+\text{Students who like chips}    &= \dfrac {180} {360} \times 48 \\\\
                                             &= \dfrac {180 \times 48} {360} \\\\
                                             &= \dfrac {180 \times 2 \times 24} {180 \times 2} \\\\
                                             &= \dfrac {\cancel {180} \times \cancel 2 \times 24} {\cancel {180} \times \cancel 2} \\\\
@@ -3744,11 +3872,10 @@ What fraction of year $7$s have chocolate as their favourite food?
 
 $
 \begin{aligned}
-\text{Number of students who like chocolate}    &= \dfrac {90} {360} \times 48 \\\\
-                                                &= \dfrac {90 \times 48} {360} \\\\
-                                                &= \dfrac {90 \times 4 \times 12} {90 \times 4} \\\\
-                                                &= \dfrac {\cancel {90} \times \cancel 4 \times 12} {\cancel {90} \times \cancel 4} \\\\
-                                                &= 12
+\text{Fraction of students who like chocolate}      &= \dfrac {90} {360} \\\\
+                                                    &= \dfrac {90} {90 \times 4} \\\\
+                                                    &= \dfrac {\cancel {90}} {\cancel {90} \times 4} \\\\
+                                                    &= \dfrac {1} {4}
 \end{aligned}
 $
 
@@ -3757,7 +3884,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$12$
+$\dfrac {1} {4}$
 
 </div>
 </div>
@@ -3776,7 +3903,7 @@ Estimate the number of year $7$s who have pizza as their favourite food.
 
 $
 \begin{aligned}
-\text{Number of students who like pizza}        &= \dfrac {30} {360} \times 48 \\\\
+\text{Students who like pizza}        &= \dfrac {30} {360} \times 48 \\\\
                                                 &= \dfrac {30 \times 48} {360} \\\\
                                                 &= \dfrac {30 \times 12 \times 4} {30 \times 12} \\\\
                                                 &= \dfrac {\cancel {30} \times \cancel {12} \times 4} {\cancel {30} \times \cancel {12}} \\\\
@@ -3800,7 +3927,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3937,7 +4064,7 @@ Plot the points on the graph
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -4000,8 +4127,8 @@ How many children had more than two cousins?
 
 $
 \begin {aligned}
-\text {Children that have more than two cousins} &= 5 + 3 \\\\
-                                                 &= 8
+\text {Number of children} &= 5 + 3 \\\\
+                           &= 8
 \end {aligned}
 $
 
@@ -4051,7 +4178,7 @@ $49$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -4102,7 +4229,7 @@ On the bar chart add the three missing labels under the axis.
 
 
 
-Plot the labels under the axis
+Plot the labels Car, Bike, Bus, Walk and Taki in the order under the axis
 
 
 *ABBR: TODO:: Add drawing ends.*
@@ -4136,7 +4263,7 @@ Complete the scale on the bar chart adding six values to the axis.
 
 
 
-Complete the scale of the chart
+Write the scale $1 unit = 5$ on the bar chart
 
 
 *ABBR: TODO:: Add drawing ends.*
@@ -4218,7 +4345,7 @@ On the bar chart add the missing bar.
 
 
 
-Plot the missing bar
+Plot $27$ in the bus column in the bar chart
 
 
 *ABBR: TODO:: Add drawing ends.*
@@ -4240,7 +4367,7 @@ Plot the missing bar
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -4299,7 +4426,32 @@ What is the value of $y$?
 <div class='workings'>
 <div class='working'>
 
-$15$
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Show the coordinates of the origin and distance $2, 5, 6$ and $y$
+
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+Using equivalent ratio,
+
+$
+\begin{aligned}
+2 : 5                                           &= 6 : y \\\\
+\dfrac {2} {5}                                  &= \dfrac {6} {y} \\\\
+2 \times y                                      &= 6 \times 5 \\\\
+y                                               &= \dfrac {6 \times 5} {2} \\\\
+y                                               &= \dfrac {2 \times 3 \times 5} {2} \\\\
+y                                               &= \dfrac {\cancel 2 \times 3 \times 5} {\cancel 2} \\\\
+y                                               &= 3 \times 5 \\\\
+y                                               &= 15
+\end{aligned}
+$
 
 </div>
 </div>
@@ -4317,7 +4469,7 @@ $15$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -4376,14 +4528,14 @@ At what clock time does the tide drop below $4 \ \text{metres}$?
 <div class='workings'>
 <div class='working'>
 
-$18 \ \text{hours}$
+$19 \ \text{hours}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$18 \ \text{hours}$
+$19 \ \text{hours}$
 
 </div>
 </div>
@@ -4402,8 +4554,8 @@ For how many hours is the tide above $6 \ \text{metres}$?
 
 $
 \begin{aligned}
-\text{Number of hours tide is above 6 metres}       &= 15 - 5 \\\\
-                                                    &= 10 \ \text{hours}
+\text{Number of hours tide is above 6 metres}       &= 14 - 5 \\\\
+                                                    &= 9 \ \text{hours}
 \end{aligned}
 $
 
@@ -4412,7 +4564,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$10 \ \text{hours}$
+$9 \ \text{hours}$
 
 </div>
 </div>

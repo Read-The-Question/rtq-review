@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-10-red"
 title: "TopicPaper - Algebra - 10 - RED"
-date: 2022-09-21 20:40:31
+date: 2022-09-24 04:59:20
 questions_count: "2"
 ---
 <ul class='question default-decimal'>

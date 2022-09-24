@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tgeometry-1"
 title: "TopicPaper - Geometry - 1"
-date: 2022-09-21 20:47:03
+date: 2022-09-24 05:07:09
 questions_count: "40"
 ---
 <div class='paper'>
@@ -189,9 +189,6 @@ How many faces has a cuboid?
 Three of these shapes have an even number of vertices. Which one does not?
 
 -  ![alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-1-question-13-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-1-question-13-00.png "alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-1-question-13-00.png")
--  ![alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-1-question-13-01.png](/assets/alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-1-question-13-01.png "alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-1-question-13-01.png")
--  ![alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-1-question-13-02.png](/assets/alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-1-question-13-02.png "alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-1-question-13-02.png")
--  ![alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-1-question-13-03.png](/assets/alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-1-question-13-03.png "alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-1-question-13-03.png")
 
 </div>
 
@@ -364,6 +361,8 @@ The grids in this question are a centimetre square grids.
 For each shape on the left, draw a **rectangle** that has the same area.
 
 ![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-9-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-9-00.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-9-00.png")
+![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-9-01.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-9-01.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-9-01.png")
+![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-9-02.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-9-02.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-9-02.png")
 
 </div>
 
@@ -403,6 +402,7 @@ The pyramid was made by using cubes as building blocks.
 How many blocks did it take to make the pyramid?
 
 ![bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-28-00.png](/assets/bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-28-00.png "bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-28-00.png")
+![bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-28-01.png](/assets/bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-28-01.png "bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-28-01.png")
 
 </div>
 
@@ -423,6 +423,7 @@ How many blocks did it take to make the pyramid?
 <div class='question subquestion'>
 
 ![bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-30-subquestion-1-00.png](/assets/bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-30-subquestion-1-00.png "bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-30-subquestion-1-00.png")
+![bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-30-subquestion-1-01.png](/assets/bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-30-subquestion-1-01.png "bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-30-subquestion-1-01.png")
 
 </div>
 <ul class='subsubquestion lower-roman'>
@@ -459,6 +460,7 @@ Which view ($P, Q$ or $R$) can I get by looking
 down at the cylinder from above, in the direction of arrow $Z$?
 
 ![bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-30-subquestion-2-00.png](/assets/bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-30-subquestion-2-00.png "bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-30-subquestion-2-00.png")
+![bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-30-subquestion-2-01.png](/assets/bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-30-subquestion-2-01.png "bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-30-subquestion-2-01.png")
 
 </div>
 
@@ -623,6 +625,7 @@ When piece $A$ is turned over, which one of the shapes below shows its black sid
 Put a ring around the correct answer.
 
 ![bancrofts-school--11-plus--maths--2020--sample-paper-6/section-1-question-23-00.png](/assets/bancrofts-school--11-plus--maths--2020--sample-paper-6/section-1-question-23-00.png "bancrofts-school--11-plus--maths--2020--sample-paper-6/section-1-question-23-00.png")
+![bancrofts-school--11-plus--maths--2020--sample-paper-6/section-1-question-23-01.png](/assets/bancrofts-school--11-plus--maths--2020--sample-paper-6/section-1-question-23-01.png "bancrofts-school--11-plus--maths--2020--sample-paper-6/section-1-question-23-01.png")
 
 </div>
 
@@ -657,6 +660,7 @@ The diagram shows a pentagonal prism.
 Write the letter of the one shape below that is a net for the pentagonal prism.
 
 ![bancrofts-school--11-plus--maths--2020--sample-paper-6/section-1-question-30-00.png](/assets/bancrofts-school--11-plus--maths--2020--sample-paper-6/section-1-question-30-00.png "bancrofts-school--11-plus--maths--2020--sample-paper-6/section-1-question-30-00.png")
+![bancrofts-school--11-plus--maths--2020--sample-paper-6/section-1-question-30-01.png](/assets/bancrofts-school--11-plus--maths--2020--sample-paper-6/section-1-question-30-01.png "bancrofts-school--11-plus--maths--2020--sample-paper-6/section-1-question-30-01.png")
 
 </div>
 

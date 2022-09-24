@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tgraph-3"
 title: "TopicPaper - Graph - 3"
-date: 2022-09-21 20:40:31
+date: 2022-09-24 04:59:20
 questions_count: "40"
 ---
 <div class='paper'>
@@ -1115,7 +1115,7 @@ Plot the time on the clock
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g3 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

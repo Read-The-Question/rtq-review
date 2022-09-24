@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-g"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper G"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "26"
 ---
 <div class='paper'>
@@ -1458,7 +1458,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1525,19 +1525,31 @@ Plot the point that is midway between $A$ and $B$ and write down its coordinates
 <div class='workings'>
 <div class='working'>
 
+$
+\begin {aligned}
+\text{x-coordinates}    &= \dfrac {-2 + 4} {2} \\\\
+                        &= \dfrac {2} {2} \\\\
+                        &= 1 \\\\
+\text{y-coordinates}    &= \dfrac {2 + (-2)} {2} \\\\
+                        &= \dfrac {2 - 2} {2} \\\\
+                        &= \dfrac {0} {2} \\\\
+                        &= 0
+\end {aligned}
+$
+
+Coordinates $= (1, 0)$
+
 *ABBR: TODO:: Add drawing starts.*
 
 ![missing image](/papers/missing_image.svg)
 
 
 
-Plot the point on the graph
+Plot the point with coordinate $(1, 0)$ on the graph
 
 
 *ABBR: TODO:: Add drawing ends.*
 
-
-$(1, 0)$
 
 </div>
 </div>
@@ -1563,7 +1575,18 @@ Point $D$ is the point midway between the points $C$ and $E$. Find the coordinat
 <div class='workings'>
 <div class='working'>
 
-$(0.5, 0)$
+$
+\begin {aligned}
+\text{x-coordinates}    &= \dfrac {0 + 1} {2} \\\\
+                        &= \dfrac {1} {2} \\\\
+                        &= 0.5 \\\\
+\text{y-coordinates}    &= \dfrac {-1 + 1} {2} \\\\
+                        &= \dfrac {0} {2} \\\\
+                        &= 0
+\end {aligned}
+$
+
+Coordinates $= (0.5, 0)$
 
 </div>
 </div>
@@ -1766,7 +1789,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1849,7 +1872,7 @@ The total of the two scores are added together. Who has the highest total?
 <div class='workings'>
 <div class='working'>
 
-| Name of pupil | Science score | Maths score |    Total score    |
+| Name of pupil | Science       | Maths       |    Total          |
 |:-------------:|:-------------:|:-----------:|:-----------------:|
 |     Heidi     |      $13$     |     $3$     |   $13 + 3 = 16$   |
 |     Maria     |      $13$     |     $8$     |   $13 + 8 = 21$   |
@@ -1861,7 +1884,7 @@ The total of the two scores are added together. Who has the highest total?
 |     Jai       |      $3$      |     $7$     |   $3 + 7 = 10$    |
 |     Esther    |      $3$      |     $14$    |   $3 + 14 = 17$   |
 
-Jan
+Highest total = Jan
 
 </div>
 </div>

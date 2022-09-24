@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-e"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper E"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "22"
 ---
 <div class='paper'>
@@ -456,7 +456,7 @@ $48$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -494,11 +494,11 @@ Write down the percentage of children who have two siblings.
 
 $
 \begin{aligned}
-\text{Percentage of children with two siblings} &= \dfrac {90} {360} \times 100 \\\\
+\text{\% of children with 2 siblings}           &= \dfrac {90} {360} \times 100 \\\\
                                                 &= \dfrac {90 \times 100} {360} \\\\
                                                 &= \dfrac {90 \times 4 \times 25} {90 \times 4} \\\\
                                                 &= \dfrac {\cancel {90} \times \cancel 4 \times 25} {\cancel {90} \times \cancel 4} \\\\
-                                                &= 25 \ \%
+                                                &= 25\%
 \end{aligned}
 $
 
@@ -507,7 +507,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$25 \ \%$
+$25 \%$
 
 </div>
 </div>
@@ -524,9 +524,12 @@ Work out the fraction of children who have no siblings, giving your answer in it
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Angles around a point add up to} = 360 \degree$
+
+
 $
 \begin{aligned}
-\text{Fraction of children with no siblings}    &= \dfrac {360 - 45 - 90 - 90} {360} \\\\
+\text{Fraction}                                 &= \dfrac {360 - 45 - 90 - 90} {360} \\\\
                                                 &= \dfrac {135} {360} \\\\
                                                 &= \dfrac {45 \times 3} {45 \times 8} \\\\
                                                 &= \dfrac {\cancel {45} \times 3} {\cancel {45} \times 8} \\\\
@@ -580,22 +583,21 @@ $
 
 $
 \begin{aligned}
-\text{Number of children with no siblings}      &= \dfrac {135} {360} \times 64 \\\\
-                                                &= \dfrac {135 \times 64} {360} \\\\
-                                                &= \dfrac {45 \times 3 \times 8 \times 8} {45 \times 8} \\\\
-                                                &= \dfrac {\cancel {45} \times 3 \times 8 \times \cancel 8} {\cancel {45} \times \cancel 8} \\\\
-                                                &= 3 \times 8 \\\\
-                                                &= 24 \\\\
-\text{Number of children with two siblings}     &= \dfrac {90} {360} \times 64 \\\\
-                                                &= \dfrac {90 \times 64} {360} \\\\
-                                                &= \dfrac {90 \times 4 \times 16} {90 \times 4} \\\\
-                                                &= \dfrac {\cancel {90} \times \cancel 4 \times 16} {\cancel {90} \times \cancel 4} \\\\
-                                                &= 16 \\\\
-\text{Number of children with three siblings}   &= \dfrac {90} {360} \times 64 \\\\
-                                                &= \dfrac {90 \times 64} {360} \\\\
-                                                &= \dfrac {90 \times 4 \times 16} {90 \times 4} \\\\
-                                                &= \dfrac {\cancel {90} \times \cancel 4 \times 16} {\cancel {90} \times \cancel 4} \\\\
-                                                &= 16
+\text{Children with no siblings}    &= \dfrac {135} {360} \times 64 \\\\
+                                    &= \dfrac {135 \times 64} {360} \\\\
+                                    &= \dfrac {45 \times 3 \times 8 \times 8} {45 \times 8} \\\\
+                                    &= \dfrac {\cancel {45} \times 3 \times 8 \times \cancel 8} {\cancel {45} \times \cancel 8} \\\\
+                                    &= 24 \\\\
+\text{Children with 2 siblings}     &= \dfrac {90} {360} \times 64 \\\\
+                                    &= \dfrac {90 \times 64} {360} \\\\
+                                    &= \dfrac {90 \times 4 \times 16} {90 \times 4} \\\\
+                                    &= \dfrac {\cancel {90} \times \cancel 4 \times 16} {\cancel {90} \times \cancel 4} \\\\
+                                    &= 16 \\\\
+\text{Children with 3 siblings}     &= \dfrac {90} {360} \times 64 \\\\
+                                    &= \dfrac {90 \times 64} {360} \\\\
+                                    &= \dfrac {90 \times 4 \times 16} {90 \times 4} \\\\
+                                    &= \dfrac {\cancel {90} \times \cancel 4 \times 16} {\cancel {90} \times \cancel 4} \\\\
+                                    &= 16
 \end{aligned}
 $
 
@@ -608,9 +610,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-|      Number of siblings     | $0$ | $1$ | $2$ | $3$ |
-|:---------------------------:|:---:|:---:|:---:|:---:|
-| Number of children surveyed | $24$| $8$ | $16$| $16$|
+%empty%
 
 </div>
 </div>
@@ -626,6 +626,11 @@ Write down the mode of the number of siblings.
 </div>
 <div class='workings'>
 <div class='working'>
+
+ABBR: Mode is the most common value.
+
+
+Let's look for the number of siblings that occurs the most.
 
 | Number of siblings | Frequency |
 |:------------------:|:---------:|
@@ -1100,7 +1105,7 @@ $1.176 \%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1169,14 +1174,14 @@ State what type of triangle has been formed.
 <div class='workings'>
 <div class='working'>
 
-Isosceles
+Isosceles triangle
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Isosceles
+Isosceles triangle
 
 </div>
 </div>
@@ -1194,6 +1199,18 @@ Write down the co-ordinates of $D$.
 </div>
 <div class='workings'>
 <div class='working'>
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Plot the 4th point on the graph too and show the length of the side of the parallelogram
+
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 $(7, 5)$
 

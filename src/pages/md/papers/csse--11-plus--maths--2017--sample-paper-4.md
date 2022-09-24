@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2017-sample-paper-4"
 title: "Csse - 11 Plus - Maths - 2017 - Sample Paper 4"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "21"
 ---
 <div class='paper'>
@@ -1158,26 +1158,16 @@ A coat is advertised on a discount website. The original price is $\pounds 120$.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -1190,26 +1180,43 @@ Ashok buys the coat for sale at '$40\%$ off'. How much does he pay for it?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Sale price}  &= \text {Original price} - \text {Discount} \\\\
+                   &= 120 - 40 \% \times 120  \\\\
+                   &= 120 - \dfrac {40} {100} \times 120 \\\\
+                   &= 120 - \dfrac {40 \times 120} {100} \\\\
+                   &= 120 - \dfrac {4 \cancel 0 \times 12 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
+                   &= 120 - 4 \times 12 \\\\
+                   &= 120 - 48 \\\\
+                   &= \pounds 72
+\end{aligned}
+$
 
 </div>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+If the price is reduced by $40 \%$, then the new price will be $100 - 40 = 60 \%$ of the original price. Using that, we get
+
+$
+\begin{aligned}
+\text {Sale price}          &= 60 \% \times 120 \\\\
+                            &= \dfrac {60} {100} \times 120 \\\\
+                            &= \dfrac {60 \times 120} {100}  \\\\
+                            &= \dfrac {6 \cancel 0 \times 12 \cancel 0} {1 \cancel 0 \cancel 0}  \\\\
+                            &= 6 \times 12 \\\\
+                            &= \pounds 72
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\pounds 72$
 
 </div>
 </div>
@@ -1228,26 +1235,39 @@ Reduce the advertised price by $10\%$. How much does Ed pay?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+If the price is reduced by $30 \%$, then the advertised price will be $100 - 30 = 70 \%$ of the original price. Using that, we get
 
-</div>
-<div class='working placeholder'>
+$
+\begin{aligned}
+\text {Advertised price}    &= 70 \% \times 120 \\\\
+                            &= \dfrac {70} {100} \times 120 \\\\
+                            &= \dfrac {70 \times 120} {100}  \\\\
+                            &= \dfrac {7 \cancel 0 \times 12 \cancel 0} {1 \cancel 0 \cancel 0}  \\\\
+                            &= 7 \times 12 \\\\
+                            &= \pounds 84
+\end{aligned}
+$
 
-TODOWORKING
+If the price is reduced by $10 \%$, then the new advertised price will be $100 - 10 = 90 \%$ of the original price. Using that, we get
+
+$
+\begin{aligned}
+\text {New advertised price}    &= 90 \% \times 120 \\\\
+                                &= \dfrac {90} {100} \times 84 \\\\
+                                &= \dfrac {90 \times 84} {100}  \\\\
+                                &= \dfrac {7560} {100}  \\\\
+                                &= \pounds 75.6
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\pounds 75.6$
 
 </div>
 </div>
@@ -1578,7 +1598,7 @@ $\dfrac {3} {2}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1617,8 +1637,8 @@ How far does Jo travel in total?
 
 $
 \begin{aligned}
-\text{Total distance travelled by Jo}       &= 4 + 4 \\\\
-                                            &= 8 \ \text{m}
+\text{Total distance}       &= 4 + 4 \\\\
+                            &= 8 \ \text{m}
 \end{aligned}
 $
 
@@ -1646,8 +1666,8 @@ For how long is Jo more than $3 \ \text{metres}$ from the bank?
 
 $
 \begin{aligned}
-\text{Time for which Jo is more than 3 m from the bank} &= 2 - 1 \\\\
-                                                        &= 1 \ \text{s}
+\text{Time} &= 2 - 1 \\\\
+            &= 1 \ \text{s}
 \end{aligned}
 $
 
@@ -1673,7 +1693,9 @@ How far from the bank is she when she is travelling the fastest?
 <div class='workings'>
 <div class='working'>
 
-$3.5 \ \text{m}$
+From the graph we can see that Jo took the least time to cover the distance from $1 \ \text{m}$ to $3.5 \ \text{m}$.
+
+So she is travelling fastest when she is $3.5 \ \text{m}$ far from the bank.
 
 </div>
 </div>
@@ -1691,7 +1713,7 @@ $3.5 \ \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

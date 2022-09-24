@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2010-arithmetic-1"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2010 - Arithmetic 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "20"
 ---
 <div class='paper'>
@@ -624,7 +624,7 @@ $27$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -643,11 +643,10 @@ $
 \begin{aligned}
 1 \times 10 \ \text{mm} : 2 \times 1000 \ \text{m}              &= 3 \ \text{mm} : a \ \text{m} \\\\
 \dfrac {10} {2 \times 1000}                                     &= \dfrac {3} {a} \\\\
-\dfrac {10} {2000}                                              &= \dfrac {3} {a} \\\\
-10a                                                             &= 3 \times 2000 \\\\
-a                                                               &= \dfrac {3 \times 2000} {10} \\\\
-a                                                               &= \dfrac {3 \times 200 \cancel 0} {1 \cancel 0} \\\\
-a                                                               &= 3 \times 200 \\\\
+10 \times a                                                     &= 3 \times 2 \times 1000 \\\\
+a                                                               &= \dfrac {3 \times 2 \times 1000} {10} \\\\
+a                                                               &= \dfrac {3 \times 2 \times 100 \cancel 0} {1 \cancel 0} \\\\
+a                                                               &= 3 \times 2 \times 100 \\\\
 a                                                               &= 600 \ \text{m}
 \end{aligned}
 $
@@ -666,10 +665,10 @@ $
 = & 1 \times 10 \ \text{mm}   &:& 2 \times 1000 \ \text{m} \\\\
 = & 10                        &:& 2000 \\\\
 = & 1                         &:& \dfrac{2000} {10} \\\\
-= & 3                         &:& \dfrac{2000 \times 3} {10} \\\\
+= & 1 \times 3                &:& \dfrac{2000 \times 3} {10} \\\\
 = & 3                         &:& \dfrac{200 \cancel 0 \times 3} {1 \cancel 0} \\\\
 = & 3                         &:& 200 \times 3 \\\\
-= & 3 \ \text{mm}             &:& 600 \ \text{m} \\\\
+= & 3 \ \text{mm}             &:& 600 \ \text{m}
 \end{array}
 $
 
@@ -823,7 +822,7 @@ $20 \ \text{coins}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -836,21 +835,25 @@ $0.77, \quad \dfrac{3}{4}, \quad 0.705, \quad \dfrac{4}{5}, \quad 0.748$.
 <div class='workings'>
 <div class='working'>
 
-To compare, we can convert all the numbers to fractions, decimals or percentages. 
+Let's convert all the numbers into decimals.
 
-In this case, there are more decimals than fractions, so let's convert all the numbers into decimals.
-
-$0.77, \quad \dfrac{3}{4}, \quad 0.705, \quad \dfrac{4}{5}, \quad 0.748$
-
-$0.77, \quad 0.75, \quad 0.705, \quad 0.8, \quad 0.748$
+$
+\begin{aligned}
+&= 0.77, \quad \dfrac{3}{4}, \quad 0.705, \quad \dfrac{4}{5}, \quad 0.748 \\\\
+&= 0.77, \quad 0.75, \quad 0.705, \quad 0.8, \quad 0.748
+\end{aligned}
+$
 
 Let's put them in ascending order.
 
-$0.705, \quad 0.748, \quad 0.75, \quad 0.77, \quad 0.8$
+$
+\begin{aligned}
+&= 0.705 < 0.748 < 0.75 < 0.77 < 0.8 \\\\
+&= 0.705 < 0.748 < \dfrac{3}{4} < 0.77 < \dfrac{4}{5}
+\end{aligned}
+$
 
-The number in the middle $= 0.75$. 
-
-The number in the middle $= \dfrac{3}{4}$.
+The number in the middle $= \dfrac{3}{4}$ 
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2016-sample-paper-2"
 title: "St Pauls Girls School - 11 Plus - Maths - 2016 - Sample Paper 2"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "35"
 ---
 <div class='paper'>
@@ -293,7 +293,7 @@ $5.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -306,22 +306,14 @@ $6.01 \quad 16.0 \quad 0.61 \quad 1.60 \quad 6.1$
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-&= 6.01,  \quad   16.0,  \quad   0.61,  \quad   6.1 \\\\
-&= 6.01,  \quad   16.00,  \quad   0.61,  \quad   6.10 \\\\
-&\text{Let's put them in ascending order now.} \\\\
-&= 0.61 <  \quad   6.01 <  \quad   6.10 <  \quad   16.00 \\\\
-&= 0.61 < \quad   6.01 < \quad   6.1 <  \quad   16.0
-\end{aligned}
-$
+$0.61, \quad 1.60, \quad 6.01, \quad 6.1, \quad 16.0$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$0.61 < \quad   6.01 < \quad   6.1 <  \quad   16.0$
+$0.61, \quad 1.60, \quad 6.01, \quad 6.1, \quad 16.0$
 
 </div>
 </div>
@@ -329,7 +321,7 @@ $0.61 < \quad   6.01 < \quad   6.1 <  \quad   16.0$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -358,8 +350,8 @@ Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= \dfrac {12} {20} < \quad  \dfrac {15} {20} < \quad \dfrac {17}{20} < \quad \dfrac {18} {20} \\\\
-&= \dfrac {3} {5} < \quad \dfrac {3} {5} < \quad \dfrac {17} {20} < \quad \dfrac {9} {10}
+&= \dfrac {12} {20} <  \dfrac {15} {20} < \dfrac {17}{20} < \dfrac {18} {20} \\\\
+&= \dfrac {3} {5} < \dfrac {3} {4} < \dfrac {17} {20} < \dfrac {9} {10}
 \end{aligned}
 $
 
@@ -368,7 +360,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {3} {5} < \quad \dfrac {3} {5} < \quad \dfrac {17} {20} < \quad \dfrac {9} {10}$
+$\dfrac {3} {5}, \quad \dfrac {3} {4}, \quad \dfrac {17} {20}, \quad \dfrac {9} {10}$
 
 </div>
 </div>

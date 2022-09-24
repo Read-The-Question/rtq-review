@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2010-sample-paper-1"
 title: "Reigate Grammar School - 11 Plus - Maths - 2010 - Sample Paper 1"
-date: 2022-09-21 20:38:03
+date: 2022-09-24 04:56:14
 questions_count: "36"
 ---
 <div class='paper'>
@@ -623,7 +623,7 @@ $13.579$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -636,23 +636,12 @@ $\dfrac{1}{6} , 0.15, 20\%$
 <div class='workings'>
 <div class='working'>
 
-Let's convert all the numbers into fractions.
+Let's convert all the numbers into decimals.
 
 $
 \begin{aligned}
 &= \dfrac {1} {6} , \quad 0.15 , \quad 20\% \\\\
-&= \dfrac {1} {6} , \quad \dfrac {15} {100} , \quad \dfrac {20} {100}
-\end{aligned}
-$
-
-Let's make the denominator the same for all the numbers.
-
-LCM of $6, 100, 100 = 300$
-
-$
-\begin{aligned}
-&= \dfrac {1 \times 50} {6 \times 50} , \quad \dfrac {15 \times 3} {100 \times 3} , \quad \dfrac {20 \times 3} {100 \times 3} \\\\
-&= \dfrac {50} {300} , \quad \dfrac {45} {300} ,  \quad \dfrac {60} {300}
+&= 0.1\overline{6} , \quad 0.15 , \quad 0.2
 \end{aligned}
 $
 
@@ -660,7 +649,7 @@ Let's put them in decending order now.
 
 $
 \begin{aligned}
-&= \dfrac {60} {300} > \dfrac {50} {300} >  \dfrac {45} {300} \\\\
+&= 0.2 > 0.1\overline{6} > 0.15 \\\\
 &= 20\% > \dfrac {1} {6} > 0.15
 \end{aligned}
 $
@@ -998,7 +987,7 @@ $0.45$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1021,6 +1010,9 @@ Largest $= 0.76$
 <div class='answer'>
 
 Smallest $= 0.079$
+
+</div>
+<div class='answer'>
 
 Largest $= 0.76$
 
@@ -1189,67 +1181,30 @@ $\dfrac{1}{3},\dfrac{2}{5},\dfrac{3}{8},\dfrac{7}{20},\dfrac{4}{11}$
 <div class='workings'>
 <div class='working'>
 
-Let's make the denominator the same for all the numbers, so we can compare them.
-
-LCM for $3, 5, 8, 20, 11 = 1320$
+Let's convert all the numbers into decimals.
 
 $
 \begin{aligned}
 &= \dfrac {1} {3} , \quad \dfrac {2} {5} , \quad \dfrac{3} {8} , \quad \dfrac{7} {20} , \quad \dfrac {4} {11} \\\\
-&= \dfrac {1 \times 440} {3 \times 440} , \quad \dfrac {2 \times 264} {5 \times 264} , \quad \dfrac {3 \times 165} {8 \times 165} , \quad \dfrac{7 \times 66} {20 \times 66} , \quad \dfrac {4 \times 120} {11 \times 120} \\\\
-&= \dfrac {440} {1320} , \quad \dfrac {528} {1320} , \quad \dfrac {495} {1320} , \quad \dfrac {462} {1320} , \quad \dfrac {480} {1320}
+&= 0.\overline{3} , \quad 0.4 , \quad 0.375 , \quad 0.35 , \quad 0.\overline{36}
 \end{aligned}
 $
 
-Let's put them in decending order now.
+Smallest fraction $= 0.\overline{3} = \dfrac {1} {3}$
 
-$
-\begin{aligned}
-&= \dfrac {582} {1320} > \dfrac {495} {1320} > \dfrac {480} {1320} > \dfrac {462} {1320} > \dfrac {440} {1320} \\\\
-&= \dfrac {2} {5} > \dfrac {3} {8} > \dfrac {4} {11} > \dfrac {7} {20} > \dfrac {1} {3}
-\end{aligned}
-$
-
-Smallest $= \dfrac {1} {3}$
-
-Largest $= \dfrac {2} {5}$
-
-</div>
-<div class='working'>
-
-Alternative Solution
-
-If two or more fraction has common numerator then fraction with smallest denominator is the largest and fraction with largest denominator is the smallest.
-
-$
-\begin{aligned}
-&= \dfrac {1} {3} , \quad \dfrac {2} {5} , \quad \dfrac{3} {8} , \quad \dfrac{7} {20} , \quad \dfrac {4} {11} \\\\
-&= \dfrac {1 \times 84} {3 \times 84} , \quad \dfrac {2 \times 42} {5 \times 42} , \quad \dfrac {3 \times 28} {8 \times 28} , \quad \dfrac{7 \times 12} {20 \times 12} , \quad \dfrac {4 \times 21} {11 \times 21} \\\\
-&= \dfrac {84} {252} , \quad \dfrac {84} {210} , \quad \dfrac {84} {224} , \quad \dfrac {84} {240} , \quad \dfrac {84} {231}
-\end{aligned}
-$
-
-Let's put them in decending order now.
-
-$
-\begin{aligned}
-&= \dfrac {84} {210} > \dfrac {84} {224} > \dfrac {84}{231} > \dfrac {84}{240} > \dfrac {84}{252} \\\\
-&= \dfrac {2} {5} > \dfrac {3} {8} > \dfrac {4} {11} > \dfrac {7} {20} > \dfrac {1} {3}
-\end{aligned}
-$
-
-Smallest $= \dfrac {1} {3}$
-
-Largest $= \dfrac {2} {5}$
+Largest fraction $= 0.4 = \dfrac {2} {5}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Smallest $= \dfrac {1} {3}$
+Smallest fraction $= \dfrac {1} {3}$
 
-Largest $= \dfrac {2} {5}$
+</div>
+<div class='answer'>
+
+Largest fraction $= \dfrac {2} {5}$
 
 </div>
 </div>

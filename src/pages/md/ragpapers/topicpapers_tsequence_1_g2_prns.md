@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-1-g2-prns"
 title: "TopicPaper - Sequence - 1 - G2 - PRNS"
-date: 2022-09-21 20:40:31
+date: 2022-09-24 04:59:20
 questions_count: "29"
 ---
 <ul class='question default-decimal'>
@@ -733,6 +733,8 @@ $8, 13$
 These rules show how to get from one number to the next in these sequences.
 
 Use the rules to write the next **two** numbers in each sequence.
+
+![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-3-subquestion-1-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-3-subquestion-1-00.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-3-subquestion-1-00.png")
 
 </div>
 

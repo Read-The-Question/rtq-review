@@ -93,7 +93,8 @@ img {
 }
 
 .question_envelope.question.rag_notstarted  {
-    background-color: dimgray;
+    /* background-color: dimgray; */
+    background-color: rgba(105, 105, 105, 0.3)
 }
 
 .question_envelope.question.rag_amber  {

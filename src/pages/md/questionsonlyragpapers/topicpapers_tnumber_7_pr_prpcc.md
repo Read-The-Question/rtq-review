@@ -1,0 +1,153 @@
+---
+slug: "questionsonlyragpapers/topicpapers-tnumber-7-pr-prpcc"
+title: "TopicPaper - Number - 7 - PR - PRPCC"
+date: 2022-10-04 10:09:40
+questions_count: "2"
+---
+<ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Look at the following long multiplication.
+
+$
+\begin{array}{cccccccccccccc}
+        &     &          &   5   &   7   &   6 \\
+        &     & \times   &       &   4   &   8 \\
+\hline 
+        &     &   4      &   6   &   0   &   8  \\
+    {+} &  2  &   3      &   0   &   4   &   0  \\
+\hline
+        &  2  &   7      &   6   &   4   &   8  \\
+\hline
+\end{array}
+$
+
+Without doing any more calculations give the answers to: 
+
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$576 \times 8 =$
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$576 \times 4 =$
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$27,648 \div 576 =$
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$27,648 - 23,040 =$
+
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Put a single number in the boxes to make each of these sums correct 
+
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$
+\begin{array}{cccccccccccccc}
+         &            &   6   &   \Box   &   5 \\
+         &    +       &   2   &     2    &   7 \\
+\hline 
+         &            &       &     1    &     \\
+\hline
+\end{array}
+$
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$
+\begin{array}{cccccccccccccc}
+         &            &   5   &   \Box   &   4 \\
+         &    -       &   2   &     7    &   9 \\
+\hline 
+         &            &       &     4    &     \\
+\hline
+\end{array}
+$
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$
+\begin{array}{cccccccccccccc}
+         &            &   7      &   7 \\
+         &    \times  &   \Box   &   \Box \\
+\hline 
+         &     2      &    3     &     1   \\   
+\hline
+\end{array}
+$
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$\dfrac {48}{ \Box + 1} = 6$
+
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/latymer-upper-school-11-plus-maths-2014-sample-paper-1"
 title: "Latymer Upper School - 11 Plus - Maths - 2014 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "30"
 ---
 <div class='paper'>
@@ -414,7 +414,7 @@ $144$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -435,36 +435,23 @@ Which of the following is the largest?
 <div class='workings'>
 <div class='working'>
 
-$
-\begin {aligned}
-&= 13 \times 14 \\\\
-&= 182 \\\\
-&= 12 \times 15 \\\\
-&= 180 \\\\
-&= 11 \times 16 \\\\
-&= 176 \\\\
-&= 9 \times 18 \\\\
-&= 162 \\\\
-&= \text {a. 13} \times {14}
-\end {aligned}
-$
+| $13 \times 14$ | $182$ |
+|:--------------:|:-----:|
+| $12 \times 15$ | $180$ |
+| $11 \times 16$ | $176$ |
+| $9 \times 18$  | $162$ |
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+Largest $= 182 = 13 \times 14$
 
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
 <div class='answer'>
 
-a is the answer
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$13 \times 14$
 
 </div>
 </div>
@@ -1031,7 +1018,7 @@ $78 \ \text {years}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1071,18 +1058,12 @@ The next term is calculated by adding $3$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}  \\
+&   \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}  \\
 10, && 13, && 16, && \ldots,&& \ldots, && 25, && 28
 \end{matrix}
 $
@@ -1130,20 +1111,13 @@ The next term is calculated by subtracting $7$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-7)}}
-&&  \footnotesize{\maroonC
-{(-7)}}
-&&  \footnotesize{\maroonC
-{(-7)}}
-&&  \footnotesize{\maroonC
-{(-7)}}
-&&  \footnotesize{\maroonC
-{(-7)}}
-&&  \footnotesize{\maroonC
-{(-7)}}
-&&  \footnotesize{\maroonC
-{(-7)}}  \\
+&   \footnotesize{\maroonC{(-7)}}
+&&  \footnotesize{\maroonC{(-7)}}
+&&  \footnotesize{\maroonC{(-7)}}
+&&  \footnotesize{\maroonC{(-7)}}
+&&  \footnotesize{\maroonC{(-7)}}
+&&  \footnotesize{\maroonC{(-7)}}
+&&  \footnotesize{\maroonC{(-7)}}  \\
 29, && 22, && 15, && 8, && \ldots, && \ldots, && -13, && -20
 \end{matrix}
 $
@@ -1191,20 +1165,13 @@ The next term is calculated by multiplying the previous term by $-2$. Hence, the
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{\times (-2)}}
-&&  \footnotesize{\maroonC
-{\times (-2)}}
-&&  \footnotesize{\maroonC
-{\times (-2)}}
-&&  \footnotesize{\maroonC
-{\times (-2)}}
-&&  \footnotesize{\maroonC
-{\times (-2)}}
-&&  \footnotesize{\maroonC
-{\times (-2)}}
-&&  \footnotesize{\maroonC
-{\times (-2)}}  \\
+&   \footnotesize{\maroonC{\times (-2)}}
+&&  \footnotesize{\maroonC{\times (-2)}}
+&&  \footnotesize{\maroonC{\times (-2)}}
+&&  \footnotesize{\maroonC{\times (-2)}}
+&&  \footnotesize{\maroonC{\times (-2)}}
+&&  \footnotesize{\maroonC{\times (-2)}}
+&&  \footnotesize{\maroonC{\times (-2)}}  \\
 1, && -2, && 4, && -8, && \ldots, && \ldots, && 64, && -128
 \end{matrix}
 $
@@ -1947,7 +1914,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

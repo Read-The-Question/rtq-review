@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tinfer-1-notstarted"
 title: "TopicPaper - Infer - 1 - NOTSTARTED"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "37"
 ---
 <ul class='question default-decimal'>
@@ -218,8 +218,7 @@ TODOANSWER
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-What is the sum of all the numbers from $1$ to $100$?
-
+What is the sum of all the numbers from $1$ to $100?$
 
 *(You are not expected to work this out by adding $100$ numbers together!
 Try to find a way to do the puzzle and show how you worked it out!)*
@@ -295,12 +294,12 @@ Can you find numbers to replace $A, B$ and $C$ in this sum?
 ($A, B$ and $C$ are all different numbers)
 
 $
-\begin{darray}{cc}
-   A & B & C\\
-   A & B & C\\
-   A & B & C\\
+\begin{darray}{cccc}
+       & A & B & C\\
+       & A & B & C\\
+   {+} & A & B & C\\
    \hline
-   B & B & B\\
+       & B & B & B\\
    \hline
 \end{darray}
 $
@@ -337,7 +336,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Can you find a four digit number which is reversed when multiplied by $9$? 
+Can you find a four digit number which is reversed when multiplied by $9?$ 
 (i.e. $ABCD \times 9 = DCBA$)
 
 </div>
@@ -2034,7 +2033,7 @@ TODOANSWER
 Fill in the numbers $1$ to $5$ in each row and each column, without repeating any number in any row or column. 
 Two numbers have been given at the start to help you.
 
-The symbols $\bold{<}$  and $\bold{>}$ indicate whether numbers are “less than” or “greater than” the number in the adjoining space. 
+The symbols “<”  and “>” indicate whether numbers are “less than” or “greater than” the number in the adjoining space. 
 
 ![benenden-school--11-plus--maths--2020--sample-paper-2/section-2-question-1-00.png](/assets/benenden-school--11-plus--maths--2020--sample-paper-2/section-2-question-1-00.png "benenden-school--11-plus--maths--2020--sample-paper-2/section-2-question-1-00.png")
 
@@ -2500,12 +2499,14 @@ TODOANSWER
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-The grid below is a magic square. Every row, column and diagonal must add to $1-5$.
+The grid below is a magic square. Every row, column and diagonal must add to $1.5$.
 
 What value must be placed in the shaded box?
 
-![missing table](/papers/missing_table.svg)
-
+|      |        | $0.2$ |
+|:----:|:------:|:-----:|
+|$\Box$|  $0.5$ |       |
+|      |  $0.1$ |       | 
 
 </div>
 <div class='workings'>
@@ -2546,7 +2547,10 @@ A magic square is a grid of nine numbers arranged so that every row, every colum
 
 For example:
 
-![csse--11-plus--maths--2016--sample-paper-3/section-1-question-3-00.png](/assets/csse--11-plus--maths--2016--sample-paper-3/section-1-question-3-00.png "csse--11-plus--maths--2016--sample-paper-3/section-1-question-3-00.png")
+| $6$ | $1$ | $8$ |
+|:---:|:---:|:---:|
+| $7$ | $5$ | $3$ |
+| $2$ | $9$ | $4$ |
 
 In this magic square, each row, each column and each of the diagonals add to $15$.
 
@@ -2582,7 +2586,10 @@ TODOANSWER
 
 Insert the correct number in two empty positions to complete this magic square.
 
-![csse--11-plus--maths--2016--sample-paper-3/section-1-question-3-subquestion-1-00.png](/assets/csse--11-plus--maths--2016--sample-paper-3/section-1-question-3-subquestion-1-00.png "csse--11-plus--maths--2016--sample-paper-3/section-1-question-3-subquestion-1-00.png")
+|  $5$ | $4$ |  $9$ |
+|:----:|:---:|:----:|
+| $10$ |     |  $2$ |
+|      | $8$ |  $7$ |
 
 </div>
 <div class='workings'>
@@ -2616,9 +2623,12 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Insert the correct number in the two **unshaded** positions to part complete this magic square.
+Insert the correct number in the two unshaded positions to part complete this magic square.
 
-![csse--11-plus--maths--2016--sample-paper-3/section-1-question-3-subquestion-2-00.png](/assets/csse--11-plus--maths--2016--sample-paper-3/section-1-question-3-subquestion-2-00.png "csse--11-plus--maths--2016--sample-paper-3/section-1-question-3-subquestion-2-00.png")
+|  $5$ |     |  $7$  |
+|:----:|:---:|:-----:|
+|      | $8$ |       |
+|      |     |  $11$ |
 
 </div>
 <div class='workings'>

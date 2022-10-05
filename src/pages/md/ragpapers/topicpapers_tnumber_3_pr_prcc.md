@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-3-pr-prcc"
 title: "TopicPaper - Number - 3 - PR - PRCC"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "7"
 ---
 <ul class='question default-decimal'>
@@ -200,7 +200,7 @@ $-11$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$15 + \ldots $= -7$
+$15 + \ldots = -7$
 
 </div>
 <div class='workings'>
@@ -546,7 +546,7 @@ $50  \quad 25  \quad 9  \quad 7  \quad 2  \quad 1$
 
 Using $+, -, \times, \div$ and brackets try to make a target number of $790$.
 
-You may use the symbols and brackets as many times as you ned, but **each number must be used exactly once**.
+You may use the symbols and brackets as many times as you ned, but each number must be used exactly once.
 
 If you can't make exactly $790$ you may still score marks for a close attempt.
 

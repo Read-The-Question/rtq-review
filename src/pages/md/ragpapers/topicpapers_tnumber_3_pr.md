@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-3-pr"
 title: "TopicPaper - Number - 3 - PR"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "12"
 ---
 <ul class='question default-decimal'>
@@ -661,7 +661,7 @@ $-11$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$15 + \ldots $= -7$
+$15 + \ldots = -7$
 
 </div>
 <div class='workings'>
@@ -1094,7 +1094,7 @@ $50  \quad 25  \quad 9  \quad 7  \quad 2  \quad 1$
 
 Using $+, -, \times, \div$ and brackets try to make a target number of $790$.
 
-You may use the symbols and brackets as many times as you ned, but **each number must be used exactly once**.
+You may use the symbols and brackets as many times as you ned, but each number must be used exactly once.
 
 If you can't make exactly $790$ you may still score marks for a close attempt.
 
@@ -1137,13 +1137,13 @@ Look at these number cards.
 
 Write the letter of the card that is 
 
-**ten times** as big as $73$ .
+ten times as big as $73$.
 
-**one thousand** times as big as $73$ .
+one thousand times as big as $73$.
 
-**one hundredth** of $73$ .
+one hundredth of $73$.
 
-Write **one** number at the end of each equation to make it correct. 
+Write one number at the end of each equation to make it correct. 
 
 Example: 
 

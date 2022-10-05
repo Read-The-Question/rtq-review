@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2011-arithmetic-2"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2011 - Arithmetic 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "13"
 ---
 <div class='paper'>
@@ -184,7 +184,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -192,30 +192,8 @@ $
 A clock shows $2$ o'clock, with the minute hand on $12$ and the hour hand on $2$.
 
 </div>
-<div class='workings'>
-<div class='working placeholder'>
 
-TODOWORKING
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -225,26 +203,26 @@ How many times does the minute hand go past the hour hand between $2.00 \ \text{
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+The hands overlap about every $65$ minutes
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Total minutes}              &=  7{:}00 \text{ pm} - 2{:}00 \text{ pm} \\\\
+                                  &=  5 \times 60 \text{ minutes} \\\\
+                                  &=  300 \text{ minutes} \\\\
+\text{Number of times overlaped}  &= \dfrac{300}{65} \\\\
+                                  &\approx 4
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$4$
 
 </div>
 </div>
@@ -259,26 +237,31 @@ What time will the clock show when the hour hand has turned through an angle of 
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The minute hand of a clock moves by $30 \degree$ every minute.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The minute hand of a clock moves by $6 \degree$ every minute.
+
+
+$
+\begin{aligned}
+\text{Number of minutes passed}  &= \dfrac{60}{6} \\\\
+                                 &= \dfrac{10 \times 6}{6} \\\\
+                                 &= \dfrac{10 \times \cancel{6}}{\cancel{6}} \\\\
+                                 &= 10 \text { minutes} \\\\
+\text{Time}                      &= 2{:}00 \text{ pm} + 10  \text { minutes} \\\\
+                                 &= 2{:}10 \text{ pm}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+2{:}10 \text{ pm}
 
 </div>
 </div>
@@ -293,26 +276,31 @@ What time will the clock show when the minute hand has turned through an angle o
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The minute hand of a clock moves by $30 \degree$ every minute.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The minute hand of a clock moves by $6 \degree$ every minute.
+
+
+$
+\begin{aligned}
+\text{Number of minutes passed}  &= \dfrac{900}{6} \\\\
+                                 &= \dfrac{150 \times 6}{6} \\\\
+                                 &= \dfrac{150 \times \cancel{6}}{\cancel{6}} \\\\
+                                 &= 150 \text { minutes} \\\\
+\text{Time}                      &= 2{:}00 \text{ pm} + 150  \text { minutes} \\\\
+                                 &= 4{:}30 \text{ pm}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$4{:}30 \text{ pm}$
 
 </div>
 </div>
@@ -327,26 +315,30 @@ Through what angle will the minute hand have turned from $2$ o'clock, when the c
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The minute hand of a clock moves by $30 \degree$ every minute.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The minute hand of a clock moves by $6 \degree$ every minute.
+
+
+$
+\begin {aligned}
+\text {Total minutes}   &= 10{:}00 \text{ pm} - 2{:}00 \text{ pm} \\\\
+                        &= 8 \times 60 \text{ minutes} \\\\
+                        &= 240 \text{ minutes} \\\\
+\text {Angle moved}     &= 240 \times 6 \\\\
+                        &= 1440 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$1440 \degree$
 
 </div>
 </div>
@@ -361,26 +353,31 @@ Through what angle will the hour hand have turned from $2$ o'clock, when the clo
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The hour hand of a clock moves by $30 \degree$ every hour.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The hour hand of a clock moves by $0.5 \degree$ every minute.
+
+
+$
+\begin {aligned}
+\text {Total minutes}   &= 6{:}30 \ \text{pm} -  2{:}00 \ \text{pm} \\\\
+                        &= 4 \times 60  \ \text{minutes} + 30  \ \text{minutes} \\\\
+                        &= 240 + 30 \\\\
+                        &= 270 \ \text{minutes} \\\\
+\text {Angle moved}     &= 270 \times 0.5 \\\\
+                        &= 135 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$135 \degree$
 
 </div>
 </div>
@@ -946,7 +943,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1040,10 +1037,8 @@ What fraction of the children in the class have no pets?
 
 $
 \begin {aligned}
-\text {Fraction of children with no pets}     &= \dfrac {5} {15} \\\\
-                                              &= \dfrac {5} {5 \times 3} \\\\
-                                              &= \dfrac {\cancel 5} {\cancel 5 \times 3} \\\\
-                                              &= \dfrac {1} {3}
+\text {Fraction with no pets}       &= \dfrac {5 + 4} {15 + 16} \\\\
+                                    &= \dfrac {9} {31}
 \end {aligned}
 $
 
@@ -1052,7 +1047,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {1} {3}$
+$\dfrac {9} {31}$
 
 </div>
 </div>
@@ -1071,9 +1066,9 @@ How many pets in total are owned by the boys?
 
 $
 \begin {aligned}
-\text {Number of pets owned by boys}  &= 5 \times 0 + 5 \times 1 + 2 \times 2 + 2 \times 3 + 1 \times 3 \\\\
-                                      &= 0 + 5 + 4 + 6 + 3 \\\\
-                                      &= 18
+\text {Pets owned by boys}  &= 5 \times 0 + 5 \times 1 + 2 \times 2 + 2 \times 3 + 1 \times 4 \\\\
+                            &= 0 + 5 + 4 + 6 + 4 \\\\
+                            &= 19
 \end {aligned}
 $
 
@@ -1082,7 +1077,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$18$
+$19$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2015-sample-paper-2"
 title: "Csse - 11 Plus - Maths - 2015 - Sample Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "17"
 ---
 <div class='paper'>
@@ -45,7 +45,7 @@ $\boxed{18} \quad \boxed{26} \quad \boxed{37} \quad \boxed{49}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Which two numbers have a difference of $10$?
+Which two numbers have a difference of $10?$
 
 </div>
 <div class='workings'>
@@ -107,7 +107,7 @@ $100$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Which two numberes cards add to make $44$?
+Which two numberes cards add to make $44?$
 
 </div>
 <div class='workings'>
@@ -138,9 +138,9 @@ $26, 18$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Which two numbered cards can be added to make $62$?
+Which two numbered cards can be added to make $62?$
 
-This can be done using **two** different pairs.
+This can be done using two different pairs.
 
 </div>
 <div class='workings'>
@@ -173,7 +173,7 @@ $49, 13$ or $25, 37$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Which card is the largest multiple of $3$?
+Which card is the largest multiple of $3?$
 
 </div>
 <div class='workings'>
@@ -197,7 +197,7 @@ $27$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is total of the three *prime* numbered cards?
+What is total of the three prime numbered cards?
 
 </div>
 <div class='workings'>
@@ -256,7 +256,7 @@ $91$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What number must be added to $6.4$ to make $10$?
+What number must be added to $6.4$ to make $10?$
 
 </div>
 <div class='workings'>
@@ -285,7 +285,7 @@ $3.6$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What number must be added to $5.37$ to make $6$?
+What number must be added to $5.37$ to make $6?$
 
 </div>
 <div class='workings'>
@@ -314,7 +314,7 @@ $0.63$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the difference between $6.4$ and $7.28$?
+What is the difference between $6.4$ and $7.28?$
 
 </div>
 <div class='workings'>
@@ -546,13 +546,13 @@ A class carried out a survey on journeys to school.
 
 The table and the bar chart have not been completed.
 
-|    Taxi   |      4      |
-|:---------:|:-----------:|
-|    Walk   |             |
-|           |      15     |
-|    Bike   |      27     |
-|    Car    |      11     |
-| **Total** | $\bold{70}$ |
+|    Taxi   |      $4$     |
+|:---------:|:------------:|
+|    Walk   |              |
+|           |     $15$     |
+|    Bike   |     $27$     |
+|    Car    |     $11$     |
+|   Total   |     $70$     |
 
 ![csse--11-plus--maths--2015--sample-paper-2/section-1-question-4-00.png](/assets/csse--11-plus--maths--2015--sample-paper-2/section-1-question-4-00.png "csse--11-plus--maths--2015--sample-paper-2/section-1-question-4-00.png")
 
@@ -753,7 +753,7 @@ Fill in the missing numbers in the following statements.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$25\%$ of $48 = {?}$
+$25\% \text{ of } 48 = ?$
 
 </div>
 <div class='workings'>
@@ -786,7 +786,7 @@ $12$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$25\%$ of ${?} = 48$
+$25\% \text{ of } ? = 48$
 
 </div>
 <div class='workings'>
@@ -825,9 +825,9 @@ $192$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Identify the two **square** numbers that add up to $74$.
+Identify the two square numbers that add up to $74$.
 
-${?} + {?} = 74$
+$? + ? = 74$
 
 </div>
 <div class='workings'>
@@ -871,9 +871,9 @@ $49, 25$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Identify the two **prime** numbers that add up to 13
+Identify the two prime numbers that add up to $13$
 
-${?} + {?} = 13$
+$? + ? = 13$
 
 </div>
 <div class='workings'>
@@ -1247,7 +1247,7 @@ Ola is looking at the scale on a thermometer.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the value on the scale at $A$?
+What is the value on the scale at $A?$
 
 </div>
 <div class='workings'>
@@ -1271,7 +1271,7 @@ $20$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the value on the scale at $B$?
+What is the value on the scale at $B?$
 
 </div>
 <div class='workings'>
@@ -1295,7 +1295,7 @@ $-10$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the value of $A - B$?
+What is the value of $A - B?$
 
 </div>
 <div class='workings'>
@@ -1326,7 +1326,7 @@ $30$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the value of $A + B$?
+What is the value of $A + B?$
 
 </div>
 <div class='workings'>
@@ -1417,8 +1417,8 @@ $6174$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Dean is using each card once to create four digit numbers (for example $3751$. 
-How **many** numbers can he make that are bigger than $7000$?
+Dean is using each card once to create four digit numbers (for example $3751$). 
+How many numbers can he make that are bigger than $7000?$
 
 </div>
 <div class='workings'>
@@ -1622,7 +1622,7 @@ $\pounds 4.05$. He plans to sell the bars for $35 \text{p}$ each.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-How much money will TJ recieve if he sells all 15 bars at $35 \text{p}$?
+How much money will TJ recieve if he sells all $15$ bars at $35 \text{p}?$
 
 </div>
 <div class='workings'>
@@ -2113,6 +2113,17 @@ Petrov wants to "listen again" to several shows on the radio and is checking the
 
 ![csse--11-plus--maths--2015--sample-paper-2/section-1-question-14-00.png](/assets/csse--11-plus--maths--2015--sample-paper-2/section-1-question-14-00.png "csse--11-plus--maths--2015--sample-paper-2/section-1-question-14-00.png")
 
+| FM Ez-Hz $27.5 - 26$ September||
+|:----------:|:-----------------:|
+|   $1751$   |     Crunch Time   |
+|   $1748$   |    Request Slot   |
+|   $1757$   |       Travel      |
+|   $1800$   |  News on the Hour |
+|   $1802$   |      Power Hour   |
+|   $1852$   |  Re-mix Revernge  |
+|   $1857$   |       Travel      |
+|   $1900$   |  News on the Hour |
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2196,7 +2207,7 @@ $19{:}66$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What time should Petrov start to listen to the 'Crunch Time' download, if he wants to finish listening at $2015$?
+What time should Petrov start to listen to the 'Crunch Time' download, if he wants to finish listening at $2015?$
 
 </div>
 <div class='workings'>
@@ -2227,7 +2238,7 @@ $19{:}82$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2318,9 +2329,9 @@ $110$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The $21 \text{st}$ number is $120$ and the $22 \text{nd}$ number is $122$.
+The $21^\text{st}$ number is $120$ and the $22^\text{nd}$ number is $122$.
 
-What is the $24 \text{th}$ number?
+What is the $24^\text{th}$ number?
 
 </div>
 <div class='workings'>
@@ -2539,7 +2550,7 @@ The diagram shows a grid with the co-ordinates marked for three points.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the value of $x$? 
+What is the value of $x?$ 
 
 </div>
 <div class='workings'>
@@ -2563,7 +2574,7 @@ $2$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the value of $y$?
+What is the value of $y?$
 
 </div>
 <div class='workings'>

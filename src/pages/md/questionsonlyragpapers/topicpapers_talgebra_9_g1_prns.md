@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-talgebra-9-g1-prns"
 title: "TopicPaper - Algebra - 9 - G1 - PRNS"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "8"
 ---
 <ul class='question default-decimal'>
@@ -182,10 +182,6 @@ Emma pays a deposit of $\pounds70.00$ and then pays instalments of $\pounds10$ p
 
 Who pays the most and by how much ? Show all of your working clearly.
 
-
-
-![royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-19-00.png](/assets/royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-19-00.png "royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-19-00.png")  
-
 </div>
 
 </div>
@@ -201,8 +197,6 @@ The entry prices at a theme park are: Adults $\pounds20.00$ & Children $\pounds1
 A group visited the theme park and were charged $\pounds105.00$. How many adults & children were in the party? There was at least one adult.
 
 Show all of your working clearly. 
-
-![royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-20-00.png](/assets/royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-20-00.png "royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-20-00.png") 
 
 </div>
 
@@ -224,8 +218,6 @@ Empty party bags are sold in packs of $12$ and cost $\pounds2$ per pack.
 Lollipops are sold in packs of $8$ and cost $\pounds4$ per pack.
 
 Toys are sold in packs of $9$ and cost $\pounds10$ per pack.
-
-![royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-22-00.png](/assets/royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-22-00.png "royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-22-00.png")
 
 As a special new year offer, all prices are reduced by one quarter.
 

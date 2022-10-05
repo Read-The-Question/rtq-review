@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tinfer-3-g1-prns"
 title: "TopicPaper - Infer - 3 - G1 - PRNS"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "4"
 ---
 <ul class='question default-decimal'>

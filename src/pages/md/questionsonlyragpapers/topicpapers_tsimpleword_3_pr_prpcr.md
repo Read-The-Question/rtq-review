@@ -1,25 +1,10 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tsimpleword-3-pr-prpcr"
 title: "TopicPaper - Simpleword - 3 - PR - PRPCR"
-date: 2022-09-24 05:07:09
-questions_count: "14"
+date: 2022-10-04 10:09:40
+questions_count: "13"
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_pr rag_prpcr question'>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
-The distance from Calais to Paris is $320 \ \text{km}$.
-$5 \ \text{miles}$ is approximately $8 \ \text{kilometres}$.
- 
-Calculate the approximate distance in miles from Calais to Paris.  
-
-</div>
-
-</div>
-</li>
 <li>
 <div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->

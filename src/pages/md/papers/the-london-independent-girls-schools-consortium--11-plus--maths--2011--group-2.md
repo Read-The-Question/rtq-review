@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2011-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2011 - Group 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "40"
 ---
 <div class='paper'>
@@ -843,7 +843,7 @@ $\pounds 11.25$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -885,16 +885,11 @@ The next term is calculated by adding $5$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+5)} } 
-&&  \footnotesize {\maroonC
- {(+5)} }  
-&&  \footnotesize {\maroonC
- {(+5)} }   
-&&  \footnotesize {\maroonC
- {(+5)} }   
-&&  \footnotesize {\maroonC
- {(+5)} } \\
+&   \footnotesize {\maroonC {(+5)} } 
+&&  \footnotesize {\maroonC {(+5)} }  
+&&  \footnotesize {\maroonC {(+5)} }   
+&&  \footnotesize {\maroonC {(+5)} }   
+&&  \footnotesize {\maroonC {(+5)} } \\
 8,  &&  13,  &&  18,  &&  23,  &&  \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -944,16 +939,11 @@ The next term is calculated by subtracting $5$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(-5)} } 
-&&  \footnotesize {\maroonC
- {(-5)} }  
-&&  \footnotesize {\maroonC
- {(-5)} }   
-&&  \footnotesize {\maroonC
- {(-5)} }   
-&&  \footnotesize {\maroonC
- {(-5)} } \\
+&   \footnotesize {\maroonC {(-5)} } 
+&&  \footnotesize {\maroonC {(-5)} }  
+&&  \footnotesize {\maroonC {(-5)} }   
+&&  \footnotesize {\maroonC {(-5)} }   
+&&  \footnotesize {\maroonC {(-5)} } \\
 13,  &&  8,  &&  3,  &&  -2,  &&  \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -1007,16 +997,11 @@ The next term is calculated by multiplying the previous term by $4$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(\times 4)} } 
-&&  \footnotesize {\maroonC
- {(\times 4)} }  
-&&  \footnotesize {\maroonC
- {(\times 4)} }   
-&&  \footnotesize {\maroonC
- {(\times 4)} }   
-&&  \footnotesize {\maroonC
- {(\times 4)} }  \\
+&   \footnotesize {\maroonC {(\times 4)} } 
+&&  \footnotesize {\maroonC {(\times 4)} }  
+&&  \footnotesize {\maroonC {(\times 4)} }   
+&&  \footnotesize {\maroonC {(\times 4)} }   
+&&  \footnotesize {\maroonC {(\times 4)} }  \\
 \dfrac {1} {256},  &&  \dfrac {1} {64},  &&  \dfrac {1} {16},  &&  \dfrac {1} {4},  &&  \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -1280,7 +1265,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

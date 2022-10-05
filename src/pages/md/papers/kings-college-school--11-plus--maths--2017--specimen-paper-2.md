@@ -1,7 +1,7 @@
 ---
 slug: "papers/kings-college-school-11-plus-maths-2017-specimen-paper-2"
 title: "Kings College School - 11 Plus - Maths - 2017 - Specimen Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "20"
 ---
 <div class='paper'>
@@ -282,7 +282,7 @@ $1000$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -298,14 +298,10 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-    \footnotesize{\maroonC
-{( \dfrac {5} {8} \times \dfrac{1} {1} )}}
-&&  \footnotesize{\maroonC
-{( \dfrac {5} {8} \times \dfrac{2} {2} )}}
-&&  \footnotesize{\maroonC
-{( \dfrac {5} {8} \times \dfrac{3} {3} )}}
-&&  \footnotesize{\maroonC
-{( \dfrac {5} {8} \times \dfrac{4} {4} )}} \\\\
+    \footnotesize{\maroonC{( \dfrac {5} {8} \times \dfrac{1} {1} )}}
+&&  \footnotesize{\maroonC{( \dfrac {5} {8} \times \dfrac{2} {2} )}}
+&&  \footnotesize{\maroonC{( \dfrac {5} {8} \times \dfrac{3} {3} )}}
+&&  \footnotesize{\maroonC{( \dfrac {5} {8} \times \dfrac{4} {4} )}} \\\\
 \dfrac {5} {8},  &&    \dfrac {10} {16},  &&  \dfrac {15} {24},   && \ldots
 \end{matrix}
 $

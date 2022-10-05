@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-1-pr"
 title: "TopicPaper - Fraction - 1 - PR"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
@@ -196,7 +196,7 @@ $6$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Even though the method of cancelling shown below is incorrect, the student has got the correct answer by chance. Can you find a similar fraction which will cancel down to give $\dfrac{2}{5}$?
+Even though the method of cancelling shown below is incorrect, the student has got the correct answer by chance. Can you find a similar fraction which will cancel down to give $\dfrac{2}{5}?$
 
 ![city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-20-00.png](/assets/city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-20-00.png "city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-20-00.png")
 
@@ -256,6 +256,8 @@ $\dfrac{4}{10}$
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
+
+![city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-8-subquestion-1-00.png](/assets/city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-8-subquestion-1-00.png "city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-8-subquestion-1-00.png")
 
 What fraction of the above design is shaded? Give your fraction in its simplest form.
 

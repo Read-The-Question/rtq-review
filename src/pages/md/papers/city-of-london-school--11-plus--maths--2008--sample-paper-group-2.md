@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-school-11-plus-maths-2008-sample-paper-group-2"
 title: "City Of London School - 11 Plus - Maths - 2008 - Sample Paper Group 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "26"
 ---
 <div class='paper'>
@@ -27,13 +27,13 @@ Look at these number cards.
 
 Write the letter of the card that is 
 
-**ten times** as big as $73$ .
+ten times as big as $73$.
 
-**one thousand** times as big as $73$ .
+one thousand times as big as $73$.
 
-**one hundredth** of $73$ .
+one hundredth of $73$.
 
-Write **one** number at the end of each equation to make it correct. 
+Write one number at the end of each equation to make it correct. 
 
 Example: 
 
@@ -225,7 +225,7 @@ The graph shows the average heights of young children.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the average height of **girls** aged $\bold{30\ \text{months}}$?
+What is the average height of girls aged $30$ months?
 
 </div>
 <div class='workings'>
@@ -249,7 +249,7 @@ $90 \ \text{cm}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the average height of **boys** aged $\bold{36\ \text{months}}$?
+What is the average height of boys aged $36$ months?
 
 </div>
 <div class='workings'>
@@ -273,7 +273,7 @@ $96 \ \text{cm}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Jane is average height for her age. Her height is $\bold{80\ \text{cm}}$. Use the graph to find Jane's age.
+Jane is average height for her age. Her height is $80\ \text{cm}$. Use the graph to find Jane's age.
 
 </div>
 <div class='workings'>
@@ -299,12 +299,12 @@ $18 \ \text{months}$
 
 This formula tells you how tall a boy is likely to be when he grows up.
 
-| Add the mother's and father's heights. Divide by $2$. Add $7 \ \text{cm}$ to the result. The boy is likely to be this height, **plus or minus $10 \ \text{cm}$**. |
+| Add the mother's and father's heights. Divide by $2$. Add $7 \ \text{cm}$ to the result. The boy is likely to be this height, plus or minus $10 \ \text{cm}$. |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 
-Marc's mother is $\bold{168\ \text{cm}}$ tall. His father is $\bold{194\ \text{cm}}$ tall.
+Marc's mother is $168\ \text{cm}$ tall. His father is $194\ \text{cm}$ tall.
 
-What is the **greatest** height Marc is likely to be when he grows up? 
+What is the greatest height Marc is likely to be when he grows up? 
 
 Show your working.
 
@@ -367,13 +367,13 @@ $191 \ \text{cm}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-P is the **midpoint** of line AB.
+P is the midpoint of line AB.
 
 ![city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-3-subquestion-1-00.png](/assets/city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-3-subquestion-1-00.png "city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-3-subquestion-1-00.png")
 
-What are the coordinates of point **P**?
+What are the coordinates of point P?
 
-P is ($\ldots$ , $\ldots$ )
+P is ($\ldots , \ldots$ )
 
 </div>
 <div class='workings'>
@@ -408,17 +408,17 @@ $(60, 60)$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Q is the **midpoint** of line MN. 
+Q is the midpoint of line MN. 
 
 The coordinates of Q are $( 30, 50 )$
 
 ![city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-3-subquestion-2-00.png](/assets/city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-3-subquestion-2-00.png "city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-3-subquestion-2-00.png")
 
-What are the c-oordinates of points **M** and **N**? 
+What are the c-oordinates of points M and N? 
 
-M is ($\ldots$ , $\ldots$ )
+M is ($\ldots , \ldots$ )
 
-N is ($\ldots$ , $\ldots$ )
+N is ($\ldots , \ldots$ )
 
 </div>
 <div class='workings'>
@@ -594,8 +594,6 @@ The first one is done for you.
 
 ![city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-6-03.png](/assets/city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-6-03.png "city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-6-03.png")
 
-![city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-6-04.png](/assets/city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-6-04.png "city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-6-04.png")
-
 </div>
 <div class='workings'>
 <div class='working'>
@@ -662,7 +660,7 @@ $
 
 A football club is planning a trip.
 
-The club hires $\bold{234}$ coaches. Each coach holds $\bold{52}$ passengers. 
+The club hires $234$ coaches. Each coach holds $52$ passengers. 
 
 How many passengers is that altogether?
 
@@ -695,9 +693,9 @@ $12168$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The club wants to put one first aid kit into each of the $\bold{234}$ coaches.
+The club wants to put one first aid kit into each of the $234$ coaches.
 
-These first aid kits are sold in $\bold{boxes\:\:of\:\: 18}$. 
+These first aid kits are sold in boxes of $18$. 
 
 How many boxes does the club need?
 
@@ -735,13 +733,11 @@ $13$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-You can buy a new calculator for $\bold{\pounds 1.25}$
+You can buy a new calculator for $\pounds 1.25$.
 
-![city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-8-00.png](/assets/city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-8-00.png "city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-8-00.png")
+In $1979$ the same type of calculator cost $22$ times as much as it costs now. 
 
-In 1979 the same type of calculator cost $\bold{22\:\:times}$ as much as it costs now. 
-
-How much did the same type of calculator cost in 1979?
+How much did the same type of calculator cost in $1979?$
 
 Show your working.
 
@@ -993,7 +989,7 @@ $5.2$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Now draw an arrow on the number line above to show the number that is $\bold{1.2\:\:less\:\: than\:\: 7}$.
+Now draw an arrow on the number line above to show the number that is $1.2$ less than $7$.
 
 </div>
 <div class='workings'>
@@ -1017,7 +1013,7 @@ $6.88$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Work out the answer to $\bold{6.7 - 0.8}$.
+Work out the answer to $6.7 - 0.8$.
 
 </div>
 <div class='workings'>
@@ -1083,7 +1079,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Find the **surface area** of a cuboid which measures $2\ \text{cm}$ by $3\ \text{cm}$ by $7\ \text{cm}$. Include the units in your answer.
+Find the surface area of a cuboid which measures $2\ \text{cm}$ by $3\ \text{cm}$ by $7\ \text{cm}$. Include the units in your answer.
 
 ![city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-11-subquestion-1-00.png](/assets/city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-11-subquestion-1-00.png "city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-11-subquestion-1-00.png")
 
@@ -1302,7 +1298,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1317,29 +1313,33 @@ each column adds up to $3$ and
 
 each diagonal adds up to $3$
 
-| $2$         | $\ldots$     | $\ldots$     |
-|:--------:    |:---------:    |:----------:    |
-| $3$         |    $1$        | $\ldots$     |
-| $2$         | $\ldots$     | $4$            |
+|    $2$    |  $\ldots$  |   $\ldots$  |
+|:---------:|:----------:|:-----------:|
+|    $3$    |     $1$    |   $\ldots$  |
+|    $2$    |  $\ldots$  |      $4$    |
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-| $-2$        | $3 - (0 + (-2)) = 5 \ \footnotesize{(3)}$ | $3 - (4 + (-1)) = 0 \ \footnotesize{(2)}$  |
+| $-2$        | $3 - (0 + (-2)) = 5 \ \maroonC{\footnotesize{(3)}}$ | $3 - (4 + (-1)) = 0 \ \maroonC{\footnotesize{(2)}}$  |
 |:-----------:|:-----------------------------------------:|:------------------------------------------:|
-| $3$         |                    $1$                    | $3 - (3 + 1) = -1 \ \footnotesize{(1)}$    |
-| $2$         | $3 - (4 + 2) = -3 \ \footnotesize{(4)}$   |                   $4$                      |
+| $3$         |                    $1$                    | $3 - (3 + 1) = -1 \ \maroonC{\footnotesize{(1)}}$    |
+| $2$         | $3 - (4 + 2) = -3 \ \maroonC{\footnotesize{(4)}}$   |                   $4$                      |
+
+Completed table
+
+| $-2$        | $5$     | $0$      |
+|:--------:   |:-------:|:----:    |
+| $3$         |    $1$  | $-1$     |
+| $2$         | $-3$    | $4$      |
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-| $-2$        | $5$     | $0$      |
-|:--------:   |:-------:|:----:    |
-| $3$         |    $1$  | $-1$     |
-| $2$         | $-3$    | $4$      |
+%empty%
 
 </div>
 </div>
@@ -1533,7 +1533,7 @@ I travel $1\ \text{mile}$ at $60\ \text{m.p.h.}$ and then $1\ \text{mile}$ at $3
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
+ABBR: $\text {Speed} = \dfrac {\text{Total distance}} {\text{Total time}}$
 
 
 $
@@ -1648,7 +1648,7 @@ $90 \%$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Even though the method of cancelling shown below is incorrect, the student has got the correct answer by chance. Can you find a similar fraction which will cancel down to give $\dfrac{2}{5}$?
+Even though the method of cancelling shown below is incorrect, the student has got the correct answer by chance. Can you find a similar fraction which will cancel down to give $\dfrac{2}{5}?$
 
 ![city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-20-00.png](/assets/city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-20-00.png "city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-20-00.png")
 
@@ -1762,7 +1762,7 @@ $75 \degree$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-If you add up the digits of $14$ you get $5$ i.e. $1 + 4 = 5$. **How many** $2$ -digit numbers are there altogether (including $14$) which add up to a *multiple* of $5$?
+If you add up the digits of $14$ you get $5$ i.e. $1 + 4 = 5$. How many $2$-digit numbers are there altogether (including $14$) which add up to a multiple of $5?$
 
 </div>
 <div class='workings'>
@@ -1831,7 +1831,7 @@ $407$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-$ \approx$ means approximately equal to. Given that $1\ \text{kilogram (kg)}$  $ \approx$ 2·2\ \text{pounds (lb)}$, convert $154\ \text{lb}$ to $\text{kg}$.
+$\approx$ means approximately equal to. Given that $1\ \text{kilogram (kg)} \approx 2·2\ \text{pounds (lb)}$, convert $154\ \text{lb}$ to $\text{kg}$.
 
 </div>
 <div class='workings'>

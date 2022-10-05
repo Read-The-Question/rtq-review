@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2016 - Group 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "45"
 ---
 <div class='paper'>
@@ -183,7 +183,7 @@ $72$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -203,14 +203,10 @@ The next term is calculated by subtracting $7$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-7)}}
-&&  \footnotesize{\maroonC
-{(-7)}}
-&&  \footnotesize{\maroonC
-{(-7)}}
-&&  \footnotesize{\maroonC
-{(-7)}}  \\
+&   \footnotesize{\maroonC{(-7)}}
+&&  \footnotesize{\maroonC{(-7)}}
+&&  \footnotesize{\maroonC{(-7)}}
+&&  \footnotesize{\maroonC{(-7)}}  \\
 83,  &&   76,  &&   69,  &&   62,  &&   \ldots
 \end{matrix}
 $
@@ -543,7 +539,7 @@ $8 {:} 40 \ \text {am}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -556,16 +552,16 @@ What is the difference between a tenth of $5$ and a fifth of $10$?
 
 $
 \begin {aligned}
-\text {Difference}  &=  \dfrac {1} {10} \ \text {of} \ 5 - \dfrac {1} {5} \ \text {of} \ 10 \\\\
-                    &= \dfrac {1} {10} \times 5 - \dfrac {1} {5} \times 10 \\\\
-                    &= \dfrac {5} {10} - \dfrac {10} {5} \\\\
-                    &= \dfrac {5} {10} - \dfrac {10 \times 2} {5 \times 2} \\\\
-                    &= \dfrac {5} {10} - \dfrac {20} {5 \times 2} \\\\
-                    &= \dfrac {5 - 20} {10} \\\\
-                    &= - \dfrac {15} {10} \\\\
-                    &= - \dfrac {5 \times 3} {5 \times 2} \\\\
-                    &= - \dfrac {\cancel{5} \times 3} {\cancel{5} \times 2} \\\\
-                    &= - \dfrac {3} {2}
+\text {Difference}  &=  \dfrac {1} {5} \ \text {of} \ 10 - \dfrac {1} {10} \ \text {of} \ 5 \\\\
+                    &= \dfrac {1} {5} \times 10 - \dfrac {1} {10} \times 5 \\\\
+                    &= \dfrac {10} {5} - \dfrac {5} {10} \\\\
+                    &= \dfrac {10 \times 2} {5 \times 2} - \dfrac {5} {10} \\\\
+                    &= \dfrac {20} {10} - \dfrac {5} {10} \\\\
+                    &= \dfrac {20 - 5} {10} \\\\
+                    &= \dfrac {15} {10} \\\\
+                    &= \dfrac {5 \times 3} {5 \times 2} \\\\
+                    &= \dfrac {\cancel{5} \times 3} {\cancel{5} \times 2} \\\\
+                    &= \dfrac {3} {2}
 \end {aligned}
 $
 
@@ -574,7 +570,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$- \dfrac {3} {2}$
+$\dfrac {3} {2}$
 
 </div>
 </div>
@@ -1347,7 +1343,7 @@ $12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1404,16 +1400,28 @@ Write the numbers $14$ and $20$ in the correct regions of the diagram.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Plot $14$ and $20$ in the respective regions in the Venn diagram
+
+$14$: Neither in Multiple of $4$ nor in Multiple of $6$
+
+$20$: Multiple of $4$
+
+rtq_abbr_md_add_drawing_end
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -1568,7 +1576,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1730,7 +1738,7 @@ $3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1770,7 +1778,7 @@ How many woodlice were found under pot $A$?
 
 $
 \begin{aligned}
-\text{Number of woodlice found under pot A}     &= 7.5 \times 2 \\\\
+\text{Woodlice  under pot A}                    &= 7.5 \times 2 \\\\
                                                 &= 15
 \end{aligned}
 $
@@ -1799,8 +1807,8 @@ What was the total number of woodlice found?
 
 $
 \begin{aligned}
-\text{Number of woodlice found under pot A}     &= 7.5 \times 2 + 4.5 \times 2 + 5 \times 2 + 3.5 \times 2 + 4.5 \times 2 \\\\
-                                                &= 15 + 9 + 10 + 7 + 9 \\\\
+\text{Number of woodlice}                       &= (7.5 + 4.5 + 5 + 3.5 + 4.5) \times 2 \\\\
+                                                &= 25 \times 2 \\\\
                                                 &= 50
 \end{aligned}
 $
@@ -1832,8 +1840,9 @@ How many woodlice are under pot $F$?
 
 $
 \begin{aligned}
-\text{Number of woodlice under pot A}   &= \dfrac {1} {3} \times 9 + 20 \% \ \text{of} \ 10 \\\\
-                                        &= \dfrac {9} {3} + \dfrac {20} {100} \times 10 \\\\
+\text{Woodlice under pot F}             &= \dfrac {1} {3} \times 4.5 \times 2 + 20 \% \times 5 \times 2  \\\\
+                                        &= \dfrac {1} {3} \times 9 + \dfrac {20} {100} \times 10  \\\\
+                                        &= \dfrac {9} {3} + \dfrac {20 \times 10} {100} \\\\
                                         &= \dfrac {3 \times 3} {3} + \dfrac {20 \times 10} {100} \\\\
                                         &= \dfrac {3 \times \cancel 3} {\cancel 3} + \dfrac {2 \cancel 0 \times 1 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
                                         &= 3 + 2 \\\\
@@ -2066,7 +2075,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2292,7 +2301,7 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2322,8 +2331,6 @@ $6$
 On the centimetre square co-ordinate grid below, plot and label the points $P(3, 4), Q(6, 5)$ and $R(5, 8)$.
 
 ![the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1/section-1-question-35-subquestion-1-00.png](/assets/the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1/section-1-question-35-subquestion-1-00.png "the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1/section-1-question-35-subquestion-1-00.png")
-
-$PQRS$ is a square.
 
 </div>
 <div class='workings'>
@@ -2357,6 +2364,8 @@ Plot the points on the graph
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
+$PQRS$ is a square.
+
 Write down the co-ordinates of point $S$.
 
 </div>
@@ -2375,7 +2384,7 @@ Plot the points on the graph and show the length of the side of square
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(2, 7)$
+Coordinates $= (2, 7)$
 
 </div>
 </div>
@@ -2409,7 +2418,7 @@ Draw kite $ABCD$.
 
 
 
-Plot the points on the graph such that ABCD is a kite with AC being the longer diagonal and point B is farther from A than C
+Plot the points B at $(6, 3)$ and D at $(6, 1)$ on the graph such that ABCD is a kite with AC as its longer diagonal
 
 
 *ABBR: TODO:: Add drawing ends.*

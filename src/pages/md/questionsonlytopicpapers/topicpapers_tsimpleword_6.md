@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tsimpleword-6"
 title: "TopicPaper - Simpleword - 6"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "40"
 ---
 <div class='paper'>
@@ -168,8 +168,6 @@ How many cars were originally parked in the third row?
 A train display shows letters by lighting cells in a grid, such as the letter ‘o’ shown. 
 A letter is made **bold** by also lighting any unlit cell immediately to the 
 right of one in the normal letter. How many cells are lit in a **bold** ‘o’?
-
-![streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2/section-2-question-10-01.png](/assets/streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2/section-2-question-10-01.png "streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2/section-2-question-10-01.png")
 
 - $22$
 - $24$

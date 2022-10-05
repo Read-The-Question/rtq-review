@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tgraph-5"
 title: "TopicPaper - Graph - 5"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "40"
 ---
 <div class='paper'>
@@ -85,11 +85,11 @@ What percentage of pupils have red as their favourite colour?
 
 $
 \begin{aligned}
-\text{\% with favourite colour red}   &= \dfrac {90} {360} \times 180 \\\\
-                                      &= \dfrac {90 \times 180} {360} \\\\
-                                      &= \dfrac {45 \times 2 \times 180} {180 \times 2} \\\\
-                                      &= \dfrac {45 \times \cancel 2 \times \cancel {180}} {\cancel {180} \times \cancel 2} \\\\
-                                      &= 45 \ \%
+\text{\% with favourite colour red}   &= \dfrac {90} {360} \times 100 \\\\
+                                      &= \dfrac {90 \times 100} {360} \\\\
+                                      &= \dfrac {90 \times 25 \times 4} {90 \times 4} \\\\
+                                      &= \dfrac {\cancel {90} \times 25 \times \cancel 4} {\cancel {90} \times \cancel 4} \\\\
+                                      &= 25 \ \%
 \end{aligned}
 $
 
@@ -98,7 +98,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$45 \ \%$
+$25 \ \%$
 
 </div>
 </div>
@@ -120,7 +120,7 @@ ABBR: $\text{Angles around a point add up to} = 360 \degree$
 
 $
 \begin{aligned}
-\text{\% with favourite colour black}                     &= \dfrac {360 - 180} {360} \times 180 \\\\
+\textNumber of pupils with favourite colour black}        &= \dfrac {360 - 180} {360} \times 180 \\\\
                                                           &= \dfrac {180} {360} \times 180 \\\\
                                                           &= \dfrac {180 \times 180} {360} \\\\
                                                           &= \dfrac {180 \times 2 \times 90} {180 \times 2} \\\\
@@ -1716,7 +1716,7 @@ E $=$ Dolly
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1827,7 +1827,7 @@ Plot the points on the graph and show the length of sides of rhombus
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(6, 5)$
+Coordinates $= (6, 5)$
 
 </div>
 </div>
@@ -1845,7 +1845,7 @@ $(6, 5)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1908,9 +1908,9 @@ Complete the bar chart by drawing the bar to show the number of girls who have $
 
 $
 \begin{aligned}
-\text{Number of girls with 5 pets}    &= 26 - 2 - 5 - 8 - 6 - 3 \\\\
-                                      &= 26 - 24 \\\\
-                                      &= 2
+\text{Girls with 5 pets}    &= 26 - 2 - 5 - 8 - 6 - 3 \\\\
+                            &= 26 - 24 \\\\
+                            &= 2
 \end{aligned}
 $
 
@@ -1950,9 +1950,9 @@ How many pets are owned altogether by $26$ girls?
 
 $
 \begin{aligned}
-\text{Total number of pets}   &= 2 \times 0 + 5 \times 1 + 8 \times 2 + 6 \times 3 + 3 \times 4 + 2 \times 5 \\\\
-                              &= 0 + 5 + 16 + 18 + 12 + 10 \\\\
-                              &= 61
+\text{Number of pets}   &= 2 \times 0 + 5 \times 1 + 8 \times 2 + 6 \times 3 + 3 \times 4 + 2 \times 5 \\\\
+                        &= 0 + 5 + 16 + 18 + 12 + 10 \\\\
+                        &= 61
 \end{aligned}
 $
 
@@ -1972,7 +1972,7 @@ $61$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2078,12 +2078,10 @@ How many degrees colder was it in Paris on Saturday than on Thursday?
 
 $
 \begin{aligned}
-\text{Difference}     &= 18 - 11 \\\\
-                      &= 7 \degree \text{C}
+\text{Difference colder}    &= 18 - 11 \\\\
+                            &= 7 \degree \text{C}
 \end{aligned}
 $
-
-In Paris on Saturday it was $7 \degree \text{C}$ colder than on Thursday
 
 </div>
 </div>
@@ -2107,8 +2105,8 @@ On which day was there the greatest difference between the temperatures in Londo
 <div class='workings'>
 <div class='working'>
 
-|     Day      |  Temperature in Paris | Temperature in London |           Difference           |
-|--------------|-----------------------|-----------------------|--------------------------------|
+|     Day      |   Paris               |  London               |           Difference           |
+|:------------:|:---------------------:|:---------------------:|:------------------------------:|
 |  Monday      | $10 \degree \text{C}$ | $12 \degree \text{C}$ | $12 - 10 = 2 \degree \text{C}$ |
 |  Tuesday     | $15 \degree \text{C}$ | $15 \degree \text{C}$ | $15 - 15 = 0 \degree \text{C}$ |
 |  Wednesday   | $18 \degree \text{C}$ | $16 \degree \text{C}$ | $18 - 16 = 2 \degree \text{C}$ |
@@ -2234,7 +2232,7 @@ $8 \degree \text {C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2365,14 +2363,31 @@ Plot the join between A and C and find the point which divides line AC into $3 {
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(8, 2)$
+$
+\begin {aligned}
+\text{x-coordinates}    &= \dfrac {3 \times 8 + 1 \times 8} {3 + 1} \\\\
+                        &= \dfrac {24 + 8} {4} \\\\
+                        &= \dfrac {32} {4} \\\\
+                        &= \dfrac {8 \times 4} {4} \\\\
+                        &= \dfrac {8 \times \cancel 4} {\cancel 4} \\\\
+                        &= 8 \\\\
+\text{y-coordinates}    &= \dfrac {3 \times 0 + 1 \times 8} {3 + 1} \\\\
+                        &= \dfrac {0 + 8} {4} \\\\
+                        &= \dfrac {8} {4} \\\\
+                        &= \dfrac {2 \times 4} {4} \\\\
+                        &= \dfrac {2 \times \cancel 4} {\cancel 4} \\\\
+                        &= 2
+\end {aligned}
+$
+
+Coordinates $= (8, 2)$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-%empty%
+$(8, 2)$
 
 </div>
 </div>
@@ -2401,6 +2416,17 @@ Plot the join between A and B and find the midpoint of line AB
 *ABBR: TODO:: Add drawing ends.*
 
 
+$
+\begin {aligned}
+\text{x-coordinates}    &= \dfrac {2 + 8} {2} \\\\
+                        &= \dfrac {10} {2} \\\\
+                        &= 5 \\\\
+\text{y-coordinates}    &= \dfrac {6 + 8} {2} \\\\
+                        &= \dfrac {14} {2} \\\\
+                        &= 7
+\end {aligned}
+$
+
 $(5, 7)$
 
 </div>
@@ -2408,7 +2434,7 @@ $(5, 7)$
 <div class='answers'>
 <div class='answer'>
 
-%empty%
+$(5, 7)$
 
 </div>
 </div>
@@ -2422,7 +2448,7 @@ $(5, 7)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2461,11 +2487,11 @@ What percentage of the people said Edam?
 
 $
 \begin{aligned}
-\text{Percentage of people who said Edam}     &= \dfrac {90} {360} \times 100 \\\\
+\text{\%  who said Edam}                      &= \dfrac {90} {360} \times 100 \\\\
                                               &= \dfrac {90 \times 100} {360} \\\\
                                               &= \dfrac {90 \times 4 \times 25} {90 \times 4} \\\\
                                               &= \dfrac {\cancel {90} \times \cancel 4 \times 25} {\cancel {90} \times \cancel 4} \\\\
-                                              &= 25 \ \%
+                                              &= 25 \%
 \end{aligned}
 $
 
@@ -2474,7 +2500,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$25 \ \%$
+$25 \%$
 
 </div>
 </div>
@@ -2493,7 +2519,7 @@ What fraction of the people said Brie?
 
 $
 \begin{aligned}
-\text{Fraction of people who said Brie}     &= \dfrac {30} {360} \\\\
+\text{Fraction  who said Brie}              &= \dfrac {30} {360} \\\\
                                             &= \dfrac {30} {30 \times 12} \\\\
                                             &= \dfrac {\cancel {30}} {\cancel {30} \times 12} \\\\
                                             &= \dfrac {1} {12}
@@ -2522,6 +2548,35 @@ How many people said Goat’s Cheese?
 
 </div>
 <div class='workings'>
+<div class='working'>
+
+Let the total number of people $= a$
+
+As per the question,
+
+$
+\begin {aligned}
+a \times \dfrac {90} {360}    &= 18 \\\\
+a                             &= 18 \times \dfrac {360} {90} \\\\
+a                             &= \dfrac {18 \times 360} {90} \\\\
+a                             &= \dfrac {18 \times 90 \times 4} {90} \\\\
+a                             &= \dfrac {18 \times \cancel {90} \times 4} {\cancel {90}} \\\\
+a                             &= 18 \times 4 \\\\
+a                             &= 72
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text{Number of people who said Goat's cheese}    &= \dfrac {30} {360} \times 72 \\\\
+                                                  &= \dfrac {30 \times 72} {360} \\\\
+                                                  &= \dfrac {5 \times 6 \times 72} {72 \times 5} \\\\
+                                                  &= \dfrac {\cancel 5 \times 6 \times \cancel {72}} {\cancel {72} \times \cancel 5} \\\\
+                                                  &= 6
+\end {aligned}
+$
+
+</div>
 <div class='working'>
 
 Using ratio,
@@ -2561,25 +2616,12 @@ How many more people said Cheddar than said Cheshire?
 <div class='workings'>
 <div class='working'>
 
-Let the total number of people $= a$
-
-As per the question,
+Using value from the answer above,
 
 $
 \begin{aligned}
-\dfrac {90} {360} \times a    &= 18 \\\\
-a                             &= 18 \times \dfrac {360} {90} \\\\
-a                             &= \dfrac {18 \times 360} {90} \\\\
-a                             &= \dfrac {18 \times 90 \times 4} {90} \\\\
-a                             &= \dfrac {18 \times \cancel {90} \times 4} {\cancel {90}} \\\\
-a                             &= 18 \times 4 \\\\
-a                             &= 72
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Difference}   &= \dfrac {180 - 30} {360} \times 72 \\\\
+\text{Difference}   &= \dfrac {180} {360} \times 72 - \dfrac {30} {360} \times 72 \\\\
+                    &= \dfrac {180 - 30} {360} \times 72 \\\\
                     &= \dfrac {150} {360} \times 72 \\\\
                     &= \dfrac {150 \times 72} {360} \\\\
                     &= \dfrac {5 \times 30 \times 72} {72 \times 5} \\\\
@@ -2604,7 +2646,7 @@ $30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2653,7 +2695,18 @@ Plot the line joining A and B and find the mid point of the line AB
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(4, 7)$
+$
+\begin {aligned}
+\text{x-coordinates}    &= \dfrac {1 + 7} {2} \\\\
+                        &= \dfrac {8} {2} \\\\
+                        &= 4 \\\\
+\text{y-coordinates}    &= \dfrac {6 + 8} {2} \\\\
+                        &= \dfrac {14} {2} \\\\
+                        &= 7
+\end {aligned}
+$
+
+Coordinates $= (4, 7)$
 
 </div>
 </div>
@@ -2691,7 +2744,36 @@ Plot the line joining B and C and extend the line BC to E such that length of BC
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(10, 2)$
+Let the coordinates of E $= (a, b)$
+
+As per the question,
+
+$
+\begin {aligned}
+\dfrac {2a + 7} {2 + 1}       &= 9 \\\\
+\dfrac {2a + 7} {3}           &= 9 \\\\
+2a + 7                        &= 9 \times 3 \\\\
+2a + 7                        &= 27 \\\\
+2a                            &= 27 - 7 \\\\
+2a                            &= 20 \\\\
+a                             &= \dfrac {20} {2} \\\\
+a                             &= \dfrac {2 \times 10} {2} \\\\
+a                             &= \dfrac {\cancel 2 \times 10} {\cancel 2} \\\\
+a                             &= 10 \\\\
+\dfrac {2b + 8} {2 + 1}       &= 4 \\\\
+\dfrac {2b + 8} {3}           &= 4 \\\\
+2b + 8                        &= 4 \times 3 \\\\
+2b + 8                        &= 12 \\\\
+2b                            &= 12 - 8 \\\\
+2b                            &= 4 \\\\
+b                             &= \dfrac {4} {2} \\\\
+b                             &= \dfrac {2 \times 2} {2} \\\\
+b                             &= \dfrac {\cancel 2 \times 2} {\cancel 2} \\\\
+b                             &= 2
+\end {aligned}
+$
+
+Coordinates $= (10, 2)$
 
 </div>
 </div>
@@ -2709,7 +2791,7 @@ $(10, 2)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2746,11 +2828,11 @@ How many hours does Rebecca spend sleeping?
 
 $
 \begin{aligned}
-\text{Time spend on sleeping}   &= \dfrac {135} {360} \times 24 \\\\
-                                &= \dfrac {135 \times 24} {360} \\\\
-                                &= \dfrac {45 \times 3 \times 8 \times 3} {45 \times 8} \\\\
-                                &= \dfrac {\cancel {45} \times 3 \times \cancel 8 \times 3} {\cancel {45} \times \cancel 8} \\\\
-                                &= 3 \times 3 \\\\
+\text{Time spent sleeping}      &= \dfrac {4.5} {12} \times 24 \\\\
+                                &= \dfrac {4.5 \times 24} {12} \\\\
+                                &= \dfrac {4.5 \times 12 \times 2} {12} \\\\
+                                &= \dfrac {4.5 \times \cancel {12} \times 2} {\cancel {12}} \\\\
+                                &= 4.5 \times 2 \\\\
                                 &= 9 \ \text{hours}
 \end{aligned}
 $
@@ -2779,10 +2861,10 @@ What fraction of the $24 \ \text{hours}$ does Rebecca spend working?
 
 $
 \begin{aligned}
-\text{Fraction of day spend on working} &= \dfrac {120} {360} \\\\
-                                        &= \dfrac {120} {120 \times 3} \\\\
-                                        &= \dfrac {\cancel {120}} {\cancel {120} \times 3} \\\\
-                                        &= \dfrac {1} {3}
+\text{Fraction of time working}   &= \dfrac {4} {12} \\\\
+                                  &= \dfrac {4} {4 \times 3} \\\\
+                                  &= \dfrac {\cancel 4} {\cancel 4 \times 3} \\\\
+                                  &= \dfrac {1} {3}
 \end{aligned}
 $
 
@@ -2844,7 +2926,7 @@ Plot the information about Jamie's day on the chart
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2957,7 +3039,7 @@ $9.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3024,7 +3106,7 @@ Label this point $L$.
 
 
 
-Plot the reflection of point K in the dashed line m on the graph and label it L
+Plot the reflection of point K in the dashed line m on the graph at $(6, 5)$ and label it L
 
 
 *ABBR: TODO:: Add drawing ends.*
@@ -3082,7 +3164,7 @@ Plot the reflection of line KL in the dashed line p on the graph
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3118,14 +3200,14 @@ Which two totals occur most often?
 <div class='workings'>
 <div class='working'>
 
-$10$ and $11$
+$10, 11$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$10$ and $11$
+$10, 11$
 
 </div>
 </div>
@@ -3144,8 +3226,9 @@ How many times did Di roll a square number?
 
 $
 \begin{aligned}
-\text{Number of times Di roll a square number}    &= 3 + 28 + 6 \\\\
-                                                  &= 37
+\text{Square numbers}               &= 4, 9, 16 \\\\
+\text{Number of times rolled}       &= 3 + 28 + 6 \\\\
+                                    &= 37
 \end{aligned}
 $
 
@@ -3170,24 +3253,29 @@ Tick the relevant box in the table below to say who is most likely to win, or wh
 
 | game | rules                                                                                        | Di most likely to win | Ed most likely win | equally likely |
 |:----:|----------------------------------------------------------------------------------------------|-----------------------|--------------------|----------------|
-|   A  | Di scores a point if the total thrown is even. Ed scores a point if the total thrown is odd. |                       |                    |                |
-|   B  | Di scores a point if the total thrown is 8 to 12 inclusive. Ed scores a point otherwise.     |                       |                    |                |
+|   A  | Di scores a point if the total thrown is even. <br> Ed scores a point if the total thrown is odd. |                       |                    |                |
+|   B  | Di scores a point if the total thrown is 8 to 12 inclusive. <br> Ed scores a point otherwise.     |                       |                    |                |
 
 </div>
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Probability}  = \dfrac { \text{ Favourable outcomes} } { \text{Total outcomes} }$
+
+
 $
 \begin{aligned}
-\text{Di chaces of win game A}  &= \dfrac {3+10+21+36+28+15+6+1} {1+3+6+10+15+21+28+36+36+28+21+15+10+6+3+1} \\\\
+\text{Di chances of winning game A}  &= \dfrac {3+10+21+36+28+15+6+1} {240} \\\\
                                 &= \dfrac {120} {240} \\\\
-\text{Di chaces of win game B}  &= \dfrac {21+28+36+36+28} {1+3+6+10+15+21+28+36+36+28+21+15+10+6+3+1} \\\\
-                                &= \dfrac {149} {240}
+                                &= 0.5 \\\\
+\text{Di chances of winning game B}  &= \dfrac {21+28+36+36+28} {240} \\\\
+                                &= \dfrac {149} {240} \\\\
+                                &= 0.62
 \end{aligned}
 $
 
 | game | Di most likely to win | Ed most likely win | equally likely |
-|:----:|-----------------------|--------------------|----------------|
+|:----:|:---------------------:|:------------------:|:--------------:|
 |   A  |          No           |        No          |      Yes       |
 |   B  |          Yes          |        No          |      No        |
 
@@ -3196,10 +3284,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-| game | Di most likely to win | Ed most likely win | equally likely |
-|:----:|-----------------------|--------------------|----------------|
-|   A  |          No           |        No          |      Yes       |
-|   B  |          Yes          |        No          |      No        |
+%empty%
 
 </div>
 </div>
@@ -3210,7 +3295,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3250,7 +3335,7 @@ How many woodlice were found under pot $A$?
 
 $
 \begin{aligned}
-\text{Number of woodlice found under pot A}     &= 7.5 \times 2 \\\\
+\text{Woodlice  under pot A}                    &= 7.5 \times 2 \\\\
                                                 &= 15
 \end{aligned}
 $
@@ -3279,8 +3364,8 @@ What was the total number of woodlice found?
 
 $
 \begin{aligned}
-\text{Number of woodlice found under pot A}     &= 7.5 \times 2 + 4.5 \times 2 + 5 \times 2 + 3.5 \times 2 + 4.5 \times 2 \\\\
-                                                &= 15 + 9 + 10 + 7 + 9 \\\\
+\text{Number of woodlice}                       &= (7.5 + 4.5 + 5 + 3.5 + 4.5) \times 2 \\\\
+                                                &= 25 \times 2 \\\\
                                                 &= 50
 \end{aligned}
 $
@@ -3312,8 +3397,9 @@ How many woodlice are under pot $F$?
 
 $
 \begin{aligned}
-\text{Number of woodlice under pot A}   &= \dfrac {1} {3} \times 9 + 20 \% \ \text{of} \ 10 \\\\
-                                        &= \dfrac {9} {3} + \dfrac {20} {100} \times 10 \\\\
+\text{Woodlice under pot F}             &= \dfrac {1} {3} \times 4.5 \times 2 + 20 \% \times 5 \times 2  \\\\
+                                        &= \dfrac {1} {3} \times 9 + \dfrac {20} {100} \times 10  \\\\
+                                        &= \dfrac {9} {3} + \dfrac {20 \times 10} {100} \\\\
                                         &= \dfrac {3 \times 3} {3} + \dfrac {20 \times 10} {100} \\\\
                                         &= \dfrac {3 \times \cancel 3} {\cancel 3} + \dfrac {2 \cancel 0 \times 1 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
                                         &= 3 + 2 \\\\
@@ -3337,7 +3423,7 @@ $5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3367,8 +3453,6 @@ $5$
 On the centimetre square co-ordinate grid below, plot and label the points $P(3, 4), Q(6, 5)$ and $R(5, 8)$.
 
 ![the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1/section-1-question-35-subquestion-1-00.png](/assets/the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1/section-1-question-35-subquestion-1-00.png "the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1/section-1-question-35-subquestion-1-00.png")
-
-$PQRS$ is a square.
 
 </div>
 <div class='workings'>
@@ -3402,6 +3486,8 @@ Plot the points on the graph
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
+$PQRS$ is a square.
+
 Write down the co-ordinates of point $S$.
 
 </div>
@@ -3420,7 +3506,7 @@ Plot the points on the graph and show the length of the side of square
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(2, 7)$
+Coordinates $= (2, 7)$
 
 </div>
 </div>
@@ -3454,7 +3540,7 @@ Draw kite $ABCD$.
 
 
 
-Plot the points on the graph such that ABCD is a kite with AC being the longer diagonal and point B is farther from A than C
+Plot the points B at $(6, 3)$ and D at $(6, 1)$ on the graph such that ABCD is a kite with AC as its longer diagonal
 
 
 *ABBR: TODO:: Add drawing ends.*
@@ -3476,7 +3562,7 @@ Plot the points on the graph such that ABCD is a kite with AC being the longer d
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3570,7 +3656,7 @@ $0.5 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3589,14 +3675,26 @@ Write the letter names of the points that lie inside the rhombus.
 <div class='workings'>
 <div class='working'>
 
-P and R
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Plot the points P $(5, 3)$, Q $(5, 9)$ and R $(4, 4)$ on the graph to see which points are inside the rhombus
+
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$P, R$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-P and R
+$P, R$
 
 </div>
 </div>
@@ -3604,7 +3702,7 @@ P and R
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3689,13 +3787,10 @@ What is the difference in height between the tallest person and the shortest per
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text{Range} = \text{Highest number} - \text{Lowest number}$
-
-
 $
 \begin {aligned}
-\text {Difference between tallest and shortest person}    &= 1.79 - 1.55 \\\\
-                                                          &= 0.24 \ \text{m}
+\text {Difference}      &= 1.79 - 1.55 \\\\
+                        &= 0.24 \ \text{m}
 \end {aligned}
 $
 
@@ -3773,7 +3868,7 @@ Plot the points R with given weight and height on the bar chart
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3867,10 +3962,8 @@ What fraction of the children in the class have no pets?
 
 $
 \begin {aligned}
-\text {Fraction of children with no pets}     &= \dfrac {5} {15} \\\\
-                                              &= \dfrac {5} {5 \times 3} \\\\
-                                              &= \dfrac {\cancel 5} {\cancel 5 \times 3} \\\\
-                                              &= \dfrac {1} {3}
+\text {Fraction with no pets}       &= \dfrac {5 + 4} {15 + 16} \\\\
+                                    &= \dfrac {9} {31}
 \end {aligned}
 $
 
@@ -3879,7 +3972,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {1} {3}$
+$\dfrac {9} {31}$
 
 </div>
 </div>
@@ -3898,9 +3991,9 @@ How many pets in total are owned by the boys?
 
 $
 \begin {aligned}
-\text {Number of pets owned by boys}  &= 5 \times 0 + 5 \times 1 + 2 \times 2 + 2 \times 3 + 1 \times 3 \\\\
-                                      &= 0 + 5 + 4 + 6 + 3 \\\\
-                                      &= 18
+\text {Pets owned by boys}  &= 5 \times 0 + 5 \times 1 + 2 \times 2 + 2 \times 3 + 1 \times 4 \\\\
+                            &= 0 + 5 + 4 + 6 + 4 \\\\
+                            &= 19
 \end {aligned}
 $
 
@@ -3909,7 +4002,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$18$
+$19$
 
 </div>
 </div>
@@ -3920,7 +4013,7 @@ $18$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -4137,7 +4230,7 @@ $(10, 10)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -4152,44 +4245,11 @@ The graph below shows Claire's total score after each round of the game.
 <div class='workings'>
 <div class='working'>
 
-The graph shows on y-axis the total score after each round.
-
-Every cross plotted on the graph is the total score after that round.
-
-The points she scored in each round is the difference between the plotted crosses.
-
-Round $6 -$ Round $5 =$ Score of Round $6$
-
-
-$
-\def\arraystretch{1.5}
-   \begin{array}{:c:c:c:}
-\hline
-         Round   & Scored   & Total \\ 
-\hline
-           1     & 13               & 13 \\
-\hdashline 
-           2     & 30 - 13 = 17     & 30 \\   
-\hdashline
-           3     & 45 - 30 = 15     & 45 \\   
-\hdashline
-           4     & 56 - 45 = 11     & 56 \\ 
-\hdashline
-           5     & 65 - 56 = 9      & 65 \\ 
-\hdashline
-           6     & 70- 65 = 5       & 70 \\ 
-\hline
-\end{array}
-$
+%empty%
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
 <div class='answer'>
 
 %empty%
@@ -4261,15 +4321,15 @@ Which was Claire's most successful round in which she scored most points?
 <div class='working'>
 
 |  Round |     Points scored      |
-|--------|------------------------|
+|:------:|:----------------------:|
 |   $1$  |    $13 - 0 = 13$       |
-|   $2$  |    $30 - 13 = 7$       |
+|   $2$  |    $30 - 13 = 17$      |
 |   $3$  |    $45 - 30 = 15$      |
 |   $4$  |    $56 - 45 = 11$      |
 |   $5$  |    $65 - 56 = 9$       |
 |   $6$  |    $70 - 65 = 5$       |
 
-Most points scored in round $2$
+Most points scored in = Round $2$
 
 </div>
 </div>
@@ -4295,14 +4355,14 @@ What can you say about the number of points Nigel scored in each round?
 <div class='workings'>
 <div class='working'>
 
-Nigel scored equal points in each round
+Nigel scored the same number of points in each round.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Nigel scored equal points in each round
+Nigel scored the same number of points in each round.
 
 </div>
 </div>
@@ -4313,7 +4373,7 @@ Nigel scored equal points in each round
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -4397,14 +4457,14 @@ For how many units of gas would the cost from each company be the same?
 <div class='workings'>
 <div class='working'>
 
-$60$
+$60$ units
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$60$
+$60$ units
 
 </div>
 </div>
@@ -4435,7 +4495,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-HdF and $\pounds 5$
+HdF
+
+</div>
+<div class='answer'>
+
+$\pounds 5$
 
 </div>
 </div>
@@ -4446,7 +4511,7 @@ HdF and $\pounds 5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -4483,10 +4548,10 @@ What fraction of the class voted for Minecraft?
 
 $
 \begin {aligned}
-\text {Fraction of class who voted for Minecraft}   &= \dfrac {120} {360} \\\\
-                                                    &= \dfrac {120} {120 \times 3} \\\\
-                                                    &= \dfrac {\cancel {120}} {\cancel {120} \times 3} \\\\
-                                                    &= \dfrac {1} {3}
+\text {Fraction who voted for Minecraft}    &= \dfrac {120} {360} \\\\
+                                            &= \dfrac {120} {120 \times 3} \\\\
+                                            &= \dfrac {\cancel {120}} {\cancel {120} \times 3} \\\\
+                                            &= \dfrac {1} {3}
 \end {aligned}
 $
 
@@ -4514,8 +4579,7 @@ One quarter of the pupils voted for Despicable Me.  What angle in the pie chart 
 
 $
 \begin {aligned}
-\text {Angle of Despicable Me sector}   &= \dfrac {1} {4} \ \text{of} \ 360 \\\\
-                                        &= \dfrac {1} {4} \times 360 \\\\
+\text {Angle for Despicable Me sector}  &= \dfrac {1} {4} \times 360 \\\\
                                         &= \dfrac {360} {4} \\\\
                                         &= \dfrac {4 \times 90} {4} \\\\
                                         &= \dfrac {\cancel 4 \times 90} {\cancel 4} \\\\
@@ -4545,14 +4609,18 @@ How many pupils voted for Angry Birds?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Angles around a point add up to} = 360 \degree$
+
+
 $
 \begin {aligned}
-\text {Number of pupils who voted for Angry Birds}  &= \dfrac {360 - 120 - 90 - 54 - 36} {360} \times 60 \\\\
-                                                    &= \dfrac {60} {360} \times 60 \\\\
-                                                    &= \dfrac {60 \times 60} {360} \\\\
-                                                    &= \dfrac {60 \times 6 \times 10} {60 \times 6} \\\\
-                                                    &= \dfrac {\cancel {60} \times \cancel 6 \times 10} {\cancel {60} \times \cancel 6} \\\\
-                                                    &= 10
+\text {Angle for Angry Birds}       &= 360 - 120 - 90 - 54 - 36 \\\\
+                                    &= 60 \degree \\\\
+\text {Number of pupils}            &= \dfrac {60} {360} \times 60 \\\\
+                                    &= \dfrac {60 \times 60} {360} \\\\
+                                    &= \dfrac {60 \times 6 \times 10} {60 \times 6} \\\\
+                                    &= \dfrac {\cancel {60} \times \cancel 6 \times 10} {\cancel {60} \times \cancel 6} \\\\
+                                    &= 10
 \end {aligned}
 $
 
@@ -4572,7 +4640,7 @@ $10$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -4632,8 +4700,8 @@ In which week did team A - Aardvark Athletic gain the most number of points?
 <div class='workings'>
 <div class='working'>
 
-|  Week Number |      Points gained     |
-|--------------|------------------------|
+|  Week        |      Points gained     |
+|:------------:|:----------------------:|
 |      $1$     |      $3 - 0 = 3$       |
 |      $2$     |      $9 - 3 = 6$       |
 |      $3$     |      $10 - 9 = 1$      |
@@ -4670,10 +4738,12 @@ When Aardvark Athletic has the same number of points as **team C - Caribou Celti
 <div class='workings'>
 <div class='working'>
 
+Team A and Team C has same number of points at $15$. Team B has $16$ points at the same time.
+
 $
 \begin {aligned}
-\text {Teamm B were leading by}     &= 16 - 15 \\\\
-                                    &= 1 \ \text{point}
+\text {Difference}     &= 16 - 15 \\\\
+                       &= 1
 \end {aligned}
 $
 
@@ -4682,7 +4752,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1 \ \text{point}$
+$1$ point
 
 </div>
 </div>
@@ -4700,6 +4770,8 @@ In how many weeks did Caribou Celtic gain exactly one point?
 <div class='working'>
 
 $3$
+
+Week $1, 3$ and $8$
 
 </div>
 </div>
@@ -4786,14 +4858,14 @@ At the end of which week were Buffalo Bears seven points ahead of Aardvark Athle
 <div class='workings'>
 <div class='working'>
 
-Week 8
+Week $8$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Week 8
+Week $8$
 
 </div>
 </div>
@@ -4804,7 +4876,7 @@ Week 8
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -5023,7 +5095,45 @@ Using the graph, or otherwise, work out the number of cards for which the total 
 <div class='workings'>
 <div class='working'>
 
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Plot the information of Maxicard on the bar chart by plotting $(6, 0)$ and $(16, 500)$ points and connecting them with a straight line
+
+
+*ABBR: TODO:: Add drawing ends.*
+
+
 $200$
+
+</div>
+<div class='working'>
+
+Let the number of cards $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {3} {100} \times a + 4                               &= \dfrac {16 - 6} {500} \times a + 6 \\\\
+\dfrac {3a} {100} + 4                                       &= \dfrac {10} {500} \times a + 6 \\\\
+\dfrac {3a} {100} + 4                                       &= \dfrac {10a} {500} + 6 \\\\
+\dfrac {3a} {100} - \dfrac {10a} {500}                      &= 6 - 4 \\\\
+\dfrac {3a \times 5} {100 \times 5} - \dfrac {10a} {500}    &= 2 \\\\
+\dfrac {15a} {500} - \dfrac {10a} {500}                     &= 2 \\\\
+\dfrac {15a - 10a} {500}                                    &= 2 \\\\
+\dfrac {5a} {500}                                           &= 2 \\\\
+a                                                           &= 2 \times \dfrac {500} {5} \\\\
+a                                                           &= \dfrac {2 \times 500} {5} \\\\
+a                                                           &= \dfrac {2 \times 5 \times 100} {5} \\\\
+a                                                           &= \dfrac {2 \times \cancel 5 \times 100} {\cancel 5} \\\\
+a                                                           &= 2 \times 100 \\\\
+a                                                           &= 200
+\end{aligned}
+$
 
 </div>
 </div>
@@ -5041,7 +5151,7 @@ $200$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -5078,14 +5188,14 @@ Explain why the total $7$ never came up
 <div class='workings'>
 <div class='working'>
 
-The total $7$ was not present in the dominoes so it never came up.
+The total of $7$ is not present on any of the dominoes.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-The total $7$ was not present in the dominoes so it never came up.
+The total of $7$ is not present on any of the dominoes.
 
 </div>
 </div>
@@ -5102,14 +5212,14 @@ Explain why the total of $6$ came up most often.
 <div class='workings'>
 <div class='working'>
 
-There were $3$ dominoes out of $7$ with total $6$ that is why it came up most often.
+The sum of $3$ out of $7$ dominoes is $6$. That is why it came up most often.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-There were $3$ dominoes out of $7$ with total $6$ that is why it came up most often.
+The sum of $3$ out of $7$ dominoes is $6$. That is why it came up most often.
 
 </div>
 </div>
@@ -5120,7 +5230,7 @@ There were $3$ dominoes out of $7$ with total $6$ that is why it came up most of
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -5157,19 +5267,19 @@ The value of $D$ (not shown) also lies on this line. If $D$ is $(15 , a)$, what 
 <div class='workings'>
 <div class='working'>
 
-*ABBR: TODO:: Add drawing starts.*
+Using equivalent ratio,
 
-![missing image](/papers/missing_image.svg)
-
-
-
-Plot the point with x-coordinate $15$ on the line in the graph
-
-
-*ABBR: TODO:: Add drawing ends.*
-
-
-a $= 5$
+$
+\begin{aligned}
+3 : 1                                           &= 15 : a \\\\
+3                                               &= \dfrac {15} {a} \\\\
+a \times 3                                      &= 15 \\\\
+a                                               &= \dfrac {15} {3} \\\\
+a                                               &= \dfrac {5 \times 3} {3} \\\\
+a                                               &= \dfrac {5 \times \cancel 3} {\cancel 3} \\\\
+a                                               &= 5
+\end{aligned}
+$
 
 </div>
 </div>
@@ -5194,19 +5304,16 @@ What is the value of $b$?
 <div class='workings'>
 <div class='working'>
 
-*ABBR: TODO:: Add drawing starts.*
+Using equivalent ratio,
 
-![missing image](/papers/missing_image.svg)
-
-
-
-Plot the point with y-coordinate $8$ on the line in the graph
-
-
-*ABBR: TODO:: Add drawing ends.*
-
-
-$24$
+$
+\begin{aligned}
+1 : 3                                           &= 8 : b \\\\
+\dfrac {1} {3}                                  &= \dfrac {8} {b} \\\\
+b                                               &= 8 \times 3 \\\\
+b                                               &= 24
+\end{aligned}
+$
 
 </div>
 </div>
@@ -5230,14 +5337,24 @@ If $(p , q)$ is another point on this same line, write down a relationship (equa
 <div class='workings'>
 <div class='working'>
 
-p = 3q
+Using equivalent ratio,
+
+$
+\begin{aligned}
+3 : 1                                           &= p : q \\\\
+3                                               &= \dfrac {p} {q} \\\\
+3 \times q                                      &= p \\\\
+3q                                              &= p \\\\
+p                                               &= 3q
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-p = 3q
+$p = 3q$
 
 </div>
 </div>
@@ -5248,7 +5365,7 @@ p = 3q
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -5285,7 +5402,18 @@ What are the co-ordinates of the point B?
 <div class='workings'>
 <div class='working'>
 
-$(3, 6)$
+$
+\begin {aligned}
+\text{x-coordinates}    &= \dfrac {0 + 6} {2} \\\\
+                        &= \dfrac {6} {2} \\\\
+                        &= 3 \\\\
+\text{y-coordinates}    &= \dfrac {8 + 4} {2} \\\\
+                        &= \dfrac {12} {2} \\\\
+                        &= 6
+\end {aligned}
+$
+
+Coordinates $= (3, 6)$
 
 </div>
 </div>

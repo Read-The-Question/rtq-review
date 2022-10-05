@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-1-g2-prns"
 title: "TopicPaper - Time - 1 - G2 - PRNS"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "29"
 ---
 <ul class='question default-decimal'>
@@ -1145,10 +1145,10 @@ $4 \ \text{hours} \ 05 \ \text{minutes}$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Jack runs the $100 \ \text{metres}$ in a time of $15.47 \ \text{seconds}$.
-Emily runs the same distance in a time of $13.762 \ \text{seconds}$.
+Jack runs the $100$ metres in a time of $15.47$ seconds.
+Emily runs the same distance in a time of $13.762$ seconds.
 
-**Estimate** the difference in their times by rounding each number to the nearest whole number and subtracting.
+Estimate the difference in their times by rounding each number to the nearest whole number and subtracting.
 
 </div>
 <div class='workings'>
@@ -1262,7 +1262,7 @@ $18 \text{hours}$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-How many seconds in $24 hours$?
+How many seconds in $24 \ \text{hours}?$
 
 </div>
 <div class='workings'>
@@ -1422,7 +1422,7 @@ $16{:}30$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-How many seconds in an $\text{hour}$?
+How many $\text{seconds}$ in an $\text{hour}?$
 
 </div>
 <div class='workings'>
@@ -1488,7 +1488,7 @@ $385  \ \text{minutes}$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-How many seconds in $24$ hours?
+How many $\text{seconds}$ in $24 \ \text{hours}?$
 
 </div>
 <div class='workings'>

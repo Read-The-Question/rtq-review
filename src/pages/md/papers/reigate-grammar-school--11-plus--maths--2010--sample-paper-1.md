@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2010-sample-paper-1"
 title: "Reigate Grammar School - 11 Plus - Maths - 2010 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "36"
 ---
 <div class='paper'>
@@ -1022,7 +1022,7 @@ Largest $= 0.76$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1063,16 +1063,11 @@ The next term is calculated by adding together the last two terms. Hence, the se
 $
 \begin{matrix}
 &
-&&  \footnotesize {\maroonC
- {(2 + 5)} }
-&&  \footnotesize {\maroonC
- {(5 + 7)} }
-&&  \footnotesize {\maroonC
- {(7 + 12)} }
-&&  \footnotesize {\maroonC
- {(12 + 19)} }
-&&  \footnotesize {\maroonC
- {(19 + 31)} } \\
+&&  \footnotesize {\maroonC {(2 + 5)} }
+&&  \footnotesize {\maroonC {(5 + 7)} }
+&&  \footnotesize {\maroonC {(7 + 12)} }
+&&  \footnotesize {\maroonC {(12 + 19)} }
+&&  \footnotesize {\maroonC {(19 + 31)} } \\
 2,  &&    5,  &&   7,  &&   12,  &&  19,  &&   \ldots, &&   \ldots
 \end{matrix}
 $
@@ -1120,20 +1115,13 @@ It is a sequence of square numbers.
 
 $
 \begin {matrix}
-    \footnotesize{\maroonC
-{(10^2)}}
-&&  \footnotesize{\maroonC
-{(9^2)}}
-&&  \footnotesize{\maroonC
-{(8^2)}}
-&&  \footnotesize{\maroonC
-{(7^2)}}
-&&  \footnotesize{\maroonC
-{(6^2)}}
-&&  \footnotesize{\maroonC
-{(5^2)}}
-&&  \footnotesize{\maroonC
-{(4^2)}} \\\\
+    \footnotesize{\maroonC{(10^2)}}
+&&  \footnotesize{\maroonC{(9^2)}}
+&&  \footnotesize{\maroonC{(8^2)}}
+&&  \footnotesize{\maroonC{(7^2)}}
+&&  \footnotesize{\maroonC{(6^2)}}
+&&  \footnotesize{\maroonC{(5^2)}}
+&&  \footnotesize{\maroonC{(4^2)}} \\\\
 100,  &&    81,  &&   64,  &&   49,  &&  36,  &&   \ldots, &&   \ldots
 \end {matrix}
 $
@@ -1168,7 +1156,7 @@ $16$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1758,7 +1746,7 @@ $3752$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1795,11 +1783,11 @@ What percentage of pupils travelled had a coach?
 
 $
 \begin{aligned}
-\text{Percentage of people having coach}      &= \dfrac {90} {360} \times 100 \\\\
-                                              &= \dfrac {90 \times 100} {360} \\\\
-                                              &= \dfrac {90 \times 4 \times 25} {90 \times 4} \\\\
-                                              &= \dfrac {\cancel {90} \times \cancel 4 \times 25} {\cancel {90} \times \cancel 4} \\\\
-                                              &= 25 \ \%
+\text{\% of pupils travelled by coach}      &= \dfrac {90} {360} \times 100 \\\\
+                                            &= \dfrac {90 \times 100} {360} \\\\
+                                            &= \dfrac {90 \times 4 \times 25} {90 \times 4} \\\\
+                                            &= \dfrac {\cancel {90} \times \cancel 4 \times 25} {\cancel {90} \times \cancel 4} \\\\
+                                            &= 25 \ \%
 \end{aligned}
 $
 
@@ -1821,19 +1809,17 @@ $25 \ \%$
 
 What fraction of pupils walked to school?
 
-It was found that $12$ walked to school.
-
 </div>
 <div class='workings'>
 <div class='working'>
 
 $
 \begin{aligned}
-\text{Fraction of people having to walk}      &= \dfrac {360 - 90 - 90 - 45} {360} \\\\
-                                              &= \dfrac {135} {360} \\\\
-                                              &= \dfrac {45 \times 3} {45 \times 8} \\\\
-                                              &= \dfrac {\cancel {45} \times 3} {\cancel {25} \times 8} \\\\
-                                              &= \dfrac {3} {8}
+\text{Fraction of pupils who walked}    &= \dfrac {360 - 90 - 90 - 45} {360} \\\\
+                                        &= \dfrac {135} {360} \\\\
+                                        &= \dfrac {45 \times 3} {45 \times 8} \\\\
+                                        &= \dfrac {\cancel {45} \times 3} {\cancel {25} \times 8} \\\\
+                                        &= \dfrac {3} {8}
 \end{aligned}
 $
 
@@ -1853,10 +1839,41 @@ $\dfrac {3} {8}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
+It was found that $12$ walked to school.
+
 How many pupils took a car to school?
 
 </div>
 <div class='workings'>
+<div class='working'>
+
+Let the total number of people $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {135} {360} \times a         &= 12 \\\\
+a                                   &= 12 \times \dfrac {360} {135} \\\\
+a                                   &= \dfrac {12 \times 360} {135} \\\\
+a                                   &= \dfrac {4 \times 3 \times 45 \times 8} {45 \times 3} \\\\
+a                                   &= \dfrac {4 \times \cancel 3 \times \cancel {45} \times 8} {\cancel {45} \times \cancel 3} \\\\
+a                                   &= 4 \times 8 \\\\
+a                                   &= 32
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Number of people who go by car}     &= \dfrac {90} {360} \times 32 \\\\
+                                          &= \dfrac {90 \times 32} {360} \\\\
+                                          &= \dfrac {90 \times 4 \times 8} {90 \times 4} \\\\
+                                          &= \dfrac {\cancel {90} \times \cancel 4 \times 8} {\cancel {90} \times \cancel 4} \\\\
+                                          &= 8
+\end{aligned}
+$
+
+</div>
 <div class='working'>
 
 Using ratio,
@@ -1897,6 +1914,23 @@ How many pupils did not catch the train to school?
 
 </div>
 <div class='workings'>
+<div class='working'>
+
+Using value from the answer above,
+
+$
+\begin{aligned}
+\text{Number of people who did not catch the train}     &= \dfrac {360 - 45} {360} \times 32 \\\\
+                                                        &= \dfrac {315} {360} \times 32 \\\\
+                                                        &= \dfrac {315 \times 32} {360} \\\\
+                                                        &= \dfrac {45 \times 7 \times 8 \times 4} {45 \times 8} \\\\
+                                                        &= \dfrac {\cancel {45} \times 7 \times \cancel 8 \times 4} {\cancel {45} \times \cancel 8} \\\\
+                                                        &= 7 \times 4 \\\\
+                                                        &= 28
+\end{aligned}
+$
+
+</div>
 <div class='working'>
 
 Using ratio,
@@ -2255,7 +2289,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2360,7 +2394,7 @@ Plot the 4th point on the graph too and show the length of the side of the recta
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(4, 0)$
+Coordinates $= (4, 0)$
 
 </div>
 </div>
@@ -2378,7 +2412,7 @@ $(4, 0)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

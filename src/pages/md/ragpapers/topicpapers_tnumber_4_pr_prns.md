@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-4-pr-prns"
 title: "TopicPaper - Number - 4 - PR - PRNS"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -11,7 +11,7 @@ questions_count: "3"
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-If you add up the digits of $14$ you get $5$ i.e. $1 + 4 = 5$. **How many** $2$ -digit numbers are there altogether (including $14$) which add up to a *multiple* of $5$?
+If you add up the digits of $14$ you get $5$ i.e. $1 + 4 = 5$. How many $2$-digit numbers are there altogether (including $14$) which add up to a multiple of $5?$
 
 </div>
 <div class='workings'>
@@ -62,7 +62,7 @@ $4^3 = \ldots $
 
 $\dfrac{240}{300}$ in its simplest form is $ \ldots $
 
-$25\% of 68 = \ldots $ 
+$25\%$ of $68 = \ldots $ 
 
 $43 \times 38 = \ldots $ 
 

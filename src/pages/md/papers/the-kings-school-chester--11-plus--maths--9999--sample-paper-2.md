@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-kings-school-chester-11-plus-maths-9999-sample-paper-2"
 title: "The Kings School Chester - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "26"
 ---
 <div class='paper'>
@@ -556,7 +556,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -651,16 +651,11 @@ The next term is calculated by adding $6$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}  \\
+&   \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}  \\
 2,  &&    8,  &&  14,  &&   20,  &&   \ldots,  && \ldots
 \end{matrix}
 $
@@ -710,14 +705,10 @@ The next term is calculated by adding $5$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+5)}}  \\
+&   \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(+5)}}  \\
 6,  &&    11,  &&  16,  &&   21,  &&   26
 \end{matrix}
 $

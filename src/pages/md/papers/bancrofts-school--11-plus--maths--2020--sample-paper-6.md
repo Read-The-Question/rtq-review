@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2020-sample-paper-6"
 title: "Bancrofts School - 11 Plus - Maths - 2020 - Sample Paper 6"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "37"
 ---
 <div class='paper'>
@@ -1191,7 +1191,7 @@ $371$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1219,16 +1219,11 @@ The next term is calculated by multiplying the previous term by $2$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}  \\
+&   \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}  \\
 6,  &&    12,  &&  \ldots,  &&   48,  &&  96
 \end{matrix}
 $
@@ -1267,16 +1262,11 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+10)}}
-&&  \footnotesize{\maroonC
-{(+11)}}
-&&  \footnotesize{\maroonC
-{(+12)}}
-&&  \footnotesize{\maroonC
-{(+13)}}
-&&  \footnotesize{\maroonC
-{(+14)}}  \\
+&   \footnotesize{\maroonC{(+10)}}
+&&  \footnotesize{\maroonC{(+11)}}
+&&  \footnotesize{\maroonC{(+12)}}
+&&  \footnotesize{\maroonC{(+13)}}
+&&  \footnotesize{\maroonC{(+14)}}  \\
 3,  &&    13,  &&  24,  &&   \ldots,  &&  49, && 63
 \end{matrix}
 $
@@ -1304,7 +1294,7 @@ $36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2085,7 +2075,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2110,12 +2100,10 @@ For how many minutes was Kay in the lead?
 <div class='workings'>
 <div class='working'>
 
-As per the graph,
-
 $
 \begin{aligned}
 \text{Number of minutes}   &= 5 - 2 \\\\
-                           &= 3 \\\\
+                           &= 3
 \end{aligned}
 $
 
@@ -2141,16 +2129,14 @@ After how many metres were they level during the race?
 <div class='workings'>
 <div class='working'>
 
-As per the graph,
-
-After $600$ metres and $1200$ metres, they were level during the race.
+After $600 \text{ m }$ and $1200 \text{ m }$, they were level during the race.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$600$ metres and $1200$ metres
+$600 \text{ m }$ and $1200 \text{ m }$
 
 </div>
 </div>
@@ -2166,8 +2152,6 @@ Who won the race?
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per the graph,
 
 Maria won the race.
 

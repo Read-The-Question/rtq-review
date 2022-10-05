@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-2019-sample-paper-1"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "50"
 ---
 <div class='paper'>
@@ -307,7 +307,7 @@ $47$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -331,18 +331,12 @@ The next term is calculated by adding together the last two terms. Hence, the se
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(0 + 1)} }
-&&  \footnotesize {\maroonC
- {(1 + 1)} }
-&&  \footnotesize {\maroonC
- {(1 + 2)} }
-&&  \footnotesize {\maroonC
- {(2 + 3)} }
-&&  \footnotesize {\maroonC
- {(3 + 5)} }
-&&  \footnotesize {\maroonC
- {(5 + 8)} }  \\
+&   \footnotesize {\maroonC {(0 + 1)} }
+&&  \footnotesize {\maroonC {(1 + 1)} }
+&&  \footnotesize {\maroonC {(1 + 2)} }
+&&  \footnotesize {\maroonC {(2 + 3)} }
+&&  \footnotesize {\maroonC {(3 + 5)} }
+&&  \footnotesize {\maroonC {(5 + 8)} }  \\
 1,  &&  1, &&  2, &&  3, &&  5,  &&  \ldots, && \ldots
 \end{matrix}
 $
@@ -1869,7 +1863,7 @@ I put square tiles on a large grid so that the tiles touch at the corners. The d
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The **bottom right-hand** corner of **tile** $2$ is marked with a $\spadesuit$.
+The bottom right-hand corner of tile $2$ is marked with a $\spadesuit$.
 
 Write the coordinates of this point.
 
@@ -1895,7 +1889,7 @@ $(2, 1)$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-**Tile** $4$ touches two other tiles.
+Tile $4$ touches two other tiles.
 Write the coordinates of the points where tile $4$ touches two other tiles.
 
 </div>
@@ -1925,7 +1919,7 @@ $(4, 4)$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write the coordinates of the points where **tile** $17$ touches two other tiles.
+Write the coordinates of the points where tile $17$ touches two other tiles.
 
 </div>
 <div class='workings'>
@@ -1954,13 +1948,12 @@ $(17, 17)$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-I have $30$ **tiles** to make a pattern on a grid. The pattern is a series of squares.
-
+I have $30$ tiles to make a pattern on a grid. The pattern is a series of squares.
 
 ![alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-2-question-17-subquestion-4-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-2-question-17-subquestion-4-00.png "alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-2-question-17-subquestion-4-00.png")
 
 I have used some of the $30$ tiles to make my pattern.
-Do I have enough tiles to make the **next square**, of side length $4$?
+Do I have enough tiles to make the next square, of side length $4?$
 Show working to explain your answer.
 
 </div>
@@ -2619,7 +2612,7 @@ She used the results to draw this pie chart.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What fraction of students said **“Comedy”**?
+What fraction of students said “Comedy”?
 
 </div>
 <div class='workings'>
@@ -2650,7 +2643,7 @@ $\dfrac {1} {4}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$20$ students said **“Horror”**.
+$20$ students said “Horror”.
 
 Work out the total number of students that Betty asked.
 
@@ -2696,8 +2689,7 @@ $60$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-What is the sum of all the numbers from $1$ to $100$?
-
+What is the sum of all the numbers from $1$ to $100?$
 
 *(You are not expected to work this out by adding $100$ numbers together!
 Try to find a way to do the puzzle and show how you worked it out!)*

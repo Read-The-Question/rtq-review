@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-2"
 title: "TopicPaper - Fraction - 2"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "40"
 ---
 <div class='paper'>
@@ -1664,6 +1664,7 @@ $0.35$
 The figure shows two identical overlapping triangles. Four-ninths of **each** triangle is shaded.
 What fraction of the **whole** figure is shaded?
 
+![king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-1-00.png](/assets/king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-1-00.png "king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-1-00.png")
 
 </div>
 <div class='workings'>
@@ -2532,7 +2533,7 @@ $\dfrac {1} {2}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2546,32 +2547,24 @@ Complete the table below, giving fractions in their lowest terms.
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-&= 50\% \\\\
-&= \dfrac {50} {100} \\\\
-&= \dfrac {50} {50 \times 2} \\\\
-&= \dfrac {\cancel{50}} {\cancel{50} \times 2} \\\\
-&= \dfrac {1} {2}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-&= 0.75 \\\\
-&= \dfrac {75} {100} \\\\
-&= \dfrac {5 \times 5 \times 3} {5 \times 5 \times 4} \\\\
-&= \dfrac {\cancel{5} \times \cancel{5} \times 3} {\cancel{5} \times \cancel{5} \times 4} \\\\
-&= \dfrac {3} {4}
-\end{aligned}
-$
+| Fraction        | Decimal | Percentage |
+|:---------------:|:-------:|:----------:|
+| $\dfrac{1}{2}$  | $0.5$   | $50\%$     |
+| $\dfrac{3}{4}$  | $0.75$  | $70\%$     |
+| $\dfrac{3}{5}$  | $0.6$   | $60\%$     |
+| $\dfrac{17}{20}$| $0.85$  | $85\%$     |
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {1} {2} \ \ \dfrac {3} {4}$
+| Fraction        | Decimal | Percentage |
+|:---------------:|:-------:|:----------:|
+| $\dfrac{1}{2}$  | $0.5$   | $50\%$     |
+| $\dfrac{3}{4}$  | $0.75$  | $70\%$     |
+| $\dfrac{3}{5}$  | $0.6$   | $60\%$     |
+| $\dfrac{17}{20}$| $0.85$  | $85\%$     |
 
 </div>
 </div>

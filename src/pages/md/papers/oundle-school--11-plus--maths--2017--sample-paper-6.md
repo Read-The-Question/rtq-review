@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2017-sample-paper-6"
 title: "Oundle School - 11 Plus - Maths - 2017 - Sample Paper 6"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "11"
 ---
 <div class='paper'>
@@ -943,7 +943,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -951,30 +951,8 @@ $7$
 %empty% 
 
 </div>
-<div class='workings'>
-<div class='working placeholder'>
 
-TODOWORKING
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -984,26 +962,24 @@ What is $417 \ \text{minutes}$ in hours and minutes?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+&= 417 \text{ minutes} \\\\
+&= \dfrac{417}{60} \text{ hours} \\\\
+&= \dfrac{417}{60} \text{ hours} \\\\
+&= 6\dfrac{57}{60} \text{ hours} \\\\
+&= 6 \text{ hours } 57 \text{ minutes}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$6 \text{ hours } 57 \text{ minutes}$
 
 </div>
 </div>
@@ -1018,26 +994,22 @@ Change $7.8 \ \text{hours}$ into minutes.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+&= 7.8 \text{ hours} \\\\
+&= 7.8 \times 60 \text{ minutes} \\\\
+&= 468 \text{ minutes}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$468 \text{ minutes}$
 
 </div>
 </div>
@@ -1052,26 +1024,38 @@ The time is $20{:}14$. What is the smaller angle between the hour hand and the m
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 26 \ \text{minutes} \\\\
+\text {Angle}                           &= 26 \times 6 \\\\
+                                        &= 156 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$156 \degree$
 
 </div>
 </div>
@@ -1088,26 +1072,16 @@ What is the exact time when this occurs?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$2{:}10$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$2{:}10$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-c"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper C"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "21"
 ---
 <div class='paper'>
@@ -147,7 +147,7 @@ $55$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -187,16 +187,11 @@ The next term is calculated by adding $7$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+7)} }
-&&  \footnotesize {\maroonC
- {(+7)} }
-&&  \footnotesize {\maroonC
- {(+7)} }
-&&  \footnotesize {\maroonC
- {(+7)} }
-&&  \footnotesize {\maroonC
- {(+7)} }  \\
+&   \footnotesize {\maroonC {(+7)} }
+&&  \footnotesize {\maroonC {(+7)} }
+&&  \footnotesize {\maroonC {(+7)} }
+&&  \footnotesize {\maroonC {(+7)} }
+&&  \footnotesize {\maroonC {(+7)} }  \\
 18, && 25, && 32, && \ldots, && 46, \ldots
 \end{matrix}
 $
@@ -244,16 +239,11 @@ The next term is calculated by adding $4.5$ to the previous term. Hence, the seq
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+4.5)} }
-&&  \footnotesize {\maroonC
- {(+4.5)} }
-&&  \footnotesize {\maroonC
- {(+4.5)} }
-&&  \footnotesize {\maroonC
- {(+4.5)} }
-&&  \footnotesize {\maroonC
- {(+4.5)} }  \\
+&   \footnotesize {\maroonC {(+4.5)} }
+&&  \footnotesize {\maroonC {(+4.5)} }
+&&  \footnotesize {\maroonC {(+4.5)} }
+&&  \footnotesize {\maroonC {(+4.5)} }
+&&  \footnotesize {\maroonC {(+4.5)} }  \\
 5, && 9.5, && 14, && \ldots, && \ldots, && 27.5
 \end{matrix}
 $
@@ -500,7 +490,7 @@ $\text {Option 3}$
 <div class='question question'>
 
 The pie chart below represents data collected in a survey of the favourite sports of a sample of school children. 
-Note that, between them, Rugby and Football were favourite of half of the children surveyed.
+Note that, between them, Rugby and Football were the favourite of half of the children surveyed.
 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-c/section-1-question-9-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-c/section-1-question-9-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-c/section-1-question-9-00.png")  
 
@@ -775,7 +765,7 @@ A sleeper train leaves London at $22{:}45$ and reaches Aberdeen at $06{:}30$ the
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Work out how long the journey takes in hours and minutes.
+Work out how long the journey takes in $\text{hours}$ and $\text{minutes}$.
 
 </div>
 <div class='workings'>
@@ -976,11 +966,11 @@ $18 \ \text{days}$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-The table and bar chart below shows the number of burgers sold by a cafe each day of the week.
+The table and bar chart below shows the number of burgers sold by a cafe each day for a week.
 
-|         Day            | Mon | Tues | Wed | Thur | Fri | Sat | Sun |
-|:----------------------:|:---:|:----:|:---:|:----:|:---:|:---:|:---:|
-| Number of burgers sold |  14 |  25  |     |  12  | 21  | 27  |     |
+|         Day            |  Mon  |  Tues  | Wed |  Thur  |  Fri  |  Sat  | Sun |
+|:----------------------:|:-----:|:------:|:---:|:------:|:-----:|:-----:|:---:|
+| Number of burgers sold |  $14$ |  $25$  |     |  $12$  | $21$  | $27$  |     |
 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-c/section-1-question-14-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-c/section-1-question-14-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-c/section-1-question-14-00.png")
 
@@ -1004,7 +994,7 @@ The table and bar chart below shows the number of burgers sold by a cafe each da
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Use the information in the table and the bar chart to complete the entry for **Wednesday** in the table and the bar for **Friday** on the chart.
+Use the information in the table and the bar chart to complete the entry for Wednesday in the table and the bar for Friday on the chart.
 
 </div>
 <div class='workings'>
@@ -1043,7 +1033,7 @@ Plot the number of burgers sold on the bar chart
 <div class='question subquestion'>
 
 The total number of burgers sold in the week was $140$. Use this information to help complete both the table and the bar chart 
-with **Sunday's** entry.
+with Sunday's entry.
 
 </div>
 <div class='workings'>
@@ -1213,7 +1203,7 @@ $60 \ \text {cm}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Work out the perimeter of one of the tiles, giving your answer **in metres**. 
+Work out the perimeter of one of the tiles, giving your answer in metres. 
 
 </div>
 <div class='workings'>
@@ -1673,9 +1663,9 @@ team wear numbers $2$ to $9$.
 ![dulwich-college--11-plus--maths--9999--specimen-paper-c/section-1-question-19-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-c/section-1-question-19-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-c/section-1-question-19-00.png")
 
 The captain of the next team in the rankings wears number $11$ and his team mates are given the race numbers from $12$ to $19$. 
-The third team gets allotted the race numbers $21$ to $29$, and so on.
+The third team gets allocated the race numbers $21$ to $29$, and so on.
 
-This process continues until all rides have been given a unique number that identifies them individually, but also identifies which team they are on.
+This process continues until all riders have been given a unique number that identifies them individually, but also identifies which team they are on.
 
 </div>
 <div class='workings'>
@@ -1721,7 +1711,7 @@ $9$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The last race number to be issued is number 209. Write down how many teams there are in the race.
+The last race number to be issued is number $209$. Write down how many teams there are in the race.
 
 </div>
 <div class='workings'>
@@ -1806,7 +1796,7 @@ $9$
 <div class='question subquestion'>
 
 If $42$ riders failed to finish the $3$-week-long race, either through crashing our or abandoning the race, 
-work out what fraction of the number of riders who started the race actually **completed** the whole event. 
+work out what fraction of the number of riders who started the race actually completed the whole event. 
 Leave your answer in its simplest form.
 
 </div>
@@ -1953,7 +1943,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 In the final network of grids below, the numbers must be all whole number greater than zero, 
-and **the same number must not appear more than once**.
+and the same number must not appear more than once.
 
 Complete this final network below with the correct number into each of the relevant squares or circles.
 

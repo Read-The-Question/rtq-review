@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-4"
 title: "TopicPaper - Fraction - 4"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "40"
 ---
 <div class='paper'>
@@ -53,7 +53,7 @@ $12 \dfrac {3} {4} \ \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -72,7 +72,13 @@ $
 \text{Halfway distance}                  &= 1 \dfrac {3} {4} \div 2 \\\\
                                          &= \dfrac {7} {4} \times \dfrac {1} {2} \\\\
                                          &= \dfrac {7} {4 \times 2} \\\\
-                                         &= \dfrac {7} {8} \ \text{km}
+                                         &= \dfrac {7} {8} \ \text{km} \\\\
+                                         &= \dfrac {7} {8} \times 1000 \ \text{metres} \\\\
+                                         &= \dfrac {7 \times 1000}{8} \\\\
+                                         &= \dfrac {7 \times 125 \times 8}{8} \\\\
+                                         &= \dfrac {7 \times 125 \times \cancel{8}}{\cancel{8}} \\\\
+                                         &= 7 \times 125 \\\\
+                                         &= 875 \text{ metres}
 \end{aligned}
 $
 
@@ -81,7 +87,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {7} {8} \ \text{km}$
+$875 \text{ metres}$
 
 </div>
 </div>
@@ -726,7 +732,7 @@ $2 \dfrac {1} {2}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -739,7 +745,7 @@ $\dfrac {4} {\phantom{77}} = \dfrac {\phantom{77}} {10} = \dfrac {12} {15} = \df
 <div class='workings'>
 <div class='working'>
 
-Let the missing numbers are $= a, b, c$
+Let the missing numbers $= a, b, c$
 
 As per the question,
 
@@ -770,7 +776,17 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$5, \ 8, \ 25$
+$5$
+
+</div>
+<div class='answer'>
+
+$8$
+
+</div>
+<div class='answer'>
+
+$25$
 
 </div>
 </div>
@@ -1029,7 +1045,7 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1050,18 +1066,19 @@ As per the question,
 
 $
 \begin{aligned}
-\dfrac{a} {8}    &= \dfrac {9} {12} \\\\
-a                &= \dfrac {9 \times 8} {12} \\\\
-a                &= \dfrac {3 \times 3 \times 4 \times 2} {4 \times 3} \\\\
-a                &= \dfrac {3 \times \cancel{3} \times \cancel{4} \times 2} {\cancel{4} \times \cancel{3}} \\\\
-a                &= 3 \times 2 \\\\
-a                &= 6 \\\\
-\dfrac{9} {12}   &= \dfrac {21} {b} \\\\
-b                &= \dfrac {21 \times 12} {9} \\\\\
-b                &= \dfrac {3 \times 7 \times 4 \times 3} {3 \times 3} \\\\
-b                &= \dfrac {\cancel{3} \times 7 \times 4 \times \cancel{3}}{\cancel{3} \times \cancel{3}} \\\\
-b                &= 7 \times 4 \\\\
-b                &= 28
+\dfrac{a} {8}               &= \dfrac {9} {12} \\\\
+a                           &= \dfrac {9 \times 8} {12} \\\\
+a                           &= \dfrac {3 \times 3 \times 4 \times 2} {4 \times 3} \\\\
+a                           &= \dfrac {3 \times \cancel{3} \times \cancel{4} \times 2} {\cancel{4} \times \cancel{3}} \\\\
+a                           &= 3 \times 2 \\\\
+a                           &= 6 \\\\
+\dfrac {21} {b}             &= \dfrac {9} {12} \\\\
+\dfrac {21 \times 12} {9}   &= b \\\\
+b                           &= \dfrac {21 \times 12} {9} \\\\\
+b                           &= \dfrac {3 \times 7 \times 4 \times 3} {3 \times 3} \\\\
+b                           &= \dfrac {\cancel{3} \times 7 \times 4 \times \cancel{3}}{\cancel{3} \times \cancel{3}} \\\\
+b                           &= 7 \times 4 \\\\
+b                           &= 28
 \end{aligned}
 $
 
@@ -1070,7 +1087,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$6, 28$
+$6$
+
+</div>
+<div class='answer'>
+
+$28$
 
 </div>
 </div>
@@ -1111,7 +1133,7 @@ $\dfrac {1} {6}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1136,8 +1158,6 @@ a                                 &= 7 \times{3} \\\\
 a                                 &= 21
 \end{aligned}
 $
-
-Number $= 21$
 
 </div>
 </div>
@@ -1975,7 +1995,7 @@ $1\dfrac{3}{4}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2022,7 +2042,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$dfrac{3}{5}$
+$\dfrac{3}{5}$
 
 </div>
 </div>
@@ -2337,7 +2357,7 @@ $30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2365,7 +2385,7 @@ a                                   &= \dfrac {4 \times \cancel{3} \times 2 \tim
 a                                   &= 4 \times 2 \\\\
 a                                   &= 8 \\\\
 \dfrac {18} {b}                     &= \dfrac {12} {18} \\\\
-\dfrac {b} {18}                     &= \dfrac {18} {12} \\\\
+\dfrac {18 \times 18} {12}          &= b \\\\
 b                                   &= \dfrac {18 \times 18} {12} \\\\
 b                                   &= \dfrac {6 \times 3 \times 9 \times 2} {6 \times 2} \\\\
 b                                   &= \dfrac {\cancel{6} \times 3 \times 9 \times \cancel{2}} {\cancel{6} \times \cancel{2}} \\\\
@@ -2373,10 +2393,6 @@ b                                   &= 3 \times 9 \\\\
 b                                   &= 27
 \end{aligned}
 $
-
-Numerator $= 8$
-
-Denominator $= 27$
 
 </div>
 </div>
@@ -2429,7 +2445,7 @@ $22$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2440,7 +2456,7 @@ Freya has $24$ badges. If she gives $\dfrac{3}{8}$ of them to her brother, how m
 <div class='workings'>
 <div class='working'>
 
-If Freya gives $\dfrac{3}{8}$ of badges away, then she is left with $1- \dfrac{3}{8} = \dfrac{5}{8}$ of badges.
+If Freya gives $\dfrac{3}{8}$ of her badges away, then she is left with $1- \dfrac{3}{8} = \dfrac{5}{8}$ of badges.
 
 $
 \begin{aligned}
@@ -2746,7 +2762,7 @@ $8 \dfrac {1} {3}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2866,7 +2882,7 @@ $\dfrac{1}{2} + \dfrac{1}{4} + \dfrac{1}{8} + \dfrac{1}{16} + \dfrac{1}{32} + \d
 $
 \begin{aligned}
 &= \dfrac{1}{2} + \dfrac{1}{4} + \dfrac{1}{8} + \dfrac{1}{16} + \dfrac{1}{32} + \dfrac{1}{64} + \dfrac{1}{128} + \dfrac{1}{256} + \dfrac{1}{512} + \dfrac{1}{1024} \\\\
-&= \dfrac{1 \times 512}{2 \times 512} + \dfrac{1 \times 256}{4 \times 256} + \dfrac{1 \times 128}{8 \times 128} + \dfrac{1 \times 64}{16 \times 64} + \dfrac{1 \times 32}{32 \times 32} + \dfrac{1 \times 16}{64 \times 16} + \dfrac{1 \times 8}{128 \times 8} + \dfrac{1 \times 2}{512 \times 2} + \dfrac{1}{1024} \\\\
+&= \dfrac{1 \times 512}{2 \times 512} + \dfrac{1 \times 256}{4 \times 256} + \dfrac{1 \times 128}{8 \times 128} + \dfrac{1 \times 64}{16 \times 64} + \dfrac{1 \times 32}{32 \times 32} + \dfrac{1 \times 16}{64 \times 16} + \dfrac{1 \times 8}{128 \times 8} + \dfrac{1 \times 4}{256 \times 4} + \dfrac{1 \times 2}{512 \times 2} + \dfrac{1}{1024} \\\\
 &= \dfrac{512}{1024} + \dfrac{256}{1024} + \dfrac{128}{1024} + \dfrac{64}{1024} + \dfrac{32}{1024} + \dfrac{16}{1024} + \dfrac{8}{1024} + \dfrac{4}{1024} + \dfrac{2}{1024} + \dfrac{1}{1024} \\\\
 &= \dfrac{512 + 256 + 128 + 64 + 32 + 16 + 8 + 4 + 2 + 1}{1024} \\\\
 &= \dfrac{1023}{1024}

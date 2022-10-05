@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-1-g2"
 title: "TopicPaper - Angle - 1 - G2"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "37"
 ---
 <ul class='question default-decimal'>
@@ -1084,9 +1084,9 @@ The diagram shows a protractor being used to measure the angle between two lines
 
 ![christs-hospital-school--11-plus--maths--2014--sample-paper-1/section-1-question-4-00.png](/assets/christs-hospital-school--11-plus--maths--2014--sample-paper-1/section-1-question-4-00.png "christs-hospital-school--11-plus--maths--2014--sample-paper-1/section-1-question-4-00.png")
 
-The lines are labelled **Line 1** and **Line 2**.
+The lines are labelled **Line $1$** and **Line $2$**.
 
-Use the protractor to measure the angle between **Line 1** and **Line 2**.
+Use the protractor to measure the angle between **Line $1$** and **Line $2$**.
 
 </div>
 <div class='workings'>
@@ -1409,7 +1409,7 @@ $75 \degree$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Calculate the size of the missing angle in this triangle. The diagram is **not** drawn to scale.
+Calculate the size of the missing angle in this triangle. The diagram is not drawn to scale.
 
 ![city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-13-00.png](/assets/city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-13-00.png "city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-13-00.png") 
 
@@ -1542,7 +1542,7 @@ $20 \degree$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Would you describe $100\degree$? Acute, obtuse or reflex?
+Would you describe $100\degree ?$ Acute, obtuse or reflex?
 
 </div>
 <div class='workings'>

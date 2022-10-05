@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-1-g1-prns"
 title: "TopicPaper - Time - 1 - G1 - PRNS"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "6"
 ---
 <ul class='question default-decimal'>
@@ -148,13 +148,13 @@ $27$
 
 Part of a bus timetable is shown below:
 
-| Depart Pepperton | $07h45$ | $08h30$ | $09h30$ | $10h45$ | $11h30$ | $12h15$ |
-|:----------------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-|   Arrive Salton  | $08h32$ | $09h17$ | $10h17$ | $11h32$ | $12h17$ | $13h02$ |
+| Depart Pepperton | $07 \text{h} 45$ | $08 \text{h} 30$ | $09 \text{h} 30$ | $10 \text{h} 45$ | $11 \text{h} 30$ | $12 \text{h} 15$ |
+|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|
+|   Arrive Salton  | $08 \text{h} 32$ | $09 \text{h} 17$ | $10 \text{h} 17$ | $11 \text{h} 32$ | $12 \text{h} 17$ | $13 \text{h} 02$ |
 
-| Depart Pepperton | $07h45$ | $08h30$ | $09h30$ | $10h45$ | $11h30$ | $12h15$ |
-|:----------------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-|   Arrive Salton  | $08h32$ | $09h17$ | $10h17$ | $11h32$ | $12h17$ | $13h02$ |
+| Depart Pepperton | $07 \text{h} 45$ | $08 \text{h} 30$ | $09 \text{h} 30$ | $10 \text{h} 45$ | $11 \text{h} 30$ | $12 \text{h} 15$ |
+|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|
+|   Arrive Salton  | $08 \text{h} 32$ | $09 \text{h} 17$ | $10 \text{h} 17$ | $11 \text{h} 32$ | $12 \text{h} 17$ | $13 \text{h} 02$ |
 
 
 </div>
@@ -375,15 +375,13 @@ $\pounds 5.15$
 
 The lengths of four of the Henry Potter films are as follows:
 
-Henry Potter and the Philosopher’s Loan  $143 \ \text{minutes}$
+| Henry Potter and the Philosopher’s Loan  | $143$ minutes  |
+|:----------------------------------------:|:--------------:|
+| Henry Potter and the Pizza of Azkaban    | $158$ minutes  |
+| Henry Potter and the Half Asleep Prince  | $144$ minutes  |
+| Henry Potter and the Dodgy Shadows       | $135$ minutes  |
 
-Henry Potter and the Pizza of Azkaban   $158 \ \text{minutes}$
-
-Henry Potter and the Half Asleep Prince  $144 \ \text{minutes}$
-
-Henry Potter and the Dodgy Shadows  $135 \ \text{minutes}$
-
-Find the *total* length of all four films, giving your answer in hours and minutes.
+Find the total length of all four films, giving your answer in hours and minutes.
 
 </div>
 <div class='workings'>
@@ -457,6 +455,17 @@ $27 \ \text {minutes}$
 Petrov wants to "listen again" to several shows on the radio and is checking the list of the broadcast times.
 
 ![csse--11-plus--maths--2015--sample-paper-2/section-1-question-14-00.png](/assets/csse--11-plus--maths--2015--sample-paper-2/section-1-question-14-00.png "csse--11-plus--maths--2015--sample-paper-2/section-1-question-14-00.png")
+
+| FM Ez-Hz $27.5 - 26$ September||
+|:----------:|:-----------------:|
+|   $1751$   |     Crunch Time   |
+|   $1748$   |    Request Slot   |
+|   $1757$   |       Travel      |
+|   $1800$   |  News on the Hour |
+|   $1802$   |      Power Hour   |
+|   $1852$   |  Re-mix Revernge  |
+|   $1857$   |       Travel      |
+|   $1900$   |  News on the Hour |
 
 </div>
 <div class='workings'>
@@ -541,7 +550,7 @@ $19{:}66$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What time should Petrov start to listen to the 'Crunch Time' download, if he wants to finish listening at $2015$?
+What time should Petrov start to listen to the 'Crunch Time' download, if he wants to finish listening at $2015?$
 
 </div>
 <div class='workings'>

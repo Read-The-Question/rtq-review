@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-4-pr-prcr"
 title: "TopicPaper - Number - 4 - PR - PRCR"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -11,7 +11,7 @@ questions_count: "1"
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-$ \approx$ means approximately equal to. Given that $1\ \text{kilogram (kg)}$  $ \approx$ 2·2\ \text{pounds (lb)}$, convert $154\ \text{lb}$ to $\text{kg}$.
+$\approx$ means approximately equal to. Given that $1\ \text{kilogram (kg)} \approx 2·2\ \text{pounds (lb)}$, convert $154\ \text{lb}$ to $\text{kg}$.
 
 </div>
 <div class='workings'>

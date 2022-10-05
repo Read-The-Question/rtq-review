@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-ttemperature-1-g1-prns"
 title: "TopicPaper - Temperature - 1 - G1 - PRNS"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "7"
 ---
 <ul class='question default-decimal'>
@@ -13,7 +13,7 @@ questions_count: "7"
 
 The thermometers below show the temperature recorded at midday yesterday and midnight last night.
 
-![city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-00.png](/assets/city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-00.png "city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-00.png")   ![city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-01.png](/assets/city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-01.png "city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-01.png")
+![city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-00.png](/assets/city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-00.png "city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-00.png")
 
 </div>
 <ul class='subquestion lower-alpha'>
@@ -156,11 +156,7 @@ On January $1^\text{st}$, the temperature in Moscow was -$6 \degree \text{C}$ an
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-![royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-00.png](/assets/royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-00.png "royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-00.png")
-
 In New York it is $23\degree\text{C}$ and in Moscow it is $–5\degree\text{C}$. What is the temperature difference?
-
-![royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-01.png](/assets/royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-01.png "royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-01.png")
 
 </div>
 

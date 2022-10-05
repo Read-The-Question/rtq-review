@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tnumber-9-pr"
 title: "TopicPaper - Number - 9 - PR"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "19"
 ---
 <ul class='question default-decimal'>
@@ -79,12 +79,12 @@ If the same rules are used in the diagram below, what are the possible values fo
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-What number is $\text{twenty-three}$ less than $\text{seventy thousand}$? 
+What number is twenty-three less than seventy thousand? 
 
 - $67700$ 
 
@@ -101,14 +101,21 @@ What number is $\text{twenty-three}$ less than $\text{seventy thousand}$?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What digit should replace the * below?
 
-![latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-7-00.png](/assets/latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-7-00.png "latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-7-00.png") 
+$
+\begin{array}{cccccccccccccc}
+    &   *   &   3   &   9 \\
+{}- &   2   &   6   &   1 \\
+\hline
+    &   5   &   7   &   8
+\end{array}
+$
 
 - $8$ 
 

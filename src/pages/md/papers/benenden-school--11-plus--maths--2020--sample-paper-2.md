@@ -1,7 +1,7 @@
 ---
 slug: "papers/benenden-school-11-plus-maths-2020-sample-paper-2"
 title: "Benenden School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "17"
 ---
 <div class='paper'>
@@ -16,7 +16,7 @@ questions_count: "17"
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -24,30 +24,8 @@ questions_count: "17"
 $9.3 \quad  21.56 \quad  0.8 \quad  17.5 \quad  9.04$
 
 </div>
-<div class='workings'>
-<div class='working placeholder'>
 
-TODOWORKING
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -57,26 +35,16 @@ Write these numbers in order, largest to smallest.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$0.8, \quad  9.04, \quad  9.3, \quad  17.5, \quad  21.56$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$0.8, \quad  9.04, \quad  9.3, \quad  17.5, \quad  21.56$
 
 </div>
 </div>
@@ -91,26 +59,21 @@ Find the total of the numbers.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Total}   &= 0.8 + 9.04 + 9.3 + 17.5 + 21.56 \\\\ 
+               &= 58.2
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$58.2$
 
 </div>
 </div>
@@ -125,26 +88,21 @@ Find the difference between the largest and the smallest.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Difference}   &= 21.56 - 0.8 \\\\ 
+                    &= 20.76 
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$20.76$
 
 </div>
 </div>
@@ -159,26 +117,27 @@ Divide the largest by $7$.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+&= 21.56 \div 7 \\\\ 
+&= \dfrac{21.56}{7} \\\\ 
+&= \dfrac{21.56 \times 100}{7 \times 100} \\\\ 
+&= \dfrac{2156}{7 \times 100} \\\\ 
+&= \dfrac{308 \times 7}{7 \times 100} \\\\ 
+&= \dfrac{308 \times \cancel{7}}{\cancel{7} \times 100} \\\\ 
+&= \dfrac{308}{100} \\\\ 
+&= 3.08 
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$3.08$
 
 </div>
 </div>
@@ -519,7 +478,7 @@ $-11$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$15 + \ldots $= -7$
+$15 + \ldots = -7$
 
 </div>
 <div class='workings'>
@@ -1790,13 +1749,13 @@ $71 \degree$
 
 Part of a bus timetable is shown below:
 
-| Depart Pepperton | $07h45$ | $08h30$ | $09h30$ | $10h45$ | $11h30$ | $12h15$ |
-|:----------------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-|   Arrive Salton  | $08h32$ | $09h17$ | $10h17$ | $11h32$ | $12h17$ | $13h02$ |
+| Depart Pepperton | $07 \text{h} 45$ | $08 \text{h} 30$ | $09 \text{h} 30$ | $10 \text{h} 45$ | $11 \text{h} 30$ | $12 \text{h} 15$ |
+|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|
+|   Arrive Salton  | $08 \text{h} 32$ | $09 \text{h} 17$ | $10 \text{h} 17$ | $11 \text{h} 32$ | $12 \text{h} 17$ | $13 \text{h} 02$ |
 
-| Depart Pepperton | $07h45$ | $08h30$ | $09h30$ | $10h45$ | $11h30$ | $12h15$ |
-|:----------------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-|   Arrive Salton  | $08h32$ | $09h17$ | $10h17$ | $11h32$ | $12h17$ | $13h02$ |
+| Depart Pepperton | $07 \text{h} 45$ | $08 \text{h} 30$ | $09 \text{h} 30$ | $10 \text{h} 45$ | $11 \text{h} 30$ | $12 \text{h} 15$ |
+|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|
+|   Arrive Salton  | $08 \text{h} 32$ | $09 \text{h} 17$ | $10 \text{h} 17$ | $11 \text{h} 32$ | $12 \text{h} 17$ | $13 \text{h} 02$ |
 
 
 </div>
@@ -2016,11 +1975,14 @@ $\pounds 5.15$
 <div class='question question'>
 
 A school built $6$ tennis courts in the design shown below.
+
 Each court measured $36 \ \text{m}$ by $20 \ \text{m}$.
+
 Between the courts and around the edge, a $1 \ \text{m}$ - wide.
+
 cement path was laid, as shown in the diagram, which is NOT DRAWN TO SCALE.
 
-Calculate the total area **of the paths**.
+Calculate the total area of the paths.
 
 ![benenden-school--11-plus--maths--2020--sample-paper-2/section-1-question-14-00.png](/assets/benenden-school--11-plus--maths--2020--sample-paper-2/section-1-question-14-00.png "benenden-school--11-plus--maths--2020--sample-paper-2/section-1-question-14-00.png")
 
@@ -2070,7 +2032,8 @@ $496 \ \text {cm}^2$
 
 $100$ tickets, numbered $1$ to $100$, were sold in a charity raffle which was run rather differently from usual: 
 prizes would only be won if the ticket number drawn fulfilled a certain condition (see the questions below).
-After each draw, the selected ticket was **replaced** since it might fulfil one of the other conditions, 
+
+After each draw, the selected ticket was replaced since it might fulfil one of the other conditions, 
 too (so it was just possible that someone could win all three prizes!). If a prize was not won, it would be given to a charity.
 
 </div>
@@ -2093,7 +2056,8 @@ too (so it was just possible that someone could win all three prizes!). If a pri
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The announcement was made that if a ticket number which was a multiple of 6 was drawn, the ticket-holder would get a hamper.
+The announcement was made that if a ticket number which was a multiple of $6$ was drawn, the ticket-holder would get a hamper.
+
 What is the probability that someone would win the hamper?
 
 </div>
@@ -2140,7 +2104,8 @@ $\dfrac {4} {25}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-In the second draw, if the number drawn had one or more of the digit $\bold{1}$ in it, the ticket-holder would get a gift voucher.
+In the second draw, if the number drawn had one or more of the digit “$1$” in it, the ticket-holder would get a gift voucher.
+
 What is the probability that someone would win the gift voucher?
 
 </div>
@@ -2186,6 +2151,7 @@ $\dfrac {1} {5}$
 <div class='question subquestion'>
 
 A third prize, tickets for a popular show, would be won if the raffle ticket number drawn had two digits, one of which was double the other one.
+
 What is the probability that someone would win the show tickets?
 
 </div>
@@ -2234,7 +2200,7 @@ $\dfrac {1} {25}$
 Fill in the numbers $1$ to $5$ in each row and each column, without repeating any number in any row or column. 
 Two numbers have been given at the start to help you.
 
-The symbols $\bold{<}$  and $\bold{>}$ indicate whether numbers are “less than” or “greater than” the number in the adjoining space. 
+The symbols “<”  and “>” indicate whether numbers are “less than” or “greater than” the number in the adjoining space. 
 
 ![benenden-school--11-plus--maths--2020--sample-paper-2/section-2-question-1-00.png](/assets/benenden-school--11-plus--maths--2020--sample-paper-2/section-2-question-1-00.png "benenden-school--11-plus--maths--2020--sample-paper-2/section-2-question-1-00.png")
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2010-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2010 - Group 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "44"
 ---
 <div class='paper'>
@@ -251,7 +251,7 @@ $18$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -291,14 +291,10 @@ The next term is calculated by adding $0.3$ to the previous term. Hence, the seq
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+0.3)}} 
-&&  \footnotesize{\maroonC
-{(+0.3)}}  
-&&  \footnotesize{\maroonC
-{(+0.3)}}   
-&&  \footnotesize{\maroonC
-{(+0.3)}}  \\
+&   \footnotesize{\maroonC{(+0.3)}} 
+&&  \footnotesize{\maroonC{(+0.3)}}  
+&&  \footnotesize{\maroonC{(+0.3)}}   
+&&  \footnotesize{\maroonC{(+0.3)}}  \\
 5.5, &&  5.8, &&  6.1, &&  6.4, &&  \ldots
 \end{matrix}
 $
@@ -339,14 +335,10 @@ The next term is calculated by multiplying the previous term by $2$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 2)}} 
-&&  \footnotesize{\maroonC
-{(\times 2)}}  
-&&  \footnotesize{\maroonC
-{(\times 2)}}   
-&&  \footnotesize{\maroonC
-{(\times 2)}}  \\
+&   \footnotesize{\maroonC{(\times 2)}} 
+&&  \footnotesize{\maroonC{(\times 2)}}  
+&&  \footnotesize{\maroonC{(\times 2)}}   
+&&  \footnotesize{\maroonC{(\times 2)}}  \\
 3, &&  6, &&  12, &&  24, &&  \ldots
 \end{matrix}
 $
@@ -2893,7 +2885,7 @@ $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2910,16 +2902,26 @@ How many are wearing neither glasses nor a watch?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: $(A \text{ or } B) = A + B - (A \text{ and } B)$
+
+
+$
+\begin{aligned}
+\text{Children wearing glasses or a watch}              &= 8 + 12 - 7 \\\\
+                                                        &= 13 \\\\
+\text{Children wearing neither glasses nor a watch}     &= 30 - 13 \\\\
+                                                        &= 17
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+$17$
 
 </div>
 </div>

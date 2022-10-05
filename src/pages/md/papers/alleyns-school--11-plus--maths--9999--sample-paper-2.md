@@ -1,7 +1,7 @@
 ---
 slug: "papers/alleyns-school-11-plus-maths-9999-sample-paper-2"
 title: "Alleyns School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "26"
 ---
 <div class='paper'>
@@ -759,7 +759,7 @@ $6 \dfrac {4} {7}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -799,16 +799,11 @@ The next term is calculated by adding $3$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}  \\
+&   \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}  \\
 5, && 8, && 11, && 14, && \ldots, && \ldots
 \end{matrix}
 $
@@ -856,16 +851,11 @@ The next term is calculated by subtracting $6$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(-6)}}  \\
+&   \footnotesize{\maroonC{(-6)}}
+&&  \footnotesize{\maroonC{(-6)}}
+&&  \footnotesize{\maroonC{(-6)}}
+&&  \footnotesize{\maroonC{(-6)}}
+&&  \footnotesize{\maroonC{(-6)}}  \\
 53, && 47, && 41, && 35, && \ldots, && \ldots
 \end{matrix}
 $
@@ -911,16 +901,11 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+7)}}  \\
+&   \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+7)}}  \\
 6, && 9, && 13, && 18, && \ldots, && \ldots
 \end{matrix}
 $
@@ -966,16 +951,11 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-8)}}
-&&  \footnotesize{\maroonC
-{(-12)}}
-&&  \footnotesize{\maroonC
-{(-16)}}
-&&  \footnotesize{\maroonC
-{(-20)}}  \\
+&   \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-8)}}
+&&  \footnotesize{\maroonC{(-12)}}
+&&  \footnotesize{\maroonC{(-16)}}
+&&  \footnotesize{\maroonC{(-20)}}  \\
 60, && 56, && 48, && 36, && \ldots, && \ldots
 \end{matrix}
 $
@@ -1023,16 +1003,11 @@ The next term is calculated by multiplying the previous term by $3$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 3)}}
-&&  \footnotesize{\maroonC
-{(\times 3)}}
-&&  \footnotesize{\maroonC
-{(\times 3)}}
-&&  \footnotesize{\maroonC
-{(\times 3)}}
-&&  \footnotesize{\maroonC
-{(\times 3)}}  \\
+&   \footnotesize{\maroonC{(\times 3)}}
+&&  \footnotesize{\maroonC{(\times 3)}}
+&&  \footnotesize{\maroonC{(\times 3)}}
+&&  \footnotesize{\maroonC{(\times 3)}}
+&&  \footnotesize{\maroonC{(\times 3)}}  \\
 2, && 6, && 18, && 54, && \ldots, && \ldots
 \end{matrix}
 $
@@ -1067,7 +1042,7 @@ $486$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1078,26 +1053,16 @@ $3.44, 4.34, 34.4, 43.4, 44.3, 4.43$
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$3.44, \quad 4.34, \quad 4.43, \quad 34.4, \quad 43.4, \quad 44.3$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$3.44, \quad 4.34, \quad 4.43, \quad 34.4, \quad 43.4, \quad 44.3$
 
 </div>
 </div>
@@ -1779,7 +1744,7 @@ $25$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1803,16 +1768,19 @@ Adam is trying to find a formula that links the Table number, $T$, to the number
 
 $\text{Maximum number of people} = 2 \times \text{Number of smaller tables} + 2$
 
+$P = 2 \times T + 2$
+
+
 | Number of smaller tables  |               $1$            |   $2$   |             $3$              |   $4$   |              $10$               |                 $100$              |
 |:-------------------------:|:----------------------------:|:-------:|:----------------------------:|:-------:|:-------------------------------:|:----------------------------------:|
-|  Maximum number of people | $2 \times 1 + 2 = 2 + 2 = 4$ |   $6$   | $2 \times 3 + 2 = 6 + 2 = 8$ |   $10$  | $2 \times 10 + 2 = 20 + 2 = 22$ | $2 \times 100 + 2 = 200 + 2 = 202$ |
+|  Maximum number of people | $2 \times 1 + 2 = 4$ |   $6$   | $2 \times 3 + 2 = 8$ |   $10$  | $2 \times 10 + 2 = 22$ | $2 \times 100 + 2 = 202$ |
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text{Maximum number of people} = 2 \times \text{Number of smaller tables} + 2$
+$P = 2 \times T + 2$
 
 </div>
 </div>
@@ -1861,7 +1829,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1891,8 +1859,9 @@ $
 \begin{aligned}
 \text{Time}  &=  \dfrac{420 \text{ miles}}{120 \text{ mph}} \\\\
              &=  \dfrac{420}{120} \\\\
-             &=  \dfrac{42\cancel{0}}{12\cancel{0}} \\\\
-             &=  \dfrac{42}{12} \\\\
+             &=  \dfrac{7 \times 6 \times 10}{2 \times 6 \times 10} \\\\
+             &=  \dfrac{7 \times \cancel{6} \times \cancel{10}}{2 \times \cancel{6} \times \cancel{10}} \\\\
+             &=  \dfrac{7}{2} \\\\
              &=  3.5 \text{ hours or } 3 \text{ hours and } 30 \text{ minutes}
 \end{aligned}
 $
@@ -1919,24 +1888,14 @@ How far is Leeds from London?
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
+ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
 
 
 $
 \begin{aligned}
-\text{Distance}  &=  120 \text{ mph} \times (1 \text{ hour } 30 \text{ minutes }) \\\\
-                 &=  120 \text{ mph} \times (1 + \dfrac{30}{60} \text{ hours}) \\\\
-                 &=  120 \times (\dfrac{1 \times 60}{1 \times 60} + \dfrac{30}{60}) \\\\
-                 &=  120 \times (\dfrac{60}{60} + \dfrac{30}{60}) \\\\
-                 &=  120 \times \dfrac{30 + 60}{60} \\\\
-                 &=  120 \times \dfrac{90}{60} \\\\
-                 &=  120 \times \dfrac{9\cancel{0}}{6\cancel{0}} \\\\
-                 &=  120 \times \dfrac{9}{6} \\\\
-                 &=  \dfrac{9 \times 120}{6} \\\\
-                 &=  \dfrac{9 \times 6 \times 20}{6} \\\\
-                 &=  \dfrac{9 \times \cancel{6} \times 20}{\cancel{6}} \\\\
-                 &=  9 \times 20 \\\\
-                 &=  180 \text{ miles} \\\\
+\text{Distance}  &=  120 \times (1 \text{ hour } 30 \text{ minutes}) \\\\
+                 &=  120 \times 1.5 \\\\
+                 &=  180 \text{ miles}
 \end{aligned}
 $
 

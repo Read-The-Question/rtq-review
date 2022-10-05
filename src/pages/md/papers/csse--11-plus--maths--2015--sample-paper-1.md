@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2015-sample-paper-1"
 title: "Csse - 11 Plus - Maths - 2015 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "24"
 ---
 <div class='paper'>
@@ -846,7 +846,7 @@ TODOANSWER
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-In each of the following calculations there is an error, which can be corrected by changing one digit **to the number** $\bold{7}$. In each case identify that digit.
+In each of the following calculations there is an error, which can be corrected by changing one digit to the number $7$. In each case identify that digit.
 
 </div>
 <div class='workings'>
@@ -870,7 +870,7 @@ In each of the following calculations there is an error, which can be corrected 
 
 $98 - 65 = 32$
 
-Which digit needs to be replaced with a $\bold{7}$?
+Which digit needs to be replaced with a $7?$
 
 </div>
 <div class='workings'>
@@ -896,7 +896,7 @@ $8$
 
 $39 + 48 + 50 = 167$
 
-Which digit needs to be replaced with a $\bold{7}$?
+Which digit needs to be replaced with a $7?$
 
 </div>
 <div class='workings'>
@@ -922,7 +922,7 @@ $4$
 
 $734 + (8 \times 26) = 950$
 
-Which digit needs to be replaced with a $\bold{7}$?
+Which digit needs to be replaced with a $7?$
 
 </div>
 <div class='workings'>
@@ -1097,11 +1097,11 @@ $200$
 
 In this question letters of the alphabet are assigned number values:
 
-$A = 1, B = 2, C = 3, D = 4,$ ....
+A $= 1,$ B $= 2,$ C $= 3,$ D $= 4, \ldots$
 
-The **sum total** of a word is created by **adding** the value of the letters.
+The sum total of a word is created by adding the value of the letters.
 
-For example: the sum total of ‘$HAD$’ $= 8 + 1 + 4 = 13$
+For example: the sum total of ‘HAD’ $= 8 + 1 + 4 = 13$
 
 </div>
 <div class='workings'>
@@ -1123,7 +1123,7 @@ For example: the sum total of ‘$HAD$’ $= 8 + 1 + 4 = 13$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the sum total of the word ‘$TANK$’?
+What is the sum total of the word ‘TANK’?
 
 </div>
 <div class='workings'>
@@ -1154,7 +1154,10 @@ $46$
 
 List the following words in order of their sum total, starting with the lowest:
 
-$DOG \quad CATS \quad FISH \quad BIRD$
+- DOG
+- CATS
+- FISH
+- BIRD
 
 </div>
 <div class='workings'>
@@ -1198,9 +1201,9 @@ $\text {DOG}, \quad \text {BIRD}, \quad \text {FISH}, \quad \text {CATS}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Which single letter has the same value as the result of dividing the sum total for ‘$JET$’ by the sum total of ‘$BAD$’?
+Which single letter has the same value as the result of dividing the sum total for ‘JET’ by the sum total of ‘BAD’?
 
-$JET \div BAD = \ldots$
+JET $\div$ BAD $= \ldots$
 
 </div>
 <div class='workings'>
@@ -1236,7 +1239,7 @@ $\text {E}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1249,26 +1252,16 @@ The results are shown in the Venn diagram.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -1281,26 +1274,16 @@ How many pupils had only sisters?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$6$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$6$
 
 </div>
 </div>
@@ -1315,26 +1298,21 @@ How many pupils had a brother?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Pupils who had brother}           &= 8 + 11 \\\\
+                                        &= 19
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$19$
 
 </div>
 </div>
@@ -1349,26 +1327,21 @@ How many pupils had no brothers or sisters?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Pupils with no brothers or sisters}   &= 30 - 6 - 11 - 8 \\\\
+                                            &= 5
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$5$
 
 </div>
 </div>
@@ -1389,26 +1362,34 @@ Complete the Venn diagram below to show this information
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
 
-</div>
-<div class='working placeholder'>
+![missing image](/papers/missing_image.svg)
 
-TODOWORKING
+
+
+Plot the venn diagram to show this information
+
+only sister: $7$
+
+only brother: $10$
+
+brother and sister: $5$
+
+no brother no sister: $8$
+
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -1493,7 +1474,7 @@ $\pounds 55$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-How many grams are there in $2.5 \ \text{kg}$?
+How many grams are there in $2.5 \ \text{kg}?$
 
 </div>
 <div class='workings'>
@@ -1523,7 +1504,7 @@ $2500 \ \text{grams}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Andy has $5 \ \text{m} \ 35 \ \text{cm}$ of tape. He uses $243 \ \text{cm}$ for wrapping parcels. How many cm of tape does he have left over?
+Andy has $5 \ \text{m} \ 35 \ \text{cm}$ of tape. He uses $243 \ \text{cm}$ for wrapping parcels. How many $\text{cm}$ of tape does he have left over?
 
 </div>
 <div class='workings'>
@@ -1553,7 +1534,7 @@ $2.92 \ \text {metres}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1562,11 +1543,11 @@ Sam is completing a table of values for the formula $2(n + 1)$.
 
 He has completed the first row of the table.
 
-|   n  | $2(n+1)$ |
-|:----:|:--------:|
-|  $5$ |   $12$   |
-| $19$ |          |
-|      |   $80$   |
+|   $n$  | $2(n+1)$ |
+|:------:|:--------:|
+|   $5$  |   $12$   |
+|  $19$  |          |
+|        |   $80$   |
 
 Complete the table with the two missing values.
 
@@ -1577,19 +1558,23 @@ Complete the table with the two missing values.
 |                n                    |            $2(n+1)$            |
 |:-----------------------------------:|:------------------------------:|
 |               $5$                   |               $12$             |
-|              $19$                   | $2(19 + 1) = 2 \times 20 = 40$ |
-| $\dfrac {80} {2} - 1 = 40 - 1 = 39$ |               $80$             |
+|              $19$                   | $2(19 + 1) = 2 \times 20 = 40 \ \maroonC{\footnotesize{(1)}}$ |
+| $\dfrac {80} {2} - 1 = 40 - 1 = 39 \ \maroonC{\footnotesize{(2)}}$ |               $80$             |
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
+Completed table
 
 |   n  | $2(n+1)$ |
 |:----:|:--------:|
 |  $5$ |   $12$   |
 | $19$ |   $40$   |
 | $39$ |   $80$   |
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
 
 </div>
 </div>
@@ -1602,12 +1587,14 @@ Complete the table with the two missing values.
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-The grid below is a magic square. Every row, column and diagonal must add to $1-5$.
+The grid below is a magic square. Every row, column and diagonal must add to $1.5$.
 
 What value must be placed in the shaded box?
 
-![missing table](/papers/missing_table.svg)
-
+|      |        | $0.2$ |
+|:----:|:------:|:-----:|
+|$\Box$|  $0.5$ |       |
+|      |  $0.1$ |       | 
 
 </div>
 <div class='workings'>
@@ -1638,7 +1625,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1651,59 +1638,34 @@ The first four terms of the sequence are:
 $0, 1, -1, 2, \ \ldots $
 
 </div>
-<div class='workings'>
-<div class='working placeholder'>
 
-TODOWORKING
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the sixth $(6 \text{th})$ term in the sequence?
+What is the sixth $(6^\text{th})$ term in the sequence?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+6^\text{th} \text{ term}  &=  \dfrac{6}{2} \\\\
+                          &=  \dfrac{2 \times 3}{2} \\\\
+                          &=  \dfrac{\cancel{2} \times 3}{\cancel{2}} \\\\
+                          &=  3
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$3$
 
 </div>
 </div>
@@ -1714,30 +1676,27 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the eleventh $(11 \text{th})$ term in the sequence?
+What is the eleventh $(11^\text{th})$ term in the sequence?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+11^\text{th} \text{ term}  &=  {-}\dfrac{11 - 1}{2} \\\\
+                           &=  {-}\dfrac{2 \times 3}{2} \\\\
+                           &=  {-}\dfrac{\cancel{2} \times 3}{\cancel{2}}  \\\\
+                           &=  {-}3
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+${-}3$
 
 </div>
 </div>
@@ -1748,30 +1707,27 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the hundredth $(100 \text{th})$ term in the sequence?
+What is the hundredth $(100^\text{th})$ term in the sequence?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+100^\text{th} \text{ term}  &= \dfrac{100}{2} \\\\
+                            &= \dfrac{2 \times 50}{2} \\\\
+                            &= \dfrac{\cancel{2} \times 50}{\cancel{2}}  \\\\
+                            &= 50
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$50$
 
 </div>
 </div>
@@ -1820,9 +1776,7 @@ $\boxed{\phantom{1}} \ \boxed{\phantom{1}} \ \boxed{\phantom{1}} \ - \ \boxed{\p
 <div class='workings'>
 <div class='working'>
 
-$ \maroonC
-{745} - \maroonC
-{91} = 654$
+$ \maroonC{745} - \maroonC{91} = 654$
 
 Let's verify.
 
@@ -1859,10 +1813,7 @@ $\boxed{\phantom{1}} \ + \boxed{\phantom{1}} \ \times \boxed{\phantom{1}} = 33$
 <div class='workings'>
 <div class='working'>
 
-$\maroonC
-{5} + \maroonC
-{4} \times \maroonC
-{7} = 33$
+$\maroonC{5} + \maroonC{4} \times \maroonC{7} = 33$
 
 Let's verify.
 
@@ -1917,7 +1868,7 @@ $5, 4, 7$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Which whole number less than twenty is *both* an even number *and* a prime number?
+Which whole number less than twenty is both an even number and a prime number?
 
 </div>
 <div class='workings'>
@@ -1942,7 +1893,7 @@ $2$
 <div class='question subquestion'>
 
 $4$ is a square number and also an even number.
-*How many* other whole numbers less than fifty are even square numbers?
+How many other whole numbers less than fifty are even square numbers?
 
 </div>
 <div class='workings'>
@@ -1968,7 +1919,7 @@ $2$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Which three prime numbers multiply together to make $154$?
+Which three prime numbers multiply together to make $154?$
 
 </div>
 <div class='workings'>

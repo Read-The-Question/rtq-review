@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-2008-practice-paper-1"
 title: "Merchant Taylors School - 11 Plus - Maths - 2008 - Practice Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "31"
 ---
 <div class='paper'>
@@ -225,7 +225,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -265,18 +265,12 @@ The next term is calculated by adding $3$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+3)} }
-&&  \footnotesize {\maroonC
- {(+3)} }
-&&  \footnotesize {\maroonC
- {(+3)} }
-&&  \footnotesize {\maroonC
- {(+3)} }
-&&  \footnotesize {\maroonC
- {(+3)} }
-&&  \footnotesize {\maroonC
- {(+3)} }  \\
+&   \footnotesize {\maroonC {(+3)} }
+&&  \footnotesize {\maroonC {(+3)} }
+&&  \footnotesize {\maroonC {(+3)} }
+&&  \footnotesize {\maroonC {(+3)} }
+&&  \footnotesize {\maroonC {(+3)} }
+&&  \footnotesize {\maroonC {(+3)} }  \\
 10, && 13, && 16, && 19, && 22, && \ldots, && \ldots
 \end{matrix}
 $
@@ -322,18 +316,12 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(-1)} }
-&&  \footnotesize {\maroonC
- {(-2)} }
-&&  \footnotesize {\maroonC
- {(-3)} }
-&&  \footnotesize {\maroonC
- {(-4)} }
-&&  \footnotesize {\maroonC
- {(-5)} }
-&&  \footnotesize {\maroonC
- {(-6)} }  \\
+&   \footnotesize {\maroonC {(-1)} }
+&&  \footnotesize {\maroonC {(-2)} }
+&&  \footnotesize {\maroonC {(-3)} }
+&&  \footnotesize {\maroonC {(-4)} }
+&&  \footnotesize {\maroonC {(-5)} }
+&&  \footnotesize {\maroonC {(-6)} }  \\
 60, && 59, && 57, && 54, && 50, && \ldots, && \ldots
 \end{matrix}
 $
@@ -379,18 +367,12 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(\times 2)} }
-&&  \footnotesize {\maroonC
- {(\times 3)} }
-&&  \footnotesize {\maroonC
- {(\times 4)} }
-&&  \footnotesize {\maroonC
- {(\times 5)} }
-&&  \footnotesize {\maroonC
- {(\times 6)} }
-&&  \footnotesize {\maroonC
- {(\times 7)} }  \\
+&   \footnotesize {\maroonC {(\times 2)} }
+&&  \footnotesize {\maroonC {(\times 3)} }
+&&  \footnotesize {\maroonC {(\times 4)} }
+&&  \footnotesize {\maroonC {(\times 5)} }
+&&  \footnotesize {\maroonC {(\times 6)} }
+&&  \footnotesize {\maroonC {(\times 7)} }  \\
 1, && 2, && 6, && 24, && 120, && \ldots, && \ldots
 \end{matrix}
 $
@@ -702,8 +684,7 @@ Let's arrange the runs scored in ascending order.
 $
 \begin {aligned}
 \text{Runs}           &= 0, 25, 15, 40, 52, 15, 6, 8, 25, 35, 1 \\\\
-\text{Ordered runs}   &= 0, 6, 8, 10, 15, \maroonC
-{15}, 25, 25, 35, 40, 52 \\\\
+\text{Ordered runs}   &= 0, 6, 8, 10, 15, \maroonC{15}, 25, 25, 35, 40, 52 \\\\
 \text{Median}         &= 15
 \end {aligned}
 $
@@ -1123,7 +1104,7 @@ $85 \ \text{centimeters}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1158,7 +1139,19 @@ $12$ to the $1$
 <div class='workings'>
 <div class='working'>
 
-$30 \degree$
+ABBR: The minute hand of a clock moves by $30 \degree$ every minute.
+
+
+ABBR: The minute hand of a clock moves by $6 \degree$ every minute.
+
+
+$
+\begin {aligned}
+\text {Total minutes}   &= 5 \ \text{minutes} \\\\
+\text {Angle moved}     &= 5 \times 6 \\\\
+                        &= 30 \degree
+\end {aligned}
+$
 
 </div>
 </div>
@@ -1182,11 +1175,18 @@ $3$ to the $7$
 <div class='workings'>
 <div class='working'>
 
+ABBR: The minute hand of a clock moves by $30 \degree$ every minute.
+
+
+ABBR: The minute hand of a clock moves by $6 \degree$ every minute.
+
+
 $
-\begin{aligned}
-\text{From 3 to 7} &= 4 \times 30 \\\\
-                   &= 120 \degree
-\end{aligned}
+\begin {aligned}
+\text {Total minutes}   &= 20 \ \text{minutes} \\\\
+\text {Angle moved}     &= 20 \times 6 \\\\
+                        &= 120 \degree
+\end {aligned}
 $
 
 </div>
@@ -1342,7 +1342,7 @@ $\dfrac {3} {4}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1422,7 +1422,7 @@ Plot the 4th point on the graph too and show the side length of the square
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(1, 1)$
+Coordinates $= (1, 1)$
 
 </div>
 </div>

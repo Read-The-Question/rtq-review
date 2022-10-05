@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-e"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper E"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "22"
 ---
 <div class='paper'>
@@ -152,7 +152,7 @@ $2.769$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -192,16 +192,11 @@ The next term is calculated by adding $4$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+4)} }
-&&  \footnotesize {\maroonC
- {(+4)} }
-&&  \footnotesize {\maroonC
- {(+4)} }
-&&  \footnotesize {\maroonC
- {(+4)} }
-&&  \footnotesize {\maroonC
- {(+4)} }  \\
+&   \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }  \\
 5, && 9, && 13, && 17, && \ldots, && \ldots
 \end{matrix}
 $
@@ -249,14 +244,10 @@ The next term is calculated by dividing the previous term by $10$. Hence, the se
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(\div 10)} }
-&&  \footnotesize {\maroonC
- {(\div 10)} }
-&&  \footnotesize {\maroonC
- {(\div 10)} }
-&&  \footnotesize {\maroonC
- {(\div 10)} }  \\
+&   \footnotesize {\maroonC {(\div 10)} }
+&&  \footnotesize {\maroonC {(\div 10)} }
+&&  \footnotesize {\maroonC {(\div 10)} }
+&&  \footnotesize {\maroonC {(\div 10)} }  \\
 1000, && 100, && 10, && \ldots, && \ldots
 \end{matrix}
 $
@@ -304,18 +295,12 @@ The next term is calculated by adding together the last two terms. Hence, the se
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {} }
-&&  \footnotesize {\maroonC
- {(1 + 3)} }
-&&  \footnotesize {\maroonC
- {(3 + 4)} }
-&&  \footnotesize {\maroonC
- {(4 + 7)} }
-&&  \footnotesize {\maroonC
- {(7 + 11)} }
-&&  \footnotesize {\maroonC
- {(11 + 18)} }  \\
+&   \footnotesize {\maroonC {} }
+&&  \footnotesize {\maroonC {(1 + 3)} }
+&&  \footnotesize {\maroonC {(3 + 4)} }
+&&  \footnotesize {\maroonC {(4 + 7)} }
+&&  \footnotesize {\maroonC {(7 + 11)} }
+&&  \footnotesize {\maroonC {(11 + 18)} }  \\
 1, &&  3, &&  4, &&  7, &&  11, &&  \ldots, && \ldots
 \end{matrix}
 $
@@ -392,14 +377,9 @@ $17$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Circle the factors of 150:
+Circle the factors of $150$:
 
-$
-\begin{matrix}
-100 & \quad 30 & \quad 7  & \quad 11 \\
-10  & \quad 3  & \quad 8  & \quad 45
-\end{matrix}
-$
+$100 \quad 30 \quad 7 \quad 11 \quad 10 \quad 3  \quad 8  \quad 45$
 
 </div>
 <div class='workings'>
@@ -784,7 +764,7 @@ $\dfrac {15} {26}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -793,30 +773,8 @@ $\dfrac {15} {26}$
 to draw on them and there are no marks for doing so*. 
 
 </div>
-<div class='workings'>
-<div class='working placeholder'>
 
-TODOWORKING
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -825,30 +783,8 @@ TODOANSWER
 Work out the angle the hour hand of a clock turns through between:
 
 </div>
-<div class='workings'>
-<div class='working placeholder'>
 
-TODOWORKING
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
 
 </div>
 </li>
@@ -862,26 +798,30 @@ $4 \ \text{pm}$ and $6 \ \text{pm}$.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The hour hand of a clock moves by $30 \degree$ every hour.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The hour hand of a clock moves by $0.5 \degree$ every minute.
+
+
+$
+\begin {aligned}
+\text {Total minutes}   &= 6{:}00 \ \text{pm} -  4{:}00 \ \text{pm} \\\\
+                        &= 2 \times 60  \ \text{minutes} \\\\
+                        &= 120 \ \text{minutes} \\\\
+\text {Angle moved}     &= 120 \times 0.5 \\\\
+                        &= 60 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$60 \degree$
 
 </div>
 </div>
@@ -898,26 +838,30 @@ $2.30 \ \text{pm}$ and $3.50 \ \text{pm}$.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The hour hand of a clock moves by $30 \degree$ every hour.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The hour hand of a clock moves by $0.5 \degree$ every minute.
+
+
+$
+\begin {aligned}
+\text {Total minutes}   &= 3{:}50 \ \text{pm} -  2{:}30 \ \text{pm} \\\\
+                        &= 1 \times 60 \ \text{minutes} + 20 \ \text{minutes} \\\\
+                        &= 80 \ \text{minutes} \\\\
+\text {Angle moved}     &= 80 \times 0.5 \\\\
+                        &= 40 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$40 \degree$
 
 </div>
 </div>
@@ -934,26 +878,38 @@ Work out the angle between the hour and minute hands when the time is $3.15 \ \t
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 0 \ \text{ minutes} \\\\
+\text {Angle}                           &= 0 \times 6 \\\\
+                                        &= 0 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$0 \degree$
 
 </div>
 </div>
@@ -1737,7 +1693,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

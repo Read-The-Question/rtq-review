@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tgraph-3-pr-prpcr"
 title: "TopicPaper - Graph - 3 - PR - PRPCR"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "15"
 ---
 <ul class='question default-decimal'>
@@ -175,8 +175,6 @@ The pie chart shows the favourite colour of some boys.
 
 Calculate the value of $x$.
 
-Red is the favourite colour of $126$ boys.
-
 </div>
 
 </div>
@@ -184,6 +182,8 @@ Red is the favourite colour of $126$ boys.
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
+
+Red is the favourite colour of $126$ boys.
 
 Calculate the number of boys whose favourite colour is:
 
@@ -528,8 +528,6 @@ What percentage of pupils travelled had a coach?
 
 What fraction of pupils walked to school?
 
-It was found that $12$ walked to school.
-
 </div>
 
 </div>
@@ -537,6 +535,8 @@ It was found that $12$ walked to school.
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
+
+It was found that $12$ walked to school.
 
 How many pupils took a car to school?
 
@@ -630,19 +630,51 @@ A teacher asks the students in year $6$ how many people live in their homes. She
 |            $6$                |       $10$        |                           |
 |            $7$                |       $3$         |                           |
 
-
-Complete the end column in the table
-
-How many students are there in year $6$?.
-
-How many people are there all together?.
-
-Using the first two columns of the table, draw a bar chart to represent these results.
-
 ![reigate-grammar-school--11-plus--maths--2013--sample-paper-4/section-1-question-31-00.png](/assets/reigate-grammar-school--11-plus--maths--2013--sample-paper-4/section-1-question-31-00.png "reigate-grammar-school--11-plus--maths--2013--sample-paper-4/section-1-question-31-00.png")
 
 </div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
 
+Complete the end column in the table
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How many students are there in year $6$?.
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How many people are there all together?.
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Using the first two columns of the table, draw a bar chart to represent these results.
+
+</div>
+
+</div>
+</li>
+</ul>
 </div>
 </li>
 <li>
@@ -686,7 +718,7 @@ How many cars are there which are NOT grey?
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-In the diagram below, the point 𝐵 has coordinates $(1,4)$.
+In the diagram below, the point $B$ has coordinates $(1,4)$.
 
 ![reigate-grammar-school--11-plus--maths--2020--sample-paper-7/section-1-question-18-00.png](/assets/reigate-grammar-school--11-plus--maths--2020--sample-paper-7/section-1-question-18-00.png "reigate-grammar-school--11-plus--maths--2020--sample-paper-7/section-1-question-18-00.png")
 
@@ -696,7 +728,7 @@ In the diagram below, the point 𝐵 has coordinates $(1,4)$.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write down the coordinates of point 𝐴
+Write down the coordinates of point $A$.
 
 </div>
 
@@ -706,7 +738,7 @@ Write down the coordinates of point 𝐴
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The point 𝐶 has coordinates $(7,1)$. Mark 𝐶 on the diagram and then draw a line from 𝐵 to 𝐶.
+The point $C$ has coordinates $(7,1)$. Mark $C$ on the diagram and then draw a line from $B$ to $C$.
 
 </div>
 
@@ -716,7 +748,7 @@ The point 𝐶 has coordinates $(7,1)$. Mark 𝐶 on the diagram and then draw a
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The point 𝐷 is on the line you have drawn, and it is twice as far from 𝐵 as from 𝐶. Mark 𝐷 on the diagram and write down its coordinates.
+The point $D$ is on the line you have drawn, and it is twice as far from $B$ as from $C$. Mark $D$ on the diagram and write down its coordinates.
 
 </div>
 

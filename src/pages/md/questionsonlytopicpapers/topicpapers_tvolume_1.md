@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tvolume-1"
 title: "TopicPaper - Volume - 1"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "40"
 ---
 <div class='paper'>
@@ -33,7 +33,7 @@ How many small cubes are used to make this shape?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -42,13 +42,13 @@ Here are two containers and the amount they hold.
 
 ![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-12-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-12-00.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-12-00.png")
 
-Which container holds the greater amounts?
-- 'A'
-- 'B'
+Which container holds the greater amount?
+- A
+- B
 
-How much **more** does it hold?
+How much more does it hold?
 
-Give your answer in milliletres.
+Give your answer in millilitres.
 
 </div>
 
@@ -180,7 +180,7 @@ All measurements are in centimetres.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -207,7 +207,7 @@ A box measures $20\ \text{cm}$ by $11\ \text{cm}$ by $15\ \text{cm}$. Calculate 
 
 A string is tied around the box with a bow at the top as shown in the diagram.
 
-$\bold{If\:\: the\:\: length\:\: of\:\: the\:\: bow\:\: is\:\: 8\ \text{cm}}$, calculate the $\underline{total}$ length of string used.
+If the length of the bow is $8\ \text{cm}$, calculate the total length of string used.
 
 </div>
 

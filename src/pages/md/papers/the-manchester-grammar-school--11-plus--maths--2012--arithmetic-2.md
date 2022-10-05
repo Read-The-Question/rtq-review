@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2012-arithmetic-2"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2012 - Arithmetic 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "12"
 ---
 <div class='paper'>
@@ -747,7 +747,7 @@ $2 \ \text{loaves}, 8 \ \text{fish}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -779,10 +779,10 @@ Let's complete the table.
 
 | **Name**|          **No of tricks**            |          **Super**                   |           **Good**       |               **Poor**               |                                  **Total Points**                             |
 |:-------:|:------------------------------------:|:------------------------------------:|:------------------------:|:------------------------------------:|:-----------------------------------------------------------------------------:|
-|  Derek  |                $8$                   | $8 - 1 - 2 = 5 \ \footnotesize{(1)}$ |            $1$           |                 $2$                  | $5 \times 5 + 1 \times 3 + 2 \times 2 = 25 + 3 + 4 = 32 \ \footnotesize{(2)}$ |
-|   Ali   |                $9$                   |      $4 \ \footnotesize{(4)}$        | $1 \ \footnotesize{(5)}$ | $9 - 4 - 1 = 4 \ \footnotesize{(6)}$ |                          $31 \ \footnotesize{(3)}$                            |
-| Charlie |                $9$                   |              $2$                     | $6 \ \footnotesize{(7)}$ | $9 - 2 - 6 = 1 \ \footnotesize{(8)}$ |                                       $30$                                    |
-|  Brian  | $4 + 1 + 0 = 5 \ \footnotesize{(9)}$ |              $4$                     | $1 \ \footnotesize{(10)}$|       $0 \ \footnotesize{(11)}$      |                                       $23$                                    |
+|  Derek  |                $8$                   | $8 - 1 - 2 = 5 \ \maroonC{\footnotesize{(1)}}$ |            $1$           |                 $2$                  | $5 \times 5 + 1 \times 3 + 2 \times 2 = 25 + 3 + 4 = 32 \ \maroonC{\footnotesize{(2)}}$ |
+|   Ali   |                $9$                   |      $4 \ \maroonC{\footnotesize{(4)}}$        | $1 \ \maroonC{\footnotesize{(5)}}$ | $9 - 4 - 1 = 4 \ \maroonC{\footnotesize{(6)}}$ |                          $31 \ \maroonC{\footnotesize{(3)}}$                            |
+| Charlie |                $9$                   |              $2$                     | $6 \ \maroonC{\footnotesize{(7)}}$ | $9 - 2 - 6 = 1 \ \maroonC{\footnotesize{(8)}}$ |                                       $30$                                    |
+|  Brian  | $4 + 1 + 0 = 5 \ \maroonC{\footnotesize{(9)}}$ |              $4$                     | $1 \ \maroonC{\footnotesize{(10)}}$|       $0 \ \maroonC{\footnotesize{(11)}}$      |                                       $23$                                    |
 
 </div>
 </div>
@@ -949,7 +949,7 @@ $18954$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2040,7 +2040,7 @@ $1000 \ \text{g}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/kings-college-school-11-plus-maths-2014-specimen-paper-e"
 title: "Kings College School - 11 Plus - Maths - 2014 - Specimen Paper E"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "16"
 ---
 <div class='paper'>
@@ -1113,7 +1113,7 @@ $35 \ \text{min}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1151,16 +1151,11 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+7)}}  \\
+&   \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+7)}}  \\
 1,  &&    4,  &&  8,  &&   13,  &&   19,   &&   \ldots
 \end{matrix}
 $
@@ -1201,16 +1196,11 @@ The next term is calculated by multiplying the previous term by $2$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 2)}} 
-&&  \footnotesize{\maroonC
-{(\times 2)}}  
-&&  \footnotesize{\maroonC
-{(\times 2)}}   
-&&  \footnotesize{\maroonC
-{(\times 2)}}   
-&&  \footnotesize{\maroonC
-{(\times 2)}}  \\
+&   \footnotesize{\maroonC{(\times 2)}} 
+&&  \footnotesize{\maroonC{(\times 2)}}  
+&&  \footnotesize{\maroonC{(\times 2)}}   
+&&  \footnotesize{\maroonC{(\times 2)}}   
+&&  \footnotesize{\maroonC{(\times 2)}}  \\
 1,  &&    2,  &&  4,  &&   8,  &&   16,   &&   \ldots
 \end{matrix}
 $
@@ -1249,16 +1239,11 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-1)}}
-&&  \footnotesize{\maroonC
-{(-3)}}
-&&  \footnotesize{\maroonC
-{(-5)}}
-&&  \footnotesize{\maroonC
-{(-7)}}
-&&  \footnotesize{\maroonC
-{(-9)}}  \\
+&   \footnotesize{\maroonC{(-1)}}
+&&  \footnotesize{\maroonC{(-3)}}
+&&  \footnotesize{\maroonC{(-5)}}
+&&  \footnotesize{\maroonC{(-7)}}
+&&  \footnotesize{\maroonC{(-9)}}  \\
 100,  &&    99,  &&  96,  &&   91,  &&   84,   &&   \ldots
 \end{matrix}
 $
@@ -1295,27 +1280,22 @@ $89, \quad 55, \quad 34, \quad 21, \quad 13, \quad \text{\textunderscore \textun
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the previous two terms is next number in the sequence. Hence, the sequence would be:
+The next term is the difference between the previous $2$ terms. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&&   \footnotesize{\maroonC
-{(55)}}
-&&  \footnotesize{\maroonC
-{(89-55)}}
-&&  \footnotesize{\maroonC
-{(55-34)}}
-&&  \footnotesize{\maroonC
-{(34-21)}}
-&&  \footnotesize{\maroonC
-{(21-13)}}  \\
+&
+&&  \footnotesize{\maroonC{(89-55)}}
+&&  \footnotesize{\maroonC{(55-34)}}
+&&  \footnotesize{\maroonC{(34-21)}}
+&&  \footnotesize{\maroonC{(21-13)}}  \\
 89,  &&    55,  &&  34,  &&   21,  &&   13,   &&   \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{Missing number}      &= 13 - 5 \\\\
+\text{Missing number}      &= 21 - 13 \\\\
                            &= 8
 \end{aligned}
 $
@@ -1349,18 +1329,12 @@ It is a sequence of cube numbers.
 
 $
 \begin{matrix}
-    \footnotesize{\maroonC
-{(1^3)}}
-&&  \footnotesize{\maroonC
-{(2^3)}}
-&&  \footnotesize{\maroonC
-{(3^3)}}
-&&  \footnotesize{\maroonC
-{(4^3)}}
-&&  \footnotesize{\maroonC
-{(5^3)}}
-&&  \footnotesize{\maroonC
-{(6^3)}}  \\
+    \footnotesize{\maroonC{(1^3)}}
+&&  \footnotesize{\maroonC{(2^3)}}
+&&  \footnotesize{\maroonC{(3^3)}}
+&&  \footnotesize{\maroonC{(4^3)}}
+&&  \footnotesize{\maroonC{(5^3)}}
+&&  \footnotesize{\maroonC{(6^3)}}  \\
 1,  &&    8,  &&  27,  &&  \ldots ,  &&   125,   &&   216
 \end{matrix}
 $

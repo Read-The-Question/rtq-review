@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-9999-practice-paper-3"
 title: "Merchant Taylors School - 11 Plus - Maths - 9999 - Practice Paper 3"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "36"
 ---
 <div class='paper'>
@@ -157,7 +157,7 @@ $\dfrac {2} {5},  \quad \dfrac {3} {7}, \quad 0.43, \quad 44 \%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -197,16 +197,11 @@ The next term is calculated by adding $2$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+2)} }
-&&  \footnotesize {\maroonC
- {(+2)} }
-&&  \footnotesize {\maroonC
- {(+2)} }
-&&  \footnotesize {\maroonC
- {(+2)} }
-&&  \footnotesize {\maroonC
- {(+2)} }  \\
+&   \footnotesize {\maroonC {(+2)} }
+&&  \footnotesize {\maroonC {(+2)} }
+&&  \footnotesize {\maroonC {(+2)} }
+&&  \footnotesize {\maroonC {(+2)} }
+&&  \footnotesize {\maroonC {(+2)} }  \\
 7, && 9, && 11, && 13, && 15, && \ldots
 \end{matrix}
 $
@@ -247,14 +242,10 @@ The next term is calculated by subtracting $4$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(-4)} }
-&&  \footnotesize {\maroonC
- {(-4)} }
-&&  \footnotesize {\maroonC
- {(-4)} }
-&&  \footnotesize {\maroonC
- {(-4)} } \\
+&   \footnotesize {\maroonC {(-4)} }
+&&  \footnotesize {\maroonC {(-4)} }
+&&  \footnotesize {\maroonC {(-4)} }
+&&  \footnotesize {\maroonC {(-4)} } \\
 -1, && -5, && -9, && -13, && \ldots
 \end{matrix}
 $
@@ -295,16 +286,11 @@ It is a sequence of cube numbers.
 
 $
 \begin{matrix}
-    \footnotesize {\maroonC
- {(1 ^ 3)} }
-&&  \footnotesize {\maroonC
- {(2 ^ 3)} }
-&&  \footnotesize {\maroonC
- {(3 ^ 3)} }
-&&  \footnotesize {\maroonC
- {(4 ^ 3)} }
-&&  \footnotesize {\maroonC
- {(5 ^ 3)} }  \\\\
+    \footnotesize {\maroonC {(1 ^ 3)} }
+&&  \footnotesize {\maroonC {(2 ^ 3)} }
+&&  \footnotesize {\maroonC {(3 ^ 3)} }
+&&  \footnotesize {\maroonC {(4 ^ 3)} }
+&&  \footnotesize {\maroonC {(5 ^ 3)} }  \\\\
 1, && 8, && 27, && 64, && \ldots
 \end{matrix}
 $
@@ -682,7 +668,7 @@ $53, 59$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -743,8 +729,8 @@ How many pupils were in the class?
 
 $
 \begin{aligned}
-\text{Total number of pupils}       &= 2 + 4 + 2 + 3 + 1 + 3 + 8 + 4 + 3 \\\\
-                                    &= 30
+\text{Number of pupils}     &= 2 + 4 + 2 + 3 + 1 + 3 + 8 + 4 + 3 \\\\
+                            &= 30
 \end{aligned}
 $
 
@@ -923,7 +909,7 @@ $3 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2175,7 +2161,7 @@ $\dfrac {5} {9}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2403,7 +2389,7 @@ $240 \ \text{g}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2481,9 +2467,13 @@ ABBR: If there is an odd number of numbers, the median is the middle number. If 
 ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
 
 
-If mode $9$ then $2$ numbers are $9$
+If mode is $9$, then at least $2$ numbers must be $9$.
 
-Let the four numbers $= a, b, 9, 9$
+There are even count of numbers, the median will be the mean of the middle two values. As the median is $8$, $9$ are not the middle values.
+
+Let the four numbers in ascending order $= a, b, 9, 9$
+
+As per the question,
 
 $
 \begin {aligned}
@@ -2499,9 +2489,7 @@ Lets arrange the numbers in ascending order.
 
 $
 \begin {aligned}
-\text{Ordered numbers}          &= a, \quad \maroonC
-{b}, \quad \maroonC
-{9}, \quad 9 \\\\
+\text{Ordered numbers}          &= a, \quad \maroonC{b}, \quad \maroonC{9}, \quad 9 \\\\
 \dfrac {b + 9} {2}              &= 8 \\\\
 b + 9                           &= 8 \times 2 \\\\
 b + 9                           &= 16 \\\\

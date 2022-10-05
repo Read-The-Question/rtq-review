@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2010-sample-paper-1"
 title: "Sevenoaks School - 11 Plus - Maths - 2010 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "19"
 ---
 <div class='paper'>
@@ -686,7 +686,7 @@ $12 \ \text{litres}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -732,7 +732,7 @@ $61$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -745,13 +745,11 @@ $5^2\: \: \: 3^2\: \: \: 3^3\: \: \: 2^4$
 <div class='workings'>
 <div class='working'>
 
-To compare we can convert all numbers into integers.
-
 $
 \begin{aligned}
-&=5^2,\: \: \: 3^2,\: \: \: 3^3,\: \: \: 2^4 \\\\
-&= 5 \times 5,\: \: \: 3 \times 3,\: \: \: 3 \times 3 \times 3,\: \: \: 2 \times 2 \times 2 \times 2 \\\\
-&= 25,\: \: \: 9,\: \: \: 27,\: \: \: 16 
+&=5^2, \quad 3^2, \quad 3^3, \quad 2^4 \\\\
+&= 5 \times 5, \quad 3 \times 3, \quad 3 \times 3 \times 3, \quad 2 \times 2 \times 2 \times 2 \\\\
+&= 25, \quad 9, \quad 27, \quad 16 
 \end{aligned}
 $
 
@@ -759,7 +757,8 @@ Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= 9,\: \: \: 16,\: \: \: 25,\: \: \: 27
+&= 9 < 16 < 25 < 27 \\\\
+&= 3^2 < 2^4 < 5^2 < 3^3
 \end{aligned}
 $
 
@@ -768,7 +767,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$9,\: \: \: 16,\: \: \: 25,\: \: \: 27$
+$3^2, \quad 2^4, \quad 5^2, \quad 3^3$
 
 </div>
 </div>
@@ -1297,7 +1296,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

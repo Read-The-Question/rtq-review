@@ -1,7 +1,7 @@
 ---
 slug: "papers/emanuel-school-11-plus-maths-9999-sample-paper-1"
 title: "Emanuel School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "32"
 ---
 <div class='paper'>
@@ -271,8 +271,6 @@ Work out the following divisions
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-%waffles%
-
 $6146$ divided by $7$
 
 </div>
@@ -304,7 +302,7 @@ $878$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$56400$ divided by $12$
+$56,400$ divided by $12$
 
 </div>
 <div class='workings'>
@@ -1036,7 +1034,7 @@ Coordinate of D $= (4, 0)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1218,7 +1216,7 @@ $9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1261,18 +1259,12 @@ The next term is calculated by adding $7$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+7)} }
-&&  \footnotesize {\maroonC
- {(+7)} }
-&&  \footnotesize {\maroonC
- {(+7)} }
-&&  \footnotesize {\maroonC
- {(+7)} }
-&&  \footnotesize {\maroonC
- {(+7)} }
-&&  \footnotesize {\maroonC
- {(+7)} }  \\
+&   \footnotesize {\maroonC {(+7)} }
+&&  \footnotesize {\maroonC {(+7)} }
+&&  \footnotesize {\maroonC {(+7)} }
+&&  \footnotesize {\maroonC {(+7)} }
+&&  \footnotesize {\maroonC {(+7)} }
+&&  \footnotesize {\maroonC {(+7)} }  \\
 1,  &&   8,  &&  15, &&  22, &&  29,  &&  \ldots,  && \ldots
 \end{matrix}
 $
@@ -1321,18 +1313,12 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+2)} }
-&&  \footnotesize {\maroonC
- {(+3)} }
-&&  \footnotesize {\maroonC
- {(+4)} }
-&&  \footnotesize {\maroonC
- {(+5)} }
-&&  \footnotesize {\maroonC
- {(+6)} }
-&&  \footnotesize {\maroonC
- {(+7)} }  \\
+&   \footnotesize {\maroonC {(+2)} }
+&&  \footnotesize {\maroonC {(+3)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+5)} }
+&&  \footnotesize {\maroonC {(+6)} }
+&&  \footnotesize {\maroonC {(+7)} }  \\
 4,  &&   6,  &&  9, &&  13, &&  18,  &&  \ldots, && \ldots
 \end{matrix}
 $
@@ -1383,18 +1369,12 @@ The next term is calculated by dividing the previous term by $2$. Hence, the seq
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }  \\
+&   \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }  \\
 96,  &&   48,  &&  24, &&  12, &&  6,  &&  \ldots,  && \ldots
 \end{matrix}
 $
@@ -1445,20 +1425,13 @@ The next term is calculated by adding together the last two terms. Hence, the se
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(0 + 3)} }
-&&  \footnotesize {\maroonC
- {(3 + 4)} }
-&&  \footnotesize {\maroonC
- {(4 + 7)} }
-&&  \footnotesize {\maroonC
- {(7 + 11)} }
-&&  \footnotesize {\maroonC
- {(11 + 18)} }
-&&  \footnotesize {\maroonC
- {(18 + 29)} }
-&&  \footnotesize {\maroonC
- {(29 + 47)} }  \\
+&   \footnotesize {\maroonC {(0 + 3)} }
+&&  \footnotesize {\maroonC {(3 + 4)} }
+&&  \footnotesize {\maroonC {(4 + 7)} }
+&&  \footnotesize {\maroonC {(7 + 11)} }
+&&  \footnotesize {\maroonC {(11 + 18)} }
+&&  \footnotesize {\maroonC {(18 + 29)} }
+&&  \footnotesize {\maroonC {(29 + 47)} }  \\
 3,  &&   4,  &&  7, &&  11, &&  18,  &&  29,  &&  \ldots,  && \ldots
 \end{matrix}
 $
@@ -1984,8 +1957,18 @@ $2{:}10 \ \text{pm}$
 
 Look at the following long multiplication.
 
-
-$576 \times 48 = 4608 + 23040 = 27648$
+$
+\begin{array}{cccccccccccccc}
+        &     &          &   5   &   7   &   6 \\
+        &     & \times   &       &   4   &   8 \\
+\hline 
+        &     &   4      &   6   &   0   &   8  \\
+    {+} &  2  &   3      &   0   &   4   &   0  \\
+\hline
+        &  2  &   7      &   6   &   4   &   8  \\
+\hline
+\end{array}
+$
 
 Without doing any more calculations give the answers to: 
 
@@ -2009,16 +1992,7 @@ Without doing any more calculations give the answers to:
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-
-$
-\begin{array}{cccccccccccccc}
-         &            &   5   &   7   &   6 \\
-         &   \times   &       &       &   8 \\
-\hline 
-         &             &       &       &     \\
-\hline
-\end{array}
-$
+$576 \times 8 =$
 
 </div>
 <div class='workings'>
@@ -2048,17 +2022,7 @@ $4608$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-
-$
-\begin{array}{cccccccccccccc}
-         &            &   5   &   7   &   6 \\
-         &   \times   &       &       &   4 \\
-\hline 
-         &            &       &       &     \\
-\hline
-\end{array}
-$
-
+$576 \times 4 =$
 
 </div>
 <div class='workings'>
@@ -2091,7 +2055,7 @@ $2304$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$27648 \div 576 =$
+$27,648 \div 576 =$
 
 </div>
 <div class='workings'>
@@ -2122,17 +2086,7 @@ $48$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-
-$
-\begin{array}{cccccccccccccc}
-         &            &   2   &   7   &    6    &   4   &  8  \\
-         &   -        &   2   &   3   &    0    &   4   &  0 \\
-\hline 
-         &            &       &       &         &       &     \\
-\hline
-\end{array}
-$
-
+$27,648 - 23,040 =$
 
 </div>
 <div class='workings'>
@@ -2191,7 +2145,7 @@ $2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2220,10 +2174,7 @@ A rule for a number sequence is ‘multiply by $2$ and subtract $7$’
 
 Write down the next number in the sequence.
 
-$
-8 \rightarrow 9 \rightarrow 11 \rightarrow 15 \rightarrow
-\text{\textunderscore \textunderscore \textunderscore}
-$
+$8 \rightarrow 9 \rightarrow 11 \rightarrow 15 \rightarrow \ldots$
 
 </div>
 <div class='workings'>
@@ -2256,10 +2207,7 @@ $23$
 Here is part of another number sequence with the same rule.
 Write down the first number which is missing.
 
-$
-\text{\textunderscore \textunderscore \textunderscore} 
-\rightarrow 17 \rightarrow 27 \rightarrow 47 \rightarrow 87
-$
+$\ldots \rightarrow 17 \rightarrow 27 \rightarrow 47 \rightarrow 87$
 
 </div>
 <div class='workings'>
@@ -2269,14 +2217,10 @@ As per the question, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 2 - 7)}}
-&&  \footnotesize{\maroonC
-{(\times 2 - 7)}}
-&&  \footnotesize{\maroonC
-{(\times 2 - 7)}}
-&&  \footnotesize{\maroonC
-{(\times 2 - 7)}}  \\
+&   \footnotesize{\maroonC{(\times 2 - 7)}}
+&&  \footnotesize{\maroonC{(\times 2 - 7)}}
+&&  \footnotesize{\maroonC{(\times 2 - 7)}}
+&&  \footnotesize{\maroonC{(\times 2 - 7)}}  \\
 \ldots,  &&    17,  &&  27,  &&   47,  && 87
 \end{matrix}
 $
@@ -2468,7 +2412,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-\dfrac{48}{ \Box + 1} &= 6
+$\dfrac {48}{ \Box + 1} = 6$
 
 </div>
 <div class='workings'>
@@ -2513,7 +2457,7 @@ Each time he turned right he walked $2 \ \text{metres}$ less than he did the tim
 
 ![emanuel-school--11-plus--maths--9999--sample-paper-1/section-1-question-26-00.png](/assets/emanuel-school--11-plus--maths--9999--sample-paper-1/section-1-question-26-00.png "emanuel-school--11-plus--maths--9999--sample-paper-1/section-1-question-26-00.png")
 
-On the last part of his journey before stopping he walked one metre. How far did he walk altogether? 
+On the last part of his journey before stopping he walked one $\text{metre}$. How far did he walk altogether? 
 
 </div>
 <div class='workings'>
@@ -2549,7 +2493,10 @@ TODOANSWER
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-![emanuel-school--11-plus--maths--9999--sample-paper-1/section-1-question-27-00.png](/assets/emanuel-school--11-plus--maths--9999--sample-paper-1/section-1-question-27-00.png "emanuel-school--11-plus--maths--9999--sample-paper-1/section-1-question-27-00.png")
+|   |   |   |
+|:-:|:-:|:-:|
+|   |   |   |
+|   |   |   |
 
 Draw out a $3$ by $3$ grid like that shown.
 
@@ -2698,7 +2645,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Which island does the sailor think she is definitely **not** on?
+Which island does the sailor think she is definitely not on?
 
 </div>
 <div class='workings'>

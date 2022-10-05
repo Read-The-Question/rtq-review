@@ -1,100 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tspeed-1-pr"
 title: "TopicPaper - Speed - 1 - PR"
-date: 2022-09-24 04:59:20
-questions_count: "28"
+date: 2022-10-04 10:03:20
+questions_count: "26"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
-Two runners are having a race. Gary starts running from the start line at $10 \ \text{m/s}$. 
-Two seconds later Andy starts running from the start line at $12 \ \text{m/s}$.
-
-</div>
-
-
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How long after Gary starts running does Andy catch up with him?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
-
-
-Let the time taken (in seconds) $= t$
-
-$
-\begin{aligned}
-12 \times (t - 2)  &=  10 \times t \\\\
-12t - 24           &=  10t \\\\
-12t - 10t          &=  24 \\\\
-2t                 &=  24 \\\\
-t                  &=  \dfrac{24}{2} \\\\
-t                  &=  \dfrac{12 \times 2}{2} \\\\
-t                  &=  \dfrac{12 \times \cancel{2}}{\cancel{2}} \\\\
-t                  &=  12 \text{ seconds}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12 \text{ seconds}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How far are they both from the start line when Andy catches up with Gary?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
-
-
-$
-\begin{aligned}
-\text{Distance}    &=  10 \times 12 \\\\
-                   &=  120 \text{ metres}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$120 \text{ metres}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -124,8 +36,9 @@ $
 \begin{aligned}
 \text{Time}  &=  \dfrac{420 \text{ miles}}{120 \text{ mph}} \\\\
              &=  \dfrac{420}{120} \\\\
-             &=  \dfrac{42\cancel{0}}{12\cancel{0}} \\\\
-             &=  \dfrac{42}{12} \\\\
+             &=  \dfrac{7 \times 6 \times 10}{2 \times 6 \times 10} \\\\
+             &=  \dfrac{7 \times \cancel{6} \times \cancel{10}}{2 \times \cancel{6} \times \cancel{10}} \\\\
+             &=  \dfrac{7}{2} \\\\
              &=  3.5 \text{ hours or } 3 \text{ hours and } 30 \text{ minutes}
 \end{aligned}
 $
@@ -152,24 +65,14 @@ How far is Leeds from London?
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
+ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
 
 
 $
 \begin{aligned}
-\text{Distance}  &=  120 \text{ mph} \times (1 \text{ hour } 30 \text{ minutes }) \\\\
-                 &=  120 \text{ mph} \times (1 + \dfrac{30}{60} \text{ hours}) \\\\
-                 &=  120 \times (\dfrac{1 \times 60}{1 \times 60} + \dfrac{30}{60}) \\\\
-                 &=  120 \times (\dfrac{60}{60} + \dfrac{30}{60}) \\\\
-                 &=  120 \times \dfrac{30 + 60}{60} \\\\
-                 &=  120 \times \dfrac{90}{60} \\\\
-                 &=  120 \times \dfrac{9\cancel{0}}{6\cancel{0}} \\\\
-                 &=  120 \times \dfrac{9}{6} \\\\
-                 &=  \dfrac{9 \times 120}{6} \\\\
-                 &=  \dfrac{9 \times 6 \times 20}{6} \\\\
-                 &=  \dfrac{9 \times \cancel{6} \times 20}{\cancel{6}} \\\\
-                 &=  9 \times 20 \\\\
-                 &=  180 \text{ miles} \\\\
+\text{Distance}  &=  120 \times (1 \text{ hour } 30 \text{ minutes}) \\\\
+                 &=  120 \times 1.5 \\\\
+                 &=  180 \text{ miles}
 \end{aligned}
 $
 
@@ -189,7 +92,7 @@ $180 \text{ miles}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -221,36 +124,23 @@ ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 $
 \begin{aligned}
-\text{Distance travelled by Rio}   &=  200 \text{ km} \\\\
-\text{Distance travelled by Harry} &=  150  + 150 \\\\
-                                   &=  300 \text{ km} \\\\
-\text{Distance travelled by Fahad} &=  200 \text{ km}
-\end{aligned}
-$
-
-
-$
-\begin{aligned}
-\text{Time taken by Rio}   &=  \dfrac{200 \text{ km}}{80 \text{ km/hr}} \\\\
-                           &=  \dfrac{200}{80} \\\\
+\text{Time taken by Rio}   &=  \dfrac{200}{80} \\\\
                            &=  \dfrac{4 \times 5 \times 10}{4 \times 2 \times 10} \\\\
                            &=  \dfrac{\cancel{4} \times 5 \times \cancel{10}}{\cancel{4} \times 2 \times \cancel{10}} \\\\
-                           &=  \dfrac{5}{2} \\\\
-                           &=  2\dfrac{1}{2} \text{ hr} \\\\
+                           &=  \dfrac{5}{2} \text{ hours} \\\\
+                           &=  2\dfrac{1}{2} \text{ hours} \\\\
                            &=  2 \text{ hours } 30 \text{ minutes} \\\\
-\text{Time taken by Harry} &=  \dfrac{300 \text{ km}}{100 \text{ km/hr}} \\\\
+\text{Time taken by Harry} &=  \dfrac{150 + 150}{100} \\\\
                            &=  \dfrac{300}{100} \\\\
                            &=  \dfrac{3 \times 100}{100} \\\\
                            &=  \dfrac{3 \times \cancel{100}}{\cancel{100}} \\\\
                            &=  3 \text{ hours} \\\\
-                           &=  3 \text{ hours } 0 \text{ minutes} \\\\
-\text{Time taken by Fahad} &=  \dfrac{200 \text{ km}}{60 \text{ km/hr}} \\\\
-                           &=  \dfrac{200}{60} \\\\
+\text{Time taken by Fahad} &=  \dfrac{200}{60} \\\\
                            &=  \dfrac{2 \times 2 \times 5 \times 10}{3 \times 2 \times 10} \\\\
                            &=  \dfrac{2 \times \cancel{2} \times 5 \times \cancel{10}}{3 \times \cancel{2} \times \cancel{10}} \\\\
                            &=  \dfrac{2 \times 5}{3} \\\\
                            &=  \dfrac{10}{3} \\\\
-                           &=  3\dfrac{1}{3} \text{ hr} \\\\
+                           &=  3\dfrac{1}{3} \text{ hours} \\\\
                            &=  3 \text{ hours } 20 \text{ minutes}
 \end{aligned}
 $
@@ -265,7 +155,7 @@ Rio takes $2 \text{ hours } 30 \text{ minutes}$
 </div>
 <div class='answer'>
 
-Harry takes $3 \text{ hours } 0 \text{ minutes}$
+Harry takes $3 \text{ hours}$
 
 </div>
 <div class='answer'>
@@ -287,26 +177,7 @@ If they all set off at the same time, who arrives first?
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-\text{Time taken by Rio}   &=  2 \text{ hours } 30 \text{ minutes} \\\\
-                           &=  2 \times 60 + 30 \text{ minutes} \\\\
-                           &=  2 \times 60 + 30 \\\\
-                           &=  120 + 30 \\\\
-                           &=  150 \text{ minutes} \\\\
-\text{Time taken by Harry} &=  3 \text{ hours } 0 \text{ minutes} \\\\
-                           &=  3 \times 60 +  0 \text{ minutes} \\\\
-                           &=  3 \times 60 +  0 \\\\
-                           &=  180 \text{ minutes} \\\\
-\text{Time taken by Fahad} &=  3 \text{ hours } 20 \text{ minutes} \\\\
-                           &=  3 \times 60 + 20 \text{ minutes} \\\\
-                           &=  3 \times 60 + 20 \\\\
-                           &=  180 + 20 \\\\
-                           &=  200 \text{ minutes} \\\\
-\end{aligned}
-$
-
-If they all set off at the same time, Rio arrives first.
+If they all set off at the same time, Rio would arrive first by $2$ hours and $30$ minutes.
 
 </div>
 </div>
@@ -324,7 +195,7 @@ Rio
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -352,13 +223,15 @@ ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 $
 \begin{aligned}
-\text{Time}   &= \dfrac{10 \text{ km}}{30 \text{ km per hour}} \\\\
-              &= \dfrac{10 \text{ km}}{\dfrac{30}{60} \text{ km per minute}} \\\\
-              &= \dfrac{10}{\dfrac{30}{60}} \\\\
-              &= \dfrac{10 \times 60}{30} \\\\
-              &= \dfrac{10 \times 3 \times 20}{3 \times 10} \\\\
-              &= \dfrac{\cancel{10} \times \cancel{3} \times 20}{\cancel{3} \times \cancel{10}} \\\\
-              &= 20 \text{ minutes} \\\\
+\text{Time}   &= \dfrac{10}{30} \\\\
+              &= \dfrac{10}{10 \times 3} \\\\
+              &= \dfrac{\cancel{10}}{\cancel{10} \times 3} \\\\
+              &= \dfrac{1}{3} \text{ hours} \\\\
+              &= 60 \times \dfrac{1}{3} \text{ minutes} \\\\
+              &= \dfrac{60}{3} \\\\
+              &= \dfrac{20 \times 3}{3} \\\\
+              &= \dfrac{20 \times \cancel{3}}{\cancel{3}} \\\\
+              &= 20 \text{ minutes}
 \end{aligned}
 $
 
@@ -391,14 +264,15 @@ ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 $
 \begin{aligned}
-\text{Time}   &= \dfrac{5 \text{ km}}{20 \text{ km per hour}} \\\\
-              &= \dfrac{5 \text{ km}}{\dfrac{20}{60} \text{ km per minute}} \\\\
-              &= \dfrac{5}{\dfrac{20}{60}} \\\\
-              &= \dfrac{5 \times 60}{20} \\\\
-              &= \dfrac{5 \times 3 \times 2 \times 10}{2 \times 10} \\\\
-              &= \dfrac{5 \times 3 \times \cancel{2} \times \cancel{10}}{\cancel{2} \times \cancel{10}} \\\\
-              &= 5 \times 3 \\\\
-              &= 15 \text{ minutes} \\\\
+\text{Time}   &= \dfrac{5}{20} \\\\
+              &= \dfrac{5}{5 \times 4} \\\\
+              &= \dfrac{\cancel{5}}{\cancel{5} \times 4} \\\\
+              &= \dfrac{1}{4} \text{ hours} \\\\
+              &= 60 \times \dfrac{1}{4} \text{ minutes} \\\\
+              &= \dfrac{60}{4} \\\\
+              &= \dfrac{15 \times 4}{4} \\\\
+              &= \dfrac{15 \times \cancel{4}}{\cancel{4}} \\\\
+              &= 15 \text{ minutes}
 \end{aligned}
 $
 
@@ -431,16 +305,16 @@ ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 $
 \begin{aligned}
-\text{Total distance}   &= 10 + 5 \\\\
-                        &= 15 \text{ km} \\\\
-\text{Time}             &= \dfrac{15 \text{ km}}{30 \text{ km per hour}} \\\\
-                        &= \dfrac{15 \text{ km}}{\dfrac{30}{60} \text{ km per minute}} \\\\
-                        &= \dfrac{15}{\dfrac{30}{60}} \\\\
-                        &= \dfrac{15 \times 60}{30} \\\\
-                        &= \dfrac{15 \times 2 \times 30}{30} \\\\
-                        &= \dfrac{15 \times 2 \times \cancel{30}}{\cancel{30}} \\\\
-                        &= 15 \times 2 \\\\
-                        &= 30 \text{ minutes} \\\\
+\text{Time}             &= \dfrac{10 + 5}{30} \\\\
+                        &= \dfrac{15}{30} \\\\
+                        &= \dfrac{15}{15 \times 2} \\\\
+                        &= \dfrac{\cancel{15}}{\cancel{15} \times 2} \\\\
+                        &= \dfrac{1}{2} \text{ hours} \\\\
+                        &= 60 \times \dfrac{1}{2} \text{ minutes} \\\\
+                        &= \dfrac{60}{2} \\\\
+                        &= \dfrac{30 \times 2}{2} \\\\
+                        &= \dfrac{30 \times \cancel{2}}{\cancel{2}} \\\\
+                        &= 30 \text{ minutes}
 \end{aligned}
 $
 
@@ -468,14 +342,11 @@ If Guy left home at $9.30 \ \text{am}$ and had no stops, at what time did he arr
 
 $
 \begin{aligned}
-\text{Time}   &=  9{:}30 + (20 + 15 + 30) \text{ minutes}  \\\\
-              &=  9{:}30 + 65 \text{ minutes}  \\\\
-              &=  9{:}30 + 65 \text{ minutes}  \\\\
-              &=  10{:}35
+\text{Arrival Time}   &=  9{:}30 + (20 + 15 + 30) \text{ minutes}  \\\\
+                      &=  9{:}30 + 65 \text{ minutes}  \\\\
+                      &=  10{:}35
 \end{aligned}
 $
-
-He will arrive home by 10{:}35.
 
 </div>
 </div>
@@ -493,7 +364,7 @@ $10{:}35$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -518,12 +389,10 @@ For how many minutes was Kay in the lead?
 <div class='workings'>
 <div class='working'>
 
-As per the graph,
-
 $
 \begin{aligned}
 \text{Number of minutes}   &= 5 - 2 \\\\
-                           &= 3 \\\\
+                           &= 3
 \end{aligned}
 $
 
@@ -549,16 +418,14 @@ After how many metres were they level during the race?
 <div class='workings'>
 <div class='working'>
 
-As per the graph,
-
-After $600$ metres and $1200$ metres, they were level during the race.
+After $600 \text{ m }$ and $1200 \text{ m }$, they were level during the race.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$600$ metres and $1200$ metres
+$600 \text{ m }$ and $1200 \text{ m }$
 
 </div>
 </div>
@@ -574,8 +441,6 @@ Who won the race?
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per the graph,
 
 Maria won the race.
 
@@ -595,7 +460,7 @@ Maria
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -608,10 +473,13 @@ How many hours will it take her to reach the top of the hole?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
+
+
 $
 \begin{aligned}
 \text{Speed}   &=  40 - 10 \\\\
-               &=  30 \text{ cm/h} \\\\
+               &=  30 \text{ cm per hour} \\\\
 \text{Time}    &=  \dfrac{220}{30} \\\\
                &=  \dfrac{22\cancel{0}}{3\cancel{0}} \\\\
                &=  \dfrac{22}{3} \\\\
@@ -632,7 +500,7 @@ $7\dfrac{1}{3} \text{ hours}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -644,15 +512,16 @@ If it travels at a constant speed of $60 \ \text{km/hr}$, how long will it take 
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
+
+
 $
 \begin{aligned}
-\text{Distance} &= 1 + 1.5 \\\\
-                &= 2.5 \text { km} \\\\
-\text{Time}     &= \dfrac{2.5 \text { km}}{60 \text{ km/hr}} \\\\
-                &= \dfrac{2.5 \text { km}}{\dfrac{60}{60} \text{ km/min}} \\\\
-                &= \dfrac{2.5}{\dfrac{60}{60}} \\\\ 
-                &= \dfrac{2.5}{\dfrac{\cancel{60}}{\cancel{60}}} \\\\
-                &= \dfrac{2.5}{1} \\\\
+\text{Time}     &= \dfrac{1 + 1.5}{60} \\\\
+                &= \dfrac{2.5}{60} \text{ hours} \\\\
+                &= 60 \times \dfrac{2.5}{60} \text{ minutes} \\\\
+                &= \dfrac{2.5 \times 60}{60} \\\\
+                &= \dfrac{2.5 \times \cancel{60}}{\cancel{60}} \\\\
                 &= 2.5 \text{ minutes}
 \end{aligned}
 $
@@ -670,7 +539,7 @@ $2.5 \text{ minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -691,34 +560,33 @@ Slowest........................................
 
 $
 \begin{aligned}
-\text{Time taken by adam}   &= 4 \text { hours } 39 \text{ minutes} \\\\
+\text{Time taken by Adam}   &= 4 \text { hours } 39 \text{ minutes} \\\\
                             &= 4 \times 60 + 39 \text{ minutes} \\\\
                             &= 4 \times 60 + 39 \\\\
                             &= 240 + 39 \\\\
                             &= 279 \text{ minutes} \\\\
-\text{Time taken by billy}  &= 274 \text{ minutes} \\\\
-\text{Time taken by charlie}&= 4\dfrac{3}{5} \text { hours} \\\\
-                            &= \dfrac{23}{5} \text { hours} \\\\
-                            &= \dfrac{23}{5} \times 60 \text { minutes} \\\\
-                            &= \dfrac{23}{5} \times 60 \\\\
-                            &= \dfrac{23 \times 60}{5} \\\\
-                            &= \dfrac{23 \times 12 \times 5}{5} \\\\
-                            &= \dfrac{23 \times 12 \times \cancel{5}}{\cancel{5}} \\\\
-                            &= 23 \times 12 \\\\
+\text{Time taken by Billy}  &= 274 \text{ minutes} \\\\
+\text{Time taken by Charlie}&= 4\dfrac{3}{5} \text { hours} \\\\
+                            &= 4 \times 60 + \dfrac{3}{5} \times 60 \text { minutes} \\\\
+                            &= 240 + \dfrac{3 \times 60}{5} \\\\
+                            &= 240 + \dfrac{3 \times 12 \times 5}{5} \\\\
+                            &= 240 + \dfrac{3 \times 12 \times \cancel{5}}{\cancel{5}} \\\\
+                            &= 240 + 3 \times 12 \\\\
+                            &= 240 + 36 \\\\
                             &= 276 \text{ minutes}
 \end{aligned}
 $
 
-Quickest = billy
+Quickest = Billy
 
-slowest = adam
+Slowest = Adam
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Billy and adam
+Billy and Adam
 
 </div>
 </div>
@@ -726,7 +594,7 @@ Billy and adam
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -821,10 +689,14 @@ ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 $
 \begin{aligned}
-\text{Time}   &= \dfrac{15 \text{ km}}{60 \text{ km/h}} \\\\
-              &= \dfrac{15 \text{ km}}{\dfrac{60}{60} \text{ km/min}} \\\\
-              &= \dfrac{15}{\dfrac{60}{60}} \\\\
-              &= \dfrac{15}{\dfrac{\cancel{60}}{\cancel{60}}} \\\\
+\text{Time}   &= \dfrac{15}{60} \\\\
+              &= \dfrac{15}{15 \times 4} \\\\
+              &= \dfrac{\cancel{15}}{\cancel{15} \times 4} \\\\
+              &= \dfrac{1}{4} \text{ hours} \\\\
+              &= 60 \times \dfrac{1}{4} \text{ minutes} \\\\
+              &= \dfrac{60}{4} \\\\
+              &= \dfrac{15 \times 4}{4} \\\\
+              &= \dfrac{15 \times \cancel{4}}{\cancel{4}} \\\\
               &= 15 \text{ minutes}
 \end{aligned}
 $
@@ -856,12 +728,14 @@ ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 $
 \begin{aligned}
-\text{Time}   &= \dfrac{45 \text{ km}}{90 \text{ km/h}} \\\\
-              &= \dfrac{45 \text{ km}}{\dfrac{90}{60} \text{ km/min}} \\\\
-              &= \dfrac{45}{\dfrac{90}{60}} \\\\
-              &= \dfrac{45 \times 60}{90} \\\\
-              &= \dfrac{45 \times 30 \times 2}{45 \times 2} \\\\
-              &= \dfrac{\cancel{45} \times 30 \times \cancel{2}}{\cancel{45} \times \cancel{2}} \\\\
+\text{Time}   &= \dfrac{45}{90} \\\\
+              &= \dfrac{45}{45 \times 2} \\\\
+              &= \dfrac{\cancel{45}}{\cancel{45} \times 2} \\\\
+              &= \dfrac{1}{2} \text{ hours} \\\\
+              &= 60 \times \dfrac{1}{2} \text{ minutes} \\\\
+              &= \dfrac{60}{2} \\\\
+              &= \dfrac{30 \times 2}{2} \\\\
+              &= \dfrac{30 \times \cancel{2}}{\cancel{2}} \\\\
               &= 30 \text{ minutes}
 \end{aligned}
 $
@@ -893,25 +767,20 @@ ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 $
 \begin{aligned}
-\text{Distance of main road}  &=  15 + 60 + 30 \\\\
-                              &=  105 \text{ km} \\\\
-\text{Distance of minor road} &=  15 \text{ km}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Time taken to cross main road}   &= \dfrac{105 \text{ km}}{60 \text{ km/h}} \\\\
-                                       &= \dfrac{105 \text{ km}}{\dfrac{60}{60} \text{ km/min}} \\\\
-                                       &= \dfrac{105}{\dfrac{60}{60}} \\\\
-                                       &= \dfrac{105}{\dfrac{\cancel{60}}{\cancel{60}}} \\\\
+\text{Time taken to cross main road}   &= \dfrac{15 + 60 + 30}{60} \\\\
+                                       &= \dfrac{105}{60} \text{ hours} \\\\
+                                       &= 60 \times \dfrac{105}{60} \text{ minutes} \\\\
+                                       &= \dfrac{60 \times 105}{60} \\\\
+                                       &= \dfrac{\cancel{60} \times 105}{\cancel{60}} \\\\
                                        &= 105 \text{ minutes} \\\\
-\text{Time taken to cross minor road}  &= \dfrac{15 \text{ km}}{45 \text{ km/h}} \\\\
-                                       &= \dfrac{15 \text{ km}}{\dfrac{45}{60} \text{ km/min}} \\\\
-                                       &= \dfrac{15}{\dfrac{45}{60}} \\\\
-                                       &= \dfrac{15 \times 60}{45} \\\\
-                                       &= \dfrac{15 \times 20 \times 3}{15 \times 3} \\\\
-                                       &= \dfrac{\cancel{15} \times 20 \times \cancel{3}}{\cancel{15} \times \cancel{3}} \\\\
+\text{Time taken to cross minor road}  &= \dfrac{15}{45} \\\\
+                                       &= \dfrac{15}{15 \times 3} \\\\
+                                       &= \dfrac{\cancel{15}}{\cancel{15} \times 3} \\\\
+                                       &= \dfrac{1}{3} \text{ hours} \\\\
+                                       &= 60 \times \dfrac{1}{3} \text{ minutes} \\\\
+                                       &= \dfrac{60}{3} \\\\
+                                       &= \dfrac{20 \times 3}{3} \\\\
+                                       &= \dfrac{20 \times \cancel{3}}{\cancel{3}} \\\\
                                        &= 20 \text{ minutes} \\\\
 \text{Total time taken}                &= 105 + 20 \\\\
                                        &= 125 \text{ minutes} \\\\
@@ -937,7 +806,7 @@ $2 \text { hours } 5 \text{ minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -962,7 +831,7 @@ How many edges in total does a cube have?
 <div class='workings'>
 <div class='working'>
 
-A cube has 12 edges.
+$12$ edges.
 
 </div>
 </div>
@@ -989,7 +858,7 @@ What is the least distance the ant must travel to crawl from $A$ to $B$, along t
 $
 \begin{aligned}
 \text{Least distance}  &= 10 + 10 + 10 \\\\
-                       &= 30 \text{ cm} \\\\
+                       &= 30 \text{ cm}
 \end{aligned}
 $
 
@@ -1016,6 +885,18 @@ How many different routes does the ant choose from?
 <div class='workings'>
 <div class='working'>
 
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Draw the four possible different routes that the ant can choose from.
+
+
+*ABBR: TODO:: Add drawing ends.*
+
+
 There are $4$ different routes the ant can choose from.
 
 </div>
@@ -1034,164 +915,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
-Rhys and Sarah are on their bicycles and start $90 \ \text{miles}$ apart on a road, riding towards each other. 
-Rhys is travelling at $10 \ \text{mph}$ and Sarah is travelling at $20 \ \text{mph}$. They set off at the same time and both keep moving at constant speeds until they meet.
-
-</div>
-
-
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Work out at what distance each rider has cycled by the time they meet.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the time taken (in hours) $= t$
-
-As per the question,
-
-$
-\begin{aligned}
-10 \times t + 20 \times t &= 90 \\\\
-10t + 20t                 &= 90 \\\\
-30t                       &= 90 \\\\
-t                         &= \dfrac{90}{30} \\\\
-t                         &= \dfrac{3 \times 3 \times 10}{3 \times 10} \\\\
-t                         &= \dfrac{3 \times \cancel{3} \times \cancel{10}}{\cancel{3} \times \cancel{10}} \\\\
-t                         &= 3 \text{ hours}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Distance travelled by rhys}  &= 10 \times t \\\\
-                                   &= 10 \times 3 \\\\
-                                   &= 30 \text { miles} \\\\
-\text{Distance travelled by Sarah} &= 20 \times t \\\\
-                                   &= 20 \times 3 \\\\
-                                   &= 60 \text { miles}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$30 \text { miles}$
-
-</div>
-<div class='answer'>
-
-$60 \text { miles}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Write down the time taken for them to meet.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the time taken (in hours) $= t$
-
-As per the question,
-
-$
-\begin{aligned}
-10 \times t + 20 \times t &= 90 \\\\
-10t + 20t                 &= 90 \\\\
-30t                       &= 90 \\\\
-t                         &= \dfrac{90}{30} \\\\
-t                         &= \dfrac{3 \times 3 \times 10}{3 \times 10} \\\\
-t                         &= \dfrac{3 \times \cancel{3} \times \cancel{10}}{\cancel{3} \times \cancel{10}} \\\\
-t                         &= 3 \text{ hours}
-\end{aligned}
-$
-
-Time taken $= 3 \text{ hours}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3 \text{ hours}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prns question'>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
-James cycles $4000 \ \text{m}$ at $10 \ \text{metres per second}$. Tom takes $100 \ \text{seconds}$ more to cycle the same distance. 
-At what speed does Tom cycle? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR: $\text {Speed} = \dfrac {\text{Distance}} {\text{Time}}$
-
-
-$
-\begin{aligned}
-\text{Time}   &= \dfrac{4000}{10} \\\\
-              &= \dfrac{400 \times \cancel{10}}{\cancel{10}} \\\\
-              &= 400 \text{ seconds}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Time taken by Tom}    &= 100 + 400 \\\\
-                            &= 500 \text{ seconds} \\\\
-\text{Speed}                &= \dfrac{4000}{500} \\\\
-                            &= \dfrac{5 \times 8 \times 100}{5 \times 100} \\\\
-                            &= \dfrac{\cancel{5} \times 8 \times \cancel{100}}{\cancel{5} \times \cancel{100}} \\\\
-                            &= 8 \text{ metres per second}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8 \text{ metres per second}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1209,22 +933,19 @@ How long does it take Shayban to cycle from $A$ to $B$?
 ABBR: $\text {Speed} = \dfrac {\text{Distance}} {\text{Time}}$
 
 
-Let the distance $= d$
+Let the distance $= D$
 
-and the speed of kasey $= s$
+Speed $= \dfrac{D}{24}$
 
-speed of Shyaban $= \dfrac{s}{3}$
-
-As per the question,
-
-$\dfrac{d}{s}  =  24$
 
 $
 \begin{aligned}
-\text{Time taken by shayban} &= \dfrac{d}{\dfrac{s}{3}} \\\\
-                             &= 3 \times \dfrac{d}{s} \\\\
-                             &= 3 \times 24 \\\\
-                             &= 72 \text{ minutes} \\\\
+\text{Speed of Shyaban}      &= \dfrac{1}{3} \text{ of } \dfrac{D}{24} \\\\
+                             &= \dfrac{1}{3} \times \dfrac{D}{24} \\\\
+                             &= \dfrac{D}{24 \times 3} \\\\
+                             &= \dfrac{D}{72} \\\\
+\text{Time}                  &= \dfrac{D}{\dfrac{D}{72}} \\\\
+                             &= 72 \text{ minutes}
 \end{aligned}
 $
 
@@ -1241,7 +962,7 @@ $72 \text{ minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1254,7 +975,7 @@ How much longer is his journey as a result of the roadworks?
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text {Speed} = \dfrac {\text{Distance}} {\text{Time}}$
+ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 
 Let the time taken (without restriction) $= t$
@@ -1263,16 +984,11 @@ As per the question,
 
 $
 \begin{aligned}
-t &= \dfrac{35 \text{ mile}}{70 \text{ mph}} \\\\
-t &= \dfrac{35}{35 \times 2} \\\\
-t &= \dfrac{\cancel{35}}{\cancel{35} \times 2} \\\\
-t &= \dfrac{1}{2} \\\\
-t &= 0.5 \text{ hour}
-\end{aligned}
-$
-
-$
-\begin{aligned}
+t                   &= \dfrac{35}{70} \\\\
+t                   &= \dfrac{35}{35 \times 2} \\\\
+t                   &= \dfrac{\cancel{35}}{\cancel{35} \times 2} \\\\
+t                   &= \dfrac{1}{2} \\\\
+t                   &= 0.5 \text{ hour} \\\\
 \text{Time}         &= \dfrac{35}{50} \\\\
                     &= \dfrac{\cancel{5} \times 7}{\cancel{5} \times 10} \\\\
                     &= \dfrac{7}{10} \\\\
@@ -1283,14 +999,12 @@ $
 \end{aligned}
 $
 
-$0.2$ hours longer on his journey as a result of the roadworks.
-
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$0.2$
+$0.2 \text{ hour}$
 
 </div>
 </div>
@@ -1298,7 +1012,7 @@ $0.2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1316,24 +1030,20 @@ ABBR: $\text {Speed} = \dfrac {\text{Distance}} {\text{Time}}$
 $
 \begin{aligned}
 \text{Distance covered}  &= 20 \text{ minute} \times 18 \text{ km/hr} + 10 \text { minute} \times 6 \text{ km/hr} \\\\
-                         &= 20 \text{ minute} \times \dfrac{18}{60} \text{ km/minute} + 10 \text { minute} \times \dfrac{6}{60} \text{ km/minute} \\\\
-                         &= 20 \times \dfrac{18}{60} + 10 \times \dfrac{6}{60} \\\\
-                         &= \dfrac{18 \times 20}{60} + \dfrac{6 \times 10}{60} \\\\
-                         &= \dfrac{\cancel{6} \times 3 \times 2 \times \cancel{10}}{\cancel{6} \times \cancel{10}} + \dfrac{\cancel{6} \times \cancel{10}}{\cancel{6} \times \cancel{10}} \\\\
-                         &= 3 \times 2 + 1 \\\\
+                         &= \dfrac{20}{60} \text{ hour} \times 18 \text{ km/hr} + \dfrac{10}{60} \text { hour} \times 6 \text{ km/hr} \\\\
+                         &= \dfrac{20}{60} \times 18 + \dfrac{10}{60} \times 6 \\\\
+                         &= \dfrac{20 \times 18}{60} + \dfrac{10 \times 6}{60} \\\\
+                         &= \dfrac{20 \times 6 \times 3}{20 \times 3} + \dfrac{10 \times 6}{10 \times 6} \\\\
+                         &= \dfrac{\cancel{20} \times 6 \times \cancel{3}}{\cancel{20} \times \cancel{3}} + \dfrac{\cancel{10} \times \cancel{6}}{\cancel{10} \times \cancel{6}} \\\\
                          &= 6 + 1 \\\\
                          &= 7 \text{ km} \\\\
-\text{Total time taken}  &= 20 + 10 \\\\
-                         &= 30 \text{ minutes} \\\\
-                         &= \dfrac{30}{60} \text{ hours} \\\\
-                         &= \dfrac{\cancel{3} \times \cancel{10}}{\cancel{3} \times 2 \times \cancel{10}} \\\\
-                         &= \dfrac{1}{2} \\\\
-                         &= 0.5 \text{ hours} \\\\
-\text{Average speed}     &= \dfrac{7}{0.5} \\\\
-                         &= \dfrac{7 \times 10}{0.5 \times 10} \\\\
-                         &= \dfrac{70}{5} \\\\
-                         &= \dfrac{14 \times 5}{5} \\\\
-                         &= \dfrac{14 \times \cancel{5}}{\cancel{5}} \\\\
+\text{Average speed}     &= \dfrac{7 \text{ km}}{20 + 10 \text{ minutes}} \\\\
+                         &= \dfrac{7 \text{ km}}{30 \text{ minutes}} \\\\
+                         &= \dfrac{7 \times 60 \text{ km}}{30 \text{ hours}} \\\\
+                         &= \dfrac{7 \times 60}{30} \\\\
+                         &= \dfrac{7 \times 30 \times 2}{30} \\\\
+                         &= \dfrac{7 \times \cancel{30} \times 2}{\cancel{30}} \\\\
+                         &= 7 \times 2 \\\\
                          &= 14 \text{ km/hr}
 \end{aligned}
 $
@@ -1356,18 +1066,37 @@ $14 \text{ km/hr}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Chrystine's candle is $42 \ \text{cm}$ tall and burns at a rate of $3 \ \text{cm}$ every $30 \ \text{minutes}$.
 Kieran's candle is $30 \ \text{cm}$ tall and burns at a rate of $2 \ \text{cm}$ every $40 \ \text{minutes}$.
+
 They both light their candles at the same time.
 
-How much longer does Kieran's candle take to burn completely down than Chrystine's candle?
+</div>
+<div class='workings'>
+<div class='working'>
 
-After how many minutes were the candles the same height?
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How much longer does Kieran's candle take to burn completely down than Chrystine's candle?
 
 </div>
 <div class='workings'>
@@ -1378,57 +1107,30 @@ ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 $
 \begin{aligned}
-\text{Time taken by chrystine's to burn down completely}  &=  \dfrac{42 \text{ cm}}{3 \text { cm per } 30 \text{ minutes}} \\\\ 
-                                                          &=  \dfrac{42 \text{ cm}}{\dfrac{3}{30} \text { cm per minute}} \\\\ 
-                                                          &=  \dfrac{42}{\dfrac{3}{30}} \\\\ 
-                                                          &=  \dfrac{42 \times 30}{3} \\\\ 
-                                                          &=  \dfrac{42 \times 3 \times 10}{3} \\\\ 
-                                                          &=  \dfrac{42 \times \cancel{3} \times 10}{\cancel{3}} \\\\ 
-                                                          &=  42 \times 10 \\\\ 
-                                                          &=  420 \text{ minutes} \\\\ 
-\text{Time taken by Kieran's to burn down completely}     &=  \dfrac{30 \text{ cm}}{2 \text { cm per } 40 \text{ minutes}} \\\\ 
-                                                          &=  \dfrac{30 \text{ cm}}{\dfrac{2}{40} \text { cm per minute}} \\\\ 
-                                                          &=  \dfrac{30}{\dfrac{2}{40}} \\\\ 
-                                                          &=  \dfrac{30 \times 40}{2} \\\\ 
-                                                          &=  \dfrac{30 \times 20 \times 2}{2} \\\\ 
-                                                          &=  \dfrac{30 \times 20 \times \cancel{2}}{\cancel{2}} \\\\ 
-                                                          &=  30 \times 20 \\\\ 
-                                                          &=  600 \text{ minutes} \\\\
-\text{Difference}                                         &= 600 - 420 \\\\
-                                                          &= 180 \text{ minutes} \\\\
-                                                          &= \dfrac{180}{60} \text{ hours} \\\\
-                                                          &= \dfrac{3 \times 60}{60} \text{ hours} \\\\
-                                                          &= \dfrac{3 \times \cancel{60}}{\cancel{60}} \text{ hours} \\\\
-                                                          &= 3 \text{ hours}
+\text{Burn rate for Chrystine}   &= \dfrac{3}{30} \text { cm per minute} \\\\
+\text{Time taken }               &= \dfrac {42} { \dfrac{3}{30} } \\\\
+                                 &= \dfrac{42 \times 30}{3} \\\\ 
+                                 &= \dfrac{42 \times 3 \times 10}{3} \\\\ 
+                                 &= \dfrac{42 \times \cancel{3} \times 10}{\cancel{3}} \\\\ 
+                                 &= 42 \times 10 \\\\ 
+                                 &= 420 \text{ minutes} \\\\ 
+\text{Burn rate for Kieran}      &= \dfrac{2}{40} \text { cm per minute} \\\\
+\text{Time taken }               &= \dfrac {30} { \dfrac{2}{40} } \\\\
+                                 &= \dfrac{30 \times 40}{2} \\\\ 
+                                 &= \dfrac{30 \times 20 \times 2}{2} \\\\ 
+                                 &= \dfrac{30 \times 20 \times \cancel{2}}{\cancel{2}} \\\\ 
+                                 &= 30 \times 20 \\\\ 
+                                 &= 600 \text{ minutes} \\\\
+\text{Extra time}                &= 600 - 420 \\\\
+                                 &= 180 \text{ minutes} \\\\
+                                 &= \dfrac{180}{60} \text{ hours} \\\\
+                                 &= \dfrac{3 \times 60}{60} \\\\
+                                 &= \dfrac{3 \times \cancel{60}}{\cancel{60}} \\\\
+                                 &= 3 \text{ hours}
 \end{aligned}
 $
 
 Kieran's candle takes $3$ hours longer to burn completely down than Chrystine's candle.
-
-Let the time taken by Kieran's candles be the same height as Chrystine's candle $= t$
-
-As per the question,
-
-$
-\begin{aligned}
-42 - 3 \text { cm per } 30 \text{ minutes} \times t \text{ minutes}  &= 30 - 2 \text { cm per } 40 \text{ minutes} \times t \text{ minutes} \\\\
-42 - \dfrac{3}{30} \text { cm per minute} \times t \text{ minutes}   &= 30 - \dfrac{2}{40} \text { cm per minute} \times t \text{ minutes} \\\\
-42 - \dfrac{3}{30} \times t                                          &= 30 - \dfrac{2}{40} \times t \\\\
-42 - \dfrac{3}{3 \times 10} \times t                                 &= 30 - \dfrac{2}{2 \times 20} \times t \\\\
-42 - \dfrac{\cancel{3}}{\cancel{3} \times 10} \times t               &= 30 - \dfrac{\cancel{2}}{\cancel{2} \times 20} \times t \\\\
-42 - \dfrac{t}{10}                                                   &= 30 - \dfrac{t}{20} \\\\
-30 - \dfrac{t}{20}                                                   &= 42 - \dfrac{t}{10} \\\\
-\dfrac{t}{10} - \dfrac{t}{20}                                        &= 42 - 30 \\\\
-\dfrac{t \times 2}{10 \times 2} - \dfrac{t}{20}                      &= 12 \\\\
-\dfrac{2t}{20} - \dfrac{t}{20}                                       &= 12 \\\\
-\dfrac{2t - t}{20}                                                   &= 12 \\\\
-\dfrac{t}{20}                                                        &= 12 \\\\
-t                                                                    &= 12 \times 20 \\\\
-t                                                                    &= 240 \text{ minutes}
-\end{aligned}
-$
-
-After $240$ minutes, both candles are the same height.
 
 </div>
 </div>
@@ -1438,6 +1140,48 @@ After $240$ minutes, both candles are the same height.
 $3 \text{ hours}$
 
 </div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+After how many minutes were the candles the same height?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
+
+
+Let both candles are the same height at time (in minutes) $= t$
+
+As per the question,
+
+$
+\begin{aligned}
+42 - \dfrac{3}{30} \times t                                          &= 30 - \dfrac{2}{40} \times t \\\\
+42 - \dfrac{3t}{30}                                                  &= 30 - \dfrac{2t}{40} \\\\
+42 - \dfrac{t}{10}                                                   &= 30 - \dfrac{t}{20} \\\\
+30 - \dfrac{t}{20}                                                   &= 42 - \dfrac{t}{10} \\\\
+\dfrac{t}{10} - \dfrac{t}{20}                                        &= 42 - 30 \\\\
+\dfrac{2 \times t}{2 \times 10} - \dfrac{t}{20}                      &= 12 \\\\
+\dfrac{2t}{20} - \dfrac{t}{20}                                       &= 12 \\\\
+\dfrac{2t - t}{20}                                                   &= 12 \\\\
+\dfrac{t}{20}                                                        &= 12 \\\\
+t                                                                    &= 12 \times 20 \\\\
+t                                                                    &= 240 \text{ minutes}
+\end{aligned}
+$
+
+Time $= 240 \text{ minutes}$
+
+</div>
+</div>
+<div class='answers'>
 <div class='answer'>
 
 $240 \text{ minutes}$
@@ -1447,8 +1191,11 @@ $240 \text{ minutes}$
 
 </div>
 </li>
+</ul>
+</div>
+</li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1465,26 +1212,49 @@ ABBR: $\text {Speed} = \dfrac {\text{Distance}} {\text{Time}}$
 
 $
 \begin{aligned}
-\text{Speed}  &= \dfrac{45 \text{ kilometres}}{3 \text{ hours}} \\\\
-              &= \dfrac{45 \text{ kilometres}}{3 \times 60 \text{ minutes}} \\\\
-              &= \dfrac{45}{3 \times 60} \\\\
-              &= \dfrac{\cancel{15} \times \cancel{3}}{\cancel{3} \times \cancel{15} \times 4} \\\\
-              &= \dfrac{1}{4} \\\\
-              &= 0.25 \text{ kilometres/minute} \\\\
-              &= 0.25 \times 1000 \text{ metres/minute} \\\\
-              &= 250 \text{ metres/minute} \\\\
+\text{Speed}  &= \dfrac{45}{3} \\\\
+              &= \dfrac{15 \times 3}{3} \\\\
+              &= \dfrac{15 \times \cancel{3}}{\cancel{3}} \\\\
+              &= 15 \text{ kilometres/hour} \\\\
+              &= 15 \times \dfrac{1000}{60} \text{ metres/minute} \\\\
+              &= \dfrac{15 \times 1000}{60} \\\\
+              &= \dfrac{15 \times 250 \times 4}{15 \times 4} \\\\
+              &= \dfrac{\cancel{15} \times 250 \times \cancel{4}}{\cancel{15} \times \cancel{4}} \\\\
+              &= 250 \text{ metres/minute}
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text{Time taken}  &=  \dfrac{1500 \text{ metres}}{250 \text{ metres/minute}} \\\\
-                   &=  \dfrac{1500}{250} \\\\
+\text{Time taken}  &=  \dfrac{1500}{250} \\\\
                    &=  \dfrac{150\cancel{0}}{25\cancel{0}} \\\\
                    &=  \dfrac{150}{25} \\\\
                    &=  \dfrac{5 \times 5 \times 6}{5 \times 5} \\\\
                    &=  \dfrac{\cancel{5} \times \cancel{5} \times 6}{\cancel{5} \times \cancel{5}} \\\\
                    &=  6 \text{ minutes}
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+Alternative solution
+
+ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
+
+
+Let the time taken in minutes $= t$
+
+$
+\begin{aligned}
+\dfrac{1500}{t}  &= \dfrac{45 \text{ kilometres}}{3 \text{ hours}} \\\\
+\dfrac{1500}{t}  &= \dfrac{45 \times 1000 \text{ metres}}{3 \times 60 \text{ minutes}} \\\\
+\dfrac{1500}{t}  &= \dfrac{45 \times 1000}{3 \times 60}\\\\
+\dfrac{1500}{t}  &= \dfrac{45000}{180}  \\\\
+t                &= \dfrac{180 \times 1500}{45000}  \\\\
+t                &= \dfrac{3 \times 6 \times 10 \times 15 \times 100}{3 \times 15 \times 10 \times 100}  \\\\
+t                &= \dfrac{\cancel{3} \times 6 \times \cancel{10} \times \cancel{15} \times \cancel{100}}{\cancel{3} \times \cancel{15} \times \cancel{10} \times \cancel{100}} \\\\
+t                &= 6 \text{ minutes}
 \end{aligned}
 $
 
@@ -1501,7 +1271,7 @@ $6 \text{ minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1527,17 +1297,11 @@ ABBR: $\text {Speed} = \dfrac {\text{Distance}} {\text{Time}}$
 
 $
 \begin{aligned}
-\text{Speed}  &= \dfrac{80 \text{ km}}{24 \text{ minutes}} \\\\
-              &= \dfrac{80}{24} \text{ km/minute}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Time taken}  &=  \dfrac{150 \text{ km}}{\dfrac{80}{24} \text{ km/minute}} \\\\
-                   &=  \dfrac{150}{\dfrac{80}{24}} \\\\
-                   &=  \dfrac{150 \times 24}{80} \\\\
-                   &=  \dfrac{15 \times \cancel{10} \times 3 \times \cancel{8}}{\cancel{8} \times \cancel{10}} \\\\
+\text{Speed}       &= \dfrac{80}{24} \text{ km/minute} \\\\
+\text{Time taken}  &= \dfrac{150}{\dfrac{80}{24}} \\\\
+                   &= \dfrac{150 \times 24}{80} \\\\
+                   &= \dfrac{15 \times 10 \times 3 \times 8}{8 \times 10} \\\\
+                   &= \dfrac{15 \times \cancel{10} \times 3 \times \cancel{8}}{\cancel{8} \times \cancel{10}} \\\\
                    &=  15 \times 3 \\\\
                    &=  45 \text{ minutes} \\\\
 \end{aligned}
@@ -1559,7 +1323,7 @@ $45 \text{ minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1585,8 +1349,7 @@ ABBR: $\text {Speed} = \dfrac {\text{Distance}} {\text{Time}}$
 
 $
 \begin{aligned}
-\text{Speed}      &=  \dfrac{9 \text{ km}}{45 \text{ minutes}} \\\\
-                  &=  \dfrac{9}{45} \\\\
+\text{Speed}      &=  \dfrac{9}{45} \\\\
                   &=  \dfrac{9}{9 \times 5} \\\\
                   &=  \dfrac{\cancel{9}}{\cancel{9} \times 5} \\\\
                   &=  \dfrac{1}{5} \text{ km/minute} \\\\
@@ -1622,8 +1385,8 @@ ABBR: $\text {Speed} = \dfrac {\text{Distance}} {\text{Time}}$
 
 $
 \begin{aligned}
-\text{Distance travelled}  &= \dfrac{1}{5} \text{ km/minute} \times 1 \text{ hour} \\\\
-                           &= \dfrac{1}{5} \text{ km/minute} \times (1 \times 60) \text{ minutes} \\\\
+\text{Distance travelled}  &= \dfrac{1}{5} \times 1 \text{ hour} \\\\
+                           &= \dfrac{1}{5} \times (1 \times 60) \text{ minutes} \\\\
                            &= \dfrac{1}{5} \times 60 \\\\
                            &= \dfrac{60}{5} \\\\
                            &= \dfrac{12 \times 5}{5} \\\\
@@ -1648,7 +1411,7 @@ $12 \text{ km}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1674,9 +1437,8 @@ ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
 
 $
 \begin{aligned}
-\text{Distance}   &=  50 \text{ km/h} \times 2 \text{ hours} \\\\
-                  &=  50 \times 2  \\\\
-                  &=  100 \text{ km}  \\\\
+\text{Distance}   &=  50 \times 2 \\\\
+                  &=  100 \text{ km}
 \end{aligned}
 $
 
@@ -1702,13 +1464,12 @@ What was his average speed home again if it takes him $2\dfrac{1}{2} \ \text{hou
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
+ABBR: $\text {Speed} = \dfrac {\text{Total distance}} {\text{Total time}}$
 
 
 $
 \begin{aligned}
-\text{Average speed}   &=  \dfrac{100 \text{ km}}{2\dfrac{1}{2} \text{ hours}} \\\\
-                       &=  \dfrac{100}{2\dfrac{1}{2}} \\\\
+\text{Average speed}   &=  \dfrac{100}{2\dfrac{1}{2}} \\\\
                        &=  \dfrac{100}{\dfrac{5}{2}} \\\\
                        &=  \dfrac{100 \times 2}{5} \\\\
                        &=  \dfrac{20 \times 5 \times 2}{5} \\\\
@@ -1734,7 +1495,7 @@ $40 \text{ km/h}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1745,34 +1506,35 @@ Matthew reads at an average rate of $30 \ \text{pages per hour}$, while Alex rea
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
+ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
 
 
 Let the time taken (in minutes) by Matthew $= t$
 
+As per the question,
+
 $
 \begin{aligned}
-40 \text{ pages per hour} \times (t - 50) \text{ minutes}                &=  30 \text{ pages per hour} \times t \text{ minutes} \\\\
-\dfrac{40}{60} \text{ pages per minute} \times (t - 50) \text{ minutes}  &=  \dfrac{30}{60} \text{ pages per minute} \times t \text{ minutes} \\\\
-\dfrac{40}{60} \times (t - 50)                                           &=  \dfrac{30}{60} \times t \\\\
-\dfrac{40 \times (t - 50)}{60}                                           &=  \dfrac{30 \times t}{60} \\\\
-\dfrac{40 \times (t - 50)}{60} \times 60                                 &=  30t \\\\
-\dfrac{40 \times (t - 50)}{\cancel{60}} \times \cancel{60}               &=  30t \\\\
-40 \times (t - 50)                                                       &=  30t \\\\
-40t - 2000                                                               &=  30t \\\\
-40t - 30t                                                                &=  2000 \\\\
-10t                                                                      &=  2000 \\\\
-t                                                                        &=  \dfrac{2000}{10} \\\\
-t                                                                        &=  \dfrac{200 \times 10}{10} \\\\
-t                                                                        &=  \dfrac{200 \times \cancel{10}}{\cancel{10}} \\\\
-t                                                                        &=  200 \text { minutes} \\\\
-t                                                                        &=  3 \text { hours and } 20 \text{ minutes}
+40 \times (t - 50) \text{ minutes}                &=  30 \times t \text{ minutes} \\\\
+40 \times \dfrac{(t - 50)}{60} \text{ hours}      &=  30 \times \dfrac{t}{60} \text{ hours} \\\\
+\dfrac{40 \times (t - 50)}{60}                    &= \dfrac{30 \times t}{60} \\\\
+\dfrac{40t - 2000}{60}                            &= \dfrac{30t}{60} \\\\
+\dfrac{40t - 2000}{60} - \dfrac{30t}{60}          &= 0 \\\\
+\dfrac{40t - 2000 - 30t}{60}                      &= 0 \\\\
+\dfrac{10t - 2000}{60}                            &= 0 \\\\
+10t - 2000                                        &= 60 \times 0 \\\\
+10t - 2000                                        &= 0 \\\\
+10t                                               &= 2000 \\\\
+t                                                 &= \dfrac{2000}{10} \\\\
+t                                                 &= \dfrac{200 \times 10}{10} \\\\
+t                                                 &= \dfrac{200 \times \cancel{10}}{\cancel{10}} \\\\
+t                                                 &= 200 \text{ minutes}
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text{Time}   &=   4{:}30 + 3 \text { hours and } 20 \text{ minutes} \\\\
+\text{Time}   &=   4{:}30 + 200 \text{ minutes} \\\\
               &=   7{:}50
 \end{aligned}
 $
@@ -1792,7 +1554,7 @@ $7{:}50$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1818,9 +1580,8 @@ ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
 
 $
 \begin{aligned}
-\text{Distance}   &=  12 \text{ mph} \times 4 \text{ hours} \\\\
-                  &=  12 \times 4  \\\\
-                  &=  48 \text{ m}  \\\\
+\text{Distance}   &=  12 \times 4 \\\\
+                  &=  48 \text{ m}
 \end{aligned}
 $
 
@@ -1851,9 +1612,7 @@ ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
 
 $
 \begin{aligned}
-\text{Distance}   &=  12 \text{ mph} \times 7\dfrac{1}{2} \text{ hours} \\\\
-                  &=  12 \times \dfrac{7 \times 2 + 1}{2}  \\\\
-                  &=  12 \times \dfrac{14 + 1}{2}  \\\\
+\text{Distance}   &=  12 \times 7\dfrac{1}{2} \\\\
                   &=  12 \times \dfrac{15}{2}  \\\\
                   &=  \dfrac{15 \times 12}{2}  \\\\
                   &=  \dfrac{15 \times 6 \times 2}{2}  \\\\
@@ -1890,9 +1649,9 @@ ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
 
 $
 \begin{aligned}
-\text{Distance}   &=  12 \text{ mph} \times 11 \text{ hours } 15  \ \text{minutes} \\\\
-                  &=  12 \text{ mph} \times 11\dfrac{15}{60} \text{ hours}  \\\\
-                  &=  12 \times 11\dfrac{15}{60}  \\\\
+\text{Distance}   &=  12 \times (11 \text{ hours } 15  \ \text{minutes}) \\\\
+                  &=  12 \times 11\dfrac{15}{60} \\\\
+                  &=  12 \times 11\dfrac{15}{60} \\\\
                   &=  12 \times \dfrac{11 \times 60 + 15}{60}  \\\\
                   &=  12 \times \dfrac{660 + 15}{60}  \\\\
                   &=  12 \times \dfrac{675}{60}  \\\\
@@ -1919,7 +1678,7 @@ $135 \text{ m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1947,8 +1706,7 @@ $
 \begin{aligned}
 \text{Time taken}   &= 1{:}00 - 10{:}00 \\\\ 
                     &= 3 \text{ hours} \\\\ 
-\text{Distance}     &= 60 \text{ mph} \times 3 \text{ hours} \\\\
-                    &= 60 \times 3 \\\\
+\text{Distance}     &= 60 \times 3 \\\\
                     &= 180 \text{ m}
 \end{aligned}
 $
@@ -1984,8 +1742,7 @@ $
 \begin{aligned}
 \text{Time taken}   &= 3{:}00 - 1{:}00 \\\\ 
                     &= 2 \text{ hours} \\\\ 
-\text{Distance}     &= 30 \text{ mph} \times 2 \text{ hours} \\\\
-                    &= 30 \times 2 \\\\
+\text{Distance}     &= 30 \times 2 \\\\
                     &= 60 \text{ m}
 \end{aligned}
 $
@@ -2014,8 +1771,7 @@ What is the total distance he has travelled?
 
 $
 \begin{aligned}
-\text{Total distance}   &=  180 \text{ m} + 60 \text{ m} \\\\ 
-                        &=  180  + 60 \\\\ 
+\text{Total distance}   &=  180  + 60 \\\\ 
                         &=  240 \text{ m}
 \end{aligned}
 $
@@ -2071,13 +1827,12 @@ What is his average speed for the whole journey?
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
+ABBR: $\text {Speed} = \dfrac {\text{Total distance}} {\text{Total time}}$
 
 
 $
 \begin{aligned}
-\text{Average speed}   &= \dfrac{240 \text { m}}{5 \text{ hours}}  \\\\ 
-                       &= \dfrac{240}{5} \\\\
+\text{Average speed}   &= \dfrac{240}{5} \\\\ 
                        &= \dfrac{48 \times 5}{5} \\\\
                        &= \dfrac{48 \times \cancel{5}}{\cancel{5}} \\\\
                        &= 48 \text{ mph}
@@ -2100,7 +1855,7 @@ $48 \text{ mph}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2128,8 +1883,7 @@ $
 \begin{aligned}
 \text{Time taken}  &= 1{:}00 - 9{:}00 \\\\
                    &= 4 \text{ hours} \\\\
-\text{Distance}    &= 9 \text{ miles per hour} \times 4 \text{ hours} \\\\
-                   &= 9 \times 4 \\\\
+\text{Distance}    &= 9 \times 4 \\\\
                    &= 36 \text{ miles}
 \end{aligned}
 $
@@ -2186,15 +1940,14 @@ if he started walking at $1.00  \ \text{pm}$?
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text {Speed} = \dfrac {\text{Distance}} {\text{Time}}$
+ABBR: $\text {Speed} = \dfrac {\text{Total distance}} {\text{Total time}}$
 
 
 $
 \begin{aligned}
 \text{Time taken}       &= 5{:}00 - 1{:}00 \\\\
                         &= 4 \text{ hours} \\\\
-\text{Average speed}    &= \dfrac{8 \text{ miles}}{4 \text{ hours}} \\\\
-                        &= \dfrac{8}{4} \\\\
+\text{Average speed}    &= \dfrac{8}{4} \\\\
                         &= \dfrac{2 \times 4}{4} \\\\
                         &= \dfrac{2 \times \cancel{4}}{\cancel{4}} \\\\
                         &= 2 \text{ miles per hour} \\\\
@@ -2223,13 +1976,12 @@ He catches a train back from Leicester to Birmingham, and travels at $66 \ \text
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text {Speed} = \dfrac {\text{Distance}} {\text{Time}}$
+ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 
 $
 \begin{aligned}
-\text{Time taken}  &=  \dfrac{44 \text{ miles}}{66 \text{ miles per hour}} \\\\
-                   &=  \dfrac{44}{66} \\\\
+\text{Time taken}  &=  \dfrac{44}{66} \\\\
                    &=  \dfrac{2 \times 2 \times 11}{2 \times 3 \times 11} \\\\
                    &=  \dfrac{2 \times \cancel{2} \times \cancel{11}}{\cancel{2} \times 3 \times \cancel{11}} \\\\
                    &=  \dfrac{2}{3} \text{ hours}
@@ -2252,7 +2004,7 @@ $\dfrac{2}{3} \text{ hours}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2268,13 +2020,11 @@ ABBR: $\text {Speed} = \dfrac {\text{Distance}} {\text{Time}}$
 
 $
 \begin{aligned}
-\text{Speed}   &=  \dfrac{18 \text{ miles}}{3 \text{ hours}} \\\\
-               &=  \dfrac{18}{3} \\\\
+\text{Speed}   &=  \dfrac{18}{3} \\\\
                &=  \dfrac{6 \times 3}{3} \\\\
                &=  \dfrac{6 \times \cancel{3}}{\cancel{3}} \\\\
                &=  6 \text{ miles/hour} \\\\
-\text{Distance}&=  6 \text{ miles/hour} \times 2 \text{ hours} \\\\
-               &=  6 \times 2 \\\\
+\text{Distance}&=  6 \times 2 \\\\
                &=  12 \text{ miles}
 \end{aligned}
 $
@@ -2292,7 +2042,7 @@ $12 \text{ miles}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2308,13 +2058,14 @@ ABBR: $\text {Speed} = \dfrac {\text{Distance}} {\text{Time}}$
 
 $
 \begin{aligned}
-\text{Speed}     &=  \dfrac{24 \text{ kilometres}}{4 \text{ hours}} \\\\
-                 &=  \dfrac{24}{4} \\\\
+\text{Speed}     &=  \dfrac{24}{4} \\\\
                  &=  \dfrac{6 \times 4}{4} \\\\
                  &=  \dfrac{6 \times \cancel{4}}{\cancel{4}} \\\\
                  &=  6 \text{ kilometres/hour} \\\\
-\text{Time taken}&=  \dfrac{15 \text{ kilometres}}{6 \text{ miles/hour}} \\\\
-                 &=  \dfrac{15}{6} \\\\
+\text{Time taken}&=  \dfrac{15}{6} \\\\
+                 &=  \dfrac{3 \times 5}{3 \times 2} \\\\
+                 &=  \dfrac{\cancel{3} \times 5}{\cancel{3} \times 2} \\\\
+                 &=  \dfrac{5}{2} \\\\
                  &=  2.5 \text{ hours or } 2 \text{ hours and } 30 \text{ minutes}
 \end{aligned}
 $
@@ -2332,7 +2083,48 @@ $2.5 \text{ hours or } 2 \text{ hours and } 30 \text{ minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Jacqueline and Sophia stand facing one another. At exactly the same moment both girls start to turn steadily on the spot.
+
+It takes Jaqueline 3 seconds to make one full turn, whilst Sophia takes 4 seconds to complete one full turn.
+
+How many times will Jaqueline have turned when the girls are next facing each other? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+LCM of $3,4 = 12$
+
+Time taken $= 12 \text{ seconds}$
+
+$
+\begin{aligned}
+\text{Number of turns}  &=  \dfrac{12}{3} \\\\
+                        &=  \dfrac{3 \times 4}{3} \\\\
+                        &=  \dfrac{\cancel{3} \times 4}{\cancel{3}} \\\\
+                        &=  4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2348,8 +2140,7 @@ ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
 
 $
 \begin{aligned}
-\text{Distance}  &=  193 \text { metres per second} \times (5 \text{ minutes } 7 \text{ seconds}) \\\\ 
-                 &=  193 \text { metres per second} \times (5 \times 60 + 7) \text{ seconds} \\\\ 
+\text{Distance}  &=  193 \times (5 \text{ minutes } 7 \text{ seconds}) \\\\ 
                  &=  193 \times (5 \times 60 + 7) \\\\ 
                  &=  193 \times (300 + 7) \\\\ 
                  &=  193 \times 307 \\\\ 
@@ -2358,7 +2149,7 @@ $
                  &\approx  \dfrac{60000}{1000} \text{ km} \\\\ 
                  &\approx  \dfrac{60 \times 1000}{1000} \\\\ 
                  &\approx  \dfrac{60 \times \cancel{1000}}{\cancel{1000}} \\\\ 
-                 &\approx  60 \text{ km} \\\\ 
+                 &\approx  60 \text{ km}
 \end{aligned}
 $
 
@@ -2377,7 +2168,7 @@ $60$ km
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2416,13 +2207,11 @@ Shortest distance
 
 $
 \begin{aligned} 
-\text {Shortest route}  &= \text {S to B to E to D to T} \\\\
-                        &= 4 + 3 + 1 + 1 + 1 \\\\
-                        &= 10 \ \text{miles}
+\text {Shortest Distance}  &= \text {S to B to E to D to T} \\\\
+                           &= 4 + 3 + 1 + 1 + 1 \\\\
+                           &= 10 \ \text{miles}
 \end{aligned}
 $
-
-Shortest distance $= 10 \ \text{miles}$
 
 </div>
 </div>
@@ -2476,9 +2265,8 @@ ABBR: $\text {Speed} = \dfrac {\text{Distance}} {\text{Time}}$
 
 $
 \begin{aligned}
-\text{Time Isobel takes}     &= \dfrac {10 \ \text {miles}} {15 \ \text {miles per hour}} \\\\
-                             &= \dfrac {10 \ \text {miles}} {\dfrac{15}{60} \ \text {miles per min}} \\\\
-                             &= 10  \times \dfrac {60} {15} \\\\
+\text{Time Isobel takes}     &= \dfrac {10} {15 \ \text {miles per hour}} \\\\
+                             &= \dfrac {10 \times 60} {15 \ \text {miles per min}} \\\\
                              &= \dfrac {10 \times 60} {15} \\\\
                              &= \dfrac {5 \times 2 \times 3 \times 20} {5 \times 3} \\\\
                              &= \dfrac {\cancel 5 \times 2 \times \cancel 3 \times 20} {\cancel 5 \times \cancel 3} \\\\
@@ -2486,8 +2274,6 @@ $
                              &= 40 \ \text {min}
 \end{aligned}
 $
-
-The shortest time Isobel will take to complete the journey $= 40 \ \text {min}$ 
 
 </div>
 </div>
@@ -2509,8 +2295,6 @@ Isobel listens to the local radio before setting off on her journey one morning.
 She discovers that the road between $E$ and $F$ is completely blocked due to an earlier accident 
 and she is forced to choose an alternative route to work. 
 What is the least number of **additional** minutes that she will take to cycle to work today?
-
-![the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1/section-1-question-28-subquestion-4-00.png](/assets/the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1/section-1-question-28-subquestion-4-00.png "the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1/section-1-question-28-subquestion-4-00.png")
 
 </div>
 <div class='workings'>

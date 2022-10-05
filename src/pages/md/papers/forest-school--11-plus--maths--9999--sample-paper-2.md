@@ -1,7 +1,7 @@
 ---
 slug: "papers/forest-school-11-plus-maths-9999-sample-paper-2"
 title: "Forest School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "38"
 ---
 <div class='paper'>
@@ -1046,7 +1046,7 @@ $90$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1068,14 +1068,10 @@ The next term is calculated by adding $4$ to the first term and the number of ti
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {({} + 4 \times 1)} }
-&&  \footnotesize {\maroonC
- {({} + 4 \times 2)} }
-&&  \footnotesize {\maroonC
- {({} + 4 \times 3)} }
-&&  \footnotesize {\maroonC
- {({} + 4 \times 4)} }  \\
+&   \footnotesize {\maroonC {({} + 4 \times 1)} }
+&&  \footnotesize {\maroonC {({} + 4 \times 2)} }
+&&  \footnotesize {\maroonC {({} + 4 \times 3)} }
+&&  \footnotesize {\maroonC {({} + 4 \times 4)} }  \\
 6,  &&   10,  &&  14, &&  18, && \ldots
 \end{matrix}
 $
@@ -1270,7 +1266,7 @@ $9 \ \text{ounces}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1306,7 +1302,7 @@ $9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1324,24 +1320,20 @@ ABBR: $\text {Speed} = \dfrac {\text{Distance}} {\text{Time}}$
 $
 \begin{aligned}
 \text{Distance covered}  &= 20 \text{ minute} \times 18 \text{ km/hr} + 10 \text { minute} \times 6 \text{ km/hr} \\\\
-                         &= 20 \text{ minute} \times \dfrac{18}{60} \text{ km/minute} + 10 \text { minute} \times \dfrac{6}{60} \text{ km/minute} \\\\
-                         &= 20 \times \dfrac{18}{60} + 10 \times \dfrac{6}{60} \\\\
-                         &= \dfrac{18 \times 20}{60} + \dfrac{6 \times 10}{60} \\\\
-                         &= \dfrac{\cancel{6} \times 3 \times 2 \times \cancel{10}}{\cancel{6} \times \cancel{10}} + \dfrac{\cancel{6} \times \cancel{10}}{\cancel{6} \times \cancel{10}} \\\\
-                         &= 3 \times 2 + 1 \\\\
+                         &= \dfrac{20}{60} \text{ hour} \times 18 \text{ km/hr} + \dfrac{10}{60} \text { hour} \times 6 \text{ km/hr} \\\\
+                         &= \dfrac{20}{60} \times 18 + \dfrac{10}{60} \times 6 \\\\
+                         &= \dfrac{20 \times 18}{60} + \dfrac{10 \times 6}{60} \\\\
+                         &= \dfrac{20 \times 6 \times 3}{20 \times 3} + \dfrac{10 \times 6}{10 \times 6} \\\\
+                         &= \dfrac{\cancel{20} \times 6 \times \cancel{3}}{\cancel{20} \times \cancel{3}} + \dfrac{\cancel{10} \times \cancel{6}}{\cancel{10} \times \cancel{6}} \\\\
                          &= 6 + 1 \\\\
                          &= 7 \text{ km} \\\\
-\text{Total time taken}  &= 20 + 10 \\\\
-                         &= 30 \text{ minutes} \\\\
-                         &= \dfrac{30}{60} \text{ hours} \\\\
-                         &= \dfrac{\cancel{3} \times \cancel{10}}{\cancel{3} \times 2 \times \cancel{10}} \\\\
-                         &= \dfrac{1}{2} \\\\
-                         &= 0.5 \text{ hours} \\\\
-\text{Average speed}     &= \dfrac{7}{0.5} \\\\
-                         &= \dfrac{7 \times 10}{0.5 \times 10} \\\\
-                         &= \dfrac{70}{5} \\\\
-                         &= \dfrac{14 \times 5}{5} \\\\
-                         &= \dfrac{14 \times \cancel{5}}{\cancel{5}} \\\\
+\text{Average speed}     &= \dfrac{7 \text{ km}}{20 + 10 \text{ minutes}} \\\\
+                         &= \dfrac{7 \text{ km}}{30 \text{ minutes}} \\\\
+                         &= \dfrac{7 \times 60 \text{ km}}{30 \text{ hours}} \\\\
+                         &= \dfrac{7 \times 60}{30} \\\\
+                         &= \dfrac{7 \times 30 \times 2}{30} \\\\
+                         &= \dfrac{7 \times \cancel{30} \times 2}{\cancel{30}} \\\\
+                         &= 7 \times 2 \\\\
                          &= 14 \text{ km/hr}
 \end{aligned}
 $
@@ -1364,7 +1356,7 @@ $14 \text{ km/hr}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1618,18 +1610,37 @@ $0.005$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Chrystine's candle is $42 \ \text{cm}$ tall and burns at a rate of $3 \ \text{cm}$ every $30 \ \text{minutes}$.
 Kieran's candle is $30 \ \text{cm}$ tall and burns at a rate of $2 \ \text{cm}$ every $40 \ \text{minutes}$.
+
 They both light their candles at the same time.
 
-How much longer does Kieran's candle take to burn completely down than Chrystine's candle?
+</div>
+<div class='workings'>
+<div class='working'>
 
-After how many minutes were the candles the same height?
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How much longer does Kieran's candle take to burn completely down than Chrystine's candle?
 
 </div>
 <div class='workings'>
@@ -1640,57 +1651,30 @@ ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 $
 \begin{aligned}
-\text{Time taken by chrystine's to burn down completely}  &=  \dfrac{42 \text{ cm}}{3 \text { cm per } 30 \text{ minutes}} \\\\ 
-                                                          &=  \dfrac{42 \text{ cm}}{\dfrac{3}{30} \text { cm per minute}} \\\\ 
-                                                          &=  \dfrac{42}{\dfrac{3}{30}} \\\\ 
-                                                          &=  \dfrac{42 \times 30}{3} \\\\ 
-                                                          &=  \dfrac{42 \times 3 \times 10}{3} \\\\ 
-                                                          &=  \dfrac{42 \times \cancel{3} \times 10}{\cancel{3}} \\\\ 
-                                                          &=  42 \times 10 \\\\ 
-                                                          &=  420 \text{ minutes} \\\\ 
-\text{Time taken by Kieran's to burn down completely}     &=  \dfrac{30 \text{ cm}}{2 \text { cm per } 40 \text{ minutes}} \\\\ 
-                                                          &=  \dfrac{30 \text{ cm}}{\dfrac{2}{40} \text { cm per minute}} \\\\ 
-                                                          &=  \dfrac{30}{\dfrac{2}{40}} \\\\ 
-                                                          &=  \dfrac{30 \times 40}{2} \\\\ 
-                                                          &=  \dfrac{30 \times 20 \times 2}{2} \\\\ 
-                                                          &=  \dfrac{30 \times 20 \times \cancel{2}}{\cancel{2}} \\\\ 
-                                                          &=  30 \times 20 \\\\ 
-                                                          &=  600 \text{ minutes} \\\\
-\text{Difference}                                         &= 600 - 420 \\\\
-                                                          &= 180 \text{ minutes} \\\\
-                                                          &= \dfrac{180}{60} \text{ hours} \\\\
-                                                          &= \dfrac{3 \times 60}{60} \text{ hours} \\\\
-                                                          &= \dfrac{3 \times \cancel{60}}{\cancel{60}} \text{ hours} \\\\
-                                                          &= 3 \text{ hours}
+\text{Burn rate for Chrystine}   &= \dfrac{3}{30} \text { cm per minute} \\\\
+\text{Time taken }               &= \dfrac {42} { \dfrac{3}{30} } \\\\
+                                 &= \dfrac{42 \times 30}{3} \\\\ 
+                                 &= \dfrac{42 \times 3 \times 10}{3} \\\\ 
+                                 &= \dfrac{42 \times \cancel{3} \times 10}{\cancel{3}} \\\\ 
+                                 &= 42 \times 10 \\\\ 
+                                 &= 420 \text{ minutes} \\\\ 
+\text{Burn rate for Kieran}      &= \dfrac{2}{40} \text { cm per minute} \\\\
+\text{Time taken }               &= \dfrac {30} { \dfrac{2}{40} } \\\\
+                                 &= \dfrac{30 \times 40}{2} \\\\ 
+                                 &= \dfrac{30 \times 20 \times 2}{2} \\\\ 
+                                 &= \dfrac{30 \times 20 \times \cancel{2}}{\cancel{2}} \\\\ 
+                                 &= 30 \times 20 \\\\ 
+                                 &= 600 \text{ minutes} \\\\
+\text{Extra time}                &= 600 - 420 \\\\
+                                 &= 180 \text{ minutes} \\\\
+                                 &= \dfrac{180}{60} \text{ hours} \\\\
+                                 &= \dfrac{3 \times 60}{60} \\\\
+                                 &= \dfrac{3 \times \cancel{60}}{\cancel{60}} \\\\
+                                 &= 3 \text{ hours}
 \end{aligned}
 $
 
 Kieran's candle takes $3$ hours longer to burn completely down than Chrystine's candle.
-
-Let the time taken by Kieran's candles be the same height as Chrystine's candle $= t$
-
-As per the question,
-
-$
-\begin{aligned}
-42 - 3 \text { cm per } 30 \text{ minutes} \times t \text{ minutes}  &= 30 - 2 \text { cm per } 40 \text{ minutes} \times t \text{ minutes} \\\\
-42 - \dfrac{3}{30} \text { cm per minute} \times t \text{ minutes}   &= 30 - \dfrac{2}{40} \text { cm per minute} \times t \text{ minutes} \\\\
-42 - \dfrac{3}{30} \times t                                          &= 30 - \dfrac{2}{40} \times t \\\\
-42 - \dfrac{3}{3 \times 10} \times t                                 &= 30 - \dfrac{2}{2 \times 20} \times t \\\\
-42 - \dfrac{\cancel{3}}{\cancel{3} \times 10} \times t               &= 30 - \dfrac{\cancel{2}}{\cancel{2} \times 20} \times t \\\\
-42 - \dfrac{t}{10}                                                   &= 30 - \dfrac{t}{20} \\\\
-30 - \dfrac{t}{20}                                                   &= 42 - \dfrac{t}{10} \\\\
-\dfrac{t}{10} - \dfrac{t}{20}                                        &= 42 - 30 \\\\
-\dfrac{t \times 2}{10 \times 2} - \dfrac{t}{20}                      &= 12 \\\\
-\dfrac{2t}{20} - \dfrac{t}{20}                                       &= 12 \\\\
-\dfrac{2t - t}{20}                                                   &= 12 \\\\
-\dfrac{t}{20}                                                        &= 12 \\\\
-t                                                                    &= 12 \times 20 \\\\
-t                                                                    &= 240 \text{ minutes}
-\end{aligned}
-$
-
-After $240$ minutes, both candles are the same height.
 
 </div>
 </div>
@@ -1700,6 +1684,48 @@ After $240$ minutes, both candles are the same height.
 $3 \text{ hours}$
 
 </div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+After how many minutes were the candles the same height?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
+
+
+Let both candles are the same height at time (in minutes) $= t$
+
+As per the question,
+
+$
+\begin{aligned}
+42 - \dfrac{3}{30} \times t                                          &= 30 - \dfrac{2}{40} \times t \\\\
+42 - \dfrac{3t}{30}                                                  &= 30 - \dfrac{2t}{40} \\\\
+42 - \dfrac{t}{10}                                                   &= 30 - \dfrac{t}{20} \\\\
+30 - \dfrac{t}{20}                                                   &= 42 - \dfrac{t}{10} \\\\
+\dfrac{t}{10} - \dfrac{t}{20}                                        &= 42 - 30 \\\\
+\dfrac{2 \times t}{2 \times 10} - \dfrac{t}{20}                      &= 12 \\\\
+\dfrac{2t}{20} - \dfrac{t}{20}                                       &= 12 \\\\
+\dfrac{2t - t}{20}                                                   &= 12 \\\\
+\dfrac{t}{20}                                                        &= 12 \\\\
+t                                                                    &= 12 \times 20 \\\\
+t                                                                    &= 240 \text{ minutes}
+\end{aligned}
+$
+
+Time $= 240 \text{ minutes}$
+
+</div>
+</div>
+<div class='answers'>
 <div class='answer'>
 
 $240 \text{ minutes}$
@@ -1707,6 +1733,9 @@ $240 \text{ minutes}$
 </div>
 </div>
 
+</div>
+</li>
+</ul>
 </div>
 </li>
 </ul>

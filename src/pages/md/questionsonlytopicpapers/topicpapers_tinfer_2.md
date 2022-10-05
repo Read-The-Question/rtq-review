@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tinfer-2"
 title: "TopicPaper - Infer - 2"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "40"
 ---
 <div class='paper'>
@@ -40,7 +40,7 @@ The centre pages of a book are numbered $28$ and $29$. How many pages are in the
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -85,7 +85,7 @@ Complete the network of grids below with the correct number into each of the rel
 <div class='question subquestion'>
 
 In the final network of grids below, the numbers must be all whole number greater than zero, 
-and **the same number must not appear more than once**.
+and the same number must not appear more than once.
 
 Complete this final network below with the correct number into each of the relevant squares or circles.
 
@@ -194,7 +194,7 @@ Write down the number which will appear at the top of the tower.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -208,9 +208,6 @@ For example:
 ![dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-00.png") 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-01.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-01.png "dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-01.png")
 
-![dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-02.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-02.png "dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-02.png")
-![dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-03.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-03.png "dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-03.png")
-
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
@@ -220,7 +217,6 @@ For example:
 Show the effect of pressing button $7$ by shading squares on the pattern below:
 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-subquestion-1-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-subquestion-1-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-subquestion-1-00.png")
-![dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-subquestion-1-01.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-subquestion-1-01.png "dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-subquestion-1-01.png")
 
 </div>
 
@@ -230,7 +226,7 @@ Show the effect of pressing button $7$ by shading squares on the pattern below:
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The object of the game is to make all the squares white. Which **two** buttons could you press from the following position to win the game?
+The object of the game is to make all the squares white. Which two buttons could you press from the following position to win the game?
 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-subquestion-2-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-subquestion-2-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-subquestion-2-00.png")
 
@@ -272,31 +268,24 @@ is a multiple of $3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Write each of the numbers $80, 81, 82, 83, 84$ and $85$ in the spaces below, using each number only once, to make all of the statements true.
 
+$\ldots$ is a square number.
 
-$\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore } \qquad$
-is a square number
+$\ldots$ is a prime number.
 
-$\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore } \qquad$ 
-is a prime number
+$\ldots$ is a multiple of $5$.
 
-$\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore } \qquad$
-is a multiple of $5$
+$\ldots$ is the product of two prime numbers.
 
-$\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore } \qquad$
-is the product of two prime numbers
+$\ldots$ is double a prime number.
 
-$\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore } \qquad$
-is double a prime number
-
-$\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore } \qquad$
-is a multiple of $3$  
+$\ldots$ is a multiple of $3$.
 
 </div>
 
@@ -339,7 +328,7 @@ Work out the area of the shaded triangle in each case.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -354,7 +343,7 @@ Sarah has designed a tile for her new kitchen as shown below.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Complete the grid below to show the tile if it is **rotated** through a quarter turn clockwise.
+Complete the grid below to show the tile if it is rotated through a quarter turn clockwise.
 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-g/section-1-question-22-subquestion-1-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-g/section-1-question-22-subquestion-1-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-g/section-1-question-22-subquestion-1-00.png")
 
@@ -366,7 +355,7 @@ Complete the grid below to show the tile if it is **rotated** through a quarter 
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Sarah decides to **reflect** the tile in the dashed line shown below and **then rotate** it through 
+Sarah decides to reflect the tile in the dashed line shown below and then rotate it through 
 half a turn.
 
 Draw the resulting tile on the grid below. You may complete the middle tile if you wish.
@@ -578,7 +567,7 @@ As it was raining Tom stayed inside last Sunday.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -589,19 +578,22 @@ Each time he turned right he walked $2 \ \text{metres}$ less than he did the tim
 
 ![emanuel-school--11-plus--maths--9999--sample-paper-1/section-1-question-26-00.png](/assets/emanuel-school--11-plus--maths--9999--sample-paper-1/section-1-question-26-00.png "emanuel-school--11-plus--maths--9999--sample-paper-1/section-1-question-26-00.png")
 
-On the last part of his journey before stopping he walked one metre. How far did he walk altogether? 
+On the last part of his journey before stopping he walked one $\text{metre}$. How far did he walk altogether? 
 
 </div>
 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-![emanuel-school--11-plus--maths--9999--sample-paper-1/section-1-question-27-00.png](/assets/emanuel-school--11-plus--maths--9999--sample-paper-1/section-1-question-27-00.png "emanuel-school--11-plus--maths--9999--sample-paper-1/section-1-question-27-00.png")
+|   |   |   |
+|:-:|:-:|:-:|
+|   |   |   |
+|   |   |   |
 
 Draw out a $3$ by $3$ grid like that shown.
 
@@ -627,7 +619,7 @@ If there are $5$ Mondays, $5$ Tuesdays and $5$ Wednesdays in January, on what da
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -649,7 +641,7 @@ A shipwrecked sailor lands on one of the islands. She sees a guinea pig which sh
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Which island does the sailor think she is definitely **not** on?
+Which island does the sailor think she is definitely not on?
 
 </div>
 

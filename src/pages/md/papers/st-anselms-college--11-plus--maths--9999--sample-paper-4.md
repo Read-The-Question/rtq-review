@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-4"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "23"
 ---
 <div class='paper'>
@@ -591,7 +591,7 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -631,18 +631,12 @@ The next term is calculated by adding $5$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+5)} }
-&&  \footnotesize {\maroonC
- {(+5)} }
-&&  \footnotesize {\maroonC
- {(+5)} }
-&&  \footnotesize {\maroonC
- {(+5)} }
-&&  \footnotesize {\maroonC
- {(+5)} }
-&&  \footnotesize {\maroonC
- {(+5)} }  \\
+&   \footnotesize {\maroonC {(+5)} }
+&&  \footnotesize {\maroonC {(+5)} }
+&&  \footnotesize {\maroonC {(+5)} }
+&&  \footnotesize {\maroonC {(+5)} }
+&&  \footnotesize {\maroonC {(+5)} }
+&&  \footnotesize {\maroonC {(+5)} }  \\
 64,  &&    69,  &&  74, &&  79,     &&  84,  &&   \ldots, && \ldots
 \end{matrix}
 $
@@ -690,18 +684,12 @@ The next term is calculated by subtracting $15$ from the previous term. Hence, t
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(-15)} }
-&&  \footnotesize {\maroonC
- {(-15)} }
-&&  \footnotesize {\maroonC
- {(-15)} }
-&&  \footnotesize {\maroonC
- {(-15)} }
-&&  \footnotesize {\maroonC
- {(-15)} }
-&&  \footnotesize {\maroonC
- {(-15)} }  \\
+&   \footnotesize {\maroonC {(-15)} }
+&&  \footnotesize {\maroonC {(-15)} }
+&&  \footnotesize {\maroonC {(-15)} }
+&&  \footnotesize {\maroonC {(-15)} }
+&&  \footnotesize {\maroonC {(-15)} }
+&&  \footnotesize {\maroonC {(-15)} }  \\
 64,  &&    49,  &&  34, &&  19,     &&  4,  &&   \ldots, && \ldots
 \end{matrix}
 $
@@ -749,18 +737,12 @@ The next term is calculated by dividing the previous term by $2$. Hence, the seq
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }  \\
+&   \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }  \\
 64,  &&    32,  &&  16, &&  8,     &&  4,  &&   \ldots, && \ldots
 \end{matrix}
 $
@@ -808,18 +790,12 @@ The next term is calculated by dividing the previous term by $4$. Hence, the seq
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(\div 4)} }
-&&  \footnotesize {\maroonC
- {(\div 4)} }
-&&  \footnotesize {\maroonC
- {(\div 4)} }
-&&  \footnotesize {\maroonC
- {(\div 4)} }
-&&  \footnotesize {\maroonC
- {(\div 4)} }
-&&  \footnotesize {\maroonC
- {(\div 4)} }  \\
+&   \footnotesize {\maroonC {(\div 4)} }
+&&  \footnotesize {\maroonC {(\div 4)} }
+&&  \footnotesize {\maroonC {(\div 4)} }
+&&  \footnotesize {\maroonC {(\div 4)} }
+&&  \footnotesize {\maroonC {(\div 4)} }
+&&  \footnotesize {\maroonC {(\div 4)} }  \\
 64,  &&    16,  &&  4, &&  1,   &&  \dfrac {1} {4},  &&   \ldots, && \ldots
 \end{matrix}
 $
@@ -856,7 +832,7 @@ $\dfrac {1} {64}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1558,14 +1534,14 @@ $124.08$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Write the following numbers in order of size, starting with the smallest. 
 
-$0.105 \,\,\,\,  0.115 \,\,\,\,  0.1 \,\,\,\,  0.11 \,\,\,\, 0.015 \,\,\,\,   0.101$
+$0.105, \quad  0.115, \quad  0.1, \quad  0.11, \quad 0.015, \quad   0.101$
 
 </div>
 <div class='workings'>
@@ -1678,7 +1654,7 @@ $1.8 \ \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1687,21 +1663,6 @@ A calculator normally costs $\pounds 24.40$. It is offered in a sale at $15\%$ o
 
 </div>
 <div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Sale price}  &= \text {Original price - Discount} \\\\
-                   &= 24.40 - 15 \% \times 24.40  \\\\
-                   &= 24.40 - \dfrac {15} {100} \times 24.40 \\\\
-                   &= 24.40 - \dfrac {15 \times 24.40} {100} \\\\
-                   &= 24.40 - \dfrac {366} {100} \\\\
-                   &= 24.40 - 3.66 \\\\
-                   &= \pounds 20.74
-\end{aligned}
-$
-
-</div>
 <div class='working'>
 
 If the price is reduced by $15 \%$, then the new price will be $100 - 15 = 85 \%$ of the original price. Using that, we get
@@ -1713,6 +1674,23 @@ $
                             &= \dfrac {85 \times 24.40}{100}  \\\\
                             &= \dfrac {2074}{100}  \\\\
                             &= \pounds 20.74
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+ABBR: $\text {Sale price = Original price} - \text{Discount } \% \times \text{Original price}$
+
+
+$
+\begin{aligned}
+\text{Sale price}  &= 24.40 - 15 \% \times 24.40  \\\\
+                   &= 24.40 - \dfrac {15} {100} \times 24.40 \\\\
+                   &= 24.40 - \dfrac {15 \times 24.40} {100} \\\\
+                   &= 24.40 - \dfrac {366} {100} \\\\
+                   &= 24.40 - 3.66 \\\\
+                   &= \pounds 20.74
 \end{aligned}
 $
 

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-1-g1"
 title: "TopicPaper - Algebra - 1 - G1"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "38"
 ---
 <ul class='question default-decimal'>
@@ -1845,7 +1845,7 @@ $500 - 5m \ \text{pence}$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Lisa has some boxes that are all cubes of the same six=ze.
+Lisa has some boxes that are all cubes of the same size.
 
 She uses four of the boxes to make a pile with a height of $72 \ \text{cm}$.
 
@@ -2058,9 +2058,9 @@ Bags $A$ and $B$ contain some counters.
 
 Bag A: $6y + 1$ counters
 
-Bage B: $4y + 7$ counters
+Bag B: $4y + 7$ counters
 
-The number of counters in each bag **is the same**.
+The number of counters in each bag is the same.
 
 Work out the value of $y$.
 
@@ -2103,9 +2103,9 @@ Bag $C$ contains more counters than bag $D$.
 
 Bag C: $4k$ counters
 
-Bage D: $k + 12$ counters
+Bag D: $k + 12$ counters
 
-What is the **smallest** possible value of $k$?
+What is the smallest possible value of $k$?
 
 </div>
 <div class='workings'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2014-sample-paper-5"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2014 - Sample Paper 5"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "30"
 ---
 <div class='paper'>
@@ -898,7 +898,7 @@ $12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -918,8 +918,7 @@ ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 $
 \begin{aligned}
-\text{Time taken by hare}  &=  \dfrac{400 \text{ metres}}{800 \text{ metres per minute}} \\\\
-                           &=  \dfrac{400}{800} \\\\
+\text{Time taken by hare}  &=  \dfrac{400}{800} \\\\
                            &=  \dfrac{4 \times 100}{2 \times 4 \times 100} \\\\
                            &=  \dfrac{\cancel{4} \times \cancel{100}}{2 \times \cancel{4} \times \cancel{100}} \\\\
                            &=  \dfrac{1}{2} \text{ minutes}
@@ -928,8 +927,7 @@ $
 
 $
 \begin{aligned}
-\text{Tortoise speed}      &=  \dfrac{1.5 \text{ metres}}{\dfrac{1}{2} \text{ minutes}} \\\\
-                           &=  \dfrac{1.5}{\dfrac{1}{2}} \\\\
+\text{Tortoise speed}      &=  \dfrac{1.5}{\dfrac{1}{2}} \\\\
                            &=  1.5 \times 2 \\\\
                            &=  3 \text { metres per minute}
 \end{aligned}
@@ -1234,7 +1232,7 @@ $63 \dfrac {1} {3} \ \text{mm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1739,7 +1737,7 @@ $10$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1748,7 +1746,7 @@ We write $S(2,5)$ as an abbreviation for $2 + 3 + 4 + 5$ so that $S(2,5) = 14$.
 
 Similarly, 
 
-$S(6,39) = 6 + 7 + 8 + 9 \ldots + 38 + 39 + 765$
+$S(6,39) = 6 + 7 + 8 + 9 \ldots + 38 + 39 = 765$
 
 Work out: 
 
@@ -1797,17 +1795,7 @@ $S(6,40)$
 
 $
 \begin{aligned}
-\text{S(6,40)} &= 6 + 7 + 8 + 9 \ldots + 38 + 39 + 40 \\\\
-               &= 805
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{S(6,40)} &= S(6,39) + 40 \\\\
+S(6,40)        &= S(6,39) + 40 \\\\
                &= 765 + 40 \\\\
                &= 805
 \end{aligned}
@@ -1837,17 +1825,7 @@ $S(7,38)$
 
 $
 \begin{aligned}
-\text{S(7,38)} &= 7 + 8 + 9 + \ldots + 36 + 37 + 38 \\\\
-               &= 720
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{S(7,38)} &= S(6,39) - 6 - 39 \\\\
+S(7,38)        &= S(6,39) - 6 - 39 \\\\
                &= 765 - 6 - 39 \\\\
                &= 720
 \end{aligned}
@@ -1877,7 +1855,8 @@ $S(1, 2) - S(2,3) + S(3, 4) - S(4,5) + \ldots - S(18,19) + S(19, 20)$
 
 $
 \begin{aligned}
-&= \text{S(1, 2)} - \text{S(2,3)} + \text{S(3, 4)} - \text{S(4,5)} + \ldots - \text{S(18,19)} + \text{S(19, 20)} \\\\
+&= S(1, 2) - S(2,3) + S(3, 4) - S(4,5) + \ldots - S(18,19) + S(19, 20) \\\\
+&= 1 + 2 - (2 + 3) + 3 + 4 - (4 + 5) + \ldots - (18 + 19) + 19 + 20 \\\\
 &= 1 + 2 - 2 - 3 + 3 + 4 - 4 - 5 + \ldots - 18 - 19 + 19 + 20 \\\\
 &= 1 + \cancel{2} - \cancel{2} - \cancel{3} + \cancel{3} + \cancel{4} - \cancel{4} - \cancel{5} + \ldots - \cancel{18} - \cancel{19} + \cancel{19} + 20 \\\\
 &= 1 + 20 \\\\

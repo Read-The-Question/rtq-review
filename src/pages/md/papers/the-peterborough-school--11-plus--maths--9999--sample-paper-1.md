@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-peterborough-school-11-plus-maths-9999-sample-paper-1"
 title: "The Peterborough School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "20"
 ---
 <div class='paper'>
@@ -343,7 +343,7 @@ $234$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -367,7 +367,7 @@ $
 \end{aligned}
 $
 
-Odd one $= \dfrac {3} {5} $
+Odd one out $= \dfrac {3} {5} $
 
 </div>
 </div>
@@ -382,7 +382,7 @@ $\dfrac {3} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -466,13 +466,13 @@ Shade $\dfrac {2} {3}$ of this shape.
 
 $
 \begin{aligned}
-\text{Total number of small triangles}    &= 9 \\\\
-\text{Two-third of this shape}            &= \dfrac{2}{3} \times 9 \\\\
-                                          &= \dfrac{2 \times 9}{3} \\\\
-                                          &= \dfrac{2 \times 3 \times 3}{3} \\\\
-                                          &= \dfrac{2 \times 3 \times \cancel{3}}{\cancel{3}} \\\\
-                                          &= 2 \times 3  \\\\
-                                          &= 6
+\text{Total number of small triangles}                              &= 9 \\\\
+\text{Two-thirds or } \dfrac{2}{3} \text{ of this shape}            &= \dfrac{2}{3} \times 9 \\\\
+                                                                    &= \dfrac{2 \times 9}{3} \\\\
+                                                                    &= \dfrac{2 \times 3 \times 3}{3} \\\\
+                                                                    &= \dfrac{2 \times 3 \times \cancel{3}}{\cancel{3}} \\\\
+                                                                    &= 2 \times 3  \\\\
+                                                                    &= 6
 \end{aligned}
 $
 
@@ -1621,7 +1621,7 @@ $37$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1734,7 +1734,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1777,7 +1777,7 @@ Let's complete the table.
 
 | Number of cars            | $1$     | $2$                       | $3$                                                 | $4$                                                 |
 |-----------------------    |-----    |-----                      |-----                                                |-----                                                |
-| Number of motorcycles     | $6$     | $10 \ \footnotesize{(1)}$ | $4 \times 3 + 2 = 12 + 2 = 14 \ \footnotesize{(2)}$ | $4 \times 4 + 2 = 16 + 2 = 18 \ \footnotesize{(3)}$ |
+| Number of motorcycles     | $6$     | $10 \ \maroonC{\footnotesize{(1)}}$ | $4 \times 3 + 2 = 12 + 2 = 14 \ \maroonC{\footnotesize{(2)}}$ | $4 \times 4 + 2 = 16 + 2 = 18 \ \maroonC{\footnotesize{(3)}}$ |
 
 </div>
 </div>

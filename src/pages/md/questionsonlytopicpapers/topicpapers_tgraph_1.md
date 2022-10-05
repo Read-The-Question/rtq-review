@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tgraph-1"
 title: "TopicPaper - Graph - 1"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "40"
 ---
 <div class='paper'>
@@ -195,7 +195,7 @@ Given that $5$ people owned a white car, how many people owned a silver car?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -210,7 +210,7 @@ I put square tiles on a large grid so that the tiles touch at the corners. The d
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The **bottom right-hand** corner of **tile** $2$ is marked with a $\spadesuit$.
+The bottom right-hand corner of tile $2$ is marked with a $\spadesuit$.
 
 Write the coordinates of this point.
 
@@ -222,7 +222,7 @@ Write the coordinates of this point.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-**Tile** $4$ touches two other tiles.
+Tile $4$ touches two other tiles.
 Write the coordinates of the points where tile $4$ touches two other tiles.
 
 </div>
@@ -233,7 +233,7 @@ Write the coordinates of the points where tile $4$ touches two other tiles.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write the coordinates of the points where **tile** $17$ touches two other tiles.
+Write the coordinates of the points where tile $17$ touches two other tiles.
 
 </div>
 
@@ -243,13 +243,12 @@ Write the coordinates of the points where **tile** $17$ touches two other tiles.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-I have $30$ **tiles** to make a pattern on a grid. The pattern is a series of squares.
-
+I have $30$ tiles to make a pattern on a grid. The pattern is a series of squares.
 
 ![alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-2-question-17-subquestion-4-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-2-question-17-subquestion-4-00.png "alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-2-question-17-subquestion-4-00.png")
 
 I have used some of the $30$ tiles to make my pattern.
-Do I have enough tiles to make the **next square**, of side length $4$?
+Do I have enough tiles to make the next square, of side length $4?$
 Show working to explain your answer.
 
 </div>
@@ -260,7 +259,7 @@ Show working to explain your answer.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -278,7 +277,7 @@ She used the results to draw this pie chart.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What fraction of students said **“Comedy”**?
+What fraction of students said “Comedy”?
 
 </div>
 
@@ -288,7 +287,7 @@ What fraction of students said **“Comedy”**?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$20$ students said **“Horror”**.
+$20$ students said “Horror”.
 
 Work out the total number of students that Betty asked.
 
@@ -1260,14 +1259,14 @@ What fraction of the houses received an odd number of letters?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The diagram below shows a set of coordinate grids.
-Notice that the x-coordinates are negative at the left and positive at the right.
-The y-coordinates are negative at the bottom and poitive at the top.
+Notice that the $x$-coordinates are negative at the left and positive at the right.
+The $y$-coordinates are negative at the bottom and poitive at the top.
 
 ![christs-hospital-school--11-plus--maths--2014--sample-paper-1/section-1-question-7-00.png](/assets/christs-hospital-school--11-plus--maths--2014--sample-paper-1/section-1-question-7-00.png "christs-hospital-school--11-plus--maths--2014--sample-paper-1/section-1-question-7-00.png")
 
@@ -1299,7 +1298,7 @@ What name best describes the shape that you have drawn?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1314,7 +1313,7 @@ The graph shows the average heights of young children.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the average height of **girls** aged $\bold{30\ \text{months}}$?
+What is the average height of girls aged $30$ months?
 
 </div>
 
@@ -1324,7 +1323,7 @@ What is the average height of **girls** aged $\bold{30\ \text{months}}$?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the average height of **boys** aged $\bold{36\ \text{months}}$?
+What is the average height of boys aged $36$ months?
 
 </div>
 
@@ -1334,7 +1333,7 @@ What is the average height of **boys** aged $\bold{36\ \text{months}}$?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Jane is average height for her age. Her height is $\bold{80\ \text{cm}}$. Use the graph to find Jane's age.
+Jane is average height for her age. Her height is $80\ \text{cm}$. Use the graph to find Jane's age.
 
 </div>
 
@@ -1346,12 +1345,12 @@ Jane is average height for her age. Her height is $\bold{80\ \text{cm}}$. Use th
 
 This formula tells you how tall a boy is likely to be when he grows up.
 
-| Add the mother's and father's heights. Divide by $2$. Add $7 \ \text{cm}$ to the result. The boy is likely to be this height, **plus or minus $10 \ \text{cm}$**. |
+| Add the mother's and father's heights. Divide by $2$. Add $7 \ \text{cm}$ to the result. The boy is likely to be this height, plus or minus $10 \ \text{cm}$. |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 
-Marc's mother is $\bold{168\ \text{cm}}$ tall. His father is $\bold{194\ \text{cm}}$ tall.
+Marc's mother is $168\ \text{cm}$ tall. His father is $194\ \text{cm}$ tall.
 
-What is the **greatest** height Marc is likely to be when he grows up? 
+What is the greatest height Marc is likely to be when he grows up? 
 
 Show your working.
 
@@ -1363,7 +1362,7 @@ Show your working.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1376,13 +1375,13 @@ Show your working.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-P is the **midpoint** of line AB.
+P is the midpoint of line AB.
 
 ![city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-3-subquestion-1-00.png](/assets/city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-3-subquestion-1-00.png "city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-3-subquestion-1-00.png")
 
-What are the coordinates of point **P**?
+What are the coordinates of point P?
 
-P is ($\ldots$ , $\ldots$ )
+P is ($\ldots , \ldots$ )
 
 </div>
 
@@ -1392,17 +1391,17 @@ P is ($\ldots$ , $\ldots$ )
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Q is the **midpoint** of line MN. 
+Q is the midpoint of line MN. 
 
 The coordinates of Q are $( 30, 50 )$
 
 ![city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-3-subquestion-2-00.png](/assets/city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-3-subquestion-2-00.png "city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-3-subquestion-2-00.png")
 
-What are the c-oordinates of points **M** and **N**? 
+What are the c-oordinates of points M and N? 
 
-M is ($\ldots$ , $\ldots$ )
+M is ($\ldots , \ldots$ )
 
-N is ($\ldots$ , $\ldots$ )
+N is ($\ldots , \ldots$ )
 
 </div>
 
@@ -1496,7 +1495,7 @@ Estimate the number of year $7$s who have pizza as their favourite food.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1531,7 +1530,7 @@ What is the area of the rectangle?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Reflect the rectangle in the X axis and draw the result on the coordinate grid.
+Reflect the rectangle in the $x$ axis and draw the result on the coordinate grid.
 
 </div>
 
@@ -1588,7 +1587,7 @@ How many cousins did all the children have in total?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1597,13 +1596,13 @@ A class carried out a survey on journeys to school.
 
 The table and the bar chart have not been completed.
 
-|    Taxi   |      4      |
-|:---------:|:-----------:|
-|    Walk   |             |
-|           |      15     |
-|    Bike   |      27     |
-|    Car    |      11     |
-| **Total** | $\bold{70}$ |
+|    Taxi   |      $4$     |
+|:---------:|:------------:|
+|    Walk   |              |
+|           |     $15$     |
+|    Bike   |     $27$     |
+|    Car    |     $11$     |
+|   Total   |     $70$     |
 
 ![csse--11-plus--maths--2015--sample-paper-2/section-1-question-4-00.png](/assets/csse--11-plus--maths--2015--sample-paper-2/section-1-question-4-00.png "csse--11-plus--maths--2015--sample-paper-2/section-1-question-4-00.png")
 
@@ -1663,7 +1662,7 @@ On the bar chart add the missing bar.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1678,7 +1677,7 @@ The diagram shows a grid with the co-ordinates marked for three points.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the value of $x$? 
+What is the value of $x?$ 
 
 </div>
 
@@ -1688,7 +1687,7 @@ What is the value of $x$?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the value of $y$?
+What is the value of $y?$
 
 </div>
 
@@ -1698,7 +1697,7 @@ What is the value of $y$?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1723,7 +1722,7 @@ What is the greatest height that the tide reaches?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-At what clock time does the tide drop below $4 \ \text{metres}$?
+At what clock time does the tide drop below $4 \ \text{metres}?$
 
 </div>
 
@@ -1733,7 +1732,7 @@ At what clock time does the tide drop below $4 \ \text{metres}$?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-For how many hours is the tide above $6 \ \text{metres}$?
+For how many hours is the tide above $6 \ \text{metres}?$
 
 </div>
 

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-5"
 title: "TopicPaper - Fraction - 5"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "40"
 ---
 <div class='paper'>
@@ -412,7 +412,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -514,7 +514,7 @@ $
 \begin{aligned}
 &= 0.75 \\\\
 &= \dfrac {75} {100} \\\\
-&= \dfrac {25 \times 4} {25 \times 4} \\\\
+&= \dfrac {25 \times 3} {25 \times 4} \\\\
 &= \dfrac {\cancel{25} \times 3} {\cancel{25} \times 4} \\\\
 &= \dfrac {3} {4}
 \end{aligned}
@@ -542,14 +542,21 @@ a fraction which is not in its simplest form.
 <div class='workings'>
 <div class='working'>
 
-$\dfrac {8} {12}$
+$
+\begin{aligned}
+&= \dfrac{8}{12} \\\\
+&= \dfrac{4 \times 2}{4 \times 3} \\\\
+&= \dfrac{\cancel{4} \times 2}{\cancel{4} \times 3} \\\\
+&= \dfrac{2}{3}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {8} {12}$
+$\dfrac{2}{3}$
 
 </div>
 </div>
@@ -1726,7 +1733,7 @@ $15$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1745,12 +1752,11 @@ $\dfrac {1} {4} = 0.25$
 |:-------:          |:-----------------:|:------------:|
 | $0.2$             | $0.2$             | No           |
 | $\dfrac{1}{5}$    | $0.2$             | No           |
-| $0.4$             | $0.4$             | No, its equal|
+| $0.4$             | $0.4$             | Yes          |
 | $\dfrac{3}{8}$    | $0.375$           | Yes          |
 | $0.027$           | $0.027$           | No           |
 
-
-Numbers greater than $\dfrac {1} {4} = \dfrac {3} {8}$
+Numbers greater than $\dfrac {1} {4} \text{ are } \dfrac {3} {8}, 0.4$
 
 </div>
 </div>
@@ -1758,6 +1764,11 @@ Numbers greater than $\dfrac {1} {4} = \dfrac {3} {8}$
 <div class='answer'>
 
 $\dfrac {3} {8}$
+
+</div>
+<div class='answer'>
+
+$0.4$
 
 </div>
 </div>
@@ -2483,7 +2494,7 @@ $60$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2499,7 +2510,7 @@ $
 &= \dfrac{3}{8} \ \text{of}\ 72 \\\\
 &= \dfrac{3}{8} \times 72 \\\\
 &= \dfrac{3 \times 72}{8} \\\\
-&= \dfrac{3 \times 8 \times 9} {8} \\\\
+&= \dfrac{3 \times 9 \times 8} {8} \\\\
 &= \dfrac{3 \times 9 \times \cancel{8}} {\cancel{8}} \\\\
 &= 3 \times 9 \\\\
 &= 27
@@ -2519,7 +2530,7 @@ $27$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2534,7 +2545,7 @@ $\dfrac{1}{5} \quad \dfrac{3}{7} \quad \dfrac{5}{9} \quad \dfrac{7}{11}$
 
 $\dfrac {1} {2} = 0.5$
 
-Let's convert all the numbers into decimal.
+Let's convert all the numbers into decimals.
 
 $
 \begin {aligned}
@@ -2715,7 +2726,7 @@ $\dfrac{5} {8}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2728,16 +2739,16 @@ What is the difference between a tenth of $5$ and a fifth of $10$?
 
 $
 \begin {aligned}
-\text {Difference}  &=  \dfrac {1} {10} \ \text {of} \ 5 - \dfrac {1} {5} \ \text {of} \ 10 \\\\
-                    &= \dfrac {1} {10} \times 5 - \dfrac {1} {5} \times 10 \\\\
-                    &= \dfrac {5} {10} - \dfrac {10} {5} \\\\
-                    &= \dfrac {5} {10} - \dfrac {10 \times 2} {5 \times 2} \\\\
-                    &= \dfrac {5} {10} - \dfrac {20} {5 \times 2} \\\\
-                    &= \dfrac {5 - 20} {10} \\\\
-                    &= - \dfrac {15} {10} \\\\
-                    &= - \dfrac {5 \times 3} {5 \times 2} \\\\
-                    &= - \dfrac {\cancel{5} \times 3} {\cancel{5} \times 2} \\\\
-                    &= - \dfrac {3} {2}
+\text {Difference}  &=  \dfrac {1} {5} \ \text {of} \ 10 - \dfrac {1} {10} \ \text {of} \ 5 \\\\
+                    &= \dfrac {1} {5} \times 10 - \dfrac {1} {10} \times 5 \\\\
+                    &= \dfrac {10} {5} - \dfrac {5} {10} \\\\
+                    &= \dfrac {10 \times 2} {5 \times 2} - \dfrac {5} {10} \\\\
+                    &= \dfrac {20} {10} - \dfrac {5} {10} \\\\
+                    &= \dfrac {20 - 5} {10} \\\\
+                    &= \dfrac {15} {10} \\\\
+                    &= \dfrac {5 \times 3} {5 \times 2} \\\\
+                    &= \dfrac {\cancel{5} \times 3} {\cancel{5} \times 2} \\\\
+                    &= \dfrac {3} {2}
 \end {aligned}
 $
 
@@ -2746,7 +2757,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$- \dfrac {3} {2}$
+$\dfrac {3} {2}$
 
 </div>
 </div>

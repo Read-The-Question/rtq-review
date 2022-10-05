@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-5-g1-prcc"
 title: "TopicPaper - Simpleword - 5 - G1 - PRCC"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "4"
 ---
 <ul class='question default-decimal'>

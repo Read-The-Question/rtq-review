@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2016-sample-paper-5"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2016 - Sample Paper 5"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "22"
 ---
 <div class='paper'>
@@ -1186,7 +1186,7 @@ $11$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1288,7 +1288,7 @@ $
 \begin{aligned}
 &= 0.75 \\\\
 &= \dfrac {75} {100} \\\\
-&= \dfrac {25 \times 4} {25 \times 4} \\\\
+&= \dfrac {25 \times 3} {25 \times 4} \\\\
 &= \dfrac {\cancel{25} \times 3} {\cancel{25} \times 4} \\\\
 &= \dfrac {3} {4}
 \end{aligned}
@@ -1316,14 +1316,21 @@ a fraction which is not in its simplest form.
 <div class='workings'>
 <div class='working'>
 
-$\dfrac {8} {12}$
+$
+\begin{aligned}
+&= \dfrac{8}{12} \\\\
+&= \dfrac{4 \times 2}{4 \times 3} \\\\
+&= \dfrac{\cancel{4} \times 2}{\cancel{4} \times 3} \\\\
+&= \dfrac{2}{3}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {8} {12}$
+$\dfrac{2}{3}$
 
 </div>
 </div>

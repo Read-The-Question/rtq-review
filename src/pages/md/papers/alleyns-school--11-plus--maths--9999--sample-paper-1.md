@@ -1,7 +1,7 @@
 ---
 slug: "papers/alleyns-school-11-plus-maths-9999-sample-paper-1"
 title: "Alleyns School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "26"
 ---
 <div class='paper'>
@@ -760,7 +760,7 @@ $6 \dfrac {4} {7}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -800,16 +800,11 @@ The next term is calculated by adding $3$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}  \\
+&   \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}  \\
 7,  && 10, && 13, && 16, && \ldots, && \ldots
 \end{matrix}
 $
@@ -857,16 +852,11 @@ The next term is calculated by subtracting $4$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}  \\
+&   \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}  \\
 53,  && 49, && 45, && 41, && \ldots, && \ldots
 \end{matrix}
 $
@@ -912,16 +902,11 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+7)}}
-&&  \footnotesize{\maroonC
-{(+8)}}  \\
+&   \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+7)}}
+&&  \footnotesize{\maroonC{(+8)}}  \\
 6,  && 10, && 15, && 21, && \ldots, && \ldots
 \end{matrix}
 $
@@ -967,16 +952,11 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-2)}}
-&&  \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(-2)}}
-&&  \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(-2)}}  \\
+&   \footnotesize{\maroonC{(-2)}}
+&&  \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(-2)}}
+&&  \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(-2)}}  \\
 60,  && 58, && 63, && 61, && \ldots, && \ldots
 \end{matrix}
 $
@@ -1025,16 +1005,11 @@ The next term is calculated by multiplying the previous term by $4$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 4)}}
-&&  \footnotesize{\maroonC
-{(\times 4)}}
-&&  \footnotesize{\maroonC
-{(\times 4)}}
-&&  \footnotesize{\maroonC
-{(\times 4)}}
-&&  \footnotesize{\maroonC
-{(\times 4)}}  \\
+&   \footnotesize{\maroonC{(\times 4)}}
+&&  \footnotesize{\maroonC{(\times 4)}}
+&&  \footnotesize{\maroonC{(\times 4)}}
+&&  \footnotesize{\maroonC{(\times 4)}}
+&&  \footnotesize{\maroonC{(\times 4)}}  \\
 0.5,  && 2, && 8, && 32, && \ldots, && \ldots
 \end{matrix}
 $
@@ -1780,7 +1755,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1803,16 +1778,19 @@ Fill in the gaps to help her.
 
 $\text{Total number of legs} = 4 \times \text{Number of cows} + 2$
 
+$L = 4 \times C + 2$
+
+
 |    Number of Cows    | $1$ |                 $2$               |  $3$ |               $4$                  |                $10$                |                 $100$              |
 |:--------------------:|:---:|:---------------------------------:|:----:|:----------------------------------:|:----------------------------------:|:----------------------------------:|
-| Total Number of Legs | $6$ | $4 \times 2 + 2 = 8 + 2 = 10$     | $14$ | $4 \times 4 + 2 = 16 + 2 = 18$     | $4 \times 10 + 2 = 40 + 2 = 42$    | $4 \times 100 + 2 = 400 + 2 = 402$ |
+| Total Number of Legs | $6$ | $4 \times 2 + 2 = 10$     | $14$ | $4 \times 4 + 2 = 18$     | $4 \times 10 + 2 = 42$    | $4 \times 100 + 2 = 402$ |
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text{Total number of legs} = 4 \times \text{Number of cows} + 2$
+$L = 4 \times C + 2$
 
 </div>
 </div>
@@ -1860,7 +1838,7 @@ $44$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1885,7 +1863,9 @@ How long after Gary starts running does Andy catch up with him?
 ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 
-Let the time taken (in seconds) $= t$
+Let the time taken by Gary to catch up (in seconds) $= t$
+
+As per the question,
 
 $
 \begin{aligned}
@@ -1899,6 +1879,8 @@ t                  &=  \dfrac{12 \times \cancel{2}}{\cancel{2}} \\\\
 t                  &=  12 \text{ seconds}
 \end{aligned}
 $
+
+Time taken $= 12 \text{ seconds}$
 
 </div>
 </div>
@@ -1922,7 +1904,7 @@ How far are they both from the start line when Andy catches up with Gary?
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
+ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
 
 
 $
@@ -2435,12 +2417,12 @@ Can you find numbers to replace $A, B$ and $C$ in this sum?
 ($A, B$ and $C$ are all different numbers)
 
 $
-\begin{darray}{cc}
-   A & B & C\\
-   A & B & C\\
-   A & B & C\\
+\begin{darray}{cccc}
+       & A & B & C\\
+       & A & B & C\\
+   {+} & A & B & C\\
    \hline
-   B & B & B\\
+       & B & B & B\\
    \hline
 \end{darray}
 $
@@ -2477,7 +2459,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Can you find a four digit number which is reversed when multiplied by $9$? 
+Can you find a four digit number which is reversed when multiplied by $9?$ 
 (i.e. $ABCD \times 9 = DCBA$)
 
 </div>

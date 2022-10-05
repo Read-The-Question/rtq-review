@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-francis-college-11-plus-maths-2017-sample-paper-1"
 title: "St Francis College - 11 Plus - Maths - 2017 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "38"
 ---
 <div class='paper'>
@@ -965,7 +965,7 @@ An obtuse angle is an angle greater than $90 \degree$ but less than $180 \degree
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1005,18 +1005,12 @@ The next term is calculated by multiplying the previous term by $2$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}  \\
+&   \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}  \\
 3, && 6, && 12, && 24, && 48, && \ldots, && \ldots 
 \end{matrix}
 $
@@ -1062,18 +1056,12 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-1)}}
-&&  \footnotesize{\maroonC
-{(-2)}}
-&&  \footnotesize{\maroonC
-{(-3)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-5)}}
-&&  \footnotesize{\maroonC
-{(-6)}}  \\
+&   \footnotesize{\maroonC{(-1)}}
+&&  \footnotesize{\maroonC{(-2)}}
+&&  \footnotesize{\maroonC{(-3)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-5)}}
+&&  \footnotesize{\maroonC{(-6)}}  \\
 58, && 57, && 55, && 52, && 48, && \ldots, && \ldots 
 \end{matrix}
 $
@@ -2652,7 +2640,7 @@ $23$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2690,7 +2678,7 @@ $116.5 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2701,19 +2689,14 @@ A school has $657$ pupils. There are $384$ pupils in Year $9$ or above and $376$
 <div class='workings'>
 <div class='working'>
 
-First number of students
+ABBR: $(A \text{ and } B) = A + B - (A \text{ or } B)$
+
 
 $
 \begin{aligned}
-&= 384 + 376 \\\\
-&= 760
+\text{Number of people in Year 9}       &= 384 + 376 - 657 \\\\
+                                        &= 103
 \end{aligned}
-$
-
-Present time students
-$
-&= 760 - 657 \\\\
-&= 103
 $
 
 </div>

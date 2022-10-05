@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-3"
 title: "TopicPaper - Simpleword - 3"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "40"
 ---
 <div class='paper'>
@@ -195,6 +195,7 @@ $250 \ \text {g}$
 <div class='question question'>
 
 The distance from Calais to Paris is $320 \ \text{km}$.
+
 $5 \ \text{miles}$ is approximately $8 \ \text{kilometres}$.
  
 Calculate the approximate distance in miles from Calais to Paris.  

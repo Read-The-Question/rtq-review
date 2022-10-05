@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-2-g2-prns"
 title: "TopicPaper - Time - 2 - G2 - PRNS"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "27"
 ---
 <ul class='question default-decimal'>
@@ -11,7 +11,7 @@ questions_count: "27"
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Shanghai in China is $8 hours$ ahead of the time in the UK. If it is $09.00$ in the UK, what time is it in Shanghai?
+Shanghai in China is $8 \ \text{hours}$ ahead of the time in the UK. If it is $09.00$ in the UK, what time is it in Shanghai?
 
 </div>
 <div class='workings'>
@@ -133,7 +133,7 @@ A sleeper train leaves London at $22{:}45$ and reaches Aberdeen at $06{:}30$ the
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Work out how long the journey takes in hours and minutes.
+Work out how long the journey takes in $\text{hours}$ and $\text{minutes}$.
 
 </div>
 <div class='workings'>
@@ -252,7 +252,7 @@ $8{:}52 \ \text {am}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The journey home in the evening takes the same time. She arrives home at $6.23 \ \text{p.m.}$. At what time did she leave work? 
+The journey home in the evening takes the same time. She arrives home at $6.23 \ \text{p.m.}$ At what time did she leave work? 
 
 </div>
 <div class='workings'>

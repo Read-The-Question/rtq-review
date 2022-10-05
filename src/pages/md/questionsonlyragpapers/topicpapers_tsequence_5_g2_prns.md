@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tsequence-5-g2-prns"
 title: "TopicPaper - Sequence - 5 - G2 - PRNS"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "6"
 ---
 <ul class='question default-decimal'>
@@ -15,7 +15,7 @@ We write $S(2,5)$ as an abbreviation for $2 + 3 + 4 + 5$ so that $S(2,5) = 14$.
 
 Similarly, 
 
-$S(6,39) = 6 + 7 + 8 + 9 \ldots + 38 + 39 + 765$
+$S(6,39) = 6 + 7 + 8 + 9 \ldots + 38 + 39 = 765$
 
 Work out: 
 

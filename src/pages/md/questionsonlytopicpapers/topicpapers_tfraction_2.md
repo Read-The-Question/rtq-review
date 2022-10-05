@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tfraction-2"
 title: "TopicPaper - Fraction - 2"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "40"
 ---
 <div class='paper'>
@@ -611,6 +611,7 @@ How much of this square is shaded? Write your answer as a **decimal**.
 The figure shows two identical overlapping triangles. Four-ninths of **each** triangle is shaded.
 What fraction of the **whole** figure is shaded?
 
+![king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-1-00.png](/assets/king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-1-00.png "king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-1-00.png")
 
 </div>
 

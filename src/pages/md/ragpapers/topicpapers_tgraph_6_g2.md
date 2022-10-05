@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tgraph-6-g2"
 title: "TopicPaper - Graph - 6 - G2"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "7"
 ---
 <ul class='question default-decimal'>

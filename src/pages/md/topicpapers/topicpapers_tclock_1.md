@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tclock-1"
 title: "TopicPaper - Clock - 1"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "33"
 ---
 <div class='paper'>
@@ -163,7 +163,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -175,26 +175,39 @@ Calculate the angle between the hands of a clock at $9.30$.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 15 + 2.5 \ \text{minutes} \\\\
+                                        &= 17.5 \ \text{minutes} \\\\
+\text {Angle}                           &= 17.5 \times 6 \\\\
+                                        &= 105 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$105 \degree$
 
 </div>
 </div>
@@ -202,7 +215,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -217,26 +230,32 @@ You can use the clock face to help you.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+$
+\begin {aligned}
+\text {Total minutes}                   &= 9{:}30 \ \text{am} -  8 \ \text{am} \\\\
+                                        &= 1 \times 60 \text{ minutes} + 45 \text{ minutes} \\\\
+                                        &= 60 + 45 \\\\
+                                        &= 105 \text{ minutes} \\\\
+\text {Angle}                           &= 105 \times 6 \\\\
+                                        &= 630 \degree \\\\
+                                        &= 270 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$270 \degree$
 
 </div>
 </div>
@@ -244,7 +263,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -277,7 +296,29 @@ What is the angle between the hour hand and the minute hand of a clock, at $3 \ 
 <div class='workings'>
 <div class='working'>
 
-$90 \degree$
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
+
+
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 15 \ \text{minutes} \\\\
+\text {Angle}                           &= 15 \times 6 \\\\
+                                        &= 90 \degree
+\end {aligned}
+$
 
 </div>
 </div>
@@ -301,7 +342,31 @@ Through how many degrees does the hour hand of a clock turn betweeb noon and $5 
 <div class='workings'>
 <div class='working'>
 
-$150 \degree$
+ABBR: The hour hand of a clock moves by $30 \degree$ every hour.
+
+
+ABBR: The hour hand of a clock moves by $0.5 \degree$ every minute.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Total minutes}   &= 12{:}00 \ \text{pm} -  5{:}00 \ \text{pm} \\\\
+                        &= 5 \times 60  \ \text{minutes} \\\\
+                        &= 300 \ \text{minutes} \\\\
+\text {Angle moved}     &= 300 \times 0.5 \\\\
+                        &= 150 \degree
+\end {aligned}
+$
 
 </div>
 </div>
@@ -325,7 +390,20 @@ Through how many degrees does the minute hand of a clock turn between $0900$ and
 <div class='workings'>
 <div class='working'>
 
-$270 \degree$
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
+
+
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+$
+\begin {aligned}
+\text {Total minutes}   &= 9{:}45 \ \text{am} -  9{:}00 \ \text{am} \\\\
+                        &= 45 \ \text{minutes} \\\\
+\text {Angle moved}     &= 45 \times 6 \\\\
+                        &= 270 \degree
+\end {aligned}
+$
 
 </div>
 </div>
@@ -343,7 +421,7 @@ $270 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -354,14 +432,19 @@ Through what angles does the hour hand of a clock rotate between $8 \ \text{am}$
 <div class='workings'>
 <div class='working'>
 
-The hand of a clock moves by $30 \degree$ for every one unit covered.
+ABBR: The hour hand of a clock moves by $30 \degree$ every hour.
 
-So the hour hand move by $30 \degree$ between $8 \ \text{am}$ and $9{:}00 \ \text{am}$ and another $15 \degree$ for $9{:}30 \ \text{am}$.
+
+ABBR: The hour hand of a clock moves by $0.5 \degree$ every minute.
+
 
 $
 \begin {aligned}
-\text {The hour hand moved by}  &= 30 + 15 \\\\
-                                &= 45 \degree
+\text {Total minutes}   &= 9{:}30 \ \text{am} -  8 \ \text{am} \\\\
+                        &= 60 \ \text{minutes} + 30 \ \text{minutes} \\\\
+                        &= 90 \ \text{minutes} \\\\
+\text {Angle moved}     &= 90 \times 0.5 \\\\
+                        &= 45 \degree
 \end {aligned}
 $
 
@@ -378,7 +461,7 @@ $45 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -389,14 +472,20 @@ Through what angles does the hour hand of a clock rotate between $6 \ \text{am}$
 <div class='workings'>
 <div class='working'>
 
-The hand of a clock moves by $30 \degree$ for every one unit covered.
+ABBR: The hour hand of a clock moves by $30 \degree$ every hour.
 
-So the hour hand move by $30 \times 5 = 150 \degree$ between $6 \ \text{am}$ and $11{:}00 \ \text{am}$ and another $15 \degree$ for $11{:}30 \ \text{am}$.
+
+ABBR: The hour hand of a clock moves by $0.5 \degree$ every minute.
+
 
 $
 \begin {aligned}
-\text {The hour hand moved by}  &= 150 + 15 \\\\
-                                &= 165 \degree
+\text {Total minutes}   &= 11{:}30 \ \text{am} -  6 \ \text{am} \\\\
+                        &= 5 \times 60 \ \text{minutes} + 30 \ \text{minutes} \\\\
+                        &= 300  + 30 \\\\
+                        &= 330 \ \text{minutes} \\\\
+\text {Angle moved}     &= 330 \times 0.5 \\\\
+                        &= 165 \degree
 \end {aligned}
 $
 
@@ -413,36 +502,48 @@ $165 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-What angle do the hours of a clock make between each other at $7{:}30$?
+What angle do the hands of a clock make between each other at $7{:}30$?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Total angles for the complete round in a clock $= 360 \degree$.
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
+
+
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 $
 \begin {aligned}
-\text {Angle between every hour}    &= \dfrac {360} {12} \\\\
-                                    &= \dfrac {30 \times 12} {12} \\\\
-                                    &= \dfrac {30 \times \cancel {12}} {12} \\\\
-                                    &= 30 \degree
+\text {Minutes between hands of clock}  &= 5 + 2.5 \ \text{minutes} \\\\
+                                        &= 7.5 \ \text{minutes} \\\\
+\text {Angle}                           &= 7.5 \times 6 \\\\
+                                        &= 45 \degree
 \end {aligned}
 $
-
-The angle the hours of a clock make between each other at $7{:}30$ is $30 \degree$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$30 \degree$
+$45 \degree$
 
 </div>
 </div>
@@ -450,7 +551,7 @@ $30 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -461,14 +562,20 @@ Through what angles does the hour hand of a clock rotate between $3 \ \text{am}$
 <div class='workings'>
 <div class='working'>
 
-The hand of a clock moves by $30 \degree$ for every one unit covered.
+ABBR: The hour hand of a clock moves by $30 \degree$ every hour.
 
-So the hour hand move by $30 \times 8 = 240 \degree$ between $3 \ \text{am}$ and $11{:}00 \ \text{am}$ and another $15 \degree$ for $11{:}30 \ \text{am}$.
+
+ABBR: The hour hand of a clock moves by $0.5 \degree$ every minute.
+
 
 $
 \begin {aligned}
-\text {The hour hand moved by}  &= 240 + 15 \\\\
-                                &= 255 \degree
+\text {Total minutes}   &= 11{:}30 \ \text{am} -  3 \ \text{am} \\\\
+                        &= 8 \times 60  \ \text{minutes} + 30  \ \text{minutes} \\\\
+                        &= 480 + 30 \\\\
+                        &= 510 \ \text{minutes} \\\\
+\text {Angle moved}     &= 510 \times 0.5 \\\\
+                        &= 255 \degree
 \end {aligned}
 $
 
@@ -485,7 +592,7 @@ $255 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -494,30 +601,8 @@ $255 \degree$
 to draw on them and there are no marks for doing so*. 
 
 </div>
-<div class='workings'>
-<div class='working placeholder'>
 
-TODOWORKING
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -526,30 +611,8 @@ TODOANSWER
 Work out the angle the hour hand of a clock turns through between:
 
 </div>
-<div class='workings'>
-<div class='working placeholder'>
 
-TODOWORKING
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
 
 </div>
 </li>
@@ -563,26 +626,30 @@ $4 \ \text{pm}$ and $6 \ \text{pm}$.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The hour hand of a clock moves by $30 \degree$ every hour.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The hour hand of a clock moves by $0.5 \degree$ every minute.
+
+
+$
+\begin {aligned}
+\text {Total minutes}   &= 6{:}00 \ \text{pm} -  4{:}00 \ \text{pm} \\\\
+                        &= 2 \times 60  \ \text{minutes} \\\\
+                        &= 120 \ \text{minutes} \\\\
+\text {Angle moved}     &= 120 \times 0.5 \\\\
+                        &= 60 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$60 \degree$
 
 </div>
 </div>
@@ -599,26 +666,30 @@ $2.30 \ \text{pm}$ and $3.50 \ \text{pm}$.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The hour hand of a clock moves by $30 \degree$ every hour.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The hour hand of a clock moves by $0.5 \degree$ every minute.
+
+
+$
+\begin {aligned}
+\text {Total minutes}   &= 3{:}50 \ \text{pm} -  2{:}30 \ \text{pm} \\\\
+                        &= 1 \times 60 \ \text{minutes} + 20 \ \text{minutes} \\\\
+                        &= 80 \ \text{minutes} \\\\
+\text {Angle moved}     &= 80 \times 0.5 \\\\
+                        &= 40 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$40 \degree$
 
 </div>
 </div>
@@ -635,26 +706,38 @@ Work out the angle between the hour and minute hands when the time is $3.15 \ \t
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 0 \ \text{ minutes} \\\\
+\text {Angle}                           &= 0 \times 6 \\\\
+                                        &= 0 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$0 \degree$
 
 </div>
 </div>
@@ -702,7 +785,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -710,30 +793,8 @@ TODOANSWER
 %empty%
 
 </div>
-<div class='workings'>
-<div class='working placeholder'>
 
-TODOWORKING
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -743,26 +804,28 @@ In $25 \ \text{minutes}$, through what angle does the minute hand of a clock pas
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The minute hand of a clock moves by $30 \degree$ every minute.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The minute hand of a clock moves by $6 \degree$ every minute.
+
+
+$
+\begin {aligned}
+\text {Total minutes}   &= 25 \ \text{minutes} \\\\
+\text {Angle moved}     &= 25 \times 6 \\\\
+                        &= 150 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$150 \degree$
 
 </div>
 </div>
@@ -780,26 +843,28 @@ Calculate the value of angle $a \degree$.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+48 + 3a  &=  180 \\\\
+3a       &=  180 - 48 \\\\
+3a       &=  132 \\\\
+a        &=  \dfrac{132}{3} \\\\
+a        &=  \dfrac{44 \times 3}{3} \\\\
+a        &=  \dfrac{44 \times \cancel{3}}{\cancel{3}} \\\\
+a        &=  44 \degree
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$44 \degree$
 
 </div>
 </div>
@@ -813,30 +878,8 @@ TODOANSWER
 A square has a perimeter of $96 \ \text{cm}$.
 
 </div>
-<div class='workings'>
-<div class='working placeholder'>
 
-TODOWORKING
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
 <ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
@@ -846,26 +889,28 @@ Calculate the length of one side.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Let the length of one side $= a$
 
-</div>
-<div class='working placeholder'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+4a  &=  96 \\\\
+a   &=  \dfrac{96}{4} \\\\
+a   &=  \dfrac{24 \times 4}{4} \\\\
+a   &=  \dfrac{24 \times \cancel{4}}{\cancel{4}} \\\\
+a   &=  24 \text{ cm}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$24$ cm
 
 </div>
 </div>
@@ -880,26 +925,22 @@ Find the area of the square.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Area of the square}  &=  24^2 \\\\
+                           &=  24 \times 24 \\\\
+                           &=  576 \text{ cm}^2
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$576 \text{ cm}^2$
 
 </div>
 </div>
@@ -914,26 +955,26 @@ Give a sketch, not to scale, of a rectangle, showing the length of its sides, wh
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
 
-</div>
-<div class='working placeholder'>
+![missing image](/papers/missing_image.svg)
 
-TODOWORKING
+
+
+Draw a rectangle with a $32$ cm length and a $18$ cm breadth.
+
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -948,26 +989,22 @@ Find the perimeter of your rectangle.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Perimeter of the rectangle}   &=  2 \times 32 + 2 \times 18 \\\\
+                                    &=  24 \times 24 \\\\
+                                    &=  100 \text{ cm}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$100 \text{ cm}$
 
 </div>
 </div>
@@ -1120,7 +1157,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1155,7 +1192,19 @@ $12$ to the $1$
 <div class='workings'>
 <div class='working'>
 
-$30 \degree$
+ABBR: The minute hand of a clock moves by $30 \degree$ every minute.
+
+
+ABBR: The minute hand of a clock moves by $6 \degree$ every minute.
+
+
+$
+\begin {aligned}
+\text {Total minutes}   &= 5 \ \text{minutes} \\\\
+\text {Angle moved}     &= 5 \times 6 \\\\
+                        &= 30 \degree
+\end {aligned}
+$
 
 </div>
 </div>
@@ -1179,11 +1228,18 @@ $3$ to the $7$
 <div class='workings'>
 <div class='working'>
 
+ABBR: The minute hand of a clock moves by $30 \degree$ every minute.
+
+
+ABBR: The minute hand of a clock moves by $6 \degree$ every minute.
+
+
 $
-\begin{aligned}
-\text{From 3 to 7} &= 4 \times 30 \\\\
-                   &= 120 \degree
-\end{aligned}
+\begin {aligned}
+\text {Total minutes}   &= 20 \ \text{minutes} \\\\
+\text {Angle moved}     &= 20 \times 6 \\\\
+                        &= 120 \degree
+\end {aligned}
 $
 
 </div>
@@ -1243,7 +1299,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1251,30 +1307,8 @@ TODOANSWER
 %empty%
 
 </div>
-<div class='workings'>
-<div class='working placeholder'>
 
-TODOWORKING
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -1284,26 +1318,38 @@ Find the angle between the hands of a clock at $11 \ \text{am}$.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 5 \ \text{minutes} \\\\
+\text {Angle}                           &= 5 \times 6 \\\\
+                                        &= 30 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$30 \degree$
 
 </div>
 </div>
@@ -1318,26 +1364,31 @@ How many degrees has the minute hand moved between $3.55 \ \text{pm}$ and $5.15 
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The minute hand of a clock moves by $30 \degree$ every minute.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The minute hand of a clock moves by $6 \degree$ every minute.
+
+
+$
+\begin {aligned}
+\text {Total minutes}   &= 5{:}15 \text{ pm} - 3{:}55 \text{ pm} \\\\ 
+                        &= 1 \times 60 \text{ minutes} +  20 \ \text{minutes} \\\\
+                        &= 60 + 20 \\\\
+                        &= 80 \text{ minutes} \\\\
+\text {Angle moved}     &= 80 \times 6 \\\\
+                        &= 240 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$240 \degree$
 
 </div>
 </div>
@@ -1348,7 +1399,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1359,26 +1410,39 @@ On a clock face, what is the angle between the hands at $8.30$?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 10 + 2.5 \ \text{minutes} \\\\
+                                        &= 12.5 \ \text{minutes} \\\\
+\text {Angle}                           &= 12.5 \times 6 \\\\
+                                        &= 75 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$75 \degree$
 
 </div>
 </div>
@@ -1386,7 +1450,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1394,30 +1458,8 @@ TODOANSWER
 %empty% 
 
 </div>
-<div class='workings'>
-<div class='working placeholder'>
 
-TODOWORKING
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -1427,26 +1469,24 @@ What is $417 \ \text{minutes}$ in hours and minutes?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+&= 417 \text{ minutes} \\\\
+&= \dfrac{417}{60} \text{ hours} \\\\
+&= \dfrac{417}{60} \text{ hours} \\\\
+&= 6\dfrac{57}{60} \text{ hours} \\\\
+&= 6 \text{ hours } 57 \text{ minutes}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$6 \text{ hours } 57 \text{ minutes}$
 
 </div>
 </div>
@@ -1461,26 +1501,22 @@ Change $7.8 \ \text{hours}$ into minutes.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+&= 7.8 \text{ hours} \\\\
+&= 7.8 \times 60 \text{ minutes} \\\\
+&= 468 \text{ minutes}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$468 \text{ minutes}$
 
 </div>
 </div>
@@ -1495,26 +1531,38 @@ The time is $20{:}14$. What is the smaller angle between the hour hand and the m
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 26 \ \text{minutes} \\\\
+\text {Angle}                           &= 26 \times 6 \\\\
+                                        &= 156 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$156 \degree$
 
 </div>
 </div>
@@ -1531,26 +1579,16 @@ What is the exact time when this occurs?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$2{:}10$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$2{:}10$
 
 </div>
 </div>
@@ -1561,7 +1599,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1592,26 +1630,24 @@ What is $327 \ \text{minutes}$ in hours and minutes?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+&= 327 \text{ minutes} \\\\
+&= \dfrac{327}{60} \text{ hours} \\\\
+&= \dfrac{327}{60} \text{ hours} \\\\
+&= 5\dfrac{27}{60} \text{ hours} \\\\
+&= 5 \text{ hours } 27 \text{ minutes}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$5 \text{ hours } 27 \text{ minutes}$
 
 </div>
 </div>
@@ -1630,8 +1666,9 @@ Change $5.2 \ \text{hours}$ into minutes.
 
 $
 \begin{aligned}
-&= 5.2 \times 60 \\\\
-&= 312
+&= 5.2 \text{ hours} \\\\
+&= 5.2 \times 60 \text{ minutes} \\\\
+&= 312 \text{ minutes}
 \end{aligned}
 $
 
@@ -1640,7 +1677,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$312$
+$312 \text{ minutes}$
 
 </div>
 </div>
@@ -1655,26 +1692,38 @@ The time is 08{:}26. What is the smaller angle between the hour hand and the min
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 14 \ \text{minutes} \\\\
+\text {Angle}                           &= 14 \times 6 \\\\
+                                        &= 84 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$84 \degree$
 
 </div>
 </div>
@@ -1685,7 +1734,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1696,26 +1745,90 @@ What is the smaller angle between the hour hand and the minute hand at the follo
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+For $3{:}00$
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 15 \ \text{minutes} \\\\
+\text {Angle}                           &= 15 \times 6 \\\\
+                                        &= 90 \degree
+\end {aligned}
+$
+
+For $5{:}00$
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 25 \ \text{minutes} \\\\
+\text {Angle}                           &= 25 \times 6 \\\\
+                                        &= 150 \degree
+\end {aligned}
+$
+
+For $8{:}30$
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 10 + 2.5 \ \text{minutes} \\\\
+\text {Angle}                           &= 12.5 \times 6 \\\\
+                                        &= 75 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+$90 \degree$
 
 </div>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+$150 \degree$
+
+</div>
+<div class='answer'>
+
+$75 \degree$
 
 </div>
 </div>
@@ -1723,7 +1836,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1734,14 +1847,24 @@ A twenty-four hour digital watch shows only hours and minutes. How many times ea
 <div class='workings'>
 <div class='working'>
 
-$2 \text{times in a day}$
+When the hour is $04$ or $14$, the minutes can be $04, 14, 24, 34, 40-49$ and $54$ which is $15$ possiblities for each hour
+
+For the remaining $22$ hours, the minutes must be $44$
+
+$
+\begin{aligned}
+\text{Total}   &=  2 \times 15 + 22 \\\\
+               &=  30 + 22 \\\\
+               &=  52
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$2 \text{times in a day}$
+$52$
 
 </div>
 </div>
@@ -1749,7 +1872,7 @@ $2 \text{times in a day}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1757,30 +1880,8 @@ $2 \text{times in a day}$
 %empty% 
 
 </div>
-<div class='workings'>
-<div class='working placeholder'>
 
-TODOWORKING
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -1790,26 +1891,38 @@ What is the angle between the hands of a clock at $9{:}00 \ \text{am}$?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 15 \ \text{minutes} \\\\
+\text {Angle}                           &= 15 \times 6 \\\\
+                                        &= 90 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$90 \degree$
 
 </div>
 </div>
@@ -1824,26 +1937,38 @@ What is the angle between the hands of a clock at $1{:}00 \ \text{pm}$?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 5 \ \text{minutes} \\\\
+\text {Angle}                           &= 5 \times 6 \\\\
+                                        &= 30 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$30 \degree$
 
 </div>
 </div>
@@ -1858,26 +1983,39 @@ What is the angle between the hands of a clock at $1{:}30 \ \text{pm}$?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 25 \ \text{minutes} - 2.5 \text{ minutes} \\\\
+                                        &= 22.5 \text{ minutes} \\\\
+\text {Angle}                           &= 22.5 \times 6 \\\\
+                                        &= 135 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$135 \degree$
 
 </div>
 </div>
@@ -1888,7 +2026,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1898,23 +2036,13 @@ It is then turned anticlockwise by $240 \degree$. What number does it now point 
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$3$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
 <div class='answer placeholder'>
 
 TODOANSWER
@@ -1925,7 +2053,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1936,27 +2064,29 @@ Find the obtuse angle between the hands of a clock at $5$ o’clock.
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
 
-In the clock from $12$ to $12$ it was $360 \degree$
 
-In the clock from $12$ to $6$ it was $180 \degree$
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 $
-\begin{aligned}
-\text{So from} \  12 \ \text{to} \  1  &= \dfrac{180}{6} \\\\
-&= \dfrac{30 \times 6}{6} \\\\
-&=  \dfrac{30 \times\cancel 6}{ \cancel 6} \\\\
-&= 30 \degree
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{So, the obtuse angle for} \  5  \ \text{O'clock} &= 30 \times 5 \\\\
-&=  30 \times 5 \\\\
-&=  150 \degree
-\end{aligned}
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 5 \times 5 \\\\
+                                        &= 25 \ \text{minutes} \\\\
+\text {Angle}                           &= 25 \times 6 \\\\
+                                        &= 150 \degree
+\end {aligned}
 $
 
 </div>
@@ -1972,7 +2102,7 @@ $150 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1983,11 +2113,29 @@ What is the angle between the hands of a clock at $2{:}30 \ \text{pm}$. (Remembe
 <div class='workings'>
 <div class='working'>
 
-$ 
-\begin{aligned}
-&= 30 \degree + 30 \degree + 30 \degree + 15 \degree \\\\
-&= 105 \degree
-\end{aligned}
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
+
+
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 20 - 2.5 \ \text{minutes} \\\\
+                                        &= 17.5 \ \text{minutes} \\\\
+\text {Angle}                           &= 17.5 \times 6 \\\\
+                                        &= 105 \degree
+\end {aligned}
 $
 
 </div>
@@ -2003,7 +2151,7 @@ $105 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2013,20 +2161,8 @@ What is the acute angle between the hands of a clock at
 ![the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1/section-1-question-39-00.png](/assets/the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1/section-1-question-39-00.png "the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1/section-1-question-39-00.png")
 
 </div>
-<div class='workings'>
-<div class='working placeholder'>
 
-TODOWORKING
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -2036,16 +2172,38 @@ $1 \ \text{pm}$
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
+
+
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 5 \ \text{minutes} \\\\
+\text {Angle}                           &= 5 \times 6 \\\\
+                                        &= 30 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+$30 \degree$
 
 </div>
 </div>
@@ -2060,16 +2218,39 @@ $6.30 \ \text{pm}$
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
+
+
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 0 \ \text{ minutes} + 2.5 \ \text{minutes} \\\\
+                                        &= 2.5 \ \text{minutes} \\\\
+\text {Angle}                           &= 2.5 \times 6 \\\\
+                                        &= 15 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+$15 \degree$
 
 </div>
 </div>
@@ -2080,7 +2261,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2088,20 +2269,8 @@ TODOANSWER
 %empty%
 
 </div>
-<div class='workings'>
-<div class='working placeholder'>
 
-TODOWORKING
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -2113,16 +2282,26 @@ Draw all lines of symmetry on each shape below.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Draw all lines of symmetry on each shape below.
+
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -2139,16 +2318,26 @@ Reflect the shaded shape in the dashed line.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Reflect the shaded shape in the dashed line.
+
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -2167,16 +2356,16 @@ What time is it?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+$7{:}15$ a.m
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+$7{:}15$ a.m
 
 </div>
 </div>
@@ -2223,7 +2412,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2260,16 +2449,19 @@ $9 \ \text{a.m.}$ and $10 \ \text{a.m.}$
 <div class='workings'>
 <div class='working'>
 
-As we know the angle between every two units is equal.
+ABBR: The hour hand of a clock moves by $30 \degree$ every hour.
 
-As per the question,
+
+ABBR: The hour hand of a clock moves by $0.5 \degree$ every minute.
+
 
 $
 \begin {aligned}
-\text {Angle between 9 a.m. and 10 a.m.}    &= \dfrac {90} {3} \\\\
-                                            &= \dfrac {30 \times 3} {3} \\\\
-                                            &= \dfrac {30 \times \cancel {3}} {\cancel {3}} \\\\
-                                            &= 30 \degree
+\text {Total minutes}   &= 10{:}00 \ \text{am} -  9{:}00 \ \text{am} \\\\
+                        &= 1 \times 60  \ \text{minutes} \\\\
+                        &= 60 \ \text{minutes} \\\\
+\text {Angle moved}     &= 60 \times 0.5 \\\\
+                        &= 30 \degree
 \end {aligned}
 $
 
@@ -2295,16 +2487,18 @@ $12{:}45$ and $13{:}15$
 <div class='workings'>
 <div class='working'>
 
-As we know the angle between every unit is equal.
+ABBR: The hour hand of a clock moves by $30 \degree$ every hour.
 
-As per the question,
 
-The time is equal to $30$ minutes which is half an hour. Using that we get,
+ABBR: The hour hand of a clock moves by $0.5 \degree$ every minute.
+
 
 $
 \begin {aligned}
-&= \dfrac {30} {2} \\\\
-&= 15 \degree
+\text {Total minutes}   &= 13{:}15 \ \text{am} -  12{:}45 \ \text{am} \\\\
+                        &= 30  \ \text{minutes} \\\\
+\text {Angle moved}     &= 30 \times 0.5 \\\\
+                        &= 15 \degree
 \end {aligned}
 $
 
@@ -2330,25 +2524,28 @@ $6.30 \ \text{p.m.}$ and $8.50 \ \text{p.m.}$
 <div class='workings'>
 <div class='working'>
 
-As we know the angle between every hour is equal.
+ABBR: The hour hand of a clock moves by $30 \degree$ every hour.
 
-As per the question,
 
-The time is equal to $2$ hours and $20$ minutes. Using that we get,
+ABBR: The hour hand of a clock moves by $0.5 \degree$ every minute.
+
 
 $
 \begin {aligned}
-&= 60 +  \\\\
-&= 15 \degree
+\text {Total minutes}   &= 8{:}50 \ \text{pm} -  6{:}30 \ \text{pm} \\\\
+                        &= 1 \times 60 + 80  \ \text{minutes} \\\\
+                        &= 140  \ \text{minutes} \\\\
+\text {Angle moved}     &= 140 \times 0.5 \\\\
+                        &= 70 \degree
 \end {aligned}
 $
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+$70 \degree$
 
 </div>
 </div>
@@ -2359,7 +2556,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2367,30 +2564,8 @@ TODOANSWER
 A clock shows $2$ o'clock, with the minute hand on $12$ and the hour hand on $2$.
 
 </div>
-<div class='workings'>
-<div class='working placeholder'>
 
-TODOWORKING
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -2400,26 +2575,26 @@ How many times does the minute hand go past the hour hand between $2.00 \ \text{
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+The hands overlap about every $65$ minutes
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Total minutes}              &=  7{:}00 \text{ pm} - 2{:}00 \text{ pm} \\\\
+                                  &=  5 \times 60 \text{ minutes} \\\\
+                                  &=  300 \text{ minutes} \\\\
+\text{Number of times overlaped}  &= \dfrac{300}{65} \\\\
+                                  &\approx 4
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$4$
 
 </div>
 </div>
@@ -2434,26 +2609,31 @@ What time will the clock show when the hour hand has turned through an angle of 
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The minute hand of a clock moves by $30 \degree$ every minute.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The minute hand of a clock moves by $6 \degree$ every minute.
+
+
+$
+\begin{aligned}
+\text{Number of minutes passed}  &= \dfrac{60}{6} \\\\
+                                 &= \dfrac{10 \times 6}{6} \\\\
+                                 &= \dfrac{10 \times \cancel{6}}{\cancel{6}} \\\\
+                                 &= 10 \text { minutes} \\\\
+\text{Time}                      &= 2{:}00 \text{ pm} + 10  \text { minutes} \\\\
+                                 &= 2{:}10 \text{ pm}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+2{:}10 \text{ pm}
 
 </div>
 </div>
@@ -2468,26 +2648,31 @@ What time will the clock show when the minute hand has turned through an angle o
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The minute hand of a clock moves by $30 \degree$ every minute.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The minute hand of a clock moves by $6 \degree$ every minute.
+
+
+$
+\begin{aligned}
+\text{Number of minutes passed}  &= \dfrac{900}{6} \\\\
+                                 &= \dfrac{150 \times 6}{6} \\\\
+                                 &= \dfrac{150 \times \cancel{6}}{\cancel{6}} \\\\
+                                 &= 150 \text { minutes} \\\\
+\text{Time}                      &= 2{:}00 \text{ pm} + 150  \text { minutes} \\\\
+                                 &= 4{:}30 \text{ pm}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$4{:}30 \text{ pm}$
 
 </div>
 </div>
@@ -2502,26 +2687,30 @@ Through what angle will the minute hand have turned from $2$ o'clock, when the c
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The minute hand of a clock moves by $30 \degree$ every minute.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The minute hand of a clock moves by $6 \degree$ every minute.
+
+
+$
+\begin {aligned}
+\text {Total minutes}   &= 10{:}00 \text{ pm} - 2{:}00 \text{ pm} \\\\
+                        &= 8 \times 60 \text{ minutes} \\\\
+                        &= 240 \text{ minutes} \\\\
+\text {Angle moved}     &= 240 \times 6 \\\\
+                        &= 1440 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$1440 \degree$
 
 </div>
 </div>
@@ -2536,26 +2725,31 @@ Through what angle will the hour hand have turned from $2$ o'clock, when the clo
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The hour hand of a clock moves by $30 \degree$ every hour.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The hour hand of a clock moves by $0.5 \degree$ every minute.
+
+
+$
+\begin {aligned}
+\text {Total minutes}   &= 6{:}30 \ \text{pm} -  2{:}00 \ \text{pm} \\\\
+                        &= 4 \times 60  \ \text{minutes} + 30  \ \text{minutes} \\\\
+                        &= 240 + 30 \\\\
+                        &= 270 \ \text{minutes} \\\\
+\text {Angle moved}     &= 270 \times 0.5 \\\\
+                        &= 135 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$135 \degree$
 
 </div>
 </div>
@@ -2566,57 +2760,48 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-What is the smaller angle between the hands of a clock at $2{:}    30$?  
+What is the smaller angle between the hands of a clock at $2{:}30$?  
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let's revise few facts about clock hands.
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
 
-- A minute clock hand moves $360 \degree$ in $1 \ \text{hour}$
-- A hour clock hand moves $30 \degree$ in $1 \ \text{hour}$
-- The angle between each hour number on the clock is $30 \degree$
 
-At $2{:}30$, the minute hand will be exactly on hour number $6$ but the hour hand will have moved a little ahead from $2$ and it will be somewhere between $2$ and $3$.
+ABBR: The difference between minutes of a clock is $6 \degree$.
 
-Let's calculate the angle moved by hour hand.
 
-$
-\begin{aligned}
-1 \ \text{hour}         &: 30 \degree \\\\
-60 \ \text{minutes}     &: 30 \\\\
-1 \ \text{minute}       &: \dfrac{30}{60} \\\\
-30 \ \text{minutes}     &: \dfrac{30 \times 30}{60} \\\\
-30 \ \text{minutes}     &: 15 \degree
-\end{aligned}
-$
+*ABBR: TODO:: Add drawing starts.*
 
-The angle between hands is the angle between number $2$ and $6$ minus the angle travelled by hour hand in $30$ minutes.
+![missing image](/papers/missing_image.svg)
 
-Let's calculate the angle between the hands.
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 $
-\begin{aligned}
-&= 30 \times 4 - 15 \\\\
-&= 120 - 15 \\\\
-&= 105 \degree
-\end{aligned}
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 20 - 2.5 \ \text{minutes} \\\\
+                                        &= 17.5 \ \text{minutes} \\\\
+\text {Angle}                           &= 17.5 \times 6 \\\\
+                                        &= 105 \degree
+\end {aligned}
 $
-
-The smaller angle is $= 105 \degree$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$105$
+$105 \degree$
 
 </div>
 </div>
@@ -2624,7 +2809,7 @@ $105$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2633,26 +2818,39 @@ What is the smaller angle between the hands of a clock at five o’clock?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 5 \times 5 \\\\
+                                        &= 25 \ \text{minutes} \\\\
+\text {Angle}                           &= 25 \times 6 \\\\
+                                        &= 150 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$150 \degree$
 
 </div>
 </div>
@@ -2660,7 +2858,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2668,30 +2866,8 @@ TODOANSWER
 %empty%
 
 </div>
-<div class='workings'>
-<div class='working placeholder'>
 
-TODOWORKING
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -2701,26 +2877,16 @@ In one hour how many degrees does the **hour** hand of a clock move?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$30 \degree$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$30 \degree$
 
 </div>
 </div>
@@ -2735,26 +2901,31 @@ How many degrees does the **hour** hand move between $1.10\,am$ and $4.30\,am$?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The hour hand of a clock moves by $30 \degree$ every hour.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The hour hand of a clock moves by $0.5 \degree$ every minute.
+
+
+$
+\begin {aligned}
+\text {Total minutes}   &= 4{:}30 \ \text{am} -  1{:}10 \ \text{am} \\\\
+                        &= 2 \times 60  \ \text{minutes} + 80  \ \text{minutes} \\\\
+                        &= 120 + 80 \\\\
+                        &= 200 \ \text{minutes} \\\\
+\text {Angle moved}     &= 200 \times 0.5 \\\\
+                        &= 100 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$100 \degree$
 
 </div>
 </div>
@@ -2765,7 +2936,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2776,26 +2947,38 @@ What is the angle between the hands of this clock?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 10 \ \text{minutes} \\\\
+\text {Angle}                           &= 10 \times 6 \\\\
+                                        &= 60 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$60 \degree$
 
 </div>
 </div>

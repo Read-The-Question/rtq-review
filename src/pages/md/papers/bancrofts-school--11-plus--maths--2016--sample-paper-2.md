@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2016-sample-paper-2"
 title: "Bancrofts School - 11 Plus - Maths - 2016 - Sample Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "37"
 ---
 <div class='paper'>
@@ -908,7 +908,7 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -916,30 +916,8 @@ $6$
 %empty%
 
 </div>
-<div class='workings'>
-<div class='working placeholder'>
 
-TODOWORKING
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -951,26 +929,16 @@ $\boxed{\ 7.044 \ } \quad \boxed{\ 7.07 \ } \quad \boxed{\ 7.41  \ } \quad \boxe
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$7.044, \quad 7.07, \quad 7.4004, \quad 7.41$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$7.044, \quad 7.07, \quad 7.4004, \quad 7.41$
 
 </div>
 </div>
@@ -985,26 +953,21 @@ Calculate the difference between the largest and smallest of these four decimals
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Difference}  &= 7.41 - 7.044 \\\\
+                   &= 0.366
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$0.366$
 
 </div>
 </div>
@@ -1525,7 +1488,7 @@ $5, 7, 4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1557,36 +1520,23 @@ ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 $
 \begin{aligned}
-\text{Distance travelled by Rio}   &=  200 \text{ km} \\\\
-\text{Distance travelled by Harry} &=  150  + 150 \\\\
-                                   &=  300 \text{ km} \\\\
-\text{Distance travelled by Fahad} &=  200 \text{ km}
-\end{aligned}
-$
-
-
-$
-\begin{aligned}
-\text{Time taken by Rio}   &=  \dfrac{200 \text{ km}}{80 \text{ km/hr}} \\\\
-                           &=  \dfrac{200}{80} \\\\
+\text{Time taken by Rio}   &=  \dfrac{200}{80} \\\\
                            &=  \dfrac{4 \times 5 \times 10}{4 \times 2 \times 10} \\\\
                            &=  \dfrac{\cancel{4} \times 5 \times \cancel{10}}{\cancel{4} \times 2 \times \cancel{10}} \\\\
-                           &=  \dfrac{5}{2} \\\\
-                           &=  2\dfrac{1}{2} \text{ hr} \\\\
+                           &=  \dfrac{5}{2} \text{ hours} \\\\
+                           &=  2\dfrac{1}{2} \text{ hours} \\\\
                            &=  2 \text{ hours } 30 \text{ minutes} \\\\
-\text{Time taken by Harry} &=  \dfrac{300 \text{ km}}{100 \text{ km/hr}} \\\\
+\text{Time taken by Harry} &=  \dfrac{150 + 150}{100} \\\\
                            &=  \dfrac{300}{100} \\\\
                            &=  \dfrac{3 \times 100}{100} \\\\
                            &=  \dfrac{3 \times \cancel{100}}{\cancel{100}} \\\\
                            &=  3 \text{ hours} \\\\
-                           &=  3 \text{ hours } 0 \text{ minutes} \\\\
-\text{Time taken by Fahad} &=  \dfrac{200 \text{ km}}{60 \text{ km/hr}} \\\\
-                           &=  \dfrac{200}{60} \\\\
+\text{Time taken by Fahad} &=  \dfrac{200}{60} \\\\
                            &=  \dfrac{2 \times 2 \times 5 \times 10}{3 \times 2 \times 10} \\\\
                            &=  \dfrac{2 \times \cancel{2} \times 5 \times \cancel{10}}{3 \times \cancel{2} \times \cancel{10}} \\\\
                            &=  \dfrac{2 \times 5}{3} \\\\
                            &=  \dfrac{10}{3} \\\\
-                           &=  3\dfrac{1}{3} \text{ hr} \\\\
+                           &=  3\dfrac{1}{3} \text{ hours} \\\\
                            &=  3 \text{ hours } 20 \text{ minutes}
 \end{aligned}
 $
@@ -1601,7 +1551,7 @@ Rio takes $2 \text{ hours } 30 \text{ minutes}$
 </div>
 <div class='answer'>
 
-Harry takes $3 \text{ hours } 0 \text{ minutes}$
+Harry takes $3 \text{ hours}$
 
 </div>
 <div class='answer'>
@@ -1623,26 +1573,7 @@ If they all set off at the same time, who arrives first?
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-\text{Time taken by Rio}   &=  2 \text{ hours } 30 \text{ minutes} \\\\
-                           &=  2 \times 60 + 30 \text{ minutes} \\\\
-                           &=  2 \times 60 + 30 \\\\
-                           &=  120 + 30 \\\\
-                           &=  150 \text{ minutes} \\\\
-\text{Time taken by Harry} &=  3 \text{ hours } 0 \text{ minutes} \\\\
-                           &=  3 \times 60 +  0 \text{ minutes} \\\\
-                           &=  3 \times 60 +  0 \\\\
-                           &=  180 \text{ minutes} \\\\
-\text{Time taken by Fahad} &=  3 \text{ hours } 20 \text{ minutes} \\\\
-                           &=  3 \times 60 + 20 \text{ minutes} \\\\
-                           &=  3 \times 60 + 20 \\\\
-                           &=  180 + 20 \\\\
-                           &=  200 \text{ minutes} \\\\
-\end{aligned}
-$
-
-If they all set off at the same time, Rio arrives first.
+If they all set off at the same time, Rio would arrive first by $2$ hours and $30$ minutes.
 
 </div>
 </div>
@@ -2827,7 +2758,7 @@ TODOANSWER
 # Section D
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

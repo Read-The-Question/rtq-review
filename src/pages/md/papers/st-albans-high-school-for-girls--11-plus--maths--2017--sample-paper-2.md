@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-high-school-for-girls-11-plus-maths-2017-sample-paper-2"
 title: "St Albans High School For Girls - 11 Plus - Maths - 2017 - Sample Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "43"
 ---
 <div class='paper'>
@@ -580,7 +580,7 @@ $56$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -592,26 +592,16 @@ Write down which of the numbers above is
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -624,26 +614,25 @@ The smallest
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Let's convert all the numbers into decimals.
 
-</div>
-<div class='working placeholder'>
+$
+\begin{aligned}
+&= 2\%, \quad 1, \quad 222, \quad 0.202, \quad 5, \quad 1000 \\\\
+&= 0.02, \quad 1, \quad 222, \quad 0.202, \quad 5, \quad 1000
+\end{aligned}
+$
 
-TODOWORKING
+Smallest $= 0.02$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$0.02$
 
 </div>
 </div>
@@ -658,26 +647,16 @@ The largest
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$1000$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$1000$
 
 </div>
 </div>
@@ -1535,7 +1514,7 @@ Draw an arrow on scale B to show the new measurement.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1551,13 +1530,14 @@ ABBR: $\text {Speed} = \dfrac {\text{Distance}} {\text{Time}}$
 
 $
 \begin{aligned}
-\text{Speed}     &=  \dfrac{24 \text{ kilometres}}{4 \text{ hours}} \\\\
-                 &=  \dfrac{24}{4} \\\\
+\text{Speed}     &=  \dfrac{24}{4} \\\\
                  &=  \dfrac{6 \times 4}{4} \\\\
                  &=  \dfrac{6 \times \cancel{4}}{\cancel{4}} \\\\
                  &=  6 \text{ kilometres/hour} \\\\
-\text{Time taken}&=  \dfrac{15 \text{ kilometres}}{6 \text{ miles/hour}} \\\\
-                 &=  \dfrac{15}{6} \\\\
+\text{Time taken}&=  \dfrac{15}{6} \\\\
+                 &=  \dfrac{3 \times 5}{3 \times 2} \\\\
+                 &=  \dfrac{\cancel{3} \times 5}{\cancel{3} \times 2} \\\\
+                 &=  \dfrac{5}{2} \\\\
                  &=  2.5 \text{ hours or } 2 \text{ hours and } 30 \text{ minutes}
 \end{aligned}
 $
@@ -1575,7 +1555,7 @@ $2.5 \text{ hours or } 2 \text{ hours and } 30 \text{ minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1615,16 +1595,11 @@ The next term is calculated by adding $4$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}  \\
+&   \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}  \\
 3,  &&    7,  &&  11,  &&   15,  &&   19, && \ldots
 \end{matrix}
 $
@@ -1665,18 +1640,12 @@ It is a sequence of square numbers.
 
 $
 \begin {matrix}
-    \footnotesize{\maroonC
-{(2^2)}}
-&&  \footnotesize{\maroonC
-{(3^2)}}
-&&  \footnotesize{\maroonC
-{(4^2)}}
-&&  \footnotesize{\maroonC
-{(5^2)}}
-&&  \footnotesize{\maroonC
-{(6^2)}}
-&&  \footnotesize{\maroonC
-{(7^2)}}  \\\\
+    \footnotesize{\maroonC{(2^2)}}
+&&  \footnotesize{\maroonC{(3^2)}}
+&&  \footnotesize{\maroonC{(4^2)}}
+&&  \footnotesize{\maroonC{(5^2)}}
+&&  \footnotesize{\maroonC{(6^2)}}
+&&  \footnotesize{\maroonC{(7^2)}}  \\\\
 4,  &&  9,  &&   16,  && 25,  &&   36, && \ldots
 \end {matrix}
 $
@@ -1715,16 +1684,11 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(-8)}}
-&&  \footnotesize{\maroonC
-{(-10)}}
-&&  \footnotesize{\maroonC
-{(-12)}}  \\
+&   \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-6)}}
+&&  \footnotesize{\maroonC{(-8)}}
+&&  \footnotesize{\maroonC{(-10)}}
+&&  \footnotesize{\maroonC{(-12)}}  \\
 23,  &&    19,  &&  13,  &&   5,  &&   -5, && \ldots
 \end{matrix}
 $
@@ -1752,7 +1716,7 @@ $-17$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2176,20 +2140,41 @@ $40 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-240 passengers boarded a train in Birmingham. The pie chart shows the percentage of the passengers who travelled to Shrewsbury, Welshpool, Ludlow, Chester and Telford.
+$240$ passengers boarded a train in Birmingham.
 
-%graph%
+The pie chart shows the percentage of the passengers who
+travelled to Shrewsbury, Welshpool, Ludlow, Chester and Telford.
+
+![st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2/section-1-question-33-00.png](/assets/st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2/section-1-question-33-00.png "st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2/section-1-question-33-00.png")
 
 Work out how many passengers travelled to the following three places:
 
-Welshpool………………………………
-Ludlow……………………………..
-Chester…………………………….. 
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Welshpool
 
 </div>
 <div class='workings'>
@@ -2197,24 +2182,12 @@ Chester……………………………..
 
 $
 \begin{aligned}
-\text{Number of passengers travelled to Welshpool}    &= \dfrac {90} {360} \times 240 \\\\
-                                                      &= \dfrac {90 \times 240} {360} \\\\
-                                                      &= \dfrac {30 \times 3 \times 120 \times 2} {120 \times 3} \\\\
-                                                      &= \dfrac {30 \times \cancel 3 \times \cancel {120} \times 2} {\cancel {120} \times \cancel 3} \\\\
-                                                      &= 30 \times 2 \\\\
-                                                      &= 60 \\\\
-\text{Number of passengers travelled to Ludlow}       &= \dfrac {60} {360} \times 240 \\\\
-                                                      &= \dfrac {60 \times 240} {360} \\\\
-                                                      &= \dfrac {20 \times 3 \times 120 \times 2} {120 \times 3} \\\\
-                                                      &= \dfrac {20 \times \cancel 3 \times \cancel {120} \times 2} {\cancel {120} \times \cancel 3} \\\\
-                                                      &= 20 \times 2 \\\\
-                                                      &= 40 \\\\
-\text{Number of passengers travelled to Chester}      &= \dfrac {54} {360} \times 240 \\\\
-                                                      &= \dfrac {54 \times 240} {360} \\\\
-                                                      &= \dfrac {18 \times 3 \times 120 \times 2} {120 \times 3} \\\\
-                                                      &= \dfrac {18 \times \cancel 3 \times \cancel {120} \times 2} {\cancel {120} \times \cancel 3} \\\\
-                                                      &= 18 \times 2 \\\\
-                                                      &= 36
+\text{Welshpool}    &= \dfrac {90} {360} \times 240 \\\\
+                    &= \dfrac {90 \times 240} {360} \\\\
+                    &= \dfrac {30 \times 3 \times 120 \times 2} {120 \times 3} \\\\
+                    &= \dfrac {30 \times \cancel 3 \times \cancel {120} \times 2} {\cancel {120} \times \cancel 3} \\\\
+                    &= 30 \times 2 \\\\
+                    &= 60
 \end{aligned}
 $
 
@@ -2226,11 +2199,67 @@ $
 Welshpool $=$ $60$
 
 </div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Ludlow
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Ludlow}       &= \dfrac {60} {360} \times 240 \\\\
+                    &= \dfrac {60 \times 240} {360} \\\\
+                    &= \dfrac {20 \times 3 \times 120 \times 2} {120 \times 3} \\\\
+                    &= \dfrac {20 \times \cancel 3 \times \cancel {120} \times 2} {\cancel {120} \times \cancel 3} \\\\
+                    &= 20 \times 2 \\\\
+                    &= 40
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
 <div class='answer'>
 
 Ludlow $=$ $40$
 
 </div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Chester
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Chester}      &= \dfrac {54} {360} \times 240 \\\\
+                    &= \dfrac {54 \times 240} {360} \\\\
+                    &= \dfrac {18 \times 3 \times 120 \times 2} {120 \times 3} \\\\
+                    &= \dfrac {18 \times \cancel 3 \times \cancel {120} \times 2} {\cancel {120} \times \cancel 3} \\\\
+                    &= 18 \times 2 \\\\
+                    &= 36
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
 <div class='answer'>
 
 Chester $=$ $36$
@@ -2240,8 +2269,11 @@ Chester $=$ $36$
 
 </div>
 </li>
+</ul>
+</div>
+</li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2333,7 +2365,7 @@ $15$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2352,7 +2384,7 @@ What are A, B and C?
 <div class='workings'>
 <div class='working'>
 
-ABBR: If there is an odd number of numbers, the median is the middle number. If there is an even count of numbers, the median is the average of the middle two numbers.
+ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
 
 
 As per the question,
@@ -2401,28 +2433,22 @@ A               &= 30
 \end{aligned}
 $
 
-Value of $A = 30$
-
-Value of $B = 50$
-
-Value of $C = 20$
-
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-A $=$ $30$
+$A$ $=$ $30$
 
 </div>
 <div class='answer'>
 
-B $=$ $50$
+$B$ $=$ $50$
 
 </div>
 <div class='answer'>
 
-C $=$ $20$
+$C$ $=$ $20$
 
 </div>
 </div>
@@ -2567,7 +2593,7 @@ $5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2580,26 +2606,27 @@ How many times will Jaqueline have turned when the girls are next facing each ot
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+LCM of $3,4 = 12$
 
-</div>
-<div class='working placeholder'>
+Time taken $= 12 \text{ seconds}$
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Number of turns}  &=  \dfrac{12}{3} \\\\
+                        &=  \dfrac{3 \times 4}{3} \\\\
+                        &=  \dfrac{\cancel{3} \times 4}{\cancel{3}} \\\\
+                        &=  4
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$4$
 
 </div>
 </div>
@@ -2788,7 +2815,7 @@ $64$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/james-allens-girls-school-11-plus-maths-9999-sample-paper-1"
 title: "James Allens Girls School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "21"
 ---
 <div class='paper'>
@@ -218,7 +218,7 @@ $40 \text{p}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -261,16 +261,11 @@ The next term is calculated by dividing the previous term by $10$. Hence, the se
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(\div 10)} }
-&&  \footnotesize {\maroonC
- {(\div 10)} }
-&&  \footnotesize {\maroonC
- {(\div 10)} }
-&&  \footnotesize {\maroonC
- {(\div 10)} }
-&&  \footnotesize {\maroonC
- {(\div 10)} }  \\
+&   \footnotesize {\maroonC {(\div 10)} }
+&&  \footnotesize {\maroonC {(\div 10)} }
+&&  \footnotesize {\maroonC {(\div 10)} }
+&&  \footnotesize {\maroonC {(\div 10)} }
+&&  \footnotesize {\maroonC {(\div 10)} }  \\
 30000,  && 3000,  && 300,  && 30, && \ldots, && \ldots
 \end{matrix}
 $
@@ -321,16 +316,11 @@ The next term is calculated by multiplying the previous term by $2$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(\times 2)} }
-&&  \footnotesize {\maroonC
- {(\times 2)} }
-&&  \footnotesize {\maroonC
- {(\times 2)} }
-&&  \footnotesize {\maroonC
- {(\times 2)} }
-&&  \footnotesize {\maroonC
- {(\times 2)} }  \\
+&   \footnotesize {\maroonC {(\times 2)} }
+&&  \footnotesize {\maroonC {(\times 2)} }
+&&  \footnotesize {\maroonC {(\times 2)} }
+&&  \footnotesize {\maroonC {(\times 2)} }
+&&  \footnotesize {\maroonC {(\times 2)} }  \\
 3, && 6, && 12, && 24, && \ldots, && \ldots
 \end{matrix}
 $
@@ -381,20 +371,13 @@ The next term is calculated by adding together the last two terms. Hence, the se
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(0 + 1)} }
-&&  \footnotesize {\maroonC
- {(1 + 1)} }
-&&  \footnotesize {\maroonC
- {(1 + 2)} }
-&&  \footnotesize {\maroonC
- {(2 + 3)} }
-&&  \footnotesize {\maroonC
- {(3 + 5)} }
-&&  \footnotesize {\maroonC
- {(5 + 8)} }
-&&  \footnotesize {\maroonC
- {(8 + 13)} }  \\
+&   \footnotesize {\maroonC {(0 + 1)} }
+&&  \footnotesize {\maroonC {(1 + 1)} }
+&&  \footnotesize {\maroonC {(1 + 2)} }
+&&  \footnotesize {\maroonC {(2 + 3)} }
+&&  \footnotesize {\maroonC {(3 + 5)} }
+&&  \footnotesize {\maroonC {(5 + 8)} }
+&&  \footnotesize {\maroonC {(8 + 13)} }  \\
 1,  &&  1, &&  2, &&  3, &&  5, && 8, &&  \ldots, && \ldots
 \end{matrix}
 $
@@ -446,18 +429,12 @@ It is a sequence of square numbers.
 
 $
 \begin {matrix}
-    \footnotesize {\maroonC
-{(1^2)}}
-&&  \footnotesize {\maroonC
-{(2^2)}}
-&&  \footnotesize {\maroonC
-{(3^2)}}
-&&  \footnotesize {\maroonC
-{(4^2)}}
-&&  \footnotesize {\maroonC
-{(5^2)}}
-&&  \footnotesize {\maroonC
-{(6^2)}}  \\\\
+    \footnotesize {\maroonC{(1^2)}}
+&&  \footnotesize {\maroonC{(2^2)}}
+&&  \footnotesize {\maroonC{(3^2)}}
+&&  \footnotesize {\maroonC{(4^2)}}
+&&  \footnotesize {\maroonC{(5^2)}}
+&&  \footnotesize {\maroonC{(6^2)}}  \\\\
 1, && 4, && 9, && 16, && \ldots, && \ldots
 \end {matrix}
 $
@@ -960,7 +937,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -997,7 +974,7 @@ Plot the points on the graph and show the length of the side of the rectangle
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(8, 8)$
+Coordinates $= (8, 8)$
 
 </div>
 </div>
@@ -1089,7 +1066,7 @@ $38, 12 \text {p}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1177,8 +1154,8 @@ Find the total rainfall for the week?
 
 $
 \begin{aligned}
-\text{Total rainfall of the week}       &= 6 + 5 + 2 + 0 + 14 + 2 + 4 \\\\
-                                        &= 33 \ \text{mm}
+\text{Total rainfall}       &= 6 + 5 + 2 + 0 + 14 + 2 + 4 \\\\
+                            &= 33 \ \text{mm}
 \end{aligned}
 $
 
@@ -1399,8 +1376,6 @@ $50 \degree$
 
 How many of the $180$ students chose Pizza?
 
-![james-allens-girls-school--11-plus--maths--9999--sample-paper-1/section-1-question-17-subquestion-4-00.png](/assets/james-allens-girls-school--11-plus--maths--9999--sample-paper-1/section-1-question-17-subquestion-4-00.png "james-allens-girls-school--11-plus--maths--9999--sample-paper-1/section-1-question-17-subquestion-4-00.png")
-
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1437,9 +1412,7 @@ $50$
 <div class='question question'>
 
 To encourage her to tidy her bedroom, Cathy is given $1 \text{p}$ on the first day, $2 \text{p}$ on the second day, $4 \text{p}$ on the third day and so on, doubling the amount each day. 
-How much has she been given after $8$ days?
-
-![james-allens-girls-school--11-plus--maths--9999--sample-paper-1/section-1-question-18-00.png](/assets/james-allens-girls-school--11-plus--maths--9999--sample-paper-1/section-1-question-18-00.png "james-allens-girls-school--11-plus--maths--9999--sample-paper-1/section-1-question-18-00.png")   
+How much has she been given after $8$ days?  
 
 </div>
 <div class='workings'>

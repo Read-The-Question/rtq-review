@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2016-sample-paper-4"
 title: "Oundle School - 11 Plus - Maths - 2016 - Sample Paper 4"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "10"
 ---
 <div class='paper'>
@@ -841,7 +841,7 @@ $\pounds 232.140$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -864,20 +864,44 @@ Which is smallest? Circle your answer
 
 $
 \begin{aligned}
-\dfrac{(2+3)}{(4+6)}                                        &= \dfrac{5}{11} \\\\
-\dfrac{(2\div3)}{(4\div6)}                                  &= 1 \\\\
-\dfrac{23}{46}                                              &= \dfrac{1}{2} \\\
-\dfrac{(2-3)}{(4-6)}                                        &= \dfrac{-1}{-2} \\\\
-\dfrac{(2\times3)}{(4\times6)}                              &= \dfrac{6}{24} \\\
+\text{A}  &= \dfrac{(2+3)}{(4+6)} \\\\
+          &= \dfrac{5}{10} \\\\
+          &= 0.5 \\\\
+\text{B}  &= \dfrac{(2\div3)}{(4\div6)} \\\\
+          &= \dfrac{\dfrac{2}{3}}{\dfrac{4}{6}} \\\\
+          &= \dfrac{2}{3} \times \dfrac{6}{4} \\\\
+          &= \dfrac{2 \times 6}{3 \times 4} \\\\
+          &= \dfrac{2 \times 3 \times 2}{3 \times 2 \times 2} \\\\
+          &= \dfrac{\cancel{2} \times \cancel{3} \times \cancel{2}}{\cancel{3} \times \cancel{2} \times \cancel{2}} \\\\
+          &= 1 \\\\
+\text{C}  &= \dfrac{23}{46} \\\\
+          &= \dfrac{23}{23 \times 2} \\\\
+          &= \dfrac{\cancel{23}}{\cancel{23} \times 2} \\\\
+          &= \dfrac{1}{2} \\\\
+          &= 0.5 \\\\
+\text{D}  &= \dfrac{(2-3)}{(4-6)} \\\\
+          &= \dfrac{-1}{-2} \\\\
+          &= 0.5 \\\\
+\text{E}  &= \dfrac{(2\times3)}{(4\times6)} \\\\
+          &= \dfrac{6}{24} \\\\
+          &= \dfrac{6}{6 \times 4} \\\\
+          &= \dfrac{\cancel{6}}{\cancel{6} \times 4} \\\\
+          &= \dfrac{1}{4} \\\\
+          &= 0.25
 \end{aligned}
 $
+
+Smallest $= 0.25 = \dfrac{(2\times3)}{(4\times6)}$
 
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>E</p>
+</div>
 <div class='answer'>
 
-$\dfrac{5}{11}$
+$\dfrac{(2\times3)}{(4\times6)}$
 
 </div>
 </div>

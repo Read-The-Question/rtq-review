@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-3"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 3"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "21"
 ---
 <div class='paper'>
@@ -551,7 +551,7 @@ $25 \ \text {cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -577,8 +577,7 @@ ABBR: $\text {Speed} = \dfrac {\text{Distance}} {\text{Time}}$
 
 $
 \begin{aligned}
-\text{Speed}      &=  \dfrac{9 \text{ km}}{45 \text{ minutes}} \\\\
-                  &=  \dfrac{9}{45} \\\\
+\text{Speed}      &=  \dfrac{9}{45} \\\\
                   &=  \dfrac{9}{9 \times 5} \\\\
                   &=  \dfrac{\cancel{9}}{\cancel{9} \times 5} \\\\
                   &=  \dfrac{1}{5} \text{ km/minute} \\\\
@@ -614,8 +613,8 @@ ABBR: $\text {Speed} = \dfrac {\text{Distance}} {\text{Time}}$
 
 $
 \begin{aligned}
-\text{Distance travelled}  &= \dfrac{1}{5} \text{ km/minute} \times 1 \text{ hour} \\\\
-                           &= \dfrac{1}{5} \text{ km/minute} \times (1 \times 60) \text{ minutes} \\\\
+\text{Distance travelled}  &= \dfrac{1}{5} \times 1 \text{ hour} \\\\
+                           &= \dfrac{1}{5} \times (1 \times 60) \text{ minutes} \\\\
                            &= \dfrac{1}{5} \times 60 \\\\
                            &= \dfrac{60}{5} \\\\
                            &= \dfrac{12 \times 5}{5} \\\\
@@ -1541,7 +1540,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1581,16 +1580,11 @@ The next term is calculated by adding $3$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+3)} }
-&&  \footnotesize {\maroonC
- {(+3)} }
-&&  \footnotesize {\maroonC
- {(+3)} }
-&&  \footnotesize {\maroonC
- {(+3)} }
-&&  \footnotesize {\maroonC
- {(+3)} }  \\
+&   \footnotesize {\maroonC {(+3)} }
+&&  \footnotesize {\maroonC {(+3)} }
+&&  \footnotesize {\maroonC {(+3)} }
+&&  \footnotesize {\maroonC {(+3)} }
+&&  \footnotesize {\maroonC {(+3)} }  \\
 3, && 6, && 9, && 12, && \ldots, && \ldots
 \end{matrix}
 $
@@ -1638,16 +1632,11 @@ The next term is calculated by adding $5$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+5)} }
-&&  \footnotesize {\maroonC
- {(+5)} }
-&&  \footnotesize {\maroonC
- {(+5)} }
-&&  \footnotesize {\maroonC
- {(+5)} }
-&&  \footnotesize {\maroonC
- {(+5)} }  \\
+&   \footnotesize {\maroonC {(+5)} }
+&&  \footnotesize {\maroonC {(+5)} }
+&&  \footnotesize {\maroonC {(+5)} }
+&&  \footnotesize {\maroonC {(+5)} }
+&&  \footnotesize {\maroonC {(+5)} }  \\
 2, && 7, && 12, && 17, && \ldots, && \ldots
 \end{matrix}
 $
@@ -1695,18 +1684,12 @@ It is a sequence of square numbers.
 
 $
 \begin{matrix}
-    \footnotesize {\maroonC
- {(1 ^ 2)} }
-&&  \footnotesize {\maroonC
- {(2 ^ 2)} }
-&&  \footnotesize {\maroonC
- {(3 ^ 2)} }
-&&  \footnotesize {\maroonC
- {(4 ^ 2)} }
-&&  \footnotesize {\maroonC
- {(5 ^ 2)} }
-&&  \footnotesize {\maroonC
- {(6 ^ 2)} }  \\\\
+    \footnotesize {\maroonC {(1 ^ 2)} }
+&&  \footnotesize {\maroonC {(2 ^ 2)} }
+&&  \footnotesize {\maroonC {(3 ^ 2)} }
+&&  \footnotesize {\maroonC {(4 ^ 2)} }
+&&  \footnotesize {\maroonC {(5 ^ 2)} }
+&&  \footnotesize {\maroonC {(6 ^ 2)} }  \\\\
 1, && 4, && 9, && 16, && \ldots, && \ldots
 \end{matrix}
 $
@@ -1752,18 +1735,12 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(-6)} }
-&&  \footnotesize {\maroonC
- {(-5)} }
-&&  \footnotesize {\maroonC
- {(-4)} }
-&&  \footnotesize {\maroonC
- {(-3)} }
-&&  \footnotesize {\maroonC
- {(-2)} }
-&&  \footnotesize {\maroonC
- {(-1)} } \\
+&   \footnotesize {\maroonC {(-6)} }
+&&  \footnotesize {\maroonC {(-5)} }
+&&  \footnotesize {\maroonC {(-4)} }
+&&  \footnotesize {\maroonC {(-3)} }
+&&  \footnotesize {\maroonC {(-2)} }
+&&  \footnotesize {\maroonC {(-1)} } \\
 29, && 23, && 18, && 14, && 11, && \ldots, && \ldots
 \end{matrix}
 $
@@ -2025,7 +2002,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

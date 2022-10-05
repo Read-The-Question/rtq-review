@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2017-sample-paper-7"
 title: "Oundle School - 11 Plus - Maths - 2017 - Sample Paper 7"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "11"
 ---
 <div class='paper'>
@@ -270,7 +270,7 @@ $2338$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -372,7 +372,7 @@ Four cakes are divided equally amongst seven people. One fifth of a cake is left
 
 $
 \begin{aligned}
-\text{Each person share}    &= \dfrac{1}{7} \times \bigg ( 4 - \dfrac{1}{5} \bigg ) \\\\
+\text{Each persons share}    &= \dfrac{1}{7} \times \bigg ( 4 - \dfrac{1}{5} \bigg ) \\\\
                             &= \dfrac{1}{7} \times \bigg ( \dfrac{4 \times 5}{5}  - \dfrac{1}{5} \bigg ) \\\\
                             &= \dfrac{1}{7} \times \bigg ( \dfrac{20}{5}  - \dfrac{1}{5} \bigg ) \\\\
                             &= \dfrac{1}{7} \times \bigg ( \dfrac{20 - 1}{5} \bigg ) \\\\
@@ -925,7 +925,7 @@ $63$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -938,19 +938,63 @@ What is the sale price of the bicycle at Store $Q$?
 <div class='workings'>
 <div class='working'>
 
+If the price is increased by $15 \%$, then the sale price will be $100 + 15 = 115 \%$ of the original price. Using that we get,
+
+$
+\begin {aligned}
+\text {Regular price at store Q}    &= 115 \% \text { of } 200 \\\\
+                                    &= \dfrac {115} {100} \times 200 \\\\
+                                    &= \dfrac {115 \times 200} {100} \\\\
+                                    &= \dfrac {115 \times 2 \cancel {00}} {1 \cancel {00}} \\\\
+                                    &= 115 \times 2 \\\\
+                                    &= \pounds 230
+\end {aligned}
+$
+
+If the price is decreased by $10 \%$, then the sale price will be $100 - 10 = 90 \%$ of the original price. Using that we get,
+
+$
+\begin {aligned}
+\text {Sale price at store Q}       &= 90 \% \text { of } 230 \\\\
+                                    &= \dfrac {90} {100} \times 230 \\\\
+                                    &= \dfrac {90 \times 230} {100} \\\\
+                                    &= \dfrac {9 \cancel 0 \times 23 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
+                                    &= 9 \times 23 \\\\
+                                    &= \pounds 207
+\end {aligned}
+$
+
+</div>
+<div class='working'>
+
 $
 \begin{aligned}
-\text{Regular price at store}     &= 200 + 15 \% \ \text{of} \ 200 \\\\
+\text{Regular price at store Q}   &= 200 + 15 \% \text{ of } 200 \\\\
                                   &= 200 + \dfrac {15 \times 200} {100} \\\\
                                   &= 200 + \dfrac {15 \times 2 \cancel {00}} {1 \cancel {00}} \\\\
                                   &= 200 + 15 \times 2 \\\\
                                   &= 200 + 30 \\\\
                                   &= \pounds 230 \\\\
-\text{Sale price at store Q}      &= 230 - 10 \% \ \text{of} \ 230 \\\\
+\text{Sale price at store Q}      &= 230 - 10 \% \text{ of } 230 \\\\
                                   &= 230 - \dfrac {10 \times 230} {100} \\\\
                                   &= 230 - \dfrac {1 \cancel 0 \times 23 \cancel 0} {1 \cancel {00}} \\\\
                                   &= 230 - 23 \\\\
                                   &= \pounds 207
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Discounted price at store Q}      &= 90 \% \text{ of } 115 \% \text{ of } 200 \\\\
+                                        &= \dfrac {90} {100} \times \dfrac {115} {100} \times 200 \\\\
+                                        &= \dfrac {90 \times 115 \times 200} {100 \times 100} \\\\
+                                        &= \dfrac {9 \times 10 \times 5 \times 23 \times 2 \times 100} {2 \times 5 \times 10 \times 100} \\\\
+                                        &= \dfrac {9 \times \cancel {10} \times \cancel 5 \times 23 \times \cancel 2 \times \cancel {100}} {\cancel 2 \times \cancel 5 \times \cancel {10} \times \cancel {100}} \\\\
+                                        &= 9 \times 23 \\\\
+                                        &= \pounds 207
 \end{aligned}
 $
 
@@ -992,8 +1036,7 @@ Let's arrange the numbers in ascending order.
 
 $
 \begin {aligned}
-\text{Ordered numbers}   &= a1, \quad a2, \quad \maroonC
-{a3}, \quad a4, \quad a5 \\\\
+\text{Ordered numbers}   &= a1, \quad a2, \quad \maroonC{a3}, \quad a4, \quad a5 \\\\
 \text{Median}            &= a3 \\\\
 \end {aligned}
 $

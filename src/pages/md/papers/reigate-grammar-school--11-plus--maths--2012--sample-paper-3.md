@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2012-sample-paper-3"
 title: "Reigate Grammar School - 11 Plus - Maths - 2012 - Sample Paper 3"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "45"
 ---
 <div class='paper'>
@@ -689,7 +689,7 @@ $160$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1146,7 +1146,7 @@ $\dfrac {13} {20}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1184,18 +1184,12 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+7)}}
-&&  \footnotesize{\maroonC
-{(+8)}}  \\
+&   \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+7)}}
+&&  \footnotesize{\maroonC{(+8)}}  \\
 1,  &&    4,  &&   8,  &&   13,  &&  19,  &&   \ldots, &&   \ldots
 \end {matrix}
 $
@@ -1243,20 +1237,13 @@ The next term is calculated by adding together the last two terms. Hence, the se
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(0 + 1)} }
-&&  \footnotesize {\maroonC
- {(1 + 1)} }
-&&  \footnotesize {\maroonC
- {(1 + 2)} }
-&&  \footnotesize {\maroonC
- {(2 + 3)} }
-&&  \footnotesize {\maroonC
- {(3 + 5)} }
-&&  \footnotesize {\maroonC
- {(5 + 8)} }
-&&  \footnotesize {\maroonC
- {(8 + 13)} }  \\
+&   \footnotesize {\maroonC {(0 + 1)} }
+&&  \footnotesize {\maroonC {(1 + 1)} }
+&&  \footnotesize {\maroonC {(1 + 2)} }
+&&  \footnotesize {\maroonC {(2 + 3)} }
+&&  \footnotesize {\maroonC {(3 + 5)} }
+&&  \footnotesize {\maroonC {(5 + 8)} }
+&&  \footnotesize {\maroonC {(8 + 13)} }  \\
 1,  &&  1, &&  2, &&  3, &&  5, &&  8,  &&  \ldots, && \ldots
 \end{matrix}
 $
@@ -1883,7 +1870,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1919,28 +1906,35 @@ How many people liked each flavour?
 <div class='workings'>
 <div class='working'>
 
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+Vanilla
+
+</div>
+<div class='workings'>
+<div class='working'>
+
 $
 \begin{aligned}
-\text{Number of people liked Vanilla}     &= \dfrac {45} {360} \times 120 \\\\
-                                          &= \dfrac {45 \times 120} {360} \\\\
-                                          &= \dfrac {15 \times 3 \times 120} {120 \times 3} \\\\
-                                          &= \dfrac {15 \times \cancel 3 \times \cancel {120}} {\cancel {120} \times \cancel 3} \\\\
-                                          &= 15 \\\\
-\text{Number of people liked Mint}        &= \dfrac {135} {360} \times 120 \\\\
-                                          &= \dfrac {135 \times 120} {360} \\\\
-                                          &= \dfrac {45 \times 3 \times 120} {120 \times 3} \\\\
-                                          &= \dfrac {45 \times \cancel 3 \times \cancel {120}} {\cancel {120} \times \cancel 3} \\\\
-                                          &= 45 \\\\
-\text{Number of people liked Strawberry}  &= \dfrac {90} {360} \times 120 \\\\
-                                          &= \dfrac {90 \times 120} {360} \\\\
-                                          &= \dfrac {30 \times 3 \times 120} {120 \times 3} \\\\
-                                          &= \dfrac {30 \times \cancel 3 \times \cancel {120}} {\cancel {120} \times \cancel 3} \\\\
-                                          &= 30 \\\\
-\text{Number of people liked Chocolate}   &= \dfrac {90} {360} \times 120 \\\\
-                                          &= \dfrac {90 \times 120} {360} \\\\
-                                          &= \dfrac {30 \times 3 \times 120} {120 \times 3} \\\\
-                                          &= \dfrac {30 \times \cancel 3 \times \cancel {120}} {\cancel {120} \times \cancel 3} \\\\
-                                          &= 30
+\text{Vanilla}      &= \dfrac {45} {360} \times 120 \\\\
+                    &= \dfrac {45 \times 120} {360} \\\\
+                    &= \dfrac {15 \times 3 \times 120} {120 \times 3} \\\\
+                    &= \dfrac {15 \times \cancel 3 \times \cancel {120}} {\cancel {120} \times \cancel 3} \\\\
+                    &= 15
 \end{aligned}
 $
 
@@ -1952,16 +1946,97 @@ $
 Vanilla $=$ $15$
 
 </div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+Mint
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Mint}         &= \dfrac {135} {360} \times 120 \\\\
+                    &= \dfrac {135 \times 120} {360} \\\\
+                    &= \dfrac {45 \times 3 \times 120} {120 \times 3} \\\\
+                    &= \dfrac {45 \times \cancel 3 \times \cancel {120}} {\cancel {120} \times \cancel 3} \\\\
+                    &= 45
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
 <div class='answer'>
 
 Mint $=$ $45$
 
 </div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+Strawberry
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Strawberry}   &= \dfrac {90} {360} \times 120 \\\\
+                    &= \dfrac {90 \times 120} {360} \\\\
+                    &= \dfrac {30 \times 3 \times 120} {120 \times 3} \\\\
+                    &= \dfrac {30 \times \cancel 3 \times \cancel {120}} {\cancel {120} \times \cancel 3} \\\\
+                    &= 30
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
 <div class='answer'>
 
 Strawberry $=$ $30$
 
 </div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+Chocolate
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Chocolate}    &= \dfrac {90} {360} \times 120 \\\\
+                    &= \dfrac {90 \times 120} {360} \\\\
+                    &= \dfrac {30 \times 3 \times 120} {120 \times 3} \\\\
+                    &= \dfrac {30 \times \cancel 3 \times \cancel {120}} {\cancel {120} \times \cancel 3} \\\\
+                    &= 30
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
 <div class='answer'>
 
 Chocolate $=$ $30$
@@ -1969,6 +2044,9 @@ Chocolate $=$ $30$
 </div>
 </div>
 
+</div>
+</li>
+</ul>
 </div>
 </li>
 <li>
@@ -2636,7 +2714,7 @@ $2.34$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2649,7 +2727,8 @@ What is half of $999$?
 
 $
 \begin{aligned}
-&= \dfrac {999} {2} \\\\\
+&= \dfrac{1}{2} \text{ of } 999 \\\\
+&= \dfrac {999} {2} \\\\
 &= 499.5
 \end{aligned}
 $

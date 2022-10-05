@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2015-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2015 - Group 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "38"
 ---
 <div class='paper'>
@@ -273,7 +273,7 @@ $36+64=100$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -289,7 +289,7 @@ $
 &= \dfrac{3}{8} \ \text{of}\ 72 \\\\
 &= \dfrac{3}{8} \times 72 \\\\
 &= \dfrac{3 \times 72}{8} \\\\
-&= \dfrac{3 \times 8 \times 9} {8} \\\\
+&= \dfrac{3 \times 9 \times 8} {8} \\\\
 &= \dfrac{3 \times 9 \times \cancel{8}} {\cancel{8}} \\\\
 &= 3 \times 9 \\\\
 &= 27
@@ -341,7 +341,7 @@ $0.603$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -359,16 +359,11 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(-7)}}
-&&  \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(-5)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-3)}}  \\
+&   \footnotesize{\maroonC{(-7)}}
+&&  \footnotesize{\maroonC{(-6)}}
+&&  \footnotesize{\maroonC{(-5)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-3)}}  \\
 100,  &&    93,  &&  \ldots,  &&   82,  &&   78, && \ldots
 \end {matrix}
 $
@@ -1828,7 +1823,7 @@ On the grid below, draw a quadrilateral with an area of $10$ squares which has e
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1865,11 +1860,11 @@ How many hours does Rebecca spend sleeping?
 
 $
 \begin{aligned}
-\text{Time spend on sleeping}   &= \dfrac {135} {360} \times 24 \\\\
-                                &= \dfrac {135 \times 24} {360} \\\\
-                                &= \dfrac {45 \times 3 \times 8 \times 3} {45 \times 8} \\\\
-                                &= \dfrac {\cancel {45} \times 3 \times \cancel 8 \times 3} {\cancel {45} \times \cancel 8} \\\\
-                                &= 3 \times 3 \\\\
+\text{Time spent sleeping}      &= \dfrac {4.5} {12} \times 24 \\\\
+                                &= \dfrac {4.5 \times 24} {12} \\\\
+                                &= \dfrac {4.5 \times 12 \times 2} {12} \\\\
+                                &= \dfrac {4.5 \times \cancel {12} \times 2} {\cancel {12}} \\\\
+                                &= 4.5 \times 2 \\\\
                                 &= 9 \ \text{hours}
 \end{aligned}
 $
@@ -1898,10 +1893,10 @@ What fraction of the $24 \ \text{hours}$ does Rebecca spend working?
 
 $
 \begin{aligned}
-\text{Fraction of day spend on working} &= \dfrac {120} {360} \\\\
-                                        &= \dfrac {120} {120 \times 3} \\\\
-                                        &= \dfrac {\cancel {120}} {\cancel {120} \times 3} \\\\
-                                        &= \dfrac {1} {3}
+\text{Fraction of time working}   &= \dfrac {4} {12} \\\\
+                                  &= \dfrac {4} {4 \times 3} \\\\
+                                  &= \dfrac {\cancel 4} {\cancel 4 \times 3} \\\\
+                                  &= \dfrac {1} {3}
 \end{aligned}
 $
 
@@ -2239,7 +2234,7 @@ $6 \ \text{min} \ 14 \ \text{sec}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2256,16 +2251,16 @@ Circle $P$ has all shapes with at least $1$ pair of perpendicular sides.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -2278,16 +2273,46 @@ Write ‘$R$’ on the Venn Diagram to show where Greta should place a rhombus.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Quadrilaterals $=$ Square, Rectangle, Parallelogram, Kite, Rhombus, Trapezium
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Plot the quadrilaterals in the respective regions in the Venn diagram
+
+only Class $F$: %empty%
+
+only Class $T$: Parallelogram
+
+only Class $P$: %empty%
+
+intersection of $F$ and $T$: Rhombus
+
+intersection of $T$ and $P$: Rectangle
+
+intersection of $F$ and $P$: %empty%
+
+intersection of $F$, $T$ and $P$: Square
+
+not in $F$, $T$ or $P$: Kite, Trapezium
+
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+Intersection of $F$ and $T$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+Intersection of $F$ and $T$
 
 </div>
 </div>
@@ -2302,16 +2327,16 @@ Write ‘$K$’ on the Venn Diagram to show where Greta should place a kite.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Not in $F$, $T$ or $P$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+Not in $F$, $T$ or $P$
 
 </div>
 </div>
@@ -2326,16 +2351,16 @@ Name a quadrilateral that should be placed in the very centre of the Venn diagra
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Square
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+Square
 
 </div>
 </div>
@@ -2346,7 +2371,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2606,7 +2631,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

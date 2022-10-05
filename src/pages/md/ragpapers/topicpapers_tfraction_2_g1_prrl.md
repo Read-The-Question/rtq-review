@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-2-g1-prrl"
 title: "TopicPaper - Fraction - 2 - G1 - PRRL"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "10"
 ---
 <ul class='question default-decimal'>
@@ -315,6 +315,7 @@ $0.35$
 The figure shows two identical overlapping triangles. Four-ninths of **each** triangle is shaded.
 What fraction of the **whole** figure is shaded?
 
+![king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-1-00.png](/assets/king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-1-00.png "king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-1-00.png")
 
 </div>
 <div class='workings'>

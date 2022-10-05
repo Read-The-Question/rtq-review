@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-16"
 title: "TopicPaper - Number - 16"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "40"
 ---
 <div class='paper'>
@@ -1298,9 +1298,7 @@ $8 - 5 + 2 = 1$
 <div class='workings'>
 <div class='working'>
 
-$8 - \maroonC
- {(} 5 + 2 \maroonC
- {)} = 1$
+$8 - \maroonC {(} 5 + 2 \maroonC {)} = 1$
 
 Let's verify.
 
@@ -1337,11 +1335,7 @@ $12 - 11 + 2 - 1 = 0$
 <div class='workings'>
 <div class='working'>
 
-$12 - \maroonC
- {(} 11 + \maroonC
- {(} 2 - 1 \maroonC
- {)}\maroonC
- {)} = 0$
+$12 - \maroonC {(} 11 + \maroonC {(} 2 - 1 \maroonC {)}\maroonC {)} = 0$
 
 Let's verify.
 

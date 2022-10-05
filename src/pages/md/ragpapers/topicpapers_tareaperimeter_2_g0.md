@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-2-g0"
 title: "TopicPaper - Areaperimeter - 2 - G0"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "15"
 ---
 <ul class='question default-decimal'>
@@ -82,7 +82,7 @@ $8 \ \text {cm}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Find the **perimeter** of the T shape. State the units.
+Find the perimeter of the T shape. State the units.
 
 </div>
 <div class='workings'>
@@ -117,7 +117,7 @@ $44 \ \text {cm}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Find the **area** of the T shape, showing how you did it.
+Find the area of the T shape, showing how you did it.
 
 State the units.
 
@@ -174,10 +174,10 @@ Work out the perimeter and area of the following shape:
 
 ![city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1/section-2-question-6-00.png](/assets/city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1/section-2-question-6-00.png "city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1/section-2-question-6-00.png")
 
--  P = $9 \ \text{cm}, \ A = 14 \ \text{cm}^2$
--  P = $14 \ \text{cm}, \ A = 18 \ \text{cm}^2$
--  P = $18 \ \text{cm}, \ A = 14 \ \text{cm}^2$
--  P = $18 \ \text{cm}^2, \ A = 14 \ \text{cm}$
+-  $P = 9 \ \text{cm}, \ A = 14 \ \text{cm}^2$
+-  $P = 14 \ \text{cm}, \ A = 18 \ \text{cm}^2$
+-  $P = 18 \ \text{cm}, \ A = 14 \ \text{cm}^2$
+-  $P = 18 \ \text{cm}^2, \ A = 14 \ \text{cm}$
 
 </div>
 <div class='workings'>
@@ -868,7 +868,7 @@ $60 \ \text {cm}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Work out the perimeter of one of the tiles, giving your answer **in metres**. 
+Work out the perimeter of one of the tiles, giving your answer in metres. 
 
 </div>
 <div class='workings'>

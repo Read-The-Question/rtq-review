@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-3-pr-prpcr"
 title: "TopicPaper - Sequence - 3 - PR - PRPCR"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -46,16 +46,11 @@ The next term is calculated by subtracting $3$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
- {(- 3)}}  
-&&  \footnotesize{\maroonC
- {(- 3)}}
-&&  \footnotesize{\maroonC
- {(- 3)}} 
-&&  \footnotesize{\maroonC
- {(- 3)}}   
-&&  \footnotesize{\maroonC
- {(- 3)}}  \\
+&   \footnotesize{\maroonC {(- 3)}}  
+&&  \footnotesize{\maroonC {(- 3)}}
+&&  \footnotesize{\maroonC {(- 3)}} 
+&&  \footnotesize{\maroonC {(- 3)}}   
+&&  \footnotesize{\maroonC {(- 3)}}  \\
 -4,  &&    -7,  &&  -10,  &&   -13,  &&  \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -103,16 +98,11 @@ The next term is calculated by subtracting $2.1$ from the previous term. Hence, 
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
- { (-2.1)} }  
-&&  \footnotesize{\maroonC
- { (-2.1)} }
-&&  \footnotesize{\maroonC
- { (-2.1)} }
-&&  \footnotesize{\maroonC
- { (-2.1)} }   
-&&  \footnotesize{\maroonC
- { (-2.1)} }  \\
+&   \footnotesize{\maroonC { (-2.1)} }  
+&&  \footnotesize{\maroonC { (-2.1)} }
+&&  \footnotesize{\maroonC { (-2.1)} }
+&&  \footnotesize{\maroonC { (-2.1)} }   
+&&  \footnotesize{\maroonC { (-2.1)} }  \\
 8.1,  &&    6,  &&  3.9,  &&   1.8,  &&  \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -160,18 +150,12 @@ The next term is calculated by adding $12$ to the previous term. Hence, the sequ
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
- { (+12)} }   
-&&  \footnotesize{\maroonC
- { (+12)} }
-&&  \footnotesize{\maroonC
- { (+12)} }
-&&  \footnotesize{\maroonC
- { (+12)} } 
-&&  \footnotesize{\maroonC
- { (+12)} }   
-&&  \footnotesize{\maroonC
- { (+12)} } \\
+&   \footnotesize{\maroonC { (+12)} }   
+&&  \footnotesize{\maroonC { (+12)} }
+&&  \footnotesize{\maroonC { (+12)} }
+&&  \footnotesize{\maroonC { (+12)} } 
+&&  \footnotesize{\maroonC { (+12)} }   
+&&  \footnotesize{\maroonC { (+12)} } \\
 -15,  &&    -3,  &&  9,  &&   21,  &&   33,  &&  \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -217,34 +201,20 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
- { (+ 1)} }   
-&&  \footnotesize{\maroonC
- { (+ 3)} }
-&&  \footnotesize{\maroonC
- { (+ 9)} }
-&&  \footnotesize{\maroonC
- { (+ 27)} } 
-&&  \footnotesize{\maroonC
- { (+ 81)} } 
-&&  \footnotesize{\maroonC
- { (+ 243)} }   
-&&  \footnotesize{\maroonC
- { (+ 729)} } \\\\
-&   \footnotesize{\maroonC
- { (+ 3 ^ 0)} }   
-&&  \footnotesize{\maroonC
- { (+ 3 ^ 1)} }
-&&  \footnotesize{\maroonC
- { (+ 3 ^ 2)} }
-&&  \footnotesize{\maroonC
- { (+ 3 ^ 3)} } 
-&&  \footnotesize{\maroonC
- { (+ 3 ^ 4)} } 
-&&  \footnotesize{\maroonC
- { (+ 3 ^ 5)} }   
-&&  \footnotesize{\maroonC
- { (+ 3 ^ 6)} } \\
+&   \footnotesize{\maroonC { (+ 1)} }   
+&&  \footnotesize{\maroonC { (+ 3)} }
+&&  \footnotesize{\maroonC { (+ 9)} }
+&&  \footnotesize{\maroonC { (+ 27)} } 
+&&  \footnotesize{\maroonC { (+ 81)} } 
+&&  \footnotesize{\maroonC { (+ 243)} }   
+&&  \footnotesize{\maroonC { (+ 729)} } \\\\
+&   \footnotesize{\maroonC { (+ 3 ^ 0)} }   
+&&  \footnotesize{\maroonC { (+ 3 ^ 1)} }
+&&  \footnotesize{\maroonC { (+ 3 ^ 2)} }
+&&  \footnotesize{\maroonC { (+ 3 ^ 3)} } 
+&&  \footnotesize{\maroonC { (+ 3 ^ 4)} } 
+&&  \footnotesize{\maroonC { (+ 3 ^ 5)} }   
+&&  \footnotesize{\maroonC { (+ 3 ^ 6)} } \\
 1,  &&    2,  &&  5,  &&   14,  &&   41,  &&  122,  &&  \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -294,20 +264,16 @@ There are two sequences
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
- { (ax \times x^2)} }   
-&&  \footnotesize{\maroonC
- { (ax^3 \times x^2)} } \\
+&   \footnotesize{\maroonC { (ax \times x^2)} }   
+&&  \footnotesize{\maroonC { (ax^3 \times x^2)} } \\
 ax,  &&  ax^3 ,  &&   \ldots
 \end{matrix}
 $
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
- { (2ax^2 \times 2x^2)} }   
-&&  \footnotesize{\maroonC
- { (2ax^4 \times 3x^2)} } \\
+&   \footnotesize{\maroonC { (2ax^2 \times 2x^2)} }   
+&&  \footnotesize{\maroonC { (2ax^4 \times 3x^2)} } \\
 2ax^2,  &&  4ax^4,  &&  \ldots
 \end{matrix}
 $
@@ -355,18 +321,12 @@ The next term is calculated by multiplying the previous term by $\dfrac{x}{3}$. 
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
- { (\times \dfrac{x}{3})} }   
-&&  \footnotesize{\maroonC
- { (\times \dfrac{x}{3})} }
-&&  \footnotesize{\maroonC
- { (\times \dfrac{x}{3})} }
-&&  \footnotesize{\maroonC
- { (\times \dfrac{x}{3})} } 
-&&  \footnotesize{\maroonC
- { (\times \dfrac{x}{3})} }   
-&&  \footnotesize{\maroonC
- { (\times \dfrac{x}{3})} } \\
+&   \footnotesize{\maroonC { (\times \dfrac{x}{3})} }   
+&&  \footnotesize{\maroonC { (\times \dfrac{x}{3})} }
+&&  \footnotesize{\maroonC { (\times \dfrac{x}{3})} }
+&&  \footnotesize{\maroonC { (\times \dfrac{x}{3})} } 
+&&  \footnotesize{\maroonC { (\times \dfrac{x}{3})} }   
+&&  \footnotesize{\maroonC { (\times \dfrac{x}{3})} } \\
 x,  &&  \dfrac{x^2}{3},  &&  \dfrac{x^3}{9},  &&   \dfrac{x^4}{27},  &&   \dfrac{x^5}{81},  &&  \ldots,  &&  \ldots
 \end{matrix}
 $

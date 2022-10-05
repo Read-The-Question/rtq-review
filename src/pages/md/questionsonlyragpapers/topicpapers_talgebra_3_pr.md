@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-talgebra-3-pr"
 title: "TopicPaper - Algebra - 3 - PR"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "40"
 ---
 <ul class='question default-decimal'>
@@ -64,8 +64,6 @@ The first one is done for you.
 ![city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-6-02.png](/assets/city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-6-02.png "city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-6-02.png")
 
 ![city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-6-03.png](/assets/city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-6-03.png "city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-6-03.png")
-
-![city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-6-04.png](/assets/city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-6-04.png "city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-6-04.png")
 
 </div>
 

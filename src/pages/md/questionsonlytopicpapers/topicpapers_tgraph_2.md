@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tgraph-2"
 title: "TopicPaper - Graph - 2"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "40"
 ---
 <div class='paper'>
@@ -63,7 +63,7 @@ How far from the bank is she when she is travelling the fastest?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -78,7 +78,7 @@ The pie chart and table show the answere given by $80$ people to a survey about 
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-%format% The pie chart has an angle of $90 \degree$ for the Tour de France.
+The pie chart has an angle of $90 \degree$ for the Tour de France.
 
 How many people does this represent?
 
@@ -234,16 +234,16 @@ What are the coordinates of the centre of the square?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-The chart below shows the number of children in classes $5$S and $5 \text{p}$ who live up to $\dfrac{1}{2}$ mile and more than $\dfrac{1}{2}$ mile from school.
+The chart below shows the number of children in classes $5 \text{S}$ and $5 \text{p}$ who live up to $\dfrac{1}{2} \ \text{mile}$ and more than $\dfrac{1}{2} \ \text{mile}$ from school.
 
 ![devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3/section-1-question-8-00.png](/assets/devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3/section-1-question-8-00.png "devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3/section-1-question-8-00.png")
 
-How many more children in class $5 \text{p}$ than $5$S live less than $\dfrac{1}{2}$ mile from school?
+How many more children in class $5 \text{p}$ than $5 \text{S}$ live less than $\dfrac{1}{2} \ \text{mile}$ from school?
 
 </div>
 
@@ -296,7 +296,7 @@ How many more have cats than dogs?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -305,7 +305,7 @@ How many more have cats than dogs?
 
 The chart shows the number of pupils choosing their favourite colours.
 
-Which statement is **wrong**?
+Which statement is wrong?
 
 - Red received five more votes than yellow
 - There are thirty pupils in the class
@@ -348,14 +348,14 @@ During which month are there the most birthdays?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 ![devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-4-00.png](/assets/devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-4-00.png "devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-4-00.png")
 
-Which point has coordinates $(2, 1)$ ?
+Which point has coordinates $(2, 1) ?$
 
 </div>
 
@@ -435,7 +435,7 @@ Estimate how many children would say their favorite sport was football out of th
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -470,7 +470,7 @@ Plot the points with coordinates $(5,4)$ onto the axes and label it $B$.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Plot another point $D$, and then join $ABCD$ **in that order** so that you can form a quadrilateral shape with one line of symmetry.
+Plot another point $D$, and then join $ABCD$ in that order so that you can form a quadrilateral shape with one line of symmetry.
 
 </div>
 
@@ -490,7 +490,7 @@ Write down the common name for the quadrilateral $ABCD$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -539,9 +539,9 @@ All $150$ grow to produce flowers and the students draw up the results of the fl
 
 Complete the table and bar chart for the students' findings.
 
-|    Flower Colour   | Red | Orange | Yellow |
-|:------------------:|:---:|:------:|:------:|
-| Number of flowsers |     |        |   72   |
+|    Flower Colour   | Red | Orange |  Yellow  |
+|:------------------:|:---:|:------:|:--------:|
+| Number of flowsers |     |        |   $72$   |
 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-21-subquestion-4-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-21-subquestion-4-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-21-subquestion-4-00.png")
 
@@ -641,16 +641,16 @@ Write down which new point completes this triangle in the diagram and explain br
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The table and bar chart below shows the number of cars sold by a car showroom each day for a week.
 
-|         Day         | Mon | Tues | Wed | Thur | Fri | Sat | Sun |
-|:-------------------:|:---:|:----:|:---:|:----:|:---:|:---:|:---:|
-| Number of cars sold |  3  |   5  |     |   1  |  4  |  7  |     |
+|         Day         |  Mon  |  Tues  | Wed |  Thur  |  Fri  |  Sat  | Sun |
+|:-------------------:|:-----:|:------:|:---:|:------:|:-----:|:-----:|:---:|
+| Number of cars sold |  $3$  |   $5$  |     |   $1$  |  $4$  |  $7$  |     |
 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-b/section-1-question-14-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-b/section-1-question-14-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-b/section-1-question-14-00.png")
 
@@ -660,8 +660,8 @@ The table and bar chart below shows the number of cars sold by a car showroom ea
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Use the information in the table and the bar chart to complete the entry for **Wednesday** in the table and the bar for 
-**Friday** on the chart.
+Use the information in the table and the bar chart to complete the entry for Wednesday in the table and the bar for 
+Friday on the chart.
 
 </div>
 
@@ -672,7 +672,7 @@ Use the information in the table and the bar chart to complete the entry for **W
 <div class='question subquestion'>
 
 The total number of cars sold in the week was $28$. Use this information to help complete both the table and the bar chart with 
-**Sunday's** entry.
+Sunday's entry.
 
 </div>
 
@@ -720,13 +720,13 @@ rectangle. Write the coordinates of point $D$ below.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The pie chart below represents data collected in a survey of the favourite sports of a sample of school children. 
-Note that, between them, Rugby and Football were favourite of half of the children surveyed.
+Note that, between them, Rugby and Football were the favourite of half of the children surveyed.
 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-c/section-1-question-9-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-c/section-1-question-9-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-c/section-1-question-9-00.png")  
 
@@ -776,16 +776,16 @@ The whole school has $1320$ pupils. Estimate how many of them you would expect t
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-The table and bar chart below shows the number of burgers sold by a cafe each day of the week.
+The table and bar chart below shows the number of burgers sold by a cafe each day for a week.
 
-|         Day            | Mon | Tues | Wed | Thur | Fri | Sat | Sun |
-|:----------------------:|:---:|:----:|:---:|:----:|:---:|:---:|:---:|
-| Number of burgers sold |  14 |  25  |     |  12  | 21  | 27  |     |
+|         Day            |  Mon  |  Tues  | Wed |  Thur  |  Fri  |  Sat  | Sun |
+|:----------------------:|:-----:|:------:|:---:|:------:|:-----:|:-----:|:---:|
+| Number of burgers sold |  $14$ |  $25$  |     |  $12$  | $21$  | $27$  |     |
 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-c/section-1-question-14-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-c/section-1-question-14-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-c/section-1-question-14-00.png")
 
@@ -795,7 +795,7 @@ The table and bar chart below shows the number of burgers sold by a cafe each da
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Use the information in the table and the bar chart to complete the entry for **Wednesday** in the table and the bar for **Friday** on the chart.
+Use the information in the table and the bar chart to complete the entry for Wednesday in the table and the bar for Friday on the chart.
 
 </div>
 
@@ -806,7 +806,7 @@ Use the information in the table and the bar chart to complete the entry for **W
 <div class='question subquestion'>
 
 The total number of burgers sold in the week was $140$. Use this information to help complete both the table and the bar chart 
-with **Sunday's** entry.
+with Sunday's entry.
 
 </div>
 
@@ -816,7 +816,7 @@ with **Sunday's** entry.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -829,7 +829,7 @@ with **Sunday's** entry.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Mark the points $A(2, 0), B(2, 0)$ and $C(0, 3)$ on the axes below, labelling each point clearly.
+Mark the points $A(-2, 0), B(2, 0)$ and $C(0, -3)$ on the axes below, labelling each point clearly.
 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-12-subquestion-1-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-12-subquestion-1-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-12-subquestion-1-00.png")
 
@@ -1105,7 +1105,7 @@ The total of the two scores are added together. Who has the highest total?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1118,7 +1118,7 @@ The total of the two scores are added together. Who has the highest total?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-On the grid above, plot and label the points $A (0,3), B (2,5), C (6,3),$ and $D (2,1)$.
+On the grid above, plot and label the points $A (0,3), \quad B (2,5), \quad C (6,3)$ and $D (2,1)$.
 
 </div>
 

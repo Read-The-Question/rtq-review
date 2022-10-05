@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2015-sample-paper-6"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2015 - Sample Paper 6"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "30"
 ---
 <div class='paper'>
@@ -384,7 +384,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -395,26 +395,32 @@ $1.9, \quad \dfrac{26}{25}, \quad 1 \dfrac{3}{7}, \quad 150\%$
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Let's convert all the numbers into decimals.
 
-</div>
-<div class='working placeholder'>
+$
+\begin{aligned}
+&= 1.9, \quad \dfrac{26}{25}, \quad 1 \dfrac{3}{7}, \quad 150\% \\\\
+&= 1.9, \quad 1.04, \quad 1.428, \quad 1.50
+\end{aligned}
+$
 
-TODOWORKING
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= 1.04 < 1.428 < 1.5 < 1.9 \\\\
+&= \dfrac{26}{25} < 1\dfrac{3}{7} < 150\% < 1.9 \\\\
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\dfrac{26}{25}, \quad 1\dfrac{3}{7}, \quad 150\%, \quad 1.9$
 
 </div>
 </div>
@@ -618,7 +624,7 @@ Remainder $=$ $1$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -635,8 +641,8 @@ ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 $
 \begin {aligned}
-\text {Speed}       &= \dfrac {2.4 \text{ kilometres}} {30 \text{ minutes}} \\\\
-                    &= \dfrac {2.4 \text{ kilometres}} {\dfrac{30}{60} \text{ hour}} \\\\
+\text {Speed}       &= \dfrac {2.4} {30 \text{ minutes}} \\\\
+                    &= \dfrac {2.4} {\dfrac{30}{60} \text{ hour}} \\\\
                     &= \dfrac {2.4} {\dfrac{30}{60}} \\\\
                     &= \dfrac {2.4} {\dfrac{30}{30 \times 2}} \\\\
                     &= \dfrac {2.4} {\dfrac{\cancel{30}}{\cancel{30} \times 2}} \\\\
@@ -1436,7 +1442,7 @@ Work out the years in which you could have bought shares and then sold them whic
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1445,26 +1451,16 @@ In the January sale a furniture store reduces all prices by $25\%$.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -1477,26 +1473,43 @@ Work out the sale price of a bed originally costing $\pounds 1600$.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+If the price is reduced by $25 \%$, then the sale price would be $100 - 25 = 75 \%$ of the original price.
+
+$
+\begin{aligned}
+\text{Sale price}               &= 75 \% \ \text{of} \ 1600\\\\
+                                &= \dfrac {75} {100} \times 1600 \\\\
+                                &= \dfrac {75 \times 1600} {100} \\\\
+                                &= \dfrac {75 \times 16 \cancel{00}} {1 \cancel{00}} \\\\
+                                &= 75 \times 16 \\\\
+                                &= \pounds 1200
+\end{aligned}
+$
 
 </div>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Sale price}  &= \text {Original price} - \text {Discount} \\\\
+                   &= 1600 - 25 \% \ \text{of} \ 1600 \\\\
+                   &= 1600 - \dfrac {25} {100} \times 1600 \\\\
+                   &= 1600 - \dfrac {25 \times 1600} {100} \\\\
+                   &= 1600 - \dfrac {25 \times 16 \cancel {00}} {1 \cancel {00}} \\\\
+                   &= 1600 - 25 \times 16 \\\\
+                   &= 1600 - 400 \\\\
+                   &= \pounds 1200
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\pounds 1200$
 
 </div>
 </div>
@@ -1511,26 +1524,64 @@ Work out the original price of a sofa costing $\pounds 600$ in the sale.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: $\text {Sale price = Original price} - \text{Discount } \% \times \text{Original price}$
+
+
+Let the original price $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a - 25 \% \times \ a                                        &= 600 \\\\
+a - \dfrac {25} {100} \times a                              &= 600 \\\\
+a - \dfrac {25 \times a} {100}                              &= 600 \\\\
+a - \dfrac {25a} {100}                                      &= 600 \\\\
+\dfrac {100 \times a} {100} - \dfrac {25a} {100}            &= 600 \\\\
+\dfrac {100a} {100} - \dfrac {25a} {100}                    &= 600 \\\\
+\dfrac {100a - 25a} {100}                                   &= 600 \\\\
+\dfrac {75a} {100}                                          &= 600 \\\\
+a                                                           &= 600 \times \dfrac {100} {75} \\\\
+a                                                           &= \dfrac {600 \times 100} {75} \\\\
+a                                                           &= \dfrac {75 \times 8 \times 100} {75} \\\\
+a                                                           &= \dfrac {\cancel {75} \times 8 \times 100} {\cancel {75}} \\\\
+a                                                           &= 8 \times 100 \\\\
+a                                                           &= \pounds 800
+\end{aligned}
+$
 
 </div>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Let the original price $= a$
+
+If the price is reduced by $25 \%$, then the sale price would be $100 - 25 = 75 \%$ of the original price.
+
+As per the question,
+
+$
+\begin{aligned}
+75 \% \times a                  &= 600 \\\\
+\dfrac {75} {100} \times a      &= 600 \\\\
+a                               &= 600 \times \dfrac {100} {75} \\\\
+a                               &= \dfrac {600 \times 100} {75} \\\\
+a                               &= \dfrac {75 \times 8 \times 100} {75} \\\\
+a                               &= \dfrac {\cancel {75} \times 8 \times 100} {\cancel {75}} \\\\
+a                               &= 8 \times 100 \\\\
+a                               &= \pounds 800
+\end{aligned}
+$
+
+Original price $= \pounds 800$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\pounds 800$
 
 </div>
 </div>
@@ -1552,26 +1603,57 @@ Who is right?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Let the original price $= a$
 
-</div>
-<div class='working placeholder'>
+If the price is reduced by $25 \%$, then the sale price would be $100 - 25 = 75 \%$ of the original price.
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Sale price after first discount}  &= 75 \% \ \text{of} \ a \\\\
+                                        &= \dfrac {75} {100} \times a \\\\
+                                        &= \dfrac {75 \times a} {100} \\\\
+                                        &= \dfrac {25 \times 3 \times a} {25 \times 4} \\\\
+                                        &= \dfrac {\cancel {25} \times 3 \times a} {\cancel {25} \times 4} \\\\
+                                        &= \dfrac {3 \times a} {4} \\\\
+                                        &= \pounds \dfrac {3a} {4}
+\end{aligned}
+$
+
+If the price is reduced by $20 \%$, then the sale price would be $100 - 20 = 80 \%$ of the original price.
+
+$
+\begin{aligned}
+\text{Sale price after second discount} &= 80 \% \ \text{of} \ \dfrac {3a} {4} \\\\
+                                        &= \dfrac {80} {100} \times \dfrac {3a} {4} \\\\
+                                        &= \dfrac {80 \times 3a} {100 \times 4} \\\\
+                                        &= \dfrac {20 \times 4 \times 3a} {100 \times 4} \\\\
+                                        &= \dfrac {20 \times \cancel 4 \times 3a} {100 \times \cancel 4} \\\\
+                                        &= \dfrac {20 \times 3a} {100} \\\\
+                                        &= \pounds \dfrac {60a} {100}
+\end{aligned}
+$
+
+If the price is reduced by $45 \%$, then the sale price would be $100 - 45 = 55 \%$ of the original price.
+
+$
+\begin{aligned}
+\text{New sale price}       &= 55 \% \ \text{of} \ a \\\\
+                            &= \dfrac {55} {100} \times a \\\\
+                            &= \dfrac {55 \times a} {100} \\\\
+                            &= \pounds \dfrac {55a} {100}
+\end{aligned}
+$
+
+Ben is right.
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+Ben
 
 </div>
 </div>
@@ -1614,10 +1696,8 @@ The next term is calculated by adding $0.5$ to the previous term. Hence, the seq
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+0.5)}}
-&&  \footnotesize{\maroonC
-{(+0.5)}} \\
+&   \footnotesize{\maroonC{(+0.5)}}
+&&  \footnotesize{\maroonC{(+0.5)}} \\
 0.3,  &&    0.8,  && \ldots
 \end{matrix}
 $

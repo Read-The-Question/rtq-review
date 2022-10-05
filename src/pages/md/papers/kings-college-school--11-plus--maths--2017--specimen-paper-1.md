@@ -1,7 +1,7 @@
 ---
 slug: "papers/kings-college-school-11-plus-maths-2017-specimen-paper-1"
 title: "Kings College School - 11 Plus - Maths - 2017 - Specimen Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "4"
 ---
 <div class='paper'>
@@ -222,7 +222,7 @@ $\pounds 342$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -230,30 +230,8 @@ $\pounds 342$
 %empty%
 
 </div>
-<div class='workings'>
-<div class='working placeholder'>
 
-TODOWORKING
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -263,26 +241,28 @@ In $25 \ \text{minutes}$, through what angle does the minute hand of a clock pas
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The minute hand of a clock moves by $30 \degree$ every minute.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The minute hand of a clock moves by $6 \degree$ every minute.
+
+
+$
+\begin {aligned}
+\text {Total minutes}   &= 25 \ \text{minutes} \\\\
+\text {Angle moved}     &= 25 \times 6 \\\\
+                        &= 150 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$150 \degree$
 
 </div>
 </div>
@@ -300,26 +280,28 @@ Calculate the value of angle $a \degree$.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+48 + 3a  &=  180 \\\\
+3a       &=  180 - 48 \\\\
+3a       &=  132 \\\\
+a        &=  \dfrac{132}{3} \\\\
+a        &=  \dfrac{44 \times 3}{3} \\\\
+a        &=  \dfrac{44 \times \cancel{3}}{\cancel{3}} \\\\
+a        &=  44 \degree
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$44 \degree$
 
 </div>
 </div>
@@ -333,30 +315,8 @@ TODOANSWER
 A square has a perimeter of $96 \ \text{cm}$.
 
 </div>
-<div class='workings'>
-<div class='working placeholder'>
 
-TODOWORKING
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
 <ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
@@ -366,26 +326,28 @@ Calculate the length of one side.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Let the length of one side $= a$
 
-</div>
-<div class='working placeholder'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+4a  &=  96 \\\\
+a   &=  \dfrac{96}{4} \\\\
+a   &=  \dfrac{24 \times 4}{4} \\\\
+a   &=  \dfrac{24 \times \cancel{4}}{\cancel{4}} \\\\
+a   &=  24 \text{ cm}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$24$ cm
 
 </div>
 </div>
@@ -400,26 +362,22 @@ Find the area of the square.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Area of the square}  &=  24^2 \\\\
+                           &=  24 \times 24 \\\\
+                           &=  576 \text{ cm}^2
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$576 \text{ cm}^2$
 
 </div>
 </div>
@@ -434,26 +392,26 @@ Give a sketch, not to scale, of a rectangle, showing the length of its sides, wh
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
 
-</div>
-<div class='working placeholder'>
+![missing image](/papers/missing_image.svg)
 
-TODOWORKING
+
+
+Draw a rectangle with a $32$ cm length and a $18$ cm breadth.
+
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -468,26 +426,22 @@ Find the perimeter of your rectangle.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Perimeter of the rectangle}   &=  2 \times 32 + 2 \times 18 \\\\
+                                    &=  24 \times 24 \\\\
+                                    &=  100 \text{ cm}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$100 \text{ cm}$
 
 </div>
 </div>
@@ -501,7 +455,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -532,16 +486,17 @@ The pie chart shows the favourite colour of some boys.
 
 Calculate the value of $x$.
 
-Red is the favourite colour of $126$ boys.
-
 </div>
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Angles around a point add up to} = 360 \degree$
+
+
 $
 \begin{aligned}
-\text{Value of x}       &= 360 - 76 - 84 - 62 \\\\
-                        &= 138 \degree
+x       &= 360 - 76 - 84 - 62 \\\\
+        &= 138 \degree
 \end{aligned}
 $
 
@@ -560,6 +515,8 @@ $138 \degree$
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
+
+Red is the favourite colour of $126$ boys.
 
 Calculate the number of boys whose favourite colour is:
 
@@ -589,6 +546,36 @@ green
 <div class='workings'>
 <div class='working'>
 
+Let the total number of boys $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {84} {360} \times a        &= 126 \\\\
+a                                 &= 126 \times \dfrac {360} {84} \\\\
+a                                 &= \dfrac {126 \times 360} {84} \\\\
+a                                 &= \dfrac {3 \times 42 \times 2 \times 180} {2 \times 42} \\\\
+a                                 &= \dfrac {3 \times \cancel {42} \times \cancel 2 \times 180} {\cancel 2 \times \cancel {42}} \\\\
+a                                 &= 3 \times 180 \\\\
+a                                 &= 540
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Number of boys with green favourite colour}     &= \dfrac {62} {360} \times 540 \\\\
+                                                      &= \dfrac {62 \times 540} {360} \\\\
+                                                      &= \dfrac {2 \times 31 \times 3 \times 180} {2 \times 180} \\\\
+                                                      &= \dfrac {\cancel 2 \times 31 \times 3 \times \cancel {180}} {\cancel 2 \times \cancel {180}} \\\\
+                                                      &= 31 \times 3 \\\\
+                                                      &= 93
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
 Using ratio,
 
 $
@@ -596,8 +583,7 @@ $
   & \text{red}                                  &:& \text{green} \\\\
 = & 84                                          &:& 62 \\\\
 = & 1                                           &:& \dfrac {62} {84} \\\\
-= & 1 \times 126                                &:& \dfrac {62} {84} \times 126 \\\\
-= & 126                                         &:& \dfrac {62 \times 126} {84} \\\\
+= & 1 \times 126                                &:& \dfrac {62 \times 126} {84} \\\\
 = & 126                                         &:& \dfrac {31 \times 2 \times 42 \times 3} {2 \times 42} \\\\
 = & 126                                         &:& \dfrac {31 \times \cancel 2 \times \cancel {42} \times 3} {\cancel 2 \times \cancel {42}} \\\\
 = & 126                                         &:& 31 \times 3 \\\\
@@ -629,6 +615,22 @@ yellow.
 <div class='workings'>
 <div class='working'>
 
+Using value from the answer above,
+
+$
+\begin{aligned}
+\text{Number of boys with yellow favourite colour}    &= \dfrac {138} {360} \times 540 \\\\
+                                                      &= \dfrac {138 \times 540} {360} \\\\
+                                                      &= \dfrac {2 \times 69 \times 3 \times 180} {2 \times 180} \\\\
+                                                      &= \dfrac {\cancel 2 \times 69 \times 3 \times \cancel {180}} {\cancel 2 \times \cancel {180}} \\\\
+                                                      &= 69 \times 3 \\\\
+                                                      &= 207
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
 Using ratio,
 
 $
@@ -636,8 +638,7 @@ $
   & \text{red}                                  &:& \text{yellow} \\\\
 = & 84                                          &:& 138 \\\\
 = & 1                                           &:& \dfrac {138} {84} \\\\
-= & 1 \times 126                                &:& \dfrac {138} {84} \times 126 \\\\
-= & 126                                         &:& \dfrac {138 \times 126} {84} \\\\
+= & 1 \times 126                                &:& \dfrac {138 \times 126} {84} \\\\
 = & 126                                         &:& \dfrac {69 \times 2 \times 42 \times 3} {2 \times 42} \\\\
 = & 126                                         &:& \dfrac {69 \times \cancel 2 \times \cancel {42} \times 3} {\cancel 2 \times \cancel {42}} \\\\
 = & 126                                         &:& 69 \times 3 \\\\
@@ -669,6 +670,23 @@ not blue.
 <div class='workings'>
 <div class='working'>
 
+Using value from the answer above,
+
+$
+\begin{aligned}
+\text{Number of boys with favourite colour not blue}  &= \dfrac {360 - 76} {360} \times 540 \\\\
+                                                      &= \dfrac {284} {360} \times 540 \\\\
+                                                      &= \dfrac {284 \times 540} {360} \\\\
+                                                      &= \dfrac {2 \times 142 \times 3 \times 180} {2 \times 180} \\\\
+                                                      &= \dfrac {\cancel 2 \times 142 \times 3 \times \cancel {180}} {\cancel 2 \times \cancel {180}} \\\\
+                                                      &= 142 \times 3 \\\\
+                                                      &= 426
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
 Using ratio,
 
 $
@@ -677,8 +695,7 @@ $
 = & 84                                          &:& 360 - 76 \\\\
 = & 84                                          &:& 284 \\\\
 = & 1                                           &:& \dfrac {284} {84} \\\\
-= & 1 \times 126                                &:& \dfrac {284} {84} \times 126 \\\\
-= & 126                                         &:& \dfrac {284 \times 126} {84} \\\\
+= & 1 \times 126                                &:& \dfrac {284 \times 126} {84} \\\\
 = & 126                                         &:& \dfrac {142 \times 2 \times 42 \times 3} {2 \times 42} \\\\
 = & 126                                         &:& \dfrac {142 \times \cancel 2 \times \cancel {42} \times 3} {\cancel 2 \times \cancel {42}} \\\\
 = & 126                                         &:& 142 \times 3 \\\\
@@ -713,21 +730,7 @@ Calculate the total number of boys
 <div class='workings'>
 <div class='working'>
 
-Let the total number of boys $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-\dfrac {84} {360} \times a              &= 126 \\\\
-a                                       &= 126 \times \dfrac {360} {84} \\\\
-a                                       &= \dfrac {126 \times 360} {84} \\\\
-a                                       &= \dfrac {42 \times 3 \times 2 \times 180} {42 \times 2} \\\\
-a                                       &= \dfrac {\cancel {42} \times 3 \times \cancel 2 \times 180} {\cancel {42} \times \cancel 2} \\\\
-a                                       &= 3 \times 180 \\\\
-a                                       &= 540
-\end{aligned}
-$
+$540$
 
 </div>
 </div>
@@ -745,7 +748,7 @@ $540$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

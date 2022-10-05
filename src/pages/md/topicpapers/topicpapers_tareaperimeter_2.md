@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-2"
 title: "TopicPaper - Areaperimeter - 2"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "40"
 ---
 <div class='paper'>
@@ -43,7 +43,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Use your ruler to measure the length and width of this rectangle *8as accurately as you can**.
+Use your ruler to measure the length and width of this rectangle as accurately as you can.
 
 ![blackheath-high-school--11-plus--maths--2007--sample-paper-1/section-1-question-10-subquestion-1-00.png](/assets/blackheath-high-school--11-plus--maths--2007--sample-paper-1/section-1-question-10-subquestion-1-00.png "blackheath-high-school--11-plus--maths--2007--sample-paper-1/section-1-question-10-subquestion-1-00.png")
 
@@ -77,7 +77,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Use your answers to work out the **perimeter** of the rectangle.
+Use your answers to work out the perimeter of the rectangle.
 
 </div>
 <div class='workings'>
@@ -114,7 +114,7 @@ TODOANSWER
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-The shaded **rectangle** has area $12 \ \text{cm}^2$.
+The shaded rectangle has area $12 \ \text{cm}^2$.
 
 ![blackheath-high-school--11-plus--maths--2007--sample-paper-1/section-1-question-16-00.png](/assets/blackheath-high-school--11-plus--maths--2007--sample-paper-1/section-1-question-16-00.png "blackheath-high-school--11-plus--maths--2007--sample-paper-1/section-1-question-16-00.png")
 
@@ -138,7 +138,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-On this grid draw a different a **different rectangle** with area $12 \ \text{cm}^2$ (rotations are not allowed).
+On this grid draw a different a different rectangle with area $12 \ \text{cm}^2$ (rotations are not allowed).
 
 ![blackheath-high-school--11-plus--maths--2007--sample-paper-1/section-1-question-16-subquestion-1-00.png](/assets/blackheath-high-school--11-plus--maths--2007--sample-paper-1/section-1-question-16-subquestion-1-00.png "blackheath-high-school--11-plus--maths--2007--sample-paper-1/section-1-question-16-subquestion-1-00.png")
 
@@ -172,7 +172,7 @@ $12 \ \text{cm}^2$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-On this grid draw a **triangle** with area $6 \ \text{cm}^2$.
+On this grid draw a triangle with area $6 \ \text{cm}^2$.
 
 </div>
 <div class='workings'>
@@ -501,7 +501,7 @@ $8 \ \text {cm}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Find the **perimeter** of the T shape. State the units.
+Find the perimeter of the T shape. State the units.
 
 </div>
 <div class='workings'>
@@ -536,7 +536,7 @@ $44 \ \text {cm}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Find the **area** of the T shape, showing how you did it.
+Find the area of the T shape, showing how you did it.
 
 State the units.
 
@@ -593,10 +593,10 @@ Work out the perimeter and area of the following shape:
 
 ![city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1/section-2-question-6-00.png](/assets/city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1/section-2-question-6-00.png "city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1/section-2-question-6-00.png")
 
--  P = $9 \ \text{cm}, \ A = 14 \ \text{cm}^2$
--  P = $14 \ \text{cm}, \ A = 18 \ \text{cm}^2$
--  P = $18 \ \text{cm}, \ A = 14 \ \text{cm}^2$
--  P = $18 \ \text{cm}^2, \ A = 14 \ \text{cm}$
+-  $P = 9 \ \text{cm}, \ A = 14 \ \text{cm}^2$
+-  $P = 14 \ \text{cm}, \ A = 18 \ \text{cm}^2$
+-  $P = 18 \ \text{cm}, \ A = 14 \ \text{cm}^2$
+-  $P = 18 \ \text{cm}^2, \ A = 14 \ \text{cm}$
 
 </div>
 <div class='workings'>
@@ -837,7 +837,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Find the **surface area** of a cuboid which measures $2\ \text{cm}$ by $3\ \text{cm}$ by $7\ \text{cm}$. Include the units in your answer.
+Find the surface area of a cuboid which measures $2\ \text{cm}$ by $3\ \text{cm}$ by $7\ \text{cm}$. Include the units in your answer.
 
 ![city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-11-subquestion-1-00.png](/assets/city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-11-subquestion-1-00.png "city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-11-subquestion-1-00.png")
 
@@ -948,7 +948,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Calculate the area of the $\bold{\underline{larger\:\: rectangle}}$ only.
+Calculate the area of the larger rectangle only.
 
 </div>
 <div class='workings'>
@@ -992,7 +992,7 @@ $360 \ \text {cm}^2$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Calculate the $\bold{\underline{total}}$ shaded area that the rectangles cover.
+Calculate the total shaded area that the rectangles cover.
 
 </div>
 <div class='workings'>
@@ -1033,9 +1033,9 @@ $448 \ \text {cm}^2$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-The diagram below shows a rectangle and a square. The diagrams are **not** drawn to scale.
+The diagram below shows a rectangle and a square. The diagrams are not drawn to scale.
 
-![city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-12-00.png](/assets/city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-12-00.png "city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-12-00.png")   ![city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-12-01.png](/assets/city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-12-01.png "city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-12-01.png")
+![city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-12-00.png](/assets/city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-12-00.png "city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-12-00.png")
 
 If they have equal perimeters, what is the difference in their area? 
 
@@ -1542,7 +1542,7 @@ $48 \ \text {cm} ^ 2$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-The floor or a room is $3 \ \text{metres}$ wide and $4 \ \text{metres}$ long.
+The floor of a room is $3 \ \text{metres}$ wide and $4 \ \text{metres}$ long.
 I am going to tile the floor with tiles that are $25 \ \text{centimetres}$ wide and $50 \ \text{centimetres}$ long.
 How many tiles do I need to buy?
 
@@ -1989,7 +1989,7 @@ $3 \ \text {m}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the perimeter of the worktop? Give your answer in metre $(\text{m})$.
+What is the perimeter of the worktop? Give your answer in metres $(\text{m})$.
 
 </div>
 <div class='workings'>
@@ -2157,7 +2157,7 @@ $2400 \ \text {cm}^2$
 
 Errol now uses a saw to cut the cube in two along the dotted line shown.
 
-What fraction of the area of the two new blocks is **not** painted?
+What fraction of the area of the two new blocks is not painted?
 
 ![csse--11-plus--maths--2017--sample-paper-4/section-1-question-14-subquestion-3-00.png](/assets/csse--11-plus--maths--2017--sample-paper-4/section-1-question-14-subquestion-3-00.png "csse--11-plus--maths--2017--sample-paper-4/section-1-question-14-subquestion-3-00.png")
 
@@ -2879,7 +2879,7 @@ $1200 \ \text {mm}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Convert this distance from milimetres into meters.
+Convert this distance from $\text{millimetres}$ into $\text{meters}$.
 
 </div>
 <div class='workings'>
@@ -3036,7 +3036,7 @@ $72 \ \text{m}^2$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Louis wants to put a stone path around the edge of the garden, just **inside** the existing perimeter fence. 
+Louis wants to put a stone path around the edge of the garden, just inside the existing perimeter fence. 
 Each paving slab is a square with sides $1 \ \text{metre}$.
 
 Work out how many paving slabs are needed to complete this path.
@@ -3118,7 +3118,7 @@ $\pounds 88$
 <div class='question subquestion'>
 
 Louis then decides to plant a row of bushes around the inside of the stone path. Each bush is to be planted $25 \ \text{cm}$ from 
-the edge of the path, and  $50 \ \text{cm}$m from its neighbouring bushes. The diagram below displays how this might look near a 
+the edge of the path, and  $50 \ \text{cm}$ from its neighbouring bushes. The diagram below displays how this might look near a 
 corner of the garden.
 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-b/section-1-question-15-subquestion-5-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-b/section-1-question-15-subquestion-5-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-b/section-1-question-15-subquestion-5-00.png")
@@ -3286,7 +3286,7 @@ $60 \ \text {cm}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Work out the perimeter of one of the tiles, giving your answer **in metres**. 
+Work out the perimeter of one of the tiles, giving your answer in metres. 
 
 </div>
 <div class='workings'>

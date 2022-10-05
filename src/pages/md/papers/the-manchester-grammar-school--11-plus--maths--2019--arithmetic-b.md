@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2019-arithmetic-b"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2019 - Arithmetic B"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "11"
 ---
 <div class='paper'>
@@ -680,7 +680,7 @@ $4 \ \text {m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -727,26 +727,16 @@ D                   ,               ,$\pounds 190$  ,$\pounds 160$  ,$\pounds 17
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -1052,7 +1042,7 @@ $3 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1073,13 +1063,13 @@ How many miles would the ball travel in one minute?
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
- 
+ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
+
 
 $
 \begin{aligned}
-\text {Distance} &= 90 \text{ miles/hour} \times 1 \text{ minute} \\\\
-                 &= \dfrac{90}{60} \text{ miles/minute} \times 1 \text{ minute} \\\\
+\text {Distance} &= 90{ miles/hour} \times 1 \\\\
+                 &= \dfrac{90}{60} \text{ miles/minute} \times 1 \\\\
                  &= \dfrac{90}{60} \times 1 \\\\
                  &= \dfrac{90}{60} \\\\
                  &= \dfrac{3 \times \cancel{3} \times \cancel{10}}{\cancel{3} \times 2 \times \cancel{10}} \\\\
@@ -1116,7 +1106,8 @@ $
 \begin{aligned}
 \text {Distance} &= 1.5 \text { miles} \\\\
                  &= 1.5 \times 1760 \text { yards} \\\\
-                 &= 2640 \text { yards} \\\\
+                 &= 1.5 \times 1760 \\\\
+                 &= 2640 \text { yards}
 \end {aligned}
 $
 
@@ -1142,13 +1133,13 @@ How many yards does the ball travel in one second?
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
- 
+ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
+
 
 $
 \begin{aligned}
-\text {Distance} &= 2640 \text{ yards/minute} \times 1 \text{ second} \\\\
-                 &= \dfrac{2640}{60} \text{ yards/second} \times 1 \text{ second} \\\\
+\text {Distance} &= 2640 \text{ yards/minute} \times 1 \\\\
+                 &= \dfrac{2640}{60} \text{ yards/second} \times 1 \\\\
                  &= \dfrac{2640}{60} \times 1 \\\\
                  &= \dfrac{44 \times \cancel{6} \times \cancel{10}}{\cancel{6} \times \cancel{10}} \\\\
                  &= 44 \text { yards}
@@ -1182,8 +1173,7 @@ ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 $
 \begin{aligned}
-\text {Time}     &= \dfrac{22 \text{ yards}}{44 \text{ yards/second}} \\\\
-                 &= \dfrac{22}{44} \\\\
+\text {Time}     &= \dfrac{22}{44} \\\\
                  &= \dfrac{22}{22 \times 2} \\\\
                  &= \dfrac{\cancel{22}}{\cancel{22} \times 2} \\\\
                  &= \dfrac{1}{2} \\\\
@@ -1333,7 +1323,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1552,7 +1542,45 @@ Using the graph, or otherwise, work out the number of cards for which the total 
 <div class='workings'>
 <div class='working'>
 
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Plot the information of Maxicard on the bar chart by plotting $(6, 0)$ and $(16, 500)$ points and connecting them with a straight line
+
+
+*ABBR: TODO:: Add drawing ends.*
+
+
 $200$
+
+</div>
+<div class='working'>
+
+Let the number of cards $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {3} {100} \times a + 4                               &= \dfrac {16 - 6} {500} \times a + 6 \\\\
+\dfrac {3a} {100} + 4                                       &= \dfrac {10} {500} \times a + 6 \\\\
+\dfrac {3a} {100} + 4                                       &= \dfrac {10a} {500} + 6 \\\\
+\dfrac {3a} {100} - \dfrac {10a} {500}                      &= 6 - 4 \\\\
+\dfrac {3a \times 5} {100 \times 5} - \dfrac {10a} {500}    &= 2 \\\\
+\dfrac {15a} {500} - \dfrac {10a} {500}                     &= 2 \\\\
+\dfrac {15a - 10a} {500}                                    &= 2 \\\\
+\dfrac {5a} {500}                                           &= 2 \\\\
+a                                                           &= 2 \times \dfrac {500} {5} \\\\
+a                                                           &= \dfrac {2 \times 500} {5} \\\\
+a                                                           &= \dfrac {2 \times 5 \times 100} {5} \\\\
+a                                                           &= \dfrac {2 \times \cancel 5 \times 100} {\cancel 5} \\\\
+a                                                           &= 2 \times 100 \\\\
+a                                                           &= 200
+\end{aligned}
+$
 
 </div>
 </div>

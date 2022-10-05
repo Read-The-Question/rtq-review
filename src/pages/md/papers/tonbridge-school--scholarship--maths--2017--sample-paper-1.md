@@ -1,7 +1,7 @@
 ---
 slug: "papers/tonbridge-school-scholarship-maths-2017-sample-paper-1"
 title: "Tonbridge School - Scholarship - Maths - 2017 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "9"
 ---
 <div class='paper'>
@@ -98,7 +98,7 @@ $-0.7, 1.8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -139,12 +139,10 @@ $
 $
 \begin{aligned}
 \text{Distance covered by brian} &= \dfrac{400}{15} \times 8.4 \\\\
-                                 &= \dfrac{400 \times 8.4}{15} \times 8.4 \\\\
-                                 &= \dfrac{5 \times 8 \times 10 \times 8.4}{5 \times 3} \\\\
-                                 &= \dfrac{\cancel{5} \times 8 \times 10 \times 8.4}{\cancel{5} \times 3} \\\\
-                                 &= \dfrac{8 \times 84}{3} \\\\
-                                 &= \dfrac{8 \times 28 \times 3}{3} \\\\
-                                 &= \dfrac{8 \times 28 \times \cancel{3}}{\cancel{3}} \\\\
+                                 &= \dfrac{40 \times 10 \times 8.4}{15} \\\\
+                                 &= \dfrac{40 \times 84}{15} \\\\
+                                 &= \dfrac{5 \times 8 \times 28 \times 3}{5 \times 3} \\\\
+                                 &= \dfrac{\cancel{5} \times 8 \times 28 \times \cancel{3}}{\cancel{5} \times \cancel{3}} \\\\
                                  &= 8 \times 28 \\\\
                                  &= 224 \text{ metres}
 \end{aligned}

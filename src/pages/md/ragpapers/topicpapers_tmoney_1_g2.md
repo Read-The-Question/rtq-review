@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-1-g2"
 title: "TopicPaper - Money - 1 - G2"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "18"
 ---
 <ul class='question default-decimal'>
@@ -318,7 +318,7 @@ $\pounds 14.25$
 
 I buy $7$ drinks at $72\text{p}$ each, and $9$ sandwiches at $\pounds 1.21$ each. 
 
-How much $\bold{\underline{change}}$ do I get from a $\pounds 20$ note? 
+How much change do I get from a $\pounds 20$ note? 
 
 </div>
 <div class='workings'>
@@ -603,14 +603,14 @@ Ola is planning to complete a sponsored run for Red Nose Day.
 
 He collected a number of different promises, from his family, on his sponsor form.
 
-|    Mum    |                                             $50 \ \text{p}$ per completed mile                                             |
+|    Mum    |                                             $50 \text{p}$ per completed mile                                               |
 |:---------:|:--------------------------------------------------------------------------------------------------------------------------:|
-|    Dad    |                                     $ \pounds \ 5$ plus $25 \ \text{p}$ per completed mile                                     |
-|    Nan    |                                                       $ \pounds \ 10$                                                      |
-|  Grandad  | $10 \ \text{p}$ for the first mile, $20 \ \text{p}$ for the second mile, $30 \ \text{p}$ for the third mile, and so on ... |
-| Uncle Jay |                                                       $\pounds \ 15$                                                       |
+|    Dad    |                                     $ \pounds 5$ plus $25 \text{p}$ per completed mile                                     |
+|    Nan    |                                                       $ \pounds 10$                                                        |
+|  Grandad  | $10 \text{p}$ for the first mile, $20 \text{p}$ for the second mile, $30 \text{p}$ for the third mile, and so on $ \ldots $|
+| Uncle Jay |                                                       $\pounds 15$                                                         |
 
-He hopes to complete *either* $8$ or $10 \ \text{miles}$.
+He hopes to complete either $8$ or $10 \ \text{miles}$.
 
 </div>
 <div class='workings'>
@@ -733,7 +733,7 @@ $\pounds 39.60$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-How much **extra** will Ola collect, in total, if he completes the extra $2 \ \text{miles}$ and runs $10 \ \text{miles}$ (rather than $8 \ \text{miles}$)?
+How much extra will Ola collect, in total, if he completes the extra $2 \ \text{miles}$ and runs $10 \ \text{miles}$ (rather than $8 \ \text{miles}$)?
 
 </div>
 <div class='workings'>
@@ -922,7 +922,7 @@ $\pounds 2.03$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-What is $\dfrac {3} {4}$ of $\pounds 4.48$?
+What is $\dfrac {3}{4} \ \text{of} \ \pounds 4.48?$
 
 </div>
 <div class='workings'>

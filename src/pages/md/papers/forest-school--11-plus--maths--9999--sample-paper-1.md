@@ -1,7 +1,7 @@
 ---
 slug: "papers/forest-school-11-plus-maths-9999-sample-paper-1"
 title: "Forest School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "39"
 ---
 <div class='paper'>
@@ -363,7 +363,7 @@ $22$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -376,7 +376,7 @@ How much longer is his journey as a result of the roadworks?
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text {Speed} = \dfrac {\text{Distance}} {\text{Time}}$
+ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 
 Let the time taken (without restriction) $= t$
@@ -385,16 +385,11 @@ As per the question,
 
 $
 \begin{aligned}
-t &= \dfrac{35 \text{ mile}}{70 \text{ mph}} \\\\
-t &= \dfrac{35}{35 \times 2} \\\\
-t &= \dfrac{\cancel{35}}{\cancel{35} \times 2} \\\\
-t &= \dfrac{1}{2} \\\\
-t &= 0.5 \text{ hour}
-\end{aligned}
-$
-
-$
-\begin{aligned}
+t                   &= \dfrac{35}{70} \\\\
+t                   &= \dfrac{35}{35 \times 2} \\\\
+t                   &= \dfrac{\cancel{35}}{\cancel{35} \times 2} \\\\
+t                   &= \dfrac{1}{2} \\\\
+t                   &= 0.5 \text{ hour} \\\\
 \text{Time}         &= \dfrac{35}{50} \\\\
                     &= \dfrac{\cancel{5} \times 7}{\cancel{5} \times 10} \\\\
                     &= \dfrac{7}{10} \\\\
@@ -405,14 +400,12 @@ $
 \end{aligned}
 $
 
-$0.2$ hours longer on his journey as a result of the roadworks.
-
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$0.2$
+$0.2 \text{ hour}$
 
 </div>
 </div>
@@ -1629,32 +1622,19 @@ The next term is calculated by subtracting $4$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}  \\
+&   \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}  \\
 50,  &&    46,  &&  42,  &&   38,  &&   34, &&  30, && 26, && 22, && 18, && 14, && 10, && 6, && 2, && -2
 \end{matrix}
 $

@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2017-sample-paper-2"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2017 - Sample Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "43"
 ---
 <div class='paper'>
@@ -14,7 +14,7 @@ questions_count: "43"
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -452,7 +452,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -470,12 +470,9 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(-19)} }
-&&  \footnotesize {\maroonC
- {(-19)} }
-&&  \footnotesize {\maroonC
- {(-19)} }  \\
+&   \footnotesize {\maroonC {(-19)} }
+&&  \footnotesize {\maroonC {(-19)} }
+&&  \footnotesize {\maroonC {(-19)} }  \\
 14,  &&    -33,  &&  -52,  &&   -71
 \end{matrix}
 $
@@ -718,7 +715,7 @@ $42 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -738,14 +735,10 @@ The next term is calculated by subtracting $127$ from the previous term. Hence, 
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(-127)} }
-&&  \footnotesize {\maroonC
- {(-127)} }
-&&  \footnotesize {\maroonC
- {(-127)} }
-&&  \footnotesize {\maroonC
- {(-127)} }  \\
+&   \footnotesize {\maroonC {(-127)} }
+&&  \footnotesize {\maroonC {(-127)} }
+&&  \footnotesize {\maroonC {(-127)} }
+&&  \footnotesize {\maroonC {(-127)} }  \\
 991,  &&    864,  &&  737,  &&   \ldots, && \ldots
 \end{matrix}
 $
@@ -772,7 +765,7 @@ $483$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -783,26 +776,34 @@ John is dark haired, has blue eyes and does not wear glasses. In which section w
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
 
-</div>
-<div class='working placeholder'>
+![missing image](/papers/missing_image.svg)
 
-TODOWORKING
+
+
+Shade the parts in Venn diagram in which John would fall
+
+Shade Dark Haired part
+
+Shade Blue-eyed part
+
+Shade not Wear glasses part
+
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+A
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+A
 
 </div>
 </div>
@@ -1254,7 +1255,7 @@ $1$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g1 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1271,12 +1272,28 @@ If the price is reduced by $35 \%$, then the new price will be $100 - 35 = 65 \%
 
 $
 \begin{aligned}
-\text {New price}           &= 65 \% \times 50000 \\\\
+\text {New price}           &= 65 \% \text{ of } 50000 \\\\
                             &= \dfrac {65} {100} \times 50000 \\\\
                             &= \dfrac {65 \times 50000} {100}  \\\\
                             &= \dfrac {65 \times 500 \cancel {00}} {1 \cancel {00}}  \\\\
                             &= 65 \times 500 \\\\
                             &= \pounds 32500
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{New price}    &= \text {Old price} - \text {Discount} \\\\
+                    &= 50000 - 35 \% \text{ of } 50000  \\\\
+                    &= 50000 - \dfrac {35} {100} \times 50000 \\\\
+                    &= 50000 - \dfrac {35 \times 50000} {100} \\\\
+                    &= 50000 - \dfrac {35 \times 500 \cancel {00}} {1 \cancel {00}} \\\\
+                    &= 50000 - 35 \times 500 \\\\
+                    &= 50000 - 17500 \\\\
+                    &= \pounds 32500
 \end{aligned}
 $
 
@@ -1495,7 +1512,7 @@ $\dfrac {2} {15}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1506,14 +1523,20 @@ Through what angles does the hour hand of a clock rotate between $6 \ \text{am}$
 <div class='workings'>
 <div class='working'>
 
-The hand of a clock moves by $30 \degree$ for every one unit covered.
+ABBR: The hour hand of a clock moves by $30 \degree$ every hour.
 
-So the hour hand move by $30 \times 5 = 150 \degree$ between $6 \ \text{am}$ and $11{:}00 \ \text{am}$ and another $15 \degree$ for $11{:}30 \ \text{am}$.
+
+ABBR: The hour hand of a clock moves by $0.5 \degree$ every minute.
+
 
 $
 \begin {aligned}
-\text {The hour hand moved by}  &= 150 + 15 \\\\
-                                &= 165 \degree
+\text {Total minutes}   &= 11{:}30 \ \text{am} -  6 \ \text{am} \\\\
+                        &= 5 \times 60 \ \text{minutes} + 30 \ \text{minutes} \\\\
+                        &= 300  + 30 \\\\
+                        &= 330 \ \text{minutes} \\\\
+\text {Angle moved}     &= 330 \times 0.5 \\\\
+                        &= 165 \degree
 \end {aligned}
 $
 
@@ -1681,7 +1704,7 @@ $69$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1703,14 +1726,10 @@ The next term is calculated by adding $0.95$ to the first term and the number of
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {({} + 0.95 \times 1)} }
-&&  \footnotesize {\maroonC
- {({} + 0.95 \times 2)} }
-&&  \footnotesize {\maroonC
- {({} + 0.95 \times 3)} }
-&&  \footnotesize {\maroonC
- {({} + 0.95 \times 4)} }  \\
+&   \footnotesize {\maroonC {({} + 0.95 \times 1)} }
+&&  \footnotesize {\maroonC {({} + 0.95 \times 2)} }
+&&  \footnotesize {\maroonC {({} + 0.95 \times 3)} }
+&&  \footnotesize {\maroonC {({} + 0.95 \times 4)} }  \\
 1.15,  &&   2.10,  &&  3.05, &&  4, && \ldots
 \end{matrix}
 $

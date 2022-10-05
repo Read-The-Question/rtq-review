@@ -1,7 +1,7 @@
 ---
 slug: "papers/dame-alice-owens-school-11-plus-maths-9999-sample-paper-1"
 title: "Dame Alice Owens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "50"
 ---
 <div class='paper'>
@@ -713,7 +713,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -736,9 +736,9 @@ Let's complete the table.
 
 |                               |      Boys                            |        Girls                         |      Total                           |
 |:-----------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|
-| Have at least $1$ pet         |      $11$                            |    $14 - 8 = 6 \ \footnotesize{(3)}$ |  $11 + 6 = 17  \ \footnotesize{(4)}$ |
-|      Have no pets             | $16 - 11 = 5 \ \footnotesize{(2)}$   |         $8$                          | $30 - 17 = 13  \ \footnotesize{(5)}$ |
-|         Total                 |      $16$                            | $30 - 16 = 14 \ \footnotesize{(1)}$  |      $30$                            |
+| Have at least $1$ pet         |      $11$                            |    $14 - 8 = 6 \ \maroonC{\footnotesize{(3)}}$ |  $11 + 6 = 17  \ \maroonC{\footnotesize{(4)}}$ |
+|      Have no pets             | $16 - 11 = 5 \ \maroonC{\footnotesize{(2)}}$   |         $8$                          | $30 - 17 = 13  \ \maroonC{\footnotesize{(5)}}$ |
+|         Total                 |      $16$                            | $30 - 16 = 14 \ \maroonC{\footnotesize{(1)}}$  |      $30$                            |
 
 Children with atleast $1$ pet $= 17$
 
@@ -811,7 +811,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -828,16 +828,11 @@ The next term is calculated by adding $4$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+4)}}
-&&  \footnotesize {\maroonC
- {(+4)}}
-&&  \footnotesize {\maroonC
- {(+4)}}
-&&  \footnotesize {\maroonC
- {(+4)}}
-&&  \footnotesize {\maroonC
- {(+4)}}  \\
+&   \footnotesize {\maroonC {(+4)}}
+&&  \footnotesize {\maroonC {(+4)}}
+&&  \footnotesize {\maroonC {(+4)}}
+&&  \footnotesize {\maroonC {(+4)}}
+&&  \footnotesize {\maroonC {(+4)}}  \\
 3,  &&    7,  &&  11,  &&   15,  &&   19, && \ldots
 \end{matrix}
 $

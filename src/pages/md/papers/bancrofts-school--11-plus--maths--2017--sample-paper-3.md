@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2017-sample-paper-3"
 title: "Bancrofts School - 11 Plus - Maths - 2017 - Sample Paper 3"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "37"
 ---
 <div class='paper'>
@@ -889,7 +889,7 @@ $0.36 \ \text{ml}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -897,30 +897,8 @@ $0.36 \ \text{ml}$
 %empty%
 
 </div>
-<div class='workings'>
-<div class='working placeholder'>
 
-TODOWORKING
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -932,26 +910,16 @@ $\boxed{\ 0.505 \ } \quad \boxed{\ 0.05 \ } \quad \boxed{\ 0.5005 \ } \quad \box
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$0.05, \quad 0.055, \quad 0.5005, \quad 0.505$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$0.05, \quad 0.055, \quad 0.5005, \quad 0.505$
 
 </div>
 </div>
@@ -966,26 +934,22 @@ Write down the decimal number that is equivalent to $0.4 - \dfrac{1}{4}$
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+&= 0.4 - \dfrac{1}{4} \\\\
+&= 0.4 - 0.25 \\\\
+&= 0.15
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$0.15$
 
 </div>
 </div>
@@ -1226,7 +1190,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1328,7 +1292,7 @@ $\dfrac {1} {2}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1376,7 +1340,7 @@ $29$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1404,13 +1368,15 @@ ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 $
 \begin{aligned}
-\text{Time}   &= \dfrac{10 \text{ km}}{30 \text{ km per hour}} \\\\
-              &= \dfrac{10 \text{ km}}{\dfrac{30}{60} \text{ km per minute}} \\\\
-              &= \dfrac{10}{\dfrac{30}{60}} \\\\
-              &= \dfrac{10 \times 60}{30} \\\\
-              &= \dfrac{10 \times 3 \times 20}{3 \times 10} \\\\
-              &= \dfrac{\cancel{10} \times \cancel{3} \times 20}{\cancel{3} \times \cancel{10}} \\\\
-              &= 20 \text{ minutes} \\\\
+\text{Time}   &= \dfrac{10}{30} \\\\
+              &= \dfrac{10}{10 \times 3} \\\\
+              &= \dfrac{\cancel{10}}{\cancel{10} \times 3} \\\\
+              &= \dfrac{1}{3} \text{ hours} \\\\
+              &= 60 \times \dfrac{1}{3} \text{ minutes} \\\\
+              &= \dfrac{60}{3} \\\\
+              &= \dfrac{20 \times 3}{3} \\\\
+              &= \dfrac{20 \times \cancel{3}}{\cancel{3}} \\\\
+              &= 20 \text{ minutes}
 \end{aligned}
 $
 
@@ -1443,14 +1409,15 @@ ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 $
 \begin{aligned}
-\text{Time}   &= \dfrac{5 \text{ km}}{20 \text{ km per hour}} \\\\
-              &= \dfrac{5 \text{ km}}{\dfrac{20}{60} \text{ km per minute}} \\\\
-              &= \dfrac{5}{\dfrac{20}{60}} \\\\
-              &= \dfrac{5 \times 60}{20} \\\\
-              &= \dfrac{5 \times 3 \times 2 \times 10}{2 \times 10} \\\\
-              &= \dfrac{5 \times 3 \times \cancel{2} \times \cancel{10}}{\cancel{2} \times \cancel{10}} \\\\
-              &= 5 \times 3 \\\\
-              &= 15 \text{ minutes} \\\\
+\text{Time}   &= \dfrac{5}{20} \\\\
+              &= \dfrac{5}{5 \times 4} \\\\
+              &= \dfrac{\cancel{5}}{\cancel{5} \times 4} \\\\
+              &= \dfrac{1}{4} \text{ hours} \\\\
+              &= 60 \times \dfrac{1}{4} \text{ minutes} \\\\
+              &= \dfrac{60}{4} \\\\
+              &= \dfrac{15 \times 4}{4} \\\\
+              &= \dfrac{15 \times \cancel{4}}{\cancel{4}} \\\\
+              &= 15 \text{ minutes}
 \end{aligned}
 $
 
@@ -1483,16 +1450,16 @@ ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 $
 \begin{aligned}
-\text{Total distance}   &= 10 + 5 \\\\
-                        &= 15 \text{ km} \\\\
-\text{Time}             &= \dfrac{15 \text{ km}}{30 \text{ km per hour}} \\\\
-                        &= \dfrac{15 \text{ km}}{\dfrac{30}{60} \text{ km per minute}} \\\\
-                        &= \dfrac{15}{\dfrac{30}{60}} \\\\
-                        &= \dfrac{15 \times 60}{30} \\\\
-                        &= \dfrac{15 \times 2 \times 30}{30} \\\\
-                        &= \dfrac{15 \times 2 \times \cancel{30}}{\cancel{30}} \\\\
-                        &= 15 \times 2 \\\\
-                        &= 30 \text{ minutes} \\\\
+\text{Time}             &= \dfrac{10 + 5}{30} \\\\
+                        &= \dfrac{15}{30} \\\\
+                        &= \dfrac{15}{15 \times 2} \\\\
+                        &= \dfrac{\cancel{15}}{\cancel{15} \times 2} \\\\
+                        &= \dfrac{1}{2} \text{ hours} \\\\
+                        &= 60 \times \dfrac{1}{2} \text{ minutes} \\\\
+                        &= \dfrac{60}{2} \\\\
+                        &= \dfrac{30 \times 2}{2} \\\\
+                        &= \dfrac{30 \times \cancel{2}}{\cancel{2}} \\\\
+                        &= 30 \text{ minutes}
 \end{aligned}
 $
 
@@ -1520,14 +1487,11 @@ If Guy left home at $9.30 \ \text{am}$ and had no stops, at what time did he arr
 
 $
 \begin{aligned}
-\text{Time}   &=  9{:}30 + (20 + 15 + 30) \text{ minutes}  \\\\
-              &=  9{:}30 + 65 \text{ minutes}  \\\\
-              &=  9{:}30 + 65 \text{ minutes}  \\\\
-              &=  10{:}35
+\text{Arrival Time}   &=  9{:}30 + (20 + 15 + 30) \text{ minutes}  \\\\
+                      &=  9{:}30 + 65 \text{ minutes}  \\\\
+                      &=  10{:}35
 \end{aligned}
 $
-
-He will arrive home by 10{:}35.
 
 </div>
 </div>

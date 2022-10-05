@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-15-g1-prns"
 title: "TopicPaper - Algebra - 15 - G1 - PRNS"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "36"
 ---
 <ul class='question default-decimal'>

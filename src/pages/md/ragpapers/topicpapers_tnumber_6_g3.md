@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-6-g3"
 title: "TopicPaper - Number - 6 - G3"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "22"
 ---
 <ul class='question default-decimal'>
@@ -111,7 +111,9 @@ $76.60$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-If $432.6 \times 7 = 3028.2$, what is $43.26 \times 0.7 ?$
+If $432.6 \times 7 = 3028.2$
+
+What is $43.26 \times 0.7 ?$
 
 </div>
 <div class='workings'>
@@ -145,7 +147,7 @@ $30.282$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Calculate how much bigger is $3\dfrac{1}{4}$ is than $1\dfrac{3}{4}$ writing your answer as a **decimal**.
+Calculate how much bigger is $3\dfrac{1}{4}$ is than $1\dfrac{3}{4}$ writing your answer as a decimal.
 
 </div>
 <div class='workings'>
@@ -547,14 +549,9 @@ $0.7$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Circle the factors of 150:
+Circle the factors of $150$:
 
-$
-\begin{matrix}
-100 & \quad 30 & \quad 7  & \quad 11 \\
-10  & \quad 3  & \quad 8  & \quad 45
-\end{matrix}
-$
+$100 \quad 30 \quad 7 \quad 11 \quad 10 \quad 3  \quad 8  \quad 45$
 
 </div>
 <div class='workings'>

@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tsimpleword-3"
 title: "TopicPaper - Simpleword - 3"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "40"
 ---
 <div class='paper'>
@@ -74,12 +74,13 @@ Given that Tom’s piece of cake weighed $150 \ \text{grams}$, what was the weig
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The distance from Calais to Paris is $320 \ \text{km}$.
+
 $5 \ \text{miles}$ is approximately $8 \ \text{kilometres}$.
  
 Calculate the approximate distance in miles from Calais to Paris.  

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2014-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2014 - Group 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "36"
 ---
 <div class='paper'>
@@ -298,7 +298,7 @@ $54$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -318,12 +318,9 @@ The next term is calculated by dividing the previous term by $2$. Hence, the seq
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(\div 2)}}
-&&  \footnotesize{\maroonC
-{(\div 2)}}
-&&  \footnotesize{\maroonC
-{(\div 2)}}  \\
+&   \footnotesize{\maroonC{(\div 2)}}
+&&  \footnotesize{\maroonC{(\div 2)}}
+&&  \footnotesize{\maroonC{(\div 2)}}  \\
 112,  &&    56,  &&  \ldots,  &&   14
 \end {matrix}
 $
@@ -1836,7 +1833,7 @@ Draw a rectangle which has the same area as shape $D$ on the centimetre-squared 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1942,12 +1939,10 @@ How many degrees colder was it in Paris on Saturday than on Thursday?
 
 $
 \begin{aligned}
-\text{Difference}     &= 18 - 11 \\\\
-                      &= 7 \degree \text{C}
+\text{Difference colder}    &= 18 - 11 \\\\
+                            &= 7 \degree \text{C}
 \end{aligned}
 $
-
-In Paris on Saturday it was $7 \degree \text{C}$ colder than on Thursday
 
 </div>
 </div>
@@ -1971,8 +1966,8 @@ On which day was there the greatest difference between the temperatures in Londo
 <div class='workings'>
 <div class='working'>
 
-|     Day      |  Temperature in Paris | Temperature in London |           Difference           |
-|--------------|-----------------------|-----------------------|--------------------------------|
+|     Day      |   Paris               |  London               |           Difference           |
+|:------------:|:---------------------:|:---------------------:|:------------------------------:|
 |  Monday      | $10 \degree \text{C}$ | $12 \degree \text{C}$ | $12 - 10 = 2 \degree \text{C}$ |
 |  Tuesday     | $15 \degree \text{C}$ | $15 \degree \text{C}$ | $15 - 15 = 0 \degree \text{C}$ |
 |  Wednesday   | $18 \degree \text{C}$ | $16 \degree \text{C}$ | $18 - 16 = 2 \degree \text{C}$ |
@@ -2128,7 +2123,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2259,14 +2254,31 @@ Plot the join between A and C and find the point which divides line AC into $3 {
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(8, 2)$
+$
+\begin {aligned}
+\text{x-coordinates}    &= \dfrac {3 \times 8 + 1 \times 8} {3 + 1} \\\\
+                        &= \dfrac {24 + 8} {4} \\\\
+                        &= \dfrac {32} {4} \\\\
+                        &= \dfrac {8 \times 4} {4} \\\\
+                        &= \dfrac {8 \times \cancel 4} {\cancel 4} \\\\
+                        &= 8 \\\\
+\text{y-coordinates}    &= \dfrac {3 \times 0 + 1 \times 8} {3 + 1} \\\\
+                        &= \dfrac {0 + 8} {4} \\\\
+                        &= \dfrac {8} {4} \\\\
+                        &= \dfrac {2 \times 4} {4} \\\\
+                        &= \dfrac {2 \times \cancel 4} {\cancel 4} \\\\
+                        &= 2
+\end {aligned}
+$
+
+Coordinates $= (8, 2)$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-%empty%
+$(8, 2)$
 
 </div>
 </div>
@@ -2295,6 +2307,17 @@ Plot the join between A and B and find the midpoint of line AB
 *ABBR: TODO:: Add drawing ends.*
 
 
+$
+\begin {aligned}
+\text{x-coordinates}    &= \dfrac {2 + 8} {2} \\\\
+                        &= \dfrac {10} {2} \\\\
+                        &= 5 \\\\
+\text{y-coordinates}    &= \dfrac {6 + 8} {2} \\\\
+                        &= \dfrac {14} {2} \\\\
+                        &= 7
+\end {aligned}
+$
+
 $(5, 7)$
 
 </div>
@@ -2302,7 +2325,7 @@ $(5, 7)$
 <div class='answers'>
 <div class='answer'>
 
-%empty%
+$(5, 7)$
 
 </div>
 </div>
@@ -2639,7 +2662,7 @@ $28.4 \ \text {kilometres}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

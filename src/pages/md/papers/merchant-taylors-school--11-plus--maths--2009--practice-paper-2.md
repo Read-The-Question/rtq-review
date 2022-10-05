@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-2009-practice-paper-2"
 title: "Merchant Taylors School - 11 Plus - Maths - 2009 - Practice Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "31"
 ---
 <div class='paper'>
@@ -268,14 +268,14 @@ $0.04, \quad 0.042, \quad 0.204, \quad 0.24, \quad 0.40$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The temperatures, in degrees Centigrade, taken at $10 \ \text{am}$ in several countries were: 
 
-$5,  \quad 2,  \quad 14,  \quad 2,  \quad 4,  \quad 6,  \quad 7$ 
+$5,  \quad -2,  \quad 14,  \quad 2,  \quad 4,  \quad -6,  \quad 7$ 
 
 </div>
 <div class='workings'>
@@ -329,9 +329,9 @@ What was the difference between the hottest and the coldest temperatures?
 
 $
 \begin{aligned}
-&= 14 - (-6) \\\\
-&= 14 + 6 \\\\
-&= 20
+\text{Difference}   &= 14 - (-6) \\\\
+                    &= 14 + 6 \\\\
+                    &= 20 \degree
 \end{aligned}
 $
 
@@ -340,7 +340,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$20$
+$20 \degrees$
 
 </div>
 </div>
@@ -359,8 +359,8 @@ The lowest temperature was measured incorrectly. It should have been $7$ degrees
 
 $
 \begin{aligned}
-\text {New lowest temperature} &= - 6 - 7 \\\\
-                               &= - 13
+\text {Correct lowest temperature} &= - 6 - 7 \\\\
+                                    &= - 13 \degree
 \end{aligned}
 $
 
@@ -369,7 +369,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$-13$
+$-13 \degree$
 
 </div>
 </div>
@@ -380,7 +380,7 @@ $-13$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -420,16 +420,11 @@ The next term is calculated by adding $7$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+7)} }
-&&  \footnotesize {\maroonC
- {(+7)} }
-&&  \footnotesize {\maroonC
- {(+7)} }
-&&  \footnotesize {\maroonC
- {(+7)} }
-&&  \footnotesize {\maroonC
- {(+7)} }  \\
+&   \footnotesize {\maroonC {(+7)} }
+&&  \footnotesize {\maroonC {(+7)} }
+&&  \footnotesize {\maroonC {(+7)} }
+&&  \footnotesize {\maroonC {(+7)} }
+&&  \footnotesize {\maroonC {(+7)} }  \\
 5, && 12, && 19, && 26, && \ldots, && \ldots
 \end{matrix}
 $
@@ -477,16 +472,11 @@ The next term is calculated by subtracting $3$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(-3)} }
-&&  \footnotesize {\maroonC
- {(-3)} }
-&&  \footnotesize {\maroonC
- {(-3)} }
-&&  \footnotesize {\maroonC
- {(-3)} }
-&&  \footnotesize {\maroonC
- {(-3)} }  \\
+&   \footnotesize {\maroonC {(-3)} }
+&&  \footnotesize {\maroonC {(-3)} }
+&&  \footnotesize {\maroonC {(-3)} }
+&&  \footnotesize {\maroonC {(-3)} }
+&&  \footnotesize {\maroonC {(-3)} }  \\
 11, && 8, && 5, && 2, && \ldots, && \ldots
 \end{matrix}
 $
@@ -534,16 +524,11 @@ The next term is calculated by multiplying the previous term by $3$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(\times 3)} }
-&&  \footnotesize {\maroonC
- {(\times 3)} }
-&&  \footnotesize {\maroonC
- {(\times 3)} }
-&&  \footnotesize {\maroonC
- {(\times 3)} }
-&&  \footnotesize {\maroonC
- {(\times 3)} }  \\
+&   \footnotesize {\maroonC {(\times 3)} }
+&&  \footnotesize {\maroonC {(\times 3)} }
+&&  \footnotesize {\maroonC {(\times 3)} }
+&&  \footnotesize {\maroonC {(\times 3)} }
+&&  \footnotesize {\maroonC {(\times 3)} }  \\
 2, && 6, && 18, && 54, && \ldots, && \ldots
 \end{matrix}
 $
@@ -1710,7 +1695,7 @@ $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1834,9 +1819,9 @@ What was the total number of people counted throughout the afternoon?
 
 $
 \begin{aligned}
-\text{Total number of people}       &= 8 \times 1 + 9 \times 2 + 5 \times 3 + 7 \times 4 + 1 \times 5 + 2 \times 6 \\\\
-                                    &= 8 + 18 + 15 + 28 + 5 + 12 \\\\
-                                    &= 86
+\text{Number of people}     &= 8 \times 1 + 9 \times 2 + 5 \times 3 + 7 \times 4 + 1 \times 5 + 2 \times 6 \\\\
+                            &= 8 + 18 + 15 + 28 + 5 + 12 \\\\
+                            &= 86
 \end{aligned}
 $
 
@@ -2075,7 +2060,7 @@ $(3,5), \ (4,4), \ (9,2), \ (1,10), \ (19,1), \ (0,20)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

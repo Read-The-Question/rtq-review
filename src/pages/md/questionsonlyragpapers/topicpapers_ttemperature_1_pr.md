@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-ttemperature-1-pr"
 title: "TopicPaper - Temperature - 1 - PR"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "26"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -21,7 +21,7 @@ Ola is looking at the scale on a thermometer.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the value on the scale at $A$?
+What is the value on the scale at $A?$
 
 </div>
 
@@ -31,7 +31,7 @@ What is the value on the scale at $A$?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the value on the scale at $B$?
+What is the value on the scale at $B?$
 
 </div>
 
@@ -41,7 +41,7 @@ What is the value on the scale at $B$?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the value of $A - B$?
+What is the value of $A - B?$
 
 </div>
 
@@ -51,7 +51,7 @@ What is the value of $A - B$?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the value of $A + B$?
+What is the value of $A + B?$
 
 </div>
 

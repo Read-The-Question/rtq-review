@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tgraph-3-pr-prcc"
 title: "TopicPaper - Graph - 3 - PR - PRCC"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -11,7 +11,7 @@ questions_count: "1"
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-In the diagram below, the point 𝑃 has coordinates $(1,3)$.
+In the diagram below, the point $P$ has coordinates $(1,3)$.
 
 ![reigate-grammar-school--11-plus--maths--2018--sample-paper-5/section-1-question-31-00.png](/assets/reigate-grammar-school--11-plus--maths--2018--sample-paper-5/section-1-question-31-00.png "reigate-grammar-school--11-plus--maths--2018--sample-paper-5/section-1-question-31-00.png")
 
@@ -21,7 +21,7 @@ In the diagram below, the point 𝑃 has coordinates $(1,3)$.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write down the coordinates of point *Q*.
+Write down the coordinates of point $Q$.
 
 </div>
 
@@ -31,7 +31,7 @@ Write down the coordinates of point *Q*.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The point 𝑅 has coordinates $(5,3)$. Mark 𝑅 on the diagram.
+The point $R$ has coordinates $(5,3)$. Mark $R$ on the diagram.
 
 </div>
 
@@ -41,7 +41,7 @@ The point 𝑅 has coordinates $(5,3)$. Mark 𝑅 on the diagram.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Add $\text{one}$ more point so that the $\text{four}$ points make a square. Write down the coordinates of this $\text{fourth}$ point and label it 𝑆.
+Add one more point so that the four points make a square. Write down the coordinates of this fourth point and label it $S$.
 
 </div>
 

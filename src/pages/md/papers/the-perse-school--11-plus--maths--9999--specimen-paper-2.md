@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-2"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "25"
 ---
 <div class='paper'>
@@ -269,7 +269,7 @@ $584$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -306,7 +306,18 @@ What are the co-ordinates of the point B?
 <div class='workings'>
 <div class='working'>
 
-$(3, 6)$
+$
+\begin {aligned}
+\text{x-coordinates}    &= \dfrac {0 + 6} {2} \\\\
+                        &= \dfrac {6} {2} \\\\
+                        &= 3 \\\\
+\text{y-coordinates}    &= \dfrac {8 + 4} {2} \\\\
+                        &= \dfrac {12} {2} \\\\
+                        &= 6
+\end {aligned}
+$
+
+Coordinates $= (3, 6)$
 
 </div>
 </div>
@@ -531,7 +542,7 @@ $10, 12, 15$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -642,7 +653,7 @@ $-6 \degree \text {C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -670,8 +681,8 @@ Let's complete the table.
 
 | $4$                                    | $8$                                   | $9$                                    |
 |:---------:                             |:---------:                            |:---------:                             |
-| $21 - 4 - 5 = 12 \ \footnotesize{(3)}$ | $7$                                   | $21 - 12 - 7 = 2 \ \footnotesize{(4)}$ |
-| $21 - 9 - 7 = 5 \ \footnotesize{(2)}$  | $21 - 8 - 7 = 6 \ \footnotesize{(1)}$ | $21 - 9 - 2 = 10 \ \footnotesize{(5)}$ |
+| $21 - 4 - 5 = 12 \ \maroonC{\footnotesize{(3)}}$ | $7$                                   | $21 - 12 - 7 = 2 \ \maroonC{\footnotesize{(4)}}$ |
+| $21 - 9 - 7 = 5 \ \maroonC{\footnotesize{(2)}}$  | $21 - 8 - 7 = 6 \ \maroonC{\footnotesize{(1)}}$ | $21 - 9 - 2 = 10 \ \maroonC{\footnotesize{(5)}}$ |
 
 </div>
 </div>
@@ -863,7 +874,7 @@ $\pounds 2.08$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -887,16 +898,11 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+30)} }
-&&  \footnotesize {\maroonC
- {(+30)} }
-&&  \footnotesize {\maroonC
- {(+30)} }
-&&  \footnotesize {\maroonC
- {(+30)} }
-&&  \footnotesize {\maroonC
- {(+30)} }  \\
+&   \footnotesize {\maroonC {(+30)} }
+&&  \footnotesize {\maroonC {(+30)} }
+&&  \footnotesize {\maroonC {(+30)} }
+&&  \footnotesize {\maroonC {(+30)} }
+&&  \footnotesize {\maroonC {(+30)} }  \\
 30,  &&    60,  &&  90,  &&   120,  &&  150,  && \ldots
 \end{matrix}
 $

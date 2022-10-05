@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-6-g2"
 title: "TopicPaper - Fraction - 6 - G2"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "6"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -20,11 +20,11 @@ What fraction of a day is $9 \ \text{hours}$? Write your fraction in its simples
   
 $
 \begin{aligned}
-\text{Fraction} &= \dfrac {9} {24} \\\\
-                &= \dfrac {3 \times 3} {3 \times 8} \\\\
-                &= \dfrac {\cancel{3} \times 3} {\cancel{3} \times 8} \\\\
-                &= \dfrac {3} {8}
-                \end{aligned}
+&= \dfrac {9} {24} \\\\
+&= \dfrac {3 \times 3} {3 \times 8} \\\\
+&= \dfrac {\cancel{3} \times 3} {\cancel{3} \times 8} \\\\
+&= \dfrac {3} {8}
+\end{aligned}
 $
 
 </div>
@@ -40,7 +40,7 @@ $\dfrac{3}{8}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -53,10 +53,10 @@ Express $42 \ \text{minutes}$ as a fraction of one hour, giving your answer in i
 
 $
 \begin{aligned}
-\text{Fraction} &= \dfrac {42} {60} \\\\
-                &= \dfrac {6 \times 7} {6 \times 10} \\\\
-                &= \dfrac {\cancel{6} \times 7} {\cancel{6} \times 10} \\\\
-                &= \dfrac {7} {10}
+&= \dfrac {42} {60} \\\\
+&= \dfrac {6 \times 7} {6 \times 10} \\\\
+&= \dfrac {\cancel{6} \times 7} {\cancel{6} \times 10} \\\\
+&= \dfrac {7} {10}
 \end{aligned}
 $
 
@@ -73,7 +73,7 @@ $\dfrac {7} {10}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -123,7 +123,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{373} {12} \ \text {or} \ 31 \dfrac{1} {12}$
+$31 \dfrac{1} {12}$
 
 </div>
 </div>
@@ -155,7 +155,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{91} {3} \ \text {or} \ 30 \dfrac{1} {3}$
+$30 \dfrac{1} {3}$
 
 </div>
 </div>
@@ -166,7 +166,7 @@ $\dfrac{91} {3} \ \text {or} \ 30 \dfrac{1} {3}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -190,7 +190,7 @@ $
 \end{aligned}
 $
 
-Odd one $= \dfrac {3} {5} $
+Odd one out $= \dfrac {3} {5} $
 
 </div>
 </div>
@@ -205,7 +205,7 @@ $\dfrac {3} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -289,13 +289,13 @@ Shade $\dfrac {2} {3}$ of this shape.
 
 $
 \begin{aligned}
-\text{Total number of small triangles}    &= 9 \\\\
-\text{Two-third of this shape}            &= \dfrac{2}{3} \times 9 \\\\
-                                          &= \dfrac{2 \times 9}{3} \\\\
-                                          &= \dfrac{2 \times 3 \times 3}{3} \\\\
-                                          &= \dfrac{2 \times 3 \times \cancel{3}}{\cancel{3}} \\\\
-                                          &= 2 \times 3  \\\\
-                                          &= 6
+\text{Total number of small triangles}                              &= 9 \\\\
+\text{Two-thirds or } \dfrac{2}{3} \text{ of this shape}            &= \dfrac{2}{3} \times 9 \\\\
+                                                                    &= \dfrac{2 \times 9}{3} \\\\
+                                                                    &= \dfrac{2 \times 3 \times 3}{3} \\\\
+                                                                    &= \dfrac{2 \times 3 \times \cancel{3}}{\cancel{3}} \\\\
+                                                                    &= 2 \times 3  \\\\
+                                                                    &= 6
 \end{aligned}
 $
 
@@ -315,7 +315,7 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -434,7 +434,7 @@ a                                       &= 3
 \end{aligned}
 $
 
-Blue balls to be added $= 2$
+Blue balls to be added $= 3$
 
 </div>
 </div>

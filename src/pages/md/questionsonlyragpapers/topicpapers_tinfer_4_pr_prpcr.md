@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tinfer-4-pr-prpcr"
 title: "TopicPaper - Infer - 4 - PR - PRPCR"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -81,6 +81,8 @@ Claire makes squares with matches.
 To make $1$ square she needs $4$ matches. 
 
 To make $2$ squares she needs $7$ matches.
+
+![st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-3-question-1-00.png](/assets/st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-3-question-1-00.png "st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-3-question-1-00.png")              ![st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-3-question-1-01.png](/assets/st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-3-question-1-01.png "st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-3-question-1-01.png")                   ![st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-3-question-1-02.png](/assets/st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-3-question-1-02.png "st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-3-question-1-02.png")
 
 </div>
 <ul class='subquestion lower-alpha'>

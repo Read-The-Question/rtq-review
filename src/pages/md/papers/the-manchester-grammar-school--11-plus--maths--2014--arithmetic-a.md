@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2014-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2014 - Arithmetic A"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "20"
 ---
 <div class='paper'>
@@ -149,7 +149,7 @@ $3\dfrac{1}{2}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -165,16 +165,11 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+11)}} 
-&&  \footnotesize{\maroonC
-{(+12)}}  
-&&  \footnotesize{\maroonC
-{(+13)}}   
-&&  \footnotesize{\maroonC
-{(+14)}}  
-&&  \footnotesize{\maroonC
-{(+15)}}  \\
+&   \footnotesize{\maroonC{(+11)}} 
+&&  \footnotesize{\maroonC{(+12)}}  
+&&  \footnotesize{\maroonC{(+13)}}   
+&&  \footnotesize{\maroonC{(+14)}}  
+&&  \footnotesize{\maroonC{(+15)}}  \\
 33,  &&      44,  &&      56,  &&      \ldots,  &&      83,      &&      98
 \end{matrix}
 $
@@ -279,7 +274,7 @@ $\dfrac{16}{25}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -292,22 +287,12 @@ $\dfrac{3}{10}, \quad \dfrac{1}{3}, \quad \dfrac{1}{4}, \quad 0.35, \quad 33\%$
 <div class='workings'>
 <div class='working'>
 
-Let's make the denominator the same for all the numbers, so we can compare them.
+Let's convert all the numbers into decimals.
 
 $
 \begin{aligned}
 &= \dfrac{3}{10}, \quad \dfrac{1}{3}, \quad \dfrac{1}{4}, \quad 0.35, \quad 33\% \\\\
-&= \dfrac{3}{10}, \quad \dfrac{1}{3}, \quad \dfrac{1}{4}, \quad \dfrac{35}{100}, \quad \dfrac{33}{100}
-\end{aligned}
-$
-
-LCM for $10, 3, 4, 100, 100 = 300$
-
-$
-\begin{aligned}
-&= \dfrac{3 \times 30}{10 \times 30}, \quad \dfrac{1 \times 100}{3 \times 100}, 
-\quad \dfrac{1 \times 75}{4 \times 75}, \quad \dfrac{35 \times 3}{100 \times 3}, \quad \dfrac{33 \times 3}{100 \times 3} \\\\
-&= \dfrac{90}{300}, \quad \dfrac{100}{300}, \quad \dfrac{75}{300}, \quad \dfrac{105}{300}, \quad \dfrac{99}{300}
+&= 0.3, \quad 0.\overline{3}, \quad 0.25, \quad 0.35, \quad 0.33
 \end{aligned}
 $
 
@@ -315,12 +300,12 @@ Now let's put them in ascending order.
 
 $
 \begin{aligned}
-&= \dfrac{75}{300} < \dfrac{90}{300} < \dfrac{99}{300} < \dfrac{100}{300} < \dfrac{105}{300} \\\\
+&= 0.25 < 0.3  < 0.33 < 0.\overline{3} < 0.35 \\\\
 &= \dfrac{1}{4} < \dfrac{3}{10} < 33\% < \dfrac{1}{3} < 0.35
 \end{aligned}
 $
 
-The number in the middle $= 33\%$.
+Number in the middle $= 33\%$.
 
 </div>
 </div>
@@ -576,7 +561,7 @@ $5.4 \ \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -586,6 +571,24 @@ would be the sale price of a coat that originally cost $\pounds 30$?
 
 </div>
 <div class='workings'>
+<div class='working'>
+
+If the price is reduced by $15 \%$, then the sale price would be $100 - 15 = 85 \%$ of the original price.
+Using that we get,
+
+$
+\begin{aligned}
+\text{Sale price}               &= 85 \% \ \text{of} \ 30\\\\
+                                &= \dfrac {85} {100} \times 30 \\\\
+                                &= \dfrac {85 \times 30} {100} \\\\
+                                &= \dfrac {85 \times 3 \cancel{0}} {10 \cancel{0}} \\\\
+                                &= \dfrac {85 \times 3} {10} \\\\
+                                &= \dfrac {255} {10} \\\\
+                                &= \pounds 25.5
+\end{aligned}
+$
+
+</div>
 <div class='working'>
 
 $
@@ -599,23 +602,6 @@ $
                    &= 30 - \dfrac {45} {10} \\\\
                    &= 30 - 4.5 \\\\
                    &= \pounds 25.5
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-If the price is reduced by $15 \%$, then the sale price would be $100 - 15 = 85 \%$ of the original price.
-
-$
-\begin{aligned}
-\text{Sale price}               &= 85 \% \ \text{of} \ 30\\\\
-                                &= \dfrac {85} {100} \times 30 \\\\
-                                &= \dfrac {85 \times 30} {100} \\\\
-                                &= \dfrac {85 \times 3 \cancel{0}} {10 \cancel{0}} \\\\
-                                &= \dfrac {85 \times 3} {10} \\\\
-                                &= \dfrac {255} {10} \\\\
-                                &= \pounds 25.5
 \end{aligned}
 $
 

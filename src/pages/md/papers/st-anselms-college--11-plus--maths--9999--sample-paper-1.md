@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-1"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "24"
 ---
 <div class='paper'>
@@ -506,7 +506,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -546,18 +546,12 @@ The next term is calculated by adding $7$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+7)}} 
-&&  \footnotesize{\maroonC
-{(+7)}}  
-&&  \footnotesize{\maroonC
-{(+7)}}   
-&&  \footnotesize{\maroonC
-{(+7)}}
-&&  \footnotesize{\maroonC
-{(+7)}}
-&&  \footnotesize{\maroonC
-{(+7)}}  \\
+&   \footnotesize{\maroonC{(+7)}} 
+&&  \footnotesize{\maroonC{(+7)}}  
+&&  \footnotesize{\maroonC{(+7)}}   
+&&  \footnotesize{\maroonC{(+7)}}
+&&  \footnotesize{\maroonC{(+7)}}
+&&  \footnotesize{\maroonC{(+7)}}  \\
 3,  &&    10,  &&  17,  &&   24,  &&   31, &&   \ldots,  && \ldots
 \end{matrix}
 $
@@ -605,18 +599,12 @@ The next term is calculated by multiplying the previous term by $3$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 3)}} 
-&&  \footnotesize{\maroonC
-{(\times 3)}}  
-&&  \footnotesize{\maroonC
-{(\times 3)}}   
-&&  \footnotesize{\maroonC
-{(\times 3)}}
-&&  \footnotesize{\maroonC
-{(\times 3)}}
-&&  \footnotesize{\maroonC
-{(\times 3)}}  \\
+&   \footnotesize{\maroonC{(\times 3)}} 
+&&  \footnotesize{\maroonC{(\times 3)}}  
+&&  \footnotesize{\maroonC{(\times 3)}}   
+&&  \footnotesize{\maroonC{(\times 3)}}
+&&  \footnotesize{\maroonC{(\times 3)}}
+&&  \footnotesize{\maroonC{(\times 3)}}  \\
 1,  &&    3,  &&  9,  &&   27,  &&   81, &&   \ldots,  && \ldots
 \end{matrix}
 $
@@ -662,18 +650,12 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+1)}} 
-&&  \footnotesize{\maroonC
-{(+2)}}  
-&&  \footnotesize{\maroonC
-{(+4)}}   
-&&  \footnotesize{\maroonC
-{(+8)}}
-&&  \footnotesize{\maroonC
-{(+16)}}
-&&  \footnotesize{\maroonC
-{(+32)}}  \\
+&   \footnotesize{\maroonC{(+1)}} 
+&&  \footnotesize{\maroonC{(+2)}}  
+&&  \footnotesize{\maroonC{(+4)}}   
+&&  \footnotesize{\maroonC{(+8)}}
+&&  \footnotesize{\maroonC{(+16)}}
+&&  \footnotesize{\maroonC{(+32)}}  \\
 3,  &&    4,  &&  6,  &&   10,  &&   18, &&   \ldots,  && \ldots
 \end{matrix}
 $
@@ -722,18 +704,12 @@ The next term is calculated by adding together the last two terms. Hence, the se
 $
 \begin{matrix}
 &
-&&  \footnotesize {\maroonC
- {(1 + 1)} }
-&&  \footnotesize {\maroonC
- {(1 + 2)} }
-&&  \footnotesize {\maroonC
- {(2 + 3)} }
-&&  \footnotesize {\maroonC
- {(3 + 5)} }
-&&  \footnotesize {\maroonC
- {(5 + 8)} }
-&&  \footnotesize {\maroonC
- {(8 + 13)} }  \\
+&&  \footnotesize {\maroonC {(1 + 1)} }
+&&  \footnotesize {\maroonC {(1 + 2)} }
+&&  \footnotesize {\maroonC {(2 + 3)} }
+&&  \footnotesize {\maroonC {(3 + 5)} }
+&&  \footnotesize {\maroonC {(5 + 8)} }
+&&  \footnotesize {\maroonC {(8 + 13)} }  \\
 1,  &&  1, &&  2, &&  3, &&  5,  &&  8,  && \ldots, && \ldots
 \end{matrix}
 $
@@ -1500,14 +1476,14 @@ $45.2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Write the following numbers in order of size, starting with the smallest. 
 
-$0.56 \,\,\,\,  0.5  \,\,\,\,  0.051 \,\,\,\,  0.507 \,\,\,\,  0.308$ 
+$0.56, \quad  0.5, \quad,  0.051, \quad  0.507, \quad  0.308$ 
 
 </div>
 <div class='workings'>
@@ -1663,7 +1639,7 @@ $1.8 \ \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1674,27 +1650,32 @@ A calculator normally costs $\pounds 3.80$. It is offered in a sale at $25\%$ of
 <div class='workings'>
 <div class='working'>
 
+If the price is reduced by $25 \%$, then the new price will be $100 - 25 = 75 \%$ of the original price. Using that, we get
+
 $
 \begin{aligned}
-&= 25 \% \ \text {of} \pounds 3.80 \\\\
-&= \dfrac {25} {100} \times 3.80 \\\\
-&= 0.25 \times 3.80 \\\\
-&= \pounds 0.95
+\text {Sales price}             &= 75 \% \text { of }  3.80 \\\\
+                                &= \dfrac {75} {100} \times 3.80 \\\\
+                                &= \dfrac {75 \times 3.80} {100} \\\\
+                                &= \dfrac {285} {100} \\\\
+                                &= \pounds 2.85
 \end{aligned}
 $
 
 </div>
 <div class='working'>
 
+ABBR: $\text {Sale price = Original price} - \text{Discount } \% \times \text{Original price}$
+
+
 $
 \begin{aligned}
-\text{Sales Price} &= \text{Original Cost - Discount} \\\\
-                   &= 3.80 - (25 \% \ \text {of} \ \pounds 3.80 )\\\\
-                   &= \dfrac {25} {100} \times 3.80 \\\\
-                   &= \dfrac {25 \times 3.80} {100} \\\\
-                   &= \dfrac {25 \times 2 \times 2 \times 0.95} {2 \times 2 \times 25} \\\\
-                   &= \dfrac {\cancel{25} \times \cancel{2} \times \cancel{2} \times 0.95} {\cancel{2} \times \cancel{2} \times \cancel{25}} \\\\
-                   &= \pounds 0.95 
+\text{Sales price}    &= 3.80 - 25 \% \ \text {of} \ 3.80 \\\\
+                      &= 3.80 - \dfrac {25} {100} \times 3.80 \\\\
+                      &= 3.80 - \dfrac {25 \times 3.80} {100} \\\\
+                      &= 3.80 - \dfrac {95} {100} \\\\
+                      &= 3.80 - 0.95 \\\\
+                      &= \pounds 2.85
 \end{aligned}
 $
 
@@ -1703,7 +1684,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 0.95$
+$\pounds 2.85$
 
 </div>
 </div>

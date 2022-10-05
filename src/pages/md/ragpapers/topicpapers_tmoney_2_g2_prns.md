@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-2-g2-prns"
 title: "TopicPaper - Money - 2 - G2 - PRNS"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "17"
 ---
 <ul class='question default-decimal'>
@@ -84,9 +84,9 @@ $\pounds 18$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-A multipack of $12$ cans of Ned's cola cost $\pounds 6.95$. 
+A multipack of $12$ cans of Ned's Cola costs $\pounds 6.95$. 
 
-A single can of Ned's cola costs $65 \ \text{pence}$ if bought individually. 
+A single can of Ned's Cola costs $65 \ \text{pence}$ if bought individually. 
 
 Calculate how much cheaper it is to buy a multipack of $12$ cans than to buy $12$ cans individually, giving your answer in pence.
 
@@ -127,7 +127,7 @@ $85 \text {p}$
 
 A multipack of $15$ packets of crisps costs $\pounds 3.90$.
 
-A packet of crisps costs $35 \ \text{pence}$ if they are brought individually.
+A packet of crisps costs $35 \ \text{pence}$ if they are bought individually.
 
 Calculate how much cheaper it is to buy a multipack of $15$ packets of crisps than to buy $15$ packets individually.
 
@@ -1017,17 +1017,17 @@ $\pounds 4.91$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-I buy $7$ bags of Cheezos at $55\ \text{pence}$ each and $4$ bags of Nuttees at $63\ \text{pence}$ each. How much change do I get from $\pounds{10}$? 
+I buy $7$ bags of Cheezos at $55\ \text{pence}$ each and $4$ bags of Nuttees at $63\ \text{pence}$ each. How much change do I get from $\pounds{10}?$ 
 
-A: $\pounds{3.73}$ 
+- $\pounds{3.73}$ 
 
-B: $\pounds{3.63}$
+- $\pounds{3.63}$
 
-C: $\pounds{4.73}$ 
+- $\pounds{4.73}$ 
 
-D: $\pounds{4.63}$ 
+- $\pounds{4.63}$ 
 
-E: $\pounds{6.37}$
+- $\pounds{6.37}$
 
 </div>
 <div class='workings'>

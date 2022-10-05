@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2013-arithmetic-1"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2013 - Arithmetic 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "20"
 ---
 <div class='paper'>
@@ -735,7 +735,7 @@ $16$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -765,11 +765,11 @@ $
 \begin{matrix}
 17, && 23,                            && 30, && 38, \\\\
 47, && 57,                            && 68, && 80, \\\\
-93, && \green{107},  && 122,&& 138
+93, && \green{107},  && 122,&& \ldots
 \end{matrix}
 $
 
-The first three digist number in the sequence will be $107$
+First three digit number $= 107$
 
 </div>
 </div>

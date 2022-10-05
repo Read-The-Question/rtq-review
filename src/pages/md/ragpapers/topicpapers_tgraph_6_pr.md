@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tgraph-6-pr"
 title: "TopicPaper - Graph - 6 - PR"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -355,7 +355,7 @@ $5.35$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

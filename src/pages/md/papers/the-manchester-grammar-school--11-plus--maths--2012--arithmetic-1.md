@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2012-arithmetic-1"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2012 - Arithmetic 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "20"
 ---
 <div class='paper'>
@@ -145,7 +145,7 @@ $1040004$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -165,14 +165,10 @@ The next term is calculated by subtracting $9$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(- 9)}} 
-&&  \footnotesize{\maroonC
-{(- 9)}} 
-&&  \footnotesize{\maroonC
-{(- 9)}}   
-&&  \footnotesize{\maroonC
-{(- 9)}}  \\
+&   \footnotesize{\maroonC{(- 9)}} 
+&&  \footnotesize{\maroonC{(- 9)}} 
+&&  \footnotesize{\maroonC{(- 9)}}   
+&&  \footnotesize{\maroonC{(- 9)}}  \\
 75,  &&    66,  &&     \ldots,  &&   48,  &&   39
 \end{matrix}
 $
@@ -254,7 +250,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -269,7 +265,7 @@ How much would it have cost before the sale started?
 
 Let the original price $= p$
 
-If the price is reduced by $20 \%$, then the new price will be $100 - 20 = 80 \%$ of the original price. Using that, we get
+If the price is reduced by $20 \%$, then the reduced price will be $100 - 20 = 80 \%$ of the original price. Using that, we get
 
 As per the question,
 
@@ -285,7 +281,7 @@ p                               &= \pounds 75
 \end{aligned}
 $
 
-Original price $\pounds 75$
+Original price $= \pounds 75$
 
 </div>
 </div>
@@ -497,7 +493,7 @@ $35 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -515,7 +511,7 @@ Let's convert all the numbers into decimals.
 $
 \begin{aligned}
 &= 0.66, \quad \dfrac {3} {4}, \quad 70\%, \quad \dfrac {2} {3}, \quad \dfrac {6} {10} \\\\
-&= 0.66, \quad 0.75, \quad 0.70, \quad 0.\overline{6}, \quad 0.60
+&= 0.66, \quad 0.75, \quad 0.70, \quad 0.\overline{6}, \quad 0.6
 \end{aligned}
 $
 
@@ -523,12 +519,12 @@ Now let's put them in ascending order.
 
 $
 \begin{aligned}
-&= 0.60\ < 0.66\ < 0.\overline{6}\ <  0.70\ < 0.75 \\\\
-&= \dfrac {6} {10}\ < 0.66\ < \dfrac {2} {3}\ < 70 \%\ < \dfrac {3} {4}
+&= 0.6 < 0.66 < 0.\overline{6} <  0.70 < 0.75 \\\\
+&= \dfrac {6} {10} < 0.66 < \dfrac {2} {3} < 70 \% < \dfrac {3} {4}
 \end{aligned}
 $
 
-The number in the middle $= \dfrac {2} {3}$.
+Number in the middle $= \dfrac {2} {3}$
 
 </div>
 </div>
@@ -677,57 +673,48 @@ $121$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-What is the smaller angle between the hands of a clock at $2{:}    30$?  
+What is the smaller angle between the hands of a clock at $2{:}30$?  
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let's revise few facts about clock hands.
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
 
-- A minute clock hand moves $360 \degree$ in $1 \ \text{hour}$
-- A hour clock hand moves $30 \degree$ in $1 \ \text{hour}$
-- The angle between each hour number on the clock is $30 \degree$
 
-At $2{:}30$, the minute hand will be exactly on hour number $6$ but the hour hand will have moved a little ahead from $2$ and it will be somewhere between $2$ and $3$.
+ABBR: The difference between minutes of a clock is $6 \degree$.
 
-Let's calculate the angle moved by hour hand.
 
-$
-\begin{aligned}
-1 \ \text{hour}         &: 30 \degree \\\\
-60 \ \text{minutes}     &: 30 \\\\
-1 \ \text{minute}       &: \dfrac{30}{60} \\\\
-30 \ \text{minutes}     &: \dfrac{30 \times 30}{60} \\\\
-30 \ \text{minutes}     &: 15 \degree
-\end{aligned}
-$
+*ABBR: TODO:: Add drawing starts.*
 
-The angle between hands is the angle between number $2$ and $6$ minus the angle travelled by hour hand in $30$ minutes.
+![missing image](/papers/missing_image.svg)
 
-Let's calculate the angle between the hands.
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 $
-\begin{aligned}
-&= 30 \times 4 - 15 \\\\
-&= 120 - 15 \\\\
-&= 105 \degree
-\end{aligned}
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 20 - 2.5 \ \text{minutes} \\\\
+                                        &= 17.5 \ \text{minutes} \\\\
+\text {Angle}                           &= 17.5 \times 6 \\\\
+                                        &= 105 \degree
+\end {aligned}
 $
-
-The smaller angle is $= 105 \degree$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$105$
+$105 \degree$
 
 </div>
 </div>
@@ -735,7 +722,7 @@ $105$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

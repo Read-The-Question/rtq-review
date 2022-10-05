@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-4-red"
 title: "TopicPaper - Number - 4 - RED"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -65,7 +65,7 @@ $5.2$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Now draw an arrow on the number line above to show the number that is $\bold{1.2\:\:less\:\: than\:\: 7}$.
+Now draw an arrow on the number line above to show the number that is $1.2$ less than $7$.
 
 </div>
 <div class='workings'>
@@ -89,7 +89,7 @@ $6.88$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Work out the answer to $\bold{6.7 - 0.8}$.
+Work out the answer to $6.7 - 0.8$.
 
 </div>
 <div class='workings'>

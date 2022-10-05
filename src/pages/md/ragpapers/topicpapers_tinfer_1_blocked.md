@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tinfer-1-blocked"
 title: "TopicPaper - Infer - 1 - BLOCKED"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -13,7 +13,7 @@ questions_count: "1"
 
 Starting from $100$ we subtract $99$ then add $98$,
 then subtract $97$ and then add $96$ and we carry on in this way
-through all of the whole numbers from $100$ downwards until we reach the nuber $1$ (as shown below).
+through all of the whole numbers from $100$ downwards until we reach the number $1$ (as shown below).
 
 Work out the final answer. (There is a quick way !).
 

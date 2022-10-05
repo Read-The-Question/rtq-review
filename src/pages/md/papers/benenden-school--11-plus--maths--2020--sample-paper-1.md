@@ -1,7 +1,7 @@
 ---
 slug: "papers/benenden-school-11-plus-maths-2020-sample-paper-1"
 title: "Benenden School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "21"
 ---
 <div class='paper'>
@@ -1214,8 +1214,7 @@ $
 \text{Lengths}           &= 305 \ \text{cm}, \quad 2.95 \ \text{m}, \quad 225 \ \text{cm}, \quad 3.6 \ \text{m}, \quad 3.15 \ \text{m} \\\\
                          &= 3.05 \ \text{m}, \quad 2.95 \ \text{m}, \quad 2.25 \ \text{m}, \quad 3.6 \ \text{m}, \quad 3.15 \ \text{m} \\\\
                          &= 3.05, \quad 2.95, \quad 225, \quad 3.6, \quad 3.15 \\\\
-\text{Ordered lengths}   &= 2.25, \quad 2.95, \quad \maroonC
-{3.05}, \quad 3.15, \quad 3.6 \\\\
+\text{Ordered lengths}   &= 2.25, \quad 2.95, \quad \maroonC{3.05}, \quad 3.15, \quad 3.6 \\\\
 \text{Median}            &= 3.05 \ \text{m}
 \end {aligned}
 $
@@ -1270,7 +1269,7 @@ $1.35 \ \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2134,7 +2133,7 @@ $\pounds 10.8$
 # Section B
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2147,10 +2146,13 @@ How many hours will it take her to reach the top of the hole?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
+
+
 $
 \begin{aligned}
 \text{Speed}   &=  40 - 10 \\\\
-               &=  30 \text{ cm/h} \\\\
+               &=  30 \text{ cm per hour} \\\\
 \text{Time}    &=  \dfrac{220}{30} \\\\
                &=  \dfrac{22\cancel{0}}{3\cancel{0}} \\\\
                &=  \dfrac{22}{3} \\\\
@@ -2171,7 +2173,7 @@ $7\dfrac{1}{3} \text{ hours}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2183,15 +2185,16 @@ If it travels at a constant speed of $60 \ \text{km/hr}$, how long will it take 
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
+
+
 $
 \begin{aligned}
-\text{Distance} &= 1 + 1.5 \\\\
-                &= 2.5 \text { km} \\\\
-\text{Time}     &= \dfrac{2.5 \text { km}}{60 \text{ km/hr}} \\\\
-                &= \dfrac{2.5 \text { km}}{\dfrac{60}{60} \text{ km/min}} \\\\
-                &= \dfrac{2.5}{\dfrac{60}{60}} \\\\ 
-                &= \dfrac{2.5}{\dfrac{\cancel{60}}{\cancel{60}}} \\\\
-                &= \dfrac{2.5}{1} \\\\
+\text{Time}     &= \dfrac{1 + 1.5}{60} \\\\
+                &= \dfrac{2.5}{60} \text{ hours} \\\\
+                &= 60 \times \dfrac{2.5}{60} \text{ minutes} \\\\
+                &= \dfrac{2.5 \times 60}{60} \\\\
+                &= \dfrac{2.5 \times \cancel{60}}{\cancel{60}} \\\\
                 &= 2.5 \text{ minutes}
 \end{aligned}
 $

@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-4"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "23"
 ---
 <div class='paper'>
@@ -1517,8 +1517,7 @@ ABBR: If there is an odd number of numbers, the median is the middle number. If 
 $
 \begin {aligned}
 \text {Numbers}  &= 9, 11, 10 \\\\
-\text {Ordered Numbers}  &= 9, \maroonC
-{10}, 11 \\\\
+\text {Ordered Numbers}  &= 9, \maroonC{10}, 11 \\\\
 \end {aligned}
 $
 
@@ -1601,7 +1600,7 @@ $8, 9, 11, 12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1613,8 +1612,6 @@ Pupils tested whether people can taste the difference between black wine gums an
 The percentage bar charts show three pupils’ results.
 
 ![leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4/section-1-question-14-00.png](/assets/leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4/section-1-question-14-00.png "leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4/section-1-question-14-00.png")
-
-![leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4/section-1-question-14-01.png](/assets/leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4/section-1-question-14-01.png "leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4/section-1-question-14-01.png")
 
 </div>
 <div class='workings'>

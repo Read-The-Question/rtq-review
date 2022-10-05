@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tmoney-3-pr"
 title: "TopicPaper - Money - 3 - PR"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "19"
 ---
 <ul class='question default-decimal'>
@@ -302,8 +302,6 @@ Use your answers to find $17 \dfrac {1} {2}\%$ of $\pounds 250$?
 <div class='question question'>
 
 Look at the menu below:
-
-![royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-1-00.png](/assets/royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-1-00.png "royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-1-00.png")   ![royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-1-01.png](/assets/royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-1-01.png "royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-1-01.png")
 
 |     Tea     |  $60 \text{p}$ |
 |:-----------:|:--------------:|

@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tspeed-2-pr"
 title: "TopicPaper - Speed - 2 - PR"
-date: 2022-09-24 04:59:20
-questions_count: "15"
+date: 2022-10-04 10:03:20
+questions_count: "14"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -19,15 +19,15 @@ How many kilometres has this train travelled when the time is $1817$?
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
+ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
 
 
 $
 \begin {aligned}
 \text {Time taken}  &= 18{:}17 - 17{:}47 \\\\
-                    &= 30 \text{ minutes} \\\
-\text{Distance}     &= 30 \text{ minutes} \times 90 \text{ km/hour} \\\\
-                    &= 30 \text{ minutes} \times \dfrac{90}{60} \text{ km/minutes} \\\\
+                    &= 30 \text{ minutes} \\\\
+\text{Distance}     &= 30 \times 90 \text{ km/hour} \\\\
+                    &= 30 \times \dfrac{90}{60} \text{ km/minutes} \\\\
                     &= 30 \times \dfrac{90}{60} \\\\
                     &= 30 \times \dfrac{3 \times 3 \times 10}{3 \times 2 \times 10} \\\\
                     &= 30 \times \dfrac{3 \times \cancel{3} \times \cancel{10}}{\cancel{3} \times 2 \times \cancel{10}} \\\\
@@ -62,15 +62,15 @@ At what time does train $B$ overtake train $A$?
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
+ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
 
 
 Let the time taken (in minutes) by trian A to get overtaken by trian B $= t$
 
 $
 \begin{aligned}
-135 \text{ km/hour} \times (t - 30) \text{ minutes}                       &=  90 \text{ km/hour} \times t \text{ minutes} \\\\
-\dfrac{135}{60} \text{ km/minute} \times (t - 30) \text{ minutes}         &=  \dfrac{90}{60} \text{ km/minute} \times t \text{ minutes} \\\\
+135 \text{ km/hour} \times (t - 30)                                       &=  90 \text{ km/hour} \times t \\\\
+\dfrac{135}{60} \text{ km/minute} \times (t - 30)                         &=  \dfrac{90}{60} \text{ km/minute} \times t \\\\
 \dfrac{135}{60} \times (t - 30)                                           &=  \dfrac{90}{60} \times t \\\\
 \dfrac{135 \times (t - 30)}{60}                                           &=  \dfrac{90 \times t}{60} \\\\
 \dfrac{135 \times (t - 30)}{60} \times 60                                 &=  90t \\\\
@@ -94,8 +94,6 @@ $
 \end{aligned}
 $
 
-At $19{:}17$, train $B$ overtake train $A$.
-
 </div>
 </div>
 <div class='answers'>
@@ -112,7 +110,7 @@ $19{:}17$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -132,8 +130,7 @@ ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 $
 \begin{aligned}
-\text{Time taken by hare}  &=  \dfrac{400 \text{ metres}}{800 \text{ metres per minute}} \\\\
-                           &=  \dfrac{400}{800} \\\\
+\text{Time taken by hare}  &=  \dfrac{400}{800} \\\\
                            &=  \dfrac{4 \times 100}{2 \times 4 \times 100} \\\\
                            &=  \dfrac{\cancel{4} \times \cancel{100}}{2 \times \cancel{4} \times \cancel{100}} \\\\
                            &=  \dfrac{1}{2} \text{ minutes}
@@ -142,8 +139,7 @@ $
 
 $
 \begin{aligned}
-\text{Tortoise speed}      &=  \dfrac{1.5 \text{ metres}}{\dfrac{1}{2} \text{ minutes}} \\\\
-                           &=  \dfrac{1.5}{\dfrac{1}{2}} \\\\
+\text{Tortoise speed}      &=  \dfrac{1.5}{\dfrac{1}{2}} \\\\
                            &=  1.5 \times 2 \\\\
                            &=  3 \text { metres per minute}
 \end{aligned}
@@ -164,7 +160,7 @@ $3 \text { metres per minute}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -181,8 +177,8 @@ ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 $
 \begin {aligned}
-\text {Speed}       &= \dfrac {2.4 \text{ kilometres}} {30 \text{ minutes}} \\\\
-                    &= \dfrac {2.4 \text{ kilometres}} {\dfrac{30}{60} \text{ hour}} \\\\
+\text {Speed}       &= \dfrac {2.4} {30 \text{ minutes}} \\\\
+                    &= \dfrac {2.4} {\dfrac{30}{60} \text{ hour}} \\\\
                     &= \dfrac {2.4} {\dfrac{30}{60}} \\\\
                     &= \dfrac {2.4} {\dfrac{30}{30 \times 2}} \\\\
                     &= \dfrac {2.4} {\dfrac{\cancel{30}}{\cancel{30} \times 2}} \\\\
@@ -317,7 +313,7 @@ $20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -339,6 +335,9 @@ Running at the same speed, how long does it take for the horse to run $1\ \text{
 </div>
 <div class='workings'>
 <div class='working'>
+
+ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
+
 
 $
 \begin{aligned}
@@ -368,6 +367,9 @@ In minutes and seconds, how long does it take for the horse to run $1  \ \text{m
 </div>
 <div class='workings'>
 <div class='working'>
+
+ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
+
 
 $1 \text{ mile}  = 8 \text{ furlongs}$
 
@@ -408,14 +410,17 @@ At what speed is the horse running, in miles per hour?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text {Speed} = \dfrac {\text{Distance}} {\text{Time}}$
+
+
 $
 \begin{aligned}
-\text{Speed} &= \dfrac{1 \text{ miles}}{100 \text{ seconds}} \\\\
-             &= \dfrac{1 \text{ miles}}{100 \times \dfrac{1}{60 \times 60} \text{ hours}} \\\\
-             &= \dfrac{1}{100 \times \dfrac{1}{60 \times 60}} \\\\
-             &= \dfrac{1}{\dfrac{1\cancel{0}\cancel{0}}{6\cancel{0} \times 6\cancel{0}}} \\\\
-             &= \dfrac{1}{\dfrac{1}{6 \times 6}} \\\\
-             &= \dfrac{1}{\dfrac{1}{36}} \\\\
+\text{Speed} &= \dfrac{1}{100} \text{ miles per second} \\\\
+             &= \dfrac{1}{100} \times 60 \times 60 \text{ miles per hour} \\\\
+             &= \dfrac{60 \times 60}{100} \\\\
+             &= \dfrac{6 \times 10 \times 6 \times 10}{10 \times 10} \\\\
+             &= \dfrac{6 \times \cancel{10} \times 6 \times \cancel{10}}{\cancel{10} \times \cancel{10}} \\\\
+             &= 6 \times 6 \\\\
              &= 36 \text { miles/hour}
 \end{aligned}
 $
@@ -1035,7 +1040,7 @@ $14.1$ secs
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1056,13 +1061,13 @@ How many miles would the ball travel in one minute?
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
- 
+ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
+
 
 $
 \begin{aligned}
-\text {Distance} &= 90 \text{ miles/hour} \times 1 \text{ minute} \\\\
-                 &= \dfrac{90}{60} \text{ miles/minute} \times 1 \text{ minute} \\\\
+\text {Distance} &= 90{ miles/hour} \times 1 \\\\
+                 &= \dfrac{90}{60} \text{ miles/minute} \times 1 \\\\
                  &= \dfrac{90}{60} \times 1 \\\\
                  &= \dfrac{90}{60} \\\\
                  &= \dfrac{3 \times \cancel{3} \times \cancel{10}}{\cancel{3} \times 2 \times \cancel{10}} \\\\
@@ -1099,7 +1104,8 @@ $
 \begin{aligned}
 \text {Distance} &= 1.5 \text { miles} \\\\
                  &= 1.5 \times 1760 \text { yards} \\\\
-                 &= 2640 \text { yards} \\\\
+                 &= 1.5 \times 1760 \\\\
+                 &= 2640 \text { yards}
 \end {aligned}
 $
 
@@ -1125,13 +1131,13 @@ How many yards does the ball travel in one second?
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
- 
+ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
+
 
 $
 \begin{aligned}
-\text {Distance} &= 2640 \text{ yards/minute} \times 1 \text{ second} \\\\
-                 &= \dfrac{2640}{60} \text{ yards/second} \times 1 \text{ second} \\\\
+\text {Distance} &= 2640 \text{ yards/minute} \times 1 \\\\
+                 &= \dfrac{2640}{60} \text{ yards/second} \times 1 \\\\
                  &= \dfrac{2640}{60} \times 1 \\\\
                  &= \dfrac{44 \times \cancel{6} \times \cancel{10}}{\cancel{6} \times \cancel{10}} \\\\
                  &= 44 \text { yards}
@@ -1165,8 +1171,7 @@ ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 $
 \begin{aligned}
-\text {Time}     &= \dfrac{22 \text{ yards}}{44 \text{ yards/second}} \\\\
-                 &= \dfrac{22}{44} \\\\
+\text {Time}     &= \dfrac{22}{44} \\\\
                  &= \dfrac{22}{22 \times 2} \\\\
                  &= \dfrac{\cancel{22}}{\cancel{22} \times 2} \\\\
                  &= \dfrac{1}{2} \\\\
@@ -1190,7 +1195,7 @@ $0.5$ seconds
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1205,12 +1210,12 @@ How many lengths must I swim to cover a distance of $1.5\, km$? ![the-queens-sch
 
 $
 \begin{aligned}
-\text{Number of lengths}  &= \dfrac{1.5 \text{ km}}{25 \text { m}} \\\\ 
-                          &= \dfrac{1.5 \times 1000 \text{ m}}{25 \text { m}} \\\\ 
+\text{Number of lengths}  &= \dfrac{1.5 \text{ km}}{25} \\\\ 
+                          &= \dfrac{1.5 \times 1000 \text{ m}}{25} \\\\ 
                           &= \dfrac{1500}{25} \\\\ 
                           &= \dfrac{5 \times 5 \times 60}{5 \times 5} \\\\ 
                           &= \dfrac{\cancel{5} \times \cancel{5} \times 60}{\cancel{5} \times \cancel{5}} \\\\ 
-                          &= 60 \\\\ 
+                          &= 60
 \end{aligned}
 $
 
@@ -1239,8 +1244,7 @@ ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 $
 \begin{aligned}
-\text {Speed}    &= \dfrac{1.5 \text{ km}}{45 \text{ minute}} \\\\
-                 &= \dfrac{1.5}{45} \\\\
+\text {Speed}    &= \dfrac{1.5}{45} \\\\
                  &= \dfrac{1.5 \times 10}{45 \times 10} \\\\
                  &= \dfrac{15}{15 \times 3 \times 10} \\\\
                  &= \dfrac{\cancel{15}}{\cancel{15} \times 3 \times 10} \\\\
@@ -1251,8 +1255,7 @@ $
 
 $
 \begin{aligned}
-\text {Time taken to swim } 1 \text{ km}    &= \dfrac{1 \text{ km}}{\dfrac{1}{30} \text{ km/minute}} \\\\
-                                            &= \dfrac{1}{\dfrac{1}{30}} \\\\
+\text {Time taken to swim } 1 \text{ km}    &= \dfrac{1}{\dfrac{1}{30}} \\\\
                                             &= 30 \text { minutes}
 \end {aligned}
 $
@@ -1273,7 +1276,7 @@ $30 \text { minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1303,6 +1306,8 @@ ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
 
 Let the time taken in first case (in hours)  $= t$
 
+As per the question,
+
 $
 \begin{aligned}
 15 \times (t - 2)   &=  10 \times t \\\\
@@ -1313,15 +1318,9 @@ t                   &=  \dfrac{30}{5} \\\\
 t                   &=  \dfrac{6 \times 5}{5} \\\\
 t                   &=  \dfrac{6 \times \cancel{5}}{\cancel{5}} \\\\
 t                   &=  6 \text{ hours} \\\\
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Distance}   &= 10 \text{ km per hour} \times t \text{ hours} \\\\
-                  &= 10 \text{ km per hour} \times 6 \text{ hours} \\\\
-                  &= 10 \times 6 \\\\
-                  &= 60 \text{ km} \\\\
+\text{Distance}     &= 10 \times t \\\\
+                    &= 10 \times 6 \\\\
+                    &= 60 \text{ km}
 \end{aligned}
 $
 
@@ -1387,8 +1386,7 @@ $
 \begin{aligned}
 \text{Time Taken} &=  7{:}00 - 12{:}00 \\\\
                   &=  5 \text{ hours} \\\\
-\text{Speed}      &=  \dfrac{60 \text{ km}}{5 \text{ hours}} \\\\
-                  &=  \dfrac{60}{5} \\\\
+\text{Speed}      &=  \dfrac{60}{5} \\\\
                   &=  \dfrac{12 \times 5}{5} \\\\
                   &=  \dfrac{12 \times \cancel{5}}{\cancel{5}} \\\\
                   &=  12 \text{ km per hour}
@@ -1411,7 +1409,7 @@ $12 \text{ km per hour}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1452,12 +1450,10 @@ $
 $
 \begin{aligned}
 \text{Distance covered by brian} &= \dfrac{400}{15} \times 8.4 \\\\
-                                 &= \dfrac{400 \times 8.4}{15} \times 8.4 \\\\
-                                 &= \dfrac{5 \times 8 \times 10 \times 8.4}{5 \times 3} \\\\
-                                 &= \dfrac{\cancel{5} \times 8 \times 10 \times 8.4}{\cancel{5} \times 3} \\\\
-                                 &= \dfrac{8 \times 84}{3} \\\\
-                                 &= \dfrac{8 \times 28 \times 3}{3} \\\\
-                                 &= \dfrac{8 \times 28 \times \cancel{3}}{\cancel{3}} \\\\
+                                 &= \dfrac{40 \times 10 \times 8.4}{15} \\\\
+                                 &= \dfrac{40 \times 84}{15} \\\\
+                                 &= \dfrac{5 \times 8 \times 28 \times 3}{5 \times 3} \\\\
+                                 &= \dfrac{\cancel{5} \times 8 \times 28 \times \cancel{3}}{\cancel{5} \times \cancel{3}} \\\\
                                  &= 8 \times 28 \\\\
                                  &= 224 \text{ metres}
 \end{aligned}
@@ -1509,7 +1505,7 @@ $352 \text { metres}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1520,25 +1516,14 @@ If a hovercraft travels at $80\, kilometres$ per hour how far will it travel in 
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
+ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
 
 
 $
 \begin{aligned}
-\text{Distance}  &=  80 \text{ km/hour} \times (1 \text{ hour } 45 \text{ minutes}) \\\\  
-                 &=  80 \text{ km/hour} \times (1 + \dfrac{45}{60} \text{ hours}) \\\\  
-                 &=  80 \times (\dfrac{1 \times 60}{1 \times 60} + \dfrac{45}{60}) \\\\  
-                 &=  80 \times (\dfrac{60}{60} + \dfrac{45}{60}) \\\\  
-                 &=  80 \times \dfrac{45 + 60}{60} \\\\  
-                 &=  80 \times \dfrac{105}{60} \\\\  
-                 &=  \dfrac{105 \times 80}{60} \\\\  
-                 &=  \dfrac{105 \times 8\cancel{0}}{6\cancel{0}} \\\\  
-                 &=  \dfrac{105 \times 2 \times 4}{2 \times 3} \\\\  
-                 &=  \dfrac{105 \times \cancel{2} \times 4}{\cancel{2} \times 3} \\\\  
-                 &=  \dfrac{105 \times 4}{3} \\\\  
-                 &=  \dfrac{420}{3} \\\\  
-                 &=  \dfrac{140 \times 3}{3} \\\\  
-                 &=  \dfrac{140 \times \cancel{3}}{\cancel{3}} \\\\  
+\text{Distance}  &=  80 \times (1 \text{ hour } 45 \text{ minutes}) \\\\  
+                 &=  80 \times (1.75 \text{ hours}) \\\\  
+                 &=  80 \times 1.75 \\\\  
                  &=  140 \text{ kilometres}
 \end{aligned}
 $
@@ -1556,43 +1541,7 @@ $140 \text{ kilometres}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
-In $3\, hours$ a train travels $156\, km$. What is it speed in $km/h$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
-
-
-$
-\begin{aligned}
-\text{Speed}   &=   \dfrac{156}{3} \\\\
-               &=   \dfrac{52 \times 3}{3} \\\\
-               &=   \dfrac{52 \times \cancel{3}}{\cancel{3}} \\\\
-               &=   52 \text{ km/h}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$52 \text{ km/h}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1603,16 +1552,16 @@ David jogs at $3\, metres$ per second. How far does he jog in $15\, minutes$?
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
+ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
 
 
 $
 \begin{aligned}
-\text{Distance}   &=   3 \text{ metres/second} \times 15 \text{ minutes} \\\\
-                  &=   3 \text{ metres/second} \times (15 \times 60) \text{ seconds} \\\\
-                  &=   3 \times 15 \times 60 \\\\
-                  &=   45 \times 60 \\\\
-                  &=   2700 \text{ metres}
+\text{Distance}   &= 3 \times 15 \text{ minutes} \\\\
+                  &= 3 \times 15 \times 60 \text{ seconds} \\\\
+                  &= 3 \times 15 \times 60 \\\\
+                  &= 45 \times 60 \\\\
+                  &= 2700 \text{ metres}
 \end{aligned}
 $
 

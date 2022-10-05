@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tnet-1"
 title: "TopicPaper - Net - 1"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "29"
 ---
 <div class='paper'>
@@ -307,7 +307,10 @@ Which of the dice below can be made from this net?
 
 ![king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-3-00.png](/assets/king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-3-00.png "king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-3-00.png")
 
-
+![king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-3-01.png](/assets/king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-3-01.png "king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-3-01.png")
+![king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-3-02.png](/assets/king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-3-02.png "king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-3-02.png")
+![king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-3-03.png](/assets/king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-3-03.png "king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-3-03.png")
+![king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-3-04.png](/assets/king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-3-04.png "king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-3-04.png")
 
 </div>
 

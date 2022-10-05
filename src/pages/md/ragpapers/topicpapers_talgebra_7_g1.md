@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-7-g1"
 title: "TopicPaper - Algebra - 7 - G1"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "37"
 ---
 <ul class='question default-decimal'>

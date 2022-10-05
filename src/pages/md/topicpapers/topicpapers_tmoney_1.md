@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-1"
 title: "TopicPaper - Money - 1"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "40"
 ---
 <div class='paper'>
@@ -1523,10 +1523,10 @@ The table below shows the coins that were collected from the machine in one day.
 
 |      Coins      | Number of Coins |
 |:---------------:|:---------------:|
-| $50 \ \text{p}$ |        22       |
-| $20 \ \text{p}$ |        18       |
-| $10 \ \text{p}$ |        33       |
-|  $5 \ \text{p}$ |        41       |
+| $50 \text{p}$   |      $22$       |
+| $20 \text{p}$   |      $18$       |
+| $10 \text{p}$   |      $33$       |
+|  $5 \text{p}$   |      $41$       |
 
 How many cans of lemonade were sold that day?
 
@@ -1573,21 +1573,21 @@ $30$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-A can of lemonade from a vending machine costs 65 $\text{p}$. The table below shows the coins that were collected from the machine in one day.
+A can of lemonade from a vending machine costs $65 \text{p}$. The table below shows the coins that were collected from the machine in one day.
 
 |      Coins      | Number of Coins |
 |:---------------:|:---------------:|
-| $50 \ \text{p}$ |        22       |
-| $20 \ \text{p}$ |        18       |
-| $10 \ \text{p}$ |        33       |
-|  $5 \ \text{p}$ |        41       |
+|  $50 \text{p}$  |      $22$       |
+|  $20 \text{p}$  |      $18$       |
+|  $10 \text{p}$  |      $33$       |
+|  $5 \text{p}$   |      $41$       |
 
 How many cans of lemonade were sold that day?
 
 - $\pounds \ 20.85 $
 - $\pounds \ 19.95 $ 
-- 31 
-- 30
+- $31$ 
+- $30$
 
 </div>
 <div class='workings'>
@@ -1629,7 +1629,7 @@ $30$
 
 I buy $7$ drinks at $72\text{p}$ each, and $9$ sandwiches at $\pounds 1.21$ each. 
 
-How much $\bold{\underline{change}}$ do I get from a $\pounds 20$ note? 
+How much change do I get from a $\pounds 20$ note? 
 
 </div>
 <div class='workings'>
@@ -1934,7 +1934,7 @@ $\pounds 4.05$. He plans to sell the bars for $35 \text{p}$ each.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-How much money will TJ recieve if he sells all 15 bars at $35 \text{p}$?
+How much money will TJ recieve if he sells all $15$ bars at $35 \text{p}?$
 
 </div>
 <div class='workings'>
@@ -2276,14 +2276,14 @@ Ola is planning to complete a sponsored run for Red Nose Day.
 
 He collected a number of different promises, from his family, on his sponsor form.
 
-|    Mum    |                                             $50 \ \text{p}$ per completed mile                                             |
+|    Mum    |                                             $50 \text{p}$ per completed mile                                               |
 |:---------:|:--------------------------------------------------------------------------------------------------------------------------:|
-|    Dad    |                                     $ \pounds \ 5$ plus $25 \ \text{p}$ per completed mile                                     |
-|    Nan    |                                                       $ \pounds \ 10$                                                      |
-|  Grandad  | $10 \ \text{p}$ for the first mile, $20 \ \text{p}$ for the second mile, $30 \ \text{p}$ for the third mile, and so on ... |
-| Uncle Jay |                                                       $\pounds \ 15$                                                       |
+|    Dad    |                                     $ \pounds 5$ plus $25 \text{p}$ per completed mile                                     |
+|    Nan    |                                                       $ \pounds 10$                                                        |
+|  Grandad  | $10 \text{p}$ for the first mile, $20 \text{p}$ for the second mile, $30 \text{p}$ for the third mile, and so on $ \ldots $|
+| Uncle Jay |                                                       $\pounds 15$                                                         |
 
-He hopes to complete *either* $8$ or $10 \ \text{miles}$.
+He hopes to complete either $8$ or $10 \ \text{miles}$.
 
 </div>
 <div class='workings'>
@@ -2406,7 +2406,7 @@ $\pounds 39.60$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-How much **extra** will Ola collect, in total, if he completes the extra $2 \ \text{miles}$ and runs $10 \ \text{miles}$ (rather than $8 \ \text{miles}$)?
+How much extra will Ola collect, in total, if he completes the extra $2 \ \text{miles}$ and runs $10 \ \text{miles}$ (rather than $8 \ \text{miles}$)?
 
 </div>
 <div class='workings'>
@@ -2457,12 +2457,12 @@ $\pounds 3.40$
 
 Sasha is selling greetings cards and gifts for Mothers' Day.
 
-|   Medium card & envelope  | $\pounds \ 1.79$ |
-|:-------------------------:|:----------------:|
-|   Large card & envelope   | $\pounds \ 2.59$ |
-| Small chocolate selection | $\pounds \ 1.49$ |
-|    Dried flower (bunch)   | $\pounds \ 3.65$ |
-|     Candles in holder     | $\pounds \ 5.49$ |
+|   Medium card & envelope  | $\pounds 1.79$ |
+|:-------------------------:|:--------------:|
+|   Large card & envelope   | $\pounds 2.59$ |
+| Small chocolate selection | $\pounds 1.49$ |
+|    Dried flower (bunch)   | $\pounds 3.65$ |
+|     Candles in holder     | $\pounds 5.49$ |
 
 
 </div>
@@ -2516,7 +2516,7 @@ $\pounds 9.57$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-How much change would be needed, from a $\pounds \ 10$ note, if Sasha sells a medium card & envelope with a bunch of dried flowers?
+How much change would be needed, from a $\pounds 10$ note, if Sasha sells a medium card & envelope with a bunch of dried flowers?
 
 </div>
 <div class='workings'>
@@ -2548,10 +2548,10 @@ $\pounds 4.56$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Sasha is asked for an itemised receipt for a bill of $\pounds \ 7.73$. 
-He knew that three items, bought tor=gether, have that total price.
+Sasha is asked for an itemised receipt for a bill of $\pounds 7.73$. 
+He knew that three items, bought together, have that total price.
 
-Which three prices total $\pounds \ 7.73$?
+Which three prices total $\pounds 7.73?$
 
 </div>
 <div class='workings'>
@@ -2837,7 +2837,7 @@ $\pounds 2.03$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-What is $\dfrac {3} {4}$ of $\pounds 4.48$?
+What is $\dfrac {3}{4} \ \text{of} \ \pounds 4.48?$
 
 </div>
 <div class='workings'>

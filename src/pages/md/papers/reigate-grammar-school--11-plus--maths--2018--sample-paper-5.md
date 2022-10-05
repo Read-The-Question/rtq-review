@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2018-sample-paper-5"
 title: "Reigate Grammar School - 11 Plus - Maths - 2018 - Sample Paper 5"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "36"
 ---
 <div class='paper'>
@@ -928,7 +928,7 @@ $53.71$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -948,16 +948,11 @@ The next term is calculated by subtracting $4$ from the previous term. Hence, th
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}  \\
+&   \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}  \\
 14,  &&    10,  &&  6,  &&   2,  &&   \ldots, && \ldots
 \end {matrix}
 $
@@ -1364,7 +1359,7 @@ $3 \text{ hours } 4 \text{ minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1384,18 +1379,12 @@ It is a sequence of square numbers.
 
 $
 \begin {matrix}
-    \footnotesize{\maroonC
-{(1^2)}}
-&&  \footnotesize{\maroonC
-{(2^2)}}
-&&  \footnotesize{\maroonC
-{(3^2)}}
-&&  \footnotesize{\maroonC
-{(4^2)}}
-&&  \footnotesize{\maroonC
-{(5^2)}}
-&&  \footnotesize{\maroonC
-{(6^2)}}  \\\\
+    \footnotesize{\maroonC{(1^2)}}
+&&  \footnotesize{\maroonC{(2^2)}}
+&&  \footnotesize{\maroonC{(3^2)}}
+&&  \footnotesize{\maroonC{(4^2)}}
+&&  \footnotesize{\maroonC{(5^2)}}
+&&  \footnotesize{\maroonC{(6^2)}}  \\\\
 1,  &&    4,  &&  9,  &&   16,  &&   \ldots, && \ldots
 \end {matrix}
 $
@@ -1532,7 +1521,7 @@ $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1569,7 +1558,7 @@ How many black cars are there?
 
 $
 \begin{aligned}
-\text{Number of black cars}     &= \dfrac {90} {360} \times 120 \\\\
+\text{Black cars}               &= \dfrac {90} {360} \times 120 \\\\
                                 &= \dfrac {90 \times 120} {360} \\\\
                                 &= \dfrac {3 \times 30 \times 120} {120 \times 3} \\\\
                                 &= \dfrac {\cancel 3 \times 30 \times \cancel {120}} {\cancel {120} \times \cancel 3} \\\\
@@ -1601,7 +1590,7 @@ How many cars are there which are NOT grey?
 
 $
 \begin{aligned}
-\text{Number of cars that are not grey}   &= \dfrac {360 - 135} {360} \times 120 \\\\
+\text{Cars that are not grey}             &= \dfrac {360 - 135} {360} \times 120 \\\\
                                           &= \dfrac {225} {360} \times 120 \\\\
                                           &= \dfrac {225 \times 120} {360} \\\\
                                           &= \dfrac {3 \times 75 \times 120} {120 \times 3} \\\\
@@ -1860,12 +1849,12 @@ $36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-In the diagram below, the point 𝑃 has coordinates $(1,3)$.
+In the diagram below, the point $P$ has coordinates $(1,3)$.
 
 ![reigate-grammar-school--11-plus--maths--2018--sample-paper-5/section-1-question-31-00.png](/assets/reigate-grammar-school--11-plus--maths--2018--sample-paper-5/section-1-question-31-00.png "reigate-grammar-school--11-plus--maths--2018--sample-paper-5/section-1-question-31-00.png")
 
@@ -1889,7 +1878,7 @@ In the diagram below, the point 𝑃 has coordinates $(1,3)$.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write down the coordinates of point *Q*.
+Write down the coordinates of point $Q$.
 
 </div>
 <div class='workings'>
@@ -1913,7 +1902,7 @@ $(3, 1)$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The point 𝑅 has coordinates $(5,3)$. Mark 𝑅 on the diagram.
+The point $R$ has coordinates $(5,3)$. Mark $R$ on the diagram.
 
 </div>
 <div class='workings'>
@@ -1947,7 +1936,7 @@ Plot the points R on the graph
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Add $\text{one}$ more point so that the $\text{four}$ points make a square. Write down the coordinates of this $\text{fourth}$ point and label it 𝑆.
+Add one more point so that the four points make a square. Write down the coordinates of this fourth point and label it $S$.
 
 </div>
 <div class='workings'>
@@ -1965,7 +1954,7 @@ Plot the 4th point on the graph too and show the length of the side of the squar
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(3, 5)$
+Coordinates $= (3, 5)$
 
 </div>
 </div>
@@ -2218,7 +2207,7 @@ $7, 4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2279,8 +2268,8 @@ How many houses are there in the street?
 
 $
 \begin{aligned}
-\text{Total number of houses in the street}     &= 9 + 12 + 10 + 5 \\\\
-                                                &= 36
+\text{Houses on the street}     &= 9 + 12 + 10 + 5 \\\\
+                                &= 36
 \end{aligned}
 $
 
@@ -2308,9 +2297,9 @@ How many pets are there in the street?
 
 $
 \begin{aligned}
-\text{Number of pets in the street}       &= 9 \times 0 + 12 \times 1 + 10 \times 2 + 5 \times 3 \\\\
-                                          &= 0 + 12 + 20 + 15 \\\\
-                                          &= 47
+\text{Pets in the street}               &= 9 \times 0 + 12 \times 1 + 10 \times 2 + 5 \times 3 \\\\
+                                        &= 0 + 12 + 20 + 15 \\\\
+                                        &= 47
 \end{aligned}
 $
 

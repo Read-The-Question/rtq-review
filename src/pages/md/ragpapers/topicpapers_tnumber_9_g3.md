@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-9-g3"
 title: "TopicPaper - Number - 9 - G3"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "11"
 ---
 <ul class='question default-decimal'>
@@ -125,7 +125,7 @@ $33$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-What number is $\text{twenty-three}$ less than $\text{seventy thousand}$? 
+What number is twenty-three less than seventy thousand? 
 
 - $67700$ 
 

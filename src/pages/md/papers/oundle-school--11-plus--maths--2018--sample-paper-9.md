@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2018-sample-paper-9"
 title: "Oundle School - 11 Plus - Maths - 2018 - Sample Paper 9"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "11"
 ---
 <div class='paper'>
@@ -994,7 +994,7 @@ $11$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1025,26 +1025,24 @@ What is $327 \ \text{minutes}$ in hours and minutes?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+&= 327 \text{ minutes} \\\\
+&= \dfrac{327}{60} \text{ hours} \\\\
+&= \dfrac{327}{60} \text{ hours} \\\\
+&= 5\dfrac{27}{60} \text{ hours} \\\\
+&= 5 \text{ hours } 27 \text{ minutes}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$5 \text{ hours } 27 \text{ minutes}$
 
 </div>
 </div>
@@ -1063,8 +1061,9 @@ Change $5.2 \ \text{hours}$ into minutes.
 
 $
 \begin{aligned}
-&= 5.2 \times 60 \\\\
-&= 312
+&= 5.2 \text{ hours} \\\\
+&= 5.2 \times 60 \text{ minutes} \\\\
+&= 312 \text{ minutes}
 \end{aligned}
 $
 
@@ -1073,7 +1072,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$312$
+$312 \text{ minutes}$
 
 </div>
 </div>
@@ -1088,26 +1087,38 @@ The time is 08{:}26. What is the smaller angle between the hour hand and the min
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 14 \ \text{minutes} \\\\
+\text {Angle}                           &= 14 \times 6 \\\\
+                                        &= 84 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$84 \degree$
 
 </div>
 </div>

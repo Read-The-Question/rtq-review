@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tgraph-4-g1-prns"
 title: "TopicPaper - Graph - 4 - G1 - PRNS"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "8"
 ---
 <ul class='question default-decimal'>
@@ -203,6 +203,8 @@ Which subject is it most likely they have not studied yet? Explain how you know.
 <div class='question question'>
 
 You have $5$ pieces of card shaped like this:
+
+![st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-2-question-8-00.png](/assets/st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-2-question-8-00.png "st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-2-question-8-00.png")
 
 </div>
 <ul class='subquestion lower-alpha'>

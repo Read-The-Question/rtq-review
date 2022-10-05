@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-school-11-plus-maths-2019-sample-paper-1"
 title: "St Albans School - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "33"
 ---
 <div class='paper'>
@@ -14,7 +14,7 @@ questions_count: "33"
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -27,7 +27,7 @@ $\dfrac {4} {\phantom{77}} = \dfrac {\phantom{77}} {10} = \dfrac {12} {15} = \df
 <div class='workings'>
 <div class='working'>
 
-Let the missing numbers are $= a, b, c$
+Let the missing numbers $= a, b, c$
 
 As per the question,
 
@@ -58,7 +58,17 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$5, \ 8, \ 25$
+$5$
+
+</div>
+<div class='answer'>
+
+$8$
+
+</div>
+<div class='answer'>
+
+$25$
 
 </div>
 </div>
@@ -1489,7 +1499,7 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1508,20 +1518,22 @@ Mongle birds can be either pink or green. Some of them eat insects, but the rest
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-&= 12 + 14 + 19 + 17 \\\\
-&= 36 + 26 \\\\
-&= 62 
-\end{aligned}
-$
+Let's complete the table.
+
+|           | Pink                               | Green                              | **Total**                           |
+|:---------:|-------                             |-------                             |-----------                          |
+|   Seeds   | $12 - 2 = 10 \ \footnotesize{(5)}$ | $2 \ \footnotesize{(4)}$           | $12 \ \footnotesize{(2)}$           |
+|  Insects  | $9 \ \footnotesize{(3)}$           | $17 - 2 = 15 \ \footnotesize{(7)}$ | $36 - 12 = 24 \ \footnotesize{(9)}$ |
+| **Total** | $10 + 9 = 19 \ \footnotesize{(6)}$ | $17  \ \footnotesize{(1)}$         | $19 + 17 = 36 \ \footnotesize{(8)}$ |
+
+Total number of birds $= 36$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$62$
+$36$
 
 </div>
 </div>
@@ -1529,7 +1541,7 @@ $62$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1550,20 +1562,13 @@ As per the question, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{ \maroonC
-{ (\div 2) } }
-&&  \footnotesize{ \maroonC
-{ (\div 2) } }
-&&  \footnotesize{ \maroonC
-{ (\div 2) } }
-&&  \footnotesize{ \maroonC
-{ (\div 2) } }
-&&  \footnotesize{ \maroonC
-{ (\div 2) } }
-&&  \footnotesize{ \maroonC
-{ (\div 2) } }
-&&  \footnotesize{ \maroonC
-{ (\div 2) } }  \\
+&   \footnotesize{ \maroonC{ (\div 2) } }
+&&  \footnotesize{ \maroonC{ (\div 2) } }
+&&  \footnotesize{ \maroonC{ (\div 2) } }
+&&  \footnotesize{ \maroonC{ (\div 2) } }
+&&  \footnotesize{ \maroonC{ (\div 2) } }
+&&  \footnotesize{ \maroonC{ (\div 2) } }
+&&  \footnotesize{ \maroonC{ (\div 2) } }  \\
 \ldots, && \ldots, && \ldots, && 12, && 6, && 3, && \ldots,  && \ldots
 \end{matrix}
 $

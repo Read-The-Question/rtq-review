@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tareaperimeter-2"
 title: "TopicPaper - Areaperimeter - 2"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "40"
 ---
 <div class='paper'>
@@ -16,7 +16,7 @@ questions_count: "40"
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -29,7 +29,7 @@ questions_count: "40"
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Use your ruler to measure the length and width of this rectangle *8as accurately as you can**.
+Use your ruler to measure the length and width of this rectangle as accurately as you can.
 
 ![blackheath-high-school--11-plus--maths--2007--sample-paper-1/section-1-question-10-subquestion-1-00.png](/assets/blackheath-high-school--11-plus--maths--2007--sample-paper-1/section-1-question-10-subquestion-1-00.png "blackheath-high-school--11-plus--maths--2007--sample-paper-1/section-1-question-10-subquestion-1-00.png")
 
@@ -41,7 +41,7 @@ Use your ruler to measure the length and width of this rectangle *8as accurately
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Use your answers to work out the **perimeter** of the rectangle.
+Use your answers to work out the perimeter of the rectangle.
 
 </div>
 
@@ -51,12 +51,12 @@ Use your answers to work out the **perimeter** of the rectangle.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-The shaded **rectangle** has area $12 \ \text{cm}^2$.
+The shaded rectangle has area $12 \ \text{cm}^2$.
 
 ![blackheath-high-school--11-plus--maths--2007--sample-paper-1/section-1-question-16-00.png](/assets/blackheath-high-school--11-plus--maths--2007--sample-paper-1/section-1-question-16-00.png "blackheath-high-school--11-plus--maths--2007--sample-paper-1/section-1-question-16-00.png")
 
@@ -66,7 +66,7 @@ The shaded **rectangle** has area $12 \ \text{cm}^2$.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-On this grid draw a different a **different rectangle** with area $12 \ \text{cm}^2$ (rotations are not allowed).
+On this grid draw a different a different rectangle with area $12 \ \text{cm}^2$ (rotations are not allowed).
 
 ![blackheath-high-school--11-plus--maths--2007--sample-paper-1/section-1-question-16-subquestion-1-00.png](/assets/blackheath-high-school--11-plus--maths--2007--sample-paper-1/section-1-question-16-subquestion-1-00.png "blackheath-high-school--11-plus--maths--2007--sample-paper-1/section-1-question-16-subquestion-1-00.png")
 
@@ -78,7 +78,7 @@ On this grid draw a different a **different rectangle** with area $12 \ \text{cm
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-On this grid draw a **triangle** with area $6 \ \text{cm}^2$.
+On this grid draw a triangle with area $6 \ \text{cm}^2$.
 
 </div>
 
@@ -88,7 +88,7 @@ On this grid draw a **triangle** with area $6 \ \text{cm}^2$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -151,7 +151,7 @@ What is the area of the shaded part of the rectangle below?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -176,7 +176,7 @@ Write the two remaining lengths on the diagram.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Find the **perimeter** of the T shape. State the units.
+Find the perimeter of the T shape. State the units.
 
 </div>
 
@@ -186,7 +186,7 @@ Find the **perimeter** of the T shape. State the units.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Find the **area** of the T shape, showing how you did it.
+Find the area of the T shape, showing how you did it.
 
 State the units.
 
@@ -198,7 +198,7 @@ State the units.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -207,10 +207,10 @@ Work out the perimeter and area of the following shape:
 
 ![city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1/section-2-question-6-00.png](/assets/city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1/section-2-question-6-00.png "city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1/section-2-question-6-00.png")
 
--  P = $9 \ \text{cm}, \ A = 14 \ \text{cm}^2$
--  P = $14 \ \text{cm}, \ A = 18 \ \text{cm}^2$
--  P = $18 \ \text{cm}, \ A = 14 \ \text{cm}^2$
--  P = $18 \ \text{cm}^2, \ A = 14 \ \text{cm}$
+-  $P = 9 \ \text{cm}, \ A = 14 \ \text{cm}^2$
+-  $P = 14 \ \text{cm}, \ A = 18 \ \text{cm}^2$
+-  $P = 18 \ \text{cm}, \ A = 14 \ \text{cm}^2$
+-  $P = 18 \ \text{cm}^2, \ A = 14 \ \text{cm}$
 
 </div>
 
@@ -278,7 +278,7 @@ What is the area of the shaded parallelogram?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -291,7 +291,7 @@ What is the area of the shaded parallelogram?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Find the **surface area** of a cuboid which measures $2\ \text{cm}$ by $3\ \text{cm}$ by $7\ \text{cm}$. Include the units in your answer.
+Find the surface area of a cuboid which measures $2\ \text{cm}$ by $3\ \text{cm}$ by $7\ \text{cm}$. Include the units in your answer.
 
 ![city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-11-subquestion-1-00.png](/assets/city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-11-subquestion-1-00.png "city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-11-subquestion-1-00.png")
 
@@ -313,7 +313,7 @@ Find the volume of the cuboid.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -328,7 +328,7 @@ The diagram below shows two overlapping rectangles.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Calculate the area of the $\bold{\underline{larger\:\: rectangle}}$ only.
+Calculate the area of the larger rectangle only.
 
 </div>
 
@@ -338,7 +338,7 @@ Calculate the area of the $\bold{\underline{larger\:\: rectangle}}$ only.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Calculate the $\bold{\underline{total}}$ shaded area that the rectangles cover.
+Calculate the total shaded area that the rectangles cover.
 
 </div>
 
@@ -348,14 +348,14 @@ Calculate the $\bold{\underline{total}}$ shaded area that the rectangles cover.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-The diagram below shows a rectangle and a square. The diagrams are **not** drawn to scale.
+The diagram below shows a rectangle and a square. The diagrams are not drawn to scale.
 
-![city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-12-00.png](/assets/city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-12-00.png "city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-12-00.png")   ![city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-12-01.png](/assets/city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-12-01.png "city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-12-01.png")
+![city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-12-00.png](/assets/city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-12-00.png "city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-12-00.png")
 
 If they have equal perimeters, what is the difference in their area? 
 
@@ -480,12 +480,12 @@ A rectangle has perimeter $32 \ \text{cm}$. The rectangle is three times as long
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-The floor or a room is $3 \ \text{metres}$ wide and $4 \ \text{metres}$ long.
+The floor of a room is $3 \ \text{metres}$ wide and $4 \ \text{metres}$ long.
 I am going to tile the floor with tiles that are $25 \ \text{centimetres}$ wide and $50 \ \text{centimetres}$ long.
 How many tiles do I need to buy?
 
@@ -588,7 +588,7 @@ Which shape could have been reflected to create shape $Y$?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -625,7 +625,7 @@ What is the length of the worktop? Give your answer in metres $(\text{m})$.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the perimeter of the worktop? Give your answer in metre $(\text{m})$.
+What is the perimeter of the worktop? Give your answer in metres $(\text{m})$.
 
 </div>
 
@@ -645,7 +645,7 @@ What is the area of the worktop? Give your answer in square metres $(\text{m}^2)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -682,7 +682,7 @@ Errol paints the cube all over. What area in $\text{cm}^2$ does he paint?
 
 Errol now uses a saw to cut the cube in two along the dotted line shown.
 
-What fraction of the area of the two new blocks is **not** painted?
+What fraction of the area of the two new blocks is not painted?
 
 ![csse--11-plus--maths--2017--sample-paper-4/section-1-question-14-subquestion-3-00.png](/assets/csse--11-plus--maths--2017--sample-paper-4/section-1-question-14-subquestion-3-00.png "csse--11-plus--maths--2017--sample-paper-4/section-1-question-14-subquestion-3-00.png")
 
@@ -847,7 +847,7 @@ What is the perimeter of the shape above?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -896,7 +896,7 @@ Find the combined perimeter of all triangles that have been cut from the rectang
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Convert this distance from milimetres into meters.
+Convert this distance from $\text{millimetres}$ into $\text{meters}$.
 
 </div>
 
@@ -906,7 +906,7 @@ Convert this distance from milimetres into meters.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -942,7 +942,7 @@ Work out the area of the lawn.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Louis wants to put a stone path around the edge of the garden, just **inside** the existing perimeter fence. 
+Louis wants to put a stone path around the edge of the garden, just inside the existing perimeter fence. 
 Each paving slab is a square with sides $1 \ \text{metre}$.
 
 Work out how many paving slabs are needed to complete this path.
@@ -968,7 +968,7 @@ If he takes $3 \dfrac{1}{2}$ hours to finish the job, work out his overall fee.
 <div class='question subquestion'>
 
 Louis then decides to plant a row of bushes around the inside of the stone path. Each bush is to be planted $25 \ \text{cm}$ from 
-the edge of the path, and  $50 \ \text{cm}$m from its neighbouring bushes. The diagram below displays how this might look near a 
+the edge of the path, and  $50 \ \text{cm}$ from its neighbouring bushes. The diagram below displays how this might look near a 
 corner of the garden.
 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-b/section-1-question-15-subquestion-5-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-b/section-1-question-15-subquestion-5-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-b/section-1-question-15-subquestion-5-00.png")
@@ -983,7 +983,7 @@ Calculate how many bushes are required to complete this in total.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1022,7 +1022,7 @@ Calculate the length of one of the tiles.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Work out the perimeter of one of the tiles, giving your answer **in metres**. 
+Work out the perimeter of one of the tiles, giving your answer in metres. 
 
 </div>
 

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedsubtraction-1"
 title: "TopicPaper - Detailedsubtraction - 1"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "40"
 ---
 <div class='paper'>
@@ -418,10 +418,10 @@ $125$
 
 $7.62 - 2.34 =$
 
-- 5.28
-- 5.32
-- 5.31
-- 5.29
+- $5.28$
+- $5.32$
+- $5.31$
+- $5.29$
 
 </div>
 <div class='workings'>
@@ -462,10 +462,10 @@ $5.28$
 
 $-9 + 7 =$
 
-- -16
-- 2
-- -2
-- 16
+- $-16$
+- $2$
+- $-2$
+- $16$
 
 </div>
 <div class='workings'>
@@ -1481,17 +1481,17 @@ $417$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-What is $842 - 658$ ? 
+What is $842 - 658?$
 
-A: $184$ 
+- $184$ 
 
-B: $194$ 
+- $194$ 
 
-C: $294$ 
+- $294$ 
 
-D: $284$ 
+- $284$ 
 
-E: $394$
+- $394$
 
 </div>
 <div class='workings'>

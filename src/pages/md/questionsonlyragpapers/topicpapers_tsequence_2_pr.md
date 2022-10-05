@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tsequence-2-pr"
 title: "TopicPaper - Sequence - 2 - PR"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "21"
 ---
 <ul class='question default-decimal'>
@@ -34,14 +34,14 @@ $1.15 \quad 2.1 \quad 3.05 \quad 4.0 \quad \ldots$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 To get the next number in the sequence you multiply by three and add one.
 
-$3 \quad 10 \quad 31 \quad 94$
+$3 \quad 10 \quad 31 \quad 94 \quad \ldots \quad \ldots$
 
 What is the $6^\text{th}$ number in the sequence?
 
@@ -50,14 +50,14 @@ What is the $6^\text{th}$ number in the sequence?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the $5^\text{th}$ term in this sequence?
 
-$871 \quad  794 \quad  717 \quad \text{\textunderscore \textunderscore \textunderscore} \quad \text{\textunderscore \textunderscore \textunderscore}$
+$871 \quad  794 \quad  717 \quad \ldots \quad \ldots$
 
 </div>
 
@@ -145,7 +145,7 @@ $3, \quad 6, \quad 12, \quad \text{\textunderscore \textunderscore \textundersco
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -183,7 +183,8 @@ Complete the missing numbers in the circles and triangles.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Identify the pattern that links the other numbers in each row. 
+Identify the pattern that links the other numbers to the hexagonal numbers in each row. 
+
 Write one of the four arithmetic symbols ($+, -, \times, \div$) in each of the two gaps either side of the circle, to complete 
 the following formula linking all the numbers in any row of shapes.
 
@@ -464,7 +465,7 @@ $96 , \quad -48 , \quad 24 , \quad -12 , \quad \text{\textunderscore \textunders
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -479,7 +480,7 @@ A set of solid towers are made by adding layers as shown below. The shape is sol
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-How many cubes are needed to build tower number $2$?
+How many cubes are needed to build tower number $2?$
 
 </div>
 
@@ -489,7 +490,7 @@ How many cubes are needed to build tower number $2$?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-How many cubes are needed to build tower number $3$?
+How many cubes are needed to build tower number $3?$
 
 </div>
 
@@ -499,7 +500,7 @@ How many cubes are needed to build tower number $3$?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Without drawing it, how many cubes would be needed to build tower number $5$?
+Without drawing it, how many cubes would be needed to build tower number $5?$
 
 </div>
 
@@ -519,7 +520,7 @@ Which tower number would contain $120$ cubes?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -544,8 +545,8 @@ Fill in the next two lines of the pattern.
 
 $
 \begin{aligned}
-\text{\textunderscore \textunderscore} + \text{\textunderscore \textunderscore} &= \text{\textunderscore \textunderscore} \\
-\text{\textunderscore \textunderscore} + \text{\textunderscore \textunderscore} &= \text{\textunderscore \textunderscore}
+\ldots + \ldots &= \ldots \\
+\ldots + \ldots &= \ldots
 \end{aligned}
 $
 
@@ -559,11 +560,7 @@ $
 
 Complete the following line which comes later in the pattern.
 
-$
-\begin{aligned}
-\text{\textunderscore \textunderscore} + \text{\textunderscore \textunderscore} &= 121
-\end{aligned}
-$
+$\ldots + \ldots = 121$
 
 </div>
 
@@ -638,7 +635,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -653,10 +650,7 @@ A rule for a number sequence is ‘multiply by $2$ and subtract $7$’
 
 Write down the next number in the sequence.
 
-$
-8 \rightarrow 9 \rightarrow 11 \rightarrow 15 \rightarrow
-\text{\textunderscore \textunderscore \textunderscore}
-$
+$8 \rightarrow 9 \rightarrow 11 \rightarrow 15 \rightarrow \ldots$
 
 </div>
 
@@ -669,10 +663,7 @@ $
 Here is part of another number sequence with the same rule.
 Write down the first number which is missing.
 
-$
-\text{\textunderscore \textunderscore \textunderscore} 
-\rightarrow 17 \rightarrow 27 \rightarrow 47 \rightarrow 87
-$
+$\ldots \rightarrow 17 \rightarrow 27 \rightarrow 47 \rightarrow 87$
 
 </div>
 

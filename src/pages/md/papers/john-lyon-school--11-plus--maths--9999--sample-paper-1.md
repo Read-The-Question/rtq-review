@@ -1,7 +1,7 @@
 ---
 slug: "papers/john-lyon-school-11-plus-maths-9999-sample-paper-1"
 title: "John Lyon School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "25"
 ---
 <div class='paper'>
@@ -592,7 +592,7 @@ $155 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -609,26 +609,49 @@ ABBR: $\text {Speed} = \dfrac {\text{Distance}} {\text{Time}}$
 
 $
 \begin{aligned}
-\text{Speed}  &= \dfrac{45 \text{ kilometres}}{3 \text{ hours}} \\\\
-              &= \dfrac{45 \text{ kilometres}}{3 \times 60 \text{ minutes}} \\\\
-              &= \dfrac{45}{3 \times 60} \\\\
-              &= \dfrac{\cancel{15} \times \cancel{3}}{\cancel{3} \times \cancel{15} \times 4} \\\\
-              &= \dfrac{1}{4} \\\\
-              &= 0.25 \text{ kilometres/minute} \\\\
-              &= 0.25 \times 1000 \text{ metres/minute} \\\\
-              &= 250 \text{ metres/minute} \\\\
+\text{Speed}  &= \dfrac{45}{3} \\\\
+              &= \dfrac{15 \times 3}{3} \\\\
+              &= \dfrac{15 \times \cancel{3}}{\cancel{3}} \\\\
+              &= 15 \text{ kilometres/hour} \\\\
+              &= 15 \times \dfrac{1000}{60} \text{ metres/minute} \\\\
+              &= \dfrac{15 \times 1000}{60} \\\\
+              &= \dfrac{15 \times 250 \times 4}{15 \times 4} \\\\
+              &= \dfrac{\cancel{15} \times 250 \times \cancel{4}}{\cancel{15} \times \cancel{4}} \\\\
+              &= 250 \text{ metres/minute}
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text{Time taken}  &=  \dfrac{1500 \text{ metres}}{250 \text{ metres/minute}} \\\\
-                   &=  \dfrac{1500}{250} \\\\
+\text{Time taken}  &=  \dfrac{1500}{250} \\\\
                    &=  \dfrac{150\cancel{0}}{25\cancel{0}} \\\\
                    &=  \dfrac{150}{25} \\\\
                    &=  \dfrac{5 \times 5 \times 6}{5 \times 5} \\\\
                    &=  \dfrac{\cancel{5} \times \cancel{5} \times 6}{\cancel{5} \times \cancel{5}} \\\\
                    &=  6 \text{ minutes}
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+Alternative solution
+
+ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
+
+
+Let the time taken in minutes $= t$
+
+$
+\begin{aligned}
+\dfrac{1500}{t}  &= \dfrac{45 \text{ kilometres}}{3 \text{ hours}} \\\\
+\dfrac{1500}{t}  &= \dfrac{45 \times 1000 \text{ metres}}{3 \times 60 \text{ minutes}} \\\\
+\dfrac{1500}{t}  &= \dfrac{45 \times 1000}{3 \times 60}\\\\
+\dfrac{1500}{t}  &= \dfrac{45000}{180}  \\\\
+t                &= \dfrac{180 \times 1500}{45000}  \\\\
+t                &= \dfrac{3 \times 6 \times 10 \times 15 \times 100}{3 \times 15 \times 10 \times 100}  \\\\
+t                &= \dfrac{\cancel{3} \times 6 \times \cancel{10} \times \cancel{15} \times \cancel{100}}{\cancel{3} \times \cancel{15} \times \cancel{10} \times \cancel{100}} \\\\
+t                &= 6 \text{ minutes}
 \end{aligned}
 $
 
@@ -645,7 +668,7 @@ $6 \text{ minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -653,30 +676,8 @@ $6 \text{ minutes}$
 For each set of numbers put a circle around the smallest number and underline the largest number. 
 
 </div>
-<div class='workings'>
-<div class='working placeholder'>
 
-TODOWORKING
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -686,26 +687,23 @@ $2.506    \quad 2.56    \quad 2.006    \quad 2.056    \quad 2.6$
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Smallest number $= 2.006$
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+Largest number $= 2.6$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+Smallest $=$ $2.006$
 
 </div>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+Largest $=$ $2.6$
 
 </div>
 </div>
@@ -720,26 +718,32 @@ $\dfrac{1}{4} \quad \dfrac{6}{7} \quad \dfrac{7}{8} \quad \dfrac{8}{9} \quad \df
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Let's convert all the numbers into decimals.
 
-</div>
-<div class='working placeholder'>
+$
+\begin{aligned}
+&= \dfrac{1}{4}, \quad \dfrac{6}{7}, \quad \dfrac{7}{8}, \quad \dfrac{8}{9}, \quad \dfrac{1}{5} \\\\
+&= 0.25, \quad 0.857, \quad 0.875, \quad 0.\overline{8}, \quad 0.2
+\end{aligned}
+$
 
-TODOWORKING
+Smallest number $= 0.2 = \dfrac{1}{5}$
+
+Largest number $= 0.\overline{8} = \dfrac{8}{9}$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+Smallest $=$ $\dfrac{1}{5}$
 
 </div>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+Largest $=$ $\dfrac{8}{9}$
 
 </div>
 </div>
@@ -754,26 +758,32 @@ $\dfrac{9}{20} \quad 0.55 \quad \dfrac{3}{5} \quad 0.25 \quad \dfrac{53}{100}$
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Let's convert all the numbers into decimals.
 
-</div>
-<div class='working placeholder'>
+$
+\begin{aligned}
+&= \dfrac{9}{20}, \quad 0.55, \quad \dfrac{3}{5}, \quad 0.25, \quad \dfrac{53}{100} \\\\
+&= 0.45, \quad 0.55, \quad 0.6, \quad 0.25, \quad 0.53
+\end{aligned}
+$
 
-TODOWORKING
+Smallest number $= 0.25$
+
+Largest number $= 0.6 = \dfrac{3}{5}$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+Smallest $=$ $0.25$
 
 </div>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+Largest $=$ $\dfrac{3}{5}$
 
 </div>
 </div>
@@ -794,26 +804,33 @@ $
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Let's convert all the units to $\text {cm}$.
 
-</div>
-<div class='working placeholder'>
+$
+\begin{aligned}
+&= 28 \ \text{cm}, \quad \dfrac{1}{5} \ \text{m}, \quad 2600 \ \text{mm}, \quad 0.28 \ \text{m}, \quad 25 \ \text{cm} \\\\
+&= 28 \ \text{cm}, \quad \dfrac{100}{5} \ \text{cm}, \quad \dfrac{2600}{10} \ \text{cm}, \quad 0.28 \times 100 \ \text{cm}, \quad 25 \ \text{cm} \\\\
+&= 28 \ \text{cm}, \quad 20 \ \text{cm}, \quad 260 \ \text{cm}, \quad 28 \ \text{cm}, \quad 25 \ \text{cm}
+\end{aligned}
+$
 
-TODOWORKING
+Smallest $= 20 \ \text{cm} = \dfrac{1}{5} \ \text{m}$
+
+Largest $= 260 \ \text{cm} = 2600 \ \text{mm}$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+Smallest $=$ $\dfrac{1}{5} \ \text{m}$
 
 </div>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+Largest $=$ $2600 \ \text{mm}$
 
 </div>
 </div>
@@ -1063,7 +1080,7 @@ $\dfrac {20} {25}, \dfrac {16} {20}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1124,8 +1141,8 @@ How many people scored **more** than two goals?
 
 $
 \begin {aligned}
-\text {Number of people socred more than two goals}     &= 19 + 13 + 7 + 2 \\\\
-                                                        &= 41
+\text {Number of people}    &= 19 + 13 + 7 + 2 \\\\
+                            &= 41
 \end {aligned}
 $
 
@@ -1153,8 +1170,8 @@ How many people took part in the competition?
 
 $
 \begin {aligned}
-\text {Number of people took part}      &= 9 + 15 + 22 + 19 + 13 + 7 + 2 \\\\
-                                        &= 87
+\text {Total number of people}      &= 9 + 15 + 22 + 19 + 13 + 7 + 2 \\\\
+                                    &= 87
 \end {aligned}
 $
 
@@ -1182,9 +1199,9 @@ How many goals were scored altogether?
 
 $
 \begin {aligned}
-\text {Total number of goals scored}    &= 9 \times 0 + 15 \times 1 + 22 \times 2 + 19 \times 3 + 13 \times 4 + 7 \times 5 + 2 \times 6 \\\\
-                                        &= 0 + 15 + 44 + 57 + 52 + 35 + 12 \\\\
-                                        &= 215
+\text {Total goals scored}      &= 9 \times 0 + 15 \times 1 + 22 \times 2 + 19 \times 3 + 13 \times 4 + 7 \times 5 + 2 \times 6 \\\\
+                                &= 0 + 15 + 44 + 57 + 52 + 35 + 12 \\\\
+                                &= 215
 \end {aligned}
 $
 
@@ -1762,7 +1779,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

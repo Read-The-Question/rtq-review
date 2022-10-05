@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-ttable-2-pr"
 title: "TopicPaper - Table - 2 - PR"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -53,26 +53,16 @@ D                   ,               ,$\pounds 190$  ,$\pounds 160$  ,$\pounds 17
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -214,7 +204,7 @@ $\pounds 122$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -242,8 +232,8 @@ Let's complete the table.
 
 | $4$                                    | $8$                                   | $9$                                    |
 |:---------:                             |:---------:                            |:---------:                             |
-| $21 - 4 - 5 = 12 \ \footnotesize{(3)}$ | $7$                                   | $21 - 12 - 7 = 2 \ \footnotesize{(4)}$ |
-| $21 - 9 - 7 = 5 \ \footnotesize{(2)}$  | $21 - 8 - 7 = 6 \ \footnotesize{(1)}$ | $21 - 9 - 2 = 10 \ \footnotesize{(5)}$ |
+| $21 - 4 - 5 = 12 \ \maroonC{\footnotesize{(3)}}$ | $7$                                   | $21 - 12 - 7 = 2 \ \maroonC{\footnotesize{(4)}}$ |
+| $21 - 9 - 7 = 5 \ \maroonC{\footnotesize{(2)}}$  | $21 - 8 - 7 = 6 \ \maroonC{\footnotesize{(1)}}$ | $21 - 9 - 2 = 10 \ \maroonC{\footnotesize{(5)}}$ |
 
 </div>
 </div>
@@ -261,7 +251,7 @@ Let's complete the table.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -374,7 +364,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -487,7 +477,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -530,7 +520,7 @@ Let's complete the table.
 
 | Number of cars            | $1$     | $2$                       | $3$                                                 | $4$                                                 |
 |-----------------------    |-----    |-----                      |-----                                                |-----                                                |
-| Number of motorcycles     | $6$     | $10 \ \footnotesize{(1)}$ | $4 \times 3 + 2 = 12 + 2 = 14 \ \footnotesize{(2)}$ | $4 \times 4 + 2 = 16 + 2 = 18 \ \footnotesize{(3)}$ |
+| Number of motorcycles     | $6$     | $10 \ \maroonC{\footnotesize{(1)}}$ | $4 \times 3 + 2 = 12 + 2 = 14 \ \maroonC{\footnotesize{(2)}}$ | $4 \times 4 + 2 = 16 + 2 = 18 \ \maroonC{\footnotesize{(3)}}$ |
 
 </div>
 </div>
@@ -702,7 +692,7 @@ Number of motorcycles = $8 \times$ Number of cars $+ 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -859,7 +849,7 @@ $3.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1072,7 +1062,7 @@ $9316$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1098,11 +1088,11 @@ Let's complete the table.
 | First Number                                    | Second Number                       | Numbers Added  Together               | Number Multiplied Together              |
 |:------------:                                   |---------------                      |:-----------------------:              |:--------------------------:             |
 |      $4$                                        |      $7$                            |           $11$                        |            $28$                         |
-|      $5$                                        |      $12$                           | $12 + 5 = 17 \ \footnotesize{(1)}$    | $5 \times 12 = 60 \ \footnotesize{(2)}$ |
-|      $9$                                        | $16 - 9 = 7 \ \footnotesize{(3)}$   |           $16$                        | $9 \times 7 = 63 \ \footnotesize{(4)}$  |
-| $\dfrac {1000} {20} = 500 \ \footnotesize{(5)}$ |      $20$                           | $500 + 20 = 520 \ \footnotesize{(6)}$ |           $1000$                        |
-| $15 \ \footnotesize{(7)}$                       | $18 - 15 = 3 \ \footnotesize{(8)}$  |           $18$                        |            $45$                         |
-| $12 \ \footnotesize{(9)}$                       | $20 - 12 = 8 \ \footnotesize{(10)}$ |           $20$                        |            $96$                         |
+|      $5$                                        |      $12$                           | $12 + 5 = 17 \ \maroonC{\footnotesize{(1)}}$    | $5 \times 12 = 60 \ \maroonC{\footnotesize{(2)}}$ |
+|      $9$                                        | $16 - 9 = 7 \ \maroonC{\footnotesize{(3)}}$   |           $16$                        | $9 \times 7 = 63 \ \maroonC{\footnotesize{(4)}}$  |
+| $\dfrac {1000} {20} = 500 \ \maroonC{\footnotesize{(5)}}$ |      $20$                           | $500 + 20 = 520 \ \maroonC{\footnotesize{(6)}}$ |           $1000$                        |
+| $15 \ \maroonC{\footnotesize{(7)}}$                       | $18 - 15 = 3 \ \maroonC{\footnotesize{(8)}}$  |           $18$                        |            $45$                         |
+| $12 \ \maroonC{\footnotesize{(9)}}$                       | $20 - 12 = 8 \ \maroonC{\footnotesize{(10)}}$ |           $20$                        |            $96$                         |
 
 </div>
 </div>
@@ -1124,7 +1114,7 @@ Let's complete the table.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

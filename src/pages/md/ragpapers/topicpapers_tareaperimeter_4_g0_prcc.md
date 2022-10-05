@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-4-g0-prcc"
 title: "TopicPaper - Areaperimeter - 4 - G0 - PRCC"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "19"
 ---
 <ul class='question default-decimal'>
@@ -113,19 +113,19 @@ $85 \ \text{cm} ^ 2$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-What is the area of the shaded shape below? **[Diagram not to scale]**
+What is the area of the shaded shape below? [Diagram not to scale]
 
 ![latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-12-00.png](/assets/latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-12-00.png "latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-12-00.png") 
 
-A: $41 \ \text{cm}^2$ 
+- $41 \ \text{cm}^2$ 
 
-B: $49 \ \text{cm}^2$ 
+- $49 \ \text{cm}^2$ 
 
-C: $56 \ \text{cm}^2$ 
+- $56 \ \text{cm}^2$ 
 
-D: $89 \ \text {cm}^2$ 
+- $89 \ \text {cm}^2$ 
 
-E: $\text{More information needed}$
+- More information needed
 
 </div>
 <div class='workings'>
@@ -173,19 +173,19 @@ $41 \ \text {cm}^2$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-What is the area of the shaded triangle below? **[Diagram not to scale]**
+What is the area of the shaded triangle below? [Diagram not to scale]
 
 ![latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-18-00.png](/assets/latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-18-00.png "latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-18-00.png") 
 
-A: $42 \ \text{cm}^2$ 
+- $42 \ \text{cm}^2$ 
 
-B: $14 \ \text{cm}^2$ 
+- $14 \ \text{cm}^2$ 
 
-C: $28 \ \text{cm}^2$ 
+- $28 \ \text{cm}^2$ 
 
-D: $24.5 \ \text{cm}^2$ 
+- $24.5 \ \text{cm}^2$ 
 
-E: $17.5 \ \text{cm}^2$
+- $17.5 \ \text{cm}^2$
 
 </div>
 <div class='workings'>
@@ -238,7 +238,7 @@ $14 \ \text {cm}^2$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Sid the spider goes for a walk around the whole perimeter of the shape below, starting at the point marked A. How far does he have to walk? 
+Sid the spider goes for a walk around the whole perimeter of the shape below, starting at the point marked $A$. How far does he have to walk? 
 
 ![latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-26-00.png](/assets/latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-26-00.png "latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-26-00.png")
 

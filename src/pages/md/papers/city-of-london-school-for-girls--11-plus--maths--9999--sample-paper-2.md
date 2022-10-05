@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-school-for-girls-11-plus-maths-9999-sample-paper-2"
 title: "City Of London School For Girls - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "48"
 ---
 <div class='paper'>
@@ -173,7 +173,7 @@ TODOANSWER
 
 Write down the temperatures shown by these thermometers
 
-![city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-5-00.png](/assets/city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-5-00.png "city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-5-00.png")   ![city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-5-01.png](/assets/city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-5-01.png "city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-5-01.png")
+![city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-5-00.png](/assets/city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-5-00.png "city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-5-00.png")
 
 </div>
 <div class='workings'>
@@ -741,7 +741,7 @@ TODOANSWER
 
 Here are two shapes:
 
-![city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-12-00.png](/assets/city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-12-00.png "city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-12-00.png")    ![city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-12-01.png](/assets/city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-12-01.png "city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-12-01.png")
+![city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-12-00.png](/assets/city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-12-00.png "city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-12-00.png")
 
 </div>
 <div class='workings'>

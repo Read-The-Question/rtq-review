@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2010-arithmetic-1"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2010 - Arithmetic 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "20"
 ---
 <div class='paper'>
@@ -453,7 +453,7 @@ Total CDs = 7 + 3
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -472,23 +472,17 @@ ABBR: It is really important to use the right units in calculations and convert 
 
 $
 \begin{aligned}
-\text{Time taken by jackie}   &= 13 \ \text{minutes} - 30 \text{s} - 30 \text{s} \\\\
-                              &= 13 \ \text{minutes} - 60 \text{s} \\\\
+\text{Time taken by Jackie}   &= 13 \ \text{minutes} - 30 \ \text{seconds} - 30 \ \text{seconds} \\\\
+                              &= 13 \ \text{minutes} - 60 \ \text{seconds} \\\\
                               &= 13 \ \text{minutes} - 1 \ \text{minute} \\\\
                               &= 12 \ \text{minutes} \\\\
-                              &= \dfrac {12} {60} \ \text{hours} \\\\
-                              &= \dfrac {12} {12 \times 5} \\\\
-                              &= \dfrac {\cancel{12}} {\cancel{12} \times 5} \\\\
-                              &= \dfrac {1}{5} \ \text{hours} 
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Speed}      &= \dfrac {3 \text{ km}} {\dfrac{1}{5} \text{ hours}} \\\\
-                  &= \dfrac {3} {\dfrac{1}{5}} \\\\
-                  &= 3 \times 5 \\\\
-                  &= 15 \text{ km/hour}
+\text{Speed}                  &= \dfrac {3 \text{ kilometres}} {12 \ \text{minutes}} \\\\
+                              &= \dfrac {3 \times 60 \text{ kilometres}} {12 \ \text{hours}} \\\\
+                              &= \dfrac {3 \times 60} {12} \\\\
+                              &= \dfrac {3 \times 12 \times 5} {12} \\\\
+                              &= \dfrac {3 \times \cancel{12} \times 5} {\cancel{12}} \\\\
+                              &= 3 \times 5 \\\\
+                              &= 15 \text{ kilometres per hour}
 \end{aligned}
 $
 
@@ -497,7 +491,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$15 \text{ km/hour}$
+$15 \text{ kilometres per hour}$
 
 </div>
 </div>
@@ -586,7 +580,7 @@ $\dfrac {13} {20}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -822,7 +816,7 @@ $20 \ \text{coins}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -853,7 +847,7 @@ $
 \end{aligned}
 $
 
-The number in the middle $= \dfrac{3}{4}$ 
+Number in the middle $= \dfrac{3}{4}$ 
 
 </div>
 </div>

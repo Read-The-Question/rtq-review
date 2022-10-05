@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2013-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2013 - Group 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "40"
 ---
 <div class='paper'>
@@ -308,7 +308,7 @@ $0.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -328,12 +328,9 @@ The next term is calculated by adding $8$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+8)} } 
-&&  \footnotesize {\maroonC
- {(+8)} }  
-&&  \footnotesize {\maroonC
- {(+8)} } \\
+&   \footnotesize {\maroonC {(+8)} } 
+&&  \footnotesize {\maroonC {(+8)} }  
+&&  \footnotesize {\maroonC {(+8)} } \\
 45,  &&    53,  &&   \ldots,  &&   69
 \end{matrix}
 $
@@ -1523,7 +1520,7 @@ $\pounds 12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1531,20 +1528,8 @@ $\pounds 12$
 %empty%
 
 </div>
-<div class='workings'>
-<div class='working placeholder'>
 
-TODOWORKING
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -1556,16 +1541,26 @@ Draw all lines of symmetry on each shape below.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Draw all lines of symmetry on each shape below.
+
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -1582,16 +1577,26 @@ Reflect the shaded shape in the dashed line.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Reflect the shaded shape in the dashed line.
+
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -1610,16 +1615,16 @@ What time is it?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+$7{:}15$ a.m
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+$7{:}15$ a.m
 
 </div>
 </div>
@@ -2654,7 +2659,7 @@ $0.85 \text{ kg}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2883,7 +2888,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2901,16 +2906,26 @@ Fill in the table below to show this information.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Let's complete the table.
+
+|         |  Can drive                           |  Can't drive                          |   Total                                                                  |
+|:-----:  |:--------------:                      |:---------------:                      |:--------:                                                                |
+| Males   | $30 \ \footnotesize{(3)}$            | $40 - 22 = 18 \ \footnotesize{(8)}$   | $18 + 30 = 48 \ \footnotesize{(9)}$                                      |
+| Females | $80 - 30 = 50 \ \footnotesize{(6)}$  | $72 - 50 - 22 \ \footnotesize{(7)}$   | $\dfrac {3} {5} \times 120 = \dfrac {360} {5} = 72 \ \footnotesize{(2)}$ |
+| Total   | $120 - 40 = 80 \ \footnotesize{(5)}$ | $40 \ \footnotesize{(4)}$             | $120 \ \footnotesize{(1)}$                                               |
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+|         |  Can drive      |  Can't drive    |   Total  |
+|:-----:  |:--------------: |:---------------:|:--------:|
+| Males   | $30$            | $18$            | $48$     |
+| Females | $50$            | $22$            | $72$     |
+| Total   | $80$            | $40$            | $120$    |
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsequence-4"
 title: "TopicPaper - Sequence - 4"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "40"
 ---
 <div class='paper'>
@@ -16,7 +16,7 @@ questions_count: "40"
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -56,16 +56,11 @@ The next term is calculated by subtracting $3$ from the previous term. Hence, th
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(-3)}}
-&&  \footnotesize{\maroonC
-{(-3)}}
-&&  \footnotesize{\maroonC
-{(-3)}}
-&&  \footnotesize{\maroonC
-{(-3)}}
-&&  \footnotesize{\maroonC
-{(-3)}}  \\
+&   \footnotesize{\maroonC{(-3)}}
+&&  \footnotesize{\maroonC{(-3)}}
+&&  \footnotesize{\maroonC{(-3)}}
+&&  \footnotesize{\maroonC{(-3)}}
+&&  \footnotesize{\maroonC{(-3)}}  \\
 20,  &&    17,  &&  14,  &&   \ldots,  &&   \ldots, && \ldots
 \end {matrix}
 $
@@ -120,20 +115,13 @@ It is a sequence of square numbers.
 
 $
 \begin {matrix}
-    \footnotesize{\maroonC
-{(1^2)}}
-&&  \footnotesize{\maroonC
-{(2^2)}}
-&&  \footnotesize{\maroonC
-{(3^2)}}
-&&  \footnotesize{\maroonC
-{(4^2)}}
-&&  \footnotesize{\maroonC
-{(5^2)}}
-&&  \footnotesize{\maroonC
-{(6^2)}}
-&&  \footnotesize{\maroonC
-{(7^2)}}  \\\\
+    \footnotesize{\maroonC{(1^2)}}
+&&  \footnotesize{\maroonC{(2^2)}}
+&&  \footnotesize{\maroonC{(3^2)}}
+&&  \footnotesize{\maroonC{(4^2)}}
+&&  \footnotesize{\maroonC{(5^2)}}
+&&  \footnotesize{\maroonC{(6^2)}}
+&&  \footnotesize{\maroonC{(7^2)}}  \\\\
 1,  &&    4,  &&  9,  &&   16,  && \ldots,  &&   \ldots, && \ldots
 \end {matrix}
 $
@@ -186,22 +174,14 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(+1)}}
-&&  \footnotesize{\maroonC
-{(+2)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+7)}}
-&&  \footnotesize{\maroonC
-{(+8)}}  \\
+&   \footnotesize{\maroonC{(+1)}}
+&&  \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+7)}}
+&&  \footnotesize{\maroonC{(+8)}}  \\
 5,  &&    6,  &&  8,  &&   11,  &&  15,  &&  20,  && \ldots,  &&   \ldots, && \ldots
 \end {matrix}
 $
@@ -243,7 +223,7 @@ $41$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -289,7 +269,7 @@ $61$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -394,7 +374,7 @@ $n^2 = 2n + (n-1) \times (n-2) + (n - 2)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -434,14 +414,10 @@ The next term is calculated by adding $3$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}  \\
+&   \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}  \\
 5, && 8, && 11, && \ldots, && \ldots
 \end{matrix}
 $
@@ -489,14 +465,10 @@ The next term is calculated by multiplying the previous term by $2$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}  \\
+&   \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}  \\
 4, && 8, && 16, && \ldots, && \ldots
 \end{matrix}
 $
@@ -544,14 +516,10 @@ The next term is calculated by subtracting $10$ from the previous term. Hence, t
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-10)}}
-&&  \footnotesize{\maroonC
-{(-10)}}
-&&  \footnotesize{\maroonC
-{(-10)}}
-&&  \footnotesize{\maroonC
-{(-10)}}  \\
+&   \footnotesize{\maroonC{(-10)}}
+&&  \footnotesize{\maroonC{(-10)}}
+&&  \footnotesize{\maroonC{(-10)}}
+&&  \footnotesize{\maroonC{(-10)}}  \\
 100, && 90, && 80, && \ldots, && \ldots
 \end{matrix}
 $
@@ -586,7 +554,7 @@ $60$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -683,7 +651,7 @@ $441$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -723,14 +691,10 @@ The next term is calculated by adding $2$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+2)}}
-&&  \footnotesize{\maroonC
-{(+2)}}
-&&  \footnotesize{\maroonC
-{(+2)}}
-&&  \footnotesize{\maroonC
-{(+2)}}  \\
+&   \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+2)}}  \\
 1, && 3, && 5, && \ldots, && \ldots
 \end{matrix}
 $
@@ -776,18 +740,12 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+2)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+8)}}
-&&  \footnotesize{\maroonC
-{(+10)}}
-&&  \footnotesize{\maroonC
-{(+12)}}  \\
+&   \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+8)}}
+&&  \footnotesize{\maroonC{(+10)}}
+&&  \footnotesize{\maroonC{(+12)}}  \\
 1, && 3, && 7, && 13, && \ldots, && \ldots, && 43
 \end{matrix}
 $
@@ -833,20 +791,13 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+1)}}
-&&  \footnotesize{\maroonC
-{(-2)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(+7)}}  \\
+&   \footnotesize{\maroonC{(+1)}}
+&&  \footnotesize{\maroonC{(-2)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(-6)}}
+&&  \footnotesize{\maroonC{(+7)}}  \\
 1, && 2, && 0, && 3, && -1, && 4, && \ldots, && \ldots
 \end{matrix}
 $
@@ -881,7 +832,7 @@ $5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1067,7 +1018,7 @@ $130$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1105,18 +1056,12 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(+1)}}
-&&  \footnotesize{\maroonC
-{(+2)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+6)}}  \\
+&   \footnotesize{\maroonC{(+1)}}
+&&  \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(+6)}}  \\
 2,  &&    3,  &&  5,  &&   8,  &&   \ldots, && \ldots,  &&  23
 \end {matrix}
 $
@@ -1164,16 +1109,11 @@ The next term is calculated by subtracting $6$ from the previous term. Hence, th
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(-6)}}  \\
+&   \footnotesize{\maroonC{(-6)}}
+&&  \footnotesize{\maroonC{(-6)}}
+&&  \footnotesize{\maroonC{(-6)}}
+&&  \footnotesize{\maroonC{(-6)}}
+&&  \footnotesize{\maroonC{(-6)}}  \\
 35,  &&    29,  &&  23,  &&   \ldots,  &&   \ldots, && 5
 \end {matrix}
 $
@@ -1222,14 +1162,10 @@ The next term is calculated by dividing the previous term by $10$. Hence, the se
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(\div 10)}}
-&&  \footnotesize{\maroonC
-{(\div 10)}}
-&&  \footnotesize{\maroonC
-{(\div 10)}}
-&&  \footnotesize{\maroonC
-{(\div 10)}}  \\
+&   \footnotesize{\maroonC{(\div 10)}}
+&&  \footnotesize{\maroonC{(\div 10)}}
+&&  \footnotesize{\maroonC{(\div 10)}}
+&&  \footnotesize{\maroonC{(\div 10)}}  \\
 1000,  &&    100,  &&  10, &&   \ldots, && \ldots
 \end {matrix}
 $
@@ -1264,7 +1200,7 @@ $0.10$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1305,14 +1241,10 @@ The next term is calculated by multiplying the previous term by $2$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 2)}} 
-&&  \footnotesize{\maroonC
-{(\times 2)}}  
-&&  \footnotesize{\maroonC
-{(\times 2)}}   
-&&  \footnotesize{\maroonC
-{(\times 2)}}  \\
+&   \footnotesize{\maroonC{(\times 2)}} 
+&&  \footnotesize{\maroonC{(\times 2)}}  
+&&  \footnotesize{\maroonC{(\times 2)}}   
+&&  \footnotesize{\maroonC{(\times 2)}}  \\
 \ldots,  &&      6,  &&      12,   &&      24,  &&      \ldots 
 \end{matrix}
 $
@@ -1360,14 +1292,10 @@ The next term is calculated by adding $3$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+3)}} 
-&&  \footnotesize{\maroonC
-{(+3)}}  
-&&  \footnotesize{\maroonC
-{(+3)}}   
-&&  \footnotesize{\maroonC
-{(+3)}}  \\
+&   \footnotesize{\maroonC{(+3)}} 
+&&  \footnotesize{\maroonC{(+3)}}  
+&&  \footnotesize{\maroonC{(+3)}}   
+&&  \footnotesize{\maroonC{(+3)}}  \\
 4,  &&      \ldots , &&      10,   &&      13,  &&      \ldots 
 \end{matrix}
 $
@@ -1415,14 +1343,10 @@ The next term is calculated by dividing the previous term by $2$. Hence, the seq
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\div 2)}} 
-&&  \footnotesize{\maroonC
-{(\div 2)}} 
-&&  \footnotesize{\maroonC
-{(\div 2)}}   
-&&  \footnotesize{\maroonC
-{(\div 2)}}  \\
+&   \footnotesize{\maroonC{(\div 2)}} 
+&&  \footnotesize{\maroonC{(\div 2)}} 
+&&  \footnotesize{\maroonC{(\div 2)}}   
+&&  \footnotesize{\maroonC{(\div 2)}}  \\
 \ldots,  &&      16,  &&      8,   &&      4,  &&      \ldots
 \end{matrix}
 $
@@ -1470,14 +1394,10 @@ The next term is calculated by subtracting $3$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-3)}} 
-&&  \footnotesize{\maroonC
-{(-3)}}  
-&&  \footnotesize{\maroonC
-{(-3)}}   
-&&  \footnotesize{\maroonC
-{(-3)}}  \\
+&   \footnotesize{\maroonC{(-3)}} 
+&&  \footnotesize{\maroonC{(-3)}}  
+&&  \footnotesize{\maroonC{(-3)}}   
+&&  \footnotesize{\maroonC{(-3)}}  \\
 \ldots,  &&      6 , &&      3,   &&      0,  &&      -3
 \end{matrix}
 $
@@ -1505,7 +1425,7 @@ $9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1546,16 +1466,11 @@ The next term is calculated by adding $0.3$ to the previous term. Hence, the seq
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(+0.3)}}
-&&  \footnotesize{\maroonC
-{(+0.3)}}
-&&  \footnotesize{\maroonC
-{(+0.3)}}
-&&  \footnotesize{\maroonC
-{(+0.3)}}
-&&  \footnotesize{\maroonC
-{(+0.3)}}  \\
+&   \footnotesize{\maroonC{(+0.3)}}
+&&  \footnotesize{\maroonC{(+0.3)}}
+&&  \footnotesize{\maroonC{(+0.3)}}
+&&  \footnotesize{\maroonC{(+0.3)}}
+&&  \footnotesize{\maroonC{(+0.3)}}  \\
 -2.0,  &&   -1.7,  &&   -1.4,  &&   -1.1,  &&   \ldots,  &&   \ldots
 \end {matrix}
 $
@@ -1603,16 +1518,11 @@ The next term is calculated by subtracting $4$ from the previous term. Hence, th
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}  \\
+&   \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}  \\
 15,  &&   11,  &&   7,  &&   3,  &&   \ldots,  &&   \ldots
 \end {matrix}
 $
@@ -1660,16 +1570,11 @@ The next term is calculated by adding $\dfrac {3} {5}$ to the previous term. Hen
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(+ \dfrac {3} {5})}}
-&&  \footnotesize{\maroonC
-{(+ \dfrac {3} {5})}}
-&&  \footnotesize{\maroonC
-{(+ \dfrac {3} {5})}}
-&&  \footnotesize{\maroonC
-{(+ \dfrac {3} {5})}}
-&&  \footnotesize{\maroonC
-{(+ \dfrac {3} {5})}}  \\
+&   \footnotesize{\maroonC{(+ \dfrac {3} {5})}}
+&&  \footnotesize{\maroonC{(+ \dfrac {3} {5})}}
+&&  \footnotesize{\maroonC{(+ \dfrac {3} {5})}}
+&&  \footnotesize{\maroonC{(+ \dfrac {3} {5})}}
+&&  \footnotesize{\maroonC{(+ \dfrac {3} {5})}}  \\
 0,  &&   \dfrac {3} {5},  &&   1 \dfrac {1} {5},  &&   1 \dfrac {4} {5},  &&   \ldots,  &&   \ldots
 \end {matrix}
 $
@@ -1723,16 +1628,11 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+7)}}
-&&  \footnotesize{\maroonC
-{(+9)}}
-&&  \footnotesize{\maroonC
-{(+11)}}  \\
+&   \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(+7)}}
+&&  \footnotesize{\maroonC{(+9)}}
+&&  \footnotesize{\maroonC{(+11)}}  \\
 5,  &&   8,  &&   13,  &&   20,  &&   \ldots,  &&   \ldots
 \end {matrix}
 $
@@ -1767,7 +1667,7 @@ $40$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1807,16 +1707,11 @@ The next term is calculated by adding $6$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}  \\
+&   \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}  \\
 5,  &&   11,  &&  17,  &&   23,  &&   \ldots, && \ldots
 \end{matrix}
 $
@@ -1864,16 +1759,11 @@ The next term is calculated by subtracting $7$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-7)}}
-&&  \footnotesize{\maroonC
-{(-7)}}
-&&  \footnotesize{\maroonC
-{(-7)}}
-&&  \footnotesize{\maroonC
-{(-7)}}
-&&  \footnotesize{\maroonC
-{(-7)}}  \\
+&   \footnotesize{\maroonC{(-7)}}
+&&  \footnotesize{\maroonC{(-7)}}
+&&  \footnotesize{\maroonC{(-7)}}
+&&  \footnotesize{\maroonC{(-7)}}
+&&  \footnotesize{\maroonC{(-7)}}  \\
 52,  &&   45,  &&  38,  &&   31,  &&   \ldots, && \ldots
 \end{matrix}
 $
@@ -1921,16 +1811,11 @@ The next term is calculated by multiplying the previous term by $2$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}  \\
+&   \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}  \\
 1,  &&   2,  &&  4,  &&   8,  &&   \ldots, && \ldots
 \end{matrix}
 $
@@ -1976,16 +1861,11 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+7)}}
-&&  \footnotesize{\maroonC
-{(+9)}}
-&&  \footnotesize{\maroonC
-{(+11)}}
-&&  \footnotesize{\maroonC
-{(+13)}}  \\
+&   \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(+7)}}
+&&  \footnotesize{\maroonC{(+9)}}
+&&  \footnotesize{\maroonC{(+11)}}
+&&  \footnotesize{\maroonC{(+13)}}  \\
 3,  &&   8,  &&  15,  &&   24,  &&   \ldots, && \ldots
 \end{matrix}
 $
@@ -2020,7 +1900,7 @@ $48$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2060,18 +1940,12 @@ The next term is calculated by adding $6$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+6)}} 
-&&  \footnotesize{\maroonC
-{(+6)}}  
-&&  \footnotesize{\maroonC
-{(+6)}}   
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}} \\
+&   \footnotesize{\maroonC{(+6)}} 
+&&  \footnotesize{\maroonC{(+6)}}  
+&&  \footnotesize{\maroonC{(+6)}}   
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}} \\
 3,  &&    9,  &&  15,  &&   21,  &&   27, &&   33,  && \ldots
 \end{matrix}
 $
@@ -2110,16 +1984,11 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+3)}} 
-&&  \footnotesize{\maroonC
-{(+5)}}  
-&&  \footnotesize{\maroonC
-{(+7)}}   
-&&  \footnotesize{\maroonC
-{(+9)}}
-&&  \footnotesize{\maroonC
-{(+11)}} \\
+&   \footnotesize{\maroonC{(+3)}} 
+&&  \footnotesize{\maroonC{(+5)}}  
+&&  \footnotesize{\maroonC{(+7)}}   
+&&  \footnotesize{\maroonC{(+9)}}
+&&  \footnotesize{\maroonC{(+11)}} \\
 2,  &&    5,  &&  10,  &&   17,  &&   26, && \ldots
 \end{matrix}
 $
@@ -2160,16 +2029,11 @@ The next term is calculated by multiplying the previous term by $\dfrac {9} {10}
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\times \dfrac{9} {10})}} 
-&&  \footnotesize{\maroonC
-{(\times \dfrac{9} {10})}}  
-&&  \footnotesize{\maroonC
-{(\times \dfrac{9} {10})}}
-&&  \footnotesize{\maroonC
-{(\times \dfrac{9} {10})}}   
-&&  \footnotesize{\maroonC
-{(\times \dfrac{9} {10})}}  \\
+&   \footnotesize{\maroonC{(\times \dfrac{9} {10})}} 
+&&  \footnotesize{\maroonC{(\times \dfrac{9} {10})}}  
+&&  \footnotesize{\maroonC{(\times \dfrac{9} {10})}}
+&&  \footnotesize{\maroonC{(\times \dfrac{9} {10})}}   
+&&  \footnotesize{\maroonC{(\times \dfrac{9} {10})}}  \\
 1000,  &&    900,  &&  810,  &&   730,  &&   660, && \ldots
 \end{matrix}
 $
@@ -2200,7 +2064,7 @@ $594$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2240,18 +2104,12 @@ The next term is calculated by adding $4$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}  \\
+&   \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}  \\
 5, && 9, && 13, && 17, && 21, && \ldots, && \ldots
 \end{matrix}
 $
@@ -2297,18 +2155,12 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-1)}}
-&&  \footnotesize{\maroonC
-{(-2)}}
-&&  \footnotesize{\maroonC
-{(-3)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-5)}}
-&&  \footnotesize{\maroonC
-{(-6)}}  \\
+&   \footnotesize{\maroonC{(-1)}}
+&&  \footnotesize{\maroonC{(-2)}}
+&&  \footnotesize{\maroonC{(-3)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-5)}}
+&&  \footnotesize{\maroonC{(-6)}}  \\
 14, && 13, && 11, && 8, && 4, && \ldots, && \ldots
 \end{matrix}
 $
@@ -2352,33 +2204,25 @@ $3, 5, 9, 17, 33, \text{\textunderscore \textunderscore \textunderscore}, \text{
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-Each consecutive term is calculated by multiplying the previous term by $2$ and subtracted by $1$.
-
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 2 - 1)}}
-&&  \footnotesize{\maroonC
-{(\times 2 - 1)}}
-&&  \footnotesize{\maroonC
-{(\times 2 - 1)}}
-&&  \footnotesize{\maroonC
-{(\times 2 - 1)}}
-&&  \footnotesize{\maroonC
-{(\times 2 - 1)}}
-&&  \footnotesize{\maroonC
-{(\times 2 - 1)}}  \\
+&   \footnotesize{\maroonC{(+ 2 ^ 1)}}
+&&  \footnotesize{\maroonC{(+ 2 ^ 2)}}
+&&  \footnotesize{\maroonC{(+ 2 ^ 3)}}
+&&  \footnotesize{\maroonC{(+ 2 ^ 4)}}
+&&  \footnotesize{\maroonC{(+ 2 ^ 5)}}
+&&  \footnotesize{\maroonC{(+ 2 ^ 6)}}  \\
 3, && 5, && 9, && 17, && 33, && \ldots, && \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{First missing number}     &= 33 \times 2 - 1 \\\\
-                                &= 66 - 1 \\\\
+\text{First missing number}     &= 33 + 2 ^ 5 \\\\
+                                &= 33 + 32 \\\\
                                 &= 65 \\\\
-\text{Second missing number}    &= 65 \times 2 - 1 \\\\
-                                &= 130 - 1 \\\\
+\text{Second missing number}    &= 65 + 2 ^ 6 \\\\
+                                &= 65 + 64 \\\\
                                 &= 129
 \end{aligned}
 $
@@ -2417,20 +2261,13 @@ It is a sequence of square numbers.
 
 $
 \begin {matrix}
-    \footnotesize{\maroonC
-{(1^2)}}
-&&  \footnotesize{\maroonC
-{(2^2)}}
-&&  \footnotesize{\maroonC
-{(3^2)}}
-&&  \footnotesize{\maroonC
-{(4^2)}}
-&&  \footnotesize{\maroonC
-{(5^2)}}
-&&  \footnotesize{\maroonC
-{(6^2)}}
-&&  \footnotesize{\maroonC
-{(7^2)}}  \\\\
+    \footnotesize{\maroonC{(1^2)}}
+&&  \footnotesize{\maroonC{(2^2)}}
+&&  \footnotesize{\maroonC{(3^2)}}
+&&  \footnotesize{\maroonC{(4^2)}}
+&&  \footnotesize{\maroonC{(5^2)}}
+&&  \footnotesize{\maroonC{(6^2)}}
+&&  \footnotesize{\maroonC{(7^2)}}  \\\\
 1, && 4, && 9, && 16, && 25, && \ldots, && \ldots
 \end {matrix}
 $
@@ -2478,18 +2315,12 @@ The next term is calculated by dividing the previous term by $2$. Hence, the seq
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\div 2)}}
-&&  \footnotesize{\maroonC
-{(\div 2)}}
-&&  \footnotesize{\maroonC
-{(\div 2)}}
-&&  \footnotesize{\maroonC
-{(\div 2)}}
-&&  \footnotesize{\maroonC
-{(\div 2)}}
-&&  \footnotesize{\maroonC
-{(\div 2)}}  \\
+&   \footnotesize{\maroonC{(\div 2)}}
+&&  \footnotesize{\maroonC{(\div 2)}}
+&&  \footnotesize{\maroonC{(\div 2)}}
+&&  \footnotesize{\maroonC{(\div 2)}}
+&&  \footnotesize{\maroonC{(\div 2)}}
+&&  \footnotesize{\maroonC{(\div 2)}}  \\
 32, && 16, && 8, && 4, &&  2, && \ldots, && \ldots
 \end{matrix}
 $
@@ -2538,18 +2369,12 @@ The next term is calculated by adding together the last two terms. Hence, the se
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(1 + 2)}}
-&&  \footnotesize{\maroonC
-{(2 + 3)}}
-&&  \footnotesize{\maroonC
-{(3 + 5)}}
-&&  \footnotesize{\maroonC
-{(5 + 8)}}
-&&  \footnotesize{\maroonC
-{(8 + 13)}}
-&&  \footnotesize{\maroonC
-{(13 + 21)}}  \\
+&   \footnotesize{\maroonC{(1 + 2)}}
+&&  \footnotesize{\maroonC{(2 + 3)}}
+&&  \footnotesize{\maroonC{(3 + 5)}}
+&&  \footnotesize{\maroonC{(5 + 8)}}
+&&  \footnotesize{\maroonC{(8 + 13)}}
+&&  \footnotesize{\maroonC{(13 + 21)}}  \\
 2, && 3, && 5, && 8, && 13, && \ldots, && \ldots
 \end{matrix}
 $
@@ -2584,7 +2409,7 @@ $34$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2624,20 +2449,13 @@ The next term is calculated by adding $4$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}  \\
+&   \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}  \\
 3,  &&    7,  &&  11,  &&   15,  &&   19,  && \ldots,  && \ldots, && \ldots
 \end{matrix}
 $
@@ -2690,20 +2508,13 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+9)}}
-&&  \footnotesize{\maroonC
-{(+18)}}
-&&  \footnotesize{\maroonC
-{(+36)}}
-&&  \footnotesize{\maroonC
-{(+72)}}
-&&  \footnotesize{\maroonC
-{(+144)}}
-&&  \footnotesize{\maroonC
-{(+288)}}
-&&  \footnotesize{\maroonC
-{(+576)}}  \\
+&   \footnotesize{\maroonC{(+9)}}
+&&  \footnotesize{\maroonC{(+18)}}
+&&  \footnotesize{\maroonC{(+36)}}
+&&  \footnotesize{\maroonC{(+72)}}
+&&  \footnotesize{\maroonC{(+144)}}
+&&  \footnotesize{\maroonC{(+288)}}
+&&  \footnotesize{\maroonC{(+576)}}  \\
 8,  &&    17,  &&  35,  &&   71,  &&   143,  && \ldots,  && \ldots, && \ldots
 \end{matrix}
 $
@@ -2803,20 +2614,13 @@ The next term is calculated by adding $4$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+13)}}
-&&  \footnotesize{\maroonC
-{(+13 + 9)}}
-&&  \footnotesize{\maroonC
-{(+22 + 9 \times 2)}}
-&&  \footnotesize{\maroonC
-{(+40 + 18 \times 2)}}
-&&  \footnotesize{\maroonC
-{(+76 + 36 \times 2)}}
-&&  \footnotesize{\maroonC
-{(+148 + 72 \times 2)}}
-&&  \footnotesize{\maroonC
-{(+292 + 144 \times 2)}}  \\
+&   \footnotesize{\maroonC{(+13)}}
+&&  \footnotesize{\maroonC{(+13 + 9)}}
+&&  \footnotesize{\maroonC{(+22 + 9 \times 2)}}
+&&  \footnotesize{\maroonC{(+40 + 18 \times 2)}}
+&&  \footnotesize{\maroonC{(+76 + 36 \times 2)}}
+&&  \footnotesize{\maroonC{(+148 + 72 \times 2)}}
+&&  \footnotesize{\maroonC{(+292 + 144 \times 2)}}  \\
 11,  &&    24,  &&  46,  &&   86,  &&   162,  && \ldots,  && \ldots, && \ldots
 \end{matrix}
 $
@@ -2861,7 +2665,7 @@ $1182$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2901,16 +2705,11 @@ The next term is calculated by adding $4$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}  \\
+&   \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}  \\
 3,  &&    7,  &&  11,  &&   15,  &&   19, && \ldots
 \end{matrix}
 $
@@ -2951,18 +2750,12 @@ It is a sequence of square numbers.
 
 $
 \begin {matrix}
-    \footnotesize{\maroonC
-{(2^2)}}
-&&  \footnotesize{\maroonC
-{(3^2)}}
-&&  \footnotesize{\maroonC
-{(4^2)}}
-&&  \footnotesize{\maroonC
-{(5^2)}}
-&&  \footnotesize{\maroonC
-{(6^2)}}
-&&  \footnotesize{\maroonC
-{(7^2)}}  \\\\
+    \footnotesize{\maroonC{(2^2)}}
+&&  \footnotesize{\maroonC{(3^2)}}
+&&  \footnotesize{\maroonC{(4^2)}}
+&&  \footnotesize{\maroonC{(5^2)}}
+&&  \footnotesize{\maroonC{(6^2)}}
+&&  \footnotesize{\maroonC{(7^2)}}  \\\\
 4,  &&  9,  &&   16,  && 25,  &&   36, && \ldots
 \end {matrix}
 $
@@ -3001,16 +2794,11 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(-8)}}
-&&  \footnotesize{\maroonC
-{(-10)}}
-&&  \footnotesize{\maroonC
-{(-12)}}  \\
+&   \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-6)}}
+&&  \footnotesize{\maroonC{(-8)}}
+&&  \footnotesize{\maroonC{(-10)}}
+&&  \footnotesize{\maroonC{(-12)}}  \\
 23,  &&    19,  &&  13,  &&   5,  &&   -5, && \ldots
 \end{matrix}
 $
@@ -3038,7 +2826,7 @@ $-17$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3216,7 +3004,7 @@ $16$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3237,20 +3025,13 @@ As per the question, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{ \maroonC
-{ (\div 2) } }
-&&  \footnotesize{ \maroonC
-{ (\div 2) } }
-&&  \footnotesize{ \maroonC
-{ (\div 2) } }
-&&  \footnotesize{ \maroonC
-{ (\div 2) } }
-&&  \footnotesize{ \maroonC
-{ (\div 2) } }
-&&  \footnotesize{ \maroonC
-{ (\div 2) } }
-&&  \footnotesize{ \maroonC
-{ (\div 2) } }  \\
+&   \footnotesize{ \maroonC{ (\div 2) } }
+&&  \footnotesize{ \maroonC{ (\div 2) } }
+&&  \footnotesize{ \maroonC{ (\div 2) } }
+&&  \footnotesize{ \maroonC{ (\div 2) } }
+&&  \footnotesize{ \maroonC{ (\div 2) } }
+&&  \footnotesize{ \maroonC{ (\div 2) } }
+&&  \footnotesize{ \maroonC{ (\div 2) } }  \\
 \ldots, && \ldots, && \ldots, && 12, && 6, && 3, && \ldots,  && \ldots
 \end{matrix}
 $
@@ -3303,7 +3084,7 @@ $0.75$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3339,7 +3120,7 @@ $123$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3575,7 +3356,7 @@ $0.16, 0.032$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3615,18 +3396,12 @@ The next term is calculated by adding $7$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+7)}} 
-&&  \footnotesize{\maroonC
-{(+7)}}  
-&&  \footnotesize{\maroonC
-{(+7)}}   
-&&  \footnotesize{\maroonC
-{(+7)}}
-&&  \footnotesize{\maroonC
-{(+7)}}
-&&  \footnotesize{\maroonC
-{(+7)}}  \\
+&   \footnotesize{\maroonC{(+7)}} 
+&&  \footnotesize{\maroonC{(+7)}}  
+&&  \footnotesize{\maroonC{(+7)}}   
+&&  \footnotesize{\maroonC{(+7)}}
+&&  \footnotesize{\maroonC{(+7)}}
+&&  \footnotesize{\maroonC{(+7)}}  \\
 3,  &&    10,  &&  17,  &&   24,  &&   31, &&   \ldots,  && \ldots
 \end{matrix}
 $
@@ -3674,18 +3449,12 @@ The next term is calculated by multiplying the previous term by $3$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 3)}} 
-&&  \footnotesize{\maroonC
-{(\times 3)}}  
-&&  \footnotesize{\maroonC
-{(\times 3)}}   
-&&  \footnotesize{\maroonC
-{(\times 3)}}
-&&  \footnotesize{\maroonC
-{(\times 3)}}
-&&  \footnotesize{\maroonC
-{(\times 3)}}  \\
+&   \footnotesize{\maroonC{(\times 3)}} 
+&&  \footnotesize{\maroonC{(\times 3)}}  
+&&  \footnotesize{\maroonC{(\times 3)}}   
+&&  \footnotesize{\maroonC{(\times 3)}}
+&&  \footnotesize{\maroonC{(\times 3)}}
+&&  \footnotesize{\maroonC{(\times 3)}}  \\
 1,  &&    3,  &&  9,  &&   27,  &&   81, &&   \ldots,  && \ldots
 \end{matrix}
 $
@@ -3731,18 +3500,12 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+1)}} 
-&&  \footnotesize{\maroonC
-{(+2)}}  
-&&  \footnotesize{\maroonC
-{(+4)}}   
-&&  \footnotesize{\maroonC
-{(+8)}}
-&&  \footnotesize{\maroonC
-{(+16)}}
-&&  \footnotesize{\maroonC
-{(+32)}}  \\
+&   \footnotesize{\maroonC{(+1)}} 
+&&  \footnotesize{\maroonC{(+2)}}  
+&&  \footnotesize{\maroonC{(+4)}}   
+&&  \footnotesize{\maroonC{(+8)}}
+&&  \footnotesize{\maroonC{(+16)}}
+&&  \footnotesize{\maroonC{(+32)}}  \\
 3,  &&    4,  &&  6,  &&   10,  &&   18, &&   \ldots,  && \ldots
 \end{matrix}
 $
@@ -3791,18 +3554,12 @@ The next term is calculated by adding together the last two terms. Hence, the se
 $
 \begin{matrix}
 &
-&&  \footnotesize {\maroonC
- {(1 + 1)} }
-&&  \footnotesize {\maroonC
- {(1 + 2)} }
-&&  \footnotesize {\maroonC
- {(2 + 3)} }
-&&  \footnotesize {\maroonC
- {(3 + 5)} }
-&&  \footnotesize {\maroonC
- {(5 + 8)} }
-&&  \footnotesize {\maroonC
- {(8 + 13)} }  \\
+&&  \footnotesize {\maroonC {(1 + 1)} }
+&&  \footnotesize {\maroonC {(1 + 2)} }
+&&  \footnotesize {\maroonC {(2 + 3)} }
+&&  \footnotesize {\maroonC {(3 + 5)} }
+&&  \footnotesize {\maroonC {(5 + 8)} }
+&&  \footnotesize {\maroonC {(8 + 13)} }  \\
 1,  &&  1, &&  2, &&  3, &&  5,  &&  8,  && \ldots, && \ldots
 \end{matrix}
 $
@@ -3837,7 +3594,7 @@ $21$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3877,18 +3634,12 @@ The next term is calculated by adding $6$ to the previous term. Hence, the seque
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}  \\
+&   \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}  \\
 -1,  &&    7,  &&  13,  &&   19,  &&  25, &&  \ldots, && \ldots
 \end {matrix}
 $
@@ -3936,18 +3687,12 @@ The next term is calculated by multiplying the previous term by $2$. Hence, the 
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}  \\
+&   \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}  \\
 -1,  &&    2,  &&  4,  &&   8,  &&  16, &&  \ldots, && \ldots
 \end {matrix}
 $
@@ -3993,18 +3738,12 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+7)}}
-&&  \footnotesize{\maroonC
-{(+9)}}
-&&  \footnotesize{\maroonC
-{(+11)}}
-&&  \footnotesize{\maroonC
-{(+13)}}  \\
+&   \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(+7)}}
+&&  \footnotesize{\maroonC{(+9)}}
+&&  \footnotesize{\maroonC{(+11)}}
+&&  \footnotesize{\maroonC{(+13)}}  \\
 1,  &&    4,  &&  9,  &&   16,  &&  25, &&  \ldots, && \ldots
 \end {matrix}
 $
@@ -4052,18 +3791,12 @@ The next term is calculated by adding $3$ times more to the difference between t
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(+3^0)}}
-&&  \footnotesize{\maroonC
-{(+3^1)}}
-&&  \footnotesize{\maroonC
-{(+3^2)}}
-&&  \footnotesize{\maroonC
-{(+3^3)}}
-&&  \footnotesize{\maroonC
-{(+3^4)}}
-&&  \footnotesize{\maroonC
-{(+3^5)}}  \\
+&   \footnotesize{\maroonC{(+3^0)}}
+&&  \footnotesize{\maroonC{(+3^1)}}
+&&  \footnotesize{\maroonC{(+3^2)}}
+&&  \footnotesize{\maroonC{(+3^3)}}
+&&  \footnotesize{\maroonC{(+3^4)}}
+&&  \footnotesize{\maroonC{(+3^5)}}  \\
 1,  &&    2,  &&  5,  &&   14,  &&  41, &&  \ldots, && \ldots
 \end {matrix}
 $
@@ -4102,7 +3835,7 @@ $365$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -4142,18 +3875,12 @@ The next term is calculated by adding $5$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+5)} }
-&&  \footnotesize {\maroonC
- {(+5)} }
-&&  \footnotesize {\maroonC
- {(+5)} }
-&&  \footnotesize {\maroonC
- {(+5)} }
-&&  \footnotesize {\maroonC
- {(+5)} }
-&&  \footnotesize {\maroonC
- {(+5)} }  \\
+&   \footnotesize {\maroonC {(+5)} }
+&&  \footnotesize {\maroonC {(+5)} }
+&&  \footnotesize {\maroonC {(+5)} }
+&&  \footnotesize {\maroonC {(+5)} }
+&&  \footnotesize {\maroonC {(+5)} }
+&&  \footnotesize {\maroonC {(+5)} }  \\
 64,  &&    69,  &&  74, &&  79,     &&  84,  &&   \ldots, && \ldots
 \end{matrix}
 $
@@ -4201,18 +3928,12 @@ The next term is calculated by subtracting $15$ from the previous term. Hence, t
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(-15)} }
-&&  \footnotesize {\maroonC
- {(-15)} }
-&&  \footnotesize {\maroonC
- {(-15)} }
-&&  \footnotesize {\maroonC
- {(-15)} }
-&&  \footnotesize {\maroonC
- {(-15)} }
-&&  \footnotesize {\maroonC
- {(-15)} }  \\
+&   \footnotesize {\maroonC {(-15)} }
+&&  \footnotesize {\maroonC {(-15)} }
+&&  \footnotesize {\maroonC {(-15)} }
+&&  \footnotesize {\maroonC {(-15)} }
+&&  \footnotesize {\maroonC {(-15)} }
+&&  \footnotesize {\maroonC {(-15)} }  \\
 64,  &&    49,  &&  34, &&  19,     &&  4,  &&   \ldots, && \ldots
 \end{matrix}
 $
@@ -4260,18 +3981,12 @@ The next term is calculated by dividing the previous term by $2$. Hence, the seq
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }  \\
+&   \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }  \\
 64,  &&    32,  &&  16, &&  8,     &&  4,  &&   \ldots, && \ldots
 \end{matrix}
 $
@@ -4319,18 +4034,12 @@ The next term is calculated by dividing the previous term by $4$. Hence, the seq
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(\div 4)} }
-&&  \footnotesize {\maroonC
- {(\div 4)} }
-&&  \footnotesize {\maroonC
- {(\div 4)} }
-&&  \footnotesize {\maroonC
- {(\div 4)} }
-&&  \footnotesize {\maroonC
- {(\div 4)} }
-&&  \footnotesize {\maroonC
- {(\div 4)} }  \\
+&   \footnotesize {\maroonC {(\div 4)} }
+&&  \footnotesize {\maroonC {(\div 4)} }
+&&  \footnotesize {\maroonC {(\div 4)} }
+&&  \footnotesize {\maroonC {(\div 4)} }
+&&  \footnotesize {\maroonC {(\div 4)} }
+&&  \footnotesize {\maroonC {(\div 4)} }  \\
 64,  &&    16,  &&  4, &&  1,   &&  \dfrac {1} {4},  &&   \ldots, && \ldots
 \end{matrix}
 $
@@ -4367,7 +4076,7 @@ $\dfrac {1} {64}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -4511,7 +4220,7 @@ $0.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -4551,18 +4260,12 @@ The next term is calculated by multiplying the previous term by $2$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}  \\
+&   \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}  \\
 3, && 6, && 12, && 24, && 48, && \ldots, && \ldots 
 \end{matrix}
 $
@@ -4608,18 +4311,12 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-1)}}
-&&  \footnotesize{\maroonC
-{(-2)}}
-&&  \footnotesize{\maroonC
-{(-3)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-5)}}
-&&  \footnotesize{\maroonC
-{(-6)}}  \\
+&   \footnotesize{\maroonC{(-1)}}
+&&  \footnotesize{\maroonC{(-2)}}
+&&  \footnotesize{\maroonC{(-3)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-5)}}
+&&  \footnotesize{\maroonC{(-6)}}  \\
 58, && 57, && 55, && 52, && 48, && \ldots, && \ldots 
 \end{matrix}
 $
@@ -4654,7 +4351,7 @@ $37$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -4694,18 +4391,12 @@ The next term is calculated by adding $3$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}  \\
+&   \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}  \\
 7, && 10, && \ldots, && 16, && 19, && \ldots, && 25
 \end{matrix}
 $
@@ -4753,18 +4444,12 @@ The next term is calculated by dividing the previous term by $2$. Hence, the seq
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\div 2)}}
-&&  \footnotesize{\maroonC
-{(\div 2)}}
-&&  \footnotesize{\maroonC
-{(\div 2)}}
-&&  \footnotesize{\maroonC
-{(\div 2)}}
-&&  \footnotesize{\maroonC
-{(\div 2)}}
-&&  \footnotesize{\maroonC
-{(\div 2)}}  \\
+&   \footnotesize{\maroonC{(\div 2)}}
+&&  \footnotesize{\maroonC{(\div 2)}}
+&&  \footnotesize{\maroonC{(\div 2)}}
+&&  \footnotesize{\maroonC{(\div 2)}}
+&&  \footnotesize{\maroonC{(\div 2)}}
+&&  \footnotesize{\maroonC{(\div 2)}}  \\
 192, && 96, && 48, && \ldots, && 12, && 6, && \ldots
 \end{matrix}
 $
@@ -4799,7 +4484,7 @@ $3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -4839,16 +4524,11 @@ The next term is calculated by dividing the previous term by $2$. Hence, the seq
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\div 2)}} 
-&&  \footnotesize{\maroonC
-{(\div 2)}}  
-&&  \footnotesize{\maroonC
-{(\div 2)}}   
-&&  \footnotesize{\maroonC
-{(\div 2)}}    
-&&  \footnotesize{\maroonC
-{(\div 2)}}  \\
+&   \footnotesize{\maroonC{(\div 2)}} 
+&&  \footnotesize{\maroonC{(\div 2)}}  
+&&  \footnotesize{\maroonC{(\div 2)}}   
+&&  \footnotesize{\maroonC{(\div 2)}}    
+&&  \footnotesize{\maroonC{(\div 2)}}  \\
 8,  &&    4,  &&  2,  &&   1, &&    \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -4897,16 +4577,11 @@ The next term is calculated by subtracting $6$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-6)}} 
-&&  \footnotesize{\maroonC
-{(-6)}}  
-&&  \footnotesize{\maroonC
-{(-6)}}   
-&&  \footnotesize{\maroonC
-{(-6)}}   
-&&  \footnotesize{\maroonC
-{(-6)}}  \\
+&   \footnotesize{\maroonC{(-6)}} 
+&&  \footnotesize{\maroonC{(-6)}}  
+&&  \footnotesize{\maroonC{(-6)}}   
+&&  \footnotesize{\maroonC{(-6)}}   
+&&  \footnotesize{\maroonC{(-6)}}  \\
 23,  &&    17,  &&  11,  &&   5, &&    \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -4941,7 +4616,7 @@ $-7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -4958,20 +4633,13 @@ As per the question, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
-{(\times 2)}}
-&&  \footnotesize {\maroonC
-{(\times 2)}}
-&&  \footnotesize {\maroonC
-{(\times 2)}}
-&&  \footnotesize {\maroonC
-{(\times 2)}}
-&&  \footnotesize {\maroonC
-{(\times 2)}}
-&&  \footnotesize {\maroonC
-{(\times 2)}}
-&&  \footnotesize {\maroonC
-{(\times 2)}}  \\
+&   \footnotesize {\maroonC{(\times 2)}}
+&&  \footnotesize {\maroonC{(\times 2)}}
+&&  \footnotesize {\maroonC{(\times 2)}}
+&&  \footnotesize {\maroonC{(\times 2)}}
+&&  \footnotesize {\maroonC{(\times 2)}}
+&&  \footnotesize {\maroonC{(\times 2)}}
+&&  \footnotesize {\maroonC{(\times 2)}}  \\
 \ldots ,  &&    \ldots , &&     3, &&   6, &&   12, &&      24, &&      48,  &&  \ldots
 \end{matrix}
 $
@@ -5011,7 +4679,7 @@ $96$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -5257,18 +4925,12 @@ The next term is calculated by adding $15$ to the previous term. Hence, the sequ
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+15)}}
-&&  \footnotesize{\maroonC
-{(+15)}}
-&&  \footnotesize{\maroonC
-{(+15)}}
-&&  \footnotesize{\maroonC
-{(+15)}}
-&&  \footnotesize{\maroonC
-{(+15)}}
-&&  \footnotesize{\maroonC
-{(+15)}}  \\
+&   \footnotesize{\maroonC{(+15)}}
+&&  \footnotesize{\maroonC{(+15)}}
+&&  \footnotesize{\maroonC{(+15)}}
+&&  \footnotesize{\maroonC{(+15)}}
+&&  \footnotesize{\maroonC{(+15)}}
+&&  \footnotesize{\maroonC{(+15)}}  \\
 150,  &&    165,  &&  180,  &&   195,   &&   210,  &&   \ldots, && \ldots
 \end{matrix}
 $
@@ -5295,7 +4957,7 @@ $315$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -5430,7 +5092,7 @@ Z $=$ $400$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -5470,18 +5132,12 @@ The next term is calculated by adding $4$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}  \\
+&   \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}  \\
 3,  &&    7,  &&  11,  &&   15,  &&   \ldots,  &&  \ldots,  && \ldots
 \end{matrix}
 $
@@ -5534,18 +5190,12 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-7)}}
-&&  \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(-5)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-3)}}
-&&  \footnotesize{\maroonC
-{(-2)}}  \\
+&   \footnotesize{\maroonC{(-7)}}
+&&  \footnotesize{\maroonC{(-6)}}
+&&  \footnotesize{\maroonC{(-5)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-3)}}
+&&  \footnotesize{\maroonC{(-2)}}  \\
 53,  &&   46,  &&  40,  &&   35,  &&   \ldots,  &&  \ldots,  && \ldots
 \end{matrix}
 $
@@ -5600,18 +5250,12 @@ The next term is calculated by multiplying the previous term by $2$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}  \\
+&   \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}  \\
 1,  &&    2,  &&  4,  &&   8,  &&   \ldots,  && \ldots, && \ldots
 \end{matrix}
 $
@@ -5653,7 +5297,7 @@ $64$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -5690,7 +5334,7 @@ $0.35$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -5737,7 +5381,7 @@ $65$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -5763,16 +5407,11 @@ The next term is calculated by dividing the previous term by $-3$. Hence, the se
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{\div (-3)}} 
-&&  \footnotesize{\maroonC
-{\div (-3)}}  
-&&  \footnotesize{\maroonC
-{\div (-3)}}   
-&&  \footnotesize{\maroonC
-{\div (-3)}}   
-&&  \footnotesize{\maroonC
-{\div (-3)}}  \\
+&   \footnotesize{\maroonC{\div (-3)}} 
+&&  \footnotesize{\maroonC{\div (-3)}}  
+&&  \footnotesize{\maroonC{\div (-3)}}   
+&&  \footnotesize{\maroonC{\div (-3)}}   
+&&  \footnotesize{\maroonC{\div (-3)}}  \\
 243,  &&    -81,  &&  27,  &&   -9,  &&   \ldots, && \ldots
 \end{matrix}
 $
@@ -5802,7 +5441,7 @@ $3, -1$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -5821,38 +5460,16 @@ Which of these is not part of the sequence?
 <div class='workings'>
 <div class='working'>
 
-As per the question, the sequence would be:
-
-$
-\begin{matrix}
-&  \footnotesize {\maroonC
- {(+1)} }
-&&  \footnotesize {\maroonC
- {(+1)} }
-&&  \footnotesize {\maroonC
- {(+3)} }
-&&  \footnotesize {\maroonC
- {(+6)} }
-&&  \footnotesize {\maroonC
- {(+12)} }
-&&  \footnotesize {\maroonC
- {(+24)} }
-&&  \footnotesize {\maroonC
- {(+48)} }  \\
-1,  &&  2, &&  \ldots, &&  \ldots, &&  \ldots, && \ldots, &&  \ldots, && \ldots
-\end{matrix}
-$
-
-| Pattern number | Value          |
-|----------------|----------------|
-| $3$            | $2 + 1 = 3$    |
-| $4$            | $3 + 3 = 6$    |
-| $5$            | $6 + 6 = 12$   |
-| $6$            | $12 + 12 = 24$ |
-| $7$            | $24 + 24 = 48$ |
-| $8$            | $48 + 48 = 96$ |
-
-As per the table,
+| Term           | Value          |
+|:--------------:|:----------------------------------:|
+| $1$            | $1$                                |
+| $2$            | $2$                                |
+| $3$            | $2 + 1 = 3$                        |
+| $4$            | $3 + 2 + 1 = 6$                    |
+| $5$            | $6 + (3 \ldots 1) = 6 + 6 = 12$    |
+| $6$            | $12 + (6 \ldots 1) = 12 + 12 = 24$ |
+| $7$            | $24 + (12 \ldots 1) = 24 + 24 = 48$|
+| $8$            | $48 + (24 \ldots 1) = 48 + 48 = 96$|
 
 $50$ is not part of the sequence.
 
@@ -5872,7 +5489,7 @@ $50$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -5920,18 +5537,12 @@ The next term is calculated by subtracting $4$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-4)}} 
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}  
-&&  \footnotesize{\maroonC
-{(-4)}}   
-&&  \footnotesize{\maroonC
-{(-4)}}   
-&&  \footnotesize{\maroonC
-{(-4)}}  \\
+&   \footnotesize{\maroonC{(-4)}} 
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}  
+&&  \footnotesize{\maroonC{(-4)}}   
+&&  \footnotesize{\maroonC{(-4)}}   
+&&  \footnotesize{\maroonC{(-4)}}  \\
 13,  &&    9,  &&  5,  &&   1,  &&   -3, && \ldots, && \ldots
 \end{matrix}
 $

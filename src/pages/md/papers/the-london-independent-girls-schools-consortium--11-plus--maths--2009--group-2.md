@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2009-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2009 - Group 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "41"
 ---
 <div class='paper'>
@@ -255,7 +255,7 @@ $\text {E, \ D, \ Z}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -299,16 +299,11 @@ The next term is calculated by adding $9$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+9)} } 
-&&  \footnotesize {\maroonC
- {(+9)} }  
-&&  \footnotesize {\maroonC
- {(+9)} }   
-&&  \footnotesize {\maroonC
- {(+9)} }   
-&&  \footnotesize {\maroonC
- {(+9)} } \\
+&   \footnotesize {\maroonC {(+9)} } 
+&&  \footnotesize {\maroonC {(+9)} }  
+&&  \footnotesize {\maroonC {(+9)} }   
+&&  \footnotesize {\maroonC {(+9)} }   
+&&  \footnotesize {\maroonC {(+9)} } \\
 15,  &&  24,  &&  33,  &&  42,  &&  \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -360,16 +355,11 @@ The next term is calculated by adding $0.3$ to the previous term. Hence, the seq
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+0.3)} } 
-&&  \footnotesize {\maroonC
- {(+0.3)} }  
-&&  \footnotesize {\maroonC
- {(+0.3)} }   
-&&  \footnotesize {\maroonC
- {(+0.3)} }   
-&&  \footnotesize {\maroonC
- {(+0.3)} } \\
+&   \footnotesize {\maroonC {(+0.3)} } 
+&&  \footnotesize {\maroonC {(+0.3)} }  
+&&  \footnotesize {\maroonC {(+0.3)} }   
+&&  \footnotesize {\maroonC {(+0.3)} }   
+&&  \footnotesize {\maroonC {(+0.3)} } \\
 2.2,  &&  2.5,  &&  2.8,  &&  3.1,  &&  \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -421,16 +411,11 @@ The next term is calculated by multiplying the previous term by $3$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(\times 3)} } 
-&&  \footnotesize {\maroonC
- {(\times 3)} }  
-&&  \footnotesize {\maroonC
- {(\times 3)} }   
-&&  \footnotesize {\maroonC
- {(\times 3)} }   
-&&  \footnotesize {\maroonC
- {(\times 3)} } \\
+&   \footnotesize {\maroonC {(\times 3)} } 
+&&  \footnotesize {\maroonC {(\times 3)} }  
+&&  \footnotesize {\maroonC {(\times 3)} }   
+&&  \footnotesize {\maroonC {(\times 3)} }   
+&&  \footnotesize {\maroonC {(\times 3)} } \\
 \dfrac {1} {3},  &&  1,  &&  3,  &&  9,  &&  \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -1982,7 +1967,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2246,7 +2231,7 @@ $225$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2261,26 +2246,26 @@ How many dark chocolate toffees are there?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Let's complete the table.
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+|        |    Milk chocolate                   |   Dark chocolate                   |   Total                             |
+|:-----: |:----------------:                   |:---------------:                   |:--------:                           |
+| Nut    | $5 \ \footnotesize{(2)}$            | $9 - 5 = 4 \ \footnotesize{(6)}$   | $24 - 15 = 9 \ \footnotesize{(5)}$  |
+| Toffee | $14 - 5 = 9 \ \footnotesize{(8)}$   | $10 - 4 = 6 \ \footnotesize{(9)}$  | $15 \ \footnotesize{(4)}$           |
+| Total  | $24 - 10 = 14 \ \footnotesize{(7)}$ | $10 \ \footnotesize{(3)}$          | $24 \ \footnotesize{(1)}$           |
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+|        |    Milk chocolate |   Dark chocolate |   Total  |
+|:-----: |:----------------: |:---------------: |:--------:|
+| Nut    | $5$               | $4$              | $9$      |
+| Toffee | $9$               | $6$              | $15$     |
+| Total  | $14$              | $10$             | $24$     |
 
 </div>
 </div>

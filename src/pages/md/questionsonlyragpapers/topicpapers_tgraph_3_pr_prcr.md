@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tgraph-3-pr-prcr"
 title: "TopicPaper - Graph - 3 - PR - PRCR"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "8"
 ---
 <ul class='question default-decimal'>
@@ -123,9 +123,8 @@ Plot the points $(8, 12)$ and $(5,12)$ on the grid below and join the points up 
 
 Tick the correct statement:
 
-This line is horizontal $\Box$ 
-
-This line is vertical $\Box$
+- This line is horizontal
+- This line is vertical
 
 </div>
 
@@ -210,18 +209,48 @@ If, instead, the vertical line had passed through $20$ on the $x$ axis and you r
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-240 passengers boarded a train in Birmingham. The pie chart shows the percentage of the passengers who travelled to Shrewsbury, Welshpool, Ludlow, Chester and Telford.
+$240$ passengers boarded a train in Birmingham.
 
-%graph%
+The pie chart shows the percentage of the passengers who
+travelled to Shrewsbury, Welshpool, Ludlow, Chester and Telford.
+
+![st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2/section-1-question-33-00.png](/assets/st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2/section-1-question-33-00.png "st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2/section-1-question-33-00.png")
 
 Work out how many passengers travelled to the following three places:
 
-Welshpool………………………………
-Ludlow……………………………..
-Chester…………………………….. 
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Welshpool
 
 </div>
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Ludlow
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Chester
+
+</div>
+
+</div>
+</li>
+</ul>
 </div>
 </li>
 <li>
@@ -238,11 +267,11 @@ Chester……………………………..
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Plot  the   following   points
+Plot the following points.
 
-**(2,4),(-3,1),(-2,-3)** 
+$(2,4),(-3,1),(-2,-3)$
 
-Join  them  to form  a  triangle.
+Join them to form a triangle.
 
 </div>
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2017-sample-paper-8"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2017 - Sample Paper 8"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "30"
 ---
 <div class='paper'>
@@ -497,9 +497,7 @@ $8 - 5 + 2 = 1$
 <div class='workings'>
 <div class='working'>
 
-$8 - \maroonC
- {(} 5 + 2 \maroonC
- {)} = 1$
+$8 - \maroonC {(} 5 + 2 \maroonC {)} = 1$
 
 Let's verify.
 
@@ -536,11 +534,7 @@ $12 - 11 + 2 - 1 = 0$
 <div class='workings'>
 <div class='working'>
 
-$12 - \maroonC
- {(} 11 + \maroonC
- {(} 2 - 1 \maroonC
- {)}\maroonC
- {)} = 0$
+$12 - \maroonC {(} 11 + \maroonC {(} 2 - 1 \maroonC {)}\maroonC {)} = 0$
 
 Let's verify.
 
@@ -870,7 +864,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -890,26 +884,32 @@ How many pupils hadn't yet decided whether to do CCF or carry out SCS next year?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Number of pupils who opt for CCF}             &= 60 \% \text{ of } 150 \\\\
+                                                    &= \dfrac {60} {100} \times 150 \\\\
+                                                    &= \dfrac {60 \times 150} {100} \\\\
+                                                    &= \dfrac {6 \cancel 0 \times 15 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
+                                                    &= 6 \times 15 \\\\
+                                                    &= 90 \\\\
+\text{Number of pupils who opt for SCS}             &= \dfrac {1} {6} \times 150 \\\\
+                                                    &= \dfrac {150} {6} \\\\
+                                                    &= \dfrac {6 \times 25} {6} \\\\
+                                                    &= \dfrac {\cancel 6 \times 25} {\cancel 6} \\\\
+                                                    &= 25 \\\\
+\text{Number of pupils who had not decided}         &= 150 - 90 - 25 \\\\
+                                                    &= 35
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$35$
 
 </div>
 </div>
@@ -1004,7 +1004,7 @@ $20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1013,26 +1013,16 @@ In the American state of Kentucky sales tax is charged at $6\%$.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -1045,26 +1035,40 @@ Anila wants to buy a pair of jeans in Kentucky. They are priced at $\$72$ before
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+If the price is increased by $6 \%$, then the new price will be $100 + 6 = 106 \%$ of the original price. Using that, we get
+
+$
+\begin{aligned} 
+\text{Sale price}       &= 106 \% \text{ of } 72 \\\\
+                        &= \dfrac {106} {100} \times 72 \\\\
+                        &= \dfrac {106 \times 72} {100} \\\\
+                        &= \dfrac {7632} {100} \\\\
+                        &= \pounds 76.32
+\end{aligned}
+$
 
 </div>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Price}    &= 72 + 6 \% \text{ of } 72 \\\\
+                &= 72 + \dfrac {6} {100} \times 72 \\\\
+                &= 72 + \dfrac {6 \times 72} {100} \\\\
+                &= 72 + \dfrac {432} {100} \\\\
+                &= 72 + 4.32 \\\\
+                &= \pounds 76.32
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\pounds 76.32$
 
 </div>
 </div>
@@ -1080,26 +1084,62 @@ What was the price of sweets before sales tax was added?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Let the price before sales tax $= a$
+
+If the price is increased by $6 \%$, then the new price will be $100 + 6 = 106 \%$ of the original price. Using that, we get
+
+As per the question,
+
+$
+\begin{aligned}
+106 \% \ \text{of} \ a              &= 4.77 \\\\
+\dfrac {106} {100} \times a         &= 4.77 \\\\
+a                                   &= \dfrac {4.77 \times 100} {106} \\\\
+a                                   &= \dfrac {477 \times 100} {106 \times 100} \\\\
+a                                   &= \dfrac {9 \times 53 \times 50 \times 2} {2 \times 53 \times 100} \\\\
+a                                   &= \dfrac {9 \times \cancel {53} \times 50 \times \cancel 2} {\cancel 2 \times \cancel {53} \times 100} \\\\
+a                                   &= \dfrac {9 \times 50} {100} \\\\
+a                                   &= \dfrac {450} {100} \\\\
+a                                   &= \pounds 4.50
+\end{aligned}
+$
+
+Price before the sales tax $= \pounds 4.50$
 
 </div>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Let the price before sales tax $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a + 6 \% \ \text{of} \ a            &= 4.77 \\\\
+a + \dfrac {6} {100} \times a       &= 4.77 \\\\
+a + \dfrac {6a} {100}               &= 4.77 \\\\
+a + 0.06a                           &= 4.77 \\\\
+1.06a                               &= 4.77 \\\\
+a                                   &= \dfrac {4.77} {1.06} \\\\
+a                                   &= \dfrac {477 \times 100} {106 \times 100} \\\\
+a                                   &= \dfrac {9 \times 53 \times 50 \times 2} {2 \times 53 \times 100} \\\\
+a                                   &= \dfrac {9 \times \cancel {53} \times 50 \times \cancel 2} {\cancel 2 \times \cancel {53} \times 100} \\\\
+a                                   &= \dfrac {9 \times 50} {100} \\\\
+a                                   &= \dfrac {450} {100} \\\\
+a                                   &= \pounds 4.50
+\end{aligned}
+$
+
+Price before the sales tax $= \pounds 4.50$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\pounds 4.50$
 
 </div>
 </div>
@@ -1387,7 +1427,7 @@ $84$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1397,26 +1437,16 @@ Of the sixteen girls, thirteen are right handed.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -1433,26 +1463,26 @@ Boys Girls Total Left handed Right handed Total
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Let's complete the table.
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+|       |    Left handed                     |   Right handed                     |   Total                             |
+|:-----:|:----------------:                  |:---------------:                   |:--------:                           |
+| Boys  | $8 - 3 = 5 \ \footnotesize{(9)}$   | $22 - 13 = 9 \ \footnotesize{(8)}$ | $30 - 16 = 14 \ \footnotesize{(7)}$ |
+| Girls | $16 - 13 = 3 \ \footnotesize{(5)}$ | $13 \ \footnotesize{(4)}$          | $16 \ \footnotesize{(3)}$           |
+| Total | $8 \ \footnotesize{(2)}$           | $30 - 8 = 22 \ \footnotesize{(6)}$ | $30 \ \footnotesize{(1)}$           |
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+|       |    Left handed   |   Right handed  |   Total  |
+|:-----:|:----------------:|:---------------:|:--------:|
+| Boys  | $5$              | $9$             | $14$     |
+| Girls | $3$              | $13$            | $16$     |
+| Total | $8$              | $22$            | $30$     |
 
 </div>
 </div>
@@ -1467,26 +1497,16 @@ How many boys in the class are right-handed?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$9$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$9$
 
 </div>
 </div>

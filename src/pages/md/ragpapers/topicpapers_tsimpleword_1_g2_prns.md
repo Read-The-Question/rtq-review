@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-1-g2-prns"
 title: "TopicPaper - Simpleword - 1 - G2 - PRNS"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "11"
 ---
 <ul class='question default-decimal'>
@@ -448,8 +448,8 @@ $36$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-At an England v Australia rugby match, there were $76432$ spectators.
-$8695$ of these spectators were supporting Australia, and the rest were supporting England.
+At an England v Australia rugby match, there were $76,432$ spectators.
+$8,695$ of these spectators were supporting Australia, and the rest were supporting England.
 
 How many spectators were supporting England?
 
@@ -507,7 +507,7 @@ $67737$
 
 A football club is planning a trip.
 
-The club hires $\bold{234}$ coaches. Each coach holds $\bold{52}$ passengers. 
+The club hires $234$ coaches. Each coach holds $52$ passengers. 
 
 How many passengers is that altogether?
 
@@ -540,9 +540,9 @@ $12168$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The club wants to put one first aid kit into each of the $\bold{234}$ coaches.
+The club wants to put one first aid kit into each of the $234$ coaches.
 
-These first aid kits are sold in $\bold{boxes\:\:of\:\: 18}$. 
+These first aid kits are sold in boxes of $18$. 
 
 How many boxes does the club need?
 
@@ -580,13 +580,11 @@ $13$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-You can buy a new calculator for $\bold{\pounds 1.25}$
+You can buy a new calculator for $\pounds 1.25$.
 
-![city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-8-00.png](/assets/city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-8-00.png "city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-8-00.png")
+In $1979$ the same type of calculator cost $22$ times as much as it costs now. 
 
-In 1979 the same type of calculator cost $\bold{22\:\:times}$ as much as it costs now. 
-
-How much did the same type of calculator cost in 1979?
+How much did the same type of calculator cost in $1979?$
 
 Show your working.
 

@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tspeed-1-pr-prcr"
 title: "TopicPaper - Speed - 1 - PR - PRCR"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "38"
 ---
 <ul class='question default-decimal'>
@@ -562,14 +562,32 @@ Issac cycles for $20 \ \text{minutes}$ at $18  \ \text{km/hr}$ and for $10 \ \te
 
 Chrystine's candle is $42 \ \text{cm}$ tall and burns at a rate of $3 \ \text{cm}$ every $30 \ \text{minutes}$.
 Kieran's candle is $30 \ \text{cm}$ tall and burns at a rate of $2 \ \text{cm}$ every $40 \ \text{minutes}$.
+
 They both light their candles at the same time.
 
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
 How much longer does Kieran's candle take to burn completely down than Chrystine's candle?
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
 
 After how many minutes were the candles the same height?
 
 </div>
 
+</div>
+</li>
+</ul>
 </div>
 </li>
 <li>
@@ -1085,8 +1103,6 @@ Isobel listens to the local radio before setting off on her journey one morning.
 She discovers that the road between $E$ and $F$ is completely blocked due to an earlier accident 
 and she is forced to choose an alternative route to work. 
 What is the least number of **additional** minutes that she will take to cycle to work today?
-
-![the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1/section-1-question-28-subquestion-4-00.png](/assets/the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1/section-1-question-28-subquestion-4-00.png "the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1/section-1-question-28-subquestion-4-00.png")
 
 </div>
 

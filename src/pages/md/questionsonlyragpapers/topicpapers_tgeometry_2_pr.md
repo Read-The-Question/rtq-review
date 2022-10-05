@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tgeometry-2-pr"
 title: "TopicPaper - Geometry - 2 - PR"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "40"
 ---
 <ul class='question default-decimal'>
@@ -499,12 +499,6 @@ For each shape draw a rectangle that has the same area as the shape on the left.
 
 ![magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-02.png](/assets/magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-02.png "magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-02.png")
 ![magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-03.png](/assets/magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-03.png "magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-03.png")
-
-![magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-04.png](/assets/magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-04.png "magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-04.png")
-![magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-05.png](/assets/magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-05.png "magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-05.png")
-
-![magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-06.png](/assets/magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-06.png "magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-06.png")
-![magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-07.png](/assets/magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-07.png "magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-07.png")
 
 </div>
 

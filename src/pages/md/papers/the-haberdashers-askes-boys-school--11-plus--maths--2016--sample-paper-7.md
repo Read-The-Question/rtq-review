@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2016-sample-paper-7"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2016 - Sample Paper 7"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "30"
 ---
 <div class='paper'>
@@ -2093,7 +2093,7 @@ $12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2130,7 +2130,7 @@ r                             &= \dfrac{24}{8} \\\\
 r                             &= \dfrac{8 \times 3}{8} \\\\
 r                             &= \dfrac{\cancel{8} \times 3}{\cancel{8}} \\\\
 r                             &= 3 \\\\
-3^\text{rd} \text{term}       &= 8 \times r \times r \\\\
+3^\text{rd} \text{ term}      &= 8 \times r \times r \\\\
                               &= 8 \times 3 \times 3 \\\\
                               &= 8 \times 9 \\\\
                               &= 72
@@ -2167,14 +2167,13 @@ $
 \begin{aligned}
 20000000 \times r       &= 2000000 \\\\
 r                       &= \dfrac{2000000}{20000000} \\\\
-r                       &= \dfrac{2 \times 1000000}{2 \times 10 \times 1000000} \\\\
-r                       &= \dfrac{\cancel{2} \times \cancel{1000000}}{\cancel{2} \times 10 \times \cancel{1000000}} \\\\
+r                       &= \dfrac{2 \times 1000000}{2 \times 10000000} \\\\
+r                       &= \dfrac{\cancel{2} \times 1 \cancel{0} \cancel{0} \cancel{0} \cancel{0} \cancel{0} \cancel{0}}{\cancel{2} \times 10 \cancel{0} \cancel{0} \cancel{0} \cancel{0} \cancel{0} \cancel{0}} \\\\
 r                       &= \dfrac{1}{10} \\\\
-9^\text{th} \text{term} &= 20000000 \times r^8 \\\\
-                        &= 20000000 \times \dfrac{1}{10}^8 \\\\
+9^\text{th} \text{ term} &= 20000000 \times r^8 \\\\
+                        &= 20000000 \times \bigg(\dfrac{1}{10} \bigg)^8 \\\\
                         &= \dfrac{20000000}{100000000} \\\\
-                        &= \dfrac{2 \times 10000000}{10 \times 10000000} \\\\
-                        &= \dfrac{2 \times \cancel{10000000}}{10 \times \cancel{10000000}} \\\\
+                        &= \dfrac{2 \cancel{0} \cancel{0} \cancel{0} \cancel{0} \cancel{0} \cancel{0} \cancel{0}}{10 \cancel{0} \cancel{0} \cancel{0} \cancel{0} \cancel{0} \cancel{0} \cancel{0}} \\\\
                         &= \dfrac{2}{10} \\\\
                         &= 0.2
 \end{aligned}
@@ -2210,12 +2209,13 @@ $
 \begin{aligned}
 8 \times r \times r     &= 200 \\\\
 8 \times r^2            &= 200 \\\\
+r^2                     &= \dfrac{200}{8} \\\\
 r^2                     &= \dfrac{25 \times 8}{8} \\\\
 r^2                     &= \dfrac{25 \times \cancel{8}}{\cancel{8}} \\\\
 r^2                     &= 25 \\\\
 r                       &= \sqrt{25} \\\\
 r                       &= 5 \\\\
-2^\text{nd} \text{term} &= 8 \times r \\\\
+2^\text{nd} \text{ term} &= 8 \times r \\\\
                         &= 8 \times 5 \\\\
                         &= 40
 \end{aligned}

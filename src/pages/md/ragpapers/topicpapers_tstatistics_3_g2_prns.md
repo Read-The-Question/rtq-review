@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tstatistics-3-g2-prns"
 title: "TopicPaper - Statistics - 3 - G2 - PRNS"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "30"
 ---
 <ul class='question default-decimal'>
@@ -525,9 +525,7 @@ Let's arrange the pages read in ascending order.
 $
 \begin {aligned}
 \text{Numbers}              &= 6, \quad 2, \quad 5, \quad 13, \quad 5, \quad 10 \\\\
-\text{Ordered}              &= 2, \quad 5, \quad \maroonC
-{5}, \quad \maroonC
-{6}, \quad 10, \quad 13 \\\\
+\text{Ordered}              &= 2, \quad 5, \quad \maroonC{5}, \quad \maroonC{6}, \quad 10, \quad 13 \\\\
 \text {Median}              &= \dfrac {5 + 6} {2} \\\\
                             &= \dfrac {11} {2} \\\\
                             &= 5.5
@@ -1075,8 +1073,7 @@ Let's arrange the marks scored in ascending order.
 $
 \begin {aligned}
 \text{Marks scored}           &= 18, \quad 20, \quad 15, \quad 12, \quad 20 \\\\
-\text{Ordered marks scored}   &= 12, \quad 15, \quad \maroonC
-{18}, \quad 20, \quad 20 \\\\
+\text{Ordered marks scored}   &= 12, \quad 15, \quad \maroonC{18}, \quad 20, \quad 20 \\\\
 \text{Median}                 &= \dfrac {5 + 10} {2} \\\\
                               &= \dfrac {15} {2} \\\\
                               &= 7.5
@@ -1232,9 +1229,7 @@ Let's arrange the temperatures in ascending order.
 $
 \begin {aligned}
 \text{Temperatures}           &= 3, \quad 9, \quad 21, \quad 29, \quad 24, \quad 11 \\\\
-\text{Ordered temperatures}   &= 3, \quad 9, \quad \maroonC
-{11}, \quad \maroonC
-{21}, \quad 24, \quad 29 \\\\
+\text{Ordered temperatures}   &= 3, \quad 9, \quad \maroonC{11}, \quad \maroonC{21}, \quad 24, \quad 29 \\\\
 \text{Median temperature}     &= \dfrac {11 + 21} {2} \\\\
                               &= \dfrac {32} {2} \\\\
                               &= \dfrac {2 \times 16} {2} \\\\
@@ -2111,9 +2106,7 @@ Let's arrange the shoe sizes in ascending order.
 $
 \begin {aligned}
 \text{Shoe sizes}             &= 9, \quad 1 \dfrac {1} {2}, \quad 5, \quad 1 \dfrac {1} {2}, \quad 3, \quad 4 \\\\
-\text{Ordered shoe sizes}     &= 1 \dfrac {1} {2}, \quad 1 \dfrac {1} {2}, \quad \maroonC
-{3}, \quad \maroonC
-{4}, \quad 5, \quad 9 \\\\
+\text{Ordered shoe sizes}     &= 1 \dfrac {1} {2}, \quad 1 \dfrac {1} {2}, \quad \maroonC{3}, \quad \maroonC{4}, \quad 5, \quad 9 \\\\
 \text{Median shoe size}       &= \dfrac {3 + 4} {2} \\\\
                               &= \dfrac {7} {2} \\\\
                               &= 3 \dfrac {1} {2}
@@ -2356,8 +2349,7 @@ Let's arrange the numbers in ascending order.
 $
 \begin {aligned}
 \text{Numbers}           &= 8, \quad 5, \quad 2, \quad 16, \quad 6, \quad 5, \quad 7 \\\\
-\text{Ordered numbers}   &= 2, \quad 5, \quad 5, \quad \maroonC
-{6}, \quad 7, \quad 8, \quad 16 \\\\
+\text{Ordered numbers}   &= 2, \quad 5, \quad 5, \quad \maroonC{6}, \quad 7, \quad 8, \quad 16 \\\\
 \text{Median}            &= 6
 \end {aligned}
 $
@@ -3304,9 +3296,7 @@ Let's arrange the goal scored in ascending order.
 $
 \begin {aligned}
 \text{Goal scored}           &= 4, \quad 6, \quad 1, \quad 6 \\\\
-\text{Ordered goal scored}   &= 1, \quad \maroonC
-{4}, \quad \maroonC
-{6}, \quad 6 \\\\
+\text{Ordered goal scored}   &= 1, \quad \maroonC{4}, \quad \maroonC{6}, \quad 6 \\\\
 \text{Median}                &= \dfrac {4 + 6} {2} \\\\
                              &= \dfrac {10} {2} \\\\
                              &= 5

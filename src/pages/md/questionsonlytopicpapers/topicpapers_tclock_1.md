@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tclock-1"
 title: "TopicPaper - Clock - 1"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "33"
 ---
 <div class='paper'>
@@ -172,7 +172,7 @@ Through what angles does the hour hand of a clock rotate between $6 \ \text{am}$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-What angle do the hours of a clock make between each other at $7{:}30$?
+What angle do the hands of a clock make between each other at $7{:}30$?
 
 </div>
 
@@ -920,7 +920,7 @@ Through what angle will the hour hand have turned from $2$ o'clock, when the clo
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-What is the smaller angle between the hands of a clock at $2{:}    30$?  
+What is the smaller angle between the hands of a clock at $2{:}30$?  
 
 </div>
 

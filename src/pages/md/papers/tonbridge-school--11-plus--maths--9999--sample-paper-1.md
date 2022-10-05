@@ -1,7 +1,7 @@
 ---
 slug: "papers/tonbridge-school-11-plus-maths-9999-sample-paper-1"
 title: "Tonbridge School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "17"
 ---
 <div class='paper'>
@@ -454,7 +454,7 @@ $23$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -490,7 +490,6 @@ Write $0.2$ as a fraction in its lowest terms.
 $
 \begin{aligned}
 &= 0.2 \\\\
-&= \dfrac {0.2 \times 10} {1 \times 10} \\\\
 &= \dfrac {2} {10} \\\\
 &= \dfrac {2} {2 \times 5} \\\\
 &= \dfrac {\cancel {2}} {\cancel {2} \times 5} \\\\
@@ -694,9 +693,7 @@ Let's arrange the goal scored in ascending order.
 $
 \begin {aligned}
 \text{Goal scored}           &= 4, \quad 6, \quad 1, \quad 6 \\\\
-\text{Ordered goal scored}   &= 1, \quad \maroonC
-{4}, \quad \maroonC
-{6}, \quad 6 \\\\
+\text{Ordered goal scored}   &= 1, \quad \maroonC{4}, \quad \maroonC{6}, \quad 6 \\\\
 \text{Median}                &= \dfrac {4 + 6} {2} \\\\
                              &= \dfrac {10} {2} \\\\
                              &= 5
@@ -1287,7 +1284,7 @@ $5-2e$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1325,16 +1322,11 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+2)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+6)}}  \\
+&   \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(+6)}}  \\
 2,  &&    4,  &&  7,  &&   11, && \ldots, && \ldots
 \end{matrix}
 $
@@ -1382,16 +1374,11 @@ The next term is calculated by multiplying the previous term by $3$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 3)}}
-&&  \footnotesize{\maroonC
-{(\times 3)}}
-&&  \footnotesize{\maroonC
-{(\times 3)}}
-&&  \footnotesize{\maroonC
-{(\times 3)}}
-&&  \footnotesize{\maroonC
-{(\times 3)}} \\
+&   \footnotesize{\maroonC{(\times 3)}}
+&&  \footnotesize{\maroonC{(\times 3)}}
+&&  \footnotesize{\maroonC{(\times 3)}}
+&&  \footnotesize{\maroonC{(\times 3)}}
+&&  \footnotesize{\maroonC{(\times 3)}} \\
 \dfrac {2} {3},  &&    2,  &&  6,  &&   18,  &&   \ldots, && \ldots
 \end{matrix}
 $
@@ -1499,20 +1486,60 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-A tennis racket costs $$\pounds 85$ originally. In a sale it is reduced by $15\%$. What is the sale price?
+%empty%
 
 </div>
 <div class='workings'>
 <div class='working'>
 
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+A tennis racket costs $\pounds 85$ originally. In a sale it is reduced by $15\%$. What is the sale price?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+If the price is reduced by $15 \%$, then the sale price would be $100 - 15 = 85 \%$ of the original price.
+
 $
 \begin{aligned}
-\text{Sale price}                           &= \pounds 85 - 15 \% \ \text{of} \ \pounds 85 \\\\
+\text{Sale price}               &= 85 \% \ \text{of} \ 85 \\\\
+                                &= \dfrac {85} {100} \times 85 \\\\
+                                &= \dfrac {85 \times 85} {100} \\\\
+                                &= \dfrac {7225} {100} \\\\
+                                &= \pounds 72.25
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+ABBR: $\text {Sale price = Original price} - \text{Discount } \% \times \text{Original price}$
+
+
+$
+\begin{aligned}
+\text{Sale price}                           &= 85 - 15 \% \ \text{of} \ \pounds 85 \\\\
                                             &= 85 - \dfrac {15} {100} \times 85 \\\\
                                             &= 85 - \dfrac {15 \times 85} {100} \\\\
                                             &= 85 - \dfrac {1275} {100} \\\\
@@ -1530,7 +1557,9 @@ $\pounds 72.25$
 
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
@@ -1543,15 +1572,13 @@ I score $42$ out of $48$ on a test. What percentage is that?
 
 $
 \begin{aligned}
-&= \dfrac {42} {48} \times 100 \% \\\\
-&= \dfrac {42 \times 100} {48} \\\\
-&= \dfrac {6 \times 7 \times 25 \times 4} {6 \times 2 \times 4} \\\\
-&= \dfrac {\cancel 6 \times 7 \times 25 \times \cancel 4} {\cancel 6 \times 2 \times \cancel 4} \\\\
-&= \dfrac {7 \times 25} {2} \\\\
-&= \dfrac {175} {2} \\\\
-&= \dfrac {175 \times 5} {2 \times 5} \\\\
-&= \dfrac {875} {10} \\\\
-&= 87.5 \%
+\text{Percentage}       &= \dfrac {42} {48} \times 100 \\\\
+                        &= \dfrac {42 \times 100} {48} \\\\
+                        &= \dfrac {6 \times 7 \times 25 \times 4} {6 \times 2 \times 4} \\\\
+                        &= \dfrac {\cancel 6 \times 7 \times 25 \times \cancel 4} {\cancel 6 \times 2 \times \cancel 4} \\\\
+                        &= \dfrac {7 \times 25} {2} \\\\
+                        &= \dfrac {175} {2} \\\\
+                        &= 87.5 \%
 \end{aligned}
 $
 

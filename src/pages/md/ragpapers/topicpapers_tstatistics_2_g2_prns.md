@@ -1,10 +1,158 @@
 ---
 slug: "ragpapers/topicpapers-tstatistics-2-g2-prns"
 title: "TopicPaper - Statistics - 2 - G2 - PRNS"
-date: 2022-09-24 04:59:20
-questions_count: "30"
+date: 2022-10-04 10:03:20
+questions_count: "37"
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+The table and bar chart below are to show the number of points scored by a rugby team over the first six matches of a season.
+
+|         Match           | A   | B    | C   | D    | E   | F   |
+|:-----------------------:|:---:|:----:|:---:|:----:|:---:|:---:|
+| Number of points scored |  25 |      |     |   9  | 23  | 30  |
+
+![dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-18-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-18-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-18-00.png")
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Use the information in the table and the bar chart to complete the missing entries for **Matches B and C** in the table and the 
+bar for **Match E** on the chart.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+|         Match           | A   |              B               |             C                | D    | E   | F   |
+|:-----------------------:|:---:|:----------------------------:|:----------------------------:|:----:|:---:|:---:|
+| Number of points scored |$25 $| $\green{21}$| $\green{12}$| $9$  | $23$| $30$|
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Plot the number of points scored by rugby team in match E on the bar chart
+
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+Points scored in Match B $= 21$
+
+Points scored in Match C $= 12$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Match B $=$ $21$
+
+</div>
+<div class='answer'>
+
+Match C $=$ $12$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Calculate the range of the different numbers of points scored by the team across the six matches.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text{Range} = \text{Highest number} - \text{Lowest number}$
+
+
+$
+\begin {aligned}
+\text {Range}   &= 30 - 9 \\\\
+                &= 21
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$21$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Calculate the mean (average) number of points scored by the team per match.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
+
+
+$
+\begin{aligned}
+\text{Average points}   &= \dfrac {25 + 21 + 12 + 9 + 23 + 30} {6} \\\\
+                        &= \dfrac {120} {6} \\\\
+                        &= \dfrac {6 \times 20} {6} \\\\
+                        &= \dfrac {\cancel 6 \times 20} {\cancel 6} \\\\
+                        &= 20
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
@@ -210,8 +358,7 @@ Let's arrange the numbers in ascending order.
 $
 \begin {aligned}
 \text{Numbers}           &= 34, \quad 21, \quad 35, \quad 42, \quad 28 \\\\
-\text{Ordered numbers}   &= 21, \quad 28, \quad \maroonC
-{34}, \quad 35, \quad 42 \\\\
+\text{Ordered numbers}   &= 21, \quad 28, \quad \maroonC{34}, \quad 35, \quad 42 \\\\
 \text{Median}            &= 34
 \end {aligned}
 $
@@ -605,9 +752,7 @@ Let's arrange the marks scored in ascending order.
 $
 \begin {aligned}
 \text{Marks scored}           &= 20, \quad 5, \quad 10, \quad 12, \quad 0, \quad 1, \quad 14, \quad 2, \quad 15, \quad 14, \quad 3, \quad 5, \quad 14, \quad 4 \\\\
-\text{Ordered marks scored}   &= 0, \quad 1, \quad 2, \quad 3, \quad 4, \quad 5, \quad \maroonC
-{5}, \quad \maroonC
-{10}, \quad 12, \quad 14, \quad 14, \quad 14, \quad 15, \quad 20 \\\\
+\text{Ordered marks scored}   &= 0, \quad 1, \quad 2, \quad 3, \quad 4, \quad 5, \quad \maroonC{5}, \quad \maroonC{10}, \quad 12, \quad 14, \quad 14, \quad 14, \quad 15, \quad 20 \\\\
 \text{Median}                 &= \dfrac {5 + 10} {2} \\\\
                               &= \dfrac {15} {2} \\\\
                               &= 7.5
@@ -745,9 +890,7 @@ $
 \begin {aligned}
 \text{Old median}             &= 7.5 \\\\
 \text{Marks scored}           &= 20, \quad 5, \quad 10, \quad 12, \quad 1, \quad 1, \quad 14, \quad 2, \quad 15, \quad 14, \quad 3, \quad 5, \quad 14, \quad 4 \\\\
-\text{Ordered marks scored}   &= 1, \quad 1, \quad 2, \quad 3, \quad 4, \quad 5, \quad \maroonC
-{5}, \quad \maroonC
-{10}, \quad 12, \quad 14, \quad 14, \quad 14, \quad 15, \quad 20 \\\\
+\text{Ordered marks scored}   &= 1, \quad 1, \quad 2, \quad 3, \quad 4, \quad 5, \quad \maroonC{5}, \quad \maroonC{10}, \quad 12, \quad 14, \quad 14, \quad 14, \quad 15, \quad 20 \\\\
 \text{New median}             &= \dfrac {5 + 10} {2} \\\\
                               &= \dfrac {15} {2} \\\\
                               &= 7.5
@@ -889,8 +1032,6 @@ $50 \degree$
 <div class='question subquestion'>
 
 How many of the $180$ students chose Pizza?
-
-![james-allens-girls-school--11-plus--maths--9999--sample-paper-1/section-1-question-17-subquestion-4-00.png](/assets/james-allens-girls-school--11-plus--maths--9999--sample-paper-1/section-1-question-17-subquestion-4-00.png "james-allens-girls-school--11-plus--maths--9999--sample-paper-1/section-1-question-17-subquestion-4-00.png")
 
 </div>
 <div class='workings'>
@@ -1387,6 +1528,120 @@ $6 \degree \text {C}$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
+Wine gums are sweets that are made in different colours.
+
+Pupils tested whether people can taste the difference between black wine gums and other wine gums.
+
+The percentage bar charts show three pupils’ results.
+
+![leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4/section-1-question-14-00.png](/assets/leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4/section-1-question-14-00.png "leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4/section-1-question-14-00.png")
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Complete the table.
+
+|          | Number of people who were tested     | Number of people who **can** taste the difference     | Number of people who **cannot** taste the difference     |
+|:----:    |:--------------------------------:    |:-------------------------------------------------:    |:----------------------------------------------------:    |
+| Ravi     |               $50$                   |                                                       |                                                          |
+| Sita     |               $100$                  |                                                       |                                                          |
+| Tina     |               $200$                  |                                                       |                                                          |
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{People in Ravi's results who can} &= 70 \% \ \text{of} \ 50 \\\\
+                                        &= \dfrac {70} {100} \times 50 \\\\
+                                        &= \dfrac {70 \times 50} {100} \\\\
+                                        &= \dfrac {35 \times 2 \times 50} {50 \times 2} \\\\
+                                        &= \dfrac {35 \times \cancel 2 \times \cancel {50}} {\cancel {50} \times \cancel 2} \\\\
+                                        &= 35 \\\\
+\text{People in Sita's results who can} &= 60 \% \ \text{of} \ 100 \\\\
+                                        &= \dfrac {60} {100} \times 100 \\\\
+                                        &= \dfrac {60 \times 100} {100} \\\\
+                                        &= \dfrac {60 \times \cancel {100}} {\cancel {100}} \\\\
+                                        &= 60 \\\\
+\text{People in Tina's results who can} &= 50 \% \ \text{of} \ 200 \\\\
+                                        &= \dfrac {50} {100} \times 200 \\\\
+                                        &= \dfrac {50 \times 200} {100} \\\\
+                                        &= \dfrac {50 \times 2 \times 100} {100} \\\\
+                                        &= \dfrac {50 \times 2 \times \cancel {100}} {\cancel {100}} \\\\
+                                        &= 50 \times 2 \\\\
+                                        &= 100
+\end{aligned}
+$
+
+|          | Number of people who were tested     | Number of people who **can** taste the difference     | Number of people who **cannot** taste the difference     |
+|:----:    |:--------------------------------:    |:-------------------------------------------------:    |:----------------------------------------------------:    |
+| Ravi     |               $50$                   |          $35 \ \footnotesize{(1)}$                    |          $50 - 35 = 15 \ \footnotesize{(4)}$             |
+| Sita     |               $100$                  |          $60 \ \footnotesize{(2)}$                    |         $100 - 60 = 40 \ \footnotesize{(5)}$             |
+| Tina     |               $200$                  |         $100 \ \footnotesize{(3)}$                    |        $200 - 100 = 100 \ \footnotesize{(6)}$            |
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Explain why **Tina’s** results are likely to be **more reliable** than Ravi’s or Sita’s.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Tina tested more people than Ravi and Sita. Therefore Tina's results are more reliable.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Tina tested more people than Ravi and Sita.
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
 There are four unknown positive whole numbers. 
 The mean of the two smallest numbers is $3$.
 The mean of the three smallest numbers is $5$. 
@@ -1548,8 +1803,7 @@ Let's arrange the runs scored in ascending order.
 $
 \begin {aligned}
 \text{Runs}           &= 0, 25, 15, 40, 52, 15, 6, 8, 25, 35, 1 \\\\
-\text{Ordered runs}   &= 0, 6, 8, 10, 15, \maroonC
-{15}, 25, 25, 35, 40, 52 \\\\
+\text{Ordered runs}   &= 0, 6, 8, 10, 15, \maroonC{15}, 25, 25, 35, 40, 52 \\\\
 \text{Median}         &= 15
 \end {aligned}
 $
@@ -1911,9 +2165,7 @@ Let's arrange the numbers in ascending order.
 $
 \begin {aligned}
 \text{Numbers}           &= 16, \quad 9, \quad 11, \quad 13, \quad 11, \quad 15 \\\\
-\text{Ordered numbers}   &= 9, \quad 11, \quad \maroonC
-{11}, \quad \maroonC
-{13}, \quad 15, \quad 16 \\\\
+\text{Ordered numbers}   &= 9, \quad 11, \quad \maroonC{11}, \quad \maroonC{13}, \quad 15, \quad 16 \\\\
 \text{Median}            &= \dfrac {11 + 13} {2} \\\\
                          &= \dfrac {24} {2} \\\\
                          &= \dfrac {2 \times 12} {2} \\\\
@@ -2007,6 +2259,97 @@ $68 \ \text{g}$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
+A, B and C are numbers.
+
+The mean of A and B is 40
+
+The mean of B and C is 35
+
+All three numbers add up to 100
+
+What are A, B and C? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
+
+
+As per the question,
+
+$
+\begin {aligned}
+\dfrac {A + B} {2}      &= 40 \\\\
+A + B                   &= 40 \times 2 \\\\
+A + B                   &= 80  & (1)  \\\\
+\dfrac {B + C} {2}      &= 35 \\\\
+B + C                   &= 35 \times 2 \\\\
+B + C                   &= 70  & (2) \\\\
+A + B + C               &= 100 & (3)
+\end {aligned}
+$
+
+Let's subtract equation $(1)$ from equation $(3)$ to get the value of $C$.
+
+$
+\begin{aligned}
+A + B + C - (A + B)             &= 100 - 80 \\\\
+A - A + B - B + C               &= 20 \\\\
+C                               &= 20
+\end{aligned}
+$
+
+Let's use the value of $C$ in equation $(2)$ to get the value of $B$.
+
+$
+\begin{aligned}
+B + C           &= 70 \\\\
+B + 20          &= 70 \\\\
+B               &= 70 - 20 \\\\
+B               &= 50
+\end{aligned}
+$
+
+Let's use the value of $B$ in equation $(1)$ to get the value of $A$.
+
+$
+\begin{aligned}
+A + B           &= 80 \\\\
+A + 50          &= 80 \\\\
+A               &= 80 - 50 \\\\
+A               &= 30
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$A$ $=$ $30$
+
+</div>
+<div class='answer'>
+
+$B$ $=$ $50$
+
+</div>
+<div class='answer'>
+
+$C$ $=$ $20$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
 I am thinking of three different, positive, whole numbers.
 
 The mean of my three numbers is 8.
@@ -2043,8 +2386,7 @@ Let's arrange the numbers in ascending order.
 
 $
 \begin {aligned}
-\text{Ordered numbers}      &= 5, \quad \maroonC
-{9}, \quad 10 \\\\
+\text{Ordered numbers}      &= 5, \quad \maroonC{9}, \quad 10 \\\\
 \text{Median}               &= 9
 \end {aligned}
 $
@@ -2106,6 +2448,44 @@ $6.7$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
+Snow White wanted to know the mean height of the Seven Dwarves. One day she measured them all as they left for work and calculated their mean height as $114.5\ \text{cm}$. Grumpy complained that she had missed him out and had measured Dopey twice without him noticing. If Grumpy is $14\ \text{cm}$ taller than Dopey, what is the mean height of the Seven Dwarves?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
+
+
+$
+\begin{aligned}
+\text{Total miscalculated height}\      &= 114.5 \times 7 \\\\
+                                        &= 801.5 \ \text{cm} \\\\
+\text{Actual total height}\             &= 801.5 + 14  \\\\
+                                        &= 815.5 \ \text{cm} \\\\
+\text{Mean height}                      &= \dfrac {815.5} {7} \\\\
+                                        &= 116.5 \ \text{cm}
+\end{aligned}
+$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$116.5 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
 The mean of three positive whole numbers is $6$. the mode is $5$.  Find the three numbers. 
 
 </div>
@@ -2143,6 +2523,286 @@ $5, 5, 8$
 </div>
 </div>
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Five bags of rice have masses of $75 \ \text{g}, 64 \ \text{g}, 53 \ \text{g}, 62 \ \text{g}$ and $46 \ \text{g}$.
+Find the mean mass of a bag of rice. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
+
+
+$
+\begin{aligned}
+\text{Mean mass}    &= \dfrac {75 + 64 + 53 + 62 + 46} {5} \\\\
+                    &= \dfrac {300} {5} \\\\
+                    &= \dfrac {5 \times 60} {5} \\\\
+                    &= \dfrac {\cancel 5 \times 60} {\cancel 5} \\\\
+                    &= 60 \ \text{g}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60 \ \text{g}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+The heights, in metres, of eleven children are
+
+$1.32, 1.47, 1.43, 1.32, 1.35, 1.46, 1.49, 1.32, 1.37, 1.49, 1.48$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What is the mode height?
+
+- $1.49$
+- $1.32$
+- $1.46$
+- $1.47$
+- $1.35$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: Mode is the most common value.
+
+
+Let's look for the height that occurs the most.
+
+|   Height    |   Count   |
+|:-----------:|:---------:|
+|   $1.32$    |    $3$    |
+|   $1.35$    |    $1$    |
+|   $1.37$    |    $1$    |
+|   $1.43$    |    $1$    |
+|   $1.46$    |    $1$    |
+|   $1.47$    |    $1$    |
+|   $1.48$    |    $1$    |
+|   $1.49$    |    $2$    |
+
+
+Mode $= 1.32 \ \text{m}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$1.32 \ \text{m}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What is the median height?
+
+- $1.49$
+- $1.44$
+- $1.43$
+- $1.46$
+- $1.35$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: If there is an odd number of numbers, the median is the middle number. If there is an even count of numbers, the median is the average of the middle two numbers.
+
+
+$
+\begin{aligned}
+\text{Numbers}          &= 1.32, 1.47, 1.43, 1.32, 1.35, 1.46, 1.49, 1.32, 1.37, 1.49, 1.48 \\\\
+\text{Ordered numbers}  &= 1.32, 1.32, 1.32, 1.35, 1.37, \maroonC{1.43}, 1.46, 1.47, 1.48, 1.49, 1.49 \\\\
+\text{Median}           &= 1.43 \ \text{m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
+<div class='answer'>
+
+$1.43 \ \text{m}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+The pie chart shows the result of a survey of $250$ students about their
+favourite foods.
+
+Chips $10 \%$ 
+
+Curry $10 \%$
+
+Pasta $40 \%$
+
+Burgers $20 \%$
+
+Pizza $20 \%$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How many students chose chips?
+
+- $25$
+- $16$
+- $15$
+- $26$
+- $40$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Students who chose chips}         &= 10 \% \times 250 \\\\
+                                        &= \dfrac {10} {100} \times 250 \\\\
+                                        &= \dfrac {10 \times 250} {100} \\\\
+                                        &= \dfrac {25\cancel{00}} {1\cancel{00}} \\\\
+                                        &= 25
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
+<div class='answer'>
+
+$25$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What angle of the pie chart is represented by pizza?
+
+- $10 \degree$
+- $36 \degree$
+- $72 \degree$
+- $20 \degree$
+- $30 \degree$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Angle for pizza}      &= 20 \% \times 360 \\\\
+                            &= \dfrac {20} {100} \times 360 \\\\
+                            &= \dfrac {20 \times 360} {100} \\\\
+                            &= \dfrac {7200} {100} \\\\
+                            &= \dfrac {72\cancel{00}} {1\cancel{00}} \\\\
+                            &= 72 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
+<div class='answer'>
+
+$72 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 </div>
 </li>
 <li>

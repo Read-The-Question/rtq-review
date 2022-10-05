@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-4"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "28"
 ---
 <div class='paper'>
@@ -939,7 +939,7 @@ $\text {Hannah}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -979,16 +979,11 @@ The next term is calculated by adding $4$ to the previous term. Hence, the seque
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}  \\
+&   \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}  \\
 -3,  &&    1,  &&  5,  &&   9,  &&   \ldots, && \ldots
 \end {matrix}
 $
@@ -1036,16 +1031,11 @@ The next term is calculated by subtracting $6$ from the previous term. Hence, th
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(-6)}}  \\
+&   \footnotesize{\maroonC{(-6)}}
+&&  \footnotesize{\maroonC{(-6)}}
+&&  \footnotesize{\maroonC{(-6)}}
+&&  \footnotesize{\maroonC{(-6)}}
+&&  \footnotesize{\maroonC{(-6)}}  \\
 32,  &&    26,  && \ldots, &&  14,  &&   \ldots,  && 2
 \end {matrix}
 $
@@ -1093,16 +1083,11 @@ The next term is calculated by multiplying the previous term by $2$. Hence, the 
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}  \\
+&   \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}  \\
 3,  &&    6,  &&  12,   &&   \ldots, && 48, &&  \ldots
 \end {matrix}
 $
@@ -1150,18 +1135,12 @@ It is a sequence of square numbers.
 
 $
 \begin {matrix}
-    \footnotesize{\maroonC
-{(1^2)}}
-&&  \footnotesize{\maroonC
-{(2^2)}}
-&&  \footnotesize{\maroonC
-{(3^2)}}
-&&  \footnotesize{\maroonC
-{(4^2)}}
-&&  \footnotesize{\maroonC
-{(5^2)}}
-&&  \footnotesize{\maroonC
-{(6^2)}}  \\\\
+    \footnotesize{\maroonC{(1^2)}}
+&&  \footnotesize{\maroonC{(2^2)}}
+&&  \footnotesize{\maroonC{(3^2)}}
+&&  \footnotesize{\maroonC{(4^2)}}
+&&  \footnotesize{\maroonC{(5^2)}}
+&&  \footnotesize{\maroonC{(6^2)}}  \\\\
 1, && 4, && \ldots, && 16, && 25, && \ldots
 \end {matrix}
 $
@@ -1320,7 +1299,7 @@ $155 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1367,24 +1346,27 @@ Complete the chart above.
 <div class='workings'>
 <div class='working'>
 
-Let's complete the table.
-
 |           | Tennis                            | Football                                   | Hockey                             | Swimming                           |   TOTAL                                     |
 |:-----:    |:------:                           |:--------:                                  |:------:                            |:--------:                          |:-----:                                      |
-|   Boys    |   $5$                             | $25 - 5 - 6 - 2 = 12 \ \footnotesize{(4)}$ | $14 - 12 = 2 \ \footnotesize{(3)}$ |    $6$                             |   $25$                                      |
-|  Girls    | $13 - 5 = 8 \ \footnotesize{(1)}$ |    $5$                                     |  $12$                              | $16 - 6 = 10 \ \footnotesize{(2)}$ | $8 + 5 + 12 + 10 = 35 \ \footnotesize{(6)}$ |
-|  TOTAL    |   $13$                            | $12 + 5 = 17 \ \footnotesize{(5)}$         |  $14$                              |    $16$                            | $25 + 35 = 60 \ \footnotesize{(7)}$         |
+|   Boys    |   $5$                             | $25 - 5 - 6 - 2 = 12 \ \maroonC{\footnotesize{(4)}}$ | $14 - 12 = 2 \ \maroonC{\footnotesize{(3)}}$ |    $6$                             |   $25$                                      |
+|  Girls    | $13 - 5 = 8 \ \maroonC{\footnotesize{(1)}}$ |    $5$                                     |  $12$                              | $16 - 6 = 10 \ \maroonC{\footnotesize{(2)}}$ | $8 + 5 + 12 + 10 = 35 \ \maroonC{\footnotesize{(6)}}$ |
+|  TOTAL    |   $13$                            | $12 + 5 = 17 \ \maroonC{\footnotesize{(5)}}$         |  $14$                              |    $16$                            | $25 + 35 = 60 \ \maroonC{\footnotesize{(7)}}$         |
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
+
+Completed table:
 
 |           | Tennis | Football | Hockey | Swimming |   TOTAL |
 |:-----:    |:------:|:--------:|:------:|:--------:|:-----:  |
 |   Boys    |   $5$  | $12$     |  $2$   |    $6$   |   $25$  |
 |  Girls    |   $8$  | $5$      |  $12$  |   $10$   | $35$    |
 |  TOTAL    |   $13$ | $17$     |  $14$  |   $16$   | $60$    |
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
 
 </div>
 </div>

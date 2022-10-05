@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tgraph-2-pr"
 title: "TopicPaper - Graph - 2 - PR"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "14"
 ---
 <ul class='question default-decimal'>
@@ -287,7 +287,7 @@ Plot the point B on the graph
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Plot another point $D$, and then join $ABCD$ **in that order** so that you can form a quadrilateral shape with one line of symmetry.
+Plot another point $D$, and then join $ABCD$ in that order so that you can form a quadrilateral shape with one line of symmetry.
 
 </div>
 <div class='workings'>
@@ -550,9 +550,9 @@ All $150$ grow to produce flowers and the students draw up the results of the fl
 
 Complete the table and bar chart for the students' findings.
 
-|    Flower Colour   | Red | Orange | Yellow |
-|:------------------:|:---:|:------:|:------:|
-| Number of flowsers |     |        |   72   |
+|    Flower Colour   | Red | Orange |  Yellow  |
+|:------------------:|:---:|:------:|:--------:|
+| Number of flowsers |     |        |   $72$   |
 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-21-subquestion-4-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-21-subquestion-4-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-21-subquestion-4-00.png")
 
@@ -855,11 +855,11 @@ E
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-The table and bar chart below shows the number of burgers sold by a cafe each day of the week.
+The table and bar chart below shows the number of burgers sold by a cafe each day for a week.
 
-|         Day            | Mon | Tues | Wed | Thur | Fri | Sat | Sun |
-|:----------------------:|:---:|:----:|:---:|:----:|:---:|:---:|:---:|
-| Number of burgers sold |  14 |  25  |     |  12  | 21  | 27  |     |
+|         Day            |  Mon  |  Tues  | Wed |  Thur  |  Fri  |  Sat  | Sun |
+|:----------------------:|:-----:|:------:|:---:|:------:|:-----:|:-----:|:---:|
+| Number of burgers sold |  $14$ |  $25$  |     |  $12$  | $21$  | $27$  |     |
 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-c/section-1-question-14-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-c/section-1-question-14-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-c/section-1-question-14-00.png")
 
@@ -883,7 +883,7 @@ The table and bar chart below shows the number of burgers sold by a cafe each da
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Use the information in the table and the bar chart to complete the entry for **Wednesday** in the table and the bar for **Friday** on the chart.
+Use the information in the table and the bar chart to complete the entry for Wednesday in the table and the bar for Friday on the chart.
 
 </div>
 <div class='workings'>
@@ -922,7 +922,7 @@ Plot the number of burgers sold on the bar chart
 <div class='question subquestion'>
 
 The total number of burgers sold in the week was $140$. Use this information to help complete both the table and the bar chart 
-with **Sunday's** entry.
+with Sunday's entry.
 
 </div>
 <div class='workings'>
@@ -995,7 +995,7 @@ $23$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Mark the points $A(2, 0), B(2, 0)$ and $C(0, 3)$ on the axes below, labelling each point clearly.
+Mark the points $A(-2, 0), B(2, 0)$ and $C(0, -3)$ on the axes below, labelling each point clearly.
 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-12-subquestion-1-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-12-subquestion-1-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-12-subquestion-1-00.png")
 
@@ -1537,7 +1537,7 @@ $(0.5, 0)$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-On the grid above, plot and label the points $A (0,3), B (2,5), C (6,3),$ and $D (2,1)$.
+On the grid above, plot and label the points $A (0,3), \quad B (2,5), \quad C (6,3)$ and $D (2,1)$.
 
 </div>
 <div class='workings'>

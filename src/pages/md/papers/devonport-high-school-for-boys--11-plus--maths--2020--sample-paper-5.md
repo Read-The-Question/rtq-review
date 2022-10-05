@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2020 - Sample Paper 5"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "44"
 ---
 <div class='paper'>
@@ -73,7 +73,7 @@ August
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Shanghai in China is $8 hours$ ahead of the time in the UK. If it is $09.00$ in the UK, what time is it in Shanghai?
+Shanghai in China is $8 \ \text{hours}$ ahead of the time in the UK. If it is $09.00$ in the UK, what time is it in Shanghai?
 
 </div>
 <div class='workings'>
@@ -106,7 +106,7 @@ $17{:}00$
 
 ![devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-4-00.png](/assets/devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-4-00.png "devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-4-00.png")
 
-Which point has coordinates $(2, 1)$ ?
+Which point has coordinates $(2, 1) ?$
 
 </div>
 <div class='workings'>
@@ -393,7 +393,7 @@ $3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -413,14 +413,10 @@ The next term is calculated by subtracting $7$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(-7)} }
-&&  \footnotesize {\maroonC
- {(-7)} }
-&&  \footnotesize {\maroonC
- {(-7)} }
-&&  \footnotesize {\maroonC
- {(-7)} }  \\
+&   \footnotesize {\maroonC {(-7)} }
+&&  \footnotesize {\maroonC {(-7)} }
+&&  \footnotesize {\maroonC {(-7)} }
+&&  \footnotesize {\maroonC {(-7)} }  \\
 47,  &&    40,  &&  33,  &&   26, && \ldots
 \end{matrix}
 $
@@ -1093,7 +1089,7 @@ $6.829$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1106,26 +1102,36 @@ $3 \quad 5 \quad 12 \quad 43 \quad 48$
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
 
-</div>
-<div class='working placeholder'>
+![missing image](/papers/missing_image.svg)
 
-TODOWORKING
+
+
+Plot the numbers on Venn diagram
+
+Plot all numbers according to it fall on which group in the Venn diagram
+
+Multiples of $3$: $3, 12, 48$
+
+Multiples of $4$: $12, 48$
+
+Intersection: $12, 48$
+
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$12, 48$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$12, 48$
 
 </div>
 </div>
@@ -1197,7 +1203,9 @@ $76.60$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-If $432.6 \times 7 = 3028.2$, what is $43.26 \times 0.7 ?$
+If $432.6 \times 7 = 3028.2$
+
+What is $43.26 \times 0.7 ?$
 
 </div>
 <div class='workings'>
@@ -1493,7 +1501,7 @@ $\pounds 18$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1516,14 +1524,10 @@ The next term is calculated by adding $3$ to the first term and the number of ti
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {({} + 3 \times 1)} }
-&&  \footnotesize {\maroonC
- {({} + 3 \times 2)} }
-&&  \footnotesize {\maroonC
- {({} + 3 \times 3)} }
-&&  \footnotesize {\maroonC
- {({} + 3 \times 4)} }  \\
+&   \footnotesize {\maroonC {({} + 3 \times 1)} }
+&&  \footnotesize {\maroonC {({} + 3 \times 2)} }
+&&  \footnotesize {\maroonC {({} + 3 \times 3)} }
+&&  \footnotesize {\maroonC {({} + 3 \times 4)} }  \\
 10,  &&   13,  &&  16, &&  19, && \ldots
 \end{matrix}
 $

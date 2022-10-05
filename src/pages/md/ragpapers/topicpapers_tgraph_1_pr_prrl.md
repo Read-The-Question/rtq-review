@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tgraph-1-pr-prrl"
 title: "TopicPaper - Graph - 1 - PR - PRRL"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -453,7 +453,7 @@ $20$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Reflect the rectangle in the X axis and draw the result on the coordinate grid.
+Reflect the rectangle in the $x$ axis and draw the result on the coordinate grid.
 
 </div>
 <div class='workings'>

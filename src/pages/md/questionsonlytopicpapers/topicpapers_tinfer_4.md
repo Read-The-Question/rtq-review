@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tinfer-4"
 title: "TopicPaper - Infer - 4"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "40"
 ---
 <div class='paper'>
@@ -320,6 +320,8 @@ The **same** cube is rolled so a $10$ is on top.
 
 Fill in the missing sides so that the sum of the faces that border with the marked corner is $27$.
 
+![st-pauls-girls-school--11-plus--maths--2016--sample-paper-1/section-3-question-4-subquestion-2-00.png](/assets/st-pauls-girls-school--11-plus--maths--2016--sample-paper-1/section-3-question-4-subquestion-2-00.png "st-pauls-girls-school--11-plus--maths--2016--sample-paper-1/section-3-question-4-subquestion-2-00.png")
+
 </div>
 
 </div>
@@ -423,6 +425,8 @@ $
 
 Put the numbers $1$ to $9$ in the square so that each row, column and diagonal add up to $15$.
 
+![st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-2-question-10-00.png](/assets/st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-2-question-10-00.png "st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-2-question-10-00.png")
+
 </div>
 
 </div>
@@ -438,6 +442,8 @@ Claire makes squares with matches.
 To make $1$ square she needs $4$ matches. 
 
 To make $2$ squares she needs $7$ matches.
+
+![st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-3-question-1-00.png](/assets/st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-3-question-1-00.png "st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-3-question-1-00.png")              ![st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-3-question-1-01.png](/assets/st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-3-question-1-01.png "st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-3-question-1-01.png")                   ![st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-3-question-1-02.png](/assets/st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-3-question-1-02.png "st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-3-question-1-02.png")
 
 </div>
 <ul class='subquestion lower-alpha'>

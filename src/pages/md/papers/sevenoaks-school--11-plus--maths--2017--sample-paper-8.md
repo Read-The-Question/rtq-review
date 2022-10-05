@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2017-sample-paper-8"
 title: "Sevenoaks School - 11 Plus - Maths - 2017 - Sample Paper 8"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "19"
 ---
 <div class='paper'>
@@ -242,7 +242,7 @@ $\pounds 7.95$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -283,16 +283,11 @@ The next term is calculated by adding $0.3$ to the previous term. Hence, the seq
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(+0.3)}}
-&&  \footnotesize{\maroonC
-{(+0.3)}}
-&&  \footnotesize{\maroonC
-{(+0.3)}}
-&&  \footnotesize{\maroonC
-{(+0.3)}}
-&&  \footnotesize{\maroonC
-{(+0.3)}}  \\
+&   \footnotesize{\maroonC{(+0.3)}}
+&&  \footnotesize{\maroonC{(+0.3)}}
+&&  \footnotesize{\maroonC{(+0.3)}}
+&&  \footnotesize{\maroonC{(+0.3)}}
+&&  \footnotesize{\maroonC{(+0.3)}}  \\
 -2.0,  &&   -1.7,  &&   -1.4,  &&   -1.1,  &&   \ldots,  &&   \ldots
 \end {matrix}
 $
@@ -340,16 +335,11 @@ The next term is calculated by subtracting $4$ from the previous term. Hence, th
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}  \\
+&   \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}  \\
 15,  &&   11,  &&   7,  &&   3,  &&   \ldots,  &&   \ldots
 \end {matrix}
 $
@@ -397,16 +387,11 @@ The next term is calculated by adding $\dfrac {3} {5}$ to the previous term. Hen
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(+ \dfrac {3} {5})}}
-&&  \footnotesize{\maroonC
-{(+ \dfrac {3} {5})}}
-&&  \footnotesize{\maroonC
-{(+ \dfrac {3} {5})}}
-&&  \footnotesize{\maroonC
-{(+ \dfrac {3} {5})}}
-&&  \footnotesize{\maroonC
-{(+ \dfrac {3} {5})}}  \\
+&   \footnotesize{\maroonC{(+ \dfrac {3} {5})}}
+&&  \footnotesize{\maroonC{(+ \dfrac {3} {5})}}
+&&  \footnotesize{\maroonC{(+ \dfrac {3} {5})}}
+&&  \footnotesize{\maroonC{(+ \dfrac {3} {5})}}
+&&  \footnotesize{\maroonC{(+ \dfrac {3} {5})}}  \\
 0,  &&   \dfrac {3} {5},  &&   1 \dfrac {1} {5},  &&   1 \dfrac {4} {5},  &&   \ldots,  &&   \ldots
 \end {matrix}
 $
@@ -460,16 +445,11 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+7)}}
-&&  \footnotesize{\maroonC
-{(+9)}}
-&&  \footnotesize{\maroonC
-{(+11)}}  \\
+&   \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(+7)}}
+&&  \footnotesize{\maroonC{(+9)}}
+&&  \footnotesize{\maroonC{(+11)}}  \\
 5,  &&   8,  &&   13,  &&   20,  &&   \ldots,  &&   \ldots
 \end {matrix}
 $
@@ -957,7 +937,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

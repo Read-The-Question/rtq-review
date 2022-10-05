@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-11"
 title: "TopicPaper - Algebra - 11"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "40"
 ---
 <div class='paper'>
@@ -482,14 +482,10 @@ Let take the amount $= a$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
-{(+a)}}
-&&  \footnotesize {\maroonC
-{(+a)}}
-&&  \footnotesize {\maroonC
-{(+a)}}
-&&  \footnotesize {\maroonC
-{(+a)}} \\
+&   \footnotesize {\maroonC{(+a)}}
+&&  \footnotesize {\maroonC{(+a)}}
+&&  \footnotesize {\maroonC{(+a)}}
+&&  \footnotesize {\maroonC{(+a)}} \\
 2,  &&    \ldots ,  &&  \ldots ,  &&   \ldots ,  &&   18
 \end{matrix}
 $
@@ -511,14 +507,10 @@ Hence the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
-{(+4)}}
-&&  \footnotesize {\maroonC
-{(+4)}}
-&&  \footnotesize {\maroonC
-{(+4)}}
-&&  \footnotesize {\maroonC
-{(+4)}} \\
+&   \footnotesize {\maroonC{(+4)}}
+&&  \footnotesize {\maroonC{(+4)}}
+&&  \footnotesize {\maroonC{(+4)}}
+&&  \footnotesize {\maroonC{(+4)}} \\
 2,  &&    \underline {6} ,  &&  \underline {10} ,  &&  \underline {14} ,  &&   18
 \end{matrix}
 $

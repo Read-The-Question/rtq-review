@@ -1,7 +1,7 @@
 ---
 slug: "papers/tonbridge-school-scholarship-maths-2016-sample-paper-1"
 title: "Tonbridge School - Scholarship - Maths - 2016 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "9"
 ---
 <div class='paper'>
@@ -95,7 +95,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -125,6 +125,8 @@ ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
 
 Let the time taken in first case (in hours)  $= t$
 
+As per the question,
+
 $
 \begin{aligned}
 15 \times (t - 2)   &=  10 \times t \\\\
@@ -135,15 +137,9 @@ t                   &=  \dfrac{30}{5} \\\\
 t                   &=  \dfrac{6 \times 5}{5} \\\\
 t                   &=  \dfrac{6 \times \cancel{5}}{\cancel{5}} \\\\
 t                   &=  6 \text{ hours} \\\\
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Distance}   &= 10 \text{ km per hour} \times t \text{ hours} \\\\
-                  &= 10 \text{ km per hour} \times 6 \text{ hours} \\\\
-                  &= 10 \times 6 \\\\
-                  &= 60 \text{ km} \\\\
+\text{Distance}     &= 10 \times t \\\\
+                    &= 10 \times 6 \\\\
+                    &= 60 \text{ km}
 \end{aligned}
 $
 
@@ -209,8 +205,7 @@ $
 \begin{aligned}
 \text{Time Taken} &=  7{:}00 - 12{:}00 \\\\
                   &=  5 \text{ hours} \\\\
-\text{Speed}      &=  \dfrac{60 \text{ km}}{5 \text{ hours}} \\\\
-                  &=  \dfrac{60}{5} \\\\
+\text{Speed}      &=  \dfrac{60}{5} \\\\
                   &=  \dfrac{12 \times 5}{5} \\\\
                   &=  \dfrac{12 \times \cancel{5}}{\cancel{5}} \\\\
                   &=  12 \text{ km per hour}

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-3"
 title: "TopicPaper - Number - 3"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "40"
 ---
 <div class='paper'>
@@ -1282,7 +1282,7 @@ $-11$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$15 + \ldots $= -7$
+$15 + \ldots = -7$
 
 </div>
 <div class='workings'>
@@ -1840,12 +1840,7 @@ $21$
 Polly has these four cards with numbers in:
 
 $
-\huge {
-\boxed {1} 
-\quad \boxed {4} 
-\quad \boxed {9} 
-\quad \boxed {3}
-}
+\huge {\boxed {1} \quad \boxed {4} \quad \boxed {9} \quad \boxed {3}}
 $
 
 Show how she could arrange them to get:
@@ -1870,7 +1865,7 @@ Show how she could arrange them to get:
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-the **largest** possible number.
+the largest possible number.
 
 </div>
 <div class='workings'>
@@ -1894,7 +1889,7 @@ $9431$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-the **smallest** possible number.
+the smallest possible number.
 
 </div>
 <div class='workings'>
@@ -1918,7 +1913,7 @@ $1349$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-the number **nearest to ** $4000$.
+the number nearest to $4000$.
 
 </div>
 <div class='workings'>
@@ -2175,7 +2170,7 @@ $1$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Write the number nine hundred ninety thousand nine hundred and ninety nine in figures.
+Write the number ninety nine thousand ninety nine hundred and ninety nine in figures.
 
 </div>
 <div class='workings'>
@@ -2666,7 +2661,7 @@ $42$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Convert $35 \ \text{centimetres}$ into $\ \text{millimetres}$.
+Convert $35 \ \text{centimetres}$ into $\text{millimetres}$.
 
 </div>
 <div class='workings'>
@@ -2698,7 +2693,7 @@ $350 \ \text{mm}$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Convert $2750 \ \text{grams}$ into $ \ \text{kilograms}$.
+Convert $2750 \ \text{grams}$ into $\text{kilograms}$.
 
 </div>
 <div class='workings'>
@@ -2979,7 +2974,7 @@ $50  \quad 25  \quad 9  \quad 7  \quad 2  \quad 1$
 
 Using $+, -, \times, \div$ and brackets try to make a target number of $790$.
 
-You may use the symbols and brackets as many times as you ned, but **each number must be used exactly once**.
+You may use the symbols and brackets as many times as you ned, but each number must be used exactly once.
 
 If you can't make exactly $790$ you may still score marks for a close attempt.
 
@@ -3133,7 +3128,7 @@ $4.2$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-0.3 + 0.8 =
+$0.3 + 0.8 =$
 
 - $0.11$
 - $1.2$
@@ -3172,7 +3167,7 @@ $1.1$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-$0.00712 x 100 =$
+$0.00712 \times 100 =$
 
 - $0.712$
 - $7.12$
@@ -3212,6 +3207,7 @@ $0.712$
 <div class='question question'>
 
 Round the number below to one decimal place:
+
 $4.18$
 
 - $4.20$
@@ -3259,13 +3255,13 @@ Look at these number cards.
 
 Write the letter of the card that is 
 
-**ten times** as big as $73$ .
+ten times as big as $73$.
 
-**one thousand** times as big as $73$ .
+one thousand times as big as $73$.
 
-**one hundredth** of $73$ .
+one hundredth of $73$.
 
-Write **one** number at the end of each equation to make it correct. 
+Write one number at the end of each equation to make it correct. 
 
 Example: 
 

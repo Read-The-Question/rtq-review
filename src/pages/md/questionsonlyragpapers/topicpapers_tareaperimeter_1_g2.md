@@ -1,8 +1,8 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tareaperimeter-1-g2"
 title: "TopicPaper - Areaperimeter - 1 - G2"
-date: 2022-09-24 05:07:09
-questions_count: "35"
+date: 2022-10-04 10:09:40
+questions_count: "37"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -154,6 +154,44 @@ Find the area of a square whose perimeter is $20 \ \text{cm}$.
 A triangle has a base of $6 \ \text{cm}$ and a height 
 of $4 \ \text{cm}$. It has the same area as another
 triangle of base length $8 \ \text{cm}$. How tall is the triangle?
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+A rectangle has an area of $24 \ \text{cm}^2$.
+
+How long could the sides of the rectangle be?
+
+Give three different examples.
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+The diagram shows a square with a perimeter of $12 \ \text{cm}$.
+
+![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-1-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-1-00.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-1-00.png")
+
+Six of these squares fit together to make a rectangle.
+
+![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-1-01.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-1-01.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-1-01.png")
+
+What is the area of the rectangle?
+
+You must give the correct unit with your answer. 
 
 </div>
 

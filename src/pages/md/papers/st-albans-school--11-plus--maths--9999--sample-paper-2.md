@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-school-11-plus-maths-9999-sample-paper-2"
 title: "St Albans School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "27"
 ---
 <div class='paper'>
@@ -14,7 +14,7 @@ questions_count: "27"
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -35,18 +35,19 @@ As per the question,
 
 $
 \begin{aligned}
-\dfrac{a} {8}    &= \dfrac {9} {12} \\\\
-a                &= \dfrac {9 \times 8} {12} \\\\
-a                &= \dfrac {3 \times 3 \times 4 \times 2} {4 \times 3} \\\\
-a                &= \dfrac {3 \times \cancel{3} \times \cancel{4} \times 2} {\cancel{4} \times \cancel{3}} \\\\
-a                &= 3 \times 2 \\\\
-a                &= 6 \\\\
-\dfrac{9} {12}   &= \dfrac {21} {b} \\\\
-b                &= \dfrac {21 \times 12} {9} \\\\\
-b                &= \dfrac {3 \times 7 \times 4 \times 3} {3 \times 3} \\\\
-b                &= \dfrac {\cancel{3} \times 7 \times 4 \times \cancel{3}}{\cancel{3} \times \cancel{3}} \\\\
-b                &= 7 \times 4 \\\\
-b                &= 28
+\dfrac{a} {8}               &= \dfrac {9} {12} \\\\
+a                           &= \dfrac {9 \times 8} {12} \\\\
+a                           &= \dfrac {3 \times 3 \times 4 \times 2} {4 \times 3} \\\\
+a                           &= \dfrac {3 \times \cancel{3} \times \cancel{4} \times 2} {\cancel{4} \times \cancel{3}} \\\\
+a                           &= 3 \times 2 \\\\
+a                           &= 6 \\\\
+\dfrac {21} {b}             &= \dfrac {9} {12} \\\\
+\dfrac {21 \times 12} {9}   &= b \\\\
+b                           &= \dfrac {21 \times 12} {9} \\\\\
+b                           &= \dfrac {3 \times 7 \times 4 \times 3} {3 \times 3} \\\\
+b                           &= \dfrac {\cancel{3} \times 7 \times 4 \times \cancel{3}}{\cancel{3} \times \cancel{3}} \\\\
+b                           &= 7 \times 4 \\\\
+b                           &= 28
 \end{aligned}
 $
 
@@ -55,7 +56,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$6, 28$
+$6$
+
+</div>
+<div class='answer'>
+
+$28$
 
 </div>
 </div>
@@ -570,7 +576,7 @@ $16 {:} 15$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -595,8 +601,6 @@ a                                 &= 7 \times{3} \\\\
 a                                 &= 21
 \end{aligned}
 $
-
-Number $= 21$
 
 </div>
 </div>
@@ -844,7 +848,7 @@ $25$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -860,8 +864,7 @@ ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
 
 $
 \begin{aligned}
-\text{Distance}  &=  193 \text { metres per second} \times (5 \text{ minutes } 7 \text{ seconds}) \\\\ 
-                 &=  193 \text { metres per second} \times (5 \times 60 + 7) \text{ seconds} \\\\ 
+\text{Distance}  &=  193 \times (5 \text{ minutes } 7 \text{ seconds}) \\\\ 
                  &=  193 \times (5 \times 60 + 7) \\\\ 
                  &=  193 \times (300 + 7) \\\\ 
                  &=  193 \times 307 \\\\ 
@@ -870,7 +873,7 @@ $
                  &\approx  \dfrac{60000}{1000} \text{ km} \\\\ 
                  &\approx  \dfrac{60 \times 1000}{1000} \\\\ 
                  &\approx  \dfrac{60 \times \cancel{1000}}{\cancel{1000}} \\\\ 
-                 &\approx  60 \text{ km} \\\\ 
+                 &\approx  60 \text{ km}
 \end{aligned}
 $
 
@@ -1106,7 +1109,7 @@ $32 \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1327,7 +1330,7 @@ $90 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1354,11 +1357,11 @@ $90 \degree$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Plot  the   following   points
+Plot the following points.
 
-**(2,4),(-3,1),(-2,-3)** 
+$(2,4),(-3,1),(-2,-3)$
 
-Join  them  to form  a  triangle.
+Join them to form a triangle.
 
 </div>
 <div class='workings'>

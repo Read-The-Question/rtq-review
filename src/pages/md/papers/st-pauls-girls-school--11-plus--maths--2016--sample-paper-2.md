@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2016-sample-paper-2"
 title: "St Pauls Girls School - 11 Plus - Maths - 2016 - Sample Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "35"
 ---
 <div class='paper'>
@@ -293,7 +293,7 @@ $5.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -321,7 +321,7 @@ $0.61, \quad 1.60, \quad 6.01, \quad 6.1, \quad 16.0$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -547,18 +547,12 @@ The next term is calculated by adding $15$ to the previous term. Hence, the sequ
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+15)}}
-&&  \footnotesize{\maroonC
-{(+15)}}
-&&  \footnotesize{\maroonC
-{(+15)}}
-&&  \footnotesize{\maroonC
-{(+15)}}
-&&  \footnotesize{\maroonC
-{(+15)}}
-&&  \footnotesize{\maroonC
-{(+15)}}  \\
+&   \footnotesize{\maroonC{(+15)}}
+&&  \footnotesize{\maroonC{(+15)}}
+&&  \footnotesize{\maroonC{(+15)}}
+&&  \footnotesize{\maroonC{(+15)}}
+&&  \footnotesize{\maroonC{(+15)}}
+&&  \footnotesize{\maroonC{(+15)}}  \\
 150,  &&    165,  &&  180,  &&   195,   &&   210,  &&   \ldots, && \ldots
 \end{matrix}
 $
@@ -1488,6 +1482,8 @@ $16 \ \text{hours}$
 
 You have $5$ pieces of card shaped like this:
 
+![st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-2-question-8-00.png](/assets/st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-2-question-8-00.png "st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-2-question-8-00.png")
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1692,6 +1688,8 @@ TODOANSWER
 
 Put the numbers $1$ to $9$ in the square so that each row, column and diagonal add up to $15$.
 
+![st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-2-question-10-00.png](/assets/st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-2-question-10-00.png "st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-2-question-10-00.png")
+
 </div>
 <div class='workings'>
 <div class='working placeholder'>
@@ -1735,6 +1733,8 @@ Claire makes squares with matches.
 To make $1$ square she needs $4$ matches. 
 
 To make $2$ squares she needs $7$ matches.
+
+![st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-3-question-1-00.png](/assets/st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-3-question-1-00.png "st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-3-question-1-00.png")              ![st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-3-question-1-01.png](/assets/st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-3-question-1-01.png "st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-3-question-1-01.png")                   ![st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-3-question-1-02.png](/assets/st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-3-question-1-02.png "st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-3-question-1-02.png")
 
 </div>
 <div class='workings'>
@@ -2235,7 +2235,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

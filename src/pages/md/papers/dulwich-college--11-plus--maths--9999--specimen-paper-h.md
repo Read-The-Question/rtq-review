@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-h"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper H"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "24"
 ---
 <div class='paper'>
@@ -346,7 +346,7 @@ $250 \ \text {g}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -385,8 +385,8 @@ Fill in the next two lines of the pattern.
 
 $
 \begin{aligned}
-\text{\textunderscore \textunderscore} + \text{\textunderscore \textunderscore} &= \text{\textunderscore \textunderscore} \\
-\text{\textunderscore \textunderscore} + \text{\textunderscore \textunderscore} &= \text{\textunderscore \textunderscore}
+\ldots + \ldots &= \ldots \\
+\ldots + \ldots &= \ldots
 \end{aligned}
 $
 
@@ -424,11 +424,7 @@ $5^2 + 11 = 36$
 
 Complete the following line which comes later in the pattern.
 
-$
-\begin{aligned}
-\text{\textunderscore \textunderscore} + \text{\textunderscore \textunderscore} &= 121
-\end{aligned}
-$
+$\ldots + \ldots = 121$
 
 </div>
 <div class='workings'>
@@ -457,8 +453,8 @@ $10^2 + 21 = 121$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Write the following events in order, with the **most** probable (i.e. **most** likely) first and the **least** probable 
-(i.e. **least** likely) last. Give your answer as a sequence of letters, e.g. BACED.
+Write the following events in order, with the most probable (i.e. most likely) first and the least probable 
+(i.e. least likely) last. Give your answer as a sequence of letters, e.g. BACED.
 
 -  Being born on a Wednesday;
 -  A meteorite falls on the College tomorrow;
@@ -546,7 +542,7 @@ $8{:}52 \ \text {am}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The journey home in the evening takes the same time. She arrives home at $6.23 \ \text{p.m.}$. At what time did she leave work? 
+The journey home in the evening takes the same time. She arrives home at $6.23 \ \text{p.m.}$ At what time did she leave work? 
 
 </div>
 <div class='workings'>
@@ -671,6 +667,7 @@ $2.5 \ \text{m}$
 <div class='question question'>
 
 The distance from Calais to Paris is $320 \ \text{km}$.
+
 $5 \ \text{miles}$ is approximately $8 \ \text{kilometres}$.
  
 Calculate the approximate distance in miles from Calais to Paris.  
@@ -781,7 +778,7 @@ $600 \ \text{g}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -862,8 +859,8 @@ $7$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Three bus services stop at my bus stop. Service $A$ departs every $3 \ \text{minutes}$, Service $B$ every $5 \ \text{minutes}$ 
-and Service $C$ every $8 \ \text{minutes}$s.
+Three bus services stop at my bus stop. Service $A$ departs every $3 \ \text{minutes}$, service $B$ every $5 \ \text{minutes}$ 
+and service $C$ every $8 \ \text{minutes}$.
 
 If all three services leave my stop at $10.00 \ \text{a.m.}$, at what time will they next leave my stop together? (Assume that all three services always run on time). 
 
@@ -1208,7 +1205,7 @@ $196 \ \text {cm} ^2$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-On the grid above, plot and label the points $A (0,3), B (2,5), C (6,3),$ and $D (2,1)$.
+On the grid above, plot and label the points $A (0,3), \quad B (2,5), \quad C (6,3)$ and $D (2,1)$.
 
 </div>
 <div class='workings'>
@@ -1683,9 +1680,9 @@ $1 \ \text{km}$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Two numbers are *clotted* by multiplying them together and then writing the answer backwards.
+Two numbers are clotted by multiplying them together and then writing the answer backwards.
 
-For example, $6$ and $7$ are *clotted* to give $24$ because $6 \times 7 = 42$ and $42$ written backwards is $24$. 
+For example, $6$ and $7$ are clotted to give $24$ because $6 \times 7 = 42$ and $42$ written backwards is $24$. 
 
 </div>
 <div class='workings'>
@@ -1707,7 +1704,7 @@ For example, $6$ and $7$ are *clotted* to give $24$ because $6 \times 7 = 42$ an
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the result of *clotting* $8$ and $9$? 
+What is the result of clotting $8$ and $9?$
 
 </div>
 <div class='workings'>
@@ -1738,7 +1735,7 @@ $27$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-With which number must 4 be *clotted* with to give $42$? 
+With which number must $4$ be clotted with to give $42?$
 
 </div>
 <div class='workings'>
@@ -1776,7 +1773,7 @@ $6$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Find two whole numbers which *clot* to give $53$. 
+Find two whole numbers which clot to give $53$. 
 
 </div>
 <div class='workings'>

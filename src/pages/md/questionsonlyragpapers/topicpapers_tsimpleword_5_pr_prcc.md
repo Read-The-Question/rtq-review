@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tsimpleword-5-pr-prcc"
 title: "TopicPaper - Simpleword - 5 - PR - PRCC"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "14"
 ---
 <ul class='question default-decimal'>

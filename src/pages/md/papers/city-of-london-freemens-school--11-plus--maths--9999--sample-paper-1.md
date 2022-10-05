@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-freemens-school-11-plus-maths-9999-sample-paper-1"
 title: "City Of London Freemens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "19"
 ---
 <div class='paper'>
@@ -228,13 +228,16 @@ $1.1$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Simplify the following
+Simplify the following:
 
 $\dfrac{3}{30}$
 
 -  $\dfrac{1}{3}$
+
 -  $\dfrac{1}{10}$
+
 -  $\dfrac{1}{5}$
+
 -  $\dfrac{1}{9}$
 
 </div>
@@ -309,7 +312,7 @@ $\dfrac{1} {4}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -334,16 +337,11 @@ The next term is calculated by adding $8$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+8)} }
-&&  \footnotesize {\maroonC
- {(+8)} }
-&&  \footnotesize {\maroonC
- {(+8)} }
-&&  \footnotesize {\maroonC
- {(+8)} }
-&&  \footnotesize {\maroonC
- {(+8)} }  \\
+&   \footnotesize {\maroonC {(+8)} }
+&&  \footnotesize {\maroonC {(+8)} }
+&&  \footnotesize {\maroonC {(+8)} }
+&&  \footnotesize {\maroonC {(+8)} }
+&&  \footnotesize {\maroonC {(+8)} }  \\
 5,  &&   13,  &&  21, &&  29, && \ldots, && \ldots
 \end{matrix}
 $
@@ -581,7 +579,7 @@ $4.2$
 
 Write the following fractions in order of size, from smallest to largest:
 
-$\dfrac{2}{3}, \quad \dfrac{5}{6}, \quad \dfrac{7}{12}$
+$\dfrac{2}{3}, \dfrac{5}{6}, \dfrac{7}{12}$
 
 -   $\dfrac{7}{12}, \dfrac{2}{3}, \dfrac{5}{6}$
 
@@ -680,10 +678,10 @@ Work out the perimeter and area of the following shape:
 
 ![city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1/section-2-question-6-00.png](/assets/city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1/section-2-question-6-00.png "city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1/section-2-question-6-00.png")
 
--  P = $9 \ \text{cm}, \ A = 14 \ \text{cm}^2$
--  P = $14 \ \text{cm}, \ A = 18 \ \text{cm}^2$
--  P = $18 \ \text{cm}, \ A = 14 \ \text{cm}^2$
--  P = $18 \ \text{cm}^2, \ A = 14 \ \text{cm}$
+-  $P = 9 \ \text{cm}, \ A = 14 \ \text{cm}^2$
+-  $P = 14 \ \text{cm}, \ A = 18 \ \text{cm}^2$
+-  $P = 18 \ \text{cm}, \ A = 14 \ \text{cm}^2$
+-  $P = 18 \ \text{cm}^2, \ A = 14 \ \text{cm}$
 
 </div>
 <div class='workings'>
@@ -793,10 +791,10 @@ The table below shows the coins that were collected from the machine in one day.
 
 |      Coins      | Number of Coins |
 |:---------------:|:---------------:|
-| $50 \ \text{p}$ |        22       |
-| $20 \ \text{p}$ |        18       |
-| $10 \ \text{p}$ |        33       |
-|  $5 \ \text{p}$ |        41       |
+| $50 \text{p}$   |      $22$       |
+| $20 \text{p}$   |      $18$       |
+| $10 \text{p}$   |      $33$       |
+|  $5 \text{p}$   |      $41$       |
 
 How many cans of lemonade were sold that day?
 
@@ -908,8 +906,11 @@ $a = 48 \degree, b = 63 \degree$
 $3 \dfrac{1}{3} + 1 \dfrac{9}{20} =$
 
 - $4 \dfrac{9}{60}$
+
 - $4 \dfrac{49}{60}$
+
 - $4 \dfrac{10}{23}$
+
 - $4 \dfrac{47}{60}$
 
 </div>

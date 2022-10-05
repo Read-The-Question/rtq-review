@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdivision-1-g2"
 title: "TopicPaper - Division - 1 - G2"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "40"
 ---
 <ul class='question default-decimal'>
@@ -476,7 +476,7 @@ $0.4103$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-96 $\div$ 6 =
+$96 \div 6 =$
 
 - $17$
 - $14$
@@ -518,12 +518,12 @@ $16$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-410.3 $\div$ 1000 =
+$410.3 \div 1000 =$
 
-- 41.03
-- 4.103
-- 0.4103
-- 0.04103
+- $41.03$
+- $4.103$
+- $0.4103$
+- $0.04103$
 
 </div>
 <div class='workings'>
@@ -1006,8 +1006,6 @@ Work out the following divisions
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-%waffles%
-
 $6146$ divided by $7$
 
 </div>
@@ -1039,7 +1037,7 @@ $878$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$56400$ divided by $12$
+$56,400$ divided by $12$
 
 </div>
 <div class='workings'>

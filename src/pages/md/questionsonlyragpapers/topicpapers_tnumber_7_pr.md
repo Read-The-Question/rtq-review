@@ -1,20 +1,30 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tnumber-7-pr"
 title: "TopicPaper - Number - 7 - PR"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "6"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Look at the following long multiplication.
 
-
-$576 \times 48 = 4608 + 23040 = 27648$
+$
+\begin{array}{cccccccccccccc}
+        &     &          &   5   &   7   &   6 \\
+        &     & \times   &       &   4   &   8 \\
+\hline 
+        &     &   4      &   6   &   0   &   8  \\
+    {+} &  2  &   3      &   0   &   4   &   0  \\
+\hline
+        &  2  &   7      &   6   &   4   &   8  \\
+\hline
+\end{array}
+$
 
 Without doing any more calculations give the answers to: 
 
@@ -24,16 +34,7 @@ Without doing any more calculations give the answers to:
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-
-$
-\begin{array}{cccccccccccccc}
-         &            &   5   &   7   &   6 \\
-         &   \times   &       &       &   8 \\
-\hline 
-         &             &       &       &     \\
-\hline
-\end{array}
-$
+$576 \times 8 =$
 
 </div>
 
@@ -43,17 +44,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-
-$
-\begin{array}{cccccccccccccc}
-         &            &   5   &   7   &   6 \\
-         &   \times   &       &       &   4 \\
-\hline 
-         &            &       &       &     \\
-\hline
-\end{array}
-$
-
+$576 \times 4 =$
 
 </div>
 
@@ -63,7 +54,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$27648 \div 576 =$
+$27,648 \div 576 =$
 
 </div>
 
@@ -73,17 +64,7 @@ $27648 \div 576 =$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-
-$
-\begin{array}{cccccccccccccc}
-         &            &   2   &   7   &    6    &   4   &  8  \\
-         &   -        &   2   &   3   &    0    &   4   &  0 \\
-\hline 
-         &            &       &       &         &       &     \\
-\hline
-\end{array}
-$
-
+$27,648 - 23,040 =$
 
 </div>
 
@@ -93,7 +74,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -160,7 +141,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-\dfrac{48}{ \Box + 1} &= 6
+$\dfrac {48}{ \Box + 1} = 6$
 
 </div>
 

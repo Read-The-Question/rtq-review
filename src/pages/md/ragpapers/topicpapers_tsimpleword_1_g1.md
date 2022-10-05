@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-1-g1"
 title: "TopicPaper - Simpleword - 1 - G1"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "28"
 ---
 <ul class='question default-decimal'>
@@ -1331,7 +1331,7 @@ $\text{Because it is the remainder when 500 is divided by 27}$.
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Which is greater $90 \%$ of $10 \%$ of $300$ or $80 \%$ of $20 \%$ of $200$? 
+Which is greater $90 \%$ of $10 \%$ of $300$ or $80 \%$ of $20 \%$ of $200?$ 
 
 You must show calculations to explain your answer.
 
@@ -1483,7 +1483,7 @@ M
 There are $45$ scouts in a troop. The scouts are divided into patrols.
 There must be at least $6$ patrols, and each patrol must have the same number of scouts.
 
-What is the **largest** number of scouts that each patrol could contain?
+What is the largest number of scouts that each patrol could contain?
 
 </div>
 <div class='workings'>
@@ -1583,7 +1583,7 @@ $\pounds 29.95$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-The fraction **one eighth** is roughly the same as one of these percentages. Put a ring around the best one.
+The fraction one eighth is roughly the same as one of these percentages. Put a ring around the best one.
 
 $10 \%  \quad 12 \%  \quad 14 \%  \quad 16 \%  \quad 18 \%$
 

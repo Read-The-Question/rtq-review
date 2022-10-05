@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-2-oldpr"
 title: "TopicPaper - Areaperimeter - 2 - OLDPR"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -213,7 +213,7 @@ $48 \ \text {cm} ^ 2$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-The floor or a room is $3 \ \text{metres}$ wide and $4 \ \text{metres}$ long.
+The floor of a room is $3 \ \text{metres}$ wide and $4 \ \text{metres}$ long.
 I am going to tile the floor with tiles that are $25 \ \text{centimetres}$ wide and $50 \ \text{centimetres}$ long.
 How many tiles do I need to buy?
 

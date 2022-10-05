@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-ttemperature-1"
 title: "TopicPaper - Temperature - 1"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "40"
 ---
 <div class='paper'>
@@ -217,7 +217,7 @@ Which was cooler?
 
 The thermometers below show the temperature recorded at midday yesterday and midnight last night.
 
-![city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-00.png](/assets/city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-00.png "city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-00.png")   ![city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-01.png](/assets/city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-01.png "city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-01.png")
+![city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-00.png](/assets/city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-00.png "city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-00.png")
 
 </div>
 <ul class='subquestion lower-alpha'>
@@ -271,7 +271,7 @@ What is the temperature in Inverness?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -286,7 +286,7 @@ Ola is looking at the scale on a thermometer.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the value on the scale at $A$?
+What is the value on the scale at $A?$
 
 </div>
 
@@ -296,7 +296,7 @@ What is the value on the scale at $A$?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the value on the scale at $B$?
+What is the value on the scale at $B?$
 
 </div>
 
@@ -306,7 +306,7 @@ What is the value on the scale at $B$?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the value of $A - B$?
+What is the value of $A - B?$
 
 </div>
 
@@ -316,7 +316,7 @@ What is the value of $A - B$?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the value of $A + B$?
+What is the value of $A + B?$
 
 </div>
 
@@ -701,11 +701,7 @@ On January $1^\text{st}$, the temperature in Moscow was -$6 \degree \text{C}$ an
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-![royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-00.png](/assets/royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-00.png "royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-00.png")
-
 In New York it is $23\degree\text{C}$ and in Moscow it is $–5\degree\text{C}$. What is the temperature difference?
-
-![royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-01.png](/assets/royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-01.png "royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-01.png")
 
 </div>
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2015-sample-paper-6"
 title: "Sevenoaks School - 11 Plus - Maths - 2015 - Sample Paper 6"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "18"
 ---
 <div class='paper'>
@@ -228,7 +228,7 @@ $1325$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -269,14 +269,10 @@ The next term is calculated by multiplying the previous term by $2$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 2)}} 
-&&  \footnotesize{\maroonC
-{(\times 2)}}  
-&&  \footnotesize{\maroonC
-{(\times 2)}}   
-&&  \footnotesize{\maroonC
-{(\times 2)}}  \\
+&   \footnotesize{\maroonC{(\times 2)}} 
+&&  \footnotesize{\maroonC{(\times 2)}}  
+&&  \footnotesize{\maroonC{(\times 2)}}   
+&&  \footnotesize{\maroonC{(\times 2)}}  \\
 \ldots,  &&      6,  &&      12,   &&      24,  &&      \ldots 
 \end{matrix}
 $
@@ -324,14 +320,10 @@ The next term is calculated by adding $3$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+3)}} 
-&&  \footnotesize{\maroonC
-{(+3)}}  
-&&  \footnotesize{\maroonC
-{(+3)}}   
-&&  \footnotesize{\maroonC
-{(+3)}}  \\
+&   \footnotesize{\maroonC{(+3)}} 
+&&  \footnotesize{\maroonC{(+3)}}  
+&&  \footnotesize{\maroonC{(+3)}}   
+&&  \footnotesize{\maroonC{(+3)}}  \\
 4,  &&      \ldots , &&      10,   &&      13,  &&      \ldots 
 \end{matrix}
 $
@@ -379,14 +371,10 @@ The next term is calculated by dividing the previous term by $2$. Hence, the seq
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\div 2)}} 
-&&  \footnotesize{\maroonC
-{(\div 2)}} 
-&&  \footnotesize{\maroonC
-{(\div 2)}}   
-&&  \footnotesize{\maroonC
-{(\div 2)}}  \\
+&   \footnotesize{\maroonC{(\div 2)}} 
+&&  \footnotesize{\maroonC{(\div 2)}} 
+&&  \footnotesize{\maroonC{(\div 2)}}   
+&&  \footnotesize{\maroonC{(\div 2)}}  \\
 \ldots,  &&      16,  &&      8,   &&      4,  &&      \ldots
 \end{matrix}
 $
@@ -434,14 +422,10 @@ The next term is calculated by subtracting $3$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-3)}} 
-&&  \footnotesize{\maroonC
-{(-3)}}  
-&&  \footnotesize{\maroonC
-{(-3)}}   
-&&  \footnotesize{\maroonC
-{(-3)}}  \\
+&   \footnotesize{\maroonC{(-3)}} 
+&&  \footnotesize{\maroonC{(-3)}}  
+&&  \footnotesize{\maroonC{(-3)}}   
+&&  \footnotesize{\maroonC{(-3)}}  \\
 \ldots,  &&      6 , &&      3,   &&      0,  &&      -3
 \end{matrix}
 $
@@ -469,7 +453,7 @@ $9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -490,6 +474,22 @@ $
                                           &= \dfrac {145 \times 2 \cancel{0} \cancel{0}}{1 \cancel{0} \cancel{0}}  \\\\
                                           &= 145 \times 2  \\\\
                                           &= \pounds 290
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{New price}            &= \text {Original price} - \text {Discount} \\\\
+                            &= 200 + 45 \% \text{ of } 200  \\\\
+                            &= 200 + \dfrac {45} {100} \times 200 \\\\
+                            &= 200 + \dfrac {45 \times 200} {100} \\\\
+                            &= 200 + \dfrac {45 \times 2 \cancel {00}} {1 \cancel {00}} \\\\
+                            &= 200 + 45 \times 2 \\\\
+                            &= 200 + 90 \\\\
+                            &= \pounds 290
 \end{aligned}
 $
 

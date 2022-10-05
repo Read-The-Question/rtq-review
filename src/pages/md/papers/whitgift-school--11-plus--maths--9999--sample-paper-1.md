@@ -1,7 +1,7 @@
 ---
 slug: "papers/whitgift-school-11-plus-maths-9999-sample-paper-1"
 title: "Whitgift School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "33"
 ---
 <div class='paper'>
@@ -520,7 +520,7 @@ $5 \%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -531,16 +531,16 @@ David jogs at $3\, metres$ per second. How far does he jog in $15\, minutes$?
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
+ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
 
 
 $
 \begin{aligned}
-\text{Distance}   &=   3 \text{ metres/second} \times 15 \text{ minutes} \\\\
-                  &=   3 \text{ metres/second} \times (15 \times 60) \text{ seconds} \\\\
-                  &=   3 \times 15 \times 60 \\\\
-                  &=   45 \times 60 \\\\
-                  &=   2700 \text{ metres}
+\text{Distance}   &= 3 \times 15 \text{ minutes} \\\\
+                  &= 3 \times 15 \times 60 \text{ seconds} \\\\
+                  &= 3 \times 15 \times 60 \\\\
+                  &= 45 \times 60 \\\\
+                  &= 2700 \text{ metres}
 \end{aligned}
 $
 
@@ -1049,7 +1049,7 @@ $789, 798, 879, 897, 978, 987$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1075,11 +1075,11 @@ Let's complete the table.
 | First Number                                    | Second Number                       | Numbers Added  Together               | Number Multiplied Together              |
 |:------------:                                   |---------------                      |:-----------------------:              |:--------------------------:             |
 |      $4$                                        |      $7$                            |           $11$                        |            $28$                         |
-|      $5$                                        |      $12$                           | $12 + 5 = 17 \ \footnotesize{(1)}$    | $5 \times 12 = 60 \ \footnotesize{(2)}$ |
-|      $9$                                        | $16 - 9 = 7 \ \footnotesize{(3)}$   |           $16$                        | $9 \times 7 = 63 \ \footnotesize{(4)}$  |
-| $\dfrac {1000} {20} = 500 \ \footnotesize{(5)}$ |      $20$                           | $500 + 20 = 520 \ \footnotesize{(6)}$ |           $1000$                        |
-| $15 \ \footnotesize{(7)}$                       | $18 - 15 = 3 \ \footnotesize{(8)}$  |           $18$                        |            $45$                         |
-| $12 \ \footnotesize{(9)}$                       | $20 - 12 = 8 \ \footnotesize{(10)}$ |           $20$                        |            $96$                         |
+|      $5$                                        |      $12$                           | $12 + 5 = 17 \ \maroonC{\footnotesize{(1)}}$    | $5 \times 12 = 60 \ \maroonC{\footnotesize{(2)}}$ |
+|      $9$                                        | $16 - 9 = 7 \ \maroonC{\footnotesize{(3)}}$   |           $16$                        | $9 \times 7 = 63 \ \maroonC{\footnotesize{(4)}}$  |
+| $\dfrac {1000} {20} = 500 \ \maroonC{\footnotesize{(5)}}$ |      $20$                           | $500 + 20 = 520 \ \maroonC{\footnotesize{(6)}}$ |           $1000$                        |
+| $15 \ \maroonC{\footnotesize{(7)}}$                       | $18 - 15 = 3 \ \maroonC{\footnotesize{(8)}}$  |           $18$                        |            $45$                         |
+| $12 \ \maroonC{\footnotesize{(9)}}$                       | $20 - 12 = 8 \ \maroonC{\footnotesize{(10)}}$ |           $20$                        |            $96$                         |
 
 </div>
 </div>
@@ -1479,7 +1479,7 @@ $20 ,15$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1488,26 +1488,39 @@ A box of kiddimix contains $20$ chocolates of which $8$ are plain chocolates and
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Let the number of palin chocolates with soft centres $= a$
 
-</div>
-<div class='working placeholder'>
+Let's complete the table.
 
-TODOWORKING
+|              | Plane chocolates             | Normal chocolates                                           | **Total**                           |
+|:---------:   |-------                       |-------                                                      |-----------                          |
+| Soft centres | $a$                          | $16 - a \ \footnotesize{(7)}$                               | $16 \ \footnotesize{(2)}$           |
+| Hard centres | $8 - a \ \footnotesize{(6)}$ | $12 - (16 - a) = 12 - 16 + a = a - 4 \ \footnotesize{(8)}$  | $20 - 16 = 4 \ \footnotesize{(3)}$  |
+| **Total**    | $8 \ \footnotesize{(4)}$     | $20 - 8 = 12 \ \footnotesize{(5)}$                          | $20 \ \footnotesize{(1)}$           |
+
+$
+\begin{aligned}
+a - 4                   &\geq 0 \\\\
+a                       &\geq 4    &  (1)\\\\
+16 - a                  &\geq 0 \\\\
+16                      &\geq a \\\\
+a                       &\leq 16   &  (2) \\\\
+8 - a                   &\geq 0 \\\\
+8                       &\geq a \\\\
+a                       &\leq 8    &  (3)
+\end{aligned}
+$
+
+Number of plain chocolates with plain centres are between $4$ and $8$ inclusive.
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+Number of plain chocolates with plain centres are between $4$ and $8$ inclusive.
 
 </div>
 </div>
@@ -1564,7 +1577,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

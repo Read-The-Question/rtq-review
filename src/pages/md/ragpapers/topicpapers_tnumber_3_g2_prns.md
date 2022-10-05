@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-3-g2-prns"
 title: "TopicPaper - Number - 3 - G2 - PRNS"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -523,7 +523,7 @@ $2 \times 2 \times 2 \times 7$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Convert $2750 \ \text{grams}$ into $ \ \text{kilograms}$.
+Convert $2750 \ \text{grams}$ into $\text{kilograms}$.
 
 </div>
 <div class='workings'>
@@ -635,7 +635,7 @@ $4.2$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-$0.00712 x 100 =$
+$0.00712 \times 100 =$
 
 - $0.712$
 - $7.12$

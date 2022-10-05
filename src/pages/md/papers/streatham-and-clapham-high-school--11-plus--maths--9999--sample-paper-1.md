@@ -1,7 +1,7 @@
 ---
 slug: "papers/streatham-and-clapham-high-school-11-plus-maths-9999-sample-paper-1"
 title: "Streatham And Clapham High School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "46"
 ---
 <div class='paper'>
@@ -779,7 +779,7 @@ $40$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -827,18 +827,12 @@ The next term is calculated by subtracting $4$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-4)}} 
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}  
-&&  \footnotesize{\maroonC
-{(-4)}}   
-&&  \footnotesize{\maroonC
-{(-4)}}   
-&&  \footnotesize{\maroonC
-{(-4)}}  \\
+&   \footnotesize{\maroonC{(-4)}} 
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}  
+&&  \footnotesize{\maroonC{(-4)}}   
+&&  \footnotesize{\maroonC{(-4)}}   
+&&  \footnotesize{\maroonC{(-4)}}  \\
 13,  &&    9,  &&  5,  &&   1,  &&   -3, && \ldots, && \ldots
 \end{matrix}
 $
@@ -1186,7 +1180,7 @@ $2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1211,11 +1205,28 @@ If the price is reduced by $20 \%$, then the new price will be $100 - 20 = 80 \%
 
 $
 \begin{aligned} 
-\text{Sale price}       &=  80 \% \times 150  \\\\
-                        &=  \dfrac{80 \times 150}{100} \\\\
-                        &=  \dfrac{8 \cancel{0} \times 15 \cancel{0}}{1 \cancel{0} \cancel{0}} \\\\
-                        &=  8 \times 15 \\\\
-                        &=  \pounds 120
+\text{Sale price}       &= 80 \% \text{ of } 150 \\\\
+                        &= \dfrac {80} {100} \times 150  \\\\
+                        &= \dfrac {80 \times 150} {100} \\\\
+                        &= \dfrac {8 \cancel{0} \times 15 \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
+                        &= 8 \times 15 \\\\
+                        &= \pounds 120
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{New price}            &= \text {Original price} - \text {Discount} \\\\
+                            &= 150 - 20 \% \text{ of } 150  \\\\
+                            &= 150 - \dfrac {20} {100} \times 150 \\\\
+                            &= 150 - \dfrac {20 \times 150} {100} \\\\
+                            &= 150 - \dfrac {2 \cancel 0 \times 15 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
+                            &= 150 - 2 \times 15 \\\\
+                            &= 150 - 30 \\\\
+                            &= \pounds 120
 \end{aligned}
 $
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/eltham-college-11-plus-maths-2020-sample-paper-2"
 title: "Eltham College - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "23"
 ---
 <div class='paper'>
@@ -605,9 +605,7 @@ $
                            &= 127 \\\\                    
 \text{Second value}        &= 96 + 7 \times 3 \\\\
                            &= \red{117} \\\\
-\maroonC
-{127} &\neq \maroonC
-{117}
+\maroonC{127} &\neq \maroonC{117}
 \end{aligned}
 $
 
@@ -676,7 +674,7 @@ $\dfrac {1} {2}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

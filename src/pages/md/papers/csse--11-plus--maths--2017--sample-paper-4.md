@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2017-sample-paper-4"
 title: "Csse - 11 Plus - Maths - 2017 - Sample Paper 4"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "21"
 ---
 <div class='paper'>
@@ -445,7 +445,7 @@ $0.25$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Which numer is halfway between:
+Which number is halfway between:
 
 $0.01$ and $0.26?$
 
@@ -480,7 +480,7 @@ $0.135$
 
 Which is the smallest:
 
-$5.301, \quad 5.031, \quad 5.13$ or $5.103?$
+$5.301, 5.031, 5.13$ or $5.103?$
 
 </div>
 <div class='workings'>
@@ -950,7 +950,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-A bottle contains $0.35 \ \text{litres}$, how many \ \text{ml} is this?
+A bottle contains $0.35 \ \text{litres}$, how many $\text{ml}$ is this?
 
 </div>
 <div class='workings'>
@@ -980,7 +980,7 @@ $350 \ \text {ml}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-A picture is $540 \ \text{mm}$ tall, what is this measurement in \ \text{cm}?
+A picture is $540 \ \text{mm}$ tall, what is this measurement in $\text{cm}?$
 
 </div>
 <div class='workings'>
@@ -1011,7 +1011,7 @@ $54 \ \text {cm}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-A bag of flour contains $1029 \ \text{g}$. Rewrite the quantity in \ \text{kg}.
+A bag of flour contains $1029 \text{g}$. Rewrite the quantity in $\text{kg}$.
 
 </div>
 <div class='workings'>
@@ -1041,7 +1041,7 @@ $1.029 \ \text {kg}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Add together $1 \ \text{mm}$, $0.1 \ \text{cm}$ and $0.1 \ \text{m}$. Give your answer in \ \text{cm}.
+Add together $1 \ \text{mm}$, $0.1 \ \text{cm}$ and $0.1 \ \text{m}$. Give your answer in $\text{cm}$.
 
 </div>
 <div class='workings'>
@@ -1076,7 +1076,7 @@ The area of a postage stamp is calculated as:
 
 $2 \ \text{cm} \times 2.5 \ \text{cm} = 5 \ \text{cm}^2$
 
-What is the area of this stamp in $\text{mm}^2$?
+What is the area of this stamp in $\text{mm}^2?$
 
 </div>
 <div class='workings'>
@@ -1120,9 +1120,6 @@ A Formula $1$ race is $96$ laps of the track. A driver averages $1 \ \text{minut
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
-
-
 $
 \begin{aligned}
 \text {Race duration}   &= 96 \times (1 \text{ minute } 20 \text{ seconds} ) \\\\
@@ -1149,7 +1146,7 @@ $2 \ \text {hour} \ 8 \ \text {minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g1 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1182,32 +1179,37 @@ Ashok buys the coat for sale at '$40\%$ off'. How much does he pay for it?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text {Sale price = (100 - Discount})\ \% \times \text{Original price}$
+
+
+If the price is reduced by $40 \%$, then the new price will be $100 - 40 = 60 \%$ of the original price. Using that, we get
+
 $
 \begin{aligned}
-\text{Sale price}  &= \text {Original price} - \text {Discount} \\\\
-                   &= 120 - 40 \% \times 120  \\\\
-                   &= 120 - \dfrac {40} {100} \times 120 \\\\
-                   &= 120 - \dfrac {40 \times 120} {100} \\\\
-                   &= 120 - \dfrac {4 \cancel 0 \times 12 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
-                   &= 120 - 4 \times 12 \\\\
-                   &= 120 - 48 \\\\
-                   &= \pounds 72
+\text {Sale price}          &= 60 \% \text{ of } 120 \\\\
+                            &= \dfrac {60} {100} \times 120 \\\\
+                            &= \dfrac {60 \times 120} {100}  \\\\
+                            &= \dfrac {6 \cancel 0 \times 12 \cancel 0} {1 \cancel 0 \cancel 0}  \\\\
+                            &= 6 \times 12 \\\\
+                            &= \pounds 72
 \end{aligned}
 $
 
 </div>
 <div class='working'>
 
-If the price is reduced by $40 \%$, then the new price will be $100 - 40 = 60 \%$ of the original price. Using that, we get
+ABBR: $\text {Sale price = Original price} - \text{Discount } \% \times \text{Original price}$
+
 
 $
 \begin{aligned}
-\text {Sale price}          &= 60 \% \times 120 \\\\
-                            &= \dfrac {60} {100} \times 120 \\\\
-                            &= \dfrac {60 \times 120} {100}  \\\\
-                            &= \dfrac {6 \cancel 0 \times 12 \cancel 0} {1 \cancel 0 \cancel 0}  \\\\
-                            &= 6 \times 12 \\\\
-                            &= \pounds 72
+\text{Sale price}  &= 120 - 40 \% \text{ of }  120  \\\\
+                   &= 120 - \dfrac {40} {100} \times 120 \\\\
+                   &= 120 - \dfrac {40 \times 120} {100} \\\\
+                   &= 120 - \dfrac {4 \cancel 0 \times 12 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
+                   &= 120 - 4 \times 12 \\\\
+                   &= 120 - 48 \\\\
+                   &= \pounds 72
 \end{aligned}
 $
 
@@ -1241,7 +1243,7 @@ If the price is reduced by $30 \%$, then the advertised price will be $100 - 30 
 
 $
 \begin{aligned}
-\text {Advertised price}    &= 70 \% \times 120 \\\\
+\text {Advertised price}    &= 70 \% \text{ of } 120 \\\\
                             &= \dfrac {70} {100} \times 120 \\\\
                             &= \dfrac {70 \times 120} {100}  \\\\
                             &= \dfrac {7 \cancel 0 \times 12 \cancel 0} {1 \cancel 0 \cancel 0}  \\\\
@@ -1250,15 +1252,38 @@ $
 \end{aligned}
 $
 
-If the price is reduced by $10 \%$, then the new advertised price will be $100 - 10 = 90 \%$ of the original price. Using that, we get
+If the price is reduced by $10 \%$, then the registered member price will be $100 - 10 = 90 \%$ of the advertised price. Using that, we get
 
 $
 \begin{aligned}
-\text {New advertised price}    &= 90 \% \times 120 \\\\
-                                &= \dfrac {90} {100} \times 84 \\\\
-                                &= \dfrac {90 \times 84} {100}  \\\\
-                                &= \dfrac {7560} {100}  \\\\
-                                &= \pounds 75.6
+\text {Member price}    &= 90 \% \text{ of }  84 \\\\
+                        &= \dfrac {90} {100} \times 84 \\\\
+                        &= \dfrac {90 \times 84} {100}  \\\\
+                        &= \dfrac {7560} {100}  \\\\
+                        &= \pounds 75.6
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Advertised price}     &= \text {Original price} - \text {Discount} \\\\
+                            &= 120 - 30 \% \text{ of }  120  \\\\
+                            &= 120 - \dfrac {30} {100} \times 120 \\\\
+                            &= 120 - \dfrac {30 \times 120} {100} \\\\
+                            &= 120 - \dfrac {3 \cancel 0 \times 12 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
+                            &= 120 - 3 \times 12 \\\\
+                            &= 120 - 36 \\\\
+                            &= \pounds 84 \\\\
+\text{Member price}         &= \text {Advertised price} - \text {Discount} \\\\
+                            &= 84 - 10 \% \text{ of }  120  \\\\
+                            &= 84 - \dfrac {10} {100} \times 84 \\\\
+                            &= 84 - \dfrac {10 \times 84} {100} \\\\
+                            &= 84 - \dfrac {840} {100} \\\\
+                            &= 84 - 8.4 \\\\
+                            &= \pounds 75.6
 \end{aligned}
 $
 
@@ -1267,7 +1292,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 75.6$
+Advertised price $=$ $\pounds 84$
+
+</div>
+<div class='answer'>
+
+Member price $=$ $\pounds 75.6$
 
 </div>
 </div>
@@ -1557,7 +1587,7 @@ $2400 \ \text {cm}^2$
 
 Errol now uses a saw to cut the cube in two along the dotted line shown.
 
-What fraction of the area of the two new blocks is **not** painted?
+What fraction of the area of the two new blocks is not painted?
 
 ![csse--11-plus--maths--2017--sample-paper-4/section-1-question-14-subquestion-3-00.png](/assets/csse--11-plus--maths--2017--sample-paper-4/section-1-question-14-subquestion-3-00.png "csse--11-plus--maths--2017--sample-paper-4/section-1-question-14-subquestion-3-00.png")
 
@@ -1742,7 +1772,7 @@ The pie chart and table show the answere given by $80$ people to a survey about 
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-%format% The pie chart has an angle of $90 \degree$ for the Tour de France.
+The pie chart has an angle of $90 \degree$ for the Tour de France.
 
 How many people does this represent?
 
@@ -2206,7 +2236,7 @@ $3 \ \text {cm}, 34 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2221,26 +2251,16 @@ Use this information to answer the following questions.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -2253,26 +2273,26 @@ How many pupils must have been on both rides?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: $(A \text{ and } B) = A + B - (A \text{ or } B)$
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Number of people on one of the rides}     &= 75 - 8 \\\\
+                                                &= 67 \\\\
+\text{Number of people on both rides}           &= 53 + 47 - 67 \\\\
+                                                &= 33
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$33$
 
 </div>
 </div>
@@ -2287,26 +2307,24 @@ How manu pupils rode *only* Doomfall?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: $\text{ only } A = A - (A \text{ and } B)$
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Number of people on Doomfall rides}       &= 53 - 33 \\\\
+                                                &= 20
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$20$
 
 </div>
 </div>
@@ -2323,26 +2341,25 @@ What fraction of the pupils did *not* ride Skyleap?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: $\text{ only } A = A - (A \text{ and } B)$
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Number of people not on Skyleap rides}    &= 75 - 47 \\\\
+                                                &= 28 \\\\
+\text{Fraction of people not on Skyleap rides}  &= \dfrac {28} {75}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\dfrac {28} {75}$
 
 </div>
 </div>
@@ -2392,7 +2409,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-How many tiles would be needed, in total for the $7 \text{th}$ pattern in this sequence?
+How many tiles would be needed, in total for the $7^\text{th}$ pattern in this sequence?
 
 </div>
 <div class='workings'>
@@ -2426,7 +2443,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-How many black tiles are needed for the $7 \text{th}$ pattern?
+How many black tiles are needed for the $7^\text{th}$ pattern?
 
 </div>
 <div class='workings'>
@@ -2460,7 +2477,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The $9 \text{th}$ pattern in the sequence has $36$ black tiles.
+The $9^\text{th}$ pattern in the sequence has $36$ black tiles.
 
 Which other pattern in the sequence also uses exactly $36$ black tiles?
 

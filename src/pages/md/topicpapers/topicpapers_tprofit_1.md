@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tprofit-1"
 title: "TopicPaper - Profit - 1"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "33"
 ---
 <div class='paper'>
@@ -16,7 +16,7 @@ questions_count: "33"
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -35,6 +35,12 @@ Show workings.
 </div>
 <div class='workings'>
 <div class='working'>
+
+ABBR: $\text {Sale price = Original price} - \text{Discount } \% \times \text{Original price}$
+
+
+ABBR: $\text {Sale price = (100 - Discount})\ \% \times \text{Original price}$
+
 
 Let's calculate the sale price of bicycle from each deal.
 
@@ -77,7 +83,7 @@ Deal A
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -108,6 +114,12 @@ You **must** show your working.
 </div>
 <div class='workings'>
 <div class='working'>
+
+ABBR: $\text {Sale price = Original price} - \text{Discount } \% \times \text{Original price}$
+
+
+ABBR: $\text {Sale price = (100 - Discount})\ \% \times \text{Original price}$
+
 
 Let's calculate the cheapest price of $2$ chairs from each shop.
 
@@ -165,7 +177,7 @@ $\text{Shop C} = \pounds 820$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -198,7 +210,7 @@ $\pounds 98$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -236,7 +248,7 @@ How much change, in pounds, does she get from a $\pounds 10$ note?
 
 $
 \begin{aligned}
-\text{Change she get}       &= 10 - 5.85 - 3.29 \\\\
+\text{Change}               &= 10 - 5.85 - 3.29 \\\\
                             &= 10 - 9.14 \\\\
                             &= \pounds 0.86
 \end{aligned}
@@ -270,25 +282,51 @@ What was the full price of the jeans?
 <div class='workings'>
 <div class='working'>
 
-Let the full price of the jeans $= a$
+Let the full price of the jeans $= p$
+
+Jo got $10 \%$ discount and Aisha got $15 \%$ discount. So Jo paid $15 - 10 = 5 \%$ more of the full price.
 
 As per the question,
 
 $
 \begin{aligned}
-a - 10 \% \ \text{of} \ a                             &= a - 15 \% \ \text{of} \ a + 1.2 \\\\
-a - \dfrac {10} {100} \times a                        &= a - \dfrac {15} {100} \times a + 1.2 \\\\
-a - \dfrac {10a} {100}                                &= a - \dfrac {15a} {100} + 1.2 \\\\
-a - \dfrac {10a} {100} - a + \dfrac {15a} {100}       &= 1.2 \\\\
-a - a + \dfrac {15a} {100} - \dfrac {10a} {100}       &= 1.2 \\\\
-\dfrac {15a - 10a} {100}                              &= 1.2 \\\\
-\dfrac {5a} {100}                                     &= 1.2 \\\\
-a                                                     &= 1.2 \times \dfrac {100} {5} \\\\
-a                                                     &= \dfrac {1.2 \times 100} {5} \\\\
-a                                                     &= \dfrac {1.2 \times 20 \times 5} {5} \\\\
-a                                                     &= \dfrac {1.2 \times 20 \times \cancel 5} {\cancel 5} \\\\
-a                                                     &= 1.2 \times 20 \\\\
-a                                                     &= \pounds 24
+5 \% \ \text{of} \ p        &= 1.20 \\\\
+\dfrac {5} {100} \times p   &= 1.20 \\\\
+p                           &= \dfrac {1.20 \times 100} {5} \\\\
+p                           &= \dfrac {1.20 \times 20 \times 5} {5} \\\\
+p                           &= \dfrac {1.20 \times 20 \times \cancel{5}} {\cancel{5}} \\\\
+p                           &= 1.20 \times 20 \\\\
+p                           &= \pounds 24
+\end{aligned}
+$
+
+Full price of the jeans $= \pounds 24$
+
+</div>
+<div class='working'>
+
+ABBR: $\text {Sale price = Original price} - \text{Discount } \% \times \text{Original price}$
+
+
+ABBR: $\text {Sale price = (100 - Discount})\ \% \times \text{Original price}$
+
+
+Let the full price of the jeans $= p$
+
+As per the question,
+
+$
+\begin{aligned}
+(p - 10 \% \ \text{of} \ p)  - (p - 15 \% \ \text{of} \ p)  &= 1.20 \\\\
+p - 10 \% \ \text{of} \ p  - p + 15 \% \ \text{of} \ p      &= 1.20 \\\\
+15 \% \ \text{of} \ p - 10 \% \ \text{of} \ p               &= 1.20 \\\\
+5 \% \ \text{of} \ p                                        &= 1.20 \\\\
+\dfrac {5} {100} \times p                                   &= 1.20 \\\\
+p                                                           &= \dfrac {1.20 \times 100} {5} \\\\
+p                                                           &= \dfrac {1.20 \times 20 \times 5} {5} \\\\
+p                                                           &= \dfrac {1.20 \times 20 \times \cancel{5}} {\cancel{5}} \\\\
+p                                                           &= 1.20 \times 20 \\\\
+p                                                           &= \pounds 24
 \end{aligned}
 $
 
@@ -310,7 +348,7 @@ $\pounds 24$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -379,7 +417,7 @@ Snadra chooses a pair of jeans marked $\pounds 48$. How much did Sandra save by 
 
 $
 \begin{aligned}
-\text{Sandra saved} &= 25 \% \ \text{of} \ 48 \\\\
+\text{Savings}      &= 25 \% \ \text{of} \ 48 \\\\
                     &= \dfrac {25} {100} \times 48 \\\\
                     &= \dfrac {25 \times 48} {100} \\\\
                     &= \dfrac {25 \times 4 \times 12} {25 \times 4} \\\\
@@ -412,8 +450,8 @@ How much will she actually have to pay for them in sale?
 
 $
 \begin{aligned}
-\text{She paid} &= 48 - 12 \\\\
-                &= \pounds 36
+\text{Amount paid}  &= 48 - 12 \\\\
+                    &= \pounds 36
 \end{aligned}
 $
 
@@ -433,7 +471,7 @@ $\pounds 36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -465,7 +503,7 @@ $\pounds 7.37$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g1 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -498,32 +536,37 @@ Ashok buys the coat for sale at '$40\%$ off'. How much does he pay for it?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text {Sale price = (100 - Discount})\ \% \times \text{Original price}$
+
+
+If the price is reduced by $40 \%$, then the new price will be $100 - 40 = 60 \%$ of the original price. Using that, we get
+
 $
 \begin{aligned}
-\text{Sale price}  &= \text {Original price} - \text {Discount} \\\\
-                   &= 120 - 40 \% \times 120  \\\\
-                   &= 120 - \dfrac {40} {100} \times 120 \\\\
-                   &= 120 - \dfrac {40 \times 120} {100} \\\\
-                   &= 120 - \dfrac {4 \cancel 0 \times 12 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
-                   &= 120 - 4 \times 12 \\\\
-                   &= 120 - 48 \\\\
-                   &= \pounds 72
+\text {Sale price}          &= 60 \% \text{ of } 120 \\\\
+                            &= \dfrac {60} {100} \times 120 \\\\
+                            &= \dfrac {60 \times 120} {100}  \\\\
+                            &= \dfrac {6 \cancel 0 \times 12 \cancel 0} {1 \cancel 0 \cancel 0}  \\\\
+                            &= 6 \times 12 \\\\
+                            &= \pounds 72
 \end{aligned}
 $
 
 </div>
 <div class='working'>
 
-If the price is reduced by $40 \%$, then the new price will be $100 - 40 = 60 \%$ of the original price. Using that, we get
+ABBR: $\text {Sale price = Original price} - \text{Discount } \% \times \text{Original price}$
+
 
 $
 \begin{aligned}
-\text {Sale price}          &= 60 \% \times 120 \\\\
-                            &= \dfrac {60} {100} \times 120 \\\\
-                            &= \dfrac {60 \times 120} {100}  \\\\
-                            &= \dfrac {6 \cancel 0 \times 12 \cancel 0} {1 \cancel 0 \cancel 0}  \\\\
-                            &= 6 \times 12 \\\\
-                            &= \pounds 72
+\text{Sale price}  &= 120 - 40 \% \text{ of }  120  \\\\
+                   &= 120 - \dfrac {40} {100} \times 120 \\\\
+                   &= 120 - \dfrac {40 \times 120} {100} \\\\
+                   &= 120 - \dfrac {4 \cancel 0 \times 12 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
+                   &= 120 - 4 \times 12 \\\\
+                   &= 120 - 48 \\\\
+                   &= \pounds 72
 \end{aligned}
 $
 
@@ -557,7 +600,7 @@ If the price is reduced by $30 \%$, then the advertised price will be $100 - 30 
 
 $
 \begin{aligned}
-\text {Advertised price}    &= 70 \% \times 120 \\\\
+\text {Advertised price}    &= 70 \% \text{ of } 120 \\\\
                             &= \dfrac {70} {100} \times 120 \\\\
                             &= \dfrac {70 \times 120} {100}  \\\\
                             &= \dfrac {7 \cancel 0 \times 12 \cancel 0} {1 \cancel 0 \cancel 0}  \\\\
@@ -566,15 +609,38 @@ $
 \end{aligned}
 $
 
-If the price is reduced by $10 \%$, then the new advertised price will be $100 - 10 = 90 \%$ of the original price. Using that, we get
+If the price is reduced by $10 \%$, then the registered member price will be $100 - 10 = 90 \%$ of the advertised price. Using that, we get
 
 $
 \begin{aligned}
-\text {New advertised price}    &= 90 \% \times 120 \\\\
-                                &= \dfrac {90} {100} \times 84 \\\\
-                                &= \dfrac {90 \times 84} {100}  \\\\
-                                &= \dfrac {7560} {100}  \\\\
-                                &= \pounds 75.6
+\text {Member price}    &= 90 \% \text{ of }  84 \\\\
+                        &= \dfrac {90} {100} \times 84 \\\\
+                        &= \dfrac {90 \times 84} {100}  \\\\
+                        &= \dfrac {7560} {100}  \\\\
+                        &= \pounds 75.6
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Advertised price}     &= \text {Original price} - \text {Discount} \\\\
+                            &= 120 - 30 \% \text{ of }  120  \\\\
+                            &= 120 - \dfrac {30} {100} \times 120 \\\\
+                            &= 120 - \dfrac {30 \times 120} {100} \\\\
+                            &= 120 - \dfrac {3 \cancel 0 \times 12 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
+                            &= 120 - 3 \times 12 \\\\
+                            &= 120 - 36 \\\\
+                            &= \pounds 84 \\\\
+\text{Member price}         &= \text {Advertised price} - \text {Discount} \\\\
+                            &= 84 - 10 \% \text{ of }  120  \\\\
+                            &= 84 - \dfrac {10} {100} \times 84 \\\\
+                            &= 84 - \dfrac {10 \times 84} {100} \\\\
+                            &= 84 - \dfrac {840} {100} \\\\
+                            &= 84 - 8.4 \\\\
+                            &= \pounds 75.6
 \end{aligned}
 $
 
@@ -583,7 +649,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 75.6$
+Advertised price $=$ $\pounds 84$
+
+</div>
+<div class='answer'>
+
+Member price $=$ $\pounds 75.6$
 
 </div>
 </div>
@@ -594,7 +665,7 @@ $\pounds 75.6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -627,7 +698,7 @@ $\pounds 57.85$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -644,12 +715,28 @@ If the price is reduced by $15 \%$, then the new price will be $100 - 15 = 85 \%
 
 $
 \begin{aligned}
-\text{New value}     &= 85 \% \ \text{of} \ 45000 \\\\
+\text{New value}     &= 85 \% \text{ of } 45000 \\\\
                      &= \dfrac {85} {100} \times 45000   \\\\
                      &= \dfrac {85 \times 45000} {100}  \\\\
                      &= \dfrac {85 \times 450 \cancel {00} } {1 \cancel {00} }  \\\\
                      &= 85 \times 450 \\\\
                      &= \pounds 38250
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{New price}  &= \text {Old price} - \text {Discount} \\\\
+                   &= 45000 - 15 \% \text{ of } 45000  \\\\
+                   &= 45000 - \dfrac {15} {100} \times 45000 \\\\
+                   &= 45000 - \dfrac {15 \times 45000} {100} \\\\
+                   &= 45000 - \dfrac {15 \times 450 \cancel {00}} {1 \cancel {00}} \\\\
+                   &= 45000 - 15 \times 450 \\\\
+                   &= 45000 - 6750 \\\\
+                   &= \pounds 38250
 \end{aligned}
 $
 
@@ -666,7 +753,7 @@ $\pounds 38250$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -699,7 +786,7 @@ $\pounds 140.55$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g1 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -716,12 +803,28 @@ If the price is reduced by $35 \%$, then the new price will be $100 - 35 = 65 \%
 
 $
 \begin{aligned}
-\text {New price}           &= 65 \% \times 50000 \\\\
+\text {New price}           &= 65 \% \text{ of } 50000 \\\\
                             &= \dfrac {65} {100} \times 50000 \\\\
                             &= \dfrac {65 \times 50000} {100}  \\\\
                             &= \dfrac {65 \times 500 \cancel {00}} {1 \cancel {00}}  \\\\
                             &= 65 \times 500 \\\\
                             &= \pounds 32500
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{New price}    &= \text {Old price} - \text {Discount} \\\\
+                    &= 50000 - 35 \% \text{ of } 50000  \\\\
+                    &= 50000 - \dfrac {35} {100} \times 50000 \\\\
+                    &= 50000 - \dfrac {35 \times 50000} {100} \\\\
+                    &= 50000 - \dfrac {35 \times 500 \cancel {00}} {1 \cancel {00}} \\\\
+                    &= 50000 - 35 \times 500 \\\\
+                    &= 50000 - 17500 \\\\
+                    &= \pounds 32500
 \end{aligned}
 $
 
@@ -738,7 +841,7 @@ $\pounds 32500$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g1 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -751,16 +854,32 @@ What is the new price of the television?
 <div class='workings'>
 <div class='working'>
 
-If the price is reduced by $15 \%$, then the new price will be $100 + 15 = 115 \%$ of the original price. Using that, we get
+If the price is increased by $15 \%$, then the new price will be $100 + 15 = 115 \%$ of the original price. Using that, we get
 
 $
 \begin{aligned}
-\text {New price}           &= 115 \% \times 300 \\\\
+\text {New price}           &= 115 \% \text{ of } 300 \\\\
                             &= \dfrac {115} {100} \times 300 \\\\
                             &= \dfrac {115 \times 300} {100}  \\\\
                             &= \dfrac {115 \times 3 \cancel {00}} {1 \cancel {00}}  \\\\
                             &= 115 \times 3 \\\\
                             &= \pounds 345
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Sale price}  &= \text {Original price} + \text {Increment} \\\\
+                   &= 300 + 15 \% \text{ of }  300  \\\\
+                   &= 300 + \dfrac {15} {100} \times 300 \\\\
+                   &= 300 + \dfrac {15 \times 300} {100} \\\\
+                   &= 300 + \dfrac {15 \times 3 \cancel {00}} {1 \cancel {00}} \\\\
+                   &= 300 + 15 \times 3 \\\\
+                   &= 300 + 45 \\\\
+                   &= \pounds 345
 \end{aligned}
 $
 
@@ -777,7 +896,7 @@ $\pounds 345$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -811,7 +930,7 @@ $\pounds 0.35$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -844,7 +963,7 @@ $\pounds 161.35$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -857,32 +976,34 @@ What is its new value?
 <div class='workings'>
 <div class='working'>
 
+If the price is reduced by $15 \%$, then the new price will be $100 - 15 = 85 \%$ of the original price. Using that, we get
+
 $
 \begin{aligned}
-\text{Sale price}  &= \text {Original price} - \text{Discount} \\\\
-                   &= 50000 - 15 \% \times 50000  \\\\
-                   &= 50000 - \dfrac {15} {100} \times 50000 \\\\
-                   &= 50000 - \dfrac {15 \times 50000} {100} \\\\
-                   &= 50000 - \dfrac {15 \times 500 \cancel {00}} {1 \cancel {00}} \\\\
-                   &= 50000 - 15 \times 500 \\\\
-                   &= 50000 - 7500 \\\\
-                   &= \pounds 42500
+\text {Sale price}          &= 85 \% \text{ of } 50000 \\\\
+                            &= \dfrac {85}{100} \times 50000 \\\\
+                            &= \dfrac {85 \times 50000}{100}  \\\\
+                            &= \dfrac {85 \times 500 \cancel {00}}{1 \cancel {00}}  \\\\
+                            &= 85 \times 500 \\\\
+                            &= \pounds 42500
 \end{aligned}
 $
 
 </div>
 <div class='working'>
 
-If the price is reduced by $15 \%$, then the new price will be $100 - 15 = 85 \%$ of the original price. Using that, we get
+ABBR: $\text {Sale price = Original price} - \text{Discount } \% \times \text{Original price}$
+
 
 $
 \begin{aligned}
-\text {Sale price}          &= 85 \% \times 50000 \\\\
-                            &= \dfrac {85}{100} \times 50000 \\\\
-                            &= \dfrac {85 \times 50000}{100}  \\\\
-                            &= \dfrac {85 \times 500 \cancel {00}}{1 \cancel {00}}  \\\\
-                            &= 85 \times 500 \\\\
-                            &= \pounds 42500
+\text{Sale price}  &= 50000 - 15 \% \text{ of } 50000  \\\\
+                   &= 50000 - \dfrac {15} {100} \times 50000 \\\\
+                   &= 50000 - \dfrac {15 \times 50000} {100} \\\\
+                   &= 50000 - \dfrac {15 \times 500 \cancel {00}} {1 \cancel {00}} \\\\
+                   &= 50000 - 15 \times 500 \\\\
+                   &= 50000 - 7500 \\\\
+                   &= \pounds 42500
 \end{aligned}
 $
 
@@ -899,7 +1020,7 @@ $\pounds 42500$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -915,17 +1036,19 @@ How much less did they take by selling at the lower price?
 
 $
 \begin{aligned}
-\text{total amt that could have been earned if bottles were sold at $55 per bottle}
-&= 
+\text{Required amount}    &= 200 \times (80 - 55) \\\\
+                          &= 200 \times 25 \\\\
+                          &= 5000 \text{p} \\\\
+                          &= \pounds 50
 \end{aligned}
 $
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+$\pounds 50$
 
 </div>
 </div>
@@ -933,7 +1056,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -950,15 +1073,33 @@ If the price is reduced by $35 \%$, then the sale price will be $100 - 35 = 65 \
 
 $
 \begin {aligned}
-\text {New price}         &= 65 \% \ \text {of} \ 12000 \\\\
-                          &= \dfrac {65} {100} \times 12000 \\\\
-                          &= \dfrac {65 \times 12000} {100} \\\\
-                          &= \dfrac {65 \times 120 \cancel {00}} {1 \cancel {00}} \\\\
-                          &= 65 \times 120 \\\\
-                          &= \pounds 7800 \\\\
-\text {Money she needs}   &= 7800 - 7350 \\\\
-                          &= \pounds 450
+\text {New price}               &= 65 \% \text { of } 12000 \\\\
+                                &= \dfrac {65} {100} \times 12000 \\\\
+                                &= \dfrac {65 \times 12000} {100} \\\\
+                                &= \dfrac {65 \times 120 \cancel {00}} {1 \cancel {00}} \\\\
+                                &= 65 \times 120 \\\\
+                                &= \pounds 7800 \\\\
+\text {Remaining money needed}  &= 7800 - 7350 \\\\
+                                &= \pounds 450
 \end {aligned}
+$
+
+</div>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{New price}                &= \text {Original price} - \text {Discount} \\\\
+                                &= 12000 - 35 \% \text{ of }  12000  \\\\
+                                &= 12000 - \dfrac {35} {100} \times 12000 \\\\
+                                &= 12000 - \dfrac {35 \times 12000} {100} \\\\
+                                &= 12000 - \dfrac {35 \times 120 \cancel {00}} {1 \cancel {00}} \\\\
+                                &= 12000 - 35 \times 120 \\\\
+                                &= 12000 - 4200 \\\\
+                                &= \pounds 7800 \\\\
+\text {Remaining money needed}  &= 7800 - 7350 \\\\
+                                &= \pounds 450
+\end{aligned}
 $
 
 </div>
@@ -974,7 +1115,7 @@ $\pounds 450$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -989,12 +1130,27 @@ If the price is reduced by $15 \%$, then the sale price will be $100 - 15 = 85 \
 
 $
 \begin {aligned}
-\text {New price}         &= 85 \% \ \text {of} \ 18.60 \\\\
+\text {New price}         &= 85 \% \text { of } 18.60 \\\\
                           &= \dfrac {85} {100} \times 18.6 \\\\
                           &= \dfrac {85 \times 18.6} {100} \\\\
                           &= \dfrac {1581} {100} \\\\
                           &= \pounds 15.81
 \end {aligned}
+$
+
+</div>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{New price}            &= \text {Original price} - \text {Discount} \\\\
+                            &= 18.60 - 15 \% \text{ of } 18.60  \\\\
+                            &= 18.60 - \dfrac {15} {100} \times 18.60 \\\\
+                            &= 18.60 - \dfrac {15 \times 18.60} {100} \\\\
+                            &= 18.60 - \dfrac {279} {100} \\\\
+                            &= 18.60 - 2.79 \\\\
+                            &= \pounds 15.81
+\end{aligned}
 $
 
 </div>
@@ -1010,7 +1166,7 @@ $\pounds 15.81$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1023,19 +1179,63 @@ What is the sale price of the bicycle at Store $Q$?
 <div class='workings'>
 <div class='working'>
 
+If the price is increased by $15 \%$, then the sale price will be $100 + 15 = 115 \%$ of the original price. Using that we get,
+
+$
+\begin {aligned}
+\text {Regular price at store Q}    &= 115 \% \text { of } 200 \\\\
+                                    &= \dfrac {115} {100} \times 200 \\\\
+                                    &= \dfrac {115 \times 200} {100} \\\\
+                                    &= \dfrac {115 \times 2 \cancel {00}} {1 \cancel {00}} \\\\
+                                    &= 115 \times 2 \\\\
+                                    &= \pounds 230
+\end {aligned}
+$
+
+If the price is decreased by $10 \%$, then the sale price will be $100 - 10 = 90 \%$ of the original price. Using that we get,
+
+$
+\begin {aligned}
+\text {Sale price at store Q}       &= 90 \% \text { of } 230 \\\\
+                                    &= \dfrac {90} {100} \times 230 \\\\
+                                    &= \dfrac {90 \times 230} {100} \\\\
+                                    &= \dfrac {9 \cancel 0 \times 23 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
+                                    &= 9 \times 23 \\\\
+                                    &= \pounds 207
+\end {aligned}
+$
+
+</div>
+<div class='working'>
+
 $
 \begin{aligned}
-\text{Regular price at store}     &= 200 + 15 \% \ \text{of} \ 200 \\\\
+\text{Regular price at store Q}   &= 200 + 15 \% \text{ of } 200 \\\\
                                   &= 200 + \dfrac {15 \times 200} {100} \\\\
                                   &= 200 + \dfrac {15 \times 2 \cancel {00}} {1 \cancel {00}} \\\\
                                   &= 200 + 15 \times 2 \\\\
                                   &= 200 + 30 \\\\
                                   &= \pounds 230 \\\\
-\text{Sale price at store Q}      &= 230 - 10 \% \ \text{of} \ 230 \\\\
+\text{Sale price at store Q}      &= 230 - 10 \% \text{ of } 230 \\\\
                                   &= 230 - \dfrac {10 \times 230} {100} \\\\
                                   &= 230 - \dfrac {1 \cancel 0 \times 23 \cancel 0} {1 \cancel {00}} \\\\
                                   &= 230 - 23 \\\\
                                   &= \pounds 207
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Discounted price at store Q}      &= 90 \% \text{ of } 115 \% \text{ of } 200 \\\\
+                                        &= \dfrac {90} {100} \times \dfrac {115} {100} \times 200 \\\\
+                                        &= \dfrac {90 \times 115 \times 200} {100 \times 100} \\\\
+                                        &= \dfrac {9 \times 10 \times 5 \times 23 \times 2 \times 100} {2 \times 5 \times 10 \times 100} \\\\
+                                        &= \dfrac {9 \times \cancel {10} \times \cancel 5 \times 23 \times \cancel 2 \times \cancel {100}} {\cancel 2 \times \cancel 5 \times \cancel {10} \times \cancel {100}} \\\\
+                                        &= 9 \times 23 \\\\
+                                        &= \pounds 207
 \end{aligned}
 $
 
@@ -1052,7 +1252,7 @@ $\pounds 207$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1085,22 +1285,6 @@ The normal price of a TV was $\pounds 600$. Work out the sale price of the TV.
 <div class='workings'>
 <div class='working'>
 
-$
-\begin {aligned}
-\text {Sale price}  &= \text {Normal Price} - \text {Discount} \\\\
-                    &= 600  - 35\% \ \text{of} \ 600 \\\\
-                    &= 600 - \dfrac {35} {100} \times 600 \\\\
-                    &= 600 - \dfrac {35 \times 600} {100} \\\\
-                    &= 600 - \dfrac {35 \times 6 \cancel {00}} {1 \cancel {00}} \\\\
-                    &= 600 - 35 \times 6 \\\\
-                    &= 600 - 210 \\\\
-                    &= \pounds 390
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
 If the price is reduced by $35 \%$, then the new price will be $100 - 35 = 65 \%$ of the original price. Using that, we get
 
 $
@@ -1110,6 +1294,24 @@ $
                     &= \dfrac {65 \times 600} {100} \\\\
                     &= \dfrac {65 \times 6 \cancel {00}} {1 \cancel {00}} \\\\
                     &= 65 \times 6 \\\\
+                    &= \pounds 390
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+ABBR: $\text {Sale price = Original price} - \text{Discount } \% \times \text{Original price}$
+
+
+$
+\begin {aligned}
+\text {Sale price}  &= 600  - 35\% \ \text{of} \ 600 \\\\
+                    &= 600 - \dfrac {35} {100} \times 600 \\\\
+                    &= 600 - \dfrac {35 \times 600} {100} \\\\
+                    &= 600 - \dfrac {35 \times 6 \cancel {00}} {1 \cancel {00}} \\\\
+                    &= 600 - 35 \times 6 \\\\
+                    &= 600 - 210 \\\\
                     &= \pounds 390
 \end{aligned}
 $
@@ -1136,15 +1338,14 @@ The normal price of a clock was reduced by $\pounds 140$. Work out the normal pr
 <div class='workings'>
 <div class='working'>
 
-Let normal price $= a$.
+Let the normal price $= a$.
 
 As per the question,
 
 $
 \begin{aligned}
-35\% \ \text{of} \ a         &= 140 \\\\
+35\% \times a                &= 140 \\\\
 \dfrac {35} {100} \times a   &= 140 \\\\
-a                            &= 140 \times \dfrac {100} {35} \\\\
 a                            &= \dfrac {140 \times 100} {35} \\\\
 a                            &= \dfrac {35 \times 4 \times 100} {35} \\\\
 a                            &= \dfrac {\cancel {35} \times 4 \times 100} {\cancel {35}} \\\\
@@ -1152,6 +1353,8 @@ a                            &= 4 \times 100 \\\\
 a                            &= \pounds 400
 \end {aligned}
 $
+
+Normal price $= \pounds 400$
 
 </div>
 </div>
@@ -1177,13 +1380,14 @@ The sale price of a computer was $\pounds 884$. Work out the normal price of the
 
 Let the normal price of $= a$.
 
+If the price is reduced by $35 \%$, then the new price will be $100 - 35 = 65 \%$ of the original price. Using that, we get
+
 As per the question,
 
 $ 
 \begin {aligned}
-65 \% \ \text{of} \ a             &= 884 \\\\
+65 \% \times a                    &= 884 \\\\
 \dfrac {65} {100} \times a        &= 884 \\\\
-a                                 &= 884 \times \dfrac {100} {65} \\\\
 a                                 &= \dfrac {884 \times 100} {65} \\\\
 a                                 &= \dfrac {13 \times 68 \times 5 \times 20} {13 \times 5} \\\\
 a                                 &= \dfrac {\cancel {13} \times 68 \times \cancel 5 \times 20} {\cancel {13} \times \cancel 5} \\\\
@@ -1192,7 +1396,33 @@ a                                 &= \pounds 1360
 \end {aligned}
 $
 
-Normal price of a computer $\pounds 1360$
+Normal price of a computer $= \pounds 1360$
+
+</div>
+<div class='working'>
+
+Let the normal price of $= a$.
+
+As per the question,
+
+$ 
+\begin {aligned}
+a - 35 \% \times a                                  &= 884 \\\\
+a - \dfrac {35} {100} \times a                      &= 884 \\\\
+a - \dfrac {35a} {100}                              &= 884 \\\\
+\dfrac {100 \times a} {100} - \dfrac {35a} {100}    &= 884 \\\\
+\dfrac {100a} {100} - \dfrac {35a} {100}            &= 884 \\\\
+\dfrac {100a - 35a} {100}                           &= 884 \\\\
+\dfrac {65a} {100}                                  &= 884 \\\\
+a                                                   &= \dfrac {884 \times 100} {65} \\\\
+a                                                   &= \dfrac {13 \times 68 \times 5 \times 20} {13 \times 5} \\\\
+a                                                   &= \dfrac {\cancel {13} \times 68 \times \cancel 5 \times 20} {\cancel {13} \times \cancel 5} \\\\
+a                                                   &= 68 \times 20 \\\\
+a                                                   &= \pounds 1360
+\end {aligned}
+$
+
+Normal price of a computer $= \pounds 1360$
 
 </div>
 </div>
@@ -1210,7 +1440,7 @@ $\pounds 1360$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1219,26 +1449,16 @@ Bella is given $\pounds 50$ for her birthday. She spends $\pounds 37.50$ on clot
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -1251,26 +1471,23 @@ How much money does Bella have left?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Money left}       &= 50 - 37.50 - \dfrac {5.40} {2} - 3.2 \\\\
+                        &= 50 - 37.50 - 2.70 - 3.20 \\\\
+                        &= 50 - 43.40 \\\\
+                        &= \pounds 6.60
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\pounds 6.6$
 
 </div>
 </div>
@@ -1291,26 +1508,35 @@ Bella's friend wants to go out for supper. Bella knows that she needs to save $\
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Money for food}             &= 6.6 - 2.5 \\\\
+                                  &= \pounds 4.1 \\\\
+\text{Money for food for both}    &= 2 \times 4.1 \\\\
+                                  &= \pounds 8.2 \\\\
+\text{Price for Deal 1}           &= 7 + \dfrac {7} {2} \\\\
+                                  &= 7 + 3.5 \\\\
+                                  &= \pounds 10.5 \\\\
+\text{Price for Deal 2}           &= 2 \times \left( 5 - \dfrac {10} {100} \times 5 \right) \\\\
+                                  &= 2 \times \left( 5 - \dfrac {10 \times 5} {100} \right) \\\\
+                                  &= 2 \times \left( 5 - \dfrac {50} {100} \right) \\\\
+                                  &= 2 \times (5 - 0.5) \\\\
+                                  &= 2 \times 4.5 \\\\
+                                  &= \pounds 9 \\\\
+\text{Price of Deal 3}            &= \pounds 8
+\end{aligned}
+$
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$Deal 3$ is affordable for Bella.
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+Deal $3$
 
 </div>
 </div>
@@ -1321,7 +1547,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1346,6 +1572,22 @@ $
 $
 
 </div>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{New price}            &= \text {Original price} - \text {Discount} \\\\
+                            &= 200 + 45 \% \text{ of } 200  \\\\
+                            &= 200 + \dfrac {45} {100} \times 200 \\\\
+                            &= 200 + \dfrac {45 \times 200} {100} \\\\
+                            &= 200 + \dfrac {45 \times 2 \cancel {00}} {1 \cancel {00}} \\\\
+                            &= 200 + 45 \times 2 \\\\
+                            &= 200 + 90 \\\\
+                            &= \pounds 290
+\end{aligned}
+$
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -1358,7 +1600,7 @@ $\pounds 290$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1369,28 +1611,16 @@ A used-car dealer sells a car at $120 \%$ of its cost. If a car costs $\pounds 2
 <div class='workings'>
 <div class='working'>
 
- $\dfrac{ \text {Parts}} {\text {Whole}} \times 100 \%  =$ Percentage
-
-Whole = $\pounds 25000$ 
-
-Percentage $=120 \%$
-
-Let's substitute and find $Part$ taken as $x$, which is the actual selling price of the car.
-
-$\dfrac {x} {25000} \times 100 = 120 \% $
-
 $
 \begin{aligned}
-x &= \dfrac {120 \times 25000}{100} \\\\
-  &= \dfrac {120 \times 250 \cancel {00}} {1 \cancel {00}} \\\\
-  &= 120 \times 250 \\\\
-  &= (25 \times 12) \times 100 \\\\
-  &= 300 \times 100 \\\\
-  &= \pounds 30000
+\text{Selling price}      &= 120 \% \ \text{of} \ 25000 \\\\
+                          &= \dfrac {120} {100} \times 25000 \\\\
+                          &= \dfrac {120 \times 25000} {100} \\\\
+                          &= \dfrac {120 \times 250 \cancel {00}} {1 \cancel {00}} \\\\
+                          &= 120 \times 250 \\\\
+                          &= \pounds 30000
 \end{aligned}
 $
-
-The selling price of the car was $\pounds 30000$
 
 
 </div>
@@ -1406,7 +1636,7 @@ $\pounds 30000$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1417,27 +1647,32 @@ A calculator normally costs $\pounds 3.80$. It is offered in a sale at $25\%$ of
 <div class='workings'>
 <div class='working'>
 
+If the price is reduced by $25 \%$, then the new price will be $100 - 25 = 75 \%$ of the original price. Using that, we get
+
 $
 \begin{aligned}
-&= 25 \% \ \text {of} \pounds 3.80 \\\\
-&= \dfrac {25} {100} \times 3.80 \\\\
-&= 0.25 \times 3.80 \\\\
-&= \pounds 0.95
+\text {Sales price}             &= 75 \% \text { of }  3.80 \\\\
+                                &= \dfrac {75} {100} \times 3.80 \\\\
+                                &= \dfrac {75 \times 3.80} {100} \\\\
+                                &= \dfrac {285} {100} \\\\
+                                &= \pounds 2.85
 \end{aligned}
 $
 
 </div>
 <div class='working'>
 
+ABBR: $\text {Sale price = Original price} - \text{Discount } \% \times \text{Original price}$
+
+
 $
 \begin{aligned}
-\text{Sales Price} &= \text{Original Cost - Discount} \\\\
-                   &= 3.80 - (25 \% \ \text {of} \ \pounds 3.80 )\\\\
-                   &= \dfrac {25} {100} \times 3.80 \\\\
-                   &= \dfrac {25 \times 3.80} {100} \\\\
-                   &= \dfrac {25 \times 2 \times 2 \times 0.95} {2 \times 2 \times 25} \\\\
-                   &= \dfrac {\cancel{25} \times \cancel{2} \times \cancel{2} \times 0.95} {\cancel{2} \times \cancel{2} \times \cancel{25}} \\\\
-                   &= \pounds 0.95 
+\text{Sales price}    &= 3.80 - 25 \% \ \text {of} \ 3.80 \\\\
+                      &= 3.80 - \dfrac {25} {100} \times 3.80 \\\\
+                      &= 3.80 - \dfrac {25 \times 3.80} {100} \\\\
+                      &= 3.80 - \dfrac {95} {100} \\\\
+                      &= 3.80 - 0.95 \\\\
+                      &= \pounds 2.85
 \end{aligned}
 $
 
@@ -1446,7 +1681,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 0.95$
+$\pounds 2.85$
 
 </div>
 </div>
@@ -1454,7 +1689,7 @@ $\pounds 0.95$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1463,21 +1698,6 @@ A calculator normally costs $\pounds 24.40$. It is offered in a sale at $15\%$ o
 
 </div>
 <div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Sale price}  &= \text {Original price - Discount} \\\\
-                   &= 24.40 - 15 \% \times 24.40  \\\\
-                   &= 24.40 - \dfrac {15} {100} \times 24.40 \\\\
-                   &= 24.40 - \dfrac {15 \times 24.40} {100} \\\\
-                   &= 24.40 - \dfrac {366} {100} \\\\
-                   &= 24.40 - 3.66 \\\\
-                   &= \pounds 20.74
-\end{aligned}
-$
-
-</div>
 <div class='working'>
 
 If the price is reduced by $15 \%$, then the new price will be $100 - 15 = 85 \%$ of the original price. Using that, we get
@@ -1489,6 +1709,23 @@ $
                             &= \dfrac {85 \times 24.40}{100}  \\\\
                             &= \dfrac {2074}{100}  \\\\
                             &= \pounds 20.74
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+ABBR: $\text {Sale price = Original price} - \text{Discount } \% \times \text{Original price}$
+
+
+$
+\begin{aligned}
+\text{Sale price}  &= 24.40 - 15 \% \times 24.40  \\\\
+                   &= 24.40 - \dfrac {15} {100} \times 24.40 \\\\
+                   &= 24.40 - \dfrac {15 \times 24.40} {100} \\\\
+                   &= 24.40 - \dfrac {366} {100} \\\\
+                   &= 24.40 - 3.66 \\\\
+                   &= \pounds 20.74
 \end{aligned}
 $
 
@@ -1505,7 +1742,7 @@ $\pounds 20.74$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1518,27 +1755,20 @@ less than he paid. The next day Bill sold it to Jack for $\pounds 90$. What is B
 <div class='workings'>
 <div class='working'>
 
-Amount to which Bill sold to Tom $= \pounds 120$
-
 $
 \begin{aligned}
-\text{Amount to which Tom  returned}            &= 30\% \ \text{of} \ \pounds 120 \\\\
-                                                &= \dfrac{30}{100} \times 120 \\\\
-                                                &= \dfrac{30 \times 120}{100} \\\\
-                                                &= \dfrac{3\cancel{0} \times 12\cancel{0}}{1\cancel{0}\cancel{0}} \\\\
-                                                &= 3 \times 12 \\\\
-\text{Amount to which Tom  returned}            &= \pounds 36
+\text{Total amount paid to Bill}    &= 120 + 90 \\\\
+                                    &= \pounds 210 \\\\
+\text{Amount paid by Bill}          &= 120 - 30 \% \ \text{of} \ 120 \\\\
+                                    &= 120 - \dfrac {30} {100} \times 120 \\\\
+                                    &= 120 - \dfrac {30 \times 120} {100} \\\\
+                                    &= 120 - \dfrac {3 \cancel 0 \times 12 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
+                                    &= 120 - 3 \times 12 \\\\
+                                    &= 120 - 36 \\\\
+                                    &= \pounds 84 \\\\
+\text{Bill's profit}                &= 210 - 84 \\\\
+                                    &= \pounds 126
 \end{aligned}
-
-Amount to which Bill sold the amount to Jack $= \pounds 90$
-
-$
-\begin{aligned}
-\text{Profit on final sale}         &= \text{Selling price} - \text{Cost price} \\\\
-                                    &= \pounds 90 - \pounds 36 \\\\
-\text{Profit on final sale}         &= \pounds 54
-\end{aligned}
-$
 $
 
 </div>
@@ -1546,7 +1776,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 54$
+$\pounds 126$
 
 </div>
 </div>
@@ -1554,7 +1784,7 @@ $\pounds 54$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1579,11 +1809,28 @@ If the price is reduced by $20 \%$, then the new price will be $100 - 20 = 80 \%
 
 $
 \begin{aligned} 
-\text{Sale price}       &=  80 \% \times 150  \\\\
-                        &=  \dfrac{80 \times 150}{100} \\\\
-                        &=  \dfrac{8 \cancel{0} \times 15 \cancel{0}}{1 \cancel{0} \cancel{0}} \\\\
-                        &=  8 \times 15 \\\\
-                        &=  \pounds 120
+\text{Sale price}       &= 80 \% \text{ of } 150 \\\\
+                        &= \dfrac {80} {100} \times 150  \\\\
+                        &= \dfrac {80 \times 150} {100} \\\\
+                        &= \dfrac {8 \cancel{0} \times 15 \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
+                        &= 8 \times 15 \\\\
+                        &= \pounds 120
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{New price}            &= \text {Original price} - \text {Discount} \\\\
+                            &= 150 - 20 \% \text{ of } 150  \\\\
+                            &= 150 - \dfrac {20} {100} \times 150 \\\\
+                            &= 150 - \dfrac {20 \times 150} {100} \\\\
+                            &= 150 - \dfrac {2 \cancel 0 \times 15 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
+                            &= 150 - 2 \times 15 \\\\
+                            &= 150 - 30 \\\\
+                            &= \pounds 120
 \end{aligned}
 $
 
@@ -1603,7 +1850,7 @@ $\pounds 120$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1615,26 +1862,16 @@ $1$ British pound ($\pounds$) = $2$ New Zealand dollars (NZ$\$$)
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -1648,26 +1885,29 @@ How much do I save by buying the hoodie in New York? Give your answer both in US
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin {aligned}
+\text{Price in London}        &= 1.5 \times 80 \\\\
+                              &= \text{\textdollar} 120 \\\\
+\text{Money saved}            &= 120 - 90 \\\\
+                              &= \text{\textdollar} 30 \\\\
+\text{Money saved in \pounds} &= \dfrac {30} {1.5} \\\\
+                              &= \dfrac {30 \times 10} {15} \\\\
+                              &= \dfrac {15 \times 2 \times 10} {15} \\\\
+                              &= \dfrac {\cancel {15} \times 2 \times 10} {\cancel {15}} \\\\
+                              &= 2 \times 10 \\\\
+                              &= \pounds 20
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\text{\textdollar} 30, \pounds 20$
 
 </div>
 </div>
@@ -1682,26 +1922,27 @@ My friend Sheila lives in Auckland, New Zealand. She saves US$\$60$ if she buys 
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin {aligned}
+\text{Profit in \pounds}                    &= \pounds \dfrac {90} {1.5} \\\\
+\text{Profit in New Zealand \textdollar}    &= 2 \times \dfrac {90} {1.5} \\\\
+                                            &= 2 \times \dfrac {90 \times 10} {15} \\\\
+                                            &= \dfrac {2 \times 90 \times 10} {15} \\\\
+                                            &= \dfrac {2 \times 15 \times 6 \times 10} {15} \\\\
+                                            &= \dfrac {2 \times \cancel {15} \times 6 \times 10} {\cancel {15}} \\\\
+                                            &= 2 \times 6 \times 10 \\\\
+                                            &= \text{\textdollar} 120
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\text{\textdollar} 120$
 
 </div>
 </div>
@@ -1718,26 +1959,27 @@ $1$ New Zealand dollar (NZ$\$$) $= \text{\textunderscore \textunderscore \textun
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+$
+\begin {aligned}
+\text{1 New Zealand in \textdollar}           &= \text{\textdollar} \dfrac {1} {2} \\\\
+\text{\textdollar in New Zealand \textdollar} &= 1.5 \times \dfrac {1} {2} \\\\
+                                              &= \dfrac {1.5} {2} \\\\
+                                              &= \dfrac {1.5 \times 5} {2 \times 5} \\\\
+                                              &= \dfrac {7.5} {10} \\\\
+                                              &= 0.75
+\end {aligned}
+$
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$1$ New Zealand dollar \textdollar $= 0.75$ US \textdollar
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$1$ New Zealand dollar \textdollar $= 0.75$ US \textdollar
 
 </div>
 </div>
@@ -1748,7 +1990,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1757,26 +1999,16 @@ In the January sale a furniture store reduces all prices by $25\%$.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -1789,26 +2021,43 @@ Work out the sale price of a bed originally costing $\pounds 1600$.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+If the price is reduced by $25 \%$, then the sale price would be $100 - 25 = 75 \%$ of the original price.
+
+$
+\begin{aligned}
+\text{Sale price}               &= 75 \% \ \text{of} \ 1600\\\\
+                                &= \dfrac {75} {100} \times 1600 \\\\
+                                &= \dfrac {75 \times 1600} {100} \\\\
+                                &= \dfrac {75 \times 16 \cancel{00}} {1 \cancel{00}} \\\\
+                                &= 75 \times 16 \\\\
+                                &= \pounds 1200
+\end{aligned}
+$
 
 </div>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Sale price}  &= \text {Original price} - \text {Discount} \\\\
+                   &= 1600 - 25 \% \ \text{of} \ 1600 \\\\
+                   &= 1600 - \dfrac {25} {100} \times 1600 \\\\
+                   &= 1600 - \dfrac {25 \times 1600} {100} \\\\
+                   &= 1600 - \dfrac {25 \times 16 \cancel {00}} {1 \cancel {00}} \\\\
+                   &= 1600 - 25 \times 16 \\\\
+                   &= 1600 - 400 \\\\
+                   &= \pounds 1200
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\pounds 1200$
 
 </div>
 </div>
@@ -1823,26 +2072,64 @@ Work out the original price of a sofa costing $\pounds 600$ in the sale.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: $\text {Sale price = Original price} - \text{Discount } \% \times \text{Original price}$
+
+
+Let the original price $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a - 25 \% \times \ a                                        &= 600 \\\\
+a - \dfrac {25} {100} \times a                              &= 600 \\\\
+a - \dfrac {25 \times a} {100}                              &= 600 \\\\
+a - \dfrac {25a} {100}                                      &= 600 \\\\
+\dfrac {100 \times a} {100} - \dfrac {25a} {100}            &= 600 \\\\
+\dfrac {100a} {100} - \dfrac {25a} {100}                    &= 600 \\\\
+\dfrac {100a - 25a} {100}                                   &= 600 \\\\
+\dfrac {75a} {100}                                          &= 600 \\\\
+a                                                           &= 600 \times \dfrac {100} {75} \\\\
+a                                                           &= \dfrac {600 \times 100} {75} \\\\
+a                                                           &= \dfrac {75 \times 8 \times 100} {75} \\\\
+a                                                           &= \dfrac {\cancel {75} \times 8 \times 100} {\cancel {75}} \\\\
+a                                                           &= 8 \times 100 \\\\
+a                                                           &= \pounds 800
+\end{aligned}
+$
 
 </div>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Let the original price $= a$
+
+If the price is reduced by $25 \%$, then the sale price would be $100 - 25 = 75 \%$ of the original price.
+
+As per the question,
+
+$
+\begin{aligned}
+75 \% \times a                  &= 600 \\\\
+\dfrac {75} {100} \times a      &= 600 \\\\
+a                               &= 600 \times \dfrac {100} {75} \\\\
+a                               &= \dfrac {600 \times 100} {75} \\\\
+a                               &= \dfrac {75 \times 8 \times 100} {75} \\\\
+a                               &= \dfrac {\cancel {75} \times 8 \times 100} {\cancel {75}} \\\\
+a                               &= 8 \times 100 \\\\
+a                               &= \pounds 800
+\end{aligned}
+$
+
+Original price $= \pounds 800$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\pounds 800$
 
 </div>
 </div>
@@ -1864,26 +2151,57 @@ Who is right?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Let the original price $= a$
 
-</div>
-<div class='working placeholder'>
+If the price is reduced by $25 \%$, then the sale price would be $100 - 25 = 75 \%$ of the original price.
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Sale price after first discount}  &= 75 \% \ \text{of} \ a \\\\
+                                        &= \dfrac {75} {100} \times a \\\\
+                                        &= \dfrac {75 \times a} {100} \\\\
+                                        &= \dfrac {25 \times 3 \times a} {25 \times 4} \\\\
+                                        &= \dfrac {\cancel {25} \times 3 \times a} {\cancel {25} \times 4} \\\\
+                                        &= \dfrac {3 \times a} {4} \\\\
+                                        &= \pounds \dfrac {3a} {4}
+\end{aligned}
+$
+
+If the price is reduced by $20 \%$, then the sale price would be $100 - 20 = 80 \%$ of the original price.
+
+$
+\begin{aligned}
+\text{Sale price after second discount} &= 80 \% \ \text{of} \ \dfrac {3a} {4} \\\\
+                                        &= \dfrac {80} {100} \times \dfrac {3a} {4} \\\\
+                                        &= \dfrac {80 \times 3a} {100 \times 4} \\\\
+                                        &= \dfrac {20 \times 4 \times 3a} {100 \times 4} \\\\
+                                        &= \dfrac {20 \times \cancel 4 \times 3a} {100 \times \cancel 4} \\\\
+                                        &= \dfrac {20 \times 3a} {100} \\\\
+                                        &= \pounds \dfrac {60a} {100}
+\end{aligned}
+$
+
+If the price is reduced by $45 \%$, then the sale price would be $100 - 45 = 55 \%$ of the original price.
+
+$
+\begin{aligned}
+\text{New sale price}       &= 55 \% \ \text{of} \ a \\\\
+                            &= \dfrac {55} {100} \times a \\\\
+                            &= \dfrac {55 \times a} {100} \\\\
+                            &= \pounds \dfrac {55a} {100}
+\end{aligned}
+$
+
+Ben is right.
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+Ben
 
 </div>
 </div>
@@ -1894,7 +2212,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1903,26 +2221,16 @@ In the American state of Kentucky sales tax is charged at $6\%$.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -1935,26 +2243,40 @@ Anila wants to buy a pair of jeans in Kentucky. They are priced at $\$72$ before
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+If the price is increased by $6 \%$, then the new price will be $100 + 6 = 106 \%$ of the original price. Using that, we get
+
+$
+\begin{aligned} 
+\text{Sale price}       &= 106 \% \text{ of } 72 \\\\
+                        &= \dfrac {106} {100} \times 72 \\\\
+                        &= \dfrac {106 \times 72} {100} \\\\
+                        &= \dfrac {7632} {100} \\\\
+                        &= \pounds 76.32
+\end{aligned}
+$
 
 </div>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Price}    &= 72 + 6 \% \text{ of } 72 \\\\
+                &= 72 + \dfrac {6} {100} \times 72 \\\\
+                &= 72 + \dfrac {6 \times 72} {100} \\\\
+                &= 72 + \dfrac {432} {100} \\\\
+                &= 72 + 4.32 \\\\
+                &= \pounds 76.32
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\pounds 76.32$
 
 </div>
 </div>
@@ -1970,26 +2292,62 @@ What was the price of sweets before sales tax was added?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Let the price before sales tax $= a$
+
+If the price is increased by $6 \%$, then the new price will be $100 + 6 = 106 \%$ of the original price. Using that, we get
+
+As per the question,
+
+$
+\begin{aligned}
+106 \% \ \text{of} \ a              &= 4.77 \\\\
+\dfrac {106} {100} \times a         &= 4.77 \\\\
+a                                   &= \dfrac {4.77 \times 100} {106} \\\\
+a                                   &= \dfrac {477 \times 100} {106 \times 100} \\\\
+a                                   &= \dfrac {9 \times 53 \times 50 \times 2} {2 \times 53 \times 100} \\\\
+a                                   &= \dfrac {9 \times \cancel {53} \times 50 \times \cancel 2} {\cancel 2 \times \cancel {53} \times 100} \\\\
+a                                   &= \dfrac {9 \times 50} {100} \\\\
+a                                   &= \dfrac {450} {100} \\\\
+a                                   &= \pounds 4.50
+\end{aligned}
+$
+
+Price before the sales tax $= \pounds 4.50$
 
 </div>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Let the price before sales tax $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a + 6 \% \ \text{of} \ a            &= 4.77 \\\\
+a + \dfrac {6} {100} \times a       &= 4.77 \\\\
+a + \dfrac {6a} {100}               &= 4.77 \\\\
+a + 0.06a                           &= 4.77 \\\\
+1.06a                               &= 4.77 \\\\
+a                                   &= \dfrac {4.77} {1.06} \\\\
+a                                   &= \dfrac {477 \times 100} {106 \times 100} \\\\
+a                                   &= \dfrac {9 \times 53 \times 50 \times 2} {2 \times 53 \times 100} \\\\
+a                                   &= \dfrac {9 \times \cancel {53} \times 50 \times \cancel 2} {\cancel 2 \times \cancel {53} \times 100} \\\\
+a                                   &= \dfrac {9 \times 50} {100} \\\\
+a                                   &= \dfrac {450} {100} \\\\
+a                                   &= \pounds 4.50
+\end{aligned}
+$
+
+Price before the sales tax $= \pounds 4.50$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\pounds 4.50$
 
 </div>
 </div>
@@ -2000,7 +2358,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2015,7 +2373,7 @@ How much would it have cost before the sale started?
 
 Let the original price $= p$
 
-If the price is reduced by $20 \%$, then the new price will be $100 - 20 = 80 \%$ of the original price. Using that, we get
+If the price is reduced by $20 \%$, then the reduced price will be $100 - 20 = 80 \%$ of the original price. Using that, we get
 
 As per the question,
 
@@ -2031,7 +2389,7 @@ p                               &= \pounds 75
 \end{aligned}
 $
 
-Original price $\pounds 75$
+Original price $= \pounds 75$
 
 </div>
 </div>
@@ -2046,7 +2404,7 @@ $\pounds 75$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2056,6 +2414,24 @@ would be the sale price of a coat that originally cost $\pounds 30$?
 
 </div>
 <div class='workings'>
+<div class='working'>
+
+If the price is reduced by $15 \%$, then the sale price would be $100 - 15 = 85 \%$ of the original price.
+Using that we get,
+
+$
+\begin{aligned}
+\text{Sale price}               &= 85 \% \ \text{of} \ 30\\\\
+                                &= \dfrac {85} {100} \times 30 \\\\
+                                &= \dfrac {85 \times 30} {100} \\\\
+                                &= \dfrac {85 \times 3 \cancel{0}} {10 \cancel{0}} \\\\
+                                &= \dfrac {85 \times 3} {10} \\\\
+                                &= \dfrac {255} {10} \\\\
+                                &= \pounds 25.5
+\end{aligned}
+$
+
+</div>
 <div class='working'>
 
 $
@@ -2073,23 +2449,6 @@ $
 $
 
 </div>
-<div class='working'>
-
-If the price is reduced by $15 \%$, then the sale price would be $100 - 15 = 85 \%$ of the original price.
-
-$
-\begin{aligned}
-\text{Sale price}               &= 85 \% \ \text{of} \ 30\\\\
-                                &= \dfrac {85} {100} \times 30 \\\\
-                                &= \dfrac {85 \times 30} {100} \\\\
-                                &= \dfrac {85 \times 3 \cancel{0}} {10 \cancel{0}} \\\\
-                                &= \dfrac {85 \times 3} {10} \\\\
-                                &= \dfrac {255} {10} \\\\
-                                &= \pounds 25.5
-\end{aligned}
-$
-
-</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -2102,20 +2461,60 @@ $\pounds 25.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-A tennis racket costs $$\pounds 85$ originally. In a sale it is reduced by $15\%$. What is the sale price?
+%empty%
 
 </div>
 <div class='workings'>
 <div class='working'>
 
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+A tennis racket costs $\pounds 85$ originally. In a sale it is reduced by $15\%$. What is the sale price?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+If the price is reduced by $15 \%$, then the sale price would be $100 - 15 = 85 \%$ of the original price.
+
 $
 \begin{aligned}
-\text{Sale price}                           &= \pounds 85 - 15 \% \ \text{of} \ \pounds 85 \\\\
+\text{Sale price}               &= 85 \% \ \text{of} \ 85 \\\\
+                                &= \dfrac {85} {100} \times 85 \\\\
+                                &= \dfrac {85 \times 85} {100} \\\\
+                                &= \dfrac {7225} {100} \\\\
+                                &= \pounds 72.25
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+ABBR: $\text {Sale price = Original price} - \text{Discount } \% \times \text{Original price}$
+
+
+$
+\begin{aligned}
+\text{Sale price}                           &= 85 - 15 \% \ \text{of} \ \pounds 85 \\\\
                                             &= 85 - \dfrac {15} {100} \times 85 \\\\
                                             &= 85 - \dfrac {15 \times 85} {100} \\\\
                                             &= 85 - \dfrac {1275} {100} \\\\
@@ -2133,7 +2532,9 @@ $\pounds 72.25$
 
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
@@ -2146,15 +2547,13 @@ I score $42$ out of $48$ on a test. What percentage is that?
 
 $
 \begin{aligned}
-&= \dfrac {42} {48} \times 100 \% \\\\
-&= \dfrac {42 \times 100} {48} \\\\
-&= \dfrac {6 \times 7 \times 25 \times 4} {6 \times 2 \times 4} \\\\
-&= \dfrac {\cancel 6 \times 7 \times 25 \times \cancel 4} {\cancel 6 \times 2 \times \cancel 4} \\\\
-&= \dfrac {7 \times 25} {2} \\\\
-&= \dfrac {175} {2} \\\\
-&= \dfrac {175 \times 5} {2 \times 5} \\\\
-&= \dfrac {875} {10} \\\\
-&= 87.5 \%
+\text{Percentage}       &= \dfrac {42} {48} \times 100 \\\\
+                        &= \dfrac {42 \times 100} {48} \\\\
+                        &= \dfrac {6 \times 7 \times 25 \times 4} {6 \times 2 \times 4} \\\\
+                        &= \dfrac {\cancel 6 \times 7 \times 25 \times \cancel 4} {\cancel 6 \times 2 \times \cancel 4} \\\\
+                        &= \dfrac {7 \times 25} {2} \\\\
+                        &= \dfrac {175} {2} \\\\
+                        &= 87.5 \%
 \end{aligned}
 $
 

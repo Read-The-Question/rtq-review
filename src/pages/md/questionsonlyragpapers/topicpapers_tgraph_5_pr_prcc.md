@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tgraph-5-pr-prcc"
 title: "TopicPaper - Graph - 5 - PR - PRCC"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "33"
 ---
 <ul class='question default-decimal'>
@@ -1051,8 +1051,8 @@ Tick the relevant box in the table below to say who is most likely to win, or wh
 
 | game | rules                                                                                        | Di most likely to win | Ed most likely win | equally likely |
 |:----:|----------------------------------------------------------------------------------------------|-----------------------|--------------------|----------------|
-|   A  | Di scores a point if the total thrown is even. Ed scores a point if the total thrown is odd. |                       |                    |                |
-|   B  | Di scores a point if the total thrown is 8 to 12 inclusive. Ed scores a point otherwise.     |                       |                    |                |
+|   A  | Di scores a point if the total thrown is even. <br> Ed scores a point if the total thrown is odd. |                       |                    |                |
+|   B  | Di scores a point if the total thrown is 8 to 12 inclusive. <br> Ed scores a point otherwise.     |                       |                    |                |
 
 </div>
 

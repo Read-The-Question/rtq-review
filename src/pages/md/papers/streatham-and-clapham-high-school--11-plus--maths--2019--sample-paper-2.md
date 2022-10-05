@@ -1,7 +1,7 @@
 ---
 slug: "papers/streatham-and-clapham-high-school-11-plus-maths-2019-sample-paper-2"
 title: "Streatham And Clapham High School - 11 Plus - Maths - 2019 - Sample Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "43"
 ---
 <div class='paper'>
@@ -916,7 +916,7 @@ $5.3 \ \ \text{kilograms}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -942,16 +942,11 @@ The next term is calculated by dividing the previous term by $-3$. Hence, the se
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{\div (-3)}} 
-&&  \footnotesize{\maroonC
-{\div (-3)}}  
-&&  \footnotesize{\maroonC
-{\div (-3)}}   
-&&  \footnotesize{\maroonC
-{\div (-3)}}   
-&&  \footnotesize{\maroonC
-{\div (-3)}}  \\
+&   \footnotesize{\maroonC{\div (-3)}} 
+&&  \footnotesize{\maroonC{\div (-3)}}  
+&&  \footnotesize{\maroonC{\div (-3)}}   
+&&  \footnotesize{\maroonC{\div (-3)}}   
+&&  \footnotesize{\maroonC{\div (-3)}}  \\
 243,  &&    -81,  &&  27,  &&   -9,  &&   \ldots, && \ldots
 \end{matrix}
 $
@@ -1022,7 +1017,7 @@ $54 \ \text{mins}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1119,8 +1114,7 @@ ABBR: If there is an odd number of numbers, the median is the middle number. If 
 $
 \begin{aligned}
 \text{Numbers}          &= 1.32, 1.47, 1.43, 1.32, 1.35, 1.46, 1.49, 1.32, 1.37, 1.49, 1.48 \\\\
-\text{Ordered numbers}  &= 1.32, 1.32, 1.32, 1.35, 1.37, \maroonC
-{1.43}, 1.46, 1.47, 1.48, 1.49, 1.49 \\\\
+\text{Ordered numbers}  &= 1.32, 1.32, 1.32, 1.35, 1.37, \maroonC{1.43}, 1.46, 1.47, 1.48, 1.49, 1.49 \\\\
 \text{Median}           &= 1.43 \ \text{m}
 \end{aligned}
 $
@@ -1189,7 +1183,7 @@ $576$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1755,7 +1749,7 @@ $190 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1774,38 +1768,16 @@ Which of these is not part of the sequence?
 <div class='workings'>
 <div class='working'>
 
-As per the question, the sequence would be:
-
-$
-\begin{matrix}
-&  \footnotesize {\maroonC
- {(+1)} }
-&&  \footnotesize {\maroonC
- {(+1)} }
-&&  \footnotesize {\maroonC
- {(+3)} }
-&&  \footnotesize {\maroonC
- {(+6)} }
-&&  \footnotesize {\maroonC
- {(+12)} }
-&&  \footnotesize {\maroonC
- {(+24)} }
-&&  \footnotesize {\maroonC
- {(+48)} }  \\
-1,  &&  2, &&  \ldots, &&  \ldots, &&  \ldots, && \ldots, &&  \ldots, && \ldots
-\end{matrix}
-$
-
-| Pattern number | Value          |
-|----------------|----------------|
-| $3$            | $2 + 1 = 3$    |
-| $4$            | $3 + 3 = 6$    |
-| $5$            | $6 + 6 = 12$   |
-| $6$            | $12 + 12 = 24$ |
-| $7$            | $24 + 24 = 48$ |
-| $8$            | $48 + 48 = 96$ |
-
-As per the table,
+| Term           | Value          |
+|:--------------:|:----------------------------------:|
+| $1$            | $1$                                |
+| $2$            | $2$                                |
+| $3$            | $2 + 1 = 3$                        |
+| $4$            | $3 + 2 + 1 = 6$                    |
+| $5$            | $6 + (3 \ldots 1) = 6 + 6 = 12$    |
+| $6$            | $12 + (6 \ldots 1) = 12 + 12 = 24$ |
+| $7$            | $24 + (12 \ldots 1) = 24 + 24 = 48$|
+| $8$            | $48 + (24 \ldots 1) = 48 + 48 = 96$|
 
 $50$ is not part of the sequence.
 
@@ -2173,8 +2145,6 @@ $900$
 A train display shows letters by lighting cells in a grid, such as the letter ‘o’ shown. 
 A letter is made **bold** by also lighting any unlit cell immediately to the 
 right of one in the normal letter. How many cells are lit in a **bold** ‘o’?
-
-![streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2/section-2-question-10-01.png](/assets/streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2/section-2-question-10-01.png "streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2/section-2-question-10-01.png")
 
 - $22$
 - $24$

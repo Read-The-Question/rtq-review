@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2013-sample-paper-4"
 title: "Sevenoaks School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "15"
 ---
 <div class='paper'>
@@ -288,7 +288,7 @@ $0.75$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -328,14 +328,10 @@ The next term is calculated by adding $2$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+2)}}
-&&  \footnotesize{\maroonC
-{(+2)}}
-&&  \footnotesize{\maroonC
-{(+2)}}
-&&  \footnotesize{\maroonC
-{(+2)}}  \\
+&   \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+2)}}  \\
 1, && 3, && 5, && \ldots, && \ldots
 \end{matrix}
 $
@@ -381,18 +377,12 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+2)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+8)}}
-&&  \footnotesize{\maroonC
-{(+10)}}
-&&  \footnotesize{\maroonC
-{(+12)}}  \\
+&   \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+8)}}
+&&  \footnotesize{\maroonC{(+10)}}
+&&  \footnotesize{\maroonC{(+12)}}  \\
 1, && 3, && 7, && 13, && \ldots, && \ldots, && 43
 \end{matrix}
 $
@@ -438,20 +428,13 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+1)}}
-&&  \footnotesize{\maroonC
-{(-2)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(+7)}}  \\
+&   \footnotesize{\maroonC{(+1)}}
+&&  \footnotesize{\maroonC{(-2)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(-6)}}
+&&  \footnotesize{\maroonC{(+7)}}  \\
 1, && 2, && 0, && 3, && -1, && 4, && \ldots, && \ldots
 \end{matrix}
 $
@@ -715,7 +698,7 @@ Charlie $= 9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -726,26 +709,90 @@ What is the smaller angle between the hour hand and the minute hand at the follo
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+For $3{:}00$
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 15 \ \text{minutes} \\\\
+\text {Angle}                           &= 15 \times 6 \\\\
+                                        &= 90 \degree
+\end {aligned}
+$
+
+For $5{:}00$
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 25 \ \text{minutes} \\\\
+\text {Angle}                           &= 25 \times 6 \\\\
+                                        &= 150 \degree
+\end {aligned}
+$
+
+For $8{:}30$
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 10 + 2.5 \ \text{minutes} \\\\
+\text {Angle}                           &= 12.5 \times 6 \\\\
+                                        &= 75 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+$90 \degree$
 
 </div>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+$150 \degree$
+
+</div>
+<div class='answer'>
+
+$75 \degree$
 
 </div>
 </div>
@@ -959,7 +1006,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

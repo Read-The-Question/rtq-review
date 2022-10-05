@@ -1,7 +1,7 @@
 ---
 slug: "papers/hampton-court-house-11-plus-maths-9999-sample-paper-1"
 title: "Hampton Court House - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "17"
 ---
 <div class='paper'>
@@ -804,7 +804,7 @@ $1 \ \dfrac {7} {24}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -844,16 +844,11 @@ The difference between the terms is $3$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-3)}}
-&&  \footnotesize{\maroonC
-{(-3)}}
-&&  \footnotesize{\maroonC
-{(-3)}}
-&&  \footnotesize{\maroonC
-{(-3)}}
-&&  \footnotesize{\maroonC
-{(-3)}}  \\
+&   \footnotesize{\maroonC{(-3)}}
+&&  \footnotesize{\maroonC{(-3)}}
+&&  \footnotesize{\maroonC{(-3)}}
+&&  \footnotesize{\maroonC{(-3)}}
+&&  \footnotesize{\maroonC{(-3)}}  \\
 16,  &&    13,  &&  10,  &&   7,  && \ldots,  && \ldots 
 \end{matrix}
 $
@@ -896,18 +891,12 @@ It is a sequence of square numbers.
 
 $
 \begin {matrix}
-    \footnotesize{\maroonC
-{(1^2)}}
-&&  \footnotesize{\maroonC
-{(2^2)}}
-&&  \footnotesize{\maroonC
-{(3^2)}}
-&&  \footnotesize{\maroonC
-{(4^2)}}
-&&  \footnotesize{\maroonC
-{(5^2)}}
-&&  \footnotesize{\maroonC
-{(6^2)}}  \\\\
+    \footnotesize{\maroonC{(1^2)}}
+&&  \footnotesize{\maroonC{(2^2)}}
+&&  \footnotesize{\maroonC{(3^2)}}
+&&  \footnotesize{\maroonC{(4^2)}}
+&&  \footnotesize{\maroonC{(5^2)}}
+&&  \footnotesize{\maroonC{(6^2)}}  \\\\
 1, && 4, && 9, && 16, && \ldots, && \ldots
 \end {matrix}
 $
@@ -994,7 +983,7 @@ Area $=$ $48 \ \text {cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1018,12 +1007,12 @@ Let's complete the table.
 
 |                           Fraction                         |                       $\%$                        |                   Decimal                       |
 |:----------------------------------------------------------:|:-------------------------------------------------:|:-----------------------------------------------:|
-|                        $\dfrac{1}{2}$                      | $\dfrac {100} {2} = 50 \% \ \footnotesize{(4)}$   | $\dfrac {1} {2} = 0.5 \ \footnotesize{(8)}$     |
-| $\dfrac {25} {100} = \dfrac {1} {4} \ \footnotesize{(1)}$  |                     $25 \%$                       | $\dfrac {25} {100} = 0.25 \ \footnotesize{(9)}$ |
-|                        $\dfrac{1}{8}$                      | $\dfrac {100} {8} = 12.5 \% \ \footnotesize{(5)}$ | $\dfrac {1} {8} = 0.125 \ \footnotesize{(10)}$  |
-| $\dfrac {10} {100} = \dfrac {1} {10} \ \footnotesize{(2)}$ |                     $10 \%$                       | $\dfrac {10} {100} = 0.1 \ \footnotesize{(11)}$ |
-| $\dfrac {2} {10} = \dfrac {1} {5} \ \footnotesize{(3)}$    | $0.2 \times 100 = 20 \% \ \footnotesize{(6)}$     |                    $0.2$                        |
-|                        $\dfrac{1}{3}$                      | $\dfrac {100} {3} = 33.3 \% \ \footnotesize{(7)}$ | $\dfrac {1} {3} = 0.33 \ \footnotesize{(12)}$   | 
+|                        $\dfrac{1}{2}$                      | $\dfrac {100} {2} = 50 \% \ \maroonC{\footnotesize{(4)}}$   | $\dfrac {1} {2} = 0.5 \ \maroonC{\footnotesize{(8)}}$     |
+| $\dfrac {25} {100} = \dfrac {1} {4} \ \maroonC{\footnotesize{(1)}}$  |                     $25 \%$                       | $\dfrac {25} {100} = 0.25 \ \maroonC{\footnotesize{(9)}}$ |
+|                        $\dfrac{1}{8}$                      | $\dfrac {100} {8} = 12.5 \% \ \maroonC{\footnotesize{(5)}}$ | $\dfrac {1} {8} = 0.125 \ \maroonC{\footnotesize{(10)}}$  |
+| $\dfrac {10} {100} = \dfrac {1} {10} \ \maroonC{\footnotesize{(2)}}$ |                     $10 \%$                       | $\dfrac {10} {100} = 0.1 \ \maroonC{\footnotesize{(11)}}$ |
+| $\dfrac {2} {10} = \dfrac {1} {5} \ \maroonC{\footnotesize{(3)}}$    | $0.2 \times 100 = 20 \% \ \maroonC{\footnotesize{(6)}}$     |                    $0.2$                        |
+|                        $\dfrac{1}{3}$                      | $\dfrac {100} {3} = 33.3 \% \ \maroonC{\footnotesize{(7)}}$ | $\dfrac {1} {3} = 0.33 \ \maroonC{\footnotesize{(12)}}$   | 
 
 </div>
 </div>
@@ -1674,7 +1663,7 @@ $\dfrac {5} {9}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1690,17 +1679,19 @@ How much less did they take by selling at the lower price?
 
 $
 \begin{aligned}
-\text{total amt that could have been earned if bottles were sold at $55 per bottle}
-&= 
+\text{Required amount}    &= 200 \times (80 - 55) \\\\
+                          &= 200 \times 25 \\\\
+                          &= 5000 \text{p} \\\\
+                          &= \pounds 50
 \end{aligned}
 $
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+$\pounds 50$
 
 </div>
 </div>
@@ -1708,7 +1699,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1751,7 +1742,7 @@ Let's complete the table.
 
 |   Number of squares   |                 1                     |                 2                     |                 3                      |                  4                     |                 5                      |
 |:---------------------:|:-------------------------------------:|:-------------------------------------:|:--------------------------------------:|:--------------------------------------:|:--------------------------------------:|
-| Number of matchsticks | $1 \times 4 = 4 \ \footnotesize{(1)}$ | $2 \times 4 = 8 \ \footnotesize{(2)}$ | $3 \times 4 = 12 \ \footnotesize{(3)}$ | $4 \times 4 = 16 \ \footnotesize{(4)}$ | $5 \times 4 = 20 \ \footnotesize{(5)}$ |
+| Number of matchsticks | $1 \times 4 = 4 \ \maroonC{\footnotesize{(1)}}$ | $2 \times 4 = 8 \ \maroonC{\footnotesize{(2)}}$ | $3 \times 4 = 12 \ \maroonC{\footnotesize{(3)}}$ | $4 \times 4 = 16 \ \maroonC{\footnotesize{(4)}}$ | $5 \times 4 = 20 \ \maroonC{\footnotesize{(5)}}$ |
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/colfes-school-11-plus-maths-9999-sample-paper"
 title: "Colfes School - 11 Plus - Maths - 9999 - Sample Paper"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "32"
 ---
 <div class='paper'>
@@ -363,7 +363,7 @@ $2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -553,7 +553,7 @@ $460 \ \text {m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -597,16 +597,11 @@ The next term is calculated by adding $2$ to the previous term. Hence, the seque
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(+2)}}
-&&  \footnotesize{\maroonC
-{(+2)}}
-&&  \footnotesize{\maroonC
-{(+2)}}
-&&  \footnotesize{\maroonC
-{(+2)}}
-&&  \footnotesize{\maroonC
-{(+2)}}  \\
+&   \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+2)}}  \\
 7,  &&    9,  &&   11,  &&   13,  &&   \ldots, &&   \ldots
 \end {matrix}
 $
@@ -658,16 +653,11 @@ The next term is calculated by subtracting $9$ from the previous term. Hence, th
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(-9)}}
-&&  \footnotesize{\maroonC
-{(-9)}}
-&&  \footnotesize{\maroonC
-{(-9)}}
-&&  \footnotesize{\maroonC
-{(-9)}}
-&&  \footnotesize{\maroonC
-{(-9)}}  \\
+&   \footnotesize{\maroonC{(-9)}}
+&&  \footnotesize{\maroonC{(-9)}}
+&&  \footnotesize{\maroonC{(-9)}}
+&&  \footnotesize{\maroonC{(-9)}}
+&&  \footnotesize{\maroonC{(-9)}}  \\
 105,  &&    96,  &&   87,  &&   78,  &&   \ldots, &&   \ldots
 \end {matrix}
 $
@@ -1133,7 +1123,7 @@ $20$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Reflect the rectangle in the X axis and draw the result on the coordinate grid.
+Reflect the rectangle in the $x$ axis and draw the result on the coordinate grid.
 
 </div>
 <div class='workings'>
@@ -1167,7 +1157,7 @@ Plot the points on the graph
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1196,12 +1186,7 @@ Look at the sequence below. Some of the numbers are missing.
 
 Fill in the numbers so that they fit the pattern. Describe the pattern in words.
 
-$
-2,
-\quad \text{\textunderscore \textunderscore \textunderscore},
-\quad \text{\textunderscore \textunderscore \textunderscore},
-\quad 16, \quad 32, \quad 64
-$
+$ 2,\quad \ldots, \quad \ldots, \quad 16, \quad 32, \quad 64 $
 
 </div>
 <div class='workings'>
@@ -1214,16 +1199,11 @@ The next term is calculated by multiplying the previous term by $2$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(\times 2)} }
-&&  \footnotesize {\maroonC
- {(\times 2)} }
-&&  \footnotesize {\maroonC
- {(\times 2)} }
-&&  \footnotesize {\maroonC
- {(\times 2)} }
-&&  \footnotesize {\maroonC
- {(\times 2)} }  \\
+&   \footnotesize {\maroonC {(\times 2)} }
+&&  \footnotesize {\maroonC {(\times 2)} }
+&&  \footnotesize {\maroonC {(\times 2)} }
+&&  \footnotesize {\maroonC {(\times 2)} }
+&&  \footnotesize {\maroonC {(\times 2)} }  \\
 2,  &&   \ldots,  &&  \ldots, &&  16, && 32, && 64
 \end{matrix}
 $
@@ -2044,7 +2024,7 @@ $48 \ \text {cm} ^ 2$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-The floor or a room is $3 \ \text{metres}$ wide and $4 \ \text{metres}$ long.
+The floor of a room is $3 \ \text{metres}$ wide and $4 \ \text{metres}$ long.
 I am going to tile the floor with tiles that are $25 \ \text{centimetres}$ wide and $50 \ \text{centimetres}$ long.
 How many tiles do I need to buy?
 

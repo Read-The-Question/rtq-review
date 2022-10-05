@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-b"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper B"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "19"
 ---
 <div class='paper'>
@@ -192,7 +192,7 @@ $\dfrac {3} {10}, \quad 0.305, \quad \dfrac {1} {3}, \quad 35 \%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -232,16 +232,11 @@ The next term is calculated by adding $7$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+7)} }
-&&  \footnotesize {\maroonC
- {(+7)} }
-&&  \footnotesize {\maroonC
- {(+7)} }
-&&  \footnotesize {\maroonC
- {(+7)} }
-&&  \footnotesize {\maroonC
- {(+7)} }  \\
+&   \footnotesize {\maroonC {(+7)} }
+&&  \footnotesize {\maroonC {(+7)} }
+&&  \footnotesize {\maroonC {(+7)} }
+&&  \footnotesize {\maroonC {(+7)} }
+&&  \footnotesize {\maroonC {(+7)} }  \\
 22, && 29, && 36, && \ldots, && 50, && \ldots
 \end{matrix}
 $
@@ -289,16 +284,11 @@ The next term is calculated by multiplying the previous term by $2$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(\times 2)} }
-&&  \footnotesize {\maroonC
- {(\times 2)} }
-&&  \footnotesize {\maroonC
- {(\times 2)} }
-&&  \footnotesize {\maroonC
- {(\times 2)} }
-&&  \footnotesize {\maroonC
- {(\times 2)} }  \\
+&   \footnotesize {\maroonC {(\times 2)} }
+&&  \footnotesize {\maroonC {(\times 2)} }
+&&  \footnotesize {\maroonC {(\times 2)} }
+&&  \footnotesize {\maroonC {(\times 2)} }
+&&  \footnotesize {\maroonC {(\times 2)} }  \\
 3, && 6, && 12, && \ldots, && 48, && \ldots
 \end{matrix}
 $
@@ -340,7 +330,7 @@ $96$
 
 A multipack of $15$ packets of crisps costs $\pounds 3.90$.
 
-A packet of crisps costs $35 \ \text{pence}$ if they are brought individually.
+A packet of crisps costs $35 \ \text{pence}$ if they are bought individually.
 
 Calculate how much cheaper it is to buy a multipack of $15$ packets of crisps than to buy $15$ packets individually.
 
@@ -828,8 +818,6 @@ If a tourist cycles at $14 \ \text{km per hour}$, work out how long her journey 
 ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 
-As per the question,
-
 $
 \begin{aligned}
 \text {Distance}    &= \text {Josham to Langham} + \text {Langham to Moreton} \\\\
@@ -1105,9 +1093,9 @@ $0.4$
 
 The table and bar chart below shows the number of cars sold by a car showroom each day for a week.
 
-|         Day         | Mon | Tues | Wed | Thur | Fri | Sat | Sun |
-|:-------------------:|:---:|:----:|:---:|:----:|:---:|:---:|:---:|
-| Number of cars sold |  3  |   5  |     |   1  |  4  |  7  |     |
+|         Day         |  Mon  |  Tues  | Wed |  Thur  |  Fri  |  Sat  | Sun |
+|:-------------------:|:-----:|:------:|:---:|:------:|:-----:|:-----:|:---:|
+| Number of cars sold |  $3$  |   $5$  |     |   $1$  |  $4$  |  $7$  |     |
 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-b/section-1-question-14-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-b/section-1-question-14-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-b/section-1-question-14-00.png")
 
@@ -1131,8 +1119,8 @@ The table and bar chart below shows the number of cars sold by a car showroom ea
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Use the information in the table and the bar chart to complete the entry for **Wednesday** in the table and the bar for 
-**Friday** on the chart.
+Use the information in the table and the bar chart to complete the entry for Wednesday in the table and the bar for 
+Friday on the chart.
 
 </div>
 <div class='workings'>
@@ -1171,7 +1159,7 @@ Plot the number of cars sold on the bar chart
 <div class='question subquestion'>
 
 The total number of cars sold in the week was $28$. Use this information to help complete both the table and the bar chart with 
-**Sunday's** entry.
+Sunday's entry.
 
 </div>
 <div class='workings'>
@@ -1340,7 +1328,7 @@ $72 \ \text{m}^2$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Louis wants to put a stone path around the edge of the garden, just **inside** the existing perimeter fence. 
+Louis wants to put a stone path around the edge of the garden, just inside the existing perimeter fence. 
 Each paving slab is a square with sides $1 \ \text{metre}$.
 
 Work out how many paving slabs are needed to complete this path.
@@ -1422,7 +1410,7 @@ $\pounds 88$
 <div class='question subquestion'>
 
 Louis then decides to plant a row of bushes around the inside of the stone path. Each bush is to be planted $25 \ \text{cm}$ from 
-the edge of the path, and  $50 \ \text{cm}$m from its neighbouring bushes. The diagram below displays how this might look near a 
+the edge of the path, and  $50 \ \text{cm}$ from its neighbouring bushes. The diagram below displays how this might look near a 
 corner of the garden.
 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-b/section-1-question-15-subquestion-5-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-b/section-1-question-15-subquestion-5-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-b/section-1-question-15-subquestion-5-00.png")
@@ -1970,7 +1958,8 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Identify the pattern that links the other numbers in each row. 
+Identify the pattern that links the other numbers to the hexagonal numbers in each row. 
+
 Write one of the four arithmetic symbols ($+, -, \times, \div$) in each of the two gaps either side of the circle, to complete 
 the following formula linking all the numbers in any row of shapes.
 

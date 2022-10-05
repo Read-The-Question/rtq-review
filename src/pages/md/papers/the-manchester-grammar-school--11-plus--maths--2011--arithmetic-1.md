@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2011-arithmetic-1"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2011 - Arithmetic 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "20"
 ---
 <div class='paper'>
@@ -322,7 +322,7 @@ $30 \ \text{cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -343,38 +343,25 @@ ABBR: It is really important to use the right units in calculations and convert 
 
 $
 \begin{aligned}
-\text{Time taken by neil}    &= 20 \ \text{minutes} \\\\
-                             &= \dfrac {20} {60} \ \text{hours} \\\\
-                             &= \dfrac {20} {20 \times 3} \\\\
-                             &= \dfrac {\cancel{20}} {\cancel{20} \times 3} \\\\
-                             &= \dfrac {1}{3} \text{ hours} \\\\
+\text{Distance}                 &= 45 \text{ kilometres} \times 20 \ \text{minutes} \\\\
+                                &= 45 \text{ kilometres} \times \dfrac{20}{60} \ \text{hours} \\\\
+                                &= \dfrac {45 \times 20} {60}  \\\\
+                                &= \dfrac {15 \times 3 \times 20} {20 \times 3}  \\\\
+                                &= \dfrac {15 \times \cancel{3} \times \cancel{20}} {\cancel{20} \times \cancel{3}}  \\\\
+                                &= 15 \text{ kilometres}
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text{Distance} &= 45 \times \dfrac {1} {3} \\\\
-                &= \dfrac {45} {3}  \\\\
-                &= \dfrac {15 \times 3} {3}\\\\
-                &= \dfrac {15 \times \cancel{3}} { \cancel{3}}\\\\
-                &= 15 \text{ km}
+\text{Time taken by Stephen}    &= \dfrac {15}{30} \\\\
+                                &= \dfrac {15}{15 \times 2} \\\\
+                                &= \dfrac {\cancel{15}}{\cancel{15} \times 2} \\\\
+                                &= \dfrac {1}{2} \ \text{hours} \\\\
+                                &= \dfrac {60}{2} \ \text{minutes} \\\\
+                                &= 30 \text{ minutes}
 \end{aligned}
 $
-
-$
-\begin{aligned}
-\text{Time taken by stephen}        &= \dfrac {15 \text{ km}}{30 \text{ km/h}} \\\\
-                                    &= \dfrac {15 \text{ km}}{\dfrac{30}{60} \text{ km/min}} \\\\
-                                    &= \dfrac {15} {\dfrac{30}{60}} \\\\
-                                    &= \dfrac {15 \times 60}{30} \\\\
-                                    &= \dfrac {15 \times 30 \times 2}{30} \\\\
-                                    &= \dfrac {15 \times \cancel{30} \times 2} { \cancel{30} } \\\\
-                                    &= 15 \times 2 \\\\
-                                    &= 30 \text{ minutes}
-\end{aligned}
-$
-
-Time it took for Stephen $= 30 \text{ minutes}$
 
 </div>
 </div>

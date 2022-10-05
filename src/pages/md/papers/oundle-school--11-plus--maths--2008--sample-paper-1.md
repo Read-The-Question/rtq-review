@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2008-sample-paper-1"
 title: "Oundle School - 11 Plus - Maths - 2008 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "25"
 ---
 <div class='paper'>
@@ -340,7 +340,7 @@ $276 \ \text{seconds}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -380,16 +380,11 @@ The next term is calculated by adding $6$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
- { (+6)} }
-&&  \footnotesize{\maroonC
- { (+6)} }
-&&  \footnotesize{\maroonC
- { (+6)} }
-&&  \footnotesize{\maroonC
- { (+6)} }
-&&  \footnotesize{\maroonC
- { (+6)} }  \\
+&   \footnotesize{\maroonC { (+6)} }
+&&  \footnotesize{\maroonC { (+6)} }
+&&  \footnotesize{\maroonC { (+6)} }
+&&  \footnotesize{\maroonC { (+6)} }
+&&  \footnotesize{\maroonC { (+6)} }  \\
 4, && 10, && 16, && 22, && \ldots, && \ldots
 \end{matrix}
 $
@@ -437,16 +432,11 @@ The next term is calculated by multiplying the previous term by $3$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
- { (\times 3) } }
-&&  \footnotesize{\maroonC
- { (\times 3) } }
-&&  \footnotesize{\maroonC
- { (\times 3) } }
-&&  \footnotesize{\maroonC
- { (\times 3) } }
-&&  \footnotesize{\maroonC
- { (\times 3) } }  \\
+&   \footnotesize{\maroonC { (\times 3) } }
+&&  \footnotesize{\maroonC { (\times 3) } }
+&&  \footnotesize{\maroonC { (\times 3) } }
+&&  \footnotesize{\maroonC { (\times 3) } }
+&&  \footnotesize{\maroonC { (\times 3) } }  \\
 1, && 3, && 9, && 27, && \ldots, && \ldots
 \end{matrix}
 $
@@ -494,16 +484,11 @@ The next term is calculated by subtracting $5$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
- { (-5) } }
-&&  \footnotesize{\maroonC
- { (-5) } }
-&&  \footnotesize{\maroonC
- { (-5) } }
-&&  \footnotesize{\maroonC
- { (-5) } }
-&&  \footnotesize{\maroonC
- { (-5) } }  \\
+&   \footnotesize{\maroonC { (-5) } }
+&&  \footnotesize{\maroonC { (-5) } }
+&&  \footnotesize{\maroonC { (-5) } }
+&&  \footnotesize{\maroonC { (-5) } }
+&&  \footnotesize{\maroonC { (-5) } }  \\
 12, && 7, && 2, && - 3, && \ldots, && \ldots
 \end{matrix}
 $
@@ -551,20 +536,13 @@ The next term is calculated by adding together the last two terms. Hence, the se
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(0 + 1)} }
-&&  \footnotesize {\maroonC
- {(1 + 1)} }
-&&  \footnotesize {\maroonC
- {(1 + 2)} }
-&&  \footnotesize {\maroonC
- {(2 + 3)} }
-&&  \footnotesize {\maroonC
- {(3 + 5)} }
-&&  \footnotesize {\maroonC
- {(5 + 8)} }
-&&  \footnotesize {\maroonC
- {(8 + 13)} }  \\
+&   \footnotesize {\maroonC {(0 + 1)} }
+&&  \footnotesize {\maroonC {(1 + 1)} }
+&&  \footnotesize {\maroonC {(1 + 2)} }
+&&  \footnotesize {\maroonC {(2 + 3)} }
+&&  \footnotesize {\maroonC {(3 + 5)} }
+&&  \footnotesize {\maroonC {(5 + 8)} }
+&&  \footnotesize {\maroonC {(8 + 13)} }  \\
 1, && 1, && 2, && 3, && 5, && 8, && \ldots, && \ldots
 \end{matrix}
 $
@@ -810,7 +788,7 @@ $128$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -821,26 +799,39 @@ On a clock face, what is the angle between the hands at $8.30$?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 10 + 2.5 \ \text{minutes} \\\\
+                                        &= 12.5 \ \text{minutes} \\\\
+\text {Angle}                           &= 12.5 \times 6 \\\\
+                                        &= 75 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$75 \degree$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2017-arithmetic-b"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2017 - Arithmetic B"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "11"
 ---
 <div class='paper'>
@@ -267,7 +267,7 @@ $1.34 \ \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -322,10 +322,10 @@ Let's complete the table.
 |  Country  | Gold $(3 \text{pts})$                                                                                     | Silver $(2 \text{pts})$    | Bronze $(1 \text{pt})$                                                  | Points (Pts)                                                          |
 |:---------:|:---------------------:                                                                                    |:-----------------------:   |:----------------------:                                                 |:------------:                                                         |
 |  Abalasia |          $17$                                                                                             |           $10$             |           $8$                                                           |     $79$                                                              |
-| Brussland |          $13$                                                                                             |           $8$              |          $16$                                                           | $13 \times 3 + 8 \times 2 + 16 = 71 \ \footnotesize{(1)}$             |
-|   Ceeden  |          $14$                                                                                             |           $9$              | $65 - 14 \times 3 - 9 \times 2 = 65 - 42 - 18 = 5 \ \footnotesize{(2)}$ |     $65$                                                              |
-|   Dorway  | $\dfrac {62 - 8 \times 2 - 7} {3} = \dfrac {62 - 16 - 7} {3} = \dfrac {39} {3} = 13 \ \footnotesize{(3)}$ |           $8$              |           $7$                                                           |     $62$                                                              |
-|  Esthopia | $10 \ \footnotesize{(4)}$                                                                                 | $10 \ \footnotesize{(5)}$  |         $10 \ \footnotesize{(6)}$                                       |     $60$                                                              |
+| Brussland |          $13$                                                                                             |           $8$              |          $16$                                                           | $13 \times 3 + 8 \times 2 + 16 = 71 \ \maroonC{\footnotesize{(1)}}$             |
+|   Ceeden  |          $14$                                                                                             |           $9$              | $65 - 14 \times 3 - 9 \times 2 = 65 - 42 - 18 = 5 \ \maroonC{\footnotesize{(2)}}$ |     $65$                                                              |
+|   Dorway  | $\dfrac {62 - 8 \times 2 - 7} {3} = \dfrac {62 - 16 - 7} {3} = \dfrac {39} {3} = 13 \ \maroonC{\footnotesize{(3)}}$ |           $8$              |           $7$                                                           |     $62$                                                              |
+|  Esthopia | $10 \ \maroonC{\footnotesize{(4)}}$                                                                                 | $10 \ \maroonC{\footnotesize{(5)}}$  |         $10 \ \maroonC{\footnotesize{(6)}}$                                       |     $60$                                                              |
 
 </div>
 </div>
@@ -1172,7 +1172,7 @@ $\pounds 274$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

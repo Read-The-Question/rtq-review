@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2016-arithmetic-b"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2016 - Arithmetic B"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "11"
 ---
 <div class='paper'>
@@ -378,7 +378,7 @@ $9 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -415,10 +415,10 @@ What fraction of the class voted for Minecraft?
 
 $
 \begin {aligned}
-\text {Fraction of class who voted for Minecraft}   &= \dfrac {120} {360} \\\\
-                                                    &= \dfrac {120} {120 \times 3} \\\\
-                                                    &= \dfrac {\cancel {120}} {\cancel {120} \times 3} \\\\
-                                                    &= \dfrac {1} {3}
+\text {Fraction who voted for Minecraft}    &= \dfrac {120} {360} \\\\
+                                            &= \dfrac {120} {120 \times 3} \\\\
+                                            &= \dfrac {\cancel {120}} {\cancel {120} \times 3} \\\\
+                                            &= \dfrac {1} {3}
 \end {aligned}
 $
 
@@ -446,8 +446,7 @@ One quarter of the pupils voted for Despicable Me.  What angle in the pie chart 
 
 $
 \begin {aligned}
-\text {Angle of Despicable Me sector}   &= \dfrac {1} {4} \ \text{of} \ 360 \\\\
-                                        &= \dfrac {1} {4} \times 360 \\\\
+\text {Angle for Despicable Me sector}  &= \dfrac {1} {4} \times 360 \\\\
                                         &= \dfrac {360} {4} \\\\
                                         &= \dfrac {4 \times 90} {4} \\\\
                                         &= \dfrac {\cancel 4 \times 90} {\cancel 4} \\\\
@@ -477,14 +476,18 @@ How many pupils voted for Angry Birds?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Angles around a point add up to} = 360 \degree$
+
+
 $
 \begin {aligned}
-\text {Number of pupils who voted for Angry Birds}  &= \dfrac {360 - 120 - 90 - 54 - 36} {360} \times 60 \\\\
-                                                    &= \dfrac {60} {360} \times 60 \\\\
-                                                    &= \dfrac {60 \times 60} {360} \\\\
-                                                    &= \dfrac {60 \times 6 \times 10} {60 \times 6} \\\\
-                                                    &= \dfrac {\cancel {60} \times \cancel 6 \times 10} {\cancel {60} \times \cancel 6} \\\\
-                                                    &= 10
+\text {Angle for Angry Birds}       &= 360 - 120 - 90 - 54 - 36 \\\\
+                                    &= 60 \degree \\\\
+\text {Number of pupils}            &= \dfrac {60} {360} \times 60 \\\\
+                                    &= \dfrac {60 \times 60} {360} \\\\
+                                    &= \dfrac {60 \times 6 \times 10} {60 \times 6} \\\\
+                                    &= \dfrac {\cancel {60} \times \cancel 6 \times 10} {\cancel {60} \times \cancel 6} \\\\
+                                    &= 10
 \end {aligned}
 $
 
@@ -504,7 +507,7 @@ $10$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1480,7 +1483,7 @@ $2 \text{ m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1515,10 +1518,10 @@ Let's complete the table.
 |:------:|:------------------------------------------:|:--------------------------------------------:|:---------------------------------------------:|:------------------------------------------:|
 | $2013$ |                     $4$                    |                      $0$                     |                      $4$                      |                     $4$                    |
 | $2014$ |                     $8$                    |                      $0$                     |                      $8$                      |                    $12$                    |
-| $2015$ |                     $16$                   |                      $8$                     |          $24 \ \footnotesize{(3)}$            |        $36 \ \footnotesize{(4)}$           |
-| $2016$ |  $16 \times 2 = 32 \ \footnotesize{(1)}$   |                     $32$                     |                     $64$                      |                   $100$                    |
-| $2017$ |                     $64$                   |        $160 - 64 = 96 \ \footnotesize{(7)}$  |      $260 - 100 = 160 \ \footnotesize{(5)}$   |                   $260$                    |
-| $2018$ | $64 \times 2 = 128 \ \footnotesize{(2)}$   |                     $256$                    |      $644 - 260 = 384 \ \footnotesize{(6)}$   |                   $644$                    |
+| $2015$ |                     $16$                   |                      $8$                     |          $24 \ \maroonC{\footnotesize{(3)}}$            |        $36 \ \maroonC{\footnotesize{(4)}}$           |
+| $2016$ |  $16 \times 2 = 32 \ \maroonC{\footnotesize{(1)}}$   |                     $32$                     |                     $64$                      |                   $100$                    |
+| $2017$ |                     $64$                   |        $160 - 64 = 96 \ \maroonC{\footnotesize{(7)}}$  |      $260 - 100 = 160 \ \maroonC{\footnotesize{(5)}}$   |                   $260$                    |
+| $2018$ | $64 \times 2 = 128 \ \maroonC{\footnotesize{(2)}}$   |                     $256$                    |      $644 - 260 = 384 \ \maroonC{\footnotesize{(6)}}$   |                   $644$                    |
 
 </div>
 </div>

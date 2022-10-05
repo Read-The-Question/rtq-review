@@ -1,7 +1,7 @@
 ---
 slug: "papers/royal-russell-school-11-plus-maths-9999-sample-paper-1"
 title: "Royal Russell School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "25"
 ---
 <div class='paper'>
@@ -20,8 +20,6 @@ questions_count: "25"
 <div class='question question'>
 
 Look at the menu below:
-
-![royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-1-00.png](/assets/royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-1-00.png "royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-1-00.png")   ![royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-1-01.png](/assets/royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-1-01.png "royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-1-01.png")
 
 |     Tea     |  $60 \text{p}$ |
 |:-----------:|:--------------:|
@@ -152,7 +150,7 @@ $5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -192,16 +190,11 @@ The next term is calculated by subtracting $3$ from the previous term. Hence, th
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(-3)}}
-&&  \footnotesize{\maroonC
-{(-3)}}
-&&  \footnotesize{\maroonC
-{(-3)}}
-&&  \footnotesize{\maroonC
-{(-3)}}
-&&  \footnotesize{\maroonC
-{(-3)}}  \\
+&   \footnotesize{\maroonC{(-3)}}
+&&  \footnotesize{\maroonC{(-3)}}
+&&  \footnotesize{\maroonC{(-3)}}
+&&  \footnotesize{\maroonC{(-3)}}
+&&  \footnotesize{\maroonC{(-3)}}  \\
 20,  &&    17,  &&  14,  &&   \ldots,  &&   \ldots, && \ldots
 \end {matrix}
 $
@@ -256,20 +249,13 @@ It is a sequence of square numbers.
 
 $
 \begin {matrix}
-    \footnotesize{\maroonC
-{(1^2)}}
-&&  \footnotesize{\maroonC
-{(2^2)}}
-&&  \footnotesize{\maroonC
-{(3^2)}}
-&&  \footnotesize{\maroonC
-{(4^2)}}
-&&  \footnotesize{\maroonC
-{(5^2)}}
-&&  \footnotesize{\maroonC
-{(6^2)}}
-&&  \footnotesize{\maroonC
-{(7^2)}}  \\\\
+    \footnotesize{\maroonC{(1^2)}}
+&&  \footnotesize{\maroonC{(2^2)}}
+&&  \footnotesize{\maroonC{(3^2)}}
+&&  \footnotesize{\maroonC{(4^2)}}
+&&  \footnotesize{\maroonC{(5^2)}}
+&&  \footnotesize{\maroonC{(6^2)}}
+&&  \footnotesize{\maroonC{(7^2)}}  \\\\
 1,  &&    4,  &&  9,  &&   16,  && \ldots,  &&   \ldots, && \ldots
 \end {matrix}
 $
@@ -322,22 +308,14 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(+1)}}
-&&  \footnotesize{\maroonC
-{(+2)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+7)}}
-&&  \footnotesize{\maroonC
-{(+8)}}  \\
+&   \footnotesize{\maroonC{(+1)}}
+&&  \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+7)}}
+&&  \footnotesize{\maroonC{(+8)}}  \\
 5,  &&    6,  &&  8,  &&   11,  &&  15,  &&  20,  && \ldots,  &&   \ldots, && \ldots
 \end {matrix}
 $
@@ -1292,11 +1270,7 @@ $
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-![royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-00.png](/assets/royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-00.png "royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-00.png")
-
 In New York it is $23\degree\text{C}$ and in Moscow it is $–5\degree\text{C}$. What is the temperature difference?
-
-![royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-01.png](/assets/royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-01.png "royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-01.png")
 
 </div>
 <div class='workings'>
@@ -2323,10 +2297,6 @@ Emma pays a deposit of $\pounds70.00$ and then pays instalments of $\pounds10$ p
 
 Who pays the most and by how much ? Show all of your working clearly.
 
-
-
-![royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-19-00.png](/assets/royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-19-00.png "royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-19-00.png")  
-
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2368,8 +2338,6 @@ The entry prices at a theme park are: Adults $\pounds20.00$ & Children $\pounds1
 A group visited the theme park and were charged $\pounds105.00$. How many adults & children were in the party? There was at least one adult.
 
 Show all of your working clearly. 
-
-![royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-20-00.png](/assets/royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-20-00.png "royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-20-00.png") 
 
 </div>
 <div class='workings'>
@@ -2474,8 +2442,6 @@ Empty party bags are sold in packs of $12$ and cost $\pounds2$ per pack.
 Lollipops are sold in packs of $8$ and cost $\pounds4$ per pack.
 
 Toys are sold in packs of $9$ and cost $\pounds10$ per pack.
-
-![royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-22-00.png](/assets/royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-22-00.png "royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-22-00.png")
 
 As a special new year offer, all prices are reduced by one quarter.
 
@@ -2621,7 +2587,7 @@ Beeching tiles
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2686,22 +2652,24 @@ Plot the points on the graph and join them to make a straight line
 
 Tick the correct statement:
 
-This line is horizontal $\Box$ 
-
-This line is vertical $\Box$
+- This line is horizontal
+- This line is vertical
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-This line is vertical
+This line is vertical.
 
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
 <div class='answer'>
 
-This line is vertical
+This line is vertical.
 
 </div>
 </div>
@@ -2712,7 +2680,7 @@ This line is vertical
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2742,10 +2710,10 @@ Let's complete the table.
 
 |               | Judge $1$                     | Judge $2$                  | Judge $3$                              | Judge $4$                                                 | Total                                       |
 |--------       |:---------:                    |:---------:                 |:---------:                             |:---------:                                                |:-----:                                      |
-| Andrew        |    $5 \ \footnotesize{(1)}$   |  $5 \ \footnotesize{(2)}$  |   $5 \ \footnotesize{(3)}$             |  $5 \ \footnotesize{(4)}$                                 |  $5 + 5 + 5 + 5 = 20 \ \footnotesize{(5)}$  |
-| Brian         |              $5$              |             $4$            |              $3$                       |  $16 - 5 - 4 - 3 = 4 \ \footnotesize{(7)}$                |   $20 - 4 = 16 \ \footnotesize{(6)}$        |
-| Carla         |              $4$              |             $2$            |  $7 - 4 - 2 = 1 \ \footnotesize{(9)}$  |                  $0$                                      |  $7 \ \footnotesize{(8)}$                   |
-| Donna         |              $0$              |             $-3$           |              $5$                       |  $7 - 0 - (-3) - 5 = 7 + 3 - 5 = 5 \ \footnotesize{(11)}$ |  $7 \ \footnotesize{(10)}$                  |
+| Andrew        |    $5 \ \maroonC{\footnotesize{(1)}}$   |  $5 \ \maroonC{\footnotesize{(2)}}$  |   $5 \ \maroonC{\footnotesize{(3)}}$             |  $5 \ \maroonC{\footnotesize{(4)}}$                                 |  $5 + 5 + 5 + 5 = 20 \ \maroonC{\footnotesize{(5)}}$  |
+| Brian         |              $5$              |             $4$            |              $3$                       |  $16 - 5 - 4 - 3 = 4 \ \maroonC{\footnotesize{(7)}}$                |   $20 - 4 = 16 \ \maroonC{\footnotesize{(6)}}$        |
+| Carla         |              $4$              |             $2$            |  $7 - 4 - 2 = 1 \ \maroonC{\footnotesize{(9)}}$  |                  $0$                                      |  $7 \ \maroonC{\footnotesize{(8)}}$                   |
+| Donna         |              $0$              |             $-3$           |              $5$                       |  $7 - 0 - (-3) - 5 = 7 + 3 - 5 = 5 \ \maroonC{\footnotesize{(11)}}$ |  $7 \ \maroonC{\footnotesize{(10)}}$                  |
 
 </div>
 </div>

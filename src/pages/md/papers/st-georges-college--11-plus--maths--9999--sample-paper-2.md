@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-georges-college-11-plus-maths-9999-sample-paper-2"
 title: "St Georges College - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "24"
 ---
 <div class='paper'>
@@ -293,7 +293,7 @@ $9100$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -340,7 +340,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$dfrac{3}{5}$
+$\dfrac{3}{5}$
 
 </div>
 </div>
@@ -383,7 +383,7 @@ $\dfrac{3}{25}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -786,7 +786,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -826,16 +826,11 @@ The next term is calculated by dividing the previous term by $2$. Hence, the seq
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\div 2)}} 
-&&  \footnotesize{\maroonC
-{(\div 2)}}  
-&&  \footnotesize{\maroonC
-{(\div 2)}}   
-&&  \footnotesize{\maroonC
-{(\div 2)}}    
-&&  \footnotesize{\maroonC
-{(\div 2)}}  \\
+&   \footnotesize{\maroonC{(\div 2)}} 
+&&  \footnotesize{\maroonC{(\div 2)}}  
+&&  \footnotesize{\maroonC{(\div 2)}}   
+&&  \footnotesize{\maroonC{(\div 2)}}    
+&&  \footnotesize{\maroonC{(\div 2)}}  \\
 8,  &&    4,  &&  2,  &&   1, &&    \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -884,16 +879,11 @@ The next term is calculated by subtracting $6$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-6)}} 
-&&  \footnotesize{\maroonC
-{(-6)}}  
-&&  \footnotesize{\maroonC
-{(-6)}}   
-&&  \footnotesize{\maroonC
-{(-6)}}   
-&&  \footnotesize{\maroonC
-{(-6)}}  \\
+&   \footnotesize{\maroonC{(-6)}} 
+&&  \footnotesize{\maroonC{(-6)}}  
+&&  \footnotesize{\maroonC{(-6)}}   
+&&  \footnotesize{\maroonC{(-6)}}   
+&&  \footnotesize{\maroonC{(-6)}}  \\
 23,  &&    17,  &&  11,  &&   5, &&    \ldots,  &&  \ldots
 \end{matrix}
 $

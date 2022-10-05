@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2008-sample-paper-1"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2008 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "14"
 ---
 <div class='paper'>
@@ -507,7 +507,7 @@ $13$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -516,26 +516,16 @@ Notby School won the final of the hockey tournament.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -554,9 +544,9 @@ Write this length in centimetres.
 
 $
 \begin{aligned}
-&=91.4 \text{m} \\\\
-&=91.4 \times 100 \\\\
-&= 9140\text{cm}
+&= 91.4 \ \text{m} \\\\
+&= 91.4 \times 100 \ \text{cm} \\\\
+&= 9140 \ \text{cm}
 \end{aligned}
 $
 
@@ -565,7 +555,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$9140\text{cm}$
+$9140 \ \text{cm}$
 
 </div>
 </div>
@@ -582,26 +572,16 @@ Write this number correct to the nearest hundred.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$2100$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$2100$
 
 </div>
 </div>
@@ -620,14 +600,23 @@ How many grams is this?
 <div class='workings'>
 <div class='working'>
 
-$500\text{g}$
+$
+\begin{aligned}
+&= \dfrac {1} {2} \ \text{kg} \\\\
+&= \dfrac {1} {2} \times 1000 \ \text{g} \\\\
+&= \dfrac {1000} {2} \\\\
+&= \dfrac {500 \times 2} {2} \\\\
+&= \dfrac {500 \times \cancel 2} {\cancel 2} \\\\
+&= 500 \ \text{g}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$500\text{g}$
+$500 \ \text{g}$
 
 </div>
 </div>
@@ -648,26 +637,16 @@ Use the Venn diagram to write down
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -682,14 +661,19 @@ the number of right-handed children in the team
 <div class='workings'>
 <div class='working'>
 
-$5$
+$
+\begin{aligned}
+\text{Number of right-handed children}      &= 5 + 3 \\\\
+                                            &= 8
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$5$
+$8$
 
 </div>
 </div>
@@ -704,26 +688,16 @@ the number of left-handed children who scored a goal
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$2$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$2$
 
 </div>
 </div>
@@ -2605,7 +2579,7 @@ $\pounds 180$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

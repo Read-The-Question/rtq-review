@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2016 - Group 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "46"
 ---
 <div class='paper'>
@@ -183,7 +183,7 @@ $60$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -201,27 +201,20 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+6)} }
-&&  \footnotesize {\maroonC
- {(+ 6 \times 2)} }
-&&  \footnotesize {\maroonC
- {(+ 6 \times 4)} }
-&&  \footnotesize {\maroonC
- {(+ 6 \times 8)} }
-&&  \footnotesize {\maroonC
- {(+ 6 \times 16)} }  \\
+&   \footnotesize {\maroonC {(+ 6)} }
+&&  \footnotesize {\maroonC {(+ 12)} }
+&&  \footnotesize {\maroonC {(+ 24)} }
+&&  \footnotesize {\maroonC {(+ 48)} }
+&&  \footnotesize {\maroonC {(+ 96)} }  \\
 5,  &&   11,  &&  23,  &&   47, && \ldots, && \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{First number}          &= 47 + 6 \times 8 \\\\
-                             &= 47 + 48 \\\\
+\text{First number}          &= 47 + 48 \\\\
                              &= 95 \\\\
-\text{Second number}         &= 95 + 6 \times 16 \\\\
-                             &= 95 + 96 \\\\
+\text{Second number}         &= 95 + 96 \\\\
                              &= 191
 \end{aligned}
 $
@@ -603,7 +596,7 @@ $11$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -654,9 +647,9 @@ Let's complete the table.
 
 | Daniel calls out                                                 | Bella writes down                                   |
 |:----------------------------------------------------------------:|:---------------------------------------------------:|
-|                                $5$                               | $5 \times 3 - 5 = 15 - 5 = 10 \ \footnotesize{(1)}$ |
-| $\dfrac {19 + 5} {3} = \dfrac {24} {3} = 8 \ \footnotesize{(2)}$ |                          $19$                       |
-| $\dfrac {-2 + 5} {3} = \dfrac {3} {3} = 1 \ \footnotesize{(3)}$  |                          $-2$                       |
+|                                $5$                               | $5 \times 3 - 5 = 15 - 5 = 10 \ \maroonC{\footnotesize{(1)}}$ |
+| $\dfrac {19 + 5} {3} = \dfrac {24} {3} = 8 \ \maroonC{\footnotesize{(2)}}$ |                          $19$                       |
+| $\dfrac {-2 + 5} {3} = \dfrac {3} {3} = 1 \ \maroonC{\footnotesize{(3)}}$  |                          $-2$                       |
 
 </div>
 </div>
@@ -1748,7 +1741,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2757,7 +2750,7 @@ $300$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2776,14 +2769,26 @@ Write the letter names of the points that lie inside the rhombus.
 <div class='workings'>
 <div class='working'>
 
-P and R
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Plot the points P $(5, 3)$, Q $(5, 9)$ and R $(4, 4)$ on the graph to see which points are inside the rhombus
+
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$P, R$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-P and R
+$P, R$
 
 </div>
 </div>
@@ -2849,7 +2854,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2930,9 +2935,9 @@ Let's complete the table.
 
 |       pattern number      | $1$ |              $2$                      |                   $3$                 |                       $4$                     |
 |:-------------------------:|:---:|:-------------------------------------:|:-------------------------------------:|:---------------------------------------------:|
-| number of small triangles | $1$ | $4$                                   | $1 + 3 + 5 = 9 \ \footnotesize{(3)}$  | $1 + 3 + 5 + 7 = 16 \ \footnotesize{(5)}$     |
-|  perimeter ($\text{cm}$)  | $3$ | $3 \times 2 = 6 \ \footnotesize{(1)}$ | $3 \times 3 = 9 \ \footnotesize{(4)}$ | $12$                                          |
-|       number of dots      | $3$ | $1 + 2 + 3 = 6 \ \footnotesize{(2)}$  | $10$                                  | $1 + 2 + 3 + 4 + 5 = 15 \ \footnotesize{(6)}$ |
+| number of small triangles | $1$ | $4$                                   | $1 + 3 + 5 = 9 \ \maroonC{\footnotesize{(3)}}$  | $1 + 3 + 5 + 7 = 16 \ \maroonC{\footnotesize{(5)}}$     |
+|  perimeter ($\text{cm}$)  | $3$ | $3 \times 2 = 6 \ \maroonC{\footnotesize{(1)}}$ | $3 \times 3 = 9 \ \maroonC{\footnotesize{(4)}}$ | $12$                                          |
+|       number of dots      | $3$ | $1 + 2 + 3 = 6 \ \maroonC{\footnotesize{(2)}}$  | $10$                                  | $1 + 2 + 3 + 4 + 5 = 15 \ \maroonC{\footnotesize{(6)}}$ |
 
 </div>
 </div>

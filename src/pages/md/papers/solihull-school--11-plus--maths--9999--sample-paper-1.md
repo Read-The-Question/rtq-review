@@ -1,7 +1,7 @@
 ---
 slug: "papers/solihull-school-11-plus-maths-9999-sample-paper-1"
 title: "Solihull School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "31"
 ---
 <div class='paper'>
@@ -296,7 +296,7 @@ $75$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -558,7 +558,7 @@ $204035082$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -598,18 +598,12 @@ The next term is calculated by adding $6$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+6)}} 
-&&  \footnotesize{\maroonC
-{(+6)}}  
-&&  \footnotesize{\maroonC
-{(+6)}}   
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}} \\
+&   \footnotesize{\maroonC{(+6)}} 
+&&  \footnotesize{\maroonC{(+6)}}  
+&&  \footnotesize{\maroonC{(+6)}}   
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}} \\
 3,  &&    9,  &&  15,  &&   21,  &&   27, &&   33,  && \ldots
 \end{matrix}
 $
@@ -648,16 +642,11 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+3)}} 
-&&  \footnotesize{\maroonC
-{(+5)}}  
-&&  \footnotesize{\maroonC
-{(+7)}}   
-&&  \footnotesize{\maroonC
-{(+9)}}
-&&  \footnotesize{\maroonC
-{(+11)}} \\
+&   \footnotesize{\maroonC{(+3)}} 
+&&  \footnotesize{\maroonC{(+5)}}  
+&&  \footnotesize{\maroonC{(+7)}}   
+&&  \footnotesize{\maroonC{(+9)}}
+&&  \footnotesize{\maroonC{(+11)}} \\
 2,  &&    5,  &&  10,  &&   17,  &&   26, && \ldots
 \end{matrix}
 $
@@ -698,16 +687,11 @@ The next term is calculated by multiplying the previous term by $\dfrac {9} {10}
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\times \dfrac{9} {10})}} 
-&&  \footnotesize{\maroonC
-{(\times \dfrac{9} {10})}}  
-&&  \footnotesize{\maroonC
-{(\times \dfrac{9} {10})}}
-&&  \footnotesize{\maroonC
-{(\times \dfrac{9} {10})}}   
-&&  \footnotesize{\maroonC
-{(\times \dfrac{9} {10})}}  \\
+&   \footnotesize{\maroonC{(\times \dfrac{9} {10})}} 
+&&  \footnotesize{\maroonC{(\times \dfrac{9} {10})}}  
+&&  \footnotesize{\maroonC{(\times \dfrac{9} {10})}}
+&&  \footnotesize{\maroonC{(\times \dfrac{9} {10})}}   
+&&  \footnotesize{\maroonC{(\times \dfrac{9} {10})}}  \\
 1000,  &&    900,  &&  810,  &&   730,  &&   660, && \ldots
 \end{matrix}
 $
@@ -905,7 +889,7 @@ $227  \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -931,9 +915,8 @@ ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
 
 $
 \begin{aligned}
-\text{Distance}   &=  12 \text{ mph} \times 4 \text{ hours} \\\\
-                  &=  12 \times 4  \\\\
-                  &=  48 \text{ m}  \\\\
+\text{Distance}   &=  12 \times 4 \\\\
+                  &=  48 \text{ m}
 \end{aligned}
 $
 
@@ -964,9 +947,7 @@ ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
 
 $
 \begin{aligned}
-\text{Distance}   &=  12 \text{ mph} \times 7\dfrac{1}{2} \text{ hours} \\\\
-                  &=  12 \times \dfrac{7 \times 2 + 1}{2}  \\\\
-                  &=  12 \times \dfrac{14 + 1}{2}  \\\\
+\text{Distance}   &=  12 \times 7\dfrac{1}{2} \\\\
                   &=  12 \times \dfrac{15}{2}  \\\\
                   &=  \dfrac{15 \times 12}{2}  \\\\
                   &=  \dfrac{15 \times 6 \times 2}{2}  \\\\
@@ -1003,9 +984,9 @@ ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
 
 $
 \begin{aligned}
-\text{Distance}   &=  12 \text{ mph} \times 11 \text{ hours } 15  \ \text{minutes} \\\\
-                  &=  12 \text{ mph} \times 11\dfrac{15}{60} \text{ hours}  \\\\
-                  &=  12 \times 11\dfrac{15}{60}  \\\\
+\text{Distance}   &=  12 \times (11 \text{ hours } 15  \ \text{minutes}) \\\\
+                  &=  12 \times 11\dfrac{15}{60} \\\\
+                  &=  12 \times 11\dfrac{15}{60} \\\\
                   &=  12 \times \dfrac{11 \times 60 + 15}{60}  \\\\
                   &=  12 \times \dfrac{660 + 15}{60}  \\\\
                   &=  12 \times \dfrac{675}{60}  \\\\
@@ -2074,7 +2055,7 @@ $81 \text{cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2102,8 +2083,7 @@ $
 \begin{aligned}
 \text{Time taken}   &= 1{:}00 - 10{:}00 \\\\ 
                     &= 3 \text{ hours} \\\\ 
-\text{Distance}     &= 60 \text{ mph} \times 3 \text{ hours} \\\\
-                    &= 60 \times 3 \\\\
+\text{Distance}     &= 60 \times 3 \\\\
                     &= 180 \text{ m}
 \end{aligned}
 $
@@ -2139,8 +2119,7 @@ $
 \begin{aligned}
 \text{Time taken}   &= 3{:}00 - 1{:}00 \\\\ 
                     &= 2 \text{ hours} \\\\ 
-\text{Distance}     &= 30 \text{ mph} \times 2 \text{ hours} \\\\
-                    &= 30 \times 2 \\\\
+\text{Distance}     &= 30 \times 2 \\\\
                     &= 60 \text{ m}
 \end{aligned}
 $
@@ -2169,8 +2148,7 @@ What is the total distance he has travelled?
 
 $
 \begin{aligned}
-\text{Total distance}   &=  180 \text{ m} + 60 \text{ m} \\\\ 
-                        &=  180  + 60 \\\\ 
+\text{Total distance}   &=  180  + 60 \\\\ 
                         &=  240 \text{ m}
 \end{aligned}
 $
@@ -2226,13 +2204,12 @@ What is his average speed for the whole journey?
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
+ABBR: $\text {Speed} = \dfrac {\text{Total distance}} {\text{Total time}}$
 
 
 $
 \begin{aligned}
-\text{Average speed}   &= \dfrac{240 \text { m}}{5 \text{ hours}}  \\\\ 
-                       &= \dfrac{240}{5} \\\\
+\text{Average speed}   &= \dfrac{240}{5} \\\\ 
                        &= \dfrac{48 \times 5}{5} \\\\
                        &= \dfrac{48 \times \cancel{5}}{\cancel{5}} \\\\
                        &= 48 \text{ mph}

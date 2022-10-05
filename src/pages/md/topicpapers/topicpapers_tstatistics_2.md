@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tstatistics-2"
 title: "TopicPaper - Statistics - 2"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "40"
 ---
 <div class='paper'>
@@ -16,7 +16,7 @@ questions_count: "40"
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -368,8 +368,7 @@ Let's arrange the numbers in ascending order.
 $
 \begin {aligned}
 \text{Numbers}           &= 34, \quad 21, \quad 35, \quad 42, \quad 28 \\\\
-\text{Ordered numbers}   &= 21, \quad 28, \quad \maroonC
-{34}, \quad 35, \quad 42 \\\\
+\text{Ordered numbers}   &= 21, \quad 28, \quad \maroonC{34}, \quad 35, \quad 42 \\\\
 \text{Median}            &= 34
 \end {aligned}
 $
@@ -763,9 +762,7 @@ Let's arrange the marks scored in ascending order.
 $
 \begin {aligned}
 \text{Marks scored}           &= 20, \quad 5, \quad 10, \quad 12, \quad 0, \quad 1, \quad 14, \quad 2, \quad 15, \quad 14, \quad 3, \quad 5, \quad 14, \quad 4 \\\\
-\text{Ordered marks scored}   &= 0, \quad 1, \quad 2, \quad 3, \quad 4, \quad 5, \quad \maroonC
-{5}, \quad \maroonC
-{10}, \quad 12, \quad 14, \quad 14, \quad 14, \quad 15, \quad 20 \\\\
+\text{Ordered marks scored}   &= 0, \quad 1, \quad 2, \quad 3, \quad 4, \quad 5, \quad \maroonC{5}, \quad \maroonC{10}, \quad 12, \quad 14, \quad 14, \quad 14, \quad 15, \quad 20 \\\\
 \text{Median}                 &= \dfrac {5 + 10} {2} \\\\
                               &= \dfrac {15} {2} \\\\
                               &= 7.5
@@ -903,9 +900,7 @@ $
 \begin {aligned}
 \text{Old median}             &= 7.5 \\\\
 \text{Marks scored}           &= 20, \quad 5, \quad 10, \quad 12, \quad 1, \quad 1, \quad 14, \quad 2, \quad 15, \quad 14, \quad 3, \quad 5, \quad 14, \quad 4 \\\\
-\text{Ordered marks scored}   &= 1, \quad 1, \quad 2, \quad 3, \quad 4, \quad 5, \quad \maroonC
-{5}, \quad \maroonC
-{10}, \quad 12, \quad 14, \quad 14, \quad 14, \quad 15, \quad 20 \\\\
+\text{Ordered marks scored}   &= 1, \quad 1, \quad 2, \quad 3, \quad 4, \quad 5, \quad \maroonC{5}, \quad \maroonC{10}, \quad 12, \quad 14, \quad 14, \quad 14, \quad 15, \quad 20 \\\\
 \text{New median}             &= \dfrac {5 + 10} {2} \\\\
                               &= \dfrac {15} {2} \\\\
                               &= 7.5
@@ -1047,8 +1042,6 @@ $50 \degree$
 <div class='question subquestion'>
 
 How many of the $180$ students chose Pizza?
-
-![james-allens-girls-school--11-plus--maths--9999--sample-paper-1/section-1-question-17-subquestion-4-00.png](/assets/james-allens-girls-school--11-plus--maths--9999--sample-paper-1/section-1-question-17-subquestion-4-00.png "james-allens-girls-school--11-plus--maths--9999--sample-paper-1/section-1-question-17-subquestion-4-00.png")
 
 </div>
 <div class='workings'>
@@ -1600,8 +1593,7 @@ ABBR: If there is an odd number of numbers, the median is the middle number. If 
 $
 \begin {aligned}
 \text {Numbers}  &= 9, 11, 10 \\\\
-\text {Ordered Numbers}  &= 9, \maroonC
-{10}, 11 \\\\
+\text {Ordered Numbers}  &= 9, \maroonC{10}, 11 \\\\
 \end {aligned}
 $
 
@@ -1684,7 +1676,7 @@ $8, 9, 11, 12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1696,8 +1688,6 @@ Pupils tested whether people can taste the difference between black wine gums an
 The percentage bar charts show three pupils’ results.
 
 ![leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4/section-1-question-14-00.png](/assets/leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4/section-1-question-14-00.png "leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4/section-1-question-14-00.png")
-
-![leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4/section-1-question-14-01.png](/assets/leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4/section-1-question-14-01.png "leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4/section-1-question-14-01.png")
 
 </div>
 <div class='workings'>
@@ -1966,8 +1956,7 @@ Let's arrange the runs scored in ascending order.
 $
 \begin {aligned}
 \text{Runs}           &= 0, 25, 15, 40, 52, 15, 6, 8, 25, 35, 1 \\\\
-\text{Ordered runs}   &= 0, 6, 8, 10, 15, \maroonC
-{15}, 25, 25, 35, 40, 52 \\\\
+\text{Ordered runs}   &= 0, 6, 8, 10, 15, \maroonC{15}, 25, 25, 35, 40, 52 \\\\
 \text{Median}         &= 15
 \end {aligned}
 $
@@ -2047,7 +2036,7 @@ $Y$ $=$ $81$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2125,9 +2114,13 @@ ABBR: If there is an odd number of numbers, the median is the middle number. If 
 ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
 
 
-If mode $9$ then $2$ numbers are $9$
+If mode is $9$, then at least $2$ numbers must be $9$.
 
-Let the four numbers $= a, b, 9, 9$
+There are even count of numbers, the median will be the mean of the middle two values. As the median is $8$, $9$ are not the middle values.
+
+Let the four numbers in ascending order $= a, b, 9, 9$
+
+As per the question,
 
 $
 \begin {aligned}
@@ -2143,9 +2136,7 @@ Lets arrange the numbers in ascending order.
 
 $
 \begin {aligned}
-\text{Ordered numbers}          &= a, \quad \maroonC
-{b}, \quad \maroonC
-{9}, \quad 9 \\\\
+\text{Ordered numbers}          &= a, \quad \maroonC{b}, \quad \maroonC{9}, \quad 9 \\\\
 \dfrac {b + 9} {2}              &= 8 \\\\
 b + 9                           &= 8 \times 2 \\\\
 b + 9                           &= 16 \\\\
@@ -2354,8 +2345,7 @@ Let's arrange the numbers in ascending order.
 
 $
 \begin {aligned}
-\text{Ordered numbers}   &= a1, \quad a2, \quad \maroonC
-{a3}, \quad a4, \quad a5 \\\\
+\text{Ordered numbers}   &= a1, \quad a2, \quad \maroonC{a3}, \quad a4, \quad a5 \\\\
 \text{Median}            &= a3 \\\\
 \end {aligned}
 $
@@ -2604,9 +2594,7 @@ Let's arrange the numbers in ascending order.
 $
 \begin {aligned}
 \text{Numbers}           &= 16, \quad 9, \quad 11, \quad 13, \quad 11, \quad 15 \\\\
-\text{Ordered numbers}   &= 9, \quad 11, \quad \maroonC
-{11}, \quad \maroonC
-{13}, \quad 15, \quad 16 \\\\
+\text{Ordered numbers}   &= 9, \quad 11, \quad \maroonC{11}, \quad \maroonC{13}, \quad 15, \quad 16 \\\\
 \text{Median}            &= \dfrac {11 + 13} {2} \\\\
                          &= \dfrac {24} {2} \\\\
                          &= \dfrac {2 \times 12} {2} \\\\
@@ -2695,7 +2683,7 @@ $68 \ \text{g}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2714,7 +2702,7 @@ What are A, B and C?
 <div class='workings'>
 <div class='working'>
 
-ABBR: If there is an odd number of numbers, the median is the middle number. If there is an even count of numbers, the median is the average of the middle two numbers.
+ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
 
 
 As per the question,
@@ -2763,28 +2751,22 @@ A               &= 30
 \end{aligned}
 $
 
-Value of $A = 30$
-
-Value of $B = 50$
-
-Value of $C = 20$
-
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-A $=$ $30$
+$A$ $=$ $30$
 
 </div>
 <div class='answer'>
 
-B $=$ $50$
+$B$ $=$ $50$
 
 </div>
 <div class='answer'>
 
-C $=$ $20$
+$C$ $=$ $20$
 
 </div>
 </div>
@@ -2833,8 +2815,7 @@ Let's arrange the numbers in ascending order.
 
 $
 \begin {aligned}
-\text{Ordered numbers}      &= 5, \quad \maroonC
-{9}, \quad 10 \\\\
+\text{Ordered numbers}      &= 5, \quad \maroonC{9}, \quad 10 \\\\
 \text{Median}               &= 9
 \end {aligned}
 $
@@ -2891,7 +2872,7 @@ $6.7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2974,7 +2955,7 @@ $5, 5, 8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3012,7 +2993,7 @@ $60 \ \text{g}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3109,8 +3090,7 @@ ABBR: If there is an odd number of numbers, the median is the middle number. If 
 $
 \begin{aligned}
 \text{Numbers}          &= 1.32, 1.47, 1.43, 1.32, 1.35, 1.46, 1.49, 1.32, 1.37, 1.49, 1.48 \\\\
-\text{Ordered numbers}  &= 1.32, 1.32, 1.32, 1.35, 1.37, \maroonC
-{1.43}, 1.46, 1.47, 1.48, 1.49, 1.49 \\\\
+\text{Ordered numbers}  &= 1.32, 1.32, 1.32, 1.35, 1.37, \maroonC{1.43}, 1.46, 1.47, 1.48, 1.49, 1.49 \\\\
 \text{Median}           &= 1.43 \ \text{m}
 \end{aligned}
 $
@@ -3134,7 +3114,7 @@ $1.43 \ \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

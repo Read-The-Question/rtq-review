@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-kings-school-chester-11-plus-maths-9999-sample-paper-1"
 title: "The Kings School Chester - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "26"
 ---
 <div class='paper'>
@@ -448,7 +448,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -459,26 +459,35 @@ $\dfrac{1}{2} \quad \dfrac{3}{8} \quad \dfrac{1}{3} \quad \dfrac{5}{12} \quad \d
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Let's make the denominator the same for all the numbers, so we can compare them.
 
-</div>
-<div class='working placeholder'>
+LCM for $2, 8, 3, 12, 24 = 24$
 
-TODOWORKING
+$
+\begin{aligned}
+&= \dfrac{1}{2}, \quad \dfrac{3}{8}, \quad \dfrac{1}{3}, \quad \dfrac{5}{12}, \quad \dfrac{7}{24} \\\\
+&= \dfrac{1 \times 12}{2 \times 12}, \quad \dfrac{3 \times 3}{8 \times 3}, \quad \dfrac{1 \times 8}{3 \times 8}, \quad \dfrac{5 \times 2}{12 \times 2}, \quad \dfrac{7 \times 1}{24 \times 1} \\\\
+&= \dfrac{12}{24}, \quad \dfrac{9}{24}, \quad \dfrac{8}{24}, \quad \dfrac{10}{24}, \quad \dfrac{7}{24}
+\end{aligned}
+$
+
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= \dfrac{7}{24} < \dfrac{8}{24} < \dfrac{9}{24} < \dfrac{10}{24} < \dfrac{12}{24} \\\\
+&= \dfrac{7}{24} < \dfrac{1}{3} < \dfrac{3}{8} < \dfrac{5}{12} < \dfrac{1}{2}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\dfrac{7}{24}, \quad \dfrac{1}{3}, \quad \dfrac{3}{8}, \quad \dfrac{5}{12}, \quad \dfrac{1}{2}$
 
 </div>
 </div>
@@ -486,7 +495,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -526,14 +535,10 @@ The next term is calculated by adding $4$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}  \\
+&   \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}  \\
 3,  &&    7,  &&  11,  &&   15, && \ldots
 \end{matrix}
 $
@@ -574,14 +579,10 @@ The next term is calculated by subtracting $3$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-3)}}
-&&  \footnotesize{\maroonC
-{(-3)}}
-&&  \footnotesize{\maroonC
-{(-3)}}
-&&  \footnotesize{\maroonC
-{(-3)}}  \\
+&   \footnotesize{\maroonC{(-3)}}
+&&  \footnotesize{\maroonC{(-3)}}
+&&  \footnotesize{\maroonC{(-3)}}
+&&  \footnotesize{\maroonC{(-3)}}  \\
 303,  &&    300,  &&  297,  &&   294, && \ldots
 \end{matrix}
 $
@@ -622,18 +623,12 @@ The next term is calculated by adding together the last two terms. Hence, the se
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(0 + 1)} }
-&&  \footnotesize {\maroonC
- {(1 + 1)} }
-&&  \footnotesize {\maroonC
- {(1 + 2)} }
-&&  \footnotesize {\maroonC
- {(2 + 3)} }
-&&  \footnotesize {\maroonC
- {(3 + 5)} }
-&&  \footnotesize {\maroonC
- {(5 + 8)} }  \\
+&   \footnotesize {\maroonC {(0 + 1)} }
+&&  \footnotesize {\maroonC {(1 + 1)} }
+&&  \footnotesize {\maroonC {(1 + 2)} }
+&&  \footnotesize {\maroonC {(2 + 3)} }
+&&  \footnotesize {\maroonC {(3 + 5)} }
+&&  \footnotesize {\maroonC {(5 + 8)} }  \\
 1,  &&  1, &&  2, &&  3, &&  5,  &&  8, && \ldots
 \end{matrix}
 $
@@ -691,7 +686,7 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -704,26 +699,34 @@ $5 \quad 6 \quad 7 \quad 8$
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
 
-</div>
-<div class='working placeholder'>
+![missing image](/papers/missing_image.svg)
 
-TODOWORKING
+
+
+Plot the numbers in the Venn diagram in the coorect region
+
+factors of $30$: $6$
+
+factors of $40$: $8$
+
+intersection: $5$
+
+neither factor of $30$ nor factor of $40$: $7$
+
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -731,7 +734,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -756,9 +759,9 @@ Let's complete the table.
 |   |                         Fraction                            |                 Decimal                         |                  $\%$                           |
 |:-:|:-----------------------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
 | A |                     $\dfrac {3} {10}$                       |                     $0.3$                       |                $30 \%$                          |
-| B |                      $\dfrac {1} {5}$                       | $\dfrac {1} {5} = 0.2 \ \footnotesize{(3)}$     | $\dfrac {100} {5} = 20 \% \ \footnotesize{(5)}$ |
-| C | $\dfrac {24} {100} = \dfrac {6} {25} \ \footnotesize{(1)}$  | $\dfrac {24} {100} = 0.24 \ \footnotesize{(4)}$ |                $24 \%$                          |
-| D | $\dfrac {34} {100} = \dfrac {17} {50} \ \footnotesize{(2)}$ |                     $0.34$                      | $0.34 \times 100 = 34 \% \ \footnotesize{(6)}$  |
+| B |                      $\dfrac {1} {5}$                       | $\dfrac {1} {5} = 0.2 \ \maroonC{\footnotesize{(3)}}$     | $\dfrac {100} {5} = 20 \% \ \maroonC{\footnotesize{(5)}}$ |
+| C | $\dfrac {24} {100} = \dfrac {6} {25} \ \maroonC{\footnotesize{(1)}}$  | $\dfrac {24} {100} = 0.24 \ \maroonC{\footnotesize{(4)}}$ |                $24 \%$                          |
+| D | $\dfrac {34} {100} = \dfrac {17} {50} \ \maroonC{\footnotesize{(2)}}$ |                     $0.34$                      | $0.34 \times 100 = 34 \% \ \maroonC{\footnotesize{(6)}}$  |
 
 </div>
 </div>

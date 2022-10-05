@@ -1,7 +1,7 @@
 ---
 slug: "papers/latymer-upper-school-11-plus-maths-2020-sample-paper-2"
 title: "Latymer Upper School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "29"
 ---
 <div class='paper'>
@@ -19,7 +19,7 @@ questions_count: "29"
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-What number is $\text{twenty-three}$ less than $\text{seventy thousand}$? 
+What number is twenty-three less than seventy thousand? 
 
 - $67700$ 
 
@@ -169,17 +169,17 @@ $8$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-What remainder do you get when you divide $283$ by $9$? 
+What remainder do you get when you divide $283$ by $9?$
 
-A: $4$ 
+- $4$ 
 
-B: $5$ 
+- $5$ 
 
-C: $6$ 
+- $6$ 
 
-D: $7$ 
+- $7$ 
 
-E: $8$
+- $8$
 
 </div>
 <div class='workings'>
@@ -213,17 +213,17 @@ $4$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-What is $842 - 658$ ? 
+What is $842 - 658?$
 
-A: $184$ 
+- $184$ 
 
-B: $194$ 
+- $194$ 
 
-C: $294$ 
+- $294$ 
 
-D: $284$ 
+- $284$ 
 
-E: $394$
+- $394$
 
 </div>
 <div class='workings'>
@@ -254,22 +254,22 @@ $184$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Bob makes a sequence using the following rule: $\text{‘double and subtract 3’}$. If the first number in his sequence is $5$, what will the fifth number in his sequence be?
+Bob makes a sequence using the following rule: ‘double and subtract $3$’. If the first number in his sequence is $5$, what will the fifth number in his sequence be?
 
-A: $157$ 
+- $157$ 
 
-B: $77$ 
+- $77$ 
 
-C: $19$ 
+- $19$ 
 
-D: $35$ 
+- $35$ 
 
-E: $67$
+- $67$
 
 </div>
 <div class='workings'>
@@ -308,7 +308,14 @@ $35$
 
 What digit should replace the * below?
 
-![latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-7-00.png](/assets/latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-7-00.png "latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-7-00.png") 
+$
+\begin{array}{cccccccccccccc}
+    &   *   &   3   &   9 \\
+{}- &   2   &   6   &   1 \\
+\hline
+    &   5   &   7   &   8
+\end{array}
+$
 
 - $8$ 
 
@@ -554,19 +561,19 @@ $\dfrac {13} {15}$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-What is the area of the shaded shape below? **[Diagram not to scale]**
+What is the area of the shaded shape below? [Diagram not to scale]
 
 ![latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-12-00.png](/assets/latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-12-00.png "latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-12-00.png") 
 
-A: $41 \ \text{cm}^2$ 
+- $41 \ \text{cm}^2$ 
 
-B: $49 \ \text{cm}^2$ 
+- $49 \ \text{cm}^2$ 
 
-C: $56 \ \text{cm}^2$ 
+- $56 \ \text{cm}^2$ 
 
-D: $89 \ \text {cm}^2$ 
+- $89 \ \text {cm}^2$ 
 
-E: $\text{More information needed}$
+- More information needed
 
 </div>
 <div class='workings'>
@@ -614,17 +621,17 @@ $41 \ \text {cm}^2$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-I buy $7$ bags of Cheezos at $55\ \text{pence}$ each and $4$ bags of Nuttees at $63\ \text{pence}$ each. How much change do I get from $\pounds{10}$? 
+I buy $7$ bags of Cheezos at $55\ \text{pence}$ each and $4$ bags of Nuttees at $63\ \text{pence}$ each. How much change do I get from $\pounds{10}?$ 
 
-A: $\pounds{3.73}$ 
+- $\pounds{3.73}$ 
 
-B: $\pounds{3.63}$
+- $\pounds{3.63}$
 
-C: $\pounds{4.73}$ 
+- $\pounds{4.73}$ 
 
-D: $\pounds{4.63}$ 
+- $\pounds{4.63}$ 
 
-E: $\pounds{6.37}$
+- $\pounds{6.37}$
 
 </div>
 <div class='workings'>
@@ -720,7 +727,7 @@ $11$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -746,17 +753,11 @@ ABBR: $\text {Speed} = \dfrac {\text{Distance}} {\text{Time}}$
 
 $
 \begin{aligned}
-\text{Speed}  &= \dfrac{80 \text{ km}}{24 \text{ minutes}} \\\\
-              &= \dfrac{80}{24} \text{ km/minute}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Time taken}  &=  \dfrac{150 \text{ km}}{\dfrac{80}{24} \text{ km/minute}} \\\\
-                   &=  \dfrac{150}{\dfrac{80}{24}} \\\\
-                   &=  \dfrac{150 \times 24}{80} \\\\
-                   &=  \dfrac{15 \times \cancel{10} \times 3 \times \cancel{8}}{\cancel{8} \times \cancel{10}} \\\\
+\text{Speed}       &= \dfrac{80}{24} \text{ km/minute} \\\\
+\text{Time taken}  &= \dfrac{150}{\dfrac{80}{24}} \\\\
+                   &= \dfrac{150 \times 24}{80} \\\\
+                   &= \dfrac{15 \times 10 \times 3 \times 8}{8 \times 10} \\\\
+                   &= \dfrac{15 \times \cancel{10} \times 3 \times \cancel{8}}{\cancel{8} \times \cancel{10}} \\\\
                    &=  15 \times 3 \\\\
                    &=  45 \text{ minutes} \\\\
 \end{aligned}
@@ -879,19 +880,19 @@ $20$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-What is the area of the shaded triangle below? **[Diagram not to scale]**
+What is the area of the shaded triangle below? [Diagram not to scale]
 
 ![latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-18-00.png](/assets/latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-18-00.png "latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-18-00.png") 
 
-A: $42 \ \text{cm}^2$ 
+- $42 \ \text{cm}^2$ 
 
-B: $14 \ \text{cm}^2$ 
+- $14 \ \text{cm}^2$ 
 
-C: $28 \ \text{cm}^2$ 
+- $28 \ \text{cm}^2$ 
 
-D: $24.5 \ \text{cm}^2$ 
+- $24.5 \ \text{cm}^2$ 
 
-E: $17.5 \ \text{cm}^2$
+- $17.5 \ \text{cm}^2$
 
 </div>
 <div class='workings'>
@@ -1344,30 +1345,8 @@ $\dfrac {5} {27}$
 %empty% 
 
 </div>
-<div class='workings'>
-<div class='working placeholder'>
 
-TODOWORKING
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -1377,26 +1356,35 @@ Mr Sahota is cycling around a track at a constant speed. He completes $5$ laps e
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: $\text {Speed} = \dfrac {\text{Distance}} {\text{Time}}$
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Speed}                            &=  \dfrac{5 \text{ laps}}{4 \text{ minutes}}  \\\\
+                                        &=  \dfrac{5}{4} \text{ laps/minute}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Time taken to complete 8 laps}    &=  \dfrac{8}{\dfrac{5}{4}} \\\\
+                                        &=  8 \times \dfrac{4}{5} \\\\
+                                        &=  \dfrac{8 \times 4}{5} \\\\
+                                        &=  \dfrac{32}{5} \\\\
+                                        &=  6\dfrac{2}{5} \text{ minutes} \\\\
+                                        &=  6 \text{ minutes } 24 \text { seconds}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$6 \text{ minutes } 24 \text { seconds}$
 
 </div>
 </div>
@@ -1446,7 +1434,7 @@ TODOANSWER
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-For each part of this question you should try to find **all** the different possible answers. You don’t need to worry about different orderings of the piles $- 3$ beads, $2$ beads, $1$ bead is the same as $3$ beads, $1$ bead, $2$ beads. 
+For each part of this question you should try to find all the different possible answers. You don’t need to worry about different orderings of the piles $- 3$ beads, $2$ beads, $1$ bead is the same as $3$ beads, $1$ bead, $2$ beads. 
 
 </div>
 <div class='workings'>
@@ -1480,8 +1468,13 @@ TODOANSWER
 
 I have six identical beads which I want to put into three piles. Each pile must have at least one bead in it. How many beads could be in each pile? One possible answer is given to you.
 
-![missing table](/papers/missing_table.svg)
-
+| $1^\text{st}$ pile | $2^\text{nd}$ pile | $3^\text{rd}$ pile |
+|:------------------:|:------------------:|:------------------:|
+|      $3$ beads     |      $2$ beads     |      $1$ beads     |
+|                    |                    |                    |
+|                    |                    |                    |
+|                    |                    |                    |
+|                    |                    |                    |
 
 </div>
 <div class='workings'>
@@ -1519,8 +1512,13 @@ List all the ways of placing eight beads into four piles, with at least one bead
 
 One possible answer is given to you.
 
-![missing table](/papers/missing_table.svg)
-
+| $1^\text{st}$ pile | $2^\text{nd}$ pile | $3^\text{rd}$ pile | $4^\text{th}$ pile |
+|:------------------:|:------------------:|:------------------:|:------------------:|
+|      $3$ beads     |      $2$ beads     |      $2$ beads     |      $1$ beads     |
+|                    |                    |                    |                    |
+|                    |                    |                    |                    |
+|                    |                    |                    |                    |
+|                    |                    |                    |                    |
 
 </div>
 <div class='workings'>
@@ -1701,7 +1699,7 @@ $14$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Sid the spider goes for a walk around the whole perimeter of the shape below, starting at the point marked A. How far does he have to walk? 
+Sid the spider goes for a walk around the whole perimeter of the shape below, starting at the point marked $A$. How far does he have to walk? 
 
 ![latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-26-00.png](/assets/latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-26-00.png "latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-26-00.png")
 
@@ -1825,7 +1823,7 @@ TODOANSWER
 
 Robin notices that he can take two copies of Pattern $4$ and make them into a $4\times5$ rectangle:
 
-![latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-00.png](/assets/latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-00.png "latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-00.png")        ![latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-01.png](/assets/latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-01.png "latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-01.png")
+![latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-00.png](/assets/latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-00.png "latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-00.png") 
 
 </div>
 <div class='workings'>

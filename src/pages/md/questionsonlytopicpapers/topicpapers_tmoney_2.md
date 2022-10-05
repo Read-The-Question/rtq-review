@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tmoney-2"
 title: "TopicPaper - Money - 2"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "40"
 ---
 <div class='paper'>
@@ -40,14 +40,14 @@ What is $15 \%$ of $\pounds 120$?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-A multipack of $12$ cans of Ned's cola cost $\pounds 6.95$. 
+A multipack of $12$ cans of Ned's Cola costs $\pounds 6.95$. 
 
-A single can of Ned's cola costs $65 \ \text{pence}$ if bought individually. 
+A single can of Ned's Cola costs $65 \ \text{pence}$ if bought individually. 
 
 Calculate how much cheaper it is to buy a multipack of $12$ cans than to buy $12$ cans individually, giving your answer in pence.
 
@@ -56,14 +56,14 @@ Calculate how much cheaper it is to buy a multipack of $12$ cans than to buy $12
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A multipack of $15$ packets of crisps costs $\pounds 3.90$.
 
-A packet of crisps costs $35 \ \text{pence}$ if they are brought individually.
+A packet of crisps costs $35 \ \text{pence}$ if they are bought individually.
 
 Calculate how much cheaper it is to buy a multipack of $15$ packets of crisps than to buy $15$ packets individually.
 
@@ -655,9 +655,7 @@ How many $26 \text{p}$ stamps can Antonia buy for $\pounds 10$ and how much chan
 <div class='question question'>
 
 To encourage her to tidy her bedroom, Cathy is given $1 \text{p}$ on the first day, $2 \text{p}$ on the second day, $4 \text{p}$ on the third day and so on, doubling the amount each day. 
-How much has she been given after $8$ days?
-
-![james-allens-girls-school--11-plus--maths--9999--sample-paper-1/section-1-question-18-00.png](/assets/james-allens-girls-school--11-plus--maths--9999--sample-paper-1/section-1-question-18-00.png "james-allens-girls-school--11-plus--maths--9999--sample-paper-1/section-1-question-18-00.png")   
+How much has she been given after $8$ days?  
 
 </div>
 
@@ -784,6 +782,8 @@ Work out $10 \%$ of $130$.
 <div class='question question'>
 
 **Questions** $\bold{19}$ **to** $\bold{21}$ **refer to the graph on the page opposite**.
+
+![king-henry-viii-school--11-plus--maths--9999--sample-paper-1/section-1-question-19-00.png](/assets/king-henry-viii-school--11-plus--maths--9999--sample-paper-1/section-1-question-19-00.png "king-henry-viii-school--11-plus--maths--9999--sample-paper-1/section-1-question-19-00.png")
 
 Bella changes $\pounds 24$ into dinars. How many dinars does she have?
 
@@ -996,22 +996,22 @@ E: $15$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-I buy $7$ bags of Cheezos at $55\ \text{pence}$ each and $4$ bags of Nuttees at $63\ \text{pence}$ each. How much change do I get from $\pounds{10}$? 
+I buy $7$ bags of Cheezos at $55\ \text{pence}$ each and $4$ bags of Nuttees at $63\ \text{pence}$ each. How much change do I get from $\pounds{10}?$ 
 
-A: $\pounds{3.73}$ 
+- $\pounds{3.73}$ 
 
-B: $\pounds{3.63}$
+- $\pounds{3.63}$
 
-C: $\pounds{4.73}$ 
+- $\pounds{4.73}$ 
 
-D: $\pounds{4.63}$ 
+- $\pounds{4.63}$ 
 
-E: $\pounds{6.37}$
+- $\pounds{6.37}$
 
 </div>
 

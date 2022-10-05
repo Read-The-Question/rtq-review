@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-4-g3"
 title: "TopicPaper - Number - 4 - G3"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "18"
 ---
 <ul class='question default-decimal'>
@@ -45,7 +45,7 @@ $407$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-What is $4 - ((4 + 4) \div 4)$? 
+What is $4 - ((4 + 4) \div 4)?$ 
 
 </div>
 <div class='workings'>
@@ -644,9 +644,7 @@ $\boxed{\phantom{1}} \ \boxed{\phantom{1}} \ \boxed{\phantom{1}} \ - \ \boxed{\p
 <div class='workings'>
 <div class='working'>
 
-$ \maroonC
-{745} - \maroonC
-{91} = 654$
+$ \maroonC{745} - \maroonC{91} = 654$
 
 Let's verify.
 
@@ -683,10 +681,7 @@ $\boxed{\phantom{1}} \ + \boxed{\phantom{1}} \ \times \boxed{\phantom{1}} = 33$
 <div class='workings'>
 <div class='working'>
 
-$\maroonC
-{5} + \maroonC
-{4} \times \maroonC
-{7} = 33$
+$\maroonC{5} + \maroonC{4} \times \maroonC{7} = 33$
 
 Let's verify.
 
@@ -745,7 +740,7 @@ $\boxed{18} \quad \boxed{26} \quad \boxed{37} \quad \boxed{49}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Which two numbers have a difference of $10$?
+Which two numbers have a difference of $10?$
 
 </div>
 <div class='workings'>
@@ -807,7 +802,7 @@ $100$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Which two numberes cards add to make $44$?
+Which two numberes cards add to make $44?$
 
 </div>
 <div class='workings'>
@@ -838,9 +833,9 @@ $26, 18$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Which two numbered cards can be added to make $62$?
+Which two numbered cards can be added to make $62?$
 
-This can be done using **two** different pairs.
+This can be done using two different pairs.
 
 </div>
 <div class='workings'>
@@ -873,7 +868,7 @@ $49, 13$ or $25, 37$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Which card is the largest multiple of $3$?
+Which card is the largest multiple of $3?$
 
 </div>
 <div class='workings'>
@@ -897,7 +892,7 @@ $27$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is total of the three *prime* numbered cards?
+What is total of the three prime numbered cards?
 
 </div>
 <div class='workings'>
@@ -956,7 +951,7 @@ $91$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What number must be added to $6.4$ to make $10$?
+What number must be added to $6.4$ to make $10?$
 
 </div>
 <div class='workings'>
@@ -985,7 +980,7 @@ $3.6$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What number must be added to $5.37$ to make $6$?
+What number must be added to $5.37$ to make $6?$
 
 </div>
 <div class='workings'>
@@ -1014,7 +1009,7 @@ $0.63$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the difference between $6.4$ and $7.28$?
+What is the difference between $6.4$ and $7.28?$
 
 </div>
 <div class='workings'>
@@ -1238,8 +1233,8 @@ $6174$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Dean is using each card once to create four digit numbers (for example $3751$. 
-How **many** numbers can he make that are bigger than $7000$?
+Dean is using each card once to create four digit numbers (for example $3751$). 
+How many numbers can he make that are bigger than $7000?$
 
 </div>
 <div class='workings'>
@@ -1703,7 +1698,7 @@ $0.25$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Which numer is halfway between:
+Which number is halfway between:
 
 $0.01$ and $0.26?$
 
@@ -1738,7 +1733,7 @@ $0.135$
 
 Which is the smallest:
 
-$5.301, \quad 5.031, \quad 5.13$ or $5.103?$
+$5.301, 5.031, 5.13$ or $5.103?$
 
 </div>
 <div class='workings'>

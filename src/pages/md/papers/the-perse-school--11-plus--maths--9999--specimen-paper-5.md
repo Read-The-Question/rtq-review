@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-5"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 5"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "22"
 ---
 <div class='paper'>
@@ -86,7 +86,7 @@ $504$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -280,7 +280,7 @@ $27 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -315,24 +315,15 @@ What is the largest number he can get?
 <div class='workings'>
 <div class='working'>
 
-Let's put them in ascending order now.
+To get the largest number, Frank needs to choose the biggest number as
+the numerator and the smallest number as the denominator.
 
 $
 \begin{aligned}
-&= 8 , \quad   16 , \quad   10 , \quad   12 \\\\
-&= 16 , \quad   12 , \quad   10 , \quad   8
-\end{aligned}
-$
-
-To get the largest number, Frank needs to choose highest number as numerstor and lowest number as denominator.
-
-$
-\begin{aligned}
-&= \dfrac {\text {Highest number}} {\text {Lowest number}} \\\\
-&= \dfrac {16} {8} \\\\
-&= \dfrac {8 \times 2} {8} \\\\
-&= \dfrac {\cancel {8} \times 2} {\cancel {8}} \\\\
-&= 2
+\text{Number}   &= \dfrac {16} {8} \\\\
+                &= \dfrac {8 \times 2} {8} \\\\
+                &= \dfrac {\cancel {8} \times 2} {\cancel {8}} \\\\
+                &= 2
 \end{aligned}
 $
 
@@ -358,24 +349,15 @@ What is the smallest result?
 <div class='workings'>
 <div class='working'>
 
-Let's put them in ascending order now.
+To get the smallest number, Frank needs to choose the smallest number as
+the numerator and the biggest number as the denominator.
 
 $
 \begin{aligned}
-&= 8 , \quad   16 , \quad   10 , \quad   12 \\\\
-&= 8 , \quad   10 , \quad   12 , \quad   16
-\end{aligned}
-$
-
-To get the smallest number, Frank needs to choose lowest number as numerator and highest number as denominator.
-
-$
-\begin{aligned}
-&= \dfrac {\text {Lowest number}} {\text {Highest number}} \\\\
-&= \dfrac {8} {16} \\\\
-&= \dfrac {8} {8 \times 2} \\\\
-&= \dfrac {\cancel {8}} {\cancel {8} \times 2} \\\\
-&= \dfrac {1} {2}
+\text{Number}   &= \dfrac {8} {16} \\\\
+                &= \dfrac {8} {8 \times 2} \\\\
+                &= \dfrac {\cancel {8}} {\cancel {8} \times 2} \\\\
+                &= \dfrac {1} {2}
 \end{aligned}
 $
 
@@ -545,7 +527,7 @@ $16$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -569,20 +551,6 @@ r^2                             &= 9 \\\\
 r                               &= \sqrt {9} \\\\
 r                               &= 3
 \end{aligned}
-$
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 3)}}
-&&  \footnotesize{\maroonC
-{(\times 3)}}
-&&  \footnotesize{\maroonC
-{(\times 3)}}
-&&  \footnotesize{\maroonC
-{(\times 3)}} \\
-1,  &&    1 \times 3,  &&  9,  &&   9 \times 3,  &&   9 \times 3 \times 3 \ldots
-\end{matrix}
 $
 
 $
@@ -914,7 +882,7 @@ $16 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -922,30 +890,8 @@ $16 \ \text{cm}$
 %empty%
 
 </div>
-<div class='workings'>
-<div class='working placeholder'>
 
-TODOWORKING
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -955,26 +901,16 @@ In one hour how many degrees does the **hour** hand of a clock move?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$30 \degree$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$30 \degree$
 
 </div>
 </div>
@@ -989,26 +925,31 @@ How many degrees does the **hour** hand move between $1.10\,am$ and $4.30\,am$?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The hour hand of a clock moves by $30 \degree$ every hour.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The hour hand of a clock moves by $0.5 \degree$ every minute.
+
+
+$
+\begin {aligned}
+\text {Total minutes}   &= 4{:}30 \ \text{am} -  1{:}10 \ \text{am} \\\\
+                        &= 2 \times 60  \ \text{minutes} + 80  \ \text{minutes} \\\\
+                        &= 120 + 80 \\\\
+                        &= 200 \ \text{minutes} \\\\
+\text {Angle moved}     &= 200 \times 0.5 \\\\
+                        &= 100 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$100 \degree$
 
 </div>
 </div>

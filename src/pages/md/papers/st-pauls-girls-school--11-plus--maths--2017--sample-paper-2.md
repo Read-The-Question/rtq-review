@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2017-sample-paper-2"
 title: "St Pauls Girls School - 11 Plus - Maths - 2017 - Sample Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "37"
 ---
 <div class='paper'>
@@ -117,7 +117,7 @@ $3586$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -130,16 +130,7 @@ $1.23 \quad 1.023 \quad 1.203 \quad 1.032 \quad 1.2 \quad 1.32 \quad 1.302$
 <div class='workings'>
 <div class='working'>
 
-To compare, we can convert all the numbers to fractions, decimals or percentages.
-
-In this case, all are in decimals. Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= 1.23 \quad 1.023 \quad 1.203 \quad 1.032 \quad 1.2 \quad 1.32 \quad 1.302 \\\\
-&= 1.023, \quad 1.032, \quad 1.2, \quad 1.203, \quad 1.23, \quad 1.302, \quad 1.32
-\end[aligned]
-$
+$1.023, \quad 1.032, \quad 1.2, \quad 1.203, \quad 1.23, \quad 1.302, \quad 1.32$
 
 </div>
 </div>
@@ -213,7 +204,7 @@ $6.51, 7.49, 6.9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -253,18 +244,12 @@ The next term is calculated by adding $4$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}  \\
+&   \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}  \\
 3,  &&    7,  &&  11,  &&   15,  &&   \ldots,  &&  \ldots,  && \ldots
 \end{matrix}
 $
@@ -317,18 +302,12 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-7)}}
-&&  \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(-5)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-3)}}
-&&  \footnotesize{\maroonC
-{(-2)}}  \\
+&   \footnotesize{\maroonC{(-7)}}
+&&  \footnotesize{\maroonC{(-6)}}
+&&  \footnotesize{\maroonC{(-5)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-3)}}
+&&  \footnotesize{\maroonC{(-2)}}  \\
 53,  &&   46,  &&  40,  &&   35,  &&   \ldots,  &&  \ldots,  && \ldots
 \end{matrix}
 $
@@ -383,18 +362,12 @@ The next term is calculated by multiplying the previous term by $2$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}  \\
+&   \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}  \\
 1,  &&    2,  &&  4,  &&   8,  &&   \ldots,  && \ldots, && \ldots
 \end{matrix}
 $
@@ -548,7 +521,7 @@ $38$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -558,23 +531,13 @@ It is then turned anticlockwise by $240 \degree$. What number does it now point 
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$3$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
 <div class='answer placeholder'>
 
 TODOANSWER
@@ -729,7 +692,7 @@ $84$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -740,7 +703,7 @@ Freya has $24$ badges. If she gives $\dfrac{3}{8}$ of them to her brother, how m
 <div class='workings'>
 <div class='working'>
 
-If Freya gives $\dfrac{3}{8}$ of badges away, then she is left with $1- \dfrac{3}{8} = \dfrac{5}{8}$ of badges.
+If Freya gives $\dfrac{3}{8}$ of her badges away, then she is left with $1- \dfrac{3}{8} = \dfrac{5}{8}$ of badges.
 
 $
 \begin{aligned}
@@ -1101,7 +1064,7 @@ $\text{different} \ \ \boxed{\times}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1114,27 +1077,20 @@ less than he paid. The next day Bill sold it to Jack for $\pounds 90$. What is B
 <div class='workings'>
 <div class='working'>
 
-Amount to which Bill sold to Tom $= \pounds 120$
-
 $
 \begin{aligned}
-\text{Amount to which Tom  returned}            &= 30\% \ \text{of} \ \pounds 120 \\\\
-                                                &= \dfrac{30}{100} \times 120 \\\\
-                                                &= \dfrac{30 \times 120}{100} \\\\
-                                                &= \dfrac{3\cancel{0} \times 12\cancel{0}}{1\cancel{0}\cancel{0}} \\\\
-                                                &= 3 \times 12 \\\\
-\text{Amount to which Tom  returned}            &= \pounds 36
+\text{Total amount paid to Bill}    &= 120 + 90 \\\\
+                                    &= \pounds 210 \\\\
+\text{Amount paid by Bill}          &= 120 - 30 \% \ \text{of} \ 120 \\\\
+                                    &= 120 - \dfrac {30} {100} \times 120 \\\\
+                                    &= 120 - \dfrac {30 \times 120} {100} \\\\
+                                    &= 120 - \dfrac {3 \cancel 0 \times 12 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
+                                    &= 120 - 3 \times 12 \\\\
+                                    &= 120 - 36 \\\\
+                                    &= \pounds 84 \\\\
+\text{Bill's profit}                &= 210 - 84 \\\\
+                                    &= \pounds 126
 \end{aligned}
-
-Amount to which Bill sold the amount to Jack $= \pounds 90$
-
-$
-\begin{aligned}
-\text{Profit on final sale}         &= \text{Selling price} - \text{Cost price} \\\\
-                                    &= \pounds 90 - \pounds 36 \\\\
-\text{Profit on final sale}         &= \pounds 54
-\end{aligned}
-$
 $
 
 </div>
@@ -1142,7 +1098,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 54$
+$\pounds 126$
 
 </div>
 </div>
@@ -1469,7 +1425,7 @@ $6666666667$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1481,26 +1437,26 @@ How many aliens needed breathing apparatus **and** goggles?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: $(A \text{ and } B) = A + B - (A \text{ or } B)$
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Breathing apparatus or Goggles}       &= 100 - 23 \\\\
+                                            &= 77 \\\\
+\text{Breathing apparatus and Goggles}      &= 76 + 52 - 77 \\\\
+                                            &= 51
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$51$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2014-arithmetic-b"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2014 - Arithmetic B"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "11"
 ---
 <div class='paper'>
@@ -356,7 +356,7 @@ $40 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -440,14 +440,14 @@ For how many units of gas would the cost from each company be the same?
 <div class='workings'>
 <div class='working'>
 
-$60$
+$60$ units
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$60$
+$60$ units
 
 </div>
 </div>
@@ -478,7 +478,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-HdF and $\pounds 5$
+HdF
+
+</div>
+<div class='answer'>
+
+$\pounds 5$
 
 </div>
 </div>
@@ -1640,7 +1645,7 @@ Between Ceebridge and Deville
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1683,7 +1688,7 @@ Let's complete the table.
 
 |       Day      | Mon morning |                                   Tues Morning                                               |                                          Wed Morning                                         |                                    Thurs Morning                                             |
 |:--------------:|:-----------:|:--------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|
-| Number of Fish |   $2000$    | $2000 + \dfrac {50} {100} \times 2000 - 300 = 2000 + 1000 - 300 = 2700 \ \footnotesize{(1)}$ | $2700 + \dfrac {50} {100} \times 2700 - 300 = 2700 + 1350 - 300 = 3750 \ \footnotesize{(2)}$ | $3750 + \dfrac {50} {100} \times 3750 - 300 = 3750 + 1875 - 300 = 5325 \ \footnotesize{(3)}$ |
+| Number of Fish |   $2000$    | $2000 + \dfrac {50} {100} \times 2000 - 300 = 2000 + 1000 - 300 = 2700 \ \maroonC{\footnotesize{(1)}}$ | $2700 + \dfrac {50} {100} \times 2700 - 300 = 2700 + 1350 - 300 = 3750 \ \maroonC{\footnotesize{(2)}}$ | $3750 + \dfrac {50} {100} \times 3750 - 300 = 3750 + 1875 - 300 = 5325 \ \maroonC{\footnotesize{(3)}}$ |
 
 </div>
 </div>
@@ -1715,7 +1720,7 @@ Let's complete the table.
 
 |       Day      | Mon morning |                                   Tues Morning                                               |                                          Wed Morning                                         |                                    Thurs Morning                                             |
 |:--------------:|:-----------:|:--------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|
-| Number of Fish |   $520$     | $520 + \dfrac {50} {100} \times 520 - 300 = 520 + 260 - 300 = 480 \ \footnotesize{(1)}$      | $480 + \dfrac {50} {100} \times 480 - 300 = 480 + 240 - 300 = 420 \ \footnotesize{(2)}$      | $420 + \dfrac {50} {100} \times 420 - 300 = 420 + 210 - 300 = 330 \ \footnotesize{(3)}$      |
+| Number of Fish |   $520$     | $520 + \dfrac {50} {100} \times 520 - 300 = 520 + 260 - 300 = 480 \ \maroonC{\footnotesize{(1)}}$      | $480 + \dfrac {50} {100} \times 480 - 300 = 480 + 240 - 300 = 420 \ \maroonC{\footnotesize{(2)}}$      | $420 + \dfrac {50} {100} \times 420 - 300 = 420 + 210 - 300 = 330 \ \maroonC{\footnotesize{(3)}}$      |
 
 </div>
 </div>
@@ -1747,7 +1752,7 @@ Let's complete the table.
 
 |       Day      |                                            Mon morning                                       |                                   Tues Morning                                               | Wed Morning     |
 |:--------------:|:--------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|:---------------:|
-| Number of Fish |  $\dfrac {2} {3} \times (900 + 300) = \dfrac {2} {3} \times 1200 = 800 \ \footnotesize{(2)}$ | $\dfrac {2} {3} \times (1050 + 300) = \dfrac {2} {3} \times 1350 = 900 \ \footnotesize{(1)}$ |     $1050$      |
+| Number of Fish |  $\dfrac {2} {3} \times (900 + 300) = \dfrac {2} {3} \times 1200 = 800 \ \maroonC{\footnotesize{(2)}}$ | $\dfrac {2} {3} \times (1050 + 300) = \dfrac {2} {3} \times 1350 = 900 \ \maroonC{\footnotesize{(1)}}$ |     $1050$      |
 
 </div>
 </div>
@@ -1827,7 +1832,7 @@ Let's complete the table.
 
 |       Day      | Mon morning |                                   Tues Morning                                                              |                                          Wed Morning                                                        |                                    Thurs Morning                                                                 |
 |:--------------:|:-----------:|:-----------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------:|
-| Number of Fish |   $12000$   | $12000 + \dfrac {50} {100} \times 12000 - 300 \times 15 = 12000 + 6000 - 4500 = 13500 \ \footnotesize{(1)}$ | $13500 + \dfrac {50} {100} \times 13500 - 300 \times 15 = 13500 + 6750 - 4500 = 15750 \ \footnotesize{(2)}$ | $15750 + \dfrac {50} {100} \times 15750 - 300 \times 15 = 15750 + 7875 - 4500 = 19125 \ \footnotesize{(3)}$      |
+| Number of Fish |   $12000$   | $12000 + \dfrac {50} {100} \times 12000 - 300 \times 15 = 12000 + 6000 - 4500 = 13500 \ \maroonC{\footnotesize{(1)}}$ | $13500 + \dfrac {50} {100} \times 13500 - 300 \times 15 = 13500 + 6750 - 4500 = 15750 \ \maroonC{\footnotesize{(2)}}$ | $15750 + \dfrac {50} {100} \times 15750 - 300 \times 15 = 15750 + 7875 - 4500 = 19125 \ \maroonC{\footnotesize{(3)}}$      |
 
 </div>
 </div>

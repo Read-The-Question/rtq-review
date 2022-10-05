@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-9999-practice-paper-4"
 title: "Merchant Taylors School - 11 Plus - Maths - 9999 - Practice Paper 4"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "35"
 ---
 <div class='paper'>
@@ -750,7 +750,7 @@ $\dfrac {9} {25}, \quad 0.371, \quad 38 \%,  \quad \dfrac {2} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1210,7 +1210,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1250,16 +1250,11 @@ The next term is calculated by adding $6$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+6)} }
-&&  \footnotesize {\maroonC
- {(+6)} }
-&&  \footnotesize {\maroonC
- {(+6)} }
-&&  \footnotesize {\maroonC
- {(+6)} }
-&&  \footnotesize {\maroonC
- {(+6)} }  \\
+&   \footnotesize {\maroonC {(+6)} }
+&&  \footnotesize {\maroonC {(+6)} }
+&&  \footnotesize {\maroonC {(+6)} }
+&&  \footnotesize {\maroonC {(+6)} }
+&&  \footnotesize {\maroonC {(+6)} }  \\
 5, && 11, && 17, && 23, && \ldots, && \ldots
 \end{matrix}
 $
@@ -1307,16 +1302,11 @@ The next term is calculated by subtracting $3$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(-3)} }
-&&  \footnotesize {\maroonC
- {(-3)} }
-&&  \footnotesize {\maroonC
- {(-3)} }
-&&  \footnotesize {\maroonC
- {(-3)} }
-&&  \footnotesize {\maroonC
- {(-3)} }  \\
+&   \footnotesize {\maroonC {(-3)} }
+&&  \footnotesize {\maroonC {(-3)} }
+&&  \footnotesize {\maroonC {(-3)} }
+&&  \footnotesize {\maroonC {(-3)} }
+&&  \footnotesize {\maroonC {(-3)} }  \\
 10, && 7, && 4, && 1, && \ldots, && \ldots
 \end{matrix}
 $
@@ -1364,16 +1354,11 @@ The next term is calculated by multiplying the previous term by $4$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(\times 4)} }
-&&  \footnotesize {\maroonC
- {(\times 4)} }
-&&  \footnotesize {\maroonC
- {(\times 4)} }
-&&  \footnotesize {\maroonC
- {(\times 4)} }
-&&  \footnotesize {\maroonC
- {(\times 4)} }  \\
+&   \footnotesize {\maroonC {(\times 4)} }
+&&  \footnotesize {\maroonC {(\times 4)} }
+&&  \footnotesize {\maroonC {(\times 4)} }
+&&  \footnotesize {\maroonC {(\times 4)} }
+&&  \footnotesize {\maroonC {(\times 4)} }  \\
 2, && 8, && 32, && 128, && \ldots, && \ldots
 \end{matrix}
 $
@@ -2511,7 +2496,7 @@ $84$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2590,11 +2575,7 @@ Plot the 3 points on the graph too and show the length of the side of the square
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(-2, -3)$
-
-$(-4, 5)$
-
-$(6, -1)$
+Coordinates $= (-2, -3), (-4, 5), (6, -1)$
 
 </div>
 </div>

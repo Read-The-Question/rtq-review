@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-1-pr"
 title: "TopicPaper - Sequence - 1 - PR"
-date: 2022-09-24 04:59:20
-questions_count: "9"
+date: 2022-10-04 10:03:20
+questions_count: "10"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -99,12 +99,12 @@ Here is a part of a number line. Write the two missing numbers in the boxes.
 
 $
 \begin{aligned}
-\text{First missing number}  &= 2 - 0.25 - 0.25 \\\\
-                             &= 2 - 0.5 \\\\
-                             &= 1.5 \\\\
-\text{First missing number}  &= 2 + 0.25 + 0.25 \\\\
-                             &= 2 + 0.5 \\\\
-                             &= 2.5
+\text{1} ^ \text{st} \text{ missing number}     &= 2 - \dfrac{1}{4} - \dfrac{1}{4} \\\\
+                                                &= 2 - 0.5 \\\\
+                                                &= 1.5 \\\\
+\text{2} ^ \text{nd} \text{ missing number}     &= 2 + 0.25 + 0.25 \\\\
+                                                &= 2 + 0.5 \\\\
+                                                &= 2.5
 \end{aligned}
 $
 
@@ -129,7 +129,7 @@ $2.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -316,7 +316,7 @@ you can multiply the Shape Number by $3$, then add $2$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -398,7 +398,7 @@ $\triangle$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -532,7 +532,7 @@ $41$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -545,8 +545,10 @@ Draw pattern $4$ in the space below.
 
 Fill in this table:
 
-![missing table](/papers/missing_table.svg)
-
+| shape               | $1$ | $2$ | $3$  | $4$  | $5$ |
+|---------------------|-----|-----|------|------|-----|
+| Number of triangles |     |     | $5$  |      |     |
+| Number of matches   |     |     | $11$ |      |     |
 
 </div>
 <div class='workings'>
@@ -581,7 +583,7 @@ The number of matches is calculated by adding $4$ to the previous number of matc
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-In shape $6$, how many **triangles** will there be?
+In shape $6$, how many triangles will there be?
 
 </div>
 <div class='workings'>
@@ -621,7 +623,7 @@ $11$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-In shape $6$, how many **matches** will there be?
+In shape $6$, how many matches will there be?
 
 </div>
 <div class='workings'>
@@ -661,7 +663,7 @@ $23$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-In shape $100$, how many **triangles** will there be?
+In shape $100$, how many triangles will there be?
 
 Explain how you worked this out.
 
@@ -703,7 +705,7 @@ $199$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-In shape $100$, how many **matches** will there be?
+In shape $100$, how many matches will there be?
 
 Explain how you worked this out.
 
@@ -745,7 +747,7 @@ $399$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Anah makes a shape with $29$ **triangles**. How many matches did she use?
+Anah makes a shape with $29$ triangles. How many matches did she use?
 
 </div>
 <div class='workings'>
@@ -820,7 +822,7 @@ KATHRYNKATHRYNKA...
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the $17 \text{th}$ letter?
+What is the $17^\text{th}$ letter?
 
 </div>
 <div class='workings'>
@@ -851,7 +853,7 @@ T
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the $47 \text{th}$ letter?
+What is the $47^\text{th}$ letter?
 
 </div>
 <div class='workings'>
@@ -882,7 +884,7 @@ R
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the $141 \text{st}$ letter?
+What is the $141^\text{st}$ letter?
 
 </div>
 <div class='workings'>
@@ -913,7 +915,7 @@ K
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1035,7 +1037,7 @@ $73$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1148,7 +1150,120 @@ $46$,$100$,$1000$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+This question concerns the number sequence that is formed starting at ‘$0$’, then adding $1$, subtracting $2$, adding $3$,
+subtracting $4, \ \ldots$
+
+The first four terms of the sequence are:
+
+$0, 1, -1, 2, \ \ldots $
+
+</div>
+
+
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What is the sixth $(6^\text{th})$ term in the sequence?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+6^\text{th} \text{ term}  &=  \dfrac{6}{2} \\\\
+                          &=  \dfrac{2 \times 3}{2} \\\\
+                          &=  \dfrac{\cancel{2} \times 3}{\cancel{2}} \\\\
+                          &=  3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What is the eleventh $(11^\text{th})$ term in the sequence?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+11^\text{th} \text{ term}  &=  {-}\dfrac{11 - 1}{2} \\\\
+                           &=  {-}\dfrac{2 \times 3}{2} \\\\
+                           &=  {-}\dfrac{\cancel{2} \times 3}{\cancel{2}}  \\\\
+                           &=  {-}3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+${-}3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What is the hundredth $(100^\text{th})$ term in the sequence?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+100^\text{th} \text{ term}  &= \dfrac{100}{2} \\\\
+                            &= \dfrac{2 \times 50}{2} \\\\
+                            &= \dfrac{\cancel{2} \times 50}{\cancel{2}}  \\\\
+                            &= 50
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$50$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1239,9 +1354,9 @@ $110$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The $21 \text{st}$ number is $120$ and the $22 \text{nd}$ number is $122$.
+The $21^\text{st}$ number is $120$ and the $22^\text{nd}$ number is $122$.
 
-What is the $24 \text{th}$ number?
+What is the $24^\text{th}$ number?
 
 </div>
 <div class='workings'>

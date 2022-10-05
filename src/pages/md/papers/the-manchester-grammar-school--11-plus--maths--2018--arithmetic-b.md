@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2018-arithmetic-b"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2018 - Arithmetic B"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "11"
 ---
 <div class='paper'>
@@ -239,7 +239,7 @@ $1, 2, 7, 14$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -267,10 +267,10 @@ Let's complete the table.
 
 |       |  Played                               |    Won                                                                                           |   Drawn                                                                                          |   Lost                                |  Points                                                      |
 |:-----:|:--------:                             |:--------:                                                                                        |:--------:                                                                                        |:--------:                             |:--------:                                                    |
-| **A** |   $12$                                |    $7$                                                                                           | $12 - 7 - 2 = 3 \ \footnotesize{(1)}$                                                            |    $2$                                | $7 \times 5 + 3 \times 3 = 35 + 9 = 44 \ \footnotesize{(2)}$ |
-| **B** |   $10$                                |    $3$                                                                                           | $\dfrac {27 - 3 \times 5} {3} = \dfrac {27 - 15} {3} = \dfrac {12} {3} = 4 \ \footnotesize{(3)}$ | $10 - 4 - 3 = 3 \ \footnotesize{(4)}$ |   $27$                                                       |
-| **C** | $7 + 2 + 6 = 15 \ \footnotesize{(6)}$ | $\dfrac {41 - 2 \times 3} {5} = \dfrac {41 - 6} {5} = \dfrac {35} {5} = 7 \ \footnotesize{(5)}$  |    $2$                                                                                           |    $6$                                |   $41$                                                       |
-| **D** |    $8$                                | $\dfrac {30 - 5 \times 3} {5} = \dfrac {30 - 15} {5} = \dfrac {15} {5} = 3 \ \footnotesize{(8)}$ | $5 \ \footnotesize{(7)}$                                                                         | $8 - 5 - 3 = 0 \ \footnotesize{(9)}$  |   $30$                                                       |
+| **A** |   $12$                                |    $7$                                                                                           | $12 - 7 - 2 = 3 \ \maroonC{\footnotesize{(1)}}$                                                            |    $2$                                | $7 \times 5 + 3 \times 3 = 35 + 9 = 44 \ \maroonC{\footnotesize{(2)}}$ |
+| **B** |   $10$                                |    $3$                                                                                           | $\dfrac {27 - 3 \times 5} {3} = \dfrac {27 - 15} {3} = \dfrac {12} {3} = 4 \ \maroonC{\footnotesize{(3)}}$ | $10 - 4 - 3 = 3 \ \maroonC{\footnotesize{(4)}}$ |   $27$                                                       |
+| **C** | $7 + 2 + 6 = 15 \ \maroonC{\footnotesize{(6)}}$ | $\dfrac {41 - 2 \times 3} {5} = \dfrac {41 - 6} {5} = \dfrac {35} {5} = 7 \ \maroonC{\footnotesize{(5)}}$  |    $2$                                                                                           |    $6$                                |   $41$                                                       |
+| **D** |    $8$                                | $\dfrac {30 - 5 \times 3} {5} = \dfrac {30 - 15} {5} = \dfrac {15} {5} = 3 \ \maroonC{\footnotesize{(8)}}$ | $5 \ \maroonC{\footnotesize{(7)}}$                                                                         | $8 - 5 - 3 = 0 \ \maroonC{\footnotesize{(9)}}$  |   $30$                                                       |
 
 </div>
 </div>
@@ -1009,7 +1009,7 @@ $14.1$ secs
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1069,8 +1069,8 @@ In which week did team A - Aardvark Athletic gain the most number of points?
 <div class='workings'>
 <div class='working'>
 
-|  Week Number |      Points gained     |
-|--------------|------------------------|
+|  Week        |      Points gained     |
+|:------------:|:----------------------:|
 |      $1$     |      $3 - 0 = 3$       |
 |      $2$     |      $9 - 3 = 6$       |
 |      $3$     |      $10 - 9 = 1$      |
@@ -1107,10 +1107,12 @@ When Aardvark Athletic has the same number of points as **team C - Caribou Celti
 <div class='workings'>
 <div class='working'>
 
+Team A and Team C has same number of points at $15$. Team B has $16$ points at the same time.
+
 $
 \begin {aligned}
-\text {Teamm B were leading by}     &= 16 - 15 \\\\
-                                    &= 1 \ \text{point}
+\text {Difference}     &= 16 - 15 \\\\
+                       &= 1
 \end {aligned}
 $
 
@@ -1119,7 +1121,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1 \ \text{point}$
+$1$ point
 
 </div>
 </div>
@@ -1137,6 +1139,8 @@ In how many weeks did Caribou Celtic gain exactly one point?
 <div class='working'>
 
 $3$
+
+Week $1, 3$ and $8$
 
 </div>
 </div>
@@ -1223,14 +1227,14 @@ At the end of which week were Buffalo Bears seven points ahead of Aardvark Athle
 <div class='workings'>
 <div class='working'>
 
-Week 8
+Week $8$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Week 8
+Week $8$
 
 </div>
 </div>

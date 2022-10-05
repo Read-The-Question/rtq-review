@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2013-sample-paper-4"
 title: "Reigate Grammar School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "45"
 ---
 <div class='paper'>
@@ -738,7 +738,7 @@ $20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1187,7 +1187,7 @@ $0.85$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1225,18 +1225,12 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+8)}}
-&&  \footnotesize{\maroonC
-{(+10)}}
-&&  \footnotesize{\maroonC
-{(+12)}}
-&&  \footnotesize{\maroonC
-{(+14)}}  \\
+&   \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+8)}}
+&&  \footnotesize{\maroonC{(+10)}}
+&&  \footnotesize{\maroonC{(+12)}}
+&&  \footnotesize{\maroonC{(+14)}}  \\
 2,  &&    6,  &&  12,  &&   20,  &&  30,  &&  \ldots, && \ldots
 \end {matrix}
 $
@@ -1284,22 +1278,14 @@ It is a sequence of square numbers.
 
 $
 \begin {matrix}
-    \footnotesize{\maroonC
-{(1^2)}}
-&&  \footnotesize{\maroonC
-{(2^2)}}
-&&  \footnotesize{\maroonC
-{(3^2)}}
-&&  \footnotesize{\maroonC
-{(4^2)}}
-&&  \footnotesize{\maroonC
-{(5^2)}}
-&&  \footnotesize{\maroonC
-{(6^2)}}
-&&  \footnotesize{\maroonC
-{(7^2)}}
-&&  \footnotesize{\maroonC
-{(8^2)}}  \\\\
+    \footnotesize{\maroonC{(1^2)}}
+&&  \footnotesize{\maroonC{(2^2)}}
+&&  \footnotesize{\maroonC{(3^2)}}
+&&  \footnotesize{\maroonC{(4^2)}}
+&&  \footnotesize{\maroonC{(5^2)}}
+&&  \footnotesize{\maroonC{(6^2)}}
+&&  \footnotesize{\maroonC{(7^2)}}
+&&  \footnotesize{\maroonC{(8^2)}}  \\\\
 1,  &&    4,  &&  9,  &&   16,  &&  25,  &&  36,  &&  \ldots, && \ldots
 \end {matrix}
 $
@@ -2013,7 +1999,7 @@ Cylinder
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2028,16 +2014,29 @@ A teacher asks the students in year $6$ how many people live in their homes. She
 |            $6$                |       $10$        |                           |
 |            $7$                |       $3$         |                           |
 
+![reigate-grammar-school--11-plus--maths--2013--sample-paper-4/section-1-question-31-00.png](/assets/reigate-grammar-school--11-plus--maths--2013--sample-paper-4/section-1-question-31-00.png "reigate-grammar-school--11-plus--maths--2013--sample-paper-4/section-1-question-31-00.png")
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
 
 Complete the end column in the table
-
-How many students are there in year $6$?.
-
-How many people are there all together?.
-
-Using the first two columns of the table, draw a bar chart to represent these results.
-
-![reigate-grammar-school--11-plus--maths--2013--sample-paper-4/section-1-question-31-00.png](/assets/reigate-grammar-school--11-plus--maths--2013--sample-paper-4/section-1-question-31-00.png "reigate-grammar-school--11-plus--maths--2013--sample-paper-4/section-1-question-31-00.png")
 
 </div>
 <div class='workings'>
@@ -2051,14 +2050,91 @@ Using the first two columns of the table, draw a bar chart to represent these re
 |            $6$                |       $10$        |   $6 \times 10 = 60$      |
 |            $7$                |       $3$         |   $7 \times 3 = 21$       |
 
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+| Number of people in house     | Number of times   | Total number of people    |
+|:-------------------------:    |:---------------:  |:----------------------:   |
+|            $3$                |       $45$        |   $135$                   |
+|            $4$                |       $25$        |   $100$                   |
+|            $5$                |       $17$        |   $85$                    |
+|            $6$                |       $10$        |   $60$                    |
+|            $7$                |       $3$         |   $21$                    |
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How many students are there in year $6$?.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
 $
 \begin{aligned}
 \text{Number of students in year 6}     &= 45 + 25 + 17 + 10 + 3 \\\\
-                                        &= 100 \\\\
-\text{Total number of people altogether}&= 135 + 100 + 85 + 60 + 21 \\\\
-                                        &= 401
+                                        &= 100
 \end{aligned}
 $
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$100$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How many people are there all together?.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total number of people altogether}  &= 135 + 100 + 85 + 60 + 21 \\\\
+                                          &= 401
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$401$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Using the first two columns of the table, draw a bar chart to represent these results.
+
+</div>
+<div class='workings'>
+<div class='working'>
 
 *ABBR: TODO:: Add drawing starts.*
 
@@ -2077,11 +2153,14 @@ Plot the information on the bar chart
 <div class='answers'>
 <div class='answer'>
 
-$100, 401$
+%empty%
 
 </div>
 </div>
 
+</div>
+</li>
+</ul>
 </div>
 </li>
 <li>
@@ -2725,7 +2804,7 @@ $24 \ \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2889,7 +2968,7 @@ $30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2903,7 +2982,7 @@ $\bold{\dfrac{3}{4}\:\:\dfrac{2}{3}\:\:\dfrac{5}{12}\:\:\dfrac{9}{4}}$
 <div class='workings'>
 <div class='working'>
 
-Let's make the denominator same for all fractions.
+Let's make the denominator the same for all the fractions.
 
 LCM for $4, 3$ and $12 = 12$
 
@@ -3022,7 +3101,7 @@ $8640$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

@@ -1,28 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tinfer-1-pr"
 title: "TopicPaper - Infer - 1 - PR"
-date: 2022-09-24 05:07:09
-questions_count: "12"
+date: 2022-10-04 10:09:40
+questions_count: "11"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
-What is the sum of all the numbers from $1$ to $100$?
-
-
-*(You are not expected to work this out by adding $100$ numbers together!
-Try to find a way to do the puzzle and show how you worked it out!)*
-
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -40,12 +24,12 @@ Can you find numbers to replace $A, B$ and $C$ in this sum?
 ($A, B$ and $C$ are all different numbers)
 
 $
-\begin{darray}{cc}
-   A & B & C\\
-   A & B & C\\
-   A & B & C\\
+\begin{darray}{cccc}
+       & A & B & C\\
+       & A & B & C\\
+   {+} & A & B & C\\
    \hline
-   B & B & B\\
+       & B & B & B\\
    \hline
 \end{darray}
 $
@@ -58,7 +42,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Can you find a four digit number which is reversed when multiplied by $9$? 
+Can you find a four digit number which is reversed when multiplied by $9?$ 
 (i.e. $ABCD \times 9 = DCBA$)
 
 </div>
@@ -217,7 +201,7 @@ Fill in the gaps in the calculations below (none of the gaps are zero):
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -225,7 +209,7 @@ Fill in the gaps in the calculations below (none of the gaps are zero):
 Fill in the numbers $1$ to $5$ in each row and each column, without repeating any number in any row or column. 
 Two numbers have been given at the start to help you.
 
-The symbols $\bold{<}$  and $\bold{>}$ indicate whether numbers are “less than” or “greater than” the number in the adjoining space. 
+The symbols “<”  and “>” indicate whether numbers are “less than” or “greater than” the number in the adjoining space. 
 
 ![benenden-school--11-plus--maths--2020--sample-paper-2/section-2-question-1-00.png](/assets/benenden-school--11-plus--maths--2020--sample-paper-2/section-2-question-1-00.png "benenden-school--11-plus--maths--2020--sample-paper-2/section-2-question-1-00.png")
 
@@ -234,14 +218,14 @@ The symbols $\bold{<}$  and $\bold{>}$ indicate whether numbers are “less than
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Starting from $100$ we subtract $99$ then add $98$,
 then subtract $97$ and then add $96$ and we carry on in this way
-through all of the whole numbers from $100$ downwards until we reach the nuber $1$ (as shown below).
+through all of the whole numbers from $100$ downwards until we reach the number $1$ (as shown below).
 
 Work out the final answer. (There is a quick way !).
 
@@ -321,24 +305,26 @@ $\bold{1600}$   ![city-of-london-school--11-plus--maths--2008--sample-paper-grou
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-The grid below is a magic square. Every row, column and diagonal must add to $1-5$.
+The grid below is a magic square. Every row, column and diagonal must add to $1.5$.
 
 What value must be placed in the shaded box?
 
-![missing table](/papers/missing_table.svg)
-
+|      |        | $0.2$ |
+|:----:|:------:|:-----:|
+|$\Box$|  $0.5$ |       |
+|      |  $0.1$ |       | 
 
 </div>
 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -348,7 +334,10 @@ A magic square is a grid of nine numbers arranged so that every row, every colum
 
 For example:
 
-![csse--11-plus--maths--2016--sample-paper-3/section-1-question-3-00.png](/assets/csse--11-plus--maths--2016--sample-paper-3/section-1-question-3-00.png "csse--11-plus--maths--2016--sample-paper-3/section-1-question-3-00.png")
+| $6$ | $1$ | $8$ |
+|:---:|:---:|:---:|
+| $7$ | $5$ | $3$ |
+| $2$ | $9$ | $4$ |
 
 In this magic square, each row, each column and each of the diagonals add to $15$.
 
@@ -360,7 +349,10 @@ In this magic square, each row, each column and each of the diagonals add to $15
 
 Insert the correct number in two empty positions to complete this magic square.
 
-![csse--11-plus--maths--2016--sample-paper-3/section-1-question-3-subquestion-1-00.png](/assets/csse--11-plus--maths--2016--sample-paper-3/section-1-question-3-subquestion-1-00.png "csse--11-plus--maths--2016--sample-paper-3/section-1-question-3-subquestion-1-00.png")
+|  $5$ | $4$ |  $9$ |
+|:----:|:---:|:----:|
+| $10$ |     |  $2$ |
+|      | $8$ |  $7$ |
 
 </div>
 
@@ -370,9 +362,12 @@ Insert the correct number in two empty positions to complete this magic square.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Insert the correct number in the two **unshaded** positions to part complete this magic square.
+Insert the correct number in the two unshaded positions to part complete this magic square.
 
-![csse--11-plus--maths--2016--sample-paper-3/section-1-question-3-subquestion-2-00.png](/assets/csse--11-plus--maths--2016--sample-paper-3/section-1-question-3-subquestion-2-00.png "csse--11-plus--maths--2016--sample-paper-3/section-1-question-3-subquestion-2-00.png")
+|  $5$ |     |  $7$  |
+|:----:|:---:|:-----:|
+|      | $8$ |       |
+|      |     |  $11$ |
 
 </div>
 

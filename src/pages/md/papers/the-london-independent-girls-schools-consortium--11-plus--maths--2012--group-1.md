@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2012-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2012 - Group 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "41"
 ---
 <div class='paper'>
@@ -362,14 +362,10 @@ The next term is calculated by adding $0.2$ to the previous term. Hence, the seq
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+0.2)}} 
-&&  \footnotesize{\maroonC
-{(+0.2)}}  
-&&  \footnotesize{\maroonC
-{(+0.2)}}   
-&&  \footnotesize{\maroonC
-{(+0.2)}}  \\
+&   \footnotesize{\maroonC{(+0.2)}} 
+&&  \footnotesize{\maroonC{(+0.2)}}  
+&&  \footnotesize{\maroonC{(+0.2)}}   
+&&  \footnotesize{\maroonC{(+0.2)}}  \\
 \ldots, && 20.0, &&  20.2, &&  20.4
 \end{matrix}
 $
@@ -2688,7 +2684,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2717,9 +2713,9 @@ Let's complete the table.
 
 |                                     |                boy                  |                    girl                              |                   total             |
 |:-----------------------------------:|:-----------------------------------:|:----------------------------------------------------:|:-----------------------------------:|
-|     plays a stringed instrument     | $42 - 30 = 12 \ \footnotesize{(7)}$ | $\dfrac {2} {3} \times 45 = 30 \ \footnotesize{(3)}$ | $80 - 38 = 42 \ \footnotesize{(6)}$ |
-| does not play a stringed instrument | $35 - 12 = 23 \ \footnotesize{(8)}$ |          $45 - 30 = 15 \ \footnotesize{(4)}$         |       $38 \ \footnotesize{(5)}$     |
-|                total                |     $35 \ \footnotesize{(1)}$       |          $80 - 35 = 45 \ \footnotesize{(2)}$         |                 $80$                |
+|     plays a stringed instrument     | $42 - 30 = 12 \ \maroonC{\footnotesize{(7)}}$ | $\dfrac {2} {3} \times 45 = 30 \ \maroonC{\footnotesize{(3)}}$ | $80 - 38 = 42 \ \maroonC{\footnotesize{(6)}}$ |
+| does not play a stringed instrument | $35 - 12 = 23 \ \maroonC{\footnotesize{(8)}}$ |          $45 - 30 = 15 \ \maroonC{\footnotesize{(4)}}$         |       $38 \ \maroonC{\footnotesize{(5)}}$     |
+|                total                |     $35 \ \maroonC{\footnotesize{(1)}}$       |          $80 - 35 = 45 \ \maroonC{\footnotesize{(2)}}$         |                 $80$                |
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2018-sample-paper-3"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2018 - Sample Paper 3"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "45"
 ---
 <div class='paper'>
@@ -278,11 +278,11 @@ $40 \%$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-The chart below shows the number of children in classes $5$S and $5 \text{p}$ who live up to $\dfrac{1}{2}$ mile and more than $\dfrac{1}{2}$ mile from school.
+The chart below shows the number of children in classes $5 \text{S}$ and $5 \text{p}$ who live up to $\dfrac{1}{2} \ \text{mile}$ and more than $\dfrac{1}{2} \ \text{mile}$ from school.
 
 ![devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3/section-1-question-8-00.png](/assets/devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3/section-1-question-8-00.png "devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3/section-1-question-8-00.png")
 
-How many more children in class $5 \text{p}$ than $5$S live less than $\dfrac{1}{2}$ mile from school?
+How many more children in class $5 \text{p}$ than $5 \text{S}$ live less than $\dfrac{1}{2} \ \text{mile}$ from school?
 
 </div>
 <div class='workings'>
@@ -437,7 +437,7 @@ $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -455,14 +455,10 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(-24)} }
-&&  \footnotesize {\maroonC
- {(-24)} }
-&&  \footnotesize {\maroonC
- {(-24)} }
-&&  \footnotesize {\maroonC
- {(-24)} }  \\
+&   \footnotesize {\maroonC {(-24)} }
+&&  \footnotesize {\maroonC {(-24)} }
+&&  \footnotesize {\maroonC {(-24)} }
+&&  \footnotesize {\maroonC {(-24)} }  \\
 20,  &&    -4,  &&  -28,  &&   -52,     &&  -76
 \end{matrix}
 $
@@ -574,7 +570,7 @@ $11$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-What is $\dfrac {3} {4}$ of $\pounds 4.48$?
+What is $\dfrac {3}{4} \ \text{of} \ \pounds 4.48?$
 
 </div>
 <div class='workings'>
@@ -641,14 +637,14 @@ $52 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 To get the next number in the sequence you multiply by three and add one.
 
-$3 \quad 10 \quad 31 \quad 94$
+$3 \quad 10 \quad 31 \quad 94 \quad \ldots \quad \ldots$
 
 What is the $6^\text{th}$ number in the sequence?
 
@@ -701,8 +697,7 @@ Let's arrange the pages read in ascending order.
 $
 \begin{aligned}
 \text{Temperatures}\ &= -6, \quad -5, \quad 4, \quad -2, \quad -1 \\\\
-\text{Ordered temperatures}\ &= -6, \quad -5, \quad \maroonC
-{-2}, \quad -1, \quad 4 \\\\
+\text{Ordered temperatures}\ &= -6, \quad -5, \quad \maroonC{-2}, \quad -1, \quad 4 \\\\
 \text{Median temperature} &= -2
 \end{aligned}
 $
@@ -1098,7 +1093,7 @@ $7$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-How many seconds in an $\text{hour}$?
+How many $\text{seconds}$ in an $\text{hour}?$
 
 </div>
 <div class='workings'>
@@ -1265,7 +1260,7 @@ $17$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g1 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1278,16 +1273,32 @@ What is the new price of the television?
 <div class='workings'>
 <div class='working'>
 
-If the price is reduced by $15 \%$, then the new price will be $100 + 15 = 115 \%$ of the original price. Using that, we get
+If the price is increased by $15 \%$, then the new price will be $100 + 15 = 115 \%$ of the original price. Using that, we get
 
 $
 \begin{aligned}
-\text {New price}           &= 115 \% \times 300 \\\\
+\text {New price}           &= 115 \% \text{ of } 300 \\\\
                             &= \dfrac {115} {100} \times 300 \\\\
                             &= \dfrac {115 \times 300} {100}  \\\\
                             &= \dfrac {115 \times 3 \cancel {00}} {1 \cancel {00}}  \\\\
                             &= 115 \times 3 \\\\
                             &= \pounds 345
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Sale price}  &= \text {Original price} + \text {Increment} \\\\
+                   &= 300 + 15 \% \text{ of }  300  \\\\
+                   &= 300 + \dfrac {15} {100} \times 300 \\\\
+                   &= 300 + \dfrac {15 \times 300} {100} \\\\
+                   &= 300 + \dfrac {15 \times 3 \cancel {00}} {1 \cancel {00}} \\\\
+                   &= 300 + 15 \times 3 \\\\
+                   &= 300 + 45 \\\\
+                   &= \pounds 345
 \end{aligned}
 $
 
@@ -1340,7 +1351,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1454,36 +1465,48 @@ $137.5 \ \text {g}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-What angle do the hours of a clock make between each other at $7{:}30$?
+What angle do the hands of a clock make between each other at $7{:}30$?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Total angles for the complete round in a clock $= 360 \degree$.
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
+
+
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 $
 \begin {aligned}
-\text {Angle between every hour}    &= \dfrac {360} {12} \\\\
-                                    &= \dfrac {30 \times 12} {12} \\\\
-                                    &= \dfrac {30 \times \cancel {12}} {12} \\\\
-                                    &= 30 \degree
+\text {Minutes between hands of clock}  &= 5 + 2.5 \ \text{minutes} \\\\
+                                        &= 7.5 \ \text{minutes} \\\\
+\text {Angle}                           &= 7.5 \times 6 \\\\
+                                        &= 45 \degree
 \end {aligned}
 $
-
-The angle the hours of a clock make between each other at $7{:}30$ is $30 \degree$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$30 \degree$
+$45 \degree$
 
 </div>
 </div>
@@ -1628,7 +1651,7 @@ $15$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1650,14 +1673,10 @@ The next term is calculated by adding $0.18$ to the first term and the number of
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {({} + 0.18 \times 1)} }
-&&  \footnotesize {\maroonC
- {({} + 0.18 \times 2)} }
-&&  \footnotesize {\maroonC
- {({} + 0.18 \times 3)} }
-&&  \footnotesize {\maroonC
- {({} + 0.18 \times 4)} }  \\
+&   \footnotesize {\maroonC {({} + 0.18 \times 1)} }
+&&  \footnotesize {\maroonC {({} + 0.18 \times 2)} }
+&&  \footnotesize {\maroonC {({} + 0.18 \times 3)} }
+&&  \footnotesize {\maroonC {({} + 0.18 \times 4)} }  \\
 1.23,  &&   1.41,  &&  1.59, &&  1.77, && \ldots
 \end{matrix}
 $

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2009-sample-paper-4"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2009 - Sample Paper 4"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "18"
 ---
 <div class='paper'>
@@ -1178,7 +1178,7 @@ $50\%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1195,8 +1195,9 @@ Let's convert all the units into m.
 
 $
 \begin{aligned}
-&= 250 \ \text{m} \quad  0.52 \ \text{km}    \quad 0.5 \ \text{km} \quad 2.05 \ \text{km} \quad 502 \ \text{m} \\\\
-&= 250 \ \text {m} \quad  520 \ \text {m}    \quad 500 \ \text {m} \quad 2050 \ \text {m} \quad 502 \ \text {m}
+&= 250 \ \text{m}, \quad  0.52 \ \text{km},    \quad 0.5 \ \text{km}, \quad 2.05 \ \text{km}, \quad 502 \ \text{m} \\\\
+&= 250 \ \text{m}, \quad  0.52 \times 1000 \ \text{m},    \quad 0.5 \times 1000 \ \text{m}, \quad 2.05 \times 1000 \ \text{m}, \quad 502 \ \text{m} \\\\
+&= 250 \ \text {m}, \quad  520 \ \text {m},    \quad 500 \ \text {m}, \quad 2050 \ \text {m}, \quad 502 \ \text {m}
 \end{aligned}
 $
 
@@ -1204,7 +1205,7 @@ Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= 250 \text {m} < 500 \ \text {m} < 502 \ \text {m} < 520 \ \text {m} < 2050 \ \text {m} \\\\
+&= 250 \ \text {m} < 500 \ \text {m} < 502 \ \text {m} < 520 \ \text {m} < 2050 \ \text {m} \\\\
 &= 250 \ \text{m} < 0.5 \ \text{km} < 502 \ \text{m} < 0.52 \ \text{km} < 2.05 \ \text{km}
 \end{aligned}
 $
@@ -1222,7 +1223,7 @@ $250 \ \text{m}, \quad 0.5 \ \text{km}, \quad 502 \ \text{m}, \quad 0.52 \ \text
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1265,9 +1266,9 @@ Let's complete the table.
 
 |       |              boys                   |              girls                  |                total                |
 |:-----:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
-|  $6A$ |              $14$                   | $30 - 14 = 16 \ \footnotesize{(2)}$ | $48 - 18 = 30 \ \footnotesize{(1)}$ |
-|  $6B$ | $18 - 6 = 12 \ \footnotesize{(3)}$  |                $6$                  |               $18$                  |
-| total | $14 + 12 = 26 \ \footnotesize{(4)}$ | $16 + 6 = 22 \ \footnotesize{(5)}$  |               $48$                  |
+|  $6A$ |              $14$                   | $30 - 14 = 16 \ \maroonC{\footnotesize{(2)}}$ | $48 - 18 = 30 \ \maroonC{\footnotesize{(1)}}$ |
+|  $6B$ | $18 - 6 = 12 \ \maroonC{\footnotesize{(3)}}$  |                $6$                  |               $18$                  |
+| total | $14 + 12 = 26 \ \maroonC{\footnotesize{(4)}}$ | $16 + 6 = 22 \ \maroonC{\footnotesize{(5)}}$  |               $48$                  |
 
 </div>
 </div>
@@ -1662,9 +1663,7 @@ Let's arrange the temperatures in ascending order.
 $
 \begin {aligned}
 \text{Temperatures}           &= 3, \quad 9, \quad 21, \quad 29, \quad 24, \quad 11 \\\\
-\text{Ordered temperatures}   &= 3, \quad 9, \quad \maroonC
-{11}, \quad \maroonC
-{21}, \quad 24, \quad 29 \\\\
+\text{Ordered temperatures}   &= 3, \quad 9, \quad \maroonC{11}, \quad \maroonC{21}, \quad 24, \quad 29 \\\\
 \text{Median temperature}     &= \dfrac {11 + 21} {2} \\\\
                               &= \dfrac {32} {2} \\\\
                               &= \dfrac {2 \times 16} {2} \\\\

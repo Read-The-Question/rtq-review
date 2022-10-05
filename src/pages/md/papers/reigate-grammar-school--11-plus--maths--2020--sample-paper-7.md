@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2020-sample-paper-7"
 title: "Reigate Grammar School - 11 Plus - Maths - 2020 - Sample Paper 7"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "23"
 ---
 <div class='paper'>
@@ -437,7 +437,7 @@ $7{:}28 \ \text{am}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -463,9 +463,8 @@ ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
 
 $
 \begin{aligned}
-\text{Distance}   &=  50 \text{ km/h} \times 2 \text{ hours} \\\\
-                  &=  50 \times 2  \\\\
-                  &=  100 \text{ km}  \\\\
+\text{Distance}   &=  50 \times 2 \\\\
+                  &=  100 \text{ km}
 \end{aligned}
 $
 
@@ -491,13 +490,12 @@ What was his average speed home again if it takes him $2\dfrac{1}{2} \ \text{hou
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
+ABBR: $\text {Speed} = \dfrac {\text{Total distance}} {\text{Total time}}$
 
 
 $
 \begin{aligned}
-\text{Average speed}   &=  \dfrac{100 \text{ km}}{2\dfrac{1}{2} \text{ hours}} \\\\
-                       &=  \dfrac{100}{2\dfrac{1}{2}} \\\\
+\text{Average speed}   &=  \dfrac{100}{2\dfrac{1}{2}} \\\\
                        &=  \dfrac{100}{\dfrac{5}{2}} \\\\
                        &=  \dfrac{100 \times 2}{5} \\\\
                        &=  \dfrac{20 \times 5 \times 2}{5} \\\\
@@ -523,7 +521,7 @@ $40 \text{ km/h}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -543,16 +541,11 @@ The next term is calculated by multiplying the previous term by $-2$. Hence, the
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{\times (-2)}}
-&&  \footnotesize{\maroonC
-{\times (-2)}}
-&&  \footnotesize{\maroonC
-{\times (-2)}}
-&&  \footnotesize{\maroonC
-{\times (-2)}}
-&&  \footnotesize{\maroonC
-{\times (-2)}}  \\
+&   \footnotesize{\maroonC{\times (-2)}}
+&&  \footnotesize{\maroonC{\times (-2)}}
+&&  \footnotesize{\maroonC{\times (-2)}}
+&&  \footnotesize{\maroonC{\times (-2)}}
+&&  \footnotesize{\maroonC{\times (-2)}}  \\
 1,  &&    -2,  &&  4,  &&   -8,  &&   \ldots, && \ldots
 \end{matrix}
 $
@@ -927,12 +920,12 @@ $\pounds 32$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-In the diagram below, the point 𝐵 has coordinates $(1,4)$.
+In the diagram below, the point $B$ has coordinates $(1,4)$.
 
 ![reigate-grammar-school--11-plus--maths--2020--sample-paper-7/section-1-question-18-00.png](/assets/reigate-grammar-school--11-plus--maths--2020--sample-paper-7/section-1-question-18-00.png "reigate-grammar-school--11-plus--maths--2020--sample-paper-7/section-1-question-18-00.png")
 
@@ -956,7 +949,7 @@ In the diagram below, the point 𝐵 has coordinates $(1,4)$.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write down the coordinates of point 𝐴
+Write down the coordinates of point $A$.
 
 </div>
 <div class='workings'>
@@ -980,7 +973,7 @@ $(2, 1)$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The point 𝐶 has coordinates $(7,1)$. Mark 𝐶 on the diagram and then draw a line from 𝐵 to 𝐶.
+The point $C$ has coordinates $(7,1)$. Mark $C$ on the diagram and then draw a line from $B$ to $C$.
 
 </div>
 <div class='workings'>
@@ -1014,7 +1007,7 @@ Plot the point C on the graph and join it to point C with a line
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The point 𝐷 is on the line you have drawn, and it is twice as far from 𝐵 as from 𝐶. Mark 𝐷 on the diagram and write down its coordinates.
+The point $D$ is on the line you have drawn, and it is twice as far from $B$ as from $C$. Mark $D$ on the diagram and write down its coordinates.
 
 </div>
 <div class='workings'>
@@ -1032,7 +1025,26 @@ Plot the point D on the graph and show the length of the line segment BC
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(13, -2)$
+Let the coordinates $= (a, b)$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {1 + a} {2}            &= 7 \\\\
+1 + a                         &= 7 \times 2 \\\\
+1 + a                         &= 14 \\\\
+a                             &= 14 - 1 \\\\
+a                             &= 13 \\\\
+\dfrac {4 + b} {2}            &= 1 \\\\
+4 + b                         &= 1 \times 2 \\\\
+4 + b                         &= 2 \\\\
+b                             &= 2 - 4 \\\\
+b                             &= -2
+\end{aligned}
+$
+
+Coordinates $= (13, -2)$
 
 </div>
 </div>
@@ -1050,7 +1062,7 @@ $(13, -2)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1061,16 +1073,13 @@ In a car park there are $60$ cars.  of the cars are red and $20\%$ of the cars a
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-\text{Cars neither red nor blue}              &= \text{Total cars - Red cars - Blue cars}  \\\\
+\text{Cars neither red nor blue}              &= \text{Total cars - red cars - blue cars}  \\\\
                                               &= 60 - \dfrac {5} {12} \times 60 - 20\% \times 60 \\\\
                                               &= 60 - \dfrac {5 \times 60} {12} - \dfrac {20 \times 60} {100} \\\\
                                               &= 60 - \dfrac {5 \times 5 \times 12} {12} -  \dfrac {20 \times 5 \times 12} {20 \times 5} \\\\
                                               &= 60 - \dfrac {5 \times 5 \times \cancel{12}} {\cancel{12}}  -\dfrac {\cancel{20} \times \cancel{5} \times 12} {\cancel{20} \times \cancel{5}} \\\\
-                                              &= 60 - 5 \times 5 - 12 \\\\
                                               &= 60 - 25 - 12 \\\\
                                               &= 23
 \end{aligned}
@@ -1274,7 +1283,7 @@ $13$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1335,8 +1344,8 @@ How many houses are there in the street?
 
 $
 \begin{aligned}
-\text{Number of houses in the street}     &= 13 + 11 + 5 + 1 \\\\
-                                          &= 30
+\text{Houses on the street}     &= 13 + 11 + 5 + 1 \\\\
+                                &= 30
 \end{aligned}
 $
 
@@ -1364,9 +1373,9 @@ How many television sets are there in the street?
 
 $
 \begin{aligned}
-\text{Number of television sets in the street}  &= 13 \times 1 + 11 \times 2 + 5 \times 3 + 1 \times 4 \\\\
-                                                &= 13 + 22 + 15 + 4 \\\\
-                                                &= 54
+\text{Television sets in the street}    &= 13 \times 1 + 11 \times 2 + 5 \times 3 + 1 \times 4 \\\\
+                                        &= 13 + 22 + 15 + 4 \\\\
+                                        &= 54
 \end{aligned}
 $
 
@@ -1386,7 +1395,7 @@ $54$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1395,26 +1404,47 @@ At a birthday party, one half drank only lemonade, $\text{one third}$ drank only
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: $(A \text{ or } B) = A + B - (A \text{ and } B)$
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+Let the total number of people $= a$
+
+$
+\begin{aligned}
+\text{People who drank any one drink}       &= \dfrac {1} {2} \ \text{of} \ a + \dfrac {1} {3} \ \text{of} \ a + 0 \\\\
+                                            &= \dfrac {1} {2} \times a + \dfrac {1} {3} \times a \\\\
+                                            &= \dfrac {a} {2} + \dfrac {a} {3} \\\\
+                                            &= \dfrac {a \times 3} {2 \times 3} + \dfrac {a \times 2} {3 \times 2} \\\\
+                                            &= \dfrac {3a} {6} + \dfrac {2a} {6} \\\\
+                                            &= \dfrac {3a + 2a} {6} \\\\
+                                            &= \dfrac {5a} {6}
+\end{aligned}
+$
+
+As per the question,
+
+$
+\begin{aligned}
+a - \dfrac {5a} {6}                         &= 15 \\\\
+\dfrac {a \times 6} {6} - \dfrac {5a} {6}   &= 15 \\\\
+\dfrac {6a} {6} - \dfrac {5a} {6}           &= 15 \\\\
+\dfrac {6a - 5a} {6}                        &= 15 \\\\
+\dfrac {a} {6}                              &= 15 \\\\
+a                                           &= 15 \times 6 \\\\
+a                                           &= 90
+\end{aligned}
+$
+
+Total number of people $= 90$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$90$
 
 </div>
 </div>

@@ -1,8 +1,8 @@
 ---
 slug: "ragpapers/topicpapers-torder-1-g2"
 title: "TopicPaper - Order - 1 - G2"
-date: 2022-09-24 04:59:20
-questions_count: "29"
+date: 2022-10-04 10:03:20
+questions_count: "38"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -184,6 +184,114 @@ $\dfrac {2}{5} \text{ of } \pounds 40  \quad \boxed{\green{=}}  \quad 25\% \text
 <div class='answer'>
 
 $\dfrac {2}{5} \text{ of } \pounds 40  =  25\% \text{ of } \pounds 64$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Circle the highest number in each group.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$0.609 \quad     0.069 \quad     0.63 \quad     0.063$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$0.63$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.63$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$-7.5 \quad    -1 \quad      -8 \quad     -1.5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$-1$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-1$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$0.09 \quad     39\% \quad    0.44 \quad     \dfrac{2}{5}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's convert all the numbers into fractions.
+
+$
+\begin{aligned}
+&= 0.09, \quad     39\%, \quad    0.44, \quad     \dfrac{2}{5} \\\\
+&= 0.09, \quad     0.39, \quad    0.44, \quad     0.4
+\end{aligned}
+$
+
+Highest number $= 0.44$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.44$
 
 </div>
 </div>
@@ -464,6 +572,47 @@ $\dfrac {5} {6}$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
+Which of these fractions is the largest?
+
+$\dfrac{3}{5} \quad \dfrac{4}{6} \quad \dfrac{5}{7} \quad \dfrac{6}{8}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$= \dfrac{3}{5} \quad \dfrac{4}{6} \quad \dfrac{5}{7} \quad \dfrac{6}{8}$
+
+Let's make the denominator the same for all the numbers, so we can compare them.
+
+LCM of $5,6,7,8 = 840$
+
+$
+\begin{aligned}
+&= \dfrac{3 \times 168}{5 \times 168},  \quad   \dfrac{4 \times 140}{6 \times 140},  \quad   \dfrac{5 \times 120}{7 \times 120},  \quad   \dfrac{6 \times 105}{8 \times 105} \\\\
+&= \dfrac{504}{840},  \quad   \dfrac{560}{840},  \quad   \dfrac{600}{840},  \quad   \dfrac{630}{840}
+\end{aligned}
+$
+
+Largest fraction $= \dfrac{630}{840} = \dfrac{6}{8}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{6}{8}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
 Which of these is the smallest?
 -  $0.0801$ 
 -  $0.08$ 
@@ -548,6 +697,228 @@ $0.07$
 <div class='answer'>
 
 $0.07$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Put the following in order, starting with the smallest: 
+
+$3.44, 4.34, 34.4, 43.4, 44.3, 4.43$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$3.44, \quad 4.34, \quad 4.43, \quad 34.4, \quad 43.4, \quad 44.3$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3.44, \quad 4.34, \quad 4.43, \quad 34.4, \quad 43.4, \quad 44.3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+%empty%
+
+</div>
+
+
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Write the following decimal numbers in order from smallest to largest:
+
+$\boxed{\ 7.044 \ } \quad \boxed{\ 7.07 \ } \quad \boxed{\ 7.41  \ } \quad \boxed{\ 7.4004 \ }$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$7.044, \quad 7.07, \quad 7.4004, \quad 7.41$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7.044, \quad 7.07, \quad 7.4004, \quad 7.41$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Calculate the difference between the largest and smallest of these four decimals.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Difference}  &= 7.41 - 7.044 \\\\
+                   &= 0.366
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.366$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+%empty%
+
+</div>
+
+
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Write the following decimal numbers in order from smallest to largest:
+
+$\boxed{\ 0.505 \ } \quad \boxed{\ 0.05 \ } \quad \boxed{\ 0.5005 \ } \quad \boxed{\ 0.055 \ }$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$0.05, \quad 0.055, \quad 0.5005, \quad 0.505$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.05, \quad 0.055, \quad 0.5005, \quad 0.505$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Write down the decimal number that is equivalent to $0.4 - \dfrac{1}{4}$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 0.4 - \dfrac{1}{4} \\\\
+&= 0.4 - 0.25 \\\\
+&= 0.15
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.15$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Put these fractions in ascending order according to their size. (Ascending means smallest to largest)
+
+$
+\dfrac{4}{5} \quad
+\dfrac{3}{8} \quad
+\dfrac{3}{4} \quad
+\dfrac{1}{2} \quad
+\dfrac{2}{3}
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's make the denominator the same for all the numbers, so we can compare them.
+
+LCM for $5, 8, 4, 2, 3 = 120$
+
+$
+\begin{aligned}
+&= \dfrac{4}{5}, \quad \dfrac{3}{8}, \quad \dfrac{3}{4}, \quad \dfrac{1}{2}, \quad \dfrac{2}{3} \\\\
+&= \dfrac{4 \times 24}{5 \times 24}, \quad \dfrac{3 \times 15}{8 \times 15}, \quad \dfrac{3 \times 30}{4 \times 30}, \quad \dfrac{1 \times 60}{2 \times 60}, \quad \dfrac{2 \times 40}{3 \times 40} \\\\
+&= \dfrac{96}{120}, \quad \dfrac{45}{120}, \quad \dfrac{90}{120}, \quad \dfrac{60}{120}, \quad \dfrac{80}{120}
+\end{aligned}
+$
+
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= \dfrac{45}{120} < \dfrac{60}{120} < \dfrac{80}{120} < \dfrac{90}{120} < \dfrac{96}{120} \\\\
+&= \dfrac{3}{8} < \dfrac{1}{2} < \dfrac{2}{3} < \dfrac{3}{4} < \dfrac{4}{5}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{3}{8}, \quad \dfrac{1}{2}, \quad \dfrac{2}{3}, \quad \dfrac{3}{4}, \quad \dfrac{4}{5}$
 
 </div>
 </div>
@@ -693,9 +1064,141 @@ $0.1444, \quad  0.4, \quad  0.414, \quad  1.4, \quad  4.41$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
+$9.3 \quad  21.56 \quad  0.8 \quad  17.5 \quad  9.04$
+
+</div>
+
+
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Write these numbers in order, largest to smallest.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$0.8, \quad  9.04, \quad  9.3, \quad  17.5, \quad  21.56$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.8, \quad  9.04, \quad  9.3, \quad  17.5, \quad  21.56$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Find the total of the numbers.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total}   &= 0.8 + 9.04 + 9.3 + 17.5 + 21.56 \\\\ 
+               &= 58.2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$58.2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Find the difference between the largest and the smallest.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Difference}   &= 21.56 - 0.8 \\\\ 
+                    &= 20.76 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20.76$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Divide the largest by $7$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 21.56 \div 7 \\\\ 
+&= \dfrac{21.56}{7} \\\\ 
+&= \dfrac{21.56 \times 100}{7 \times 100} \\\\ 
+&= \dfrac{2156}{7 \times 100} \\\\ 
+&= \dfrac{308 \times 7}{7 \times 100} \\\\ 
+&= \dfrac{308 \times \cancel{7}}{\cancel{7} \times 100} \\\\ 
+&= \dfrac{308}{100} \\\\ 
+&= 3.08 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3.08$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
 Write the following fractions in order of size, from smallest to largest:
 
-$\dfrac{2}{3}, \quad \dfrac{5}{6}, \quad \dfrac{7}{12}$
+$\dfrac{2}{3}, \dfrac{5}{6}, \dfrac{7}{12}$
 
 -   $\dfrac{7}{12}, \dfrac{2}{3}, \dfrac{5}{6}$
 
@@ -752,12 +1255,13 @@ $\dfrac {7} {12}, \quad \dfrac {2} {3}, \quad \dfrac {5} {6}$
 <div class='question question'>
 
 Write the following fractions in order of size, from smallest to largest:
-%format% 2 3, 5 6, 7 12
 
-%format% - 7 12, 2 3, 5 6
-%format% - 7 12, 5 6, 2 3
-%format% - 2 3, 7 12, 5 6
-%format% - 5 6, 2 3, 7 12
+$\dfrac{2}{3}, \dfrac{5}{6}, \dfrac{7}{12}$
+
+- $\dfrac{7}{12}, \dfrac{2}{3},  \dfrac{5}{6}$
+- $\dfrac{7}{12}, \dfrac{5}{6},  \dfrac{2}{3}$
+- $\dfrac{2}{3},  \dfrac{7}{12}, \dfrac{5}{6}$
+- $\dfrac{5}{6},  \dfrac{2}{3},  \dfrac{7}{12}$
 
 </div>
 <div class='workings'>
@@ -793,6 +1297,50 @@ $
 <div class='answer'>
 
 $\dfrac {7} {12}, \quad \dfrac {2} {3}, \quad \dfrac {5} {6}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Put the following numbers in order from smallest to largest:
+
+$\dfrac{3}{5}\:\:\:  0.58\:\:\: \dfrac{5}{8}\:\:\:  62\% \  0.508$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's convert all the numbers into decimals.
+
+$
+\begin{aligned}
+&= \dfrac{3}{5}, \quad 0.58, \quad \dfrac{5}{8}, \quad 62\%, \quad 0.508 \\\\
+&= 0.6, \quad 0.58, \quad 0.625, \quad 0.62, \quad 0.508
+\end{aligned}
+$
+
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= 0.508 < 0.58 < 0.6 < 0.62 < 0.625 \\\\
+&= 0.508 < 0.58 < \dfrac{3}{5} < 62\% < \dfrac{5}{8}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.508, \quad 0.58, \quad \dfrac{3}{5}, \quad 62\%, \quad \dfrac{5}{8}$
 
 </div>
 </div>
@@ -882,11 +1430,11 @@ $-16, \quad -8, \quad 5, \quad 8, \quad 9$
 
 In this question letters of the alphabet are assigned number values:
 
-$A = 1, B = 2, C = 3, D = 4,$ ....
+A $= 1,$ B $= 2,$ C $= 3,$ D $= 4, \ldots$
 
-The **sum total** of a word is created by **adding** the value of the letters.
+The sum total of a word is created by adding the value of the letters.
 
-For example: the sum total of ‘$HAD$’ $= 8 + 1 + 4 = 13$
+For example: the sum total of ‘HAD’ $= 8 + 1 + 4 = 13$
 
 </div>
 <div class='workings'>
@@ -908,7 +1456,7 @@ For example: the sum total of ‘$HAD$’ $= 8 + 1 + 4 = 13$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the sum total of the word ‘$TANK$’?
+What is the sum total of the word ‘TANK’?
 
 </div>
 <div class='workings'>
@@ -939,7 +1487,10 @@ $46$
 
 List the following words in order of their sum total, starting with the lowest:
 
-$DOG \quad CATS \quad FISH \quad BIRD$
+- DOG
+- CATS
+- FISH
+- BIRD
 
 </div>
 <div class='workings'>
@@ -983,9 +1534,9 @@ $\text {DOG}, \quad \text {BIRD}, \quad \text {FISH}, \quad \text {CATS}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Which single letter has the same value as the result of dividing the sum total for ‘$JET$’ by the sum total of ‘$BAD$’?
+Which single letter has the same value as the result of dividing the sum total for ‘JET’ by the sum total of ‘BAD’?
 
-$JET \div BAD = \ldots$
+JET $\div$ BAD $= \ldots$
 
 </div>
 <div class='workings'>
@@ -1776,6 +2327,179 @@ $7.012, \quad 7.02, \quad 7.102, \quad 7.12 $
 </div>
 </div>
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+For each set of numbers put a circle around the smallest number and underline the largest number. 
+
+</div>
+
+
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$2.506    \quad 2.56    \quad 2.006    \quad 2.056    \quad 2.6$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Smallest number $= 2.006$
+
+Largest number $= 2.6$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Smallest $=$ $2.006$
+
+</div>
+<div class='answer'>
+
+Largest $=$ $2.6$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$\dfrac{1}{4} \quad \dfrac{6}{7} \quad \dfrac{7}{8} \quad \dfrac{8}{9} \quad \dfrac{1}{5}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's convert all the numbers into decimals.
+
+$
+\begin{aligned}
+&= \dfrac{1}{4}, \quad \dfrac{6}{7}, \quad \dfrac{7}{8}, \quad \dfrac{8}{9}, \quad \dfrac{1}{5} \\\\
+&= 0.25, \quad 0.857, \quad 0.875, \quad 0.\overline{8}, \quad 0.2
+\end{aligned}
+$
+
+Smallest number $= 0.2 = \dfrac{1}{5}$
+
+Largest number $= 0.\overline{8} = \dfrac{8}{9}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Smallest $=$ $\dfrac{1}{5}$
+
+</div>
+<div class='answer'>
+
+Largest $=$ $\dfrac{8}{9}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$\dfrac{9}{20} \quad 0.55 \quad \dfrac{3}{5} \quad 0.25 \quad \dfrac{53}{100}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's convert all the numbers into decimals.
+
+$
+\begin{aligned}
+&= \dfrac{9}{20}, \quad 0.55, \quad \dfrac{3}{5}, \quad 0.25, \quad \dfrac{53}{100} \\\\
+&= 0.45, \quad 0.55, \quad 0.6, \quad 0.25, \quad 0.53
+\end{aligned}
+$
+
+Smallest number $= 0.25$
+
+Largest number $= 0.6 = \dfrac{3}{5}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Smallest $=$ $0.25$
+
+</div>
+<div class='answer'>
+
+Largest $=$ $\dfrac{3}{5}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$
+28 \ \text{cm} \quad 
+\dfrac{1}{5} \ \text{m} \quad
+2600 \ \text{mm} \quad
+0.28 \ \text{m} \quad
+25 \ \text{cm}
+$  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's convert all the units to $\text {cm}$.
+
+$
+\begin{aligned}
+&= 28 \ \text{cm}, \quad \dfrac{1}{5} \ \text{m}, \quad 2600 \ \text{mm}, \quad 0.28 \ \text{m}, \quad 25 \ \text{cm} \\\\
+&= 28 \ \text{cm}, \quad \dfrac{100}{5} \ \text{cm}, \quad \dfrac{2600}{10} \ \text{cm}, \quad 0.28 \times 100 \ \text{cm}, \quad 25 \ \text{cm} \\\\
+&= 28 \ \text{cm}, \quad 20 \ \text{cm}, \quad 260 \ \text{cm}, \quad 28 \ \text{cm}, \quad 25 \ \text{cm}
+\end{aligned}
+$
+
+Smallest $= 20 \ \text{cm} = \dfrac{1}{5} \ \text{m}$
+
+Largest $= 260 \ \text{cm} = 2600 \ \text{mm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Smallest $=$ $\dfrac{1}{5} \ \text{m}$
+
+</div>
+<div class='answer'>
+
+Largest $=$ $2600 \ \text{mm}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 </div>
 </li>
 <li>

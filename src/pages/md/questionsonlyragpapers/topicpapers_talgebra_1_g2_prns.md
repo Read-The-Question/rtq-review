@@ -1,8 +1,8 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-talgebra-1-g2-prns"
 title: "TopicPaper - Algebra - 1 - G2 - PRNS"
-date: 2022-09-24 05:07:09
-questions_count: "34"
+date: 2022-10-04 10:09:40
+questions_count: "36"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -635,6 +635,26 @@ $3.6 \times {?} = 1.8 \times 7$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
+Lisa has some boxes that are all cubes of the same size.
+
+She uses four of the boxes to make a pile with a height of $72 \ \text{cm}$.
+
+She puts one more box on top of the pile.
+
+![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-14-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-14-00.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-14-00.png")
+
+Work out the height of the pile of **five** boxes.
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
 Look at this equation
 
 $y = 2x + 10$
@@ -674,6 +694,57 @@ Put a ring round the correct equation.
 - $y = x^2$
 - $y = \dfrac{x}{2}$
 
+
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+%empty%
+
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Bags $A$ and $B$ contain some counters.
+
+![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-10-subquestion-1-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-10-subquestion-1-00.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-10-subquestion-1-00.png")
+
+Bag A: $6y + 1$ counters
+
+Bag B: $4y + 7$ counters
+
+The number of counters in each bag is the same.
+
+Work out the value of $y$.
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Bag $C$ contains more counters than bag $D$.
+
+![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-10-subquestion-2-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-10-subquestion-2-00.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-10-subquestion-2-00.png")
+
+Bag C: $4k$ counters
+
+Bag D: $k + 12$ counters
+
+What is the smallest possible value of $k$?
 
 </div>
 

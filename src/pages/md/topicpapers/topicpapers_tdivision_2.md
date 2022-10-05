@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdivision-2"
 title: "TopicPaper - Division - 2"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "40"
 ---
 <div class='paper'>
@@ -198,17 +198,17 @@ $57$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-What remainder do you get when you divide $283$ by $9$? 
+What remainder do you get when you divide $283$ by $9?$
 
-A: $4$ 
+- $4$ 
 
-B: $5$ 
+- $5$ 
 
-C: $6$ 
+- $6$ 
 
-D: $7$ 
+- $7$ 
 
-E: $8$
+- $8$
 
 </div>
 <div class='workings'>

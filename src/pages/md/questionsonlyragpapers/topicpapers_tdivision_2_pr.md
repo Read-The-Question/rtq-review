@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tdivision-2-pr"
 title: "TopicPaper - Division - 2 - PR"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "26"
 ---
 <ul class='question default-decimal'>
@@ -50,22 +50,22 @@ E: $52$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-What remainder do you get when you divide $283$ by $9$? 
+What remainder do you get when you divide $283$ by $9?$
 
-A: $4$ 
+- $4$ 
 
-B: $5$ 
+- $5$ 
 
-C: $6$ 
+- $6$ 
 
-D: $7$ 
+- $7$ 
 
-E: $8$
+- $8$
 
 </div>
 

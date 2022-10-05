@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-2-g1"
 title: "TopicPaper - Time - 2 - G1"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -88,7 +88,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write down the time in ($24-\text{hour}$ format) represented by the display:
+Write down the time (in $24-\text{hour}$ format) represented by the display:
 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-19-subquestion-1-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-19-subquestion-1-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-19-subquestion-1-00.png")
 

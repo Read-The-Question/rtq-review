@@ -1,7 +1,7 @@
 ---
 slug: "papers/latymer-upper-school-11-plus-maths-2020-sample-paper-1"
 title: "Latymer Upper School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "29"
 ---
 <div class='paper'>
@@ -1037,7 +1037,7 @@ $50$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1077,18 +1077,12 @@ The next term is calculated by subtracting $3$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(-3)} }
-&&  \footnotesize {\maroonC
- {(-3)} }
-&&  \footnotesize {\maroonC
- {(-3)} }
-&&  \footnotesize {\maroonC
- {(-3)} }
-&&  \footnotesize {\maroonC
- {(-3)} }
-&&  \footnotesize {\maroonC
- {(-3)} }  \\
+&   \footnotesize {\maroonC {(-3)} }
+&&  \footnotesize {\maroonC {(-3)} }
+&&  \footnotesize {\maroonC {(-3)} }
+&&  \footnotesize {\maroonC {(-3)} }
+&&  \footnotesize {\maroonC {(-3)} }
+&&  \footnotesize {\maroonC {(-3)} }  \\
 28, && 25, && 22, && \ldots, && \ldots, && 13, && 10
 \end{matrix}
 $
@@ -1136,20 +1130,13 @@ The difference between every pair of consecutive terms is increasing by 1. Hence
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+1)} }
-&&  \footnotesize {\maroonC
- {(+2)} }
-&&  \footnotesize {\maroonC
- {(+3)} }
-&&  \footnotesize {\maroonC
- {(+4)} }
-&&  \footnotesize {\maroonC
- {(+5)} }
-&&  \footnotesize {\maroonC
- {(+6)} }
-&&  \footnotesize {\maroonC
- {(+7)} } \\
+&   \footnotesize {\maroonC {(+1)} }
+&&  \footnotesize {\maroonC {(+2)} }
+&&  \footnotesize {\maroonC {(+3)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+5)} }
+&&  \footnotesize {\maroonC {(+6)} }
+&&  \footnotesize {\maroonC {(+7)} } \\
 3, && 4, && 6, && 9, && 13, && \ldots, && \ldots, && 31
 \end{matrix}
 $
@@ -1197,18 +1184,12 @@ The next term is calculated by multiplying the previous term by $-2$. Hence, the
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {\times (-2)} }
-&&  \footnotesize {\maroonC
- {\times (-2)} }
-&&  \footnotesize {\maroonC
- {\times (-2)} }
-&&  \footnotesize {\maroonC
- {\times (-2)} }
-&&  \footnotesize {\maroonC
- {\times (-2)} }
-&&  \footnotesize {\maroonC
- {\times (-2)} } \\
+&   \footnotesize {\maroonC {\times (-2)} }
+&&  \footnotesize {\maroonC {\times (-2)} }
+&&  \footnotesize {\maroonC {\times (-2)} }
+&&  \footnotesize {\maroonC {\times (-2)} }
+&&  \footnotesize {\maroonC {\times (-2)} }
+&&  \footnotesize {\maroonC {\times (-2)} } \\
 5, && -10, && 20, && \ldots, && \ldots, && -160, &&-320
 \end{matrix}
 $
@@ -1382,7 +1363,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1413,26 +1394,23 @@ What is the remainder when $247$ is divided by $7$?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+&= \dfrac{247}{7} \\\\
+&= 35 \text { remainder } 2
+\end{aligned}
+$
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+Remainder $= 2$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$2$
 
 </div>
 </div>
@@ -1499,8 +1477,8 @@ Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= \dfrac {95} {140}, \quad \dfrac {100} {140}, \quad \dfrac {108} {140}, \quad \dfrac {126} {140} \\\\
-&= \dfrac {19} {28}, \quad \dfrac {5} {7}, \quad \dfrac {27} {35}, \quad \dfrac {9} {14}
+&= \dfrac {95} {140} < \dfrac {100} {140} < \dfrac {108} {140} < \dfrac {126} {140} \\\\
+&= \dfrac {19} {28} < \dfrac {5} {7} < \dfrac {27} {35} < \dfrac {9} {14}
 \end{aligned}
 $
 

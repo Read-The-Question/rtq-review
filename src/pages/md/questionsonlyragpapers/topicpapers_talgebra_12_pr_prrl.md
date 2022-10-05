@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-talgebra-12-pr-prrl"
 title: "TopicPaper - Algebra - 12 - PR - PRRL"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -15,7 +15,6 @@ A person's Body Mass Index $(BMI$) is worked out by dividing their weight (in ki
 
 ![missing table](/papers/missing_table.svg)
 
-![the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1/section-1-question-29-00.png](/assets/the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1/section-1-question-29-00.png "the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1/section-1-question-29-00.png") 
 
 For example, Jill weighs $72 \ \text{kg}$ and is $1.82 \ \text{m}$ tall. Her body mass index is worked out as follows:
 

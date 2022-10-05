@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-torder-3"
 title: "TopicPaper - Order - 3"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "33"
 ---
 <div class='paper'>
@@ -81,7 +81,7 @@ $0.099, \quad 0.491, \quad 0.5, \quad 1.072, \quad 32.043$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -92,26 +92,32 @@ $83\% \quad \dfrac{4}{5} \quad \dfrac{1}{3} \quad 0.333 \quad 0.825 \quad 30\% \
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Let's convert all the numbers into decimals.
 
-</div>
-<div class='working placeholder'>
+$
+\begin{aligned}
+&= 83\%, \quad \dfrac{4}{5}, \quad \dfrac{1}{3}, \quad 0.333, \quad 0.825, \quad 30\%, \quad 0.59, \quad 0.29, \quad \dfrac{29}{90} \\\\
+&= 0.83, \quad 0.8, \quad 0.\overline{3}, \quad 0.333, \quad 0.825, \quad 0.3, \quad 0.59, \quad 0.29, \quad 0.3\overline{2}
+\end{aligned}
+$
 
-TODOWORKING
+Smallest number $= 0.29$
+
+Largest number $= 0.83 = 83\%$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+Smallest number $= 0.29$
 
 </div>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+Largest number $= 83\%$
 
 </div>
 </div>
@@ -119,7 +125,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -130,26 +136,32 @@ $1.9, \quad \dfrac{26}{25}, \quad 1 \dfrac{3}{7}, \quad 150\%$
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Let's convert all the numbers into decimals.
 
-</div>
-<div class='working placeholder'>
+$
+\begin{aligned}
+&= 1.9, \quad \dfrac{26}{25}, \quad 1 \dfrac{3}{7}, \quad 150\% \\\\
+&= 1.9, \quad 1.04, \quad 1.428, \quad 1.50
+\end{aligned}
+$
 
-TODOWORKING
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= 1.04 < 1.428 < 1.5 < 1.9 \\\\
+&= \dfrac{26}{25} < 1\dfrac{3}{7} < 150\% < 1.9 \\\\
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\dfrac{26}{25}, \quad 1\dfrac{3}{7}, \quad 150\%, \quad 1.9$
 
 </div>
 </div>
@@ -157,7 +169,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -174,8 +186,9 @@ Let's convert all the units into m.
 
 $
 \begin{aligned}
-&= 250 \ \text{m} \quad  0.52 \ \text{km}    \quad 0.5 \ \text{km} \quad 2.05 \ \text{km} \quad 502 \ \text{m} \\\\
-&= 250 \ \text {m} \quad  520 \ \text {m}    \quad 500 \ \text {m} \quad 2050 \ \text {m} \quad 502 \ \text {m}
+&= 250 \ \text{m}, \quad  0.52 \ \text{km},    \quad 0.5 \ \text{km}, \quad 2.05 \ \text{km}, \quad 502 \ \text{m} \\\\
+&= 250 \ \text{m}, \quad  0.52 \times 1000 \ \text{m},    \quad 0.5 \times 1000 \ \text{m}, \quad 2.05 \times 1000 \ \text{m}, \quad 502 \ \text{m} \\\\
+&= 250 \ \text {m}, \quad  520 \ \text {m},    \quad 500 \ \text {m}, \quad 2050 \ \text {m}, \quad 502 \ \text {m}
 \end{aligned}
 $
 
@@ -183,7 +196,7 @@ Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= 250 \text {m} < 500 \ \text {m} < 502 \ \text {m} < 520 \ \text {m} < 2050 \ \text {m} \\\\
+&= 250 \ \text {m} < 500 \ \text {m} < 502 \ \text {m} < 520 \ \text {m} < 2050 \ \text {m} \\\\
 &= 250 \ \text{m} < 0.5 \ \text{km} < 502 \ \text{m} < 0.52 \ \text{km} < 2.05 \ \text{km}
 \end{aligned}
 $
@@ -274,7 +287,7 @@ $4.0121, \quad 4.0211, \quad 4.1021, \quad 4.2101$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -285,26 +298,35 @@ $\dfrac{1}{2} \quad \dfrac{3}{8} \quad \dfrac{1}{3} \quad \dfrac{5}{12} \quad \d
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Let's make the denominator the same for all the numbers, so we can compare them.
 
-</div>
-<div class='working placeholder'>
+LCM for $2, 8, 3, 12, 24 = 24$
 
-TODOWORKING
+$
+\begin{aligned}
+&= \dfrac{1}{2}, \quad \dfrac{3}{8}, \quad \dfrac{1}{3}, \quad \dfrac{5}{12}, \quad \dfrac{7}{24} \\\\
+&= \dfrac{1 \times 12}{2 \times 12}, \quad \dfrac{3 \times 3}{8 \times 3}, \quad \dfrac{1 \times 8}{3 \times 8}, \quad \dfrac{5 \times 2}{12 \times 2}, \quad \dfrac{7 \times 1}{24 \times 1} \\\\
+&= \dfrac{12}{24}, \quad \dfrac{9}{24}, \quad \dfrac{8}{24}, \quad \dfrac{10}{24}, \quad \dfrac{7}{24}
+\end{aligned}
+$
+
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= \dfrac{7}{24} < \dfrac{8}{24} < \dfrac{9}{24} < \dfrac{10}{24} < \dfrac{12}{24} \\\\
+&= \dfrac{7}{24} < \dfrac{1}{3} < \dfrac{3}{8} < \dfrac{5}{12} < \dfrac{1}{2}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\dfrac{7}{24}, \quad \dfrac{1}{3}, \quad \dfrac{3}{8}, \quad \dfrac{5}{12}, \quad \dfrac{1}{2}$
 
 </div>
 </div>
@@ -312,7 +334,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -608,14 +630,10 @@ The next term is calculated by adding $0.2$ to the previous term. Hence, the seq
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+0.2)}} 
-&&  \footnotesize{\maroonC
-{(+0.2)}}  
-&&  \footnotesize{\maroonC
-{(+0.2)}}   
-&&  \footnotesize{\maroonC
-{(+0.2)}}  \\
+&   \footnotesize{\maroonC{(+0.2)}} 
+&&  \footnotesize{\maroonC{(+0.2)}}  
+&&  \footnotesize{\maroonC{(+0.2)}}   
+&&  \footnotesize{\maroonC{(+0.2)}}  \\
 \ldots, && 20.0, &&  20.2, &&  20.4
 \end{matrix}
 $
@@ -876,7 +894,7 @@ $3.043, \quad 3.304, \quad 3.34, \quad 3.4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -907,7 +925,7 @@ $
 \end{aligned}
 $
 
-The number in the middle $= \dfrac{3}{4}$ 
+Number in the middle $= \dfrac{3}{4}$ 
 
 </div>
 </div>
@@ -922,7 +940,7 @@ $\dfrac{3}{4}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -940,7 +958,7 @@ Let's convert all the numbers into decimals.
 $
 \begin{aligned}
 &= 0.66, \quad \dfrac {3} {4}, \quad 70\%, \quad \dfrac {2} {3}, \quad \dfrac {6} {10} \\\\
-&= 0.66, \quad 0.75, \quad 0.70, \quad 0.\overline{6}, \quad 0.60
+&= 0.66, \quad 0.75, \quad 0.70, \quad 0.\overline{6}, \quad 0.6
 \end{aligned}
 $
 
@@ -948,12 +966,12 @@ Now let's put them in ascending order.
 
 $
 \begin{aligned}
-&= 0.60\ < 0.66\ < 0.\overline{6}\ <  0.70\ < 0.75 \\\\
-&= \dfrac {6} {10}\ < 0.66\ < \dfrac {2} {3}\ < 70 \%\ < \dfrac {3} {4}
+&= 0.6 < 0.66 < 0.\overline{6} <  0.70 < 0.75 \\\\
+&= \dfrac {6} {10} < 0.66 < \dfrac {2} {3} < 70 \% < \dfrac {3} {4}
 \end{aligned}
 $
 
-The number in the middle $= \dfrac {2} {3}$.
+Number in the middle $= \dfrac {2} {3}$
 
 </div>
 </div>
@@ -968,7 +986,7 @@ $\dfrac {2} {3}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -981,22 +999,12 @@ $\dfrac{3}{10}, \quad \dfrac{1}{3}, \quad \dfrac{1}{4}, \quad 0.35, \quad 33\%$
 <div class='workings'>
 <div class='working'>
 
-Let's make the denominator the same for all the numbers, so we can compare them.
+Let's convert all the numbers into decimals.
 
 $
 \begin{aligned}
 &= \dfrac{3}{10}, \quad \dfrac{1}{3}, \quad \dfrac{1}{4}, \quad 0.35, \quad 33\% \\\\
-&= \dfrac{3}{10}, \quad \dfrac{1}{3}, \quad \dfrac{1}{4}, \quad \dfrac{35}{100}, \quad \dfrac{33}{100}
-\end{aligned}
-$
-
-LCM for $10, 3, 4, 100, 100 = 300$
-
-$
-\begin{aligned}
-&= \dfrac{3 \times 30}{10 \times 30}, \quad \dfrac{1 \times 100}{3 \times 100}, 
-\quad \dfrac{1 \times 75}{4 \times 75}, \quad \dfrac{35 \times 3}{100 \times 3}, \quad \dfrac{33 \times 3}{100 \times 3} \\\\
-&= \dfrac{90}{300}, \quad \dfrac{100}{300}, \quad \dfrac{75}{300}, \quad \dfrac{105}{300}, \quad \dfrac{99}{300}
+&= 0.3, \quad 0.\overline{3}, \quad 0.25, \quad 0.35, \quad 0.33
 \end{aligned}
 $
 
@@ -1004,12 +1012,12 @@ Now let's put them in ascending order.
 
 $
 \begin{aligned}
-&= \dfrac{75}{300} < \dfrac{90}{300} < \dfrac{99}{300} < \dfrac{100}{300} < \dfrac{105}{300} \\\\
+&= 0.25 < 0.3  < 0.33 < 0.\overline{3} < 0.35 \\\\
 &= \dfrac{1}{4} < \dfrac{3}{10} < 33\% < \dfrac{1}{3} < 0.35
 \end{aligned}
 $
 
-The number in the middle $= 33\%$.
+Number in the middle $= 33\%$.
 
 </div>
 </div>
@@ -1024,7 +1032,7 @@ $33\%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1055,7 +1063,7 @@ $
 \end{aligned}
 $
 
-The number in the middle $= \dfrac{2}{3}$
+Number in the middle $= \dfrac{2}{3}$
 
 </div>
 </div>
@@ -1070,7 +1078,7 @@ $\dfrac {2} {3}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1092,58 +1100,66 @@ In which of the following are the terms NOT getting bigger?
 <div class='workings'>
 <div class='working'>
 
-To compare, we can convert all the numbers to fractions, decimals or percentages. 
-
 Let's convert all the numbers into decimals.
 
-$
-\begin{aligned}
-\text{A} &= \dfrac{1}{5}, \quad 0.25, \quad \dfrac{3}{10}, \quad 0.5 \\\\
-  &= \dfrac{1 \times 2}{5 \times 2}, \quad 0.25, \quad 0.3, \quad 0.5 \\\\
-  &= \dfrac{2}{10}, \quad 0.25, \quad 0.3, \quad 0.5 \\\\
-  &= 0.2 < \quad 0.25 < \quad 0.3 < \quad 0.5
-\end{aligned}
-$
+Term A
 
 $
 \begin{aligned}
-\text{B} &= \dfrac{3}{5}, \quad 0.7, \quad \dfrac{4}{5}, \quad 1.5 \\\\
-  &= \dfrac{3 \times 2}{5 \times 2}, \quad 0.7, \quad \dfrac{4 \times 2}{5 \times 2}, \quad 1.5 \\\\
-  &= \dfrac{6}{10}, \quad 0.7, \quad \dfrac{8}{10}, \quad 1.5 \\\\
-  &= 0.6 < \quad 0.7 < \quad 0.8 < \quad 1.5
+&= \dfrac{1}{5}, \quad 0.25, \quad \dfrac{3}{10}, \quad 0.5 \\\\
+&= \dfrac{1 \times 2}{5 \times 2}, \quad 0.25, \quad 0.3, \quad 0.5 \\\\
+&= \dfrac{2}{10}, \quad 0.25, \quad 0.3, \quad 0.5 \\\\
+&= 0.2 < 0.25 < 0.3 < 0.5
 \end{aligned}
 $
 
-$
-\begin{aligned}
-\text{C} &= \dfrac{2}{5}, \quad 0.5, \quad \dfrac{7}{10}, \quad 0.9 \\\\
-  &= \dfrac{2 \times 2}{5 \times 2}, \quad 0.5, \quad 0,7, \quad 0.9 \\\\
-  &= \dfrac{4}{10}, \quad 0.5, \quad 0,7, \quad 0.9 \\\\
-  &= 0.4 < \quad 0.5 < \quad 0.7 < \quad 0.9
-\end{aligned}
-$
+Term B
 
 $
 \begin{aligned}
-\text{D} &= \dfrac{3}{5}, \quad 0.5, \quad \dfrac{7}{10}, \quad 0.9 \\\\
-  &= \dfrac{3 \times 2}{5 \times 2}, \quad 0.5, \quad 0.7, \quad 0.9 \\\\
-  &= \dfrac{6}{10}, \quad 0.5, \quad 0.7, \quad 0.9 \\\\
-  &= 0.6 > \quad 0.5 < \quad 0.7 < \quad 0.9
+&= \dfrac{3}{5}, \quad 0.7, \quad \dfrac{4}{5}, \quad 1.5 \\\\
+&= \dfrac{3 \times 2}{5 \times 2}, \quad 0.7, \quad \dfrac{4 \times 2}{5 \times 2}, \quad 1.5 \\\\
+&= \dfrac{6}{10}, \quad 0.7, \quad \dfrac{8}{10}, \quad 1.5 \\\\
+&= 0.6 < 0.7 < 0.8 < 1.5
 \end{aligned}
 $
 
+Term C
+
 $
 \begin{aligned}
-\text{E} &= \dfrac{2}{5}, \quad 1.5, \quad \dfrac{10}{5}, \quad 2.3 \\\\
-  &= \dfrac{2 \times 2}{5 \times 2}, \quad 1.5, \quad \dfrac{2 \times 5}{5}, \quad 2.3 \\\\
-  &= \dfrac{4}{10}, \quad 1.5, \quad \dfrac{\cancel {2} \times 5}{\cancel 5}, \quad 2.3 \\\\
-  &= 0.4 < \quad 1.5 < \quad 2 < \quad 2.3
+&= \dfrac{2}{5}, \quad 0.5, \quad \dfrac{7}{10}, \quad 0.9 \\\\
+&= \dfrac{2 \times 2}{5 \times 2}, \quad 0.5, \quad 0,7, \quad 0.9 \\\\
+&= \dfrac{4}{10}, \quad 0.5, \quad 0,7, \quad 0.9 \\\\
+&= 0.4 < 0.5 < 0.7 < 0.9
+\end{aligned}
+$
+
+Term D
+
+$
+\begin{aligned}
+&= \dfrac{3}{5}, \quad 0.5, \quad \dfrac{7}{10}, \quad 0.9 \\\\
+&= \dfrac{3 \times 2}{5 \times 2}, \quad 0.5, \quad 0.7, \quad 0.9 \\\\
+&= \dfrac{6}{10}, \quad 0.5, \quad 0.7, \quad 0.9 \\\\
+&= 0.6 > 0.5 < 0.7 < 0.9
+\end{aligned}
+$
+
+Term E
+
+$
+\begin{aligned}
+&= \dfrac{2}{5}, \quad 1.5, \quad \dfrac{10}{5}, \quad 2.3 \\\\
+&= \dfrac{2 \times 2}{5 \times 2}, \quad 1.5, \quad \dfrac{2 \times 5}{5}, \quad 2.3 \\\\
+&= \dfrac{4}{10}, \quad 1.5, \quad \dfrac{\cancel {2} \times 5}{\cancel 5}, \quad 2.3 \\\\
+&= 0.4 < 1.5 < 2 < 2.3
 \end{aligned}
 $
 
 In A, B, C and E the terms are getting bigger.
 
-In D the terms are not getting bigger as $0.6 > \quad 0.5$.
+In D, the terms are not getting bigger as $0.6 > 0.5$.
 
 </div>
 </div>
@@ -1158,7 +1174,7 @@ $\text{D}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1193,24 +1209,15 @@ What is the largest number he can get?
 <div class='workings'>
 <div class='working'>
 
-Let's put them in ascending order now.
+To get the largest number, Frank needs to choose the biggest number as
+the numerator and the smallest number as the denominator.
 
 $
 \begin{aligned}
-&= 8 , \quad   16 , \quad   10 , \quad   12 \\\\
-&= 16 , \quad   12 , \quad   10 , \quad   8
-\end{aligned}
-$
-
-To get the largest number, Frank needs to choose highest number as numerstor and lowest number as denominator.
-
-$
-\begin{aligned}
-&= \dfrac {\text {Highest number}} {\text {Lowest number}} \\\\
-&= \dfrac {16} {8} \\\\
-&= \dfrac {8 \times 2} {8} \\\\
-&= \dfrac {\cancel {8} \times 2} {\cancel {8}} \\\\
-&= 2
+\text{Number}   &= \dfrac {16} {8} \\\\
+                &= \dfrac {8 \times 2} {8} \\\\
+                &= \dfrac {\cancel {8} \times 2} {\cancel {8}} \\\\
+                &= 2
 \end{aligned}
 $
 
@@ -1236,24 +1243,15 @@ What is the smallest result?
 <div class='workings'>
 <div class='working'>
 
-Let's put them in ascending order now.
+To get the smallest number, Frank needs to choose the smallest number as
+the numerator and the biggest number as the denominator.
 
 $
 \begin{aligned}
-&= 8 , \quad   16 , \quad   10 , \quad   12 \\\\
-&= 8 , \quad   10 , \quad   12 , \quad   16
-\end{aligned}
-$
-
-To get the smallest number, Frank needs to choose lowest number as numerator and highest number as denominator.
-
-$
-\begin{aligned}
-&= \dfrac {\text {Lowest number}} {\text {Highest number}} \\\\
-&= \dfrac {8} {16} \\\\
-&= \dfrac {8} {8 \times 2} \\\\
-&= \dfrac {\cancel {8}} {\cancel {8} \times 2} \\\\
-&= \dfrac {1} {2}
+\text{Number}   &= \dfrac {8} {16} \\\\
+                &= \dfrac {8} {8 \times 2} \\\\
+                &= \dfrac {\cancel {8}} {\cancel {8} \times 2} \\\\
+                &= \dfrac {1} {2}
 \end{aligned}
 $
 
@@ -1356,7 +1354,7 @@ $0.056,  \quad 0.506,  \quad 0.56,  \quad 0.605,  \quad 0.65$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1392,7 +1390,6 @@ Write $0.2$ as a fraction in its lowest terms.
 $
 \begin{aligned}
 &= 0.2 \\\\
-&= \dfrac {0.2 \times 10} {1 \times 10} \\\\
 &= \dfrac {2} {10} \\\\
 &= \dfrac {2} {2 \times 5} \\\\
 &= \dfrac {\cancel {2}} {\cancel {2} \times 5} \\\\
@@ -1459,7 +1456,7 @@ $0.3 , \quad \dfrac {8} {25} , \quad 33\% , \quad \dfrac{1}{3}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1600,7 +1597,7 @@ Smallest $= 0.087$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

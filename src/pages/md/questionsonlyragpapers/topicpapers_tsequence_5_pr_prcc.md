@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tsequence-5-pr-prcc"
 title: "TopicPaper - Sequence - 5 - PR - PRCC"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "24"
 ---
 <ul class='question default-decimal'>
@@ -169,7 +169,7 @@ From the numbers written above, write down
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
 <div class='question subsubquestion'>
 
-a mulliple of five
+a multiple of five
 
 </div>
 

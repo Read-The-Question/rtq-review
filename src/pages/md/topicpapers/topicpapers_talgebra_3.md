@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-3"
 title: "TopicPaper - Algebra - 3"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "40"
 ---
 <div class='paper'>
@@ -152,8 +152,6 @@ The first one is done for you.
 ![city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-6-02.png](/assets/city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-6-02.png "city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-6-02.png")
 
 ![city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-6-03.png](/assets/city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-6-03.png "city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-6-03.png")
-
-![city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-6-04.png](/assets/city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-6-04.png "city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-6-04.png")
 
 </div>
 <div class='workings'>

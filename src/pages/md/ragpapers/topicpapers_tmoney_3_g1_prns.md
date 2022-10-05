@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-3-g1-prns"
 title: "TopicPaper - Money - 3 - G1 - PRNS"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "12"
 ---
 <ul class='question default-decimal'>
@@ -709,8 +709,6 @@ $\pounds 1.20$
 <div class='question question'>
 
 Look at the menu below:
-
-![royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-1-00.png](/assets/royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-1-00.png "royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-1-00.png")   ![royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-1-01.png](/assets/royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-1-01.png "royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-1-01.png")
 
 |     Tea     |  $60 \text{p}$ |
 |:-----------:|:--------------:|

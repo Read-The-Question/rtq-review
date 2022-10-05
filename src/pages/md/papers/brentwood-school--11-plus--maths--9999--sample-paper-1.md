@@ -1,7 +1,7 @@
 ---
 slug: "papers/brentwood-school-11-plus-maths-9999-sample-paper-1"
 title: "Brentwood School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "28"
 ---
 <div class='paper'>
@@ -260,8 +260,7 @@ Let's arrange the lengths in ascending order.
 $
 \begin{aligned}
 \text{Lengths}          &= 1.2, \quad 1.02, \quad 1.202, \quad 1.22, \quad 1.022 \\\\
-\text{Ordered lengths}  &= 1.02, \quad 1.022, \quad \maroonC
-{1.2}, \quad 1.202, \quad 1.22 \\\\
+\text{Ordered lengths}  &= 1.02, \quad 1.022, \quad \maroonC{1.2}, \quad 1.202, \quad 1.22 \\\\
 \text{Median}           &= 1.2 \ \text{cm}
 \end{aligned}
 $
@@ -415,15 +414,13 @@ $\dfrac {7} {32}$
 
 The lengths of four of the Henry Potter films are as follows:
 
-Henry Potter and the Philosopher’s Loan  $143 \ \text{minutes}$
+| Henry Potter and the Philosopher’s Loan  | $143$ minutes  |
+|:----------------------------------------:|:--------------:|
+| Henry Potter and the Pizza of Azkaban    | $158$ minutes  |
+| Henry Potter and the Half Asleep Prince  | $144$ minutes  |
+| Henry Potter and the Dodgy Shadows       | $135$ minutes  |
 
-Henry Potter and the Pizza of Azkaban   $158 \ \text{minutes}$
-
-Henry Potter and the Half Asleep Prince  $144 \ \text{minutes}$
-
-Henry Potter and the Dodgy Shadows  $135 \ \text{minutes}$
-
-Find the *total* length of all four films, giving your answer in hours and minutes.
+Find the total length of all four films, giving your answer in hours and minutes.
 
 </div>
 <div class='workings'>
@@ -586,7 +583,7 @@ $1 \dfrac {20} {21}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -630,18 +627,12 @@ The next term is calculated by adding $6$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}  \\
+&   \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}  \\
 11,  &&    17,  &&  23,  &&   29,  &&   35, && \ldots , && \ldots
 \end{matrix}
 $
@@ -692,18 +683,12 @@ The next term is calculated by subtracting $8$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-8)}}
-&&  \footnotesize{\maroonC
-{(-8)}}
-&&  \footnotesize{\maroonC
-{(-8)}}
-&&  \footnotesize{\maroonC
-{(-8)}}
-&&  \footnotesize{\maroonC
-{(-8)}}
-&&  \footnotesize{\maroonC
-{(-8)}}  \\
+&   \footnotesize{\maroonC{(-8)}}
+&&  \footnotesize{\maroonC{(-8)}}
+&&  \footnotesize{\maroonC{(-8)}}
+&&  \footnotesize{\maroonC{(-8)}}
+&&  \footnotesize{\maroonC{(-8)}}
+&&  \footnotesize{\maroonC{(-8)}}  \\
 108,  &&    100,  &&  92,  &&   84,  &&   76, && \ldots , && \ldots
 \end{matrix}
 $
@@ -752,18 +737,12 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+7)}}
-&&  \footnotesize{\maroonC
-{(+9)}}
-&&  \footnotesize{\maroonC
-{(+11)}}
-&&  \footnotesize{\maroonC
-{(+13)}}  \\
+&   \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(+7)}}
+&&  \footnotesize{\maroonC{(+9)}}
+&&  \footnotesize{\maroonC{(+11)}}
+&&  \footnotesize{\maroonC{(+13)}}  \\
 4,  &&   7,  &&  12,  &&   19,  &&   28, && \ldots , && \ldots
 \end{matrix}
 $
@@ -1334,7 +1313,7 @@ $52$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Write the number nine hundred ninety thousand nine hundred and ninety nine in figures.
+Write the number ninety nine thousand ninety nine hundred and ninety nine in figures.
 
 </div>
 <div class='workings'>
@@ -1816,7 +1795,7 @@ KATHRYNKATHRYNKA...
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the $17 \text{th}$ letter?
+What is the $17^\text{th}$ letter?
 
 </div>
 <div class='workings'>
@@ -1847,7 +1826,7 @@ T
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the $47 \text{th}$ letter?
+What is the $47^\text{th}$ letter?
 
 </div>
 <div class='workings'>
@@ -1878,7 +1857,7 @@ R
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the $141 \text{st}$ letter?
+What is the $141^\text{st}$ letter?
 
 </div>
 <div class='workings'>
@@ -1914,7 +1893,7 @@ K
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Which is greater $90 \%$ of $10 \%$ of $300$ or $80 \%$ of $20 \%$ of $200$? 
+Which is greater $90 \%$ of $10 \%$ of $300$ or $80 \%$ of $20 \%$ of $200?$ 
 
 You must show calculations to explain your answer.
 

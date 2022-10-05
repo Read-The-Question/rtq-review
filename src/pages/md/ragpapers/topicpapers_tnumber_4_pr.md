@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-4-pr"
 title: "TopicPaper - Number - 4 - PR"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "7"
 ---
 <ul class='question default-decimal'>
@@ -11,7 +11,7 @@ questions_count: "7"
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-If you add up the digits of $14$ you get $5$ i.e. $1 + 4 = 5$. **How many** $2$ -digit numbers are there altogether (including $14$) which add up to a *multiple* of $5$?
+If you add up the digits of $14$ you get $5$ i.e. $1 + 4 = 5$. How many $2$-digit numbers are there altogether (including $14$) which add up to a multiple of $5?$
 
 </div>
 <div class='workings'>
@@ -46,7 +46,7 @@ $18$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-$ \approx$ means approximately equal to. Given that $1\ \text{kilogram (kg)}$  $ \approx$ 2·2\ \text{pounds (lb)}$, convert $154\ \text{lb}$ to $\text{kg}$.
+$\approx$ means approximately equal to. Given that $1\ \text{kilogram (kg)} \approx 2·2\ \text{pounds (lb)}$, convert $154\ \text{lb}$ to $\text{kg}$.
 
 </div>
 <div class='workings'>
@@ -100,7 +100,7 @@ $4^3 = \ldots $
 
 $\dfrac{240}{300}$ in its simplest form is $ \ldots $
 
-$25\% of 68 = \ldots $ 
+$25\%$ of $68 = \ldots $ 
 
 $43 \times 38 = \ldots $ 
 
@@ -153,7 +153,7 @@ $27400, 169, 7, 5, 64, 0.8, 1634$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-$\huge{\bold{20, 21, 22, 23, 24, 25, 26, 27, 28,}}$ 
+$20, 21, 22, 23, 24, 25, 26, 27, 28,$ 
 
 Write one number from $20$ to $30$ that satisfies the descriptions below. Some numbers are used more than once. 
 
@@ -177,7 +177,7 @@ Write one number from $20$ to $30$ that satisfies the descriptions below. Some n
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$\underline{Prime}?$
+Prime?
 
 </div>
 <div class='workings'>
@@ -201,7 +201,7 @@ $23$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$\underline{Cube\:\: numbers}?$
+Cube numbers?
 
 </div>
 <div class='workings'>
@@ -235,7 +235,7 @@ $27$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$\underline{Square\:\: numbers}?$
+Square numbers?
 
 </div>
 <div class='workings'>
@@ -269,9 +269,9 @@ $25$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$\underline{Fibonacci\:\: numbers}$?
+Fibonacci numbers?
 
-*The Fibonacci numbers follow the sequence 1, 1, 2, 3, 5, 8, 13...*
+The Fibonacci numbers follow the sequence $1, 1, 2, 3, 5, 8, 13 \ldots $
 
 </div>
 <div class='workings'>
@@ -295,9 +295,9 @@ $21$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$\underline{Triangular\:\: numbers}?$
+Triangular numbers?
 
-*The triangular numbers follow the sequence 1, 3, 6, 10, 15,* ...
+The triangular numbers follow the sequence $1, 3, 6, 10, 15, \ldots $
 
 </div>
 <div class='workings'>
@@ -326,7 +326,7 @@ $21, 28$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$\underline{Perfect\:\: numbers}?$
+Perfect numbers?
 
 A perfect number is a number whose factors (not including itself) add up to itself. 
 
@@ -364,9 +364,9 @@ $28$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$\underline{Powerful\:\: numbers}?$
+Powerful numbers?
 
-A powerful number has the property that for **every** prime number which divides into it, that **prime** number squared also divides into it.
+A powerful number has the property that for every prime number which divides into it, that prime number squared also divides into it.
 
 e.g. $16$ is a powerful number because both $2$ and $2^2$ are factors.
 

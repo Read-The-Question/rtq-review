@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tfraction-2-pr-prpcr"
 title: "TopicPaper - Fraction - 2 - PR - PRPCR"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "15"
 ---
 <ul class='question default-decimal'>
@@ -201,6 +201,7 @@ How much of this square is shaded? Write your answer as a **decimal**.
 The figure shows two identical overlapping triangles. Four-ninths of **each** triangle is shaded.
 What fraction of the **whole** figure is shaded?
 
+![king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-1-00.png](/assets/king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-1-00.png "king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-1-00.png")
 
 </div>
 

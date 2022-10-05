@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2016-sample-paper-3"
 title: "Csse - 11 Plus - Maths - 2016 - Sample Paper 3"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "13"
 ---
 <div class='paper'>
@@ -14,7 +14,7 @@ questions_count: "13"
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -53,16 +53,11 @@ As per the question, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(\div 10)} }
-&&  \footnotesize {\maroonC
- {(\div 10)} }
-&&  \footnotesize {\maroonC
- {(\div 10)} }
-&&  \footnotesize {\maroonC
- {(\div 10)} }
-&&  \footnotesize {\maroonC
- {(\div 10)} }  \\
+&   \footnotesize {\maroonC {(\div 10)} }
+&&  \footnotesize {\maroonC {(\div 10)} }
+&&  \footnotesize {\maroonC {(\div 10)} }
+&&  \footnotesize {\maroonC {(\div 10)} }
+&&  \footnotesize {\maroonC {(\div 10)} }  \\
 \ldots,  &&    7020,  &&  702,  &&   \ldots, && 7.02,  &&  \ldots
 \end{matrix}
 $
@@ -116,12 +111,9 @@ As per the question, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(\times 20)} }
-&&  \footnotesize {\maroonC
- {(\times 20)} }
-&&  \footnotesize {\maroonC
- {(\times 20)} }  \\
+&   \footnotesize {\maroonC {(\times 20)} }
+&&  \footnotesize {\maroonC {(\times 20)} }
+&&  \footnotesize {\maroonC {(\times 20)} }  \\
 \ldots,  &&    0.64,  &&  12.8,  &&  \ldots
 \end{matrix}
 $
@@ -168,16 +160,11 @@ As per the question, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(- \dfrac {1} {4})} }
-&&  \footnotesize {\maroonC
- {(- \dfrac {1} {4})} }
-&&  \footnotesize {\maroonC
- {(- \dfrac {1} {4})} }
-&&  \footnotesize {\maroonC
- {(- \dfrac {1} {4})} }
-&&  \footnotesize {\maroonC
- {(- \dfrac {1} {4})} }  \\
+&   \footnotesize {\maroonC {(- \dfrac {1} {4})} }
+&&  \footnotesize {\maroonC {(- \dfrac {1} {4})} }
+&&  \footnotesize {\maroonC {(- \dfrac {1} {4})} }
+&&  \footnotesize {\maroonC {(- \dfrac {1} {4})} }
+&&  \footnotesize {\maroonC {(- \dfrac {1} {4})} }  \\
 \ldots,  &&    \dfrac {3} {4},  && \dfrac {1} {2},  &&   \dfrac {1} {4}, &&  \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -232,12 +219,9 @@ As per the question, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+ \dfrac {1} {6})} }
-&&  \footnotesize {\maroonC
- {(+ \dfrac {1} {6})} }
-&&  \footnotesize {\maroonC
- {(+ \dfrac {1} {6})} }  \\
+&   \footnotesize {\maroonC {(+ \dfrac {1} {6})} }
+&&  \footnotesize {\maroonC {(+ \dfrac {1} {6})} }
+&&  \footnotesize {\maroonC {(+ \dfrac {1} {6})} }  \\
 \dfrac {2} {3},  && \ldots,  &&   \ldots, &&  1 \dfrac {1} {6}
 \end{matrix}
 $
@@ -288,14 +272,10 @@ As per the question, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(\div 3)} }
-&&  \footnotesize {\maroonC
- {(\div 3)} }
-&&  \footnotesize {\maroonC
- {(\div 3)} }
-&&  \footnotesize {\maroonC
- {(\div 3)} }  \\
+&   \footnotesize {\maroonC {(\div 3)} }
+&&  \footnotesize {\maroonC {(\div 3)} }
+&&  \footnotesize {\maroonC {(\div 3)} }
+&&  \footnotesize {\maroonC {(\div 3)} }  \\
 18,  &&    6,  &&    2,  &&   \ldots, &&  \ldots
 \end{matrix}
 $
@@ -523,7 +503,10 @@ A magic square is a grid of nine numbers arranged so that every row, every colum
 
 For example:
 
-![csse--11-plus--maths--2016--sample-paper-3/section-1-question-3-00.png](/assets/csse--11-plus--maths--2016--sample-paper-3/section-1-question-3-00.png "csse--11-plus--maths--2016--sample-paper-3/section-1-question-3-00.png")
+| $6$ | $1$ | $8$ |
+|:---:|:---:|:---:|
+| $7$ | $5$ | $3$ |
+| $2$ | $9$ | $4$ |
 
 In this magic square, each row, each column and each of the diagonals add to $15$.
 
@@ -559,7 +542,10 @@ TODOANSWER
 
 Insert the correct number in two empty positions to complete this magic square.
 
-![csse--11-plus--maths--2016--sample-paper-3/section-1-question-3-subquestion-1-00.png](/assets/csse--11-plus--maths--2016--sample-paper-3/section-1-question-3-subquestion-1-00.png "csse--11-plus--maths--2016--sample-paper-3/section-1-question-3-subquestion-1-00.png")
+|  $5$ | $4$ |  $9$ |
+|:----:|:---:|:----:|
+| $10$ |     |  $2$ |
+|      | $8$ |  $7$ |
 
 </div>
 <div class='workings'>
@@ -593,9 +579,12 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Insert the correct number in the two **unshaded** positions to part complete this magic square.
+Insert the correct number in the two unshaded positions to part complete this magic square.
 
-![csse--11-plus--maths--2016--sample-paper-3/section-1-question-3-subquestion-2-00.png](/assets/csse--11-plus--maths--2016--sample-paper-3/section-1-question-3-subquestion-2-00.png "csse--11-plus--maths--2016--sample-paper-3/section-1-question-3-subquestion-2-00.png")
+|  $5$ |     |  $7$  |
+|:----:|:---:|:-----:|
+|      | $8$ |       |
+|      |     |  $11$ |
 
 </div>
 <div class='workings'>
@@ -656,7 +645,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the value of $11^2$?
+What is the value of $11^2?$
 
 </div>
 <div class='workings'>
@@ -716,7 +705,7 @@ $169$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-How many square numbers are there between $101$ and $200$?
+How many square numbers are there between $101$ and $200?$
 
 </div>
 <div class='workings'>
@@ -745,7 +734,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -778,7 +767,29 @@ What is the angle between the hour hand and the minute hand of a clock, at $3 \ 
 <div class='workings'>
 <div class='working'>
 
-$90 \degree$
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
+
+
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 15 \ \text{minutes} \\\\
+\text {Angle}                           &= 15 \times 6 \\\\
+                                        &= 90 \degree
+\end {aligned}
+$
 
 </div>
 </div>
@@ -802,7 +813,31 @@ Through how many degrees does the hour hand of a clock turn betweeb noon and $5 
 <div class='workings'>
 <div class='working'>
 
-$150 \degree$
+ABBR: The hour hand of a clock moves by $30 \degree$ every hour.
+
+
+ABBR: The hour hand of a clock moves by $0.5 \degree$ every minute.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Total minutes}   &= 12{:}00 \ \text{pm} -  5{:}00 \ \text{pm} \\\\
+                        &= 5 \times 60  \ \text{minutes} \\\\
+                        &= 300 \ \text{minutes} \\\\
+\text {Angle moved}     &= 300 \times 0.5 \\\\
+                        &= 150 \degree
+\end {aligned}
+$
 
 </div>
 </div>
@@ -826,7 +861,20 @@ Through how many degrees does the minute hand of a clock turn between $0900$ and
 <div class='workings'>
 <div class='working'>
 
-$270 \degree$
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
+
+
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+$
+\begin {aligned}
+\text {Total minutes}   &= 9{:}45 \ \text{am} -  9{:}00 \ \text{am} \\\\
+                        &= 45 \ \text{minutes} \\\\
+\text {Angle moved}     &= 45 \times 6 \\\\
+                        &= 270 \degree
+\end {aligned}
+$
 
 </div>
 </div>
@@ -1101,7 +1149,7 @@ $3 \ \text {m}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the perimeter of the worktop? Give your answer in metre $(\text{m})$.
+What is the perimeter of the worktop? Give your answer in metres $(\text{m})$.
 
 </div>
 <div class='workings'>
@@ -1179,14 +1227,14 @@ Ola is planning to complete a sponsored run for Red Nose Day.
 
 He collected a number of different promises, from his family, on his sponsor form.
 
-|    Mum    |                                             $50 \ \text{p}$ per completed mile                                             |
+|    Mum    |                                             $50 \text{p}$ per completed mile                                               |
 |:---------:|:--------------------------------------------------------------------------------------------------------------------------:|
-|    Dad    |                                     $ \pounds \ 5$ plus $25 \ \text{p}$ per completed mile                                     |
-|    Nan    |                                                       $ \pounds \ 10$                                                      |
-|  Grandad  | $10 \ \text{p}$ for the first mile, $20 \ \text{p}$ for the second mile, $30 \ \text{p}$ for the third mile, and so on ... |
-| Uncle Jay |                                                       $\pounds \ 15$                                                       |
+|    Dad    |                                     $ \pounds 5$ plus $25 \text{p}$ per completed mile                                     |
+|    Nan    |                                                       $ \pounds 10$                                                        |
+|  Grandad  | $10 \text{p}$ for the first mile, $20 \text{p}$ for the second mile, $30 \text{p}$ for the third mile, and so on $ \ldots $|
+| Uncle Jay |                                                       $\pounds 15$                                                         |
 
-He hopes to complete *either* $8$ or $10 \ \text{miles}$.
+He hopes to complete either $8$ or $10 \ \text{miles}$.
 
 </div>
 <div class='workings'>
@@ -1309,7 +1357,7 @@ $\pounds 39.60$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-How much **extra** will Ola collect, in total, if he completes the extra $2 \ \text{miles}$ and runs $10 \ \text{miles}$ (rather than $8 \ \text{miles}$)?
+How much extra will Ola collect, in total, if he completes the extra $2 \ \text{miles}$ and runs $10 \ \text{miles}$ (rather than $8 \ \text{miles}$)?
 
 </div>
 <div class='workings'>
@@ -1360,12 +1408,12 @@ $\pounds 3.40$
 
 Sasha is selling greetings cards and gifts for Mothers' Day.
 
-|   Medium card & envelope  | $\pounds \ 1.79$ |
-|:-------------------------:|:----------------:|
-|   Large card & envelope   | $\pounds \ 2.59$ |
-| Small chocolate selection | $\pounds \ 1.49$ |
-|    Dried flower (bunch)   | $\pounds \ 3.65$ |
-|     Candles in holder     | $\pounds \ 5.49$ |
+|   Medium card & envelope  | $\pounds 1.79$ |
+|:-------------------------:|:--------------:|
+|   Large card & envelope   | $\pounds 2.59$ |
+| Small chocolate selection | $\pounds 1.49$ |
+|    Dried flower (bunch)   | $\pounds 3.65$ |
+|     Candles in holder     | $\pounds 5.49$ |
 
 
 </div>
@@ -1419,7 +1467,7 @@ $\pounds 9.57$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-How much change would be needed, from a $\pounds \ 10$ note, if Sasha sells a medium card & envelope with a bunch of dried flowers?
+How much change would be needed, from a $\pounds 10$ note, if Sasha sells a medium card & envelope with a bunch of dried flowers?
 
 </div>
 <div class='workings'>
@@ -1451,10 +1499,10 @@ $\pounds 4.56$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Sasha is asked for an itemised receipt for a bill of $\pounds \ 7.73$. 
-He knew that three items, bought tor=gether, have that total price.
+Sasha is asked for an itemised receipt for a bill of $\pounds 7.73$. 
+He knew that three items, bought together, have that total price.
 
-Which three prices total $\pounds \ 7.73$?
+Which three prices total $\pounds 7.73?$
 
 </div>
 <div class='workings'>
@@ -1497,7 +1545,7 @@ $\pounds 3.65$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1592,10 +1640,14 @@ ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 $
 \begin{aligned}
-\text{Time}   &= \dfrac{15 \text{ km}}{60 \text{ km/h}} \\\\
-              &= \dfrac{15 \text{ km}}{\dfrac{60}{60} \text{ km/min}} \\\\
-              &= \dfrac{15}{\dfrac{60}{60}} \\\\
-              &= \dfrac{15}{\dfrac{\cancel{60}}{\cancel{60}}} \\\\
+\text{Time}   &= \dfrac{15}{60} \\\\
+              &= \dfrac{15}{15 \times 4} \\\\
+              &= \dfrac{\cancel{15}}{\cancel{15} \times 4} \\\\
+              &= \dfrac{1}{4} \text{ hours} \\\\
+              &= 60 \times \dfrac{1}{4} \text{ minutes} \\\\
+              &= \dfrac{60}{4} \\\\
+              &= \dfrac{15 \times 4}{4} \\\\
+              &= \dfrac{15 \times \cancel{4}}{\cancel{4}} \\\\
               &= 15 \text{ minutes}
 \end{aligned}
 $
@@ -1627,12 +1679,14 @@ ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 $
 \begin{aligned}
-\text{Time}   &= \dfrac{45 \text{ km}}{90 \text{ km/h}} \\\\
-              &= \dfrac{45 \text{ km}}{\dfrac{90}{60} \text{ km/min}} \\\\
-              &= \dfrac{45}{\dfrac{90}{60}} \\\\
-              &= \dfrac{45 \times 60}{90} \\\\
-              &= \dfrac{45 \times 30 \times 2}{45 \times 2} \\\\
-              &= \dfrac{\cancel{45} \times 30 \times \cancel{2}}{\cancel{45} \times \cancel{2}} \\\\
+\text{Time}   &= \dfrac{45}{90} \\\\
+              &= \dfrac{45}{45 \times 2} \\\\
+              &= \dfrac{\cancel{45}}{\cancel{45} \times 2} \\\\
+              &= \dfrac{1}{2} \text{ hours} \\\\
+              &= 60 \times \dfrac{1}{2} \text{ minutes} \\\\
+              &= \dfrac{60}{2} \\\\
+              &= \dfrac{30 \times 2}{2} \\\\
+              &= \dfrac{30 \times \cancel{2}}{\cancel{2}} \\\\
               &= 30 \text{ minutes}
 \end{aligned}
 $
@@ -1664,25 +1718,20 @@ ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 $
 \begin{aligned}
-\text{Distance of main road}  &=  15 + 60 + 30 \\\\
-                              &=  105 \text{ km} \\\\
-\text{Distance of minor road} &=  15 \text{ km}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Time taken to cross main road}   &= \dfrac{105 \text{ km}}{60 \text{ km/h}} \\\\
-                                       &= \dfrac{105 \text{ km}}{\dfrac{60}{60} \text{ km/min}} \\\\
-                                       &= \dfrac{105}{\dfrac{60}{60}} \\\\
-                                       &= \dfrac{105}{\dfrac{\cancel{60}}{\cancel{60}}} \\\\
+\text{Time taken to cross main road}   &= \dfrac{15 + 60 + 30}{60} \\\\
+                                       &= \dfrac{105}{60} \text{ hours} \\\\
+                                       &= 60 \times \dfrac{105}{60} \text{ minutes} \\\\
+                                       &= \dfrac{60 \times 105}{60} \\\\
+                                       &= \dfrac{\cancel{60} \times 105}{\cancel{60}} \\\\
                                        &= 105 \text{ minutes} \\\\
-\text{Time taken to cross minor road}  &= \dfrac{15 \text{ km}}{45 \text{ km/h}} \\\\
-                                       &= \dfrac{15 \text{ km}}{\dfrac{45}{60} \text{ km/min}} \\\\
-                                       &= \dfrac{15}{\dfrac{45}{60}} \\\\
-                                       &= \dfrac{15 \times 60}{45} \\\\
-                                       &= \dfrac{15 \times 20 \times 3}{15 \times 3} \\\\
-                                       &= \dfrac{\cancel{15} \times 20 \times \cancel{3}}{\cancel{15} \times \cancel{3}} \\\\
+\text{Time taken to cross minor road}  &= \dfrac{15}{45} \\\\
+                                       &= \dfrac{15}{15 \times 3} \\\\
+                                       &= \dfrac{\cancel{15}}{\cancel{15} \times 3} \\\\
+                                       &= \dfrac{1}{3} \text{ hours} \\\\
+                                       &= 60 \times \dfrac{1}{3} \text{ minutes} \\\\
+                                       &= \dfrac{60}{3} \\\\
+                                       &= \dfrac{20 \times 3}{3} \\\\
+                                       &= \dfrac{20 \times \cancel{3}}{\cancel{3}} \\\\
                                        &= 20 \text{ minutes} \\\\
 \text{Total time taken}                &= 105 + 20 \\\\
                                        &= 125 \text{ minutes} \\\\
@@ -1761,7 +1810,7 @@ $7$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-At what clock time does the tide drop below $4 \ \text{metres}$?
+At what clock time does the tide drop below $4 \ \text{metres}?$
 
 </div>
 <div class='workings'>
@@ -1785,7 +1834,7 @@ $19 \ \text{hours}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-For how many hours is the tide above $6 \ \text{metres}$?
+For how many hours is the tide above $6 \ \text{metres}?$
 
 </div>
 <div class='workings'>
@@ -1814,7 +1863,7 @@ $9 \ \text{hours}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1839,7 +1888,7 @@ How many edges in total does a cube have?
 <div class='workings'>
 <div class='working'>
 
-A cube has 12 edges.
+$12$ edges.
 
 </div>
 </div>
@@ -1866,7 +1915,7 @@ What is the least distance the ant must travel to crawl from $A$ to $B$, along t
 $
 \begin{aligned}
 \text{Least distance}  &= 10 + 10 + 10 \\\\
-                       &= 30 \text{ cm} \\\\
+                       &= 30 \text{ cm}
 \end{aligned}
 $
 
@@ -1892,6 +1941,18 @@ How many different routes does the ant choose from?
 </div>
 <div class='workings'>
 <div class='working'>
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Draw the four possible different routes that the ant can choose from.
+
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 There are $4$ different routes the ant can choose from.
 

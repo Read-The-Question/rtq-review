@@ -1,8 +1,8 @@
 ---
 slug: "ragpapers/topicpapers-ttable-1-g2"
 title: "TopicPaper - Table - 1 - G2"
-date: 2022-09-24 04:59:20
-questions_count: "2"
+date: 2022-10-04 10:03:20
+questions_count: "1"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,77 +11,34 @@ questions_count: "2"
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-This diagram shows the reults of a class survey concerning pets.
+The chart below shows the languages studied by a group of students.
 
-|                               | Boys  | Girls         | Total         |
-|:---------------------:        |:----: |:-----:        |:-----:        |
-| Have at least $1$ pet         | $11$  |               |               |
-|      Have no pets             |       |  $8$          |               |
-|         Total                 | $16$  |               |  $30$         |
+|           | History | Geography | Classics | **TOTAL** |
+|:---------:|:-------:|:---------:|:--------:|:---------:|
+| Boys      | $28$    |           | $8$      | $50$      |
+| Girls     |         | $19$      |          |           |
+| **TOTAL** | $35$    |           | $29$     |           |
 
-How many children have at least one pet?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's complete the table.
-
-|                               |      Boys                            |        Girls                         |      Total                           |
-|:-----------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|
-| Have at least $1$ pet         |      $11$                            |    $14 - 8 = 6 \ \footnotesize{(3)}$ |  $11 + 6 = 17  \ \footnotesize{(4)}$ |
-|      Have no pets             | $16 - 11 = 5 \ \footnotesize{(2)}$   |         $8$                          | $30 - 17 = 13  \ \footnotesize{(5)}$ |
-|         Total                 |      $16$                            | $30 - 16 = 14 \ \footnotesize{(1)}$  |      $30$                            |
-
-Children with atleast $1$ pet $= 17$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$17$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g2 rag_prns question'>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
-The table shows information about some goal scorers across $3$ football leagues:
-
-
-<!--
-**Name**            ,**League**     ,**Goals**  ,**Matches**
-Iago Aspas          ,Spanish        ,19         ,32 
-Timo Werner         ,German         ,21         ,31 
-Romelu Lukaku       ,English        ,25         ,37 
-Dele Alli           ,English        ,18         ,37 
-Anthony Modeste     ,German         ,25         ,34 
-Cristiano Ronaldo   ,Spanish        ,26         ,29
--->
-
-|      **Name**         | **League**     | **Goals**     | **Matches**     |
-|:-----------------:    |:----------:    |:---------:    |:-----------:    |
-|     Iago Aspas        |   Spanish      |     19        |      32         |
-|    Timo Werner        |   German       |     21        |      31         |
-|   Romelu Lukaku       |   English      |     25        |      37         |
-|     Dele Alli         |   English      |     18        |      37         |
-|  Anthony Modeste      |   German       |     25        |      34         |
-| Cristiano Ronaldo     |   Spanish      |     26        |      29         |
-
-**From the players listed here**,
+Complete the chart above.
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-%empty%
+|           | History                            | Geography                               | Classics                           | **TOTAL**                               |
+|:---------:|:-------:                           |:---------:                              |:--------:                          |:---------:                              |
+| Boys      | $28$                               | $\green{50 - 28 - 8 = 14} \ \maroonC{\footnotesize{(3)}}$ | $8$                                | $50$                                    |
+| Girls     | $\green{35 - 28 = 7} \ \maroonC{\footnotesize{(1)}}$ | $19$                                    | $\green{29 - 8 = 21} \ \maroonC{\footnotesize{(2)}}$ | $\green{7 + 19 + 21 = 47} \ \maroonC{\footnotesize{(5)}}$ |
+| **TOTAL** | $35$                               | $\green{19 + 14 = 33} \ \maroonC{\footnotesize{(4)}}$     | $29$                               | $\green{50 + 47 = 97} \ \maroonC{\footnotesize{(6)}}$     |
+
+
+Completed table:
+
+|           | History                            | Geography                               | Classics                           | **TOTAL**                               |
+|:---------:|:-------:                           |:---------:                              |:--------:                          |:---------:                              |
+| Boys      | $28$                               | $14$                                    | $8$                                | $50$                                    |
+| Girls     | $7$                                | $19$                                    | $21$                               | $47$                                    |
+| **TOTAL** | $35$                               | $33$                                    | $29$                               | $97$                                    |
 
 </div>
 </div>
@@ -92,86 +49,7 @@ Cristiano Ronaldo   ,Spanish        ,26         ,29
 
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
 
-which player scored the most goals?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Cristiano Ronaldo
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-Cristiano Ronaldo
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-which league did the player who scored the least goals play in?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-English
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-English
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-which league had the most goals scored in it by these players?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-|  League       |      Goals            |
-|:-------:      |:--------------:       |
-| Spanish       | $19 + 26 = 45$        |
-|  German       | $21 + 25 = 46$        |
-| English       | $25 + 18 = 43$        |
-
-Most goals = German
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-German
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
 </div>
 </li>
 </ul>

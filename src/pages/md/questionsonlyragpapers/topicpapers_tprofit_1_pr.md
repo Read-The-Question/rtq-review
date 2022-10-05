@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tprofit-1-pr"
 title: "TopicPaper - Profit - 1 - PR"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "32"
 ---
 <ul class='question default-decimal'>
@@ -686,10 +686,20 @@ would be the sale price of a coat that originally cost $\pounds 30$?
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-A tennis racket costs $$\pounds 85$ originally. In a sale it is reduced by $15\%$. What is the sale price?
+%empty%
 
 </div>
 <ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+A tennis racket costs $\pounds 85$ originally. In a sale it is reduced by $15\%$. What is the sale price?
+
+</div>
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>

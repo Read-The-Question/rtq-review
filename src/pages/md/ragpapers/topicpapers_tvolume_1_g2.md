@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tvolume-1-g2"
 title: "TopicPaper - Volume - 1 - G2"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "25"
 ---
 <ul class='question default-decimal'>
@@ -60,13 +60,13 @@ Here are two containers and the amount they hold.
 
 ![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-12-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-12-00.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-12-00.png")
 
-Which container holds the greater amounts?
-- 'A'
-- 'B'
+Which container holds the greater amount?
+- A
+- B
 
-How much **more** does it hold?
+How much more does it hold?
 
-Give your answer in milliletres.
+Give your answer in millilitres.
 
 </div>
 <div class='workings'>
@@ -417,7 +417,7 @@ $3300 \ \text{cm}^3$
 
 A string is tied around the box with a bow at the top as shown in the diagram.
 
-$\bold{If\:\: the\:\: length\:\: of\:\: the\:\: bow\:\: is\:\: 8\ \text{cm}}$, calculate the $\underline{total}$ length of string used.
+If the length of the bow is $8\ \text{cm}$, calculate the total length of string used.
 
 </div>
 <div class='workings'>

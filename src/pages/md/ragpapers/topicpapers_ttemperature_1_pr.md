@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-1-pr"
 title: "TopicPaper - Temperature - 1 - PR"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -69,7 +69,7 @@ The first row is done for you.
 
 The thermometers below show the temperature recorded at midday yesterday and midnight last night.
 
-![city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-00.png](/assets/city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-00.png "city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-00.png")   ![city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-01.png](/assets/city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-01.png "city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-01.png")
+![city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-00.png](/assets/city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-00.png "city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-00.png")
 
 </div>
 
@@ -259,11 +259,7 @@ On the graph above, draw a bar to show this information.
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-![royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-00.png](/assets/royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-00.png "royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-00.png")
-
 In New York it is $23\degree\text{C}$ and in Moscow it is $–5\degree\text{C}$. What is the temperature difference?
-
-![royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-01.png](/assets/royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-01.png "royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-01.png")
 
 </div>
 <div class='workings'>

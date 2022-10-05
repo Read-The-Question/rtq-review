@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2013-sample-paper-4"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "30"
 ---
 <div class='paper'>
@@ -372,7 +372,7 @@ $275$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -383,26 +383,32 @@ $83\% \quad \dfrac{4}{5} \quad \dfrac{1}{3} \quad 0.333 \quad 0.825 \quad 30\% \
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Let's convert all the numbers into decimals.
 
-</div>
-<div class='working placeholder'>
+$
+\begin{aligned}
+&= 83\%, \quad \dfrac{4}{5}, \quad \dfrac{1}{3}, \quad 0.333, \quad 0.825, \quad 30\%, \quad 0.59, \quad 0.29, \quad \dfrac{29}{90} \\\\
+&= 0.83, \quad 0.8, \quad 0.\overline{3}, \quad 0.333, \quad 0.825, \quad 0.3, \quad 0.59, \quad 0.29, \quad 0.3\overline{2}
+\end{aligned}
+$
 
-TODOWORKING
+Smallest number $= 0.29$
+
+Largest number $= 0.83 = 83\%$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+Smallest number $= 0.29$
 
 </div>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+Largest number $= 83\%$
 
 </div>
 </div>
@@ -1216,7 +1222,7 @@ $10$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1336,7 +1342,7 @@ $\dfrac{1}{2} + \dfrac{1}{4} + \dfrac{1}{8} + \dfrac{1}{16} + \dfrac{1}{32} + \d
 $
 \begin{aligned}
 &= \dfrac{1}{2} + \dfrac{1}{4} + \dfrac{1}{8} + \dfrac{1}{16} + \dfrac{1}{32} + \dfrac{1}{64} + \dfrac{1}{128} + \dfrac{1}{256} + \dfrac{1}{512} + \dfrac{1}{1024} \\\\
-&= \dfrac{1 \times 512}{2 \times 512} + \dfrac{1 \times 256}{4 \times 256} + \dfrac{1 \times 128}{8 \times 128} + \dfrac{1 \times 64}{16 \times 64} + \dfrac{1 \times 32}{32 \times 32} + \dfrac{1 \times 16}{64 \times 16} + \dfrac{1 \times 8}{128 \times 8} + \dfrac{1 \times 2}{512 \times 2} + \dfrac{1}{1024} \\\\
+&= \dfrac{1 \times 512}{2 \times 512} + \dfrac{1 \times 256}{4 \times 256} + \dfrac{1 \times 128}{8 \times 128} + \dfrac{1 \times 64}{16 \times 64} + \dfrac{1 \times 32}{32 \times 32} + \dfrac{1 \times 16}{64 \times 16} + \dfrac{1 \times 8}{128 \times 8} + \dfrac{1 \times 4}{256 \times 4} + \dfrac{1 \times 2}{512 \times 2} + \dfrac{1}{1024} \\\\
 &= \dfrac{512}{1024} + \dfrac{256}{1024} + \dfrac{128}{1024} + \dfrac{64}{1024} + \dfrac{32}{1024} + \dfrac{16}{1024} + \dfrac{8}{1024} + \dfrac{4}{1024} + \dfrac{2}{1024} + \dfrac{1}{1024} \\\\
 &= \dfrac{512 + 256 + 128 + 64 + 32 + 16 + 8 + 4 + 2 + 1}{1024} \\\\
 &= \dfrac{1023}{1024}

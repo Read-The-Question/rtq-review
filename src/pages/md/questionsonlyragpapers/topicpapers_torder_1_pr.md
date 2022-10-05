@@ -1,19 +1,19 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-torder-1-pr"
 title: "TopicPaper - Order - 1 - PR"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Write the following fractions in order of size, from smallest to largest:
 
-$\dfrac{2}{3}, \quad \dfrac{5}{6}, \quad \dfrac{7}{12}$
+$\dfrac{2}{3}, \dfrac{5}{6}, \dfrac{7}{12}$
 
 -   $\dfrac{7}{12}, \dfrac{2}{3}, \dfrac{5}{6}$
 
@@ -28,18 +28,19 @@ $\dfrac{2}{3}, \quad \dfrac{5}{6}, \quad \dfrac{7}{12}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Write the following fractions in order of size, from smallest to largest:
-%format% 2 3, 5 6, 7 12
 
-%format% - 7 12, 2 3, 5 6
-%format% - 7 12, 5 6, 2 3
-%format% - 2 3, 7 12, 5 6
-%format% - 5 6, 2 3, 7 12
+$\dfrac{2}{3}, \dfrac{5}{6}, \dfrac{7}{12}$
+
+- $\dfrac{7}{12}, \dfrac{2}{3},  \dfrac{5}{6}$
+- $\dfrac{7}{12}, \dfrac{5}{6},  \dfrac{2}{3}$
+- $\dfrac{2}{3},  \dfrac{7}{12}, \dfrac{5}{6}$
+- $\dfrac{5}{6},  \dfrac{2}{3},  \dfrac{7}{12}$
 
 </div>
 
@@ -60,18 +61,18 @@ $\dfrac{3}{5}\:\:\:  0.58\:\:\: \dfrac{5}{8}\:\:\:  62\% \  0.508$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In this question letters of the alphabet are assigned number values:
 
-$A = 1, B = 2, C = 3, D = 4,$ ....
+A $= 1,$ B $= 2,$ C $= 3,$ D $= 4, \ldots$
 
-The **sum total** of a word is created by **adding** the value of the letters.
+The sum total of a word is created by adding the value of the letters.
 
-For example: the sum total of ‘$HAD$’ $= 8 + 1 + 4 = 13$
+For example: the sum total of ‘HAD’ $= 8 + 1 + 4 = 13$
 
 </div>
 <ul class='subquestion lower-alpha'>
@@ -79,7 +80,7 @@ For example: the sum total of ‘$HAD$’ $= 8 + 1 + 4 = 13$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the sum total of the word ‘$TANK$’?
+What is the sum total of the word ‘TANK’?
 
 </div>
 
@@ -91,7 +92,10 @@ What is the sum total of the word ‘$TANK$’?
 
 List the following words in order of their sum total, starting with the lowest:
 
-$DOG \quad CATS \quad FISH \quad BIRD$
+- DOG
+- CATS
+- FISH
+- BIRD
 
 </div>
 
@@ -101,9 +105,9 @@ $DOG \quad CATS \quad FISH \quad BIRD$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Which single letter has the same value as the result of dividing the sum total for ‘$JET$’ by the sum total of ‘$BAD$’?
+Which single letter has the same value as the result of dividing the sum total for ‘JET’ by the sum total of ‘BAD’?
 
-$JET \div BAD = \ldots$
+JET $\div$ BAD $= \ldots$
 
 </div>
 

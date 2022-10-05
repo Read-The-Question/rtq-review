@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2013-sample-paper-1"
 title: "Bancrofts School - 11 Plus - Maths - 2013 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "36"
 ---
 <div class='paper'>
@@ -482,7 +482,7 @@ $\pounds 14$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -575,12 +575,12 @@ Here is a part of a number line. Write the two missing numbers in the boxes.
 
 $
 \begin{aligned}
-\text{First missing number}  &= 2 - 0.25 - 0.25 \\\\
-                             &= 2 - 0.5 \\\\
-                             &= 1.5 \\\\
-\text{First missing number}  &= 2 + 0.25 + 0.25 \\\\
-                             &= 2 + 0.5 \\\\
-                             &= 2.5
+\text{1} ^ \text{st} \text{ missing number}     &= 2 - \dfrac{1}{4} - \dfrac{1}{4} \\\\
+                                                &= 2 - 0.5 \\\\
+                                                &= 1.5 \\\\
+\text{2} ^ \text{nd} \text{ missing number}     &= 2 + 0.25 + 0.25 \\\\
+                                                &= 2 + 0.5 \\\\
+                                                &= 2.5
 \end{aligned}
 $
 
@@ -683,7 +683,7 @@ $64 \%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -721,7 +721,7 @@ How much change, in pounds, does she get from a $\pounds 10$ note?
 
 $
 \begin{aligned}
-\text{Change she get}       &= 10 - 5.85 - 3.29 \\\\
+\text{Change}               &= 10 - 5.85 - 3.29 \\\\
                             &= 10 - 9.14 \\\\
                             &= \pounds 0.86
 \end{aligned}
@@ -755,25 +755,51 @@ What was the full price of the jeans?
 <div class='workings'>
 <div class='working'>
 
-Let the full price of the jeans $= a$
+Let the full price of the jeans $= p$
+
+Jo got $10 \%$ discount and Aisha got $15 \%$ discount. So Jo paid $15 - 10 = 5 \%$ more of the full price.
 
 As per the question,
 
 $
 \begin{aligned}
-a - 10 \% \ \text{of} \ a                             &= a - 15 \% \ \text{of} \ a + 1.2 \\\\
-a - \dfrac {10} {100} \times a                        &= a - \dfrac {15} {100} \times a + 1.2 \\\\
-a - \dfrac {10a} {100}                                &= a - \dfrac {15a} {100} + 1.2 \\\\
-a - \dfrac {10a} {100} - a + \dfrac {15a} {100}       &= 1.2 \\\\
-a - a + \dfrac {15a} {100} - \dfrac {10a} {100}       &= 1.2 \\\\
-\dfrac {15a - 10a} {100}                              &= 1.2 \\\\
-\dfrac {5a} {100}                                     &= 1.2 \\\\
-a                                                     &= 1.2 \times \dfrac {100} {5} \\\\
-a                                                     &= \dfrac {1.2 \times 100} {5} \\\\
-a                                                     &= \dfrac {1.2 \times 20 \times 5} {5} \\\\
-a                                                     &= \dfrac {1.2 \times 20 \times \cancel 5} {\cancel 5} \\\\
-a                                                     &= 1.2 \times 20 \\\\
-a                                                     &= \pounds 24
+5 \% \ \text{of} \ p        &= 1.20 \\\\
+\dfrac {5} {100} \times p   &= 1.20 \\\\
+p                           &= \dfrac {1.20 \times 100} {5} \\\\
+p                           &= \dfrac {1.20 \times 20 \times 5} {5} \\\\
+p                           &= \dfrac {1.20 \times 20 \times \cancel{5}} {\cancel{5}} \\\\
+p                           &= 1.20 \times 20 \\\\
+p                           &= \pounds 24
+\end{aligned}
+$
+
+Full price of the jeans $= \pounds 24$
+
+</div>
+<div class='working'>
+
+ABBR: $\text {Sale price = Original price} - \text{Discount } \% \times \text{Original price}$
+
+
+ABBR: $\text {Sale price = (100 - Discount})\ \% \times \text{Original price}$
+
+
+Let the full price of the jeans $= p$
+
+As per the question,
+
+$
+\begin{aligned}
+(p - 10 \% \ \text{of} \ p)  - (p - 15 \% \ \text{of} \ p)  &= 1.20 \\\\
+p - 10 \% \ \text{of} \ p  - p + 15 \% \ \text{of} \ p      &= 1.20 \\\\
+15 \% \ \text{of} \ p - 10 \% \ \text{of} \ p               &= 1.20 \\\\
+5 \% \ \text{of} \ p                                        &= 1.20 \\\\
+\dfrac {5} {100} \times p                                   &= 1.20 \\\\
+p                                                           &= \dfrac {1.20 \times 100} {5} \\\\
+p                                                           &= \dfrac {1.20 \times 20 \times 5} {5} \\\\
+p                                                           &= \dfrac {1.20 \times 20 \times \cancel{5}} {\cancel{5}} \\\\
+p                                                           &= 1.20 \times 20 \\\\
+p                                                           &= \pounds 24
 \end{aligned}
 $
 
@@ -2728,7 +2754,7 @@ TODOANSWER
 # Section D
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3488,7 +3514,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

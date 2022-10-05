@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-school-for-girls-11-plus-maths-9999-sample-paper-1"
 title: "City Of London School For Girls - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "36"
 ---
 <div class='paper'>
@@ -747,7 +747,7 @@ $\pounds 7.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -767,14 +767,10 @@ The next term is calculated by adding $\dfrac {3} {4}$ to the previous term. Hen
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+ \dfrac {3} {4})} }
-&&  \footnotesize {\maroonC
- {(+ \dfrac {3} {4})} }
-&&  \footnotesize {\maroonC
- {(+ \dfrac {3} {4})} }
-&&  \footnotesize {\maroonC
- {(+ \dfrac {3} {4})} }  \\
+&   \footnotesize {\maroonC {(+ \dfrac {3} {4})} }
+&&  \footnotesize {\maroonC {(+ \dfrac {3} {4})} }
+&&  \footnotesize {\maroonC {(+ \dfrac {3} {4})} }
+&&  \footnotesize {\maroonC {(+ \dfrac {3} {4})} }  \\
 1 \dfrac {3} {4},  &&   2 \dfrac {1} {2},  &&  2 \dfrac {3} {4}, && \ldots, && \ldots
 \end{matrix}
 $
@@ -1203,7 +1199,7 @@ $14$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1214,26 +1210,32 @@ $\dfrac{3}{5}\:\:\:  0.58\:\:\: \dfrac{5}{8}\:\:\:  62\% \  0.508$
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Let's convert all the numbers into decimals.
 
-</div>
-<div class='working placeholder'>
+$
+\begin{aligned}
+&= \dfrac{3}{5}, \quad 0.58, \quad \dfrac{5}{8}, \quad 62\%, \quad 0.508 \\\\
+&= 0.6, \quad 0.58, \quad 0.625, \quad 0.62, \quad 0.508
+\end{aligned}
+$
 
-TODOWORKING
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= 0.508 < 0.58 < 0.6 < 0.62 < 0.625 \\\\
+&= 0.508 < 0.58 < \dfrac{3}{5} < 62\% < \dfrac{5}{8}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$0.508, \quad 0.58, \quad \dfrac{3}{5}, \quad 62\%, \quad \dfrac{5}{8}$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/christs-hospital-school-11-plus-maths-2014-sample-paper-1"
 title: "Christs Hospital School - 11 Plus - Maths - 2014 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "33"
 ---
 <div class='paper'>
@@ -168,7 +168,7 @@ $\pounds 29.95$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -211,16 +211,11 @@ The next term is calculated by adding $4$ to the previous term. Hence, the seque
 
 $
 \begin {matrix}
-&   \footnotesize {\maroonC
- {(+4)} }
-&&  \footnotesize {\maroonC
- {(+4)} }
-&&  \footnotesize {\maroonC
- {(+4)} }
-&&  \footnotesize {\maroonC
- {(+4)} }
-&&  \footnotesize {\maroonC
- {(+4)} }  \\
+&   \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }  \\
 7,  &&    11,  &&  15,  &&   19,  &&   \ldots,  &&   \ldots
 \end {matrix}
 $
@@ -271,16 +266,11 @@ The next term is calculated by dividing the previous term by $2$. Hence, the seq
 
 $
 \begin {matrix}
-&   \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }  \\
+&   \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }  \\
 96,  &&    48,  &&  24,  &&   12,  &&   \ldots,  &&   \ldots
 \end {matrix}
 $
@@ -329,16 +319,11 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin {matrix}
-&   \footnotesize {\maroonC
- {(+2)} }
-&&  \footnotesize {\maroonC
- {(+3)} }
-&&  \footnotesize {\maroonC
- {(+4)} }
-&&  \footnotesize {\maroonC
- {(+5)} }
-&&  \footnotesize {\maroonC
- {(+6)} }  \\
+&   \footnotesize {\maroonC {(+2)} }
+&&  \footnotesize {\maroonC {(+3)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+5)} }
+&&  \footnotesize {\maroonC {(+6)} }  \\
 2,  &&    4,  &&  7,  &&   11,  &&   \ldots,  &&   \ldots
 \end {matrix}
 $
@@ -382,9 +367,9 @@ The diagram shows a protractor being used to measure the angle between two lines
 
 ![christs-hospital-school--11-plus--maths--2014--sample-paper-1/section-1-question-4-00.png](/assets/christs-hospital-school--11-plus--maths--2014--sample-paper-1/section-1-question-4-00.png "christs-hospital-school--11-plus--maths--2014--sample-paper-1/section-1-question-4-00.png")
 
-The lines are labelled **Line 1** and **Line 2**.
+The lines are labelled **Line $1$** and **Line $2$**.
 
-Use the protractor to measure the angle between **Line 1** and **Line 2**.
+Use the protractor to measure the angle between **Line $1$** and **Line $2$**.
 
 </div>
 <div class='workings'>
@@ -417,7 +402,7 @@ $60 \ \text {degrees}$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Convert $35 \ \text{centimetres}$ into $\ \text{millimetres}$.
+Convert $35 \ \text{centimetres}$ into $\text{millimetres}$.
 
 </div>
 <div class='workings'>
@@ -449,7 +434,7 @@ $350 \ \text{mm}$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Convert $2750 \ \text{grams}$ into $ \ \text{kilograms}$.
+Convert $2750 \ \text{grams}$ into $\text{kilograms}$.
 
 </div>
 <div class='workings'>
@@ -482,8 +467,8 @@ $2.75 \ \text {kilograms}$
 <div class='question question'>
 
 The diagram below shows a set of coordinate grids.
-Notice that the x-coordinates are negative at the left and positive at the right.
-The y-coordinates are negative at the bottom and poitive at the top.
+Notice that the $x$-coordinates are negative at the left and positive at the right.
+The $y$-coordinates are negative at the bottom and poitive at the top.
 
 ![christs-hospital-school--11-plus--maths--2014--sample-paper-1/section-1-question-7-00.png](/assets/christs-hospital-school--11-plus--maths--2014--sample-paper-1/section-1-question-7-00.png "christs-hospital-school--11-plus--maths--2014--sample-paper-1/section-1-question-7-00.png")
 
@@ -888,7 +873,7 @@ $37$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-The fraction **one eighth** is roughly the same as one of these percentages. Put a ring around the best one.
+The fraction one eighth is roughly the same as one of these percentages. Put a ring around the best one.
 
 $10 \%  \quad 12 \%  \quad 14 \%  \quad 16 \%  \quad 18 \%$
 
@@ -1561,7 +1546,7 @@ $8 \ \text {cm}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Find the **perimeter** of the T shape. State the units.
+Find the perimeter of the T shape. State the units.
 
 </div>
 <div class='workings'>
@@ -1596,7 +1581,7 @@ $44 \ \text {cm}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Find the **area** of the T shape, showing how you did it.
+Find the area of the T shape, showing how you did it.
 
 State the units.
 
@@ -1972,7 +1957,7 @@ Bella
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1987,26 +1972,32 @@ You can use the clock face to help you.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+$
+\begin {aligned}
+\text {Total minutes}                   &= 9{:}30 \ \text{am} -  8 \ \text{am} \\\\
+                                        &= 1 \times 60 \text{ minutes} + 45 \text{ minutes} \\\\
+                                        &= 60 + 45 \\\\
+                                        &= 105 \text{ minutes} \\\\
+\text {Angle}                           &= 105 \times 6 \\\\
+                                        &= 630 \degree \\\\
+                                        &= 270 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$270 \degree$
 
 </div>
 </div>
@@ -2348,7 +2339,7 @@ $14 \ \text{February}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2474,7 +2465,7 @@ $50  \quad 25  \quad 9  \quad 7  \quad 2  \quad 1$
 
 Using $+, -, \times, \div$ and brackets try to make a target number of $790$.
 
-You may use the symbols and brackets as many times as you ned, but **each number must be used exactly once**.
+You may use the symbols and brackets as many times as you ned, but each number must be used exactly once.
 
 If you can't make exactly $790$ you may still score marks for a close attempt.
 

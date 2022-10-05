@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-d"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper D"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "25"
 ---
 <div class='paper'>
@@ -183,7 +183,7 @@ $1.05$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -223,16 +223,11 @@ The next term is calculated by adding $8$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+8)} }
-&&  \footnotesize {\maroonC
- {(+8)} }
-&&  \footnotesize {\maroonC
- {(+8)} }
-&&  \footnotesize {\maroonC
- {(+8)} }
-&&  \footnotesize {\maroonC
- {(+8)} }  \\
+&   \footnotesize {\maroonC {(+8)} }
+&&  \footnotesize {\maroonC {(+8)} }
+&&  \footnotesize {\maroonC {(+8)} }
+&&  \footnotesize {\maroonC {(+8)} }
+&&  \footnotesize {\maroonC {(+8)} }  \\
 29, && 37, && 45, && \ldots, && 61, && \ldots
 \end{matrix}
 $
@@ -280,16 +275,11 @@ The next term is calculated by subtracting $2.5$ from the previous term. Hence, 
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(-2.5)} }
-&&  \footnotesize {\maroonC
- {(-2.5)} }
-&&  \footnotesize {\maroonC
- {(-2.5)} }
-&&  \footnotesize {\maroonC
- {(-2.5)} }
-&&  \footnotesize {\maroonC
- {(-2.5)} }  \\
+&   \footnotesize {\maroonC {(-2.5)} }
+&&  \footnotesize {\maroonC {(-2.5)} }
+&&  \footnotesize {\maroonC {(-2.5)} }
+&&  \footnotesize {\maroonC {(-2.5)} }
+&&  \footnotesize {\maroonC {(-2.5)} }  \\
 31, && 28.5, && 26, && \ldots, && \ldots, && 18.5
 \end{matrix}
 $
@@ -485,14 +475,10 @@ $70$
 
 Circle which of the following has a different value from the others:
 
-$
-\begin{aligned}
-&= 3 - 7 - 4 \\ 
-&= (3 - 7) - 4 \\ 
-&= 3 - (7 - 4) \\ 
-&= ((3 - 7) - 4)\\
-\end{aligned} 
-$
+- $3 - 7 - 4$
+- $(3 - 7) - 4$
+- $3 - (7 - 4)$
+- $((3 - 7) - 4)$
 
 </div>
 <div class='workings'>
@@ -700,7 +686,7 @@ $\dfrac {7} {9}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Mark the points $A(2, 0), B(2, 0)$ and $C(0, 3)$ on the axes below, labelling each point clearly.
+Mark the points $A(-2, 0), B(2, 0)$ and $C(0, -3)$ on the axes below, labelling each point clearly.
 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-12-subquestion-1-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-12-subquestion-1-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-12-subquestion-1-00.png")
 
@@ -1222,7 +1208,7 @@ $102 \ \text{cm}^2, 46 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1872,9 +1858,6 @@ For example:
 ![dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-00.png") 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-01.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-01.png "dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-01.png")
 
-![dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-02.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-02.png "dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-02.png")
-![dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-03.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-03.png "dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-03.png")
-
 </div>
 <div class='workings'>
 <div class='working placeholder'>
@@ -1908,7 +1891,6 @@ TODOANSWER
 Show the effect of pressing button $7$ by shading squares on the pattern below:
 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-subquestion-1-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-subquestion-1-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-subquestion-1-00.png")
-![dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-subquestion-1-01.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-subquestion-1-01.png "dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-subquestion-1-01.png")
 
 </div>
 <div class='workings'>
@@ -1942,7 +1924,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The object of the game is to make all the squares white. Which **two** buttons could you press from the following position to win the game?
+The object of the game is to make all the squares white. Which two buttons could you press from the following position to win the game?
 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-subquestion-2-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-subquestion-2-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-24-subquestion-2-00.png")
 

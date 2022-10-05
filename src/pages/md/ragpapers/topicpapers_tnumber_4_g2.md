@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-4-g2"
 title: "TopicPaper - Number - 4 - G2"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "11"
 ---
 <ul class='question default-decimal'>
@@ -319,7 +319,7 @@ $5$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-In each of the following calculations there is an error, which can be corrected by changing one digit **to the number** $\bold{7}$. In each case identify that digit.
+In each of the following calculations there is an error, which can be corrected by changing one digit to the number $7$. In each case identify that digit.
 
 </div>
 <div class='workings'>
@@ -343,7 +343,7 @@ In each of the following calculations there is an error, which can be corrected 
 
 $98 - 65 = 32$
 
-Which digit needs to be replaced with a $\bold{7}$?
+Which digit needs to be replaced with a $7?$
 
 </div>
 <div class='workings'>
@@ -369,7 +369,7 @@ $8$
 
 $39 + 48 + 50 = 167$
 
-Which digit needs to be replaced with a $\bold{7}$?
+Which digit needs to be replaced with a $7?$
 
 </div>
 <div class='workings'>
@@ -395,7 +395,7 @@ $4$
 
 $734 + (8 \times 26) = 950$
 
-Which digit needs to be replaced with a $\bold{7}$?
+Which digit needs to be replaced with a $7?$
 
 </div>
 <div class='workings'>
@@ -456,7 +456,7 @@ $6$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-How many grams are there in $2.5 \ \text{kg}$?
+How many grams are there in $2.5 \ \text{kg}?$
 
 </div>
 <div class='workings'>
@@ -486,7 +486,7 @@ $2500 \ \text{grams}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Andy has $5 \ \text{m} \ 35 \ \text{cm}$ of tape. He uses $243 \ \text{cm}$ for wrapping parcels. How many cm of tape does he have left over?
+Andy has $5 \ \text{m} \ 35 \ \text{cm}$ of tape. He uses $243 \ \text{cm}$ for wrapping parcels. How many $\text{cm}$ of tape does he have left over?
 
 </div>
 <div class='workings'>
@@ -543,7 +543,7 @@ $2.92 \ \text {metres}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Which whole number less than twenty is *both* an even number *and* a prime number?
+Which whole number less than twenty is both an even number and a prime number?
 
 </div>
 <div class='workings'>
@@ -568,7 +568,7 @@ $2$
 <div class='question subquestion'>
 
 $4$ is a square number and also an even number.
-*How many* other whole numbers less than fifty are even square numbers?
+How many other whole numbers less than fifty are even square numbers?
 
 </div>
 <div class='workings'>
@@ -594,7 +594,7 @@ $2$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Which three prime numbers multiply together to make $154$?
+Which three prime numbers multiply together to make $154?$
 
 </div>
 <div class='workings'>
@@ -657,7 +657,7 @@ $2, 7, 11$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the value of $11^2$?
+What is the value of $11^2?$
 
 </div>
 <div class='workings'>
@@ -717,7 +717,7 @@ $169$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-How many square numbers are there between $101$ and $200$?
+How many square numbers are there between $101$ and $200?$
 
 </div>
 <div class='workings'>
@@ -872,7 +872,7 @@ $-17$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-A bottle contains $0.35 \ \text{litres}$, how many \ \text{ml} is this?
+A bottle contains $0.35 \ \text{litres}$, how many $\text{ml}$ is this?
 
 </div>
 <div class='workings'>
@@ -902,7 +902,7 @@ $350 \ \text {ml}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-A picture is $540 \ \text{mm}$ tall, what is this measurement in \ \text{cm}?
+A picture is $540 \ \text{mm}$ tall, what is this measurement in $\text{cm}?$
 
 </div>
 <div class='workings'>
@@ -933,7 +933,7 @@ $54 \ \text {cm}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-A bag of flour contains $1029 \ \text{g}$. Rewrite the quantity in \ \text{kg}.
+A bag of flour contains $1029 \text{g}$. Rewrite the quantity in $\text{kg}$.
 
 </div>
 <div class='workings'>
@@ -963,7 +963,7 @@ $1.029 \ \text {kg}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Add together $1 \ \text{mm}$, $0.1 \ \text{cm}$ and $0.1 \ \text{m}$. Give your answer in \ \text{cm}.
+Add together $1 \ \text{mm}$, $0.1 \ \text{cm}$ and $0.1 \ \text{m}$. Give your answer in $\text{cm}$.
 
 </div>
 <div class='workings'>
@@ -998,7 +998,7 @@ The area of a postage stamp is calculated as:
 
 $2 \ \text{cm} \times 2.5 \ \text{cm} = 5 \ \text{cm}^2$
 
-What is the area of this stamp in $\text{mm}^2$?
+What is the area of this stamp in $\text{mm}^2?$
 
 </div>
 <div class='workings'>

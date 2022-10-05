@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-9"
 title: "TopicPaper - Number - 9"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "40"
 ---
 <div class='paper'>
@@ -567,7 +567,7 @@ $27 \times 9$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-What number is $\text{twenty-three}$ less than $\text{seventy thousand}$? 
+What number is twenty-three less than seventy thousand? 
 
 - $67700$ 
 
@@ -613,7 +613,14 @@ $69977$
 
 What digit should replace the * below?
 
-![latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-7-00.png](/assets/latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-7-00.png "latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-7-00.png") 
+$
+\begin{array}{cccccccccccccc}
+    &   *   &   3   &   9 \\
+{}- &   2   &   6   &   1 \\
+\hline
+    &   5   &   7   &   8
+\end{array}
+$
 
 - $8$ 
 

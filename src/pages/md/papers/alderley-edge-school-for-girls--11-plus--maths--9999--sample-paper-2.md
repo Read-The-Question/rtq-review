@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-9999-sample-paper-2"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "59"
 ---
 <div class='paper'>
@@ -199,7 +199,7 @@ $11$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1220,7 +1220,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1413,14 +1413,10 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-8)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-2)}}
-&&  \footnotesize{\maroonC
-{(-1)}} \\
+&   \footnotesize{\maroonC{(-8)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-2)}}
+&&  \footnotesize{\maroonC{(-1)}} \\
 30,  &&    22,  &&  18,  &&   \ldots,  && \ldots
 \end{matrix}
 $
@@ -2120,22 +2116,25 @@ TODOANSWER
 
 I have a square piece of paper.
 
-The diagram shows information about this square labelled A.
+The diagram shows information about this square labelled $A$.
 
 ![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-11-subquestion-1-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-11-subquestion-1-00.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-11-subquestion-1-00.png")
 
-I fold square $A$ **in half** to make rectangle $B$.
+I fold square $A$ in half to make rectangle $B$.
 
 ![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-11-subquestion-1-01.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-11-subquestion-1-01.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-11-subquestion-1-01.png")
 
-Then I fold rectangle $B$ **in half** to make square $C$.
+Then I fold rectangle $B$ in half to make square $C$.
 
 ![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-11-subquestion-1-02.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-11-subquestion-1-02.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-11-subquestion-1-02.png")
 
 Complete the table below to show the area and perimeter of each shape.
 
-![missing table](/papers/missing_table.svg)
-
+|               |         Area         |      Perimenter    |
+|:-------------:|:--------------------:|:------------------:|
+| Square $A$    | $\ldots \text{cm}^2$ | $\ldots \text{cm}$ |
+| Rectangle $B$ | $\ldots \text{cm}^2$ | $\ldots \text{cm}$ |
+| Square $C$    | $\ldots \text{cm}^2$ | $\ldots \text{cm}$ |
 
 </div>
 <div class='workings'>
@@ -2243,13 +2242,13 @@ Here are two containers and the amount they hold.
 
 ![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-12-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-12-00.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-12-00.png")
 
-Which container holds the greater amounts?
-- 'A'
-- 'B'
+Which container holds the greater amount?
+- A
+- B
 
-How much **more** does it hold?
+How much more does it hold?
 
-Give your answer in milliletres.
+Give your answer in millilitres.
 
 </div>
 <div class='workings'>
@@ -2385,7 +2384,7 @@ $54$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Lisa has some boxes that are all cubes of the same six=ze.
+Lisa has some boxes that are all cubes of the same size.
 
 She uses four of the boxes to make a pile with a height of $72 \ \text{cm}$.
 
@@ -2430,11 +2429,11 @@ $90 \ \text{cm}$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-A rectangle has an **area** of $24 \ \text{cm}^2$.
+A rectangle has an area of $24 \ \text{cm}^2$.
 
 How long could the sides of the rectangle be?
 
-Give three **different** examples.
+Give three different examples.
 
 </div>
 <div class='workings'>
@@ -2886,7 +2885,7 @@ $\dfrac{2}{9}$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-The diagram shows a square with a **perimeter** of $12 \ \text{cm}$.
+The diagram shows a square with a perimeter of $12 \ \text{cm}$.
 
 ![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-1-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-1-00.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-1-00.png")
 
@@ -2894,9 +2893,9 @@ Six of these squares fit together to make a rectangle.
 
 ![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-1-01.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-1-01.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-1-01.png")
 
-What is the **area** of the rectanlge?
+What is the area of the rectangle?
 
-You **must** give the correct unit with your answer. 
+You must give the correct unit with your answer. 
 
 </div>
 <div class='workings'>
@@ -3043,13 +3042,7 @@ Work out :
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$
-\begin{aligned}
-\dfrac{1 \times 2 \times 3 \times 4 \times 5}{1 \times 2 \times 3}
-&= 
-\text{\textunderscore \textunderscore \textunderscore}
-\end{aligned}
-$
+$\dfrac{1 \times 2 \times 3 \times 4 \times 5}{1 \times 2 \times 3} = \text{\ldots}$
 
 </div>
 <div class='workings'>
@@ -3080,13 +3073,7 @@ $20$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$
-\begin{aligned}
-\dfrac{(1 \times 2 \times 3 \times 4 \times 5)^{2} }{(1 \times 2 \times 3)^{2}}
-&=
-\text{\textunderscore \textunderscore \textunderscore}
-\end{aligned}
-$
+$\dfrac{(1 \times 2 \times 3 \times 4 \times 5)^{2} }{(1 \times 2 \times 3)^{2}} = \text{\ldots}$
 
 </div>
 <div class='workings'>
@@ -3308,9 +3295,9 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The **perimeter** of a regular hexagon is $42a + 18$.
+The perimeter of a regular hexagon is $42a + 18$.
 
-Write an expression for the length of **one** of its sides.
+Write an expression for the length of one of its sides.
 
 ![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-6-subquestion-1-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-6-subquestion-1-00.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-6-subquestion-1-00.png")
 
@@ -3355,9 +3342,9 @@ $= 7a + 3$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The **perimeter** of a different regular polygon is $75b - 20$
+The perimeter of a different regular polygon is $75b - 20$.
 
-The length of one of its sides is $15b - 4$
+The length of one of its sides is $15b - 4$.
 
 How many sides does this regular polygon have?
 
@@ -3401,9 +3388,9 @@ The regular polygon has 5 sides.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The **perimeter** of a square is $4(c - 9)$
+The perimeter of a square is $4(c - 9)$.
 
-Find the area of the square when $c = 15$
+Find the area of the square when $c = 15$.
 
 </div>
 <div class='workings'>
@@ -3457,7 +3444,7 @@ $36 \ \text{cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3725,9 +3712,9 @@ Bags $A$ and $B$ contain some counters.
 
 Bag A: $6y + 1$ counters
 
-Bage B: $4y + 7$ counters
+Bag B: $4y + 7$ counters
 
-The number of counters in each bag **is the same**.
+The number of counters in each bag is the same.
 
 Work out the value of $y$.
 
@@ -3770,9 +3757,9 @@ Bag $C$ contains more counters than bag $D$.
 
 Bag C: $4k$ counters
 
-Bage D: $k + 12$ counters
+Bag D: $k + 12$ counters
 
-What is the **smallest** possible value of $k$?
+What is the smallest possible value of $k$?
 
 </div>
 <div class='workings'>

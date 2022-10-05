@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-queens-school-11-plus-maths-9999-sample-paper-1"
 title: "The Queens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "29"
 ---
 <div class='paper'>
@@ -363,7 +363,7 @@ $0.09$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -403,14 +403,10 @@ The next term is calculated by adding $4$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}  \\
+&   \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}  \\
 11,  &&    15,  &&  19,  &&   23, && \ldots
 \end{matrix}
 $
@@ -451,14 +447,10 @@ The next term is calculated by subtracting $5$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-5)}}
-&&  \footnotesize{\maroonC
-{(-5)}}
-&&  \footnotesize{\maroonC
-{(-5)}}
-&&  \footnotesize{\maroonC
-{(-5)}}  \\
+&   \footnotesize{\maroonC{(-5)}}
+&&  \footnotesize{\maroonC{(-5)}}
+&&  \footnotesize{\maroonC{(-5)}}
+&&  \footnotesize{\maroonC{(-5)}}  \\
 17,  &&    12,  &&  7,  &&   2, && \ldots
 \end{matrix}
 $
@@ -497,14 +489,10 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+2)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+5)}} \\
+&   \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+5)}} \\
 2,  &&    4,  &&  7,  &&   11 , && \ldots
 \end{matrix}
 $
@@ -610,7 +598,7 @@ $(5 \ 000, \ 200) \ \text{or} \ (50 \ 000, \ 20)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -625,12 +613,12 @@ How many lengths must I swim to cover a distance of $1.5\, km$? ![the-queens-sch
 
 $
 \begin{aligned}
-\text{Number of lengths}  &= \dfrac{1.5 \text{ km}}{25 \text { m}} \\\\ 
-                          &= \dfrac{1.5 \times 1000 \text{ m}}{25 \text { m}} \\\\ 
+\text{Number of lengths}  &= \dfrac{1.5 \text{ km}}{25} \\\\ 
+                          &= \dfrac{1.5 \times 1000 \text{ m}}{25} \\\\ 
                           &= \dfrac{1500}{25} \\\\ 
                           &= \dfrac{5 \times 5 \times 60}{5 \times 5} \\\\ 
                           &= \dfrac{\cancel{5} \times \cancel{5} \times 60}{\cancel{5} \times \cancel{5}} \\\\ 
-                          &= 60 \\\\ 
+                          &= 60
 \end{aligned}
 $
 
@@ -659,8 +647,7 @@ ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 $
 \begin{aligned}
-\text {Speed}    &= \dfrac{1.5 \text{ km}}{45 \text{ minute}} \\\\
-                 &= \dfrac{1.5}{45} \\\\
+\text {Speed}    &= \dfrac{1.5}{45} \\\\
                  &= \dfrac{1.5 \times 10}{45 \times 10} \\\\
                  &= \dfrac{15}{15 \times 3 \times 10} \\\\
                  &= \dfrac{\cancel{15}}{\cancel{15} \times 3 \times 10} \\\\
@@ -671,8 +658,7 @@ $
 
 $
 \begin{aligned}
-\text {Time taken to swim } 1 \text{ km}    &= \dfrac{1 \text{ km}}{\dfrac{1}{30} \text{ km/minute}} \\\\
-                                            &= \dfrac{1}{\dfrac{1}{30}} \\\\
+\text {Time taken to swim } 1 \text{ km}    &= \dfrac{1}{\dfrac{1}{30}} \\\\
                                             &= 30 \text { minutes}
 \end {aligned}
 $
@@ -1065,7 +1051,7 @@ $36 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1076,26 +1062,38 @@ What is the angle between the hands of this clock?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 10 \ \text{minutes} \\\\
+\text {Angle}                           &= 10 \times 6 \\\\
+                                        &= 60 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$60 \degree$
 
 </div>
 </div>

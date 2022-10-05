@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tangle-1"
 title: "TopicPaper - Angle - 1"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "40"
 ---
 <div class='paper'>
@@ -305,7 +305,7 @@ Estimate the angle drawn below and then also measure it accurately with your pro
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -314,9 +314,9 @@ The diagram shows a protractor being used to measure the angle between two lines
 
 ![christs-hospital-school--11-plus--maths--2014--sample-paper-1/section-1-question-4-00.png](/assets/christs-hospital-school--11-plus--maths--2014--sample-paper-1/section-1-question-4-00.png "christs-hospital-school--11-plus--maths--2014--sample-paper-1/section-1-question-4-00.png")
 
-The lines are labelled **Line 1** and **Line 2**.
+The lines are labelled **Line $1$** and **Line $2$**.
 
-Use the protractor to measure the angle between **Line 1** and **Line 2**.
+Use the protractor to measure the angle between **Line $1$** and **Line $2$**.
 
 </div>
 
@@ -410,12 +410,12 @@ What is the size of the angle labelled $x$ in the diagram? The diagram is not dr
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Calculate the size of the missing angle in this triangle. The diagram is **not** drawn to scale.
+Calculate the size of the missing angle in this triangle. The diagram is not drawn to scale.
 
 ![city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-13-00.png](/assets/city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-13-00.png "city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-13-00.png") 
 
@@ -424,7 +424,7 @@ Calculate the size of the missing angle in this triangle. The diagram is **not**
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -449,7 +449,7 @@ Find the size of angle $a$ in the diagram below.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Would you describe $100\degree$? Acute, obtuse or reflex?
+Would you describe $100\degree ?$ Acute, obtuse or reflex?
 
 </div>
 

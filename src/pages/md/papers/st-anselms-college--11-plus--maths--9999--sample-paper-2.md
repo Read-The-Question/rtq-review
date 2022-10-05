@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-2"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "24"
 ---
 <div class='paper'>
@@ -514,7 +514,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -554,18 +554,12 @@ The next term is calculated by adding $6$ to the previous term. Hence, the seque
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}  \\
+&   \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}  \\
 -1,  &&    7,  &&  13,  &&   19,  &&  25, &&  \ldots, && \ldots
 \end {matrix}
 $
@@ -613,18 +607,12 @@ The next term is calculated by multiplying the previous term by $2$. Hence, the 
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}  \\
+&   \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}  \\
 -1,  &&    2,  &&  4,  &&   8,  &&  16, &&  \ldots, && \ldots
 \end {matrix}
 $
@@ -670,18 +658,12 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+7)}}
-&&  \footnotesize{\maroonC
-{(+9)}}
-&&  \footnotesize{\maroonC
-{(+11)}}
-&&  \footnotesize{\maroonC
-{(+13)}}  \\
+&   \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(+7)}}
+&&  \footnotesize{\maroonC{(+9)}}
+&&  \footnotesize{\maroonC{(+11)}}
+&&  \footnotesize{\maroonC{(+13)}}  \\
 1,  &&    4,  &&  9,  &&   16,  &&  25, &&  \ldots, && \ldots
 \end {matrix}
 $
@@ -729,18 +711,12 @@ The next term is calculated by adding $3$ times more to the difference between t
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(+3^0)}}
-&&  \footnotesize{\maroonC
-{(+3^1)}}
-&&  \footnotesize{\maroonC
-{(+3^2)}}
-&&  \footnotesize{\maroonC
-{(+3^3)}}
-&&  \footnotesize{\maroonC
-{(+3^4)}}
-&&  \footnotesize{\maroonC
-{(+3^5)}}  \\
+&   \footnotesize{\maroonC{(+3^0)}}
+&&  \footnotesize{\maroonC{(+3^1)}}
+&&  \footnotesize{\maroonC{(+3^2)}}
+&&  \footnotesize{\maroonC{(+3^3)}}
+&&  \footnotesize{\maroonC{(+3^4)}}
+&&  \footnotesize{\maroonC{(+3^5)}}  \\
 1,  &&    2,  &&  5,  &&   14,  &&  41, &&  \ldots, && \ldots
 \end {matrix}
 $
@@ -1516,27 +1492,27 @@ $33.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Write the following numbers in order of size, starting with the smallest. 
 
-0.26   0.3   0.038   0.38   0.308
+$0.26, \quad 0.3, \quad 0.038, \quad 0.38, \quad 0.308$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$0.038 \,\,\,\,  0.26  \,\,\,\,  0.3 \,\,\,\,  0.308 \,\,\,\,  0.38$ 
+$0.038, \quad 0.26 , \quad 0.3, \quad 0.308, \quad 0.38$ 
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$0.038 \,\,\,\,  0.26  \,\,\,\,  0.3 \,\,\,\,  0.308 \,\,\,\,  0.38$ 
+$0.038, \quad 0.26 , \quad 0.3, \quad 0.308, \quad 0.38$ 
 
 </div>
 </div>

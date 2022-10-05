@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tgraph-1-pr-prpcc"
 title: "TopicPaper - Graph - 1 - PR - PRPCC"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "10"
 ---
 <ul class='question default-decimal'>
@@ -552,13 +552,13 @@ $(0, 3)$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-P is the **midpoint** of line AB.
+P is the midpoint of line AB.
 
 ![city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-3-subquestion-1-00.png](/assets/city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-3-subquestion-1-00.png "city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-3-subquestion-1-00.png")
 
-What are the coordinates of point **P**?
+What are the coordinates of point P?
 
-P is ($\ldots$ , $\ldots$ )
+P is ($\ldots , \ldots$ )
 
 </div>
 <div class='workings'>
@@ -593,17 +593,17 @@ $(60, 60)$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Q is the **midpoint** of line MN. 
+Q is the midpoint of line MN. 
 
 The coordinates of Q are $( 30, 50 )$
 
 ![city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-3-subquestion-2-00.png](/assets/city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-3-subquestion-2-00.png "city-of-london-school--11-plus--maths--2008--sample-paper-group-2/section-1-question-3-subquestion-2-00.png")
 
-What are the c-oordinates of points **M** and **N**? 
+What are the c-oordinates of points M and N? 
 
-M is ($\ldots$ , $\ldots$ )
+M is ($\ldots , \ldots$ )
 
-N is ($\ldots$ , $\ldots$ )
+N is ($\ldots , \ldots$ )
 
 </div>
 <div class='workings'>
@@ -874,13 +874,13 @@ A class carried out a survey on journeys to school.
 
 The table and the bar chart have not been completed.
 
-|    Taxi   |      4      |
-|:---------:|:-----------:|
-|    Walk   |             |
-|           |      15     |
-|    Bike   |      27     |
-|    Car    |      11     |
-| **Total** | $\bold{70}$ |
+|    Taxi   |      $4$     |
+|:---------:|:------------:|
+|    Walk   |              |
+|           |     $15$     |
+|    Bike   |     $27$     |
+|    Car    |     $11$     |
+|   Total   |     $70$     |
 
 ![csse--11-plus--maths--2015--sample-paper-2/section-1-question-4-00.png](/assets/csse--11-plus--maths--2015--sample-paper-2/section-1-question-4-00.png "csse--11-plus--maths--2015--sample-paper-2/section-1-question-4-00.png")
 
@@ -1083,7 +1083,7 @@ The diagram shows a grid with the co-ordinates marked for three points.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the value of $x$? 
+What is the value of $x?$ 
 
 </div>
 <div class='workings'>
@@ -1107,7 +1107,7 @@ $2$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the value of $y$?
+What is the value of $y?$
 
 </div>
 <div class='workings'>
@@ -1209,7 +1209,7 @@ $7$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-At what clock time does the tide drop below $4 \ \text{metres}$?
+At what clock time does the tide drop below $4 \ \text{metres}?$
 
 </div>
 <div class='workings'>
@@ -1233,7 +1233,7 @@ $19 \ \text{hours}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-For how many hours is the tide above $6 \ \text{metres}$?
+For how many hours is the tide above $6 \ \text{metres}?$
 
 </div>
 <div class='workings'>

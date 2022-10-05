@@ -1,7 +1,7 @@
 ---
 slug: "papers/blackheath-high-school-11-plus-maths-2007-sample-paper-1"
 title: "Blackheath High School - 11 Plus - Maths - 2007 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "21"
 ---
 <div class='paper'>
@@ -14,7 +14,7 @@ questions_count: "21"
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -23,7 +23,7 @@ The table shows part of a multiplication grid.
 
 Fill in the missing numbers.
 
-|  x  |      |      |  $8$ |
+|  $\times$   |      |      |  $8$ |
 |:---:|:----:|:----:|:----:|
 | $2$ |  $8$ | $14$ | $16$ |
 |     | $24$ |      | $48$ |
@@ -34,22 +34,27 @@ Fill in the missing numbers.
 <div class='workings'>
 <div class='working'>
 
-|                      x                     | $\dfrac {8} {2} = 4 \ \footnotesize{(1)}$ | $\dfrac {14} {2} = 7 \ \footnotesize{(2)}$ |  $8$ |
+|                      $\times$                     | $\dfrac {8} {2} = 4 \ \maroonC{\footnotesize{(1)}}$ | $\dfrac {14} {2} = 7 \ \maroonC{\footnotesize{(2)}}$ |  $8$ |
 |:------------------------------------------:|:-----------------------------------------:|:------------------------------------------:|:----:|
 |                     $2$                    |                    $8$                    |                    $14$                    | $16$ |
-| $\dfrac {24} {4} = 6 \ \footnotesize{(3)}$ |                    $24$                   | $6 \times 7 = 42 \ \footnotesize{(3)}$     | $48$ |
-| $\dfrac {28} {4} = 7 \ \footnotesize{(4)}$ |                    $28$                   |                    $49$                    | $56$ |
+| $\dfrac {24} {4} = 6 \ \maroonC{\footnotesize{(3)}}$ |                    $24$                   | $6 \times 7 = 42 \ \maroonC{\footnotesize{(3)}}$     | $48$ |
+| $\dfrac {28} {4} = 7 \ \maroonC{\footnotesize{(4)}}$ |                    $28$                   |                    $49$                    | $56$ |
+
+Completed table
+
+|  $\times$   | $4$ | $7$ |  $8$ |
+|:---:|:---:|:---:|:----:|
+| $2$ | $8$ | $14$| $16$ |
+| $6$ | $24$| $42$| $48$ |
+| $7$ | $28$| $49$| $56$ |
+
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-|  x  | $4$ | $7$ |  $8$ |
-|:---:|:---:|:---:|:----:|
-| $2$ | $8$ | $14$| $16$ |
-| $6$ | $24$| $42$| $48$ |
-| $7$ | $28$| $49$| $56$ |
+%empty%
 
 </div>
 </div>
@@ -111,7 +116,7 @@ $2 \dfrac {1} {2} \ \text{jugs of water required}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -151,16 +156,11 @@ The next term is calculated by adding $2$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+2)}}
-&&  \footnotesize{\maroonC
-{(+2)}}
-&&  \footnotesize{\maroonC
-{(+2)}}
-&&  \footnotesize{\maroonC
-{(+2)}}
-&&  \footnotesize{\maroonC
-{(+2)}}  \\
+&   \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+2)}}  \\
 3,  &&  5,  &&  7,  &&  9,  &&  \ldots, &&  \ldots
 \end{matrix}
 $
@@ -208,16 +208,11 @@ The next term is calculated by adding $1.2$ to the previous term. Hence, the seq
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+1.2)}}
-&&  \footnotesize{\maroonC
-{(+1.2)}}
-&&  \footnotesize{\maroonC
-{(+1.2)}}
-&&  \footnotesize{\maroonC
-{(+1.2)}}
-&&  \footnotesize{\maroonC
-{(+1.2)}}  \\
+&   \footnotesize{\maroonC{(+1.2)}}
+&&  \footnotesize{\maroonC{(+1.2)}}
+&&  \footnotesize{\maroonC{(+1.2)}}
+&&  \footnotesize{\maroonC{(+1.2)}}
+&&  \footnotesize{\maroonC{(+1.2)}}  \\
 5.1,    &&  6.3,    &&  7.5,    &&  8.7,    &&  \ldots, &&  \ldots
 \end{matrix}
 $
@@ -265,16 +260,11 @@ The next term is calculated by multiplying the previous term by $3$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 3)}}
-&&  \footnotesize{\maroonC
-{(\times 3)}}
-&&  \footnotesize{\maroonC
-{(\times 3)}}
-&&  \footnotesize{\maroonC
-{(\times 3)}}
-&&  \footnotesize{\maroonC
-{(\times 3)}}  \\
+&   \footnotesize{\maroonC{(\times 3)}}
+&&  \footnotesize{\maroonC{(\times 3)}}
+&&  \footnotesize{\maroonC{(\times 3)}}
+&&  \footnotesize{\maroonC{(\times 3)}}
+&&  \footnotesize{\maroonC{(\times 3)}}  \\
 1,  &&  3,  &&  9,  &&  27, &&  \ldots, &&  \ldots
 \end{matrix}
 $
@@ -322,16 +312,11 @@ The next term is calculated by multiplying the previous term by $2$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}  \\
+&   \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}  \\
 0.3,    &&  0.6,    &&  1.2,    &&  2.4,    &&  \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -379,16 +364,11 @@ The next term is calculated by subtracting $4$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}  \\
+&   \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}  \\
 15, &&  11, &&  7,  &&  3,  &&  \ldots,  && \ldots
 \end{matrix}
 $
@@ -1130,7 +1110,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Use your ruler to measure the length and width of this rectangle *8as accurately as you can**.
+Use your ruler to measure the length and width of this rectangle as accurately as you can.
 
 ![blackheath-high-school--11-plus--maths--2007--sample-paper-1/section-1-question-10-subquestion-1-00.png](/assets/blackheath-high-school--11-plus--maths--2007--sample-paper-1/section-1-question-10-subquestion-1-00.png "blackheath-high-school--11-plus--maths--2007--sample-paper-1/section-1-question-10-subquestion-1-00.png")
 
@@ -1164,7 +1144,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Use your answers to work out the **perimeter** of the rectangle.
+Use your answers to work out the perimeter of the rectangle.
 
 </div>
 <div class='workings'>
@@ -1285,7 +1265,7 @@ $80 \%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1354,7 +1334,7 @@ Snadra chooses a pair of jeans marked $\pounds 48$. How much did Sandra save by 
 
 $
 \begin{aligned}
-\text{Sandra saved} &= 25 \% \ \text{of} \ 48 \\\\
+\text{Savings}      &= 25 \% \ \text{of} \ 48 \\\\
                     &= \dfrac {25} {100} \times 48 \\\\
                     &= \dfrac {25 \times 48} {100} \\\\
                     &= \dfrac {25 \times 4 \times 12} {25 \times 4} \\\\
@@ -1387,8 +1367,8 @@ How much will she actually have to pay for them in sale?
 
 $
 \begin{aligned}
-\text{She paid} &= 48 - 12 \\\\
-                &= \pounds 36
+\text{Amount paid}  &= 48 - 12 \\\\
+                    &= \pounds 36
 \end{aligned}
 $
 
@@ -1614,7 +1594,7 @@ $(0, 3)$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-The shaded **rectangle** has area $12 \ \text{cm}^2$.
+The shaded rectangle has area $12 \ \text{cm}^2$.
 
 ![blackheath-high-school--11-plus--maths--2007--sample-paper-1/section-1-question-16-00.png](/assets/blackheath-high-school--11-plus--maths--2007--sample-paper-1/section-1-question-16-00.png "blackheath-high-school--11-plus--maths--2007--sample-paper-1/section-1-question-16-00.png")
 
@@ -1638,7 +1618,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-On this grid draw a different a **different rectangle** with area $12 \ \text{cm}^2$ (rotations are not allowed).
+On this grid draw a different a different rectangle with area $12 \ \text{cm}^2$ (rotations are not allowed).
 
 ![blackheath-high-school--11-plus--maths--2007--sample-paper-1/section-1-question-16-subquestion-1-00.png](/assets/blackheath-high-school--11-plus--maths--2007--sample-paper-1/section-1-question-16-subquestion-1-00.png "blackheath-high-school--11-plus--maths--2007--sample-paper-1/section-1-question-16-subquestion-1-00.png")
 
@@ -1672,7 +1652,7 @@ $12 \ \text{cm}^2$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-On this grid draw a **triangle** with area $6 \ \text{cm}^2$.
+On this grid draw a triangle with area $6 \ \text{cm}^2$.
 
 </div>
 <div class='workings'>
@@ -1712,12 +1692,7 @@ $6 \ \text{cm}^2$
 Polly has these four cards with numbers in:
 
 $
-\huge {
-\boxed {1} 
-\quad \boxed {4} 
-\quad \boxed {9} 
-\quad \boxed {3}
-}
+\huge {\boxed {1} \quad \boxed {4} \quad \boxed {9} \quad \boxed {3}}
 $
 
 Show how she could arrange them to get:
@@ -1742,7 +1717,7 @@ Show how she could arrange them to get:
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-the **largest** possible number.
+the largest possible number.
 
 </div>
 <div class='workings'>
@@ -1766,7 +1741,7 @@ $9431$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-the **smallest** possible number.
+the smallest possible number.
 
 </div>
 <div class='workings'>
@@ -1790,7 +1765,7 @@ $1349$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-the number **nearest to ** $4000$.
+the number nearest to $4000$.
 
 </div>
 <div class='workings'>
@@ -1952,9 +1927,7 @@ Let's arrange the numbers in ascending order.
 $
 \begin{aligned}
 \text{Numbers}\            &= 5, \quad 24, \quad 37, \quad 45, \quad 36, \quad 39, \quad 22, \quad 16 \\\\
-\text{Ordered numbers}\    &= 5, \quad 16, \quad 22, \quad \maroonC
-{24}, \quad \maroonC
-{36}, \quad 37, \quad 39, \quad 45 \\\\
+\text{Ordered numbers}\    &= 5, \quad 16, \quad 22, \quad \maroonC{24}, \quad \maroonC{36}, \quad 37, \quad 39, \quad 45 \\\\
 \text{Median}\             &= \dfrac {24 + 36} {2} \\\\
                            &= \dfrac {60} {2} \\\\
                            &= \dfrac {2 \times 30} {2} \\\\
@@ -2084,7 +2057,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2097,8 +2070,10 @@ Draw pattern $4$ in the space below.
 
 Fill in this table:
 
-![missing table](/papers/missing_table.svg)
-
+| shape               | $1$ | $2$ | $3$  | $4$  | $5$ |
+|---------------------|-----|-----|------|------|-----|
+| Number of triangles |     |     | $5$  |      |     |
+| Number of matches   |     |     | $11$ |      |     |
 
 </div>
 <div class='workings'>
@@ -2133,7 +2108,7 @@ The number of matches is calculated by adding $4$ to the previous number of matc
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-In shape $6$, how many **triangles** will there be?
+In shape $6$, how many triangles will there be?
 
 </div>
 <div class='workings'>
@@ -2173,7 +2148,7 @@ $11$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-In shape $6$, how many **matches** will there be?
+In shape $6$, how many matches will there be?
 
 </div>
 <div class='workings'>
@@ -2213,7 +2188,7 @@ $23$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-In shape $100$, how many **triangles** will there be?
+In shape $100$, how many triangles will there be?
 
 Explain how you worked this out.
 
@@ -2255,7 +2230,7 @@ $199$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-In shape $100$, how many **matches** will there be?
+In shape $100$, how many matches will there be?
 
 Explain how you worked this out.
 
@@ -2297,7 +2272,7 @@ $399$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Anah makes a shape with $29$ **triangles**. How many matches did she use?
+Anah makes a shape with $29$ triangles. How many matches did she use?
 
 </div>
 <div class='workings'>

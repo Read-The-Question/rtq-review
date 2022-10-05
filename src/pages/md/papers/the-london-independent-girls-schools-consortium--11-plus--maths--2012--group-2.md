@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2012-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2012 - Group 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "41"
 ---
 <div class='paper'>
@@ -173,7 +173,7 @@ $300030$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -216,16 +216,11 @@ The next term is calculated by subtracting $6$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(-6)} } 
-&&  \footnotesize {\maroonC
- {(-6)} }  
-&&  \footnotesize {\maroonC
- {(-6)} }   
-&&  \footnotesize {\maroonC
- {(-6)} }   
-&&  \footnotesize {\maroonC
- {(-6)} }  \\
+&   \footnotesize {\maroonC {(-6)} } 
+&&  \footnotesize {\maroonC {(-6)} }  
+&&  \footnotesize {\maroonC {(-6)} }   
+&&  \footnotesize {\maroonC {(-6)} }   
+&&  \footnotesize {\maroonC {(-6)} }  \\
 98,  &&  92,  &&  86,  &&   80,  &&   \ldots, && \ldots
 \end{matrix}
 $
@@ -274,18 +269,12 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+1)} } 
-&&  \footnotesize {\maroonC
- {(+2)} }  
-&&  \footnotesize {\maroonC
- {(+3)} }   
-&&  \footnotesize {\maroonC
- {(+4)} }   
-&&  \footnotesize {\maroonC
- {(+5)} }
-&&  \footnotesize {\maroonC
- {(+6)} }  \\
+&   \footnotesize {\maroonC {(+1)} } 
+&&  \footnotesize {\maroonC {(+2)} }  
+&&  \footnotesize {\maroonC {(+3)} }   
+&&  \footnotesize {\maroonC {(+4)} }   
+&&  \footnotesize {\maroonC {(+5)} }
+&&  \footnotesize {\maroonC {(+6)} }  \\
 1,  &&  2,  &&  4,  &&   7,  &&   11,  &&   \ldots, && \ldots
 \end{matrix}
 $
@@ -3096,7 +3085,7 @@ $35 \ \text{min}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3116,26 +3105,26 @@ Complete the table.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Let's complete the table.
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+|         |    Born in UK                       |   Not born in UK                    |   Total                             |
+|:-----:  |:----------------:                   |:---------------:                    |:--------:                           |
+| Males   | $28 - 11 = 17 \ \footnotesize{(5)}$ | $23 - 17 = 6 \ \footnotesize{(6)}$  | $23 \ \footnotesize{(2)}$           |
+| Females | $11 \ \footnotesize{(3)}$           | $12 - 6 = 6 \ \footnotesize{(8)}$   | $40 - 23 = 17 \ \footnotesize{(9)}$ |
+| Total   | $28 \ \footnotesize{(4)}$           | $40 - 28 = 12 \ \footnotesize{(7)}$ | $40 \ \footnotesize{(1)}$           |
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+|         |    Born in UK  |   Not born in UK |   Total  |
+|:-----:  |:--------------:|:---------------: |:--------:|
+| Males   | $17$           | $6$              | $23$     |
+| Females | $11$           | $6$              | $17$     |
+| Total   | $28$           | $12$             | $40$     |
 
 </div>
 </div>
@@ -3186,7 +3175,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

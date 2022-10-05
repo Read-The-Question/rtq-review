@@ -1,8 +1,8 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-talgebra-1-pr-prpcr"
 title: "TopicPaper - Algebra - 1 - PR - PRPCR"
-date: 2022-09-24 05:07:09
-questions_count: "4"
+date: 2022-10-04 10:09:40
+questions_count: "2"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -37,26 +37,6 @@ Expression
 - $5m - 5k$
 - $5k - 5m$
 
-
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prpcr question'>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
-Lisa has some boxes that are all cubes of the same six=ze.
-
-She uses four of the boxes to make a pile with a height of $72 \ \text{cm}$.
-
-She puts one more box on top of the pile.
-
-![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-14-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-14-00.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-2-question-14-00.png")
-
-Work out the height of the pile of **five** boxes.
 
 </div>
 
@@ -115,57 +95,6 @@ As $x$ increases,
 
 </div>
 
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prpcr question'>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
-%empty%
-
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Bags $A$ and $B$ contain some counters.
-
-![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-10-subquestion-1-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-10-subquestion-1-00.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-10-subquestion-1-00.png")
-
-Bag A: $6y + 1$ counters
-
-Bage B: $4y + 7$ counters
-
-The number of counters in each bag **is the same**.
-
-Work out the value of $y$.
-
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Bag $C$ contains more counters than bag $D$.
-
-![alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-10-subquestion-2-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-10-subquestion-2-00.png "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2/section-3-question-10-subquestion-2-00.png")
-
-Bag C: $4k$ counters
-
-Bage D: $k + 12$ counters
-
-What is the **smallest** possible value of $k$?
-
-</div>
-
-</div>
-</li>
-</ul>
 </div>
 </li>
 </ul>

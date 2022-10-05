@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tgraph-3"
 title: "TopicPaper - Graph - 3"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "40"
 ---
 <div class='paper'>
@@ -16,7 +16,7 @@ questions_count: "40"
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -53,7 +53,7 @@ Plot the points on the graph and show the length of the side of the rectangle
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(8, 8)$
+Coordinates $= (8, 8)$
 
 </div>
 </div>
@@ -68,7 +68,7 @@ $(8, 8)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -156,8 +156,8 @@ Find the total rainfall for the week?
 
 $
 \begin{aligned}
-\text{Total rainfall of the week}       &= 6 + 5 + 2 + 0 + 14 + 2 + 4 \\\\
-                                        &= 33 \ \text{mm}
+\text{Total rainfall}       &= 6 + 5 + 2 + 0 + 14 + 2 + 4 \\\\
+                            &= 33 \ \text{mm}
 \end{aligned}
 $
 
@@ -209,7 +209,7 @@ $4.71 \ \text{mm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -270,8 +270,8 @@ How many people scored **more** than two goals?
 
 $
 \begin {aligned}
-\text {Number of people socred more than two goals}     &= 19 + 13 + 7 + 2 \\\\
-                                                        &= 41
+\text {Number of people}    &= 19 + 13 + 7 + 2 \\\\
+                            &= 41
 \end {aligned}
 $
 
@@ -299,8 +299,8 @@ How many people took part in the competition?
 
 $
 \begin {aligned}
-\text {Number of people took part}      &= 9 + 15 + 22 + 19 + 13 + 7 + 2 \\\\
-                                        &= 87
+\text {Total number of people}      &= 9 + 15 + 22 + 19 + 13 + 7 + 2 \\\\
+                                    &= 87
 \end {aligned}
 $
 
@@ -328,9 +328,9 @@ How many goals were scored altogether?
 
 $
 \begin {aligned}
-\text {Total number of goals scored}    &= 9 \times 0 + 15 \times 1 + 22 \times 2 + 19 \times 3 + 13 \times 4 + 7 \times 5 + 2 \times 6 \\\\
-                                        &= 0 + 15 + 44 + 57 + 52 + 35 + 12 \\\\
-                                        &= 215
+\text {Total goals scored}      &= 9 \times 0 + 15 \times 1 + 22 \times 2 + 19 \times 3 + 13 \times 4 + 7 \times 5 + 2 \times 6 \\\\
+                                &= 0 + 15 + 44 + 57 + 52 + 35 + 12 \\\\
+                                &= 215
 \end {aligned}
 $
 
@@ -350,7 +350,7 @@ $215$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -427,7 +427,7 @@ Kite
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -597,7 +597,7 @@ $122 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -662,9 +662,7 @@ Write the coordinates of the points where tile $4$ touches two other tiles.
 <div class='workings'>
 <div class='working'>
 
-$(3, 3)$
-
-$(4, 4)$
+$(3, 3), \quad (4, 4)$
 
 </div>
 </div>
@@ -688,9 +686,7 @@ Write the coordinates of the points where **tile $17$** touches two other tiles.
 <div class='workings'>
 <div class='working'>
 
-$(17, 17)$
-
-$(18, 18)$
+$(17, 17), \quad (18, 18)$
 
 </div>
 </div>
@@ -726,15 +722,17 @@ Show working to explain your answer.
 
 $
 \begin{aligned}
-\text{Number of tiles required}     &= 4 \times 4 \\\\
-                                    &= 16 \\\\
-\text{Number of tiles remaining}    &= 30 - 1 - 2 \times 2 - 3 \times 3 \\\\
-                                    &= 30 - 1 - 4 - 9 \\\\
-                                    &= 16
+\text{Tiles required}   &= 4 \times 4 \\\\
+                        &= 16 \\\\
+\text{Tiles used}       &= 1 + 2 \times 2 + 3 \times 3 \\\\
+                        &= 1 + 4 + 9 \\\\
+                        &= 14 \\\\
+\text{Tiles remaining}  &= 30 - 14 \\\\
+                        &= 16
 \end{aligned}
 $
 
-Yes we have enough tiles left to make the next square.
+There are enough tiles left to make the next square.
 
 </div>
 </div>
@@ -752,7 +750,7 @@ Yes
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -783,16 +781,17 @@ The pie chart shows the favourite colour of some boys.
 
 Calculate the value of $x$.
 
-Red is the favourite colour of $126$ boys.
-
 </div>
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Angles around a point add up to} = 360 \degree$
+
+
 $
 \begin{aligned}
-\text{Value of x}       &= 360 - 76 - 84 - 62 \\\\
-                        &= 138 \degree
+x       &= 360 - 76 - 84 - 62 \\\\
+        &= 138 \degree
 \end{aligned}
 $
 
@@ -811,6 +810,8 @@ $138 \degree$
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
+
+Red is the favourite colour of $126$ boys.
 
 Calculate the number of boys whose favourite colour is:
 
@@ -840,6 +841,36 @@ green
 <div class='workings'>
 <div class='working'>
 
+Let the total number of boys $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {84} {360} \times a        &= 126 \\\\
+a                                 &= 126 \times \dfrac {360} {84} \\\\
+a                                 &= \dfrac {126 \times 360} {84} \\\\
+a                                 &= \dfrac {3 \times 42 \times 2 \times 180} {2 \times 42} \\\\
+a                                 &= \dfrac {3 \times \cancel {42} \times \cancel 2 \times 180} {\cancel 2 \times \cancel {42}} \\\\
+a                                 &= 3 \times 180 \\\\
+a                                 &= 540
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Number of boys with green favourite colour}     &= \dfrac {62} {360} \times 540 \\\\
+                                                      &= \dfrac {62 \times 540} {360} \\\\
+                                                      &= \dfrac {2 \times 31 \times 3 \times 180} {2 \times 180} \\\\
+                                                      &= \dfrac {\cancel 2 \times 31 \times 3 \times \cancel {180}} {\cancel 2 \times \cancel {180}} \\\\
+                                                      &= 31 \times 3 \\\\
+                                                      &= 93
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
 Using ratio,
 
 $
@@ -847,8 +878,7 @@ $
   & \text{red}                                  &:& \text{green} \\\\
 = & 84                                          &:& 62 \\\\
 = & 1                                           &:& \dfrac {62} {84} \\\\
-= & 1 \times 126                                &:& \dfrac {62} {84} \times 126 \\\\
-= & 126                                         &:& \dfrac {62 \times 126} {84} \\\\
+= & 1 \times 126                                &:& \dfrac {62 \times 126} {84} \\\\
 = & 126                                         &:& \dfrac {31 \times 2 \times 42 \times 3} {2 \times 42} \\\\
 = & 126                                         &:& \dfrac {31 \times \cancel 2 \times \cancel {42} \times 3} {\cancel 2 \times \cancel {42}} \\\\
 = & 126                                         &:& 31 \times 3 \\\\
@@ -880,6 +910,22 @@ yellow.
 <div class='workings'>
 <div class='working'>
 
+Using value from the answer above,
+
+$
+\begin{aligned}
+\text{Number of boys with yellow favourite colour}    &= \dfrac {138} {360} \times 540 \\\\
+                                                      &= \dfrac {138 \times 540} {360} \\\\
+                                                      &= \dfrac {2 \times 69 \times 3 \times 180} {2 \times 180} \\\\
+                                                      &= \dfrac {\cancel 2 \times 69 \times 3 \times \cancel {180}} {\cancel 2 \times \cancel {180}} \\\\
+                                                      &= 69 \times 3 \\\\
+                                                      &= 207
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
 Using ratio,
 
 $
@@ -887,8 +933,7 @@ $
   & \text{red}                                  &:& \text{yellow} \\\\
 = & 84                                          &:& 138 \\\\
 = & 1                                           &:& \dfrac {138} {84} \\\\
-= & 1 \times 126                                &:& \dfrac {138} {84} \times 126 \\\\
-= & 126                                         &:& \dfrac {138 \times 126} {84} \\\\
+= & 1 \times 126                                &:& \dfrac {138 \times 126} {84} \\\\
 = & 126                                         &:& \dfrac {69 \times 2 \times 42 \times 3} {2 \times 42} \\\\
 = & 126                                         &:& \dfrac {69 \times \cancel 2 \times \cancel {42} \times 3} {\cancel 2 \times \cancel {42}} \\\\
 = & 126                                         &:& 69 \times 3 \\\\
@@ -920,6 +965,23 @@ not blue.
 <div class='workings'>
 <div class='working'>
 
+Using value from the answer above,
+
+$
+\begin{aligned}
+\text{Number of boys with favourite colour not blue}  &= \dfrac {360 - 76} {360} \times 540 \\\\
+                                                      &= \dfrac {284} {360} \times 540 \\\\
+                                                      &= \dfrac {284 \times 540} {360} \\\\
+                                                      &= \dfrac {2 \times 142 \times 3 \times 180} {2 \times 180} \\\\
+                                                      &= \dfrac {\cancel 2 \times 142 \times 3 \times \cancel {180}} {\cancel 2 \times \cancel {180}} \\\\
+                                                      &= 142 \times 3 \\\\
+                                                      &= 426
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
 Using ratio,
 
 $
@@ -928,8 +990,7 @@ $
 = & 84                                          &:& 360 - 76 \\\\
 = & 84                                          &:& 284 \\\\
 = & 1                                           &:& \dfrac {284} {84} \\\\
-= & 1 \times 126                                &:& \dfrac {284} {84} \times 126 \\\\
-= & 126                                         &:& \dfrac {284 \times 126} {84} \\\\
+= & 1 \times 126                                &:& \dfrac {284 \times 126} {84} \\\\
 = & 126                                         &:& \dfrac {142 \times 2 \times 42 \times 3} {2 \times 42} \\\\
 = & 126                                         &:& \dfrac {142 \times \cancel 2 \times \cancel {42} \times 3} {\cancel 2 \times \cancel {42}} \\\\
 = & 126                                         &:& 142 \times 3 \\\\
@@ -964,21 +1025,7 @@ Calculate the total number of boys
 <div class='workings'>
 <div class='working'>
 
-Let the total number of boys $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-\dfrac {84} {360} \times a              &= 126 \\\\
-a                                       &= 126 \times \dfrac {360} {84} \\\\
-a                                       &= \dfrac {126 \times 360} {84} \\\\
-a                                       &= \dfrac {42 \times 3 \times 2 \times 180} {42 \times 2} \\\\
-a                                       &= \dfrac {\cancel {42} \times 3 \times \cancel 2 \times 180} {\cancel {42} \times \cancel 2} \\\\
-a                                       &= 3 \times 180 \\\\
-a                                       &= 540
-\end{aligned}
-$
+$540$
 
 </div>
 </div>
@@ -996,7 +1043,7 @@ $540$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1031,14 +1078,14 @@ What is the temperature at midnight?
 <div class='workings'>
 <div class='working'>
 
-$-7 \ \degree \text{C}$
+$-7 \degree \text{C}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$-7 \ \degree \text{C}$
+$-7 \degree \text{C}$
 
 </div>
 </div>
@@ -1059,7 +1106,7 @@ $
 \begin{aligned}
 \text{Temperature rise}     &= 8 - (-4) \\\\
                             &= 8 + 4 \\\\
-                            &= 12 \ \degree \text{C}
+                            &= 12 \degree \text{C}
 \end{aligned}
 $
 
@@ -1068,7 +1115,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$12 \ \degree \text{C}$
+$12 \degree \text{C}$
 
 </div>
 </div>
@@ -1197,7 +1244,7 @@ $20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1277,7 +1324,7 @@ Plot the 4th point on the graph too and show the side length of the square
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(1, 1)$
+Coordinates $= (1, 1)$
 
 </div>
 </div>
@@ -1295,7 +1342,7 @@ $(1, 1)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1419,9 +1466,9 @@ What was the total number of people counted throughout the afternoon?
 
 $
 \begin{aligned}
-\text{Total number of people}       &= 8 \times 1 + 9 \times 2 + 5 \times 3 + 7 \times 4 + 1 \times 5 + 2 \times 6 \\\\
-                                    &= 8 + 18 + 15 + 28 + 5 + 12 \\\\
-                                    &= 86
+\text{Number of people}     &= 8 \times 1 + 9 \times 2 + 5 \times 3 + 7 \times 4 + 1 \times 5 + 2 \times 6 \\\\
+                            &= 8 + 18 + 15 + 28 + 5 + 12 \\\\
+                            &= 86
 \end{aligned}
 $
 
@@ -1441,7 +1488,7 @@ $86$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1508,7 +1555,7 @@ $(6, 3)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1569,8 +1616,8 @@ How many pupils were in the class?
 
 $
 \begin{aligned}
-\text{Total number of pupils}       &= 2 + 4 + 2 + 3 + 1 + 3 + 8 + 4 + 3 \\\\
-                                    &= 30
+\text{Number of pupils}     &= 2 + 4 + 2 + 3 + 1 + 3 + 8 + 4 + 3 \\\\
+                            &= 30
 \end{aligned}
 $
 
@@ -1590,7 +1637,7 @@ $30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1709,7 +1756,7 @@ $(-2, 2)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1851,7 +1898,7 @@ Plot the additional information in the bar chart
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1930,11 +1977,7 @@ Plot the 3 points on the graph too and show the length of the side of the square
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(-2, -3)$
-
-$(-4, 5)$
-
-$(6, -1)$
+Coordinates $= (-2, -3), (-4, 5), (6, -1)$
 
 </div>
 </div>
@@ -1952,7 +1995,7 @@ $(-2, -3), (-4, 5), (6, -1)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2039,7 +2082,7 @@ $28$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2078,7 +2121,7 @@ lost
 
 $
 \begin{aligned}
-\text{Number of games lost}             &= 25 \% \ \text{of} \ 96 \\\\
+\text{Games lost}                       &= 25 \% \ \text{of} \ 96 \\\\
                                         &= \dfrac {25} {100} \times 96 \\\\
                                         &= \dfrac {25 \times 96} {100} \\\\
                                         &= \dfrac {25 \times 4 \times 24} {25 \times 4} \\\\
@@ -2144,7 +2187,7 @@ $36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2161,6 +2204,18 @@ What will the coordinates be of point $F$?
 <div class='workings'>
 <div class='working'>
 
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Plot the third point of the triangle at $(4, 3)$ on the graph
+
+
+*ABBR: TODO:: Add drawing ends.*
+
+
 $(4, 3)$
 
 </div>
@@ -2176,7 +2231,7 @@ $(4, 3)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2245,7 +2300,7 @@ Plot the points on the graph and join them to form a straight line
 *ABBR: TODO:: Add drawing ends.*
 
 
-a $= 5$
+$a = 5$
 
 </div>
 </div>
@@ -2281,7 +2336,7 @@ Plot the points on the graph and join them to form a straight line
 *ABBR: TODO:: Add drawing ends.*
 
 
-b $= 13$
+$b = 13$
 
 </div>
 </div>
@@ -2304,6 +2359,18 @@ Give the coordinates of a new point which would form a right angled triangle wit
 </div>
 <div class='workings'>
 <div class='working'>
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Plot the points on the graph and show the triangle.
+
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 $(6, 3)$
 
@@ -2364,7 +2431,7 @@ $(6, 3)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2433,7 +2500,7 @@ Plot the points on the graph and join them to form a straight line
 *ABBR: TODO:: Add drawing ends.*
 
 
-a $= 1.5$
+$a = 1.5$
 
 </div>
 </div>
@@ -2469,7 +2536,7 @@ Plot the points on the graph and join them to form a straight line
 *ABBR: TODO:: Add drawing ends.*
 
 
-b $= 3.5$
+$b = 3.5$
 
 </div>
 </div>
@@ -2492,6 +2559,18 @@ Give the coordinates of a new point which would form a right angled triangle wit
 </div>
 <div class='workings'>
 <div class='working'>
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Plot the points on the graph and show the triangle.
+
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 $(6, 1)$
 
@@ -2552,7 +2631,7 @@ $(2, 7)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2589,11 +2668,11 @@ What percentage of pupils travelled had a coach?
 
 $
 \begin{aligned}
-\text{Percentage of people having coach}      &= \dfrac {90} {360} \times 100 \\\\
-                                              &= \dfrac {90 \times 100} {360} \\\\
-                                              &= \dfrac {90 \times 4 \times 25} {90 \times 4} \\\\
-                                              &= \dfrac {\cancel {90} \times \cancel 4 \times 25} {\cancel {90} \times \cancel 4} \\\\
-                                              &= 25 \ \%
+\text{\% of pupils travelled by coach}      &= \dfrac {90} {360} \times 100 \\\\
+                                            &= \dfrac {90 \times 100} {360} \\\\
+                                            &= \dfrac {90 \times 4 \times 25} {90 \times 4} \\\\
+                                            &= \dfrac {\cancel {90} \times \cancel 4 \times 25} {\cancel {90} \times \cancel 4} \\\\
+                                            &= 25 \ \%
 \end{aligned}
 $
 
@@ -2615,19 +2694,17 @@ $25 \ \%$
 
 What fraction of pupils walked to school?
 
-It was found that $12$ walked to school.
-
 </div>
 <div class='workings'>
 <div class='working'>
 
 $
 \begin{aligned}
-\text{Fraction of people having to walk}      &= \dfrac {360 - 90 - 90 - 45} {360} \\\\
-                                              &= \dfrac {135} {360} \\\\
-                                              &= \dfrac {45 \times 3} {45 \times 8} \\\\
-                                              &= \dfrac {\cancel {45} \times 3} {\cancel {25} \times 8} \\\\
-                                              &= \dfrac {3} {8}
+\text{Fraction of pupils who walked}    &= \dfrac {360 - 90 - 90 - 45} {360} \\\\
+                                        &= \dfrac {135} {360} \\\\
+                                        &= \dfrac {45 \times 3} {45 \times 8} \\\\
+                                        &= \dfrac {\cancel {45} \times 3} {\cancel {25} \times 8} \\\\
+                                        &= \dfrac {3} {8}
 \end{aligned}
 $
 
@@ -2647,10 +2724,41 @@ $\dfrac {3} {8}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
+It was found that $12$ walked to school.
+
 How many pupils took a car to school?
 
 </div>
 <div class='workings'>
+<div class='working'>
+
+Let the total number of people $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {135} {360} \times a         &= 12 \\\\
+a                                   &= 12 \times \dfrac {360} {135} \\\\
+a                                   &= \dfrac {12 \times 360} {135} \\\\
+a                                   &= \dfrac {4 \times 3 \times 45 \times 8} {45 \times 3} \\\\
+a                                   &= \dfrac {4 \times \cancel 3 \times \cancel {45} \times 8} {\cancel {45} \times \cancel 3} \\\\
+a                                   &= 4 \times 8 \\\\
+a                                   &= 32
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Number of people who go by car}     &= \dfrac {90} {360} \times 32 \\\\
+                                          &= \dfrac {90 \times 32} {360} \\\\
+                                          &= \dfrac {90 \times 4 \times 8} {90 \times 4} \\\\
+                                          &= \dfrac {\cancel {90} \times \cancel 4 \times 8} {\cancel {90} \times \cancel 4} \\\\
+                                          &= 8
+\end{aligned}
+$
+
+</div>
 <div class='working'>
 
 Using ratio,
@@ -2691,6 +2799,23 @@ How many pupils did not catch the train to school?
 
 </div>
 <div class='workings'>
+<div class='working'>
+
+Using value from the answer above,
+
+$
+\begin{aligned}
+\text{Number of people who did not catch the train}     &= \dfrac {360 - 45} {360} \times 32 \\\\
+                                                        &= \dfrac {315} {360} \times 32 \\\\
+                                                        &= \dfrac {315 \times 32} {360} \\\\
+                                                        &= \dfrac {45 \times 7 \times 8 \times 4} {45 \times 8} \\\\
+                                                        &= \dfrac {\cancel {45} \times 7 \times \cancel 8 \times 4} {\cancel {45} \times \cancel 8} \\\\
+                                                        &= 7 \times 4 \\\\
+                                                        &= 28
+\end{aligned}
+$
+
+</div>
 <div class='working'>
 
 Using ratio,
@@ -2789,7 +2914,7 @@ $32$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2894,7 +3019,7 @@ Plot the 4th point on the graph too and show the length of the side of the recta
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(4, 0)$
+Coordinates $= (4, 0)$
 
 </div>
 </div>
@@ -2912,7 +3037,7 @@ $(4, 0)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2966,12 +3091,7 @@ Fill in the table below
 <div class='answers'>
 <div class='answer'>
 
-| Method of Transport   | Number    |
-|:-------------------:  |:------:   |
-|         CAR           |     $15$  |
-|         BUS           |     $7$   |
-|         WALK          |     $14$  |
-|         BIKE          |     $8$   |
+%empty%
 
 </div>
 </div>
@@ -2990,7 +3110,7 @@ How many people were in the survey?
 
 $
 \begin{aligned}
-\text{Total number of people}     &= 15 + 7 + 14 + 8 \\\\
+\text{Number of people}     &= 15 + 7 + 14 + 8 \\\\
                                   &= 44
 \end{aligned}
 $
@@ -3019,13 +3139,12 @@ In an attempt to improve the environment children are encouraged to find a “gr
 
 $
 \begin{aligned}
-\text{Number of people now walk}    &= \dfrac {1} {3} \ \text{of} \ 15 + 3 \\\\
-                                    &= \dfrac {1} {3} \times 15 + 3 \\\\
-                                    &= \dfrac {15} {3} + 3 \\\\
-                                    &= \dfrac {5 \times 3} {3} + 3 \\\\
-                                    &= \dfrac {5 \times \cancel 3} {\cancel 3} + 3 \\\\
-                                    &= 5 + 3 \\\\
-                                    &= 8
+\text{Number of children}           &= 14 + \dfrac {1} {3} \times 15 + 3 \\\\
+                                    &= 14 + \dfrac {15} {3} + 3 \\\\
+                                    &= 14 + \dfrac {5 \times 3} {3} + 3 \\\\
+                                    &= 14 + \dfrac {5 \times \cancel 3} {\cancel 3} + 3 \\\\
+                                    &= 14 + 5 + 3 \\\\
+                                    &= 22
 \end{aligned}
 $
 
@@ -3034,7 +3153,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$8$
+$22$
 
 </div>
 </div>
@@ -3045,7 +3164,7 @@ $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3094,14 +3213,14 @@ Plot all the points on the graph
 *ABBR: TODO:: Add drawing ends.*
 
 
-C, E and F forms a straight line.
+$C, E, F$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-C, E, F
+$C, E, F$
 
 </div>
 </div>
@@ -3118,14 +3237,14 @@ Which $4$ letters form a rectangle?
 <div class='workings'>
 <div class='working'>
 
-C, D, E and G form a rectangle
+$C, D, E, G$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-C, D, E, G
+$C, D, E, G$
 
 </div>
 </div>
@@ -3142,14 +3261,14 @@ Which $4$ letters form a square?
 <div class='workings'>
 <div class='working'>
 
-A, B, C and D form a square
+$A, B, C, D$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-A, B, C, D
+$A, B, C, D$
 
 </div>
 </div>
@@ -3160,7 +3279,7 @@ A, B, C, D
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3196,28 +3315,35 @@ How many people liked each flavour?
 <div class='workings'>
 <div class='working'>
 
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+Vanilla
+
+</div>
+<div class='workings'>
+<div class='working'>
+
 $
 \begin{aligned}
-\text{Number of people liked Vanilla}     &= \dfrac {45} {360} \times 120 \\\\
-                                          &= \dfrac {45 \times 120} {360} \\\\
-                                          &= \dfrac {15 \times 3 \times 120} {120 \times 3} \\\\
-                                          &= \dfrac {15 \times \cancel 3 \times \cancel {120}} {\cancel {120} \times \cancel 3} \\\\
-                                          &= 15 \\\\
-\text{Number of people liked Mint}        &= \dfrac {135} {360} \times 120 \\\\
-                                          &= \dfrac {135 \times 120} {360} \\\\
-                                          &= \dfrac {45 \times 3 \times 120} {120 \times 3} \\\\
-                                          &= \dfrac {45 \times \cancel 3 \times \cancel {120}} {\cancel {120} \times \cancel 3} \\\\
-                                          &= 45 \\\\
-\text{Number of people liked Strawberry}  &= \dfrac {90} {360} \times 120 \\\\
-                                          &= \dfrac {90 \times 120} {360} \\\\
-                                          &= \dfrac {30 \times 3 \times 120} {120 \times 3} \\\\
-                                          &= \dfrac {30 \times \cancel 3 \times \cancel {120}} {\cancel {120} \times \cancel 3} \\\\
-                                          &= 30 \\\\
-\text{Number of people liked Chocolate}   &= \dfrac {90} {360} \times 120 \\\\
-                                          &= \dfrac {90 \times 120} {360} \\\\
-                                          &= \dfrac {30 \times 3 \times 120} {120 \times 3} \\\\
-                                          &= \dfrac {30 \times \cancel 3 \times \cancel {120}} {\cancel {120} \times \cancel 3} \\\\
-                                          &= 30
+\text{Vanilla}      &= \dfrac {45} {360} \times 120 \\\\
+                    &= \dfrac {45 \times 120} {360} \\\\
+                    &= \dfrac {15 \times 3 \times 120} {120 \times 3} \\\\
+                    &= \dfrac {15 \times \cancel 3 \times \cancel {120}} {\cancel {120} \times \cancel 3} \\\\
+                    &= 15
 \end{aligned}
 $
 
@@ -3229,16 +3355,97 @@ $
 Vanilla $=$ $15$
 
 </div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+Mint
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Mint}         &= \dfrac {135} {360} \times 120 \\\\
+                    &= \dfrac {135 \times 120} {360} \\\\
+                    &= \dfrac {45 \times 3 \times 120} {120 \times 3} \\\\
+                    &= \dfrac {45 \times \cancel 3 \times \cancel {120}} {\cancel {120} \times \cancel 3} \\\\
+                    &= 45
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
 <div class='answer'>
 
 Mint $=$ $45$
 
 </div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+Strawberry
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Strawberry}   &= \dfrac {90} {360} \times 120 \\\\
+                    &= \dfrac {90 \times 120} {360} \\\\
+                    &= \dfrac {30 \times 3 \times 120} {120 \times 3} \\\\
+                    &= \dfrac {30 \times \cancel 3 \times \cancel {120}} {\cancel {120} \times \cancel 3} \\\\
+                    &= 30
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
 <div class='answer'>
 
 Strawberry $=$ $30$
 
 </div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+Chocolate
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Chocolate}    &= \dfrac {90} {360} \times 120 \\\\
+                    &= \dfrac {90 \times 120} {360} \\\\
+                    &= \dfrac {30 \times 3 \times 120} {120 \times 3} \\\\
+                    &= \dfrac {30 \times \cancel 3 \times \cancel {120}} {\cancel {120} \times \cancel 3} \\\\
+                    &= 30
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
 <div class='answer'>
 
 Chocolate $=$ $30$
@@ -3246,6 +3453,9 @@ Chocolate $=$ $30$
 </div>
 </div>
 
+</div>
+</li>
+</ul>
 </div>
 </li>
 <li>
@@ -3287,7 +3497,7 @@ Plot the results on the bar chart
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3302,16 +3512,29 @@ A teacher asks the students in year $6$ how many people live in their homes. She
 |            $6$                |       $10$        |                           |
 |            $7$                |       $3$         |                           |
 
+![reigate-grammar-school--11-plus--maths--2013--sample-paper-4/section-1-question-31-00.png](/assets/reigate-grammar-school--11-plus--maths--2013--sample-paper-4/section-1-question-31-00.png "reigate-grammar-school--11-plus--maths--2013--sample-paper-4/section-1-question-31-00.png")
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
 
 Complete the end column in the table
-
-How many students are there in year $6$?.
-
-How many people are there all together?.
-
-Using the first two columns of the table, draw a bar chart to represent these results.
-
-![reigate-grammar-school--11-plus--maths--2013--sample-paper-4/section-1-question-31-00.png](/assets/reigate-grammar-school--11-plus--maths--2013--sample-paper-4/section-1-question-31-00.png "reigate-grammar-school--11-plus--maths--2013--sample-paper-4/section-1-question-31-00.png")
 
 </div>
 <div class='workings'>
@@ -3325,14 +3548,91 @@ Using the first two columns of the table, draw a bar chart to represent these re
 |            $6$                |       $10$        |   $6 \times 10 = 60$      |
 |            $7$                |       $3$         |   $7 \times 3 = 21$       |
 
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+| Number of people in house     | Number of times   | Total number of people    |
+|:-------------------------:    |:---------------:  |:----------------------:   |
+|            $3$                |       $45$        |   $135$                   |
+|            $4$                |       $25$        |   $100$                   |
+|            $5$                |       $17$        |   $85$                    |
+|            $6$                |       $10$        |   $60$                    |
+|            $7$                |       $3$         |   $21$                    |
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How many students are there in year $6$?.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
 $
 \begin{aligned}
 \text{Number of students in year 6}     &= 45 + 25 + 17 + 10 + 3 \\\\
-                                        &= 100 \\\\
-\text{Total number of people altogether}&= 135 + 100 + 85 + 60 + 21 \\\\
-                                        &= 401
+                                        &= 100
 \end{aligned}
 $
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$100$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How many people are there all together?.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total number of people altogether}  &= 135 + 100 + 85 + 60 + 21 \\\\
+                                          &= 401
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$401$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Using the first two columns of the table, draw a bar chart to represent these results.
+
+</div>
+<div class='workings'>
+<div class='working'>
 
 *ABBR: TODO:: Add drawing starts.*
 
@@ -3351,15 +3651,18 @@ Plot the information on the bar chart
 <div class='answers'>
 <div class='answer'>
 
-$100, 401$
+%empty%
 
 </div>
 </div>
 
 </div>
 </li>
+</ul>
+</div>
+</li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3396,7 +3699,7 @@ How many black cars are there?
 
 $
 \begin{aligned}
-\text{Number of black cars}     &= \dfrac {90} {360} \times 120 \\\\
+\text{Black cars}               &= \dfrac {90} {360} \times 120 \\\\
                                 &= \dfrac {90 \times 120} {360} \\\\
                                 &= \dfrac {3 \times 30 \times 120} {120 \times 3} \\\\
                                 &= \dfrac {\cancel 3 \times 30 \times \cancel {120}} {\cancel {120} \times \cancel 3} \\\\
@@ -3428,7 +3731,7 @@ How many cars are there which are NOT grey?
 
 $
 \begin{aligned}
-\text{Number of cars that are not grey}   &= \dfrac {360 - 135} {360} \times 120 \\\\
+\text{Cars that are not grey}             &= \dfrac {360 - 135} {360} \times 120 \\\\
                                           &= \dfrac {225} {360} \times 120 \\\\
                                           &= \dfrac {225 \times 120} {360} \\\\
                                           &= \dfrac {3 \times 75 \times 120} {120 \times 3} \\\\
@@ -3453,12 +3756,12 @@ $75$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-In the diagram below, the point 𝑃 has coordinates $(1,3)$.
+In the diagram below, the point $P$ has coordinates $(1,3)$.
 
 ![reigate-grammar-school--11-plus--maths--2018--sample-paper-5/section-1-question-31-00.png](/assets/reigate-grammar-school--11-plus--maths--2018--sample-paper-5/section-1-question-31-00.png "reigate-grammar-school--11-plus--maths--2018--sample-paper-5/section-1-question-31-00.png")
 
@@ -3482,7 +3785,7 @@ In the diagram below, the point 𝑃 has coordinates $(1,3)$.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write down the coordinates of point *Q*.
+Write down the coordinates of point $Q$.
 
 </div>
 <div class='workings'>
@@ -3506,7 +3809,7 @@ $(3, 1)$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The point 𝑅 has coordinates $(5,3)$. Mark 𝑅 on the diagram.
+The point $R$ has coordinates $(5,3)$. Mark $R$ on the diagram.
 
 </div>
 <div class='workings'>
@@ -3540,7 +3843,7 @@ Plot the points R on the graph
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Add $\text{one}$ more point so that the $\text{four}$ points make a square. Write down the coordinates of this $\text{fourth}$ point and label it 𝑆.
+Add one more point so that the four points make a square. Write down the coordinates of this fourth point and label it $S$.
 
 </div>
 <div class='workings'>
@@ -3558,7 +3861,7 @@ Plot the 4th point on the graph too and show the length of the side of the squar
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(3, 5)$
+Coordinates $= (3, 5)$
 
 </div>
 </div>
@@ -3576,7 +3879,7 @@ $(3, 5)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3637,8 +3940,8 @@ How many houses are there in the street?
 
 $
 \begin{aligned}
-\text{Total number of houses in the street}     &= 9 + 12 + 10 + 5 \\\\
-                                                &= 36
+\text{Houses on the street}     &= 9 + 12 + 10 + 5 \\\\
+                                &= 36
 \end{aligned}
 $
 
@@ -3666,9 +3969,9 @@ How many pets are there in the street?
 
 $
 \begin{aligned}
-\text{Number of pets in the street}       &= 9 \times 0 + 12 \times 1 + 10 \times 2 + 5 \times 3 \\\\
-                                          &= 0 + 12 + 20 + 15 \\\\
-                                          &= 47
+\text{Pets in the street}               &= 9 \times 0 + 12 \times 1 + 10 \times 2 + 5 \times 3 \\\\
+                                        &= 0 + 12 + 20 + 15 \\\\
+                                        &= 47
 \end{aligned}
 $
 
@@ -3688,7 +3991,7 @@ $47$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3811,7 +4114,7 @@ $(5, 5)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3872,8 +4175,8 @@ How many households are there in the street?
 
 $
 \begin{aligned}
-\text{Number of households in the streets}    &= 3 + 10 + 13 + 6 \\\\
-                                              &= 32
+\text{Households on the streets}    &= 3 + 10 + 13 + 6 \\\\
+                                    &= 32
 \end{aligned}
 $
 
@@ -3901,9 +4204,9 @@ How many cars are there in the street?
 
 $
 \begin{aligned}
-\text{Number of cars in the streets}    &= 3 \times 0 + 10 \times 1 + 13 \times 2 + 6 \times 3 \\\\
-                                        &= 0 + 10 + 26 + 18 \\\\
-                                        &= 54
+\text{Cars in the streets}      &= 3 \times 0 + 10 \times 1 + 13 \times 2 + 6 \times 3 \\\\
+                                &= 0 + 10 + 26 + 18 \\\\
+                                &= 54
 \end{aligned}
 $
 
@@ -3923,12 +4226,12 @@ $54$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-In the diagram below, the point 𝐵 has coordinates $(1,4)$.
+In the diagram below, the point $B$ has coordinates $(1,4)$.
 
 ![reigate-grammar-school--11-plus--maths--2020--sample-paper-7/section-1-question-18-00.png](/assets/reigate-grammar-school--11-plus--maths--2020--sample-paper-7/section-1-question-18-00.png "reigate-grammar-school--11-plus--maths--2020--sample-paper-7/section-1-question-18-00.png")
 
@@ -3952,7 +4255,7 @@ In the diagram below, the point 𝐵 has coordinates $(1,4)$.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write down the coordinates of point 𝐴
+Write down the coordinates of point $A$.
 
 </div>
 <div class='workings'>
@@ -3976,7 +4279,7 @@ $(2, 1)$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The point 𝐶 has coordinates $(7,1)$. Mark 𝐶 on the diagram and then draw a line from 𝐵 to 𝐶.
+The point $C$ has coordinates $(7,1)$. Mark $C$ on the diagram and then draw a line from $B$ to $C$.
 
 </div>
 <div class='workings'>
@@ -4010,7 +4313,7 @@ Plot the point C on the graph and join it to point C with a line
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The point 𝐷 is on the line you have drawn, and it is twice as far from 𝐵 as from 𝐶. Mark 𝐷 on the diagram and write down its coordinates.
+The point $D$ is on the line you have drawn, and it is twice as far from $B$ as from $C$. Mark $D$ on the diagram and write down its coordinates.
 
 </div>
 <div class='workings'>
@@ -4028,7 +4331,26 @@ Plot the point D on the graph and show the length of the line segment BC
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(13, -2)$
+Let the coordinates $= (a, b)$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {1 + a} {2}            &= 7 \\\\
+1 + a                         &= 7 \times 2 \\\\
+1 + a                         &= 14 \\\\
+a                             &= 14 - 1 \\\\
+a                             &= 13 \\\\
+\dfrac {4 + b} {2}            &= 1 \\\\
+4 + b                         &= 1 \times 2 \\\\
+4 + b                         &= 2 \\\\
+b                             &= 2 - 4 \\\\
+b                             &= -2
+\end{aligned}
+$
+
+Coordinates $= (13, -2)$
 
 </div>
 </div>
@@ -4046,7 +4368,7 @@ $(13, -2)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -4107,8 +4429,8 @@ How many houses are there in the street?
 
 $
 \begin{aligned}
-\text{Number of houses in the street}     &= 13 + 11 + 5 + 1 \\\\
-                                          &= 30
+\text{Houses on the street}     &= 13 + 11 + 5 + 1 \\\\
+                                &= 30
 \end{aligned}
 $
 
@@ -4136,9 +4458,9 @@ How many television sets are there in the street?
 
 $
 \begin{aligned}
-\text{Number of television sets in the street}  &= 13 \times 1 + 11 \times 2 + 5 \times 3 + 1 \times 4 \\\\
-                                                &= 13 + 22 + 15 + 4 \\\\
-                                                &= 54
+\text{Television sets in the street}    &= 13 \times 1 + 11 \times 2 + 5 \times 3 + 1 \times 4 \\\\
+                                        &= 13 + 22 + 15 + 4 \\\\
+                                        &= 54
 \end{aligned}
 $
 
@@ -4158,7 +4480,7 @@ $54$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -4223,22 +4545,24 @@ Plot the points on the graph and join them to make a straight line
 
 Tick the correct statement:
 
-This line is horizontal $\Box$ 
-
-This line is vertical $\Box$
+- This line is horizontal
+- This line is vertical
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-This line is vertical
+This line is vertical.
 
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
 <div class='answer'>
 
-This line is vertical
+This line is vertical.
 
 </div>
 </div>
@@ -4249,7 +4573,7 @@ This line is vertical
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -4269,13 +4593,18 @@ How many children predicted that Stefan would win?
 
 $
 \begin{aligned}
-\text{Number of children who predicted Stefan}      &= 40 - \dfrac {180} {360} \times 40 - \dfrac {90} {360} \times 40 - 5 \% \ \text{of} \ 40 \\\\
-                                                    &= 40 - \dfrac {180 \times 40} {360} - \dfrac {90 \times 40} {360} - \dfrac {5} {100} \times 40 \\\\
-                                                    &= 40 - \dfrac {180 \times 2 \times 20} {180 \times 2} - \dfrac {90 \times 4 \times 10} {90 \times 4} - \dfrac {5 \times 40} {100} \\\\
-                                                    &= 40 - \dfrac {\cancel {180} \times \cancel 2 \times 20} {\cancel {180} \times \cancel 2} - \dfrac {\cancel {90} \times \cancel 4 \times 10} {\cancel {90} \times \cancel 4} - \dfrac {5 \times 20 \times 2} {5 \times 20} \\\\
-                                                    &= 40 - 20 - 10 - \dfrac {\cancel 5 \times \cancel {20} \times 2} {\cancel 5 \times \cancel {20}} \\\\
-                                                    &= 40 - 30 - 2 \\\\
-                                                    &= 8
+\text{Angle of Stefan sector}     &= 90 - 5 \% \text{ of } 360 \\\\
+                                  &= 90 - \dfrac {5} {100} \times 360 \\\\
+                                  &= 90 - \dfrac {5 \times 360} {100} \\\\
+                                  &= 90 - \dfrac {5 \times 20 \times 18} {5 \times 20} \\\\
+                                  &= 90 - \dfrac {\cancel 5 \times \cancel {20} \times 18} {\cancel 5 \times \cancel {20}} \\\\
+                                  &= 90 - 18 \\\\
+                                  &= 72 \degree \\\\
+\text{Number of children}         &= \dfrac {72} {360} \times 40 \\\\
+                                  &= \dfrac {72 \times 40} {360} \\\\
+                                  &= \dfrac {8 \times 9 \times 40} {9 \times 40} \\\\
+                                  &= \dfrac {8 \times \cancel 9 \times \cancel {40}} {\cancel 9 \times \cancel {40}} \\\\
+                                  &= 8
 \end{aligned}
 $
 
@@ -4292,7 +4621,7 @@ $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -4373,7 +4702,7 @@ A straight vertical line is drawn so that it passes through $6$ on the $x$ axis.
 
 
 
-Plot the reflection of the rectangle
+Plot the reflection of the rectangle with points $(7, 3), (9, 3), (7, 5), (9, 5)$
 
 
 *ABBR: TODO:: Add drawing ends.*
@@ -4403,17 +4732,22 @@ If, instead, the vertical line had passed through $20$ on the $x$ axis and you r
 <div class='workings'>
 <div class='working'>
 
-*ABBR: TODO:: Add drawing starts.*
+We have to reflect through a vertical line therefore y-coordinates will remain the same,
 
-![missing image](/papers/missing_image.svg)
+and x-coordinates of reflected points will be at the same distance as the original points but on the other side
 
-
-
-Plot the reflection of the rectangle
-
-
-*ABBR: TODO:: Add drawing ends.*
-
+$
+\begin{aligned}
+\text{Distance of point with abscissa 3}    &= 20 - 3 \\\\
+                                              &= 17 \\\\
+\text{Corresponding reflected abscissa}       &= 20 + 17 \\\\
+                                              &= 37 \\\\
+\text{Distance of point with abscissa 5}    &= 20 - 5 \\\\
+                                              &= 15 \\\\
+\text{Corresponding reflected abscissa}       &= 20 + 15 \\\\
+                                              &= 35
+\end{aligned}
+$
 
 $(35, 3), (37, 3), (35, 5), (37, 5)$
 
@@ -4433,20 +4767,41 @@ $(35, 3), (37, 3), (35, 5), (37, 5)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-240 passengers boarded a train in Birmingham. The pie chart shows the percentage of the passengers who travelled to Shrewsbury, Welshpool, Ludlow, Chester and Telford.
+$240$ passengers boarded a train in Birmingham.
 
-%graph%
+The pie chart shows the percentage of the passengers who
+travelled to Shrewsbury, Welshpool, Ludlow, Chester and Telford.
+
+![st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2/section-1-question-33-00.png](/assets/st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2/section-1-question-33-00.png "st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2/section-1-question-33-00.png")
 
 Work out how many passengers travelled to the following three places:
 
-Welshpool………………………………
-Ludlow……………………………..
-Chester…………………………….. 
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Welshpool
 
 </div>
 <div class='workings'>
@@ -4454,24 +4809,12 @@ Chester……………………………..
 
 $
 \begin{aligned}
-\text{Number of passengers travelled to Welshpool}    &= \dfrac {90} {360} \times 240 \\\\
-                                                      &= \dfrac {90 \times 240} {360} \\\\
-                                                      &= \dfrac {30 \times 3 \times 120 \times 2} {120 \times 3} \\\\
-                                                      &= \dfrac {30 \times \cancel 3 \times \cancel {120} \times 2} {\cancel {120} \times \cancel 3} \\\\
-                                                      &= 30 \times 2 \\\\
-                                                      &= 60 \\\\
-\text{Number of passengers travelled to Ludlow}       &= \dfrac {60} {360} \times 240 \\\\
-                                                      &= \dfrac {60 \times 240} {360} \\\\
-                                                      &= \dfrac {20 \times 3 \times 120 \times 2} {120 \times 3} \\\\
-                                                      &= \dfrac {20 \times \cancel 3 \times \cancel {120} \times 2} {\cancel {120} \times \cancel 3} \\\\
-                                                      &= 20 \times 2 \\\\
-                                                      &= 40 \\\\
-\text{Number of passengers travelled to Chester}      &= \dfrac {54} {360} \times 240 \\\\
-                                                      &= \dfrac {54 \times 240} {360} \\\\
-                                                      &= \dfrac {18 \times 3 \times 120 \times 2} {120 \times 3} \\\\
-                                                      &= \dfrac {18 \times \cancel 3 \times \cancel {120} \times 2} {\cancel {120} \times \cancel 3} \\\\
-                                                      &= 18 \times 2 \\\\
-                                                      &= 36
+\text{Welshpool}    &= \dfrac {90} {360} \times 240 \\\\
+                    &= \dfrac {90 \times 240} {360} \\\\
+                    &= \dfrac {30 \times 3 \times 120 \times 2} {120 \times 3} \\\\
+                    &= \dfrac {30 \times \cancel 3 \times \cancel {120} \times 2} {\cancel {120} \times \cancel 3} \\\\
+                    &= 30 \times 2 \\\\
+                    &= 60
 \end{aligned}
 $
 
@@ -4483,11 +4826,67 @@ $
 Welshpool $=$ $60$
 
 </div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Ludlow
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Ludlow}       &= \dfrac {60} {360} \times 240 \\\\
+                    &= \dfrac {60 \times 240} {360} \\\\
+                    &= \dfrac {20 \times 3 \times 120 \times 2} {120 \times 3} \\\\
+                    &= \dfrac {20 \times \cancel 3 \times \cancel {120} \times 2} {\cancel {120} \times \cancel 3} \\\\
+                    &= 20 \times 2 \\\\
+                    &= 40
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
 <div class='answer'>
 
 Ludlow $=$ $40$
 
 </div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Chester
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Chester}      &= \dfrac {54} {360} \times 240 \\\\
+                    &= \dfrac {54 \times 240} {360} \\\\
+                    &= \dfrac {18 \times 3 \times 120 \times 2} {120 \times 3} \\\\
+                    &= \dfrac {18 \times \cancel 3 \times \cancel {120} \times 2} {\cancel {120} \times \cancel 3} \\\\
+                    &= 18 \times 2 \\\\
+                    &= 36
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
 <div class='answer'>
 
 Chester $=$ $36$
@@ -4497,8 +4896,11 @@ Chester $=$ $36$
 
 </div>
 </li>
+</ul>
+</div>
+</li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -4525,11 +4927,11 @@ Chester $=$ $36$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Plot  the   following   points
+Plot the following points.
 
-**(2,4),(-3,1),(-2,-3)** 
+$(2,4),(-3,1),(-2,-3)$
 
-Join  them  to form  a  triangle.
+Join them to form a triangle.
 
 </div>
 <div class='workings'>
@@ -4597,7 +4999,7 @@ Plot another triangle joined onto this one such that the quadrilateral has only 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

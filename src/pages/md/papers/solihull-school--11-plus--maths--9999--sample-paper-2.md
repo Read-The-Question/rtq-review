@@ -1,7 +1,7 @@
 ---
 slug: "papers/solihull-school-11-plus-maths-9999-sample-paper-2"
 title: "Solihull School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "24"
 ---
 <div class='paper'>
@@ -1095,7 +1095,7 @@ $\dfrac {1} {6}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1135,18 +1135,12 @@ The next term is calculated by adding $4$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}  \\
+&   \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}  \\
 5, && 9, && 13, && 17, && 21, && \ldots, && \ldots
 \end{matrix}
 $
@@ -1192,18 +1186,12 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-1)}}
-&&  \footnotesize{\maroonC
-{(-2)}}
-&&  \footnotesize{\maroonC
-{(-3)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-5)}}
-&&  \footnotesize{\maroonC
-{(-6)}}  \\
+&   \footnotesize{\maroonC{(-1)}}
+&&  \footnotesize{\maroonC{(-2)}}
+&&  \footnotesize{\maroonC{(-3)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-5)}}
+&&  \footnotesize{\maroonC{(-6)}}  \\
 14, && 13, && 11, && 8, && 4, && \ldots, && \ldots
 \end{matrix}
 $
@@ -1247,33 +1235,25 @@ $3, 5, 9, 17, 33, \text{\textunderscore \textunderscore \textunderscore}, \text{
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-Each consecutive term is calculated by multiplying the previous term by $2$ and subtracted by $1$.
-
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 2 - 1)}}
-&&  \footnotesize{\maroonC
-{(\times 2 - 1)}}
-&&  \footnotesize{\maroonC
-{(\times 2 - 1)}}
-&&  \footnotesize{\maroonC
-{(\times 2 - 1)}}
-&&  \footnotesize{\maroonC
-{(\times 2 - 1)}}
-&&  \footnotesize{\maroonC
-{(\times 2 - 1)}}  \\
+&   \footnotesize{\maroonC{(+ 2 ^ 1)}}
+&&  \footnotesize{\maroonC{(+ 2 ^ 2)}}
+&&  \footnotesize{\maroonC{(+ 2 ^ 3)}}
+&&  \footnotesize{\maroonC{(+ 2 ^ 4)}}
+&&  \footnotesize{\maroonC{(+ 2 ^ 5)}}
+&&  \footnotesize{\maroonC{(+ 2 ^ 6)}}  \\
 3, && 5, && 9, && 17, && 33, && \ldots, && \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{First missing number}     &= 33 \times 2 - 1 \\\\
-                                &= 66 - 1 \\\\
+\text{First missing number}     &= 33 + 2 ^ 5 \\\\
+                                &= 33 + 32 \\\\
                                 &= 65 \\\\
-\text{Second missing number}    &= 65 \times 2 - 1 \\\\
-                                &= 130 - 1 \\\\
+\text{Second missing number}    &= 65 + 2 ^ 6 \\\\
+                                &= 65 + 64 \\\\
                                 &= 129
 \end{aligned}
 $
@@ -1312,20 +1292,13 @@ It is a sequence of square numbers.
 
 $
 \begin {matrix}
-    \footnotesize{\maroonC
-{(1^2)}}
-&&  \footnotesize{\maroonC
-{(2^2)}}
-&&  \footnotesize{\maroonC
-{(3^2)}}
-&&  \footnotesize{\maroonC
-{(4^2)}}
-&&  \footnotesize{\maroonC
-{(5^2)}}
-&&  \footnotesize{\maroonC
-{(6^2)}}
-&&  \footnotesize{\maroonC
-{(7^2)}}  \\\\
+    \footnotesize{\maroonC{(1^2)}}
+&&  \footnotesize{\maroonC{(2^2)}}
+&&  \footnotesize{\maroonC{(3^2)}}
+&&  \footnotesize{\maroonC{(4^2)}}
+&&  \footnotesize{\maroonC{(5^2)}}
+&&  \footnotesize{\maroonC{(6^2)}}
+&&  \footnotesize{\maroonC{(7^2)}}  \\\\
 1, && 4, && 9, && 16, && 25, && \ldots, && \ldots
 \end {matrix}
 $
@@ -1373,18 +1346,12 @@ The next term is calculated by dividing the previous term by $2$. Hence, the seq
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\div 2)}}
-&&  \footnotesize{\maroonC
-{(\div 2)}}
-&&  \footnotesize{\maroonC
-{(\div 2)}}
-&&  \footnotesize{\maroonC
-{(\div 2)}}
-&&  \footnotesize{\maroonC
-{(\div 2)}}
-&&  \footnotesize{\maroonC
-{(\div 2)}}  \\
+&   \footnotesize{\maroonC{(\div 2)}}
+&&  \footnotesize{\maroonC{(\div 2)}}
+&&  \footnotesize{\maroonC{(\div 2)}}
+&&  \footnotesize{\maroonC{(\div 2)}}
+&&  \footnotesize{\maroonC{(\div 2)}}
+&&  \footnotesize{\maroonC{(\div 2)}}  \\
 32, && 16, && 8, && 4, &&  2, && \ldots, && \ldots
 \end{matrix}
 $
@@ -1433,18 +1400,12 @@ The next term is calculated by adding together the last two terms. Hence, the se
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(1 + 2)}}
-&&  \footnotesize{\maroonC
-{(2 + 3)}}
-&&  \footnotesize{\maroonC
-{(3 + 5)}}
-&&  \footnotesize{\maroonC
-{(5 + 8)}}
-&&  \footnotesize{\maroonC
-{(8 + 13)}}
-&&  \footnotesize{\maroonC
-{(13 + 21)}}  \\
+&   \footnotesize{\maroonC{(1 + 2)}}
+&&  \footnotesize{\maroonC{(2 + 3)}}
+&&  \footnotesize{\maroonC{(3 + 5)}}
+&&  \footnotesize{\maroonC{(5 + 8)}}
+&&  \footnotesize{\maroonC{(8 + 13)}}
+&&  \footnotesize{\maroonC{(13 + 21)}}  \\
 2, && 3, && 5, && 8, && 13, && \ldots, && \ldots
 \end{matrix}
 $
@@ -1933,7 +1894,7 @@ $28 , 29$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1961,8 +1922,7 @@ $
 \begin{aligned}
 \text{Time taken}  &= 1{:}00 - 9{:}00 \\\\
                    &= 4 \text{ hours} \\\\
-\text{Distance}    &= 9 \text{ miles per hour} \times 4 \text{ hours} \\\\
-                   &= 9 \times 4 \\\\
+\text{Distance}    &= 9 \times 4 \\\\
                    &= 36 \text{ miles}
 \end{aligned}
 $
@@ -2019,15 +1979,14 @@ if he started walking at $1.00  \ \text{pm}$?
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text {Speed} = \dfrac {\text{Distance}} {\text{Time}}$
+ABBR: $\text {Speed} = \dfrac {\text{Total distance}} {\text{Total time}}$
 
 
 $
 \begin{aligned}
 \text{Time taken}       &= 5{:}00 - 1{:}00 \\\\
                         &= 4 \text{ hours} \\\\
-\text{Average speed}    &= \dfrac{8 \text{ miles}}{4 \text{ hours}} \\\\
-                        &= \dfrac{8}{4} \\\\
+\text{Average speed}    &= \dfrac{8}{4} \\\\
                         &= \dfrac{2 \times 4}{4} \\\\
                         &= \dfrac{2 \times \cancel{4}}{\cancel{4}} \\\\
                         &= 2 \text{ miles per hour} \\\\
@@ -2056,13 +2015,12 @@ He catches a train back from Leicester to Birmingham, and travels at $66 \ \text
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text {Speed} = \dfrac {\text{Distance}} {\text{Time}}$
+ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 
 $
 \begin{aligned}
-\text{Time taken}  &=  \dfrac{44 \text{ miles}}{66 \text{ miles per hour}} \\\\
-                   &=  \dfrac{44}{66} \\\\
+\text{Time taken}  &=  \dfrac{44}{66} \\\\
                    &=  \dfrac{2 \times 2 \times 11}{2 \times 3 \times 11} \\\\
                    &=  \dfrac{2 \times \cancel{2} \times \cancel{11}}{\cancel{2} \times 3 \times \cancel{11}} \\\\
                    &=  \dfrac{2}{3} \text{ hours}
@@ -2221,7 +2179,7 @@ $\pounds 10$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2229,30 +2187,8 @@ $\pounds 10$
 %empty% 
 
 </div>
-<div class='workings'>
-<div class='working placeholder'>
 
-TODOWORKING
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -2262,26 +2198,38 @@ What is the angle between the hands of a clock at $9{:}00 \ \text{am}$?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 15 \ \text{minutes} \\\\
+\text {Angle}                           &= 15 \times 6 \\\\
+                                        &= 90 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$90 \degree$
 
 </div>
 </div>
@@ -2296,26 +2244,38 @@ What is the angle between the hands of a clock at $1{:}00 \ \text{pm}$?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 5 \ \text{minutes} \\\\
+\text {Angle}                           &= 5 \times 6 \\\\
+                                        &= 30 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$30 \degree$
 
 </div>
 </div>
@@ -2330,26 +2290,39 @@ What is the angle between the hands of a clock at $1{:}30 \ \text{pm}$?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 25 \ \text{minutes} - 2.5 \text{ minutes} \\\\
+                                        &= 22.5 \text{ minutes} \\\\
+\text {Angle}                           &= 22.5 \times 6 \\\\
+                                        &= 135 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$135 \degree$
 
 </div>
 </div>

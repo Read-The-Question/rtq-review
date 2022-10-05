@@ -1,7 +1,7 @@
 ---
 slug: "papers/trinity-school-croydon-11-plus-maths-9999-sample-paper-1"
 title: "Trinity School Croydon - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "28"
 ---
 <div class='paper'>
@@ -551,7 +551,7 @@ $30, 135$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -562,25 +562,14 @@ If a hovercraft travels at $80\, kilometres$ per hour how far will it travel in 
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
+ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
 
 
 $
 \begin{aligned}
-\text{Distance}  &=  80 \text{ km/hour} \times (1 \text{ hour } 45 \text{ minutes}) \\\\  
-                 &=  80 \text{ km/hour} \times (1 + \dfrac{45}{60} \text{ hours}) \\\\  
-                 &=  80 \times (\dfrac{1 \times 60}{1 \times 60} + \dfrac{45}{60}) \\\\  
-                 &=  80 \times (\dfrac{60}{60} + \dfrac{45}{60}) \\\\  
-                 &=  80 \times \dfrac{45 + 60}{60} \\\\  
-                 &=  80 \times \dfrac{105}{60} \\\\  
-                 &=  \dfrac{105 \times 80}{60} \\\\  
-                 &=  \dfrac{105 \times 8\cancel{0}}{6\cancel{0}} \\\\  
-                 &=  \dfrac{105 \times 2 \times 4}{2 \times 3} \\\\  
-                 &=  \dfrac{105 \times \cancel{2} \times 4}{\cancel{2} \times 3} \\\\  
-                 &=  \dfrac{105 \times 4}{3} \\\\  
-                 &=  \dfrac{420}{3} \\\\  
-                 &=  \dfrac{140 \times 3}{3} \\\\  
-                 &=  \dfrac{140 \times \cancel{3}}{\cancel{3}} \\\\  
+\text{Distance}  &=  80 \times (1 \text{ hour } 45 \text{ minutes}) \\\\  
+                 &=  80 \times (1.75 \text{ hours}) \\\\  
+                 &=  80 \times 1.75 \\\\  
                  &=  140 \text{ kilometres}
 \end{aligned}
 $
@@ -598,7 +587,7 @@ $140 \text{ kilometres}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -634,7 +623,7 @@ $52 \text{ km/h}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

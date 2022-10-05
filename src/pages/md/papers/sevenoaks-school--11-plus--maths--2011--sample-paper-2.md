@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2011-sample-paper-2"
 title: "Sevenoaks School - 11 Plus - Maths - 2011 - Sample Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "18"
 ---
 <div class='paper'>
@@ -422,7 +422,7 @@ $17$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -435,12 +435,12 @@ What fraction of $2.4 \ \text{litres}$ is $400 \ \text{ml}$?
 
 $
 \begin{aligned}
-&= \dfrac {400  \ \text{ml}} {2.4 \ \text{litres}} \\\\\
-&= \dfrac {400  \ \text{ml}} {2.4 \times 1000 \ \text{ml}} \\\\\
-&= \dfrac {400} {24 \times 100} \\\\\
-&= \dfrac {4 \times 100} {4 \times 6 \times 100} \\\\\
-&= \dfrac {\cancel{4} \times 1\cancel{0}\cancel{0}} {\cancel{4} \times 6 \times 1\cancel{0}\cancel{0}} \\\\\
-&= \dfrac {1} {6}
+\text{Fraction} &= \dfrac {400  \ \text{ml}} {2.4 \ \text{litres}} \\\\\
+                &= \dfrac {400  \ \text{ml}} {2.4 \times 1000 \ \text{ml}} \\\\\
+                &= \dfrac {400} {24 \times 100} \\\\\
+                &= \dfrac {4 \times 100} {4 \times 6 \times 100} \\\\\
+                &= \dfrac {\cancel{4} \times 1\cancel{0}\cancel{0}} {\cancel{4} \times 6 \times 1\cancel{0}\cancel{0}} \\\\\
+                &= \dfrac{1}{6}
 \end{aligned}
 $
 
@@ -588,7 +588,7 @@ $\pounds 13.7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -624,8 +624,8 @@ $\dfrac {2} {5} \text{ of } \pounds 2.50$
 $
 \begin{aligned}
 &= \dfrac {2} {5} \text { of } \pounds{2.50} \\\\
-&= \dfrac {2} {5} \times 2.50 \\\\
-&= \dfrac {2 \times 2.50} {5} \\\\
+&= \dfrac {2} {5} \times 2.5 \\\\
+&= \dfrac {2 \times 2.5} {5} \\\\
 &= \dfrac {5} {5} \\\\
 &= \pounds 1
 \end{aligned}
@@ -681,7 +681,7 @@ $15$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -701,13 +701,18 @@ How many children predicted that Stefan would win?
 
 $
 \begin{aligned}
-\text{Number of children who predicted Stefan}      &= 40 - \dfrac {180} {360} \times 40 - \dfrac {90} {360} \times 40 - 5 \% \ \text{of} \ 40 \\\\
-                                                    &= 40 - \dfrac {180 \times 40} {360} - \dfrac {90 \times 40} {360} - \dfrac {5} {100} \times 40 \\\\
-                                                    &= 40 - \dfrac {180 \times 2 \times 20} {180 \times 2} - \dfrac {90 \times 4 \times 10} {90 \times 4} - \dfrac {5 \times 40} {100} \\\\
-                                                    &= 40 - \dfrac {\cancel {180} \times \cancel 2 \times 20} {\cancel {180} \times \cancel 2} - \dfrac {\cancel {90} \times \cancel 4 \times 10} {\cancel {90} \times \cancel 4} - \dfrac {5 \times 20 \times 2} {5 \times 20} \\\\
-                                                    &= 40 - 20 - 10 - \dfrac {\cancel 5 \times \cancel {20} \times 2} {\cancel 5 \times \cancel {20}} \\\\
-                                                    &= 40 - 30 - 2 \\\\
-                                                    &= 8
+\text{Angle of Stefan sector}     &= 90 - 5 \% \text{ of } 360 \\\\
+                                  &= 90 - \dfrac {5} {100} \times 360 \\\\
+                                  &= 90 - \dfrac {5 \times 360} {100} \\\\
+                                  &= 90 - \dfrac {5 \times 20 \times 18} {5 \times 20} \\\\
+                                  &= 90 - \dfrac {\cancel 5 \times \cancel {20} \times 18} {\cancel 5 \times \cancel {20}} \\\\
+                                  &= 90 - 18 \\\\
+                                  &= 72 \degree \\\\
+\text{Number of children}         &= \dfrac {72} {360} \times 40 \\\\
+                                  &= \dfrac {72 \times 40} {360} \\\\
+                                  &= \dfrac {8 \times 9 \times 40} {9 \times 40} \\\\
+                                  &= \dfrac {8 \times \cancel 9 \times \cancel {40}} {\cancel 9 \times \cancel {40}} \\\\
+                                  &= 8
 \end{aligned}
 $
 

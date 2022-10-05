@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2014-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2014 - Group 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "41"
 ---
 <div class='paper'>
@@ -1483,7 +1483,7 @@ $\pounds 3.95$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1545,14 +1545,10 @@ The next term is calculated by adding $0.4$ to the previous term. Hence, the seq
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+0.4)} } 
-&&  \footnotesize {\maroonC
- {(+0.4)} }  
-&&  \footnotesize {\maroonC
- {(+0.4)} }   
-&&  \footnotesize {\maroonC
- {(+0.4)} }  \\
+&   \footnotesize {\maroonC {(+0.4)} } 
+&&  \footnotesize {\maroonC {(+0.4)} }  
+&&  \footnotesize {\maroonC {(+0.4)} }   
+&&  \footnotesize {\maroonC {(+0.4)} }  \\
 5.4,  &&    5.8,  &&  6.2,  &&   6.6, && \ldots
 \end{matrix}
 $
@@ -1593,10 +1589,8 @@ The next term is calculated by subtracting $0.07$ from the previous term. Hence,
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(-0.07)} }   
-&&  \footnotesize {\maroonC
- {(-0.07)} }  \\
+&   \footnotesize {\maroonC {(-0.07)} }   
+&&  \footnotesize {\maroonC {(-0.07)} }  \\
 1.3,  &&    1.23, && \ldots
 \end{matrix}
 $
@@ -2193,7 +2187,7 @@ $3000 \ \text {pence}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2232,11 +2226,11 @@ What percentage of the people said Edam?
 
 $
 \begin{aligned}
-\text{Percentage of people who said Edam}     &= \dfrac {90} {360} \times 100 \\\\
+\text{\%  who said Edam}                      &= \dfrac {90} {360} \times 100 \\\\
                                               &= \dfrac {90 \times 100} {360} \\\\
                                               &= \dfrac {90 \times 4 \times 25} {90 \times 4} \\\\
                                               &= \dfrac {\cancel {90} \times \cancel 4 \times 25} {\cancel {90} \times \cancel 4} \\\\
-                                              &= 25 \ \%
+                                              &= 25 \%
 \end{aligned}
 $
 
@@ -2245,7 +2239,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$25 \ \%$
+$25 \%$
 
 </div>
 </div>
@@ -2264,7 +2258,7 @@ What fraction of the people said Brie?
 
 $
 \begin{aligned}
-\text{Fraction of people who said Brie}     &= \dfrac {30} {360} \\\\
+\text{Fraction  who said Brie}              &= \dfrac {30} {360} \\\\
                                             &= \dfrac {30} {30 \times 12} \\\\
                                             &= \dfrac {\cancel {30}} {\cancel {30} \times 12} \\\\
                                             &= \dfrac {1} {12}
@@ -2293,6 +2287,35 @@ How many people said Goat’s Cheese?
 
 </div>
 <div class='workings'>
+<div class='working'>
+
+Let the total number of people $= a$
+
+As per the question,
+
+$
+\begin {aligned}
+a \times \dfrac {90} {360}    &= 18 \\\\
+a                             &= 18 \times \dfrac {360} {90} \\\\
+a                             &= \dfrac {18 \times 360} {90} \\\\
+a                             &= \dfrac {18 \times 90 \times 4} {90} \\\\
+a                             &= \dfrac {18 \times \cancel {90} \times 4} {\cancel {90}} \\\\
+a                             &= 18 \times 4 \\\\
+a                             &= 72
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text{Number of people who said Goat's cheese}    &= \dfrac {30} {360} \times 72 \\\\
+                                                  &= \dfrac {30 \times 72} {360} \\\\
+                                                  &= \dfrac {5 \times 6 \times 72} {72 \times 5} \\\\
+                                                  &= \dfrac {\cancel 5 \times 6 \times \cancel {72}} {\cancel {72} \times \cancel 5} \\\\
+                                                  &= 6
+\end {aligned}
+$
+
+</div>
 <div class='working'>
 
 Using ratio,
@@ -2332,25 +2355,12 @@ How many more people said Cheddar than said Cheshire?
 <div class='workings'>
 <div class='working'>
 
-Let the total number of people $= a$
-
-As per the question,
+Using value from the answer above,
 
 $
 \begin{aligned}
-\dfrac {90} {360} \times a    &= 18 \\\\
-a                             &= 18 \times \dfrac {360} {90} \\\\
-a                             &= \dfrac {18 \times 360} {90} \\\\
-a                             &= \dfrac {18 \times 90 \times 4} {90} \\\\
-a                             &= \dfrac {18 \times \cancel {90} \times 4} {\cancel {90}} \\\\
-a                             &= 18 \times 4 \\\\
-a                             &= 72
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Difference}   &= \dfrac {180 - 30} {360} \times 72 \\\\
+\text{Difference}   &= \dfrac {180} {360} \times 72 - \dfrac {30} {360} \times 72 \\\\
+                    &= \dfrac {180 - 30} {360} \times 72 \\\\
                     &= \dfrac {150} {360} \times 72 \\\\
                     &= \dfrac {150 \times 72} {360} \\\\
                     &= \dfrac {5 \times 30 \times 72} {72 \times 5} \\\\
@@ -2844,7 +2854,7 @@ $\pounds 2.80$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2893,7 +2903,18 @@ Plot the line joining A and B and find the mid point of the line AB
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(4, 7)$
+$
+\begin {aligned}
+\text{x-coordinates}    &= \dfrac {1 + 7} {2} \\\\
+                        &= \dfrac {8} {2} \\\\
+                        &= 4 \\\\
+\text{y-coordinates}    &= \dfrac {6 + 8} {2} \\\\
+                        &= \dfrac {14} {2} \\\\
+                        &= 7
+\end {aligned}
+$
+
+Coordinates $= (4, 7)$
 
 </div>
 </div>
@@ -2931,7 +2952,36 @@ Plot the line joining B and C and extend the line BC to E such that length of BC
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(10, 2)$
+Let the coordinates of E $= (a, b)$
+
+As per the question,
+
+$
+\begin {aligned}
+\dfrac {2a + 7} {2 + 1}       &= 9 \\\\
+\dfrac {2a + 7} {3}           &= 9 \\\\
+2a + 7                        &= 9 \times 3 \\\\
+2a + 7                        &= 27 \\\\
+2a                            &= 27 - 7 \\\\
+2a                            &= 20 \\\\
+a                             &= \dfrac {20} {2} \\\\
+a                             &= \dfrac {2 \times 10} {2} \\\\
+a                             &= \dfrac {\cancel 2 \times 10} {\cancel 2} \\\\
+a                             &= 10 \\\\
+\dfrac {2b + 8} {2 + 1}       &= 4 \\\\
+\dfrac {2b + 8} {3}           &= 4 \\\\
+2b + 8                        &= 4 \times 3 \\\\
+2b + 8                        &= 12 \\\\
+2b                            &= 12 - 8 \\\\
+2b                            &= 4 \\\\
+b                             &= \dfrac {4} {2} \\\\
+b                             &= \dfrac {2 \times 2} {2} \\\\
+b                             &= \dfrac {\cancel 2 \times 2} {\cancel 2} \\\\
+b                             &= 2
+\end {aligned}
+$
+
+Coordinates $= (10, 2)$
 
 </div>
 </div>
@@ -3090,7 +3140,7 @@ $96$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3127,16 +3177,19 @@ $9 \ \text{a.m.}$ and $10 \ \text{a.m.}$
 <div class='workings'>
 <div class='working'>
 
-As we know the angle between every two units is equal.
+ABBR: The hour hand of a clock moves by $30 \degree$ every hour.
 
-As per the question,
+
+ABBR: The hour hand of a clock moves by $0.5 \degree$ every minute.
+
 
 $
 \begin {aligned}
-\text {Angle between 9 a.m. and 10 a.m.}    &= \dfrac {90} {3} \\\\
-                                            &= \dfrac {30 \times 3} {3} \\\\
-                                            &= \dfrac {30 \times \cancel {3}} {\cancel {3}} \\\\
-                                            &= 30 \degree
+\text {Total minutes}   &= 10{:}00 \ \text{am} -  9{:}00 \ \text{am} \\\\
+                        &= 1 \times 60  \ \text{minutes} \\\\
+                        &= 60 \ \text{minutes} \\\\
+\text {Angle moved}     &= 60 \times 0.5 \\\\
+                        &= 30 \degree
 \end {aligned}
 $
 
@@ -3162,16 +3215,18 @@ $12{:}45$ and $13{:}15$
 <div class='workings'>
 <div class='working'>
 
-As we know the angle between every unit is equal.
+ABBR: The hour hand of a clock moves by $30 \degree$ every hour.
 
-As per the question,
 
-The time is equal to $30$ minutes which is half an hour. Using that we get,
+ABBR: The hour hand of a clock moves by $0.5 \degree$ every minute.
+
 
 $
 \begin {aligned}
-&= \dfrac {30} {2} \\\\
-&= 15 \degree
+\text {Total minutes}   &= 13{:}15 \ \text{am} -  12{:}45 \ \text{am} \\\\
+                        &= 30  \ \text{minutes} \\\\
+\text {Angle moved}     &= 30 \times 0.5 \\\\
+                        &= 15 \degree
 \end {aligned}
 $
 
@@ -3197,25 +3252,28 @@ $6.30 \ \text{p.m.}$ and $8.50 \ \text{p.m.}$
 <div class='workings'>
 <div class='working'>
 
-As we know the angle between every hour is equal.
+ABBR: The hour hand of a clock moves by $30 \degree$ every hour.
 
-As per the question,
 
-The time is equal to $2$ hours and $20$ minutes. Using that we get,
+ABBR: The hour hand of a clock moves by $0.5 \degree$ every minute.
+
 
 $
 \begin {aligned}
-&= 60 +  \\\\
-&= 15 \degree
+\text {Total minutes}   &= 8{:}50 \ \text{pm} -  6{:}30 \ \text{pm} \\\\
+                        &= 1 \times 60 + 80  \ \text{minutes} \\\\
+                        &= 140  \ \text{minutes} \\\\
+\text {Angle moved}     &= 140 \times 0.5 \\\\
+                        &= 70 \degree
 \end {aligned}
 $
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+$70 \degree$
 
 </div>
 </div>

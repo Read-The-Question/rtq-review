@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-2"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "20"
 ---
 <div class='paper'>
@@ -838,7 +838,7 @@ $306$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -853,14 +853,14 @@ Write them in order of size smallest first.
 <div class='workings'>
 <div class='working'>
 
-$6.07, 6.705, 6.75, 7.00, 7.6$
+$6.07, \quad 6.705, \quad 6.75, \quad 7.00, \quad 7.6$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$6.07, 6.705, 6.75, 7.00, 7.6$
+$6.07, \quad 6.705, \quad 6.75, \quad 7.00, \quad 7.6$
 
 </div>
 </div>
@@ -2000,7 +2000,7 @@ $56 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

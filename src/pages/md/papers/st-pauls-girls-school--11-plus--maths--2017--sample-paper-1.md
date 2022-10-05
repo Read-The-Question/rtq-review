@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2017-sample-paper-1"
 title: "St Pauls Girls School - 11 Plus - Maths - 2017 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "31"
 ---
 <div class='paper'>
@@ -190,7 +190,7 @@ $\dfrac{2}{3}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -218,7 +218,7 @@ $4.123, \quad 4.132, \quad 4.3, \quad 4.32, \quad 4.321$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -246,7 +246,7 @@ a                                   &= \dfrac {4 \times \cancel{3} \times 2 \tim
 a                                   &= 4 \times 2 \\\\
 a                                   &= 8 \\\\
 \dfrac {18} {b}                     &= \dfrac {12} {18} \\\\
-\dfrac {b} {18}                     &= \dfrac {18} {12} \\\\
+\dfrac {18 \times 18} {12}          &= b \\\\
 b                                   &= \dfrac {18 \times 18} {12} \\\\
 b                                   &= \dfrac {6 \times 3 \times 9 \times 2} {6 \times 2} \\\\
 b                                   &= \dfrac {\cancel{6} \times 3 \times 9 \times \cancel{2}} {\cancel{6} \times \cancel{2}} \\\\
@@ -254,10 +254,6 @@ b                                   &= 3 \times 9 \\\\
 b                                   &= 27
 \end{aligned}
 $
-
-Numerator $= 8$
-
-Denominator $= 27$
 
 </div>
 </div>

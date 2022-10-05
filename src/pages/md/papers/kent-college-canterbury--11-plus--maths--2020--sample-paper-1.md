@@ -1,7 +1,7 @@
 ---
 slug: "papers/kent-college-canterbury-11-plus-maths-2020-sample-paper-1"
 title: "Kent College Canterbury - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "23"
 ---
 <div class='paper'>
@@ -964,7 +964,7 @@ $0.35$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1004,14 +1004,10 @@ The next term is calculated by adding $8$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+8)} }
-&&  \footnotesize {\maroonC
- {(+8)} }
-&&  \footnotesize {\maroonC
- {(+8)} }
-&&  \footnotesize {\maroonC
- {(+8)} } \\
+&   \footnotesize {\maroonC {(+8)} }
+&&  \footnotesize {\maroonC {(+8)} }
+&&  \footnotesize {\maroonC {(+8)} }
+&&  \footnotesize {\maroonC {(+8)} } \\
 7,  &&    15,  &&  23,  &&   31,  &&   \ldots
 \end{matrix}
 $
@@ -1052,16 +1048,11 @@ The next term is calculated by subtracting $9$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(-9)} }
-&&  \footnotesize {\maroonC
- {(-9)} }
-&&  \footnotesize {\maroonC
- {(-9)} }
-&&  \footnotesize {\maroonC
- {(-9)} }
-&&  \footnotesize {\maroonC
- {(-9)} } \\
+&   \footnotesize {\maroonC {(-9)} }
+&&  \footnotesize {\maroonC {(-9)} }
+&&  \footnotesize {\maroonC {(-9)} }
+&&  \footnotesize {\maroonC {(-9)} }
+&&  \footnotesize {\maroonC {(-9)} } \\
 42,  &&    33,  &&  24,  &&   \ldots,  &&   6,  &&   \ldots
 \end{matrix}
 $
@@ -1623,7 +1614,7 @@ $25$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1688,9 +1679,7 @@ Write the coordinates of the points where tile $4$ touches two other tiles.
 <div class='workings'>
 <div class='working'>
 
-$(3, 3)$
-
-$(4, 4)$
+$(3, 3), \quad (4, 4)$
 
 </div>
 </div>
@@ -1714,9 +1703,7 @@ Write the coordinates of the points where **tile $17$** touches two other tiles.
 <div class='workings'>
 <div class='working'>
 
-$(17, 17)$
-
-$(18, 18)$
+$(17, 17), \quad (18, 18)$
 
 </div>
 </div>
@@ -1752,15 +1739,17 @@ Show working to explain your answer.
 
 $
 \begin{aligned}
-\text{Number of tiles required}     &= 4 \times 4 \\\\
-                                    &= 16 \\\\
-\text{Number of tiles remaining}    &= 30 - 1 - 2 \times 2 - 3 \times 3 \\\\
-                                    &= 30 - 1 - 4 - 9 \\\\
-                                    &= 16
+\text{Tiles required}   &= 4 \times 4 \\\\
+                        &= 16 \\\\
+\text{Tiles used}       &= 1 + 2 \times 2 + 3 \times 3 \\\\
+                        &= 1 + 4 + 9 \\\\
+                        &= 14 \\\\
+\text{Tiles remaining}  &= 30 - 14 \\\\
+                        &= 16
 \end{aligned}
 $
 
-Yes we have enough tiles left to make the next square.
+There are enough tiles left to make the next square.
 
 </div>
 </div>
@@ -1778,7 +1767,7 @@ Yes
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

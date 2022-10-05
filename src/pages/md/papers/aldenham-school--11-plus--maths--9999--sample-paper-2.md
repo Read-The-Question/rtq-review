@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-2"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "26"
 ---
 <div class='paper'>
@@ -779,7 +779,7 @@ $275 \ \text{grams}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -793,26 +793,34 @@ $1 \quad 2 \quad 4 \quad 12 \quad 36 \quad 48 \quad 49 \quad 50$
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
 
-</div>
-<div class='working placeholder'>
+![missing image](/papers/missing_image.svg)
 
-TODOWORKING
+
+
+TODO: Show diagram with venn diagrams and numbers in the right place
+
+square : $1, 2, 49$
+
+multiples of $4$: $12, 48$
+
+intersection: $4, 36$
+
+neither square nor multiple of $4$: $50$
+
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -915,7 +923,7 @@ $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1321,7 +1329,7 @@ $30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1361,16 +1369,11 @@ The next term is calculated by adding $5$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+5)}}  \\
+&   \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(+5)}}  \\
 -8,  &&    -3,  &&  2,  &&   7,  &&   \ldots, && \ldots
 \end{matrix}
 $
@@ -1418,16 +1421,11 @@ The next term is calculated by subtracting $8$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-8)}}
-&&  \footnotesize{\maroonC
-{(-8)}}
-&&  \footnotesize{\maroonC
-{(-8)}}
-&&  \footnotesize{\maroonC
-{(-8)}}
-&&  \footnotesize{\maroonC
-{(-8)}}  \\
+&   \footnotesize{\maroonC{(-8)}}
+&&  \footnotesize{\maroonC{(-8)}}
+&&  \footnotesize{\maroonC{(-8)}}
+&&  \footnotesize{\maroonC{(-8)}}
+&&  \footnotesize{\maroonC{(-8)}}  \\
 61,  &&    53,  &&  \ldots,  &&   37,  &&   \ldots, && 21
 \end{matrix}
 $
@@ -1475,16 +1473,11 @@ The next term is calculated by dividing the previous term by $2$. Hence, the seq
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\div 2)}}
-&&  \footnotesize{\maroonC
-{(\div 2)}}
-&&  \footnotesize{\maroonC
-{(\div 2)}}
-&&  \footnotesize{\maroonC
-{(\div 2)}}
-&&  \footnotesize{\maroonC
-{(\div 2)}}  \\
+&   \footnotesize{\maroonC{(\div 2)}}
+&&  \footnotesize{\maroonC{(\div 2)}}
+&&  \footnotesize{\maroonC{(\div 2)}}
+&&  \footnotesize{\maroonC{(\div 2)}}
+&&  \footnotesize{\maroonC{(\div 2)}}  \\
 240,  &&    120,  &&  \ldots,  &&   30,  &&   15, && \ldots
 \end{matrix}
 $
@@ -1608,7 +1601,7 @@ $25$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1627,24 +1620,26 @@ Complete the chart above.
 <div class='workings'>
 <div class='working'>
 
-Let's complete the table
-
 |           | Art                                 | Design Tech                             | Textiles                           | **TOTAL**                               |
 |:---------:|:-------:                            |:---------:                              |:--------:                          |:---------:                              |
-| Boys      | $25$                                | $60 - 25 - 0 = 35 \ \footnotesize{(2)}$ | $0$                                | $60$                                    |
-| Girls     | $52 - 25 = 27 \ \footnotesize{(1)}$ | $12$                                    | $5$                                | $27 + 12 + 5 = 44 \ \footnotesize{(4)}$ |
-| **TOTAL** | $52$                                | $35 + 12 = 47 \ \footnotesize{(3)}$     | $5$                                | $60 + 44 = 104 \ \footnotesize{(5)}$    |
+| Boys      | $25$                                | $60 - 25 - 0 = 35 \ \maroonC{\footnotesize{(2)}}$ | $0$                                | $60$                                    |
+| Girls     | $52 - 25 = 27 \ \maroonC{\footnotesize{(1)}}$ | $12$                                    | $5$                                | $27 + 12 + 5 = 44 \ \maroonC{\footnotesize{(4)}}$ |
+| **TOTAL** | $52$                                | $35 + 12 = 47 \ \maroonC{\footnotesize{(3)}}$     | $5$                                | $60 + 44 = 104 \ \maroonC{\footnotesize{(5)}}$    |
+
+Completed table
+
+|           | Tennis | Football | Hockey | Swimming |   TOTAL |
+|:-----:    |:------:|:--------:|:------:|:--------:|:-----:  |
+|   Boys    |   $5$  | $12$     |  $2$   |    $6$   |   $25$  |
+|  Girls    |   $8$  | $5$      |  $12$  |   $10$   | $35$    |
+|  TOTAL    |   $13$ | $17$     |  $14$  |   $16$   | $60$    |
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-|           | Art  | Design Tech | Textiles  | **TOTAL** |
-|:---------:|:----:|:---------:  |:--------: |:---------:|
-| Boys      | $25$ | $35$        | $0$       | $60$      |
-| Girls     | $27$ | $12$        | $5$       | $44$      |
-| **TOTAL** | $52$ | $47$        | $5$       | $104$     |
+%empty%
 
 </div>
 </div>
@@ -2061,7 +2056,7 @@ Cost of a banana $= 50 \ \text{pence}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2092,6 +2087,12 @@ You **must** show your working.
 </div>
 <div class='workings'>
 <div class='working'>
+
+ABBR: $\text {Sale price = Original price} - \text{Discount } \% \times \text{Original price}$
+
+
+ABBR: $\text {Sale price = (100 - Discount})\ \% \times \text{Original price}$
+
 
 Let's calculate the cheapest price of $2$ chairs from each shop.
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-1"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "20"
 ---
 <div class='paper'>
@@ -47,7 +47,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -65,14 +65,10 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+6)}}  \\
+&   \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(+6)}}  \\
 3,  &&    6,  &&  10,  &&   15, && \ldots
 \end{matrix}
 $
@@ -367,7 +363,7 @@ $ (1, 4), (2, 3), (3, 2), (4,1)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -404,14 +400,14 @@ Explain why the total $7$ never came up
 <div class='workings'>
 <div class='working'>
 
-The total $7$ was not present in the dominoes so it never came up.
+The total of $7$ is not present on any of the dominoes.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-The total $7$ was not present in the dominoes so it never came up.
+The total of $7$ is not present on any of the dominoes.
 
 </div>
 </div>
@@ -428,14 +424,14 @@ Explain why the total of $6$ came up most often.
 <div class='workings'>
 <div class='working'>
 
-There were $3$ dominoes out of $7$ with total $6$ that is why it came up most often.
+The sum of $3$ out of $7$ dominoes is $6$. That is why it came up most often.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-There were $3$ dominoes out of $7$ with total $6$ that is why it came up most often.
+The sum of $3$ out of $7$ dominoes is $6$. That is why it came up most often.
 
 </div>
 </div>
@@ -993,7 +989,7 @@ $\pounds 5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1030,19 +1026,19 @@ The value of $D$ (not shown) also lies on this line. If $D$ is $(15 , a)$, what 
 <div class='workings'>
 <div class='working'>
 
-*ABBR: TODO:: Add drawing starts.*
+Using equivalent ratio,
 
-![missing image](/papers/missing_image.svg)
-
-
-
-Plot the point with x-coordinate $15$ on the line in the graph
-
-
-*ABBR: TODO:: Add drawing ends.*
-
-
-a $= 5$
+$
+\begin{aligned}
+3 : 1                                           &= 15 : a \\\\
+3                                               &= \dfrac {15} {a} \\\\
+a \times 3                                      &= 15 \\\\
+a                                               &= \dfrac {15} {3} \\\\
+a                                               &= \dfrac {5 \times 3} {3} \\\\
+a                                               &= \dfrac {5 \times \cancel 3} {\cancel 3} \\\\
+a                                               &= 5
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1067,19 +1063,16 @@ What is the value of $b$?
 <div class='workings'>
 <div class='working'>
 
-*ABBR: TODO:: Add drawing starts.*
+Using equivalent ratio,
 
-![missing image](/papers/missing_image.svg)
-
-
-
-Plot the point with y-coordinate $8$ on the line in the graph
-
-
-*ABBR: TODO:: Add drawing ends.*
-
-
-$24$
+$
+\begin{aligned}
+1 : 3                                           &= 8 : b \\\\
+\dfrac {1} {3}                                  &= \dfrac {8} {b} \\\\
+b                                               &= 8 \times 3 \\\\
+b                                               &= 24
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1103,14 +1096,24 @@ If $(p , q)$ is another point on this same line, write down a relationship (equa
 <div class='workings'>
 <div class='working'>
 
-p = 3q
+Using equivalent ratio,
+
+$
+\begin{aligned}
+3 : 1                                           &= p : q \\\\
+3                                               &= \dfrac {p} {q} \\\\
+3 \times q                                      &= p \\\\
+3q                                              &= p \\\\
+p                                               &= 3q
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-p = 3q
+$p = 3q$
 
 </div>
 </div>
@@ -1277,7 +1280,7 @@ $82$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1298,12 +1301,9 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(1000-11 \times 1)}}  
-&&  \footnotesize{\maroonC
-{(1000-11 \times 2)}}    
-&&  \footnotesize{\maroonC
-{(1000-11 \times 3)}} \\
+&   \footnotesize{\maroonC{(1000-11 \times 1)}}  
+&&  \footnotesize{\maroonC{(1000-11 \times 2)}}    
+&&  \footnotesize{\maroonC{(1000-11 \times 3)}} \\
 1000,  &&    989,  &&  978,  &&   967 \ldots
 \end{matrix}
 $

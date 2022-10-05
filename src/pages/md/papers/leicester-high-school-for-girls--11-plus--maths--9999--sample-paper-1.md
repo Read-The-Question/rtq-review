@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-1"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "20"
 ---
 <div class='paper'>
@@ -288,7 +288,7 @@ $2300$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1603,7 +1603,7 @@ Evens
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1638,14 +1638,14 @@ What is the temperature at midnight?
 <div class='workings'>
 <div class='working'>
 
-$-7 \ \degree \text{C}$
+$-7 \degree \text{C}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$-7 \ \degree \text{C}$
+$-7 \degree \text{C}$
 
 </div>
 </div>
@@ -1666,7 +1666,7 @@ $
 \begin{aligned}
 \text{Temperature rise}     &= 8 - (-4) \\\\
                             &= 8 + 4 \\\\
-                            &= 12 \ \degree \text{C}
+                            &= 12 \degree \text{C}
 \end{aligned}
 $
 
@@ -1675,7 +1675,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$12 \ \degree \text{C}$
+$12 \degree \text{C}$
 
 </div>
 </div>
@@ -2009,7 +2009,7 @@ $28  \ \text {cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2049,16 +2049,11 @@ The next term is calculated by adding $7$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+7)} }
-&&  \footnotesize {\maroonC
- {(+7)} }
-&&  \footnotesize {\maroonC
- {(+7)} }
-&&  \footnotesize {\maroonC
- {(+7)} }
-&&  \footnotesize {\maroonC
- {(+7)} }  \\
+&   \footnotesize {\maroonC {(+7)} }
+&&  \footnotesize {\maroonC {(+7)} }
+&&  \footnotesize {\maroonC {(+7)} }
+&&  \footnotesize {\maroonC {(+7)} }
+&&  \footnotesize {\maroonC {(+7)} }  \\
 7, && 14, && 21, && 28, && \ldots, && \ldots
 \end{matrix}
 $
@@ -2106,16 +2101,11 @@ The next term is calculated by multiplying the previous term by $2$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(\times 2)} }
-&&  \footnotesize {\maroonC
- {(\times 2)} }
-&&  \footnotesize {\maroonC
- {(\times 2)} }
-&&  \footnotesize {\maroonC
- {(\times 2)} }
-&&  \footnotesize {\maroonC
- {(\times 2)} }  \\
+&   \footnotesize {\maroonC {(\times 2)} }
+&&  \footnotesize {\maroonC {(\times 2)} }
+&&  \footnotesize {\maroonC {(\times 2)} }
+&&  \footnotesize {\maroonC {(\times 2)} }
+&&  \footnotesize {\maroonC {(\times 2)} }  \\
 3, && 6, && 12, && 24, && \ldots, && \ldots
 \end{matrix}
 $
@@ -2161,16 +2151,11 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(-9)} }
-&&  \footnotesize {\maroonC
- {(-8)} }
-&&  \footnotesize {\maroonC
- {(-7)} }
-&&  \footnotesize {\maroonC
- {(-6)} }
-&&  \footnotesize {\maroonC
- {(-5)} }  \\
+&   \footnotesize {\maroonC {(-9)} }
+&&  \footnotesize {\maroonC {(-8)} }
+&&  \footnotesize {\maroonC {(-7)} }
+&&  \footnotesize {\maroonC {(-6)} }
+&&  \footnotesize {\maroonC {(-5)} }  \\
 50, && 41, && 33, && 26, && \ldots, && \ldots
 \end{matrix}
 $
@@ -2205,7 +2190,7 @@ $15$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

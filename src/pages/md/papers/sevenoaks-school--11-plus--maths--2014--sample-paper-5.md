@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2014-sample-paper-5"
 title: "Sevenoaks School - 11 Plus - Maths - 2014 - Sample Paper 5"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "18"
 ---
 <div class='paper'>
@@ -350,7 +350,7 @@ $01{:}52 \ \text {pm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -388,18 +388,12 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(+1)}}
-&&  \footnotesize{\maroonC
-{(+2)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+6)}}  \\
+&   \footnotesize{\maroonC{(+1)}}
+&&  \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(+6)}}  \\
 2,  &&    3,  &&  5,  &&   8,  &&   \ldots, && \ldots,  &&  23
 \end {matrix}
 $
@@ -447,16 +441,11 @@ The next term is calculated by subtracting $6$ from the previous term. Hence, th
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(-6)}}  \\
+&   \footnotesize{\maroonC{(-6)}}
+&&  \footnotesize{\maroonC{(-6)}}
+&&  \footnotesize{\maroonC{(-6)}}
+&&  \footnotesize{\maroonC{(-6)}}
+&&  \footnotesize{\maroonC{(-6)}}  \\
 35,  &&    29,  &&  23,  &&   \ldots,  &&   \ldots, && 5
 \end {matrix}
 $
@@ -505,14 +494,10 @@ The next term is calculated by dividing the previous term by $10$. Hence, the se
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(\div 10)}}
-&&  \footnotesize{\maroonC
-{(\div 10)}}
-&&  \footnotesize{\maroonC
-{(\div 10)}}
-&&  \footnotesize{\maroonC
-{(\div 10)}}  \\
+&   \footnotesize{\maroonC{(\div 10)}}
+&&  \footnotesize{\maroonC{(\div 10)}}
+&&  \footnotesize{\maroonC{(\div 10)}}
+&&  \footnotesize{\maroonC{(\div 10)}}  \\
 1000,  &&    100,  &&  10, &&   \ldots, && \ldots
 \end {matrix}
 $
@@ -547,7 +532,7 @@ $0.10$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1006,7 +991,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1015,26 +1000,16 @@ Bella is given $\pounds 50$ for her birthday. She spends $\pounds 37.50$ on clot
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -1047,26 +1022,23 @@ How much money does Bella have left?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Money left}       &= 50 - 37.50 - \dfrac {5.40} {2} - 3.2 \\\\
+                        &= 50 - 37.50 - 2.70 - 3.20 \\\\
+                        &= 50 - 43.40 \\\\
+                        &= \pounds 6.60
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\pounds 6.6$
 
 </div>
 </div>
@@ -1087,26 +1059,35 @@ Bella's friend wants to go out for supper. Bella knows that she needs to save $\
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Money for food}             &= 6.6 - 2.5 \\\\
+                                  &= \pounds 4.1 \\\\
+\text{Money for food for both}    &= 2 \times 4.1 \\\\
+                                  &= \pounds 8.2 \\\\
+\text{Price for Deal 1}           &= 7 + \dfrac {7} {2} \\\\
+                                  &= 7 + 3.5 \\\\
+                                  &= \pounds 10.5 \\\\
+\text{Price for Deal 2}           &= 2 \times \left( 5 - \dfrac {10} {100} \times 5 \right) \\\\
+                                  &= 2 \times \left( 5 - \dfrac {10 \times 5} {100} \right) \\\\
+                                  &= 2 \times \left( 5 - \dfrac {50} {100} \right) \\\\
+                                  &= 2 \times (5 - 0.5) \\\\
+                                  &= 2 \times 4.5 \\\\
+                                  &= \pounds 9 \\\\
+\text{Price of Deal 3}            &= \pounds 8
+\end{aligned}
+$
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$Deal 3$ is affordable for Bella.
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+Deal $3$
 
 </div>
 </div>
@@ -1233,7 +1214,7 @@ B and C
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1244,34 +1225,35 @@ Matthew reads at an average rate of $30 \ \text{pages per hour}$, while Alex rea
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
+ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
 
 
 Let the time taken (in minutes) by Matthew $= t$
 
+As per the question,
+
 $
 \begin{aligned}
-40 \text{ pages per hour} \times (t - 50) \text{ minutes}                &=  30 \text{ pages per hour} \times t \text{ minutes} \\\\
-\dfrac{40}{60} \text{ pages per minute} \times (t - 50) \text{ minutes}  &=  \dfrac{30}{60} \text{ pages per minute} \times t \text{ minutes} \\\\
-\dfrac{40}{60} \times (t - 50)                                           &=  \dfrac{30}{60} \times t \\\\
-\dfrac{40 \times (t - 50)}{60}                                           &=  \dfrac{30 \times t}{60} \\\\
-\dfrac{40 \times (t - 50)}{60} \times 60                                 &=  30t \\\\
-\dfrac{40 \times (t - 50)}{\cancel{60}} \times \cancel{60}               &=  30t \\\\
-40 \times (t - 50)                                                       &=  30t \\\\
-40t - 2000                                                               &=  30t \\\\
-40t - 30t                                                                &=  2000 \\\\
-10t                                                                      &=  2000 \\\\
-t                                                                        &=  \dfrac{2000}{10} \\\\
-t                                                                        &=  \dfrac{200 \times 10}{10} \\\\
-t                                                                        &=  \dfrac{200 \times \cancel{10}}{\cancel{10}} \\\\
-t                                                                        &=  200 \text { minutes} \\\\
-t                                                                        &=  3 \text { hours and } 20 \text{ minutes}
+40 \times (t - 50) \text{ minutes}                &=  30 \times t \text{ minutes} \\\\
+40 \times \dfrac{(t - 50)}{60} \text{ hours}      &=  30 \times \dfrac{t}{60} \text{ hours} \\\\
+\dfrac{40 \times (t - 50)}{60}                    &= \dfrac{30 \times t}{60} \\\\
+\dfrac{40t - 2000}{60}                            &= \dfrac{30t}{60} \\\\
+\dfrac{40t - 2000}{60} - \dfrac{30t}{60}          &= 0 \\\\
+\dfrac{40t - 2000 - 30t}{60}                      &= 0 \\\\
+\dfrac{10t - 2000}{60}                            &= 0 \\\\
+10t - 2000                                        &= 60 \times 0 \\\\
+10t - 2000                                        &= 0 \\\\
+10t                                               &= 2000 \\\\
+t                                                 &= \dfrac{2000}{10} \\\\
+t                                                 &= \dfrac{200 \times 10}{10} \\\\
+t                                                 &= \dfrac{200 \times \cancel{10}}{\cancel{10}} \\\\
+t                                                 &= 200 \text{ minutes}
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text{Time}   &=   4{:}30 + 3 \text { hours and } 20 \text{ minutes} \\\\
+\text{Time}   &=   4{:}30 + 200 \text{ minutes} \\\\
               &=   7{:}50
 \end{aligned}
 $

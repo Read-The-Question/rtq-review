@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tgraph-2-pr-prrl"
 title: "TopicPaper - Graph - 2 - PR - PRRL"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -33,7 +33,7 @@ questions_count: "1"
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-On the grid above, plot and label the points $A (0,3), B (2,5), C (6,3),$ and $D (2,1)$.
+On the grid above, plot and label the points $A (0,3), \quad B (2,5), \quad C (6,3)$ and $D (2,1)$.
 
 </div>
 <div class='workings'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/north-london-collegiate-school-11-plus-maths-9999-sample-paper-1"
 title: "North London Collegiate School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "42"
 ---
 <div class='paper'>
@@ -221,7 +221,7 @@ $0.7 \ \text{litres}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -261,14 +261,10 @@ The next term is calculated by subtracting $3$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(-3)} }
-&&  \footnotesize {\maroonC
- {(-3)} }
-&&  \footnotesize {\maroonC
- {(-3)} }
-&&  \footnotesize {\maroonC
- {(-3)} }  \\
+&   \footnotesize {\maroonC {(-3)} }
+&&  \footnotesize {\maroonC {(-3)} }
+&&  \footnotesize {\maroonC {(-3)} }
+&&  \footnotesize {\maroonC {(-3)} }  \\
 37, && 34, && 31, && \ldots, && \ldots
 \end{matrix}
 $
@@ -316,14 +312,10 @@ The next term is calculated by dividing the previous term by $2$. Hence, the seq
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }  \\
+&   \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }  \\
 0.8, && 0.4, && 0.2, && \ldots, && \ldots
 \end{matrix}
 $
@@ -371,16 +363,11 @@ The next term is calculated by multiplying the previous term by $3$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(\times 3)} }
-&&  \footnotesize {\maroonC
- {(\times 3)} }
-&&  \footnotesize {\maroonC
- {(\times 3)} }
-&&  \footnotesize {\maroonC
- {(\times 3)} }
-&&  \footnotesize {\maroonC
- {(\times 3)} } \\
+&   \footnotesize {\maroonC {(\times 3)} }
+&&  \footnotesize {\maroonC {(\times 3)} }
+&&  \footnotesize {\maroonC {(\times 3)} }
+&&  \footnotesize {\maroonC {(\times 3)} }
+&&  \footnotesize {\maroonC {(\times 3)} } \\
 1, && 3, && 9, && 27 && \ldots, && \ldots
 \end{matrix}
 $
@@ -661,7 +648,7 @@ $2 \ \text {hours} \ 37 \ \text {minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -683,26 +670,23 @@ Use this informaation to complete this table.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+|                          | Persian                               | Siamese                                |  Total cats                           |
+|:--------------------:    |:-------:                              |:-------:                               |:----------:                           |
+| Prefer Feline Fodder     | $220 - 42 = 178 \ \footnotesize{(8)}$ | $280 - 38 = 242 \ \footnotesize{(9)}$  | $500 - 80 = 420 \ \footnotesize{(7)}$ |
+|   Prefer Moggy Nosh      | $42 \ \footnotesize{(5)}$             | $80 - 42 = 38 \ \footnotesize{(6)}$    | $80 \ \footnotesize{(4)}$             |
+|         Total            | $220 \ \footnotesize{(2)}$            | $500 - 220 = 280 \ \footnotesize{(3)}$ | $500 \ \footnotesize{(1)}$            |
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+|                          | Persian     | Siamese     |
+|:--------------------:    |:-------:    |:-------:    |
+| Prefer Feline Fodder     |   $178$     |   $242$     |
+|   Prefer Moggy Nosh      |   $42$      |   $38$      |
 
 </div>
 </div>
@@ -747,7 +731,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -944,7 +928,7 @@ $8\ \text{cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -983,7 +967,7 @@ lost
 
 $
 \begin{aligned}
-\text{Number of games lost}             &= 25 \% \ \text{of} \ 96 \\\\
+\text{Games lost}                       &= 25 \% \ \text{of} \ 96 \\\\
                                         &= \dfrac {25} {100} \times 96 \\\\
                                         &= \dfrac {25 \times 96} {100} \\\\
                                         &= \dfrac {25 \times 4 \times 24} {25 \times 4} \\\\
@@ -1287,7 +1271,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1295,30 +1279,8 @@ TODOANSWER
 %empty%
 
 </div>
-<div class='workings'>
-<div class='working placeholder'>
 
-TODOWORKING
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -1328,26 +1290,38 @@ Find the angle between the hands of a clock at $11 \ \text{am}$.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 5 \ \text{minutes} \\\\
+\text {Angle}                           &= 5 \times 6 \\\\
+                                        &= 30 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$30 \degree$
 
 </div>
 </div>
@@ -1362,26 +1336,31 @@ How many degrees has the minute hand moved between $3.55 \ \text{pm}$ and $5.15 
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The minute hand of a clock moves by $30 \degree$ every minute.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The minute hand of a clock moves by $6 \degree$ every minute.
+
+
+$
+\begin {aligned}
+\text {Total minutes}   &= 5{:}15 \text{ pm} - 3{:}55 \text{ pm} \\\\ 
+                        &= 1 \times 60 \text{ minutes} +  20 \ \text{minutes} \\\\
+                        &= 60 + 20 \\\\
+                        &= 80 \text{ minutes} \\\\
+\text {Angle moved}     &= 80 \times 6 \\\\
+                        &= 240 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$240 \degree$
 
 </div>
 </div>
@@ -1528,7 +1507,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1916,7 +1895,7 @@ $42 \ \text {years}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1929,26 +1908,24 @@ What is the smallest number of girls who are right-handed?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Number of left handed pupils}             &= 30 - 21 \\\\
+                                                &= 9 \\\\
+\text{Largest number of left handed girls}      &= 9 \\\\
+\text{Smallest number of right handed girls}    &= 16 - 9 \\\\
+                                                &= 7
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$7$
 
 </div>
 </div>
@@ -2340,7 +2317,7 @@ $12 \ \text{kg}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2704,7 +2681,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

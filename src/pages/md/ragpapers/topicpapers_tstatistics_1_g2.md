@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tstatistics-1-g2"
 title: "TopicPaper - Statistics - 1 - G2"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "34"
 ---
 <ul class='question default-decimal'>
@@ -51,8 +51,7 @@ Let's arrange the pages read in ascending order.
 $
 \begin {aligned}
 \text{Pages read}           &= 70, \quad 60, \quad 70, \quad 30, \quad 90 \\\\
-\text{Ordered pages read}   &= 30, \quad 60, \quad \maroonC
-{70}, \quad 70, \quad 90 \\\\
+\text{Ordered pages read}   &= 30, \quad 60, \quad \maroonC{70}, \quad 70, \quad 90 \\\\
 \text{Median}               &= 70
 \end {aligned}
 $
@@ -890,8 +889,7 @@ $
 \text{Lengths}           &= 305 \ \text{cm}, \quad 2.95 \ \text{m}, \quad 225 \ \text{cm}, \quad 3.6 \ \text{m}, \quad 3.15 \ \text{m} \\\\
                          &= 3.05 \ \text{m}, \quad 2.95 \ \text{m}, \quad 2.25 \ \text{m}, \quad 3.6 \ \text{m}, \quad 3.15 \ \text{m} \\\\
                          &= 3.05, \quad 2.95, \quad 225, \quad 3.6, \quad 3.15 \\\\
-\text{Ordered lengths}   &= 2.25, \quad 2.95, \quad \maroonC
-{3.05}, \quad 3.15, \quad 3.6 \\\\
+\text{Ordered lengths}   &= 2.25, \quad 2.95, \quad \maroonC{3.05}, \quad 3.15, \quad 3.6 \\\\
 \text{Median}            &= 3.05 \ \text{m}
 \end {aligned}
 $
@@ -1058,9 +1056,7 @@ Let's arrange the numbers in ascending order.
 $
 \begin{aligned}
 \text{Numbers}\            &= 5, \quad 24, \quad 37, \quad 45, \quad 36, \quad 39, \quad 22, \quad 16 \\\\
-\text{Ordered numbers}\    &= 5, \quad 16, \quad 22, \quad \maroonC
-{24}, \quad \maroonC
-{36}, \quad 37, \quad 39, \quad 45 \\\\
+\text{Ordered numbers}\    &= 5, \quad 16, \quad 22, \quad \maroonC{24}, \quad \maroonC{36}, \quad 37, \quad 39, \quad 45 \\\\
 \text{Median}\             &= \dfrac {24 + 36} {2} \\\\
                            &= \dfrac {60} {2} \\\\
                            &= \dfrac {2 \times 30} {2} \\\\
@@ -1214,8 +1210,7 @@ Let's arrange the lengths in ascending order.
 $
 \begin{aligned}
 \text{Lengths}          &= 1.2, \quad 1.02, \quad 1.202, \quad 1.22, \quad 1.022 \\\\
-\text{Ordered lengths}  &= 1.02, \quad 1.022, \quad \maroonC
-{1.2}, \quad 1.202, \quad 1.22 \\\\
+\text{Ordered lengths}  &= 1.02, \quad 1.022, \quad \maroonC{1.2}, \quad 1.202, \quad 1.22 \\\\
 \text{Median}           &= 1.2 \ \text{cm}
 \end{aligned}
 $
@@ -2193,8 +2188,7 @@ Let's arrange the pages read in ascending order.
 $
 \begin{aligned}
 \text{Temperatures}\ &= -6, \quad -5, \quad 4, \quad -2, \quad -1 \\\\
-\text{Ordered temperatures}\ &= -6, \quad -5, \quad \maroonC
-{-2}, \quad -1, \quad 4 \\\\
+\text{Ordered temperatures}\ &= -6, \quad -5, \quad \maroonC{-2}, \quad -1, \quad 4 \\\\
 \text{Median temperature} &= -2
 \end{aligned}
 $

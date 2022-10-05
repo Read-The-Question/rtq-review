@@ -1,56 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-ttable-1-pr"
 title: "TopicPaper - Table - 1 - PR"
-date: 2022-09-24 04:59:20
-questions_count: "38"
+date: 2022-10-04 10:03:20
+questions_count: "39"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
-The chart below shows the languages studied by a group of students.
-
-|           | History | Geography | Classics | **TOTAL** |
-|:---------:|:-------:|:---------:|:--------:|:---------:|
-| Boys      | $28$    |           | $8$      | $50$      |
-| Girls     |         | $19$      |          |           |
-| **TOTAL** | $35$    |           | $29$     |           |
-
-Complete the chart above.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's complete the table.
-
-|           | History                            | Geography                               | Classics                           | **TOTAL**                               |
-|:---------:|:-------:                           |:---------:                              |:--------:                          |:---------:                              |
-| Boys      | $28$                               | $50 - 28 - 8 = 14 \ \footnotesize{(3)}$ | $8$                                | $50$                                    |
-| Girls     | $35 - 28 = 7 \ \footnotesize{(1)}$ | $19$                                    | $29 - 8 = 21 \ \footnotesize{(2)}$ | $7 + 19 + 21 = 47 \ \footnotesize{(5)}$ |
-| **TOTAL** | $35$                               | $19 + 14 = 33 \ \footnotesize{(4)}$     | $29$                               | $50 + 47 = 97 \ \footnotesize{(6)}$     |
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-|           | History    | Geography  | Classics  | **TOTAL** |
-|:---------:|:-------:   |:---------: |:--------: |:---------:|
-| Boys      | $28$       | $14$       | $8$       | $50$      |
-| Girls     | $7$        | $19$       | $21$      | $47$      |
-| **TOTAL** | $35$       | $33$       | $29$      | $97$      |
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -69,24 +25,26 @@ Complete the chart above.
 <div class='workings'>
 <div class='working'>
 
-Let's complete the table
-
 |           | Art                                 | Design Tech                             | Textiles                           | **TOTAL**                               |
 |:---------:|:-------:                            |:---------:                              |:--------:                          |:---------:                              |
-| Boys      | $25$                                | $60 - 25 - 0 = 35 \ \footnotesize{(2)}$ | $0$                                | $60$                                    |
-| Girls     | $52 - 25 = 27 \ \footnotesize{(1)}$ | $12$                                    | $5$                                | $27 + 12 + 5 = 44 \ \footnotesize{(4)}$ |
-| **TOTAL** | $52$                                | $35 + 12 = 47 \ \footnotesize{(3)}$     | $5$                                | $60 + 44 = 104 \ \footnotesize{(5)}$    |
+| Boys      | $25$                                | $60 - 25 - 0 = 35 \ \maroonC{\footnotesize{(2)}}$ | $0$                                | $60$                                    |
+| Girls     | $52 - 25 = 27 \ \maroonC{\footnotesize{(1)}}$ | $12$                                    | $5$                                | $27 + 12 + 5 = 44 \ \maroonC{\footnotesize{(4)}}$ |
+| **TOTAL** | $52$                                | $35 + 12 = 47 \ \maroonC{\footnotesize{(3)}}$     | $5$                                | $60 + 44 = 104 \ \maroonC{\footnotesize{(5)}}$    |
+
+Completed table
+
+|           | Tennis | Football | Hockey | Swimming |   TOTAL |
+|:-----:    |:------:|:--------:|:------:|:--------:|:-----:  |
+|   Boys    |   $5$  | $12$     |  $2$   |    $6$   |   $25$  |
+|  Girls    |   $8$  | $5$      |  $12$  |   $10$   | $35$    |
+|  TOTAL    |   $13$ | $17$     |  $14$  |   $16$   | $60$    |
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-|           | Art  | Design Tech | Textiles  | **TOTAL** |
-|:---------:|:----:|:---------:  |:--------: |:---------:|
-| Boys      | $25$ | $35$        | $0$       | $60$      |
-| Girls     | $27$ | $12$        | $5$       | $44$      |
-| **TOTAL** | $52$ | $47$        | $5$       | $104$     |
+%empty%
 
 </div>
 </div>
@@ -94,7 +52,7 @@ Let's complete the table
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -141,24 +99,27 @@ Complete the chart above.
 <div class='workings'>
 <div class='working'>
 
-Let's complete the table.
-
 |           | Tennis                            | Football                                   | Hockey                             | Swimming                           |   TOTAL                                     |
 |:-----:    |:------:                           |:--------:                                  |:------:                            |:--------:                          |:-----:                                      |
-|   Boys    |   $5$                             | $25 - 5 - 6 - 2 = 12 \ \footnotesize{(4)}$ | $14 - 12 = 2 \ \footnotesize{(3)}$ |    $6$                             |   $25$                                      |
-|  Girls    | $13 - 5 = 8 \ \footnotesize{(1)}$ |    $5$                                     |  $12$                              | $16 - 6 = 10 \ \footnotesize{(2)}$ | $8 + 5 + 12 + 10 = 35 \ \footnotesize{(6)}$ |
-|  TOTAL    |   $13$                            | $12 + 5 = 17 \ \footnotesize{(5)}$         |  $14$                              |    $16$                            | $25 + 35 = 60 \ \footnotesize{(7)}$         |
+|   Boys    |   $5$                             | $25 - 5 - 6 - 2 = 12 \ \maroonC{\footnotesize{(4)}}$ | $14 - 12 = 2 \ \maroonC{\footnotesize{(3)}}$ |    $6$                             |   $25$                                      |
+|  Girls    | $13 - 5 = 8 \ \maroonC{\footnotesize{(1)}}$ |    $5$                                     |  $12$                              | $16 - 6 = 10 \ \maroonC{\footnotesize{(2)}}$ | $8 + 5 + 12 + 10 = 35 \ \maroonC{\footnotesize{(6)}}$ |
+|  TOTAL    |   $13$                            | $12 + 5 = 17 \ \maroonC{\footnotesize{(5)}}$         |  $14$                              |    $16$                            | $25 + 35 = 60 \ \maroonC{\footnotesize{(7)}}$         |
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
+
+Completed table:
 
 |           | Tennis | Football | Hockey | Swimming |   TOTAL |
 |:-----:    |:------:|:--------:|:------:|:--------:|:-----:  |
 |   Boys    |   $5$  | $12$     |  $2$   |    $6$   |   $25$  |
 |  Girls    |   $8$  | $5$      |  $12$  |   $10$   | $35$    |
 |  TOTAL    |   $13$ | $17$     |  $14$  |   $16$   | $60$    |
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
 
 </div>
 </div>
@@ -200,7 +161,7 @@ $\dfrac {7} {30}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -223,16 +184,19 @@ Fill in the gaps to help her.
 
 $\text{Total number of legs} = 4 \times \text{Number of cows} + 2$
 
+$L = 4 \times C + 2$
+
+
 |    Number of Cows    | $1$ |                 $2$               |  $3$ |               $4$                  |                $10$                |                 $100$              |
 |:--------------------:|:---:|:---------------------------------:|:----:|:----------------------------------:|:----------------------------------:|:----------------------------------:|
-| Total Number of Legs | $6$ | $4 \times 2 + 2 = 8 + 2 = 10$     | $14$ | $4 \times 4 + 2 = 16 + 2 = 18$     | $4 \times 10 + 2 = 40 + 2 = 42$    | $4 \times 100 + 2 = 400 + 2 = 402$ |
+| Total Number of Legs | $6$ | $4 \times 2 + 2 = 10$     | $14$ | $4 \times 4 + 2 = 18$     | $4 \times 10 + 2 = 42$    | $4 \times 100 + 2 = 402$ |
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text{Total number of legs} = 4 \times \text{Number of cows} + 2$
+$L = 4 \times C + 2$
 
 </div>
 </div>
@@ -240,7 +204,7 @@ $\text{Total number of legs} = 4 \times \text{Number of cows} + 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -264,16 +228,19 @@ Adam is trying to find a formula that links the Table number, $T$, to the number
 
 $\text{Maximum number of people} = 2 \times \text{Number of smaller tables} + 2$
 
+$P = 2 \times T + 2$
+
+
 | Number of smaller tables  |               $1$            |   $2$   |             $3$              |   $4$   |              $10$               |                 $100$              |
 |:-------------------------:|:----------------------------:|:-------:|:----------------------------:|:-------:|:-------------------------------:|:----------------------------------:|
-|  Maximum number of people | $2 \times 1 + 2 = 2 + 2 = 4$ |   $6$   | $2 \times 3 + 2 = 6 + 2 = 8$ |   $10$  | $2 \times 10 + 2 = 20 + 2 = 22$ | $2 \times 100 + 2 = 200 + 2 = 202$ |
+|  Maximum number of people | $2 \times 1 + 2 = 4$ |   $6$   | $2 \times 3 + 2 = 8$ |   $10$  | $2 \times 10 + 2 = 22$ | $2 \times 100 + 2 = 202$ |
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text{Maximum number of people} = 2 \times \text{Number of smaller tables} + 2$
+$P = 2 \times T + 2$
 
 </div>
 </div>
@@ -281,7 +248,7 @@ $\text{Maximum number of people} = 2 \times \text{Number of smaller tables} + 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -431,7 +398,7 @@ Yellow team
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -440,7 +407,7 @@ The table shows part of a multiplication grid.
 
 Fill in the missing numbers.
 
-|  x  |      |      |  $8$ |
+|  $\times$   |      |      |  $8$ |
 |:---:|:----:|:----:|:----:|
 | $2$ |  $8$ | $14$ | $16$ |
 |     | $24$ |      | $48$ |
@@ -451,22 +418,27 @@ Fill in the missing numbers.
 <div class='workings'>
 <div class='working'>
 
-|                      x                     | $\dfrac {8} {2} = 4 \ \footnotesize{(1)}$ | $\dfrac {14} {2} = 7 \ \footnotesize{(2)}$ |  $8$ |
+|                      $\times$                     | $\dfrac {8} {2} = 4 \ \maroonC{\footnotesize{(1)}}$ | $\dfrac {14} {2} = 7 \ \maroonC{\footnotesize{(2)}}$ |  $8$ |
 |:------------------------------------------:|:-----------------------------------------:|:------------------------------------------:|:----:|
 |                     $2$                    |                    $8$                    |                    $14$                    | $16$ |
-| $\dfrac {24} {4} = 6 \ \footnotesize{(3)}$ |                    $24$                   | $6 \times 7 = 42 \ \footnotesize{(3)}$     | $48$ |
-| $\dfrac {28} {4} = 7 \ \footnotesize{(4)}$ |                    $28$                   |                    $49$                    | $56$ |
+| $\dfrac {24} {4} = 6 \ \maroonC{\footnotesize{(3)}}$ |                    $24$                   | $6 \times 7 = 42 \ \maroonC{\footnotesize{(3)}}$     | $48$ |
+| $\dfrac {28} {4} = 7 \ \maroonC{\footnotesize{(4)}}$ |                    $28$                   |                    $49$                    | $56$ |
+
+Completed table
+
+|  $\times$   | $4$ | $7$ |  $8$ |
+|:---:|:---:|:---:|:----:|
+| $2$ | $8$ | $14$| $16$ |
+| $6$ | $24$| $42$| $48$ |
+| $7$ | $28$| $49$| $56$ |
+
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-|  x  | $4$ | $7$ |  $8$ |
-|:---:|:---:|:---:|:----:|
-| $2$ | $8$ | $14$| $16$ |
-| $6$ | $24$| $42$| $48$ |
-| $7$ | $28$| $49$| $56$ |
+%empty%
 
 </div>
 </div>
@@ -474,7 +446,7 @@ Fill in the missing numbers.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -489,24 +461,21 @@ each column adds up to $3$ and
 
 each diagonal adds up to $3$
 
-| $2$         | $\ldots$     | $\ldots$     |
-|:--------:    |:---------:    |:----------:    |
-| $3$         |    $1$        | $\ldots$     |
-| $2$         | $\ldots$     | $4$            |
+|    $2$    |  $\ldots$  |   $\ldots$  |
+|:---------:|:----------:|:-----------:|
+|    $3$    |     $1$    |   $\ldots$  |
+|    $2$    |  $\ldots$  |      $4$    |
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-| $-2$        | $3 - (0 + (-2)) = 5 \ \footnotesize{(3)}$ | $3 - (4 + (-1)) = 0 \ \footnotesize{(2)}$  |
+| $-2$        | $3 - (0 + (-2)) = 5 \ \maroonC{\footnotesize{(3)}}$ | $3 - (4 + (-1)) = 0 \ \maroonC{\footnotesize{(2)}}$  |
 |:-----------:|:-----------------------------------------:|:------------------------------------------:|
-| $3$         |                    $1$                    | $3 - (3 + 1) = -1 \ \footnotesize{(1)}$    |
-| $2$         | $3 - (4 + 2) = -3 \ \footnotesize{(4)}$   |                   $4$                      |
+| $3$         |                    $1$                    | $3 - (3 + 1) = -1 \ \maroonC{\footnotesize{(1)}}$    |
+| $2$         | $3 - (4 + 2) = -3 \ \maroonC{\footnotesize{(4)}}$   |                   $4$                      |
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
+Completed table
 
 | $-2$        | $5$     | $0$      |
 |:--------:   |:-------:|:----:    |
@@ -515,11 +484,18 @@ each diagonal adds up to $3$
 
 </div>
 </div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -528,11 +504,11 @@ Sam is completing a table of values for the formula $2(n + 1)$.
 
 He has completed the first row of the table.
 
-|   n  | $2(n+1)$ |
-|:----:|:--------:|
-|  $5$ |   $12$   |
-| $19$ |          |
-|      |   $80$   |
+|   $n$  | $2(n+1)$ |
+|:------:|:--------:|
+|   $5$  |   $12$   |
+|  $19$  |          |
+|        |   $80$   |
 
 Complete the table with the two missing values.
 
@@ -543,13 +519,10 @@ Complete the table with the two missing values.
 |                n                    |            $2(n+1)$            |
 |:-----------------------------------:|:------------------------------:|
 |               $5$                   |               $12$             |
-|              $19$                   | $2(19 + 1) = 2 \times 20 = 40$ |
-| $\dfrac {80} {2} - 1 = 40 - 1 = 39$ |               $80$             |
+|              $19$                   | $2(19 + 1) = 2 \times 20 = 40 \ \maroonC{\footnotesize{(1)}}$ |
+| $\dfrac {80} {2} - 1 = 40 - 1 = 39 \ \maroonC{\footnotesize{(2)}}$ |               $80$             |
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
+Completed table
 
 |   n  | $2(n+1)$ |
 |:----:|:--------:|
@@ -559,11 +532,60 @@ Complete the table with the two missing values.
 
 </div>
 </div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+This diagram shows the reults of a class survey concerning pets.
+
+|                               | Boys  | Girls         | Total         |
+|:---------------------:        |:----: |:-----:        |:-----:        |
+| Have at least $1$ pet         | $11$  |               |               |
+|      Have no pets             |       |  $8$          |               |
+|         Total                 | $16$  |               |  $30$         |
+
+How many children have at least one pet?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's complete the table.
+
+|                               |      Boys                            |        Girls                         |      Total                           |
+|:-----------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|
+| Have at least $1$ pet         |      $11$                            |    $14 - 8 = 6 \ \maroonC{\footnotesize{(3)}}$ |  $11 + 6 = 17  \ \maroonC{\footnotesize{(4)}}$ |
+|      Have no pets             | $16 - 11 = 5 \ \maroonC{\footnotesize{(2)}}$   |         $8$                          | $30 - 17 = 13  \ \maroonC{\footnotesize{(5)}}$ |
+|         Total                 |      $16$                            | $30 - 16 = 14 \ \maroonC{\footnotesize{(1)}}$  |      $30$                            |
+
+Children with atleast $1$ pet $= 17$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$17$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -572,13 +594,13 @@ A group of children are playing a game where they can score either $2, 3$ or $5$
 The children have had $8$ turns each and recorded their scores in a table, but some of the entries have been deleted. 
 Fill in the missing numbers to give a complete set of scores.
 
-| **Name**    | **2 points** | **3 points** | **5 points** | **Total Score** |
-|:-----------:|:------------:|:------------:|:------------:|:---------------:|
-| Carl        |  1           |    6         |    1         |    25           |
-| Alex        |  4           |    2         |              |                 |
-| Yusuf       |              |    3         |              |    25           |
-| Jing        |              |              |              |    35           |
-| Charlotte   |              |              |              |    18           |
+| **Name**    | **$2$ points** | **$3$ points** | **$5$ points** | **Total Score** |
+|:-----------:|:--------------:|:--------------:|:--------------:|:---------------:|
+| Carl        |       $1$      |       $6$      |       $1$      |       $25$      |
+| Alex        |       $4$      |       $2$      |                |                 |
+| Yusuf       |                |       $3$      |                |       $25$      |
+| Jing        |                |                |                |       $35$      |
+| Charlotte   |                |                |                |       $18$      |
 
 </div>
 <div class='workings'>
@@ -621,7 +643,7 @@ Let's verify.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -759,7 +781,7 @@ Zimbabwe
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -808,9 +830,9 @@ What fraction of the pupils are boys who walk to school?
 
 |           |               Walk                |           Don’t walk              |            Total                    |
 |:-----:    |:-----------------------------:    |:----------------------------:     |:-------------------------------:    |
-| Girls     |               $6$                 | $11 - 6 = 5 \ \footnotesize{(1)}$ |             $11$                    |
-|  Boys     | $12 - 8 = 4 \ \footnotesize{(3)}$ |              $8$                  | $23 - 11 = 12 \ \footnotesize{(2)}$ |
-| Total     | $6 + 4 = 10 \ \footnotesize{(4)}$ | $8 + 5 = 13 \ \footnotesize{(5)}$ |             $23$                    |
+| Girls     |               $6$                 | $11 - 6 = 5 \ \maroonC{\footnotesize{(1)}}$ |             $11$                    |
+|  Boys     | $12 - 8 = 4 \ \maroonC{\footnotesize{(3)}}$ |              $8$                  | $23 - 11 = 12 \ \maroonC{\footnotesize{(2)}}$ |
+| Total     | $6 + 4 = 10 \ \maroonC{\footnotesize{(4)}}$ | $8 + 5 = 13 \ \maroonC{\footnotesize{(5)}}$ |             $23$                    |
 
 Fraction of pupils who are boys and walk to school $= \dfrac {4} {23}$
 
@@ -854,7 +876,7 @@ $\dfrac {5} {11}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -878,12 +900,12 @@ Let's complete the table.
 
 |                           Fraction                         |                       $\%$                        |                   Decimal                       |
 |:----------------------------------------------------------:|:-------------------------------------------------:|:-----------------------------------------------:|
-|                        $\dfrac{1}{2}$                      | $\dfrac {100} {2} = 50 \% \ \footnotesize{(4)}$   | $\dfrac {1} {2} = 0.5 \ \footnotesize{(8)}$     |
-| $\dfrac {25} {100} = \dfrac {1} {4} \ \footnotesize{(1)}$  |                     $25 \%$                       | $\dfrac {25} {100} = 0.25 \ \footnotesize{(9)}$ |
-|                        $\dfrac{1}{8}$                      | $\dfrac {100} {8} = 12.5 \% \ \footnotesize{(5)}$ | $\dfrac {1} {8} = 0.125 \ \footnotesize{(10)}$  |
-| $\dfrac {10} {100} = \dfrac {1} {10} \ \footnotesize{(2)}$ |                     $10 \%$                       | $\dfrac {10} {100} = 0.1 \ \footnotesize{(11)}$ |
-| $\dfrac {2} {10} = \dfrac {1} {5} \ \footnotesize{(3)}$    | $0.2 \times 100 = 20 \% \ \footnotesize{(6)}$     |                    $0.2$                        |
-|                        $\dfrac{1}{3}$                      | $\dfrac {100} {3} = 33.3 \% \ \footnotesize{(7)}$ | $\dfrac {1} {3} = 0.33 \ \footnotesize{(12)}$   | 
+|                        $\dfrac{1}{2}$                      | $\dfrac {100} {2} = 50 \% \ \maroonC{\footnotesize{(4)}}$   | $\dfrac {1} {2} = 0.5 \ \maroonC{\footnotesize{(8)}}$     |
+| $\dfrac {25} {100} = \dfrac {1} {4} \ \maroonC{\footnotesize{(1)}}$  |                     $25 \%$                       | $\dfrac {25} {100} = 0.25 \ \maroonC{\footnotesize{(9)}}$ |
+|                        $\dfrac{1}{8}$                      | $\dfrac {100} {8} = 12.5 \% \ \maroonC{\footnotesize{(5)}}$ | $\dfrac {1} {8} = 0.125 \ \maroonC{\footnotesize{(10)}}$  |
+| $\dfrac {10} {100} = \dfrac {1} {10} \ \maroonC{\footnotesize{(2)}}$ |                     $10 \%$                       | $\dfrac {10} {100} = 0.1 \ \maroonC{\footnotesize{(11)}}$ |
+| $\dfrac {2} {10} = \dfrac {1} {5} \ \maroonC{\footnotesize{(3)}}$    | $0.2 \times 100 = 20 \% \ \maroonC{\footnotesize{(6)}}$     |                    $0.2$                        |
+|                        $\dfrac{1}{3}$                      | $\dfrac {100} {3} = 33.3 \% \ \maroonC{\footnotesize{(7)}}$ | $\dfrac {1} {3} = 0.33 \ \maroonC{\footnotesize{(12)}}$   | 
 
 </div>
 </div>
@@ -905,7 +927,7 @@ Let's complete the table.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -948,7 +970,7 @@ Let's complete the table.
 
 |   Number of squares   |                 1                     |                 2                     |                 3                      |                  4                     |                 5                      |
 |:---------------------:|:-------------------------------------:|:-------------------------------------:|:--------------------------------------:|:--------------------------------------:|:--------------------------------------:|
-| Number of matchsticks | $1 \times 4 = 4 \ \footnotesize{(1)}$ | $2 \times 4 = 8 \ \footnotesize{(2)}$ | $3 \times 4 = 12 \ \footnotesize{(3)}$ | $4 \times 4 = 16 \ \footnotesize{(4)}$ | $5 \times 4 = 20 \ \footnotesize{(5)}$ |
+| Number of matchsticks | $1 \times 4 = 4 \ \maroonC{\footnotesize{(1)}}$ | $2 \times 4 = 8 \ \maroonC{\footnotesize{(2)}}$ | $3 \times 4 = 12 \ \maroonC{\footnotesize{(3)}}$ | $4 \times 4 = 16 \ \maroonC{\footnotesize{(4)}}$ | $5 \times 4 = 20 \ \maroonC{\footnotesize{(5)}}$ |
 
 </div>
 </div>
@@ -996,7 +1018,134 @@ Number of matchsticks $= 4 \times$ Number of square
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+The table shows information about some goal scorers across $3$ football leagues:
+
+
+<!--
+**Name**            ,**League**     ,**Goals**  ,**Matches**
+Iago Aspas          ,Spanish        ,19         ,32 
+Timo Werner         ,German         ,21         ,31 
+Romelu Lukaku       ,English        ,25         ,37 
+Dele Alli           ,English        ,18         ,37 
+Anthony Modeste     ,German         ,25         ,34 
+Cristiano Ronaldo   ,Spanish        ,26         ,29
+-->
+
+|      **Name**         | **League**     | **Goals**     | **Matches**     |
+|:-----------------:    |:----------:    |:---------:    |:-----------:    |
+|     Iago Aspas        |   Spanish      |     19        |      32         |
+|    Timo Werner        |   German       |     21        |      31         |
+|   Romelu Lukaku       |   English      |     25        |      37         |
+|     Dele Alli         |   English      |     18        |      37         |
+|  Anthony Modeste      |   German       |     25        |      34         |
+| Cristiano Ronaldo     |   Spanish      |     26        |      29         |
+
+**From the players listed here**,
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+which player scored the most goals?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Cristiano Ronaldo
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Cristiano Ronaldo
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+which league did the player who scored the least goals play in?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+English
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+English
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+which league had the most goals scored in it by these players?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+|  League       |      Goals            |
+|:-------:      |:--------------:       |
+| Spanish       | $19 + 26 = 45$        |
+|  German       | $21 + 25 = 46$        |
+| English       | $25 + 18 = 43$        |
+
+Most goals = German
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+German
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1036,7 +1185,7 @@ Let's complete the table.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1169,7 +1318,7 @@ $163$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1199,10 +1348,10 @@ Let's complete the table.
 
 |               | Judge $1$                     | Judge $2$                  | Judge $3$                              | Judge $4$                                                 | Total                                       |
 |--------       |:---------:                    |:---------:                 |:---------:                             |:---------:                                                |:-----:                                      |
-| Andrew        |    $5 \ \footnotesize{(1)}$   |  $5 \ \footnotesize{(2)}$  |   $5 \ \footnotesize{(3)}$             |  $5 \ \footnotesize{(4)}$                                 |  $5 + 5 + 5 + 5 = 20 \ \footnotesize{(5)}$  |
-| Brian         |              $5$              |             $4$            |              $3$                       |  $16 - 5 - 4 - 3 = 4 \ \footnotesize{(7)}$                |   $20 - 4 = 16 \ \footnotesize{(6)}$        |
-| Carla         |              $4$              |             $2$            |  $7 - 4 - 2 = 1 \ \footnotesize{(9)}$  |                  $0$                                      |  $7 \ \footnotesize{(8)}$                   |
-| Donna         |              $0$              |             $-3$           |              $5$                       |  $7 - 0 - (-3) - 5 = 7 + 3 - 5 = 5 \ \footnotesize{(11)}$ |  $7 \ \footnotesize{(10)}$                  |
+| Andrew        |    $5 \ \maroonC{\footnotesize{(1)}}$   |  $5 \ \maroonC{\footnotesize{(2)}}$  |   $5 \ \maroonC{\footnotesize{(3)}}$             |  $5 \ \maroonC{\footnotesize{(4)}}$                                 |  $5 + 5 + 5 + 5 = 20 \ \maroonC{\footnotesize{(5)}}$  |
+| Brian         |              $5$              |             $4$            |              $3$                       |  $16 - 5 - 4 - 3 = 4 \ \maroonC{\footnotesize{(7)}}$                |   $20 - 4 = 16 \ \maroonC{\footnotesize{(6)}}$        |
+| Carla         |              $4$              |             $2$            |  $7 - 4 - 2 = 1 \ \maroonC{\footnotesize{(9)}}$  |                  $0$                                      |  $7 \ \maroonC{\footnotesize{(8)}}$                   |
+| Donna         |              $0$              |             $-3$           |              $5$                       |  $7 - 0 - (-3) - 5 = 7 + 3 - 5 = 5 \ \maroonC{\footnotesize{(11)}}$ |  $7 \ \maroonC{\footnotesize{(10)}}$                  |
 
 </div>
 </div>
@@ -1222,7 +1371,7 @@ Let's complete the table.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1269,7 +1418,7 @@ Let's complete the table.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1361,7 +1510,7 @@ $15$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1474,7 +1623,7 @@ Yogi
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1517,9 +1666,9 @@ Let's complete the table.
 
 |       |              boys                   |              girls                  |                total                |
 |:-----:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
-|  $6A$ |              $14$                   | $30 - 14 = 16 \ \footnotesize{(2)}$ | $48 - 18 = 30 \ \footnotesize{(1)}$ |
-|  $6B$ | $18 - 6 = 12 \ \footnotesize{(3)}$  |                $6$                  |               $18$                  |
-| total | $14 + 12 = 26 \ \footnotesize{(4)}$ | $16 + 6 = 22 \ \footnotesize{(5)}$  |               $48$                  |
+|  $6A$ |              $14$                   | $30 - 14 = 16 \ \maroonC{\footnotesize{(2)}}$ | $48 - 18 = 30 \ \maroonC{\footnotesize{(1)}}$ |
+|  $6B$ | $18 - 6 = 12 \ \maroonC{\footnotesize{(3)}}$  |                $6$                  |               $18$                  |
+| total | $14 + 12 = 26 \ \maroonC{\footnotesize{(4)}}$ | $16 + 6 = 22 \ \maroonC{\footnotesize{(5)}}$  |               $48$                  |
 
 </div>
 </div>
@@ -1653,7 +1802,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1678,9 +1827,9 @@ Let's complete the table.
 |   |                         Fraction                            |                 Decimal                         |                  $\%$                           |
 |:-:|:-----------------------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
 | A |                     $\dfrac {3} {10}$                       |                     $0.3$                       |                $30 \%$                          |
-| B |                      $\dfrac {1} {5}$                       | $\dfrac {1} {5} = 0.2 \ \footnotesize{(3)}$     | $\dfrac {100} {5} = 20 \% \ \footnotesize{(5)}$ |
-| C | $\dfrac {24} {100} = \dfrac {6} {25} \ \footnotesize{(1)}$  | $\dfrac {24} {100} = 0.24 \ \footnotesize{(4)}$ |                $24 \%$                          |
-| D | $\dfrac {34} {100} = \dfrac {17} {50} \ \footnotesize{(2)}$ |                     $0.34$                      | $0.34 \times 100 = 34 \% \ \footnotesize{(6)}$  |
+| B |                      $\dfrac {1} {5}$                       | $\dfrac {1} {5} = 0.2 \ \maroonC{\footnotesize{(3)}}$     | $\dfrac {100} {5} = 20 \% \ \maroonC{\footnotesize{(5)}}$ |
+| C | $\dfrac {24} {100} = \dfrac {6} {25} \ \maroonC{\footnotesize{(1)}}$  | $\dfrac {24} {100} = 0.24 \ \maroonC{\footnotesize{(4)}}$ |                $24 \%$                          |
+| D | $\dfrac {34} {100} = \dfrac {17} {50} \ \maroonC{\footnotesize{(2)}}$ |                     $0.34$                      | $0.34 \times 100 = 34 \% \ \maroonC{\footnotesize{(6)}}$  |
 
 </div>
 </div>
@@ -1700,7 +1849,7 @@ Let's complete the table.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1729,9 +1878,9 @@ Let's complete the table.
 
 |                                     |                boy                  |                    girl                              |                   total             |
 |:-----------------------------------:|:-----------------------------------:|:----------------------------------------------------:|:-----------------------------------:|
-|     plays a stringed instrument     | $42 - 30 = 12 \ \footnotesize{(7)}$ | $\dfrac {2} {3} \times 45 = 30 \ \footnotesize{(3)}$ | $80 - 38 = 42 \ \footnotesize{(6)}$ |
-| does not play a stringed instrument | $35 - 12 = 23 \ \footnotesize{(8)}$ |          $45 - 30 = 15 \ \footnotesize{(4)}$         |       $38 \ \footnotesize{(5)}$     |
-|                total                |     $35 \ \footnotesize{(1)}$       |          $80 - 35 = 45 \ \footnotesize{(2)}$         |                 $80$                |
+|     plays a stringed instrument     | $42 - 30 = 12 \ \maroonC{\footnotesize{(7)}}$ | $\dfrac {2} {3} \times 45 = 30 \ \maroonC{\footnotesize{(3)}}$ | $80 - 38 = 42 \ \maroonC{\footnotesize{(6)}}$ |
+| does not play a stringed instrument | $35 - 12 = 23 \ \maroonC{\footnotesize{(8)}}$ |          $45 - 30 = 15 \ \maroonC{\footnotesize{(4)}}$         |       $38 \ \maroonC{\footnotesize{(5)}}$     |
+|                total                |     $35 \ \maroonC{\footnotesize{(1)}}$       |          $80 - 35 = 45 \ \maroonC{\footnotesize{(2)}}$         |                 $80$                |
 
 </div>
 </div>
@@ -1750,7 +1899,7 @@ Let's complete the table.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1798,8 +1947,8 @@ Let's complete the table.
 |                  **input**                              |                  **output**                                |
 |:-------------------------------------------------------:|:----------------------------------------------------------:|
 |                      $1$                                |                    $8$                                     |
-|                      $0$                                |  $(0 + 3) \times 2 = 3 \times 2 = 6 \ \footnotesize{(1)}$  |
-|  $\dfrac {14} {2} - 3 = 7 - 3 = 4 \ \footnotesize{(2)}$ |                    $14$                                    |
+|                      $0$                                |  $(0 + 3) \times 2 = 3 \times 2 = 6 \ \maroonC{\footnotesize{(1)}}$  |
+|  $\dfrac {14} {2} - 3 = 7 - 3 = 4 \ \maroonC{\footnotesize{(2)}}$ |                    $14$                                    |
 
 </div>
 </div>
@@ -1861,7 +2010,7 @@ $(\text{Input} \times 2) + 3 = \text{Output}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1950,9 +2099,9 @@ Let's complete the table.
 |:---------------:|:------------------------:|:---------------------------------------------------:|
 | $1$ (when born) |         $1$              |         $5$                                         |
 |       $2$       |         $2$              |         $9$                                         |
-|       $3$       | $3 \ \footnotesize{(1)}$ | $3 \times 4 + 1 = 12 + 1 = 13 \ \footnotesize{(4)}$ |
-|       $4$       | $4 \ \footnotesize{(2)}$ | $4 \times 4 + 1 = 16 + 1 = 17 \ \footnotesize{(5)}$ |
-|       $5$       | $5 \ \footnotesize{(3)}$ | $5 \times 4 + 1 = 20 + 1 = 21 \ \footnotesize{(6)}$ |
+|       $3$       | $3 \ \maroonC{\footnotesize{(1)}}$ | $3 \times 4 + 1 = 12 + 1 = 13 \ \maroonC{\footnotesize{(4)}}$ |
+|       $4$       | $4 \ \maroonC{\footnotesize{(2)}}$ | $4 \times 4 + 1 = 16 + 1 = 17 \ \maroonC{\footnotesize{(5)}}$ |
+|       $5$       | $5 \ \maroonC{\footnotesize{(3)}}$ | $5 \times 4 + 1 = 20 + 1 = 21 \ \maroonC{\footnotesize{(6)}}$ |
 
 </div>
 </div>
@@ -2046,7 +2195,7 @@ $16$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2095,9 +2244,9 @@ Let's complete the table.
 |                      **input**                          |                     **output**                                |
 |:-------------------------------------------------------:|:-------------------------------------------------------------:|
 |                         $2$                             |                       $0$                                     |
-|                         $5$                             | $(5 - 2) \times 2 = 3 \times 2 = 6 \ \footnotesize{(1)}$      |
-| $\dfrac {-2} {2} + 2 = -1 + 2 = 1 \ \footnotesize{(2)}$ |                      $-2$                                     |
-|                        $-2$                             | $(-2 - 2) \times 2 = (-4) \times 2 = -8 \ \footnotesize{(3)}$ |
+|                         $5$                             | $(5 - 2) \times 2 = 3 \times 2 = 6 \ \maroonC{\footnotesize{(1)}}$      |
+| $\dfrac {-2} {2} + 2 = -1 + 2 = 1 \ \maroonC{\footnotesize{(2)}}$ |                      $-2$                                     |
+|                        $-2$                             | $(-2 - 2) \times 2 = (-4) \times 2 = -8 \ \maroonC{\footnotesize{(3)}}$ |
 
 </div>
 </div>
@@ -2166,7 +2315,7 @@ $\text{Input} \times 3 + 1 = \text{Output}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2213,9 +2362,9 @@ Let's complete the table.
 |   name  | number of correct answers          | number of wrong answers             | total points                                                    |
 |:-------:|:----------------------------------:|:-----------------------------------:|:---------------------------------------------------------------:|
 | Rebecca |            $7$                     |           $13$                      |          $-5$                                                   |
-|  Safiya |            $14$                    | $20 - 14 = 6 \ \footnotesize{(2)}$  | $14 \times 3 - 6 \times 2 = 42 - 12 = 30 \ \footnotesize{(3)}$  |
-|  Tosin  | $20 - 16 = 4 \ \footnotesize{(1)}$ |           $16$                      | $4 \times 3 - 16 \times 2 = 12 - 32 = -20 \ \footnotesize{(4)}$ |
-|  Ursula |      $8 \ \footnotesize{(5)}$      |  $20 - 8 = 12 \ \footnotesize{(6)}$ |          $0$                                                    |
+|  Safiya |            $14$                    | $20 - 14 = 6 \ \maroonC{\footnotesize{(2)}}$  | $14 \times 3 - 6 \times 2 = 42 - 12 = 30 \ \maroonC{\footnotesize{(3)}}$  |
+|  Tosin  | $20 - 16 = 4 \ \maroonC{\footnotesize{(1)}}$ |           $16$                      | $4 \times 3 - 16 \times 2 = 12 - 32 = -20 \ \maroonC{\footnotesize{(4)}}$ |
+|  Ursula |      $8 \ \maroonC{\footnotesize{(5)}}$      |  $20 - 8 = 12 \ \maroonC{\footnotesize{(6)}}$ |          $0$                                                    |
 
 </div>
 </div>
@@ -2235,7 +2384,7 @@ Let's complete the table.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2275,7 +2424,7 @@ $39 \ \text{mins}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2317,7 +2466,7 @@ Let's complete the table,
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2368,9 +2517,9 @@ Let's complete the table.
 
 | Daniel calls out                                                 | Bella writes down                                   |
 |:----------------------------------------------------------------:|:---------------------------------------------------:|
-|                                $5$                               | $5 \times 3 - 5 = 15 - 5 = 10 \ \footnotesize{(1)}$ |
-| $\dfrac {19 + 5} {3} = \dfrac {24} {3} = 8 \ \footnotesize{(2)}$ |                          $19$                       |
-| $\dfrac {-2 + 5} {3} = \dfrac {3} {3} = 1 \ \footnotesize{(3)}$  |                          $-2$                       |
+|                                $5$                               | $5 \times 3 - 5 = 15 - 5 = 10 \ \maroonC{\footnotesize{(1)}}$ |
+| $\dfrac {19 + 5} {3} = \dfrac {24} {3} = 8 \ \maroonC{\footnotesize{(2)}}$ |                          $19$                       |
+| $\dfrac {-2 + 5} {3} = \dfrac {3} {3} = 1 \ \maroonC{\footnotesize{(3)}}$  |                          $-2$                       |
 
 </div>
 </div>
@@ -2436,7 +2585,7 @@ Erin multiplies by $3$ then adds $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2517,9 +2666,9 @@ Let's complete the table.
 
 |       pattern number      | $1$ |              $2$                      |                   $3$                 |                       $4$                     |
 |:-------------------------:|:---:|:-------------------------------------:|:-------------------------------------:|:---------------------------------------------:|
-| number of small triangles | $1$ | $4$                                   | $1 + 3 + 5 = 9 \ \footnotesize{(3)}$  | $1 + 3 + 5 + 7 = 16 \ \footnotesize{(5)}$     |
-|  perimeter ($\text{cm}$)  | $3$ | $3 \times 2 = 6 \ \footnotesize{(1)}$ | $3 \times 3 = 9 \ \footnotesize{(4)}$ | $12$                                          |
-|       number of dots      | $3$ | $1 + 2 + 3 = 6 \ \footnotesize{(2)}$  | $10$                                  | $1 + 2 + 3 + 4 + 5 = 15 \ \footnotesize{(6)}$ |
+| number of small triangles | $1$ | $4$                                   | $1 + 3 + 5 = 9 \ \maroonC{\footnotesize{(3)}}$  | $1 + 3 + 5 + 7 = 16 \ \maroonC{\footnotesize{(5)}}$     |
+|  perimeter ($\text{cm}$)  | $3$ | $3 \times 2 = 6 \ \maroonC{\footnotesize{(1)}}$ | $3 \times 3 = 9 \ \maroonC{\footnotesize{(4)}}$ | $12$                                          |
+|       number of dots      | $3$ | $1 + 2 + 3 = 6 \ \maroonC{\footnotesize{(2)}}$  | $10$                                  | $1 + 2 + 3 + 4 + 5 = 15 \ \maroonC{\footnotesize{(6)}}$ |
 
 </div>
 </div>
@@ -2632,7 +2781,7 @@ $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2664,10 +2813,10 @@ Let's complete the table.
 
 | **Name**|          **No of tricks**            |          **Super**                   |           **Good**       |               **Poor**               |                                  **Total Points**                             |
 |:-------:|:------------------------------------:|:------------------------------------:|:------------------------:|:------------------------------------:|:-----------------------------------------------------------------------------:|
-|  Derek  |                $8$                   | $8 - 1 - 2 = 5 \ \footnotesize{(1)}$ |            $1$           |                 $2$                  | $5 \times 5 + 1 \times 3 + 2 \times 2 = 25 + 3 + 4 = 32 \ \footnotesize{(2)}$ |
-|   Ali   |                $9$                   |      $4 \ \footnotesize{(4)}$        | $1 \ \footnotesize{(5)}$ | $9 - 4 - 1 = 4 \ \footnotesize{(6)}$ |                          $31 \ \footnotesize{(3)}$                            |
-| Charlie |                $9$                   |              $2$                     | $6 \ \footnotesize{(7)}$ | $9 - 2 - 6 = 1 \ \footnotesize{(8)}$ |                                       $30$                                    |
-|  Brian  | $4 + 1 + 0 = 5 \ \footnotesize{(9)}$ |              $4$                     | $1 \ \footnotesize{(10)}$|       $0 \ \footnotesize{(11)}$      |                                       $23$                                    |
+|  Derek  |                $8$                   | $8 - 1 - 2 = 5 \ \maroonC{\footnotesize{(1)}}$ |            $1$           |                 $2$                  | $5 \times 5 + 1 \times 3 + 2 \times 2 = 25 + 3 + 4 = 32 \ \maroonC{\footnotesize{(2)}}$ |
+|   Ali   |                $9$                   |      $4 \ \maroonC{\footnotesize{(4)}}$        | $1 \ \maroonC{\footnotesize{(5)}}$ | $9 - 4 - 1 = 4 \ \maroonC{\footnotesize{(6)}}$ |                          $31 \ \maroonC{\footnotesize{(3)}}$                            |
+| Charlie |                $9$                   |              $2$                     | $6 \ \maroonC{\footnotesize{(7)}}$ | $9 - 2 - 6 = 1 \ \maroonC{\footnotesize{(8)}}$ |                                       $30$                                    |
+|  Brian  | $4 + 1 + 0 = 5 \ \maroonC{\footnotesize{(9)}}$ |              $4$                     | $1 \ \maroonC{\footnotesize{(10)}}$|       $0 \ \maroonC{\footnotesize{(11)}}$      |                                       $23$                                    |
 
 </div>
 </div>
@@ -2687,7 +2836,7 @@ Let's complete the table.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2730,7 +2879,7 @@ Let's complete the table.
 
 |       Day      | Mon morning |                                   Tues Morning                                               |                                          Wed Morning                                         |                                    Thurs Morning                                             |
 |:--------------:|:-----------:|:--------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|
-| Number of Fish |   $2000$    | $2000 + \dfrac {50} {100} \times 2000 - 300 = 2000 + 1000 - 300 = 2700 \ \footnotesize{(1)}$ | $2700 + \dfrac {50} {100} \times 2700 - 300 = 2700 + 1350 - 300 = 3750 \ \footnotesize{(2)}$ | $3750 + \dfrac {50} {100} \times 3750 - 300 = 3750 + 1875 - 300 = 5325 \ \footnotesize{(3)}$ |
+| Number of Fish |   $2000$    | $2000 + \dfrac {50} {100} \times 2000 - 300 = 2000 + 1000 - 300 = 2700 \ \maroonC{\footnotesize{(1)}}$ | $2700 + \dfrac {50} {100} \times 2700 - 300 = 2700 + 1350 - 300 = 3750 \ \maroonC{\footnotesize{(2)}}$ | $3750 + \dfrac {50} {100} \times 3750 - 300 = 3750 + 1875 - 300 = 5325 \ \maroonC{\footnotesize{(3)}}$ |
 
 </div>
 </div>
@@ -2762,7 +2911,7 @@ Let's complete the table.
 
 |       Day      | Mon morning |                                   Tues Morning                                               |                                          Wed Morning                                         |                                    Thurs Morning                                             |
 |:--------------:|:-----------:|:--------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|
-| Number of Fish |   $520$     | $520 + \dfrac {50} {100} \times 520 - 300 = 520 + 260 - 300 = 480 \ \footnotesize{(1)}$      | $480 + \dfrac {50} {100} \times 480 - 300 = 480 + 240 - 300 = 420 \ \footnotesize{(2)}$      | $420 + \dfrac {50} {100} \times 420 - 300 = 420 + 210 - 300 = 330 \ \footnotesize{(3)}$      |
+| Number of Fish |   $520$     | $520 + \dfrac {50} {100} \times 520 - 300 = 520 + 260 - 300 = 480 \ \maroonC{\footnotesize{(1)}}$      | $480 + \dfrac {50} {100} \times 480 - 300 = 480 + 240 - 300 = 420 \ \maroonC{\footnotesize{(2)}}$      | $420 + \dfrac {50} {100} \times 420 - 300 = 420 + 210 - 300 = 330 \ \maroonC{\footnotesize{(3)}}$      |
 
 </div>
 </div>
@@ -2794,7 +2943,7 @@ Let's complete the table.
 
 |       Day      |                                            Mon morning                                       |                                   Tues Morning                                               | Wed Morning     |
 |:--------------:|:--------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|:---------------:|
-| Number of Fish |  $\dfrac {2} {3} \times (900 + 300) = \dfrac {2} {3} \times 1200 = 800 \ \footnotesize{(2)}$ | $\dfrac {2} {3} \times (1050 + 300) = \dfrac {2} {3} \times 1350 = 900 \ \footnotesize{(1)}$ |     $1050$      |
+| Number of Fish |  $\dfrac {2} {3} \times (900 + 300) = \dfrac {2} {3} \times 1200 = 800 \ \maroonC{\footnotesize{(2)}}$ | $\dfrac {2} {3} \times (1050 + 300) = \dfrac {2} {3} \times 1350 = 900 \ \maroonC{\footnotesize{(1)}}$ |     $1050$      |
 
 </div>
 </div>
@@ -2874,7 +3023,7 @@ Let's complete the table.
 
 |       Day      | Mon morning |                                   Tues Morning                                                              |                                          Wed Morning                                                        |                                    Thurs Morning                                                                 |
 |:--------------:|:-----------:|:-----------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------:|
-| Number of Fish |   $12000$   | $12000 + \dfrac {50} {100} \times 12000 - 300 \times 15 = 12000 + 6000 - 4500 = 13500 \ \footnotesize{(1)}$ | $13500 + \dfrac {50} {100} \times 13500 - 300 \times 15 = 13500 + 6750 - 4500 = 15750 \ \footnotesize{(2)}$ | $15750 + \dfrac {50} {100} \times 15750 - 300 \times 15 = 15750 + 7875 - 4500 = 19125 \ \footnotesize{(3)}$      |
+| Number of Fish |   $12000$   | $12000 + \dfrac {50} {100} \times 12000 - 300 \times 15 = 12000 + 6000 - 4500 = 13500 \ \maroonC{\footnotesize{(1)}}$ | $13500 + \dfrac {50} {100} \times 13500 - 300 \times 15 = 13500 + 6750 - 4500 = 15750 \ \maroonC{\footnotesize{(2)}}$ | $15750 + \dfrac {50} {100} \times 15750 - 300 \times 15 = 15750 + 7875 - 4500 = 19125 \ \maroonC{\footnotesize{(3)}}$      |
 
 </div>
 </div>
@@ -2894,7 +3043,7 @@ Let's complete the table.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3007,7 +3156,7 @@ E, K and N
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3042,10 +3191,10 @@ Let's complete the table.
 |:------:|:------------------------------------------:|:--------------------------------------------:|:---------------------------------------------:|:------------------------------------------:|
 | $2013$ |                     $4$                    |                      $0$                     |                      $4$                      |                     $4$                    |
 | $2014$ |                     $8$                    |                      $0$                     |                      $8$                      |                    $12$                    |
-| $2015$ |                     $16$                   |                      $8$                     |          $24 \ \footnotesize{(3)}$            |        $36 \ \footnotesize{(4)}$           |
-| $2016$ |  $16 \times 2 = 32 \ \footnotesize{(1)}$   |                     $32$                     |                     $64$                      |                   $100$                    |
-| $2017$ |                     $64$                   |        $160 - 64 = 96 \ \footnotesize{(7)}$  |      $260 - 100 = 160 \ \footnotesize{(5)}$   |                   $260$                    |
-| $2018$ | $64 \times 2 = 128 \ \footnotesize{(2)}$   |                     $256$                    |      $644 - 260 = 384 \ \footnotesize{(6)}$   |                   $644$                    |
+| $2015$ |                     $16$                   |                      $8$                     |          $24 \ \maroonC{\footnotesize{(3)}}$            |        $36 \ \maroonC{\footnotesize{(4)}}$           |
+| $2016$ |  $16 \times 2 = 32 \ \maroonC{\footnotesize{(1)}}$   |                     $32$                     |                     $64$                      |                   $100$                    |
+| $2017$ |                     $64$                   |        $160 - 64 = 96 \ \maroonC{\footnotesize{(7)}}$  |      $260 - 100 = 160 \ \maroonC{\footnotesize{(5)}}$   |                   $260$                    |
+| $2018$ | $64 \times 2 = 128 \ \maroonC{\footnotesize{(2)}}$   |                     $256$                    |      $644 - 260 = 384 \ \maroonC{\footnotesize{(6)}}$   |                   $644$                    |
 
 </div>
 </div>
@@ -3067,7 +3216,7 @@ Let's complete the table.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3122,10 +3271,10 @@ Let's complete the table.
 |  Country  | Gold $(3 \text{pts})$                                                                                     | Silver $(2 \text{pts})$    | Bronze $(1 \text{pt})$                                                  | Points (Pts)                                                          |
 |:---------:|:---------------------:                                                                                    |:-----------------------:   |:----------------------:                                                 |:------------:                                                         |
 |  Abalasia |          $17$                                                                                             |           $10$             |           $8$                                                           |     $79$                                                              |
-| Brussland |          $13$                                                                                             |           $8$              |          $16$                                                           | $13 \times 3 + 8 \times 2 + 16 = 71 \ \footnotesize{(1)}$             |
-|   Ceeden  |          $14$                                                                                             |           $9$              | $65 - 14 \times 3 - 9 \times 2 = 65 - 42 - 18 = 5 \ \footnotesize{(2)}$ |     $65$                                                              |
-|   Dorway  | $\dfrac {62 - 8 \times 2 - 7} {3} = \dfrac {62 - 16 - 7} {3} = \dfrac {39} {3} = 13 \ \footnotesize{(3)}$ |           $8$              |           $7$                                                           |     $62$                                                              |
-|  Esthopia | $10 \ \footnotesize{(4)}$                                                                                 | $10 \ \footnotesize{(5)}$  |         $10 \ \footnotesize{(6)}$                                       |     $60$                                                              |
+| Brussland |          $13$                                                                                             |           $8$              |          $16$                                                           | $13 \times 3 + 8 \times 2 + 16 = 71 \ \maroonC{\footnotesize{(1)}}$             |
+|   Ceeden  |          $14$                                                                                             |           $9$              | $65 - 14 \times 3 - 9 \times 2 = 65 - 42 - 18 = 5 \ \maroonC{\footnotesize{(2)}}$ |     $65$                                                              |
+|   Dorway  | $\dfrac {62 - 8 \times 2 - 7} {3} = \dfrac {62 - 16 - 7} {3} = \dfrac {39} {3} = 13 \ \maroonC{\footnotesize{(3)}}$ |           $8$              |           $7$                                                           |     $62$                                                              |
+|  Esthopia | $10 \ \maroonC{\footnotesize{(4)}}$                                                                                 | $10 \ \maroonC{\footnotesize{(5)}}$  |         $10 \ \maroonC{\footnotesize{(6)}}$                                       |     $60$                                                              |
 
 </div>
 </div>
@@ -3146,7 +3295,7 @@ Let's complete the table.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3340,7 +3489,7 @@ $441$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -3368,10 +3517,10 @@ Let's complete the table.
 
 |       |  Played                               |    Won                                                                                           |   Drawn                                                                                          |   Lost                                |  Points                                                      |
 |:-----:|:--------:                             |:--------:                                                                                        |:--------:                                                                                        |:--------:                             |:--------:                                                    |
-| **A** |   $12$                                |    $7$                                                                                           | $12 - 7 - 2 = 3 \ \footnotesize{(1)}$                                                            |    $2$                                | $7 \times 5 + 3 \times 3 = 35 + 9 = 44 \ \footnotesize{(2)}$ |
-| **B** |   $10$                                |    $3$                                                                                           | $\dfrac {27 - 3 \times 5} {3} = \dfrac {27 - 15} {3} = \dfrac {12} {3} = 4 \ \footnotesize{(3)}$ | $10 - 4 - 3 = 3 \ \footnotesize{(4)}$ |   $27$                                                       |
-| **C** | $7 + 2 + 6 = 15 \ \footnotesize{(6)}$ | $\dfrac {41 - 2 \times 3} {5} = \dfrac {41 - 6} {5} = \dfrac {35} {5} = 7 \ \footnotesize{(5)}$  |    $2$                                                                                           |    $6$                                |   $41$                                                       |
-| **D** |    $8$                                | $\dfrac {30 - 5 \times 3} {5} = \dfrac {30 - 15} {5} = \dfrac {15} {5} = 3 \ \footnotesize{(8)}$ | $5 \ \footnotesize{(7)}$                                                                         | $8 - 5 - 3 = 0 \ \footnotesize{(9)}$  |   $30$                                                       |
+| **A** |   $12$                                |    $7$                                                                                           | $12 - 7 - 2 = 3 \ \maroonC{\footnotesize{(1)}}$                                                            |    $2$                                | $7 \times 5 + 3 \times 3 = 35 + 9 = 44 \ \maroonC{\footnotesize{(2)}}$ |
+| **B** |   $10$                                |    $3$                                                                                           | $\dfrac {27 - 3 \times 5} {3} = \dfrac {27 - 15} {3} = \dfrac {12} {3} = 4 \ \maroonC{\footnotesize{(3)}}$ | $10 - 4 - 3 = 3 \ \maroonC{\footnotesize{(4)}}$ |   $27$                                                       |
+| **C** | $7 + 2 + 6 = 15 \ \maroonC{\footnotesize{(6)}}$ | $\dfrac {41 - 2 \times 3} {5} = \dfrac {41 - 6} {5} = \dfrac {35} {5} = 7 \ \maroonC{\footnotesize{(5)}}$  |    $2$                                                                                           |    $6$                                |   $41$                                                       |
+| **D** |    $8$                                | $\dfrac {30 - 5 \times 3} {5} = \dfrac {30 - 15} {5} = \dfrac {15} {5} = 3 \ \maroonC{\footnotesize{(8)}}$ | $5 \ \maroonC{\footnotesize{(7)}}$                                                                         | $8 - 5 - 3 = 0 \ \maroonC{\footnotesize{(9)}}$  |   $30$                                                       |
 
 </div>
 </div>

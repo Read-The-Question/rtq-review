@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-2-notstarted"
 title: "TopicPaper - Sequence - 2 - NOTSTARTED"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -116,7 +116,8 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Identify the pattern that links the other numbers in each row. 
+Identify the pattern that links the other numbers to the hexagonal numbers in each row. 
+
 Write one of the four arithmetic symbols ($+, -, \times, \div$) in each of the two gaps either side of the circle, to complete 
 the following formula linking all the numbers in any row of shapes.
 

@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-talgebra-9-g2"
 title: "TopicPaper - Algebra - 9 - G2"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "6"
 ---
 <ul class='question default-decimal'>

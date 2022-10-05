@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2016-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2016 - Arithmetic A"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "20"
 ---
 <div class='paper'>
@@ -122,7 +122,7 @@ $0.35$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -136,11 +136,11 @@ What fraction of a day is $9 \ \text{hours}$? Write your fraction in its simples
   
 $
 \begin{aligned}
-\text{Fraction} &= \dfrac {9} {24} \\\\
-                &= \dfrac {3 \times 3} {3 \times 8} \\\\
-                &= \dfrac {\cancel{3} \times 3} {\cancel{3} \times 8} \\\\
-                &= \dfrac {3} {8}
-                \end{aligned}
+&= \dfrac {9} {24} \\\\
+&= \dfrac {3 \times 3} {3 \times 8} \\\\
+&= \dfrac {\cancel{3} \times 3} {\cancel{3} \times 8} \\\\
+&= \dfrac {3} {8}
+\end{aligned}
 $
 
 </div>
@@ -156,7 +156,7 @@ $\dfrac{3}{8}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -176,14 +176,10 @@ The next term is calculated by adding $1.6$ to the previous term. Hence, the seq
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
-{(+1.6)}} 
-&&  \footnotesize {\maroonC
-{(+1.6)}}  
-&&  \footnotesize {\maroonC
-{(+1.6)}}   
-&&  \footnotesize {\maroonC
-{(+1.6)}}  \\
+&   \footnotesize {\maroonC{(+1.6)}} 
+&&  \footnotesize {\maroonC{(+1.6)}}  
+&&  \footnotesize {\maroonC{(+1.6)}}   
+&&  \footnotesize {\maroonC{(+1.6)}}  \\
 2.7,  &&    4.3,  &&  \ldots, &&   7.5,  &&   9.1
 \end{matrix}
 $

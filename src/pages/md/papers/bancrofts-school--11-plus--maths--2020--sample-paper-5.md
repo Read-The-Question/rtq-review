@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2020-sample-paper-5"
 title: "Bancrofts School - 11 Plus - Maths - 2020 - Sample Paper 5"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "11"
 ---
 <div class='paper'>
@@ -337,7 +337,7 @@ $333$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -354,26 +354,35 @@ $
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Let's make the denominator the same for all the numbers, so we can compare them.
 
-</div>
-<div class='working placeholder'>
+LCM for $5, 8, 4, 2, 3 = 120$
 
-TODOWORKING
+$
+\begin{aligned}
+&= \dfrac{4}{5}, \quad \dfrac{3}{8}, \quad \dfrac{3}{4}, \quad \dfrac{1}{2}, \quad \dfrac{2}{3} \\\\
+&= \dfrac{4 \times 24}{5 \times 24}, \quad \dfrac{3 \times 15}{8 \times 15}, \quad \dfrac{3 \times 30}{4 \times 30}, \quad \dfrac{1 \times 60}{2 \times 60}, \quad \dfrac{2 \times 40}{3 \times 40} \\\\
+&= \dfrac{96}{120}, \quad \dfrac{45}{120}, \quad \dfrac{90}{120}, \quad \dfrac{60}{120}, \quad \dfrac{80}{120}
+\end{aligned}
+$
+
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= \dfrac{45}{120} < \dfrac{60}{120} < \dfrac{80}{120} < \dfrac{90}{120} < \dfrac{96}{120} \\\\
+&= \dfrac{3}{8} < \dfrac{1}{2} < \dfrac{2}{3} < \dfrac{3}{4} < \dfrac{4}{5}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\dfrac{3}{8}, \quad \dfrac{1}{2}, \quad \dfrac{2}{3}, \quad \dfrac{3}{4}, \quad \dfrac{4}{5}$
 
 </div>
 </div>

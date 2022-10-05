@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-high-school-for-girls-11-plus-maths-2016-sample-paper-1"
 title: "St Albans High School For Girls - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "32"
 ---
 <div class='paper'>
@@ -464,7 +464,7 @@ $8{:}46 \ \text{pm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -475,26 +475,32 @@ $\dfrac{1}{5} \quad  0.6 \quad   25\% \quad   0.21 \quad    \dfrac {13} {48} \qu
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Let's convert all the numbers into decimals.
 
-</div>
-<div class='working placeholder'>
+$
+\begin{aligned}
+&= \dfrac{1}{5}, \quad  0.6, \quad   25\%, \quad   0.21, \quad    \dfrac {13} {48}, \quad    0.56, \quad    0.1348 \\\\
+&= 0.2, \quad  0.6, \quad   0.25, \quad   0.21, \quad  0.27, \quad 0.56, \quad 0.1348
+\end{aligned}
+$
 
-TODOWORKING
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= 0.1348 < 0.2 < 0.21 < 0.25 < 0.27 < 0.56 \\\\
+&= 0.1348 < \dfrac{1}{5} < 0.21 < 25\% < \dfrac{13}{48} < 0.56
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$0.1348, \quad \dfrac{1}{5}, \quad 0.21, \quad 25\%, \quad \dfrac{13}{48}, \quad 0.56$
 
 </div>
 </div>
@@ -573,7 +579,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -589,13 +595,11 @@ ABBR: $\text {Speed} = \dfrac {\text{Distance}} {\text{Time}}$
 
 $
 \begin{aligned}
-\text{Speed}   &=  \dfrac{18 \text{ miles}}{3 \text{ hours}} \\\\
-               &=  \dfrac{18}{3} \\\\
+\text{Speed}   &=  \dfrac{18}{3} \\\\
                &=  \dfrac{6 \times 3}{3} \\\\
                &=  \dfrac{6 \times \cancel{3}}{\cancel{3}} \\\\
                &=  6 \text{ miles/hour} \\\\
-\text{Distance}&=  6 \text{ miles/hour} \times 2 \text{ hours} \\\\
-               &=  6 \times 2 \\\\
+\text{Distance}&=  6 \times 2 \\\\
                &=  12 \text{ miles}
 \end{aligned}
 $
@@ -1314,7 +1318,7 @@ $150 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1395,7 +1399,7 @@ A straight vertical line is drawn so that it passes through $6$ on the $x$ axis.
 
 
 
-Plot the reflection of the rectangle
+Plot the reflection of the rectangle with points $(7, 3), (9, 3), (7, 5), (9, 5)$
 
 
 *ABBR: TODO:: Add drawing ends.*
@@ -1425,17 +1429,22 @@ If, instead, the vertical line had passed through $20$ on the $x$ axis and you r
 <div class='workings'>
 <div class='working'>
 
-*ABBR: TODO:: Add drawing starts.*
+We have to reflect through a vertical line therefore y-coordinates will remain the same,
 
-![missing image](/papers/missing_image.svg)
+and x-coordinates of reflected points will be at the same distance as the original points but on the other side
 
-
-
-Plot the reflection of the rectangle
-
-
-*ABBR: TODO:: Add drawing ends.*
-
+$
+\begin{aligned}
+\text{Distance of point with abscissa 3}    &= 20 - 3 \\\\
+                                              &= 17 \\\\
+\text{Corresponding reflected abscissa}       &= 20 + 17 \\\\
+                                              &= 37 \\\\
+\text{Distance of point with abscissa 5}    &= 20 - 5 \\\\
+                                              &= 15 \\\\
+\text{Corresponding reflected abscissa}       &= 20 + 15 \\\\
+                                              &= 35
+\end{aligned}
+$
 
 $(35, 3), (37, 3), (35, 5), (37, 5)$
 
@@ -1455,7 +1464,7 @@ $(35, 3), (37, 3), (35, 5), (37, 5)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1495,20 +1504,13 @@ The next term is calculated by adding $4$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}  \\
+&   \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}  \\
 3,  &&    7,  &&  11,  &&   15,  &&   19,  && \ldots,  && \ldots, && \ldots
 \end{matrix}
 $
@@ -1561,20 +1563,13 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+9)}}
-&&  \footnotesize{\maroonC
-{(+18)}}
-&&  \footnotesize{\maroonC
-{(+36)}}
-&&  \footnotesize{\maroonC
-{(+72)}}
-&&  \footnotesize{\maroonC
-{(+144)}}
-&&  \footnotesize{\maroonC
-{(+288)}}
-&&  \footnotesize{\maroonC
-{(+576)}}  \\
+&   \footnotesize{\maroonC{(+9)}}
+&&  \footnotesize{\maroonC{(+18)}}
+&&  \footnotesize{\maroonC{(+36)}}
+&&  \footnotesize{\maroonC{(+72)}}
+&&  \footnotesize{\maroonC{(+144)}}
+&&  \footnotesize{\maroonC{(+288)}}
+&&  \footnotesize{\maroonC{(+576)}}  \\
 8,  &&    17,  &&  35,  &&   71,  &&   143,  && \ldots,  && \ldots, && \ldots
 \end{matrix}
 $
@@ -1674,20 +1669,13 @@ The next term is calculated by adding $4$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+13)}}
-&&  \footnotesize{\maroonC
-{(+13 + 9)}}
-&&  \footnotesize{\maroonC
-{(+22 + 9 \times 2)}}
-&&  \footnotesize{\maroonC
-{(+40 + 18 \times 2)}}
-&&  \footnotesize{\maroonC
-{(+76 + 36 \times 2)}}
-&&  \footnotesize{\maroonC
-{(+148 + 72 \times 2)}}
-&&  \footnotesize{\maroonC
-{(+292 + 144 \times 2)}}  \\
+&   \footnotesize{\maroonC{(+13)}}
+&&  \footnotesize{\maroonC{(+13 + 9)}}
+&&  \footnotesize{\maroonC{(+22 + 9 \times 2)}}
+&&  \footnotesize{\maroonC{(+40 + 18 \times 2)}}
+&&  \footnotesize{\maroonC{(+76 + 36 \times 2)}}
+&&  \footnotesize{\maroonC{(+148 + 72 \times 2)}}
+&&  \footnotesize{\maroonC{(+292 + 144 \times 2)}}  \\
 11,  &&    24,  &&  46,  &&   86,  &&   162,  && \ldots,  && \ldots, && \ldots
 \end{matrix}
 $

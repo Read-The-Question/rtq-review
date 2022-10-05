@@ -1,8 +1,8 @@
 ---
 slug: "ragpapers/topicpapers-tprofit-1-pr"
 title: "TopicPaper - Profit - 1 - PR"
-date: 2022-09-24 04:59:20
-questions_count: "2"
+date: 2022-10-04 10:03:20
+questions_count: "5"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,7 +11,7 @@ questions_count: "2"
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-%empty%
+Bella is given $\pounds 50$ for her birthday. She spends $\pounds 37.50$ on clothes. She then goes to the cinema with a friend, but as they have a $2$ for $1$ voucher, they only spend $\pounds 5.40$ between the two of them which they both pay half. She buys some popcorn and a drink for $\pounds 3.20$.
 
 </div>
 <div class='workings'>
@@ -33,10 +33,7 @@ questions_count: "2"
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Clarissa buys the sunglasses and a sun hat. 
-How much change, in pounds, does she get from a $\pounds 10$ note?
-
-![bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-10-subquestion-1-00.png](/assets/bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-10-subquestion-1-00.png "bancrofts-school--11-plus--maths--2013--sample-paper-1/section-1-question-10-subquestion-1-00.png")
+How much money does Bella have left?
 
 </div>
 <div class='workings'>
@@ -44,9 +41,10 @@ How much change, in pounds, does she get from a $\pounds 10$ note?
 
 $
 \begin{aligned}
-\text{Change she get}       &= 10 - 5.85 - 3.29 \\\\
-                            &= 10 - 9.14 \\\\
-                            &= \pounds 0.86
+\text{Money left}       &= 50 - 37.50 - \dfrac {5.40} {2} - 3.2 \\\\
+                        &= 50 - 37.50 - 2.70 - 3.20 \\\\
+                        &= 50 - 43.40 \\\\
+                        &= \pounds 6.60
 \end{aligned}
 $
 
@@ -55,7 +53,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 0.86$
+$\pounds 6.6$
 
 </div>
 </div>
@@ -66,48 +64,45 @@ $\pounds 0.86$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Jo and Aisha bought identical jeans from a market stall. 
+Bella's friend wants to go out for supper. Bella knows that she needs to save $\pounds 2.50$ for the bus home. Assuming Bella and her friend both pay an equal amount; can Bella afford any of the food deals below? If so, which one? 
 
-Jo got $10 \%$ discount of the full price. 
+**DEAL 1**: Buy one meal for $\pounds 7$, get the second half price. 
 
-Aisha got $15 \%$ discount of the full price. Jo paid $\pounds 1.20$ more than Aisha. 
+**DEAL 2**: $10 \%$ off all dishes costing $\pounds 5$ or more. 
 
-What was the full price of the jeans?
+**DEAL 3**: Buy one get one free on all dishes costing $\pounds 8$ or more.
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let the full price of the jeans $= a$
-
-As per the question,
-
 $
 \begin{aligned}
-a - 10 \% \ \text{of} \ a                             &= a - 15 \% \ \text{of} \ a + 1.2 \\\\
-a - \dfrac {10} {100} \times a                        &= a - \dfrac {15} {100} \times a + 1.2 \\\\
-a - \dfrac {10a} {100}                                &= a - \dfrac {15a} {100} + 1.2 \\\\
-a - \dfrac {10a} {100} - a + \dfrac {15a} {100}       &= 1.2 \\\\
-a - a + \dfrac {15a} {100} - \dfrac {10a} {100}       &= 1.2 \\\\
-\dfrac {15a - 10a} {100}                              &= 1.2 \\\\
-\dfrac {5a} {100}                                     &= 1.2 \\\\
-a                                                     &= 1.2 \times \dfrac {100} {5} \\\\
-a                                                     &= \dfrac {1.2 \times 100} {5} \\\\
-a                                                     &= \dfrac {1.2 \times 20 \times 5} {5} \\\\
-a                                                     &= \dfrac {1.2 \times 20 \times \cancel 5} {\cancel 5} \\\\
-a                                                     &= 1.2 \times 20 \\\\
-a                                                     &= \pounds 24
+\text{Money for food}             &= 6.6 - 2.5 \\\\
+                                  &= \pounds 4.1 \\\\
+\text{Money for food for both}    &= 2 \times 4.1 \\\\
+                                  &= \pounds 8.2 \\\\
+\text{Price for Deal 1}           &= 7 + \dfrac {7} {2} \\\\
+                                  &= 7 + 3.5 \\\\
+                                  &= \pounds 10.5 \\\\
+\text{Price for Deal 2}           &= 2 \times \left( 5 - \dfrac {10} {100} \times 5 \right) \\\\
+                                  &= 2 \times \left( 5 - \dfrac {10 \times 5} {100} \right) \\\\
+                                  &= 2 \times \left( 5 - \dfrac {50} {100} \right) \\\\
+                                  &= 2 \times (5 - 0.5) \\\\
+                                  &= 2 \times 4.5 \\\\
+                                  &= \pounds 9 \\\\
+\text{Price of Deal 3}            &= \pounds 8
 \end{aligned}
 $
 
-Full price of the jeans $= \pounds 24$
+$Deal 3$ is affordable for Bella.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 24$
+Deal $3$
 
 </div>
 </div>
@@ -123,8 +118,75 @@ $\pounds 24$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Asif wants to buy a computer game that costs $\pounds 32.99$ in the shop but decides to wait until there is a sale.
-In the sale Asif buys the computer game for $\pounds 25.62$. How much money did he save?
+Bill sold his motor scooter to Tom for $\pounds 120$. 
+After driving it for a few days, Tom discovered it was in such a broken-down condition that he sold it back to Bill for $30\%$ 
+less than he paid. The next day Bill sold it to Jack for $\pounds 90$. What is Bill's profit on the final sale?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total amount paid to Bill}    &= 120 + 90 \\\\
+                                    &= \pounds 210 \\\\
+\text{Amount paid by Bill}          &= 120 - 30 \% \ \text{of} \ 120 \\\\
+                                    &= 120 - \dfrac {30} {100} \times 120 \\\\
+                                    &= 120 - \dfrac {30 \times 120} {100} \\\\
+                                    &= 120 - \dfrac {3 \cancel 0 \times 12 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
+                                    &= 120 - 3 \times 12 \\\\
+                                    &= 120 - 36 \\\\
+                                    &= \pounds 84 \\\\
+\text{Bill's profit}                &= 210 - 84 \\\\
+                                    &= \pounds 126
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 126$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+In this question you may assume the following exchange rates:
+
+$1$ British pound ($\pounds$) = $1.5$ American dollars (US$\$$) 
+$1$ British pound ($\pounds$) = $2$ New Zealand dollars (NZ$\$$)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+The price of a hoodie in the London branch of Abergavenny and Filtch is $\pounds 80$. In New York the price is US$\$90$. 
+How much do I save by buying the hoodie in New York? Give your answer both in US dollars and pounds.
 
 </div>
 <div class='workings'>
@@ -132,8 +194,16 @@ In the sale Asif buys the computer game for $\pounds 25.62$. How much money did 
 
 $
 \begin {aligned}
-\text{Money saved}    &= 32.99 - 25.62 \\\\
-                      &= \pounds 7.37
+\text{Price in London}        &= 1.5 \times 80 \\\\
+                              &= \text{\textdollar} 120 \\\\
+\text{Money saved}            &= 120 - 90 \\\\
+                              &= \text{\textdollar} 30 \\\\
+\text{Money saved in \pounds} &= \dfrac {30} {1.5} \\\\
+                              &= \dfrac {30 \times 10} {15} \\\\
+                              &= \dfrac {15 \times 2 \times 10} {15} \\\\
+                              &= \dfrac {\cancel {15} \times 2 \times 10} {\cancel {15}} \\\\
+                              &= 2 \times 10 \\\\
+                              &= \pounds 20
 \end {aligned}
 $
 
@@ -142,11 +212,454 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 7.37$
+$\text{\textdollar} 30, \pounds 20$
 
 </div>
 </div>
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+My friend Sheila lives in Auckland, New Zealand. She saves US$\$60$ if she buys this hoodie in New York. How much does it cost in New Zealand? Give your answer in New Zealand dollars.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text{Profit in \pounds}                    &= \pounds \dfrac {90} {1.5} \\\\
+\text{Profit in New Zealand \textdollar}    &= 2 \times \dfrac {90} {1.5} \\\\
+                                            &= 2 \times \dfrac {90 \times 10} {15} \\\\
+                                            &= \dfrac {2 \times 90 \times 10} {15} \\\\
+                                            &= \dfrac {2 \times 15 \times 6 \times 10} {15} \\\\
+                                            &= \dfrac {2 \times \cancel {15} \times 6 \times 10} {\cancel {15}} \\\\
+                                            &= 2 \times 6 \times 10 \\\\
+                                            &= \text{\textdollar} 120
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{\textdollar} 120$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Work out the exchange rate for converting New Zealand dollars into American dollars:
+
+$1$ New Zealand dollar (NZ$\$$) $= \text{\textunderscore \textunderscore \textunderscore}$ American dollars (US$\$$)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text{1 New Zealand in \textdollar}           &= \text{\textdollar} \dfrac {1} {2} \\\\
+\text{\textdollar in New Zealand \textdollar} &= 1.5 \times \dfrac {1} {2} \\\\
+                                              &= \dfrac {1.5} {2} \\\\
+                                              &= \dfrac {1.5 \times 5} {2 \times 5} \\\\
+                                              &= \dfrac {7.5} {10} \\\\
+                                              &= 0.75
+\end {aligned}
+$
+
+$1$ New Zealand dollar \textdollar $= 0.75$ US \textdollar
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1$ New Zealand dollar \textdollar $= 0.75$ US \textdollar
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+In the January sale a furniture store reduces all prices by $25\%$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Work out the sale price of a bed originally costing $\pounds 1600$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+If the price is reduced by $25 \%$, then the sale price would be $100 - 25 = 75 \%$ of the original price.
+
+$
+\begin{aligned}
+\text{Sale price}               &= 75 \% \ \text{of} \ 1600\\\\
+                                &= \dfrac {75} {100} \times 1600 \\\\
+                                &= \dfrac {75 \times 1600} {100} \\\\
+                                &= \dfrac {75 \times 16 \cancel{00}} {1 \cancel{00}} \\\\
+                                &= 75 \times 16 \\\\
+                                &= \pounds 1200
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Sale price}  &= \text {Original price} - \text {Discount} \\\\
+                   &= 1600 - 25 \% \ \text{of} \ 1600 \\\\
+                   &= 1600 - \dfrac {25} {100} \times 1600 \\\\
+                   &= 1600 - \dfrac {25 \times 1600} {100} \\\\
+                   &= 1600 - \dfrac {25 \times 16 \cancel {00}} {1 \cancel {00}} \\\\
+                   &= 1600 - 25 \times 16 \\\\
+                   &= 1600 - 400 \\\\
+                   &= \pounds 1200
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1200$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Work out the original price of a sofa costing $\pounds 600$ in the sale.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text {Sale price = Original price} - \text{Discount } \% \times \text{Original price}$
+
+
+Let the original price $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a - 25 \% \times \ a                                        &= 600 \\\\
+a - \dfrac {25} {100} \times a                              &= 600 \\\\
+a - \dfrac {25 \times a} {100}                              &= 600 \\\\
+a - \dfrac {25a} {100}                                      &= 600 \\\\
+\dfrac {100 \times a} {100} - \dfrac {25a} {100}            &= 600 \\\\
+\dfrac {100a} {100} - \dfrac {25a} {100}                    &= 600 \\\\
+\dfrac {100a - 25a} {100}                                   &= 600 \\\\
+\dfrac {75a} {100}                                          &= 600 \\\\
+a                                                           &= 600 \times \dfrac {100} {75} \\\\
+a                                                           &= \dfrac {600 \times 100} {75} \\\\
+a                                                           &= \dfrac {75 \times 8 \times 100} {75} \\\\
+a                                                           &= \dfrac {\cancel {75} \times 8 \times 100} {\cancel {75}} \\\\
+a                                                           &= 8 \times 100 \\\\
+a                                                           &= \pounds 800
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+Let the original price $= a$
+
+If the price is reduced by $25 \%$, then the sale price would be $100 - 25 = 75 \%$ of the original price.
+
+As per the question,
+
+$
+\begin{aligned}
+75 \% \times a                  &= 600 \\\\
+\dfrac {75} {100} \times a      &= 600 \\\\
+a                               &= 600 \times \dfrac {100} {75} \\\\
+a                               &= \dfrac {600 \times 100} {75} \\\\
+a                               &= \dfrac {75 \times 8 \times 100} {75} \\\\
+a                               &= \dfrac {\cancel {75} \times 8 \times 100} {\cancel {75}} \\\\
+a                               &= 8 \times 100 \\\\
+a                               &= \pounds 800
+\end{aligned}
+$
+
+Original price $= \pounds 800$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 800$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+At the end of the month a further reduction of $20\%$ is taken off the sale prices of all items in the store.
+
+-  Anne says that this is the same as an overall reduction of $45\%$ off the original price.
+-  Ben says that this gives an overall reduction of less than $45\%$.  
+-  Charlie says that this gives an overall reduction of more than $45\%$.  
+-  Diana says that the overall percentage reduction varies depending on the original cost of each item.
+
+Who is right?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the original price $= a$
+
+If the price is reduced by $25 \%$, then the sale price would be $100 - 25 = 75 \%$ of the original price.
+
+$
+\begin{aligned}
+\text{Sale price after first discount}  &= 75 \% \ \text{of} \ a \\\\
+                                        &= \dfrac {75} {100} \times a \\\\
+                                        &= \dfrac {75 \times a} {100} \\\\
+                                        &= \dfrac {25 \times 3 \times a} {25 \times 4} \\\\
+                                        &= \dfrac {\cancel {25} \times 3 \times a} {\cancel {25} \times 4} \\\\
+                                        &= \dfrac {3 \times a} {4} \\\\
+                                        &= \pounds \dfrac {3a} {4}
+\end{aligned}
+$
+
+If the price is reduced by $20 \%$, then the sale price would be $100 - 20 = 80 \%$ of the original price.
+
+$
+\begin{aligned}
+\text{Sale price after second discount} &= 80 \% \ \text{of} \ \dfrac {3a} {4} \\\\
+                                        &= \dfrac {80} {100} \times \dfrac {3a} {4} \\\\
+                                        &= \dfrac {80 \times 3a} {100 \times 4} \\\\
+                                        &= \dfrac {20 \times 4 \times 3a} {100 \times 4} \\\\
+                                        &= \dfrac {20 \times \cancel 4 \times 3a} {100 \times \cancel 4} \\\\
+                                        &= \dfrac {20 \times 3a} {100} \\\\
+                                        &= \pounds \dfrac {60a} {100}
+\end{aligned}
+$
+
+If the price is reduced by $45 \%$, then the sale price would be $100 - 45 = 55 \%$ of the original price.
+
+$
+\begin{aligned}
+\text{New sale price}       &= 55 \% \ \text{of} \ a \\\\
+                            &= \dfrac {55} {100} \times a \\\\
+                            &= \dfrac {55 \times a} {100} \\\\
+                            &= \pounds \dfrac {55a} {100}
+\end{aligned}
+$
+
+Ben is right.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Ben
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+In the American state of Kentucky sales tax is charged at $6\%$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Anila wants to buy a pair of jeans in Kentucky. They are priced at $\$72$ before allowing for the sales tax. How much does Anila pay for the pair of jeans?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+If the price is increased by $6 \%$, then the new price will be $100 + 6 = 106 \%$ of the original price. Using that, we get
+
+$
+\begin{aligned} 
+\text{Sale price}       &= 106 \% \text{ of } 72 \\\\
+                        &= \dfrac {106} {100} \times 72 \\\\
+                        &= \dfrac {106 \times 72} {100} \\\\
+                        &= \dfrac {7632} {100} \\\\
+                        &= \pounds 76.32
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Price}    &= 72 + 6 \% \text{ of } 72 \\\\
+                &= 72 + \dfrac {6} {100} \times 72 \\\\
+                &= 72 + \dfrac {6 \times 72} {100} \\\\
+                &= 72 + \dfrac {432} {100} \\\\
+                &= 72 + 4.32 \\\\
+                &= \pounds 76.32
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 76.32$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Peter buys a bag of sweets in Kentucky. He pays $\$4.77$ including sales tax. 
+What was the price of sweets before sales tax was added?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the price before sales tax $= a$
+
+If the price is increased by $6 \%$, then the new price will be $100 + 6 = 106 \%$ of the original price. Using that, we get
+
+As per the question,
+
+$
+\begin{aligned}
+106 \% \ \text{of} \ a              &= 4.77 \\\\
+\dfrac {106} {100} \times a         &= 4.77 \\\\
+a                                   &= \dfrac {4.77 \times 100} {106} \\\\
+a                                   &= \dfrac {477 \times 100} {106 \times 100} \\\\
+a                                   &= \dfrac {9 \times 53 \times 50 \times 2} {2 \times 53 \times 100} \\\\
+a                                   &= \dfrac {9 \times \cancel {53} \times 50 \times \cancel 2} {\cancel 2 \times \cancel {53} \times 100} \\\\
+a                                   &= \dfrac {9 \times 50} {100} \\\\
+a                                   &= \dfrac {450} {100} \\\\
+a                                   &= \pounds 4.50
+\end{aligned}
+$
+
+Price before the sales tax $= \pounds 4.50$
+
+</div>
+<div class='working'>
+
+Let the price before sales tax $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a + 6 \% \ \text{of} \ a            &= 4.77 \\\\
+a + \dfrac {6} {100} \times a       &= 4.77 \\\\
+a + \dfrac {6a} {100}               &= 4.77 \\\\
+a + 0.06a                           &= 4.77 \\\\
+1.06a                               &= 4.77 \\\\
+a                                   &= \dfrac {4.77} {1.06} \\\\
+a                                   &= \dfrac {477 \times 100} {106 \times 100} \\\\
+a                                   &= \dfrac {9 \times 53 \times 50 \times 2} {2 \times 53 \times 100} \\\\
+a                                   &= \dfrac {9 \times \cancel {53} \times 50 \times \cancel 2} {\cancel 2 \times \cancel {53} \times 100} \\\\
+a                                   &= \dfrac {9 \times 50} {100} \\\\
+a                                   &= \dfrac {450} {100} \\\\
+a                                   &= \pounds 4.50
+\end{aligned}
+$
+
+Price before the sales tax $= \pounds 4.50$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 4.50$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 </div>
 </li>
 </ul>

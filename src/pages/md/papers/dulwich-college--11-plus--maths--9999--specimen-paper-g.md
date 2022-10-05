@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-g"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper G"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "26"
 ---
 <div class='paper'>
@@ -169,7 +169,7 @@ $26.18$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -209,16 +209,11 @@ The next term is calculated by adding $7$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+7)} }
-&&  \footnotesize {\maroonC
- {(+7)} }
-&&  \footnotesize {\maroonC
- {(+7)} }
-&&  \footnotesize {\maroonC
- {(+7)} }
-&&  \footnotesize {\maroonC
- {(+7)} }  \\
+&   \footnotesize {\maroonC {(+7)} }
+&&  \footnotesize {\maroonC {(+7)} }
+&&  \footnotesize {\maroonC {(+7)} }
+&&  \footnotesize {\maroonC {(+7)} }
+&&  \footnotesize {\maroonC {(+7)} }  \\
 15 , && 22 , && 29 , && \ldots , && 43 , && \ldots
 \end{matrix}
 $
@@ -266,14 +261,10 @@ The next term is calculated by subtracting $4$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(-4)} }
-&&  \footnotesize {\maroonC
- {(-4)} }
-&&  \footnotesize {\maroonC
- {(-4)} }
-&&  \footnotesize {\maroonC
- {(-4)} }  \\
+&   \footnotesize {\maroonC {(-4)} }
+&&  \footnotesize {\maroonC {(-4)} }
+&&  \footnotesize {\maroonC {(-4)} }
+&&  \footnotesize {\maroonC {(-4)} }  \\
 9 , && 5 , && 1 , && \ldots , && \ldots
 \end{matrix}
 $
@@ -321,16 +312,11 @@ The next term is calculated by dividing the previous term by $-2$. Hence, the se
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {\div (-2)} }
-&&  \footnotesize {\maroonC
- {\div (-2)} }
-&&  \footnotesize {\maroonC
- {\div (-2)} }
-&&  \footnotesize {\maroonC
- {\div (-2)} }
-&&  \footnotesize {\maroonC
- {\div (-2)} }  \\
+&   \footnotesize {\maroonC {\div (-2)} }
+&&  \footnotesize {\maroonC {\div (-2)} }
+&&  \footnotesize {\maroonC {\div (-2)} }
+&&  \footnotesize {\maroonC {\div (-2)} }
+&&  \footnotesize {\maroonC {\div (-2)} }  \\
 96 , && -48 , && 24 , && -12 , && \ldots , && \ldots
 \end{matrix}
 $
@@ -1221,8 +1207,7 @@ Let's arrange the numbers in ascending order.
 $
 \begin {aligned}
 \text{Numbers}           &= 34, \quad 21, \quad 35, \quad 42, \quad 28 \\\\
-\text{Ordered numbers}   &= 21, \quad 28, \quad \maroonC
-{34}, \quad 35, \quad 42 \\\\
+\text{Ordered numbers}   &= 21, \quad 28, \quad \maroonC{34}, \quad 35, \quad 42 \\\\
 \text{Median}            &= 34
 \end {aligned}
 $
@@ -1604,7 +1589,7 @@ $(0.5, 0)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1621,7 +1606,7 @@ A set of solid towers are made by adding layers as shown below. The shape is sol
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-How many cubes are needed to build tower number $2$?
+How many cubes are needed to build tower number $2?$
 
 </div>
 <div class='workings'>
@@ -1651,7 +1636,7 @@ $5$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-How many cubes are needed to build tower number $3$?
+How many cubes are needed to build tower number $3?$
 
 </div>
 <div class='workings'>
@@ -1681,7 +1666,7 @@ $13$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Without drawing it, how many cubes would be needed to build tower number $5$?
+Without drawing it, how many cubes would be needed to build tower number $5?$
 
 </div>
 <div class='workings'>
@@ -1745,7 +1730,7 @@ $9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1762,26 +1747,36 @@ You will need to put some numbers outside of the two circles.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+Square numbers between $1$ and $100 = 1, 4, 9, 16, 25, 36, 49, 64, 81, 100$
 
-</div>
-<div class='working placeholder'>
+*ABBR: TODO:: Add drawing starts.*
 
-TODOWORKING
+![missing image](/papers/missing_image.svg)
+
+
+
+Plot the numbers in given regions in the Venn diagram
+
+Class $A$: $1, 4, 9, 36$
+
+Class of $B$: $4, 16, 36, 64, 100$
+
+intersection of class $A$ and $B$: $4, 36$
+
+not in $A$ neither in $B$: $25, 49, 81$
+
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -2406,7 +2401,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Complete the grid below to show the tile if it is **rotated** through a quarter turn clockwise.
+Complete the grid below to show the tile if it is rotated through a quarter turn clockwise.
 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-g/section-1-question-22-subquestion-1-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-g/section-1-question-22-subquestion-1-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-g/section-1-question-22-subquestion-1-00.png")
 
@@ -2442,7 +2437,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Sarah decides to **reflect** the tile in the dashed line shown below and **then rotate** it through 
+Sarah decides to reflect the tile in the dashed line shown below and then rotate it through 
 half a turn.
 
 Draw the resulting tile on the grid below. You may complete the middle tile if you wish.
@@ -2607,10 +2602,16 @@ TODOANSWER
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-
 In this subtraction, $P, Q, R, S$ and $T$ represent single digits.
 
-![dulwich-college--11-plus--maths--9999--specimen-paper-g/section-1-question-24-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-g/section-1-question-24-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-g/section-1-question-24-00.png")
+$
+\begin{array}{cccccccccccccc}
+    &   7   &   Q   &   2   &   S   &   T \\
+{}- &   P   &   3   &   R   &   9   &   6 \\
+\hline
+    &   2   &   2   &   2   &   2   &   2
+\end{array}
+$
 
 Find the values of $P, Q, R, S$ and $T$. 
 

@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tnumber-3-pr"
 title: "TopicPaper - Number - 3 - PR"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "10"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -50,7 +50,7 @@ $-6 + (-5) = \ldots $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$15 + \ldots $= -7$
+$15 + \ldots = -7$
 
 </div>
 
@@ -80,7 +80,7 @@ $-7 - \ldots = 3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -88,12 +88,7 @@ $-7 - \ldots = 3$
 Polly has these four cards with numbers in:
 
 $
-\huge {
-\boxed {1} 
-\quad \boxed {4} 
-\quad \boxed {9} 
-\quad \boxed {3}
-}
+\huge {\boxed {1} \quad \boxed {4} \quad \boxed {9} \quad \boxed {3}}
 $
 
 Show how she could arrange them to get:
@@ -104,7 +99,7 @@ Show how she could arrange them to get:
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-the **largest** possible number.
+the largest possible number.
 
 </div>
 
@@ -114,7 +109,7 @@ the **largest** possible number.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-the **smallest** possible number.
+the smallest possible number.
 
 </div>
 
@@ -124,7 +119,7 @@ the **smallest** possible number.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-the number **nearest to ** $4000$.
+the number nearest to $4000$.
 
 </div>
 
@@ -146,43 +141,43 @@ Show how Polly can arrange her five cards to get the number nearest to $50$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Write the number nine hundred ninety thousand nine hundred and ninety nine in figures.
+Write the number ninety nine thousand ninety nine hundred and ninety nine in figures.
 
 </div>
 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Convert $35 \ \text{centimetres}$ into $\ \text{millimetres}$.
+Convert $35 \ \text{centimetres}$ into $\text{millimetres}$.
 
 </div>
 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Convert $2750 \ \text{grams}$ into $ \ \text{kilograms}$.
+Convert $2750 \ \text{grams}$ into $\text{kilograms}$.
 
 </div>
 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -195,7 +190,7 @@ $50  \quad 25  \quad 9  \quad 7  \quad 2  \quad 1$
 
 Using $+, -, \times, \div$ and brackets try to make a target number of $790$.
 
-You may use the symbols and brackets as many times as you ned, but **each number must be used exactly once**.
+You may use the symbols and brackets as many times as you ned, but each number must be used exactly once.
 
 If you can't make exactly $790$ you may still score marks for a close attempt.
 
@@ -204,12 +199,12 @@ If you can't make exactly $790$ you may still score marks for a close attempt.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-0.3 + 0.8 =
+$0.3 + 0.8 =$
 
 - $0.11$
 - $1.2$
@@ -221,12 +216,12 @@ If you can't make exactly $790$ you may still score marks for a close attempt.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-$0.00712 x 100 =$
+$0.00712 \times 100 =$
 
 - $0.712$
 - $7.12$
@@ -238,12 +233,13 @@ $0.00712 x 100 =$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Round the number below to one decimal place:
+
 $4.18$
 
 - $4.20$
@@ -256,7 +252,7 @@ $4.18$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -269,13 +265,13 @@ Look at these number cards.
 
 Write the letter of the card that is 
 
-**ten times** as big as $73$ .
+ten times as big as $73$.
 
-**one thousand** times as big as $73$ .
+one thousand times as big as $73$.
 
-**one hundredth** of $73$ .
+one hundredth of $73$.
 
-Write **one** number at the end of each equation to make it correct. 
+Write one number at the end of each equation to make it correct. 
 
 Example: 
 

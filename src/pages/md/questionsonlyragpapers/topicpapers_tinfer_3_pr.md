@@ -1,17 +1,17 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tinfer-3-pr"
 title: "TopicPaper - Infer - 3 - PR"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "22"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-For each part of this question you should try to find **all** the different possible answers. You don’t need to worry about different orderings of the piles $- 3$ beads, $2$ beads, $1$ bead is the same as $3$ beads, $1$ bead, $2$ beads. 
+For each part of this question you should try to find all the different possible answers. You don’t need to worry about different orderings of the piles $- 3$ beads, $2$ beads, $1$ bead is the same as $3$ beads, $1$ bead, $2$ beads. 
 
 </div>
 <ul class='subquestion lower-alpha'>
@@ -21,8 +21,13 @@ For each part of this question you should try to find **all** the different poss
 
 I have six identical beads which I want to put into three piles. Each pile must have at least one bead in it. How many beads could be in each pile? One possible answer is given to you.
 
-![missing table](/papers/missing_table.svg)
-
+| $1^\text{st}$ pile | $2^\text{nd}$ pile | $3^\text{rd}$ pile |
+|:------------------:|:------------------:|:------------------:|
+|      $3$ beads     |      $2$ beads     |      $1$ beads     |
+|                    |                    |                    |
+|                    |                    |                    |
+|                    |                    |                    |
+|                    |                    |                    |
 
 </div>
 
@@ -36,8 +41,13 @@ List all the ways of placing eight beads into four piles, with at least one bead
 
 One possible answer is given to you.
 
-![missing table](/papers/missing_table.svg)
-
+| $1^\text{st}$ pile | $2^\text{nd}$ pile | $3^\text{rd}$ pile | $4^\text{th}$ pile |
+|:------------------:|:------------------:|:------------------:|:------------------:|
+|      $3$ beads     |      $2$ beads     |      $2$ beads     |      $1$ beads     |
+|                    |                    |                    |                    |
+|                    |                    |                    |                    |
+|                    |                    |                    |                    |
+|                    |                    |                    |                    |
 
 </div>
 

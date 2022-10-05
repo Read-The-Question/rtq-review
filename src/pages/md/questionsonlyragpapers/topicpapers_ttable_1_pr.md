@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-ttable-1-pr"
 title: "TopicPaper - Table - 1 - PR"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "30"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -21,17 +21,17 @@ each column adds up to $3$ and
 
 each diagonal adds up to $3$
 
-| $2$         | $\ldots$     | $\ldots$     |
-|:--------:    |:---------:    |:----------:    |
-| $3$         |    $1$        | $\ldots$     |
-| $2$         | $\ldots$     | $4$            |
+|    $2$    |  $\ldots$  |   $\ldots$  |
+|:---------:|:----------:|:-----------:|
+|    $3$    |     $1$    |   $\ldots$  |
+|    $2$    |  $\ldots$  |      $4$    |
 
 </div>
 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -40,11 +40,11 @@ Sam is completing a table of values for the formula $2(n + 1)$.
 
 He has completed the first row of the table.
 
-|   n  | $2(n+1)$ |
-|:----:|:--------:|
-|  $5$ |   $12$   |
-| $19$ |          |
-|      |   $80$   |
+|   $n$  | $2(n+1)$ |
+|:------:|:--------:|
+|   $5$  |   $12$   |
+|  $19$  |          |
+|        |   $80$   |
 
 Complete the table with the two missing values.
 
@@ -53,7 +53,7 @@ Complete the table with the two missing values.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -62,20 +62,20 @@ A group of children are playing a game where they can score either $2, 3$ or $5$
 The children have had $8$ turns each and recorded their scores in a table, but some of the entries have been deleted. 
 Fill in the missing numbers to give a complete set of scores.
 
-| **Name**    | **2 points** | **3 points** | **5 points** | **Total Score** |
-|:-----------:|:------------:|:------------:|:------------:|:---------------:|
-| Carl        |  1           |    6         |    1         |    25           |
-| Alex        |  4           |    2         |              |                 |
-| Yusuf       |              |    3         |              |    25           |
-| Jing        |              |              |              |    35           |
-| Charlotte   |              |              |              |    18           |
+| **Name**    | **$2$ points** | **$3$ points** | **$5$ points** | **Total Score** |
+|:-----------:|:--------------:|:--------------:|:--------------:|:---------------:|
+| Carl        |       $1$      |       $6$      |       $1$      |       $25$      |
+| Alex        |       $4$      |       $2$      |                |                 |
+| Yusuf       |                |       $3$      |                |       $25$      |
+| Jing        |                |                |                |       $35$      |
+| Charlotte   |                |                |                |       $18$      |
 
 </div>
 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

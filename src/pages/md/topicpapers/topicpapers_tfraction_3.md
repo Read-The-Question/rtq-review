@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-3"
 title: "TopicPaper - Fraction - 3"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "40"
 ---
 <div class='paper'>
@@ -16,7 +16,7 @@ questions_count: "40"
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -108,7 +108,10 @@ Write down a fraction that is greater than three fifths, but less than four fift
 $
 \begin{aligned}
 &= \dfrac {3.5} {5}  \\\\
-&= \dfrac{35}{50}
+&= \dfrac{35}{50} \\\\
+&= \dfrac{5 \times 7}{5 \times 10} \\\\
+&= \dfrac{\cancel{5} \times 7}{\cancel{5} \times 10} \\\\
+&= \dfrac{7}{10}
 \end{aligned}
 $
 
@@ -117,7 +120,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{35}{50}$
+$\dfrac{7}{10}$
 
 </div>
 </div>
@@ -215,7 +218,7 @@ $- \dfrac {2} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -317,7 +320,7 @@ Four cakes are divided equally amongst seven people. One fifth of a cake is left
 
 $
 \begin{aligned}
-\text{Each person share}    &= \dfrac{1}{7} \times \bigg ( 4 - \dfrac{1}{5} \bigg ) \\\\
+\text{Each persons share}    &= \dfrac{1}{7} \times \bigg ( 4 - \dfrac{1}{5} \bigg ) \\\\
                             &= \dfrac{1}{7} \times \bigg ( \dfrac{4 \times 5}{5}  - \dfrac{1}{5} \bigg ) \\\\
                             &= \dfrac{1}{7} \times \bigg ( \dfrac{20}{5}  - \dfrac{1}{5} \bigg ) \\\\
                             &= \dfrac{1}{7} \times \bigg ( \dfrac{20 - 1}{5} \bigg ) \\\\
@@ -532,7 +535,7 @@ $\dfrac {35} {33}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -624,7 +627,10 @@ Write down a fraction that is greater than three fifths, but less than four fift
 $
 \begin{aligned}
 &= \dfrac {3.5} {5}  \\\\
-&= \dfrac{35}{50}
+&= \dfrac{35}{50} \\\\
+&= \dfrac{5 \times 7}{5 \times 10} \\\\
+&= \dfrac{\cancel{5} \times 7}{\cancel{5} \times 10} \\\\
+&= \dfrac{7}{10}
 \end{aligned}
 $
 
@@ -633,7 +639,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{35}{50}$
+$\dfrac{7}{10}$
 
 </div>
 </div>
@@ -711,7 +717,7 @@ $
 &= \dfrac {3} {5} - \dfrac {1 \times 5} {1 \times 5} \\\\
 &= \dfrac {3} {5} - \dfrac {5} {5} \\\\
 &= \dfrac {3 - 5} {5} \\\\
-&= - \dfrac {2} {5}
+&= {-}\dfrac {2} {5}
 \end{aligned}
 $
 
@@ -720,7 +726,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{-2}{5}$
+${-}\dfrac{2}{5}$
 
 </div>
 </div>
@@ -1195,7 +1201,7 @@ $\dfrac {1} {15}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1208,7 +1214,8 @@ What is half of $999$?
 
 $
 \begin{aligned}
-&= \dfrac {999} {2} \\\\\
+&= \dfrac{1}{2} \text{ of } 999 \\\\
+&= \dfrac {999} {2} \\\\
 &= 499.5
 \end{aligned}
 $
@@ -1599,7 +1606,7 @@ $\dfrac {303} {1000}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1613,7 +1620,7 @@ $\bold{\dfrac{3}{4}\:\:\dfrac{2}{3}\:\:\dfrac{5}{12}\:\:\dfrac{9}{4}}$
 <div class='workings'>
 <div class='working'>
 
-Let's make the denominator same for all fractions.
+Let's make the denominator the same for all the fractions.
 
 LCM for $4, 3$ and $12 = 12$
 
@@ -2516,7 +2523,7 @@ $1 \dfrac {3} {4}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2529,12 +2536,12 @@ What fraction of $2.4 \ \text{litres}$ is $400 \ \text{ml}$?
 
 $
 \begin{aligned}
-&= \dfrac {400  \ \text{ml}} {2.4 \ \text{litres}} \\\\\
-&= \dfrac {400  \ \text{ml}} {2.4 \times 1000 \ \text{ml}} \\\\\
-&= \dfrac {400} {24 \times 100} \\\\\
-&= \dfrac {4 \times 100} {4 \times 6 \times 100} \\\\\
-&= \dfrac {\cancel{4} \times 1\cancel{0}\cancel{0}} {\cancel{4} \times 6 \times 1\cancel{0}\cancel{0}} \\\\\
-&= \dfrac {1} {6}
+\text{Fraction} &= \dfrac {400  \ \text{ml}} {2.4 \ \text{litres}} \\\\\
+                &= \dfrac {400  \ \text{ml}} {2.4 \times 1000 \ \text{ml}} \\\\\
+                &= \dfrac {400} {24 \times 100} \\\\\
+                &= \dfrac {4 \times 100} {4 \times 6 \times 100} \\\\\
+                &= \dfrac {\cancel{4} \times 1\cancel{0}\cancel{0}} {\cancel{4} \times 6 \times 1\cancel{0}\cancel{0}} \\\\\
+                &= \dfrac{1}{6}
 \end{aligned}
 $
 
@@ -2551,7 +2558,7 @@ $\dfrac {1} {6}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2587,8 +2594,8 @@ $\dfrac {2} {5} \text{ of } \pounds 2.50$
 $
 \begin{aligned}
 &= \dfrac {2} {5} \text { of } \pounds{2.50} \\\\
-&= \dfrac {2} {5} \times 2.50 \\\\
-&= \dfrac {2 \times 2.50} {5} \\\\
+&= \dfrac {2} {5} \times 2.5 \\\\
+&= \dfrac {2 \times 2.5} {5} \\\\
 &= \dfrac {5} {5} \\\\
 &= \pounds 1
 \end{aligned}

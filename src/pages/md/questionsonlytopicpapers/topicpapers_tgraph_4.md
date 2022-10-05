@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tgraph-4"
 title: "TopicPaper - Graph - 4"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "40"
 ---
 <div class='paper'>
@@ -393,6 +393,8 @@ Two other points, $C$ and $D$, also lie on the same line, but are not shown in t
 <div class='question question'>
 
 You have $5$ pieces of card shaped like this:
+
+![st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-2-question-8-00.png](/assets/st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-2-question-8-00.png "st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-2-question-8-00.png")
 
 </div>
 <ul class='subquestion lower-alpha'>

@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tpermutation-1-pr-prrl"
 title: "TopicPaper - Permutation - 1 - PR - PRRL"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "2"
 ---
 <ul class='question default-decimal'>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-3"
 title: "TopicPaper - Money - 3"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "40"
 ---
 <div class='paper'>
@@ -1764,8 +1764,6 @@ $\pounds 4.30$
 <div class='question question'>
 
 Look at the menu below:
-
-![royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-1-00.png](/assets/royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-1-00.png "royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-1-00.png")   ![royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-1-01.png](/assets/royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-1-01.png "royal-russell-school--11-plus--maths--9999--sample-paper-1/section-1-question-1-01.png")
 
 |     Tea     |  $60 \text{p}$ |
 |:-----------:|:--------------:|

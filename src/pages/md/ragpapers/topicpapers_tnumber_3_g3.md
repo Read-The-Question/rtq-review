@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-3-g3"
 title: "TopicPaper - Number - 3 - G3"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "13"
 ---
 <ul class='question default-decimal'>
@@ -211,12 +211,7 @@ $21$
 Polly has these four cards with numbers in:
 
 $
-\huge {
-\boxed {1} 
-\quad \boxed {4} 
-\quad \boxed {9} 
-\quad \boxed {3}
-}
+\huge {\boxed {1} \quad \boxed {4} \quad \boxed {9} \quad \boxed {3}}
 $
 
 Show how she could arrange them to get:
@@ -241,7 +236,7 @@ Show how she could arrange them to get:
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-the **largest** possible number.
+the largest possible number.
 
 </div>
 <div class='workings'>
@@ -265,7 +260,7 @@ $9431$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-the **smallest** possible number.
+the smallest possible number.
 
 </div>
 <div class='workings'>
@@ -289,7 +284,7 @@ $1349$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-the number **nearest to ** $4000$.
+the number nearest to $4000$.
 
 </div>
 <div class='workings'>
@@ -459,7 +454,7 @@ $\dfrac {9} {20}$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Write the number nine hundred ninety thousand nine hundred and ninety nine in figures.
+Write the number ninety nine thousand ninety nine hundred and ninety nine in figures.
 
 </div>
 <div class='workings'>
@@ -606,7 +601,7 @@ $42$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Convert $35 \ \text{centimetres}$ into $\ \text{millimetres}$.
+Convert $35 \ \text{centimetres}$ into $\text{millimetres}$.
 
 </div>
 <div class='workings'>
@@ -833,7 +828,7 @@ $1.1$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-0.3 + 0.8 =
+$0.3 + 0.8 =$
 
 - $0.11$
 - $1.2$
@@ -873,6 +868,7 @@ $1.1$
 <div class='question question'>
 
 Round the number below to one decimal place:
+
 $4.18$
 
 - $4.20$

@@ -1,7 +1,7 @@
 ---
 slug: "papers/king-edwards-school-11-plus-maths-9999-sample-paper-1"
 title: "King Edwards School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "14"
 ---
 <div class='paper'>
@@ -493,6 +493,7 @@ $144 \ \text {cm} ^ 2$
 The figure shows two identical overlapping triangles. Four-ninths of **each** triangle is shaded.
 What fraction of the **whole** figure is shaded?
 
+![king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-1-00.png](/assets/king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-1-00.png "king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-1-00.png")
 
 </div>
 <div class='workings'>
@@ -579,7 +580,10 @@ Which of the dice below can be made from this net?
 
 ![king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-3-00.png](/assets/king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-3-00.png "king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-3-00.png")
 
-
+![king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-3-01.png](/assets/king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-3-01.png "king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-3-01.png")
+![king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-3-02.png](/assets/king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-3-02.png "king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-3-02.png")
+![king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-3-03.png](/assets/king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-3-03.png "king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-3-03.png")
+![king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-3-04.png](/assets/king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-3-04.png "king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-3-04.png")
 
 </div>
 <div class='workings'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2019-sample-paper-10"
 title: "Sevenoaks School - 11 Plus - Maths - 2019 - Sample Paper 10"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "20"
 ---
 <div class='paper'>
@@ -514,7 +514,7 @@ $7 \dfrac{7}{12}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -527,30 +527,30 @@ $\boxed {\dfrac {4} {5}} \quad \boxed {0.6} \quad \boxed {\dfrac {5} {6}} \quad 
 <div class='workings'>
 <div class='working'>
 
-Lets first changes all the numbers into Decimal,
+Let's convert all the numbers into decimals.
 
-$\dfrac {4} {5}$ in Decimal number is $0.8$,
+$
+\begin{aligned}
+&= \dfrac{4}{5}, \quad 0.6, \quad \dfrac{5}{6}, \quad 70\%, \quad \dfrac{2}{3} \\\\
+&= 0.8, \quad 0.6, \quad 0.8\overline{3}, \quad 0.7, \quad 0.\overline{6}
+\end{aligned}
+$
 
-$\dfrac {5} {6}$ in Decimal number is $0.84$,
+Let's put them in descending order now.
 
-$70\%$ in Decimal number is $0.7$,
-
-$\dfrac {2} {3}$ in Decimal number is $0.67$,
-
-Now, Assembling in Descending order:
-
-$0.84 < 0.8 < 0.7 < 0.67 < 0.6$  
-
-finally, 
-
-$\boxed {\dfrac {5} {6}} \quad \boxed {\dfrac {4} {5}} \quad \boxed {70\%} \quad \boxed {\dfrac {2} {3}} \quad \boxed {0.6}$
+$
+\begin{aligned}
+&= 0.8\overline{3} > 0.8 > 0.7 > 0.\overline{6} < 0.6 \\\\
+&= \dfrac{5}{6} > \dfrac{4}{5} > 70\%  > \dfrac{2}{3} > 0.6
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\boxed {\dfrac {5} {6}} \quad \boxed {\dfrac {4} {5}} \quad \boxed {70\%} \quad \boxed {\dfrac {2} {3}} \quad \boxed {0.6}$
+$\dfrac{5}{6}, \quad \dfrac{4}{5}, \quad 70\% , \quad \dfrac{2}{3}, \quad 0.6$
 
 </div>
 </div>
@@ -689,7 +689,7 @@ $128$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -729,16 +729,11 @@ The next term is calculated by adding $6$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}  \\
+&   \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}  \\
 5,  &&   11,  &&  17,  &&   23,  &&   \ldots, && \ldots
 \end{matrix}
 $
@@ -786,16 +781,11 @@ The next term is calculated by subtracting $7$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-7)}}
-&&  \footnotesize{\maroonC
-{(-7)}}
-&&  \footnotesize{\maroonC
-{(-7)}}
-&&  \footnotesize{\maroonC
-{(-7)}}
-&&  \footnotesize{\maroonC
-{(-7)}}  \\
+&   \footnotesize{\maroonC{(-7)}}
+&&  \footnotesize{\maroonC{(-7)}}
+&&  \footnotesize{\maroonC{(-7)}}
+&&  \footnotesize{\maroonC{(-7)}}
+&&  \footnotesize{\maroonC{(-7)}}  \\
 52,  &&   45,  &&  38,  &&   31,  &&   \ldots, && \ldots
 \end{matrix}
 $
@@ -843,16 +833,11 @@ The next term is calculated by multiplying the previous term by $2$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}  \\
+&   \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}  \\
 1,  &&   2,  &&  4,  &&   8,  &&   \ldots, && \ldots
 \end{matrix}
 $
@@ -898,16 +883,11 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+7)}}
-&&  \footnotesize{\maroonC
-{(+9)}}
-&&  \footnotesize{\maroonC
-{(+11)}}
-&&  \footnotesize{\maroonC
-{(+13)}}  \\
+&   \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(+7)}}
+&&  \footnotesize{\maroonC{(+9)}}
+&&  \footnotesize{\maroonC{(+11)}}
+&&  \footnotesize{\maroonC{(+13)}}  \\
 3,  &&   8,  &&  15,  &&   24,  &&   \ldots, && \ldots
 \end{matrix}
 $
@@ -1541,7 +1521,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1552,58 +1532,20 @@ In a group of $50$ girls each one is either blonde or brunette and is either blu
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+|               | Blonde                              | Brunette                            |  Total                              |
+|:------------: |:-------:                            |:-------:                            |:----------:                         |
+| Blue-eyed     | $14 \ \footnotesize{(1)}$           | $31 - 13 = 18 \ \footnotesize{(8)}$ | $50 - 18 = 32 \ \footnotesize{(9)}$ |
+| Brown-eyed    | $19 - 14 = 5 \ \footnotesize{(6)}$  | $18 - 5 = 13 \ \footnotesize{(7)}$  | $18 \ \footnotesize{(3)}$           |
+| Total         | $50 - 31 = 19 \ \footnotesize{(5)}$ | $31 \ \footnotesize{(2)}$           | $50 \ \footnotesize{(4)}$           |
 
-Number of Girls $= 50$,
-
-Number of blue-eyed blondes $= 14$,
-
-Number of brunettes $= 31$,
-
-Number of brown-eyed $= 18$,
-
-Let's calculate the number of blondes,
-
-$
-\begin{aligned}
-\text {Number of blondes} &= \text { Number of Girls } - \text { Number of brunettes} \\\\
-                          &= 50 - 31 \\\\
-                          &= 19 
-\end{aligned}
-$
-
-Number of blondes $= 19$.
-
-Let's calculate the number of brown-eyed blondes,
-
-$
-\begin{aligned}
-\text {Number of brown-eyed blondes} &= \text { Number of blondes } - \text { Number of blue-eyed blondes} \\\\
-                                     &= 19 - 14 \\\\
-                                     &= 5 
-\end{aligned}
-$
-
-Number of brown-eyed blondes $= 5$.
-
-Let's calculate the number of brown-eyed brunettes,
-
-$
-\begin{aligned}
-\text {Number of brown-eyed brunettes} &= \text { Number of brown-eyed girls } - \text { Number of brown-eyed blondes} \\\\
-                                       &= 18 - 5 \\\\
-                                       &= 13 
-\end{aligned}
-$
-
-Number of brown-eyed brunettes $= 13$.
+Brown-eyed Brunettes $= 13$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Brown-eyed Brunettes $= 13$
+$13$
 
 </div>
 </div>

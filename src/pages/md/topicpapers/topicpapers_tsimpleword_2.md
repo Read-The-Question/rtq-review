@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-2"
 title: "TopicPaper - Simpleword - 2"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "40"
 ---
 <div class='paper'>
@@ -161,7 +161,7 @@ Fill in the missing numbers in the following statements.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$25\%$ of $48 = {?}$
+$25\% \text{ of } 48 = ?$
 
 </div>
 <div class='workings'>
@@ -194,7 +194,7 @@ $12$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$25\%$ of ${?} = 48$
+$25\% \text{ of } ? = 48$
 
 </div>
 <div class='workings'>
@@ -233,9 +233,9 @@ $192$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Identify the two **square** numbers that add up to $74$.
+Identify the two square numbers that add up to $74$.
 
-${?} + {?} = 74$
+$? + ? = 74$
 
 </div>
 <div class='workings'>
@@ -279,9 +279,9 @@ $49, 25$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Identify the two **prime** numbers that add up to 13
+Identify the two prime numbers that add up to $13$
 
-${?} + {?} = 13$
+$? + ? = 13$
 
 </div>
 <div class='workings'>
@@ -1531,7 +1531,7 @@ $10$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-In a bag there are $63$ counters.$\dfrac {5} {9}$ of the counters are blue. How many blue counters are there?
+In a bag there are $63$ counters. $\dfrac {5}{9}$ of the counters are blue. How many blue counters are there?
 
 </div>
 <div class='workings'>

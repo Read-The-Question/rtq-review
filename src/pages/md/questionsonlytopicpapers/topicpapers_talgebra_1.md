@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-talgebra-1"
 title: "TopicPaper - Algebra - 1"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "40"
 ---
 <div class='paper'>
@@ -677,12 +677,12 @@ Expression
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Lisa has some boxes that are all cubes of the same six=ze.
+Lisa has some boxes that are all cubes of the same size.
 
 She uses four of the boxes to make a pile with a height of $72 \ \text{cm}$.
 
@@ -805,7 +805,7 @@ As $x$ increases,
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -824,9 +824,9 @@ Bags $A$ and $B$ contain some counters.
 
 Bag A: $6y + 1$ counters
 
-Bage B: $4y + 7$ counters
+Bag B: $4y + 7$ counters
 
-The number of counters in each bag **is the same**.
+The number of counters in each bag is the same.
 
 Work out the value of $y$.
 
@@ -844,9 +844,9 @@ Bag $C$ contains more counters than bag $D$.
 
 Bag C: $4k$ counters
 
-Bage D: $k + 12$ counters
+Bag D: $k + 12$ counters
 
-What is the **smallest** possible value of $k$?
+What is the smallest possible value of $k$?
 
 </div>
 

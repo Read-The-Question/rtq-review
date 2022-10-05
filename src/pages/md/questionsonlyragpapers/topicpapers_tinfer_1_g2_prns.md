@@ -1,8 +1,8 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tinfer-1-g2-prns"
 title: "TopicPaper - Infer - 1 - G2 - PRNS"
-date: 2022-09-24 05:07:09
-questions_count: "26"
+date: 2022-10-04 10:09:40
+questions_count: "27"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -99,6 +99,21 @@ Work out the codes for pictures $1, 2$ and $4$ and then decide which of boxes $A
 ![alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-1-question-24-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-1-question-24-00.png "alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-1-question-24-00.png")
 
 ![alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-1-question-24-01.png](/assets/alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-1-question-24-01.png "alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-1-question-24-01.png")
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+What is the sum of all the numbers from $1$ to $100?$
+
+*(You are not expected to work this out by adding $100$ numbers together!
+Try to find a way to do the puzzle and show how you worked it out!)*
 
 </div>
 

@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tsequence-5"
 title: "TopicPaper - Sequence - 5"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "40"
 ---
 <div class='paper'>
@@ -269,7 +269,7 @@ We write $S(2,5)$ as an abbreviation for $2 + 3 + 4 + 5$ so that $S(2,5) = 14$.
 
 Similarly, 
 
-$S(6,39) = 6 + 7 + 8 + 9 \ldots + 38 + 39 + 765$
+$S(6,39) = 6 + 7 + 8 + 9 \ldots + 38 + 39 = 765$
 
 Work out: 
 
@@ -587,7 +587,7 @@ From the numbers written above, write down
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
 <div class='question subsubquestion'>
 
-a mulliple of five
+a multiple of five
 
 </div>
 

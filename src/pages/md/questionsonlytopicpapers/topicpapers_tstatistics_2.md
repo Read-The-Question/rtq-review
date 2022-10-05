@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tstatistics-2"
 title: "TopicPaper - Statistics - 2"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "40"
 ---
 <div class='paper'>
@@ -353,8 +353,6 @@ Work out the size of the angle for Thai.
 
 How many of the $180$ students chose Pizza?
 
-![james-allens-girls-school--11-plus--maths--9999--sample-paper-1/section-1-question-17-subquestion-4-00.png](/assets/james-allens-girls-school--11-plus--maths--9999--sample-paper-1/section-1-question-17-subquestion-4-00.png "james-allens-girls-school--11-plus--maths--9999--sample-paper-1/section-1-question-17-subquestion-4-00.png")
-
 </div>
 
 </div>
@@ -599,8 +597,6 @@ Pupils tested whether people can taste the difference between black wine gums an
 The percentage bar charts show three pupils’ results.
 
 ![leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4/section-1-question-14-00.png](/assets/leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4/section-1-question-14-00.png "leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4/section-1-question-14-00.png")
-
-![leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4/section-1-question-14-01.png](/assets/leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4/section-1-question-14-01.png "leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4/section-1-question-14-01.png")
 
 </div>
 <ul class='subquestion lower-alpha'>

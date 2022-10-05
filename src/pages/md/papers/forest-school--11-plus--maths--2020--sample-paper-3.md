@@ -1,7 +1,7 @@
 ---
 slug: "papers/forest-school-11-plus-maths-2020-sample-paper-3"
 title: "Forest School - 11 Plus - Maths - 2020 - Sample Paper 3"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "35"
 ---
 <div class='paper'>
@@ -819,7 +819,7 @@ $500$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -868,9 +868,9 @@ What fraction of the pupils are boys who walk to school?
 
 |           |               Walk                |           Don’t walk              |            Total                    |
 |:-----:    |:-----------------------------:    |:----------------------------:     |:-------------------------------:    |
-| Girls     |               $6$                 | $11 - 6 = 5 \ \footnotesize{(1)}$ |             $11$                    |
-|  Boys     | $12 - 8 = 4 \ \footnotesize{(3)}$ |              $8$                  | $23 - 11 = 12 \ \footnotesize{(2)}$ |
-| Total     | $6 + 4 = 10 \ \footnotesize{(4)}$ | $8 + 5 = 13 \ \footnotesize{(5)}$ |             $23$                    |
+| Girls     |               $6$                 | $11 - 6 = 5 \ \maroonC{\footnotesize{(1)}}$ |             $11$                    |
+|  Boys     | $12 - 8 = 4 \ \maroonC{\footnotesize{(3)}}$ |              $8$                  | $23 - 11 = 12 \ \maroonC{\footnotesize{(2)}}$ |
+| Total     | $6 + 4 = 10 \ \maroonC{\footnotesize{(4)}}$ | $8 + 5 = 13 \ \maroonC{\footnotesize{(5)}}$ |             $23$                    |
 
 Fraction of pupils who are boys and walk to school $= \dfrac {4} {23}$
 
@@ -1336,7 +1336,7 @@ $40 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1354,22 +1354,19 @@ How long does it take Shayban to cycle from $A$ to $B$?
 ABBR: $\text {Speed} = \dfrac {\text{Distance}} {\text{Time}}$
 
 
-Let the distance $= d$
+Let the distance $= D$
 
-and the speed of kasey $= s$
+Speed $= \dfrac{D}{24}$
 
-speed of Shyaban $= \dfrac{s}{3}$
-
-As per the question,
-
-$\dfrac{d}{s}  =  24$
 
 $
 \begin{aligned}
-\text{Time taken by shayban} &= \dfrac{d}{\dfrac{s}{3}} \\\\
-                             &= 3 \times \dfrac{d}{s} \\\\
-                             &= 3 \times 24 \\\\
-                             &= 72 \text{ minutes} \\\\
+\text{Speed of Shyaban}      &= \dfrac{1}{3} \text{ of } \dfrac{D}{24} \\\\
+                             &= \dfrac{1}{3} \times \dfrac{D}{24} \\\\
+                             &= \dfrac{D}{24 \times 3} \\\\
+                             &= \dfrac{D}{72} \\\\
+\text{Time}                  &= \dfrac{D}{\dfrac{D}{72}} \\\\
+                             &= 72 \text{ minutes}
 \end{aligned}
 $
 

@@ -1,8 +1,8 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tsequence-3-pr-prpcr"
 title: "TopicPaper - Sequence - 3 - PR - PRPCR"
-date: 2022-09-24 05:07:09
-questions_count: "17"
+date: 2022-10-04 10:09:40
+questions_count: "16"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -200,28 +200,6 @@ What is the general rule to describe each row if you call the row number $n$?
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Bob makes a sequence using the following rule: $\text{‘double and subtract 3’}$. If the first number in his sequence is $5$, what will the fifth number in his sequence be?
-
-A: $157$ 
-
-B: $77$ 
-
-C: $19$ 
-
-D: $35$ 
-
-E: $67$
-
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prpcr question'>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
 Jonny makes patterns from black and white tiles. His patterns always start with a black tile at the top. Here are some of his patterns:
 
 ![latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-00.png](/assets/latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-00.png "latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-00.png")      ![latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-01.png](/assets/latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-01.png "latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-01.png")      ![latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-02.png](/assets/latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-02.png "latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-02.png")
@@ -254,7 +232,7 @@ How many black tiles will there be in Pattern $12$?
 
 Robin notices that he can take two copies of Pattern $4$ and make them into a $4\times5$ rectangle:
 
-![latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-00.png](/assets/latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-00.png "latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-00.png")        ![latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-01.png](/assets/latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-01.png "latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-01.png")
+![latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-00.png](/assets/latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-00.png "latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-00.png") 
 
 </div>
 

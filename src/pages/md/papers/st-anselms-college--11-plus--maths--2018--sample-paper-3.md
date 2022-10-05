@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-2018-sample-paper-3"
 title: "St Anselms College - 11 Plus - Maths - 2018 - Sample Paper 3"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "22"
 ---
 <div class='paper'>
@@ -627,7 +627,7 @@ $\text{angle Q}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -991,7 +991,7 @@ $0.7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1616,8 +1616,7 @@ Let's arrange the numbers in ascending order.
 
 $
 \begin {aligned}
-\text{Ordered numbers}      &= 5, \quad \maroonC
-{9}, \quad 10 \\\\
+\text{Ordered numbers}      &= 5, \quad \maroonC{9}, \quad 10 \\\\
 \text{Median}               &= 9
 \end {aligned}
 $

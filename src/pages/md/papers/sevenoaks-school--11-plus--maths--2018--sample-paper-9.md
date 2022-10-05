@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2018-sample-paper-9"
 title: "Sevenoaks School - 11 Plus - Maths - 2018 - Sample Paper 9"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "20"
 ---
 <div class='paper'>
@@ -546,7 +546,7 @@ $325.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1463,7 +1463,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1474,14 +1474,24 @@ A twenty-four hour digital watch shows only hours and minutes. How many times ea
 <div class='workings'>
 <div class='working'>
 
-$2 \text{times in a day}$
+When the hour is $04$ or $14$, the minutes can be $04, 14, 24, 34, 40-49$ and $54$ which is $15$ possiblities for each hour
+
+For the remaining $22$ hours, the minutes must be $44$
+
+$
+\begin{aligned}
+\text{Total}   &=  2 \times 15 + 22 \\\\
+               &=  30 + 22 \\\\
+               &=  52
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$2 \text{times in a day}$
+$52$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-2-g1-prns"
 title: "TopicPaper - Money - 2 - G1 - PRNS"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "20"
 ---
 <ul class='question default-decimal'>
@@ -1036,9 +1036,7 @@ $38, 12 \text {p}$
 <div class='question question'>
 
 To encourage her to tidy her bedroom, Cathy is given $1 \text{p}$ on the first day, $2 \text{p}$ on the second day, $4 \text{p}$ on the third day and so on, doubling the amount each day. 
-How much has she been given after $8$ days?
-
-![james-allens-girls-school--11-plus--maths--9999--sample-paper-1/section-1-question-18-00.png](/assets/james-allens-girls-school--11-plus--maths--9999--sample-paper-1/section-1-question-18-00.png "james-allens-girls-school--11-plus--maths--9999--sample-paper-1/section-1-question-18-00.png")   
+How much has she been given after $8$ days?  
 
 </div>
 <div class='workings'>
@@ -1180,6 +1178,8 @@ $7$
 <div class='question question'>
 
 **Questions** $\bold{19}$ **to** $\bold{21}$ **refer to the graph on the page opposite**.
+
+![king-henry-viii-school--11-plus--maths--9999--sample-paper-1/section-1-question-19-00.png](/assets/king-henry-viii-school--11-plus--maths--9999--sample-paper-1/section-1-question-19-00.png "king-henry-viii-school--11-plus--maths--9999--sample-paper-1/section-1-question-19-00.png")
 
 Bella changes $\pounds 24$ into dinars. How many dinars does she have?
 

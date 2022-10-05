@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2009-sample-paper-1"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2009 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "30"
 ---
 <div class='paper'>
@@ -1778,7 +1778,7 @@ $07{:}19$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2039,7 +2039,7 @@ $100000$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2078,13 +2078,11 @@ Shortest distance
 
 $
 \begin{aligned} 
-\text {Shortest route}  &= \text {S to B to E to D to T} \\\\
-                        &= 4 + 3 + 1 + 1 + 1 \\\\
-                        &= 10 \ \text{miles}
+\text {Shortest Distance}  &= \text {S to B to E to D to T} \\\\
+                           &= 4 + 3 + 1 + 1 + 1 \\\\
+                           &= 10 \ \text{miles}
 \end{aligned}
 $
-
-Shortest distance $= 10 \ \text{miles}$
 
 </div>
 </div>
@@ -2138,9 +2136,8 @@ ABBR: $\text {Speed} = \dfrac {\text{Distance}} {\text{Time}}$
 
 $
 \begin{aligned}
-\text{Time Isobel takes}     &= \dfrac {10 \ \text {miles}} {15 \ \text {miles per hour}} \\\\
-                             &= \dfrac {10 \ \text {miles}} {\dfrac{15}{60} \ \text {miles per min}} \\\\
-                             &= 10  \times \dfrac {60} {15} \\\\
+\text{Time Isobel takes}     &= \dfrac {10} {15 \ \text {miles per hour}} \\\\
+                             &= \dfrac {10 \times 60} {15 \ \text {miles per min}} \\\\
                              &= \dfrac {10 \times 60} {15} \\\\
                              &= \dfrac {5 \times 2 \times 3 \times 20} {5 \times 3} \\\\
                              &= \dfrac {\cancel 5 \times 2 \times \cancel 3 \times 20} {\cancel 5 \times \cancel 3} \\\\
@@ -2148,8 +2145,6 @@ $
                              &= 40 \ \text {min}
 \end{aligned}
 $
-
-The shortest time Isobel will take to complete the journey $= 40 \ \text {min}$ 
 
 </div>
 </div>
@@ -2171,8 +2166,6 @@ Isobel listens to the local radio before setting off on her journey one morning.
 She discovers that the road between $E$ and $F$ is completely blocked due to an earlier accident 
 and she is forced to choose an alternative route to work. 
 What is the least number of **additional** minutes that she will take to cycle to work today?
-
-![the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1/section-1-question-28-subquestion-4-00.png](/assets/the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1/section-1-question-28-subquestion-4-00.png "the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1/section-1-question-28-subquestion-4-00.png")
 
 </div>
 <div class='workings'>
@@ -2237,7 +2230,6 @@ A person's Body Mass Index $(BMI$) is worked out by dividing their weight (in ki
 
 ![missing table](/papers/missing_table.svg)
 
-![the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1/section-1-question-29-00.png](/assets/the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1/section-1-question-29-00.png "the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1/section-1-question-29-00.png") 
 
 For example, Jill weighs $72 \ \text{kg}$ and is $1.82 \ \text{m}$ tall. Her body mass index is worked out as follows:
 

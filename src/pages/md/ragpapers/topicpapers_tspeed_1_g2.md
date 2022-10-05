@@ -1,8 +1,8 @@
 ---
 slug: "ragpapers/topicpapers-tspeed-1-g2"
 title: "TopicPaper - Speed - 1 - G2"
-date: 2022-09-24 04:59:20
-questions_count: "9"
+date: 2022-10-04 10:03:20
+questions_count: "12"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -51,13 +51,105 @@ $3 \ \text {hours} \ 20 \ \text {minutes}$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-I travel $1\ \text{mile}$ at $60\ \text{m.p.h.}$ and then $1\ \text{mile}$ at $30\ \text{m.p.h.}$ What is my average speed in $\text{miles per hour}$?
+Two runners are having a race. Gary starts running from the start line at $10 \ \text{m/s}$. 
+Two seconds later Andy starts running from the start line at $12 \ \text{m/s}$.
+
+</div>
+
+
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How long after Gary starts running does Andy catch up with him?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
+
+
+Let the time taken by Gary to catch up (in seconds) $= t$
+
+As per the question,
+
+$
+\begin{aligned}
+12 \times (t - 2)  &=  10 \times t \\\\
+12t - 24           &=  10t \\\\
+12t - 10t          &=  24 \\\\
+2t                 &=  24 \\\\
+t                  &=  \dfrac{24}{2} \\\\
+t                  &=  \dfrac{12 \times 2}{2} \\\\
+t                  &=  \dfrac{12 \times \cancel{2}}{\cancel{2}} \\\\
+t                  &=  12 \text{ seconds}
+\end{aligned}
+$
+
+Time taken $= 12 \text{ seconds}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12 \text{ seconds}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How far are they both from the start line when Andy catches up with Gary?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
 ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
+
+
+$
+\begin{aligned}
+\text{Distance}    &=  10 \times 12 \\\\
+                   &=  120 \text{ metres}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$120 \text{ metres}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+I travel $1\ \text{mile}$ at $60\ \text{m.p.h.}$ and then $1\ \text{mile}$ at $30\ \text{m.p.h.}$ What is my average speed in $\text{miles per hour}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text {Speed} = \dfrac {\text{Total distance}} {\text{Total time}}$
 
 
 $
@@ -102,9 +194,6 @@ A Formula $1$ race is $96$ laps of the track. A driver averages $1 \ \text{minut
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
-
-
 $
 \begin{aligned}
 \text {Race duration}   &= 96 \times (1 \text{ minute } 20 \text{ seconds} ) \\\\
@@ -128,6 +217,100 @@ $2 \ \text {hour} \ 8 \ \text {minutes}$
 </div>
 </div>
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Rhys and Sarah are on their bicycles and start $90 \ \text{miles}$ apart on a road, riding towards each other. 
+Rhys is travelling at $10 \ \text{mph}$ and Sarah is travelling at $20 \ \text{mph}$. They set off at the same time and both keep moving at constant speeds until they meet.
+
+</div>
+
+
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Work out at what distance each rider has cycled by the time they meet.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let Rhys and Sarah meet at time (in hours) $= t$
+
+As per the question,
+
+$
+\begin{aligned}
+10 \times t + 20 \times t &= 90 \\\\
+10t + 20t                 &= 90 \\\\
+30t                       &= 90 \\\\
+t                         &= \dfrac{90}{30} \\\\
+t                         &= \dfrac{3 \times 30}{30} \\\\
+t                         &= \dfrac{3 \times \cancel{30}}{\cancel{30}} \\\\
+t                         &= 3 \text{ hours}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Distance travelled by Rhys}  &= 10 \times t \\\\
+                                   &= 10 \times 3 \\\\
+                                   &= 30 \text { miles} \\\\
+\text{Distance travelled by Sarah} &= 20 \times t \\\\
+                                   &= 20 \times 3 \\\\
+                                   &= 60 \text { miles}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30 \text { miles}$
+
+</div>
+<div class='answer'>
+
+$60 \text { miles}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Write down the time taken for them to meet.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$3 \text{ hours}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3 \text{ hours}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 </div>
 </li>
 <li>
@@ -258,8 +441,6 @@ If a tourist cycles at $14 \ \text{km per hour}$, work out how long her journey 
 ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 
-As per the question,
-
 $
 \begin{aligned}
 \text {Distance}    &= \text {Josham to Langham} + \text {Langham to Moreton} \\\\
@@ -378,6 +559,48 @@ $800 \ \text{kilometres per hour}$
 </div>
 </li>
 </ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+James cycles $4000 \ \text{m}$ at $10 \ \text{metres per second}$. Tom takes $100 \ \text{seconds}$ more to cycle the same distance. 
+At what speed does Tom cycle? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text {Speed} = \dfrac {\text{Distance}} {\text{Time}}$
+
+
+$
+\begin{aligned}
+\text{Time taken by James}      &= \dfrac{4000}{10} \\\\
+                                &= \dfrac{400 \cancel{0}}{1 \cancel{0}} \\\\
+                                &= 400 \text{ seconds} \\\\
+\text{Time taken by Tom}        &= 100 + 400 \\\\
+                                &= 500 \text{ seconds} \\\\
+\text{Speed for Tom}            &= \dfrac{4000}{500} \\\\
+                                &= \dfrac{5 \times 8 \times 100}{5 \times 100} \\\\
+                                &= \dfrac{\cancel{5} \times 8 \times \cancel{100}}{\cancel{5} \times \cancel{100}} \\\\
+                                &= 8 \text{ metres per second}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8 \text{ metres per second}$
+
+</div>
+</div>
+
 </div>
 </li>
 <li>

@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-torder-2-pr-prpcr"
 title: "TopicPaper - Order - 2 - PR - PRPCR"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "17"
 ---
 <ul class='question default-decimal'>
@@ -109,7 +109,7 @@ $\dfrac{3}{4}\:\:\:\dfrac{1}{8}\:\:\:\dfrac{1}{3}\:\:\:\dfrac{3}{5}$
 
 The temperatures, in degrees Centigrade, taken at $10 \ \text{am}$ in several countries were: 
 
-$5,  \quad 2,  \quad 14,  \quad 2,  \quad 4,  \quad 6,  \quad 7$ 
+$5,  \quad -2,  \quad 14,  \quad 2,  \quad 4,  \quad -6,  \quad 7$ 
 
 </div>
 <ul class='subquestion lower-alpha'>
@@ -278,7 +278,7 @@ Write the following numbers in order of size, starting with the smallest.
 
 Write the following numbers in order of size, starting with the smallest. 
 
-$0.56 \,\,\,\,  0.5  \,\,\,\,  0.051 \,\,\,\,  0.507 \,\,\,\,  0.308$ 
+$0.56, \quad  0.5, \quad,  0.051, \quad  0.507, \quad  0.308$ 
 
 </div>
 
@@ -292,7 +292,7 @@ $0.56 \,\,\,\,  0.5  \,\,\,\,  0.051 \,\,\,\,  0.507 \,\,\,\,  0.308$
 
 Write the following numbers in order of size, starting with the smallest. 
 
-0.26   0.3   0.038   0.38   0.308
+$0.26, \quad 0.3, \quad 0.038, \quad 0.38, \quad 0.308$
 
 </div>
 
@@ -306,7 +306,7 @@ Write the following numbers in order of size, starting with the smallest.
 
 Write the following numbers in order of size, starting with the smallest. 
 
-$0.105 \,\,\,\,  0.115 \,\,\,\,  0.1 \,\,\,\,  0.11 \,\,\,\, 0.015 \,\,\,\,   0.101$
+$0.105, \quad  0.115, \quad  0.1, \quad  0.11, \quad 0.015, \quad   0.101$
 
 </div>
 

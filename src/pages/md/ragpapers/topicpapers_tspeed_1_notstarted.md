@@ -1,8 +1,8 @@
 ---
 slug: "ragpapers/topicpapers-tspeed-1-notstarted"
 title: "TopicPaper - Speed - 1 - NOTSTARTED"
-date: 2022-09-24 04:59:20
-questions_count: "3"
+date: 2022-10-04 10:03:20
+questions_count: "2"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -62,30 +62,8 @@ TODOANSWER
 %empty% 
 
 </div>
-<div class='workings'>
-<div class='working placeholder'>
 
-TODOWORKING
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -95,26 +73,35 @@ Mr Sahota is cycling around a track at a constant speed. He completes $5$ laps e
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: $\text {Speed} = \dfrac {\text{Distance}} {\text{Time}}$
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Speed}                            &=  \dfrac{5 \text{ laps}}{4 \text{ minutes}}  \\\\
+                                        &=  \dfrac{5}{4} \text{ laps/minute}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Time taken to complete 8 laps}    &=  \dfrac{8}{\dfrac{5}{4}} \\\\
+                                        &=  8 \times \dfrac{4}{5} \\\\
+                                        &=  \dfrac{8 \times 4}{5} \\\\
+                                        &=  \dfrac{32}{5} \\\\
+                                        &=  6\dfrac{2}{5} \text{ minutes} \\\\
+                                        &=  6 \text{ minutes } 24 \text { seconds}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$6 \text{ minutes } 24 \text { seconds}$
 
 </div>
 </div>
@@ -156,46 +143,6 @@ TODOANSWER
 </div>
 </li>
 </ul>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
-Jacqueline and Sophia stand facing one another. At exactly the same moment both girls start to turn steadily on the spot.
-
-It takes Jaqueline 3 seconds to make one full turn, whilst Sophia takes 4 seconds to complete one full turn.
-
-How many times will Jaqueline have turned when the girls are next facing each other? 
-
-</div>
-<div class='workings'>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
-
 </div>
 </li>
 </ul>

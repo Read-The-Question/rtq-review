@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-2019-sample-paper-1"
 title: "Aldenham School - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "27"
 ---
 <div class='paper'>
@@ -607,7 +607,7 @@ $(0, -3)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -647,16 +647,11 @@ The next term is calculated by adding $7$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+7)}}
-&&  \footnotesize{\maroonC
-{(+7)}}
-&&  \footnotesize{\maroonC
-{(+7)}}
-&&  \footnotesize{\maroonC
-{(+7)}}
-&&  \footnotesize{\maroonC
-{(+7)}}  \\
+&   \footnotesize{\maroonC{(+7)}}
+&&  \footnotesize{\maroonC{(+7)}}
+&&  \footnotesize{\maroonC{(+7)}}
+&&  \footnotesize{\maroonC{(+7)}}
+&&  \footnotesize{\maroonC{(+7)}}  \\
 -2,  &&    5,  &&  12,  &&   19,  &&   26, && \ldots
 \end{matrix}
 $
@@ -697,16 +692,11 @@ The next term is calculated by subtracting $6$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(-6)}}
-&&  \footnotesize{\maroonC
-{(-6)}}  \\
+&   \footnotesize{\maroonC{(-6)}}
+&&  \footnotesize{\maroonC{(-6)}}
+&&  \footnotesize{\maroonC{(-6)}}
+&&  \footnotesize{\maroonC{(-6)}}
+&&  \footnotesize{\maroonC{(-6)}}  \\
 43,  &&    \ldots,  &&  31,  &&   25,  &&   19, && 13
 \end{matrix}
 $
@@ -747,16 +737,11 @@ The difference between the terms is increasing in the sequence of natural odd nu
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+7)}}
-&&  \footnotesize{\maroonC
-{(+9)}}
-&&  \footnotesize{\maroonC
-{(+11)}}  \\
+&   \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(+7)}}
+&&  \footnotesize{\maroonC{(+9)}}
+&&  \footnotesize{\maroonC{(+11)}}  \\
 2,  &&    5,  &&  10,  &&   17,  &&  \ldots, && 37
 \end{matrix}
 $
@@ -872,7 +857,7 @@ $42 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -891,6 +876,12 @@ Show workings.
 </div>
 <div class='workings'>
 <div class='working'>
+
+ABBR: $\text {Sale price = Original price} - \text{Discount } \% \times \text{Original price}$
+
+
+ABBR: $\text {Sale price = (100 - Discount})\ \% \times \text{Original price}$
+
 
 Let's calculate the sale price of bicycle from each deal.
 
@@ -985,7 +976,7 @@ $9 \ \text{km}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1003,26 +994,26 @@ How many of her friends liked **blueberries and cherries**?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: $(A \text{ and } B) = A + B - (A \text{ or } B)$
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+$
+\begin {aligned}
+\text {Friends who liked blueberries or cherries}       &= 20 - 2 \\\\
+                                                        &= 18 \\\\
+\text {Friends who liked blueberries and cherries}      &= 8 + 15 - 18 \\\\
+                                                        &= 3
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$3$
 
 </div>
 </div>
@@ -1075,8 +1066,7 @@ Let's arrange the pages read in ascending order.
 $
 \begin {aligned}
 \text{Pages read}           &= 70, \quad 60, \quad 70, \quad 30, \quad 90 \\\\
-\text{Ordered pages read}   &= 30, \quad 60, \quad \maroonC
-{70}, \quad 70, \quad 90 \\\\
+\text{Ordered pages read}   &= 30, \quad 60, \quad \maroonC{70}, \quad 70, \quad 90 \\\\
 \text{Median}               &= 70
 \end {aligned}
 $
@@ -2152,7 +2142,7 @@ $\dfrac {2}{5} \text{ of } \pounds 40  =  25\% \text{ of } \pounds 64$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2171,24 +2161,27 @@ Complete the chart above.
 <div class='workings'>
 <div class='working'>
 
-Let's complete the table.
+|           | History                            | Geography                               | Classics                           | **TOTAL**                               |
+|:---------:|:-------:                           |:---------:                              |:--------:                          |:---------:                              |
+| Boys      | $28$                               | $\green{50 - 28 - 8 = 14} \ \maroonC{\footnotesize{(3)}}$ | $8$                                | $50$                                    |
+| Girls     | $\green{35 - 28 = 7} \ \maroonC{\footnotesize{(1)}}$ | $19$                                    | $\green{29 - 8 = 21} \ \maroonC{\footnotesize{(2)}}$ | $\green{7 + 19 + 21 = 47} \ \maroonC{\footnotesize{(5)}}$ |
+| **TOTAL** | $35$                               | $\green{19 + 14 = 33} \ \maroonC{\footnotesize{(4)}}$     | $29$                               | $\green{50 + 47 = 97} \ \maroonC{\footnotesize{(6)}}$     |
+
+
+Completed table:
 
 |           | History                            | Geography                               | Classics                           | **TOTAL**                               |
 |:---------:|:-------:                           |:---------:                              |:--------:                          |:---------:                              |
-| Boys      | $28$                               | $50 - 28 - 8 = 14 \ \footnotesize{(3)}$ | $8$                                | $50$                                    |
-| Girls     | $35 - 28 = 7 \ \footnotesize{(1)}$ | $19$                                    | $29 - 8 = 21 \ \footnotesize{(2)}$ | $7 + 19 + 21 = 47 \ \footnotesize{(5)}$ |
-| **TOTAL** | $35$                               | $19 + 14 = 33 \ \footnotesize{(4)}$     | $29$                               | $50 + 47 = 97 \ \footnotesize{(6)}$     |
+| Boys      | $28$                               | $14$                                    | $8$                                | $50$                                    |
+| Girls     | $7$                                | $19$                                    | $21$                               | $47$                                    |
+| **TOTAL** | $35$                               | $33$                                    | $29$                               | $97$                                    |
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-|           | History    | Geography  | Classics  | **TOTAL** |
-|:---------:|:-------:   |:---------: |:--------: |:---------:|
-| Boys      | $28$       | $14$       | $8$       | $50$      |
-| Girls     | $7$        | $19$       | $21$      | $47$      |
-| **TOTAL** | $35$       | $33$       | $29$      | $97$      |
+%empty%
 
 </div>
 </div>

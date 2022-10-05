@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-georges-college-11-plus-maths-2012-sample-paper-1"
 title: "St Georges College - 11 Plus - Maths - 2012 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "25"
 ---
 <div class='paper'>
@@ -1359,7 +1359,7 @@ $\pounds 6.25$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1399,18 +1399,12 @@ The next term is calculated by adding $3$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}  \\
+&   \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}  \\
 7, && 10, && \ldots, && 16, && 19, && \ldots, && 25
 \end{matrix}
 $
@@ -1458,18 +1452,12 @@ The next term is calculated by dividing the previous term by $2$. Hence, the seq
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\div 2)}}
-&&  \footnotesize{\maroonC
-{(\div 2)}}
-&&  \footnotesize{\maroonC
-{(\div 2)}}
-&&  \footnotesize{\maroonC
-{(\div 2)}}
-&&  \footnotesize{\maroonC
-{(\div 2)}}
-&&  \footnotesize{\maroonC
-{(\div 2)}}  \\
+&   \footnotesize{\maroonC{(\div 2)}}
+&&  \footnotesize{\maroonC{(\div 2)}}
+&&  \footnotesize{\maroonC{(\div 2)}}
+&&  \footnotesize{\maroonC{(\div 2)}}
+&&  \footnotesize{\maroonC{(\div 2)}}
+&&  \footnotesize{\maroonC{(\div 2)}}  \\
 192, && 96, && 48, && \ldots, && 12, && 6, && \ldots
 \end{matrix}
 $
@@ -1538,7 +1526,7 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1549,30 +1537,37 @@ A box of Kiddimix contains $20$ chocolates of which $8$ are plain chocolates. If
 <div class='workings'>
 <div class='working'>
 
-A box of Kiddimix contains $20$ chocolates.
+Let the number of palin chocolates with soft centres $= a$
 
-which $8$ are plain chocolates.
+Let's complete the table.
 
-As per the question,
+|              | Plane chocolates             | Normal chocolates                                           | **Total**                           |
+|:---------:   |-------                       |-------                                                      |-----------                          |
+| Soft centres | $a$                          | $16 - a \ \footnotesize{(7)}$                               | $16 \ \footnotesize{(2)}$           |
+| Hard centres | $8 - a \ \footnotesize{(6)}$ | $12 - (16 - a) = 12 - 16 + a = a - 4 \ \footnotesize{(8)}$  | $20 - 16 = 4 \ \footnotesize{(3)}$  |
+| **Total**    | $8 \ \footnotesize{(4)}$     | $20 - 8 = 12 \ \footnotesize{(5)}$                          | $20 \ \footnotesize{(1)}$           |
 
 $
-\begin{aligned} 
-\text{If 16 of the 20 have soft centres} \\
-\text{then} \ \ 20 - 16 = 4 \\\\
-\text{4 of the 8 have plain chocolates} \\
-\text{then} \ \ 8 - 4 = 4 \\\\
-\text{At least 4 plane chocolates have soft centres} \\\\
-\text{plain chocolates there are with soft centres} \geq 4
-\therefore 4 \leq x > 8
+\begin{aligned}
+a - 4                   &\geq 0 \\\\
+a                       &\geq 4    &  (1)\\\\
+16 - a                  &\geq 0 \\\\
+16                      &\geq a \\\\
+a                       &\leq 16   &  (2) \\\\
+8 - a                   &\geq 0 \\\\
+8                       &\geq a \\\\
+a                       &\leq 8    &  (3)
 \end{aligned}
 $
+
+Number of plain chocolates with plain centres are between $4$ and $8$ inclusive.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$4 \leq x > 8$
+Number of plain chocolates with plain centres are between $4$ and $8$ inclusive.
 
 </div>
 </div>

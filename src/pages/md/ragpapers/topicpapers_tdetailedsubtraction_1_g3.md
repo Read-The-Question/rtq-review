@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedsubtraction-1-g3"
 title: "TopicPaper - Detailedsubtraction - 1 - G3"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "34"
 ---
 <ul class='question default-decimal'>
@@ -291,10 +291,10 @@ $-2$
 
 $-9 + 7 =$
 
-- -16
-- 2
-- -2
-- 16
+- $-16$
+- $2$
+- $-2$
+- $16$
 
 </div>
 <div class='workings'>
@@ -1238,17 +1238,17 @@ $417$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-What is $842 - 658$ ? 
+What is $842 - 658?$
 
-A: $184$ 
+- $184$ 
 
-B: $194$ 
+- $194$ 
 
-C: $294$ 
+- $294$ 
 
-D: $284$ 
+- $284$ 
 
-E: $394$
+- $394$
 
 </div>
 <div class='workings'>

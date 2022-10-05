@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tsequence-1-pr"
 title: "TopicPaper - Sequence - 1 - PR"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "12"
 ---
 <ul class='question default-decimal'>
@@ -256,7 +256,7 @@ you can multiply the Shape Number by $\text{\textunderscore \textunderscore \tex
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -269,8 +269,10 @@ Draw pattern $4$ in the space below.
 
 Fill in this table:
 
-![missing table](/papers/missing_table.svg)
-
+| shape               | $1$ | $2$ | $3$  | $4$  | $5$ |
+|---------------------|-----|-----|------|------|-----|
+| Number of triangles |     |     | $5$  |      |     |
+| Number of matches   |     |     | $11$ |      |     |
 
 </div>
 <ul class='subquestion lower-alpha'>
@@ -278,7 +280,7 @@ Fill in this table:
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-In shape $6$, how many **triangles** will there be?
+In shape $6$, how many triangles will there be?
 
 </div>
 
@@ -288,7 +290,7 @@ In shape $6$, how many **triangles** will there be?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-In shape $6$, how many **matches** will there be?
+In shape $6$, how many matches will there be?
 
 </div>
 
@@ -298,7 +300,7 @@ In shape $6$, how many **matches** will there be?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-In shape $100$, how many **triangles** will there be?
+In shape $100$, how many triangles will there be?
 
 Explain how you worked this out.
 
@@ -310,7 +312,7 @@ Explain how you worked this out.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-In shape $100$, how many **matches** will there be?
+In shape $100$, how many matches will there be?
 
 Explain how you worked this out.
 
@@ -322,7 +324,7 @@ Explain how you worked this out.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Anah makes a shape with $29$ **triangles**. How many matches did she use?
+Anah makes a shape with $29$ triangles. How many matches did she use?
 
 </div>
 
@@ -332,7 +334,7 @@ Anah makes a shape with $29$ **triangles**. How many matches did she use?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -347,7 +349,7 @@ KATHRYNKATHRYNKA...
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the $17 \text{th}$ letter?
+What is the $17^\text{th}$ letter?
 
 </div>
 
@@ -357,7 +359,7 @@ What is the $17 \text{th}$ letter?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the $47 \text{th}$ letter?
+What is the $47^\text{th}$ letter?
 
 </div>
 
@@ -367,7 +369,7 @@ What is the $47 \text{th}$ letter?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the $141 \text{st}$ letter?
+What is the $141^\text{st}$ letter?
 
 </div>
 
@@ -377,18 +379,19 @@ What is the $141 \text{st}$ letter?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Fill in the next two numbers in the following sequence:
-$5$, $13$, $21$, $29$, ....., .....
 
-- $38$,$47$
-- $37$,$45$
-- $37$,$46$
-- $38$,$46$
+$ 5, 13, 21, 29, \ldots, \ldots $
+
+- $38, 47$
+- $37, 45$
+- $37, 46$
+- $38, 46$
 
 </div>
 <ul class='subquestion lower-alpha'>
@@ -425,7 +428,7 @@ $1\dfrac{3} {4},\:\: 2\dfrac{1} {2},\:\: 3\dfrac{1} {4},$ ___, ___, ...
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -440,12 +443,7 @@ Look at the sequence below. Some of the numbers are missing.
 
 Fill in the numbers so that they fit the pattern. Describe the pattern in words.
 
-$
-2,
-\quad \text{\textunderscore \textunderscore \textunderscore},
-\quad \text{\textunderscore \textunderscore \textunderscore},
-\quad 16, \quad 32, \quad 64
-$
+$ 2,\quad \ldots, \quad \ldots, \quad 16, \quad 32, \quad 64 $
 
 </div>
 
@@ -455,7 +453,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -473,7 +471,7 @@ $0, 1, -1, 2, \ \ldots $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the sixth $(6 \text{th})$ term in the sequence?
+What is the sixth $(6^\text{th})$ term in the sequence?
 
 </div>
 
@@ -483,7 +481,7 @@ What is the sixth $(6 \text{th})$ term in the sequence?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the eleventh $(11 \text{th})$ term in the sequence?
+What is the eleventh $(11^\text{th})$ term in the sequence?
 
 </div>
 
@@ -493,7 +491,7 @@ What is the eleventh $(11 \text{th})$ term in the sequence?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the hundredth $(100 \text{th})$ term in the sequence?
+What is the hundredth $(100^\text{th})$ term in the sequence?
 
 </div>
 
@@ -503,7 +501,7 @@ What is the hundredth $(100 \text{th})$ term in the sequence?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -537,9 +535,9 @@ Which number comes after $108$ in the sequence?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The $21 \text{st}$ number is $120$ and the $22 \text{nd}$ number is $122$.
+The $21^\text{st}$ number is $120$ and the $22^\text{nd}$ number is $122$.
 
-What is the $24 \text{th}$ number?
+What is the $24^\text{th}$ number?
 
 </div>
 
@@ -549,7 +547,7 @@ What is the $24 \text{th}$ number?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -564,7 +562,7 @@ Look carefully at the pattern sequence, made from black and white square tiles:
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-How many tiles would be needed, in total for the $7 \text{th}$ pattern in this sequence?
+How many tiles would be needed, in total for the $7^\text{th}$ pattern in this sequence?
 
 </div>
 
@@ -574,7 +572,7 @@ How many tiles would be needed, in total for the $7 \text{th}$ pattern in this s
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-How many black tiles are needed for the $7 \text{th}$ pattern?
+How many black tiles are needed for the $7^\text{th}$ pattern?
 
 </div>
 
@@ -584,7 +582,7 @@ How many black tiles are needed for the $7 \text{th}$ pattern?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The $9 \text{th}$ pattern in the sequence has $36$ black tiles.
+The $9^\text{th}$ pattern in the sequence has $36$ black tiles.
 
 Which other pattern in the sequence also uses exactly $36$ black tiles?
 

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-6-pr"
 title: "TopicPaper - Number - 6 - PR"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "10"
 ---
 <ul class='question default-decimal'>
@@ -18,9 +18,9 @@ team wear numbers $2$ to $9$.
 ![dulwich-college--11-plus--maths--9999--specimen-paper-c/section-1-question-19-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-c/section-1-question-19-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-c/section-1-question-19-00.png")
 
 The captain of the next team in the rankings wears number $11$ and his team mates are given the race numbers from $12$ to $19$. 
-The third team gets allotted the race numbers $21$ to $29$, and so on.
+The third team gets allocated the race numbers $21$ to $29$, and so on.
 
-This process continues until all rides have been given a unique number that identifies them individually, but also identifies which team they are on.
+This process continues until all riders have been given a unique number that identifies them individually, but also identifies which team they are on.
 
 </div>
 <div class='workings'>
@@ -66,7 +66,7 @@ $9$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The last race number to be issued is number 209. Write down how many teams there are in the race.
+The last race number to be issued is number $209$. Write down how many teams there are in the race.
 
 </div>
 <div class='workings'>
@@ -151,7 +151,7 @@ $9$
 <div class='question subquestion'>
 
 If $42$ riders failed to finish the $3$-week-long race, either through crashing our or abandoning the race, 
-work out what fraction of the number of riders who started the race actually **completed** the whole event. 
+work out what fraction of the number of riders who started the race actually completed the whole event. 
 Leave your answer in its simplest form.
 
 </div>
@@ -189,12 +189,7 @@ $147$
 Circle the factors of $99$: 
 
 
-$
-\begin{matrix}
-9   & \quad 198 & \quad 990 & \quad 33 \\
-66  & \quad 11  & \quad 18  & \quad 48
-\end{matrix}
-$ 
+$9 \quad 198 \quad 990 \quad 33 \quad 66 \quad 11 \quad 18 \quad 48$ 
 
 </div>
 <div class='workings'>
@@ -586,10 +581,16 @@ $865$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-
 In this subtraction, $P, Q, R, S$ and $T$ represent single digits.
 
-![dulwich-college--11-plus--maths--9999--specimen-paper-g/section-1-question-24-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-g/section-1-question-24-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-g/section-1-question-24-00.png")
+$
+\begin{array}{cccccccccccccc}
+    &   7   &   Q   &   2   &   S   &   T \\
+{}- &   P   &   3   &   R   &   9   &   6 \\
+\hline
+    &   2   &   2   &   2   &   2   &   2
+\end{array}
+$
 
 Find the values of $P, Q, R, S$ and $T$. 
 
@@ -636,8 +637,8 @@ $5,6,9,1,8$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Three bus services stop at my bus stop. Service $A$ departs every $3 \ \text{minutes}$, Service $B$ every $5 \ \text{minutes}$ 
-and Service $C$ every $8 \ \text{minutes}$s.
+Three bus services stop at my bus stop. Service $A$ departs every $3 \ \text{minutes}$, service $B$ every $5 \ \text{minutes}$ 
+and service $C$ every $8 \ \text{minutes}$.
 
 If all three services leave my stop at $10.00 \ \text{a.m.}$, at what time will they next leave my stop together? (Assume that all three services always run on time). 
 
@@ -674,9 +675,9 @@ $2.00 \ \text{a.m.}$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Two numbers are *clotted* by multiplying them together and then writing the answer backwards.
+Two numbers are clotted by multiplying them together and then writing the answer backwards.
 
-For example, $6$ and $7$ are *clotted* to give $24$ because $6 \times 7 = 42$ and $42$ written backwards is $24$. 
+For example, $6$ and $7$ are clotted to give $24$ because $6 \times 7 = 42$ and $42$ written backwards is $24$. 
 
 </div>
 <div class='workings'>
@@ -698,7 +699,7 @@ For example, $6$ and $7$ are *clotted* to give $24$ because $6 \times 7 = 42$ an
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the result of *clotting* $8$ and $9$? 
+What is the result of clotting $8$ and $9?$
 
 </div>
 <div class='workings'>
@@ -729,7 +730,7 @@ $27$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-With which number must 4 be *clotted* with to give $42$? 
+With which number must $4$ be clotted with to give $42?$
 
 </div>
 <div class='workings'>
@@ -767,7 +768,7 @@ $6$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Find two whole numbers which *clot* to give $53$. 
+Find two whole numbers which clot to give $53$. 
 
 </div>
 <div class='workings'>

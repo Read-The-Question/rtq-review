@@ -1,7 +1,7 @@
 ---
 slug: "papers/james-allens-girls-school-11-plus-maths-2020-sample-paper-2"
 title: "James Allens Girls School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "22"
 ---
 <div class='paper'>
@@ -328,7 +328,7 @@ $(6, 5)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -370,14 +370,10 @@ The next term is calculated by adding $11$ to the previous term. Hence, the sequ
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+11)} }
-&&  \footnotesize {\maroonC
- {(+11)} }
-&&  \footnotesize {\maroonC
- {(+11)} }
-&&  \footnotesize {\maroonC
- {(+11)} }  \\
+&   \footnotesize {\maroonC {(+11)} }
+&&  \footnotesize {\maroonC {(+11)} }
+&&  \footnotesize {\maroonC {(+11)} }
+&&  \footnotesize {\maroonC {(+11)} }  \\
 14, && 25, && 36, && 47, && \ldots
 \end{matrix}
 $
@@ -420,14 +416,10 @@ The next term is calculated by dividing the previous term by $10$. Hence, the se
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(\div 10)} }
-&&  \footnotesize {\maroonC
- {(\div 10)} }
-&&  \footnotesize {\maroonC
- {(\div 10)} }
-&&  \footnotesize {\maroonC
- {(\div 10)} }  \\
+&   \footnotesize {\maroonC {(\div 10)} }
+&&  \footnotesize {\maroonC {(\div 10)} }
+&&  \footnotesize {\maroonC {(\div 10)} }
+&&  \footnotesize {\maroonC {(\div 10)} }  \\
 7000, && 700, && 70, && 7, && \ldots
 \end{matrix}
 $
@@ -470,14 +462,10 @@ The next term we get by multiplying the previous term by $3$ and adding $1$. Hen
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(\times 3 + 1)} }
-&&  \footnotesize {\maroonC
- {(\times 3 + 1)} }
-&&  \footnotesize {\maroonC
- {(\times 3 + 1)} }
-&&  \footnotesize {\maroonC
- {(\times 3 + 1)} }  \\
+&   \footnotesize {\maroonC {(\times 3 + 1)} }
+&&  \footnotesize {\maroonC {(\times 3 + 1)} }
+&&  \footnotesize {\maroonC {(\times 3 + 1)} }
+&&  \footnotesize {\maroonC {(\times 3 + 1)} }  \\
 2, && 7, && 22, && 67, && \ldots
 \end{matrix}
 $
@@ -521,14 +509,10 @@ The next term is calculated by subtracting $7$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(-7)} }
-&&  \footnotesize {\maroonC
- {(-7)} }
-&&  \footnotesize {\maroonC
- {(-7)} }
-&&  \footnotesize {\maroonC
- {(-7)} }  \\
+&   \footnotesize {\maroonC {(-7)} }
+&&  \footnotesize {\maroonC {(-7)} }
+&&  \footnotesize {\maroonC {(-7)} }
+&&  \footnotesize {\maroonC {(-7)} }  \\
 23, && 16, && 9, && 2 , && \ldots
 \end{matrix}
 $

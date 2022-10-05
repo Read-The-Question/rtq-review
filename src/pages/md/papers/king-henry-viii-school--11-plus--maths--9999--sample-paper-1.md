@@ -1,7 +1,7 @@
 ---
 slug: "papers/king-henry-viii-school-11-plus-maths-9999-sample-paper-1"
 title: "King Henry Viii School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "40"
 ---
 <div class='paper'>
@@ -764,6 +764,8 @@ $130 \ \text{mm} $
 
 **Questions** $\bold{19}$ **to** $\bold{21}$ **refer to the graph on the page opposite**.
 
+![king-henry-viii-school--11-plus--maths--9999--sample-paper-1/section-1-question-19-00.png](/assets/king-henry-viii-school--11-plus--maths--9999--sample-paper-1/section-1-question-19-00.png "king-henry-viii-school--11-plus--maths--9999--sample-paper-1/section-1-question-19-00.png")
+
 Bella changes $\pounds 24$ into dinars. How many dinars does she have?
 
 </div>
@@ -1339,7 +1341,7 @@ $20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1379,7 +1381,7 @@ $21$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1413,7 +1415,7 @@ $987$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

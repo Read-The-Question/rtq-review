@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tinfer-6-pr"
 title: "TopicPaper - Infer - 6 - PR"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "39"
 ---
 <ul class='question default-decimal'>

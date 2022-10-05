@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-8-pr"
 title: "TopicPaper - Number - 8 - PR"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "12"
 ---
 <ul class='question default-decimal'>
@@ -577,22 +577,14 @@ The next term is calculated by subtracting $3$ to the previous term. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(-3)} } 
-&&  \footnotesize {\maroonC
- {(-3)} }  
-&&  \footnotesize {\maroonC
- {(-3)} }   
-&&  \footnotesize {\maroonC
- {(-3)} }   
-&&  \footnotesize {\maroonC
- {(-3)} }
-&&  \footnotesize {\maroonC
- {(-3)} }
-&&  \footnotesize {\maroonC
- {(-3)} }
-&&  \footnotesize {\maroonC
- {(-3)} }  \\
+&   \footnotesize {\maroonC {(-3)} } 
+&&  \footnotesize {\maroonC {(-3)} }  
+&&  \footnotesize {\maroonC {(-3)} }   
+&&  \footnotesize {\maroonC {(-3)} }   
+&&  \footnotesize {\maroonC {(-3)} }
+&&  \footnotesize {\maroonC {(-3)} }
+&&  \footnotesize {\maroonC {(-3)} }
+&&  \footnotesize {\maroonC {(-3)} }  \\
 28,  &&  25,  &&  22,  &&  19,  &&  16,  &&  13,  &&  10,  && \ldots,  &&  \ldots
 \end{matrix}
 $

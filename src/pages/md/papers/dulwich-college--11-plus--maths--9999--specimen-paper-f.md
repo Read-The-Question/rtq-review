@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-f"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper F"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "26"
 ---
 <div class='paper'>
@@ -150,7 +150,7 @@ $3.787$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -190,16 +190,11 @@ The next term is calculated by adding $6$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+6)} }
-&&  \footnotesize {\maroonC
- {(+6)} }
-&&  \footnotesize {\maroonC
- {(+6)} }
-&&  \footnotesize {\maroonC
- {(+6)} }
-&&  \footnotesize {\maroonC
- {(+6)} }  \\
+&   \footnotesize {\maroonC {(+6)} }
+&&  \footnotesize {\maroonC {(+6)} }
+&&  \footnotesize {\maroonC {(+6)} }
+&&  \footnotesize {\maroonC {(+6)} }
+&&  \footnotesize {\maroonC {(+6)} }  \\
 3, && 9, && \ldots, && 21, && 27, && \ldots
 \end{matrix}
 $
@@ -247,16 +242,11 @@ The next term is calculated by dividing the previous term by $2$. Hence, the seq
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }  \\
+&   \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }  \\
 \ldots, && 16, && 8, && 4, && \ldots, && 1
 \end{matrix}
 $
@@ -302,18 +292,12 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+32)} }
-&&  \footnotesize {\maroonC
- {(-16)} }
-&&  \footnotesize {\maroonC
- {(+8)} }
-&&  \footnotesize {\maroonC
- {(-4)} }
-&&  \footnotesize {\maroonC
- {(+2)} }
-&&  \footnotesize {\maroonC
- {(-1)} }  \\
+&   \footnotesize {\maroonC {(+32)} }
+&&  \footnotesize {\maroonC {(-16)} }
+&&  \footnotesize {\maroonC {(+8)} }
+&&  \footnotesize {\maroonC {(-4)} }
+&&  \footnotesize {\maroonC {(+2)} }
+&&  \footnotesize {\maroonC {(-1)} }  \\
 100 , && 132 , && 116 , && 124 , && 120 , && \ldots , && \ldots
 \end{matrix}
 $
@@ -359,18 +343,12 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(\times 2)} }
-&&  \footnotesize {\maroonC
- {(\times 3)} }
-&&  \footnotesize {\maroonC
- {(\times 4)} }
-&&  \footnotesize {\maroonC
- {(\times 5)} }
-&&  \footnotesize {\maroonC
- {(\times 6)} }
-&&  \footnotesize {\maroonC
- {(\times 7)} }  \\
+&   \footnotesize {\maroonC {(\times 2)} }
+&&  \footnotesize {\maroonC {(\times 3)} }
+&&  \footnotesize {\maroonC {(\times 4)} }
+&&  \footnotesize {\maroonC {(\times 5)} }
+&&  \footnotesize {\maroonC {(\times 6)} }
+&&  \footnotesize {\maroonC {(\times 7)} }  \\
 1 , && 2 , && 6 , && 24 , && \ldots , && 720 , \ldots
 \end{matrix}
 $
@@ -413,12 +391,7 @@ $5040$
 Circle the factors of $99$: 
 
 
-$
-\begin{matrix}
-9   & \quad 198 & \quad 990 & \quad 33 \\
-66  & \quad 11  & \quad 18  & \quad 48
-\end{matrix}
-$ 
+$9 \quad 198 \quad 990 \quad 33 \quad 66 \quad 11 \quad 18 \quad 48$ 
 
 </div>
 <div class='workings'>
@@ -1393,7 +1366,7 @@ $\pounds 26$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1402,13 +1375,13 @@ A group of children are playing a game where they can score either $2, 3$ or $5$
 The children have had $8$ turns each and recorded their scores in a table, but some of the entries have been deleted. 
 Fill in the missing numbers to give a complete set of scores.
 
-| **Name**    | **2 points** | **3 points** | **5 points** | **Total Score** |
-|:-----------:|:------------:|:------------:|:------------:|:---------------:|
-| Carl        |  1           |    6         |    1         |    25           |
-| Alex        |  4           |    2         |              |                 |
-| Yusuf       |              |    3         |              |    25           |
-| Jing        |              |              |              |    35           |
-| Charlotte   |              |              |              |    18           |
+| **Name**    | **$2$ points** | **$3$ points** | **$5$ points** | **Total Score** |
+|:-----------:|:--------------:|:--------------:|:--------------:|:---------------:|
+| Carl        |       $1$      |       $6$      |       $1$      |       $25$      |
+| Alex        |       $4$      |       $2$      |                |                 |
+| Yusuf       |                |       $3$      |                |       $25$      |
+| Jing        |                |                |                |       $35$      |
+| Charlotte   |                |                |                |       $18$      |
 
 </div>
 <div class='workings'>
@@ -1458,24 +1431,17 @@ Let's verify.
 
 Write each of the numbers $80, 81, 82, 83, 84$ and $85$ in the spaces below, using each number only once, to make all of the statements true.
 
+$\ldots$ is a square number.
 
-$\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore } \qquad$
-is a square number
+$\ldots$ is a prime number.
 
-$\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore } \qquad$ 
-is a prime number
+$\ldots$ is a multiple of $5$.
 
-$\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore } \qquad$
-is a multiple of $5$
+$\ldots$ is the product of two prime numbers.
 
-$\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore } \qquad$
-is the product of two prime numbers
+$\ldots$ is double a prime number.
 
-$\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore } \qquad$
-is double a prime number
-
-$\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore } \qquad$
-is a multiple of $3$  
+$\ldots$ is a multiple of $3$.
 
 </div>
 <div class='workings'>
@@ -1506,7 +1472,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1523,20 +1489,15 @@ ABBR: $\text {Speed} = \dfrac {\text{Distance}} {\text{Time}}$
 
 $
 \begin{aligned}
-\text{Time}   &= \dfrac{4000}{10} \\\\
-              &= \dfrac{400 \times \cancel{10}}{\cancel{10}} \\\\
-              &= 400 \text{ seconds}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Time taken by Tom}    &= 100 + 400 \\\\
-                            &= 500 \text{ seconds} \\\\
-\text{Speed}                &= \dfrac{4000}{500} \\\\
-                            &= \dfrac{5 \times 8 \times 100}{5 \times 100} \\\\
-                            &= \dfrac{\cancel{5} \times 8 \times \cancel{100}}{\cancel{5} \times \cancel{100}} \\\\
-                            &= 8 \text{ metres per second}
+\text{Time taken by James}      &= \dfrac{4000}{10} \\\\
+                                &= \dfrac{400 \cancel{0}}{1 \cancel{0}} \\\\
+                                &= 400 \text{ seconds} \\\\
+\text{Time taken by Tom}        &= 100 + 400 \\\\
+                                &= 500 \text{ seconds} \\\\
+\text{Speed for Tom}            &= \dfrac{4000}{500} \\\\
+                                &= \dfrac{5 \times 8 \times 100}{5 \times 100} \\\\
+                                &= \dfrac{\cancel{5} \times 8 \times \cancel{100}}{\cancel{5} \times \cancel{100}} \\\\
+                                &= 8 \text{ metres per second}
 \end{aligned}
 $
 

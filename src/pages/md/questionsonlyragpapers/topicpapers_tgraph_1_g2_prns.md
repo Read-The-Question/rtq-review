@@ -1,8 +1,8 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tgraph-1-g2-prns"
 title: "TopicPaper - Graph - 1 - G2 - PRNS"
-date: 2022-09-24 05:07:09
-questions_count: "27"
+date: 2022-10-04 10:09:40
+questions_count: "28"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -176,6 +176,46 @@ What fraction of people owned a black car?
 <div class='question subquestion'>
 
 Given that $5$ people owned a white car, how many people owned a silver car?
+
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Betty carried out a survey.
+She asked some students in year $9$ which types of film they liked best.
+
+She used the results to draw this pie chart.
+
+![alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-2-question-24-00.png](/assets/alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-2-question-24-00.png "alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1/section-2-question-24-00.png")
+
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What fraction of students said “Comedy”?
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$20$ students said “Horror”.
+
+Work out the total number of students that Betty asked.
 
 </div>
 

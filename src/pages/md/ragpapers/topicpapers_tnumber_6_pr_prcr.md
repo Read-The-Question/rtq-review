@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-6-pr-prcr"
 title: "TopicPaper - Number - 6 - PR - PRCR"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -18,9 +18,9 @@ team wear numbers $2$ to $9$.
 ![dulwich-college--11-plus--maths--9999--specimen-paper-c/section-1-question-19-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-c/section-1-question-19-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-c/section-1-question-19-00.png")
 
 The captain of the next team in the rankings wears number $11$ and his team mates are given the race numbers from $12$ to $19$. 
-The third team gets allotted the race numbers $21$ to $29$, and so on.
+The third team gets allocated the race numbers $21$ to $29$, and so on.
 
-This process continues until all rides have been given a unique number that identifies them individually, but also identifies which team they are on.
+This process continues until all riders have been given a unique number that identifies them individually, but also identifies which team they are on.
 
 </div>
 <div class='workings'>
@@ -66,7 +66,7 @@ $9$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The last race number to be issued is number 209. Write down how many teams there are in the race.
+The last race number to be issued is number $209$. Write down how many teams there are in the race.
 
 </div>
 <div class='workings'>
@@ -151,7 +151,7 @@ $9$
 <div class='question subquestion'>
 
 If $42$ riders failed to finish the $3$-week-long race, either through crashing our or abandoning the race, 
-work out what fraction of the number of riders who started the race actually **completed** the whole event. 
+work out what fraction of the number of riders who started the race actually completed the whole event. 
 Leave your answer in its simplest form.
 
 </div>

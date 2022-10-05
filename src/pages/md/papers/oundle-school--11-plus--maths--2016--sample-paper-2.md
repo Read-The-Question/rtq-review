@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2016-sample-paper-2"
 title: "Oundle School - 11 Plus - Maths - 2016 - Sample Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "18"
 ---
 <div class='paper'>
@@ -484,7 +484,7 @@ $5, \ 4, \ 1, \ 3, \ 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -499,12 +499,27 @@ If the price is reduced by $15 \%$, then the sale price will be $100 - 15 = 85 \
 
 $
 \begin {aligned}
-\text {New price}         &= 85 \% \ \text {of} \ 18.60 \\\\
+\text {New price}         &= 85 \% \text { of } 18.60 \\\\
                           &= \dfrac {85} {100} \times 18.6 \\\\
                           &= \dfrac {85 \times 18.6} {100} \\\\
                           &= \dfrac {1581} {100} \\\\
                           &= \pounds 15.81
 \end {aligned}
+$
+
+</div>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{New price}            &= \text {Original price} - \text {Discount} \\\\
+                            &= 18.60 - 15 \% \text{ of } 18.60  \\\\
+                            &= 18.60 - \dfrac {15} {100} \times 18.60 \\\\
+                            &= 18.60 - \dfrac {15 \times 18.60} {100} \\\\
+                            &= 18.60 - \dfrac {279} {100} \\\\
+                            &= 18.60 - 2.79 \\\\
+                            &= \pounds 15.81
+\end{aligned}
 $
 
 </div>
@@ -632,7 +647,7 @@ $p = 575, q= 425$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -648,6 +663,18 @@ What will the coordinates be of point $F$?
 </div>
 <div class='workings'>
 <div class='working'>
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Plot the third point of the triangle at $(4, 3)$ on the graph
+
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 $(4, 3)$
 

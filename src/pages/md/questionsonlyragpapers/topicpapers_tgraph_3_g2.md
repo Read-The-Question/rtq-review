@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tgraph-3-g2"
 title: "TopicPaper - Graph - 3 - G2"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -25,7 +25,48 @@ How many people liked each flavour?
 
 
 </div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
 
+Vanilla
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+Mint
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+Strawberry
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+Chocolate
+
+</div>
+
+</div>
+</li>
+</ul>
 </div>
 </li>
 <li>

@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tinfer-4-g1"
 title: "TopicPaper - Infer - 4 - G1"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -12,6 +12,8 @@ questions_count: "2"
 <div class='question question'>
 
 Put the numbers $1$ to $9$ in the square so that each row, column and diagonal add up to $15$.
+
+![st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-2-question-10-00.png](/assets/st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-2-question-10-00.png "st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-2-question-10-00.png")
 
 </div>
 

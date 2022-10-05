@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2016-sample-paper-7"
 title: "Sevenoaks School - 11 Plus - Maths - 2016 - Sample Paper 7"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "27"
 ---
 <div class='paper'>
@@ -371,7 +371,7 @@ $15$ coins of each $10$p and $50$p
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -455,7 +455,7 @@ $12 \dfrac {3} {4} \ \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -474,7 +474,13 @@ $
 \text{Halfway distance}                  &= 1 \dfrac {3} {4} \div 2 \\\\
                                          &= \dfrac {7} {4} \times \dfrac {1} {2} \\\\
                                          &= \dfrac {7} {4 \times 2} \\\\
-                                         &= \dfrac {7} {8} \ \text{km}
+                                         &= \dfrac {7} {8} \ \text{km} \\\\
+                                         &= \dfrac {7} {8} \times 1000 \ \text{metres} \\\\
+                                         &= \dfrac {7 \times 1000}{8} \\\\
+                                         &= \dfrac {7 \times 125 \times 8}{8} \\\\
+                                         &= \dfrac {7 \times 125 \times \cancel{8}}{\cancel{8}} \\\\
+                                         &= 7 \times 125 \\\\
+                                         &= 875 \text{ metres}
 \end{aligned}
 $
 
@@ -483,7 +489,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {7} {8} \ \text{km}$
+$875 \text{ metres}$
 
 </div>
 </div>
@@ -526,7 +532,7 @@ $35\%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -537,28 +543,16 @@ A used-car dealer sells a car at $120 \%$ of its cost. If a car costs $\pounds 2
 <div class='workings'>
 <div class='working'>
 
- $\dfrac{ \text {Parts}} {\text {Whole}} \times 100 \%  =$ Percentage
-
-Whole = $\pounds 25000$ 
-
-Percentage $=120 \%$
-
-Let's substitute and find $Part$ taken as $x$, which is the actual selling price of the car.
-
-$\dfrac {x} {25000} \times 100 = 120 \% $
-
 $
 \begin{aligned}
-x &= \dfrac {120 \times 25000}{100} \\\\
-  &= \dfrac {120 \times 250 \cancel {00}} {1 \cancel {00}} \\\\
-  &= 120 \times 250 \\\\
-  &= (25 \times 12) \times 100 \\\\
-  &= 300 \times 100 \\\\
-  &= \pounds 30000
+\text{Selling price}      &= 120 \% \ \text{of} \ 25000 \\\\
+                          &= \dfrac {120} {100} \times 25000 \\\\
+                          &= \dfrac {120 \times 25000} {100} \\\\
+                          &= \dfrac {120 \times 250 \cancel {00}} {1 \cancel {00}} \\\\
+                          &= 120 \times 250 \\\\
+                          &= \pounds 30000
 \end{aligned}
 $
-
-The selling price of the car was $\pounds 30000$
 
 
 </div>
@@ -1175,9 +1169,7 @@ Let's arrange the numbers in ascending order.
 $
 \begin {aligned}
 \text{Numbers}           &= 16, \quad 9, \quad 11, \quad 13, \quad 11, \quad 15 \\\\
-\text{Ordered numbers}   &= 9, \quad 11, \quad \maroonC
-{11}, \quad \maroonC
-{13}, \quad 15, \quad 16 \\\\
+\text{Ordered numbers}   &= 9, \quad 11, \quad \maroonC{11}, \quad \maroonC{13}, \quad 15, \quad 16 \\\\
 \text{Median}            &= \dfrac {11 + 13} {2} \\\\
                          &= \dfrac {24} {2} \\\\
                          &= \dfrac {2 \times 12} {2} \\\\

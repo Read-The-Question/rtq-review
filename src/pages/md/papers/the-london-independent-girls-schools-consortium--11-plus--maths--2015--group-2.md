@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2015-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2015 - Group 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "41"
 ---
 <div class='paper'>
@@ -310,7 +310,7 @@ $1.746$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -330,14 +330,10 @@ The next term is calculated by subtracting $7$ from the previous term. Hence, th
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(-7)} } 
-&&  \footnotesize {\maroonC
- {(-7)} }  
-&&  \footnotesize {\maroonC
- {(-7)} }   
-&&  \footnotesize {\maroonC
- {(-7)} }  \\
+&   \footnotesize {\maroonC {(-7)} } 
+&&  \footnotesize {\maroonC {(-7)} }  
+&&  \footnotesize {\maroonC {(-7)} }   
+&&  \footnotesize {\maroonC {(-7)} }  \\
 94,  &&    \ldots,  &&  80,  &&   73, && 66
 \end{matrix}
 $
@@ -362,7 +358,7 @@ $87$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -377,7 +373,7 @@ $\dfrac{1}{5} \quad \dfrac{3}{7} \quad \dfrac{5}{9} \quad \dfrac{7}{11}$
 
 $\dfrac {1} {2} = 0.5$
 
-Let's convert all the numbers into decimal.
+Let's convert all the numbers into decimals.
 
 $
 \begin {aligned}
@@ -804,7 +800,7 @@ $4, 14$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -853,9 +849,9 @@ Let's complete the table.
 |                      **input**                          |                     **output**                                |
 |:-------------------------------------------------------:|:-------------------------------------------------------------:|
 |                         $2$                             |                       $0$                                     |
-|                         $5$                             | $(5 - 2) \times 2 = 3 \times 2 = 6 \ \footnotesize{(1)}$      |
-| $\dfrac {-2} {2} + 2 = -1 + 2 = 1 \ \footnotesize{(2)}$ |                      $-2$                                     |
-|                        $-2$                             | $(-2 - 2) \times 2 = (-4) \times 2 = -8 \ \footnotesize{(3)}$ |
+|                         $5$                             | $(5 - 2) \times 2 = 3 \times 2 = 6 \ \maroonC{\footnotesize{(1)}}$      |
+| $\dfrac {-2} {2} + 2 = -1 + 2 = 1 \ \maroonC{\footnotesize{(2)}}$ |                      $-2$                                     |
+|                        $-2$                             | $(-2 - 2) \times 2 = (-4) \times 2 = -8 \ \maroonC{\footnotesize{(3)}}$ |
 
 </div>
 </div>
@@ -1750,7 +1746,7 @@ $ \text{Train} \ 3 \ \text{takes the longest}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1817,7 +1813,7 @@ Label this point $L$.
 
 
 
-Plot the reflection of point K in the dashed line m on the graph and label it L
+Plot the reflection of point K in the dashed line m on the graph at $(6, 5)$ and label it L
 
 
 *ABBR: TODO:: Add drawing ends.*
@@ -1923,7 +1919,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1959,14 +1955,14 @@ Which two totals occur most often?
 <div class='workings'>
 <div class='working'>
 
-$10$ and $11$
+$10, 11$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$10$ and $11$
+$10, 11$
 
 </div>
 </div>
@@ -1985,8 +1981,9 @@ How many times did Di roll a square number?
 
 $
 \begin{aligned}
-\text{Number of times Di roll a square number}    &= 3 + 28 + 6 \\\\
-                                                  &= 37
+\text{Square numbers}               &= 4, 9, 16 \\\\
+\text{Number of times rolled}       &= 3 + 28 + 6 \\\\
+                                    &= 37
 \end{aligned}
 $
 
@@ -2011,24 +2008,29 @@ Tick the relevant box in the table below to say who is most likely to win, or wh
 
 | game | rules                                                                                        | Di most likely to win | Ed most likely win | equally likely |
 |:----:|----------------------------------------------------------------------------------------------|-----------------------|--------------------|----------------|
-|   A  | Di scores a point if the total thrown is even. Ed scores a point if the total thrown is odd. |                       |                    |                |
-|   B  | Di scores a point if the total thrown is 8 to 12 inclusive. Ed scores a point otherwise.     |                       |                    |                |
+|   A  | Di scores a point if the total thrown is even. <br> Ed scores a point if the total thrown is odd. |                       |                    |                |
+|   B  | Di scores a point if the total thrown is 8 to 12 inclusive. <br> Ed scores a point otherwise.     |                       |                    |                |
 
 </div>
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Probability}  = \dfrac { \text{ Favourable outcomes} } { \text{Total outcomes} }$
+
+
 $
 \begin{aligned}
-\text{Di chaces of win game A}  &= \dfrac {3+10+21+36+28+15+6+1} {1+3+6+10+15+21+28+36+36+28+21+15+10+6+3+1} \\\\
+\text{Di chances of winning game A}  &= \dfrac {3+10+21+36+28+15+6+1} {240} \\\\
                                 &= \dfrac {120} {240} \\\\
-\text{Di chaces of win game B}  &= \dfrac {21+28+36+36+28} {1+3+6+10+15+21+28+36+36+28+21+15+10+6+3+1} \\\\
-                                &= \dfrac {149} {240}
+                                &= 0.5 \\\\
+\text{Di chances of winning game B}  &= \dfrac {21+28+36+36+28} {240} \\\\
+                                &= \dfrac {149} {240} \\\\
+                                &= 0.62
 \end{aligned}
 $
 
 | game | Di most likely to win | Ed most likely win | equally likely |
-|:----:|-----------------------|--------------------|----------------|
+|:----:|:---------------------:|:------------------:|:--------------:|
 |   A  |          No           |        No          |      Yes       |
 |   B  |          Yes          |        No          |      No        |
 
@@ -2037,10 +2039,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-| game | Di most likely to win | Ed most likely win | equally likely |
-|:----:|-----------------------|--------------------|----------------|
-|   A  |          No           |        No          |      Yes       |
-|   B  |          Yes          |        No          |      No        |
+%empty%
 
 </div>
 </div>
@@ -2207,9 +2206,7 @@ Let's arrange the shoe sizes in ascending order.
 $
 \begin {aligned}
 \text{Shoe sizes}             &= 9, \quad 1 \dfrac {1} {2}, \quad 5, \quad 1 \dfrac {1} {2}, \quad 3, \quad 4 \\\\
-\text{Ordered shoe sizes}     &= 1 \dfrac {1} {2}, \quad 1 \dfrac {1} {2}, \quad \maroonC
-{3}, \quad \maroonC
-{4}, \quad 5, \quad 9 \\\\
+\text{Ordered shoe sizes}     &= 1 \dfrac {1} {2}, \quad 1 \dfrac {1} {2}, \quad \maroonC{3}, \quad \maroonC{4}, \quad 5, \quad 9 \\\\
 \text{Median shoe size}       &= \dfrac {3 + 4} {2} \\\\
                               &= \dfrac {7} {2} \\\\
                               &= 3 \dfrac {1} {2}
@@ -2307,7 +2304,7 @@ Annabel
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2354,9 +2351,9 @@ Let's complete the table.
 |   name  | number of correct answers          | number of wrong answers             | total points                                                    |
 |:-------:|:----------------------------------:|:-----------------------------------:|:---------------------------------------------------------------:|
 | Rebecca |            $7$                     |           $13$                      |          $-5$                                                   |
-|  Safiya |            $14$                    | $20 - 14 = 6 \ \footnotesize{(2)}$  | $14 \times 3 - 6 \times 2 = 42 - 12 = 30 \ \footnotesize{(3)}$  |
-|  Tosin  | $20 - 16 = 4 \ \footnotesize{(1)}$ |           $16$                      | $4 \times 3 - 16 \times 2 = 12 - 32 = -20 \ \footnotesize{(4)}$ |
-|  Ursula |      $8 \ \footnotesize{(5)}$      |  $20 - 8 = 12 \ \footnotesize{(6)}$ |          $0$                                                    |
+|  Safiya |            $14$                    | $20 - 14 = 6 \ \maroonC{\footnotesize{(2)}}$  | $14 \times 3 - 6 \times 2 = 42 - 12 = 30 \ \maroonC{\footnotesize{(3)}}$  |
+|  Tosin  | $20 - 16 = 4 \ \maroonC{\footnotesize{(1)}}$ |           $16$                      | $4 \times 3 - 16 \times 2 = 12 - 32 = -20 \ \maroonC{\footnotesize{(4)}}$ |
+|  Ursula |      $8 \ \maroonC{\footnotesize{(5)}}$      |  $20 - 8 = 12 \ \maroonC{\footnotesize{(6)}}$ |          $0$                                                    |
 
 </div>
 </div>

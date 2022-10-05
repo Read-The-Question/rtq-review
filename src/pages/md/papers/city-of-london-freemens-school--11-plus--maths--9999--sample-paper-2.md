@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-freemens-school-11-plus-maths-9999-sample-paper-2"
 title: "City Of London Freemens School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "19"
 ---
 <div class='paper'>
@@ -101,13 +101,13 @@ $125$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-A card is picked from a pack of ordinary 52 playing cards.
+A card is picked from a pack of ordinary $52$ playing cards.
 What is the probability of getting a king, queen or jack?
 
-%format% - 3 13
-%format% - 3 52
-%format% - 12 13
-%format% - 13 52
+- $\dfrac{3}{13}$
+- $\dfrac{3}{52}$
+- $\dfrac{12}{13}$
+- $\dfrac{13}{52}$
 
 </div>
 <div class='workings'>
@@ -147,7 +147,7 @@ $\dfrac {3} {13}$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-96 $\div$ 6 =
+$96 \div 6 =$
 
 - $17$
 - $14$
@@ -189,7 +189,7 @@ $16$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-0.3 + 0.8 =
+$0.3 + 0.8 =$
 
 - $0.11$
 - $1.2$
@@ -228,12 +228,12 @@ $1.1$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Simplify the following: 3 30
+Simplify the following: $\dfrac{3}{30}$
 
-- $1 3$
-- $1 10$
-- $1 5$
-- $1 9$
+- $\dfrac{1}{3}$
+- $\dfrac{1}{10}$
+- $\dfrac{1}{5}$
+- $\dfrac{1}{9}$
 
 </div>
 <div class='workings'>
@@ -269,12 +269,12 @@ $\dfrac{1}{10}$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Simplify the following: 8 32
+Simplify the following: $\dfrac{8}{32}$
 
-- $1 8$
-- $1 4$
-- $4 16$
-- $2 8$
+- $\dfrac{1}{8}$
+- $\dfrac{1}{4}$
+- $\dfrac{4}{16}$
+- $\dfrac{2}{8}$
 
 </div>
 <div class='workings'>
@@ -305,18 +305,19 @@ $\dfrac {1} {4}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Fill in the next two numbers in the following sequence:
-$5$, $13$, $21$, $29$, ....., .....
 
-- $38$,$47$
-- $37$,$45$
-- $37$,$46$
-- $38$,$46$
+$ 5, 13, 21, 29, \ldots, \ldots $
+
+- $38, 47$
+- $37, 45$
+- $37, 46$
+- $38, 46$
 
 </div>
 <div class='workings'>
@@ -329,16 +330,11 @@ The next term is calculated by adding $8$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+8)} }
-&&  \footnotesize {\maroonC
- {(+8)} }
-&&  \footnotesize {\maroonC
- {(+8)} }
-&&  \footnotesize {\maroonC
- {(+8)} }
-&&  \footnotesize {\maroonC
- {(+8)} }  \\
+&   \footnotesize {\maroonC {(+8)} }
+&&  \footnotesize {\maroonC {(+8)} }
+&&  \footnotesize {\maroonC {(+8)} }
+&&  \footnotesize {\maroonC {(+8)} }
+&&  \footnotesize {\maroonC {(+8)} }  \\
 5,  &&   13,  &&  21, &&  29, && \ldots, && \ldots
 \end{matrix}
 $
@@ -408,10 +404,10 @@ Plus $8$
 
 $7.62 - 2.34 =$
 
-- 5.28
-- 5.32
-- 5.31
-- 5.29
+- $5.28$
+- $5.32$
+- $5.31$
+- $5.29$
 
 </div>
 <div class='workings'>
@@ -454,7 +450,7 @@ $5.28$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-$0.00712 x 100 =$
+$0.00712 \times 100 =$
 
 - $0.712$
 - $7.12$
@@ -493,12 +489,12 @@ $0.712$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-410.3 $\div$ 1000 =
+$410.3 \div 1000 =$
 
-- 41.03
-- 4.103
-- 0.4103
-- 0.04103
+- $41.03$
+- $4.103$
+- $0.4103$
+- $0.04103$
 
 </div>
 <div class='workings'>
@@ -534,6 +530,7 @@ $0.4103$
 <div class='question question'>
 
 Round the number below to one decimal place:
+
 $4.18$
 
 - $4.20$
@@ -574,12 +571,13 @@ $4.2$
 <div class='question question'>
 
 Write the following fractions in order of size, from smallest to largest:
-%format% 2 3, 5 6, 7 12
 
-%format% - 7 12, 2 3, 5 6
-%format% - 7 12, 5 6, 2 3
-%format% - 2 3, 7 12, 5 6
-%format% - 5 6, 2 3, 7 12
+$\dfrac{2}{3}, \dfrac{5}{6}, \dfrac{7}{12}$
+
+- $\dfrac{7}{12}, \dfrac{2}{3},  \dfrac{5}{6}$
+- $\dfrac{7}{12}, \dfrac{5}{6},  \dfrac{2}{3}$
+- $\dfrac{2}{3},  \dfrac{7}{12}, \dfrac{5}{6}$
+- $\dfrac{5}{6},  \dfrac{2}{3},  \dfrac{7}{12}$
 
 </div>
 <div class='workings'>
@@ -629,10 +627,10 @@ $\dfrac {7} {12}, \quad \dfrac {2} {3}, \quad \dfrac {5} {6}$
 
 $-9 + 7 =$
 
-- -16
-- 2
-- -2
-- 16
+- $-16$
+- $2$
+- $-2$
+- $16$
 
 </div>
 <div class='workings'>
@@ -778,21 +776,21 @@ $28 \ \text {cm}^ 2$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-A can of lemonade from a vending machine costs 65 $\text{p}$. The table below shows the coins that were collected from the machine in one day.
+A can of lemonade from a vending machine costs $65 \text{p}$. The table below shows the coins that were collected from the machine in one day.
 
 |      Coins      | Number of Coins |
 |:---------------:|:---------------:|
-| $50 \ \text{p}$ |        22       |
-| $20 \ \text{p}$ |        18       |
-| $10 \ \text{p}$ |        33       |
-|  $5 \ \text{p}$ |        41       |
+|  $50 \text{p}$  |      $22$       |
+|  $20 \text{p}$  |      $18$       |
+|  $10 \text{p}$  |      $33$       |
+|  $5 \text{p}$   |      $41$       |
 
 How many cans of lemonade were sold that day?
 
 - $\pounds \ 20.85 $
 - $\pounds \ 19.95 $ 
-- 31 
-- 30
+- $31$ 
+- $30$
 
 </div>
 <div class='workings'>
@@ -894,12 +892,12 @@ $a = 48 \degree, b = 63 \degree$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-$3 1 3 + 1 9 20 =$
+$3\dfrac{1}{3} + 1 \dfrac{9}{20} =$
 
-- $4 9 6$
-- $4 49 60$
-- $4 10 23$
-- $4 47 60$
+- $4 \dfrac{9}{6}$ 
+- $4 \dfrac{49}{60}$ 
+- $4 \dfrac{10}{23}$ 
+- $4 \dfrac{47}{60}$ 
 
 </div>
 <div class='workings'>

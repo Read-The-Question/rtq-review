@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2019-sample-paper-6"
 title: "Reigate Grammar School - 11 Plus - Maths - 2019 - Sample Paper 6"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "36"
 ---
 <div class='paper'>
@@ -930,7 +930,7 @@ $7504$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -948,16 +948,11 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+7)}}
-&&  \footnotesize{\maroonC
-{(+9)}}
-&&  \footnotesize{\maroonC
-{(+11)}}  \\
+&   \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(+7)}}
+&&  \footnotesize{\maroonC{(+9)}}
+&&  \footnotesize{\maroonC{(+11)}}  \\
 2,  &&    5,  &&  10,  &&   17,  &&   \ldots, && \ldots
 \end {matrix}
 $
@@ -1848,7 +1843,7 @@ $\pounds 27$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1971,7 +1966,7 @@ $(5, 5)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1982,18 +1977,15 @@ In a car park there are $48$ cars. $\dfrac{3}{8}$ of the cars are blue and $25\%
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-\text{Cars neither blue nor red}              &= \text{Total cars - Blue cars - Red cars}  \\\\
-                                              &= 48 - \dfrac {3} {8} \times 48 - 25\% \times 48 \\\\
-                                              &= 48 - \dfrac {3 \times 48} {8} - \dfrac {25 \times 48} {100} \\\\
-                                              &= 48 - \dfrac {3 \times 6 \times 8} {8} -  \dfrac {25 \times 4 \times 12} {25 \times 4} \\\\
-                                              &= 48 - \dfrac {3 \times 6 \times \cancel{8}} {\cancel{8}}  -\dfrac {\cancel{25} \times \cancel{4} \times 12} {\cancel{25} \times \cancel{4}} \\\\
-                                              &= 48 - 3 \times 6 - 12 \\\\
-                                              &= 48 - 18 - 12 \\\\
-                                              &= 18
+\text{Cars neither blue nor red}    &= \text{Total cars - blue cars - red cars}  \\\\
+                                    &= 48 - \dfrac {3} {8} \times 48 - 25\% \times 48 \\\\
+                                    &= 48 - \dfrac {3 \times 48} {8} - \dfrac {25 \times 48} {100} \\\\
+                                    &= 48 - \dfrac {3 \times 6 \times 8} {8} -  \dfrac {25 \times 4 \times 12} {25 \times 4} \\\\
+                                    &= 48 - \dfrac {3 \times 6 \times \cancel{8}} {\cancel{8}}  -\dfrac {\cancel{25} \times \cancel{4} \times 12} {\cancel{25} \times \cancel{4}} \\\\
+                                    &= 48 - 18 - 12 \\\\
+                                    &= 18
 \end{aligned}
 $
 
@@ -2211,7 +2203,7 @@ $4$  and $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2272,8 +2264,8 @@ How many households are there in the street?
 
 $
 \begin{aligned}
-\text{Number of households in the streets}    &= 3 + 10 + 13 + 6 \\\\
-                                              &= 32
+\text{Households on the streets}    &= 3 + 10 + 13 + 6 \\\\
+                                    &= 32
 \end{aligned}
 $
 
@@ -2301,9 +2293,9 @@ How many cars are there in the street?
 
 $
 \begin{aligned}
-\text{Number of cars in the streets}    &= 3 \times 0 + 10 \times 1 + 13 \times 2 + 6 \times 3 \\\\
-                                        &= 0 + 10 + 26 + 18 \\\\
-                                        &= 54
+\text{Cars in the streets}      &= 3 \times 0 + 10 \times 1 + 13 \times 2 + 6 \times 3 \\\\
+                                &= 0 + 10 + 26 + 18 \\\\
+                                &= 54
 \end{aligned}
 $
 

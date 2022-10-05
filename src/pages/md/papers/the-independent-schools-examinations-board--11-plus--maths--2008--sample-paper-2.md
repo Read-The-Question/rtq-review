@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2008-sample-paper-2"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2008 - Sample Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "16"
 ---
 <div class='paper'>
@@ -226,7 +226,7 @@ $1256$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -364,20 +364,13 @@ The next term is calculated by adding $3$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{+3 }}
-&&  \footnotesize{\maroonC
-{+3 }}
-&&  \footnotesize{\maroonC
-{+3 }}
-&&  \footnotesize{\maroonC
-{+3 }}
-&&  \footnotesize{\maroonC
-{+3 }}
-&&  \footnotesize{\maroonC
-{+3 }}
-&&  \footnotesize{\maroonC
-{+3 }}  \\
+&   \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}  \\
 1,  &&    4,  &&  7,  &&   10, &&    13,    &&  16, &&  \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -1063,7 +1056,7 @@ $12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2621,9 +2614,7 @@ Let's arrange the pages read in ascending order.
 $
 \begin {aligned}
 \text{Numbers}              &= 6, \quad 2, \quad 5, \quad 13, \quad 5, \quad 10 \\\\
-\text{Ordered}              &= 2, \quad 5, \quad \maroonC
-{5}, \quad \maroonC
-{6}, \quad 10, \quad 13 \\\\
+\text{Ordered}              &= 2, \quad 5, \quad \maroonC{5}, \quad \maroonC{6}, \quad 10, \quad 13 \\\\
 \text {Median}              &= \dfrac {5 + 6} {2} \\\\
                             &= \dfrac {11} {2} \\\\
                             &= 5.5

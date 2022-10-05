@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2011-sample-paper-3"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2011 - Sample Paper 3"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "30"
 ---
 <div class='paper'>
@@ -719,7 +719,7 @@ $\pounds 960$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -732,15 +732,15 @@ How many kilometres has this train travelled when the time is $1817$?
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
+ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
 
 
 $
 \begin {aligned}
 \text {Time taken}  &= 18{:}17 - 17{:}47 \\\\
-                    &= 30 \text{ minutes} \\\
-\text{Distance}     &= 30 \text{ minutes} \times 90 \text{ km/hour} \\\\
-                    &= 30 \text{ minutes} \times \dfrac{90}{60} \text{ km/minutes} \\\\
+                    &= 30 \text{ minutes} \\\\
+\text{Distance}     &= 30 \times 90 \text{ km/hour} \\\\
+                    &= 30 \times \dfrac{90}{60} \text{ km/minutes} \\\\
                     &= 30 \times \dfrac{90}{60} \\\\
                     &= 30 \times \dfrac{3 \times 3 \times 10}{3 \times 2 \times 10} \\\\
                     &= 30 \times \dfrac{3 \times \cancel{3} \times \cancel{10}}{\cancel{3} \times 2 \times \cancel{10}} \\\\
@@ -775,15 +775,15 @@ At what time does train $B$ overtake train $A$?
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
+ABBR: $\text {Distance} = \text{Speed} \times \text{Time}$
 
 
 Let the time taken (in minutes) by trian A to get overtaken by trian B $= t$
 
 $
 \begin{aligned}
-135 \text{ km/hour} \times (t - 30) \text{ minutes}                       &=  90 \text{ km/hour} \times t \text{ minutes} \\\\
-\dfrac{135}{60} \text{ km/minute} \times (t - 30) \text{ minutes}         &=  \dfrac{90}{60} \text{ km/minute} \times t \text{ minutes} \\\\
+135 \text{ km/hour} \times (t - 30)                                       &=  90 \text{ km/hour} \times t \\\\
+\dfrac{135}{60} \text{ km/minute} \times (t - 30)                         &=  \dfrac{90}{60} \text{ km/minute} \times t \\\\
 \dfrac{135}{60} \times (t - 30)                                           &=  \dfrac{90}{60} \times t \\\\
 \dfrac{135 \times (t - 30)}{60}                                           &=  \dfrac{90 \times t}{60} \\\\
 \dfrac{135 \times (t - 30)}{60} \times 60                                 &=  90t \\\\
@@ -806,8 +806,6 @@ $
               &=   19{:}17
 \end{aligned}
 $
-
-At $19{:}17$, train $B$ overtake train $A$.
 
 </div>
 </div>
@@ -1222,7 +1220,7 @@ $6900 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1234,26 +1232,16 @@ $1$ British pound ($\pounds$) = $2$ New Zealand dollars (NZ$\$$)
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -1267,26 +1255,29 @@ How much do I save by buying the hoodie in New York? Give your answer both in US
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin {aligned}
+\text{Price in London}        &= 1.5 \times 80 \\\\
+                              &= \text{\textdollar} 120 \\\\
+\text{Money saved}            &= 120 - 90 \\\\
+                              &= \text{\textdollar} 30 \\\\
+\text{Money saved in \pounds} &= \dfrac {30} {1.5} \\\\
+                              &= \dfrac {30 \times 10} {15} \\\\
+                              &= \dfrac {15 \times 2 \times 10} {15} \\\\
+                              &= \dfrac {\cancel {15} \times 2 \times 10} {\cancel {15}} \\\\
+                              &= 2 \times 10 \\\\
+                              &= \pounds 20
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\text{\textdollar} 30, \pounds 20$
 
 </div>
 </div>
@@ -1301,26 +1292,27 @@ My friend Sheila lives in Auckland, New Zealand. She saves US$\$60$ if she buys 
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin {aligned}
+\text{Profit in \pounds}                    &= \pounds \dfrac {90} {1.5} \\\\
+\text{Profit in New Zealand \textdollar}    &= 2 \times \dfrac {90} {1.5} \\\\
+                                            &= 2 \times \dfrac {90 \times 10} {15} \\\\
+                                            &= \dfrac {2 \times 90 \times 10} {15} \\\\
+                                            &= \dfrac {2 \times 15 \times 6 \times 10} {15} \\\\
+                                            &= \dfrac {2 \times \cancel {15} \times 6 \times 10} {\cancel {15}} \\\\
+                                            &= 2 \times 6 \times 10 \\\\
+                                            &= \text{\textdollar} 120
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$\text{\textdollar} 120$
 
 </div>
 </div>
@@ -1337,26 +1329,27 @@ $1$ New Zealand dollar (NZ$\$$) $= \text{\textunderscore \textunderscore \textun
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+$
+\begin {aligned}
+\text{1 New Zealand in \textdollar}           &= \text{\textdollar} \dfrac {1} {2} \\\\
+\text{\textdollar in New Zealand \textdollar} &= 1.5 \times \dfrac {1} {2} \\\\
+                                              &= \dfrac {1.5} {2} \\\\
+                                              &= \dfrac {1.5 \times 5} {2 \times 5} \\\\
+                                              &= \dfrac {7.5} {10} \\\\
+                                              &= 0.75
+\end {aligned}
+$
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$1$ New Zealand dollar \textdollar $= 0.75$ US \textdollar
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$1$ New Zealand dollar \textdollar $= 0.75$ US \textdollar
 
 </div>
 </div>

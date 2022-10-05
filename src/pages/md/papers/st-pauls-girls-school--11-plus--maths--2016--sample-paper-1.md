@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2016-sample-paper-1"
 title: "St Pauls Girls School - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "35"
 ---
 <div class='paper'>
@@ -522,14 +522,10 @@ Let take the amount $= a$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
-{(+a)}}
-&&  \footnotesize {\maroonC
-{(+a)}}
-&&  \footnotesize {\maroonC
-{(+a)}}
-&&  \footnotesize {\maroonC
-{(+a)}} \\
+&   \footnotesize {\maroonC{(+a)}}
+&&  \footnotesize {\maroonC{(+a)}}
+&&  \footnotesize {\maroonC{(+a)}}
+&&  \footnotesize {\maroonC{(+a)}} \\
 2,  &&    \ldots ,  &&  \ldots ,  &&   \ldots ,  &&   18
 \end{matrix}
 $
@@ -551,14 +547,10 @@ Hence the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
-{(+4)}}
-&&  \footnotesize {\maroonC
-{(+4)}}
-&&  \footnotesize {\maroonC
-{(+4)}}
-&&  \footnotesize {\maroonC
-{(+4)}} \\
+&   \footnotesize {\maroonC{(+4)}}
+&&  \footnotesize {\maroonC{(+4)}}
+&&  \footnotesize {\maroonC{(+4)}}
+&&  \footnotesize {\maroonC{(+4)}} \\
 2,  &&    \underline {6} ,  &&  \underline {10} ,  &&  \underline {14} ,  &&   18
 \end{matrix}
 $
@@ -576,7 +568,7 @@ $6, 10, 14$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -593,20 +585,13 @@ As per the question, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
-{(\times 2)}}
-&&  \footnotesize {\maroonC
-{(\times 2)}}
-&&  \footnotesize {\maroonC
-{(\times 2)}}
-&&  \footnotesize {\maroonC
-{(\times 2)}}
-&&  \footnotesize {\maroonC
-{(\times 2)}}
-&&  \footnotesize {\maroonC
-{(\times 2)}}
-&&  \footnotesize {\maroonC
-{(\times 2)}}  \\
+&   \footnotesize {\maroonC{(\times 2)}}
+&&  \footnotesize {\maroonC{(\times 2)}}
+&&  \footnotesize {\maroonC{(\times 2)}}
+&&  \footnotesize {\maroonC{(\times 2)}}
+&&  \footnotesize {\maroonC{(\times 2)}}
+&&  \footnotesize {\maroonC{(\times 2)}}
+&&  \footnotesize {\maroonC{(\times 2)}}  \\
 \ldots ,  &&    \ldots , &&     3, &&   6, &&   12, &&      24, &&      48,  &&  \ldots
 \end{matrix}
 $
@@ -2005,7 +1990,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2474,6 +2459,8 @@ TODOANSWER
 The **same** cube is rolled so a $10$ is on top. 
 
 Fill in the missing sides so that the sum of the faces that border with the marked corner is $27$.
+
+![st-pauls-girls-school--11-plus--maths--2016--sample-paper-1/section-3-question-4-subquestion-2-00.png](/assets/st-pauls-girls-school--11-plus--maths--2016--sample-paper-1/section-3-question-4-subquestion-2-00.png "st-pauls-girls-school--11-plus--maths--2016--sample-paper-1/section-3-question-4-subquestion-2-00.png")
 
 </div>
 <div class='workings'>

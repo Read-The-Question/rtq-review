@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2008-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2008 - Group 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "43"
 ---
 <div class='paper'>
@@ -357,7 +357,7 @@ $20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -377,16 +377,11 @@ The next term is calculated by adding $1 \dfrac {1} {2}$ to the previous term. H
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+ 1 \dfrac{1}{2})}} 
-&&  \footnotesize{\maroonC
-{(+ 1 \dfrac{1}{2})}}  
-&&  \footnotesize{\maroonC
-{(+ 1 \dfrac{1}{2})}}   
-&&  \footnotesize{\maroonC
-{(+ 1 \dfrac{1}{2})}}   
-&&  \footnotesize{\maroonC
-{(+ 1 \dfrac{1}{2})}}  \\
+&   \footnotesize{\maroonC{(+ 1 \dfrac{1}{2})}} 
+&&  \footnotesize{\maroonC{(+ 1 \dfrac{1}{2})}}  
+&&  \footnotesize{\maroonC{(+ 1 \dfrac{1}{2})}}   
+&&  \footnotesize{\maroonC{(+ 1 \dfrac{1}{2})}}   
+&&  \footnotesize{\maroonC{(+ 1 \dfrac{1}{2})}}  \\
 5,  && 6\dfrac{1}{2}, && 8, && 9\dfrac{1}{2}, && \ldots, && \ldots
 \end{matrix}
 $
@@ -1577,11 +1572,11 @@ What percentage of pupils have red as their favourite colour?
 
 $
 \begin{aligned}
-\text{\% with favourite colour red}   &= \dfrac {90} {360} \times 180 \\\\
-                                      &= \dfrac {90 \times 180} {360} \\\\
-                                      &= \dfrac {45 \times 2 \times 180} {180 \times 2} \\\\
-                                      &= \dfrac {45 \times \cancel 2 \times \cancel {180}} {\cancel {180} \times \cancel 2} \\\\
-                                      &= 45 \ \%
+\text{\% with favourite colour red}   &= \dfrac {90} {360} \times 100 \\\\
+                                      &= \dfrac {90 \times 100} {360} \\\\
+                                      &= \dfrac {90 \times 25 \times 4} {90 \times 4} \\\\
+                                      &= \dfrac {\cancel {90} \times 25 \times \cancel 4} {\cancel {90} \times \cancel 4} \\\\
+                                      &= 25 \ \%
 \end{aligned}
 $
 
@@ -1590,7 +1585,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$45 \ \%$
+$25 \ \%$
 
 </div>
 </div>
@@ -1612,7 +1607,7 @@ ABBR: $\text{Angles around a point add up to} = 360 \degree$
 
 $
 \begin{aligned}
-\text{\% with favourite colour black}                     &= \dfrac {360 - 180} {360} \times 180 \\\\
+\textNumber of pupils with favourite colour black}        &= \dfrac {360 - 180} {360} \times 180 \\\\
                                                           &= \dfrac {180} {360} \times 180 \\\\
                                                           &= \dfrac {180 \times 180} {360} \\\\
                                                           &= \dfrac {180 \times 2 \times 90} {180 \times 2} \\\\
@@ -2096,7 +2091,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2248,7 +2243,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2422,7 +2417,7 @@ $31$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2432,20 +2427,8 @@ What is the acute angle between the hands of a clock at
 ![the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1/section-1-question-39-00.png](/assets/the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1/section-1-question-39-00.png "the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1/section-1-question-39-00.png")
 
 </div>
-<div class='workings'>
-<div class='working placeholder'>
 
-TODOWORKING
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer placeholder'>
-
-TODOANSWER
-
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -2455,16 +2438,38 @@ $1 \ \text{pm}$
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
+
+
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 5 \ \text{minutes} \\\\
+\text {Angle}                           &= 5 \times 6 \\\\
+                                        &= 30 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+$30 \degree$
 
 </div>
 </div>
@@ -2479,16 +2484,39 @@ $6.30 \ \text{pm}$
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
+
+
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 0 \ \text{ minutes} + 2.5 \ \text{minutes} \\\\
+                                        &= 2.5 \ \text{minutes} \\\\
+\text {Angle}                           &= 2.5 \times 6 \\\\
+                                        &= 15 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+$15 \degree$
 
 </div>
 </div>

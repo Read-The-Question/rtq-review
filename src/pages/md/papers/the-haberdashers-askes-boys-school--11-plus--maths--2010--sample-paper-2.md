@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2010-sample-paper-2"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2010 - Sample Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "30"
 ---
 <div class='paper'>
@@ -1085,7 +1085,7 @@ $\underline {\text {C}}$ and  $\underline {\text {E}}$ give the same value for m
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1486,7 +1486,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1498,46 +1498,15 @@ what is the least number of boys in the class who are both right-handed and wear
 <div class='workings'>
 <div class='working'>
 
-
-As per the question not all boys in the class are right-handed. The rest are then left-handed boys.
-
-
-Let's take the total boys $= t =26$
-
-Let's take the total right-handed boys $=r = 21$
-
-Let's take the total left-handed boys $=l$
-
-$l = t - r$
-
 $
-\begin{aligned} 
-&= t - r \\\\
-&= 26 - 21 \\\\
-&= 5    
+\begin{aligned}
+\text{Number of left-handed boys}                           &= 26 - 21 \\\\
+                                                            &= 5 \\\\
+\text{Largest number of left-handed who wear glasses}       &= 5 \\\\
+\text{Smallest number of right-handed who wear glasses}     &= 10 - 5 \\\\
+                                                            &= 5
 \end{aligned}
 $
-
-Total left-handed boys in the class $5$
-
-Total boys who weare glasses $=10$
-
-Let's assume that the total of $5$ left-handed boys all wear glasses.
-
-So, total of right-handed boys who wear glasses = Total boys with glasses - Left-handed boys with glasses 
-
-
-$
-\begin{aligned} 
-&= 10 - 5 \\\\
-&= 5    
-\end{aligned}
-$
-
-Total of right-handed boys who wear glasses $=5$
-
-The least number of boys in the class who are both right-handed and wear glasses $=5$
-
 
 </div>
 </div>

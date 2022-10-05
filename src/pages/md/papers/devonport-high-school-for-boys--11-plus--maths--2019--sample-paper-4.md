@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2019-sample-paper-4"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2019 - Sample Paper 4"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "43"
 ---
 <div class='paper'>
@@ -14,7 +14,7 @@ questions_count: "43"
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -243,7 +243,7 @@ $120 \degree$
 
 The chart shows the number of pupils choosing their favourite colours.
 
-Which statement is **wrong**?
+Which statement is wrong?
 
 - Red received five more votes than yellow
 - There are thirty pupils in the class
@@ -438,7 +438,7 @@ $10$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -456,12 +456,9 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(-17)} }
-&&  \footnotesize {\maroonC
- {(-17)} }
-&&  \footnotesize {\maroonC
- {(-17)} }  \\
+&   \footnotesize {\maroonC {(-17)} }
+&&  \footnotesize {\maroonC {(-17)} }
+&&  \footnotesize {\maroonC {(-17)} }  \\
 -14,  &&    -31,  &&  -48,  &&   -65
 \end{matrix}
 $
@@ -705,14 +702,14 @@ $42 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the $5^\text{th}$ term in this sequence?
 
-$871 \quad  794 \quad  717 \quad \text{\textunderscore \textunderscore \textunderscore} \quad \text{\textunderscore \textunderscore \textunderscore}$
+$871 \quad  794 \quad  717 \quad \ldots \quad \ldots$
 
 </div>
 <div class='workings'>
@@ -725,14 +722,10 @@ The next term is calculated by subtracting $77$ from the previous term. Hence, t
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(-77)} }
-&&  \footnotesize {\maroonC
- {(-77)} }
-&&  \footnotesize {\maroonC
- {(-77)} }
-&&  \footnotesize {\maroonC
- {(-77)} }  \\
+&   \footnotesize {\maroonC {(-77)} }
+&&  \footnotesize {\maroonC {(-77)} }
+&&  \footnotesize {\maroonC {(-77)} }
+&&  \footnotesize {\maroonC {(-77)} }  \\
 871,  &&    794,  &&   717,  &&   \ldots, && \ldots
 \end{matrix}
 $
@@ -759,7 +752,7 @@ $563$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -770,26 +763,34 @@ John is fair haired, has blue eyes and wears glasses. In which section would you
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
 
-</div>
-<div class='working placeholder'>
+![missing image](/papers/missing_image.svg)
 
-TODOWORKING
+
+
+Shade the parts in Venn diagram in which John would fall
+
+Shade not Dark Haired part
+
+Shade Blue-eyed part
+
+Shade Wear glasses part
+
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+D
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+D
 
 </div>
 </div>
@@ -1069,7 +1070,7 @@ $9760$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-How many seconds in $24$ hours?
+How many $\text{seconds}$ in $24 \ \text{hours}?$
 
 </div>
 <div class='workings'>
@@ -1102,7 +1103,7 @@ $86400 \ \text {seconds}$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-In a bag there are $63$ counters.$\dfrac {5} {9}$ of the counters are blue. How many blue counters are there?
+In a bag there are $63$ counters. $\dfrac {5}{9}$ of the counters are blue. How many blue counters are there?
 
 </div>
 <div class='workings'>
@@ -1241,7 +1242,7 @@ $1$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1254,32 +1255,34 @@ What is its new value?
 <div class='workings'>
 <div class='working'>
 
+If the price is reduced by $15 \%$, then the new price will be $100 - 15 = 85 \%$ of the original price. Using that, we get
+
 $
 \begin{aligned}
-\text{Sale price}  &= \text {Original price} - \text{Discount} \\\\
-                   &= 50000 - 15 \% \times 50000  \\\\
-                   &= 50000 - \dfrac {15} {100} \times 50000 \\\\
-                   &= 50000 - \dfrac {15 \times 50000} {100} \\\\
-                   &= 50000 - \dfrac {15 \times 500 \cancel {00}} {1 \cancel {00}} \\\\
-                   &= 50000 - 15 \times 500 \\\\
-                   &= 50000 - 7500 \\\\
-                   &= \pounds 42500
+\text {Sale price}          &= 85 \% \text{ of } 50000 \\\\
+                            &= \dfrac {85}{100} \times 50000 \\\\
+                            &= \dfrac {85 \times 50000}{100}  \\\\
+                            &= \dfrac {85 \times 500 \cancel {00}}{1 \cancel {00}}  \\\\
+                            &= 85 \times 500 \\\\
+                            &= \pounds 42500
 \end{aligned}
 $
 
 </div>
 <div class='working'>
 
-If the price is reduced by $15 \%$, then the new price will be $100 - 15 = 85 \%$ of the original price. Using that, we get
+ABBR: $\text {Sale price = Original price} - \text{Discount } \% \times \text{Original price}$
+
 
 $
 \begin{aligned}
-\text {Sale price}          &= 85 \% \times 50000 \\\\
-                            &= \dfrac {85}{100} \times 50000 \\\\
-                            &= \dfrac {85 \times 50000}{100}  \\\\
-                            &= \dfrac {85 \times 500 \cancel {00}}{1 \cancel {00}}  \\\\
-                            &= 85 \times 500 \\\\
-                            &= \pounds 42500
+\text{Sale price}  &= 50000 - 15 \% \text{ of } 50000  \\\\
+                   &= 50000 - \dfrac {15} {100} \times 50000 \\\\
+                   &= 50000 - \dfrac {15 \times 50000} {100} \\\\
+                   &= 50000 - \dfrac {15 \times 500 \cancel {00}} {1 \cancel {00}} \\\\
+                   &= 50000 - 15 \times 500 \\\\
+                   &= 50000 - 7500 \\\\
+                   &= \pounds 42500
 \end{aligned}
 $
 
@@ -1501,7 +1504,7 @@ $\dfrac {1} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1512,14 +1515,20 @@ Through what angles does the hour hand of a clock rotate between $3 \ \text{am}$
 <div class='workings'>
 <div class='working'>
 
-The hand of a clock moves by $30 \degree$ for every one unit covered.
+ABBR: The hour hand of a clock moves by $30 \degree$ every hour.
 
-So the hour hand move by $30 \times 8 = 240 \degree$ between $3 \ \text{am}$ and $11{:}00 \ \text{am}$ and another $15 \degree$ for $11{:}30 \ \text{am}$.
+
+ABBR: The hour hand of a clock moves by $0.5 \degree$ every minute.
+
 
 $
 \begin {aligned}
-\text {The hour hand moved by}  &= 240 + 15 \\\\
-                                &= 255 \degree
+\text {Total minutes}   &= 11{:}30 \ \text{am} -  3 \ \text{am} \\\\
+                        &= 8 \times 60  \ \text{minutes} + 30  \ \text{minutes} \\\\
+                        &= 480 + 30 \\\\
+                        &= 510 \ \text{minutes} \\\\
+\text {Angle moved}     &= 510 \times 0.5 \\\\
+                        &= 255 \degree
 \end {aligned}
 $
 
@@ -1683,7 +1692,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1705,14 +1714,10 @@ The next term is calculated by adding $0.95$ to the first term and the number of
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {({} + 0.95 \times 1)} }
-&&  \footnotesize {\maroonC
- {({} + 0.95 \times 2)} }
-&&  \footnotesize {\maroonC
- {({} + 0.95 \times 3)} }
-&&  \footnotesize {\maroonC
- {({} + 0.95 \times 4)} }  \\
+&   \footnotesize {\maroonC {({} + 0.95 \times 1)} }
+&&  \footnotesize {\maroonC {({} + 0.95 \times 2)} }
+&&  \footnotesize {\maroonC {({} + 0.95 \times 3)} }
+&&  \footnotesize {\maroonC {({} + 0.95 \times 4)} }  \\
 1.15,  &&   2.10,  &&  3.05, &&  4, && \ldots
 \end{matrix}
 $

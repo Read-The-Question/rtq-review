@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tdetailedaddition-3"
 title: "TopicPaper - Detailedaddition - 3"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "21"
 ---
 <div class='paper'>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-6-g2-prns"
 title: "TopicPaper - Number - 6 - G2 - PRNS"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -138,14 +138,10 @@ $12.5 \%$
 
 Circle which of the following has a different value from the others:
 
-$
-\begin{aligned}
-&= 3 - 7 - 4 \\ 
-&= (3 - 7) - 4 \\ 
-&= 3 - (7 - 4) \\ 
-&= ((3 - 7) - 4)\\
-\end{aligned} 
-$
+- $3 - 7 - 4$
+- $(3 - 7) - 4$
+- $3 - (7 - 4)$
+- $((3 - 7) - 4)$
 
 </div>
 <div class='workings'>

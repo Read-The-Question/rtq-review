@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tsequence-3"
 title: "TopicPaper - Sequence - 3"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "40"
 ---
 <div class='paper'>
@@ -422,22 +422,22 @@ $5 \quad -10 \quad 20 \quad \ldots \quad -160 \quad 320$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Bob makes a sequence using the following rule: $\text{‘double and subtract 3’}$. If the first number in his sequence is $5$, what will the fifth number in his sequence be?
+Bob makes a sequence using the following rule: ‘double and subtract $3$’. If the first number in his sequence is $5$, what will the fifth number in his sequence be?
 
-A: $157$ 
+- $157$ 
 
-B: $77$ 
+- $77$ 
 
-C: $19$ 
+- $19$ 
 
-D: $35$ 
+- $35$ 
 
-E: $67$
+- $67$
 
 </div>
 
@@ -481,7 +481,7 @@ How many black tiles will there be in Pattern $12$?
 
 Robin notices that he can take two copies of Pattern $4$ and make them into a $4\times5$ rectangle:
 
-![latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-00.png](/assets/latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-00.png "latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-00.png")        ![latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-01.png](/assets/latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-01.png "latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-01.png")
+![latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-00.png](/assets/latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-00.png "latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-00.png") 
 
 </div>
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2013-arithmetic-2"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2013 - Arithmetic 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "11"
 ---
 <div class='paper'>
@@ -150,7 +150,7 @@ litre
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -165,44 +165,11 @@ The graph below shows Claire's total score after each round of the game.
 <div class='workings'>
 <div class='working'>
 
-The graph shows on y-axis the total score after each round.
-
-Every cross plotted on the graph is the total score after that round.
-
-The points she scored in each round is the difference between the plotted crosses.
-
-Round $6 -$ Round $5 =$ Score of Round $6$
-
-
-$
-\def\arraystretch{1.5}
-   \begin{array}{:c:c:c:}
-\hline
-         Round   & Scored   & Total \\ 
-\hline
-           1     & 13               & 13 \\
-\hdashline 
-           2     & 30 - 13 = 17     & 30 \\   
-\hdashline
-           3     & 45 - 30 = 15     & 45 \\   
-\hdashline
-           4     & 56 - 45 = 11     & 56 \\ 
-\hdashline
-           5     & 65 - 56 = 9      & 65 \\ 
-\hdashline
-           6     & 70- 65 = 5       & 70 \\ 
-\hline
-\end{array}
-$
+%empty%
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
 <div class='answer'>
 
 %empty%
@@ -274,15 +241,15 @@ Which was Claire's most successful round in which she scored most points?
 <div class='working'>
 
 |  Round |     Points scored      |
-|--------|------------------------|
+|:------:|:----------------------:|
 |   $1$  |    $13 - 0 = 13$       |
-|   $2$  |    $30 - 13 = 7$       |
+|   $2$  |    $30 - 13 = 17$      |
 |   $3$  |    $45 - 30 = 15$      |
 |   $4$  |    $56 - 45 = 11$      |
 |   $5$  |    $65 - 56 = 9$       |
 |   $6$  |    $70 - 65 = 5$       |
 
-Most points scored in round $2$
+Most points scored in = Round $2$
 
 </div>
 </div>
@@ -308,14 +275,14 @@ What can you say about the number of points Nigel scored in each round?
 <div class='workings'>
 <div class='working'>
 
-Nigel scored equal points in each round
+Nigel scored the same number of points in each round.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Nigel scored equal points in each round
+Nigel scored the same number of points in each round.
 
 </div>
 </div>

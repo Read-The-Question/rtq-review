@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-ttable-1-g2"
 title: "TopicPaper - Table - 1 - G2"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "8"
 ---
 <ul class='question default-decimal'>
@@ -207,7 +207,7 @@ The table shows part of a multiplication grid.
 
 Fill in the missing numbers.
 
-|  x  |      |      |  $8$ |
+|  $\times$   |      |      |  $8$ |
 |:---:|:----:|:----:|:----:|
 | $2$ |  $8$ | $14$ | $16$ |
 |     | $24$ |      | $48$ |

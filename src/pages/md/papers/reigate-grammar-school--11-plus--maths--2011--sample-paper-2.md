@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2011-sample-paper-2"
 title: "Reigate Grammar School - 11 Plus - Maths - 2011 - Sample Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "38"
 ---
 <div class='paper'>
@@ -1061,7 +1061,7 @@ four thousand, two hundred thirty two
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1101,16 +1101,11 @@ The next term is calculated by subtracting $3$ from the previous term. Hence, th
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(-3)}}
-&&  \footnotesize{\maroonC
-{(-3)}}
-&&  \footnotesize{\maroonC
-{(-3)}}
-&&  \footnotesize{\maroonC
-{(-3)}}
-&&  \footnotesize{\maroonC
-{(-3)}}  \\
+&   \footnotesize{\maroonC{(-3)}}
+&&  \footnotesize{\maroonC{(-3)}}
+&&  \footnotesize{\maroonC{(-3)}}
+&&  \footnotesize{\maroonC{(-3)}}
+&&  \footnotesize{\maroonC{(-3)}}  \\
 13,  &&    10,  &&   7,  &&   4,  &&   \ldots, &&   \ldots
 \end {matrix}
 $
@@ -1156,18 +1151,12 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+8)}}
-&&  \footnotesize{\maroonC
-{(+10)}}
-&&  \footnotesize{\maroonC
-{(+12)}}
-&&  \footnotesize{\maroonC
-{(+14)}}  \\
+&   \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+8)}}
+&&  \footnotesize{\maroonC{(+10)}}
+&&  \footnotesize{\maroonC{(+12)}}
+&&  \footnotesize{\maroonC{(+14)}}  \\
 2,  &&    6,  &&   12,  &&   20,  &&   30,  &&  \ldots,  &&   \ldots
 \end {matrix}
 $
@@ -1768,7 +1757,7 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1822,12 +1811,7 @@ Fill in the table below
 <div class='answers'>
 <div class='answer'>
 
-| Method of Transport   | Number    |
-|:-------------------:  |:------:   |
-|         CAR           |     $15$  |
-|         BUS           |     $7$   |
-|         WALK          |     $14$  |
-|         BIKE          |     $8$   |
+%empty%
 
 </div>
 </div>
@@ -1846,7 +1830,7 @@ How many people were in the survey?
 
 $
 \begin{aligned}
-\text{Total number of people}     &= 15 + 7 + 14 + 8 \\\\
+\text{Number of people}     &= 15 + 7 + 14 + 8 \\\\
                                   &= 44
 \end{aligned}
 $
@@ -1875,13 +1859,12 @@ In an attempt to improve the environment children are encouraged to find a “gr
 
 $
 \begin{aligned}
-\text{Number of people now walk}    &= \dfrac {1} {3} \ \text{of} \ 15 + 3 \\\\
-                                    &= \dfrac {1} {3} \times 15 + 3 \\\\
-                                    &= \dfrac {15} {3} + 3 \\\\
-                                    &= \dfrac {5 \times 3} {3} + 3 \\\\
-                                    &= \dfrac {5 \times \cancel 3} {\cancel 3} + 3 \\\\
-                                    &= 5 + 3 \\\\
-                                    &= 8
+\text{Number of children}           &= 14 + \dfrac {1} {3} \times 15 + 3 \\\\
+                                    &= 14 + \dfrac {15} {3} + 3 \\\\
+                                    &= 14 + \dfrac {5 \times 3} {3} + 3 \\\\
+                                    &= 14 + \dfrac {5 \times \cancel 3} {\cancel 3} + 3 \\\\
+                                    &= 14 + 5 + 3 \\\\
+                                    &= 22
 \end{aligned}
 $
 
@@ -1890,7 +1873,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$8$
+$22$
 
 </div>
 </div>
@@ -2128,7 +2111,7 @@ $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2177,14 +2160,14 @@ Plot all the points on the graph
 *ABBR: TODO:: Add drawing ends.*
 
 
-C, E and F forms a straight line.
+$C, E, F$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-C, E, F
+$C, E, F$
 
 </div>
 </div>
@@ -2201,14 +2184,14 @@ Which $4$ letters form a rectangle?
 <div class='workings'>
 <div class='working'>
 
-C, D, E and G form a rectangle
+$C, D, E, G$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-C, D, E, G
+$C, D, E, G$
 
 </div>
 </div>
@@ -2225,14 +2208,14 @@ Which $4$ letters form a square?
 <div class='workings'>
 <div class='working'>
 
-A, B, C and D form a square
+$A, B, C, D$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-A, B, C, D
+$A, B, C, D$
 
 </div>
 </div>
@@ -2243,7 +2226,7 @@ A, B, C, D
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2519,7 +2502,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

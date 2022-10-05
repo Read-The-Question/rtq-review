@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tduplicatepaper-1"
 title: "TopicPaper - Duplicatepaper - 1"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "40"
 ---
 <div class='paper'>
@@ -79,7 +79,7 @@ $3056 \div 4$
 
 Write down the temperatures shown by these thermometers
 
-![city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-5-00.png](/assets/city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-5-00.png "city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-5-00.png")   ![city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-5-01.png](/assets/city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-5-01.png "city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-5-01.png")
+![city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-5-00.png](/assets/city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-5-00.png "city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-5-00.png")
 
 </div>
 
@@ -263,7 +263,7 @@ the nearest $1000$
 
 Here are two shapes:
 
-![city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-12-00.png](/assets/city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-12-00.png "city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-12-00.png")    ![city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-12-01.png](/assets/city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-12-01.png "city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-12-01.png")
+![city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-12-00.png](/assets/city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-12-00.png "city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2/section-1-question-12-00.png")
 
 </div>
 <ul class='subquestion lower-alpha'>

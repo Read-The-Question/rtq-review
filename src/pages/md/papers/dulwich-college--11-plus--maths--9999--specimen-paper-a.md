@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-a"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper A"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "23"
 ---
 <div class='paper'>
@@ -151,7 +151,7 @@ $312$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Calculate how much bigger is $3\dfrac{1}{4}$ is than $1\dfrac{3}{4}$ writing your answer as a **decimal**.
+Calculate how much bigger is $3\dfrac{1}{4}$ is than $1\dfrac{3}{4}$ writing your answer as a decimal.
 
 </div>
 <div class='workings'>
@@ -183,7 +183,7 @@ $1.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -223,16 +223,11 @@ The next term is calculated by adding $3$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+3)} }
-&&  \footnotesize {\maroonC
- {(+3)} }
-&&  \footnotesize {\maroonC
- {(+3)} }
-&&  \footnotesize {\maroonC
- {(+3)} }
-&&  \footnotesize {\maroonC
- {(+3)} }  \\
+&   \footnotesize {\maroonC {(+3)} }
+&&  \footnotesize {\maroonC {(+3)} }
+&&  \footnotesize {\maroonC {(+3)} }
+&&  \footnotesize {\maroonC {(+3)} }
+&&  \footnotesize {\maroonC {(+3)} }  \\
 14,  &&   17,  &&  20, &&  23, && \ldots, && \ldots
 \end{matrix}
 $
@@ -280,16 +275,11 @@ The next term is calculated by subtracting $0.75$ from the previous term. Hence,
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(-0.75)} }
-&&  \footnotesize {\maroonC
- {(-0.75)} }
-&&  \footnotesize {\maroonC
- {(-0.75)} }
-&&  \footnotesize {\maroonC
- {(-0.75)} }
-&&  \footnotesize {\maroonC
- {(-0.75)} }  \\
+&   \footnotesize {\maroonC {(-0.75)} }
+&&  \footnotesize {\maroonC {(-0.75)} }
+&&  \footnotesize {\maroonC {(-0.75)} }
+&&  \footnotesize {\maroonC {(-0.75)} }
+&&  \footnotesize {\maroonC {(-0.75)} }  \\
 14, && 13.25, && 12.5, && 11.75, && \ldots,  && \ldots
 \end{matrix}
 $
@@ -705,9 +695,9 @@ $5$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-A multipack of $12$ cans of Ned's cola cost $\pounds 6.95$. 
+A multipack of $12$ cans of Ned's Cola costs $\pounds 6.95$. 
 
-A single can of Ned's cola costs $65 \ \text{pence}$ if bought individually. 
+A single can of Ned's Cola costs $65 \ \text{pence}$ if bought individually. 
 
 Calculate how much cheaper it is to buy a multipack of $12$ cans than to buy $12$ cans individually, giving your answer in pence.
 
@@ -986,7 +976,7 @@ Plot the point B on the graph
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Plot another point $D$, and then join $ABCD$ **in that order** so that you can form a quadrilateral shape with one line of symmetry.
+Plot another point $D$, and then join $ABCD$ in that order so that you can form a quadrilateral shape with one line of symmetry.
 
 </div>
 <div class='workings'>
@@ -1141,7 +1131,7 @@ $17$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1163,7 +1153,7 @@ Work out at what distance each rider has cycled by the time they meet.
 <div class='workings'>
 <div class='working'>
 
-Let the time taken (in hours) $= t$
+Let Rhys and Sarah meet at time (in hours) $= t$
 
 As per the question,
 
@@ -1173,15 +1163,15 @@ $
 10t + 20t                 &= 90 \\\\
 30t                       &= 90 \\\\
 t                         &= \dfrac{90}{30} \\\\
-t                         &= \dfrac{3 \times 3 \times 10}{3 \times 10} \\\\
-t                         &= \dfrac{3 \times \cancel{3} \times \cancel{10}}{\cancel{3} \times \cancel{10}} \\\\
+t                         &= \dfrac{3 \times 30}{30} \\\\
+t                         &= \dfrac{3 \times \cancel{30}}{\cancel{30}} \\\\
 t                         &= 3 \text{ hours}
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text{Distance travelled by rhys}  &= 10 \times t \\\\
+\text{Distance travelled by Rhys}  &= 10 \times t \\\\
                                    &= 10 \times 3 \\\\
                                    &= 30 \text { miles} \\\\
 \text{Distance travelled by Sarah} &= 20 \times t \\\\
@@ -1217,23 +1207,7 @@ Write down the time taken for them to meet.
 <div class='workings'>
 <div class='working'>
 
-Let the time taken (in hours) $= t$
-
-As per the question,
-
-$
-\begin{aligned}
-10 \times t + 20 \times t &= 90 \\\\
-10t + 20t                 &= 90 \\\\
-30t                       &= 90 \\\\
-t                         &= \dfrac{90}{30} \\\\
-t                         &= \dfrac{3 \times 3 \times 10}{3 \times 10} \\\\
-t                         &= \dfrac{3 \times \cancel{3} \times \cancel{10}}{\cancel{3} \times \cancel{10}} \\\\
-t                         &= 3 \text{ hours}
-\end{aligned}
-$
-
-Time taken $= 3 \text{ hours}$
+$3 \text{ hours}$
 
 </div>
 </div>
@@ -1408,7 +1382,7 @@ $1200 \ \text {mm}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Convert this distance from milimetres into meters.
+Convert this distance from $\text{millimetres}$ into $\text{meters}$.
 
 </div>
 <div class='workings'>
@@ -1751,7 +1725,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write down the time in ($24-\text{hour}$ format) represented by the display:
+Write down the time (in $24-\text{hour}$ format) represented by the display:
 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-19-subquestion-1-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-19-subquestion-1-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-19-subquestion-1-00.png")
 
@@ -2097,9 +2071,9 @@ All $150$ grow to produce flowers and the students draw up the results of the fl
 
 Complete the table and bar chart for the students' findings.
 
-|    Flower Colour   | Red | Orange | Yellow |
-|:------------------:|:---:|:------:|:------:|
-| Number of flowsers |     |        |   72   |
+|    Flower Colour   | Red | Orange |  Yellow  |
+|:------------------:|:---:|:------:|:--------:|
+| Number of flowsers |     |        |   $72$   |
 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-21-subquestion-4-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-21-subquestion-4-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-21-subquestion-4-00.png")
 

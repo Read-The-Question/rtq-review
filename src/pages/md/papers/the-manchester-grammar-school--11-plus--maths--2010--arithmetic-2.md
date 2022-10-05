@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2010-arithmetic-2"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2010 - Arithmetic 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "12"
 ---
 <div class='paper'>
@@ -14,7 +14,7 @@ questions_count: "12"
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -54,14 +54,10 @@ The next term is calculated by adding $14$ to the previous term. Hence, the sequ
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(+14)}}
-&&  \footnotesize{\maroonC
-{(+14)}}
-&&  \footnotesize{\maroonC
-{(+14)}}
-&&  \footnotesize{\maroonC
-{(+14)}}  \\
+&   \footnotesize{\maroonC{(+14)}}
+&&  \footnotesize{\maroonC{(+14)}}
+&&  \footnotesize{\maroonC{(+14)}}
+&&  \footnotesize{\maroonC{(+14)}}  \\
 5,  &&    19,  &&  33,  &&   47,  &&   \ldots
 \end {matrix}
 $
@@ -102,16 +98,11 @@ It is a sequence of square numbers.
 
 $
 \begin {matrix}
-    \footnotesize{\maroonC
-{(1^2)}}
-&&  \footnotesize{\maroonC
-{(2^2)}}
-&&  \footnotesize{\maroonC
-{(3^2)}}
-&&  \footnotesize{\maroonC
-{(4^2)}}
-&&  \footnotesize{\maroonC
-{(5^2)}}  \\\\
+    \footnotesize{\maroonC{(1^2)}}
+&&  \footnotesize{\maroonC{(2^2)}}
+&&  \footnotesize{\maroonC{(3^2)}}
+&&  \footnotesize{\maroonC{(4^2)}}
+&&  \footnotesize{\maroonC{(5^2)}}  \\\\
 1, && 4, && 9, && 16, && \ldots
 \end {matrix}
 $
@@ -152,14 +143,10 @@ The next term is calculated by multiplying the previous term by $3$. Hence, the 
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(\times 3)}}
-&&  \footnotesize{\maroonC
-{(\times 3)}}
-&&  \footnotesize{\maroonC
-{(\times 3)}}
-&&  \footnotesize{\maroonC
-{(\times 3)}}  \\
+&   \footnotesize{\maroonC{(\times 3)}}
+&&  \footnotesize{\maroonC{(\times 3)}}
+&&  \footnotesize{\maroonC{(\times 3)}}
+&&  \footnotesize{\maroonC{(\times 3)}}  \\
 2,  &&    6,  &&  18,  &&   54,  &&   \ldots
 \end {matrix}
 $
@@ -200,14 +187,10 @@ The next term is calculated by dividing the previous term by $2$. Hence, the seq
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(\div 2)}}
-&&  \footnotesize{\maroonC
-{(\div 2)}}
-&&  \footnotesize{\maroonC
-{(\div 2)}}
-&&  \footnotesize{\maroonC
-{(\div 2)}}  \\
+&   \footnotesize{\maroonC{(\div 2)}}
+&&  \footnotesize{\maroonC{(\div 2)}}
+&&  \footnotesize{\maroonC{(\div 2)}}
+&&  \footnotesize{\maroonC{(\div 2)}}  \\
 88,  &&    44,  &&  22,  &&   11,  &&   \ldots
 \end {matrix}
 $
@@ -246,16 +229,11 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC
-{(-2)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-8)}}
-&&  \footnotesize{\maroonC
-{(-16)}}
-&&  \footnotesize{\maroonC
-{(-32)}}  \\
+&   \footnotesize{\maroonC{(-2)}}
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-8)}}
+&&  \footnotesize{\maroonC{(-16)}}
+&&  \footnotesize{\maroonC{(-32)}}  \\
 300,  &&    298,  &&  294,  &&   286,  &&  270,  &&   \ldots
 \end {matrix}
 $
@@ -492,7 +470,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -577,13 +555,10 @@ What is the difference in height between the tallest person and the shortest per
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text{Range} = \text{Highest number} - \text{Lowest number}$
-
-
 $
 \begin {aligned}
-\text {Difference between tallest and shortest person}    &= 1.79 - 1.55 \\\\
-                                                          &= 0.24 \ \text{m}
+\text {Difference}      &= 1.79 - 1.55 \\\\
+                        &= 0.24 \ \text{m}
 \end {aligned}
 $
 
@@ -847,7 +822,7 @@ $e = 0.6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -869,6 +844,9 @@ Running at the same speed, how long does it take for the horse to run $1\ \text{
 </div>
 <div class='workings'>
 <div class='working'>
+
+ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
+
 
 $
 \begin{aligned}
@@ -898,6 +876,9 @@ In minutes and seconds, how long does it take for the horse to run $1  \ \text{m
 </div>
 <div class='workings'>
 <div class='working'>
+
+ABBR: $\text {Time} = \dfrac {\text{Distance}} {\text{Speed}}$
+
 
 $1 \text{ mile}  = 8 \text{ furlongs}$
 
@@ -938,14 +919,17 @@ At what speed is the horse running, in miles per hour?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text {Speed} = \dfrac {\text{Distance}} {\text{Time}}$
+
+
 $
 \begin{aligned}
-\text{Speed} &= \dfrac{1 \text{ miles}}{100 \text{ seconds}} \\\\
-             &= \dfrac{1 \text{ miles}}{100 \times \dfrac{1}{60 \times 60} \text{ hours}} \\\\
-             &= \dfrac{1}{100 \times \dfrac{1}{60 \times 60}} \\\\
-             &= \dfrac{1}{\dfrac{1\cancel{0}\cancel{0}}{6\cancel{0} \times 6\cancel{0}}} \\\\
-             &= \dfrac{1}{\dfrac{1}{6 \times 6}} \\\\
-             &= \dfrac{1}{\dfrac{1}{36}} \\\\
+\text{Speed} &= \dfrac{1}{100} \text{ miles per second} \\\\
+             &= \dfrac{1}{100} \times 60 \times 60 \text{ miles per hour} \\\\
+             &= \dfrac{60 \times 60}{100} \\\\
+             &= \dfrac{6 \times 10 \times 6 \times 10}{10 \times 10} \\\\
+             &= \dfrac{6 \times \cancel{10} \times 6 \times \cancel{10}}{\cancel{10} \times \cancel{10}} \\\\
+             &= 6 \times 6 \\\\
              &= 36 \text { miles/hour}
 \end{aligned}
 $
@@ -1826,8 +1810,7 @@ Let's arrange the numbers in ascending order.
 $
 \begin {aligned}
 \text{Numbers}           &= 8, \quad 5, \quad 2, \quad 16, \quad 6, \quad 5, \quad 7 \\\\
-\text{Ordered numbers}   &= 2, \quad 5, \quad 5, \quad \maroonC
-{6}, \quad 7, \quad 8, \quad 16 \\\\
+\text{Ordered numbers}   &= 2, \quad 5, \quad 5, \quad \maroonC{6}, \quad 7, \quad 8, \quad 16 \\\\
 \text{Median}            &= 6
 \end {aligned}
 $

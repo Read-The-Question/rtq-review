@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-school-11-plus-maths-2020-sample-paper-1"
 title: "City Of London School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "22"
 ---
 <div class='paper'>
@@ -35,7 +35,7 @@ $4^3 = \ldots $
 
 $\dfrac{240}{300}$ in its simplest form is $ \ldots $
 
-$25\% of 68 = \ldots $ 
+$25\%$ of $68 = \ldots $ 
 
 $43 \times 38 = \ldots $ 
 
@@ -133,7 +133,7 @@ $0.002222222$
 
 I buy $7$ drinks at $72\text{p}$ each, and $9$ sandwiches at $\pounds 1.21$ each. 
 
-How much $\bold{\underline{change}}$ do I get from a $\pounds 20$ note? 
+How much change do I get from a $\pounds 20$ note? 
 
 </div>
 <div class='workings'>
@@ -253,7 +253,7 @@ $\pounds 168$
 
 The thermometers below show the temperature recorded at midday yesterday and midnight last night.
 
-![city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-00.png](/assets/city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-00.png "city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-00.png")   ![city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-01.png](/assets/city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-01.png "city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-01.png")
+![city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-00.png](/assets/city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-00.png "city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-6-00.png")
 
 </div>
 
@@ -401,6 +401,8 @@ $223 \ \text {minutes}$
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
+
+![city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-8-subquestion-1-00.png](/assets/city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-8-subquestion-1-00.png "city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-8-subquestion-1-00.png")
 
 What fraction of the above design is shaded? Give your fraction in its simplest form.
 
@@ -621,7 +623,7 @@ $23$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -642,34 +644,33 @@ Slowest........................................
 
 $
 \begin{aligned}
-\text{Time taken by adam}   &= 4 \text { hours } 39 \text{ minutes} \\\\
+\text{Time taken by Adam}   &= 4 \text { hours } 39 \text{ minutes} \\\\
                             &= 4 \times 60 + 39 \text{ minutes} \\\\
                             &= 4 \times 60 + 39 \\\\
                             &= 240 + 39 \\\\
                             &= 279 \text{ minutes} \\\\
-\text{Time taken by billy}  &= 274 \text{ minutes} \\\\
-\text{Time taken by charlie}&= 4\dfrac{3}{5} \text { hours} \\\\
-                            &= \dfrac{23}{5} \text { hours} \\\\
-                            &= \dfrac{23}{5} \times 60 \text { minutes} \\\\
-                            &= \dfrac{23}{5} \times 60 \\\\
-                            &= \dfrac{23 \times 60}{5} \\\\
-                            &= \dfrac{23 \times 12 \times 5}{5} \\\\
-                            &= \dfrac{23 \times 12 \times \cancel{5}}{\cancel{5}} \\\\
-                            &= 23 \times 12 \\\\
+\text{Time taken by Billy}  &= 274 \text{ minutes} \\\\
+\text{Time taken by Charlie}&= 4\dfrac{3}{5} \text { hours} \\\\
+                            &= 4 \times 60 + \dfrac{3}{5} \times 60 \text { minutes} \\\\
+                            &= 240 + \dfrac{3 \times 60}{5} \\\\
+                            &= 240 + \dfrac{3 \times 12 \times 5}{5} \\\\
+                            &= 240 + \dfrac{3 \times 12 \times \cancel{5}}{\cancel{5}} \\\\
+                            &= 240 + 3 \times 12 \\\\
+                            &= 240 + 36 \\\\
                             &= 276 \text{ minutes}
 \end{aligned}
 $
 
-Quickest = billy
+Quickest = Billy
 
-slowest = adam
+Slowest = Adam
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Billy and adam
+Billy and Adam
 
 </div>
 </div>
@@ -716,7 +717,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Calculate the area of the $\bold{\underline{larger\:\: rectangle}}$ only.
+Calculate the area of the larger rectangle only.
 
 </div>
 <div class='workings'>
@@ -760,7 +761,7 @@ $360 \ \text {cm}^2$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Calculate the $\bold{\underline{total}}$ shaded area that the rectangles cover.
+Calculate the total shaded area that the rectangles cover.
 
 </div>
 <div class='workings'>
@@ -801,9 +802,9 @@ $448 \ \text {cm}^2$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-The diagram below shows a rectangle and a square. The diagrams are **not** drawn to scale.
+The diagram below shows a rectangle and a square. The diagrams are not drawn to scale.
 
-![city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-12-00.png](/assets/city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-12-00.png "city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-12-00.png")   ![city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-12-01.png](/assets/city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-12-01.png "city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-12-01.png")
+![city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-12-00.png](/assets/city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-12-00.png "city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-12-00.png")
 
 If they have equal perimeters, what is the difference in their area? 
 
@@ -862,7 +863,7 @@ $400 \ \text{cm}^2$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Calculate the size of the missing angle in this triangle. The diagram is **not** drawn to scale.
+Calculate the size of the missing angle in this triangle. The diagram is not drawn to scale.
 
 ![city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-13-00.png](/assets/city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-13-00.png "city-of-london-school--11-plus--maths--2020--sample-paper-1/section-1-question-13-00.png") 
 
@@ -995,7 +996,7 @@ $20 \degree$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Would you describe $100\degree$? Acute, obtuse or reflex?
+Would you describe $100\degree ?$ Acute, obtuse or reflex?
 
 </div>
 <div class='workings'>
@@ -1182,7 +1183,7 @@ $3300 \ \text{cm}^3$
 
 A string is tied around the box with a bow at the top as shown in the diagram.
 
-$\bold{If\:\: the\:\: length\:\: of\:\: the\:\: bow\:\: is\:\: 8\ \text{cm}}$, calculate the $\underline{total}$ length of string used.
+If the length of the bow is $8\ \text{cm}$, calculate the total length of string used.
 
 </div>
 <div class='workings'>
@@ -1219,7 +1220,7 @@ $130 \ \text{cm}$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-$\huge{\bold{20, 21, 22, 23, 24, 25, 26, 27, 28,}}$ 
+$20, 21, 22, 23, 24, 25, 26, 27, 28,$ 
 
 Write one number from $20$ to $30$ that satisfies the descriptions below. Some numbers are used more than once. 
 
@@ -1243,7 +1244,7 @@ Write one number from $20$ to $30$ that satisfies the descriptions below. Some n
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$\underline{Prime}?$
+Prime?
 
 </div>
 <div class='workings'>
@@ -1267,7 +1268,7 @@ $23$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$\underline{Cube\:\: numbers}?$
+Cube numbers?
 
 </div>
 <div class='workings'>
@@ -1301,7 +1302,7 @@ $27$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$\underline{Square\:\: numbers}?$
+Square numbers?
 
 </div>
 <div class='workings'>
@@ -1335,9 +1336,9 @@ $25$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$\underline{Fibonacci\:\: numbers}$?
+Fibonacci numbers?
 
-*The Fibonacci numbers follow the sequence 1, 1, 2, 3, 5, 8, 13...*
+The Fibonacci numbers follow the sequence $1, 1, 2, 3, 5, 8, 13 \ldots $
 
 </div>
 <div class='workings'>
@@ -1361,9 +1362,9 @@ $21$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$\underline{Triangular\:\: numbers}?$
+Triangular numbers?
 
-*The triangular numbers follow the sequence 1, 3, 6, 10, 15,* ...
+The triangular numbers follow the sequence $1, 3, 6, 10, 15, \ldots $
 
 </div>
 <div class='workings'>
@@ -1392,7 +1393,7 @@ $21, 28$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$\underline{Perfect\:\: numbers}?$
+Perfect numbers?
 
 A perfect number is a number whose factors (not including itself) add up to itself. 
 
@@ -1430,9 +1431,9 @@ $28$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$\underline{Powerful\:\: numbers}?$
+Powerful numbers?
 
-A powerful number has the property that for **every** prime number which divides into it, that **prime** number squared also divides into it.
+A powerful number has the property that for every prime number which divides into it, that prime number squared also divides into it.
 
 e.g. $16$ is a powerful number because both $2$ and $2^2$ are factors.
 
@@ -1469,7 +1470,7 @@ $25, 27$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-What is $4 - ((4 + 4) \div 4)$? 
+What is $4 - ((4 + 4) \div 4)?$ 
 
 </div>
 <div class='workings'>

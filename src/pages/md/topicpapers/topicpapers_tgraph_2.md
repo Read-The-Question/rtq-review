@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tgraph-2"
 title: "TopicPaper - Graph - 2"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "40"
 ---
 <div class='paper'>
@@ -160,7 +160,7 @@ The pie chart and table show the answere given by $80$ people to a survey about 
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-%format% The pie chart has an angle of $90 \degree$ for the Tour de France.
+The pie chart has an angle of $90 \degree$ for the Tour de France.
 
 How many people does this represent?
 
@@ -527,11 +527,11 @@ $(5, 2)$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-The chart below shows the number of children in classes $5$S and $5 \text{p}$ who live up to $\dfrac{1}{2}$ mile and more than $\dfrac{1}{2}$ mile from school.
+The chart below shows the number of children in classes $5 \text{S}$ and $5 \text{p}$ who live up to $\dfrac{1}{2} \ \text{mile}$ and more than $\dfrac{1}{2} \ \text{mile}$ from school.
 
 ![devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3/section-1-question-8-00.png](/assets/devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3/section-1-question-8-00.png "devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3/section-1-question-8-00.png")
 
-How many more children in class $5 \text{p}$ than $5$S live less than $\dfrac{1}{2}$ mile from school?
+How many more children in class $5 \text{p}$ than $5 \text{S}$ live less than $\dfrac{1}{2} \ \text{mile}$ from school?
 
 </div>
 <div class='workings'>
@@ -676,7 +676,7 @@ $6$
 
 The chart shows the number of pupils choosing their favourite colours.
 
-Which statement is **wrong**?
+Which statement is wrong?
 
 - Red received five more votes than yellow
 - There are thirty pupils in the class
@@ -780,7 +780,7 @@ August
 
 ![devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-4-00.png](/assets/devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-4-00.png "devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-4-00.png")
 
-Which point has coordinates $(2, 1)$ ?
+Which point has coordinates $(2, 1) ?$
 
 </div>
 <div class='workings'>
@@ -1091,7 +1091,7 @@ Plot the point B on the graph
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Plot another point $D$, and then join $ABCD$ **in that order** so that you can form a quadrilateral shape with one line of symmetry.
+Plot another point $D$, and then join $ABCD$ in that order so that you can form a quadrilateral shape with one line of symmetry.
 
 </div>
 <div class='workings'>
@@ -1354,9 +1354,9 @@ All $150$ grow to produce flowers and the students draw up the results of the fl
 
 Complete the table and bar chart for the students' findings.
 
-|    Flower Colour   | Red | Orange | Yellow |
-|:------------------:|:---:|:------:|:------:|
-| Number of flowsers |     |        |   72   |
+|    Flower Colour   | Red | Orange |  Yellow  |
+|:------------------:|:---:|:------:|:--------:|
+| Number of flowsers |     |        |   $72$   |
 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-21-subquestion-4-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-21-subquestion-4-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-21-subquestion-4-00.png")
 
@@ -1661,9 +1661,9 @@ E
 
 The table and bar chart below shows the number of cars sold by a car showroom each day for a week.
 
-|         Day         | Mon | Tues | Wed | Thur | Fri | Sat | Sun |
-|:-------------------:|:---:|:----:|:---:|:----:|:---:|:---:|:---:|
-| Number of cars sold |  3  |   5  |     |   1  |  4  |  7  |     |
+|         Day         |  Mon  |  Tues  | Wed |  Thur  |  Fri  |  Sat  | Sun |
+|:-------------------:|:-----:|:------:|:---:|:------:|:-----:|:-----:|:---:|
+| Number of cars sold |  $3$  |   $5$  |     |   $1$  |  $4$  |  $7$  |     |
 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-b/section-1-question-14-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-b/section-1-question-14-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-b/section-1-question-14-00.png")
 
@@ -1687,8 +1687,8 @@ The table and bar chart below shows the number of cars sold by a car showroom ea
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Use the information in the table and the bar chart to complete the entry for **Wednesday** in the table and the bar for 
-**Friday** on the chart.
+Use the information in the table and the bar chart to complete the entry for Wednesday in the table and the bar for 
+Friday on the chart.
 
 </div>
 <div class='workings'>
@@ -1727,7 +1727,7 @@ Plot the number of cars sold on the bar chart
 <div class='question subquestion'>
 
 The total number of cars sold in the week was $28$. Use this information to help complete both the table and the bar chart with 
-**Sunday's** entry.
+Sunday's entry.
 
 </div>
 <div class='workings'>
@@ -1871,7 +1871,7 @@ $(4, 0)$
 <div class='question question'>
 
 The pie chart below represents data collected in a survey of the favourite sports of a sample of school children. 
-Note that, between them, Rugby and Football were favourite of half of the children surveyed.
+Note that, between them, Rugby and Football were the favourite of half of the children surveyed.
 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-c/section-1-question-9-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-c/section-1-question-9-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-c/section-1-question-9-00.png")  
 
@@ -2033,11 +2033,11 @@ $220$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-The table and bar chart below shows the number of burgers sold by a cafe each day of the week.
+The table and bar chart below shows the number of burgers sold by a cafe each day for a week.
 
-|         Day            | Mon | Tues | Wed | Thur | Fri | Sat | Sun |
-|:----------------------:|:---:|:----:|:---:|:----:|:---:|:---:|:---:|
-| Number of burgers sold |  14 |  25  |     |  12  | 21  | 27  |     |
+|         Day            |  Mon  |  Tues  | Wed |  Thur  |  Fri  |  Sat  | Sun |
+|:----------------------:|:-----:|:------:|:---:|:------:|:-----:|:-----:|:---:|
+| Number of burgers sold |  $14$ |  $25$  |     |  $12$  | $21$  | $27$  |     |
 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-c/section-1-question-14-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-c/section-1-question-14-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-c/section-1-question-14-00.png")
 
@@ -2061,7 +2061,7 @@ The table and bar chart below shows the number of burgers sold by a cafe each da
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Use the information in the table and the bar chart to complete the entry for **Wednesday** in the table and the bar for **Friday** on the chart.
+Use the information in the table and the bar chart to complete the entry for Wednesday in the table and the bar for Friday on the chart.
 
 </div>
 <div class='workings'>
@@ -2100,7 +2100,7 @@ Plot the number of burgers sold on the bar chart
 <div class='question subquestion'>
 
 The total number of burgers sold in the week was $140$. Use this information to help complete both the table and the bar chart 
-with **Sunday's** entry.
+with Sunday's entry.
 
 </div>
 <div class='workings'>
@@ -2173,7 +2173,7 @@ $23$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Mark the points $A(2, 0), B(2, 0)$ and $C(0, 3)$ on the axes below, labelling each point clearly.
+Mark the points $A(-2, 0), B(2, 0)$ and $C(0, -3)$ on the axes below, labelling each point clearly.
 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-12-subquestion-1-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-12-subquestion-1-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-d/section-1-question-12-subquestion-1-00.png")
 
@@ -3029,7 +3029,7 @@ Jan
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-On the grid above, plot and label the points $A (0,3), B (2,5), C (6,3),$ and $D (2,1)$.
+On the grid above, plot and label the points $A (0,3), \quad B (2,5), \quad C (6,3)$ and $D (2,1)$.
 
 </div>
 <div class='workings'>

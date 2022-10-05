@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2009-sample-paper-3"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2009 - Sample Paper 3"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "16"
 ---
 <div class='paper'>
@@ -14,7 +14,7 @@ questions_count: "16"
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -65,7 +65,7 @@ From the numbers written above, write down
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
 <div class='question subsubquestion'>
 
-a mulliple of five
+a multiple of five
 
 </div>
 <div class='workings'>
@@ -97,8 +97,8 @@ The difference between $11$ and $30$
 
 $
 \begin{aligned}
-&= 30 - 11 \\\\
-&= 19
+\text{Difference}   &= 30 - 11 \\\\
+                    &= 19
 \end{aligned}
 $
 
@@ -182,22 +182,14 @@ The next term is calculated by adding $4$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(+4)} }
-&&  \footnotesize {\maroonC
- {(+4)} }
-&&  \footnotesize {\maroonC
- {(+4)} }
-&&  \footnotesize {\maroonC
- {(+4)} }
-&&  \footnotesize {\maroonC
- {(+4)} }
-&&  \footnotesize {\maroonC
- {(+4)} }
-&&  \footnotesize {\maroonC
- {(+4)} }
-&&  \footnotesize {\maroonC
- {(+4)} } \\
+&   \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} } \\
 3,  &&    7,  &&  11,  &&   15,  &&   19,   &&   23,  &&  27,  && \ldots,  && \ldots
 \end{matrix}
 $
@@ -205,7 +197,7 @@ $
 $
 \begin{aligned}
 \text {First missing number}   &= 27 + 4 \\\\
-                               &= 31 \\\
+                               &= 31 \\\\
 \text {Second missing number}  &= 31 + 4 \\\\
                                &= 35
 \end{aligned}
@@ -1787,8 +1779,7 @@ Let's arrange the marks scored in ascending order.
 $
 \begin {aligned}
 \text{Marks scored}           &= 18, \quad 20, \quad 15, \quad 12, \quad 20 \\\\
-\text{Ordered marks scored}   &= 12, \quad 15, \quad \maroonC
-{18}, \quad 20, \quad 20 \\\\
+\text{Ordered marks scored}   &= 12, \quad 15, \quad \maroonC{18}, \quad 20, \quad 20 \\\\
 \text{Median}                 &= \dfrac {5 + 10} {2} \\\\
                               &= \dfrac {15} {2} \\\\
                               &= 7.5
@@ -2391,7 +2382,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

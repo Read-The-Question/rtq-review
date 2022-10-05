@@ -1,7 +1,7 @@
 ---
 slug: "papers/chigwell-school-11-plus-maths-2020-sample-paper-1"
 title: "Chigwell School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "33"
 ---
 <div class='paper'>
@@ -119,10 +119,10 @@ $8352$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Jack runs the $100 \ \text{metres}$ in a time of $15.47 \ \text{seconds}$.
-Emily runs the same distance in a time of $13.762 \ \text{seconds}$.
+Jack runs the $100$ metres in a time of $15.47$ seconds.
+Emily runs the same distance in a time of $13.762$ seconds.
 
-**Estimate** the difference in their times by rounding each number to the nearest whole number and subtracting.
+Estimate the difference in their times by rounding each number to the nearest whole number and subtracting.
 
 </div>
 <div class='workings'>
@@ -212,7 +212,7 @@ $\text {Money left} = \pounds (330 - X)$
 There are $45$ scouts in a troop. The scouts are divided into patrols.
 There must be at least $6$ patrols, and each patrol must have the same number of scouts.
 
-What is the **largest** number of scouts that each patrol could contain?
+What is the largest number of scouts that each patrol could contain?
 
 </div>
 <div class='workings'>
@@ -318,8 +318,8 @@ $36$
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-At an England v Australia rugby match, there were $76432$ spectators.
-$8695$ of these spectators were supporting Australia, and the rest were supporting England.
+At an England v Australia rugby match, there were $76,432$ spectators.
+$8,695$ of these spectators were supporting Australia, and the rest were supporting England.
 
 How many spectators were supporting England?
 
@@ -513,7 +513,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -931,7 +931,7 @@ $105 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -943,26 +943,39 @@ Calculate the angle between the hands of a clock at $9.30$.
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: The difference between every $5$ minutes of a clock is $30 \degree$.
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+ABBR: The difference between minutes of a clock is $6 \degree$.
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+TODO: Show a clock with hands marked and showing the triangles
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin {aligned}
+\text {Minutes between hands of clock}  &= 15 + 2.5 \ \text{minutes} \\\\
+                                        &= 17.5 \ \text{minutes} \\\\
+\text {Angle}                           &= 17.5 \times 6 \\\\
+                                        &= 105 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$105 \degree$
 
 </div>
 </div>
@@ -1008,7 +1021,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1130,7 +1143,7 @@ $73$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1139,26 +1152,16 @@ In a class there are $9$ boys and $13$ girls. $10$ students have brown hair. $15
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -1171,26 +1174,25 @@ What is the largest possible number of boys who wear glasses?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Total students}                           &= 9 + 13 \\\\
+                                                &= 22 \\\\
+\text{Number of people who wear glasses}        &= 22 - 15 \\\\
+                                                &= 7
+\end{aligned}
+$
 
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+Maximum number of boys with glasses $= 7$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$7$
 
 </div>
 </div>
@@ -1205,26 +1207,22 @@ What is the smallest possible number of girls who do not wear glasses?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Largest number of boys with no glasses}   &= 9 \\\\
+\text{Smallest number of girls with no glasses} &= 15 - 9 \\\\
+                                                &= 6
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$6$
 
 </div>
 </div>
@@ -1239,26 +1237,28 @@ What is the largest number of boys with brown hair, who wear glasses?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
+ABBR: $(A \text{ and } B) = A + B - (A \text{ or } B)$
 
-</div>
-<div class='working placeholder'>
 
-TODOWORKING
+Using value from the answer above,
+
+$
+\begin{aligned}
+\text{Largest number of boys with glasses}                      &= 7 \\\\
+\text{Largest number of boys with brown hairs}                  &= 9 \\\\
+\text{Largest number of boys with brown hair who wear glasses}  &= 9 + 7 - 9 \\\\
+                                                                &= 7
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$7$
 
 </div>
 </div>
@@ -1538,7 +1538,7 @@ $53,47$
 
 Starting from $100$ we subtract $99$ then add $98$,
 then subtract $97$ and then add $96$ and we carry on in this way
-through all of the whole numbers from $100$ downwards until we reach the nuber $1$ (as shown below).
+through all of the whole numbers from $100$ downwards until we reach the number $1$ (as shown below).
 
 Work out the final answer. (There is a quick way !).
 

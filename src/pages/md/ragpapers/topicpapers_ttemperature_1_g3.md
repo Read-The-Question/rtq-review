@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-1-g3"
 title: "TopicPaper - Temperature - 1 - G3"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "11"
 ---
 <ul class='question default-decimal'>
@@ -209,7 +209,7 @@ Ola is looking at the scale on a thermometer.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the value on the scale at $A$?
+What is the value on the scale at $A?$
 
 </div>
 <div class='workings'>
@@ -233,7 +233,7 @@ $20$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the value on the scale at $B$?
+What is the value on the scale at $B?$
 
 </div>
 <div class='workings'>
@@ -257,7 +257,7 @@ $-10$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the value of $A - B$?
+What is the value of $A - B?$
 
 </div>
 <div class='workings'>
@@ -288,7 +288,7 @@ $30$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the value of $A + B$?
+What is the value of $A + B?$
 
 </div>
 <div class='workings'>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-9-g2"
 title: "TopicPaper - Number - 9 - G2"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "18"
 ---
 <ul class='question default-decimal'>
@@ -171,7 +171,14 @@ $27 \times 9$
 
 What digit should replace the * below?
 
-![latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-7-00.png](/assets/latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-7-00.png "latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-7-00.png") 
+$
+\begin{array}{cccccccccccccc}
+    &   *   &   3   &   9 \\
+{}- &   2   &   6   &   1 \\
+\hline
+    &   5   &   7   &   8
+\end{array}
+$
 
 - $8$ 
 

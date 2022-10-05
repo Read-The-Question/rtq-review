@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2018-sample-paper-8"
 title: "Oundle School - 11 Plus - Maths - 2018 - Sample Paper 8"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "12"
 ---
 <div class='paper'>
@@ -829,7 +829,7 @@ $0.3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -898,7 +898,7 @@ Plot the points on the graph and join them to form a straight line
 *ABBR: TODO:: Add drawing ends.*
 
 
-a $= 1.5$
+$a = 1.5$
 
 </div>
 </div>
@@ -934,7 +934,7 @@ Plot the points on the graph and join them to form a straight line
 *ABBR: TODO:: Add drawing ends.*
 
 
-b $= 3.5$
+$b = 3.5$
 
 </div>
 </div>
@@ -957,6 +957,18 @@ Give the coordinates of a new point which would form a right angled triangle wit
 </div>
 <div class='workings'>
 <div class='working'>
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Plot the points on the graph and show the triangle.
+
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 $(6, 1)$
 
@@ -1341,7 +1353,7 @@ $-91$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1433,7 +1445,10 @@ Write down a fraction that is greater than three fifths, but less than four fift
 $
 \begin{aligned}
 &= \dfrac {3.5} {5}  \\\\
-&= \dfrac{35}{50}
+&= \dfrac{35}{50} \\\\
+&= \dfrac{5 \times 7}{5 \times 10} \\\\
+&= \dfrac{\cancel{5} \times 7}{\cancel{5} \times 10} \\\\
+&= \dfrac{7}{10}
 \end{aligned}
 $
 
@@ -1442,7 +1457,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{35}{50}$
+$\dfrac{7}{10}$
 
 </div>
 </div>
@@ -1520,7 +1535,7 @@ $
 &= \dfrac {3} {5} - \dfrac {1 \times 5} {1 \times 5} \\\\
 &= \dfrac {3} {5} - \dfrac {5} {5} \\\\
 &= \dfrac {3 - 5} {5} \\\\
-&= - \dfrac {2} {5}
+&= {-}\dfrac {2} {5}
 \end{aligned}
 $
 
@@ -1529,7 +1544,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{-2}{5}$
+${-}\dfrac{2}{5}$
 
 </div>
 </div>

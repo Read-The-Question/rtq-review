@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tgraph-5-pr-prcr"
 title: "TopicPaper - Graph - 5 - PR - PRCR"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -110,8 +110,6 @@ On the centimetre square co-ordinate grid below, plot and label the points $P(3,
 
 ![the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1/section-1-question-35-subquestion-1-00.png](/assets/the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1/section-1-question-35-subquestion-1-00.png "the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1/section-1-question-35-subquestion-1-00.png")
 
-$PQRS$ is a square.
-
 </div>
 
 </div>
@@ -119,6 +117,8 @@ $PQRS$ is a square.
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
+
+$PQRS$ is a square.
 
 Write down the co-ordinates of point $S$.
 

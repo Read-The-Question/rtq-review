@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2012-sample-paper-3"
 title: "Sevenoaks School - 11 Plus - Maths - 2012 - Sample Paper 3"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "12"
 ---
 <div class='paper'>
@@ -566,7 +566,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -606,14 +606,10 @@ The next term is calculated by adding $3$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}  \\
+&   \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}  \\
 5, && 8, && 11, && \ldots, && \ldots
 \end{matrix}
 $
@@ -661,14 +657,10 @@ The next term is calculated by multiplying the previous term by $2$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}  \\
+&   \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}  \\
 4, && 8, && 16, && \ldots, && \ldots
 \end{matrix}
 $
@@ -716,14 +708,10 @@ The next term is calculated by subtracting $10$ from the previous term. Hence, t
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(-10)}}
-&&  \footnotesize{\maroonC
-{(-10)}}
-&&  \footnotesize{\maroonC
-{(-10)}}
-&&  \footnotesize{\maroonC
-{(-10)}}  \\
+&   \footnotesize{\maroonC{(-10)}}
+&&  \footnotesize{\maroonC{(-10)}}
+&&  \footnotesize{\maroonC{(-10)}}
+&&  \footnotesize{\maroonC{(-10)}}  \\
 100, && 90, && 80, && \ldots, && \ldots
 \end{matrix}
 $
@@ -919,7 +907,7 @@ $74$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -952,22 +940,6 @@ The normal price of a TV was $\pounds 600$. Work out the sale price of the TV.
 <div class='workings'>
 <div class='working'>
 
-$
-\begin {aligned}
-\text {Sale price}  &= \text {Normal Price} - \text {Discount} \\\\
-                    &= 600  - 35\% \ \text{of} \ 600 \\\\
-                    &= 600 - \dfrac {35} {100} \times 600 \\\\
-                    &= 600 - \dfrac {35 \times 600} {100} \\\\
-                    &= 600 - \dfrac {35 \times 6 \cancel {00}} {1 \cancel {00}} \\\\
-                    &= 600 - 35 \times 6 \\\\
-                    &= 600 - 210 \\\\
-                    &= \pounds 390
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
 If the price is reduced by $35 \%$, then the new price will be $100 - 35 = 65 \%$ of the original price. Using that, we get
 
 $
@@ -977,6 +949,24 @@ $
                     &= \dfrac {65 \times 600} {100} \\\\
                     &= \dfrac {65 \times 6 \cancel {00}} {1 \cancel {00}} \\\\
                     &= 65 \times 6 \\\\
+                    &= \pounds 390
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+ABBR: $\text {Sale price = Original price} - \text{Discount } \% \times \text{Original price}$
+
+
+$
+\begin {aligned}
+\text {Sale price}  &= 600  - 35\% \ \text{of} \ 600 \\\\
+                    &= 600 - \dfrac {35} {100} \times 600 \\\\
+                    &= 600 - \dfrac {35 \times 600} {100} \\\\
+                    &= 600 - \dfrac {35 \times 6 \cancel {00}} {1 \cancel {00}} \\\\
+                    &= 600 - 35 \times 6 \\\\
+                    &= 600 - 210 \\\\
                     &= \pounds 390
 \end{aligned}
 $
@@ -1003,15 +993,14 @@ The normal price of a clock was reduced by $\pounds 140$. Work out the normal pr
 <div class='workings'>
 <div class='working'>
 
-Let normal price $= a$.
+Let the normal price $= a$.
 
 As per the question,
 
 $
 \begin{aligned}
-35\% \ \text{of} \ a         &= 140 \\\\
+35\% \times a                &= 140 \\\\
 \dfrac {35} {100} \times a   &= 140 \\\\
-a                            &= 140 \times \dfrac {100} {35} \\\\
 a                            &= \dfrac {140 \times 100} {35} \\\\
 a                            &= \dfrac {35 \times 4 \times 100} {35} \\\\
 a                            &= \dfrac {\cancel {35} \times 4 \times 100} {\cancel {35}} \\\\
@@ -1019,6 +1008,8 @@ a                            &= 4 \times 100 \\\\
 a                            &= \pounds 400
 \end {aligned}
 $
+
+Normal price $= \pounds 400$
 
 </div>
 </div>
@@ -1044,13 +1035,14 @@ The sale price of a computer was $\pounds 884$. Work out the normal price of the
 
 Let the normal price of $= a$.
 
+If the price is reduced by $35 \%$, then the new price will be $100 - 35 = 65 \%$ of the original price. Using that, we get
+
 As per the question,
 
 $ 
 \begin {aligned}
-65 \% \ \text{of} \ a             &= 884 \\\\
+65 \% \times a                    &= 884 \\\\
 \dfrac {65} {100} \times a        &= 884 \\\\
-a                                 &= 884 \times \dfrac {100} {65} \\\\
 a                                 &= \dfrac {884 \times 100} {65} \\\\
 a                                 &= \dfrac {13 \times 68 \times 5 \times 20} {13 \times 5} \\\\
 a                                 &= \dfrac {\cancel {13} \times 68 \times \cancel 5 \times 20} {\cancel {13} \times \cancel 5} \\\\
@@ -1059,7 +1051,33 @@ a                                 &= \pounds 1360
 \end {aligned}
 $
 
-Normal price of a computer $\pounds 1360$
+Normal price of a computer $= \pounds 1360$
+
+</div>
+<div class='working'>
+
+Let the normal price of $= a$.
+
+As per the question,
+
+$ 
+\begin {aligned}
+a - 35 \% \times a                                  &= 884 \\\\
+a - \dfrac {35} {100} \times a                      &= 884 \\\\
+a - \dfrac {35a} {100}                              &= 884 \\\\
+\dfrac {100 \times a} {100} - \dfrac {35a} {100}    &= 884 \\\\
+\dfrac {100a} {100} - \dfrac {35a} {100}            &= 884 \\\\
+\dfrac {100a - 35a} {100}                           &= 884 \\\\
+\dfrac {65a} {100}                                  &= 884 \\\\
+a                                                   &= \dfrac {884 \times 100} {65} \\\\
+a                                                   &= \dfrac {13 \times 68 \times 5 \times 20} {13 \times 5} \\\\
+a                                                   &= \dfrac {\cancel {13} \times 68 \times \cancel 5 \times 20} {\cancel {13} \times \cancel 5} \\\\
+a                                                   &= 68 \times 20 \\\\
+a                                                   &= \pounds 1360
+\end {aligned}
+$
+
+Normal price of a computer $= \pounds 1360$
 
 </div>
 </div>
@@ -1077,7 +1095,7 @@ $\pounds 1360$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1088,26 +1106,16 @@ Class Five conduct a traffic survey of the colours of $180$ cars.  They put thei
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -1122,13 +1130,11 @@ Find the value of $x \degree$.
 <div class='workings'>
 <div class='working'>
 
-The value of $x \degree$ is given by,
-
 $
 \begin{aligned}
-x\degree &= 360\degree - (76\degree + 84\degree + 62\degree) \\\\
-x        &= 360 - 222 \\\\
-x        &= 138\degree
+\text{Value of x}       &= 360 - (76 + 84 + 62) \\\\
+                        &= 360 - 76 - 84 - 62 \\\\
+                        &= 138 \degree
 \end{aligned}
 $
 
@@ -1137,7 +1143,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$138\degree$
+$138 \degree$
 
 </div>
 </div>
@@ -1152,26 +1158,24 @@ How many red cars were seen?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Numer of red cars}        &= \dfrac {84} {360} \times 180 \\\\
+                                &= \dfrac {84 \times 180} {360} \\\\
+                                &= \dfrac {42 \times 2 \times 180} {180 \times 2} \\\\
+                                &= \dfrac {42 \times \cancel 2 \times \cancel {180}} {\cancel {180} \times \cancel 2} \\\\
+                                &= 42
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer placeholder'>
-
-TODOANSWER
+$42$
 
 </div>
 </div>
@@ -1224,7 +1228,7 @@ $65 \%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prrl question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>

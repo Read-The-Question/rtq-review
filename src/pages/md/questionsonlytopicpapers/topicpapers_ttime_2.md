@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-ttime-2"
 title: "TopicPaper - Time - 2"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "40"
 ---
 <div class='paper'>
@@ -16,12 +16,12 @@ questions_count: "40"
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Shanghai in China is $8 hours$ ahead of the time in the UK. If it is $09.00$ in the UK, what time is it in Shanghai?
+Shanghai in China is $8 \ \text{hours}$ ahead of the time in the UK. If it is $09.00$ in the UK, what time is it in Shanghai?
 
 </div>
 
@@ -64,7 +64,7 @@ How many seconds in a day?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -82,7 +82,7 @@ For example, the display below represents the time $05{:}26$ since:
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write down the time in ($24-\text{hour}$ format) represented by the display:
+Write down the time (in $24-\text{hour}$ format) represented by the display:
 
 ![dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-19-subquestion-1-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-19-subquestion-1-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-19-subquestion-1-00.png")
 
@@ -119,7 +119,7 @@ Calculate how long it is between the times displayed on watch A and watch B belo
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -132,7 +132,7 @@ A sleeper train leaves London at $22{:}45$ and reaches Aberdeen at $06{:}30$ the
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Work out how long the journey takes in hours and minutes.
+Work out how long the journey takes in $\text{hours}$ and $\text{minutes}$.
 
 </div>
 
@@ -235,7 +235,7 @@ and the distance travelled is $420 \ \text{miles}$. Calculate the speed of the t
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -258,7 +258,7 @@ Rosa takes $37 \ \text{minutes}$ to travel to work each morning. She leaves home
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The journey home in the evening takes the same time. She arrives home at $6.23 \ \text{p.m.}$. At what time did she leave work? 
+The journey home in the evening takes the same time. She arrives home at $6.23 \ \text{p.m.}$ At what time did she leave work? 
 
 </div>
 

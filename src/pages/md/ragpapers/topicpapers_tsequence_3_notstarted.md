@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-3-notstarted"
 title: "TopicPaper - Sequence - 3 - NOTSTARTED"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -97,7 +97,7 @@ TODOANSWER
 
 Robin notices that he can take two copies of Pattern $4$ and make them into a $4\times5$ rectangle:
 
-![latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-00.png](/assets/latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-00.png "latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-00.png")        ![latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-01.png](/assets/latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-01.png "latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-01.png")
+![latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-00.png](/assets/latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-00.png "latymer-upper-school--11-plus--maths--2020--sample-paper-2/section-1-question-27-subquestion-3-00.png") 
 
 </div>
 <div class='workings'>

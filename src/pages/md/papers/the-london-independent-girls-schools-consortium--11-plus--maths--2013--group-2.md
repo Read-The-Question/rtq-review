@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2013-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2013 - Group 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "38"
 ---
 <div class='paper'>
@@ -803,7 +803,7 @@ $75\%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -851,8 +851,8 @@ Let's complete the table.
 |                  **input**                              |                  **output**                                |
 |:-------------------------------------------------------:|:----------------------------------------------------------:|
 |                      $1$                                |                    $8$                                     |
-|                      $0$                                |  $(0 + 3) \times 2 = 3 \times 2 = 6 \ \footnotesize{(1)}$  |
-|  $\dfrac {14} {2} - 3 = 7 - 3 = 4 \ \footnotesize{(2)}$ |                    $14$                                    |
+|                      $0$                                |  $(0 + 3) \times 2 = 3 \times 2 = 6 \ \maroonC{\footnotesize{(1)}}$  |
+|  $\dfrac {14} {2} - 3 = 7 - 3 = 4 \ \maroonC{\footnotesize{(2)}}$ |                    $14$                                    |
 
 </div>
 </div>
@@ -1998,7 +1998,7 @@ On the centimetred-square grid below, draw a triangle with are $21 \ \text{cm}^2
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2109,7 +2109,7 @@ Plot the points on the graph and show the length of sides of rhombus
 *ABBR: TODO:: Add drawing ends.*
 
 
-$(6, 5)$
+Coordinates $= (6, 5)$
 
 </div>
 </div>
@@ -2449,7 +2449,7 @@ $11$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2512,9 +2512,9 @@ Complete the bar chart by drawing the bar to show the number of girls who have $
 
 $
 \begin{aligned}
-\text{Number of girls with 5 pets}    &= 26 - 2 - 5 - 8 - 6 - 3 \\\\
-                                      &= 26 - 24 \\\\
-                                      &= 2
+\text{Girls with 5 pets}    &= 26 - 2 - 5 - 8 - 6 - 3 \\\\
+                            &= 26 - 24 \\\\
+                            &= 2
 \end{aligned}
 $
 
@@ -2554,9 +2554,9 @@ How many pets are owned altogether by $26$ girls?
 
 $
 \begin{aligned}
-\text{Total number of pets}   &= 2 \times 0 + 5 \times 1 + 8 \times 2 + 6 \times 3 + 3 \times 4 + 2 \times 5 \\\\
-                              &= 0 + 5 + 16 + 18 + 12 + 10 \\\\
-                              &= 61
+\text{Number of pets}   &= 2 \times 0 + 5 \times 1 + 8 \times 2 + 6 \times 3 + 3 \times 4 + 2 \times 5 \\\\
+                        &= 0 + 5 + 16 + 18 + 12 + 10 \\\\
+                        &= 61
 \end{aligned}
 $
 
@@ -2769,7 +2769,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -2858,9 +2858,9 @@ Let's complete the table.
 |:---------------:|:------------------------:|:---------------------------------------------------:|
 | $1$ (when born) |         $1$              |         $5$                                         |
 |       $2$       |         $2$              |         $9$                                         |
-|       $3$       | $3 \ \footnotesize{(1)}$ | $3 \times 4 + 1 = 12 + 1 = 13 \ \footnotesize{(4)}$ |
-|       $4$       | $4 \ \footnotesize{(2)}$ | $4 \times 4 + 1 = 16 + 1 = 17 \ \footnotesize{(5)}$ |
-|       $5$       | $5 \ \footnotesize{(3)}$ | $5 \times 4 + 1 = 20 + 1 = 21 \ \footnotesize{(6)}$ |
+|       $3$       | $3 \ \maroonC{\footnotesize{(1)}}$ | $3 \times 4 + 1 = 12 + 1 = 13 \ \maroonC{\footnotesize{(4)}}$ |
+|       $4$       | $4 \ \maroonC{\footnotesize{(2)}}$ | $4 \times 4 + 1 = 16 + 1 = 17 \ \maroonC{\footnotesize{(5)}}$ |
+|       $5$       | $5 \ \maroonC{\footnotesize{(3)}}$ | $5 \times 4 + 1 = 20 + 1 = 21 \ \maroonC{\footnotesize{(6)}}$ |
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedmultiplication-3-g3"
 title: "TopicPaper - Detailedmultiplication - 3 - G3"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "37"
 ---
 <ul class='question default-decimal'>

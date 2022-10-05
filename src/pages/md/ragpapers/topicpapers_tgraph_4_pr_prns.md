@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tgraph-4-pr-prns"
 title: "TopicPaper - Graph - 4 - PR - PRNS"
-date: 2022-09-24 04:59:20
+date: 2022-10-04 10:03:20
 questions_count: "35"
 ---
 <ul class='question default-decimal'>
@@ -410,6 +410,8 @@ $(6, 26), (9, 38)$
 <div class='question question'>
 
 You have $5$ pieces of card shaped like this:
+
+![st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-2-question-8-00.png](/assets/st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-2-question-8-00.png "st-pauls-girls-school--11-plus--maths--2016--sample-paper-2/section-2-question-8-00.png")
 
 </div>
 <div class='workings'>

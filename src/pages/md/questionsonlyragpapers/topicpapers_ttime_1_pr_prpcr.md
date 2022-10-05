@@ -1,8 +1,8 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-ttime-1-pr-prpcr"
 title: "TopicPaper - Time - 1 - PR - PRPCR"
-date: 2022-09-24 05:07:09
-questions_count: "8"
+date: 2022-10-04 10:09:40
+questions_count: "1"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,13 +13,13 @@ questions_count: "8"
 
 Part of a bus timetable is shown below:
 
-| Depart Pepperton | $07h45$ | $08h30$ | $09h30$ | $10h45$ | $11h30$ | $12h15$ |
-|:----------------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-|   Arrive Salton  | $08h32$ | $09h17$ | $10h17$ | $11h32$ | $12h17$ | $13h02$ |
+| Depart Pepperton | $07 \text{h} 45$ | $08 \text{h} 30$ | $09 \text{h} 30$ | $10 \text{h} 45$ | $11 \text{h} 30$ | $12 \text{h} 15$ |
+|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|
+|   Arrive Salton  | $08 \text{h} 32$ | $09 \text{h} 17$ | $10 \text{h} 17$ | $11 \text{h} 32$ | $12 \text{h} 17$ | $13 \text{h} 02$ |
 
-| Depart Pepperton | $07h45$ | $08h30$ | $09h30$ | $10h45$ | $11h30$ | $12h15$ |
-|:----------------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-|   Arrive Salton  | $08h32$ | $09h17$ | $10h17$ | $11h32$ | $12h17$ | $13h02$ |
+| Depart Pepperton | $07 \text{h} 45$ | $08 \text{h} 30$ | $09 \text{h} 30$ | $10 \text{h} 45$ | $11 \text{h} 30$ | $12 \text{h} 15$ |
+|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|
+|   Arrive Salton  | $08 \text{h} 32$ | $09 \text{h} 17$ | $10 \text{h} 17$ | $11 \text{h} 32$ | $12 \text{h} 17$ | $13 \text{h} 02$ |
 
 
 </div>
@@ -97,137 +97,6 @@ How much change did they get?
 </div>
 </li>
 </ul>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prpcr question'>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
-The lengths of four of the Henry Potter films are as follows:
-
-Henry Potter and the Philosopher’s Loan  $143 \ \text{minutes}$
-
-Henry Potter and the Pizza of Azkaban   $158 \ \text{minutes}$
-
-Henry Potter and the Half Asleep Prince  $144 \ \text{minutes}$
-
-Henry Potter and the Dodgy Shadows  $135 \ \text{minutes}$
-
-Find the *total* length of all four films, giving your answer in hours and minutes.
-
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prpcr question'>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
-The day before yesterday my daughter was $10$ years old. Next year she will be $13$ years old. What is the date today?
-
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prpcr question'>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
-Jack runs the $100 \ \text{metres}$ in a time of $15.47 \ \text{seconds}$.
-Emily runs the same distance in a time of $13.762 \ \text{seconds}$.
-
-**Estimate** the difference in their times by rounding each number to the nearest whole number and subtracting.
-
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prpcr question'>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
-Petrov wants to "listen again" to several shows on the radio and is checking the list of the broadcast times.
-
-![csse--11-plus--maths--2015--sample-paper-2/section-1-question-14-00.png](/assets/csse--11-plus--maths--2015--sample-paper-2/section-1-question-14-00.png "csse--11-plus--maths--2015--sample-paper-2/section-1-question-14-00.png")
-
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How long does the 'Power Hour' show last?
-
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Petrov downloads and listens to the 'Request Slot' and the 'Re-mix Revenge' immediately after each other. 
-He starts listenig at $1952$, what time does he finish?
-
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-What time should Petrov start to listen to the 'Crunch Time' download, if he wants to finish listening at $2015$?
-
-</div>
-
-</div>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prpcr question'>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
-How many seconds in $24 hours$?
-
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prpcr question'>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
-How many seconds in an $\text{hour}$?
-
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prpcr question'>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
-How many seconds in $24$ hours?
-
-</div>
-
 </div>
 </li>
 </ul>

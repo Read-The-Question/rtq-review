@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tnumber-4"
 title: "TopicPaper - Number - 4"
-date: 2022-09-24 05:07:09
+date: 2022-10-04 10:09:40
 questions_count: "40"
 ---
 <div class='paper'>
@@ -16,7 +16,7 @@ questions_count: "40"
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -43,7 +43,7 @@ What number is the arrow pointing to? Write your answer in the box.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Now draw an arrow on the number line above to show the number that is $\bold{1.2\:\:less\:\: than\:\: 7}$.
+Now draw an arrow on the number line above to show the number that is $1.2$ less than $7$.
 
 </div>
 
@@ -53,7 +53,7 @@ Now draw an arrow on the number line above to show the number that is $\bold{1.2
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Work out the answer to $\bold{6.7 - 0.8}$.
+Work out the answer to $6.7 - 0.8$.
 
 </div>
 
@@ -89,12 +89,12 @@ Find the sum of the prime numbers between $50$ and $60$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-If you add up the digits of $14$ you get $5$ i.e. $1 + 4 = 5$. **How many** $2$ -digit numbers are there altogether (including $14$) which add up to a *multiple* of $5$?
+If you add up the digits of $14$ you get $5$ i.e. $1 + 4 = 5$. How many $2$-digit numbers are there altogether (including $14$) which add up to a multiple of $5?$
 
 </div>
 
@@ -113,12 +113,12 @@ Find the sum of the smallest multiple of $11$ greater than $100$ and the largest
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-$ \approx$ means approximately equal to. Given that $1\ \text{kilogram (kg)}$  $ \approx$ 2·2\ \text{pounds (lb)}$, convert $154\ \text{lb}$ to $\text{kg}$.
+$\approx$ means approximately equal to. Given that $1\ \text{kilogram (kg)} \approx 2·2\ \text{pounds (lb)}$, convert $154\ \text{lb}$ to $\text{kg}$.
 
 </div>
 
@@ -237,7 +237,7 @@ Do your working below the answer line.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -258,7 +258,7 @@ $4^3 = \ldots $
 
 $\dfrac{240}{300}$ in its simplest form is $ \ldots $
 
-$25\% of 68 = \ldots $ 
+$25\%$ of $68 = \ldots $ 
 
 $43 \times 38 = \ldots $ 
 
@@ -287,12 +287,12 @@ $\underline{You\:\: do\:\: not\:\: need\:\: to\:\: write\:\: your\:\: digits\:\:
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-$\huge{\bold{20, 21, 22, 23, 24, 25, 26, 27, 28,}}$ 
+$20, 21, 22, 23, 24, 25, 26, 27, 28,$ 
 
 Write one number from $20$ to $30$ that satisfies the descriptions below. Some numbers are used more than once. 
 
@@ -302,7 +302,7 @@ Write one number from $20$ to $30$ that satisfies the descriptions below. Some n
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$\underline{Prime}?$
+Prime?
 
 </div>
 
@@ -312,7 +312,7 @@ $\underline{Prime}?$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$\underline{Cube\:\: numbers}?$
+Cube numbers?
 
 </div>
 
@@ -322,7 +322,7 @@ $\underline{Cube\:\: numbers}?$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$\underline{Square\:\: numbers}?$
+Square numbers?
 
 </div>
 
@@ -332,21 +332,9 @@ $\underline{Square\:\: numbers}?$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$\underline{Fibonacci\:\: numbers}$?
+Fibonacci numbers?
 
-*The Fibonacci numbers follow the sequence 1, 1, 2, 3, 5, 8, 13...*
-
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$\underline{Triangular\:\: numbers}?$
-
-*The triangular numbers follow the sequence 1, 3, 6, 10, 15,* ...
+The Fibonacci numbers follow the sequence $1, 1, 2, 3, 5, 8, 13 \ldots $
 
 </div>
 
@@ -356,7 +344,19 @@ $\underline{Triangular\:\: numbers}?$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$\underline{Perfect\:\: numbers}?$
+Triangular numbers?
+
+The triangular numbers follow the sequence $1, 3, 6, 10, 15, \ldots $
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Perfect numbers?
 
 A perfect number is a number whose factors (not including itself) add up to itself. 
 
@@ -370,9 +370,9 @@ e.g. $6$ is a perfect number because $1 + 2 + 3 = 6$.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$\underline{Powerful\:\: numbers}?$
+Powerful numbers?
 
-A powerful number has the property that for **every** prime number which divides into it, that **prime** number squared also divides into it.
+A powerful number has the property that for every prime number which divides into it, that prime number squared also divides into it.
 
 e.g. $16$ is a powerful number because both $2$ and $2^2$ are factors.
 
@@ -384,12 +384,12 @@ e.g. $16$ is a powerful number because both $2$ and $2^2$ are factors.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-What is $4 - ((4 + 4) \div 4)$? 
+What is $4 - ((4 + 4) \div 4)?$ 
 
 </div>
 
@@ -760,12 +760,12 @@ $1.1 \div 2 = 0.{?}5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-In each of the following calculations there is an error, which can be corrected by changing one digit **to the number** $\bold{7}$. In each case identify that digit.
+In each of the following calculations there is an error, which can be corrected by changing one digit to the number $7$. In each case identify that digit.
 
 </div>
 <ul class='subquestion lower-alpha'>
@@ -775,7 +775,7 @@ In each of the following calculations there is an error, which can be corrected 
 
 $98 - 65 = 32$
 
-Which digit needs to be replaced with a $\bold{7}$?
+Which digit needs to be replaced with a $7?$
 
 </div>
 
@@ -787,7 +787,7 @@ Which digit needs to be replaced with a $\bold{7}$?
 
 $39 + 48 + 50 = 167$
 
-Which digit needs to be replaced with a $\bold{7}$?
+Which digit needs to be replaced with a $7?$
 
 </div>
 
@@ -799,7 +799,7 @@ Which digit needs to be replaced with a $\bold{7}$?
 
 $734 + (8 \times 26) = 950$
 
-Which digit needs to be replaced with a $\bold{7}$?
+Which digit needs to be replaced with a $7?$
 
 </div>
 
@@ -809,7 +809,7 @@ Which digit needs to be replaced with a $\bold{7}$?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -822,7 +822,7 @@ Which digit needs to be replaced with a $\bold{7}$?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-How many grams are there in $2.5 \ \text{kg}$?
+How many grams are there in $2.5 \ \text{kg}?$
 
 </div>
 
@@ -832,7 +832,7 @@ How many grams are there in $2.5 \ \text{kg}$?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Andy has $5 \ \text{m} \ 35 \ \text{cm}$ of tape. He uses $243 \ \text{cm}$ for wrapping parcels. How many cm of tape does he have left over?
+Andy has $5 \ \text{m} \ 35 \ \text{cm}$ of tape. He uses $243 \ \text{cm}$ for wrapping parcels. How many $\text{cm}$ of tape does he have left over?
 
 </div>
 
@@ -882,7 +882,7 @@ $\boxed{\phantom{1}} \ + \boxed{\phantom{1}} \ \times \boxed{\phantom{1}} = 33$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -895,7 +895,7 @@ $\boxed{\phantom{1}} \ + \boxed{\phantom{1}} \ \times \boxed{\phantom{1}} = 33$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Which whole number less than twenty is *both* an even number *and* a prime number?
+Which whole number less than twenty is both an even number and a prime number?
 
 </div>
 
@@ -906,7 +906,7 @@ Which whole number less than twenty is *both* an even number *and* a prime numbe
 <div class='question subquestion'>
 
 $4$ is a square number and also an even number.
-*How many* other whole numbers less than fifty are even square numbers?
+How many other whole numbers less than fifty are even square numbers?
 
 </div>
 
@@ -916,7 +916,7 @@ $4$ is a square number and also an even number.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Which three prime numbers multiply together to make $154$?
+Which three prime numbers multiply together to make $154?$
 
 </div>
 
@@ -926,7 +926,7 @@ Which three prime numbers multiply together to make $154$?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -943,7 +943,7 @@ $\boxed{18} \quad \boxed{26} \quad \boxed{37} \quad \boxed{49}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Which two numbers have a difference of $10$?
+Which two numbers have a difference of $10?$
 
 </div>
 
@@ -963,7 +963,7 @@ What is the largest total that can be made adding two cards?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Which two numberes cards add to make $44$?
+Which two numberes cards add to make $44?$
 
 </div>
 
@@ -973,19 +973,9 @@ Which two numberes cards add to make $44$?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Which two numbered cards can be added to make $62$?
+Which two numbered cards can be added to make $62?$
 
-This can be done using **two** different pairs.
-
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Which card is the largest multiple of $3$?
+This can be done using two different pairs.
 
 </div>
 
@@ -995,7 +985,17 @@ Which card is the largest multiple of $3$?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is total of the three *prime* numbered cards?
+Which card is the largest multiple of $3?$
+
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What is total of the three prime numbered cards?
 
 </div>
 
@@ -1005,7 +1005,7 @@ What is total of the three *prime* numbered cards?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1018,7 +1018,7 @@ What is total of the three *prime* numbered cards?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What number must be added to $6.4$ to make $10$?
+What number must be added to $6.4$ to make $10?$
 
 </div>
 
@@ -1028,7 +1028,7 @@ What number must be added to $6.4$ to make $10$?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What number must be added to $5.37$ to make $6$?
+What number must be added to $5.37$ to make $6?$
 
 </div>
 
@@ -1038,7 +1038,7 @@ What number must be added to $5.37$ to make $6$?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the difference between $6.4$ and $7.28$?
+What is the difference between $6.4$ and $7.28?$
 
 </div>
 
@@ -1091,7 +1091,7 @@ $4 \times 5 + 7 \ \square \ (5 + 4) \times (7 - 4)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1116,8 +1116,8 @@ Dean is using each card once to create two digit numbers (for example $37$ or $5
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Dean is using each card once to create four digit numbers (for example $3751$. 
-How **many** numbers can he make that are bigger than $7000$?
+Dean is using each card once to create four digit numbers (for example $3751$). 
+How many numbers can he make that are bigger than $7000?$
 
 </div>
 
@@ -1202,7 +1202,7 @@ $6 \quad 6 \quad  \boxed{\phantom{1}}
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1215,7 +1215,7 @@ $6 \quad 6 \quad  \boxed{\phantom{1}}
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the value of $11^2$?
+What is the value of $11^2?$
 
 </div>
 
@@ -1235,7 +1235,7 @@ Calculate $13 \times 13$.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-How many square numbers are there between $101$ and $200$?
+How many square numbers are there between $101$ and $200?$
 
 </div>
 
@@ -1388,7 +1388,7 @@ Write (a), (b) or (c) in the answer box.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1413,7 +1413,7 @@ $0.1$ and $0.4?$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Which numer is halfway between:
+Which number is halfway between:
 
 $0.01$ and $0.26?$
 
@@ -1427,7 +1427,7 @@ $0.01$ and $0.26?$
 
 Which is the smallest:
 
-$5.301, \quad 5.031, \quad 5.13$ or $5.103?$
+$5.301, 5.031, 5.13$ or $5.103?$
 
 </div>
 
@@ -1511,7 +1511,7 @@ $4^3 - 3^4 =$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1524,7 +1524,7 @@ $4^3 - 3^4 =$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-A bottle contains $0.35 \ \text{litres}$, how many \ \text{ml} is this?
+A bottle contains $0.35 \ \text{litres}$, how many $\text{ml}$ is this?
 
 </div>
 
@@ -1534,7 +1534,7 @@ A bottle contains $0.35 \ \text{litres}$, how many \ \text{ml} is this?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-A picture is $540 \ \text{mm}$ tall, what is this measurement in \ \text{cm}?
+A picture is $540 \ \text{mm}$ tall, what is this measurement in $\text{cm}?$
 
 </div>
 
@@ -1544,7 +1544,7 @@ A picture is $540 \ \text{mm}$ tall, what is this measurement in \ \text{cm}?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-A bag of flour contains $1029 \ \text{g}$. Rewrite the quantity in \ \text{kg}.
+A bag of flour contains $1029 \text{g}$. Rewrite the quantity in $\text{kg}$.
 
 </div>
 
@@ -1554,7 +1554,7 @@ A bag of flour contains $1029 \ \text{g}$. Rewrite the quantity in \ \text{kg}.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Add together $1 \ \text{mm}$, $0.1 \ \text{cm}$ and $0.1 \ \text{m}$. Give your answer in \ \text{cm}.
+Add together $1 \ \text{mm}$, $0.1 \ \text{cm}$ and $0.1 \ \text{m}$. Give your answer in $\text{cm}$.
 
 </div>
 
@@ -1568,7 +1568,7 @@ The area of a postage stamp is calculated as:
 
 $2 \ \text{cm} \times 2.5 \ \text{cm} = 5 \ \text{cm}^2$
 
-What is the area of this stamp in $\text{mm}^2$?
+What is the area of this stamp in $\text{mm}^2?$
 
 </div>
 

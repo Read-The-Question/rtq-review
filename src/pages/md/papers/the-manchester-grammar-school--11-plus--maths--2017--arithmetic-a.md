@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2017-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2017 - Arithmetic A"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "20"
 ---
 <div class='paper'>
@@ -143,7 +143,7 @@ $20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -174,7 +174,7 @@ $
 \end{aligned}
 $
 
-The number in the middle $= \dfrac{2}{3}$
+Number in the middle $= \dfrac{2}{3}$
 
 </div>
 </div>
@@ -432,7 +432,7 @@ $4.5 \ \text {kg}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -444,43 +444,17 @@ If $7$ of these children said they liked both and $3$ others said they only like
 <div class='workings'>
 <div class='working'>
 
+ABBR: $(A \text{ or } B) = A + B - (A \text{ and } B)$
 
-Let's take number of children who liked
-
-orange juice as $o$
-
-lemonade as $l$
-
-both orange and lemonade as $b$
-
-water as $w$
-
-As per question number of children who liked :
 
 $
 \begin{aligned}
-o &= 12\\
-l &= 10\\
-b &= 7\\
-w &= 3\\
+\text{Children who liked anyone drink}      &= 12 + 10 - 7 \\\\
+                                            &= 15 \\\\
+\text{Total number of children}             &= 15 + 3 \\\\
+                                            &= 18
 \end{aligned}
 $
-
-Total children = (only Orange juice + only lemonade  + water) - both orange and lemonade
-
-Total children $= (o + l + w) - b$
-
-Let's substitute,
-
-$
-\begin{aligned}
-&= (12 + 10 + 3) - 7\\
-&= 25 - 7 \\
-&= 18
-\end{aligned}
-$
-
-$18$ children were at the birthday party.
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/hampton-court-house-11-plus-maths-9999-sample-paper-2"
 title: "Hampton Court House - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "19"
 ---
 <div class='paper'>
@@ -531,22 +531,14 @@ The next term is calculated by subtracting $3$ to the previous term. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC
- {(-3)} } 
-&&  \footnotesize {\maroonC
- {(-3)} }  
-&&  \footnotesize {\maroonC
- {(-3)} }   
-&&  \footnotesize {\maroonC
- {(-3)} }   
-&&  \footnotesize {\maroonC
- {(-3)} }
-&&  \footnotesize {\maroonC
- {(-3)} }
-&&  \footnotesize {\maroonC
- {(-3)} }
-&&  \footnotesize {\maroonC
- {(-3)} }  \\
+&   \footnotesize {\maroonC {(-3)} } 
+&&  \footnotesize {\maroonC {(-3)} }  
+&&  \footnotesize {\maroonC {(-3)} }   
+&&  \footnotesize {\maroonC {(-3)} }   
+&&  \footnotesize {\maroonC {(-3)} }
+&&  \footnotesize {\maroonC {(-3)} }
+&&  \footnotesize {\maroonC {(-3)} }
+&&  \footnotesize {\maroonC {(-3)} }  \\
 28,  &&  25,  &&  22,  &&  19,  &&  16,  &&  13,  &&  10,  && \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -1387,9 +1379,7 @@ Let's arrange the marks scored in ascending order.
 $
 \begin {aligned}
 \text{Marks scored}           &= 20, \quad 5, \quad 10, \quad 12, \quad 0, \quad 1, \quad 14, \quad 2, \quad 15, \quad 14, \quad 3, \quad 5, \quad 14, \quad 4 \\\\
-\text{Ordered marks scored}   &= 0, \quad 1, \quad 2, \quad 3, \quad 4, \quad 5, \quad \maroonC
-{5}, \quad \maroonC
-{10}, \quad 12, \quad 14, \quad 14, \quad 14, \quad 15, \quad 20 \\\\
+\text{Ordered marks scored}   &= 0, \quad 1, \quad 2, \quad 3, \quad 4, \quad 5, \quad \maroonC{5}, \quad \maroonC{10}, \quad 12, \quad 14, \quad 14, \quad 14, \quad 15, \quad 20 \\\\
 \text{Median}                 &= \dfrac {5 + 10} {2} \\\\
                               &= \dfrac {15} {2} \\\\
                               &= 7.5
@@ -1527,9 +1517,7 @@ $
 \begin {aligned}
 \text{Old median}             &= 7.5 \\\\
 \text{Marks scored}           &= 20, \quad 5, \quad 10, \quad 12, \quad 1, \quad 1, \quad 14, \quad 2, \quad 15, \quad 14, \quad 3, \quad 5, \quad 14, \quad 4 \\\\
-\text{Ordered marks scored}   &= 1, \quad 1, \quad 2, \quad 3, \quad 4, \quad 5, \quad \maroonC
-{5}, \quad \maroonC
-{10}, \quad 12, \quad 14, \quad 14, \quad 14, \quad 15, \quad 20 \\\\
+\text{Ordered marks scored}   &= 1, \quad 1, \quad 2, \quad 3, \quad 4, \quad 5, \quad \maroonC{5}, \quad \maroonC{10}, \quad 12, \quad 14, \quad 14, \quad 14, \quad 15, \quad 20 \\\\
 \text{New median}             &= \dfrac {5 + 10} {2} \\\\
                               &= \dfrac {15} {2} \\\\
                               &= 7.5

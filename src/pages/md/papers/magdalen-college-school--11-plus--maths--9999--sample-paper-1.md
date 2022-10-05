@@ -1,7 +1,7 @@
 ---
 slug: "papers/magdalen-college-school-11-plus-maths-9999-sample-paper-1"
 title: "Magdalen College School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-09-24 04:56:14
+date: 2022-10-04 10:00:52
 questions_count: "18"
 ---
 <div class='paper'>
@@ -647,7 +647,7 @@ $d$ $=$ $28 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -687,18 +687,12 @@ The next term is calculated by adding $4$ to the previous term. Hence, the seque
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}  \\
+&   \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}  \\
 3,  &&  7,  &&  11,  &&  15,  &&  19,  &&  \ldots,  &&  \ldots  
 \end{matrix}
 $
@@ -746,16 +740,11 @@ The next term is calculated by multiplying the previous term by $2$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 2)}} 
-&&  \footnotesize{\maroonC
-{(\times 2)}}  
-&&  \footnotesize{\maroonC
-{(\times 2)}}   
-&&  \footnotesize{\maroonC
-{(\times 2)}}   
-&&  \footnotesize{\maroonC
-{(\times 2)}} \\
+&   \footnotesize{\maroonC{(\times 2)}} 
+&&  \footnotesize{\maroonC{(\times 2)}}  
+&&  \footnotesize{\maroonC{(\times 2)}}   
+&&  \footnotesize{\maroonC{(\times 2)}}   
+&&  \footnotesize{\maroonC{(\times 2)}} \\
 3,  &&  6,  &&  12,  &&  24,  &&  \ldots,  &&  \ldots  
 \end{matrix}
 $
@@ -801,18 +790,12 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{(+2)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+8)}}
-&&  \footnotesize{\maroonC
-{(+10)}}
-&&  \footnotesize{\maroonC
-{(+12)}}  \\
+&   \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+8)}}
+&&  \footnotesize{\maroonC{(+10)}}
+&&  \footnotesize{\maroonC{(+12)}}  \\
 3,  &&  5,  &&  9,  &&  15,  &&  23,  &&  \ldots,  &&  \ldots  
 \end{matrix}
 $
@@ -860,16 +843,11 @@ The numerator and the denominator are two separate sequences.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
-{\dfrac{(+2)}{(+5)}}}
-&&  \footnotesize{\maroonC
-{\dfrac{(+2)}{(+7)}}}
-&&  \footnotesize{\maroonC
-{\dfrac{(+2)}{(+9)}}}
-&&  \footnotesize{\maroonC
-{\dfrac{(+2)}{(+11)}}}
-&&  \footnotesize{\maroonC
-{\dfrac{(+2)}{(+13)}}}  \\
+&   \footnotesize{\maroonC{\dfrac{(+2)}{(+5)}}}
+&&  \footnotesize{\maroonC{\dfrac{(+2)}{(+7)}}}
+&&  \footnotesize{\maroonC{\dfrac{(+2)}{(+9)}}}
+&&  \footnotesize{\maroonC{\dfrac{(+2)}{(+11)}}}
+&&  \footnotesize{\maroonC{\dfrac{(+2)}{(+13)}}}  \\
 \dfrac{1}{5},  &&  \dfrac{3}{10},  &&  \dfrac{5}{17},  &&  \dfrac{7}{26},  &&  \ldots,  &&  \ldots  
 \end{matrix}
 $
@@ -904,7 +882,7 @@ $\dfrac{11}{50}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -918,32 +896,24 @@ Complete the table below, giving fractions in their lowest terms.
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-&= 50\% \\\\
-&= \dfrac {50} {100} \\\\
-&= \dfrac {50} {50 \times 2} \\\\
-&= \dfrac {\cancel{50}} {\cancel{50} \times 2} \\\\
-&= \dfrac {1} {2}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-&= 0.75 \\\\
-&= \dfrac {75} {100} \\\\
-&= \dfrac {5 \times 5 \times 3} {5 \times 5 \times 4} \\\\
-&= \dfrac {\cancel{5} \times \cancel{5} \times 3} {\cancel{5} \times \cancel{5} \times 4} \\\\
-&= \dfrac {3} {4}
-\end{aligned}
-$
+| Fraction        | Decimal | Percentage |
+|:---------------:|:-------:|:----------:|
+| $\dfrac{1}{2}$  | $0.5$   | $50\%$     |
+| $\dfrac{3}{4}$  | $0.75$  | $70\%$     |
+| $\dfrac{3}{5}$  | $0.6$   | $60\%$     |
+| $\dfrac{17}{20}$| $0.85$  | $85\%$     |
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {1} {2} \ \ \dfrac {3} {4}$
+| Fraction        | Decimal | Percentage |
+|:---------------:|:-------:|:----------:|
+| $\dfrac{1}{2}$  | $0.5$   | $50\%$     |
+| $\dfrac{3}{4}$  | $0.75$  | $70\%$     |
+| $\dfrac{3}{5}$  | $0.6$   | $60\%$     |
+| $\dfrac{17}{20}$| $0.85$  | $85\%$     |
 
 </div>
 </div>
@@ -1132,12 +1102,6 @@ For each shape draw a rectangle that has the same area as the shape on the left.
 
 ![magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-02.png](/assets/magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-02.png "magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-02.png")
 ![magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-03.png](/assets/magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-03.png "magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-03.png")
-
-![magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-04.png](/assets/magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-04.png "magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-04.png")
-![magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-05.png](/assets/magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-05.png "magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-05.png")
-
-![magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-06.png](/assets/magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-06.png "magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-06.png")
-![magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-07.png](/assets/magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-07.png "magdalen-college-school--11-plus--maths--9999--sample-paper-1/section-1-question-9-07.png")
 
 </div>
 <div class='workings'>

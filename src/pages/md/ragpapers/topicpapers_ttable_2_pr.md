@@ -1,12 +1,37 @@
 ---
 slug: "ragpapers/topicpapers-ttable-2-pr"
 title: "TopicPaper - Table - 2 - PR"
-date: 2022-10-04 10:03:20
+date: 2022-10-06 16:38:56
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='uuid'>
+<p>AE46F128-2775-4636-BF19-455F903C2CC3</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:1:5</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttable
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -66,6 +91,25 @@ D                   ,               ,$\pounds 190$  ,$\pounds 160$  ,$\pounds 17
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -87,12 +131,48 @@ Under $21$, with Insurance Group $B$ pays $\pounds 110$ insurance per month.
 
 
 </div>
+<div class='working'>
+
+$\pounds 110$
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
 $\pounds 110$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Refer to Table $1$ Column: Foxhall Row: Engine $1.5$ size
+<emptyline>
+Foxhall $1.5$ belongs to Group $B$
+<emptyline>
+for Insurance amount Refer to Table $2$ Column: Under $21$ Row: $B$
+<emptyline>
+Under $21$, with Insurance Group $B$ pays $\pounds 110$ insurance per month. 
+<emptyline>
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$\pounds 110$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 110$
+</code></pre>
 </div>
 </div>
 
@@ -117,12 +197,47 @@ to find the Engine size refer to Table $1$ Column: Hissan, find $B$ and then the
 Hissan with Insurance Group $B$ belongs to Engine size $1.5$ litres
 
 </div>
+<div class='working'>
+
+$1.5 \ \text {ltrs}$
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
 $1.5 \ \text {ltrs}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Refer to Table $2$ Column: Under $21 - 45$ and find which Insurance Group $\pounds 95$ belongs to.
+<emptyline>
+Under  $21 - 45$ $\pounds 95$ payment belongs to Insurance Group $B$
+<emptyline>
+to find the Engine size refer to Table $1$ Column: Hissan, find $B$ and then the respective Row for Engine size $1.5$
+<emptyline>
+Hissan with Insurance Group $B$ belongs to Engine size $1.5$ litres
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$1.5 \ \text {ltrs}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$1.5 \ \text {ltrs}$
+</code></pre>
 </div>
 </div>
 
@@ -152,12 +267,66 @@ $\pounds 98 - \pounds 70 = \pounds 28$
 
 
 </div>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Difference}           &= 98 - 70 \\\\
+                            &= \pounds 28
+\end{aligned}
+$
+
+The person would save $\pounds 28$ each month.
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
 $\pounds 28$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$1.1$ Hissan car belongs to Insurance Group $A$
+<emptyline>
+A $50$ year old pays $\pounds 70$ under Insurance Group $A$
+<emptyline>
+$1.9$ Hissan car belongs to Insurance Group $B$ 
+<emptyline>
+A $50$ year old pays $\pounds 98$ under Insurance Group $B$
+<emptyline>
+Savings per year by using a $1.1$  instead of $1.9$  Engine Hissan car:
+<emptyline>
+$\pounds 98 - \pounds 70 = \pounds 28$
+<emptyline>
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Difference}           &= 98 - 70 \\\\
+                            &= \pounds 28
+\end{aligned}
+$
+<emptyline>
+The person would save $\pounds 28$ each month.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 28$
+</code></pre>
 </div>
 </div>
 
@@ -189,6 +358,13 @@ Under $21$, Insurance Group $C$ pays $\pounds 122$ per month
 
 
 </div>
+<div class='working'>
+
+Size of the Skoyota car $= 1.5 \ \text{litres}$
+
+Cost of the Jagley car $= \pounds 122$
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -197,14 +373,122 @@ $\pounds 122$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Refer to : Column $\text {Under} \ 21 -45$, $\pounds 95$ to find the Insurance Group
+<emptyline>
+$\quad \pounds 95$ belongs to Insurance Group $B$
+<emptyline>
+Now refer to: column Skoyota, Insurance Group $B$ to find the Engine size.
+<emptyline>
+Group $B$ belongs to Engine size $1.5$
+<emptyline>
+Same size Jagley belongs to Insurance Group $C$
+<emptyline>
+Now refer again to Table $2$ column Under $20$ and then Row Insurance Group $C$ to find the amount.
+<emptyline>
+Under $21$, Insurance Group $C$ pays $\pounds 122$ per month
+<emptyline>
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Size of the Skoyota car $= 1.5 \ \text{litres}$
+<emptyline>
+Cost of the Jagley car $= \pounds 122$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 122$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
 </ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' id='FORM-AE46F128-2775-4636-BF19-455F903C2CC3' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-AE46F128-2775-4636-BF19-455F903C2CC3'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='uuid'>
+<p>3CE16AAB-248E-44B3-ABA8-D8A3D4C8BEB1</p>
+</div>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:13</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttable
+</li>
+</ul>
+</div>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -230,15 +514,12 @@ $
 
 Let's complete the table.
 
-| $4$                                    | $8$                                   | $9$                                    |
-|:---------:                             |:---------:                            |:---------:                             |
-| $21 - 4 - 5 = 12 \ \maroonC{\footnotesize{(3)}}$ | $7$                                   | $21 - 12 - 7 = 2 \ \maroonC{\footnotesize{(4)}}$ |
-| $21 - 9 - 7 = 5 \ \maroonC{\footnotesize{(2)}}$  | $21 - 8 - 7 = 6 \ \maroonC{\footnotesize{(1)}}$ | $21 - 9 - 2 = 10 \ \maroonC{\footnotesize{(5)}}$ |
+| $4$                                                                                    | $8$                                                                                   | $9$                                                                                    |
+|:---------:                                                                             |:---------:                                                                            |:---------:                                                                             |
+| $\green{21 - 4 - 5 = 12} \ \maroonC{\footnotesize{(3)}}$ | $7$                                                                                   | $\green{21 - 12 - 7 = 2} \ \maroonC{\footnotesize{(4)}}$ |
+| $\green{21 - 9 - 7 = 5} \ \maroonC{\footnotesize{(2)}}$  | $\green{21 - 8 - 7 = 6} \ \maroonC{\footnotesize{(1)}}$ | $\green{21 - 9 - 2 = 10} \ \maroonC{\footnotesize{(5)}}$ |
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
+Completed table:
 
 | $4$           | $8$             | $9$             |
 |:---------:    |:---------:      |:---------:      |
@@ -247,11 +528,128 @@ Let's complete the table.
 
 </div>
 </div>
+<div class='answers'>
+<div class='answer'>
 
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Sum of first row}     &= 4 + 8 + 9 \\\\
+                            &= 21
+\end{aligned}
+$
+<emptyline>
+Let's complete the table.
+<emptyline>
+| $4$                                                                                    | $8$                                                                                   | $9$                                                                                    |
+|:---------:                                                                             |:---------:                                                                            |:---------:                                                                             |
+| $\rtq_katex_color_answer{21 - 4 - 5 = 12} \ \rtq_katex_color_info{\footnotesize{(3)}}$ | $7$                                                                                   | $\rtq_katex_color_answer{21 - 12 - 7 = 2} \ \rtq_katex_color_info{\footnotesize{(4)}}$ |
+| $\rtq_katex_color_answer{21 - 9 - 7 = 5} \ \rtq_katex_color_info{\footnotesize{(2)}}$  | $\rtq_katex_color_answer{21 - 8 - 7 = 6} \ \rtq_katex_color_info{\footnotesize{(1)}}$ | $\rtq_katex_color_answer{21 - 9 - 2 = 10} \ \rtq_katex_color_info{\footnotesize{(5)}}$ |
+<emptyline>
+Completed table:
+<emptyline>
+| $4$           | $8$             | $9$             |
+|:---------:    |:---------:      |:---------:      |
+|  $12$         | $7$             | $2$             |
+|  $5$          | $6$             | $10$            |
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='3CE16AAB-248E-44B3-ABA8-D8A3D4C8BEB1' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='3CE16AAB-248E-44B3-ABA8-D8A3D4C8BEB1' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='3CE16AAB-248E-44B3-ABA8-D8A3D4C8BEB1' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='3CE16AAB-248E-44B3-ABA8-D8A3D4C8BEB1' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='3CE16AAB-248E-44B3-ABA8-D8A3D4C8BEB1' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='3CE16AAB-248E-44B3-ABA8-D8A3D4C8BEB1' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='3CE16AAB-248E-44B3-ABA8-D8A3D4C8BEB1' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='3CE16AAB-248E-44B3-ABA8-D8A3D4C8BEB1' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='3CE16AAB-248E-44B3-ABA8-D8A3D4C8BEB1' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='3CE16AAB-248E-44B3-ABA8-D8A3D4C8BEB1' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='3CE16AAB-248E-44B3-ABA8-D8A3D4C8BEB1' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='3CE16AAB-248E-44B3-ABA8-D8A3D4C8BEB1' id='FORM-3CE16AAB-248E-44B3-ABA8-D8A3D4C8BEB1' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-3CE16AAB-248E-44B3-ABA8-D8A3D4C8BEB1'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='uuid'>
+<p>4C9DFFA0-EF4A-49F2-845D-CE957F0F98A5</p>
+</div>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:1:3</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttable
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -261,34 +659,43 @@ The table below lists the charges on a new toll road
 
 |               | Daytime         | Night          |
 |-----------    |:------------:    |:----------:    |
-| Lorry         | $$\pounds 6$             | $$\pounds 4.50$         |
-| Car           | $$\pounds 3$             | $$\pounds 2$            |
-| Motorbike     | $$\pounds 2.50$          | $$\pounds 1$            |
-| Van           | $$\pounds 4$             | $$\pounds 3$            |
+| Lorry         | $\pounds 6$             | $\pounds 4.50$         |
+| Car           | $\pounds 3$             | $\pounds 2$            |
+| Motorbike     | $\pounds 2.50$          | $\pounds 1$            |
+| Van           | $\pounds 4$             | $\pounds 3$            |
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+%empty%
 
 </div>
-<div class='answer placeholder'>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
 
-TODOANSWER
-
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
 </div>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -300,27 +707,48 @@ How much would a lorry driver and a car driver save altogether by travelling at 
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Total money saved}        &= (6 - 4.50) + (3 - 2) \\\\
+                                &= 1.50 + 1 \\\\
+                                &= \pounds 2.50
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+$\pounds 2.50$
 
 </div>
-<div class='answer placeholder'>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
 
-TODOANSWER
-
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Total money saved}        &= (6 - 4.50) + (3 - 2) \\\\
+                                &= 1.50 + 1 \\\\
+                                &= \pounds 2.50
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 2.50$
+</code></pre>
 </div>
 </div>
 
@@ -334,37 +762,130 @@ During one night, the toll road is used by $100$ cars, $200$ lorries and $20$ va
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Total money collected}    &= 100 \times 2 + 200 \times 4.50 + 20 \times 3 \\\\
+                                &= 200 + 900 + 60 \\\\
+                                &= \pounds 1160
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+$\pounds 1160$
 
 </div>
-<div class='answer placeholder'>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
 
-TODOANSWER
-
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Total money collected}    &= 100 \times 2 + 200 \times 4.50 + 20 \times 3 \\\\
+                                &= 200 + 900 + 60 \\\\
+                                &= \pounds 1160
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 1160$
+</code></pre>
 </div>
 </div>
 
 </div>
 </li>
 </ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4C9DFFA0-EF4A-49F2-845D-CE957F0F98A5' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4C9DFFA0-EF4A-49F2-845D-CE957F0F98A5' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4C9DFFA0-EF4A-49F2-845D-CE957F0F98A5' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4C9DFFA0-EF4A-49F2-845D-CE957F0F98A5' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4C9DFFA0-EF4A-49F2-845D-CE957F0F98A5' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4C9DFFA0-EF4A-49F2-845D-CE957F0F98A5' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4C9DFFA0-EF4A-49F2-845D-CE957F0F98A5' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4C9DFFA0-EF4A-49F2-845D-CE957F0F98A5' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4C9DFFA0-EF4A-49F2-845D-CE957F0F98A5' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4C9DFFA0-EF4A-49F2-845D-CE957F0F98A5' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='4C9DFFA0-EF4A-49F2-845D-CE957F0F98A5' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='4C9DFFA0-EF4A-49F2-845D-CE957F0F98A5' id='FORM-4C9DFFA0-EF4A-49F2-845D-CE957F0F98A5' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-4C9DFFA0-EF4A-49F2-845D-CE957F0F98A5'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='uuid'>
+<p>91A7871B-8D78-43B1-8DF4-D2020B9D3398</p>
+</div>
+<div class='papername'>
+<p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:1:16</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttable
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -375,33 +896,42 @@ This table shows the tram fares from Merton to three towns.
 |                  | $1^{st}$ class     | $1^{st}$class     | $2^{nd}$ class     | $2^{nd}$ class     |
 |--------------    |----------------    |---------------    |----------------    |----------------    |
 |                  | adult              | child             | adult              | child              |
-| Ashbridge        | $$\pounds 7.20$             | $$\pounds 4.70$            | $$\pounds 4.80$             | $$\pounds 3.10$             |
-| Greenborough     | $$\pounds 9.10$             | $$\pounds 6.20$            | $$\pounds 5.40$             | $$\pounds 3.90$             |
-| Felby            | $$\pounds 11.50$            | $$\pounds 7.60$            | $$\pounds 6.90$             | $$\pounds 5.40$             |
+| Ashbridge        | $\pounds 7.20$             | $\pounds 4.70$            | $\pounds 4.80$             | $\pounds 3.10$             |
+| Greenborough     | $\pounds 9.10$             | $\pounds 6.20$            | $\pounds 5.40$             | $\pounds 3.90$             |
+| Felby            | $\pounds 11.50$            | $\pounds 7.60$            | $\pounds 6.90$             | $\pounds 5.40$             |
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+%empty%
 
 </div>
-<div class='answer placeholder'>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
 
-TODOANSWER
-
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
 </div>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -413,27 +943,48 @@ How much does it cost $1$ adult and $2$ children to travel $2^{nd}$ Felby?
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Total cost}           &= 1 \times 6.90 + 2 \times 5.40 \\\\
+                            &= 6.90 + 10.80 \\\\
+                            &= \pounds 17.70
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+$\pounds 17.70$
 
 </div>
-<div class='answer placeholder'>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
 
-TODOANSWER
-
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Total cost}           &= 1 \times 6.90 + 2 \times 5.40 \\\\
+                            &= 6.90 + 10.80 \\\\
+                            &= \pounds 17.70
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 17.70$
+</code></pre>
 </div>
 </div>
 
@@ -447,37 +998,135 @@ Ben and Anna were taken to Ashbridge by their Aunt Patricia. Their mother gave t
 
 </div>
 <div class='workings'>
-<div class='working placeholder'>
+<div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working placeholder'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Money paid by their mother}       &= 2 \times 3.10 \\\\
+                                        &= \pounds 6.20 \\\\
+\text{Cost of travel}                   &= 1 \times 7.20 + 2 \times 4.70 \\\\
+                                        &= 7.20 + 9.40 \\\\
+                                        &= \pounds 16.60 \\\\
+\text{Money paid by Aunt}               &= 16.60 - 6.20 \\\\
+                                        &= \pounds 10.40
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer placeholder'>
+<div class='answer'>
 
-TODOANSWER
+$\pounds 10.40$
 
 </div>
-<div class='answer placeholder'>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
 
-TODOANSWER
-
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Money paid by their mother}       &= 2 \times 3.10 \\\\
+                                        &= \pounds 6.20 \\\\
+\text{Cost of travel}                   &= 1 \times 7.20 + 2 \times 4.70 \\\\
+                                        &= 7.20 + 9.40 \\\\
+                                        &= \pounds 16.60 \\\\
+\text{Money paid by Aunt}               &= 16.60 - 6.20 \\\\
+                                        &= \pounds 10.40
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 10.40$
+</code></pre>
 </div>
 </div>
 
 </div>
 </li>
 </ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='91A7871B-8D78-43B1-8DF4-D2020B9D3398' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='91A7871B-8D78-43B1-8DF4-D2020B9D3398' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='91A7871B-8D78-43B1-8DF4-D2020B9D3398' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='91A7871B-8D78-43B1-8DF4-D2020B9D3398' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='91A7871B-8D78-43B1-8DF4-D2020B9D3398' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='91A7871B-8D78-43B1-8DF4-D2020B9D3398' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='91A7871B-8D78-43B1-8DF4-D2020B9D3398' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='91A7871B-8D78-43B1-8DF4-D2020B9D3398' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='91A7871B-8D78-43B1-8DF4-D2020B9D3398' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='91A7871B-8D78-43B1-8DF4-D2020B9D3398' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='91A7871B-8D78-43B1-8DF4-D2020B9D3398' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='91A7871B-8D78-43B1-8DF4-D2020B9D3398' id='FORM-91A7871B-8D78-43B1-8DF4-D2020B9D3398' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-91A7871B-8D78-43B1-8DF4-D2020B9D3398'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='uuid'>
+<p>E334C263-93CE-4819-903E-250EA3D68660</p>
+</div>
+<div class='papername'>
+<p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:1:17</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttable
+</li>
+</ul>
+</div>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -501,6 +1150,25 @@ Princess Rose of Ruritania is getting married in July. The Lord Chancellor has t
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -516,21 +1184,50 @@ Complete the table below which shows how many motorcycles are needed for differe
 <div class='workings'>
 <div class='working'>
 
-Let's complete the table.
+| Number of cars            | $1$     | $2$                                                                                                | $3$                                                                                                 | $4$                                                                                                 |
+|-----------------------    |-----    |-----                                                                                               |-----                                                                                                |-----                                                                                                |
+| Number of motorcycles     | $6$     | $\green{4 \times 2 + 2 = 8 + 2 = 10} \ \maroonC{\footnotesize{(1)}}$ | $\green{4 \times 3 + 2 = 12 + 2 = 14} \ \maroonC{\footnotesize{(2)}}$ | $\green{4 \times 4 + 2 = 16 + 2 = 18} \ \maroonC{\footnotesize{(3)}}$ |
 
-| Number of cars            | $1$     | $2$                       | $3$                                                 | $4$                                                 |
-|-----------------------    |-----    |-----                      |-----                                                |-----                                                |
-| Number of motorcycles     | $6$     | $10 \ \maroonC{\footnotesize{(1)}}$ | $4 \times 3 + 2 = 12 + 2 = 14 \ \maroonC{\footnotesize{(2)}}$ | $4 \times 4 + 2 = 16 + 2 = 18 \ \maroonC{\footnotesize{(3)}}$ |
+Completed table:
+
+| Number of cars            | $1$     | $2$     | $3$     | $4$     |
+|-----------------------    |-----    |-----    |-----    |-----    |
+| Number of motorcycles     | $6$     |  $10$   | $14$    | $18$    |
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>| Number of cars            | $1$     | $2$                                                                                                | $3$                                                                                                 | $4$                                                                                                 |
+|-----------------------    |-----    |-----                                                                                               |-----                                                                                                |-----                                                                                                |
+| Number of motorcycles     | $6$     | $\rtq_katex_color_answer{4 \times 2 + 2 = 8 + 2 = 10} \ \rtq_katex_color_info{\footnotesize{(1)}}$ | $\rtq_katex_color_answer{4 \times 3 + 2 = 12 + 2 = 14} \ \rtq_katex_color_info{\footnotesize{(2)}}$ | $\rtq_katex_color_answer{4 \times 4 + 2 = 16 + 2 = 18} \ \rtq_katex_color_info{\footnotesize{(3)}}$ |
+<emptyline>
+Completed table:
+<emptyline>
 | Number of cars            | $1$     | $2$     | $3$     | $4$     |
 |-----------------------    |-----    |-----    |-----    |-----    |
 | Number of motorcycles     | $6$     |  $10$   | $14$    | $18$    |
-
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
 </div>
 </div>
 
@@ -561,6 +1258,31 @@ $
 
 $34$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Number of motorcycles}    &= 4 \times 8 + 2 \\\\
+                                &= 32 + 2 \\\\
+                                &= 34
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$34$
+</code></pre>
 </div>
 </div>
 
@@ -595,6 +1317,33 @@ $10$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Number of cars}       &= \dfrac {42 - 2} {4} \\\\
+                            &= \dfrac {40} {4} \\\\
+                            &= \dfrac {10 \times 4} {4} \\\\
+                            &= \dfrac {10 \times \cancel 4} {\cancel 4} \\\\
+                            &= 10
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$10$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -627,6 +1376,33 @@ Number of cars is not a whole number therefore he must have made a mistake.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Number of cars}       &= \dfrac {55 - 2} {4} \\\\
+                            &= \dfrac {53} {4} \\\\
+                            &= 13.25
+\end{aligned}
+$
+<emptyline>
+Number of cars is not a whole number therefore he must have made a mistake.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>Number of cars is not a whole number therefore he must have made a mistake.
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -657,6 +1433,29 @@ Number of motorcycles = $4 \times$ Number of cars $+ 2$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Number of motorcycles}    &= 4 \times \text{Number of cars} + 2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>Number of motorcycles = $4 \times$ Number of cars $+ 2$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -685,14 +1484,106 @@ Number of motorcycles = $8 \times$ Number of cars $+ 2$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Number of motorcycles}    &= 8 \times \text{Number of cars} + 2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>Number of motorcycles = $8 \times$ Number of cars $+ 2$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
 </ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E334C263-93CE-4819-903E-250EA3D68660' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E334C263-93CE-4819-903E-250EA3D68660' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E334C263-93CE-4819-903E-250EA3D68660' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E334C263-93CE-4819-903E-250EA3D68660' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E334C263-93CE-4819-903E-250EA3D68660' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E334C263-93CE-4819-903E-250EA3D68660' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E334C263-93CE-4819-903E-250EA3D68660' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E334C263-93CE-4819-903E-250EA3D68660' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E334C263-93CE-4819-903E-250EA3D68660' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E334C263-93CE-4819-903E-250EA3D68660' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='E334C263-93CE-4819-903E-250EA3D68660' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='E334C263-93CE-4819-903E-250EA3D68660' id='FORM-E334C263-93CE-4819-903E-250EA3D68660' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E334C263-93CE-4819-903E-250EA3D68660'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='uuid'>
+<p>372D167F-1931-4A8C-8307-513472C10611</p>
+</div>
+<div class='papername'>
+<p>tonbridge-school--scholarship--maths--2016--sample-paper-2:1:6</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttable
+</li>
+</ul>
+</div>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -716,6 +1607,25 @@ In the figure, the length y of the dog-leg path across the square of side-length
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -727,24 +1637,19 @@ Make a table of y values (correct to $2$ decimal places) corresponding to $x$ va
 <div class='workings'>
 <div class='working'>
 
-Let's complete the table.
-
 | Value of $x$ |                                Value of $y$                                                                                           |
 |--------------|-------------------------------------------------------------------------------------------                                            |
-|     $0$      | $\sqrt{1 + 0^2} + \sqrt{5 - 4 \times 0 + 0 ^ 2} = \sqrt{1 + 0} + \sqrt{5 - 0 + 0} = \sqrt{1} + \sqrt{5} = 3.24$                       |
-|     $0.5$    | $\sqrt{1 + 0.5^2} + \sqrt{5 - 4 \times 0.5 + 0.5 ^ 2} = \sqrt{1 + 0.25} + \sqrt{5 - 2 + 0.25} = \sqrt{1.25} + \sqrt{3.25} = 2.92$     |
-|     $1$      | $\sqrt{1 + 1^2} + \sqrt{5 - 4 \times 1 + 1 ^ 2} = \sqrt{1 + 1} + \sqrt{5 - 4 + 1} = \sqrt{2} + \sqrt{2} = 2.83$                       |
-|     $1.5$    | $\sqrt{1 + 1.5^2} + \sqrt{5 - 4 \times 1.5 + 1.5 ^ 2} = \sqrt{1 + 2.25} + \sqrt{5 - 6 + 2.25} = \sqrt{3.25} + \sqrt{1.25} = 2.92$     |
-|     $2$      | $\sqrt{1 + 2^2} + \sqrt{5 - 4 \times 2 + 2 ^ 2} = \sqrt{1 + 4} + \sqrt{5 - 8 + 4} = \sqrt{5} + \sqrt{1} = 3.24$                       |
-|     $2.5$    | $\sqrt{1 + 2.5^2} + \sqrt{5 - 4 \times 2.5 + 2.5 ^ 2} = \sqrt{1 + 6.25} + \sqrt{5 - 10 + 6.25} = \sqrt{7.25} + \sqrt{1.25} = 3.81$    |
-|     $3$      | $\sqrt{1 + 3^2} + \sqrt{5 - 4 \times 3 + 3 ^ 2} = \sqrt{1 + 9} + \sqrt{5 - 12 + 9} = \sqrt{10} + \sqrt{2} = 4.58$                     |
-|     $3.5$    | $\sqrt{1 + 3.5^2} + \sqrt{5 - 4 \times 3.5 + 3.5 ^ 2} = \sqrt{1 + 12.25} + \sqrt{5 - 14 + 12.25} = \sqrt{13.35} + \sqrt{3.25} = 5.46$ |
-|     $4$      | $\sqrt{1 + 4^2} + \sqrt{5 - 4 \times 4 + 0 ^ 2} = \sqrt{1 + 16} + \sqrt{5 - 16 + 16} = \sqrt{17} + \sqrt{5} = 6.36$                   |
+|     $0$      | $\green{\sqrt{1 + 0^2} + \sqrt{5 - 4 \times 0 + 0 ^ 2} = \sqrt{1 + 0} + \sqrt{5 - 0 + 0} = \sqrt{1} + \sqrt{5} = 3.24}$                       |
+|     $0.5$    | $\green{\sqrt{1 + 0.5^2} + \sqrt{5 - 4 \times 0.5 + 0.5 ^ 2} = \sqrt{1 + 0.25} + \sqrt{5 - 2 + 0.25} = \sqrt{1.25} + \sqrt{3.25} = 2.92}$     |
+|     $1$      | $\green{\sqrt{1 + 1^2} + \sqrt{5 - 4 \times 1 + 1 ^ 2} = \sqrt{1 + 1} + \sqrt{5 - 4 + 1} = \sqrt{2} + \sqrt{2} = 2.83}$                       |
+|     $1.5$    | $\green{\sqrt{1 + 1.5^2} + \sqrt{5 - 4 \times 1.5 + 1.5 ^ 2} = \sqrt{1 + 2.25} + \sqrt{5 - 6 + 2.25} = \sqrt{3.25} + \sqrt{1.25} = 2.92}$     |
+|     $2$      | $\green{\sqrt{1 + 2^2} + \sqrt{5 - 4 \times 2 + 2 ^ 2} = \sqrt{1 + 4} + \sqrt{5 - 8 + 4} = \sqrt{5} + \sqrt{1} = 3.24}$                       |
+|     $2.5$    | $\green{\sqrt{1 + 2.5^2} + \sqrt{5 - 4 \times 2.5 + 2.5 ^ 2} = \sqrt{1 + 6.25} + \sqrt{5 - 10 + 6.25} = \sqrt{7.25} + \sqrt{1.25} = 3.81}$    |
+|     $3$      | $\green{\sqrt{1 + 3^2} + \sqrt{5 - 4 \times 3 + 3 ^ 2} = \sqrt{1 + 9} + \sqrt{5 - 12 + 9} = \sqrt{10} + \sqrt{2} = 4.58}$                     |
+|     $3.5$    | $\green{\sqrt{1 + 3.5^2} + \sqrt{5 - 4 \times 3.5 + 3.5 ^ 2} = \sqrt{1 + 12.25} + \sqrt{5 - 14 + 12.25} = \sqrt{13.35} + \sqrt{3.25} = 5.46}$ |
+|     $4$      | $\green{\sqrt{1 + 4^2} + \sqrt{5 - 4 \times 4 + 0 ^ 2} = \sqrt{1 + 16} + \sqrt{5 - 16 + 16} = \sqrt{17} + \sqrt{5} = 6.36}$                   |
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
+Completed table:
 
 | Value of $x$ | Value of $y$  |
 |--------------|---------------|
@@ -758,6 +1663,56 @@ Let's complete the table.
 |     $3.5$    | $5.46$        |
 |     $4$      | $6.36$        |
 
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>| Value of $x$ |                                Value of $y$                                                                                           |
+|--------------|-------------------------------------------------------------------------------------------                                            |
+|     $0$      | $\rtq_katex_color_answer{\sqrt{1 + 0^2} + \sqrt{5 - 4 \times 0 + 0 ^ 2} = \sqrt{1 + 0} + \sqrt{5 - 0 + 0} = \sqrt{1} + \sqrt{5} = 3.24}$                       |
+|     $0.5$    | $\rtq_katex_color_answer{\sqrt{1 + 0.5^2} + \sqrt{5 - 4 \times 0.5 + 0.5 ^ 2} = \sqrt{1 + 0.25} + \sqrt{5 - 2 + 0.25} = \sqrt{1.25} + \sqrt{3.25} = 2.92}$     |
+|     $1$      | $\rtq_katex_color_answer{\sqrt{1 + 1^2} + \sqrt{5 - 4 \times 1 + 1 ^ 2} = \sqrt{1 + 1} + \sqrt{5 - 4 + 1} = \sqrt{2} + \sqrt{2} = 2.83}$                       |
+|     $1.5$    | $\rtq_katex_color_answer{\sqrt{1 + 1.5^2} + \sqrt{5 - 4 \times 1.5 + 1.5 ^ 2} = \sqrt{1 + 2.25} + \sqrt{5 - 6 + 2.25} = \sqrt{3.25} + \sqrt{1.25} = 2.92}$     |
+|     $2$      | $\rtq_katex_color_answer{\sqrt{1 + 2^2} + \sqrt{5 - 4 \times 2 + 2 ^ 2} = \sqrt{1 + 4} + \sqrt{5 - 8 + 4} = \sqrt{5} + \sqrt{1} = 3.24}$                       |
+|     $2.5$    | $\rtq_katex_color_answer{\sqrt{1 + 2.5^2} + \sqrt{5 - 4 \times 2.5 + 2.5 ^ 2} = \sqrt{1 + 6.25} + \sqrt{5 - 10 + 6.25} = \sqrt{7.25} + \sqrt{1.25} = 3.81}$    |
+|     $3$      | $\rtq_katex_color_answer{\sqrt{1 + 3^2} + \sqrt{5 - 4 \times 3 + 3 ^ 2} = \sqrt{1 + 9} + \sqrt{5 - 12 + 9} = \sqrt{10} + \sqrt{2} = 4.58}$                     |
+|     $3.5$    | $\rtq_katex_color_answer{\sqrt{1 + 3.5^2} + \sqrt{5 - 4 \times 3.5 + 3.5 ^ 2} = \sqrt{1 + 12.25} + \sqrt{5 - 14 + 12.25} = \sqrt{13.35} + \sqrt{3.25} = 5.46}$ |
+|     $4$      | $\rtq_katex_color_answer{\sqrt{1 + 4^2} + \sqrt{5 - 4 \times 4 + 0 ^ 2} = \sqrt{1 + 16} + \sqrt{5 - 16 + 16} = \sqrt{17} + \sqrt{5} = 6.36}$                   |
+<emptyline>
+Completed table:
+<emptyline>
+| Value of $x$ | Value of $y$  |
+|--------------|---------------|
+|     $0$      | $3.24$        |
+|     $0.5$    | $2.92$        |
+|     $1$      | $2.83$        |
+|     $1.5$    | $2.92$        |
+|     $2$      | $3.24$        |
+|     $2.5$    | $3.81$        |
+|     $3$      | $4.58$        |
+|     $3.5$    | $5.46$        |
+|     $4$      | $6.36$        |
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
 </div>
 </div>
 
@@ -794,6 +1749,29 @@ Plot the values of $x$ and $y$ on the graph
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+<emptyline>
+Plot the values of $x$ and $y$ on the graph
+<emptyline>
+rtq_abbr_md_add_drawing_ends
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -816,6 +1794,25 @@ $2.83$
 
 $2.83$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$2.83$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$2.83$
+</code></pre>
 </div>
 </div>
 
@@ -842,14 +1839,105 @@ $3.5$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$3.5$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3.5$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
 </ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='372D167F-1931-4A8C-8307-513472C10611' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='372D167F-1931-4A8C-8307-513472C10611' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='372D167F-1931-4A8C-8307-513472C10611' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='372D167F-1931-4A8C-8307-513472C10611' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='372D167F-1931-4A8C-8307-513472C10611' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='372D167F-1931-4A8C-8307-513472C10611' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='372D167F-1931-4A8C-8307-513472C10611' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='372D167F-1931-4A8C-8307-513472C10611' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='372D167F-1931-4A8C-8307-513472C10611' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='372D167F-1931-4A8C-8307-513472C10611' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='372D167F-1931-4A8C-8307-513472C10611' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='372D167F-1931-4A8C-8307-513472C10611' id='FORM-372D167F-1931-4A8C-8307-513472C10611' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-372D167F-1931-4A8C-8307-513472C10611'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='uuid'>
+<p>A95D1DEA-B8DB-4B25-A03F-F7D544219B2A</p>
+</div>
+<div class='papername'>
+<p>tonbridge-school--scholarship--maths--2018--sample-paper-2:1:7</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttable
+</li>
+<li>
+tsequence
+</li>
+</ul>
+</div>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -881,6 +1969,25 @@ Study the pattern of numbers in the table below carefully. Column B gives the me
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -892,21 +1999,54 @@ Write down the entries in Columns A and B for Row 4 and Row 5
 <div class='workings'>
 <div class='working'>
 
-|               |   **A**                | **B**                                                         |
-|-----------    |:---------:             |:-----:                                                        |
-| **Row 4**     | $14, 16, 18, 20$       | $\dfrac {14 + 16 + 18 + 20} {4} = \dfrac {68} {4} = 17$       |
-| **Row 5**     | $22, 24, 26, 28, 30$   | $\dfrac {22 + 24 + 26 + 28 + 30} {5} = \dfrac {130} {5} = 26$ |
+|               |   **A**                                         | **B**                                                                                  |
+|-----------    |:---------:                                      |:-----:                                                                                 |
+| **Row 4**     | $\green{14, 16, 18, 20}$       | $\green{\dfrac {14 + 16 + 18 + 20} {4} = \dfrac {68} {4} = 17}$       |
+| **Row 5**     | $\green{22, 24, 26, 28, 30}$   | $\green{\dfrac {22 + 24 + 26 + 28 + 30} {5} = \dfrac {130} {5} = 26}$ |
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
+Completed table:
 
 |               |   **A**               | **B**     |
 |-----------    |:---------:            |:-----:    |
 | **Row 4**     | $14, 16, 18, 20$      | $17$      |
 | **Row 5**     | $22, 24, 26, 28, 30$  | $26$      |
 
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>|               |   **A**                                         | **B**                                                                                  |
+|-----------    |:---------:                                      |:-----:                                                                                 |
+| **Row 4**     | $\rtq_katex_color_answer{14, 16, 18, 20}$       | $\rtq_katex_color_answer{\dfrac {14 + 16 + 18 + 20} {4} = \dfrac {68} {4} = 17}$       |
+| **Row 5**     | $\rtq_katex_color_answer{22, 24, 26, 28, 30}$   | $\rtq_katex_color_answer{\dfrac {22 + 24 + 26 + 28 + 30} {5} = \dfrac {130} {5} = 26}$ |
+<emptyline>
+Completed table:
+<emptyline>
+|               |   **A**               | **B**     |
+|-----------    |:---------:            |:-----:    |
+| **Row 4**     | $14, 16, 18, 20$      | $17$      |
+| **Row 5**     | $22, 24, 26, 28, 30$  | $26$      |
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
 </div>
 </div>
 
@@ -933,6 +2073,25 @@ For Row $n$ , find formulae in terms of $n$ for :
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
@@ -953,6 +2112,25 @@ $\text{Number of terms in Column A}  = n$
 
 Number of terms in Column A $= n$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$\text{Number of terms in Column A}  = n$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>Number of terms in Column A $= n$
+</code></pre>
 </div>
 </div>
 
@@ -977,6 +2155,25 @@ $\text{Entry in Column B}  = n ^ 2 + 1$
 
 Entry in Column B $= n ^ 2 + 1$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$\text{Entry in Column B}  = n ^ 2 + 1$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>Entry in Column B $= n ^ 2 + 1$
+</code></pre>
 </div>
 </div>
 
@@ -1017,6 +2214,36 @@ $4357$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Number of terms}          &= \dfrac {4556 - 4424} {2} \\\\
+                                &= \dfrac {132} {2} \\\\
+                                &= \dfrac {2 \times 66} {2} \\\\
+                                &= \dfrac {\cancel 2 \times 66} {\cancel 2} \\\\
+                                &= 66 \\\\
+\text{Entry in Column B}        &= 66 ^ 2 + 1 \\\\
+                                &= 4356 + 1 \\\\
+                                &= 4357
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$4357$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -1055,14 +2282,116 @@ $9316$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Number of terms}      &= \sqrt{9410 - 1} \\\\
+                            &= \sqrt{9409} \\\\
+                            &= 97 \\\\
+\text{Smallest term}        &= 9410 - 2 \times \left( \dfrac {97 - 1} {2} - 1 \right) \\\\
+                            &= 9410 - 2 \times \left( \dfrac {96} {2} - 1 \right) \\\\
+                            &= 9410 - 2 \times \left( \dfrac {2 \times 48} {2} - 1 \right) \\\\
+                            &= 9410 - 2 \times \left( \dfrac {\cancel 2 \times 48} {\cancel 2} - 1 \right) \\\\
+                            &= 9410 - 2 \times ( 48 - 1 ) \\\\
+                            &= 9410 - 2 \times 47 \\\\
+                            &= 9410 - 94 \\\\
+                            &= 9316
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$9316$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
 </ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='A95D1DEA-B8DB-4B25-A03F-F7D544219B2A' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='A95D1DEA-B8DB-4B25-A03F-F7D544219B2A' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='A95D1DEA-B8DB-4B25-A03F-F7D544219B2A' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='A95D1DEA-B8DB-4B25-A03F-F7D544219B2A' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='A95D1DEA-B8DB-4B25-A03F-F7D544219B2A' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='A95D1DEA-B8DB-4B25-A03F-F7D544219B2A' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='A95D1DEA-B8DB-4B25-A03F-F7D544219B2A' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='A95D1DEA-B8DB-4B25-A03F-F7D544219B2A' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='A95D1DEA-B8DB-4B25-A03F-F7D544219B2A' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='A95D1DEA-B8DB-4B25-A03F-F7D544219B2A' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='A95D1DEA-B8DB-4B25-A03F-F7D544219B2A' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='A95D1DEA-B8DB-4B25-A03F-F7D544219B2A' id='FORM-A95D1DEA-B8DB-4B25-A03F-F7D544219B2A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A95D1DEA-B8DB-4B25-A03F-F7D544219B2A'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='uuid'>
+<p>9BAFF687-C010-40CB-B73E-36F8F28A4F36</p>
+</div>
+<div class='papername'>
+<p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:21</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttable
+</li>
+</ul>
+</div>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1083,21 +2412,16 @@ $\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\
 <div class='workings'>
 <div class='working'>
 
-Let's complete the table.
+| First Number                                                                                    | Second Number                                                                       | Numbers Added  Together                                                               | Number Multiplied Together                                                              |
+|:------------:                                                                                   |---------------:                                                                     |:-----------------------:                                                              |:--------------------------:                                                             |
+|      $4$                                                                                        |      $7$                                                                            |           $11$                                                                        |            $28$                                                                         |
+|      $5$                                                                                        |      $12$                                                                           | $\green{12 + 5 = 17} \ \maroonC{\footnotesize{(1)}}$    | $\green{5 \times 12 = 60} \ \maroonC{\footnotesize{(2)}}$ |
+|      $9$                                                                                        | $\green{16 - 9 = 7} \ \maroonC{\footnotesize{(3)}}$   |           $16$                                                                        | $\green{9 \times 7 = 63} \ \maroonC{\footnotesize{(4)}}$  |
+| $\green{\dfrac {1000} {20} = 500} \ \maroonC{\footnotesize{(5)}}$ |      $20$                                                                           | $\green{500 + 20 = 520} \ \maroonC{\footnotesize{(6)}}$ |           $1000$                                                                        |
+| $\green{15} \ \maroonC{\footnotesize{(7)}}$                       | $\green{18 - 15 = 3} \ \maroonC{\footnotesize{(8)}}$  |           $18$                                                                        |            $45$                                                                         |
+| $\green{12} \ \maroonC{\footnotesize{(9)}}$                       | $\green{20 - 12 = 8} \ \maroonC{\footnotesize{(10)}}$ |           $20$                                                                        |            $96$                                                                         |
 
-| First Number                                    | Second Number                       | Numbers Added  Together               | Number Multiplied Together              |
-|:------------:                                   |---------------                      |:-----------------------:              |:--------------------------:             |
-|      $4$                                        |      $7$                            |           $11$                        |            $28$                         |
-|      $5$                                        |      $12$                           | $12 + 5 = 17 \ \maroonC{\footnotesize{(1)}}$    | $5 \times 12 = 60 \ \maroonC{\footnotesize{(2)}}$ |
-|      $9$                                        | $16 - 9 = 7 \ \maroonC{\footnotesize{(3)}}$   |           $16$                        | $9 \times 7 = 63 \ \maroonC{\footnotesize{(4)}}$  |
-| $\dfrac {1000} {20} = 500 \ \maroonC{\footnotesize{(5)}}$ |      $20$                           | $500 + 20 = 520 \ \maroonC{\footnotesize{(6)}}$ |           $1000$                        |
-| $15 \ \maroonC{\footnotesize{(7)}}$                       | $18 - 15 = 3 \ \maroonC{\footnotesize{(8)}}$  |           $18$                        |            $45$                         |
-| $12 \ \maroonC{\footnotesize{(9)}}$                       | $20 - 12 = 8 \ \maroonC{\footnotesize{(10)}}$ |           $20$                        |            $96$                         |
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
+Completed table:
 
 | First Number     | Second Number     | Numbers Added  Together     | Number Multiplied Together     |
 |:------------:    |---------------    |:-----------------------:    |:--------------------------:    |
@@ -1110,11 +2434,124 @@ Let's complete the table.
 
 </div>
 </div>
+<div class='answers'>
+<div class='answer'>
 
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>| First Number                                                                                    | Second Number                                                                       | Numbers Added  Together                                                               | Number Multiplied Together                                                              |
+|:------------:                                                                                   |---------------:                                                                     |:-----------------------:                                                              |:--------------------------:                                                             |
+|      $4$                                                                                        |      $7$                                                                            |           $11$                                                                        |            $28$                                                                         |
+|      $5$                                                                                        |      $12$                                                                           | $\rtq_katex_color_answer{12 + 5 = 17} \ \rtq_katex_color_info{\footnotesize{(1)}}$    | $\rtq_katex_color_answer{5 \times 12 = 60} \ \rtq_katex_color_info{\footnotesize{(2)}}$ |
+|      $9$                                                                                        | $\rtq_katex_color_answer{16 - 9 = 7} \ \rtq_katex_color_info{\footnotesize{(3)}}$   |           $16$                                                                        | $\rtq_katex_color_answer{9 \times 7 = 63} \ \rtq_katex_color_info{\footnotesize{(4)}}$  |
+| $\rtq_katex_color_answer{\dfrac {1000} {20} = 500} \ \rtq_katex_color_info{\footnotesize{(5)}}$ |      $20$                                                                           | $\rtq_katex_color_answer{500 + 20 = 520} \ \rtq_katex_color_info{\footnotesize{(6)}}$ |           $1000$                                                                        |
+| $\rtq_katex_color_answer{15} \ \rtq_katex_color_info{\footnotesize{(7)}}$                       | $\rtq_katex_color_answer{18 - 15 = 3} \ \rtq_katex_color_info{\footnotesize{(8)}}$  |           $18$                                                                        |            $45$                                                                         |
+| $\rtq_katex_color_answer{12} \ \rtq_katex_color_info{\footnotesize{(9)}}$                       | $\rtq_katex_color_answer{20 - 12 = 8} \ \rtq_katex_color_info{\footnotesize{(10)}}$ |           $20$                                                                        |            $96$                                                                         |
+<emptyline>
+Completed table:
+<emptyline>
+| First Number     | Second Number     | Numbers Added  Together     | Number Multiplied Together     |
+|:------------:    |---------------    |:-----------------------:    |:--------------------------:    |
+|      $4$         |      $7$          |           $11$              |            $28$                |
+|      $5$         |     $12$          |           $17$              |            $60$                |
+|      $9$         |      $7$          |           $16$              |            $63$                |
+|      $500$       |     $20$          |          $520$              |           $1000$               |
+|      $15$        |      $3$          |           $18$              |            $45$                |
+|      $12$        |      $8$          |           $20$              |            $96$                |
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='9BAFF687-C010-40CB-B73E-36F8F28A4F36' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='9BAFF687-C010-40CB-B73E-36F8F28A4F36' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='9BAFF687-C010-40CB-B73E-36F8F28A4F36' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='9BAFF687-C010-40CB-B73E-36F8F28A4F36' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='9BAFF687-C010-40CB-B73E-36F8F28A4F36' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='9BAFF687-C010-40CB-B73E-36F8F28A4F36' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='9BAFF687-C010-40CB-B73E-36F8F28A4F36' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='9BAFF687-C010-40CB-B73E-36F8F28A4F36' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='9BAFF687-C010-40CB-B73E-36F8F28A4F36' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='9BAFF687-C010-40CB-B73E-36F8F28A4F36' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='9BAFF687-C010-40CB-B73E-36F8F28A4F36' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='9BAFF687-C010-40CB-B73E-36F8F28A4F36' id='FORM-9BAFF687-C010-40CB-B73E-36F8F28A4F36' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-9BAFF687-C010-40CB-B73E-36F8F28A4F36'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='uuid'>
+<p>0A0401FD-AFA7-4C8D-BFE9-9742FC949AEF</p>
+</div>
+<div class='papername'>
+<p>whitgift-school--11-plus--maths--9999--sample-paper-1:2:11</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttable
+</li>
+</ul>
+</div>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -1132,13 +2569,19 @@ $\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\
 <div class='workings'>
 <div class='working'>
 
-Let's complete the table.
+| Cricket     | $15$                                               |
+|:-------:    |:--:                                                |
+|  Rugby      | $25$                                               |
+|  Soccer     | $\green{100 - 15 - 25 - 10 = 60}$ |
+|  Other      | $10$                                               |
 
-| Cricket     | $15$                      |
-|:-------:    |:--:                       |
-|  Rugby      | $25$                      |
-|  Soccer     | $100 - 15 - 25 - 10 = 60$ |
-|  Other      | $10$                      |
+Completed table:
+
+| Cricket     | $15$ |
+|:-------:    |:--:  |
+|  Rugby      | $25$ |
+|  Soccer     | $60$ |
+|  Other      | $10$ |
 
 *ABBR: TODO:: Add drawing starts.*
 
@@ -1157,15 +2600,95 @@ Plot the information about different sports in the graph
 <div class='answers'>
 <div class='answer'>
 
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>| Cricket     | $15$                                               |
+|:-------:    |:--:                                                |
+|  Rugby      | $25$                                               |
+|  Soccer     | $\rtq_katex_color_answer{100 - 15 - 25 - 10 = 60}$ |
+|  Other      | $10$                                               |
+<emptyline>
+Completed table:
+<emptyline>
 | Cricket     | $15$ |
 |:-------:    |:--:  |
 |  Rugby      | $25$ |
 |  Soccer     | $60$ |
 |  Other      | $10$ |
-
+<emptyline>
+rtq_abbr_md_add_drawing_starts
+<emptyline>
+Plot the information about different sports in the graph
+<emptyline>
+rtq_abbr_md_add_drawing_ends
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
 </div>
 </div>
 
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='0A0401FD-AFA7-4C8D-BFE9-9742FC949AEF' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='0A0401FD-AFA7-4C8D-BFE9-9742FC949AEF' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='0A0401FD-AFA7-4C8D-BFE9-9742FC949AEF' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='0A0401FD-AFA7-4C8D-BFE9-9742FC949AEF' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='0A0401FD-AFA7-4C8D-BFE9-9742FC949AEF' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='0A0401FD-AFA7-4C8D-BFE9-9742FC949AEF' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='0A0401FD-AFA7-4C8D-BFE9-9742FC949AEF' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='0A0401FD-AFA7-4C8D-BFE9-9742FC949AEF' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='0A0401FD-AFA7-4C8D-BFE9-9742FC949AEF' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='0A0401FD-AFA7-4C8D-BFE9-9742FC949AEF' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='0A0401FD-AFA7-4C8D-BFE9-9742FC949AEF' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='0A0401FD-AFA7-4C8D-BFE9-9742FC949AEF' id='FORM-0A0401FD-AFA7-4C8D-BFE9-9742FC949AEF' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-0A0401FD-AFA7-4C8D-BFE9-9742FC949AEF'>Initial</p>
+</div>
 </div>
 </li>
 </ul>

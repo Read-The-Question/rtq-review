@@ -1,12 +1,34 @@
 ---
 slug: "ragpapers/topicpapers-tpermutation-1-blocked"
 title: "TopicPaper - Permutation - 1 - BLOCKED"
-date: 2022-10-04 10:03:20
+date: 2022-10-06 16:38:56
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>D0785C67-7A11-491E-929B-4EF2726E748A</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:37</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -46,6 +68,34 @@ $19$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Using permutation,
+<emptyline>
+If we follow $APB$ village, the number of possible route are $= 1$
+<emptyline>
+If we follow $AQRSB$ village, the number of possible route are $= 2 \times 3 = 6$
+<emptyline>
+If we follow $ATUVB$ village, the number of possible route are $= 2 \times 3 \times 2 = 12$
+<emptyline>
+So, total possible routes $= 1 + 6 + 12 = 19$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$19$
+</code></pre>
+</div>
+</div>
+
 
 </div>
 </li>

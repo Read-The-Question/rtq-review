@@ -1,12 +1,34 @@
 ---
 slug: "ragpapers/topicpapers-tinfer-1-blocked"
 title: "TopicPaper - Infer - 1 - BLOCKED"
-date: 2022-10-04 10:03:20
+date: 2022-10-06 16:38:56
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>C3A742AC-6B5D-47FB-8A76-E187A7C93BDE</p>
+</div>
+<div class='papername'>
+<p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:30</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -49,6 +71,41 @@ $50$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+<emptyline>
+There are $100$ numbers in the series.
+<emptyline>
+These $100$ numbers can be paired, so that there are $50$ pairs.
+<emptyline>
+$(100 - 99) + (98 - 97) + (96 - 95) + \ldots$ and so on $\ldots + (2 - 1)$.
+<emptyline>
+The result of each pair is 1 and since there are 50 pairs. So,
+<emptyline>
+$
+\begin {aligned} 
+\text {Final answer}    &= 1 \times 50 \\\\
+                        &= 50
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$50$
+</code></pre>
+</div>
+</div>
+
 
 </div>
 </li>

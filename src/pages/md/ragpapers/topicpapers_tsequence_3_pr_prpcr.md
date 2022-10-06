@@ -1,12 +1,34 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-3-pr-prpcr"
 title: "TopicPaper - Sequence - 3 - PR - PRPCR"
-date: 2022-10-04 10:03:20
+date: 2022-10-06 16:38:56
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_pr rag_prpcr question'>
+<div class='uuid'>
+<p>EF2B3619-8AD3-45F6-8219-CC1DA24A153B</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-3:1:3</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcr</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -26,6 +48,25 @@ Continue the following patterns, filling in the next two terms for each.
 
 %empty%
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
 </div>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -76,6 +117,57 @@ $-16$
 
 $-19$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
+<emptyline>
+The next term is calculated by subtracting $3$ from the previous term. Hence, the sequence would be:
+<emptyline>
+$
+\begin{matrix}
+&   \footnotesize{\rtq_katex_color_info {(- 3)}}  
+&&  \footnotesize{\rtq_katex_color_info {(- 3)}}
+&&  \footnotesize{\rtq_katex_color_info {(- 3)}} 
+&&  \footnotesize{\rtq_katex_color_info {(- 3)}}   
+&&  \footnotesize{\rtq_katex_color_info {(- 3)}}  \\
+-4,  &&    -7,  &&  -10,  &&   -13,  &&  \ldots,  &&  \ldots
+\end{matrix}
+$
+<emptyline>
+$
+\begin{aligned}
+\text{First missing number}     &= - 13 - 3 \\\\
+                                &= - 16 \\\\
+\text{Second missing number}    &= - 16 - 3 \\\\
+                                &= - 19
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$-16$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$-19$
+</code></pre>
 </div>
 </div>
 
@@ -130,6 +222,57 @@ $-2.4$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
+<emptyline>
+The next term is calculated by subtracting $2.1$ from the previous term. Hence, the sequence would be:
+<emptyline>
+$
+\begin{matrix}
+&   \footnotesize{\rtq_katex_color_info { (-2.1)} }  
+&&  \footnotesize{\rtq_katex_color_info { (-2.1)} }
+&&  \footnotesize{\rtq_katex_color_info { (-2.1)} }
+&&  \footnotesize{\rtq_katex_color_info { (-2.1)} }   
+&&  \footnotesize{\rtq_katex_color_info { (-2.1)} }  \\
+8.1,  &&    6,  &&  3.9,  &&   1.8,  &&  \ldots,  &&  \ldots
+\end{matrix}
+$
+<emptyline>
+$
+\begin{aligned}
+\text{First missing number}     &= 1.8 - 2.1 \\\\
+                                &= - 0.3 \\\\
+\text{Second missing number}    &= - 0.3 - 2.1 \\\\
+                                &= - 2.4
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$-0.3$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$-2.4$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -181,6 +324,58 @@ $45$
 
 $57$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
+<emptyline>
+The next term is calculated by adding $12$ to the previous term. Hence, the sequence would be:
+<emptyline>
+$
+\begin{matrix}
+&   \footnotesize{\rtq_katex_color_info { (+12)} }   
+&&  \footnotesize{\rtq_katex_color_info { (+12)} }
+&&  \footnotesize{\rtq_katex_color_info { (+12)} }
+&&  \footnotesize{\rtq_katex_color_info { (+12)} } 
+&&  \footnotesize{\rtq_katex_color_info { (+12)} }   
+&&  \footnotesize{\rtq_katex_color_info { (+12)} } \\
+-15,  &&    -3,  &&  9,  &&   21,  &&   33,  &&  \ldots,  &&  \ldots
+\end{matrix}
+$
+<emptyline>
+$
+\begin{aligned}
+\text{First missing number}     &= 33 + 12 \\\\
+                                &= 45 \\\\
+\text{Second missing number}    &= 45 + 12 \\\\
+                                &= 57
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$45$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$57$
+</code></pre>
 </div>
 </div>
 
@@ -244,6 +439,66 @@ $1094$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
+<emptyline>
+$
+\begin{matrix}
+&   \footnotesize{\rtq_katex_color_info { (+ 1)} }   
+&&  \footnotesize{\rtq_katex_color_info { (+ 3)} }
+&&  \footnotesize{\rtq_katex_color_info { (+ 9)} }
+&&  \footnotesize{\rtq_katex_color_info { (+ 27)} } 
+&&  \footnotesize{\rtq_katex_color_info { (+ 81)} } 
+&&  \footnotesize{\rtq_katex_color_info { (+ 243)} }   
+&&  \footnotesize{\rtq_katex_color_info { (+ 729)} } \\\\
+&   \footnotesize{\rtq_katex_color_info { (+ 3 ^ 0)} }   
+&&  \footnotesize{\rtq_katex_color_info { (+ 3 ^ 1)} }
+&&  \footnotesize{\rtq_katex_color_info { (+ 3 ^ 2)} }
+&&  \footnotesize{\rtq_katex_color_info { (+ 3 ^ 3)} } 
+&&  \footnotesize{\rtq_katex_color_info { (+ 3 ^ 4)} } 
+&&  \footnotesize{\rtq_katex_color_info { (+ 3 ^ 5)} }   
+&&  \footnotesize{\rtq_katex_color_info { (+ 3 ^ 6)} } \\
+1,  &&    2,  &&  5,  &&   14,  &&   41,  &&  122,  &&  \ldots,  &&  \ldots
+\end{matrix}
+$
+<emptyline>
+$
+\begin{aligned}
+\text{First missing number}     &= 122 + 3^5 \\\\
+                                &= 122 + 343 \\\\
+                                &= 365 \\\\
+\text{Second missing number}    &= 365 + 3^6 \\\\
+                                &= 365 + 729 \\\\
+                                &= 1094
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$365$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$1094$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -301,6 +556,62 @@ $6x^6$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
+<emptyline>
+There are two sequences
+<emptyline>
+$
+\begin{matrix}
+&   \footnotesize{\rtq_katex_color_info { (ax \times x^2)} }   
+&&  \footnotesize{\rtq_katex_color_info { (ax^3 \times x^2)} } \\
+ax,  &&  ax^3 ,  &&   \ldots
+\end{matrix}
+$
+<emptyline>
+$
+\begin{matrix}
+&   \footnotesize{\rtq_katex_color_info { (2ax^2 \times 2x^2)} }   
+&&  \footnotesize{\rtq_katex_color_info { (2ax^4 \times 3x^2)} } \\
+2ax^2,  &&  4ax^4,  &&  \ldots
+\end{matrix}
+$
+<emptyline>
+$
+\begin{aligned}
+\text{First missing number}     &= ax^3 \times x^2 \\\\
+                                &= ax^5 \\\\
+\text{Second missing number}    &= 2ax^4 \times 3x^2 \\\\
+                                &= 6x^6
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$x^5$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$6x^6$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -356,10 +667,124 @@ $\dfrac{x^7}{729}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
+<emptyline>
+The next term is calculated by multiplying the previous term by $\dfrac{x}{3}$. Hence, the sequence would be:
+<emptyline>
+$
+\begin{matrix}
+&   \footnotesize{\rtq_katex_color_info { (\times \dfrac{x}{3})} }   
+&&  \footnotesize{\rtq_katex_color_info { (\times \dfrac{x}{3})} }
+&&  \footnotesize{\rtq_katex_color_info { (\times \dfrac{x}{3})} }
+&&  \footnotesize{\rtq_katex_color_info { (\times \dfrac{x}{3})} } 
+&&  \footnotesize{\rtq_katex_color_info { (\times \dfrac{x}{3})} }   
+&&  \footnotesize{\rtq_katex_color_info { (\times \dfrac{x}{3})} } \\
+x,  &&  \dfrac{x^2}{3},  &&  \dfrac{x^3}{9},  &&   \dfrac{x^4}{27},  &&   \dfrac{x^5}{81},  &&  \ldots,  &&  \ldots
+\end{matrix}
+$
+<emptyline>
+$
+\begin{aligned}
+\text{First missing number}     &= \dfrac{x^5}{81} \times \dfrac{x}{3} \\\\
+                                &= \dfrac{x^5 \times x}{81 \times 3} \\\\
+                                &= \dfrac{x^6}{243} \\\\
+\text{Second missing number}    &= \dfrac{x^6}{243} \times \dfrac{x}{3} \\\\
+                                &= \dfrac{x^6 \times x}{243 \times 3} \\\\
+                                &= \dfrac{x^7}{729}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac{x^6}{243}$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac{x^7}{729}$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reviewer: [up] Date:2022-09-14::16:42
+
+
+
+part e sequence not shown or no explanation
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='EF2B3619-8AD3-45F6-8219-CC1DA24A153B' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='EF2B3619-8AD3-45F6-8219-CC1DA24A153B' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='EF2B3619-8AD3-45F6-8219-CC1DA24A153B' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='EF2B3619-8AD3-45F6-8219-CC1DA24A153B' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='EF2B3619-8AD3-45F6-8219-CC1DA24A153B' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='EF2B3619-8AD3-45F6-8219-CC1DA24A153B' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='EF2B3619-8AD3-45F6-8219-CC1DA24A153B' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='EF2B3619-8AD3-45F6-8219-CC1DA24A153B' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='EF2B3619-8AD3-45F6-8219-CC1DA24A153B' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='EF2B3619-8AD3-45F6-8219-CC1DA24A153B' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='EF2B3619-8AD3-45F6-8219-CC1DA24A153B' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='EF2B3619-8AD3-45F6-8219-CC1DA24A153B' id='FORM-EF2B3619-8AD3-45F6-8219-CC1DA24A153B' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-EF2B3619-8AD3-45F6-8219-CC1DA24A153B'>Initial</p>
+</div>
 </div>
 </li>
 </ul>

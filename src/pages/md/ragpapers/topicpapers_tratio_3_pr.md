@@ -1,12 +1,34 @@
 ---
 slug: "ragpapers/topicpapers-tratio-3-pr"
 title: "TopicPaper - Ratio - 3 - PR"
-date: 2022-10-04 10:03:20
+date: 2022-10-06 16:38:56
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_pr rag_prrl question'>
+<div class='uuid'>
+<p>DB8426F8-1FC9-4F04-9127-D813A4C5A351</p>
+</div>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:27</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prrl</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -38,6 +60,40 @@ TODOANSWER
 
 TODOANSWER
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
 </div>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -73,6 +129,38 @@ $
 
 $135 \ \text{min}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Using ratio,
+<emptyline>
+$
+\begin{array}{cccccccccccccc}
+  & \text{towels}                           &:& \text{time} \\\\
+= & 2                                       &:& 90 \ \text{min} \\\\
+= & 1                                       &:& \dfrac {90} {2} \\\\
+= & 3                                       &:& \dfrac {90 \times 3} {2} \\\\
+= & 3                                       &:& \dfrac {2 \times 45 \times 3} {2} \\\\
+= & 3                                       &:& \dfrac {\cancel 2 \times 45 \times 3} {\cancel 2} \\\\
+= & 3                                       &:& 45 \times 3 \\\\
+= & 3                                       &:& 135 \ \text{min}
+\end{array}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$135 \ \text{min}$
+</code></pre>
 </div>
 </div>
 
@@ -111,6 +199,37 @@ $
 
 $4$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Using ratio,
+<emptyline>
+$
+\begin{array}{cccccccccccccc}
+  & \text{upward movement}                  &:& \text{metres} \\\\
+= & 2                                       &:& 1 \\\\
+= & 1                                       &:& \dfrac {1} {2} \\\\
+= & 8                                       &:& \dfrac {8} {2} \\\\
+= & 8                                       &:& \dfrac {2 \times 4} {2} \\\\
+= & 8                                       &:& \dfrac {\cancel 2 \times 4} {\cancel 2} \\\\
+= & 8                                       &:& 4
+\end{array}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$4$
+</code></pre>
 </div>
 </div>
 
@@ -164,14 +283,128 @@ $10$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the number of days $= a$
+<emptyline>
+$
+\begin{aligned}
+\text{Area of mould at the start}     &= \dfrac {2880} {2 ^ {13}} \\\\
+                                      &= \dfrac {2 \times 2 \times 2 \times 2 \times 2 \times 2 \times 45} {2 \times 2 \times 2 \times 2 \times 2 \times 2 \times 2 ^ 7} \\\\
+                                      &= \dfrac {64 \times 45} {64 \times 128} \\\\
+                                      &= \dfrac {\cancel {64} \times 45} {\cancel {64} \times 128} \\\\
+                                      &= \dfrac {45} {128}
+\end{aligned}
+$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin{aligned}
+\dfrac {45} {128} \times 2 ^ a        &= 300 \\\\
+2 ^ a                                 &= \dfrac {300 \times 128} {45} \\\\
+2 ^ a                                 &= \dfrac {15 \times 4 \times 5 \times 128} {15 \times 3} \\\\
+2 ^ a                                 &= \dfrac {\cancel {15} \times 4 \times 5 \times 128} {\cancel {15} \times 3} \\\\
+2 ^ a                                 &= \dfrac {5 \times 4 \times 128} {3} \\\\
+2 ^ a                                 &= \dfrac {5 \times 2 ^ 9} {3} \\\\
+2 ^ a                                 & \approx \dfrac {6 \times 2 ^ 9} {3} \\\\
+2 ^ a                                 & \approx 2 ^ {10} \\\\
+a                                     &= 10
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$10$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
 </ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='DB8426F8-1FC9-4F04-9127-D813A4C5A351' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='DB8426F8-1FC9-4F04-9127-D813A4C5A351' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='DB8426F8-1FC9-4F04-9127-D813A4C5A351' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='DB8426F8-1FC9-4F04-9127-D813A4C5A351' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='DB8426F8-1FC9-4F04-9127-D813A4C5A351' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='DB8426F8-1FC9-4F04-9127-D813A4C5A351' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='DB8426F8-1FC9-4F04-9127-D813A4C5A351' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='DB8426F8-1FC9-4F04-9127-D813A4C5A351' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='DB8426F8-1FC9-4F04-9127-D813A4C5A351' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='DB8426F8-1FC9-4F04-9127-D813A4C5A351' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='DB8426F8-1FC9-4F04-9127-D813A4C5A351' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='DB8426F8-1FC9-4F04-9127-D813A4C5A351' id='FORM-DB8426F8-1FC9-4F04-9127-D813A4C5A351' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-DB8426F8-1FC9-4F04-9127-D813A4C5A351'>Initial</p>
+</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_pr rag_prrl question'>
+<div class='uuid'>
+<p>26A1F77E-A724-4868-9E86-DF9259F3FCC2</p>
+</div>
+<div class='papername'>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:14</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prrl</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -207,11 +440,108 @@ $240$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
 
+<pre class='language-latex'><code class='language-latex'>Using ratio,
+<emptyline>
+$
+\begin{array}{cccccccccccccc}
+  & \text{tapirs}                           &:& \text{squirrels} \\\\
+= & 1                                       &:& 4 \times 20 \\\\
+= & 3                                       &:& 4 \times 20 \times 3 \\\\
+= & 3                                       &:& 240
+\end{array}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$240$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='26A1F77E-A724-4868-9E86-DF9259F3FCC2' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='26A1F77E-A724-4868-9E86-DF9259F3FCC2' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='26A1F77E-A724-4868-9E86-DF9259F3FCC2' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='26A1F77E-A724-4868-9E86-DF9259F3FCC2' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='26A1F77E-A724-4868-9E86-DF9259F3FCC2' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='26A1F77E-A724-4868-9E86-DF9259F3FCC2' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='26A1F77E-A724-4868-9E86-DF9259F3FCC2' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='26A1F77E-A724-4868-9E86-DF9259F3FCC2' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='26A1F77E-A724-4868-9E86-DF9259F3FCC2' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='26A1F77E-A724-4868-9E86-DF9259F3FCC2' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='26A1F77E-A724-4868-9E86-DF9259F3FCC2' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='26A1F77E-A724-4868-9E86-DF9259F3FCC2' id='FORM-26A1F77E-A724-4868-9E86-DF9259F3FCC2' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-26A1F77E-A724-4868-9E86-DF9259F3FCC2'>Initial</p>
+</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_pr rag_prrl question'>
+<div class='uuid'>
+<p>D8435D61-BAC3-4133-A265-8167DD74396D</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:32</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prrl</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -235,6 +565,25 @@ Morag has a pet mouse, Squeak, shown in the life-size picture below.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -255,6 +604,25 @@ Estimate the length of Squeak, from the tip of his nose to the tip of his tail.
 
 %empty%
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
 </div>
 </div>
 
@@ -327,6 +695,71 @@ Mass of food $35 \ \text{g}$
 
 $35 \ \text{g}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Food Squeak eats per week}      &= \dfrac {280} {8} \\\\
+                                      &= \dfrac {8 \times 35} {8} \\\\
+                                      &= \dfrac {\cancel 8 \times 35} {\cancel 8} \\\\
+                                      &= 35 \ \text{g}
+\end{aligned}
+$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the mass of food $= a$
+<emptyline>
+Using equivalent ratio,
+<emptyline>
+$
+\begin{aligned}
+8 \ \text{weeks} : 280 \ \text{g}               &= 1 \ \text{weeks} : a \ \text{g} \\\\
+\dfrac{8} {280}                                 &= \dfrac {1} {a} \\\\
+8 \times a                                      &= 280 \\\\
+a                                               &= \dfrac {280} {8} \\\\
+a                                               &= \dfrac {8 \times 35} {8} \\\\
+a                                               &= \dfrac {\cancel 8 \times 35} {\cancel 8} \\\\
+a                                               &= 35 \ \text{g}
+\end{aligned}
+$
+<emptyline>
+Mass of food $35 \ \text{g}$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Using ratio,
+<emptyline>
+$
+\begin{array}{cccccccccccccc}
+  & \text{weeks}                            &:& \text{food} \\\\
+= & 8                                       &:& 280 \ \text{g} \\\\
+= & 1                                       &:& \dfrac {280} {8} \\\\
+= & 1                                       &:& \dfrac {8 \times 35} {8} \\\\
+= & 1                                       &:& \dfrac {\cancel 8 \times 35} {\cancel 8} \\\\
+= & 1                                       &:& 35 \ \text{g}
+\end{array}
+$
+<emptyline>
+Mass of food $35 \ \text{g}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$35 \ \text{g}$
+</code></pre>
 </div>
 </div>
 
@@ -409,6 +842,79 @@ $\pounds 32.5$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Cost of 1 week}           &= \pounds \dfrac {2.5} {8} \\\\
+\text{Cost of 2 years}          &= 2 \times 52 \times \dfrac {2.5} {8} \\\\
+                                &= \dfrac {2 \times 52 \times 2.5} {8} \\\\
+                                &= \dfrac {2 \times 4 \times 13 \times 2.5} {2 \times 4} \\\\
+                                &= \dfrac {\cancel 2 \times \cancel 4 \times 13 \times 2.5} {\cancel 2 \times \cancel 4} \\\\
+                                &= 13 \times 2.5 \\\\
+                                &= \pounds 32.5
+\end{aligned}
+$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the cost for $2$ years $= a$
+<emptyline>
+Using equivalent ratio,
+<emptyline>
+$
+\begin{aligned}
+8 \ \text{weeks} : \pounds 2.5                  &= 2 \times 52 \ \text{weeks} : \pounds a \\\\
+\dfrac{8} {2.5}                                 &= \dfrac {2 \times 52} {a} \\\\
+8 \times a                                      &= 2 \times 52 \times 2.5 \\\\
+a                                               &= \dfrac {2 \times 52 \times 2.5} {8} \\\\
+a                                               &= \dfrac {2 \times 4 \times 13 \times 2.5} {2 \times 4} \\\\
+a                                               &= \dfrac {\cancel 2 \times \cancel 4 \times 13 \times 2.5} {\cancel 2 \times \cancel 4} \\\\
+a                                               &= 13 \times 2.5 \\\\
+a                                               &= \pounds 32.5
+\end{aligned}
+$
+<emptyline>
+Cost for $2$ years $= \pounds 32.5$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Using ratio,
+<emptyline>
+$
+\begin{array}{cccccccccccccc}
+  & \text{weeks}                            &:& \text{cost} \\\\
+= & 8                                       &:& \pounds 2.5 \\\\
+= & 1                                       &:& \dfrac {2.5} {8} \\\\
+= & 1 \times 52 \times 2                    &:& \dfrac {2.5 \times 2 \times 52} {8} \\\\
+= & 104                                     &:& \dfrac {25 \times 2 \times 52} {8 \times 10} \\\\
+= & 104                                     &:& \dfrac {25 \times 2 \times 4 \times 13} {4 \times 2 \times 10} \\\\
+= & 104                                     &:& \dfrac {25 \times \cancel 2 \times \cancel 4 \times 13} {\cancel 4 \times \cancel 2 \times 10} \\\\
+= & 104                                     &:& \dfrac {25 \times 13} {10} \\\\
+= & 104                                     &:& \dfrac {325} {10} \\\\
+= & 104                                     &:& \pounds 32.5
+\end{array}
+$
+<emptyline>
+Cost for $2$ years $= \pounds 32.5$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 32.5$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -487,10 +993,124 @@ $3360$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Number of times Squeak will squeak}         &= \dfrac {21:30 - 7:30} {15} \\\\
+                                                  &= \dfrac {14 \times 60 \times 60} {15} \\\\
+                                                  &= \dfrac {14 \times 60 \times 15 \times 4} {15} \\\\
+                                                  &= \dfrac {14 \times 60 \times \cancel {15} \times 4} {\cancel {15}} \\\\
+                                                  &= 14 \times 60 \times 4 \\\\
+                                                  &= 3360
+\end{aligned}
+$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the number of times Squeak squeaks $= a$
+<emptyline>
+Using equivalent ratio,
+<emptyline>
+$
+\begin{aligned}
+15 \ \text{seconds} : 1                         &= (21:30 - 7:30) \ \text{seconds} : a \\\\
+15                                              &= \dfrac {21:30 - 7:30} {a} \\\\
+15                                              &= \dfrac {14 \times 60 \times 60} {a} \\\\
+15 \times a                                     &= 14 \times 60 \times 60 \\\\
+a                                               &= \dfrac {14 \times 60 \times 60} {15} \\\\
+a                                               &= \dfrac {14 \times 60 \times 15 \times 4} {15} \\\\
+a                                               &= \dfrac {14 \times 60 \times \cancel {15} \times 4} {\cancel {15}} \\\\
+a                                               &= 14 \times 60 \times 4 \\\\
+a                                               &= 3360
+\end{aligned}
+$
+<emptyline>
+Number of squeaks $= 3360$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Using ratio,
+<emptyline>
+$
+\begin{array}{cccccccccccccc}
+  & \text{time}                                 &:& \text{squeaks} \\\\
+= & 15 \ \text{s}                               &:& 1 \\\\
+= & 15 \times 4 \times 60 \times 14 \ \text{s}  &:& 4 \times 60 \times 14 \\\\
+= & 14 \ \text{hours}                           &:& 3360
+\end{array}
+$
+<emptyline>
+Number of squeaks $= 3360$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3360$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
 </ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D8435D61-BAC3-4133-A265-8167DD74396D' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D8435D61-BAC3-4133-A265-8167DD74396D' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D8435D61-BAC3-4133-A265-8167DD74396D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D8435D61-BAC3-4133-A265-8167DD74396D' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D8435D61-BAC3-4133-A265-8167DD74396D' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D8435D61-BAC3-4133-A265-8167DD74396D' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D8435D61-BAC3-4133-A265-8167DD74396D' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D8435D61-BAC3-4133-A265-8167DD74396D' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D8435D61-BAC3-4133-A265-8167DD74396D' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D8435D61-BAC3-4133-A265-8167DD74396D' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='PR' data-uuid='D8435D61-BAC3-4133-A265-8167DD74396D' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='up' data-sheet='PR' data-uuid='D8435D61-BAC3-4133-A265-8167DD74396D' id='FORM-D8435D61-BAC3-4133-A265-8167DD74396D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D8435D61-BAC3-4133-A265-8167DD74396D'>Initial</p>
+</div>
 </div>
 </li>
 </ul>

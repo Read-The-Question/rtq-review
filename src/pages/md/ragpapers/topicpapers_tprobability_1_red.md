@@ -1,12 +1,34 @@
 ---
 slug: "ragpapers/topicpapers-tprobability-1-red"
 title: "TopicPaper - Probability - 1 - RED"
-date: 2022-10-04 10:03:20
+date: 2022-10-06 16:38:56
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_red rag_prr question'>
+<div class='uuid'>
+<p>5599581A-7917-4CD2-B3A4-F822DE51034E</p>
+</div>
+<div class='papername'>
+<p>john-lyon-school--11-plus--maths--9999--sample-paper-1:1:24</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_red</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prr</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
 <!-- - if !options[:questions_only] -->
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
@@ -26,6 +48,25 @@ questions_count: "1"
 
 %empty%
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
 </div>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -101,6 +142,63 @@ False, True, False, False
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_probability
+<emptyline>
+$
+\begin{aligned}
+\text{P(3)}       &= \dfrac {2} {8} \\\\
+                  &= \dfrac {2} {4 \times 2} \\\\
+                  &= \dfrac {\cancel {2}} {4 \times \cancel {2}} \\\\
+                  &= \dfrac {1} {4}
+\end{aligned}
+$
+<emptyline>
+$
+\begin{aligned}
+\text{P(4)}       &= \dfrac {2} {8} \\\\
+                  &= \dfrac {2} {4 \times 2} \\\\
+                  &= \dfrac {\cancel {2}} {4 \times \cancel {2}} \\\\
+                  &= \dfrac {1} {4}
+\end{aligned}
+$
+<emptyline>
+$
+\begin{aligned}
+\text{P(1)}       &= \dfrac {3} {8}
+\end{aligned}
+$
+<emptyline>
+$
+\begin{aligned}
+\text{P(Odd)}       &= \dfrac {5} {8}
+\end{aligned}
+$
+<emptyline>
+$
+\begin{aligned}
+\text{P(even)}       &= \dfrac {3} {8}
+\end{aligned}
+$
+<emptyline>
+False, True, False, False
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>False, True, False, False
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -145,10 +243,45 @@ TODOANSWER
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
 </ul>
+
 </div>
 </li>
 </ul>

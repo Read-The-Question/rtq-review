@@ -361,7 +361,9 @@ const IndexPage = ({data}) => {
   const questionsOnlyBlockedNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
-      return slug.startsWith("questionsonlyragpapers") && slug.includes("-blocked");
+      return slug.startsWith("questionsonlyragpapers") && (
+        slug.includes("-blocked") || slug.includes("-red")
+      );
     });
   }
 
@@ -380,6 +382,7 @@ const IndexPage = ({data}) => {
       return slug.startsWith("questionsonlyragpapers") && 
       !(
         (slug.includes("-blocked")) || 
+        (slug.includes("-red")) || 
         (slug.includes("-notstarted")) || 
         (slug.includes("-prcc")) || 
         (slug.includes("-prpcc")) || 
@@ -398,6 +401,7 @@ const IndexPage = ({data}) => {
       return slug.startsWith("questionsonlytopicpapers") && 
       !(
         (slug.includes("-blocked")) || 
+        (slug.includes("-red")) || 
         (slug.includes("-notstarted")) || 
         (slug.includes("-prcc")) || 
         (slug.includes("-prpcc")) || 
@@ -416,6 +420,7 @@ const IndexPage = ({data}) => {
       return slug.startsWith("questionsonlypapers") && 
       !(
         (slug.includes("-blocked")) || 
+        (slug.includes("-red")) || 
         (slug.includes("-notstarted")) || 
         (slug.includes("-prcc")) || 
         (slug.includes("-prpcc")) || 
@@ -672,7 +677,7 @@ const IndexPage = ({data}) => {
   const blockedNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
-      return slug.startsWith("ragpapers") && slug.includes("-blocked");
+      return slug.startsWith("ragpapers") && (slug.includes("-blocked") || slug.includes("-red"))
     });
   }
 
@@ -691,6 +696,7 @@ const IndexPage = ({data}) => {
       return slug.startsWith("ragpapers") && 
       !(
         (slug.includes("-blocked")) || 
+        (slug.includes("-red")) || 
         (slug.includes("-notstarted")) || 
         (slug.includes("-prcc")) || 
         (slug.includes("-prpcc")) || 
@@ -709,6 +715,7 @@ const IndexPage = ({data}) => {
       return slug.startsWith("topicpapers") && 
       !(
         (slug.includes("-blocked")) || 
+        (slug.includes("-red")) || 
         (slug.includes("-notstarted")) || 
         (slug.includes("-prcc")) || 
         (slug.includes("-prpcc")) || 
@@ -727,6 +734,7 @@ const IndexPage = ({data}) => {
       return slug.startsWith("papers") && 
       !(
         (slug.includes("-blocked")) || 
+        (slug.includes("-red")) || 
         (slug.includes("-notstarted")) || 
         (slug.includes("-prcc")) || 
         (slug.includes("-prpcc")) || 
@@ -1182,7 +1190,7 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h3 style={headingStyles}>
-      Answers - TopicPapers - Blocked
+      Answers - TopicPapers - Red / Blocked
       </h3>
 
       {/* Filter Ragpapers and Blocked */}
@@ -1693,7 +1701,7 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h3 style={headingStyles}>
-      Questions - TopicPapers - Blocked
+      Questions - TopicPapers - Red / Blocked
       </h3>
 
       {/* Filter Ragpapers and Blocked */}

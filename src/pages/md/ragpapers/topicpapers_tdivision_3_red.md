@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdivision-3-red"
 title: "TopicPaper - Division - 3 - RED"
-date: 2022-10-06 16:38:56
+date: 2022-10-08 17:51:59
 questions_count: "1"
 ---
 <ul class='question default-decimal'>

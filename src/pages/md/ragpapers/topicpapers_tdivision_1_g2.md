@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdivision-1-g2"
 title: "TopicPaper - Division - 1 - G2"
-date: 2022-10-08 19:01:44
+date: 2022-10-08 19:46:51
 questions_count: "1"
 ---
 <ul class='question default-decimal'>

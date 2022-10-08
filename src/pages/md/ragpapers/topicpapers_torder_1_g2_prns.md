@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-torder-1-g2-prns"
 title: "TopicPaper - Order - 1 - G2 - PRNS"
-date: 2022-10-08 17:51:59
+date: 2022-10-08 18:00:38
 questions_count: "40"
 ---
 <ul class='question default-decimal'>

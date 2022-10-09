@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-2"
 title: "TopicPaper - Money - 2"
-date: 2022-10-09 13:08:07
+date: 2022-10-09 21:18:43
 questions_count: "40"
 ---
 <div class='paper'>

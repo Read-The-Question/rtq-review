@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-1-g2-prpcr"
 title: "TopicPaper - Temperature - 1 - G2 - PRPCR"
-date: 2022-10-09 13:04:48
+date: 2022-10-09 13:08:07
 questions_count: "4"
 ---
 <ul class='question default-decimal'>

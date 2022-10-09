@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-1-pr-prrl"
 title: "TopicPaper - Money - 1 - PR - PRRL"
-date: 2022-10-09 13:04:48
+date: 2022-10-09 13:08:07
 questions_count: "3"
 ---
 <ul class='question default-decimal'>

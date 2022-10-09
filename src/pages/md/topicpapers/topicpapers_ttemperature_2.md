@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttemperature-2"
 title: "TopicPaper - Temperature - 2"
-date: 2022-10-09 13:04:48
+date: 2022-10-09 13:08:07
 questions_count: "6"
 ---
 <div class='paper'>

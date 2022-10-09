@@ -1,10 +1,167 @@
 ---
 slug: "ragpapers/topicpapers-tdivision-3-g2-prpcr"
 title: "TopicPaper - Division - 3 - G2 - PRPCR"
-date: 2022-10-09 08:25:24
-questions_count: "1"
+date: 2022-10-09 13:04:48
+questions_count: "2"
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='uuid'>
+<p>5B8E1B2A-5F94-4F30-98A4-610D6E8B43B3</p>
+</div>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4:1:4</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcr</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Which **ONE** of the following numbers is NOT divisible by $3$?
+
+**A** $18171$   
+
+**B** $44481$   
+
+**C** $38501$   
+
+**D** $57060$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: As we know that a number is divisible by 3, if the sum of all its digits is divisible by 3.
+
+
+| Number    |         Sum                                           | Divisible $3$ |
+|:------:   |:----------------------------------------------------: | :-----------: |
+|  $18171$  | $1 + 8 + 1 + 7 + 1 = \red{18}$                      |  Yes          |
+|  $44481$  | $4 + 4 + 4 + 8 + 1 = \red{21}$                      |  Yes          |
+|  $38501$  | $3 + 8 + 5 + 0 + 1 = \green{17}$                        |  No           |
+|  $57060$  | $5 + 7 + 0 + 6 + 0 = \red{18}$                      |  Yes          |
+
+Number not divisible $= 38501$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
+<div class='answer'>
+
+$38501$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_divisible_by_3
+<emptyline>
+| Number    |         Sum                                           | Divisible $3$ |
+|:------:   |:----------------------------------------------------: | :-----------: |
+|  $18171$  | $1 + 8 + 1 + 7 + 1 = \rtq_katex_color_wrong_answer{18}$                      |  Yes          |
+|  $44481$  | $4 + 4 + 4 + 8 + 1 = \rtq_katex_color_wrong_answer{21}$                      |  Yes          |
+|  $38501$  | $3 + 8 + 5 + 0 + 1 = \rtq_katex_color_answer{17}$                        |  No           |
+|  $57060$  | $5 + 7 + 0 + 6 + 0 = \rtq_katex_color_wrong_answer{18}$                      |  Yes          |
+<emptyline>
+Number not divisible $= 38501$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>C</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$38501$
+</code></pre>
+</div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reviewer: [ap] Date:2022-10-09::07:47
+
+
+
+In the last column put Divisible by 3
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='5B8E1B2A-5F94-4F30-98A4-610D6E8B43B3' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='5B8E1B2A-5F94-4F30-98A4-610D6E8B43B3' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='5B8E1B2A-5F94-4F30-98A4-610D6E8B43B3' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='5B8E1B2A-5F94-4F30-98A4-610D6E8B43B3' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='5B8E1B2A-5F94-4F30-98A4-610D6E8B43B3' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='5B8E1B2A-5F94-4F30-98A4-610D6E8B43B3' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='5B8E1B2A-5F94-4F30-98A4-610D6E8B43B3' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='5B8E1B2A-5F94-4F30-98A4-610D6E8B43B3' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='5B8E1B2A-5F94-4F30-98A4-610D6E8B43B3' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='5B8E1B2A-5F94-4F30-98A4-610D6E8B43B3' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='5B8E1B2A-5F94-4F30-98A4-610D6E8B43B3' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='5B8E1B2A-5F94-4F30-98A4-610D6E8B43B3' id='FORM-5B8E1B2A-5F94-4F30-98A4-610D6E8B43B3' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-5B8E1B2A-5F94-4F30-98A4-610D6E8B43B3'>Initial</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g2 rag_prpcr question'>
 <div class='uuid'>

@@ -1,8 +1,8 @@
 ---
 slug: "ragpapers/topicpapers-tdivision-3-g3"
 title: "TopicPaper - Division - 3 - G3"
-date: 2022-10-09 08:25:24
-questions_count: "19"
+date: 2022-10-09 13:04:48
+questions_count: "22"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2088,6 +2088,140 @@ $
 <li>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
+<p>251BCA4B-C008-48D6-B9A3-EF216E034A1C</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:7</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Work out $6.48 \div 0.6$, writing your answer as a decimal number.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac{6.48}{0.6} \\\\
+&= \dfrac{6.48 \times 100}{0.6 \times 100} \\\\
+&= \dfrac{648}{6 \times 10} \\\\
+&= \dfrac{108 \times 6}{6 \times 10} \\\\
+&= \dfrac{108 \times \cancel{6}}{\cancel{6} \times 10} \\\\
+&= \dfrac{108}{10} \\\\
+&= 10.8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10.8$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \dfrac{6.48}{0.6} \\\\
+&= \dfrac{6.48 \times 100}{0.6 \times 100} \\\\
+&= \dfrac{648}{6 \times 10} \\\\
+&= \dfrac{108 \times 6}{6 \times 10} \\\\
+&= \dfrac{108 \times \cancel{6}}{\cancel{6} \times 10} \\\\
+&= \dfrac{108}{10} \\\\
+&= 10.8
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$10.8$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='251BCA4B-C008-48D6-B9A3-EF216E034A1C' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='251BCA4B-C008-48D6-B9A3-EF216E034A1C' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='251BCA4B-C008-48D6-B9A3-EF216E034A1C' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='251BCA4B-C008-48D6-B9A3-EF216E034A1C' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='251BCA4B-C008-48D6-B9A3-EF216E034A1C' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='251BCA4B-C008-48D6-B9A3-EF216E034A1C' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='251BCA4B-C008-48D6-B9A3-EF216E034A1C' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='251BCA4B-C008-48D6-B9A3-EF216E034A1C' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='251BCA4B-C008-48D6-B9A3-EF216E034A1C' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='251BCA4B-C008-48D6-B9A3-EF216E034A1C' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G3' data-uuid='251BCA4B-C008-48D6-B9A3-EF216E034A1C' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='251BCA4B-C008-48D6-B9A3-EF216E034A1C' id='FORM-251BCA4B-C008-48D6-B9A3-EF216E034A1C' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-251BCA4B-C008-48D6-B9A3-EF216E034A1C'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g3 rag_prns question'>
+<div class='uuid'>
 <p>569C9EE3-A840-4D16-8C39-28615CBF15FB</p>
 </div>
 <div class='papername'>
@@ -2218,6 +2352,140 @@ $
 <li>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
+<p>17BF339B-7079-4966-BEB2-8B3FF23FA92A</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:1:2</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Work out $44.8 \div 0.7$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 44.8 \div 0.7 \\\\
+&= \dfrac {44.8} {0.7} \\\\
+&= \dfrac {44.8 \times 10} {0.7 \times 10} \\\\
+&= \dfrac{448} {7} \\\\
+&= \dfrac {64 \times 7} {7} \\\\
+&= \dfrac {64 \times \cancel{7}} {\cancel{7}} \\\\
+&= 64
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$64$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 44.8 \div 0.7 \\\\
+&= \dfrac {44.8} {0.7} \\\\
+&= \dfrac {44.8 \times 10} {0.7 \times 10} \\\\
+&= \dfrac{448} {7} \\\\
+&= \dfrac {64 \times 7} {7} \\\\
+&= \dfrac {64 \times \cancel{7}} {\cancel{7}} \\\\
+&= 64
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$64$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='17BF339B-7079-4966-BEB2-8B3FF23FA92A' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='17BF339B-7079-4966-BEB2-8B3FF23FA92A' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='17BF339B-7079-4966-BEB2-8B3FF23FA92A' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='17BF339B-7079-4966-BEB2-8B3FF23FA92A' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='17BF339B-7079-4966-BEB2-8B3FF23FA92A' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='17BF339B-7079-4966-BEB2-8B3FF23FA92A' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='17BF339B-7079-4966-BEB2-8B3FF23FA92A' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='17BF339B-7079-4966-BEB2-8B3FF23FA92A' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='17BF339B-7079-4966-BEB2-8B3FF23FA92A' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='17BF339B-7079-4966-BEB2-8B3FF23FA92A' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G3' data-uuid='17BF339B-7079-4966-BEB2-8B3FF23FA92A' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='17BF339B-7079-4966-BEB2-8B3FF23FA92A' id='FORM-17BF339B-7079-4966-BEB2-8B3FF23FA92A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-17BF339B-7079-4966-BEB2-8B3FF23FA92A'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g3 rag_prns question'>
+<div class='uuid'>
 <p>52AA9B6F-1D96-48C0-B961-C05BC3627BA0</p>
 </div>
 <div class='papername'>
@@ -2342,6 +2610,237 @@ $
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-52AA9B6F-1D96-48C0-B961-C05BC3627BA0'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g3 rag_prns question'>
+<div class='uuid'>
+<p>3F019B2C-E891-4AAA-8B78-0E0DF81B8489</p>
+</div>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4:1:16</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+$6764 \div 89 = 76$
+
+Use this result to **$\underline{write \,down}$** the answers to each of the following:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$6764 \div 76$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 6764 \div 76 \\\\
+&= 89
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$89$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 6764 \div 76 \\\\
+&= 89
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$89$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$7.6 \times 0.89$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 7.6 \times 0.89 \\\\
+&= \dfrac{7.6 \times 10}{10} \times \dfrac{0.89 \times 100}{100} \\\\
+&= \dfrac{76}{10} \times \dfrac{89}{100} \\\\
+&= \dfrac{76 \times 89}{10 \times 100} \\\\
+&= \dfrac{6764}{1000} \\\\
+&= 6.764
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6.764$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 7.6 \times 0.89 \\\\
+&= \dfrac{7.6 \times 10}{10} \times \dfrac{0.89 \times 100}{100} \\\\
+&= \dfrac{76}{10} \times \dfrac{89}{100} \\\\
+&= \dfrac{76 \times 89}{10 \times 100} \\\\
+&= \dfrac{6764}{1000} \\\\
+&= 6.764
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$6.764$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='3F019B2C-E891-4AAA-8B78-0E0DF81B8489' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='3F019B2C-E891-4AAA-8B78-0E0DF81B8489' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='3F019B2C-E891-4AAA-8B78-0E0DF81B8489' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='3F019B2C-E891-4AAA-8B78-0E0DF81B8489' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='3F019B2C-E891-4AAA-8B78-0E0DF81B8489' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='3F019B2C-E891-4AAA-8B78-0E0DF81B8489' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='3F019B2C-E891-4AAA-8B78-0E0DF81B8489' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='3F019B2C-E891-4AAA-8B78-0E0DF81B8489' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='3F019B2C-E891-4AAA-8B78-0E0DF81B8489' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='3F019B2C-E891-4AAA-8B78-0E0DF81B8489' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G3' data-uuid='3F019B2C-E891-4AAA-8B78-0E0DF81B8489' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='3F019B2C-E891-4AAA-8B78-0E0DF81B8489' id='FORM-3F019B2C-E891-4AAA-8B78-0E0DF81B8489' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-3F019B2C-E891-4AAA-8B78-0E0DF81B8489'>Initial</p>
 </div>
 </div>
 </li>

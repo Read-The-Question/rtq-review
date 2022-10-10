@@ -182,7 +182,7 @@ const IndexPage = ({data}) => {
   }
 
   const phaseOneQuestionsOnlyPrccNodes = (data) => {
-    return data.allMarkdownRemark.edges.filter(({ node }) => {
+    const filteredData = data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return slug.startsWith("questionsonlyragpapers") && 
@@ -198,10 +198,15 @@ const IndexPage = ({data}) => {
       );
 
     });
+
+    return filteredData.sort((a, b) => {
+      return b.node.frontmatter.questions_count - a.node.frontmatter.questions_count;
+    });
+
   }
 
   const phaseTwoQuestionsOnlyPrccNodes = (data) => {
-    return data.allMarkdownRemark.edges.filter(({ node }) => {
+    const filteredData = data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return slug.startsWith("questionsonlyragpapers") && 
@@ -217,6 +222,11 @@ const IndexPage = ({data}) => {
       );
 
     });
+
+    return filteredData.sort((a, b) => {
+      return b.node.frontmatter.questions_count - a.node.frontmatter.questions_count;
+    });
+
   }
 
   const phaseZeroQuestionsOnlyPrrlNodes = (data) => {
@@ -283,7 +293,7 @@ const IndexPage = ({data}) => {
   }
 
   const phaseOneQuestionsOnlyPrpcrNodes = (data) => {
-    return data.allMarkdownRemark.edges.filter(({ node }) => {
+    const filteredData = data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return slug.startsWith("questionsonlyragpapers") && 
@@ -294,10 +304,15 @@ const IndexPage = ({data}) => {
         slug.includes("-prpcr")
       );
     });
+
+    return filteredData.sort((a, b) => {
+      return b.node.frontmatter.questions_count - a.node.frontmatter.questions_count;
+    });
+
   }
 
   const phaseTwoQuestionsOnlyPrpcrNodes = (data) => {
-    return data.allMarkdownRemark.edges.filter(({ node }) => {
+    const filteredData = data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return slug.startsWith("questionsonlyragpapers") && 
@@ -308,6 +323,11 @@ const IndexPage = ({data}) => {
         slug.includes("-prpcr")
       );
     });
+
+    return filteredData.sort((a, b) => {
+      return b.node.frontmatter.questions_count - a.node.frontmatter.questions_count;
+    });
+
   }
 
 
@@ -331,7 +351,7 @@ const IndexPage = ({data}) => {
   }
 
   const phaseOneQuestionsOnlyPrcrNodes = (data) => {
-    return data.allMarkdownRemark.edges.filter(({ node }) => {
+    const filteredData =  data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return slug.startsWith("questionsonlyragpapers") && 
@@ -342,10 +362,15 @@ const IndexPage = ({data}) => {
         slug.includes("-prcr")
       );
     });
+
+    return filteredData.sort((a, b) => {
+      return b.node.frontmatter.questions_count - a.node.frontmatter.questions_count;
+    });
+
   }
 
   const phaseTwoQuestionsOnlyPrcrNodes = (data) => {
-    return data.allMarkdownRemark.edges.filter(({ node }) => {
+    const filteredData =  data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return slug.startsWith("questionsonlyragpapers") && 
@@ -356,6 +381,11 @@ const IndexPage = ({data}) => {
         slug.includes("-prcr")
       );
     });
+
+    return filteredData.sort((a, b) => {
+      return b.node.frontmatter.questions_count - a.node.frontmatter.questions_count;
+    });
+
   }
 
   const questionsOnlyBlockedNodes = (data) => {
@@ -1420,7 +1450,7 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h2 style={h2HeadingStyles}>
-        Questions - Review - Phase 1 (PR / OPR / G0 -> G1 / G2)
+        Questions - Review - Phase 1 (G1 -> G2)
       </h2>
 
 
@@ -1546,7 +1576,7 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h2 style={h2HeadingStyles}>
-        Questions - Review - Phase 2 (PR / OPR / G0 -> G1 / G2)
+        Questions - Review - Phase 2 (G2 -> G3)
       </h2>
 
 

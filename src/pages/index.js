@@ -157,7 +157,7 @@ const IndexPage = ({ data }) => {
   const showQuestionsPapersTopicPapers = () => {
     return (
       (process.env.GATSBY_REVIEW_MODE === "all") || 
-      (process.env.GATSBY_REVIEW_MODE === "all_questions") ||
+      (process.env.GATSBY_REVIEW_MODE === "questions_all") ||
       (process.env.GATSBY_REVIEW_MODE === "questions_papers")
     )
   };

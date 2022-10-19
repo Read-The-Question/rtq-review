@@ -23,7 +23,7 @@ const h2HeadingStyles = {
   color: "#232129",
   backgroundColor: "#FFF4DB",
   // color: "#8A6534",
-  maxWidth: 640,
+  maxWidth: 720,
   padding: 10,
 };
 
@@ -98,31 +98,34 @@ const linkStyle = {
 
 // markup
 const IndexPage = ({ data }) => {
-  const showAnswersPhaseZero = () => {
+  const showAnswersForDevelopersPhaseZero = () => {
     return (
       (process.env.GATSBY_REVIEW_MODE === "all") || 
       (process.env.GATSBY_REVIEW_MODE === "answers_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "answers_p0")
+      (process.env.GATSBY_REVIEW_MODE === "answers_developers_all") ||
+      (process.env.GATSBY_REVIEW_MODE === "answers_developers_p0")
     )
   };
 
-  const showAnswersPhaseOne = () => {
+  const showAnswersForDevelopersPhaseOne = () => {
     return (
       (process.env.GATSBY_REVIEW_MODE === "all") || 
       (process.env.GATSBY_REVIEW_MODE === "answers_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "answers_p1")
+      (process.env.GATSBY_REVIEW_MODE === "answers_developers_all") ||
+      (process.env.GATSBY_REVIEW_MODE === "answers_developers_p1")
     )
   };
 
-  const showAnswersPhaseTwo = () => {
+  const showAnswersForDevelopersPhaseTwo = () => {
     return (
       (process.env.GATSBY_REVIEW_MODE === "all") || 
       (process.env.GATSBY_REVIEW_MODE === "answers_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "answers_p2")
+      (process.env.GATSBY_REVIEW_MODE === "answers_developers_all") ||
+      (process.env.GATSBY_REVIEW_MODE === "answers_developers_p2")
     )
   };
 
-  const showAnswersPapersTopicPapers = () => {
+  const showAnswersForPapersTopicPapers = () => {
     return (
       (process.env.GATSBY_REVIEW_MODE === "all") || 
       (process.env.GATSBY_REVIEW_MODE === "answers_all") ||
@@ -130,27 +133,84 @@ const IndexPage = ({ data }) => {
     )
   };
 
-  const showQuestionsPhaseZero = () => {
+  const showQuestionsForDevelopersPhaseZero = () => {
     return (
       (process.env.GATSBY_REVIEW_MODE === "all") || 
       (process.env.GATSBY_REVIEW_MODE === "questions_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "questions_p0")
+      (process.env.GATSBY_REVIEW_MODE === "questions_developers_all") ||
+      (process.env.GATSBY_REVIEW_MODE === "questions_developers_p0")
     )
   };
 
-  const showQuestionsPhaseOne = () => {
+  const showQuestionsForDevelopersPhaseOne = () => {
     return (
       (process.env.GATSBY_REVIEW_MODE === "all") || 
       (process.env.GATSBY_REVIEW_MODE === "questions_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "questions_p1")
+      (process.env.GATSBY_REVIEW_MODE === "questions_developers_all") ||
+      (process.env.GATSBY_REVIEW_MODE === "questions_developers_p1")
     )
   };
 
-  const showQuestionsPhaseTwo = () => {
+  const showQuestionsForDevelopersPhaseTwo = () => {
     return (
       (process.env.GATSBY_REVIEW_MODE === "all") || 
       (process.env.GATSBY_REVIEW_MODE === "questions_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "questions_p2")
+      (process.env.GATSBY_REVIEW_MODE === "questions_developers_all") ||
+      (process.env.GATSBY_REVIEW_MODE === "questions_developers_p2")
+    )
+  };
+
+  const showAnswersForReviewersPhaseZero = () => {
+    return (
+      (process.env.GATSBY_REVIEW_MODE === "all") || 
+      (process.env.GATSBY_REVIEW_MODE === "answers_all") ||
+      (process.env.GATSBY_REVIEW_MODE === "answers_reviewers_all") ||
+      (process.env.GATSBY_REVIEW_MODE === "answers_reviewers_p0")
+    )
+  };
+
+  const showAnswersForReviewersPhaseOne = () => {
+    return (
+      (process.env.GATSBY_REVIEW_MODE === "all") || 
+      (process.env.GATSBY_REVIEW_MODE === "answers_all") ||
+      (process.env.GATSBY_REVIEW_MODE === "answers_reviewers_all") ||
+      (process.env.GATSBY_REVIEW_MODE === "answers_reviewers_p1")
+    )
+  };
+
+  const showAnswersForReviewersPhaseTwo = () => {
+    return (
+      (process.env.GATSBY_REVIEW_MODE === "all") || 
+      (process.env.GATSBY_REVIEW_MODE === "answers_all") ||
+      (process.env.GATSBY_REVIEW_MODE === "answers_reviewers_all") ||
+      (process.env.GATSBY_REVIEW_MODE === "answers_reviewers_p2")
+    )
+  };
+
+  const showQuestionsForReviewersPhaseZero = () => {
+    return (
+      (process.env.GATSBY_REVIEW_MODE === "all") || 
+      (process.env.GATSBY_REVIEW_MODE === "questions_all") ||
+      (process.env.GATSBY_REVIEW_MODE === "questions_reviewers_all") ||
+      (process.env.GATSBY_REVIEW_MODE === "questions_reviewers_p0")
+    )
+  };
+
+  const showQuestionsForReviewersPhaseOne = () => {
+    return (
+      (process.env.GATSBY_REVIEW_MODE === "all") || 
+      (process.env.GATSBY_REVIEW_MODE === "questions_all") ||
+      (process.env.GATSBY_REVIEW_MODE === "questions_reviewers_all") ||
+      (process.env.GATSBY_REVIEW_MODE === "questions_reviewers_p1")
+    )
+  };
+
+  const showQuestionsForReviewersPhaseTwo = () => {
+    return (
+      (process.env.GATSBY_REVIEW_MODE === "all") || 
+      (process.env.GATSBY_REVIEW_MODE === "questions_all") ||
+      (process.env.GATSBY_REVIEW_MODE === "questions_reviewers_all") ||
+      (process.env.GATSBY_REVIEW_MODE === "questions_reviewers_p2")
     )
   };
 
@@ -766,10 +826,10 @@ const IndexPage = ({ data }) => {
       <title>Home Page</title>
       <h1 style={headingStyles}>Read The Question</h1>
 
-      {showAnswersPhaseZero() && (
+      {showAnswersForDevelopersPhaseZero() && (
         <>
           <h2 style={h2HeadingStyles}>
-            Answers - Review - Phase 0 (PR / OPR / G0 -> G1 / G2)
+            Answers - Developer - Phase 0 (PR / OPR / G0 -> G1 / G2)
           </h2>
 
           <h3 style={headingStyles}>
@@ -823,6 +883,14 @@ const IndexPage = ({ data }) => {
               </li>
             ))}
           </ul>
+        </>
+      )}
+
+      {showAnswersForReviewersPhaseZero() && (
+        <>
+          <h2 style={h2HeadingStyles}>
+            Answers - Reviewer - Phase 0 (PR / OPR / G0 -> G1 / G2)
+          </h2>
 
           <h3 style={headingStyles}>
             Answers - Phase 0 - TopicPapers - RAG - PRPCC
@@ -879,9 +947,9 @@ const IndexPage = ({ data }) => {
         </>
       )}
 
-      {showAnswersPhaseOne() && (
+      {showAnswersForDevelopersPhaseOne() && (
         <>
-          <h2 style={h2HeadingStyles}>Answers - Review - Phase 1 (G1 -> G2)</h2>
+          <h2 style={h2HeadingStyles}>Answers - Developer - Phase 1 (G1 -> G2)</h2>
 
           <h3 style={headingStyles}>
             Answers - Phase 1 - TopicPapers - RAG - PRPCR
@@ -917,6 +985,12 @@ const IndexPage = ({ data }) => {
               </li>
             ))}
           </ul>
+        </>
+      )}
+
+      {showAnswersForReviewersPhaseOne() && (
+        <>
+          <h2 style={h2HeadingStyles}>Answers - Reviewer - Phase 1 (G1 -> G2)</h2>
 
           <h3 style={headingStyles}>
             Answers - Phase 1 - TopicPapers - RAG - PRPCC
@@ -974,9 +1048,9 @@ const IndexPage = ({ data }) => {
         </>
       )}
 
-      {showAnswersPhaseTwo() && (
+      {showAnswersForDevelopersPhaseTwo() && (
         <>
-          <h2 style={h2HeadingStyles}>Answers - Review - Phase 2 (G2 -> G3)</h2>
+          <h2 style={h2HeadingStyles}>Answers - Developer - Phase 2 (G2 -> G3)</h2>
 
           <h3 style={headingStyles}>
             Answers - Phase 2 - TopicPapers - RAG - PRPCR
@@ -1012,6 +1086,12 @@ const IndexPage = ({ data }) => {
               </li>
             ))}
           </ul>
+        </>
+      )}
+
+      {showAnswersForReviewersPhaseTwo() && (
+        <>
+          <h2 style={h2HeadingStyles}>Answers - Reviewer - Phase 2 (G2 -> G3)</h2>
 
           <h3 style={headingStyles}>
             Answers - Phase 2 - TopicPapers - RAG - PRPCC
@@ -1069,9 +1149,9 @@ const IndexPage = ({ data }) => {
         </>
       )}
 
-      {showAnswersPapersTopicPapers() && (
+      {showAnswersForPapersTopicPapers() && (
         <>
-          <h2 style={h2HeadingStyles}>Answers - Review - RAG Papers</h2>
+          <h2 style={h2HeadingStyles}>Answers - RAG Papers</h2>
 
           <h3 style={headingStyles}>Answers - TopicPapers - RAG</h3>
 
@@ -1139,10 +1219,10 @@ const IndexPage = ({ data }) => {
         </>
       )}
 
-      {showQuestionsPhaseZero() && (
+      {showQuestionsForDevelopersPhaseZero() && (
         <>
           <h2 style={h2HeadingStyles}>
-            Questions - Review - Phase 0 (PR / OPR / G0 -> G1 / G2)
+            Questions - Developer - Phase 0 (PR / OPR / G0 -> G1 / G2)
           </h2>
 
           <h3 style={headingStyles}>
@@ -1196,6 +1276,14 @@ const IndexPage = ({ data }) => {
               </li>
             ))}
           </ul>
+        </>
+      )}
+
+      {showQuestionsForReviewersPhaseZero() && (
+        <>
+          <h2 style={h2HeadingStyles}>
+            Questions - Reviewer - Phase 0 (PR / OPR / G0 -> G1 / G2)
+          </h2>
 
           <h3 style={headingStyles}>
             Questions - Phase 0 - TopicPapers - RAG - PRPCC
@@ -1250,10 +1338,10 @@ const IndexPage = ({ data }) => {
         </>
       )}
 
-      {showQuestionsPhaseOne() && (
+      {showQuestionsForDevelopersPhaseOne() && (
         <>
           <h2 style={h2HeadingStyles}>
-            Questions - Review - Phase 1 (G1 -> G2)
+            Questions - Developer - Phase 1 (G1 -> G2)
           </h2>
 
           <h3 style={headingStyles}>
@@ -1290,6 +1378,14 @@ const IndexPage = ({ data }) => {
               </li>
             ))}
           </ul>
+        </>
+      )}
+
+      {showQuestionsForReviewersPhaseOne() && (
+        <>
+          <h2 style={h2HeadingStyles}>
+            Questions - Reviewer - Phase 1 (G1 -> G2)
+          </h2>
 
           <h3 style={headingStyles}>
             Questions - Phase 1 - TopicPapers - RAG - PRPCC
@@ -1344,10 +1440,10 @@ const IndexPage = ({ data }) => {
         </>
       )}
 
-      {showQuestionsPhaseTwo() && (
+      {showQuestionsForDevelopersPhaseTwo() && (
         <>
           <h2 style={h2HeadingStyles}>
-            Questions - Review - Phase 2 (G2 -> G3)
+            Questions - Developer - Phase 2 (G2 -> G3)
           </h2>
 
           <h3 style={headingStyles}>
@@ -1384,6 +1480,14 @@ const IndexPage = ({ data }) => {
               </li>
             ))}
           </ul>
+        </>
+      )}
+
+      {showQuestionsForReviewersPhaseTwo() && (
+        <>
+          <h2 style={h2HeadingStyles}>
+            Questions - Reviewer - Phase 2 (G2 -> G3)
+          </h2>
 
           <h3 style={headingStyles}>
             Questions - Phase 2 - TopicPapers - RAG - PRPCC
@@ -1440,7 +1544,7 @@ const IndexPage = ({ data }) => {
 
       {showQuestionsPapersTopicPapers() && (
         <>
-          <h2 style={h2HeadingStyles}>Questions - Review - RAG Papers</h2>
+          <h2 style={h2HeadingStyles}>Questions - RAG Papers</h2>
 
           <h3 style={headingStyles}>Questions - TopicPapers - RAG</h3>
 

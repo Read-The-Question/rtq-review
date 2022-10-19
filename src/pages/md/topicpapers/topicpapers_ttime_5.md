@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-5"
 title: "TopicPaper - Time - 5"
-date: 2022-10-19 11:23:19
+date: 2022-10-19 15:33:48
 questions_count: "38"
 ---
 <div class='paper'>
@@ -7035,7 +7035,7 @@ ttime
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-How many minutes are there between $9.23 \ \text{am}$ and $1.06 \ \text{pm}$? 
+How many $\text{minutes}$ are there between $9.23 \ \text{am}$ and $1.06 \ \text{pm}$? 
 
 </div>
 <div class='workings'>
@@ -7162,7 +7162,7 @@ ttable
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-The timetable shows the bus times between Shoh Street and London Road. must allow $6\, minutes$ to walk from my home to the bus stop in Short Street where I will catch a bus to London Road. From there it takes $8\, minutes$ to walk to John's house. f want to be at John's house by $2.00 \,pm$
+The timetable shows the bus times between Shoh Street and London Road. must allow $6\, \text{minutes}$ to walk from my home to the bus stop in Short Street where I will catch a bus to London Road. From there it takes $8\, \text{minutes}$ to walk to John's house. f want to be at John's house by $2.00 \,\text{pm}$
 
 |                  |  Bus A      |  Bus B      |  Bus C      |  Bus D      |
 |--------------    |:-------:    |:-------:    |:-------:    |:-------:    |

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-torder-2-g2"
 title: "TopicPaper - Order - 2 - G2"
-date: 2022-10-19 11:23:19
+date: 2022-10-19 15:33:48
 questions_count: "20"
 ---
 <ul class='question default-decimal'>
@@ -2639,8 +2639,7 @@ torder
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-2% , 1 , 222  ,  0.202
-     5   1000 
+$2\% \quad 1 \quad 222 \quad 0.202 \quad 5 \quad 1000$
 
 Write down which of the numbers above is
 

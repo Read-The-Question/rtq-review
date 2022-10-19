@@ -1,8 +1,8 @@
 ---
 slug: "ragpapers/topicpapers-torder-3-g2-prns"
 title: "TopicPaper - Order - 3 - G2 - PRNS"
-date: 2022-10-19 11:23:19
-questions_count: "20"
+date: 2022-10-19 15:33:48
+questions_count: "19"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1545,166 +1545,6 @@ $
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
-<p>D823862D-86E3-4E97-A680-E4F7053C3121</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:9</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
-Write a number in the box to complete the number pattern below.
-
-$
-\boxed{\phantom{\ 55.5 \ }} \quad 
-\boxed{\ 20.0 \ } \quad  
-\boxed{\ 20.2 \ } \quad  
-\boxed{\ 20.4 \ }
-$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR:  Let's find the relation between the consecutive terms of the sequence.
-
-
-The next term is calculated by adding $0.2$ to the previous term. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(+0.2)}} 
-&&  \footnotesize{\maroonC{(+0.2)}}  
-&&  \footnotesize{\maroonC{(+0.2)}}   
-&&  \footnotesize{\maroonC{(+0.2)}}  \\
-\ldots, && 20.0, &&  20.2, &&  20.4
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Missing number}      &= 20.0 - 0.2 \\\\
-                        &= 19.8
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$19.8$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-<emptyline>
-The next term is calculated by adding $0.2$ to the previous term. Hence, the sequence would be:
-<emptyline>
-$
-\begin{matrix}
-&   \footnotesize{\rtq_katex_color_info{(+0.2)}} 
-&&  \footnotesize{\rtq_katex_color_info{(+0.2)}}  
-&&  \footnotesize{\rtq_katex_color_info{(+0.2)}}   
-&&  \footnotesize{\rtq_katex_color_info{(+0.2)}}  \\
-\ldots, && 20.0, &&  20.2, &&  20.4
-\end{matrix}
-$
-<emptyline>
-$
-\begin{aligned}
-\text{Missing number}      &= 20.0 - 0.2 \\\\
-                        &= 19.8
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$19.8$
-</code></pre>
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='D823862D-86E3-4E97-A680-E4F7053C3121' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='D823862D-86E3-4E97-A680-E4F7053C3121' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='D823862D-86E3-4E97-A680-E4F7053C3121' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='D823862D-86E3-4E97-A680-E4F7053C3121' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='D823862D-86E3-4E97-A680-E4F7053C3121' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='D823862D-86E3-4E97-A680-E4F7053C3121' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='D823862D-86E3-4E97-A680-E4F7053C3121' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='D823862D-86E3-4E97-A680-E4F7053C3121' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='D823862D-86E3-4E97-A680-E4F7053C3121' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='D823862D-86E3-4E97-A680-E4F7053C3121' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='D823862D-86E3-4E97-A680-E4F7053C3121' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='D823862D-86E3-4E97-A680-E4F7053C3121' id='FORM-D823862D-86E3-4E97-A680-E4F7053C3121' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-D823862D-86E3-4E97-A680-E4F7053C3121'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g2 rag_prns question'>
-<div class='uuid'>
 <p>51B79769-1A4D-42B7-9698-6C78B896A06D</p>
 </div>
 <div class='papername'>
@@ -3168,7 +3008,7 @@ For each set of numbers write down which of the numbers is the largest and which
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$\dfrac {4} {5}\:\:\:\:\:0.9\:\:\:\:\:0.1\:\:\:\:\:\dfrac {1} {100}\:\:\:\:\:\dfrac {2} {10}$
+$\dfrac {4} {5}\quad 0.9\quad 0.1\quad \dfrac {1} {100}\quad \dfrac {2} {10}$
 
 </div>
 <div class='workings'>
@@ -3248,7 +3088,7 @@ Smallest $= 0.01 = \dfrac {1} {100}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$\dfrac {3} {4} \:\:\:\:\: \dfrac {1} {2} \:\:\:\:\: \dfrac {4} {3} \:\:\:\:\: \dfrac {4} {5} \:\:\:\:\: 1$
+$\dfrac {3} {4} \quad \dfrac {1} {2} \quad \dfrac {4} {3} \quad \dfrac {4} {5} \quad 1$
 
 </div>
 <div class='workings'>
@@ -3334,7 +3174,7 @@ Smallest $= \dfrac{30}{60} = \dfrac{1}{2}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$0.8\:\:\:\:\:0.803\:\:\:\:\:0.828\:\:\:\:\:0.84\:\:\:\:\:0.087$
+$0.8\quad0.803\quad0.828\quad0.84\quad0.087$
 
 </div>
 <div class='workings'>

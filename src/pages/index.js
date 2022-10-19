@@ -1610,7 +1610,7 @@ const IndexPage = ({ data }) => {
             ))}
           </ul>
 
-          <h2 style={h2HeadingStyles}>Questions - Original Papers</h2>
+          {/* <h2 style={h2HeadingStyles}>Questions - Original Papers</h2> */}
         </>
       )}
 

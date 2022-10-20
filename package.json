@@ -25,6 +25,7 @@
     "answers_reviewers_p1":      "GATSBY_REVIEW_MODE=answers_reviewers_p1       npx gatsby develop",
     "answers_reviewers_p2":      "GATSBY_REVIEW_MODE=answers_reviewers_p2       npx gatsby develop",
 
+    "answers_papers":            "GATSBY_REVIEW_MODE=answers_papers             npx gatsby develop",
     "answers_all":               "GATSBY_REVIEW_MODE=answers_all                npx gatsby develop",
 
     "questions_developers_p0":   "GATSBY_REVIEW_MODE=questions_developers_p0    npx gatsby develop",
@@ -35,7 +36,8 @@
     "questions_reviewers_p1":    "GATSBY_REVIEW_MODE=questions_reviewers_p1     npx gatsby develop",
     "questions_reviewers_p2":    "GATSBY_REVIEW_MODE=questions_reviewers_p2     npx gatsby develop",
 
-    "questions_all":             "GATSBY_REVIEW_MODE=questions_all              npx gatsby develop"
+    "questions_all":             "GATSBY_REVIEW_MODE=questions_all              npx gatsby develop",
+    "questions_papers":          "GATSBY_REVIEW_MODE=questions_papers             npx gatsby develop"
   },
   "dependencies": {
     "gatsby": "^4.14.1",

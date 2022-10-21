@@ -1,8 +1,8 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-3-g3"
 title: "TopicPaper - Money - 3 - G3"
-date: 2022-10-19 15:33:48
-questions_count: "17"
+date: 2022-10-21 09:18:30
+questions_count: "21"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1905,6 +1905,277 @@ $
 <li>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
+<p>E939A9F2-9AF4-43F6-9C5F-9F1C96A47959</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:36</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+What is $\dfrac{1}{4} \text{ of } 20\% \text{ of } \dfrac{1}{6} \text{ of } 40\% \text{ of } \pounds 1200?$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {1} {4} \ \text{of} \ 20\% \ \text{of} \ \dfrac {1} {6} \ \text{of} \ 40\% \ \text{of} \ \pounds 1200 \\\\
+&= \dfrac {1} {4} \times \dfrac {20} {100} \times \dfrac {1} {6} \times \dfrac {40} {100} \times 1200 \\\\
+&= \dfrac {20 \times 40 \times 1200} {4 \times 100 \times 6 \times 100} \\\\
+&= \dfrac {20 \times 4 \times 10 \times 2 \times 6 \times 100} {4 \times 100 \times 6 \times 100} \\\\
+&= \dfrac {2 \cancel {0} \times \cancel {4} \times 1 \cancel {0} \times 2 \times \cancel {6} \times \cancel {100}} {\cancel {4} \times 1 \cancel {0} \cancel {0} \times \cancel {6} \times \cancel {100}} \\\\
+&= 2 \times 2 \\\\
+&= \pounds 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 4$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \dfrac {1} {4} \ \text{of} \ 20\% \ \text{of} \ \dfrac {1} {6} \ \text{of} \ 40\% \ \text{of} \ \pounds 1200 \\\\
+&= \dfrac {1} {4} \times \dfrac {20} {100} \times \dfrac {1} {6} \times \dfrac {40} {100} \times 1200 \\\\
+&= \dfrac {20 \times 40 \times 1200} {4 \times 100 \times 6 \times 100} \\\\
+&= \dfrac {20 \times 4 \times 10 \times 2 \times 6 \times 100} {4 \times 100 \times 6 \times 100} \\\\
+&= \dfrac {2 \cancel {0} \times \cancel {4} \times 1 \cancel {0} \times 2 \times \cancel {6} \times \cancel {100}} {\cancel {4} \times 1 \cancel {0} \cancel {0} \times \cancel {6} \times \cancel {100}} \\\\
+&= 2 \times 2 \\\\
+&= \pounds 4
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 4$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='E939A9F2-9AF4-43F6-9C5F-9F1C96A47959' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='E939A9F2-9AF4-43F6-9C5F-9F1C96A47959' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='E939A9F2-9AF4-43F6-9C5F-9F1C96A47959' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='E939A9F2-9AF4-43F6-9C5F-9F1C96A47959' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='E939A9F2-9AF4-43F6-9C5F-9F1C96A47959' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='E939A9F2-9AF4-43F6-9C5F-9F1C96A47959' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='E939A9F2-9AF4-43F6-9C5F-9F1C96A47959' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='E939A9F2-9AF4-43F6-9C5F-9F1C96A47959' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='E939A9F2-9AF4-43F6-9C5F-9F1C96A47959' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='E939A9F2-9AF4-43F6-9C5F-9F1C96A47959' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G3' data-uuid='E939A9F2-9AF4-43F6-9C5F-9F1C96A47959' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='E939A9F2-9AF4-43F6-9C5F-9F1C96A47959' id='FORM-E939A9F2-9AF4-43F6-9C5F-9F1C96A47959' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E939A9F2-9AF4-43F6-9C5F-9F1C96A47959'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g3 rag_prns question'>
+<div class='uuid'>
+<p>29A6018D-4F9B-47BC-AEF7-2AB556029423</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:1</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+If an adult ticket on the bus costs $\pounds 1.50$ and a child ticket costs $90 \ \text{p}$, how much change will a family of $2$ adults and their $3$ children get if they pay with a $\pounds 10$ note?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+
+$
+\begin{aligned}
+\text {Money spent}     &= 2 \times \pounds 1.50 + 3 \times 90 \ \text{p} \\\\
+                        &= \pounds 3 + 3 \times \pounds 0.90 \\\\
+                        &= 3 + 2.70 \\\\
+                        &= \pounds 5.70 \\\\
+\text {Change received} &= 10 - 5.70 \\\\
+                        &= \pounds 4.30
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 4.30$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
+<emptyline>
+$
+\begin{aligned}
+\text {Money spent}     &= 2 \times \pounds 1.50 + 3 \times 90 \ \text{p} \\\\
+                        &= \pounds 3 + 3 \times \pounds 0.90 \\\\
+                        &= 3 + 2.70 \\\\
+                        &= \pounds 5.70 \\\\
+\text {Change received} &= 10 - 5.70 \\\\
+                        &= \pounds 4.30
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 4.30$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='29A6018D-4F9B-47BC-AEF7-2AB556029423' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='29A6018D-4F9B-47BC-AEF7-2AB556029423' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='29A6018D-4F9B-47BC-AEF7-2AB556029423' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='29A6018D-4F9B-47BC-AEF7-2AB556029423' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='29A6018D-4F9B-47BC-AEF7-2AB556029423' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='29A6018D-4F9B-47BC-AEF7-2AB556029423' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='29A6018D-4F9B-47BC-AEF7-2AB556029423' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='29A6018D-4F9B-47BC-AEF7-2AB556029423' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='29A6018D-4F9B-47BC-AEF7-2AB556029423' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='29A6018D-4F9B-47BC-AEF7-2AB556029423' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G3' data-uuid='29A6018D-4F9B-47BC-AEF7-2AB556029423' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='29A6018D-4F9B-47BC-AEF7-2AB556029423' id='FORM-29A6018D-4F9B-47BC-AEF7-2AB556029423' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-29A6018D-4F9B-47BC-AEF7-2AB556029423'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g3 rag_prns question'>
+<div class='uuid'>
 <p>0E978EF0-5AA5-41D7-BA1E-A165B13DC328</p>
 </div>
 <div class='papername'>
@@ -2153,6 +2424,143 @@ $
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-81AADA28-3EE1-4D17-82EE-CBBF6BF4E0D7'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g3 rag_prns question'>
+<div class='uuid'>
+<p>B6EEAA19-D6EB-4A7E-8078-F1B4EA5EB197</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:1:4</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+If I buy $6$ pens at $\pounds 1.15$ each and 10 refills at $56 \ \text{p}$ each, how much change will I get if I pay with a $\pounds 20$ note?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+
+$
+\begin {aligned}
+\text {Money spent}     &= 6 \times \pounds 1.15 + 10 \times 56 \ \text{p} \\\\
+                        &= \pounds 6.90 + 10 \times \pounds 0.56 \\\\
+                        &= 6.90 + 5.60 \\\\
+                        &= \pounds 12.50 \\\\
+\text {Change received} &= 20 - 12.50 \\\\
+                        &= \pounds 7.50
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 7.50$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
+<emptyline>
+$
+\begin {aligned}
+\text {Money spent}     &= 6 \times \pounds 1.15 + 10 \times 56 \ \text{p} \\\\
+                        &= \pounds 6.90 + 10 \times \pounds 0.56 \\\\
+                        &= 6.90 + 5.60 \\\\
+                        &= \pounds 12.50 \\\\
+\text {Change received} &= 20 - 12.50 \\\\
+                        &= \pounds 7.50
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 7.50$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='B6EEAA19-D6EB-4A7E-8078-F1B4EA5EB197' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='B6EEAA19-D6EB-4A7E-8078-F1B4EA5EB197' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='B6EEAA19-D6EB-4A7E-8078-F1B4EA5EB197' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='B6EEAA19-D6EB-4A7E-8078-F1B4EA5EB197' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='B6EEAA19-D6EB-4A7E-8078-F1B4EA5EB197' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='B6EEAA19-D6EB-4A7E-8078-F1B4EA5EB197' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='B6EEAA19-D6EB-4A7E-8078-F1B4EA5EB197' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='B6EEAA19-D6EB-4A7E-8078-F1B4EA5EB197' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='B6EEAA19-D6EB-4A7E-8078-F1B4EA5EB197' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='B6EEAA19-D6EB-4A7E-8078-F1B4EA5EB197' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G3' data-uuid='B6EEAA19-D6EB-4A7E-8078-F1B4EA5EB197' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='B6EEAA19-D6EB-4A7E-8078-F1B4EA5EB197' id='FORM-B6EEAA19-D6EB-4A7E-8078-F1B4EA5EB197' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B6EEAA19-D6EB-4A7E-8078-F1B4EA5EB197'>Initial</p>
 </div>
 </div>
 </li>
@@ -2429,6 +2837,174 @@ $
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-F7CB4C96-99C6-4696-913C-ACB1B87877A1'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g3 rag_prns question'>
+<div class='uuid'>
+<p>AAB63DDE-7AE5-4CBB-B9C4-86695C3EA843</p>
+</div>
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--2018--sample-paper-3:1:3</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+![st-anselms-college--11-plus--maths--2018--sample-paper-3/section-1-question-3-00.png](/assets/st-anselms-college--11-plus--maths--2018--sample-paper-3/section-1-question-3-00.png "st-anselms-college--11-plus--maths--2018--sample-paper-3/section-1-question-3-00.png") 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$240$ people paid to go to the museum on Monday. How much money is that altogether?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Total money}     &= 240 \times 1.20 \\\\
+                        &= \pounds 288
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 288$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Total money}     &= 240 \times 1.20 \\\\
+                        &= \pounds 288
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 288$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='AAB63DDE-7AE5-4CBB-B9C4-86695C3EA843' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='AAB63DDE-7AE5-4CBB-B9C4-86695C3EA843' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='AAB63DDE-7AE5-4CBB-B9C4-86695C3EA843' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='AAB63DDE-7AE5-4CBB-B9C4-86695C3EA843' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='AAB63DDE-7AE5-4CBB-B9C4-86695C3EA843' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='AAB63DDE-7AE5-4CBB-B9C4-86695C3EA843' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='AAB63DDE-7AE5-4CBB-B9C4-86695C3EA843' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='AAB63DDE-7AE5-4CBB-B9C4-86695C3EA843' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='AAB63DDE-7AE5-4CBB-B9C4-86695C3EA843' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='AAB63DDE-7AE5-4CBB-B9C4-86695C3EA843' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G3' data-uuid='AAB63DDE-7AE5-4CBB-B9C4-86695C3EA843' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='AAB63DDE-7AE5-4CBB-B9C4-86695C3EA843' id='FORM-AAB63DDE-7AE5-4CBB-B9C4-86695C3EA843' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-AAB63DDE-7AE5-4CBB-B9C4-86695C3EA843'>Initial</p>
 </div>
 </div>
 </li>

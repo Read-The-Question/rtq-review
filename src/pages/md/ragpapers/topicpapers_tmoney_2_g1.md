@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-2-g1"
 title: "TopicPaper - Money - 2 - G1"
-date: 2022-10-19 15:33:48
+date: 2022-10-21 09:18:30
 questions_count: "8"
 ---
 <ul class='question default-decimal'>
@@ -551,8 +551,7 @@ tmoney
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-**Questions** $\bold{19}$ **to** $\bold{21}$ **refer to the graph on the page opposite**.
-
+Questions $19$ to $21$ refer to the graph on the page opposite.
 ![king-henry-viii-school--11-plus--maths--9999--sample-paper-1/section-1-question-19-00.png](/assets/king-henry-viii-school--11-plus--maths--9999--sample-paper-1/section-1-question-19-00.png "king-henry-viii-school--11-plus--maths--9999--sample-paper-1/section-1-question-19-00.png")
 
 Bella changes $\pounds 24$ into dinars. How many dinars does she have?

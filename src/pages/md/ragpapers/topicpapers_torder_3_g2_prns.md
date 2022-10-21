@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-torder-3-g2-prns"
 title: "TopicPaper - Order - 3 - G2 - PRNS"
-date: 2022-10-19 15:33:48
+date: 2022-10-21 09:18:30
 questions_count: "19"
 ---
 <ul class='question default-decimal'>
@@ -3312,8 +3312,7 @@ torder
 
 Arrange these numbers in order from the smallest to the largest.
 
-
-${4}\diagup{5}\:\:\:\:\:0.82\:\:\:\:\:0.802\:\:\:\:\:8\%\:\:\:\:\:9\, hundredths\:\:\:\:\:{3}\diagup{4}$
+$\dfrac {4} {5}\quad0.82\quad0.802\quad8\%\quad9\, \text{hundredths}\quad\dfrac {3} {4}$
 
 </div>
 <div class='workings'>

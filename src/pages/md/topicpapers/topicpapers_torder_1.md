@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-torder-1"
 title: "TopicPaper - Order - 1"
-date: 2022-10-19 15:33:48
+date: 2022-10-21 09:18:30
 questions_count: "40"
 ---
 <div class='paper'>
@@ -7027,7 +7027,7 @@ torder
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Place the following sets of numbers in order, **smallest first**. 
+Place the following sets of numbers in order, smallest first. 
 
 </div>
 <div class='workings'>
@@ -7154,7 +7154,7 @@ $0.711, \quad 0.73, \quad 0.731, \quad 0.8$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$1 \ \text{m} \ 43 \ \text{cm}, \quad  140 \ \text{cm}, \quad  1 \ \text{m} \ 6 \ \text{cm}, \quad  1423 \ \text{mm}$
+$1 \ \text{m},\quad 43 \ \text{cm}, \quad  140 \ \text{cm}, \quad  1 \ \text{m} \ 6 \ \text{cm}, \quad  1423 \ \text{mm}$
 
 </div>
 <div class='workings'>
@@ -7313,7 +7313,7 @@ Which of the following is the largest?
 
 - $9\times18$
 
-- $\text{they’re all equal}$
+- they’re all equal
 
 </div>
 <div class='workings'>
@@ -7601,7 +7601,7 @@ $
 
 Put the following list of fractions in order, starting with the smallest:
 
-$\dfrac{5}{7}\:\:\:\dfrac{19}{28}\:\:\:\dfrac{27}{35}\:\:\:\dfrac{9}{14}$
+$\dfrac{5}{7}\quad\dfrac{19}{28}\quad\dfrac{27}{35}\quad\dfrac{9}{14}$
 
 </div>
 <div class='workings'>

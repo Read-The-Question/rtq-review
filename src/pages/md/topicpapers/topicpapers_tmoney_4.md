@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-4"
 title: "TopicPaper - Money - 4"
-date: 2022-10-19 15:33:48
+date: 2022-10-21 09:18:30
 questions_count: "40"
 ---
 <div class='paper'>
@@ -1208,11 +1208,11 @@ tcoin
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Put a circle around **each** the amounts that can be made with **four** coins.
+Put a circle around each the amounts that can be made with four coins.
 
 State which coins you would use
 
-$24 \ \text{p} \quad 38 \ \text{p} \quad 57 \ \text{p} \quad \pounds 1.18 \quad \pounds 1.26$
+$24 \text{p} \quad 38 \text{p} \quad 57 \text{p} \quad \pounds 1.18 \quad \pounds 1.26$
 
 </div>
 <div class='workings'>

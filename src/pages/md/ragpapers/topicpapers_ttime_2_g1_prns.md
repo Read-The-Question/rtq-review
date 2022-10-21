@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-2-g1-prns"
 title: "TopicPaper - Time - 2 - G1 - PRNS"
-date: 2022-10-19 15:33:48
+date: 2022-10-21 09:18:30
 questions_count: "10"
 ---
 <ul class='question default-decimal'>
@@ -1233,10 +1233,12 @@ ttime
 I start counting at $19$ and go up to $89$.
 I take one second to say each number.
 How long do I take altogether?
-
-|      A     |      B     |      C     |      D     |      E     |
-|:----------:|:----------:|:----------:|:----------:|:----------:|
-| 70 Seconds | 71 Seconds | 72 Seconds | 73 Seconds | 74 Seconds |
+ 
+- $\text{70 Seconds}$
+- $\text{71 Seconds}$
+- $\text{72 Seconds}$
+- $\text{73 Seconds}$ 
+- $\text{74 Seconds}$
 
 </div>
 <div class='workings'>
@@ -1365,7 +1367,7 @@ ttime
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-A train leaves Waterloo at $11.35$ and arrives in Portsmouth after one hour and thirty-eight minutes. When does it arrive?
+A train leaves Waterloo at $11{:}35$ and arrives in Portsmouth after one $\text{hour}$ and thirty-eight $\text{minutes}$. When does it arrive?
 
 </div>
 <div class='workings'>

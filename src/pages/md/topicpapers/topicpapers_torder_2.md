@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-torder-2"
 title: "TopicPaper - Order - 2"
-date: 2022-10-19 15:33:48
+date: 2022-10-21 09:18:30
 questions_count: "40"
 ---
 <div class='paper'>
@@ -1218,7 +1218,7 @@ torder
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Put the following in order of size, **with the smallest first**.
+Put the following in order of size, with the smallest first.
 
 $0.43, \quad \dfrac{3}{7}, \quad \dfrac{2}{5}, \quad 44\%$
 
@@ -6148,7 +6148,7 @@ torder
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Write the following in order of size (**smallest first**):
+Write the following in order of size (smallest first):
 
 $4.321, \quad 4.32, \quad 4.132, \quad 4.3, \quad 4.123$
 

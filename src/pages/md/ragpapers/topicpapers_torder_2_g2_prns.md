@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-torder-2-g2-prns"
 title: "TopicPaper - Order - 2 - G2 - PRNS"
-date: 2022-10-19 15:33:48
+date: 2022-10-21 09:18:30
 questions_count: "19"
 ---
 <ul class='question default-decimal'>
@@ -353,7 +353,7 @@ torder
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Put the following in order of size, **with the smallest first**.
+Put the following in order of size, with the smallest first.
 
 $0.43, \quad \dfrac{3}{7}, \quad \dfrac{2}{5}, \quad 44\%$
 

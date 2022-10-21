@@ -1,8 +1,8 @@
 ---
 slug: "ragpapers/topicpapers-ttime-2-g2"
 title: "TopicPaper - Time - 2 - G2"
-date: 2022-10-19 15:33:48
-questions_count: "13"
+date: 2022-10-21 09:18:30
+questions_count: "10"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -603,7 +603,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prpcr question'>
 <div class='uuid'>
 <p>D359AE32-BA99-4C37-AF11-B4D00BE23AF5</p>
 </div>
@@ -617,7 +617,7 @@ $
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -683,6 +683,19 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reviewer: [ap] Date:2022-10-20::13:16
+
+
+
+11 not 10
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -733,7 +746,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prpcr question'>
 <div class='uuid'>
 <p>19E5F575-DF01-4149-AD44-58F295B08731</p>
 </div>
@@ -747,7 +760,7 @@ $
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -906,6 +919,23 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reviewer: [ap] Date:2022-10-20::13:17
+
+
+
+meters to metres
+
+b) show what .25 of an hour is
+
+am not pm
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -986,11 +1016,12 @@ tnoexplanation
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-**Use the clock below**.
+Use the clock below.
 
 ![king-henry-viii-school--11-plus--maths--9999--sample-paper-1/section-1-question-12-00.png](/assets/king-henry-viii-school--11-plus--maths--9999--sample-paper-1/section-1-question-12-00.png "king-henry-viii-school--11-plus--maths--9999--sample-paper-1/section-1-question-12-00.png")
 
-One **afternoon**, Eadie looks at the clock.
+One afternoon, Eadie looks at the clock.
+
 Write the time in $12 \ \text{hour}$ clock
 
 </div>
@@ -1211,416 +1242,6 @@ $
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-2AF9BF1A-6E92-4492-9B1C-3C71893FDA24'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g2 rag_prns question'>
-<div class='uuid'>
-<p>976DAAE1-0F6C-4CE7-97EA-CBFED0CDC713</p>
-</div>
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-2:1:6</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
-Calculate how many seconds there are in $15 \dfrac{1}{2}$ hours.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= 15 \dfrac {1} {2} \ \text {hours} \\\\
-&= \dfrac {31} {2} \ \text {hours} \\\\
-&= \dfrac {31} {2} \times 60 \times 60 \ \text {seconds} \\\\
-&= \dfrac {31 \times 60 \times 60} {2} \\\\
-&= \dfrac {31 \times 60 \times 30 \times 2} {2} \\\\
-&= \dfrac {31 \times 60 \times 30 \times \cancel{2}} {\cancel{2}} \\\\
-&= 31 \times 60 \times 30 \\\\
-&= 55800 \ \text {seconds}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$55800 \ \text {seconds}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin {aligned}
-&= 15 \dfrac {1} {2} \ \text {hours} \\\\
-&= \dfrac {31} {2} \ \text {hours} \\\\
-&= \dfrac {31} {2} \times 60 \times 60 \ \text {seconds} \\\\
-&= \dfrac {31 \times 60 \times 60} {2} \\\\
-&= \dfrac {31 \times 60 \times 30 \times 2} {2} \\\\
-&= \dfrac {31 \times 60 \times 30 \times \cancel{2}} {\cancel{2}} \\\\
-&= 31 \times 60 \times 30 \\\\
-&= 55800 \ \text {seconds}
-\end {aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$55800 \ \text {seconds}$
-</code></pre>
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='976DAAE1-0F6C-4CE7-97EA-CBFED0CDC713' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='976DAAE1-0F6C-4CE7-97EA-CBFED0CDC713' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='976DAAE1-0F6C-4CE7-97EA-CBFED0CDC713' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='976DAAE1-0F6C-4CE7-97EA-CBFED0CDC713' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='976DAAE1-0F6C-4CE7-97EA-CBFED0CDC713' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='976DAAE1-0F6C-4CE7-97EA-CBFED0CDC713' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='976DAAE1-0F6C-4CE7-97EA-CBFED0CDC713' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='976DAAE1-0F6C-4CE7-97EA-CBFED0CDC713' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='976DAAE1-0F6C-4CE7-97EA-CBFED0CDC713' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='976DAAE1-0F6C-4CE7-97EA-CBFED0CDC713' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='976DAAE1-0F6C-4CE7-97EA-CBFED0CDC713' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='976DAAE1-0F6C-4CE7-97EA-CBFED0CDC713' id='FORM-976DAAE1-0F6C-4CE7-97EA-CBFED0CDC713' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-976DAAE1-0F6C-4CE7-97EA-CBFED0CDC713'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g2 rag_prns question'>
-<div class='uuid'>
-<p>853DE9ED-C8E9-4497-A4CE-70A8E172C5B2</p>
-</div>
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:11</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
-What time is $1 \ \text{hour}$ $32 \ \text{minutes}$ before $7{:}19 \ \text{pm}$?
-
-- $4:42 \ \text{pm}$
-
-- $4:52 \ \text{pm}$
-
-- $5:47 \ \text{pm}$
-
-- $3:42 \ \text{pm}$
-
-- $2:56 \ \text{am}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 7{:}19  \ \text{pm} - 1 \ \text{hour} \ 32 \ \text{minutes} \\\\
-&= 5{:}47 \ \text {pm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>C</p>
-</div>
-<div class='answer'>
-
-$5{:}47 \ \text {pm}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-&= 7{:}19  \ \text{pm} - 1 \ \text{hour} \ 32 \ \text{minutes} \\\\
-&= 5{:}47 \ \text {pm}
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>C</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$5{:}47 \ \text {pm}$
-</code></pre>
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' id='FORM-853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-853DE9ED-C8E9-4497-A4CE-70A8E172C5B2'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g2 rag_prns question'>
-<div class='uuid'>
-<p>3206AC5E-10AC-4792-AC6F-6BBD072B959C</p>
-</div>
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:1:9</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
-Femi takes $2\ \text{hours}$ and $53\ \text{minutes}$ to cycle from London to Reading. If he arrived at $3:21 \ \text{pm}$, at what time must he have set off? 
-
-A: $12:24 \ \text{pm}$ 
-
-B: $1:24 \ \text{pm}$ 
-
-C: $12:28 \ \text{pm}$ 
-
-D: $12:18 \ \text{pm}$ 
-
-E: $1:28 \ \text{pm}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Departure Time}   &= 3{:}21 \ \text{pm} - 2 \ \text{hours} \ 53 \ \text{minutes} \\\\
-                         &= 12{:}28 \ \text {pm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>C</p>
-</div>
-<div class='answer'>
-
-$12{:}28 \ \text {pm}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-\text {Departure Time}   &= 3{:}21 \ \text{pm} - 2 \ \text{hours} \ 53 \ \text{minutes} \\\\
-                         &= 12{:}28 \ \text {pm}
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>C</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$12{:}28 \ \text {pm}$
-</code></pre>
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='3206AC5E-10AC-4792-AC6F-6BBD072B959C' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='3206AC5E-10AC-4792-AC6F-6BBD072B959C' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='3206AC5E-10AC-4792-AC6F-6BBD072B959C' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='3206AC5E-10AC-4792-AC6F-6BBD072B959C' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='3206AC5E-10AC-4792-AC6F-6BBD072B959C' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='3206AC5E-10AC-4792-AC6F-6BBD072B959C' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='3206AC5E-10AC-4792-AC6F-6BBD072B959C' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='3206AC5E-10AC-4792-AC6F-6BBD072B959C' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='3206AC5E-10AC-4792-AC6F-6BBD072B959C' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='3206AC5E-10AC-4792-AC6F-6BBD072B959C' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='3206AC5E-10AC-4792-AC6F-6BBD072B959C' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='3206AC5E-10AC-4792-AC6F-6BBD072B959C' id='FORM-3206AC5E-10AC-4792-AC6F-6BBD072B959C' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-3206AC5E-10AC-4792-AC6F-6BBD072B959C'>Initial</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-4-g1-prns"
 title: "TopicPaper - Time - 4 - G1 - PRNS"
-date: 2022-10-19 15:33:48
+date: 2022-10-21 09:18:30
 questions_count: "15"
 ---
 <ul class='question default-decimal'>
@@ -2824,7 +2824,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Nani flies directly to Athens from London, departing at $08{:}20$ hours. 
+Nani flies directly to Athens from London, departing at $08{:}20 \ \text{hours}$. 
 If the journey from London takes $3 \ \text{hours } 45 \ \text{minutes}$, at what time, local to Athens, will Nani arrive in Athens?
 
 </div>
@@ -2882,7 +2882,7 @@ $
 
 It takes the same time to fly from Athens to London as it takes from London to Athens.
 
-Iani leaves Athens airport at $19{:}15$ hours.
+Iani leaves Athens airport at $19{:}15 \ \text{hours}$.
 
 At what time will she reach London (local time)?
 
@@ -3013,8 +3013,8 @@ ttime
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Jessica was born on the $1 \text{st}$ May $1992$. 
-She started to learn to play the piano on the $1 \text{st}$ September $1998$.
+Jessica was born on the $1 ^\text{st}$ May $1992$. 
+She started to learn to play the piano on the $1 ^\text{st}$ September $1998$.
 
 </div>
 <div class='workings'>
@@ -3109,7 +3109,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-She was given a new piano on her $15 \text{th}$ birthday. In which year was this?
+She was given a new piano on her $15 ^\text{th}$ birthday. In which year was this?
 
 </div>
 <div class='workings'>

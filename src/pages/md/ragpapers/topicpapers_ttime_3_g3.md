@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-3-g3"
 title: "TopicPaper - Time - 3 - G3"
-date: 2022-10-19 15:33:48
+date: 2022-10-21 09:18:30
 questions_count: "17"
 ---
 <ul class='question default-decimal'>
@@ -35,9 +35,9 @@ ttime
 
 Thrse are the start and finish times on a DVD recorder:
 
-$\bold{START\:\:\:\: 14{:}48}$
+$START\quad 14{:}48$
 
-$\bold{FINISH\:\:\:\: 17{:}25}$
+$FINISH\quad 17{:}25$
 
 For how long was the video recording? 
 

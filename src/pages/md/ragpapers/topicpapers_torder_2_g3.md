@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-torder-2-g3"
 title: "TopicPaper - Order - 2 - G3"
-date: 2022-10-19 15:33:48
+date: 2022-10-21 09:18:30
 questions_count: "19"
 ---
 <ul class='question default-decimal'>
@@ -2218,7 +2218,7 @@ torder
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Write the following in order of size (**smallest first**):
+Write the following in order of size (smallest first):
 
 $4.321, \quad 4.32, \quad 4.132, \quad 4.3, \quad 4.123$
 

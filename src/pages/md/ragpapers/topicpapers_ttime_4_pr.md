@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-4-pr"
 title: "TopicPaper - Time - 4 - PR"
-date: 2022-10-19 15:33:48
+date: 2022-10-21 09:18:30
 questions_count: "7"
 ---
 <ul class='question default-decimal'>
@@ -835,14 +835,14 @@ The table gives information about these activities.
 
 |   **Activity**   |         **Start times**        | **Time taken by activity (minutes)** |
 |:----------------:|:------------------------------:|:------------------------------------:|
-|  Penguin feeding | $10 \ 45 \ 12 \ 15 \ 13 \ 45$  |                  35                  |
-|    Jeep safari   |  $10 \ 45 \ 12 \ 15 \ 13 \ 45$ |                  45                  |
-| Steam train ride |  $10 \ 45 \ 12 \ 15 \ 13 \ 45$ |                  25                  |
-|   Dolphin show   |  $10 \ 45 \ 12 \ 15 \ 13 \ 45$ |                  40                  |
+|  Penguin feeding | $10 \ 45 \ 12 \ 15 \ 13 \ 45$  |                  $35$                  |
+|    Jeep safari   |  $10 \ 45 \ 12 \ 15 \ 13 \ 45$ |                  $45$                  |
+| Steam train ride |  $10 \ 45 \ 12 \ 15 \ 13 \ 45$ |                  $25$                  |
+|   Dolphin show   |  $10 \ 45 \ 12 \ 15 \ 13 \ 45$ |                  $40$                  |
 
 Tom wants to do all $4$ activities.
 
-He arrives at the theme park at $10 \ 20$ 
+He arrives at the theme park at $10 \ 20$. 
 
 He needs to leave the theme park by $14 \ 30$.
 

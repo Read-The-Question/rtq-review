@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-5-g1-prns"
 title: "TopicPaper - Time - 5 - G1 - PRNS"
-date: 2022-10-19 15:33:48
+date: 2022-10-21 09:18:30
 questions_count: "35"
 ---
 <ul class='question default-decimal'>
@@ -6800,7 +6800,7 @@ ttime
 
 A train leaves Manchester and arrives in London at $13{:}37$ 
 
-What time did the train depart Manchester if the total journey time was $173$ minutes?
+What time did the train depart Manchester if the total journey time was $173$ $\text{minutes}$?
 
 </div>
 <div class='workings'>
@@ -6926,7 +6926,7 @@ ttime
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-A plane leaves London Airport at $$16{:}30$$ and takes $5¾$ hours on its journey. At what time does it arrive?
+A plane leaves London Airport at $$16{:}30$$ and takes $5\dfrac {3} {4}$ hours on its journey. At what time does it arrive?
 
 </div>
 <div class='workings'>

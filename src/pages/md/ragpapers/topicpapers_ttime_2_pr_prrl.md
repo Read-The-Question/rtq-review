@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-2-pr-prrl"
 title: "TopicPaper - Time - 2 - PR - PRRL"
-date: 2022-10-19 15:33:48
+date: 2022-10-21 09:18:30
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -187,7 +187,7 @@ $12 \ \text{noon on} \ 31^{st} \ \text{January}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-When will our watches next show the same, **correct** time?
+When will our watches next show the same, correct time?
 
 </div>
 <div class='workings'>

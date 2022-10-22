@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-3"
 title: "TopicPaper - Time - 3"
-date: 2022-10-21 09:18:30
+date: 2022-10-22 10:57:02
 questions_count: "40"
 ---
 <div class='paper'>
@@ -664,7 +664,7 @@ ttime
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-What is $463 \ \text{minutes}$ in hours and minutes ?
+What is $463 \ \text{minutes}$ in $\text{hours and minutes} ?$
 
 </div>
 <div class='workings'>
@@ -919,7 +919,7 @@ ttime
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Change $4.6 \ \text{minutes}$ into seconds. 
+Change $4.6 \ \text{minutes}$ into $seconds$. 
 
 </div>
 <div class='workings'>
@@ -1048,7 +1048,7 @@ tnoexplanation
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-$2008$ is a leap year, and this year the $29 \text{th}$ of February falls on a Friday. On what day of the week will the $29 \text{th}$ of February fall in the next leap year  $(2012)$ ? (Remember there are $366$ days in a leap year).
+$2008$ is a leap year, and this year the $29 ^\text{th}$ of February falls on a Friday. On what day of the week will the $29 ^\text{th}$ of February fall in the next leap year  $(2012)?$ (Remember there are $366$ days in a leap year).
 
 </div>
 <div class='workings'>
@@ -4592,13 +4592,13 @@ ttime
 Look at the New York Subway train timetable below and then answer the questions on the next page.
 
 |           Brooklyn Bridge           | $12{:}08$ | $12{:}18$ | $12{:}28$ | $12{:}38$ | $12{:}48$ | $13{:}00$ | $13{:}15$ |
-|:---------------------------------------:|-------|-------|-------|-------|-------|-------|-------|
+|:---------------------------------------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 |           Bleecker Street           | $12{:}12$ | $12{:}22$ | $12{:}32$ | $12{:}42$ | $12{:}52$ | $13{:}04$ | $13{:}19$ |
 |             Astor Place             | $12{:}14$ | $12{:}24$ | $12{:}34$ | $12{:}44$ | $12{:}54$ | $13{:}06$ | $13{:}21$ |
 |       Grand Central Terminal        | $12{:}21$ | $12{:}31$ | $12{:}41$ | $12{:}51$ | $13{:}01$ | $13{:}13$ | $13{:}28$ |
-|              $68^{th}$              | $12{:}25$ | $12{:}35$ | $12{:}45$ | $12{:}55$ | $13{:}05$ | $13{:}17$ | $13{:}32$ |
-|         $125^{th}$ Street           | $12{:}35$ | $12{:}45$ | $12{:}55$ | $13{:}05$ | $13{:}15$ | $13{:}27$ | $13{:}42$ |
-|  $3^{rd}$ Ave & $138^{th}$ Street   | $12{:}38$ | $12{:}48$ | $12{:}58$ | $13{:}08$ | $13{:}18$ | $13{:}30$ | $13{:}45$ |
+|              $68^\text{th}$              | $12{:}25$ | $12{:}35$ | $12{:}45$ | $12{:}55$ | $13{:}05$ | $13{:}17$ | $13{:}32$ |
+|         $125^\text{th}$ Street           | $12{:}35$ | $12{:}45$ | $12{:}55$ | $13{:}05$ | $13{:}15$ | $13{:}27$ | $13{:}42$ |
+|  $3^\text{rd}$ Ave & $138^\text{th}$ Street   | $12{:}38$ | $12{:}48$ | $12{:}58$ | $13{:}08$ | $13{:}18$ | $13{:}30$ | $13{:}45$ |
 |         Hunts Point  Avenue         | $12{:}47$ | $12{:}57$ | $13{:}07$ | $13{:}17$ | $13{:}27$ | $13{:}39$ | $13{:}54$ |
 |             Parkchester             | $12{:}53$ | $13{:}03$ | $13{:}13$ | $13{:}23$ | $13{:}33$ | $13{:}45$ | $14{:}00$ |
 |          Pelham Bay Park            | $13{:}02$ | $13{:}12$ | $13{:}22$ | $13{:}32$ | $13{:}42$ | $13{:}54$ | $14{:}09$ |
@@ -4710,7 +4710,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write $14{:}00$ using $\text{am}$ or $\text{pm}$ time.
+Write $14{:}00$ using am or pm time.
 
 </div>
 <div class='workings'>
@@ -4827,7 +4827,7 @@ ttime
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-My clock shows the following time. Both $\text{hours}$ and $\text{minutes}$ are multiples of $3$, as shown. 
+My clock shows the following time. Both hours and minutes are multiples of $3$, as shown. 
 
 ![st-anselms-college--11-plus--maths--2018--sample-paper-3/section-1-question-7-00.png](/assets/st-anselms-college--11-plus--maths--2018--sample-paper-3/section-1-question-7-00.png "st-anselms-college--11-plus--maths--2018--sample-paper-3/section-1-question-7-00.png")
 
@@ -4870,7 +4870,7 @@ My clock shows the following time. Both $\text{hours}$ and $\text{minutes}$ are 
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write a different time when the $\text{hours}$ and $\text{minutes}$ are both multiples of $3$.
+Write a different time when the hours and minutes are both multiples of $3$.
 
 </div>
 <div class='workings'>
@@ -4917,7 +4917,7 @@ Later, my clock shows
 
 ![st-anselms-college--11-plus--maths--2018--sample-paper-3/section-1-question-7-subquestion-2-00.png](/assets/st-anselms-college--11-plus--maths--2018--sample-paper-3/section-1-question-7-subquestion-2-00.png "st-anselms-college--11-plus--maths--2018--sample-paper-3/section-1-question-7-subquestion-2-00.png")
 
-How many minutes will it be before the next time the $\text{hours}$ and $\text{minutes}$ are both multiples of $6$?
+How many minutes will it be before the next time the hours and minutes are both multiples of $6 \text{?}$
 
 </div>
 <div class='workings'>
@@ -5497,7 +5497,7 @@ ttime
 Look at the train timetable below. 
 
 |              LIVERPOOL MOORFIELDS                            | $8.01$ | $8.16$   | $8.31$ | $8.46$  |
-|:------------------------------------------------------------:|:----:|--------|------|-------|
+|:------------------------------------------------------------:|:----:|:--------:|:------:|:-------:|
 |              LIVERPOOL LIME STREET                           | $8.03$ | $8.18$   | $8.33$ | $8.48$  |
 |               LIVERPOOL CENTRAL                              | $8.05$ | $8.20$   | $8.35$ | $8.50$  |
 |              LIVERPOOL JAMES STREET                          | $8.07$ | $8.22$   | $8.37$ | $8.52$  |
@@ -5696,7 +5696,7 @@ ttime
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-I start watching a film at $7:45 \ \text{pm}$ and turn the television off at $9:35 \ \text{pm}$. For how long was I watching television?
+I start watching a film at $7{:}45 \ \text{pm}$ and turn the television off at $9{:}35 \ \text{pm}$. For how long was I watching television?
 
 </div>
 <div class='workings'>
@@ -6001,7 +6001,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write $14{:}00$ using $\text{am}$ or $\text{pm}$ time.
+Write $14{:}00$ using am or pm time.
 
 </div>
 <div class='workings'>
@@ -6363,7 +6363,7 @@ ttime
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-A child’s heart beats $80$ times per minute. How many times will it beat between $8.30\ \text{am}$ and $3.30\ \text{pm}$ on the same day? 
+A child’s heart beats $80 \ \text{times per minute}$. How many times will it beat between $8{:}30\ \text{am}$ and $3{:}30\ \text{pm}$ on the same day? 
 
 </div>
 <div class='workings'>

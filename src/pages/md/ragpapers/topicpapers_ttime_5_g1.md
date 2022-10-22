@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-5-g1"
 title: "TopicPaper - Time - 5 - G1"
-date: 2022-10-21 09:18:30
+date: 2022-10-22 10:57:02
 questions_count: "35"
 ---
 <ul class='question default-decimal'>
@@ -1601,8 +1601,8 @@ One of the times has been covered.
 
 |            | train $1$ | train $2$ |
 |:----------:|:---------:|:---------:|
-| **Taymar** | $09{:}24$ | $14{:}51$ |
-| **Raymar** | $11{:}43$ |           |
+| Taymar     | $09{:}24$ | $14{:}51$ |
+| Raymar     | $11{:}43$ |           |
 
 
 </div>
@@ -5816,7 +5816,7 @@ ttime
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Mr Smith is planning to catch the $10:47 \ \text{am}$ plane flight from Heathrow to Edinburgh and has been told to check in at the airport one and a half hours before the flight. It will take him one hour and twenty minutes to get from his home in Cambridge to Heathrow. The flight takes $55 \ \text{min}$ from Heathrow to Edinburgh.
+Mr Smith is planning to catch the $10{:}47\ \text{am}$ plane flight from Heathrow to Edinburgh and has been told to check in at the airport one and a half hours before the flight. It will take him one hour and twenty minutes to get from his home in Cambridge to Heathrow. The flight takes $55\ \text{min}$ from Heathrow to Edinburgh.
 
 </div>
 <div class='workings'>
@@ -6066,7 +6066,7 @@ ttime
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Frank catches the $7:52$ train from Cambridge to Northampton and he arrives in Northampton at $9:21$. How long was is journey? Give your answer in hours and minutes.
+Frank catches the $7{:}52$ train from Cambridge to Northampton and he arrives in Northampton at $9{:}21$. How long was is journey? Give your answer in hours and minutes.
 
 </div>
 <div class='workings'>
@@ -6190,7 +6190,7 @@ ttime
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-My train was $17\ \text{minutes}$ late when it arrived at the station at $17:05$.
+My train was $17\ \text{minutes}$ late when it arrived at the station at $17{:}05$.
 
 ![the-queens-school--11-plus--maths--9999--sample-paper-1/section-1-question-13-00.png](/assets/the-queens-school--11-plus--maths--9999--sample-paper-1/section-1-question-13-00.png "the-queens-school--11-plus--maths--9999--sample-paper-1/section-1-question-13-00.png")
 
@@ -6245,7 +6245,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-I got to the station at 4·$35 \ \text{pm}$ to catch the train. 
+I got to the station at $4·35 \ \text{pm}$ to catch the train. 
 
 How long did I have to wait for the train to arrive at the station?
 

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-torder-3-g2-prns"
 title: "TopicPaper - Order - 3 - G2 - PRNS"
-date: 2022-10-21 09:18:30
+date: 2022-10-22 10:57:02
 questions_count: "19"
 ---
 <ul class='question default-decimal'>
@@ -2180,15 +2180,15 @@ torder
 
 In which of the following are the terms NOT getting bigger?
 
-- $\dfrac{1}{5},0.25,\dfrac{3}{5},0.5$   
+- $\dfrac{1}{5},\quad0.25,\quad\dfrac{3}{5},\quad0.5$   
 
-- $\dfrac{3}{5},0.7,\dfrac{4}{5},1.5$   
+- $\dfrac{3}{5},\quad0.7,\quad\dfrac{4}{5},\quad1.5$   
 
-- $\dfrac{2}{5},0.5,\dfrac{7}{10},0.9$
+- $\dfrac{2}{5},\quad0.5,\quad\dfrac{7}{10},\quad0.9$
 
-- $\dfrac{3}{5},0.5,\dfrac{7}{10},0.9$   
+- $\dfrac{3}{5},\quad0.5,\quad\dfrac{7}{10},\quad0.9$   
 
-- $\dfrac{2}{5},1.5,\dfrac{10}{5},2.3$
+- $\dfrac{2}{5},\quad1.5,\quad\dfrac{10}{5},\quad2.3$
 
 </div>
 <div class='workings'>

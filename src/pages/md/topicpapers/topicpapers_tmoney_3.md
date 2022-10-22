@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-3"
 title: "TopicPaper - Money - 3"
-date: 2022-10-21 09:18:30
+date: 2022-10-22 10:57:02
 questions_count: "40"
 ---
 <div class='paper'>
@@ -1670,7 +1670,7 @@ tcoin
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Susan’s bus fare is exactly $44 \ \text{p}$. If the driver can give her change, what is the smallest number of coins that can change hands when Susan pays to get on the bus ? (**Explain clearly**)
+Susan’s bus fare is exactly $44 \ \text{p}$. If the driver can give her change, what is the smallest number of coins that can change hands when Susan pays to get on the bus? (Explain clearly)
 
 </div>
 <div class='workings'>
@@ -1809,7 +1809,7 @@ tmoney
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-In March $1998$ a book called “The Shadow of the East” was returned to a library in Sussex. It had been borrowed on January $3 \text{rd} \ 1924$! 
+In March $1998$ a book called “The Shadow of the East” was returned to a library in Sussex. It had been borrowed on January $3 ^\text{rd} ,\ 1924$ 
 The library charges a fine of $60 \ \text{p}$ per week for overdue books. Approximately how big a fine should the person who returned the book have paid?
 
 </div>
@@ -4490,7 +4490,7 @@ Look at the menu below:
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Work out the cost of $\text{three}$ beef burgers.
+Work out the cost of three beef burgers.
 
 </div>
 <div class='workings'>
@@ -4543,7 +4543,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Work out the cost of $\text{two}$ sandwiches and $\text{five}$ cups of coffee.
+Work out the cost of two sandwiches and five cups of coffee.
 
 </div>
 <div class='workings'>
@@ -5790,11 +5790,11 @@ tmoney
 
 Imogen buys
 
-$\bull \ 4$ star stickers at $15 \text{p}$ per sticker
+- $4$ star stickers at $15 \ \text{p}$ per sticker
 
-$\bull \ 7$ moon stickers at $16 \text{p}$ per sticker
+- $7$ moon stickers at $16 \ \text{p}$ per sticker
 
-If Imogen pays with a £5 note how much change would Imogen get? 
+If Imogen pays with a $\pounds 5$ note how much change would Imogen get? 
 
 </div>
 <div class='workings'>
@@ -6565,7 +6565,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-If you worked out the answer to part(a) on a calculator, what would the display show? 
+If you worked out the answer to part(A) on a calculator, what would the display show? 
 
 </div>
 <div class='workings'>
@@ -7490,7 +7490,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-If you worked out the answer to part (a) on a calculator, what would the display show?
+If you worked out the answer to part(a) on a calculator, what would the display show?
 
 </div>
 <div class='workings'>

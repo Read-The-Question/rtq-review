@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-3-g3"
 title: "TopicPaper - Time - 3 - G3"
-date: 2022-10-21 09:18:30
+date: 2022-10-22 10:57:02
 questions_count: "17"
 ---
 <ul class='question default-decimal'>
@@ -163,7 +163,7 @@ ttime
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-What is $463 \ \text{minutes}$ in hours and minutes ?
+What is $463 \ \text{minutes}$ in $\text{hours and minutes} ?$
 
 </div>
 <div class='workings'>
@@ -291,7 +291,7 @@ ttime
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Change $4.6 \ \text{minutes}$ into seconds. 
+Change $4.6 \ \text{minutes}$ into $seconds$. 
 
 </div>
 <div class='workings'>
@@ -1789,7 +1789,7 @@ ttime
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-My clock shows the following time. Both $\text{hours}$ and $\text{minutes}$ are multiples of $3$, as shown. 
+My clock shows the following time. Both hours and minutes are multiples of $3$, as shown. 
 
 ![st-anselms-college--11-plus--maths--2018--sample-paper-3/section-1-question-7-00.png](/assets/st-anselms-college--11-plus--maths--2018--sample-paper-3/section-1-question-7-00.png "st-anselms-college--11-plus--maths--2018--sample-paper-3/section-1-question-7-00.png")
 
@@ -1832,7 +1832,7 @@ My clock shows the following time. Both $\text{hours}$ and $\text{minutes}$ are 
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write a different time when the $\text{hours}$ and $\text{minutes}$ are both multiples of $3$.
+Write a different time when the hours and minutes are both multiples of $3$.
 
 </div>
 <div class='workings'>
@@ -1879,7 +1879,7 @@ Later, my clock shows
 
 ![st-anselms-college--11-plus--maths--2018--sample-paper-3/section-1-question-7-subquestion-2-00.png](/assets/st-anselms-college--11-plus--maths--2018--sample-paper-3/section-1-question-7-subquestion-2-00.png "st-anselms-college--11-plus--maths--2018--sample-paper-3/section-1-question-7-subquestion-2-00.png")
 
-How many minutes will it be before the next time the $\text{hours}$ and $\text{minutes}$ are both multiples of $6$?
+How many minutes will it be before the next time the hours and minutes are both multiples of $6 \text{?}$
 
 </div>
 <div class='workings'>
@@ -2222,7 +2222,7 @@ ttime
 Look at the train timetable below. 
 
 |              LIVERPOOL MOORFIELDS                            | $8.01$ | $8.16$   | $8.31$ | $8.46$  |
-|:------------------------------------------------------------:|:----:|--------|------|-------|
+|:------------------------------------------------------------:|:----:|:--------:|:------:|:-------:|
 |              LIVERPOOL LIME STREET                           | $8.03$ | $8.18$   | $8.33$ | $8.48$  |
 |               LIVERPOOL CENTRAL                              | $8.05$ | $8.20$   | $8.35$ | $8.50$  |
 |              LIVERPOOL JAMES STREET                          | $8.07$ | $8.22$   | $8.37$ | $8.52$  |
@@ -2421,7 +2421,7 @@ ttime
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-A child’s heart beats $80$ times per minute. How many times will it beat between $8.30\ \text{am}$ and $3.30\ \text{pm}$ on the same day? 
+A child’s heart beats $80 \ \text{times per minute}$. How many times will it beat between $8{:}30\ \text{am}$ and $3{:}30\ \text{pm}$ on the same day? 
 
 </div>
 <div class='workings'>

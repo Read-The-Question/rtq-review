@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-4-g1-prns"
 title: "TopicPaper - Time - 4 - G1 - PRNS"
-date: 2022-10-21 09:18:30
+date: 2022-10-22 10:57:02
 questions_count: "15"
 ---
 <ul class='question default-decimal'>
@@ -445,7 +445,7 @@ A clock shows $14{:}27$.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-How long is it since $10{:}32?$
+How long is it since $10{:}32 \text{?}$
 
 </div>
 <div class='workings'>

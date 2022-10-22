@@ -1,6 +1,6 @@
 ---
-slug: "ragpapers/topicpapers-tmoney-4-g2"
-title: "TopicPaper - Money - 4 - G2"
+slug: "ragpapers/topicpapers-tmoney-4-g2-prpcr"
+title: "TopicPaper - Money - 4 - G2 - PRPCR"
 date: 2022-10-22 10:57:02
 questions_count: "2"
 ---

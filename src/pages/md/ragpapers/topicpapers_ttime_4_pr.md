@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-4-pr"
 title: "TopicPaper - Time - 4 - PR"
-date: 2022-10-21 09:18:30
+date: 2022-10-22 10:57:02
 questions_count: "7"
 ---
 <ul class='question default-decimal'>
@@ -652,7 +652,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 At a railway station there are two platforms. At one platform, trains leave every $24 \ \text{minutes}$ and at 
-the other every $30 \ \text{minutes}$. If trains leave both platforms at $9 \ \text{a.m.}$, what time is it when trains next leave both platforms at the same time?
+the other every $30 \ \text{minutes}$. If trains leave both platforms at $9 \ \text{am}$, what time is it when trains next leave both platforms at the same time?
 
 </div>
 <div class='workings'>
@@ -835,16 +835,16 @@ The table gives information about these activities.
 
 |   **Activity**   |         **Start times**        | **Time taken by activity (minutes)** |
 |:----------------:|:------------------------------:|:------------------------------------:|
-|  Penguin feeding | $10 \ 45 \ 12 \ 15 \ 13 \ 45$  |                  $35$                  |
-|    Jeep safari   |  $10 \ 45 \ 12 \ 15 \ 13 \ 45$ |                  $45$                  |
-| Steam train ride |  $10 \ 45 \ 12 \ 15 \ 13 \ 45$ |                  $25$                  |
-|   Dolphin show   |  $10 \ 45 \ 12 \ 15 \ 13 \ 45$ |                  $40$                  |
+|  Penguin feeding | $10{:}45 \ 12{:}15 \ 13{:}45$  |                 $35$                  |
+|    Jeep safari   | $10{:}45 \ 12{:}15 \ 13{:}45$  |                  $45$                  |
+| Steam train ride | $10{:}45 \ 12{:}15 \ 13{:}45$  |                  $25$                  |
+|   Dolphin show   | $10{:}45 \ 12{:}15 \ 13{:}45$  |                  $40$                  |
 
 Tom wants to do all $4$ activities.
 
-He arrives at the theme park at $10 \ 20$. 
+He arrives at the theme park at $10{:}20$. 
 
-He needs to leave the theme park by $14 \ 30$.
+He needs to leave the theme park by $14{:}30$.
 
 Plan a schedule for Tom's visit to the theme park so he can do all $4$ activities.
 

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-torder-2"
 title: "TopicPaper - Order - 2"
-date: 2022-10-21 09:18:30
+date: 2022-10-22 10:57:02
 questions_count: "40"
 ---
 <div class='paper'>
@@ -4812,7 +4812,7 @@ torder
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-$2\% \quad 1 \quad 222 \quad 0.202 \quad 5 \quad 1000$
+$2\% \quad \dfrac {1} {5} \quad \dfrac {222} {1000} \quad 0.202$
 
 Write down which of the numbers above is
 
@@ -5529,7 +5529,7 @@ torder
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Write the following in order of size, smallest first 
+Write the following in order of size, smallest first:
 
 </div>
 <div class='workings'>
@@ -5570,7 +5570,7 @@ Write the following in order of size, smallest first
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$2.34\:\:\:  2.4\:\:\:   3.42\:\:\:   2.43\:\:\:   4.3\:\:\:$
+$2.34 \quad 2.4 \quad 3.42 \quad 2.43 \quad   4.3$
 
 </div>
 <div class='workings'>
@@ -5613,7 +5613,7 @@ $2.34, \quad  2.4, \quad 2.43, \quad 3.42, \quad  4.3$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$\dfrac{1}{2}\:\:\:    0.55\:\:\:   48\%\:\:\:     \dfrac{2}{5}\:\:\:       0.467$
+$\dfrac{1}{2} \quad 0.55 \quad 48\% \quad \dfrac{2}{5} \quad  0.467$
 
 </div>
 <div class='workings'>

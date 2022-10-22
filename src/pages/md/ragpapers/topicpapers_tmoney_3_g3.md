@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-3-g3"
 title: "TopicPaper - Money - 3 - G3"
-date: 2022-10-21 09:18:30
+date: 2022-10-22 10:57:02
 questions_count: "21"
 ---
 <ul class='question default-decimal'>
@@ -2727,11 +2727,11 @@ tmoney
 
 Imogen buys
 
-$\bull \ 4$ star stickers at $15 \text{p}$ per sticker
+- $4$ star stickers at $15 \ \text{p}$ per sticker
 
-$\bull \ 7$ moon stickers at $16 \text{p}$ per sticker
+- $7$ moon stickers at $16 \ \text{p}$ per sticker
 
-If Imogen pays with a £5 note how much change would Imogen get? 
+If Imogen pays with a $\pounds 5$ note how much change would Imogen get? 
 
 </div>
 <div class='workings'>
@@ -3130,7 +3130,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-If you worked out the answer to part(a) on a calculator, what would the display show? 
+If you worked out the answer to part(A) on a calculator, what would the display show? 
 
 </div>
 <div class='workings'>
@@ -3465,7 +3465,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-If you worked out the answer to part (a) on a calculator, what would the display show?
+If you worked out the answer to part(a) on a calculator, what would the display show?
 
 </div>
 <div class='workings'>

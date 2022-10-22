@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-4-g3"
 title: "TopicPaper - Time - 4 - G3"
-date: 2022-10-21 09:18:30
+date: 2022-10-22 10:57:02
 questions_count: "11"
 ---
 <ul class='question default-decimal'>
@@ -75,7 +75,7 @@ by a cycling stage and finishes with a running stage.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-She starts the swimming stage at $12:45$ pm. If she takes $79\,minutes$ to complete this stage, at what time does she start the cycling stage.
+She starts the swimming stage at $12{:}45 \ \text{pm}$. If she takes $79 \ \text{minutes}$ to complete this stage, at what time does she start the cycling stage.
 
 </div>
 <div class='workings'>
@@ -130,7 +130,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-If she starts the running stage at $4:38\,pm$ work out how long she took in minutes on the cycling stage.
+If she starts the running stage at $4{:}38 \ \text{pm}$ work out how long she took in minutes on the cycling stage.
 
 </div>
 <div class='workings'>
@@ -189,7 +189,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-If she took 107 minutes on the running stage work out how long she took to complete the whole triathlon. Give your answer in hours and minutes.
+If she took $107 \ \text{minutes}$ on the running stage work out how long she took to complete the whole triathlon. Give your answer in hours and minutes.
 
 </div>
 <div class='workings'>

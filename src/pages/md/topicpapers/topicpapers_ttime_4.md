@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-4"
 title: "TopicPaper - Time - 4"
-date: 2022-10-21 09:18:30
+date: 2022-10-22 10:57:02
 questions_count: "40"
 ---
 <div class='paper'>
@@ -625,7 +625,7 @@ by a cycling stage and finishes with a running stage.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-She starts the swimming stage at $12:45$ pm. If she takes $79\,minutes$ to complete this stage, at what time does she start the cycling stage.
+She starts the swimming stage at $12{:}45 \ \text{pm}$. If she takes $79 \ \text{minutes}$ to complete this stage, at what time does she start the cycling stage.
 
 </div>
 <div class='workings'>
@@ -680,7 +680,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-If she starts the running stage at $4:38\,pm$ work out how long she took in minutes on the cycling stage.
+If she starts the running stage at $4{:}38 \ \text{pm}$ work out how long she took in minutes on the cycling stage.
 
 </div>
 <div class='workings'>
@@ -739,7 +739,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-If she took 107 minutes on the running stage work out how long she took to complete the whole triathlon. Give your answer in hours and minutes.
+If she took $107 \ \text{minutes}$ on the running stage work out how long she took to complete the whole triathlon. Give your answer in hours and minutes.
 
 </div>
 <div class='workings'>
@@ -1751,7 +1751,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 At a railway station there are two platforms. At one platform, trains leave every $24 \ \text{minutes}$ and at 
-the other every $30 \ \text{minutes}$. If trains leave both platforms at $9 \ \text{a.m.}$, what time is it when trains next leave both platforms at the same time?
+the other every $30 \ \text{minutes}$. If trains leave both platforms at $9 \ \text{am}$, what time is it when trains next leave both platforms at the same time?
 
 </div>
 <div class='workings'>
@@ -2095,7 +2095,7 @@ A clock shows $14{:}27$.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-How long is it since $10{:}32?$
+How long is it since $10{:}32 \text{?}$
 
 </div>
 <div class='workings'>
@@ -2818,16 +2818,16 @@ The table gives information about these activities.
 
 |   **Activity**   |         **Start times**        | **Time taken by activity (minutes)** |
 |:----------------:|:------------------------------:|:------------------------------------:|
-|  Penguin feeding | $10 \ 45 \ 12 \ 15 \ 13 \ 45$  |                  $35$                  |
-|    Jeep safari   |  $10 \ 45 \ 12 \ 15 \ 13 \ 45$ |                  $45$                  |
-| Steam train ride |  $10 \ 45 \ 12 \ 15 \ 13 \ 45$ |                  $25$                  |
-|   Dolphin show   |  $10 \ 45 \ 12 \ 15 \ 13 \ 45$ |                  $40$                  |
+|  Penguin feeding | $10{:}45 \ 12{:}15 \ 13{:}45$  |                 $35$                  |
+|    Jeep safari   | $10{:}45 \ 12{:}15 \ 13{:}45$  |                  $45$                  |
+| Steam train ride | $10{:}45 \ 12{:}15 \ 13{:}45$  |                  $25$                  |
+|   Dolphin show   | $10{:}45 \ 12{:}15 \ 13{:}45$  |                  $40$                  |
 
 Tom wants to do all $4$ activities.
 
-He arrives at the theme park at $10 \ 20$. 
+He arrives at the theme park at $10{:}20$. 
 
-He needs to leave the theme park by $14 \ 30$.
+He needs to leave the theme park by $14{:}30$.
 
 Plan a schedule for Tom's visit to the theme park so he can do all $4$ activities.
 
@@ -3086,7 +3086,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prpcr question'>
 <div class='uuid'>
 <p>6247B84C-67BA-4837-942E-898B6625652A</p>
 </div>
@@ -3100,7 +3100,7 @@ $
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3302,6 +3302,21 @@ Penny arrives in Sydney at $13{:}00$ and on $1 \text {st February}$.
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reviewer: [ap] Date:2022-10-21::13:32
+
+
+
+b: Remove and
+
+write st as superscript
+</div>
 
 <div class='review'>
 <ul class='review'>

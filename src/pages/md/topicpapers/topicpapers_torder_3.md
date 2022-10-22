@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-torder-3"
 title: "TopicPaper - Order - 3"
-date: 2022-10-21 09:18:30
+date: 2022-10-22 10:57:02
 questions_count: "33"
 ---
 <div class='paper'>
@@ -3800,15 +3800,15 @@ torder
 
 In which of the following are the terms NOT getting bigger?
 
-- $\dfrac{1}{5},0.25,\dfrac{3}{5},0.5$   
+- $\dfrac{1}{5},\quad0.25,\quad\dfrac{3}{5},\quad0.5$   
 
-- $\dfrac{3}{5},0.7,\dfrac{4}{5},1.5$   
+- $\dfrac{3}{5},\quad0.7,\quad\dfrac{4}{5},\quad1.5$   
 
-- $\dfrac{2}{5},0.5,\dfrac{7}{10},0.9$
+- $\dfrac{2}{5},\quad0.5,\quad\dfrac{7}{10},\quad0.9$
 
-- $\dfrac{3}{5},0.5,\dfrac{7}{10},0.9$   
+- $\dfrac{3}{5},\quad0.5,\quad\dfrac{7}{10},\quad0.9$   
 
-- $\dfrac{2}{5},1.5,\dfrac{10}{5},2.3$
+- $\dfrac{2}{5},\quad1.5,\quad\dfrac{10}{5},\quad2.3$
 
 </div>
 <div class='workings'>
@@ -4336,7 +4336,7 @@ torder
 
 Write the following numbers in order of size starting with the **SMALLEST**.
 
-$0.56,\:\:\:0.506,\:\:\:0.605,\:\:\:0.65,\:\:\:0.056$
+$0.56,\quad0.506,\quad0.605,\quad0.65,\quad0.056$
 
 </div>
 <div class='workings'>

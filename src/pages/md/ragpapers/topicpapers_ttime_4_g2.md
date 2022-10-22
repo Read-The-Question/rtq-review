@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-4-g2"
 title: "TopicPaper - Time - 4 - G2"
-date: 2022-10-21 09:18:30
+date: 2022-10-22 10:57:02
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -303,7 +303,7 @@ Answer: Dont leave extra space between 11 and minutes
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prpcr question'>
 <div class='uuid'>
 <p>6247B84C-67BA-4837-942E-898B6625652A</p>
 </div>
@@ -317,7 +317,7 @@ Answer: Dont leave extra space between 11 and minutes
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -519,6 +519,21 @@ Penny arrives in Sydney at $13{:}00$ and on $1 \text {st February}$.
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reviewer: [ap] Date:2022-10-21::13:32
+
+
+
+b: Remove and
+
+write st as superscript
+</div>
 
 <div class='review'>
 <ul class='review'>

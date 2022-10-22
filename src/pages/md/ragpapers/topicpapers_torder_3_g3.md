@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-torder-3-g3"
 title: "TopicPaper - Order - 3 - G3"
-date: 2022-10-21 09:18:30
+date: 2022-10-22 10:57:02
 questions_count: "13"
 ---
 <ul class='question default-decimal'>
@@ -1505,7 +1505,7 @@ torder
 
 Write the following numbers in order of size starting with the **SMALLEST**.
 
-$0.56,\:\:\:0.506,\:\:\:0.605,\:\:\:0.65,\:\:\:0.056$
+$0.56,\quad0.506,\quad0.605,\quad0.65,\quad0.056$
 
 </div>
 <div class='workings'>

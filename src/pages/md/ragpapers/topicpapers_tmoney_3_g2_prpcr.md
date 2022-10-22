@@ -1,8 +1,8 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-3-g2-prpcr"
 title: "TopicPaper - Money - 3 - G2 - PRPCR"
-date: 2022-10-22 10:57:02
-questions_count: "3"
+date: 2022-10-22 11:59:44
+questions_count: "9"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -698,6 +698,1328 @@ Change to 7.20
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-B474E464-5AEF-419A-9B3D-08581A43D0DE'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='uuid'>
+<p>EFD43A9D-C622-4E56-8393-2CA2B39FA64E</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:12</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcr</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Tina owed Josh $\pounds 23.80$. She paid him back with three $\pounds 10$ notes but he did not have any change. How much does Josh now owe Tina?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Josh owe Tina}    &= 3 \times 10 - 23.80 \\\\
+                        &= 30 - 23.80 \\\\
+                        &= \pounds 6.20
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 6.20$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+<emptyline>
+$
+\begin{aligned}
+\text{Josh owe Tina}    &= 3 \times 10 - 23.80 \\\\
+                        &= 30 - 23.80 \\\\
+                        &= \pounds 6.20
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 6.20$
+</code></pre>
+</div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reviewer: [ap] Date:2022-10-22::10:08
+
+
+
+change owe to owes
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='EFD43A9D-C622-4E56-8393-2CA2B39FA64E' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='EFD43A9D-C622-4E56-8393-2CA2B39FA64E' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='EFD43A9D-C622-4E56-8393-2CA2B39FA64E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='EFD43A9D-C622-4E56-8393-2CA2B39FA64E' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='EFD43A9D-C622-4E56-8393-2CA2B39FA64E' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='EFD43A9D-C622-4E56-8393-2CA2B39FA64E' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='EFD43A9D-C622-4E56-8393-2CA2B39FA64E' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='EFD43A9D-C622-4E56-8393-2CA2B39FA64E' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='EFD43A9D-C622-4E56-8393-2CA2B39FA64E' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='EFD43A9D-C622-4E56-8393-2CA2B39FA64E' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='EFD43A9D-C622-4E56-8393-2CA2B39FA64E' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='EFD43A9D-C622-4E56-8393-2CA2B39FA64E' id='FORM-EFD43A9D-C622-4E56-8393-2CA2B39FA64E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-EFD43A9D-C622-4E56-8393-2CA2B39FA64E'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='uuid'>
+<p>FEDF1274-F3D1-48A8-9364-946A301048E2</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:1:9</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcr</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Six people pay $\pounds 5.50$ each for a meal in a restaurant. They leave a $10 \%$ tip for the waiter. How much change do they receive from a $\pounds 50$ note?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Cost of meal}    &= 6 \times 5.50 \\\\
+                        &= \pounds 33 \\\\
+\text{Tip}              &= 10 \% \text{ of } 33 \\\\
+                        &= \dfrac{10 \times 33 }{100} \\\\
+                        &= \dfrac{330}{100} \\\\
+                        &= \pounds 3.3 \\\\
+\text{Total expenses}   &= 33 + 3.3 \\\\
+                        &= 36.3 \\\\
+\text{Change received}  &= 50 - 36.3 \\\\
+                        &= \pounds 13.70
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 13.70$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Cost of meal}    &= 6 \times 5.50 \\\\
+                        &= \pounds 33 \\\\
+\text{Tip}              &= 10 \% \text{ of } 33 \\\\
+                        &= \dfrac{10 \times 33 }{100} \\\\
+                        &= \dfrac{330}{100} \\\\
+                        &= \pounds 3.3 \\\\
+\text{Total expenses}   &= 33 + 3.3 \\\\
+                        &= 36.3 \\\\
+\text{Change received}  &= 50 - 36.3 \\\\
+                        &= \pounds 13.70
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 13.70$
+</code></pre>
+</div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reviewer: [ap] Date:2022-10-22::10:20
+
+
+
+Change to £3.30 3.30 and 3.60
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='FEDF1274-F3D1-48A8-9364-946A301048E2' id='FORM-FEDF1274-F3D1-48A8-9364-946A301048E2' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-FEDF1274-F3D1-48A8-9364-946A301048E2'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='uuid'>
+<p>B14230C1-397F-4229-962F-877D59B5C1B2</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:1:1</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcr</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Danielle went to the store to buy stationery for school. She bought four rulers, five pens and three pencils. The rulers cost $46 \ \text{p}$ each, the pens cost $37 \ \text{p}$ each and the pencils cost $13 \ \text{p}$ each.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How much did she pay in total for her stationery?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Total cost}  &= 4 \times 46 + 5 \times 37 + 3 \times 3 \\\\
+                    &= 184 + 185 + 9 \\\\
+                    &= 378 \ \text{p}  \\\\
+                    &= \pounds 3.78
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+\pounds 3.78
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Total cost}  &= 4 \times 46 + 5 \times 37 + 3 \times 3 \\\\
+                    &= 184 + 185 + 9 \\\\
+                    &= 378 \ \text{p}  \\\\
+                    &= \pounds 3.78
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>\pounds 3.78
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+If she paid with a $\pounds 10$ note, how much change did she get?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Change received}     &= \pounds 10 - \pounds 3.78 \\\\
+                            &= \pounds 6.22
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 6.22$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+\text {Change received}     &= \pounds 10 - \pounds 3.78 \\\\
+                            &= \pounds 6.22
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 6.22$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reviewer: [ap] Date:2022-10-22::10:21
+
+
+
+Pencils cost 13 not 3
+
+Change answers and workings accordingly
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='B14230C1-397F-4229-962F-877D59B5C1B2' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='B14230C1-397F-4229-962F-877D59B5C1B2' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='B14230C1-397F-4229-962F-877D59B5C1B2' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='B14230C1-397F-4229-962F-877D59B5C1B2' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='B14230C1-397F-4229-962F-877D59B5C1B2' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='B14230C1-397F-4229-962F-877D59B5C1B2' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='B14230C1-397F-4229-962F-877D59B5C1B2' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='B14230C1-397F-4229-962F-877D59B5C1B2' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='B14230C1-397F-4229-962F-877D59B5C1B2' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='B14230C1-397F-4229-962F-877D59B5C1B2' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='B14230C1-397F-4229-962F-877D59B5C1B2' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='B14230C1-397F-4229-962F-877D59B5C1B2' id='FORM-B14230C1-397F-4229-962F-877D59B5C1B2' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B14230C1-397F-4229-962F-877D59B5C1B2'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='uuid'>
+<p>88771F84-2908-43E4-9380-A12099F3BB56</p>
+</div>
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:8</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcr</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Ian buys
+
+- $3$ bananas at $12 \ \text{p}$ per banana
+- $5$ apples at $11 \ \text{p}$ per apple
+
+If Ian pays with a $\pounds 2$ coin how much change would Ian get? Give your answer in pounds and pence. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+
+$
+\begin{aligned}
+\text {Money spent}         &= 3 \times 12  + 5 \times 11 \\\\
+                            &= 36 + 55 \\\\
+                            &= 91 \ \text{p} \\\\
+                            &= \pounds 0.91 \\\\
+\text {Change received}     &= 2 - 0.91 \\\\
+                            &= 1.09 \\\\
+                            &= \pounds 1 \ \text {and} \ 9 \ \text{p}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1 \ \text {and} \ 9 \ \text{p}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
+<emptyline>
+$
+\begin{aligned}
+\text {Money spent}         &= 3 \times 12  + 5 \times 11 \\\\
+                            &= 36 + 55 \\\\
+                            &= 91 \ \text{p} \\\\
+                            &= \pounds 0.91 \\\\
+\text {Change received}     &= 2 - 0.91 \\\\
+                            &= 1.09 \\\\
+                            &= \pounds 1 \ \text {and} \ 9 \ \text{p}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 1 \ \text {and} \ 9 \ \text{p}$
+</code></pre>
+</div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reviewer: [ap] Date:2022-10-22::10:23
+
+
+
+Write answer as £1.09
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='88771F84-2908-43E4-9380-A12099F3BB56' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='88771F84-2908-43E4-9380-A12099F3BB56' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='88771F84-2908-43E4-9380-A12099F3BB56' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='88771F84-2908-43E4-9380-A12099F3BB56' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='88771F84-2908-43E4-9380-A12099F3BB56' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='88771F84-2908-43E4-9380-A12099F3BB56' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='88771F84-2908-43E4-9380-A12099F3BB56' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='88771F84-2908-43E4-9380-A12099F3BB56' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='88771F84-2908-43E4-9380-A12099F3BB56' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='88771F84-2908-43E4-9380-A12099F3BB56' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='88771F84-2908-43E4-9380-A12099F3BB56' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='88771F84-2908-43E4-9380-A12099F3BB56' id='FORM-88771F84-2908-43E4-9380-A12099F3BB56' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-88771F84-2908-43E4-9380-A12099F3BB56'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='uuid'>
+<p>74C05D8E-262C-47B1-ABB4-5F06E493406E</p>
+</div>
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:13</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcr</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Tickets for the zoo cost $\pounds 9.30$ for adults and $\pounds 6.40$ for children.  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How much would it cost for $6$ adults to go to the zoo? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Total cost}  &= 6 \times 9.30 \\\\
+                    &= \pounds 55.80
+\end{aligned}
+$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 55.80$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Total cost}  &= 6 \times 9.30 \\\\
+                    &= \pounds 55.80
+\end{aligned}
+$
+<emptyline>
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 55.80$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How much would it cost for $3$ adults and $4$ children?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total cost}   &= 3 \times 9.30 + 4 \times 6.40 \\\\
+                    &= 27.90 + 25.60 \\\\
+                    &= \pounds 53.50
+\end{aligned}
+$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 53.50$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Total cost}   &= 3 \times 9.30 + 4 \times 6.40 \\\\
+                    &= 27.90 + 25.60 \\\\
+                    &= \pounds 53.50
+\end{aligned}
+$
+<emptyline>
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 53.50$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What is the maximum number of people that can go to the zoo for $\pounds 30 \text{?}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Since we have to maximise the number of people, let's calculate for only children.
+
+$
+\begin{aligned}
+\text {Maximum number of people}    &= \dfrac {30} {6.40} \\\\
+                                    &= \dfrac {30 \times 10} {6.40 \times 10} \\\\
+                                    &= \dfrac {300} {64} \\\\
+                                    &= \dfrac {4 \times 75} {4 \times 16} \\\\
+                                    &= \dfrac {\cancel{4} \times 75} {\cancel{4} \times 16} \\\\
+                                    &= \dfrac {75} {16} \\\\
+                                    &= 4 \text { remainder } 11 \\\\
+                                    &\approx 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Since we have to maximise the number of people, let's calculate for only children.
+<emptyline>
+$
+\begin{aligned}
+\text {Maximum number of people}    &= \dfrac {30} {6.40} \\\\
+                                    &= \dfrac {30 \times 10} {6.40 \times 10} \\\\
+                                    &= \dfrac {300} {64} \\\\
+                                    &= \dfrac {4 \times 75} {4 \times 16} \\\\
+                                    &= \dfrac {\cancel{4} \times 75} {\cancel{4} \times 16} \\\\
+                                    &= \dfrac {75} {16} \\\\
+                                    &= 4 \text { remainder } 11 \\\\
+                                    &\approx 4
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$4$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reviewer: [ap] Date:2022-10-22::10:26
+
+
+
+Change first sentence to: Since we want to have the largest number of people, lets only calculate for children, as their tickets are cheaper.
+
+
+
+Reviewer: [ap] Date:2022-10-22::10:26
+
+
+
+Change first sentence to: Since we want to have the largest number of people, lets only calculate for children, as their tickets are cheaper.
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='74C05D8E-262C-47B1-ABB4-5F06E493406E' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='74C05D8E-262C-47B1-ABB4-5F06E493406E' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='74C05D8E-262C-47B1-ABB4-5F06E493406E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='74C05D8E-262C-47B1-ABB4-5F06E493406E' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='74C05D8E-262C-47B1-ABB4-5F06E493406E' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='74C05D8E-262C-47B1-ABB4-5F06E493406E' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='74C05D8E-262C-47B1-ABB4-5F06E493406E' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='74C05D8E-262C-47B1-ABB4-5F06E493406E' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='74C05D8E-262C-47B1-ABB4-5F06E493406E' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='74C05D8E-262C-47B1-ABB4-5F06E493406E' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='74C05D8E-262C-47B1-ABB4-5F06E493406E' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='74C05D8E-262C-47B1-ABB4-5F06E493406E' id='FORM-74C05D8E-262C-47B1-ABB4-5F06E493406E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-74C05D8E-262C-47B1-ABB4-5F06E493406E'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='uuid'>
+<p>A1426515-EEB1-42FF-91BB-F3BFD31D7485</p>
+</div>
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:13</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcr</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+
+Tickets for the cinema cost $\pounds 6.30$ for adults and $\pounds 3.40$ for children.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How much would it cost for $6$ adults to go to the cinema?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Cost for} \ 6 \ \text {adults}    &= 6 \times 6.30 \\\\
+                                         &= \pounds 37.80
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 37.80$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+\text {Cost for} \ 6 \ \text {adults}    &= 6 \times 6.30 \\\\
+                                         &= \pounds 37.80
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 37.80$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How much would it cost for $3$ adults and $4$ children?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Cost for} \ 3 \ \text {adults and} \ 4 \ \text {children}    &= 3 \times 6.30 + 4 \times 3.40 \\\\
+                                                                    &= 18.90 + 13.60 \\\\
+                                                                    &= \pounds 32.50
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 32.50$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+\text {Cost for} \ 3 \ \text {adults and} \ 4 \ \text {children}    &= 3 \times 6.30 + 4 \times 3.40 \\\\
+                                                                    &= 18.90 + 13.60 \\\\
+                                                                    &= \pounds 32.50
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 32.50$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What is the maximum number of people that can go to the
+cinema for $\pounds 20 \text{?}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Since we have to maximise the number of people, let's calculate for only children.
+
+$
+\begin {aligned}
+\text {Maximum number of people}    &= \dfrac {20} {3.40} \\\\
+                                    &= \dfrac {20 \times 10} {3.40 \times 10} \\\\
+                                    &= \dfrac {20 \times 10} {34} \\\\
+                                    &= \dfrac {10 \times 2 \times 10} {2 \times 17} \\\\
+                                    &= \dfrac {10 \times \cancel {2} \times 10} {\cancel {2} \times 17} \\\\
+                                    &= \dfrac {100} {17} \\\\
+                                    &= 5 \ \text {remainder} \ 15 \\\\
+                                    &\approx 5
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Since we have to maximise the number of people, let's calculate for only children.
+<emptyline>
+$
+\begin {aligned}
+\text {Maximum number of people}    &= \dfrac {20} {3.40} \\\\
+                                    &= \dfrac {20 \times 10} {3.40 \times 10} \\\\
+                                    &= \dfrac {20 \times 10} {34} \\\\
+                                    &= \dfrac {10 \times 2 \times 10} {2 \times 17} \\\\
+                                    &= \dfrac {10 \times \cancel {2} \times 10} {\cancel {2} \times 17} \\\\
+                                    &= \dfrac {100} {17} \\\\
+                                    &= 5 \ \text {remainder} \ 15 \\\\
+                                    &\approx 5
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$5$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reviewer: [ap] Date:2022-10-22::10:29
+
+
+
+b: Change to total cost
+
+c: Change to - Since we want to have the largest number of people, lets only calculate for children, as their tickets are cheaper.
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='A1426515-EEB1-42FF-91BB-F3BFD31D7485' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='A1426515-EEB1-42FF-91BB-F3BFD31D7485' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='A1426515-EEB1-42FF-91BB-F3BFD31D7485' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='A1426515-EEB1-42FF-91BB-F3BFD31D7485' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='A1426515-EEB1-42FF-91BB-F3BFD31D7485' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='A1426515-EEB1-42FF-91BB-F3BFD31D7485' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='A1426515-EEB1-42FF-91BB-F3BFD31D7485' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='A1426515-EEB1-42FF-91BB-F3BFD31D7485' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='A1426515-EEB1-42FF-91BB-F3BFD31D7485' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='A1426515-EEB1-42FF-91BB-F3BFD31D7485' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='A1426515-EEB1-42FF-91BB-F3BFD31D7485' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='A1426515-EEB1-42FF-91BB-F3BFD31D7485' id='FORM-A1426515-EEB1-42FF-91BB-F3BFD31D7485' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A1426515-EEB1-42FF-91BB-F3BFD31D7485'>Initial</p>
 </div>
 </div>
 </li>

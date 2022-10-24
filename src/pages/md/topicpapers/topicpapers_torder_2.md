@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-torder-2"
 title: "TopicPaper - Order - 2"
-date: 2022-10-22 11:59:44
+date: 2022-10-24 08:22:23
 questions_count: "40"
 ---
 <div class='paper'>
@@ -3339,7 +3339,7 @@ torder
 
 Put these in order, starting with the smallest: 
 
-$\dfrac {7} {9} , 0.7,\dfrac {770} {1000} , 75 \%$
+$\dfrac {7} {9}, \quad 0.7, \quad \dfrac {770} {1000}, \quad 75\%$
 
 </div>
 <div class='workings'>

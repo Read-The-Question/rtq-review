@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-3-g1-prns"
 title: "TopicPaper - Time - 3 - G1 - PRNS"
-date: 2022-10-22 11:59:44
+date: 2022-10-24 08:22:23
 questions_count: "21"
 ---
 <ul class='question default-decimal'>
@@ -1422,7 +1422,7 @@ ttime
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-How many seconds are there in $\dfrac {1} {4} \ \text{of} \ \dfrac {1} {6} \ \text{of} \  \dfrac {1} {8}$ of a day?
+How many seconds are there in $\dfrac {1} {4}$ of $\dfrac {1} {6}$ of $\dfrac {1} {8}$ of a day?
 
 </div>
 <div class='workings'>
@@ -3178,7 +3178,7 @@ ttime
 Look at the New York Subway train timetable below and then answer the questions on the next page.
 
 |           Brooklyn Bridge           | $12{:}08$ | $12{:}18$ | $12{:}28$ | $12{:}38$ | $12{:}48$ | $13{:}00$ | $13{:}15$ |
-|:---------------------------------------:|-------|-------|-------|-------|-------|-------|-------|
+|:---------------------------------------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 |           Bleecker Street           | $12{:}12$ | $12{:}22$ | $12{:}32$ | $12{:}42$ | $12{:}52$ | $13{:}04$ | $13{:}19$ |
 |             Astor Place             | $12{:}14$ | $12{:}24$ | $12{:}34$ | $12{:}44$ | $12{:}54$ | $13{:}06$ | $13{:}21$ |
 |       Grand Central Terminal        | $12{:}21$ | $12{:}31$ | $12{:}41$ | $12{:}51$ | $13{:}01$ | $13{:}13$ | $13{:}28$ |

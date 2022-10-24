@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-3-g2-prpcr"
 title: "TopicPaper - Time - 3 - G2 - PRPCR"
-date: 2022-10-22 11:59:44
+date: 2022-10-24 08:22:23
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -33,7 +33,7 @@ ttime
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Ann went to the cinema. The film started at $11{:}55 \ \text{AM}$ and lasted $117$ minutes. What time did the film end?
+Ann went to the cinema. The film started at $11{:}55 \ \text{AM}$ and lasted $117 \ \text{minutes}$. What time did the film end?
 
 </div>
 <div class='workings'>

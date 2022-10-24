@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-4-g1-prns"
 title: "TopicPaper - Money - 4 - G1 - PRNS"
-date: 2022-10-22 11:59:44
+date: 2022-10-24 08:22:23
 questions_count: "14"
 ---
 <ul class='question default-decimal'>

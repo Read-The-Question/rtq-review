@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-2-g2-prpcr"
 title: "TopicPaper - Money - 2 - G2 - PRPCR"
-date: 2022-10-22 11:59:44
+date: 2022-10-24 08:22:23
 questions_count: "5"
 ---
 <ul class='question default-decimal'>

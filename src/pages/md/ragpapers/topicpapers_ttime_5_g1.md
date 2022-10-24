@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-5-g1"
 title: "TopicPaper - Time - 5 - G1"
-date: 2022-10-22 11:59:44
+date: 2022-10-24 08:22:23
 questions_count: "35"
 ---
 <ul class='question default-decimal'>
@@ -3037,7 +3037,7 @@ Katy is going to the cinema to see a film that starts at $3.25 \ \text{pm}$ and 
 
 At what time will the film end?
 
-Write your answer using the $24$-hour clock.
+Write your answer using the $24{-}\text{hour}$ clock.
 
 </div>
 <div class='workings'>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-torder-2-pr"
 title: "TopicPaper - Order - 2 - PR"
-date: 2022-10-25 13:02:55
+date: 2022-10-25 14:56:44
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -86,7 +86,7 @@ Arrange the cards in descending order (largest first).
 
 Let's make the denominator the same for all the numbers, so we can compare them.
 
-LCM for $12, 2, 8, 3 = 24$
+LCM of $12, 2, 8, 3 = 24$
 
 $
 \begin{aligned}
@@ -119,7 +119,7 @@ $\dfrac {6} {8} > \dfrac {2} {3} > \dfrac {7} {12} > \dfrac {1} {2}$
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
 <emptyline>
-LCM for $12, 2, 8, 3 = 24$
+LCM of $12, 2, 8, 3 = 24$
 <emptyline>
 $
 \begin{aligned}

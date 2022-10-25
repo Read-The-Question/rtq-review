@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-torder-1"
 title: "TopicPaper - Order - 1"
-date: 2022-10-25 13:02:55
+date: 2022-10-25 14:56:44
 questions_count: "40"
 ---
 <div class='paper'>
@@ -60,7 +60,7 @@ $
 \end{aligned}
 $
 
-LCM for  $4, 100, 20 = 100$
+LCM of  $4, 100, 20 = 100$
 
 $
 \begin{aligned}
@@ -99,7 +99,7 @@ $
 \end{aligned}
 $
 <emptyline>
-LCM for  $4, 100, 20 = 100$
+LCM of  $4, 100, 20 = 100$
 <emptyline>
 $
 \begin{aligned}
@@ -811,7 +811,7 @@ $\dfrac{3}{5} \quad \dfrac{12}{18} \quad \dfrac{9}{10} \quad\dfrac{14}{20}$
 
 Let's make the denominator the same for all the numbers, so we can compare them.
 
-LCM for $5, 18, 10, 20 = 180$
+LCM of $5, 18, 10, 20 = 180$
 
 $
 \begin{aligned}
@@ -844,7 +844,7 @@ $\dfrac {3} {5}, \quad \dfrac {12} {18}, \quad \dfrac {14} {20}, \quad \dfrac {9
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
 <emptyline>
-LCM for $5, 18, 10, 20 = 180$
+LCM of $5, 18, 10, 20 = 180$
 <emptyline>
 $
 \begin{aligned}
@@ -2566,7 +2566,7 @@ $
 
 Let's make the denominator the same for all the numbers, so we can compare them.
 
-LCM for $5, 8, 4, 2, 3 = 120$
+LCM of $5, 8, 4, 2, 3 = 120$
 
 $
 \begin{aligned}
@@ -2599,7 +2599,7 @@ $\dfrac{3}{8}, \quad \dfrac{1}{2}, \quad \dfrac{2}{3}, \quad \dfrac{3}{4}, \quad
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
 <emptyline>
-LCM for $5, 8, 4, 2, 3 = 120$
+LCM of $5, 8, 4, 2, 3 = 120$
 <emptyline>
 $
 \begin{aligned}
@@ -3401,7 +3401,7 @@ $\dfrac{2}{3}, \dfrac{5}{6}, \dfrac{7}{12}$
 
 Let's make the denominator the same for all the numbers, so we can compare them.
 
-LCM for $3, 6, 12 = 12$
+LCM of $3, 6, 12 = 12$
 
 $
 \begin{aligned}
@@ -3437,7 +3437,7 @@ $\dfrac {7} {12}, \quad \dfrac {2} {3}, \quad \dfrac {5} {6}$
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
 <emptyline>
-LCM for $3, 6, 12 = 12$
+LCM of $3, 6, 12 = 12$
 <emptyline>
 $
 \begin{aligned}
@@ -3567,7 +3567,7 @@ $\dfrac{2}{3}, \dfrac{5}{6}, \dfrac{7}{12}$
 
 Let's make the denominator the same for all the numbers, so we can compare them.
 
-LCM for $3, 6, 12 = 12$
+LCM of $3, 6, 12 = 12$
 
 $
 \begin{aligned}
@@ -3603,7 +3603,7 @@ $\dfrac {7} {12}, \quad \dfrac {2} {3}, \quad \dfrac {5} {6}$
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
 <emptyline>
-LCM for $3, 6, 12 = 12$
+LCM of $3, 6, 12 = 12$
 <emptyline>
 $
 \begin{aligned}
@@ -4490,7 +4490,7 @@ $\dfrac{3}{4}, \quad \dfrac{5}{6}, \quad \dfrac{8}{9}, \quad \dfrac{2}{3}$
 
 Let's make the denominator the same for all the numbers, so we can compare them.
 
-LCM for $4, 6, 9, 3 = 36$
+LCM of $4, 6, 9, 3 = 36$
 
 $
 \begin{aligned}
@@ -4516,7 +4516,7 @@ $\dfrac {8} {9}$
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
 <emptyline>
-LCM for $4, 6, 9, 3 = 36$
+LCM of $4, 6, 9, 3 = 36$
 <emptyline>
 $
 \begin{aligned}
@@ -4570,7 +4570,7 @@ $
 
 Let's make the denominator the same for all the numbers, so we can compare them.
 
-LCM for $2, 4, 3 = 12$
+LCM of $2, 4, 3 = 12$
 
 $
 \begin{aligned}
@@ -4607,7 +4607,7 @@ $
 <emptyline>
 Let's make the denominator the same for all the numbers, so we can compare them.
 <emptyline>
-LCM for $2, 4, 3 = 12$
+LCM of $2, 4, 3 = 12$
 <emptyline>
 $
 \begin{aligned}
@@ -5257,7 +5257,7 @@ $\dfrac {1} {2},\quad \dfrac {1} {4} ,\quad \dfrac {1} {8} ,\quad \dfrac {3} {4}
 
 Let's make the denominator the same for all the numbers, so we can compare them.
 
-LCM for $2, 4, 8 = 8$
+LCM of $2, 4, 8 = 8$
 
 $
 \begin{aligned}
@@ -5290,7 +5290,7 @@ $\dfrac {1} {8}, \quad \dfrac {1} {4}, \quad \dfrac {3} {8}, \quad \dfrac {1} {2
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
 <emptyline>
-LCM for $2, 4, 8 = 8$
+LCM of $2, 4, 8 = 8$
 <emptyline>
 $
 \begin{aligned}
@@ -5411,7 +5411,7 @@ $\dfrac{3}{10}, \quad \dfrac{1}{5}, \quad \dfrac{3}{2}, \quad \dfrac{1}{20}, \qu
 
 Let's make the denominator the same for all the numbers, so we can compare them.
 
-LCM for $10,5,2,20,4 = 20$
+LCM of $10,5,2,20,4 = 20$
 
 $
 \begin{aligned}
@@ -5444,7 +5444,7 @@ $\dfrac {1} {20}, \quad \dfrac {1} {5}, \quad \dfrac {1} {4}, \quad \dfrac {3} {
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
 <emptyline>
-LCM for $10,5,2,20,4 = 20$
+LCM of $10,5,2,20,4 = 20$
 <emptyline>
 $
 \begin{aligned}
@@ -6156,7 +6156,7 @@ If the following fractions  are arranged in increasing order of size, which one 
 
 Let's make the denominator the same for all the numbers, so we can compare them.
 
-LCM for $2, 5, 7, 9 = 630$
+LCM of $2, 5, 7, 9 = 630$
 
 $
 \begin{aligned}
@@ -6185,7 +6185,7 @@ $\dfrac {1} {2}$
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
 <emptyline>
-LCM for $2, 5, 7, 9 = 630$
+LCM of $2, 5, 7, 9 = 630$
 <emptyline>
 $
 \begin{aligned}
@@ -7622,7 +7622,7 @@ $\dfrac{5}{7}\quad\dfrac{19}{28}\quad\dfrac{27}{35}\quad\dfrac{9}{14}$
 
 Let's make the denominator the same for all the numbers, so we can compare them.
 
-LCM for $7, 28, 35, 14 = 140$
+LCM of $7, 28, 35, 14 = 140$
 
 $
 \begin{aligned}
@@ -7655,7 +7655,7 @@ $\dfrac {19} {28}, \quad \dfrac {5} {7}, \quad \dfrac {27} {35}, \quad \dfrac {9
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
 <emptyline>
-LCM for $7, 28, 35, 14 = 140$
+LCM of $7, 28, 35, 14 = 140$
 <emptyline>
 $
 \begin{aligned}

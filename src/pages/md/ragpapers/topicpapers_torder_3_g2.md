@@ -1,166 +1,10 @@
 ---
 slug: "ragpapers/topicpapers-torder-3-g2"
 title: "TopicPaper - Order - 3 - G2"
-date: 2022-10-25 13:02:55
-questions_count: "14"
+date: 2022-10-25 14:56:44
+questions_count: "9"
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_g2 rag_prns question'>
-<div class='uuid'>
-<p>EE3C4DCD-FFE0-4F39-903A-B6C02F46BA3A</p>
-</div>
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:10</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-<li>
-tcircleanswer
-</li>
-</ul>
-</div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
-Put a circle round the biggest number and a square round the smallest number in this list:
-
-$83\% \quad \dfrac{4}{5} \quad \dfrac{1}{3} \quad 0.333 \quad 0.825 \quad 30\% \quad 0.59 \quad 0.29 \quad \dfrac{29}{90}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's convert all the numbers into decimals.
-
-$
-\begin{aligned}
-&= 83\%, \quad \dfrac{4}{5}, \quad \dfrac{1}{3}, \quad 0.333, \quad 0.825, \quad 30\%, \quad 0.59, \quad 0.29, \quad \dfrac{29}{90} \\\\
-&= 0.83, \quad 0.8, \quad 0.\overline{3}, \quad 0.333, \quad 0.825, \quad 0.3, \quad 0.59, \quad 0.29, \quad 0.3\overline{2}
-\end{aligned}
-$
-
-Smallest number $= 0.29$
-
-Largest number $= 0.83 = 83\%$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-Smallest number $= 0.29$
-
-</div>
-<div class='answer'>
-
-Largest number $= 83\%$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let's convert all the numbers into decimals.
-<emptyline>
-$
-\begin{aligned}
-&= 83\%, \quad \dfrac{4}{5}, \quad \dfrac{1}{3}, \quad 0.333, \quad 0.825, \quad 30\%, \quad 0.59, \quad 0.29, \quad \dfrac{29}{90} \\\\
-&= 0.83, \quad 0.8, \quad 0.\overline{3}, \quad 0.333, \quad 0.825, \quad 0.3, \quad 0.59, \quad 0.29, \quad 0.3\overline{2}
-\end{aligned}
-$
-<emptyline>
-Smallest number $= 0.29$
-<emptyline>
-Largest number $= 0.83 = 83\%$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Smallest number $= 0.29$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Largest number $= 83\%$
-</code></pre>
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='EE3C4DCD-FFE0-4F39-903A-B6C02F46BA3A' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='EE3C4DCD-FFE0-4F39-903A-B6C02F46BA3A' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='EE3C4DCD-FFE0-4F39-903A-B6C02F46BA3A' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='EE3C4DCD-FFE0-4F39-903A-B6C02F46BA3A' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='EE3C4DCD-FFE0-4F39-903A-B6C02F46BA3A' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='EE3C4DCD-FFE0-4F39-903A-B6C02F46BA3A' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='EE3C4DCD-FFE0-4F39-903A-B6C02F46BA3A' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='EE3C4DCD-FFE0-4F39-903A-B6C02F46BA3A' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='EE3C4DCD-FFE0-4F39-903A-B6C02F46BA3A' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='EE3C4DCD-FFE0-4F39-903A-B6C02F46BA3A' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='EE3C4DCD-FFE0-4F39-903A-B6C02F46BA3A' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='EE3C4DCD-FFE0-4F39-903A-B6C02F46BA3A' id='FORM-EE3C4DCD-FFE0-4F39-903A-B6C02F46BA3A' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-EE3C4DCD-FFE0-4F39-903A-B6C02F46BA3A'>Initial</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_g2 rag_prpcr question'>
 <div class='uuid'>
@@ -325,320 +169,6 @@ Change 1.50 to 1.5
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
-<p>0F966EC3-188D-4048-9DCF-CEC6B6FF7B61</p>
-</div>
-<div class='papername'>
-<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:8</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
-Write these fractions in order of size from the smallest to the largest.
-
-$\dfrac{1}{2} \quad \dfrac{3}{8} \quad \dfrac{1}{3} \quad \dfrac{5}{12} \quad \dfrac{7}{24}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's make the denominator the same for all the numbers, so we can compare them.
-
-LCM for $2, 8, 3, 12, 24 = 24$
-
-$
-\begin{aligned}
-&= \dfrac{1}{2}, \quad \dfrac{3}{8}, \quad \dfrac{1}{3}, \quad \dfrac{5}{12}, \quad \dfrac{7}{24} \\\\
-&= \dfrac{1 \times 12}{2 \times 12}, \quad \dfrac{3 \times 3}{8 \times 3}, \quad \dfrac{1 \times 8}{3 \times 8}, \quad \dfrac{5 \times 2}{12 \times 2}, \quad \dfrac{7 \times 1}{24 \times 1} \\\\
-&= \dfrac{12}{24}, \quad \dfrac{9}{24}, \quad \dfrac{8}{24}, \quad \dfrac{10}{24}, \quad \dfrac{7}{24}
-\end{aligned}
-$
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= \dfrac{7}{24} < \dfrac{8}{24} < \dfrac{9}{24} < \dfrac{10}{24} < \dfrac{12}{24} \\\\
-&= \dfrac{7}{24} < \dfrac{1}{3} < \dfrac{3}{8} < \dfrac{5}{12} < \dfrac{1}{2}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac{7}{24}, \quad \dfrac{1}{3}, \quad \dfrac{3}{8}, \quad \dfrac{5}{12}, \quad \dfrac{1}{2}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
-<emptyline>
-LCM for $2, 8, 3, 12, 24 = 24$
-<emptyline>
-$
-\begin{aligned}
-&= \dfrac{1}{2}, \quad \dfrac{3}{8}, \quad \dfrac{1}{3}, \quad \dfrac{5}{12}, \quad \dfrac{7}{24} \\\\
-&= \dfrac{1 \times 12}{2 \times 12}, \quad \dfrac{3 \times 3}{8 \times 3}, \quad \dfrac{1 \times 8}{3 \times 8}, \quad \dfrac{5 \times 2}{12 \times 2}, \quad \dfrac{7 \times 1}{24 \times 1} \\\\
-&= \dfrac{12}{24}, \quad \dfrac{9}{24}, \quad \dfrac{8}{24}, \quad \dfrac{10}{24}, \quad \dfrac{7}{24}
-\end{aligned}
-$
-<emptyline>
-Let's put them in ascending order now.
-<emptyline>
-$
-\begin{aligned}
-&= \dfrac{7}{24} < \dfrac{8}{24} < \dfrac{9}{24} < \dfrac{10}{24} < \dfrac{12}{24} \\\\
-&= \dfrac{7}{24} < \dfrac{1}{3} < \dfrac{3}{8} < \dfrac{5}{12} < \dfrac{1}{2}
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac{7}{24}, \quad \dfrac{1}{3}, \quad \dfrac{3}{8}, \quad \dfrac{5}{12}, \quad \dfrac{1}{2}$
-</code></pre>
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='0F966EC3-188D-4048-9DCF-CEC6B6FF7B61' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='0F966EC3-188D-4048-9DCF-CEC6B6FF7B61' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='0F966EC3-188D-4048-9DCF-CEC6B6FF7B61' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='0F966EC3-188D-4048-9DCF-CEC6B6FF7B61' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='0F966EC3-188D-4048-9DCF-CEC6B6FF7B61' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='0F966EC3-188D-4048-9DCF-CEC6B6FF7B61' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='0F966EC3-188D-4048-9DCF-CEC6B6FF7B61' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='0F966EC3-188D-4048-9DCF-CEC6B6FF7B61' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='0F966EC3-188D-4048-9DCF-CEC6B6FF7B61' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='0F966EC3-188D-4048-9DCF-CEC6B6FF7B61' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='0F966EC3-188D-4048-9DCF-CEC6B6FF7B61' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='0F966EC3-188D-4048-9DCF-CEC6B6FF7B61' id='FORM-0F966EC3-188D-4048-9DCF-CEC6B6FF7B61' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-0F966EC3-188D-4048-9DCF-CEC6B6FF7B61'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g2 rag_prns question'>
-<div class='uuid'>
-<p>2516CBC2-1DA0-4907-AFF5-DDE8C971594D</p>
-</div>
-<div class='papername'>
-<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:9</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
-Write these fractions in order of size from smallest to the largest.
-
-$
-\dfrac{5}{8},
-\quad \dfrac{2}{3},
-\quad \dfrac{1}{2},
-\quad \dfrac{7}{12},
-\quad \dfrac{17}{24}
-$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's make the denominator the same for all the numbers, so we can compare them.
-
-LCM for $8,3,2,12,24 = 24$
-
-$
-\begin{aligned}
-&= \dfrac {5} {8}, \quad \dfrac {2} {3},  \quad \dfrac {1} {2}, \quad \dfrac {7} {12}, \quad \dfrac {17} {24} \\\\
-&= \dfrac {5 \times 3} {8 \times 3}, \quad \dfrac {2 \times 8} {3 \times 8},  \quad \dfrac {1 \times 12} {2 \times 12}, \quad \dfrac {7 \times 2} {12 \times 2}, \quad \dfrac {17 \times 1} {24 \times 1} \\\\
-&= \dfrac {15} {24}, \quad \dfrac {16} {24},  \quad \dfrac {12} {24}, \quad \dfrac {14} {24}, \quad \dfrac {17} {24}
-\end{aligned}
-$
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= \dfrac {12} {24} < \dfrac {14} {24} < \dfrac {15} {24} < \dfrac {16} {24} < \dfrac {17} {24} \\\\
-&= \dfrac {1} {2} < \dfrac {7} {12} < \dfrac {5} {8} < \dfrac {2} {3} < \dfrac {17} {24}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {1} {2}, \quad \dfrac {7} {12}, \quad \dfrac {5} {8}, \quad \dfrac {2} {3}, \quad \dfrac {17} {24}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
-<emptyline>
-LCM for $8,3,2,12,24 = 24$
-<emptyline>
-$
-\begin{aligned}
-&= \dfrac {5} {8}, \quad \dfrac {2} {3},  \quad \dfrac {1} {2}, \quad \dfrac {7} {12}, \quad \dfrac {17} {24} \\\\
-&= \dfrac {5 \times 3} {8 \times 3}, \quad \dfrac {2 \times 8} {3 \times 8},  \quad \dfrac {1 \times 12} {2 \times 12}, \quad \dfrac {7 \times 2} {12 \times 2}, \quad \dfrac {17 \times 1} {24 \times 1} \\\\
-&= \dfrac {15} {24}, \quad \dfrac {16} {24},  \quad \dfrac {12} {24}, \quad \dfrac {14} {24}, \quad \dfrac {17} {24}
-\end{aligned}
-$
-<emptyline>
-Let's put them in ascending order now.
-<emptyline>
-$
-\begin{aligned}
-&= \dfrac {12} {24} < \dfrac {14} {24} < \dfrac {15} {24} < \dfrac {16} {24} < \dfrac {17} {24} \\\\
-&= \dfrac {1} {2} < \dfrac {7} {12} < \dfrac {5} {8} < \dfrac {2} {3} < \dfrac {17} {24}
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac {1} {2}, \quad \dfrac {7} {12}, \quad \dfrac {5} {8}, \quad \dfrac {2} {3}, \quad \dfrac {17} {24}$
-</code></pre>
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='2516CBC2-1DA0-4907-AFF5-DDE8C971594D' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='2516CBC2-1DA0-4907-AFF5-DDE8C971594D' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='2516CBC2-1DA0-4907-AFF5-DDE8C971594D' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='2516CBC2-1DA0-4907-AFF5-DDE8C971594D' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='2516CBC2-1DA0-4907-AFF5-DDE8C971594D' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='2516CBC2-1DA0-4907-AFF5-DDE8C971594D' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='2516CBC2-1DA0-4907-AFF5-DDE8C971594D' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='2516CBC2-1DA0-4907-AFF5-DDE8C971594D' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='2516CBC2-1DA0-4907-AFF5-DDE8C971594D' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='2516CBC2-1DA0-4907-AFF5-DDE8C971594D' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='2516CBC2-1DA0-4907-AFF5-DDE8C971594D' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='2516CBC2-1DA0-4907-AFF5-DDE8C971594D' id='FORM-2516CBC2-1DA0-4907-AFF5-DDE8C971594D' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-2516CBC2-1DA0-4907-AFF5-DDE8C971594D'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g2 rag_prns question'>
-<div class='uuid'>
 <p>A3140AAF-E610-429C-AF4F-341B3488C084</p>
 </div>
 <div class='papername'>
@@ -793,314 +323,6 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
-<div class='uuid'>
-<p>53FB1D0A-B461-448E-853F-B08C8593DFC5</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:6</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
-Put the following fractions in order, starting with the smallest.
-
-$\dfrac{2}{3},  \quad \dfrac{3}{5},   \quad \dfrac{29}{45}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's make the denominator the same for all the numbers, so we can compare them.
-
-LCM for $3, 5, 45 = 45$
-
-$
-\begin{aligned}
-&= \dfrac{2}{3},  \quad \dfrac{3}{5},   \quad \dfrac{29}{45} \\\\
-&= \dfrac{2 \times 15}{3 \times 15},  \quad \dfrac{3 \times 9}{5 \times 9},   \quad \dfrac{29}{45} \\\\
-&= \dfrac{30}{45},  \quad \dfrac{27}{45},   \quad \dfrac{29}{45}
-\end{aligned}
-$
-
-Now let's put them in ascending order.
-
-$
-\begin{aligned}
-&= \dfrac{27}{45} < \dfrac{29}{45} < \dfrac{30}{45} \\\\
-&= \dfrac{3}{5} < \dfrac{29}{45} < \dfrac{2}{3} 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac{3}{5},  \quad \dfrac{29}{45},   \quad \dfrac{2}{3}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
-<emptyline>
-LCM for $3, 5, 45 = 45$
-<emptyline>
-$
-\begin{aligned}
-&= \dfrac{2}{3},  \quad \dfrac{3}{5},   \quad \dfrac{29}{45} \\\\
-&= \dfrac{2 \times 15}{3 \times 15},  \quad \dfrac{3 \times 9}{5 \times 9},   \quad \dfrac{29}{45} \\\\
-&= \dfrac{30}{45},  \quad \dfrac{27}{45},   \quad \dfrac{29}{45}
-\end{aligned}
-$
-<emptyline>
-Now let's put them in ascending order.
-<emptyline>
-$
-\begin{aligned}
-&= \dfrac{27}{45} < \dfrac{29}{45} < \dfrac{30}{45} \\\\
-&= \dfrac{3}{5} < \dfrac{29}{45} < \dfrac{2}{3} 
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac{3}{5},  \quad \dfrac{29}{45},   \quad \dfrac{2}{3}$
-</code></pre>
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='53FB1D0A-B461-448E-853F-B08C8593DFC5' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='53FB1D0A-B461-448E-853F-B08C8593DFC5' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='53FB1D0A-B461-448E-853F-B08C8593DFC5' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='53FB1D0A-B461-448E-853F-B08C8593DFC5' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='53FB1D0A-B461-448E-853F-B08C8593DFC5' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='53FB1D0A-B461-448E-853F-B08C8593DFC5' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='53FB1D0A-B461-448E-853F-B08C8593DFC5' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='53FB1D0A-B461-448E-853F-B08C8593DFC5' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='53FB1D0A-B461-448E-853F-B08C8593DFC5' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='53FB1D0A-B461-448E-853F-B08C8593DFC5' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='53FB1D0A-B461-448E-853F-B08C8593DFC5' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='53FB1D0A-B461-448E-853F-B08C8593DFC5' id='FORM-53FB1D0A-B461-448E-853F-B08C8593DFC5' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-53FB1D0A-B461-448E-853F-B08C8593DFC5'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g2 rag_prns question'>
-<div class='uuid'>
-<p>005C15B9-60F0-488A-8FFD-A63DB387E325</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:5</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
-Put the following in order of size, starting with the smallest:
-
-$\dfrac{2}{5} \quad \dfrac{5}{8} \quad \dfrac{1}{2}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's make the denominator the same for all the numbers, so we can compare them.
-
-LCM for $5, 8, 2 = 40$
-
-$
-\begin{aligned}
-&= \dfrac {2} {5}, \quad \dfrac {5} {8}, \quad \dfrac {1} {2} \\\\
-&= \dfrac {2 \times 8} {5 \times 8}, \quad \dfrac {5 \times 5} {8 \times 5}, \quad \dfrac {1 \times 20} {2 \times 20} \\\\
-&= \dfrac {16} {40}, \quad \dfrac {25} {40}, \quad \dfrac {20} {40}
-\end{aligned}
-$
-
-Now let's put them in ascending order.
-
-$
-\begin{aligned}
-&= \dfrac {16} {40} < \dfrac {20} {40} < \dfrac {25} {40} \\\\
-&= \dfrac {2} {5} < \dfrac {1} {2} < \dfrac {5} {8}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac{2}{5}, \quad \dfrac{1}{2}, \quad \dfrac{5}{8}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
-<emptyline>
-LCM for $5, 8, 2 = 40$
-<emptyline>
-$
-\begin{aligned}
-&= \dfrac {2} {5}, \quad \dfrac {5} {8}, \quad \dfrac {1} {2} \\\\
-&= \dfrac {2 \times 8} {5 \times 8}, \quad \dfrac {5 \times 5} {8 \times 5}, \quad \dfrac {1 \times 20} {2 \times 20} \\\\
-&= \dfrac {16} {40}, \quad \dfrac {25} {40}, \quad \dfrac {20} {40}
-\end{aligned}
-$
-<emptyline>
-Now let's put them in ascending order.
-<emptyline>
-$
-\begin{aligned}
-&= \dfrac {16} {40} < \dfrac {20} {40} < \dfrac {25} {40} \\\\
-&= \dfrac {2} {5} < \dfrac {1} {2} < \dfrac {5} {8}
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac{2}{5}, \quad \dfrac{1}{2}, \quad \dfrac{5}{8}$
-</code></pre>
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='005C15B9-60F0-488A-8FFD-A63DB387E325' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='005C15B9-60F0-488A-8FFD-A63DB387E325' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='005C15B9-60F0-488A-8FFD-A63DB387E325' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='005C15B9-60F0-488A-8FFD-A63DB387E325' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='005C15B9-60F0-488A-8FFD-A63DB387E325' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='005C15B9-60F0-488A-8FFD-A63DB387E325' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='005C15B9-60F0-488A-8FFD-A63DB387E325' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='005C15B9-60F0-488A-8FFD-A63DB387E325' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='005C15B9-60F0-488A-8FFD-A63DB387E325' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='005C15B9-60F0-488A-8FFD-A63DB387E325' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='005C15B9-60F0-488A-8FFD-A63DB387E325' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='005C15B9-60F0-488A-8FFD-A63DB387E325' id='FORM-005C15B9-60F0-488A-8FFD-A63DB387E325' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-005C15B9-60F0-488A-8FFD-A63DB387E325'>Initial</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_g2 rag_prpcr question'>
 <div class='uuid'>
 <p>55915BFE-F660-43D9-B855-A23AD77C520A</p>
@@ -1241,7 +463,7 @@ Remove now
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prpcr question'>
 <div class='uuid'>
 <p>BE673146-6558-409C-B19C-DD7DE3740A33</p>
 </div>
@@ -1255,7 +477,7 @@ Remove now
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1343,6 +565,19 @@ Number in the middle $= \dfrac {2} {3}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reviewer: [ap] Date:2022-10-25::13:35
+
+
+
+Change 0.70 to 0.7
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1393,7 +628,7 @@ Number in the middle $= \dfrac {2} {3}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prpcr question'>
 <div class='uuid'>
 <p>C12FD4E7-441B-4A1E-BD78-D6218501E0D9</p>
 </div>
@@ -1407,7 +642,7 @@ Number in the middle $= \dfrac {2} {3}$
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1495,6 +730,19 @@ Number in the middle $= 33\%$.
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reviewer: [ap] Date:2022-10-25::13:36
+
+
+
+Write in descending order
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1545,7 +793,7 @@ Number in the middle $= 33\%$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prpcr question'>
 <div class='uuid'>
 <p>51948298-6710-4968-BC7A-6F04A5AA66B1</p>
 </div>
@@ -1559,7 +807,7 @@ Number in the middle $= 33\%$.
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1647,6 +895,23 @@ Number in the middle $= \dfrac{2}{3}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reviewer: [ap] Date:2022-10-25::13:41
+
+
+
+Change 0.60 to 0.6
+
+Change 0.70 to 0.7
+
+Write 0.666 as 0.6 with a vinculum
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1915,7 +1180,7 @@ In $D$, the terms are not getting bigger.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prpcr question'>
 <div class='uuid'>
 <p>F6128DD4-ECC2-431B-8EF0-CFFB29805A22</p>
 </div>
@@ -1929,7 +1194,7 @@ In $D$, the terms are not getting bigger.
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2183,6 +1448,21 @@ Closest number $= 0.83 = \dfrac {10} {12}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reviewer: [ap] Date:2022-10-25::13:45
+
+
+
+1 - 0.625 is 0.375
+
+Change to 1.2 - 1
+</div>
 
 <div class='review'>
 <ul class='review'>

@@ -1,8 +1,8 @@
 ---
 slug: "ragpapers/topicpapers-torder-2-g3"
 title: "TopicPaper - Order - 2 - G3"
-date: 2022-10-25 13:02:55
-questions_count: "22"
+date: 2022-10-25 14:56:44
+questions_count: "23"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -455,6 +455,160 @@ $6.07, \quad 6.705, \quad 6.75, \quad 7.00, \quad 7.6$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-94482E8F-6F8C-4F2F-9BC0-B991B1CFBDB9'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g3 rag_prns question'>
+<div class='uuid'>
+<p>6EE94727-38BD-49E6-9DF7-819B3ADC4E51</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:1:2</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Write the four fractions below in order of size, smallest first.
+
+$\dfrac{3}{4}\quad\dfrac{1}{8}\quad\dfrac{1}{3}\quad\dfrac{3}{5}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's make the denominator the same for all the numbers, so we can compare them.
+
+LCM of $4, 8, 3, 5 = 120$
+
+$
+\begin{aligned}
+&= \dfrac {3} {4}, \quad \dfrac {1} {8}, \quad \dfrac {1} {3}, \quad \dfrac {3} {5} \\\\
+&= \dfrac{3 \times 30} {4 \times 30}, \quad \dfrac {1 \times 15} {8 \times 15}, \quad \dfrac {1 \times 40} {3 \times 40}, \quad \dfrac {3 \times 24} {5 \times 24} \\\\
+&= \dfrac {90} {120}, \quad \dfrac {15} {120}, \quad \dfrac {40} {120}, \quad \dfrac {72} {120}
+\end{aligned}
+$
+
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= \dfrac {15} {120} < \dfrac {40} {120} < \dfrac {72} {120} < \dfrac {90} {120} \\\\
+&= \dfrac {1} {8} < \dfrac {1} {3} < \dfrac {3} {5} < \dfrac {3} {4}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {8}, \quad \dfrac {1} {3}, \quad \dfrac {3} {5}, \quad \dfrac {3} {4}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
+<emptyline>
+LCM of $4, 8, 3, 5 = 120$
+<emptyline>
+$
+\begin{aligned}
+&= \dfrac {3} {4}, \quad \dfrac {1} {8}, \quad \dfrac {1} {3}, \quad \dfrac {3} {5} \\\\
+&= \dfrac{3 \times 30} {4 \times 30}, \quad \dfrac {1 \times 15} {8 \times 15}, \quad \dfrac {1 \times 40} {3 \times 40}, \quad \dfrac {3 \times 24} {5 \times 24} \\\\
+&= \dfrac {90} {120}, \quad \dfrac {15} {120}, \quad \dfrac {40} {120}, \quad \dfrac {72} {120}
+\end{aligned}
+$
+<emptyline>
+Let's put them in ascending order now.
+<emptyline>
+$
+\begin{aligned}
+&= \dfrac {15} {120} < \dfrac {40} {120} < \dfrac {72} {120} < \dfrac {90} {120} \\\\
+&= \dfrac {1} {8} < \dfrac {1} {3} < \dfrac {3} {5} < \dfrac {3} {4}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {1} {8}, \quad \dfrac {1} {3}, \quad \dfrac {3} {5}, \quad \dfrac {3} {4}$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G3' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' id='FORM-6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-6EE94727-38BD-49E6-9DF7-819B3ADC4E51'>Initial</p>
 </div>
 </div>
 </li>

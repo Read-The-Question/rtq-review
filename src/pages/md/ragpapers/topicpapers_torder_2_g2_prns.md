@@ -1,164 +1,10 @@
 ---
 slug: "ragpapers/topicpapers-torder-2-g2-prns"
 title: "TopicPaper - Order - 2 - G2 - PRNS"
-date: 2022-10-25 13:02:55
-questions_count: "11"
+date: 2022-10-25 14:56:44
+questions_count: "10"
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_g2 rag_prns question'>
-<div class='uuid'>
-<p>6EE94727-38BD-49E6-9DF7-819B3ADC4E51</p>
-</div>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:1:2</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
-Write the four fractions below in order of size, smallest first.
-
-$\dfrac{3}{4}\quad\dfrac{1}{8}\quad\dfrac{1}{3}\quad\dfrac{3}{5}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's make the denominator the same for all the numbers, so we can compare them.
-
-LCM for $4, 8, 3, 5 = 120$
-
-$
-\begin{aligned}
-&= \dfrac {3} {4}, \quad \dfrac {1} {8}, \quad \dfrac {1} {3}, \quad \dfrac {3} {5} \\\\
-&= \dfrac{3 \times 30} {4 \times 30}, \quad \dfrac {1 \times 15} {8 \times 15}, \quad \dfrac {1 \times 40} {3 \times 40}, \quad \dfrac {3 \times 24} {5 \times 24} \\\\
-&= \dfrac {90} {120}, \quad \dfrac {15} {120}, \quad \dfrac {40} {120}, \quad \dfrac {72} {120}
-\end{aligned}
-$
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= \dfrac {15} {120} < \dfrac {40} {120} < \dfrac {72} {120} < \dfrac {90} {120} \\\\
-&= \dfrac {1} {8} < \dfrac {1} {3} < \dfrac {3} {5} < \dfrac {3} {4}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {1} {8}, \quad \dfrac {1} {3}, \quad \dfrac {3} {5}, \quad \dfrac {3} {4}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
-<emptyline>
-LCM for $4, 8, 3, 5 = 120$
-<emptyline>
-$
-\begin{aligned}
-&= \dfrac {3} {4}, \quad \dfrac {1} {8}, \quad \dfrac {1} {3}, \quad \dfrac {3} {5} \\\\
-&= \dfrac{3 \times 30} {4 \times 30}, \quad \dfrac {1 \times 15} {8 \times 15}, \quad \dfrac {1 \times 40} {3 \times 40}, \quad \dfrac {3 \times 24} {5 \times 24} \\\\
-&= \dfrac {90} {120}, \quad \dfrac {15} {120}, \quad \dfrac {40} {120}, \quad \dfrac {72} {120}
-\end{aligned}
-$
-<emptyline>
-Let's put them in ascending order now.
-<emptyline>
-$
-\begin{aligned}
-&= \dfrac {15} {120} < \dfrac {40} {120} < \dfrac {72} {120} < \dfrac {90} {120} \\\\
-&= \dfrac {1} {8} < \dfrac {1} {3} < \dfrac {3} {5} < \dfrac {3} {4}
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac {1} {8}, \quad \dfrac {1} {3}, \quad \dfrac {3} {5}, \quad \dfrac {3} {4}$
-</code></pre>
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' id='FORM-6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-6EE94727-38BD-49E6-9DF7-819B3ADC4E51'>Initial</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
@@ -363,7 +209,7 @@ $\dfrac{7}{8} \quad \dfrac{13} {15} \quad \dfrac{17}{20} \quad     \dfrac{25}{30
 
 Let's make the denominator the same for all the numbers, so we can compare them.
 
-LCM for $8, 15, 20, 30, 12 = 120$
+LCM of $8, 15, 20, 30, 12 = 120$
 
 $
 \begin{aligned}
@@ -396,7 +242,7 @@ $\dfrac{25}{30}, \quad \dfrac{17}{20}, \quad \dfrac{13}{15}, \quad \dfrac{7}{8},
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
 <emptyline>
-LCM for $8, 15, 20, 30, 12 = 120$
+LCM of $8, 15, 20, 30, 12 = 120$
 <emptyline>
 $
 \begin{aligned}
@@ -705,7 +551,7 @@ $\dfrac{1}{3}, \quad \dfrac{3}{8}, \quad \dfrac{2}{5}$
 
 Let's make the denominator the same for all the numbers, so we can compare them.
 
-LCM for $3, 8, 5 = 120$
+LCM of $3, 8, 5 = 120$
 
 $
 \begin{aligned}
@@ -738,7 +584,7 @@ $\dfrac {2} {5}, \quad \dfrac {3} {8}, \quad \dfrac {1} {3}$
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
 <emptyline>
-LCM for $3, 8, 5 = 120$
+LCM of $3, 8, 5 = 120$
 <emptyline>
 $
 \begin{aligned}
@@ -1167,7 +1013,7 @@ $\dfrac {7} {10}, \dfrac {13} {20}, \dfrac {2} {3}$
 
 Let's make the denominator the same for all the numbers, so we can compare them.
 
-LCM for $10, 20, 3 = 60$
+LCM of $10, 20, 3 = 60$
 
 $
 \begin{aligned}
@@ -1200,7 +1046,7 @@ $\dfrac {13} {20}, \quad \dfrac {2} {3}, \quad \dfrac {7} {10}$
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
 <emptyline>
-LCM for $10, 20, 3 = 60$
+LCM of $10, 20, 3 = 60$
 <emptyline>
 $
 \begin{aligned}
@@ -1617,7 +1463,7 @@ $\dfrac{3}{4} \quad \dfrac{3}{5} \quad \dfrac{9}{10} \quad \dfrac{17}{20}$
 
 Let's make the denominator the same for all the numbers, so we can compare them.
 
-LCM for $4, 5, 10, 20 = 20$
+LCM of $4, 5, 10, 20 = 20$
 
 $
 \begin{aligned}
@@ -1650,7 +1496,7 @@ $\dfrac {3} {5}, \quad \dfrac {3} {4}, \quad \dfrac {17} {20}, \quad \dfrac {9} 
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
 <emptyline>
-LCM for $4, 5, 10, 20 = 20$
+LCM of $4, 5, 10, 20 = 20$
 <emptyline>
 $
 \begin{aligned}

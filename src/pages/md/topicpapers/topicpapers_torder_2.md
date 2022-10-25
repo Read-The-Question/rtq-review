@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-torder-2"
 title: "TopicPaper - Order - 2"
-date: 2022-10-25 13:02:55
+date: 2022-10-25 14:56:44
 questions_count: "40"
 ---
 <div class='paper'>
@@ -469,7 +469,7 @@ $6.07, \quad 6.705, \quad 6.75, \quad 7.00, \quad 7.6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>6EE94727-38BD-49E6-9DF7-819B3ADC4E51</p>
 </div>
@@ -480,7 +480,7 @@ $6.07, \quad 6.705, \quad 6.75, \quad 7.00, \quad 7.6$
 <p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g2</p>
+<p>rag_wf_g3</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -506,7 +506,7 @@ $\dfrac{3}{4}\quad\dfrac{1}{8}\quad\dfrac{1}{3}\quad\dfrac{3}{5}$
 
 Let's make the denominator the same for all the numbers, so we can compare them.
 
-LCM for $4, 8, 3, 5 = 120$
+LCM of $4, 8, 3, 5 = 120$
 
 $
 \begin{aligned}
@@ -539,7 +539,7 @@ $\dfrac {1} {8}, \quad \dfrac {1} {3}, \quad \dfrac {3} {5}, \quad \dfrac {3} {4
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
 <emptyline>
-LCM for $4, 8, 3, 5 = 120$
+LCM of $4, 8, 3, 5 = 120$
 <emptyline>
 $
 \begin{aligned}
@@ -577,41 +577,41 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRPCC</button>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRPCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='submitReview(event)'>PRCT</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='resetComment(event)'>Reset Comments</button>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G3' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onclick='resetComment(event)'>Reset Comments</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' id='FORM-6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G3' data-uuid='6EE94727-38BD-49E6-9DF7-819B3ADC4E51' id='FORM-6EE94727-38BD-49E6-9DF7-819B3ADC4E51' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1376,7 +1376,7 @@ $\dfrac{7}{8} \quad \dfrac{13} {15} \quad \dfrac{17}{20} \quad     \dfrac{25}{30
 
 Let's make the denominator the same for all the numbers, so we can compare them.
 
-LCM for $8, 15, 20, 30, 12 = 120$
+LCM of $8, 15, 20, 30, 12 = 120$
 
 $
 \begin{aligned}
@@ -1409,7 +1409,7 @@ $\dfrac{25}{30}, \quad \dfrac{17}{20}, \quad \dfrac{13}{15}, \quad \dfrac{7}{8},
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
 <emptyline>
-LCM for $8, 15, 20, 30, 12 = 120$
+LCM of $8, 15, 20, 30, 12 = 120$
 <emptyline>
 $
 \begin{aligned}
@@ -2167,7 +2167,7 @@ $\dfrac{1}{3}, \quad \dfrac{3}{8}, \quad \dfrac{2}{5}$
 
 Let's make the denominator the same for all the numbers, so we can compare them.
 
-LCM for $3, 8, 5 = 120$
+LCM of $3, 8, 5 = 120$
 
 $
 \begin{aligned}
@@ -2200,7 +2200,7 @@ $\dfrac {2} {5}, \quad \dfrac {3} {8}, \quad \dfrac {1} {3}$
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
 <emptyline>
-LCM for $3, 8, 5 = 120$
+LCM of $3, 8, 5 = 120$
 <emptyline>
 $
 \begin{aligned}
@@ -3521,7 +3521,7 @@ $\dfrac {7} {10}, \dfrac {13} {20}, \dfrac {2} {3}$
 
 Let's make the denominator the same for all the numbers, so we can compare them.
 
-LCM for $10, 20, 3 = 60$
+LCM of $10, 20, 3 = 60$
 
 $
 \begin{aligned}
@@ -3554,7 +3554,7 @@ $\dfrac {13} {20}, \quad \dfrac {2} {3}, \quad \dfrac {7} {10}$
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
 <emptyline>
-LCM for $10, 20, 3 = 60$
+LCM of $10, 20, 3 = 60$
 <emptyline>
 $
 \begin{aligned}
@@ -3718,7 +3718,7 @@ Arrange the cards in descending order (largest first).
 
 Let's make the denominator the same for all the numbers, so we can compare them.
 
-LCM for $12, 2, 8, 3 = 24$
+LCM of $12, 2, 8, 3 = 24$
 
 $
 \begin{aligned}
@@ -3751,7 +3751,7 @@ $\dfrac {6} {8} > \dfrac {2} {3} > \dfrac {7} {12} > \dfrac {1} {2}$
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
 <emptyline>
-LCM for $12, 2, 8, 3 = 24$
+LCM of $12, 2, 8, 3 = 24$
 <emptyline>
 $
 \begin{aligned}
@@ -6056,7 +6056,7 @@ $\dfrac{3}{4} \quad \dfrac{3}{5} \quad \dfrac{9}{10} \quad \dfrac{17}{20}$
 
 Let's make the denominator the same for all the numbers, so we can compare them.
 
-LCM for $4, 5, 10, 20 = 20$
+LCM of $4, 5, 10, 20 = 20$
 
 $
 \begin{aligned}
@@ -6089,7 +6089,7 @@ $\dfrac {3} {5}, \quad \dfrac {3} {4}, \quad \dfrac {17} {20}, \quad \dfrac {9} 
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
 <emptyline>
-LCM for $4, 5, 10, 20 = 20$
+LCM of $4, 5, 10, 20 = 20$
 <emptyline>
 $
 \begin{aligned}

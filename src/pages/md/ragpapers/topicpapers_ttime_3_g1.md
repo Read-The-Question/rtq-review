@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-3-g1"
 title: "TopicPaper - Time - 3 - G1"
-date: 2022-10-25 14:56:44
+date: 2022-10-25 19:33:45
 questions_count: "21"
 ---
 <ul class='question default-decimal'>
@@ -1955,7 +1955,7 @@ tdraw
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Draw hands so that the clock below shows a time of $16.30$.
+Draw hands so that the clock below shows a time of $16{:}30$.
 
 ![st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1/section-1-question-10-00.png](/assets/st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1/section-1-question-10-00.png "st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1/section-1-question-10-00.png") 
 
@@ -2093,7 +2093,7 @@ ttime
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Jacqueline needs to catch a flight early tomorrow morning. She needs to get out of bed at $3.15 \ \text{am}$, but wants to make sure that she has at least $7\dfrac {1} {2}$ hours of sleep. What is the
+Jacqueline needs to catch a flight early tomorrow morning. She needs to get out of bed at $3.15 \ \text{am}$, but wants to make sure that she has at least $7\dfrac {1} {2} \ \text{hours}$ of sleep. What is the
                                 
 latest time that Jacqueline can go to sleep this evening? 
 
@@ -2262,9 +2262,7 @@ ttime
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-An aeroplane leaves Heathrow at $$21{:}26$$ and arrives at Atlanta at $$10{:}45$$ on the following day. How long does this journey take, in hours and minutes?
-
-![st-albans-school--11-plus--maths--2019--sample-paper-1/section-1-question-14-subquestion-1-00.png](/assets/st-albans-school--11-plus--maths--2019--sample-paper-1/section-1-question-14-subquestion-1-00.png "st-albans-school--11-plus--maths--2019--sample-paper-1/section-1-question-14-subquestion-1-00.png")
+An aeroplane leaves Heathrow at $21{:}26$ and arrives at Atlanta at $10{:}45$ on the following day. How long does this journey take, in hours and minutes?
 
 </div>
 <div class='workings'>
@@ -2318,8 +2316,6 @@ $
 <div class='question subquestion'>
 
 In fact, the times were given  as local times. The time in Atlanta is five hours behind U.K. time. What is the actual length of the journey?
-
-![st-albans-school--11-plus--maths--2019--sample-paper-1/section-1-question-14-subquestion-2-00.png](/assets/st-albans-school--11-plus--maths--2019--sample-paper-1/section-1-question-14-subquestion-2-00.png "st-albans-school--11-plus--maths--2019--sample-paper-1/section-1-question-14-subquestion-2-00.png")
 
 </div>
 <div class='workings'>
@@ -2446,7 +2442,7 @@ ttime
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-What  time  is  **1**  hour and **37** minutes later than **14 : 48?**                                            
+What  time  is  $1 \ \text{hour and} \ 37 \ \text{minutes}$ later than $14 {:} 48 \text{?}$                                            
 
 </div>
 <div class='workings'>

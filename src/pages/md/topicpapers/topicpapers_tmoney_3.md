@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-3"
 title: "TopicPaper - Money - 3"
-date: 2022-10-25 14:56:44
+date: 2022-10-25 19:33:45
 questions_count: "40"
 ---
 <div class='paper'>
@@ -6043,8 +6043,6 @@ There are twenty four $\pounds 1$ coins, seven $\pounds 2$ coins, six $\pounds 5
 
 How much money is there in total?
 
-![st-albans-school--11-plus--maths--2019--sample-paper-1/section-1-question-25-subquestion-1-00.png](/assets/st-albans-school--11-plus--maths--2019--sample-paper-1/section-1-question-25-subquestion-1-00.png "st-albans-school--11-plus--maths--2019--sample-paper-1/section-1-question-25-subquestion-1-00.png") 
-
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6099,9 +6097,8 @@ $
 <div class='question subquestion'>
 
 I exchange all of the money for as many $\pounds 20$ notes as possible.
-How many $\pounds 20$ notes do I have now?
 
-![st-albans-school--11-plus--maths--2019--sample-paper-1/section-1-question-25-subquestion-2-00.png](/assets/st-albans-school--11-plus--maths--2019--sample-paper-1/section-1-question-25-subquestion-2-00.png "st-albans-school--11-plus--maths--2019--sample-paper-1/section-1-question-25-subquestion-2-00.png")
+How many $\pounds 20$ notes do I have now?
 
 </div>
 <div class='workings'>

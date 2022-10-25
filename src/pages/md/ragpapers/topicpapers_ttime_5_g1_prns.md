@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-5-g1-prns"
 title: "TopicPaper - Time - 5 - G1 - PRNS"
-date: 2022-10-24 08:22:23
+date: 2022-10-25 13:02:55
 questions_count: "35"
 ---
 <ul class='question default-decimal'>
@@ -178,11 +178,11 @@ How much does she have to pay?
 | **Car Park Charge** |                  |
 |:--------------------:|:----------------:|
 |       **Time**       |    **Charge**    |
-|     Up to 1 hour     | $20 \ \text{p}$  |
-|     1 to 2 hours     |  $50 \ \text{p}$ |
-|     2 to 3 hours     | $\pounds \ 1.00$ |
-|     3 to 4 hours     | $\pounds \ 1.70$ |
-|     Over 4 hours     | $\pounds \ 5.00$ |
+|     Up to $1$ hour     | $20  \text{p}$  |
+|     $1$ to $2$ hours     |  $50  \text{p}$ |
+|     $2$ to $3$ hours     | $\pounds  1.00$ |
+|     $3$ to $4$ hours     | $\pounds  1.70$ |
+|     Over $4$ hours     | $\pounds  5.00$ |
 
 
 </div>
@@ -414,7 +414,7 @@ $
 <div class='question subquestion'>
 
 The time it takes to get from Bunley to Wester is always the 
-same. What time did I depart from Bunley if I arrive in Wester at $12 14?$
+same. What time did I depart from Bunley if I arrive in Wester at $12 \ 14?$
 
 </div>
 <div class='workings'>
@@ -548,8 +548,8 @@ ttime
 Helena went on a journey.
 
 She spent $\dfrac{1}{2}$ of her total travelling time in 
-the car. She then spent $\dfrac{1}{2}$ of her **remaining** travelling 
-time in train. She spent $2$ hours on the train. 
+the car. She then spent $\dfrac{1}{2}$ of her remaining travelling 
+time in train. She spent $2 \ \text{hours}$ on the train. 
 
 </div>
 <div class='workings'>
@@ -3172,9 +3172,9 @@ Below is part of a train timetable:
 
 |         | Spongeton |  Bobville | Squareford | Pantsbridge |
 |:-------:|:---------:|:---------:|:----------:|:-----------:|
-| train 1 | $10{:}45$ | $11{:}10$ |            |             |
-| train 2 | $11{:}30$ |           |            |  $12{:}40$  |
-| train 3 | $12{:}15$ | $12{:}51$ |  $13{:}22$ |  $13{:}45$  |
+| train $1$ | $10{:}45$ | $11{:}10$ |            |             |
+| train $2$ | $11{:}30$ |           |            |  $12{:}40$  |
+| train $3$ | $12{:}15$ | $12{:}51$ |  $13{:}22$ |  $13{:}45$  |
 
 
 </div>
@@ -3242,7 +3242,6 @@ TODOANSWER
 <div class='question subquestion'>
 
 Use the information below to complete the timetable.
-
 
 Each train stops at all of the stations shown.
 
@@ -4275,7 +4274,7 @@ Amira checks the time when she sets off on her journey to school in the morning.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Write the time as a $12$-hour time.
+Write the time as a $12{-}\text{hour}$ time.
 
 </div>
 <div class='workings'>
@@ -4320,7 +4319,7 @@ $7{:}27 \ \text {am}$
 
 At twenty minutes to eight, Amira stops to buy an apple from the shop.
 
-Write ‘twenty minutes to eight’ as a $12$-hour clock time.
+Write ‘twenty minutes to eight’ as a $12{-}\text{hour}$ clock time.
 
 </div>
 <div class='workings'>

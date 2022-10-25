@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-3-g2"
 title: "TopicPaper - Money - 3 - G2"
-date: 2022-10-24 08:22:23
+date: 2022-10-25 13:02:55
 questions_count: "12"
 ---
 <ul class='question default-decimal'>
@@ -845,7 +845,7 @@ change owe to owes
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prpcr question'>
 <div class='uuid'>
 <p>7CF52F4B-090D-493A-8346-80188BAA6634</p>
 </div>
@@ -859,7 +859,7 @@ change owe to owes
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -949,6 +949,19 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reviewer: [ap] Date:2022-10-24::12:18
+
+
+
+change to let Fran have
+</div>
 
 <div class='review'>
 <ul class='review'>

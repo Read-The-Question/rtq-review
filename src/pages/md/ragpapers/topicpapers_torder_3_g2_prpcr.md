@@ -1,10 +1,171 @@
 ---
 slug: "ragpapers/topicpapers-torder-3-g2-prpcr"
 title: "TopicPaper - Order - 3 - G2 - PRPCR"
-date: 2022-10-24 08:22:23
-questions_count: "1"
+date: 2022-10-25 13:02:55
+questions_count: "2"
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='uuid'>
+<p>294B1C8E-3A75-4E3B-93E8-579CF1EB4C09</p>
+</div>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:12</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcr</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Put the following numbers in order starting with the smallest.
+
+$1.9, \quad \dfrac{26}{25}, \quad 1 \dfrac{3}{7}, \quad 150\%$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's convert all the numbers into decimals.
+
+$
+\begin{aligned}
+&= 1.9, \quad \dfrac{26}{25}, \quad 1 \dfrac{3}{7}, \quad 150\% \\\\
+&= 1.9, \quad 1.04, \quad 1.428, \quad 1.50
+\end{aligned}
+$
+
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= 1.04 < 1.428 < 1.5 < 1.9 \\\\
+&= \dfrac{26}{25} < 1\dfrac{3}{7} < 150\% < 1.9 \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{26}{25}, \quad 1\dfrac{3}{7}, \quad 150\%, \quad 1.9$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let's convert all the numbers into decimals.
+<emptyline>
+$
+\begin{aligned}
+&= 1.9, \quad \dfrac{26}{25}, \quad 1 \dfrac{3}{7}, \quad 150\% \\\\
+&= 1.9, \quad 1.04, \quad 1.428, \quad 1.50
+\end{aligned}
+$
+<emptyline>
+Let's put them in ascending order now.
+<emptyline>
+$
+\begin{aligned}
+&= 1.04 < 1.428 < 1.5 < 1.9 \\\\
+&= \dfrac{26}{25} < 1\dfrac{3}{7} < 150\% < 1.9 \\\\
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac{26}{25}, \quad 1\dfrac{3}{7}, \quad 150\%, \quad 1.9$
+</code></pre>
+</div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reviewer: [ap] Date:2022-10-24::12:20
+
+
+
+Change 1.50 to 1.5
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='294B1C8E-3A75-4E3B-93E8-579CF1EB4C09' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='294B1C8E-3A75-4E3B-93E8-579CF1EB4C09' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='294B1C8E-3A75-4E3B-93E8-579CF1EB4C09' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='294B1C8E-3A75-4E3B-93E8-579CF1EB4C09' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='294B1C8E-3A75-4E3B-93E8-579CF1EB4C09' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='294B1C8E-3A75-4E3B-93E8-579CF1EB4C09' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='294B1C8E-3A75-4E3B-93E8-579CF1EB4C09' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='294B1C8E-3A75-4E3B-93E8-579CF1EB4C09' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='294B1C8E-3A75-4E3B-93E8-579CF1EB4C09' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='294B1C8E-3A75-4E3B-93E8-579CF1EB4C09' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_ANSWER' data-sheet='G2' data-uuid='294B1C8E-3A75-4E3B-93E8-579CF1EB4C09' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_ANSWER' data-reviewer='ap' data-sheet='G2' data-uuid='294B1C8E-3A75-4E3B-93E8-579CF1EB4C09' id='FORM-294B1C8E-3A75-4E3B-93E8-579CF1EB4C09' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-294B1C8E-3A75-4E3B-93E8-579CF1EB4C09'>Initial</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g2 rag_prpcr question'>
 <div class='uuid'>

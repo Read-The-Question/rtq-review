@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-4"
 title: "TopicPaper - Money - 4"
-date: 2022-10-24 08:22:23
+date: 2022-10-25 13:02:55
 questions_count: "40"
 ---
 <div class='paper'>
@@ -5130,7 +5130,7 @@ Etienne went to her local greengrocers to buy some fruit. Some of the prices are
 |:----------:|:--------------:|:---------------:|
 |   bananas  |   $\pounds 2$  |       $3$       |
 |  cherries  |  $\pounds 4.5$ | per $\text{kg}$ |
-| grapefruit |  $90 \ \text{p}$ |       $1$       |
+| grapefruit |  $90  \text{p}$ |       $1$       |
 |   oranges  | $\pounds 1.60$ |       $5$       |
 |  tomatoes  | $\pounds 1.85$ |       $1$       |
 

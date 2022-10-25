@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-1-g2"
 title: "TopicPaper - Money - 1 - G2"
-date: 2022-10-24 08:22:23
+date: 2022-10-25 13:02:55
 questions_count: "7"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prpcr question'>
 <div class='uuid'>
 <p>7BEB417D-26EE-44E0-80AF-5F08DF8C011B</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "7"
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -133,6 +133,23 @@ The first one is done for you.
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reviewer: [ap] Date:2022-10-24::11:30
+
+
+
+To keep the pattern the same change:
+
+97 - 17 x 5 + 6 x 2
+
+99 - 17 x 5 + 7 x 2
+</div>
 
 <div class='review'>
 <ul class='review'>

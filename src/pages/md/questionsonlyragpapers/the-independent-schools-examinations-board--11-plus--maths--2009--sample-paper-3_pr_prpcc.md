@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/the-independent-schools-examinations-board-11-plus-maths-2009-sample-paper-3-pr-prpcc"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2009 - Sample Paper 3 - PR - PRPCC"
-date: 2022-10-25 21:31:19
+date: 2022-10-26 16:44:45
 questions_count: "16"
 ---
 <ul class='question default-decimal'>

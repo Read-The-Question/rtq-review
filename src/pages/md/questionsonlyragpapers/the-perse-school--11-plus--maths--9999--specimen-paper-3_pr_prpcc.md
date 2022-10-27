@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/the-perse-school-11-plus-maths-9999-specimen-paper-3-pr-prpcc"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 3 - PR - PRPCC"
-date: 2022-10-26 16:53:46
+date: 2022-10-27 10:33:45
 questions_count: "16"
 ---
 <ul class='question default-decimal'>

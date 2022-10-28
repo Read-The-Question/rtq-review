@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/st-albans-school-11-plus-maths-9999-sample-paper-2-pr-prpcc"
 title: "St Albans School - 11 Plus - Maths - 9999 - Sample Paper 2 - PR - PRPCC"
-date: 2022-10-28 09:23:35
+date: 2022-10-28 12:06:36
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -35,13 +35,13 @@ tfraction
 
 The following fractions are equivalent. Fill in the missing numbers.
 
-$\dfrac {} {8}$  = $\dfrac {9} {12}$ = $\dfrac {21} {}$
+$\dfrac {} {8} = \dfrac {9} {12} = \dfrac {21} {}$
 
 </div>
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>The following fractions are equivalent. Fill in the missing numbers.
 <emptyline>
-$\dfrac {} {8}$  = $\dfrac {9} {12}$ = $\dfrac {21} {}$
+$\dfrac {} {8} = \dfrac {9} {12} = \dfrac {21} {}$
 </code></pre>
 </div>
 
@@ -135,11 +135,11 @@ tnumber
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Given that  $42 \times 17$ = $714$, write down  the   answer   to 
+Given that  $42 \times 17 = 714$, write down the answer to 
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Given that  $42 \times 17$ = $714$, write down  the   answer   to 
+<pre class='language-latex'><code class='language-latex'>Given that  $42 \times 17 = 714$, write down the answer to 
 </code></pre>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -263,11 +263,11 @@ tspeed
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-A  space ship  travels  at  $193 \ \text{metres   per   second}$   for  $5$  minutes  $7 \ \text{seconds}$. Use   approximations to decide   whether  the   distance travelled   will  be nearer to $1 \ \text{km}, 10 \ \text{km}, 60 \ \text{km}$ or $600 \ \text{km}$. (You  must  show  your  working.) 
+A  space ship  travels  at  $193 \ \text{metres   per   second}$   for  $5  \ \text{minutes} \ 7 \ \text{seconds}$. Use   approximations to decide   whether  the   distance travelled   will  be nearer to $1 \ \text{km}, 10 \ \text{km}, 60 \ \text{km}$ or $600 \ \text{km}$. (You  must  show  your  working.) 
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>A  space ship  travels  at  $193 \ \text{metres   per   second}$   for  $5$  minutes  $7 \ \text{seconds}$. Use   approximations to decide   whether  the   distance travelled   will  be nearer to $1 \ \text{km}, 10 \ \text{km}, 60 \ \text{km}$ or $600 \ \text{km}$. (You  must  show  your  working.) 
+<pre class='language-latex'><code class='language-latex'>A  space ship  travels  at  $193 \ \text{metres   per   second}$   for  $5  \ \text{minutes} \ 7 \ \text{seconds}$. Use   approximations to decide   whether  the   distance travelled   will  be nearer to $1 \ \text{km}, 10 \ \text{km}, 60 \ \text{km}$ or $600 \ \text{km}$. (You  must  show  your  working.) 
 </code></pre>
 </div>
 
@@ -361,11 +361,11 @@ tsequence
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-In the sequence $1 \quad 3 \quad 4 \quad 7 \quad 11 \quad \ldots \quad$ each  number   after the   second   is the   sum   of  the   two   previous numbers  of the   sequence.   What  is the $10^\text{th}$ number  of the   sequence?   
+In the sequence $1, 3, 4, 7, 11, \ldots$ each  number   after the   second   is the   sum   of  the   two   previous numbers  of the   sequence.   What  is the $10^\text{th}$ number  of the   sequence?   
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>In the sequence $1 \quad 3 \quad 4 \quad 7 \quad 11 \quad \ldots \quad$ each  number   after the   second   is the   sum   of  the   two   previous numbers  of the   sequence.   What  is the $10^\text{th}$ number  of the   sequence?   
+<pre class='language-latex'><code class='language-latex'>In the sequence $1, 3, 4, 7, 11, \ldots$ each  number   after the   second   is the   sum   of  the   two   previous numbers  of the   sequence.   What  is the $10^\text{th}$ number  of the   sequence?   
 </code></pre>
 </div>
 

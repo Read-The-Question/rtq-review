@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/the-manchester-grammar-school-11-plus-maths-2017-arithmetic-b-pr-prpcc"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2017 - Arithmetic B - PR - PRPCC"
-date: 2022-10-28 09:23:35
+date: 2022-10-28 12:06:36
 questions_count: "5"
 ---
 <ul class='question default-decimal'>

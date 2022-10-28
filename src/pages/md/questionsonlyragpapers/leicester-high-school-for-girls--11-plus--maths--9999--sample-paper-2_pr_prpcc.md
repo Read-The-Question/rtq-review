@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-2-pr-prpcc"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 2 - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "14"
 ---
 <ul class='question default-decimal'>
@@ -151,11 +151,11 @@ talgebra
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-A school are collecting tokens for ‘free books’. Sarah brings $28$ tokens to school. Leena brings $13$ less than Sarah and Jane brings in $7$ more than Sarah.
+A school are collecting tokens for 'free books'. Sarah brings $28$ tokens to school. Leena brings $13$ less than Sarah and Jane brings in $7$ more than Sarah.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>A school are collecting tokens for ‘free books’. Sarah brings $28$ tokens to school. Leena brings $13$ less than Sarah and Jane brings in $7$ more than Sarah.
+<pre class='language-latex'><code class='language-latex'>A school are collecting tokens for 'free books'. Sarah brings $28$ tokens to school. Leena brings $13$ less than Sarah and Jane brings in $7$ more than Sarah.
 </code></pre>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -1296,7 +1296,7 @@ tstatistics
 |:-----------------:    |:---:    |:---:    |:---:    |:---:    |:----:    |
 | Frequency             | $1$     |         | $4$     | $5$     |  $2$     |
 
-This frequency table shows Anna’s score out of $10$ in $15$ weekly mental arithmetic tests.
+This frequency table shows Anna's score out of $10$ in $15$ weekly mental arithmetic tests.
 
 </div>
 <div class='questioncodeblock'>
@@ -1304,7 +1304,7 @@ This frequency table shows Anna’s score out of $10$ in $15$ weekly mental arit
 |:-----------------:    |:---:    |:---:    |:---:    |:---:    |:----:    |
 | Frequency             | $1$     |         | $4$     | $5$     |  $2$     |
 <emptyline>
-This frequency table shows Anna’s score out of $10$ in $15$ weekly mental arithmetic tests.
+This frequency table shows Anna's score out of $10$ in $15$ weekly mental arithmetic tests.
 </code></pre>
 </div>
 <ul class='subquestion lower-alpha'>

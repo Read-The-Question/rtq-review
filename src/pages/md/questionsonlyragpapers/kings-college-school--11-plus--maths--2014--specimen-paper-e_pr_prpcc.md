@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/kings-college-school-11-plus-maths-2014-specimen-paper-e-pr-prpcc"
 title: "Kings College School - 11 Plus - Maths - 2014 - Specimen Paper E - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "12"
 ---
 <ul class='question default-decimal'>
@@ -1282,13 +1282,13 @@ tmoney
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-In a money bag there are an equal number of $2 \text{p’s}, 5 \text{p’s}$ and no other coins.
+In a money bag there are an equal number of $2 \text{p's}, 5 \text{p's}$ and no other coins.
 
 How many coins are in the bag if altogether there is $\pounds 1.26?$
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>In a money bag there are an equal number of $2 \text{p’s}, 5 \text{p’s}$ and no other coins.
+<pre class='language-latex'><code class='language-latex'>In a money bag there are an equal number of $2 \text{p's}, 5 \text{p's}$ and no other coins.
 <emptyline>
 How many coins are in the bag if altogether there is $\pounds 1.26?$
 </code></pre>
@@ -1532,33 +1532,33 @@ tinfer
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Harry invents a game which he calls king’s digit.
+Harry invents a game which he calls king's digit.
 
 For any number he chooses, he works out all the whole numbers that divide exactly into it.
 
 For example, if he chooses the number $8$, then all the whole numbers that divide exactly into that are $1, 2, 4$ and $8$.
 These are called the factors of $8$.
 
-He then adds up these factors to find the king’s Digit.
+He then adds up these factors to find the king's Digit.
 
 So the kings digit of $8 = 1 + 2 + 4 + 8 = 15$
 
-Another example: the king’s digit of $9$ is $1 + 3 + 9 = 13$.
+Another example: the king's digit of $9$ is $1 + 3 + 9 = 13$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Harry invents a game which he calls king’s digit.
+<pre class='language-latex'><code class='language-latex'>Harry invents a game which he calls king's digit.
 <emptyline>
 For any number he chooses, he works out all the whole numbers that divide exactly into it.
 <emptyline>
 For example, if he chooses the number $8$, then all the whole numbers that divide exactly into that are $1, 2, 4$ and $8$.
 These are called the factors of $8$.
 <emptyline>
-He then adds up these factors to find the king’s Digit.
+He then adds up these factors to find the king's Digit.
 <emptyline>
 So the kings digit of $8 = 1 + 2 + 4 + 8 = 15$
 <emptyline>
-Another example: the king’s digit of $9$ is $1 + 3 + 9 = 13$.
+Another example: the king's digit of $9$ is $1 + 3 + 9 = 13$.
 </code></pre>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -1594,12 +1594,12 @@ If the king's digit of a number $= 7$, what is the number?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-If the king’s digit of a number $= 12$, there are two possible numbers.
+If the king's digit of a number $= 12$, there are two possible numbers.
 What are they?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>If the king’s digit of a number $= 12$, there are two possible numbers.
+<pre class='language-latex'><code class='language-latex'>If the king's digit of a number $= 12$, there are two possible numbers.
 What are they?
 </code></pre>
 </div>
@@ -1610,11 +1610,11 @@ What are they?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The king’s digit of three different numbers $= 24$. Two of them are consecutive numbers. Find the three numbers.
+The king's digit of three different numbers $= 24$. Two of them are consecutive numbers. Find the three numbers.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>The king’s digit of three different numbers $= 24$. Two of them are consecutive numbers. Find the three numbers.
+<pre class='language-latex'><code class='language-latex'>The king's digit of three different numbers $= 24$. Two of them are consecutive numbers. Find the three numbers.
 </code></pre>
 </div>
 

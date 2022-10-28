@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/bancrofts-school-11-plus-maths-2021-sample-paper-7-pr-prpcc"
 title: "Bancrofts School - 11 Plus - Maths - 2021 - Sample Paper 7 - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "8"
 ---
 <ul class='question default-decimal'>
@@ -710,7 +710,7 @@ talgebra
 As everyone knows, a normal cat has $18$ claws, $5$ on each 
 front leg and $4$ on each back leg.
 
-At Harry’s Care Home for Distressed Cats there are 
+At Harry's Care Home for Distressed Cats there are 
 $4$ three-legged cats, each one with a different leg missing.
 
 How many claws do they have all together?
@@ -720,7 +720,7 @@ How many claws do they have all together?
 <pre class='language-latex'><code class='language-latex'>As everyone knows, a normal cat has $18$ claws, $5$ on each 
 front leg and $4$ on each back leg.
 <emptyline>
-At Harry’s Care Home for Distressed Cats there are 
+At Harry's Care Home for Distressed Cats there are 
 $4$ three-legged cats, each one with a different leg missing.
 <emptyline>
 How many claws do they have all together?

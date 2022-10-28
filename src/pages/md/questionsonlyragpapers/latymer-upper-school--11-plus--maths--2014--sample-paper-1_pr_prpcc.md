@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/latymer-upper-school-11-plus-maths-2014-sample-paper-1-pr-prpcc"
 title: "Latymer Upper School - 11 Plus - Maths - 2014 - Sample Paper 1 - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "16"
 ---
 <ul class='question default-decimal'>
@@ -295,7 +295,7 @@ talgebra
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Three-quarters of a number is $36$ less than the number. What’s the number?
+Three-quarters of a number is $36$ less than the number. What's the number?
 
 A: $144$
 
@@ -309,7 +309,7 @@ E: $52$
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Three-quarters of a number is $36$ less than the number. What’s the number?
+<pre class='language-latex'><code class='language-latex'>Three-quarters of a number is $36$ less than the number. What's the number?
 <emptyline>
 A: $144$
 <emptyline>
@@ -410,7 +410,7 @@ Which of the following is the largest?
 
 - $9\times18$
 
-- they’re all equal
+- they're all equal
 
 </div>
 <div class='questioncodeblock'>
@@ -424,7 +424,7 @@ Which of the following is the largest?
 <emptyline>
 - $9\times18$
 <emptyline>
-- they’re all equal
+- they're all equal
 </code></pre>
 </div>
 
@@ -978,7 +978,7 @@ tmoney
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Toy cars cost $84\ \text{p}$ each or $\pounds2.20$ for a box of three. What’s the largest number of cars I can buy with $\pounds15?$
+Toy cars cost $84\ \text{p}$ each or $\pounds2.20$ for a box of three. What's the largest number of cars I can buy with $\pounds15?$
 
 - $17$
 
@@ -992,7 +992,7 @@ Toy cars cost $84\ \text{p}$ each or $\pounds2.20$ for a box of three. What’s 
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Toy cars cost $84\ \text{p}$ each or $\pounds2.20$ for a box of three. What’s the largest number of cars I can buy with $\pounds15?$
+<pre class='language-latex'><code class='language-latex'>Toy cars cost $84\ \text{p}$ each or $\pounds2.20$ for a box of three. What's the largest number of cars I can buy with $\pounds15?$
 <emptyline>
 - $17$
 <emptyline>
@@ -1607,11 +1607,11 @@ What do you get when you combine $3$ and $7$ using this rule?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-I’m thinking of two different numbers. When I combine them using this rule, I get the answer $9$. What could my two numbers be?
+I'm thinking of two different numbers. When I combine them using this rule, I get the answer $9$. What could my two numbers be?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>I’m thinking of two different numbers. When I combine them using this rule, I get the answer $9$. What could my two numbers be?
+<pre class='language-latex'><code class='language-latex'>I'm thinking of two different numbers. When I combine them using this rule, I get the answer $9$. What could my two numbers be?
 </code></pre>
 </div>
 
@@ -1621,13 +1621,13 @@ I’m thinking of two different numbers. When I combine them using this rule, I 
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Mia and Julian play a game. In the game, Mia chooses a whole number, and then Julian has to choose another whole number so that when he combines it with Mia's number using the rule above, the answer is $7$. If he can’t find a number, Mia wins.
+Mia and Julian play a game. In the game, Mia chooses a whole number, and then Julian has to choose another whole number so that when he combines it with Mia's number using the rule above, the answer is $7$. If he can't find a number, Mia wins.
 
 If Mia says the number $3$, what number should Julian choose?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Mia and Julian play a game. In the game, Mia chooses a whole number, and then Julian has to choose another whole number so that when he combines it with Mia's number using the rule above, the answer is $7$. If he can’t find a number, Mia wins.
+<pre class='language-latex'><code class='language-latex'>Mia and Julian play a game. In the game, Mia chooses a whole number, and then Julian has to choose another whole number so that when he combines it with Mia's number using the rule above, the answer is $7$. If he can't find a number, Mia wins.
 <emptyline>
 If Mia says the number $3$, what number should Julian choose?
 </code></pre>
@@ -1739,11 +1739,11 @@ My watch (which is a $12 \ \text{hour}$ watch) gains $3 \ \text{minutes}$ every 
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-I set my watch to the correct time at noon on $1^{st}$ January. If I don’t reset it, when will it next show the correct time?
+I set my watch to the correct time at noon on $1^{st}$ January. If I don't reset it, when will it next show the correct time?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>I set my watch to the correct time at noon on $1^{st}$ January. If I don’t reset it, when will it next show the correct time?
+<pre class='language-latex'><code class='language-latex'>I set my watch to the correct time at noon on $1^{st}$ January. If I don't reset it, when will it next show the correct time?
 </code></pre>
 </div>
 
@@ -1753,13 +1753,13 @@ I set my watch to the correct time at noon on $1^{st}$ January. If I don’t res
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Mrs Varma’s watch (also a $12 \ \text{hour}$ watch) loses $5 \ \text{minutes}$ every $2 \ \text{hours}$. She also sets her watch to the correct time at noon on $1^{st}$ January.
+Mrs Varma's watch (also a $12 \ \text{hour}$ watch) loses $5 \ \text{minutes}$ every $2 \ \text{hours}$. She also sets her watch to the correct time at noon on $1^{st}$ January.
 
 When will our two watches next show the same time?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Mrs Varma’s watch (also a $12 \ \text{hour}$ watch) loses $5 \ \text{minutes}$ every $2 \ \text{hours}$. She also sets her watch to the correct time at noon on $1^{st}$ January.
+<pre class='language-latex'><code class='language-latex'>Mrs Varma's watch (also a $12 \ \text{hour}$ watch) loses $5 \ \text{minutes}$ every $2 \ \text{hours}$. She also sets her watch to the correct time at noon on $1^{st}$ January.
 <emptyline>
 When will our two watches next show the same time?
 </code></pre>

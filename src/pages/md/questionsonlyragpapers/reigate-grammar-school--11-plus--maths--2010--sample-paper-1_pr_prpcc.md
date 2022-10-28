@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/reigate-grammar-school-11-plus-maths-2010-sample-paper-1-pr-prpcc"
 title: "Reigate Grammar School - 11 Plus - Maths - 2010 - Sample Paper 1 - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "20"
 ---
 <ul class='question default-decimal'>
@@ -2562,13 +2562,13 @@ talgebra
 
 Tom and Sarah are playing with number machines.
 
-Tom’s machine adds $4$ to any number put into it and then multiplies the result by $5$.
+Tom's machine adds $4$ to any number put into it and then multiplies the result by $5$.
 
 ![reigate-grammar-school--11-plus--maths--2010--sample-paper-1/section-1-question-36-00.png](/assets/reigate-grammar-school--11-plus--maths--2010--sample-paper-1/section-1-question-36-00.png "reigate-grammar-school--11-plus--maths--2010--sample-paper-1/section-1-question-36-00.png")
 
 When he puts $2$ in, out comes $30$.
 
-Fill in the missing numbers for Tom’s machine
+Fill in the missing numbers for Tom's machine
 
 |**in**  |**out** |
 |:------:|:------:|
@@ -2582,13 +2582,13 @@ Fill in the missing numbers for Tom’s machine
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>Tom and Sarah are playing with number machines.
 <emptyline>
-Tom’s machine adds $4$ to any number put into it and then multiplies the result by $5$.
+Tom's machine adds $4$ to any number put into it and then multiplies the result by $5$.
 <emptyline>
 %image%
 <emptyline>
 When he puts $2$ in, out comes $30$.
 <emptyline>
-Fill in the missing numbers for Tom’s machine
+Fill in the missing numbers for Tom's machine
 <emptyline>
 |**in**  |**out** |
 |:------:|:------:|
@@ -2604,13 +2604,13 @@ Fill in the missing numbers for Tom’s machine
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Sarah’s machine multiplies by $5$ and then adds $4$.
+Sarah's machine multiplies by $5$ and then adds $4$.
 
 ![reigate-grammar-school--11-plus--maths--2010--sample-paper-1/section-1-question-36-subquestion-1-00.png](/assets/reigate-grammar-school--11-plus--maths--2010--sample-paper-1/section-1-question-36-subquestion-1-00.png "reigate-grammar-school--11-plus--maths--2010--sample-paper-1/section-1-question-36-subquestion-1-00.png")
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Sarah’s machine multiplies by $5$ and then adds $4$.
+<pre class='language-latex'><code class='language-latex'>Sarah's machine multiplies by $5$ and then adds $4$.
 <emptyline>
 %image%
 </code></pre>
@@ -2663,11 +2663,11 @@ They both put the same number into their machines.
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
 <div class='question subsubquestion'>
 
-If $45$ comes out of Tom’s machine what comes out of Sarah’s$?$
+If $45$ comes out of Tom's machine what comes out of Sarah's$?$
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>If $45$ comes out of Tom’s machine what comes out of Sarah’s$?$
+<pre class='language-latex'><code class='language-latex'>If $45$ comes out of Tom's machine what comes out of Sarah's$?$
 </code></pre>
 </div>
 
@@ -2677,11 +2677,11 @@ If $45$ comes out of Tom’s machine what comes out of Sarah’s$?$
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
 <div class='question subsubquestion'>
 
-If $19$ comes out of Sarah’s machine what comes out of Tom’s$?$
+If $19$ comes out of Sarah's machine what comes out of Tom's$?$
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>If $19$ comes out of Sarah’s machine what comes out of Tom’s$?$
+<pre class='language-latex'><code class='language-latex'>If $19$ comes out of Sarah's machine what comes out of Tom's$?$
 </code></pre>
 </div>
 

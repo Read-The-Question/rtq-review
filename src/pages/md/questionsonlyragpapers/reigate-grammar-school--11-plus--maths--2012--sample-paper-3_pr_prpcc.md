@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/reigate-grammar-school-11-plus-maths-2012-sample-paper-3-pr-prpcc"
 title: "Reigate Grammar School - 11 Plus - Maths - 2012 - Sample Paper 3 - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "17"
 ---
 <ul class='question default-decimal'>
@@ -507,13 +507,13 @@ tsimpleword
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Richard is $12$ years old. Adam is twice as old as Richard. Will is $\dfrac{2}{3}$  of Adam’s age.
+Richard is $12$ years old. Adam is twice as old as Richard. Will is $\dfrac{2}{3}$  of Adam's age.
         
 What is their total age?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Richard is $12$ years old. Adam is twice as old as Richard. Will is $\dfrac{2}{3}$  of Adam’s age.
+<pre class='language-latex'><code class='language-latex'>Richard is $12$ years old. Adam is twice as old as Richard. Will is $\dfrac{2}{3}$  of Adam's age.
 <emptyline>
 What is their total age?
 </code></pre>
@@ -1660,11 +1660,11 @@ tsimpleword
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-A transport company’s vans each carry a maximum load of $12 \ \text{tonnes}$. A firm needs to deliver $24$ crates each weighing $5\ \text{tonnes}$. How many vans are needed?
+A transport company's vans each carry a maximum load of $12 \ \text{tonnes}$. A firm needs to deliver $24$ crates each weighing $5\ \text{tonnes}$. How many vans are needed?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>A transport company’s vans each carry a maximum load of $12 \ \text{tonnes}$. A firm needs to deliver $24$ crates each weighing $5\ \text{tonnes}$. How many vans are needed?
+<pre class='language-latex'><code class='language-latex'>A transport company's vans each carry a maximum load of $12 \ \text{tonnes}$. A firm needs to deliver $24$ crates each weighing $5\ \text{tonnes}$. How many vans are needed?
 </code></pre>
 </div>
 

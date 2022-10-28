@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/the-perse-school-11-plus-maths-9999-specimen-paper-3-pr-prpcc"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 3 - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "16"
 ---
 <ul class='question default-decimal'>
@@ -467,11 +467,11 @@ talgebra
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Bob’s bucket weighs $21\,\text{kg}$ when full of water. After he pours half the water from the bucket, it weighs $12\,\text{kg}$. What is the weight of the empty bucket?
+Bob's bucket weighs $21\,\text{kg}$ when full of water. After he pours half the water from the bucket, it weighs $12\,\text{kg}$. What is the weight of the empty bucket?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Bob’s bucket weighs $21\,\text{kg}$ when full of water. After he pours half the water from the bucket, it weighs $12\,\text{kg}$. What is the weight of the empty bucket?
+<pre class='language-latex'><code class='language-latex'>Bob's bucket weighs $21\,\text{kg}$ when full of water. After he pours half the water from the bucket, it weighs $12\,\text{kg}$. What is the weight of the empty bucket?
 </code></pre>
 </div>
 
@@ -877,11 +877,11 @@ tsimpleword
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Mr Smith, a maths teacher, takes $8\, \text{minutes}$ to mark each pupil’s homework. He has a class of $31$. How many minutes will he save if $7$ of the class are absent?
+Mr Smith, a maths teacher, takes $8\, \text{minutes}$ to mark each pupil's homework. He has a class of $31$. How many minutes will he save if $7$ of the class are absent?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Mr Smith, a maths teacher, takes $8\, \text{minutes}$ to mark each pupil’s homework. He has a class of $31$. How many minutes will he save if $7$ of the class are absent?
+<pre class='language-latex'><code class='language-latex'>Mr Smith, a maths teacher, takes $8\, \text{minutes}$ to mark each pupil's homework. He has a class of $31$. How many minutes will he save if $7$ of the class are absent?
 </code></pre>
 </div>
 
@@ -1062,11 +1062,11 @@ ttemperature
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-On Christmas day the temperature in Lisbon was $-5˚C$. On New Year’s day the temperature was $3$ $\text{degrees}$ lower. What was the temperature on New Year’s day?
+On Christmas day the temperature in Lisbon was $-5˚C$. On New Year's day the temperature was $3$ $\text{degrees}$ lower. What was the temperature on New Year's day?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>On Christmas day the temperature in Lisbon was $-5˚C$. On New Year’s day the temperature was $3$ $\text{degrees}$ lower. What was the temperature on New Year’s day?
+<pre class='language-latex'><code class='language-latex'>On Christmas day the temperature in Lisbon was $-5˚C$. On New Year's day the temperature was $3$ $\text{degrees}$ lower. What was the temperature on New Year's day?
 </code></pre>
 </div>
 
@@ -1147,13 +1147,13 @@ tstatistics
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-The bar chart shows the number of children who own a pet in Mr Smith’s class.
+The bar chart shows the number of children who own a pet in Mr Smith's class.
 
 ![the-perse-school--11-plus--maths--9999--specimen-paper-3/section-1-question-21-00.png](/assets/the-perse-school--11-plus--maths--9999--specimen-paper-3/section-1-question-21-00.png "the-perse-school--11-plus--maths--9999--specimen-paper-3/section-1-question-21-00.png") 
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>The bar chart shows the number of children who own a pet in Mr Smith’s class.
+<pre class='language-latex'><code class='language-latex'>The bar chart shows the number of children who own a pet in Mr Smith's class.
 <emptyline>
 %image% 
 </code></pre>
@@ -1177,11 +1177,11 @@ How many own a hamster?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-If there are $31$ pupils in Mr Smith’s class, how many do not own any of the above animals?
+If there are $31$ pupils in Mr Smith's class, how many do not own any of the above animals?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>If there are $31$ pupils in Mr Smith’s class, how many do not own any of the above animals?
+<pre class='language-latex'><code class='language-latex'>If there are $31$ pupils in Mr Smith's class, how many do not own any of the above animals?
 </code></pre>
 </div>
 

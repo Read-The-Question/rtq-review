@@ -1,8 +1,8 @@
 ---
 slug: "questionsonlyragpapers/oundle-school-11-plus-maths-2016-sample-paper-2-pr-prpcc"
 title: "Oundle School - 11 Plus - Maths - 2016 - Sample Paper 2 - PR - PRPCC"
-date: 2022-10-27 10:33:45
-questions_count: "3"
+date: 2022-10-28 09:23:35
+questions_count: "6"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -211,6 +211,91 @@ part g) remove full stop
 <li>
 <div class='question_envelope rag_pr rag_prpcc question'>
 <div class='uuid'>
+<p>CC2CF032-912C-4CD7-AF4B-1BB85DC56BD4</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-2:1:5</p>
+</div>
+<div class='rag'>
+<p>Promit Revar</p>
+</div>
+<div class='rag'>
+<p>rag_pr_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprofit
+</li>
+</ul>
+</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+A book usually costs $\pounds 18.60$ but it is reduced by $15\%$.How much does it cost now? 
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>A book usually costs $\pounds 18.60$ but it is reduced by $15\%$.How much does it cost now? 
+</code></pre>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='CC2CF032-912C-4CD7-AF4B-1BB85DC56BD4' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='CC2CF032-912C-4CD7-AF4B-1BB85DC56BD4' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='CC2CF032-912C-4CD7-AF4B-1BB85DC56BD4' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='CC2CF032-912C-4CD7-AF4B-1BB85DC56BD4' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='CC2CF032-912C-4CD7-AF4B-1BB85DC56BD4' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='CC2CF032-912C-4CD7-AF4B-1BB85DC56BD4' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='CC2CF032-912C-4CD7-AF4B-1BB85DC56BD4' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='CC2CF032-912C-4CD7-AF4B-1BB85DC56BD4' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='CC2CF032-912C-4CD7-AF4B-1BB85DC56BD4' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='CC2CF032-912C-4CD7-AF4B-1BB85DC56BD4' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='CC2CF032-912C-4CD7-AF4B-1BB85DC56BD4' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='CC2CF032-912C-4CD7-AF4B-1BB85DC56BD4' id='FORM-CC2CF032-912C-4CD7-AF4B-1BB85DC56BD4' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-CC2CF032-912C-4CD7-AF4B-1BB85DC56BD4'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='uuid'>
 <p>F87FDFE5-2151-49A5-A369-5E6E2A213AA4</p>
 </div>
 <div class='papername'>
@@ -322,6 +407,95 @@ put ? inside $F$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-F87FDFE5-2151-49A5-A369-5E6E2A213AA4'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='uuid'>
+<p>4C152BBC-7D4A-42E1-B5A7-B6FE0A8EF43D</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-2:1:9</p>
+</div>
+<div class='rag'>
+<p>Promit Revar</p>
+</div>
+<div class='rag'>
+<p>rag_pr_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+On the grid below draw a pentagon that has three right angles.
+
+%graph% 
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>On the grid below draw a pentagon that has three right angles.
+<emptyline>
+%graph% 
+</code></pre>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='4C152BBC-7D4A-42E1-B5A7-B6FE0A8EF43D' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='4C152BBC-7D4A-42E1-B5A7-B6FE0A8EF43D' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='4C152BBC-7D4A-42E1-B5A7-B6FE0A8EF43D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='4C152BBC-7D4A-42E1-B5A7-B6FE0A8EF43D' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='4C152BBC-7D4A-42E1-B5A7-B6FE0A8EF43D' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='4C152BBC-7D4A-42E1-B5A7-B6FE0A8EF43D' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='4C152BBC-7D4A-42E1-B5A7-B6FE0A8EF43D' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='4C152BBC-7D4A-42E1-B5A7-B6FE0A8EF43D' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='4C152BBC-7D4A-42E1-B5A7-B6FE0A8EF43D' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='4C152BBC-7D4A-42E1-B5A7-B6FE0A8EF43D' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='4C152BBC-7D4A-42E1-B5A7-B6FE0A8EF43D' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='4C152BBC-7D4A-42E1-B5A7-B6FE0A8EF43D' id='FORM-4C152BBC-7D4A-42E1-B5A7-B6FE0A8EF43D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-4C152BBC-7D4A-42E1-B5A7-B6FE0A8EF43D'>Initial</p>
 </div>
 </div>
 </li>
@@ -453,6 +627,103 @@ Part b) write ? inside $1$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-F8E338C3-C103-4D09-BB35-EDC5098ED492'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='uuid'>
+<p>A920A7CF-C11C-40BF-85F5-3355E914C8ED</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-2:1:17</p>
+</div>
+<div class='rag'>
+<p>Promit Revar</p>
+</div>
+<div class='rag'>
+<p>rag_pr_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnet
+</li>
+</ul>
+</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Below are four diagrams.
+
+Circle each diagram that is the net of a cube.
+
+![oundle-school--11-plus--maths--2016--sample-paper-2/section-1-question-17-00.png](/assets/oundle-school--11-plus--maths--2016--sample-paper-2/section-1-question-17-00.png "oundle-school--11-plus--maths--2016--sample-paper-2/section-1-question-17-00.png")    ![oundle-school--11-plus--maths--2016--sample-paper-2/section-1-question-17-01.png](/assets/oundle-school--11-plus--maths--2016--sample-paper-2/section-1-question-17-01.png "oundle-school--11-plus--maths--2016--sample-paper-2/section-1-question-17-01.png")
+
+![oundle-school--11-plus--maths--2016--sample-paper-2/section-1-question-17-02.png](/assets/oundle-school--11-plus--maths--2016--sample-paper-2/section-1-question-17-02.png "oundle-school--11-plus--maths--2016--sample-paper-2/section-1-question-17-02.png")    ![oundle-school--11-plus--maths--2016--sample-paper-2/section-1-question-17-03.png](/assets/oundle-school--11-plus--maths--2016--sample-paper-2/section-1-question-17-03.png "oundle-school--11-plus--maths--2016--sample-paper-2/section-1-question-17-03.png")   
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Below are four diagrams.
+<emptyline>
+Circle each diagram that is the net of a cube.
+<emptyline>
+%image%    %image%
+<emptyline>
+%image%    %image%   
+</code></pre>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='A920A7CF-C11C-40BF-85F5-3355E914C8ED' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='A920A7CF-C11C-40BF-85F5-3355E914C8ED' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='A920A7CF-C11C-40BF-85F5-3355E914C8ED' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='A920A7CF-C11C-40BF-85F5-3355E914C8ED' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='A920A7CF-C11C-40BF-85F5-3355E914C8ED' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='A920A7CF-C11C-40BF-85F5-3355E914C8ED' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='A920A7CF-C11C-40BF-85F5-3355E914C8ED' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='A920A7CF-C11C-40BF-85F5-3355E914C8ED' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='A920A7CF-C11C-40BF-85F5-3355E914C8ED' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='A920A7CF-C11C-40BF-85F5-3355E914C8ED' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='A920A7CF-C11C-40BF-85F5-3355E914C8ED' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='A920A7CF-C11C-40BF-85F5-3355E914C8ED' id='FORM-A920A7CF-C11C-40BF-85F5-3355E914C8ED' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A920A7CF-C11C-40BF-85F5-3355E914C8ED'>Initial</p>
 </div>
 </div>
 </li>

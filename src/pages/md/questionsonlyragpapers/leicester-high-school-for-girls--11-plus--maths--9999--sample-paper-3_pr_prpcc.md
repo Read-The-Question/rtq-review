@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-3-pr-prpcc"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 3 - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "16"
 ---
 <ul class='question default-decimal'>
@@ -660,7 +660,7 @@ tmoney
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Mrs Cook’s supermarket basket contains: 
+Mrs Cook's supermarket basket contains: 
 
 $1$ loaf of bread costing $68\ \text{p}$
 
@@ -674,7 +674,7 @@ Calculate how much change she will receive if she pays with a $\pounds20$ note.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Mrs Cook’s supermarket basket contains: 
+<pre class='language-latex'><code class='language-latex'>Mrs Cook's supermarket basket contains: 
 <emptyline>
 $1$ loaf of bread costing $68\ \text{p}$
 <emptyline>

@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-1-pr-prpcc"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2016 - Group 1 - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "15"
 ---
 <ul class='question default-decimal'>
@@ -338,7 +338,7 @@ tnumber
 
 The two-stage number machine below changes numbers according to the rule:
 
-**‘Add $7$ and then multiply by $4$’**
+**'Add $7$ and then multiply by $4$'**
 
 ![the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1/section-1-question-15-subquestion-1-00.png](/assets/the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1/section-1-question-15-subquestion-1-00.png "the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1/section-1-question-15-subquestion-1-00.png")
 
@@ -346,7 +346,7 @@ The two-stage number machine below changes numbers according to the rule:
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>The two-stage number machine below changes numbers according to the rule:
 <emptyline>
-**‘Add $7$ and then multiply by $4$’**
+**'Add $7$ and then multiply by $4$'**
 <emptyline>
 %image%
 </code></pre>
@@ -1670,7 +1670,7 @@ Sarah suggests that the perimeter of a particular pattern can be worked out usin
 
 ![the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1/section-1-question-41-subquestion-3-00.png](/assets/the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1/section-1-question-41-subquestion-3-00.png "the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1/section-1-question-41-subquestion-3-00.png")
 
-Use Sarah’s idea to calculate the perimeter of pattern $10$.
+Use Sarah's idea to calculate the perimeter of pattern $10$.
 
 </div>
 <div class='questioncodeblock'>
@@ -1678,7 +1678,7 @@ Use Sarah’s idea to calculate the perimeter of pattern $10$.
 <emptyline>
 %image%
 <emptyline>
-Use Sarah’s idea to calculate the perimeter of pattern $10$.
+Use Sarah's idea to calculate the perimeter of pattern $10$.
 </code></pre>
 </div>
 

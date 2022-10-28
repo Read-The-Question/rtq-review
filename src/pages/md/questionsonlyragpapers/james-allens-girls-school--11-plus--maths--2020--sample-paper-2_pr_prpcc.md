@@ -1,8 +1,8 @@
 ---
 slug: "questionsonlyragpapers/james-allens-girls-school-11-plus-maths-2020-sample-paper-2-pr-prpcc"
 title: "James Allens Girls School - 11 Plus - Maths - 2020 - Sample Paper 2 - PR - PRPCC"
-date: 2022-10-27 10:33:45
-questions_count: "6"
+date: 2022-10-28 09:23:35
+questions_count: "11"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -588,6 +588,99 @@ $
 <li>
 <div class='question_envelope rag_pr rag_prpcc question'>
 <div class='uuid'>
+<p>BEF543A2-9B44-4068-B632-CB6BEBDF1328</p>
+</div>
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:1:11</p>
+</div>
+<div class='rag'>
+<p>Promit Revar</p>
+</div>
+<div class='rag'>
+<p>rag_pr_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Roger drops his ball onto a hard surface. 
+Each time it bounces, it rebounds to exactly one third of the height from which it fell. 
+After the second bounce the ball rises to a height of $9 \ \text{cm}$. 
+
+From what height was it originally dropped?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Roger drops his ball onto a hard surface. 
+Each time it bounces, it rebounds to exactly one third of the height from which it fell. 
+After the second bounce the ball rises to a height of $9 \ \text{cm}$. 
+<emptyline>
+From what height was it originally dropped?
+</code></pre>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='BEF543A2-9B44-4068-B632-CB6BEBDF1328' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='BEF543A2-9B44-4068-B632-CB6BEBDF1328' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='BEF543A2-9B44-4068-B632-CB6BEBDF1328' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='BEF543A2-9B44-4068-B632-CB6BEBDF1328' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='BEF543A2-9B44-4068-B632-CB6BEBDF1328' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='BEF543A2-9B44-4068-B632-CB6BEBDF1328' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='BEF543A2-9B44-4068-B632-CB6BEBDF1328' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='BEF543A2-9B44-4068-B632-CB6BEBDF1328' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='BEF543A2-9B44-4068-B632-CB6BEBDF1328' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='BEF543A2-9B44-4068-B632-CB6BEBDF1328' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='BEF543A2-9B44-4068-B632-CB6BEBDF1328' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='BEF543A2-9B44-4068-B632-CB6BEBDF1328' id='FORM-BEF543A2-9B44-4068-B632-CB6BEBDF1328' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-BEF543A2-9B44-4068-B632-CB6BEBDF1328'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='uuid'>
 <p>0237E500-6C62-4B6B-9D5F-1235E8D6E07B</p>
 </div>
 <div class='papername'>
@@ -687,14 +780,14 @@ What is the greatest difference in temperature between any two cities at midnigh
 
 Which of the five cities is being described here?
 
-‘It’s temperature at midday is $6 \ \degree \text{C}$ higher than the 
+'It's temperature at midday is $6 \ \degree \text{C}$ higher than the 
 temperature in York and its temperature at midnight is $2 \ \degree \text{C}$ higher than the temperature in Liverpool. 
 
 </div>
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>Which of the five cities is being described here?
 <emptyline>
-‘It’s temperature at midday is $6 \ \degree \text{C}$ higher than the 
+'It's temperature at midday is $6 \ \degree \text{C}$ higher than the 
 temperature in York and its temperature at midnight is $2 \ \degree \text{C}$ higher than the temperature in Liverpool. 
 </code></pre>
 </div>
@@ -767,6 +860,472 @@ $6 \ \degree \text{C}$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-0237E500-6C62-4B6B-9D5F-1235E8D6E07B'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='uuid'>
+<p>C79D8DA3-388C-41C9-AB78-2E9C21A3E585</p>
+</div>
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:1:14</p>
+</div>
+<div class='rag'>
+<p>Promit Revar</p>
+</div>
+<div class='rag'>
+<p>rag_pr_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+A comb for horses has $100$ teeth, each $1 \ \text{mm}$ wide. The gaps between the teeth are also $1 \ \text{mm}$ wide.
+
+How long is the comb in centimetres?
+
+![james-allens-girls-school--11-plus--maths--2020--sample-paper-2/section-1-question-14-00.png](/assets/james-allens-girls-school--11-plus--maths--2020--sample-paper-2/section-1-question-14-00.png "james-allens-girls-school--11-plus--maths--2020--sample-paper-2/section-1-question-14-00.png")  
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>A comb for horses has $100$ teeth, each $1 \ \text{mm}$ wide. The gaps between the teeth are also $1 \ \text{mm}$ wide.
+<emptyline>
+How long is the comb in centimetres?
+<emptyline>
+%image%  
+</code></pre>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='C79D8DA3-388C-41C9-AB78-2E9C21A3E585' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='C79D8DA3-388C-41C9-AB78-2E9C21A3E585' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='C79D8DA3-388C-41C9-AB78-2E9C21A3E585' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='C79D8DA3-388C-41C9-AB78-2E9C21A3E585' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='C79D8DA3-388C-41C9-AB78-2E9C21A3E585' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='C79D8DA3-388C-41C9-AB78-2E9C21A3E585' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='C79D8DA3-388C-41C9-AB78-2E9C21A3E585' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='C79D8DA3-388C-41C9-AB78-2E9C21A3E585' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='C79D8DA3-388C-41C9-AB78-2E9C21A3E585' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='C79D8DA3-388C-41C9-AB78-2E9C21A3E585' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='C79D8DA3-388C-41C9-AB78-2E9C21A3E585' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='C79D8DA3-388C-41C9-AB78-2E9C21A3E585' id='FORM-C79D8DA3-388C-41C9-AB78-2E9C21A3E585' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-C79D8DA3-388C-41C9-AB78-2E9C21A3E585'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='uuid'>
+<p>1FB9E0CC-4866-4166-9BD4-3C41FEE43F75</p>
+</div>
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:1:15</p>
+</div>
+<div class='rag'>
+<p>Promit Revar</p>
+</div>
+<div class='rag'>
+<p>rag_pr_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+trecipe
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Here is a list of the ingredients to make $15$ Chocolate Brownies.
+
+![missing table](/papers/missing_table.svg)
+ 
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Here is a list of the ingredients to make $15$ Chocolate Brownies.
+<emptyline>
+%table% 
+</code></pre>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Natasha made $60$ Chocolate Brownies. How much butter did she use?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Natasha made $60$ Chocolate Brownies. How much butter did she use?
+</code></pre>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Stella has $150 \ \text{grams}$ of flour and $300 \ \text{grams}$ of nuts, 
+and plenty of the other ingredients. She makes as many Chocolate Brownies as she can.
+
+Which ingredient will she run out of, flour or nuts? Show how you decide.
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Stella has $150 \ \text{grams}$ of flour and $300 \ \text{grams}$ of nuts, 
+and plenty of the other ingredients. She makes as many Chocolate Brownies as she can.
+<emptyline>
+Which ingredient will she run out of, flour or nuts? Show how you decide.
+</code></pre>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Pauline wants to make $10$ Chocolate Brownies, how much sugar will she need? 
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Pauline wants to make $10$ Chocolate Brownies, how much sugar will she need? 
+</code></pre>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='1FB9E0CC-4866-4166-9BD4-3C41FEE43F75' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='1FB9E0CC-4866-4166-9BD4-3C41FEE43F75' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='1FB9E0CC-4866-4166-9BD4-3C41FEE43F75' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='1FB9E0CC-4866-4166-9BD4-3C41FEE43F75' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='1FB9E0CC-4866-4166-9BD4-3C41FEE43F75' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='1FB9E0CC-4866-4166-9BD4-3C41FEE43F75' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='1FB9E0CC-4866-4166-9BD4-3C41FEE43F75' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='1FB9E0CC-4866-4166-9BD4-3C41FEE43F75' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='1FB9E0CC-4866-4166-9BD4-3C41FEE43F75' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='1FB9E0CC-4866-4166-9BD4-3C41FEE43F75' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='1FB9E0CC-4866-4166-9BD4-3C41FEE43F75' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='1FB9E0CC-4866-4166-9BD4-3C41FEE43F75' id='FORM-1FB9E0CC-4866-4166-9BD4-3C41FEE43F75' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-1FB9E0CC-4866-4166-9BD4-3C41FEE43F75'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='uuid'>
+<p>3B271B17-398B-42AD-B541-3F80801397B7</p>
+</div>
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:1:17</p>
+</div>
+<div class='rag'>
+<p>Promit Revar</p>
+</div>
+<div class='rag'>
+<p>rag_pr_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgraph
+</li>
+</ul>
+</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+In a survey, $1000$ people were asked if they owned a 
+computer. The pictogram shows the results of the survey. 
+
+![missing table](/papers/missing_table.svg)
+
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>In a survey, $1000$ people were asked if they owned a 
+computer. The pictogram shows the results of the survey. 
+<emptyline>
+%table%
+</code></pre>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+In which country did the greatest number of people own a computer?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>In which country did the greatest number of people own a computer?
+</code></pre>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Write down the number of people in Italy who owned a computer. 
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Write down the number of people in Italy who owned a computer. 
+</code></pre>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+In which country did $240$ people own a computer?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>In which country did $240$ people own a computer?
+</code></pre>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='3B271B17-398B-42AD-B541-3F80801397B7' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='3B271B17-398B-42AD-B541-3F80801397B7' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='3B271B17-398B-42AD-B541-3F80801397B7' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='3B271B17-398B-42AD-B541-3F80801397B7' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='3B271B17-398B-42AD-B541-3F80801397B7' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='3B271B17-398B-42AD-B541-3F80801397B7' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='3B271B17-398B-42AD-B541-3F80801397B7' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='3B271B17-398B-42AD-B541-3F80801397B7' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='3B271B17-398B-42AD-B541-3F80801397B7' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='3B271B17-398B-42AD-B541-3F80801397B7' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='3B271B17-398B-42AD-B541-3F80801397B7' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='3B271B17-398B-42AD-B541-3F80801397B7' id='FORM-3B271B17-398B-42AD-B541-3F80801397B7' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-3B271B17-398B-42AD-B541-3F80801397B7'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='uuid'>
+<p>6BD41E15-FCA4-4F84-8210-B217266B93E5</p>
+</div>
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:1:22</p>
+</div>
+<div class='rag'>
+<p>Promit Revar</p>
+</div>
+<div class='rag'>
+<p>rag_pr_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Jack likes to eat lots of fruit. 
+He finds that four apples and two oranges cost $\pounds 1.54$ and that two oranges and four bananas 
+cost $\pounds 1.70$. 
+
+How much would he have to pay if he bought one apple, one orange and one banana? 
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Jack likes to eat lots of fruit. 
+He finds that four apples and two oranges cost $\pounds 1.54$ and that two oranges and four bananas 
+cost $\pounds 1.70$. 
+<emptyline>
+How much would he have to pay if he bought one apple, one orange and one banana? 
+</code></pre>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='6BD41E15-FCA4-4F84-8210-B217266B93E5' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='6BD41E15-FCA4-4F84-8210-B217266B93E5' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='6BD41E15-FCA4-4F84-8210-B217266B93E5' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='6BD41E15-FCA4-4F84-8210-B217266B93E5' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='6BD41E15-FCA4-4F84-8210-B217266B93E5' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='6BD41E15-FCA4-4F84-8210-B217266B93E5' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='6BD41E15-FCA4-4F84-8210-B217266B93E5' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='6BD41E15-FCA4-4F84-8210-B217266B93E5' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='6BD41E15-FCA4-4F84-8210-B217266B93E5' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='6BD41E15-FCA4-4F84-8210-B217266B93E5' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='6BD41E15-FCA4-4F84-8210-B217266B93E5' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='6BD41E15-FCA4-4F84-8210-B217266B93E5' id='FORM-6BD41E15-FCA4-4F84-8210-B217266B93E5' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-6BD41E15-FCA4-4F84-8210-B217266B93E5'>Initial</p>
 </div>
 </div>
 </li>

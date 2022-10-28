@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/latymer-upper-school-11-plus-maths-2020-sample-paper-2-pr-prpcc"
 title: "Latymer Upper School - 11 Plus - Maths - 2020 - Sample Paper 2 - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "22"
 ---
 <ul class='question default-decimal'>
@@ -153,7 +153,7 @@ talgebra
 
 I think of a number. When I subtract it from $24$, the answer is the same as when I double it.
 
-What’s my number? 
+What's my number? 
 
 A: $12$ 
 
@@ -169,7 +169,7 @@ E: $9$
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>I think of a number. When I subtract it from $24$, the answer is the same as when I double it.
 <emptyline>
-What’s my number? 
+What's my number? 
 <emptyline>
 A: $12$ 
 <emptyline>
@@ -470,7 +470,7 @@ tsequence
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Bob makes a sequence using the following rule: ‘double and subtract $3$’. If the first number in his sequence is $5$, what will the fifth number in his sequence be?
+Bob makes a sequence using the following rule: 'double and subtract $3$'. If the first number in his sequence is $5$, what will the fifth number in his sequence be?
 
 - $157$ 
 
@@ -484,7 +484,7 @@ Bob makes a sequence using the following rule: ‘double and subtract $3$’. If
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Bob makes a sequence using the following rule: ‘double and subtract $3$’. If the first number in his sequence is $5$, what will the fifth number in his sequence be?
+<pre class='language-latex'><code class='language-latex'>Bob makes a sequence using the following rule: 'double and subtract $3$'. If the first number in his sequence is $5$, what will the fifth number in his sequence be?
 <emptyline>
 - $157$ 
 <emptyline>
@@ -727,7 +727,7 @@ talgebra
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-$\text{Two-thirds}$ of a number is $66$. What’s the number? 
+$\text{Two-thirds}$ of a number is $66$. What's the number? 
 
 A: $100$ 
 
@@ -741,7 +741,7 @@ E: $132$
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\text{Two-thirds}$ of a number is $66$. What’s the number? 
+<pre class='language-latex'><code class='language-latex'>$\text{Two-thirds}$ of a number is $66$. What's the number? 
 <emptyline>
 A: $100$ 
 <emptyline>
@@ -832,7 +832,7 @@ talgebra
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-$\text{Two-thirds}$ of a number is $3$ more than $\text{three-fifths}$ of the number. What’s the number? 
+$\text{Two-thirds}$ of a number is $3$ more than $\text{three-fifths}$ of the number. What's the number? 
 
 A: $20$ 
 
@@ -846,7 +846,7 @@ E: $45$
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\text{Two-thirds}$ of a number is $3$ more than $\text{three-fifths}$ of the number. What’s the number? 
+<pre class='language-latex'><code class='language-latex'>$\text{Two-thirds}$ of a number is $3$ more than $\text{three-fifths}$ of the number. What's the number? 
 <emptyline>
 A: $20$ 
 <emptyline>
@@ -1364,7 +1364,7 @@ talgebra
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-I’m thinking of a number. When I triple it and subtract the result from $70$, I get half my original number. What’s my number? 
+I'm thinking of a number. When I triple it and subtract the result from $70$, I get half my original number. What's my number? 
 
 A: $24$ 
 
@@ -1378,7 +1378,7 @@ E: $25$
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>I’m thinking of a number. When I triple it and subtract the result from $70$, I get half my original number. What’s my number? 
+<pre class='language-latex'><code class='language-latex'>I'm thinking of a number. When I triple it and subtract the result from $70$, I get half my original number. What's my number? 
 <emptyline>
 A: $24$ 
 <emptyline>
@@ -1581,7 +1581,7 @@ talgebra
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-I’m thinking of two numbers. When I double the first and add it to the second I get $160$. One of the numbers is half of the other. Which of these could be one of my numbers?
+I'm thinking of two numbers. When I double the first and add it to the second I get $160$. One of the numbers is half of the other. Which of these could be one of my numbers?
 
 A: $30$ 
 
@@ -1595,7 +1595,7 @@ E: $96$
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>I’m thinking of two numbers. When I double the first and add it to the second I get $160$. One of the numbers is half of the other. Which of these could be one of my numbers?
+<pre class='language-latex'><code class='language-latex'>I'm thinking of two numbers. When I double the first and add it to the second I get $160$. One of the numbers is half of the other. Which of these could be one of my numbers?
 <emptyline>
 A: $30$ 
 <emptyline>
@@ -1698,11 +1698,11 @@ talgebra
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Mr Humberstone’s maths class has $26$ pupils. There are $8$ more girls than there are boys. How many girls are there?
+Mr Humberstone's maths class has $26$ pupils. There are $8$ more girls than there are boys. How many girls are there?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Mr Humberstone’s maths class has $26$ pupils. There are $8$ more girls than there are boys. How many girls are there?
+<pre class='language-latex'><code class='language-latex'>Mr Humberstone's maths class has $26$ pupils. There are $8$ more girls than there are boys. How many girls are there?
 </code></pre>
 </div>
 
@@ -1712,11 +1712,11 @@ Mr Humberstone’s maths class has $26$ pupils. There are $8$ more girls than th
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-In Miss Homes’ maths class, the number of girls is three-quarters the number of boys,and there are $28$ children altogether. How many girls are there?
+In Miss Homes' maths class, the number of girls is three-quarters the number of boys,and there are $28$ children altogether. How many girls are there?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>In Miss Homes’ maths class, the number of girls is three-quarters the number of boys,and there are $28$ children altogether. How many girls are there?
+<pre class='language-latex'><code class='language-latex'>In Miss Homes' maths class, the number of girls is three-quarters the number of boys,and there are $28$ children altogether. How many girls are there?
 </code></pre>
 </div>
 
@@ -1726,11 +1726,11 @@ In Miss Homes’ maths class, the number of girls is three-quarters the number o
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-In Miss Thompson’s class, there are $5$ girls for every $4$ boys, and one-fifth of the girls wear glasses. There are three girls and two boys in the class who wear glasses. What fraction of all the pupils in the class wear glasses?
+In Miss Thompson's class, there are $5$ girls for every $4$ boys, and one-fifth of the girls wear glasses. There are three girls and two boys in the class who wear glasses. What fraction of all the pupils in the class wear glasses?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>In Miss Thompson’s class, there are $5$ girls for every $4$ boys, and one-fifth of the girls wear glasses. There are three girls and two boys in the class who wear glasses. What fraction of all the pupils in the class wear glasses?
+<pre class='language-latex'><code class='language-latex'>In Miss Thompson's class, there are $5$ girls for every $4$ boys, and one-fifth of the girls wear glasses. There are three girls and two boys in the class who wear glasses. What fraction of all the pupils in the class wear glasses?
 </code></pre>
 </div>
 
@@ -1928,11 +1928,11 @@ tinfer
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-For each part of this question you should try to find all the different possible answers. You don’t need to worry about different orderings of the piles $- 3$ beads, $2$ beads, $1$ bead is the same as $3$ beads, $1$ bead, $2$ beads. 
+For each part of this question you should try to find all the different possible answers. You don't need to worry about different orderings of the piles $- 3$ beads, $2$ beads, $1$ bead is the same as $3$ beads, $1$ bead, $2$ beads. 
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>For each part of this question you should try to find all the different possible answers. You don’t need to worry about different orderings of the piles $- 3$ beads, $2$ beads, $1$ bead is the same as $3$ beads, $1$ bead, $2$ beads. 
+<pre class='language-latex'><code class='language-latex'>For each part of this question you should try to find all the different possible answers. You don't need to worry about different orderings of the piles $- 3$ beads, $2$ beads, $1$ bead is the same as $3$ beads, $1$ bead, $2$ beads. 
 </code></pre>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -2390,11 +2390,11 @@ Robin notices that he can take two copies of Pattern $4$ and make them into a $4
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Can you use Robin’s idea to work out the total number of tiles in Pattern $20?$
+Can you use Robin's idea to work out the total number of tiles in Pattern $20?$
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Can you use Robin’s idea to work out the total number of tiles in Pattern $20?$
+<pre class='language-latex'><code class='language-latex'>Can you use Robin's idea to work out the total number of tiles in Pattern $20?$
 </code></pre>
 </div>
 
@@ -2522,11 +2522,11 @@ Find four different whole numbers, each under $1000$ which all give Tess a resul
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Explain why it’s not possible to find a $\text{two-digit}$ number which gives Tess a result of $14$.
+Explain why it's not possible to find a $\text{two-digit}$ number which gives Tess a result of $14$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Explain why it’s not possible to find a $\text{two-digit}$ number which gives Tess a result of $14$.
+<pre class='language-latex'><code class='language-latex'>Explain why it's not possible to find a $\text{two-digit}$ number which gives Tess a result of $14$.
 </code></pre>
 </div>
 

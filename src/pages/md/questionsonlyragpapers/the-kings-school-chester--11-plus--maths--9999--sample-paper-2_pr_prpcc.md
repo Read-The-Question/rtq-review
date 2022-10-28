@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/the-kings-school-chester-11-plus-maths-9999-sample-paper-2-pr-prpcc"
 title: "The Kings School Chester - 11 Plus - Maths - 9999 - Sample Paper 2 - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "26"
 ---
 <ul class='question default-decimal'>
@@ -125,13 +125,13 @@ ttemperature
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Over the Christmas holidays this year the maximum temperature at a teacher’s house was $7.20$ degrees Celsius. 
+Over the Christmas holidays this year the maximum temperature at a teacher's house was $7.20$ degrees Celsius. 
 
 The temperature has now **fallen** by $3.15$ degrees, what is the temperature?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Over the Christmas holidays this year the maximum temperature at a teacher’s house was $7.20$ degrees Celsius. 
+<pre class='language-latex'><code class='language-latex'>Over the Christmas holidays this year the maximum temperature at a teacher's house was $7.20$ degrees Celsius. 
 <emptyline>
 The temperature has now **fallen** by $3.15$ degrees, what is the temperature?
 </code></pre>
@@ -2115,7 +2115,7 @@ tstatistics
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-A group of five Removes pupils were asked to give the film ‘Toy Story $3$’ a mark out of $10$.
+A group of five Removes pupils were asked to give the film 'Toy Story $3$' a mark out of $10$.
 
 The marks they gave were as follows
 
@@ -2124,7 +2124,7 @@ $\large {10 \quad 8 \quad 10 \quad 10 \quad 7}$
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>A group of five Removes pupils were asked to give the film ‘Toy Story $3$’ a mark out of $10$.
+<pre class='language-latex'><code class='language-latex'>A group of five Removes pupils were asked to give the film 'Toy Story $3$' a mark out of $10$.
 <emptyline>
 The marks they gave were as follows
 <emptyline>
@@ -2498,7 +2498,7 @@ talgebra
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-At ‘Canty’s Candy Shop’ the following prices are charged.
+At 'Canty's Candy Shop' the following prices are charged.
 
 $3$ Mars bars and $1$ Crunchie bar costs $\pounds 1.90$.
 
@@ -2506,7 +2506,7 @@ $1$ Mars bars and $1$ Crunchie bar costs $90 \ \text{pence}$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>At ‘Canty’s Candy Shop’ the following prices are charged.
+<pre class='language-latex'><code class='language-latex'>At 'Canty's Candy Shop' the following prices are charged.
 <emptyline>
 $3$ Mars bars and $1$ Crunchie bar costs $\pounds 1.90$.
 <emptyline>

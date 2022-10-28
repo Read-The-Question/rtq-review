@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/dulwich-college-11-plus-maths-9999-specimen-paper-g-pr-prpcc"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper G - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "11"
 ---
 <ul class='question default-decimal'>
@@ -1115,13 +1115,13 @@ talgebra
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Anastasia thinks of a positive integer, which Barry then doubles. Next, Charlie trebles Barry’s number. Finally, Damien multiplies Charlie’s number by six. Eve notices that the sum of these four numbers is a perfect square.
+Anastasia thinks of a positive integer, which Barry then doubles. Next, Charlie trebles Barry's number. Finally, Damien multiplies Charlie's number by six. Eve notices that the sum of these four numbers is a perfect square.
 
 What is the smallest number that Anastasia could have thought of?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Anastasia thinks of a positive integer, which Barry then doubles. Next, Charlie trebles Barry’s number. Finally, Damien multiplies Charlie’s number by six. Eve notices that the sum of these four numbers is a perfect square.
+<pre class='language-latex'><code class='language-latex'>Anastasia thinks of a positive integer, which Barry then doubles. Next, Charlie trebles Barry's number. Finally, Damien multiplies Charlie's number by six. Eve notices that the sum of these four numbers is a perfect square.
 <emptyline>
 What is the smallest number that Anastasia could have thought of?
 </code></pre>

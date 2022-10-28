@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/royal-russell-school-11-plus-maths-9999-sample-paper-1-pr-prpcc"
 title: "Royal Russell School - 11 Plus - Maths - 9999 - Sample Paper 1 - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "12"
 ---
 <ul class='question default-decimal'>
@@ -1567,7 +1567,7 @@ In a dancing competition, the four judges gave marks ranging from $–5$ to $5$,
 
 Andrew got top marks from every judge. 
 
-Brian’s score was $4$ less than Andrew. 
+Brian's score was $4$ less than Andrew. 
 
 Carla and Donna both had the same final score of $7$.
 
@@ -1586,7 +1586,7 @@ Complete the table:
 <emptyline>
 Andrew got top marks from every judge. 
 <emptyline>
-Brian’s score was $4$ less than Andrew. 
+Brian's score was $4$ less than Andrew. 
 <emptyline>
 Carla and Donna both had the same final score of $7$.
 <emptyline>

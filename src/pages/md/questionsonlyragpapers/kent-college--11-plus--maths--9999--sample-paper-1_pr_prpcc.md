@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/kent-college-11-plus-maths-9999-sample-paper-1-pr-prpcc"
 title: "Kent College - 11 Plus - Maths - 9999 - Sample Paper 1 - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
@@ -303,13 +303,13 @@ How long does it take the $10 \ 30$ from London to reach Peterborough?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-If you set off from home on the $11{:}30$ train from King’s Cross and
+If you set off from home on the $11{:}30$ train from King's Cross and
 travelled to Newcastle before taking another $1 \ \text{hour}$ and $38 \ \text{minutes}$ to
 finish your jorney home at what time would you arrive home?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>If you set off from home on the $11{:}30$ train from King’s Cross and
+<pre class='language-latex'><code class='language-latex'>If you set off from home on the $11{:}30$ train from King's Cross and
 travelled to Newcastle before taking another $1 \ \text{hour}$ and $38 \ \text{minutes}$ to
 finish your jorney home at what time would you arrive home?
 </code></pre>
@@ -585,7 +585,7 @@ Each bag has $n$ marbles inside.
 
 She ask: 'How many marbles are there altogether?'
 
-The pupil’s say:
+The pupil's say:
 
 
 Nia: $8n$
@@ -602,7 +602,7 @@ Glyn: $(3 + 5)n$
 
 There are 88 marbles altogether.
 
-Fill in one pupil’s right answer to help you complete the equation.
+Fill in one pupil's right answer to help you complete the equation.
 
 Solve the equation to find $n$, the the number of marbles in a bag.
 
@@ -613,7 +613,7 @@ Each bag has $n$ marbles inside.
 <emptyline>
 She ask: 'How many marbles are there altogether?'
 <emptyline>
-The pupil’s say:
+The pupil's say:
 <emptyline>
 
 Nia: $8n$
@@ -630,7 +630,7 @@ Glyn: $(3 + 5)n$
 <emptyline>
 There are 88 marbles altogether.
 <emptyline>
-Fill in one pupil’s right answer to help you complete the equation.
+Fill in one pupil's right answer to help you complete the equation.
 <emptyline>
 Solve the equation to find $n$, the the number of marbles in a bag.
 </code></pre>

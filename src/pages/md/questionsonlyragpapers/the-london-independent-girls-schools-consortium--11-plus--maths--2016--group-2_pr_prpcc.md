@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-2-pr-prpcc"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2016 - Group 2 - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "14"
 ---
 <ul class='question default-decimal'>
@@ -207,7 +207,7 @@ ttime
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Sherry’s train to Bristol was scheduled to leave at $13{:}40$ and to arrive at $14{:}20$
+Sherry's train to Bristol was scheduled to leave at $13{:}40$ and to arrive at $14{:}20$
 
 However, the train left eight minutes late and then took $47 \ \text{minutes}$.
 
@@ -215,7 +215,7 @@ At what time did Sherry arrive?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Sherry’s train to Bristol was scheduled to leave at $13{:}40$ and to arrive at $14{:}20$
+<pre class='language-latex'><code class='language-latex'>Sherry's train to Bristol was scheduled to leave at $13{:}40$ and to arrive at $14{:}20$
 <emptyline>
 However, the train left eight minutes late and then took $47 \ \text{minutes}$.
 <emptyline>
@@ -480,7 +480,7 @@ For example, using three of his cards Cameron can create the smallest $3$-digit 
 
 $\boxed{1} \quad \boxed{2} \quad \boxed{3}$
 
-In the questions that follow, *choosing from Cameron’s cards*, write numbers on the blank cards to make:
+In the questions that follow, *choosing from Cameron's cards*, write numbers on the blank cards to make:
 
 </div>
 <div class='questioncodeblock'>
@@ -494,7 +494,7 @@ For example, using three of his cards Cameron can create the smallest $3$-digit 
 <emptyline>
 $\boxed{1} \quad \boxed{2} \quad \boxed{3}$
 <emptyline>
-In the questions that follow, *choosing from Cameron’s cards*, write numbers on the blank cards to make:
+In the questions that follow, *choosing from Cameron's cards*, write numbers on the blank cards to make:
 </code></pre>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -630,13 +630,13 @@ tratio
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-The information on a pack of ‘*Salmon pasta*’ is shown in the table.
+The information on a pack of '*Salmon pasta*' is shown in the table.
 
 ![the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2/section-1-question-17-00.png](/assets/the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2/section-1-question-17-00.png "the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2/section-1-question-17-00.png")
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>The information on a pack of ‘*Salmon pasta*’ is shown in the table.
+<pre class='language-latex'><code class='language-latex'>The information on a pack of '*Salmon pasta*' is shown in the table.
 <emptyline>
 %image%
 </code></pre>
@@ -646,11 +646,11 @@ The information on a pack of ‘*Salmon pasta*’ is shown in the table.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-How many grams of protein are in $100 \ \text{g}$ of ‘*Salmon pasta*’?
+How many grams of protein are in $100 \ \text{g}$ of '*Salmon pasta*'?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>How many grams of protein are in $100 \ \text{g}$ of ‘*Salmon pasta*’?
+<pre class='language-latex'><code class='language-latex'>How many grams of protein are in $100 \ \text{g}$ of '*Salmon pasta*'?
 </code></pre>
 </div>
 
@@ -660,11 +660,11 @@ How many grams of protein are in $100 \ \text{g}$ of ‘*Salmon pasta*’?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What percentage of the ‘*Salmon pasta*’ is carbohydrate?
+What percentage of the '*Salmon pasta*' is carbohydrate?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>What percentage of the ‘*Salmon pasta*’ is carbohydrate?
+<pre class='language-latex'><code class='language-latex'>What percentage of the '*Salmon pasta*' is carbohydrate?
 </code></pre>
 </div>
 
@@ -674,15 +674,15 @@ What percentage of the ‘*Salmon pasta*’ is carbohydrate?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The mass of the fibre in a pack of ‘*Salmon pasta*’ is $7 \ \text{grams}$.
+The mass of the fibre in a pack of '*Salmon pasta*' is $7 \ \text{grams}$.
 
-What is the mass of ‘*Salmon pasta*’ in the whole pack?
+What is the mass of '*Salmon pasta*' in the whole pack?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>The mass of the fibre in a pack of ‘*Salmon pasta*’ is $7 \ \text{grams}$.
+<pre class='language-latex'><code class='language-latex'>The mass of the fibre in a pack of '*Salmon pasta*' is $7 \ \text{grams}$.
 <emptyline>
-What is the mass of ‘*Salmon pasta*’ in the whole pack?
+What is the mass of '*Salmon pasta*' in the whole pack?
 </code></pre>
 </div>
 
@@ -692,11 +692,11 @@ What is the mass of ‘*Salmon pasta*’ in the whole pack?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What will be the mass of fat in a pack of ‘*Salmon pasta*’?
+What will be the mass of fat in a pack of '*Salmon pasta*'?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>What will be the mass of fat in a pack of ‘*Salmon pasta*’?
+<pre class='language-latex'><code class='language-latex'>What will be the mass of fat in a pack of '*Salmon pasta*'?
 </code></pre>
 </div>
 
@@ -948,13 +948,13 @@ Write the time as a $12{-}\text{hour}$ time.
 
 At twenty minutes to eight, Amira stops to buy an apple from the shop.
 
-Write ‘twenty minutes to eight’ as a $12{-}\text{hour}$ clock time.
+Write 'twenty minutes to eight' as a $12{-}\text{hour}$ clock time.
 
 </div>
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>At twenty minutes to eight, Amira stops to buy an apple from the shop.
 <emptyline>
-Write ‘twenty minutes to eight’ as a $12{-}\text{hour}$ clock time.
+Write 'twenty minutes to eight' as a $12{-}\text{hour}$ clock time.
 </code></pre>
 </div>
 
@@ -1209,7 +1209,7 @@ tdirection
 Bertie the Bee flies in straight lines from $A$, $10 \ \text{cm}$ to $B$ and then from $B$ to $C$ which is 
 $10 \ \text{cm}$ due south of $A$.
 
-Below is an accurate diagram of Bertie’s route.
+Below is an accurate diagram of Bertie's route.
 
 ![the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2/section-1-question-36-00.png](/assets/the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2/section-1-question-36-00.png "the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2/section-1-question-36-00.png")
 
@@ -1218,7 +1218,7 @@ Below is an accurate diagram of Bertie’s route.
 <pre class='language-latex'><code class='language-latex'>Bertie the Bee flies in straight lines from $A$, $10 \ \text{cm}$ to $B$ and then from $B$ to $C$ which is 
 $10 \ \text{cm}$ due south of $A$.
 <emptyline>
-Below is an accurate diagram of Bertie’s route.
+Below is an accurate diagram of Bertie's route.
 <emptyline>
 %image%
 </code></pre>
@@ -1500,7 +1500,7 @@ tinfer
 
 A number machine works to the rule
 
-‘*cube each digit and then add the cubes together*’.
+'*cube each digit and then add the cubes together*'.
 
 For example:
 
@@ -1513,7 +1513,7 @@ input $123$ gives output $36$
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>A number machine works to the rule
 <emptyline>
-‘*cube each digit and then add the cubes together*’.
+'*cube each digit and then add the cubes together*'.
 <emptyline>
 For example:
 <emptyline>

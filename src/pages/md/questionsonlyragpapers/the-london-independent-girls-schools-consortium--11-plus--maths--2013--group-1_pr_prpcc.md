@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/the-london-independent-girls-schools-consortium-11-plus-maths-2013-group-1-pr-prpcc"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2013 - Group 1 - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "26"
 ---
 <ul class='question default-decimal'>
@@ -923,13 +923,13 @@ By how many years and months is Katharine older than Helen?
 
 Sam is exactly $18 \text{months}$ younger than Katharine.
 
-Work out Sam’s date of birth.
+Work out Sam's date of birth.
 
 </div>
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>Sam is exactly $18 \text{months}$ younger than Katharine.
 <emptyline>
-Work out Sam’s date of birth.
+Work out Sam's date of birth.
 </code></pre>
 </div>
 
@@ -2638,13 +2638,13 @@ How many $1\text{-centimetre}$ cubes has she used?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Tally decides to make a cuboid which is exactly twice as high, twice as wide and twice as long as Tilly’s cuboid.
+Tally decides to make a cuboid which is exactly twice as high, twice as wide and twice as long as Tilly's cuboid.
 
 How many more cubes does Tally use than Tilly?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Tally decides to make a cuboid which is exactly twice as high, twice as wide and twice as long as Tilly’s cuboid.
+<pre class='language-latex'><code class='language-latex'>Tally decides to make a cuboid which is exactly twice as high, twice as wide and twice as long as Tilly's cuboid.
 <emptyline>
 How many more cubes does Tally use than Tilly?
 </code></pre>

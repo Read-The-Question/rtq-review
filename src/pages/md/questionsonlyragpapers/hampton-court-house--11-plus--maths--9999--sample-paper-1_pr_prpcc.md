@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/hampton-court-house-11-plus-maths-9999-sample-paper-1-pr-prpcc"
 title: "Hampton Court House - 11 Plus - Maths - 9999 - Sample Paper 1 - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -938,11 +938,11 @@ I will pick out a green one?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-I will pick a pencil that isn’t red?
+I will pick a pencil that isn't red?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>I will pick a pencil that isn’t red?
+<pre class='language-latex'><code class='language-latex'>I will pick a pencil that isn't red?
 </code></pre>
 </div>
 

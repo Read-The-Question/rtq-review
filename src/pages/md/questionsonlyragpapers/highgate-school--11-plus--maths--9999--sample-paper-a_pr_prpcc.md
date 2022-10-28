@@ -1,8 +1,8 @@
 ---
 slug: "questionsonlyragpapers/highgate-school-11-plus-maths-9999-sample-paper-a-pr-prpcc"
 title: "Highgate School - 11 Plus - Maths - 9999 - Sample Paper A - PR - PRPCC"
-date: 2022-10-27 10:33:45
-questions_count: "2"
+date: 2022-10-28 09:23:35
+questions_count: "4"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -381,6 +381,416 @@ How much does it cost to fertilize the flower bed?
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-A6500005-118B-466A-8D63-6650ABAEA7AA'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='uuid'>
+<p>B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C</p>
+</div>
+<div class='papername'>
+<p>highgate-school--11-plus--maths--9999--sample-paper-a:1:3</p>
+</div>
+<div class='rag'>
+<p>Promit Revar</p>
+</div>
+<div class='rag'>
+<p>rag_pr_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty% 
+</code></pre>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Tim is going paintballing. Entry into paintballing costs $\pounds 23$, but then you also have to pay $\pounds 6$ per $100$ paintballs that you use.
+
+Tim spent $\pounds 65$ in total. How many paintballs did he use?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Tim is going paintballing. Entry into paintballing costs $\pounds 23$, but then you also have to pay $\pounds 6$ per $100$ paintballs that you use.
+<emptyline>
+Tim spent $\pounds 65$ in total. How many paintballs did he use?
+</code></pre>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Janice is running a bath. She  mixes hot water with cold water to make sure the temperature is just right.
+
+She uses $5$ times more hot water than cold water. Janice's bath holds $90 \ \text{litres}$ of water in total. 
+How much hot water does she use?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Janice is running a bath. She  mixes hot water with cold water to make sure the temperature is just right.
+<emptyline>
+She uses $5$ times more hot water than cold water. Janice's bath holds $90 \ \text{litres}$ of water in total. 
+How much hot water does she use?
+</code></pre>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Bob the Builder is filling a hole with a mixture of gravel and sand.
+$234 \ \text{kg}$ of sand are needed to make $400 \ \text{kg}$ of the mixture.
+
+Bob makes $1000 \ \text{kg}$ of the mixture.
+
+How much **gravel** does Bob need?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Bob the Builder is filling a hole with a mixture of gravel and sand.
+$234 \ \text{kg}$ of sand are needed to make $400 \ \text{kg}$ of the mixture.
+<emptyline>
+Bob makes $1000 \ \text{kg}$ of the mixture.
+<emptyline>
+How much **gravel** does Bob need?
+</code></pre>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+In the picture below, rectangle $A$ has an area  of $70 \ \text{cm}^2$, and rectangle $B$ has an area of $63 \ \text{cm}^2$. 
+The side lengths of the rectangles are whole numbers.
+
+The sides labelled $X$ and $Y$ are both longer than $1 \ \text{cm}$.
+
+![highgate-school--11-plus--maths--9999--sample-paper-a/section-1-question-3-subquestion-4-00.png](/assets/highgate-school--11-plus--maths--9999--sample-paper-a/section-1-question-3-subquestion-4-00.png "highgate-school--11-plus--maths--9999--sample-paper-a/section-1-question-3-subquestion-4-00.png")
+
+Find the lengths of the sides labelled $X$ and $Y$.
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>In the picture below, rectangle $A$ has an area  of $70 \ \text{cm}^2$, and rectangle $B$ has an area of $63 \ \text{cm}^2$. 
+The side lengths of the rectangles are whole numbers.
+<emptyline>
+The sides labelled $X$ and $Y$ are both longer than $1 \ \text{cm}$.
+<emptyline>
+%image%
+<emptyline>
+Find the lengths of the sides labelled $X$ and $Y$.
+</code></pre>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Victoria the vet is weighing her pets.
+
+Her rabbit and her cat together weigh $10 \ \text{kg}$.
+
+Her cat and dog together weigh $24 \ \text{kg}$.
+
+Her dog and rabbit together weigh $20 \ \text{kg}$.
+
+How much do all $3$ of her pets weigh when weighed together?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Victoria the vet is weighing her pets.
+<emptyline>
+Her rabbit and her cat together weigh $10 \ \text{kg}$.
+<emptyline>
+Her cat and dog together weigh $24 \ \text{kg}$.
+<emptyline>
+Her dog and rabbit together weigh $20 \ \text{kg}$.
+<emptyline>
+How much do all $3$ of her pets weigh when weighed together?
+</code></pre>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' id='FORM-B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='uuid'>
+<p>E746A07A-99C6-4560-9C98-E8B7D1056C67</p>
+</div>
+<div class='papername'>
+<p>highgate-school--11-plus--maths--9999--sample-paper-a:1:4</p>
+</div>
+<div class='rag'>
+<p>Promit Revar</p>
+</div>
+<div class='rag'>
+<p>rag_pr_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>
+</code></pre>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+In the town of Mathsville there are $360$ residents.
+
+$45 \%$ of the residents are children, the rest are adults.
+
+How many adults are there in Mathsville?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>In the town of Mathsville there are $360$ residents.
+<emptyline>
+$45 \%$ of the residents are children, the rest are adults.
+<emptyline>
+How many adults are there in Mathsville?
+</code></pre>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Numbertown Primary School has $280$ pupils. $56$ of these pupils are girls.
+
+What percentage of the pupils are boys?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Numbertown Primary School has $280$ pupils. $56$ of these pupils are girls.
+<emptyline>
+What percentage of the pupils are boys?
+</code></pre>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+The price of a bus ticket from Mathsville to Numbertown has **increased** by $50\%$ in the past year. 
+A bus ticket now costs $\pounds 1.80$.
+
+What did it cost a year ago?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>The price of a bus ticket from Mathsville to Numbertown has **increased** by $50\%$ in the past year. 
+A bus ticket now costs $\pounds 1.80$.
+<emptyline>
+What did it cost a year ago?
+</code></pre>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Mathsville Maths Supplies is a shop selling maths equipment.
+
+Tina bought $4$ calculators and $3$ protractors for $\pounds 16.10$.
+Ahmed bought $2$ calculators and $1$ protractors for $\pounds 7.50$.
+
+How much does a calculator cost, and how much does a protractor cost?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Mathsville Maths Supplies is a shop selling maths equipment.
+<emptyline>
+Tina bought $4$ calculators and $3$ protractors for $\pounds 16.10$.
+Ahmed bought $2$ calculators and $1$ protractors for $\pounds 7.50$.
+<emptyline>
+How much does a calculator cost, and how much does a protractor cost?
+</code></pre>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Football is very popular in Numbertown.
+
+Two fifths of the population support London Mathletic.
+
+The rest support either Mathsville United or the Counting Crows.
+
+Twice as many people support Mathsville United than support the Counting Crows.
+
+$500$ people supporting the Counting Crows.
+
+What is the total population of Numbertown?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Football is very popular in Numbertown.
+<emptyline>
+Two fifths of the population support London Mathletic.
+<emptyline>
+The rest support either Mathsville United or the Counting Crows.
+<emptyline>
+Twice as many people support Mathsville United than support the Counting Crows.
+<emptyline>
+$500$ people supporting the Counting Crows.
+<emptyline>
+What is the total population of Numbertown?
+</code></pre>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='E746A07A-99C6-4560-9C98-E8B7D1056C67' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='E746A07A-99C6-4560-9C98-E8B7D1056C67' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='E746A07A-99C6-4560-9C98-E8B7D1056C67' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='E746A07A-99C6-4560-9C98-E8B7D1056C67' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='E746A07A-99C6-4560-9C98-E8B7D1056C67' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='E746A07A-99C6-4560-9C98-E8B7D1056C67' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='E746A07A-99C6-4560-9C98-E8B7D1056C67' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='E746A07A-99C6-4560-9C98-E8B7D1056C67' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='E746A07A-99C6-4560-9C98-E8B7D1056C67' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='E746A07A-99C6-4560-9C98-E8B7D1056C67' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='E746A07A-99C6-4560-9C98-E8B7D1056C67' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='E746A07A-99C6-4560-9C98-E8B7D1056C67' id='FORM-E746A07A-99C6-4560-9C98-E8B7D1056C67' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E746A07A-99C6-4560-9C98-E8B7D1056C67'>Initial</p>
 </div>
 </div>
 </li>

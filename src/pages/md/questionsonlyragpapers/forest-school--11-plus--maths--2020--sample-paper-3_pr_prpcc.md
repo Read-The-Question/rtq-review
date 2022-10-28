@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/forest-school-11-plus-maths-2020-sample-paper-3-pr-prpcc"
 title: "Forest School - 11 Plus - Maths - 2020 - Sample Paper 3 - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "13"
 ---
 <ul class='question default-decimal'>
@@ -122,13 +122,13 @@ talgebra
 
 Mayank thinks of a number. He doubles it and then adds $4$ and gets the answer $40$.
 
-What was Mayank’s number? 
+What was Mayank's number? 
 
 </div>
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>Mayank thinks of a number. He doubles it and then adds $4$ and gets the answer $40$.
 <emptyline>
-What was Mayank’s number? 
+What was Mayank's number? 
 </code></pre>
 </div>
 
@@ -894,7 +894,7 @@ tspeed
 
 Kasey takes $24 \ \text{minutes}$ to cycle from $A$ to $B$.
 
-Shayban cycles at three quarters of Kasey’s speed.
+Shayban cycles at three quarters of Kasey's speed.
 
 How long does it take Shayban to cycle from $A$ to $B?$ 
 
@@ -902,7 +902,7 @@ How long does it take Shayban to cycle from $A$ to $B?$
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>Kasey takes $24 \ \text{minutes}$ to cycle from $A$ to $B$.
 <emptyline>
-Shayban cycles at three quarters of Kasey’s speed.
+Shayban cycles at three quarters of Kasey's speed.
 <emptyline>
 How long does it take Shayban to cycle from $A$ to $B?$ 
 </code></pre>

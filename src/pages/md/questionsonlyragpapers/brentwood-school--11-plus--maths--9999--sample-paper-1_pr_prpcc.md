@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/brentwood-school-11-plus-maths-9999-sample-paper-1-pr-prpcc"
 title: "Brentwood School - 11 Plus - Maths - 9999 - Sample Paper 1 - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -35,7 +35,7 @@ ttime
 
 The lengths of four of the Henry Potter films are as follows:
 
-| Henry Potter and the Philosopher’s Loan  | $143 \ \text{minutes}$|
+| Henry Potter and the Philosopher's Loan  | $143 \ \text{minutes}$|
 |:----------------------------------------:|:--------------:|
 | Henry Potter and the Pizza of Azkaban    | $158 \ \text{minutes}$|
 | Henry Potter and the Half Asleep Prince  | $144 \ \text{minutes}$|
@@ -47,7 +47,7 @@ Find the total length of all four films, giving your answer in hours and minutes
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>The lengths of four of the Henry Potter films are as follows:
 <emptyline>
-| Henry Potter and the Philosopher’s Loan  | $143 \ \text{minutes}$|
+| Henry Potter and the Philosopher's Loan  | $143 \ \text{minutes}$|
 |:----------------------------------------:|:--------------:|
 | Henry Potter and the Pizza of Azkaban    | $158 \ \text{minutes}$|
 | Henry Potter and the Half Asleep Prince  | $144 \ \text{minutes}$|

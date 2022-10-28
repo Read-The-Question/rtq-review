@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/the-independent-schools-examinations-board-11-plus-maths-2016-sample-paper-5-pr-prpcc"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2016 - Sample Paper 5 - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "22"
 ---
 <ul class='question default-decimal'>
@@ -485,7 +485,7 @@ ttemperature
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-These thermometers show the temperatures inside and outside a window at $10 \ \text{a.m.}$ one winter’s day. 
+These thermometers show the temperatures inside and outside a window at $10 \ \text{a.m.}$ one winter's day. 
 
 ![the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5/section-1-question-4-00.png](/assets/the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5/section-1-question-4-00.png "the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5/section-1-question-4-00.png")
 
@@ -493,7 +493,7 @@ These thermometers show the temperatures inside and outside a window at $10 \ \t
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>These thermometers show the temperatures inside and outside a window at $10 \ \text{a.m.}$ one winter’s day. 
+<pre class='language-latex'><code class='language-latex'>These thermometers show the temperatures inside and outside a window at $10 \ \text{a.m.}$ one winter's day. 
 <emptyline>
 %image%
 <emptyline>
@@ -2621,7 +2621,7 @@ Farmer Jack and Farmer Giles each have a rectangular field.
 
 ![the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5/section-1-question-20-00.png](/assets/the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5/section-1-question-20-00.png "the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5/section-1-question-20-00.png")
 
-Farmer Jack’s field has an area of $24 \ \text{m}^2$.
+Farmer Jack's field has an area of $24 \ \text{m}^2$.
 
 Its length is $8 \ \text{m}$. 
 
@@ -2631,7 +2631,7 @@ Its length is $8 \ \text{m}$.
 <emptyline>
 %image%
 <emptyline>
-Farmer Jack’s field has an area of $24 \ \text{m}^2$.
+Farmer Jack's field has an area of $24 \ \text{m}^2$.
 <emptyline>
 Its length is $8 \ \text{m}$. 
 </code></pre>
@@ -2641,11 +2641,11 @@ Its length is $8 \ \text{m}$.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Work out the width of Farmer Jack’s field.
+Work out the width of Farmer Jack's field.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Work out the width of Farmer Jack’s field.
+<pre class='language-latex'><code class='language-latex'>Work out the width of Farmer Jack's field.
 </code></pre>
 </div>
 
@@ -2655,11 +2655,11 @@ Work out the width of Farmer Jack’s field.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Work out the perimeter of Farmer Jack’s field.
+Work out the perimeter of Farmer Jack's field.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Work out the perimeter of Farmer Jack’s field.
+<pre class='language-latex'><code class='language-latex'>Work out the perimeter of Farmer Jack's field.
 </code></pre>
 </div>
 
@@ -2669,23 +2669,23 @@ Work out the perimeter of Farmer Jack’s field.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Farmer Giles’ field has a perimeter of $20 \ \text{m}$.
+Farmer Giles' field has a perimeter of $20 \ \text{m}$.
 
-The width of Farmer Giles’ field is $4 \ \text{m}$. 
+The width of Farmer Giles' field is $4 \ \text{m}$. 
 
 ![the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5/section-1-question-20-subquestion-3-00.png](/assets/the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5/section-1-question-20-subquestion-3-00.png "the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5/section-1-question-20-subquestion-3-00.png")
 
-Work out the length of Farmer Giles’ field.
+Work out the length of Farmer Giles' field.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Farmer Giles’ field has a perimeter of $20 \ \text{m}$.
+<pre class='language-latex'><code class='language-latex'>Farmer Giles' field has a perimeter of $20 \ \text{m}$.
 <emptyline>
-The width of Farmer Giles’ field is $4 \ \text{m}$. 
+The width of Farmer Giles' field is $4 \ \text{m}$. 
 <emptyline>
 %image%
 <emptyline>
-Work out the length of Farmer Giles’ field.
+Work out the length of Farmer Giles' field.
 </code></pre>
 </div>
 
@@ -2695,11 +2695,11 @@ Work out the length of Farmer Giles’ field.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Work out the area of Farmer Giles’ field.
+Work out the area of Farmer Giles' field.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Work out the area of Farmer Giles’ field.
+<pre class='language-latex'><code class='language-latex'>Work out the area of Farmer Giles' field.
 </code></pre>
 </div>
 
@@ -2713,7 +2713,7 @@ Farmer Josephine also has a rectangular field.
 
 ![the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5/section-1-question-20-subquestion-5-00.png](/assets/the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5/section-1-question-20-subquestion-5-00.png "the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5/section-1-question-20-subquestion-5-00.png")
 
-The width of Farmer Josephine’s field is $x \ \text{m}$ and the length is $y \ \text{m}$.
+The width of Farmer Josephine's field is $x \ \text{m}$ and the length is $y \ \text{m}$.
 
 Farmer Josephine builds a fence along the perimeter of her field.
 
@@ -2725,7 +2725,7 @@ If the total length of this fence is $30 \ \text{m}$, write down two possible va
 <emptyline>
 %image%
 <emptyline>
-The width of Farmer Josephine’s field is $x \ \text{m}$ and the length is $y \ \text{m}$.
+The width of Farmer Josephine's field is $x \ \text{m}$ and the length is $y \ \text{m}$.
 <emptyline>
 Farmer Josephine builds a fence along the perimeter of her field.
 <emptyline>

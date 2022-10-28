@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/reigate-grammar-school-11-plus-maths-2011-sample-paper-2-pr-prpcc"
 title: "Reigate Grammar School - 11 Plus - Maths - 2011 - Sample Paper 2 - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "12"
 ---
 <ul class='question default-decimal'>
@@ -1300,13 +1300,13 @@ ttable
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-The number pattern below is known as Pascal’s Triangle. Each number is the sum of the two numbers directly above it.
+The number pattern below is known as Pascal's Triangle. Each number is the sum of the two numbers directly above it.
 
 ![reigate-grammar-school--11-plus--maths--2011--sample-paper-2/section-1-question-38-00.png](/assets/reigate-grammar-school--11-plus--maths--2011--sample-paper-2/section-1-question-38-00.png "reigate-grammar-school--11-plus--maths--2011--sample-paper-2/section-1-question-38-00.png")
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>The number pattern below is known as Pascal’s Triangle. Each number is the sum of the two numbers directly above it.
+<pre class='language-latex'><code class='language-latex'>The number pattern below is known as Pascal's Triangle. Each number is the sum of the two numbers directly above it.
 <emptyline>
 %image%
 </code></pre>

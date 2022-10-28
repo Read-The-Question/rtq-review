@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/highgate-school-11-plus-maths-9999-sample-paper-c-pr-prpcc"
 title: "Highgate School - 11 Plus - Maths - 9999 - Sample Paper C - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -641,13 +641,13 @@ How many people bought a choc ice?
 
 Today Mr Rossi has $430$ customers, and $86$ of them bought an ice lolly.
 
-What percentage of today’s customers bought an ice lolly?
+What percentage of today's customers bought an ice lolly?
 
 </div>
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>Today Mr Rossi has $430$ customers, and $86$ of them bought an ice lolly.
 <emptyline>
-What percentage of today’s customers bought an ice lolly?
+What percentage of today's customers bought an ice lolly?
 </code></pre>
 </div>
 

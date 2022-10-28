@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/king-henry-viii-school-11-plus-maths-9999-sample-paper-1-pr-prpcc"
 title: "King Henry Viii School - 11 Plus - Maths - 9999 - Sample Paper 1 - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "13"
 ---
 <ul class='question default-decimal'>
@@ -1149,11 +1149,11 @@ talgebra
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Bill is twice as old as his son, who is $50$ years younger than Bill’s father. If the total of their ages is $142$, how old is Bill?
+Bill is twice as old as his son, who is $50$ years younger than Bill's father. If the total of their ages is $142$, how old is Bill?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Bill is twice as old as his son, who is $50$ years younger than Bill’s father. If the total of their ages is $142$, how old is Bill?
+<pre class='language-latex'><code class='language-latex'>Bill is twice as old as his son, who is $50$ years younger than Bill's father. If the total of their ages is $142$, how old is Bill?
 </code></pre>
 </div>
 

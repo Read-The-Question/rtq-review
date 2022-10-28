@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/tonbridge-school-scholarship-maths-2016-sample-paper-2-pr-prpcc"
 title: "Tonbridge School - Scholarship - Maths - 2016 - Sample Paper 2 - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "7"
 ---
 <ul class='question default-decimal'>
@@ -426,11 +426,11 @@ If the volume of water in (b) was a sphere, what would its radius be?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What percentage of the Earth’s total volume is oceans?
+What percentage of the Earth's total volume is oceans?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>What percentage of the Earth’s total volume is oceans?
+<pre class='language-latex'><code class='language-latex'>What percentage of the Earth's total volume is oceans?
 </code></pre>
 </div>
 

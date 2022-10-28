@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/oundle-school-11-plus-maths-2017-sample-paper-6-pr-prpcc"
 title: "Oundle School - 11 Plus - Maths - 2017 - Sample Paper 6 - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "7"
 ---
 <ul class='question default-decimal'>
@@ -747,13 +747,13 @@ The time is $20{:}14$. What is the smaller angle between the hour hand and the m
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-A short time after $1{:}50$, the hour and minute hands are both the same angle away from $12$ o’clock. 
+A short time after $1{:}50$, the hour and minute hands are both the same angle away from $12$ o'clock. 
 
 What is the exact time when this occurs?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>A short time after $1{:}50$, the hour and minute hands are both the same angle away from $12$ o’clock. 
+<pre class='language-latex'><code class='language-latex'>A short time after $1{:}50$, the hour and minute hands are both the same angle away from $12$ o'clock. 
 <emptyline>
 What is the exact time when this occurs?
 </code></pre>

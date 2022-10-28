@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/the-manchester-grammar-school-11-plus-maths-2017-arithmetic-b-pr-prpcc"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2017 - Arithmetic B - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
@@ -513,7 +513,7 @@ The difference between the numbers on Eleanor's two cards is $9$
 Using the information in bold type above complete this table to show which two cards each person picked. Remember, each numbered card can only be placed in one box.
 
 <!--
-John’s friends,One card, Other Card
+John's friends,One card, Other Card
 Andy,,
 Bilal,,
 Cheryl,,
@@ -521,7 +521,7 @@ David,,
 Eleanor,,
 -->
 
-| John’s friends | One card | Other Card |
+| John's friends | One card | Other Card |
 |:--------------:|:--------:|:----------:|
 |      Andy      |          |            |
 |      Bilal     |          |            |
@@ -547,7 +547,7 @@ The difference between the numbers on Eleanor's two cards is $9$
 Using the information in bold type above complete this table to show which two cards each person picked. Remember, each numbered card can only be placed in one box.
 <emptyline>
 <!--
-John’s friends,One card, Other Card
+John's friends,One card, Other Card
 Andy,,
 Bilal,,
 Cheryl,,
@@ -555,7 +555,7 @@ David,,
 Eleanor,,
 -->
 <emptyline>
-| John’s friends | One card | Other Card |
+| John's friends | One card | Other Card |
 |:--------------:|:--------:|:----------:|
 |      Andy      |          |            |
 |      Bilal     |          |            |

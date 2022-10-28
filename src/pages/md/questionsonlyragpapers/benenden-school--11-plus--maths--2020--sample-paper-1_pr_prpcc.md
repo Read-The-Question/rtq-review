@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/benenden-school-11-plus-maths-2020-sample-paper-1-pr-prpcc"
 title: "Benenden School - 11 Plus - Maths - 2020 - Sample Paper 1 - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
@@ -169,7 +169,7 @@ tclock
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Bahia has arranged to meet her friend Emma at $15{:}30$, at a coffee shop which is five minutes’ walk from the station in Greyton.
+Bahia has arranged to meet her friend Emma at $15{:}30$, at a coffee shop which is five minutes' walk from the station in Greyton.
 
 She has to catch a train in Aliston.
 
@@ -179,7 +179,7 @@ $11{:}05, 11{:}35, 12{:}05, \allowbreak 12{:}35, 13{:}05, 13{:}35, \allowbreak 1
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Bahia has arranged to meet her friend Emma at $15{:}30$, at a coffee shop which is five minutes’ walk from the station in Greyton.
+<pre class='language-latex'><code class='language-latex'>Bahia has arranged to meet her friend Emma at $15{:}30$, at a coffee shop which is five minutes' walk from the station in Greyton.
 <emptyline>
 She has to catch a train in Aliston.
 <emptyline>

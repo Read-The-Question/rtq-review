@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/latymer-upper-school-11-plus-maths-2020-sample-paper-1-pr-prpcc"
 title: "Latymer Upper School - 11 Plus - Maths - 2020 - Sample Paper 1 - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "14"
 ---
 <ul class='question default-decimal'>
@@ -606,7 +606,7 @@ talgebra
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Half of a number is $8$ bigger than three sevenths of the number. What’s the number? 
+Half of a number is $8$ bigger than three sevenths of the number. What's the number? 
 
 A: $140$ 
 
@@ -620,7 +620,7 @@ E: $98$
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Half of a number is $8$ bigger than three sevenths of the number. What’s the number? 
+<pre class='language-latex'><code class='language-latex'>Half of a number is $8$ bigger than three sevenths of the number. What's the number? 
 <emptyline>
 A: $140$ 
 <emptyline>
@@ -816,7 +816,7 @@ talgebra
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-The total of five different, positive odd numbers is $85$. What’s the most that the largest number could be? 
+The total of five different, positive odd numbers is $85$. What's the most that the largest number could be? 
 
 A: $69$ 
 
@@ -830,7 +830,7 @@ E: $17$
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>The total of five different, positive odd numbers is $85$. What’s the most that the largest number could be? 
+<pre class='language-latex'><code class='language-latex'>The total of five different, positive odd numbers is $85$. What's the most that the largest number could be? 
 <emptyline>
 A: $69$ 
 <emptyline>
@@ -921,7 +921,7 @@ talgebra
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-I’m thinking of two numbers, one of which is three times as big as the other. When I double one of my numbers and then add it to the other I get $140$. Which of the following cannot possibly be one of my numbers? 
+I'm thinking of two numbers, one of which is three times as big as the other. When I double one of my numbers and then add it to the other I get $140$. Which of the following cannot possibly be one of my numbers? 
 
 A: $20$ 
 
@@ -935,7 +935,7 @@ E: $84$
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>I’m thinking of two numbers, one of which is three times as big as the other. When I double one of my numbers and then add it to the other I get $140$. Which of the following cannot possibly be one of my numbers? 
+<pre class='language-latex'><code class='language-latex'>I'm thinking of two numbers, one of which is three times as big as the other. When I double one of my numbers and then add it to the other I get $140$. Which of the following cannot possibly be one of my numbers? 
 <emptyline>
 A: $20$ 
 <emptyline>
@@ -1321,11 +1321,11 @@ Three different positive odd numbers add up to $15$. What could the three number
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Jenny has two younger brothers. The total of all three of their ages is $15$, and Jenny’s brothers are both an even number of years old. What could the ages of Jenny and her brothers be?
+Jenny has two younger brothers. The total of all three of their ages is $15$, and Jenny's brothers are both an even number of years old. What could the ages of Jenny and her brothers be?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Jenny has two younger brothers. The total of all three of their ages is $15$, and Jenny’s brothers are both an even number of years old. What could the ages of Jenny and her brothers be?
+<pre class='language-latex'><code class='language-latex'>Jenny has two younger brothers. The total of all three of their ages is $15$, and Jenny's brothers are both an even number of years old. What could the ages of Jenny and her brothers be?
 </code></pre>
 </div>
 
@@ -1449,11 +1449,11 @@ Lilly thinks of a number. When she takes away $11$ from the number and then doub
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-I’m thinking of a number. When I subtract the number from $45$, I get the same answer as when I double the number. What’s my number?
+I'm thinking of a number. When I subtract the number from $45$, I get the same answer as when I double the number. What's my number?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>I’m thinking of a number. When I subtract the number from $45$, I get the same answer as when I double the number. What’s my number?
+<pre class='language-latex'><code class='language-latex'>I'm thinking of a number. When I subtract the number from $45$, I get the same answer as when I double the number. What's my number?
 </code></pre>
 </div>
 

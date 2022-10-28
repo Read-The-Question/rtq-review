@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/kent-college-canterbury-11-plus-maths-2020-sample-paper-1-pr-prpcc"
 title: "Kent College Canterbury - 11 Plus - Maths - 2020 - Sample Paper 1 - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "12"
 ---
 <ul class='question default-decimal'>
@@ -1064,15 +1064,15 @@ ttime
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Some people use this rule to work out how many hours’ sleep each night young children need.
+Some people use this rule to work out how many hours' sleep each night young children need.
 
-$\boxed{\text{Subtract the child’s age in years from }\30, \text{then divide the result by}\ $2$}$ 
+$\boxed{\text{Subtract the child's age in years from }\30, \text{then divide the result by}\ $2$}$ 
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Some people use this rule to work out how many hours’ sleep each night young children need.
+<pre class='language-latex'><code class='language-latex'>Some people use this rule to work out how many hours' sleep each night young children need.
 <emptyline>
-$\boxed{\text{Subtract the child’s age in years from }\30, \text{then divide the result by}\ $2$}$ 
+$\boxed{\text{Subtract the child's age in years from }\30, \text{then divide the result by}\ $2$}$ 
 </code></pre>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -1082,13 +1082,13 @@ $\boxed{\text{Subtract the child’s age in years from }\30, \text{then divide t
 
 Sanjay is $8$ years old.
 
-Use the rule to work out how many hours’ sleep he needs.
+Use the rule to work out how many hours' sleep he needs.
 
 </div>
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>Sanjay is $8$ years old.
 <emptyline>
-Use the rule to work out how many hours’ sleep he needs.
+Use the rule to work out how many hours' sleep he needs.
 </code></pre>
 </div>
 

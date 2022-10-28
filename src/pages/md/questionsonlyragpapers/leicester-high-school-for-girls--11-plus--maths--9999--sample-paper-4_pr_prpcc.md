@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-4-pr-prpcc"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 4 - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "23"
 ---
 <ul class='question default-decimal'>
@@ -1806,7 +1806,7 @@ Wine gums are sweets that are made in different colours.
 
 Pupils tested whether people can taste the difference between black wine gums and other wine gums.
 
-The percentage bar charts show three pupils’ results.
+The percentage bar charts show three pupils' results.
 
 ![leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4/section-1-question-14-00.png](/assets/leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4/section-1-question-14-00.png "leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4/section-1-question-14-00.png")
 
@@ -1816,7 +1816,7 @@ The percentage bar charts show three pupils’ results.
 <emptyline>
 Pupils tested whether people can taste the difference between black wine gums and other wine gums.
 <emptyline>
-The percentage bar charts show three pupils’ results.
+The percentage bar charts show three pupils' results.
 <emptyline>
 %image%
 </code></pre>
@@ -1852,11 +1852,11 @@ Complete the table.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Explain why **Tina’s** results are likely to be **more reliable** than Ravi’s or Sita’s.
+Explain why **Tina's** results are likely to be **more reliable** than Ravi's or Sita's.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Explain why **Tina’s** results are likely to be **more reliable** than Ravi’s or Sita’s.
+<pre class='language-latex'><code class='language-latex'>Explain why **Tina's** results are likely to be **more reliable** than Ravi's or Sita's.
 </code></pre>
 </div>
 

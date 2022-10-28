@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/csse-11-plus-maths-2015-sample-paper-1-pr-prpcc"
 title: "Csse - 11 Plus - Maths - 2015 - Sample Paper 1 - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -33,7 +33,7 @@ tsequence
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-This question concerns the number sequence that is formed starting at ‘$0$’, then adding $1$, subtracting $2$, adding $3$,
+This question concerns the number sequence that is formed starting at '$0$', then adding $1$, subtracting $2$, adding $3$,
 subtracting $4, \ \ldots$
 
 The first four terms of the sequence are:
@@ -42,7 +42,7 @@ $0, 1, -1, 2, \ \ldots $
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>This question concerns the number sequence that is formed starting at ‘$0$’, then adding $1$, subtracting $2$, adding $3$,
+<pre class='language-latex'><code class='language-latex'>This question concerns the number sequence that is formed starting at '$0$', then adding $1$, subtracting $2$, adding $3$,
 subtracting $4, \ \ldots$
 <emptyline>
 The first four terms of the sequence are:

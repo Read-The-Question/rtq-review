@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/oundle-school-11-plus-maths-2008-sample-paper-1-pr-prpcc"
 title: "Oundle School - 11 Plus - Maths - 2008 - Sample Paper 1 - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "17"
 ---
 <ul class='question default-decimal'>
@@ -737,11 +737,11 @@ tcoin
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Susan’s bus fare is exactly $44 \ \text{p}$. If the driver can give her change, what is the smallest number of coins that can change hands when Susan pays to get on the bus? (Explain clearly)
+Susan's bus fare is exactly $44 \ \text{p}$. If the driver can give her change, what is the smallest number of coins that can change hands when Susan pays to get on the bus? (Explain clearly)
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Susan’s bus fare is exactly $44 \ \text{p}$. If the driver can give her change, what is the smallest number of coins that can change hands when Susan pays to get on the bus? (Explain clearly)
+<pre class='language-latex'><code class='language-latex'>Susan's bus fare is exactly $44 \ \text{p}$. If the driver can give her change, what is the smallest number of coins that can change hands when Susan pays to get on the bus? (Explain clearly)
 </code></pre>
 </div>
 

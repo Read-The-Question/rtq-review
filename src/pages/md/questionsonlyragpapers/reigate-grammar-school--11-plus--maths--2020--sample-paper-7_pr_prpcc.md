@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/reigate-grammar-school-11-plus-maths-2020-sample-paper-7-pr-prpcc"
 title: "Reigate Grammar School - 11 Plus - Maths - 2020 - Sample Paper 7 - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "10"
 ---
 <ul class='question default-decimal'>
@@ -232,11 +232,11 @@ tspeed
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Edward drives to his aunt’s house at an average speed of $50 \ \text{km/h}$, and it takes him $2 \ \text{hours}$ to get there.
+Edward drives to his aunt's house at an average speed of $50 \ \text{km/h}$, and it takes him $2 \ \text{hours}$ to get there.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Edward drives to his aunt’s house at an average speed of $50 \ \text{km/h}$, and it takes him $2 \ \text{hours}$ to get there.
+<pre class='language-latex'><code class='language-latex'>Edward drives to his aunt's house at an average speed of $50 \ \text{km/h}$, and it takes him $2 \ \text{hours}$ to get there.
 </code></pre>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -244,11 +244,11 @@ Edward drives to his aunt’s house at an average speed of $50 \ \text{km/h}$, a
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-How far away does Edward’s aunt live?
+How far away does Edward's aunt live?
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>How far away does Edward’s aunt live?
+<pre class='language-latex'><code class='language-latex'>How far away does Edward's aunt live?
 </code></pre>
 </div>
 
@@ -770,11 +770,11 @@ talgebra
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-A new mathematical operation has been invented. For any two numbers $x ⊡ y$ means ‘multiply $x$ by three, then add $y$’, so $4 ⊡ 2$ means $4 \times 3 + 2 = 12 + 2 = 14$.
+A new mathematical operation has been invented. For any two numbers $x ⊡ y$ means 'multiply $x$ by three, then add $y$', so $4 ⊡ 2$ means $4 \times 3 + 2 = 12 + 2 = 14$.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>A new mathematical operation has been invented. For any two numbers $x ⊡ y$ means ‘multiply $x$ by three, then add $y$’, so $4 ⊡ 2$ means $4 \times 3 + 2 = 12 + 2 = 14$.
+<pre class='language-latex'><code class='language-latex'>A new mathematical operation has been invented. For any two numbers $x ⊡ y$ means 'multiply $x$ by three, then add $y$', so $4 ⊡ 2$ means $4 \times 3 + 2 = 12 + 2 = 14$.
 </code></pre>
 </div>
 <ul class='subquestion lower-alpha'>

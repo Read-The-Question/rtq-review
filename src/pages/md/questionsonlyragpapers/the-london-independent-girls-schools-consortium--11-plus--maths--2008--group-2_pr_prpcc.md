@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/the-london-independent-girls-schools-consortium-11-plus-maths-2008-group-2-pr-prpcc"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2008 - Group 2 - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "23"
 ---
 <ul class='question default-decimal'>

@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/reigate-grammar-school-11-plus-maths-2019-sample-paper-6-pr-prpcc"
 title: "Reigate Grammar School - 11 Plus - Maths - 2019 - Sample Paper 6 - PR - PRPCC"
-date: 2022-10-27 10:33:45
+date: 2022-10-28 09:23:35
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -33,11 +33,11 @@ tnumber
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-Write the number ‘forty five thousand, seven hundred and two’ in figures. 
+Write the number 'forty five thousand, seven hundred and two' in figures. 
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Write the number ‘forty five thousand, seven hundred and two’ in figures. 
+<pre class='language-latex'><code class='language-latex'>Write the number 'forty five thousand, seven hundred and two' in figures. 
 </code></pre>
 </div>
 
@@ -701,11 +701,11 @@ talgebra
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-A new mathematical operation has been invented. For any two numbers $𝑥∎𝑦$ means $\text{‘add 4 to 𝑥}$, then multiply by $\text{𝑦’, so 8∎2}$ means $8 + 4$, then $\times 2$, giving $24$. 
+A new mathematical operation has been invented. For any two numbers $𝑥∎𝑦$ means $\text{'add 4 to 𝑥}$, then multiply by $\text{𝑦', so 8∎2}$ means $8 + 4$, then $\times 2$, giving $24$. 
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>A new mathematical operation has been invented. For any two numbers $𝑥∎𝑦$ means $\text{‘add 4 to 𝑥}$, then multiply by $\text{𝑦’, so 8∎2}$ means $8 + 4$, then $\times 2$, giving $24$. 
+<pre class='language-latex'><code class='language-latex'>A new mathematical operation has been invented. For any two numbers $𝑥∎𝑦$ means $\text{'add 4 to 𝑥}$, then multiply by $\text{𝑦', so 8∎2}$ means $8 + 4$, then $\times 2$, giving $24$. 
 </code></pre>
 </div>
 <ul class='subquestion lower-alpha'>

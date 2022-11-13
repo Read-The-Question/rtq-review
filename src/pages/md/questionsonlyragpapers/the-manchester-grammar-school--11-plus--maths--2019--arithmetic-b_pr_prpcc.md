@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/the-manchester-grammar-school-11-plus-maths-2019-arithmetic-b-pr-prpcc"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2019 - Arithmetic B - PR - PRPCC"
-date: 2022-10-28 12:06:36
+date: 2022-11-13 18:23:30
 questions_count: "10"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "10"
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:1:1</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Ansh Khattar</p>
 </div>
 <div class='rag'>
-<p>rag_lj_pr</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcc</p>
@@ -142,41 +142,41 @@ Which city has the largest difference between its highest and lowest temperature
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onclick='submitReview(event)'>PRPCC</button>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onclick='submitReview(event)'>PRPCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onclick='submitReview(event)'>PRRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onclick='submitReview(event)'>PRCT</button>
 </li>
 <li class='review'>
 <button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onclick='resetComment(event)'>Reset Comments</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' id='FORM-55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='55164706-0C04-4C69-84E5-9EEFD1BE6DA1' id='FORM-55164706-0C04-4C69-84E5-9EEFD1BE6DA1' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -196,10 +196,10 @@ Which city has the largest difference between its highest and lowest temperature
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:1:2</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Ansh Khattar</p>
 </div>
 <div class='rag'>
-<p>rag_lj_pr</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcc</p>
@@ -274,41 +274,41 @@ In fact, M-power also have to add $5\%$ to Andrew's bill which is the tax known 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='FEF8AADE-2D7B-4940-99BD-A18E327E4D0F' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FEF8AADE-2D7B-4940-99BD-A18E327E4D0F' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='FEF8AADE-2D7B-4940-99BD-A18E327E4D0F' onclick='submitReview(event)'>PRPCC</button>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FEF8AADE-2D7B-4940-99BD-A18E327E4D0F' onclick='submitReview(event)'>PRPCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='FEF8AADE-2D7B-4940-99BD-A18E327E4D0F' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FEF8AADE-2D7B-4940-99BD-A18E327E4D0F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='FEF8AADE-2D7B-4940-99BD-A18E327E4D0F' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FEF8AADE-2D7B-4940-99BD-A18E327E4D0F' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='FEF8AADE-2D7B-4940-99BD-A18E327E4D0F' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FEF8AADE-2D7B-4940-99BD-A18E327E4D0F' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='FEF8AADE-2D7B-4940-99BD-A18E327E4D0F' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FEF8AADE-2D7B-4940-99BD-A18E327E4D0F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='FEF8AADE-2D7B-4940-99BD-A18E327E4D0F' onclick='submitReview(event)'>PRRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FEF8AADE-2D7B-4940-99BD-A18E327E4D0F' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='FEF8AADE-2D7B-4940-99BD-A18E327E4D0F' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FEF8AADE-2D7B-4940-99BD-A18E327E4D0F' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='FEF8AADE-2D7B-4940-99BD-A18E327E4D0F' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FEF8AADE-2D7B-4940-99BD-A18E327E4D0F' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='FEF8AADE-2D7B-4940-99BD-A18E327E4D0F' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FEF8AADE-2D7B-4940-99BD-A18E327E4D0F' onclick='submitReview(event)'>PRCT</button>
 </li>
 <li class='review'>
 <button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='FEF8AADE-2D7B-4940-99BD-A18E327E4D0F' onclick='resetComment(event)'>Reset Comments</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='FEF8AADE-2D7B-4940-99BD-A18E327E4D0F' id='FORM-FEF8AADE-2D7B-4940-99BD-A18E327E4D0F' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='FEF8AADE-2D7B-4940-99BD-A18E327E4D0F' id='FORM-FEF8AADE-2D7B-4940-99BD-A18E327E4D0F' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -328,10 +328,10 @@ In fact, M-power also have to add $5\%$ to Andrew's bill which is the tax known 
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:1:3</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Ansh Khattar</p>
 </div>
 <div class='rag'>
-<p>rag_lj_pr</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcc</p>
@@ -381,11 +381,11 @@ Write down the Blast of the two digit number $34$.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Which two digit number has a Blast of $125$?
+Which two digit number has a Blast of $125?$
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Which two digit number has a Blast of $125$?
+<pre class='language-latex'><code class='language-latex'>Which two digit number has a Blast of $125?$
 </code></pre>
 </div>
 
@@ -424,41 +424,41 @@ A particular two digit number is blasted and then that answer is also Blasted. I
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='DD136C6F-448A-43DA-AEFE-3AF5F79B1533' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DD136C6F-448A-43DA-AEFE-3AF5F79B1533' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='DD136C6F-448A-43DA-AEFE-3AF5F79B1533' onclick='submitReview(event)'>PRPCC</button>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DD136C6F-448A-43DA-AEFE-3AF5F79B1533' onclick='submitReview(event)'>PRPCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='DD136C6F-448A-43DA-AEFE-3AF5F79B1533' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DD136C6F-448A-43DA-AEFE-3AF5F79B1533' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='DD136C6F-448A-43DA-AEFE-3AF5F79B1533' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DD136C6F-448A-43DA-AEFE-3AF5F79B1533' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='DD136C6F-448A-43DA-AEFE-3AF5F79B1533' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DD136C6F-448A-43DA-AEFE-3AF5F79B1533' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='DD136C6F-448A-43DA-AEFE-3AF5F79B1533' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DD136C6F-448A-43DA-AEFE-3AF5F79B1533' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='DD136C6F-448A-43DA-AEFE-3AF5F79B1533' onclick='submitReview(event)'>PRRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DD136C6F-448A-43DA-AEFE-3AF5F79B1533' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='DD136C6F-448A-43DA-AEFE-3AF5F79B1533' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DD136C6F-448A-43DA-AEFE-3AF5F79B1533' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='DD136C6F-448A-43DA-AEFE-3AF5F79B1533' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DD136C6F-448A-43DA-AEFE-3AF5F79B1533' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='DD136C6F-448A-43DA-AEFE-3AF5F79B1533' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DD136C6F-448A-43DA-AEFE-3AF5F79B1533' onclick='submitReview(event)'>PRCT</button>
 </li>
 <li class='review'>
 <button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='DD136C6F-448A-43DA-AEFE-3AF5F79B1533' onclick='resetComment(event)'>Reset Comments</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='DD136C6F-448A-43DA-AEFE-3AF5F79B1533' id='FORM-DD136C6F-448A-43DA-AEFE-3AF5F79B1533' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DD136C6F-448A-43DA-AEFE-3AF5F79B1533' id='FORM-DD136C6F-448A-43DA-AEFE-3AF5F79B1533' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -478,10 +478,10 @@ A particular two digit number is blasted and then that answer is also Blasted. I
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:1:4</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Ansh Khattar</p>
 </div>
 <div class='rag'>
-<p>rag_lj_pr</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcc</p>
@@ -558,41 +558,41 @@ If a plant is $2 \ \text{metres}$ tall at the end of the first month, **how much
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='130DB243-D3C7-45CA-9989-ED58478FAE23' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='130DB243-D3C7-45CA-9989-ED58478FAE23' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='130DB243-D3C7-45CA-9989-ED58478FAE23' onclick='submitReview(event)'>PRPCC</button>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='130DB243-D3C7-45CA-9989-ED58478FAE23' onclick='submitReview(event)'>PRPCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='130DB243-D3C7-45CA-9989-ED58478FAE23' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='130DB243-D3C7-45CA-9989-ED58478FAE23' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='130DB243-D3C7-45CA-9989-ED58478FAE23' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='130DB243-D3C7-45CA-9989-ED58478FAE23' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='130DB243-D3C7-45CA-9989-ED58478FAE23' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='130DB243-D3C7-45CA-9989-ED58478FAE23' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='130DB243-D3C7-45CA-9989-ED58478FAE23' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='130DB243-D3C7-45CA-9989-ED58478FAE23' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='130DB243-D3C7-45CA-9989-ED58478FAE23' onclick='submitReview(event)'>PRRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='130DB243-D3C7-45CA-9989-ED58478FAE23' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='130DB243-D3C7-45CA-9989-ED58478FAE23' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='130DB243-D3C7-45CA-9989-ED58478FAE23' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='130DB243-D3C7-45CA-9989-ED58478FAE23' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='130DB243-D3C7-45CA-9989-ED58478FAE23' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='130DB243-D3C7-45CA-9989-ED58478FAE23' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='130DB243-D3C7-45CA-9989-ED58478FAE23' onclick='submitReview(event)'>PRCT</button>
 </li>
 <li class='review'>
 <button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='130DB243-D3C7-45CA-9989-ED58478FAE23' onclick='resetComment(event)'>Reset Comments</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='130DB243-D3C7-45CA-9989-ED58478FAE23' id='FORM-130DB243-D3C7-45CA-9989-ED58478FAE23' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='130DB243-D3C7-45CA-9989-ED58478FAE23' id='FORM-130DB243-D3C7-45CA-9989-ED58478FAE23' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -612,10 +612,10 @@ If a plant is $2 \ \text{metres}$ tall at the end of the first month, **how much
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:1:5</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Ansh Khattar</p>
 </div>
 <div class='rag'>
-<p>rag_lj_pr</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcc</p>
@@ -634,7 +634,7 @@ tmoney
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
-The table below shows four different makes of car each with four different engine sizes, in litres, and the Insurance Group for each. For example a Hissan $1.5$ car is in Insurance Group B.
+The table below shows four different makes of car each with four different engine sizes, in litres, and the Insurance Group for each. For example a Hissan $1.5$ car is in Insurance Group $\text{B}$.
 
 <!--
                 ,Car type   ,Skoyota    ,Hissan     ,Foxhall    ,Jagley
@@ -645,15 +645,15 @@ $1.5$           ,           ,B          ,B          ,B          ,C
 $1.9$           ,           ,-          ,C          ,B          ,D
 -->
 
-|                 | Car type     | Skoyota     | Hissan     | Foxhall     | Jagley     |
-|:-----------:    |:--------:    |:-------:    |:------:    |:-------:    |:------:    |
-| Engine size     |              |             |            |             |            |
-|    $1.1$        |              |    A        |    A       |    A        |    -       |
-|    $1.2$        |              |    A        |    A       |    B        |    -       |
-|    $1.5$        |              |    B        |    B       |    B        |    C       |
-|    $1.9$        |              |    -        |    C       |    B        |    D       |
+|                 | Car type     | Skoyota     | Hissan     | Foxhall    | Jagley     |
+|:-----------:    |:--------:    |:-------:    |:------:    |:-------:   |:------:    |
+| Engine size     |              |             |            |            |            |
+|    $1.1$        |              | $\text{A}$  | $\text{A}$ | $\text{A}$ |    -       |
+|    $1.2$        |              | $\text{A}$  | $\text{A}$ | $\text{B}$ |    -       |
+|    $1.5$        |              | $\text{B}$  | $\text{B}$ | $\text{B}$ |$\text{C}$  |
+|    $1.9$        |              |    -        | $\text{C}$ | $\text{B}$ |$\text{D}$  |
 
-The second table shows the monthly insurance payment paid by drivers of different age bands for each of the insurance groups, so a person aged $37$ would be in the age band $21{-}45$ and so would pay $\pounds 105$ each month for a car in Insurance group C.
+The second table shows the monthly insurance payment paid by drivers of different age bands for each of the insurance groups, so a person aged $37$ would be in the age band $21{-}45$ and so would pay $\pounds 105$ each month for a car in Insurance group $\text{C}$.
 
 
 <!--
@@ -668,15 +668,15 @@ D                   ,               ,$\pounds 190$  ,$\pounds 160$  ,$\pounds 17
 |                     | Age band     |    Under $21$       |    $21{-}45$        |    Over $45$        |
 |:---------------:    |:--------:    |:-------------:    |:-------------:    |:-------------:    |
 | Insurance Group     |              |                   |                   |                   |
-|        A            |              |  $\pounds 90$     |  $\pounds 80$     |  $\pounds 70$     |
-|        B            |              | $\pounds 110$     |  $\pounds 95$     |  $\pounds 85$     |
-|        C            |              | $\pounds 122$     | $\pounds 105$     |  $\pounds 98$     |
-|        D            |              | $\pounds 190$     | $\pounds 160$     | $\pounds 170$     |
+|        $\text{A}$   |              |  $\pounds 90$     |  $\pounds 80$     |  $\pounds 70$     |
+|        $\text{B}$   |              | $\pounds 110$     |  $\pounds 95$     |  $\pounds 85$     |
+|        $\text{C}$   |              | $\pounds 122$     | $\pounds 105$     |  $\pounds 98$     |
+|        $\text{D}$   |              | $\pounds 190$     | $\pounds 160$     | $\pounds 170$     |
 
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>The table below shows four different makes of car each with four different engine sizes, in litres, and the Insurance Group for each. For example a Hissan $1.5$ car is in Insurance Group B.
+<pre class='language-latex'><code class='language-latex'>The table below shows four different makes of car each with four different engine sizes, in litres, and the Insurance Group for each. For example a Hissan $1.5$ car is in Insurance Group $\text{B}$.
 <emptyline>
 <!--
                 ,Car type   ,Skoyota    ,Hissan     ,Foxhall    ,Jagley
@@ -687,15 +687,15 @@ $1.5$           ,           ,B          ,B          ,B          ,C
 $1.9$           ,           ,-          ,C          ,B          ,D
 -->
 <emptyline>
-|                 | Car type     | Skoyota     | Hissan     | Foxhall     | Jagley     |
-|:-----------:    |:--------:    |:-------:    |:------:    |:-------:    |:------:    |
-| Engine size     |              |             |            |             |            |
-|    $1.1$        |              |    A        |    A       |    A        |    -       |
-|    $1.2$        |              |    A        |    A       |    B        |    -       |
-|    $1.5$        |              |    B        |    B       |    B        |    C       |
-|    $1.9$        |              |    -        |    C       |    B        |    D       |
+|                 | Car type     | Skoyota     | Hissan     | Foxhall    | Jagley     |
+|:-----------:    |:--------:    |:-------:    |:------:    |:-------:   |:------:    |
+| Engine size     |              |             |            |            |            |
+|    $1.1$        |              | $\text{A}$  | $\text{A}$ | $\text{A}$ |    -       |
+|    $1.2$        |              | $\text{A}$  | $\text{A}$ | $\text{B}$ |    -       |
+|    $1.5$        |              | $\text{B}$  | $\text{B}$ | $\text{B}$ |$\text{C}$  |
+|    $1.9$        |              |    -        | $\text{C}$ | $\text{B}$ |$\text{D}$  |
 <emptyline>
-The second table shows the monthly insurance payment paid by drivers of different age bands for each of the insurance groups, so a person aged $37$ would be in the age band $21{-}45$ and so would pay $\pounds 105$ each month for a car in Insurance group C.
+The second table shows the monthly insurance payment paid by drivers of different age bands for each of the insurance groups, so a person aged $37$ would be in the age band $21{-}45$ and so would pay $\pounds 105$ each month for a car in Insurance group $\text{C}$.
 <emptyline>
 
 <!--
@@ -710,10 +710,10 @@ D                   ,               ,$\pounds 190$  ,$\pounds 160$  ,$\pounds 17
 |                     | Age band     |    Under $21$       |    $21{-}45$        |    Over $45$        |
 |:---------------:    |:--------:    |:-------------:    |:-------------:    |:-------------:    |
 | Insurance Group     |              |                   |                   |                   |
-|        A            |              |  $\pounds 90$     |  $\pounds 80$     |  $\pounds 70$     |
-|        B            |              | $\pounds 110$     |  $\pounds 95$     |  $\pounds 85$     |
-|        C            |              | $\pounds 122$     | $\pounds 105$     |  $\pounds 98$     |
-|        D            |              | $\pounds 190$     | $\pounds 160$     | $\pounds 170$     |
+|        $\text{A}$   |              |  $\pounds 90$     |  $\pounds 80$     |  $\pounds 70$     |
+|        $\text{B}$   |              | $\pounds 110$     |  $\pounds 95$     |  $\pounds 85$     |
+|        $\text{C}$   |              | $\pounds 122$     | $\pounds 105$     |  $\pounds 98$     |
+|        $\text{D}$   |              | $\pounds 190$     | $\pounds 160$     | $\pounds 170$     |
 <emptyline>
 </code></pre>
 </div>
@@ -736,11 +736,11 @@ How much will a $19$ year old pay for a Foxhall $1.5$ car each month?
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-A $30$ year old pays $\pounds 95$ for a Hissan car. What is the engine size of their car, in $\text{litres}$?
+A $30$ year old pays $\pounds 95$ for a Hissan car. What is the engine size of their car, in $\text{litres}?$
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>A $30$ year old pays $\pounds 95$ for a Hissan car. What is the engine size of their car, in $\text{litres}$?
+<pre class='language-latex'><code class='language-latex'>A $30$ year old pays $\pounds 95$ for a Hissan car. What is the engine size of their car, in $\text{litres}?$
 </code></pre>
 </div>
 
@@ -779,41 +779,41 @@ If a $32$ year old pays $\pounds 95$ for a Skoyota car, what would a $20$ year o
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='submitReview(event)'>PRPCC</button>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='submitReview(event)'>PRPCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='submitReview(event)'>PRRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='submitReview(event)'>PRCT</button>
 </li>
 <li class='review'>
 <button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='resetComment(event)'>Reset Comments</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' id='FORM-AE46F128-2775-4636-BF19-455F903C2CC3' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' id='FORM-AE46F128-2775-4636-BF19-455F903C2CC3' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -833,10 +833,10 @@ If a $32$ year old pays $\pounds 95$ for a Skoyota car, what would a $20$ year o
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:1:6</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Ansh Khattar</p>
 </div>
 <div class='rag'>
-<p>rag_lj_pr</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcc</p>
@@ -927,41 +927,41 @@ Work out the radius of a thigh bone of length $50 \ \text{cm}$ which has a densi
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='EC76AD4B-0FB5-4FAA-9501-93309D05DD30' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EC76AD4B-0FB5-4FAA-9501-93309D05DD30' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='EC76AD4B-0FB5-4FAA-9501-93309D05DD30' onclick='submitReview(event)'>PRPCC</button>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EC76AD4B-0FB5-4FAA-9501-93309D05DD30' onclick='submitReview(event)'>PRPCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='EC76AD4B-0FB5-4FAA-9501-93309D05DD30' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EC76AD4B-0FB5-4FAA-9501-93309D05DD30' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='EC76AD4B-0FB5-4FAA-9501-93309D05DD30' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EC76AD4B-0FB5-4FAA-9501-93309D05DD30' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='EC76AD4B-0FB5-4FAA-9501-93309D05DD30' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EC76AD4B-0FB5-4FAA-9501-93309D05DD30' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='EC76AD4B-0FB5-4FAA-9501-93309D05DD30' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EC76AD4B-0FB5-4FAA-9501-93309D05DD30' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='EC76AD4B-0FB5-4FAA-9501-93309D05DD30' onclick='submitReview(event)'>PRRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EC76AD4B-0FB5-4FAA-9501-93309D05DD30' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='EC76AD4B-0FB5-4FAA-9501-93309D05DD30' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EC76AD4B-0FB5-4FAA-9501-93309D05DD30' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='EC76AD4B-0FB5-4FAA-9501-93309D05DD30' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EC76AD4B-0FB5-4FAA-9501-93309D05DD30' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='EC76AD4B-0FB5-4FAA-9501-93309D05DD30' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EC76AD4B-0FB5-4FAA-9501-93309D05DD30' onclick='submitReview(event)'>PRCT</button>
 </li>
 <li class='review'>
 <button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='EC76AD4B-0FB5-4FAA-9501-93309D05DD30' onclick='resetComment(event)'>Reset Comments</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='EC76AD4B-0FB5-4FAA-9501-93309D05DD30' id='FORM-EC76AD4B-0FB5-4FAA-9501-93309D05DD30' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='EC76AD4B-0FB5-4FAA-9501-93309D05DD30' id='FORM-EC76AD4B-0FB5-4FAA-9501-93309D05DD30' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -981,10 +981,10 @@ Work out the radius of a thigh bone of length $50 \ \text{cm}$ which has a densi
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:1:7</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Ansh Khattar</p>
 </div>
 <div class='rag'>
-<p>rag_lj_pr</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcc</p>
@@ -1069,41 +1069,41 @@ If the distance the ball travels through the air from the point where the bowler
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onclick='submitReview(event)'>PRPCC</button>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onclick='submitReview(event)'>PRPCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onclick='submitReview(event)'>PRRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onclick='submitReview(event)'>PRCT</button>
 </li>
 <li class='review'>
 <button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onclick='resetComment(event)'>Reset Comments</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' id='FORM-00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='00D9E1CD-F3B5-4E92-995D-8331D5A1F239' id='FORM-00D9E1CD-F3B5-4E92-995D-8331D5A1F239' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1123,10 +1123,10 @@ If the distance the ball travels through the air from the point where the bowler
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:1:8</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Ansh Khattar</p>
 </div>
 <div class='rag'>
-<p>rag_lj_pr</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcc</p>
@@ -1194,41 +1194,41 @@ $\ldots$        ,$\ldots$           ,$21$       ,$\ldots$           ,$\ldots$   
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' onclick='submitReview(event)'>PRPCC</button>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' onclick='submitReview(event)'>PRPCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' onclick='submitReview(event)'>PRRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' onclick='submitReview(event)'>PRCT</button>
 </li>
 <li class='review'>
 <button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' onclick='resetComment(event)'>Reset Comments</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' id='FORM-7850D23B-A3B4-42DC-8963-DEF946414E10' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' id='FORM-7850D23B-A3B4-42DC-8963-DEF946414E10' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1248,10 +1248,10 @@ $\ldots$        ,$\ldots$           ,$21$       ,$\ldots$           ,$\ldots$   
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:1:9</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Ansh Khattar</p>
 </div>
 <div class='rag'>
-<p>rag_lj_pr</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcc</p>
@@ -1274,6 +1274,8 @@ Megaprint make small business cards with names and contact details on, that peop
 
 There is a fixed cost that people must pay no matter how many cards they order and this amount is always the same. Then there is a second amount which depends on the number of cards ordered. These two amounts are added together to give the total cost of the order and the graph below shows what the total cost would be for the number of cards ordered.
 
+![the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b/section-1-question-9-00.png](/assets/the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b/section-1-question-9-00.png "the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b/section-1-question-9-00.png")
+
 Using the graph:
 
 </div>
@@ -1281,6 +1283,8 @@ Using the graph:
 <pre class='language-latex'><code class='language-latex'>Megaprint make small business cards with names and contact details on, that people can give to clients as part of their work. The total cost of buying the cards they sell is made up of two amounts.
 <emptyline>
 There is a fixed cost that people must pay no matter how many cards they order and this amount is always the same. Then there is a second amount which depends on the number of cards ordered. These two amounts are added together to give the total cost of the order and the graph below shows what the total cost would be for the number of cards ordered.
+<emptyline>
+%image%
 <emptyline>
 Using the graph:
 </code></pre>
@@ -1393,41 +1397,41 @@ Using the graph, or otherwise, work out the number of cards for which the total 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='DCD58ECE-8AEF-4A6F-882B-368BA34A3733' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DCD58ECE-8AEF-4A6F-882B-368BA34A3733' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='DCD58ECE-8AEF-4A6F-882B-368BA34A3733' onclick='submitReview(event)'>PRPCC</button>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DCD58ECE-8AEF-4A6F-882B-368BA34A3733' onclick='submitReview(event)'>PRPCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='DCD58ECE-8AEF-4A6F-882B-368BA34A3733' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DCD58ECE-8AEF-4A6F-882B-368BA34A3733' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='DCD58ECE-8AEF-4A6F-882B-368BA34A3733' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DCD58ECE-8AEF-4A6F-882B-368BA34A3733' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='DCD58ECE-8AEF-4A6F-882B-368BA34A3733' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DCD58ECE-8AEF-4A6F-882B-368BA34A3733' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='DCD58ECE-8AEF-4A6F-882B-368BA34A3733' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DCD58ECE-8AEF-4A6F-882B-368BA34A3733' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='DCD58ECE-8AEF-4A6F-882B-368BA34A3733' onclick='submitReview(event)'>PRRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DCD58ECE-8AEF-4A6F-882B-368BA34A3733' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='DCD58ECE-8AEF-4A6F-882B-368BA34A3733' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DCD58ECE-8AEF-4A6F-882B-368BA34A3733' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='DCD58ECE-8AEF-4A6F-882B-368BA34A3733' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DCD58ECE-8AEF-4A6F-882B-368BA34A3733' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='DCD58ECE-8AEF-4A6F-882B-368BA34A3733' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DCD58ECE-8AEF-4A6F-882B-368BA34A3733' onclick='submitReview(event)'>PRCT</button>
 </li>
 <li class='review'>
 <button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='DCD58ECE-8AEF-4A6F-882B-368BA34A3733' onclick='resetComment(event)'>Reset Comments</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='DCD58ECE-8AEF-4A6F-882B-368BA34A3733' id='FORM-DCD58ECE-8AEF-4A6F-882B-368BA34A3733' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='DCD58ECE-8AEF-4A6F-882B-368BA34A3733' id='FORM-DCD58ECE-8AEF-4A6F-882B-368BA34A3733' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1447,10 +1451,10 @@ Using the graph, or otherwise, work out the number of cards for which the total 
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:1:11</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Ansh Khattar</p>
 </div>
 <div class='rag'>
-<p>rag_lj_pr</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcc</p>
@@ -1589,41 +1593,41 @@ Find the value of t if $\dbinom {12}{t} \wedge  \dbinom {t}{8} = 47$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='8A898C47-8D9A-43DC-AC09-747E90B1BA6A' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8A898C47-8D9A-43DC-AC09-747E90B1BA6A' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='8A898C47-8D9A-43DC-AC09-747E90B1BA6A' onclick='submitReview(event)'>PRPCC</button>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8A898C47-8D9A-43DC-AC09-747E90B1BA6A' onclick='submitReview(event)'>PRPCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='8A898C47-8D9A-43DC-AC09-747E90B1BA6A' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8A898C47-8D9A-43DC-AC09-747E90B1BA6A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='8A898C47-8D9A-43DC-AC09-747E90B1BA6A' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8A898C47-8D9A-43DC-AC09-747E90B1BA6A' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='8A898C47-8D9A-43DC-AC09-747E90B1BA6A' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8A898C47-8D9A-43DC-AC09-747E90B1BA6A' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='8A898C47-8D9A-43DC-AC09-747E90B1BA6A' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8A898C47-8D9A-43DC-AC09-747E90B1BA6A' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='8A898C47-8D9A-43DC-AC09-747E90B1BA6A' onclick='submitReview(event)'>PRRL</button>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8A898C47-8D9A-43DC-AC09-747E90B1BA6A' onclick='submitReview(event)'>PRRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='8A898C47-8D9A-43DC-AC09-747E90B1BA6A' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8A898C47-8D9A-43DC-AC09-747E90B1BA6A' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='8A898C47-8D9A-43DC-AC09-747E90B1BA6A' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8A898C47-8D9A-43DC-AC09-747E90B1BA6A' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='8A898C47-8D9A-43DC-AC09-747E90B1BA6A' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8A898C47-8D9A-43DC-AC09-747E90B1BA6A' onclick='submitReview(event)'>PRCT</button>
 </li>
 <li class='review'>
 <button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='8A898C47-8D9A-43DC-AC09-747E90B1BA6A' onclick='resetComment(event)'>Reset Comments</button>
 </li>
 </ul>
 
-<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='8A898C47-8D9A-43DC-AC09-747E90B1BA6A' id='FORM-8A898C47-8D9A-43DC-AC09-747E90B1BA6A' onsubmit='submitComment(event)'>
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='PR' data-uuid='8A898C47-8D9A-43DC-AC09-747E90B1BA6A' id='FORM-8A898C47-8D9A-43DC-AC09-747E90B1BA6A' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

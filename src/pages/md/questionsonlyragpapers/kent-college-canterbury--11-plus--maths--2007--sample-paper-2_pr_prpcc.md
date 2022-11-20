@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/kent-college-canterbury-11-plus-maths-2007-sample-paper-2-pr-prpcc"
 title: "Kent College Canterbury - 11 Plus - Maths - 2007 - Sample Paper 2 - PR - PRPCC"
-date: 2022-11-14 09:09:38
+date: 2022-11-20 07:00:21
 questions_count: "1"
 ---
 <ul class='question default-decimal'>

@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/the-london-independent-girls-schools-consortium-11-plus-maths-2015-group-1-pr-prpcc"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2015 - Group 1 - PR - PRPCC"
-date: 2022-11-14 09:09:38
+date: 2022-11-20 07:00:21
 questions_count: "10"
 ---
 <ul class='question default-decimal'>
@@ -527,6 +527,8 @@ What fraction of the $24 \ \text{hours}$ does Rebecca spend working?
 
 Jamie provides the information below about the way his $24{-}\text{hour}$ day is spent.
 
+![the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1/section-1-question-25-subquestion-3-00.png](/assets/the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1/section-1-question-25-subquestion-3-00.png "the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1/section-1-question-25-subquestion-3-00.png")
+
 |     sleeping     | $8 \ \text{hours}$ |
 |:----------------:|:-----------:       |
 |      working     | $6 \ \text{hours}$ |
@@ -538,6 +540,8 @@ Complete the chart to show how Jamie spends his $24{-}\text{hour}$ day.
 </div>
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>Jamie provides the information below about the way his $24{-}\text{hour}$ day is spent.
+<emptyline>
+%image%
 <emptyline>
 |     sleeping     | $8 \ \text{hours}$ |
 |:----------------:|:-----------:       |

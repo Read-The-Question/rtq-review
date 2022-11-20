@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/bancrofts-school-11-plus-maths-2021-sample-paper-7-pr-prpcc"
 title: "Bancrofts School - 11 Plus - Maths - 2021 - Sample Paper 7 - PR - PRPCC"
-date: 2022-11-14 09:09:38
+date: 2022-11-20 07:00:21
 questions_count: "8"
 ---
 <ul class='question default-decimal'>

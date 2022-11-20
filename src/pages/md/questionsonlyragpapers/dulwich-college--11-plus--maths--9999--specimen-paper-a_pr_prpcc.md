@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/dulwich-college-11-plus-maths-9999-specimen-paper-a-pr-prpcc"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper A - PR - PRPCC"
-date: 2022-11-14 09:09:38
+date: 2022-11-20 07:00:21
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -33,10 +33,12 @@ talgebra
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
+*ABBR: TODO:: Find the right katex symbol.*
+
 Each shape in this grid is hiding a particular number so that the three shapes in any row or column add up to the value written 
 at the end of that row or column. 
 
-|   Sun        |   Sun        | $16$        |      |
+|  $\spadesuit$|   Sun        |   Sun       | $16$ |
 |:------------:|:------------:|:-----------:|:----:|
 | $\spadesuit$ | $\spadesuit$ | $\spadesuit$| $12$ |
 | $\spadesuit$ | $\spadesuit$ | $\spadesuit$| $18$ |
@@ -48,10 +50,11 @@ Work out the number that should replace the question mark.
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>Each shape in this grid is hiding a particular number so that the three shapes in any row or column add up to the value written 
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_show_correct_symbol
+Each shape in this grid is hiding a particular number so that the three shapes in any row or column add up to the value written 
 at the end of that row or column. 
 <emptyline>
-|   Sun        |   Sun        | $16$        |      |
+|  $\spadesuit$|   Sun        |   Sun       | $16$ |
 |:------------:|:------------:|:-----------:|:----:|
 | $\spadesuit$ | $\spadesuit$ | $\spadesuit$| $12$ |
 | $\spadesuit$ | $\spadesuit$ | $\spadesuit$| $18$ |

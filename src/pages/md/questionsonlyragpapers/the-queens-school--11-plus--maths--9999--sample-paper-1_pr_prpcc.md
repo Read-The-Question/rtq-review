@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/the-queens-school-11-plus-maths-9999-sample-paper-1-pr-prpcc"
 title: "The Queens School - 11 Plus - Maths - 9999 - Sample Paper 1 - PR - PRPCC"
-date: 2022-11-14 09:09:38
+date: 2022-11-20 07:00:21
 questions_count: "18"
 ---
 <ul class='question default-decimal'>
@@ -1946,6 +1946,8 @@ tsequence
 <!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
+*ABBR: TODO:: Find the right katex symbol.*
+
 | Pattern Number     |   Pattern     | Number of Blocks     |
 |:--------------:    |:------------: |:----------------:    |
 |       $1$          | $\spadesuit$  |        $1$           |
@@ -1960,7 +1962,8 @@ Fill in the total number of blocks in pattern numbers $3$ and $4$. Without drawi
 
 </div>
 <div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>| Pattern Number     |   Pattern     | Number of Blocks     |
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_show_correct_symbol
+| Pattern Number     |   Pattern     | Number of Blocks     |
 |:--------------:    |:------------: |:----------------:    |
 |       $1$          | $\spadesuit$  |        $1$           |
 |       $2$          | $\spadesuit$  |        $4$           |

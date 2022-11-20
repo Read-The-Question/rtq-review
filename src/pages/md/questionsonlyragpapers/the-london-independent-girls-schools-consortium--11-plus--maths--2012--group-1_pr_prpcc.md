@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/the-london-independent-girls-schools-consortium-11-plus-maths-2012-group-1-pr-prpcc"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2012 - Group 1 - PR - PRPCC"
-date: 2022-11-14 09:09:38
+date: 2022-11-20 07:00:21
 questions_count: "11"
 ---
 <ul class='question default-decimal'>
@@ -656,26 +656,28 @@ This clock shows a time in the evening.
 <pre class='language-latex'><code class='language-latex'>This clock shows a time in the evening.
 </code></pre>
 </div>
-
-</div>
-</li>
+<ul class='subsubquestion lower-roman'>
 <li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
 
 Write down the time shown by the clock using the $24 \ \text{hour}$ clock.
+
+![the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1/section-1-question-24-subquestion-2--subsubquestion-1--00.png](/assets/the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1/section-1-question-24-subquestion-2--subsubquestion-1--00.png "the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1/section-1-question-24-subquestion-2--subsubquestion-1--00.png")
 
 </div>
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>Write down the time shown by the clock using the $24 \ \text{hour}$ clock.
+<emptyline>
+%image%
 </code></pre>
 </div>
 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
 
 The clock is actually $5  \ \text{minutes}$ slow. Sarah's watch is $8 \ \text{minutes}$ fast.
 
@@ -689,6 +691,9 @@ What time is shown on Sarah's watch?
 </code></pre>
 </div>
 
+</div>
+</li>
+</ul>
 </div>
 </li>
 </ul>
@@ -945,13 +950,17 @@ tsimpleword
 
 Jiggy Sore has made $4$ full size copies of this triangle:
 
+![the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1/section-1-question-29-00.png](/assets/the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1/section-1-question-29-00.png "the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1/section-1-question-29-00.png")
+
 He puts his $4$ triangles together to make the shape shown below.
 
-![the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1/section-1-question-29-00.png](/assets/the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1/section-1-question-29-00.png "the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1/section-1-question-29-00.png") 
+![the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1/section-1-question-29-01.png](/assets/the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1/section-1-question-29-01.png "the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1/section-1-question-29-01.png") 
 
 </div>
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>Jiggy Sore has made $4$ full size copies of this triangle:
+<emptyline>
+%image%
 <emptyline>
 He puts his $4$ triangles together to make the shape shown below.
 <emptyline>

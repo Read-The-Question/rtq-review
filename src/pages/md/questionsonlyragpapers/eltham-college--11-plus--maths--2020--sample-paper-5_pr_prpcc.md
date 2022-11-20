@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/eltham-college-11-plus-maths-2020-sample-paper-5-pr-prpcc"
 title: "Eltham College - 11 Plus - Maths - 2020 - Sample Paper 5 - PR - PRPCC"
-date: 2022-11-14 09:09:38
+date: 2022-11-20 07:00:21
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -38,8 +38,8 @@ Which digit must go in the * position?
 
 $
 \begin{array}{cccccccccccccc}
-                          &   4   					          &  \boxed{\phantom{15}}     \\
-\times                    &   \boxed{\phantom{15}}            &  \boxed{\phantom{15}}     \\
+&                          &   4   					          &  \boxed{\phantom{15}}     \\
+\times &                    &   \boxed{\phantom{15}}            &  \boxed{\phantom{15}}     \\
 \hline
 						  &	   \boxed{\phantom{15}}  	      &   8   					   &   \boxed{\phantom{15}}    \\
                     	  &			8      					  &   \boxed{\phantom{15}}     &   0   \\
@@ -55,8 +55,8 @@ Which digit must go in the * position?
 <emptyline>
 $
 \begin{array}{cccccccccccccc}
-                          &   4   					          &  \boxed{\phantom{15}}     \\
-\times                    &   \boxed{\phantom{15}}            &  \boxed{\phantom{15}}     \\
+&                          &   4   					          &  \boxed{\phantom{15}}     \\
+\times &                    &   \boxed{\phantom{15}}            &  \boxed{\phantom{15}}     \\
 \hline
 						  &	   \boxed{\phantom{15}}  	      &   8   					   &   \boxed{\phantom{15}}    \\
                     	  &			8      					  &   \boxed{\phantom{15}}     &   0   \\

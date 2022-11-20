@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/the-manchester-grammar-school-11-plus-maths-2011-arithmetic-1-pr-prpcc"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2011 - Arithmetic 1 - PR - PRPCC"
-date: 2022-11-14 09:09:38
+date: 2022-11-20 07:00:21
 questions_count: "3"
 ---
 <ul class='question default-decimal'>

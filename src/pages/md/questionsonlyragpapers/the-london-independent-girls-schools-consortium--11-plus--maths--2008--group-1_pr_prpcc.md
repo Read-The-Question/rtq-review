@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/the-london-independent-girls-schools-consortium-11-plus-maths-2008-group-1-pr-prpcc"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2008 - Group 1 - PR - PRPCC"
-date: 2022-11-14 09:09:38
+date: 2022-11-20 07:00:21
 questions_count: "14"
 ---
 <ul class='question default-decimal'>
@@ -330,13 +330,9 @@ tnumber
 
 Fill in the gaps
 
-
-
 </div>
 <div class='questioncodeblock'>
 <pre class='language-latex'><code class='language-latex'>Fill in the gaps
-<emptyline>
-
 </code></pre>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -347,8 +343,8 @@ Fill in the gaps
 
 $
 \begin{array}{ccccccccccccccc}
-       &     5    & \boxed{} &     4    \\
-{} +   & \boxed{} &     7    & \boxed{} \\
+       &     5    & \boxed{\phantom{5}} &     4    \\
+{} +   & \boxed{\phantom{5}} &     7    & \boxed{\phantom{5}} \\
 \hline
        &     9    &     3    &     4    \\
 \end{array}
@@ -361,8 +357,8 @@ $
 <pre class='language-latex'><code class='language-latex'>
 $
 \begin{array}{ccccccccccccccc}
-       &     5    & \boxed{} &     4    \\
-{} +   & \boxed{} &     7    & \boxed{} \\
+       &     5    & \boxed{\phantom{5}} &     4    \\
+{} +   & \boxed{\phantom{5}} &     7    & \boxed{\phantom{5}} \\
 \hline
        &     9    &     3    &     4    \\
 \end{array}
@@ -381,8 +377,8 @@ $
 
 $
 \begin{array}{ccccccccccccccc}
-       & \boxed{} &     7    & \boxed{} \\
-{} -   &     5    & \boxed{} &     8    \\
+       & \boxed{\phantom{5}} &     7    & \boxed{\phantom{5}} \\
+{} -   &     5    & \boxed{\phantom{5}} &     8    \\
 \hline
        &     4    &     3    &     3    \\
 \end{array}
@@ -394,8 +390,8 @@ $
 <pre class='language-latex'><code class='language-latex'>
 $
 \begin{array}{ccccccccccccccc}
-       & \boxed{} &     7    & \boxed{} \\
-{} -   &     5    & \boxed{} &     8    \\
+       & \boxed{\phantom{5}} &     7    & \boxed{\phantom{5}} \\
+{} -   &     5    & \boxed{\phantom{5}} &     8    \\
 \hline
        &     4    &     3    &     3    \\
 \end{array}
@@ -413,10 +409,10 @@ $
 
 $
 \begin{array}{ccccccccccccccc}
-            & \boxed{} &     3    & \boxed{} \\
+            & \boxed{\phantom{5}} &     3    & \boxed{\phantom{5}} \\
 {} \times   &          &          &     7    \\
 \hline
-            &     9    & \boxed{} &     3    \\
+            &     9    & \boxed{\phantom{5}} &     3    \\
 \end{array}
 $
 
@@ -426,10 +422,10 @@ $
 <pre class='language-latex'><code class='language-latex'>
 $
 \begin{array}{ccccccccccccccc}
-            & \boxed{} &     3    & \boxed{} \\
+            & \boxed{\phantom{5}} &     3    & \boxed{\phantom{5}} \\
 {} \times   &          &          &     7    \\
 \hline
-            &     9    & \boxed{} &     3    \\
+            &     9    & \boxed{\phantom{5}} &     3    \\
 \end{array}
 $
 <emptyline>

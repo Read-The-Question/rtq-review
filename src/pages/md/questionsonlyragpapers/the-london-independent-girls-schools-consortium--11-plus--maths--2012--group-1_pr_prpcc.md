@@ -1,10 +1,116 @@
 ---
 slug: "questionsonlyragpapers/the-london-independent-girls-schools-consortium-11-plus-maths-2012-group-1-pr-prpcc"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2012 - Group 1 - PR - PRPCC"
-date: 2022-11-20 07:00:21
-questions_count: "11"
+date: 2022-11-23 19:41:18
+questions_count: "15"
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='uuid'>
+<p>CE083B1E-5BCC-4335-A042-D895FCF015A8</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:6</p>
+</div>
+<div class='rag'>
+<p>Ansh Khattar</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tlcm
+</li>
+</ul>
+</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Which number between $60$ and $70$ is divisible by both $7$ and $9?$
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Which number between $60$ and $70$ is divisible by both $7$ and $9?$
+</code></pre>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reviewer: [ap] Date:2022-10-27::10:55
+
+
+
+move both to before 7
+
+
+
+Reviewer: [up] Date:2022-11-13::18:51
+
+
+
+divisible spelled wrong
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='CE083B1E-5BCC-4335-A042-D895FCF015A8' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='CE083B1E-5BCC-4335-A042-D895FCF015A8' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='CE083B1E-5BCC-4335-A042-D895FCF015A8' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='CE083B1E-5BCC-4335-A042-D895FCF015A8' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='CE083B1E-5BCC-4335-A042-D895FCF015A8' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='CE083B1E-5BCC-4335-A042-D895FCF015A8' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='CE083B1E-5BCC-4335-A042-D895FCF015A8' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='CE083B1E-5BCC-4335-A042-D895FCF015A8' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='CE083B1E-5BCC-4335-A042-D895FCF015A8' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='CE083B1E-5BCC-4335-A042-D895FCF015A8' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='CE083B1E-5BCC-4335-A042-D895FCF015A8' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='CE083B1E-5BCC-4335-A042-D895FCF015A8' id='FORM-CE083B1E-5BCC-4335-A042-D895FCF015A8' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-CE083B1E-5BCC-4335-A042-D895FCF015A8'>Initial</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_pr rag_prpcc question'>
 <div class='uuid'>
@@ -317,6 +423,116 @@ $20$ sundried tomatoes
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-33643118-119E-4AA7-BF44-1F3D52100F60'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='uuid'>
+<p>2894D167-BB5D-4183-9FC6-2091378D6E11</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:19</p>
+</div>
+<div class='rag'>
+<p>Ansh Khattar</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Patrick has made $\dfrac{3}{4}$ of the designs in his origami book.
+
+If he has made $24$ designs, how many are there altogether in his book?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Patrick has made $\dfrac{3}{4}$ of the designs in his origami book.
+<emptyline>
+If he has made $24$ designs, how many are there altogether in his book?
+</code></pre>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reviewer: [ap] Date:2022-10-27::11:00
+
+
+
+Change to his book
+
+
+
+Reviewer: [up] Date:2022-11-13::18:54
+
+
+
+Change to the designs
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='2894D167-BB5D-4183-9FC6-2091378D6E11' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='2894D167-BB5D-4183-9FC6-2091378D6E11' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='2894D167-BB5D-4183-9FC6-2091378D6E11' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='2894D167-BB5D-4183-9FC6-2091378D6E11' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='2894D167-BB5D-4183-9FC6-2091378D6E11' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='2894D167-BB5D-4183-9FC6-2091378D6E11' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='2894D167-BB5D-4183-9FC6-2091378D6E11' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='2894D167-BB5D-4183-9FC6-2091378D6E11' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='2894D167-BB5D-4183-9FC6-2091378D6E11' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='2894D167-BB5D-4183-9FC6-2091378D6E11' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='2894D167-BB5D-4183-9FC6-2091378D6E11' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='2894D167-BB5D-4183-9FC6-2091378D6E11' id='FORM-2894D167-BB5D-4183-9FC6-2091378D6E11' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-2894D167-BB5D-4183-9FC6-2091378D6E11'>Initial</p>
 </div>
 </div>
 </li>
@@ -1358,6 +1574,126 @@ How much did Claire spend on Thursday?
 <li>
 <div class='question_envelope rag_pr rag_prpcc question'>
 <div class='uuid'>
+<p>2FBA0037-2ABE-409C-BE8E-6A3865D6A414</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:37</p>
+</div>
+<div class='rag'>
+<p>Ansh Khattar</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Josie, Rosie, Maisie, Cassie and Daisy all want to sit in the front row at school.
+
+- Maisie will only sit at the end of the row.
+- Daisy will not sit next to Josie and Maisie.
+- Cassie has to sit next to both Josie and Maisie.
+
+Use the information to write down the two possible seating 
+arrangements for the $5$ girls.
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Josie, Rosie, Maisie, Cassie and Daisy all want to sit in the front row at school.
+<emptyline>
+- Maisie will only sit at the end of the row.
+- Daisy will not sit next to Josie and Maisie.
+- Cassie has to sit next to both Josie and Maisie.
+<emptyline>
+Use the information to write down the two possible seating 
+arrangements for the $5$ girls.
+</code></pre>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reviewer: [ap] Date:2022-10-27::11:33
+
+
+
+Remove the comma after Cassie
+
+
+
+Reviewer: [up] Date:2022-11-13::19:03
+
+
+
+Maisie spelled worng
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='2FBA0037-2ABE-409C-BE8E-6A3865D6A414' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='2FBA0037-2ABE-409C-BE8E-6A3865D6A414' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='2FBA0037-2ABE-409C-BE8E-6A3865D6A414' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='2FBA0037-2ABE-409C-BE8E-6A3865D6A414' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='2FBA0037-2ABE-409C-BE8E-6A3865D6A414' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='2FBA0037-2ABE-409C-BE8E-6A3865D6A414' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='2FBA0037-2ABE-409C-BE8E-6A3865D6A414' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='2FBA0037-2ABE-409C-BE8E-6A3865D6A414' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='2FBA0037-2ABE-409C-BE8E-6A3865D6A414' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='2FBA0037-2ABE-409C-BE8E-6A3865D6A414' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='2FBA0037-2ABE-409C-BE8E-6A3865D6A414' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='2FBA0037-2ABE-409C-BE8E-6A3865D6A414' id='FORM-2FBA0037-2ABE-409C-BE8E-6A3865D6A414' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-2FBA0037-2ABE-409C-BE8E-6A3865D6A414'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='uuid'>
 <p>509FB1C4-95C1-4634-8E90-BE6E74C8261A</p>
 </div>
 <div class='papername'>
@@ -1451,6 +1787,148 @@ For example %image%, %image% and %image% are not allowed.
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-509FB1C4-95C1-4634-8E90-BE6E74C8261A'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='uuid'>
+<p>88888E5B-66D9-4B02-A54F-257E2F1BC87F</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:39</p>
+</div>
+<div class='rag'>
+<p>Ansh Khattar</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prpcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<!-- - if !options[:questions_only] -->
+<!-- = render :reviewsubtag, question: question -->
+<div class='question question'>
+
+Katie has been asked to count all of the triangles in the square below.
+
+![the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1/section-1-question-39-00.png](/assets/the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1/section-1-question-39-00.png "the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1/section-1-question-39-00.png")
+
+She realizes there is a triangle on each side
+and that there are larger triangles at each corner.
+
+![the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1/section-1-question-39-01.png](/assets/the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1/section-1-question-39-01.png "the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1/section-1-question-39-01.png")
+
+In total there are $8$ triangles inside the square.
+
+How many triangles are there in total inside this pentagon?
+
+![the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1/section-1-question-39-02.png](/assets/the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1/section-1-question-39-02.png "the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1/section-1-question-39-02.png")
+
+*You may use the small pentagons to help you record the 
+different types of triangles you find.*
+
+![the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1/section-1-question-39-03.png](/assets/the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1/section-1-question-39-03.png "the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1/section-1-question-39-03.png")
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Katie has been asked to count all of the triangles in the square below.
+<emptyline>
+%image%
+<emptyline>
+She realizes there is a triangle on each side
+and that there are larger triangles at each corner.
+<emptyline>
+%image%
+<emptyline>
+In total there are $8$ triangles inside the square.
+<emptyline>
+How many triangles are there in total inside this pentagon?
+<emptyline>
+%image%
+<emptyline>
+*You may use the small pentagons to help you record the 
+different types of triangles you find.*
+<emptyline>
+%image%
+</code></pre>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Reviewer: [up] Date:2022-11-13::19:04
+
+
+
+Change to types of triangles.
+
+
+
+Reviewer: [up] Date:2022-11-13::19:04
+
+
+
+Change to types of triangles.
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='88888E5B-66D9-4B02-A54F-257E2F1BC87F' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='88888E5B-66D9-4B02-A54F-257E2F1BC87F' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='88888E5B-66D9-4B02-A54F-257E2F1BC87F' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='88888E5B-66D9-4B02-A54F-257E2F1BC87F' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='88888E5B-66D9-4B02-A54F-257E2F1BC87F' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='88888E5B-66D9-4B02-A54F-257E2F1BC87F' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='88888E5B-66D9-4B02-A54F-257E2F1BC87F' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='88888E5B-66D9-4B02-A54F-257E2F1BC87F' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='88888E5B-66D9-4B02-A54F-257E2F1BC87F' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='88888E5B-66D9-4B02-A54F-257E2F1BC87F' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='88888E5B-66D9-4B02-A54F-257E2F1BC87F' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='88888E5B-66D9-4B02-A54F-257E2F1BC87F' id='FORM-88888E5B-66D9-4B02-A54F-257E2F1BC87F' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-88888E5B-66D9-4B02-A54F-257E2F1BC87F'>Initial</p>
 </div>
 </div>
 </li>

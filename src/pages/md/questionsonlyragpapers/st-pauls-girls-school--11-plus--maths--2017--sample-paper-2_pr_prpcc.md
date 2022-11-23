@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/st-pauls-girls-school-11-plus-maths-2017-sample-paper-2-pr-prpcc"
 title: "St Pauls Girls School - 11 Plus - Maths - 2017 - Sample Paper 2 - PR - PRPCC"
-date: 2022-11-20 07:00:21
+date: 2022-11-23 19:41:18
 questions_count: "4"
 ---
 <ul class='question default-decimal'>

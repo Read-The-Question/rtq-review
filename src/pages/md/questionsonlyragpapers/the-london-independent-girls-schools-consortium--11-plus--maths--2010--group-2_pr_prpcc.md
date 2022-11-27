@@ -1,8 +1,8 @@
 ---
 slug: "questionsonlyragpapers/the-london-independent-girls-schools-consortium-11-plus-maths-2010-group-2-pr-prpcc"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2010 - Group 2 - PR - PRPCC"
-date: 2022-11-27 14:46:33
-questions_count: "6"
+date: 2022-11-27 18:09:42
+questions_count: "5"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -198,103 +198,6 @@ $
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-D15F1499-7F4F-4042-8573-F34CAE5C37B0'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prpcc question'>
-<div class='uuid'>
-<p>471CDA43-293B-4557-ABCF-C07CD32F1C9D</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:21</p>
-</div>
-<div class='rag'>
-<p>Ansh Khattar</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prpcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tduplicatepaper
-</li>
-</ul>
-</div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
-<div class='question question'>
-
-This is a right angled triangular tile:
-
-![the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2/section-1-question-21-00.png](/assets/the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2/section-1-question-21-00.png "the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2/section-1-question-21-00.png")
-
-Write how many of these tiles you can fit into each of the following shapes.
-
-![the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2/section-1-question-21-01.png](/assets/the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2/section-1-question-21-01.png "the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2/section-1-question-21-01.png")
-
-</div>
-<div class='questioncodeblock'>
-<pre class='language-latex'><code class='language-latex'>This is a right angled triangular tile:
-<emptyline>
-%image%
-<emptyline>
-Write how many of these tiles you can fit into each of the following shapes.
-<emptyline>
-%image%
-</code></pre>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='471CDA43-293B-4557-ABCF-C07CD32F1C9D' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='471CDA43-293B-4557-ABCF-C07CD32F1C9D' onclick='submitReview(event)'>PRPCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='471CDA43-293B-4557-ABCF-C07CD32F1C9D' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='471CDA43-293B-4557-ABCF-C07CD32F1C9D' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='471CDA43-293B-4557-ABCF-C07CD32F1C9D' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='471CDA43-293B-4557-ABCF-C07CD32F1C9D' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='471CDA43-293B-4557-ABCF-C07CD32F1C9D' onclick='submitReview(event)'>PRRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='471CDA43-293B-4557-ABCF-C07CD32F1C9D' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='471CDA43-293B-4557-ABCF-C07CD32F1C9D' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='471CDA43-293B-4557-ABCF-C07CD32F1C9D' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='PR' data-uuid='471CDA43-293B-4557-ABCF-C07CD32F1C9D' onclick='resetComment(event)'>Reset Comments</button>
-</li>
-</ul>
-
-<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='ap' data-sheet='PR' data-uuid='471CDA43-293B-4557-ABCF-C07CD32F1C9D' id='FORM-471CDA43-293B-4557-ABCF-C07CD32F1C9D' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-471CDA43-293B-4557-ABCF-C07CD32F1C9D'>Initial</p>
 </div>
 </div>
 </li>

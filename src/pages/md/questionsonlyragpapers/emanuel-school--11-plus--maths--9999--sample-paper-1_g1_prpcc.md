@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/emanuel-school-11-plus-maths-9999-sample-paper-1-g1-prpcc"
 title: "Emanuel School - 11 Plus - Maths - 9999 - Sample Paper 1 - G1 - PRPCC"
-date: 2022-11-27 14:46:33
+date: 2022-11-27 18:09:42
 questions_count: "2"
 ---
 <ul class='question default-decimal'>

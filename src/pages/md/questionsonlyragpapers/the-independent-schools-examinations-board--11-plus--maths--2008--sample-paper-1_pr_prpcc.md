@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/the-independent-schools-examinations-board-11-plus-maths-2008-sample-paper-1-pr-prpcc"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2008 - Sample Paper 1 - PR - PRPCC"
-date: 2022-11-27 14:46:33
+date: 2022-11-27 18:09:42
 questions_count: "6"
 ---
 <ul class='question default-decimal'>

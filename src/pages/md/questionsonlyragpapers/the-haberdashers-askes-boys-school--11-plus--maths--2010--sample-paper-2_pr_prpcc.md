@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/the-haberdashers-askes-boys-school-11-plus-maths-2010-sample-paper-2-pr-prpcc"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2010 - Sample Paper 2 - PR - PRPCC"
-date: 2022-11-27 14:46:33
+date: 2022-11-27 18:09:42
 questions_count: "6"
 ---
 <ul class='question default-decimal'>

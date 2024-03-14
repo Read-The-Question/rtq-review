@@ -100,128 +100,127 @@ const linkStyle = {
 const IndexPage = ({ data }) => {
   const showAnswersForDevelopersPhaseZero = () => {
     return (
-      (process.env.GATSBY_REVIEW_MODE === "all") || 
-      (process.env.GATSBY_REVIEW_MODE === "answers_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "answers_developers_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "answers_developers_p0")
-    )
+      process.env.GATSBY_REVIEW_MODE === "all" ||
+      process.env.GATSBY_REVIEW_MODE === "answers_all" ||
+      process.env.GATSBY_REVIEW_MODE === "answers_developers_all" ||
+      process.env.GATSBY_REVIEW_MODE === "answers_developers_p0"
+    );
   };
 
   const showAnswersForDevelopersPhaseOne = () => {
     return (
-      (process.env.GATSBY_REVIEW_MODE === "all") || 
-      (process.env.GATSBY_REVIEW_MODE === "answers_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "answers_developers_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "answers_developers_p1")
-    )
+      process.env.GATSBY_REVIEW_MODE === "all" ||
+      process.env.GATSBY_REVIEW_MODE === "answers_all" ||
+      process.env.GATSBY_REVIEW_MODE === "answers_developers_all" ||
+      process.env.GATSBY_REVIEW_MODE === "answers_developers_p1"
+    );
   };
 
   const showAnswersForDevelopersPhaseTwo = () => {
     return (
-      (process.env.GATSBY_REVIEW_MODE === "all") || 
-      (process.env.GATSBY_REVIEW_MODE === "answers_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "answers_developers_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "answers_developers_p2")
-    )
+      process.env.GATSBY_REVIEW_MODE === "all" ||
+      process.env.GATSBY_REVIEW_MODE === "answers_all" ||
+      process.env.GATSBY_REVIEW_MODE === "answers_developers_all" ||
+      process.env.GATSBY_REVIEW_MODE === "answers_developers_p2"
+    );
   };
 
   const showAnswersForPapersTopicPapers = () => {
     return (
-      (process.env.GATSBY_REVIEW_MODE === "all") || 
-      (process.env.GATSBY_REVIEW_MODE === "answers_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "answers_papers")
-    )
+      process.env.GATSBY_REVIEW_MODE === "all" ||
+      process.env.GATSBY_REVIEW_MODE === "answers_all" ||
+      process.env.GATSBY_REVIEW_MODE === "answers_papers"
+    );
   };
 
   const showQuestionsForDevelopersPhaseZero = () => {
     return (
-      (process.env.GATSBY_REVIEW_MODE === "all") || 
-      (process.env.GATSBY_REVIEW_MODE === "questions_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "questions_developers_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "questions_developers_p0")
-    )
+      process.env.GATSBY_REVIEW_MODE === "all" ||
+      process.env.GATSBY_REVIEW_MODE === "questions_all" ||
+      process.env.GATSBY_REVIEW_MODE === "questions_developers_all" ||
+      process.env.GATSBY_REVIEW_MODE === "questions_developers_p0"
+    );
   };
 
   const showQuestionsForDevelopersPhaseOne = () => {
     return (
-      (process.env.GATSBY_REVIEW_MODE === "all") || 
-      (process.env.GATSBY_REVIEW_MODE === "questions_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "questions_developers_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "questions_developers_p1")
-    )
+      process.env.GATSBY_REVIEW_MODE === "all" ||
+      process.env.GATSBY_REVIEW_MODE === "questions_all" ||
+      process.env.GATSBY_REVIEW_MODE === "questions_developers_all" ||
+      process.env.GATSBY_REVIEW_MODE === "questions_developers_p1"
+    );
   };
 
   const showQuestionsForDevelopersPhaseTwo = () => {
     return (
-      (process.env.GATSBY_REVIEW_MODE === "all") || 
-      (process.env.GATSBY_REVIEW_MODE === "questions_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "questions_developers_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "questions_developers_p2")
-    )
+      process.env.GATSBY_REVIEW_MODE === "all" ||
+      process.env.GATSBY_REVIEW_MODE === "questions_all" ||
+      process.env.GATSBY_REVIEW_MODE === "questions_developers_all" ||
+      process.env.GATSBY_REVIEW_MODE === "questions_developers_p2"
+    );
   };
 
   const showAnswersForReviewersPhaseZero = () => {
     return (
-      (process.env.GATSBY_REVIEW_MODE === "all") || 
-      (process.env.GATSBY_REVIEW_MODE === "answers_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "answers_reviewers_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "answers_reviewers_p0")
-    )
+      process.env.GATSBY_REVIEW_MODE === "all" ||
+      process.env.GATSBY_REVIEW_MODE === "answers_all" ||
+      process.env.GATSBY_REVIEW_MODE === "answers_reviewers_all" ||
+      process.env.GATSBY_REVIEW_MODE === "answers_reviewers_p0"
+    );
   };
 
   const showAnswersForReviewersPhaseOne = () => {
     return (
-      (process.env.GATSBY_REVIEW_MODE === "all") || 
-      (process.env.GATSBY_REVIEW_MODE === "answers_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "answers_reviewers_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "answers_reviewers_p1")
-    )
+      process.env.GATSBY_REVIEW_MODE === "all" ||
+      process.env.GATSBY_REVIEW_MODE === "answers_all" ||
+      process.env.GATSBY_REVIEW_MODE === "answers_reviewers_all" ||
+      process.env.GATSBY_REVIEW_MODE === "answers_reviewers_p1"
+    );
   };
 
   const showAnswersForReviewersPhaseTwo = () => {
     return (
-      (process.env.GATSBY_REVIEW_MODE === "all") || 
-      (process.env.GATSBY_REVIEW_MODE === "answers_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "answers_reviewers_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "answers_reviewers_p2")
-    )
+      process.env.GATSBY_REVIEW_MODE === "all" ||
+      process.env.GATSBY_REVIEW_MODE === "answers_all" ||
+      process.env.GATSBY_REVIEW_MODE === "answers_reviewers_all" ||
+      process.env.GATSBY_REVIEW_MODE === "answers_reviewers_p2"
+    );
   };
 
   const showQuestionsForReviewersPhaseZero = () => {
     return (
-      (process.env.GATSBY_REVIEW_MODE === "all") || 
-      (process.env.GATSBY_REVIEW_MODE === "questions_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "questions_reviewers_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "questions_reviewers_p0")
-    )
+      process.env.GATSBY_REVIEW_MODE === "all" ||
+      process.env.GATSBY_REVIEW_MODE === "questions_all" ||
+      process.env.GATSBY_REVIEW_MODE === "questions_reviewers_all" ||
+      process.env.GATSBY_REVIEW_MODE === "questions_reviewers_p0"
+    );
   };
 
   const showQuestionsForReviewersPhaseOne = () => {
     return (
-      (process.env.GATSBY_REVIEW_MODE === "all") || 
-      (process.env.GATSBY_REVIEW_MODE === "questions_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "questions_reviewers_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "questions_reviewers_p1")
-    )
+      process.env.GATSBY_REVIEW_MODE === "all" ||
+      process.env.GATSBY_REVIEW_MODE === "questions_all" ||
+      process.env.GATSBY_REVIEW_MODE === "questions_reviewers_all" ||
+      process.env.GATSBY_REVIEW_MODE === "questions_reviewers_p1"
+    );
   };
 
   const showQuestionsForReviewersPhaseTwo = () => {
     return (
-      (process.env.GATSBY_REVIEW_MODE === "all") || 
-      (process.env.GATSBY_REVIEW_MODE === "questions_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "questions_reviewers_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "questions_reviewers_p2")
-    )
+      process.env.GATSBY_REVIEW_MODE === "all" ||
+      process.env.GATSBY_REVIEW_MODE === "questions_all" ||
+      process.env.GATSBY_REVIEW_MODE === "questions_reviewers_all" ||
+      process.env.GATSBY_REVIEW_MODE === "questions_reviewers_p2"
+    );
   };
 
   const showQuestionsPapersTopicPapers = () => {
     return (
-      (process.env.GATSBY_REVIEW_MODE === "all") || 
-      (process.env.GATSBY_REVIEW_MODE === "questions_all") ||
-      (process.env.GATSBY_REVIEW_MODE === "questions_papers")
-    )
+      process.env.GATSBY_REVIEW_MODE === "all" ||
+      process.env.GATSBY_REVIEW_MODE === "questions_all" ||
+      process.env.GATSBY_REVIEW_MODE === "questions_papers"
+    );
   };
-
 
   // =========== QUESTIONS ==============
   const phaseZeroQuestionsOnlyPrpccNodes = (data) => {
@@ -949,7 +948,9 @@ const IndexPage = ({ data }) => {
 
       {showAnswersForDevelopersPhaseOne() && (
         <>
-          <h2 style={h2HeadingStyles}>Answers - Developer - Phase 1 (G1 -> G2)</h2>
+          <h2 style={h2HeadingStyles}>
+            Answers - Developer - Phase 1 (G1 -> G2)
+          </h2>
 
           <h3 style={headingStyles}>
             Answers - Phase 1 - TopicPapers - RAG - PRPCR
@@ -990,7 +991,9 @@ const IndexPage = ({ data }) => {
 
       {showAnswersForReviewersPhaseOne() && (
         <>
-          <h2 style={h2HeadingStyles}>Answers - Reviewer - Phase 1 (G1 -> G2)</h2>
+          <h2 style={h2HeadingStyles}>
+            Answers - Reviewer - Phase 1 (G1 -> G2)
+          </h2>
 
           <h3 style={headingStyles}>
             Answers - Phase 1 - TopicPapers - RAG - PRPCC
@@ -1050,7 +1053,9 @@ const IndexPage = ({ data }) => {
 
       {showAnswersForDevelopersPhaseTwo() && (
         <>
-          <h2 style={h2HeadingStyles}>Answers - Developer - Phase 2 (G2 -> G3)</h2>
+          <h2 style={h2HeadingStyles}>
+            Answers - Developer - Phase 2 (G2 -> G3)
+          </h2>
 
           <h3 style={headingStyles}>
             Answers - Phase 2 - TopicPapers - RAG - PRPCR
@@ -1091,7 +1096,9 @@ const IndexPage = ({ data }) => {
 
       {showAnswersForReviewersPhaseTwo() && (
         <>
-          <h2 style={h2HeadingStyles}>Answers - Reviewer - Phase 2 (G2 -> G3)</h2>
+          <h2 style={h2HeadingStyles}>
+            Answers - Reviewer - Phase 2 (G2 -> G3)
+          </h2>
 
           <h3 style={headingStyles}>
             Answers - Phase 2 - TopicPapers - RAG - PRPCC
@@ -1713,9 +1720,25 @@ const IndexPage = ({ data }) => {
   );
 };
 
+// export const query = graphql`
+//   query {
+//     allMarkdownRemark(sort: { order: ASC, fields: [frontmatter___slug] }) {
+//       edges {
+//         node {
+//           frontmatter {
+//             title
+//             slug
+//             questions_count
+//           }
+//         }
+//       }
+//     }
+//   }
+// `;
+
 export const query = graphql`
   query {
-    allMarkdownRemark(sort: { order: ASC, fields: [frontmatter___slug] }) {
+    allMarkdownRemark(sort: { frontmatter: { slug: ASC } }) {
       edges {
         node {
           frontmatter {

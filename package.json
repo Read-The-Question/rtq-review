@@ -1,8 +1,8 @@
 {
-  "name": "try-md",
+  "name": "sample-rtq-test-server",
   "version": "1.0.0",
   "private": true,
-  "description": "try-md",
+  "description": "sample-rtq-test-server",
   "author": "Uday Pandey",
   "keywords": [
     "gatsby"
@@ -13,46 +13,39 @@
     "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "deploy": "gatsby build --prefix-paths && gh-pages -f -d public",
-
-    "all":                       "GATSBY_REVIEW_MODE=all                        npx gatsby develop",
-
-    "answers_developers_p0":     "GATSBY_REVIEW_MODE=answers_developers_p0      npx gatsby develop",
-    "answers_developers_p1":     "GATSBY_REVIEW_MODE=answers_developers_p1      npx gatsby develop",
-    "answers_developers_p2":     "GATSBY_REVIEW_MODE=answers_developers_p2      npx gatsby develop",
-
-    "answers_reviewers_p0":      "GATSBY_REVIEW_MODE=answers_reviewers_p0       npx gatsby develop",
-    "answers_reviewers_p1":      "GATSBY_REVIEW_MODE=answers_reviewers_p1       npx gatsby develop",
-    "answers_reviewers_p2":      "GATSBY_REVIEW_MODE=answers_reviewers_p2       npx gatsby develop",
-
-    "answers_papers":            "GATSBY_REVIEW_MODE=answers_papers             npx gatsby develop",
-    "answers_all":               "GATSBY_REVIEW_MODE=answers_all                npx gatsby develop",
-
-    "questions_developers_p0":   "GATSBY_REVIEW_MODE=questions_developers_p0    npx gatsby develop",
-    "questions_developers_p1":   "GATSBY_REVIEW_MODE=questions_developers_p1    npx gatsby develop",
-    "questions_developers_p2":   "GATSBY_REVIEW_MODE=questions_developers_p2    npx gatsby develop",
-
-    "questions_reviewers_p0":    "GATSBY_REVIEW_MODE=questions_reviewers_p0     npx gatsby develop",
-    "questions_reviewers_p1":    "GATSBY_REVIEW_MODE=questions_reviewers_p1     npx gatsby develop",
-    "questions_reviewers_p2":    "GATSBY_REVIEW_MODE=questions_reviewers_p2     npx gatsby develop",
-
-    "questions_all":             "GATSBY_REVIEW_MODE=questions_all              npx gatsby develop",
-    "questions_papers":          "GATSBY_REVIEW_MODE=questions_papers             npx gatsby develop"
+    "all": "GATSBY_REVIEW_MODE=all                        npx gatsby develop",
+    "answers_developers_p0": "GATSBY_REVIEW_MODE=answers_developers_p0      npx gatsby develop",
+    "answers_developers_p1": "GATSBY_REVIEW_MODE=answers_developers_p1      npx gatsby develop",
+    "answers_developers_p2": "GATSBY_REVIEW_MODE=answers_developers_p2      npx gatsby develop",
+    "answers_reviewers_p0": "GATSBY_REVIEW_MODE=answers_reviewers_p0       npx gatsby develop",
+    "answers_reviewers_p1": "GATSBY_REVIEW_MODE=answers_reviewers_p1       npx gatsby develop",
+    "answers_reviewers_p2": "GATSBY_REVIEW_MODE=answers_reviewers_p2       npx gatsby develop",
+    "answers_papers": "GATSBY_REVIEW_MODE=answers_papers             npx gatsby develop",
+    "answers_all": "GATSBY_REVIEW_MODE=answers_all                npx gatsby develop",
+    "questions_developers_p0": "GATSBY_REVIEW_MODE=questions_developers_p0    npx gatsby develop",
+    "questions_developers_p1": "GATSBY_REVIEW_MODE=questions_developers_p1    npx gatsby develop",
+    "questions_developers_p2": "GATSBY_REVIEW_MODE=questions_developers_p2    npx gatsby develop",
+    "questions_reviewers_p0": "GATSBY_REVIEW_MODE=questions_reviewers_p0     npx gatsby develop",
+    "questions_reviewers_p1": "GATSBY_REVIEW_MODE=questions_reviewers_p1     npx gatsby develop",
+    "questions_reviewers_p2": "GATSBY_REVIEW_MODE=questions_reviewers_p2     npx gatsby develop",
+    "questions_all": "GATSBY_REVIEW_MODE=questions_all              npx gatsby develop",
+    "questions_papers": "GATSBY_REVIEW_MODE=questions_papers             npx gatsby develop"
   },
   "dependencies": {
-    "gatsby": "^4.14.1",
-    "gatsby-plugin-react-helmet": "^5.14.0",
-    "gatsby-remark-katex": "^6.14.0",
-    "gatsby-remark-prismjs": "^6.17.0",
-    "gatsby-source-filesystem": "^4.14.0",
-    "gatsby-transformer-remark": "^5.14.0",
+    "autoprefixer": "^10.4.18",
+    "gatsby": "^5.13.3",
+    "gatsby-plugin-postcss": "^6.13.1",
+    "gatsby-plugin-react-helmet": "^6.13.1",
+    "gatsby-remark-katex": "^7.13.1",
+    "gatsby-remark-prismjs": "^7.13.1",
+    "gatsby-source-filesystem": "^5.13.1",
+    "gatsby-transformer-remark": "^6.13.1",
     "katex": "^0.13.24",
-    "prismjs": "^1.28.0",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
-    "react-helmet": "^6.1.0"
-  },
-  "devDependencies": {
-    "gh-pages": "^4.0.0"
+    "postcss": "^8.4.35",
+    "prismjs": "^1.29.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
+    "tailwindcss": "^3.4.1"
   }
 }

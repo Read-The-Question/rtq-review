@@ -1,12 +1,17 @@
+/**
+ * @type {import('gatsby').GatsbyConfig}
+ */
 module.exports = {
   siteMetadata: {
-    title: `Try MD`,
-    siteUrl: `https://www.yourdomain.tld`
+    title: `Sample RTQ Test Server`,
+    siteUrl: `https://www.yourdomain.tld`,
   },
   plugins: [
+    "gatsby-plugin-postcss",
+
     "gatsby-plugin-react-helmet",
 
-    // "gatsby-transformer-remark", 
+    // "gatsby-transformer-remark",
 
     {
       resolve: `gatsby-transformer-remark`,
@@ -17,8 +22,8 @@ module.exports = {
             options: {
               // Add any KaTeX options from https://github.com/KaTeX/KaTeX/blob/master/docs/options.md here
               strict: `warn`,
-              throwOnError: false
-            }
+              throwOnError: false,
+            },
           },
 
           {
@@ -33,7 +38,6 @@ module.exports = {
               // If you're unsure, it's best to use the default value.
               // classPrefix: "language-",
 
-
               // This toggles the display of line numbers globally alongside the code.
               // To use it, add the following line in gatsby-browser.js
               // right after importing the prism color scheme:
@@ -45,21 +49,20 @@ module.exports = {
               // If setting this to true, the parser won't handle and highlight inline
               // code used in markdown i.e. single backtick code like `this`.
               noInlineHighlight: false,
-            }
+            },
           },
-        ]
+        ],
       },
     },
-  
-    {
-        resolve: 'gatsby-source-filesystem',
-        options: {
-          "name": "pages",
-          "path": "./src/pages/"
-        },
-        __key: "pages"
-    }
-  ],
-  pathPrefix: "/rtq-try-gatsby-md",
 
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "pages",
+        path: "./src/pages/",
+      },
+      __key: "pages",
+    },
+  ],
+  pathPrefix: "/sample-rtq-test-server",
 };

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2007-sample-paper-9"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2007 - Sample Paper 9"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "30"
 ---
 <div class='paper'>
@@ -12,8 +12,8 @@ questions_count: "30"
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>A3D1E740-B2AD-4C46-9B48-4C519DCE198C</p>
@@ -37,8 +37,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Add $49 + 37$
@@ -127,7 +125,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>415BF113-CECE-4D12-BE89-CF81FCBD61CB</p>
@@ -151,8 +149,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Subtract $85 - 28$
@@ -241,7 +237,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>3DEDD6C9-6275-4F5D-AA03-A7EE6C84A4F3</p>
@@ -265,8 +261,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Multiply $58 \times 6$
@@ -355,7 +349,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>B91683F9-E37A-48FC-96CB-6C116170E3C3</p>
@@ -379,8 +373,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Divide $9027 \div 9$
@@ -469,7 +461,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>A5BCD678-C16D-48D8-AC2C-06E7253F782E</p>
@@ -493,8 +485,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A school fair needs to attract $350$ people in order to make a profit. There are already $143$ tickets sold. How many more tickets need to be sold?
@@ -583,7 +573,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>26A5AECE-82A8-4B78-BA4C-09271C0DA97D</p>
@@ -607,8 +597,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Peter Piper picked $716$ pecks of pickled pepper and each peck of pickled pepper had $4$ pips. How many pips of pickled pepper did Peter Piper pick?
@@ -697,7 +685,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>F1C6566B-4197-4E52-9C09-7F89FF8C4897</p>
@@ -721,8 +709,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A large crate contains $60$ cartons of milk. If one layer consists of $12$ cartons, how many layers are there?
@@ -811,7 +797,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>3B3FAC10-4AA9-412C-B1B1-0A40CE7CAD51</p>
@@ -835,8 +821,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A number is missing from this sequence. What is it?
@@ -927,7 +911,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>3C3AC364-101B-4ED1-909D-28F254163966</p>
@@ -951,8 +935,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Which of the following numbers is closest to $1 \text{?}$
@@ -1043,7 +1025,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>7E23A968-4945-451F-A9F4-D04CC1493A17</p>
@@ -1067,8 +1049,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In the number $5345$, the difference in value between the $3$ and the $4$ is
@@ -1158,7 +1138,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>72042D37-D43B-48A2-906E-53654E97AB70</p>
@@ -1182,8 +1162,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Give the size of the obtuse angle between the compass directions $NE$ and $S$.
@@ -1272,7 +1250,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>5CC41B8A-B20E-44AF-8B35-6D6ECDFFB8CC</p>
@@ -1296,8 +1274,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 There are $10$ lamp posts in my street. The distance between each lamp post is $30 \ \text{metres}$. What is the distance between the first post and the tenth post? (Ignore the width of the posts)
@@ -1386,7 +1362,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>DE083D93-D880-40AB-BE8F-56D8D7BF34F5</p>
@@ -1410,8 +1386,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the approximate value of $\dfrac {496} {997} \times 14.04 \text{?}$ Give your answer to the nearest whole number.
@@ -1500,7 +1474,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>EE49CFB9-22AC-4685-A557-7FFAC8E7A7AB</p>
@@ -1524,8 +1498,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A bookshelf can hold $18$ books of width $8 \ \text{cm}$. How many books of width
@@ -1615,7 +1587,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>DAD7C30D-A8E6-4DAE-822D-4195913C770F</p>
@@ -1639,8 +1611,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Two-thirds of a fence has been painted. If there are still $15 \ \text{metres}$ left to paint, how long is the fence?
@@ -1729,7 +1699,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>A683A53C-8943-481E-93DB-A48DA5F23C39</p>
@@ -1753,8 +1723,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The perimeter of a rectangle is $28 \ \text{cm}$. If the length of the rectangle is $10 \ \text{cm}$ more than the width, find the width and the length of the rectangle.
@@ -1843,7 +1811,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>3ACBBEF6-56BA-41DA-9984-DAF86FD9383D</p>
@@ -1867,8 +1835,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Are the following statements sensible? Write ‘Yes’ or ‘No’ 
@@ -1907,8 +1873,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1951,7 +1917,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1994,7 +1960,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2037,7 +2003,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2130,7 +2096,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>90F3C89E-02F8-4F7B-9301-C53681935326</p>
@@ -2154,8 +2120,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In Dimple mania, there is a strange currency system, in which 
@@ -2250,7 +2214,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>0FDF4744-F226-4630-AD69-249ADFF79DFB</p>
@@ -2274,8 +2238,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 My sons support Liverpool Football Club. One season they played $38$ games. They lost $2$ of these games and won twice as many as they drew.
@@ -2314,8 +2276,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2358,7 +2320,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2451,7 +2413,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>E2AD019D-BCD2-43E1-87F7-A95CDC8BCFBC</p>
@@ -2475,8 +2437,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 My son is also mad about Formula $1$ Racing. In Formula $1$, a driver
@@ -2522,8 +2482,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2566,7 +2526,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2609,7 +2569,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2652,7 +2612,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2745,7 +2705,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>A397AE5A-E786-470D-9748-2F136755D4F4</p>
@@ -2769,8 +2729,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 ![the-haberdashers-askes-boys-school--11-plus--maths--2007--sample-paper-9/section-1-question-21-00.png](/assets/the-haberdashers-askes-boys-school--11-plus--maths--2007--sample-paper-9/section-1-question-21-00.png "the-haberdashers-askes-boys-school--11-plus--maths--2007--sample-paper-9/section-1-question-21-00.png")
@@ -2809,8 +2767,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2853,7 +2811,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2946,7 +2904,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>4F06BC2E-5747-43DD-84C7-EA3E824D88B3</p>
@@ -2970,8 +2928,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 My watch started going backwards at the same pace as it should have gone forward at $2.20 \ \text{pm}$ yesterday. Later that same day it read $1.25 \ \text{pm}$. What was the actual time?
@@ -3060,7 +3016,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>FFD403DB-9835-4507-9921-B8DF1929B06A</p>
@@ -3084,8 +3040,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $
@@ -3183,7 +3137,7 @@ TODOWORKING
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>8963B13E-9458-4F6E-A59D-4E56F237D2FF</p>
@@ -3207,8 +3161,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Pyramid numbers are formed as follows:
@@ -3255,8 +3207,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3284,8 +3236,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subsubquestion lower-roman'>
-<li>
+<ul class='subsubquestion lower-roman question_type_subsubquestion list_type_lower-roman'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
 <div class='question subsubquestion'>
 
@@ -3328,7 +3280,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
 <div class='question subsubquestion'>
 
@@ -3371,7 +3323,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
 <div class='question subsubquestion'>
 
@@ -3417,7 +3369,7 @@ TODOANSWER
 </ul>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3510,7 +3462,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>20ACB7A0-8AF1-4ADD-90AA-C11FCF591637</p>
@@ -3534,8 +3486,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 **Holiday Insurance Premiums**
@@ -3587,8 +3537,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3628,8 +3578,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subsubquestion lower-roman'>
-<li>
+<ul class='subsubquestion lower-roman question_type_subsubquestion list_type_lower-roman'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
 <div class='question subsubquestion'>
 
@@ -3672,7 +3622,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
 <div class='question subsubquestion'>
 
@@ -3718,7 +3668,7 @@ TODOANSWER
 </ul>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3811,7 +3761,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>E544FDE5-82D6-4ADF-A886-EFB3C8F56AEE</p>
@@ -3835,8 +3785,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 ![the-haberdashers-askes-boys-school--11-plus--maths--2007--sample-paper-9/section-1-question-26-00.png](/assets/the-haberdashers-askes-boys-school--11-plus--maths--2007--sample-paper-9/section-1-question-26-00.png "the-haberdashers-askes-boys-school--11-plus--maths--2007--sample-paper-9/section-1-question-26-00.png")
@@ -3883,8 +3831,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3927,7 +3875,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -4020,7 +3968,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>54B9D873-C77B-4E6C-8A40-752DF1DE0BA6</p>
@@ -4044,8 +3992,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A jogger usually runs for $60 \ \text{minutes}$ once a week for a distance of $5 \ \text{miles}$.
@@ -4114,8 +4060,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -4141,7 +4087,7 @@ TODOWORKING
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -4217,7 +4163,7 @@ TODOWORKING
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>5C955B9E-B356-4FE7-BC4E-A773ED7CF788</p>
@@ -4241,8 +4187,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Here is a quick way of adding numbers:
@@ -4291,8 +4235,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -4335,7 +4279,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -4428,7 +4372,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>11839755-ABF5-495A-9CBA-BB8923A1BD3F</p>
@@ -4452,8 +4396,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In Topology, a point with at least one path leading from it is called a node.
@@ -4496,8 +4438,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -4555,7 +4497,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -4648,7 +4590,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>44B96F85-A42D-457E-866C-DF4A5BC16DE3</p>
@@ -4672,8 +4614,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 This quadrilateral has $2$ diagonals.
@@ -4718,8 +4658,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -4762,7 +4702,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -4805,7 +4745,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 

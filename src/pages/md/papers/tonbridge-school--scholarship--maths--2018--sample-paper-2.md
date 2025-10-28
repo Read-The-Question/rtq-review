@@ -1,7 +1,7 @@
 ---
 slug: "papers/tonbridge-school-scholarship-maths-2018-sample-paper-2"
 title: "Tonbridge School - Scholarship - Maths - 2018 - Sample Paper 2"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "7"
 ---
 <div class='paper'>
@@ -12,8 +12,8 @@ questions_count: "7"
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3E76B098-E1E3-44C7-9465-39667894AFEE</p>
@@ -40,8 +40,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In suitable units, the surface area $S$ of a tyre on a bicycle wheel of radius $R$ is given by the formula $S = 2\,\pi^2\,Rr + 4\pi\,r^2$ where $r$ is the radius of the tyre rim and $\pi$ has its usual meaning.
@@ -105,8 +103,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -167,7 +165,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -234,7 +232,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -305,7 +303,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -423,7 +421,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>21D2A583-FB30-4094-B30F-00057B5E3942</p>
@@ -447,8 +445,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Find all the solutions to the following pairs of simultaneous equations.
@@ -512,8 +508,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -583,7 +579,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -653,7 +649,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -775,7 +771,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>314C9637-90E4-42E0-912B-302FA8051720</p>
@@ -802,8 +798,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The figure below shows a large quarter-circle (quadrant). Inside it is a small circle of radius $5\ \text{cm}$ which touches the edges of the quadrant.
@@ -871,8 +865,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -940,7 +934,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1058,7 +1052,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8FE71FBE-741B-44E7-B00C-6618D7E244F9</p>
@@ -1085,8 +1079,6 @@ tvolume
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 [In this question you will need to use the formulae $S = 4\pi\,r^2$ and $V=\dfrac{4} {3}\pi\,r^3$ for the surface area and volume of a sphere of radius $r$ .]
@@ -1153,8 +1145,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1233,7 +1225,7 @@ Radius of the sphere    $= 3.46 \ \text {cm}$
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1338,7 +1330,7 @@ Radius of the sphere $= 3.1 \ \text {cm}$
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1463,7 +1455,7 @@ Radius of the sphere $= 0.4 \ \text {cm}$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>C3637EB3-06AC-44BA-B12B-9EC4A9565D76</p>
@@ -1487,8 +1479,6 @@ tangle
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
  The diagram below shows parts of two identical $n$ -sided
@@ -1557,8 +1547,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1626,7 +1616,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1694,7 +1684,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1762,7 +1752,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1881,7 +1871,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prrl question'>
 <div class='uuid'>
 <p>8D24EACB-4A89-4F68-9159-DA172CC100C1</p>
@@ -1905,8 +1895,6 @@ tgraph
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A cone has a fixed curved surface area of $90\, \text{cm}^2$. If the radius of the base of the cone is $x\, \text{cm}$, its volume, $y\, \text{cm}^3$ , is given by the formula: $\\ y=\dfrac{1}{3}x\sqrt{(90-\pi\,x^2)(90+\pi\,x^2)}$.
@@ -1945,8 +1933,8 @@ A cone has a fixed curved surface area of $90\, \text{cm}^2$. If the radius of t
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2037,7 +2025,7 @@ Make a table of $y$ values (correct to $2$ decimal places) for $x$ values starti
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2094,7 +2082,7 @@ rtq_abbr_md_add_drawing_ends
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2137,7 +2125,7 @@ $99.54$
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2264,7 +2252,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prpcc question'>
 <div class='uuid'>
 <p>A95D1DEA-B8DB-4B25-A03F-F7D544219B2A</p>
@@ -2291,8 +2279,6 @@ tsequence
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Study the pattern of numbers in the table below carefully. Column $\text{B}$ gives the mean (average) of the numbers listed in Column $\text{A}$.
@@ -2341,8 +2327,8 @@ Study the pattern of numbers in the table below carefully. Column $\text{B}$ giv
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2405,7 +2391,7 @@ Completed table:
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2445,8 +2431,8 @@ For Row $n$ , find formulae in terms of $n$ for:
 </code></pre>
 </div>
 </div>
-<ul class='subsubquestion lower-roman'>
-<li>
+<ul class='subsubquestion lower-roman question_type_subsubquestion list_type_lower-roman'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
 <div class='question subsubquestion'>
 
@@ -2489,7 +2475,7 @@ Number of terms in Column A $= n$
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
 <div class='question subsubquestion'>
 
@@ -2535,7 +2521,7 @@ Entry in Column B $= n ^ 2 + 1$
 </ul>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2600,7 +2586,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 

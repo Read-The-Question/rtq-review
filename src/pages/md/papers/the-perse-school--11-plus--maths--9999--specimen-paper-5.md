@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-5"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 5"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "22"
 ---
 <div class='paper'>
@@ -12,8 +12,8 @@ questions_count: "22"
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>BCC6F2CB-8539-4FD4-9E74-FEBEFF999875</p>
@@ -37,8 +37,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Find $2000 - 12 + 20 - 12$.
@@ -146,7 +144,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>EF90B9B4-8BF8-49FC-86B2-6102DFA704A6</p>
@@ -170,8 +168,6 @@ tfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Calculate $\dfrac {7} {12}$ of $864$.
@@ -280,7 +276,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prpcc question'>
 <div class='uuid'>
 <p>4C9DFFA0-EF4A-49F2-845D-CE957F0F98A5</p>
@@ -307,8 +303,6 @@ tmoney
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The table below lists the charges on a new toll road
@@ -354,8 +348,8 @@ The table below lists the charges on a new toll road
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -410,7 +404,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -515,7 +509,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>B475D829-FDEB-40B6-8FA4-023371521EB4</p>
@@ -539,8 +533,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $t \times 0.805 = 8050$
@@ -649,7 +641,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>D5EA307D-A637-466A-B45F-001616286B7A</p>
@@ -676,8 +668,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Calculate the missing angle in the triangle shown below:
@@ -799,7 +789,7 @@ Missing angle $= 27 \degree$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prpcr question'>
 <div class='uuid'>
 <p>F6128DD4-ECC2-431B-8EF0-CFFB29805A22</p>
@@ -823,8 +813,6 @@ torder
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Frank chooses **two different** numbers from the bubble shown below, and divides one number by the other.
@@ -865,8 +853,8 @@ Frank chooses **two different** numbers from the bubble shown below, and divides
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -929,7 +917,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -992,7 +980,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1132,7 +1120,7 @@ Change to 1.2 - 1
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>E845F272-E34C-499A-801E-077528252F84</p>
@@ -1156,8 +1144,6 @@ tfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Calculate:
@@ -1196,8 +1182,8 @@ Calculate:
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1262,7 +1248,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1375,7 +1361,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>B413F8C6-736A-43A8-89EB-3A28FF88A2B5</p>
@@ -1402,8 +1388,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Frank is making a sequence of numbers. The first number is $1$ and the third is $9$. Frank gets his sequence by multiplying the previous value by the same number each time. Write in the three missing numbers in the sequence shown.
@@ -1576,7 +1560,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>24C887CF-4462-405D-A46E-9A5B7A2C09DE</p>
@@ -1600,8 +1584,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Solve each of the following equations:
@@ -1640,8 +1622,8 @@ Solve each of the following equations:
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1696,7 +1678,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1809,7 +1791,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>798959A4-A1CC-4746-BBFD-BB83D4CA9BC0</p>
@@ -1833,8 +1815,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 On the ski slopes the depth of the snow is $160\,\text{cm}$ and each day $3\,\text{cm}$ melts. After how many days will the depth of snow have fallen to $124\,\text{cm}$.
@@ -1953,7 +1933,7 @@ Number of days $=12$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>C00A5C45-F3E9-42AF-B53A-C9EC84D4BFB3</p>
@@ -1977,8 +1957,6 @@ ttime
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Frank catches the $7{:}52$ train from Cambridge to Northampton and he arrives in Northampton at $9{:}21$. How long was is journey? Give your answer in hours and minutes.
@@ -2077,7 +2055,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7F5F775B-7E11-4998-A118-784117B4C479</p>
@@ -2104,8 +2082,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Here is a rectangular tile.
@@ -2150,8 +2126,8 @@ A pattern is made using $4$ of these tiles.
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2233,7 +2209,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2365,7 +2341,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>0164ED96-C121-4885-A678-58A96865E7B8</p>
@@ -2389,8 +2365,6 @@ tclock
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 %empty%
@@ -2400,8 +2374,8 @@ tclock
 
 
 
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2444,7 +2418,7 @@ $30 \degree$
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2565,7 +2539,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>7DCC3D45-5CB3-4A24-A48F-06B6CED96443</p>
@@ -2589,8 +2563,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the average of $\dfrac {1}{2}$ and $\dfrac {1}{3}$?
@@ -2697,7 +2669,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>CA482938-C102-4F2D-A7B8-FB6B678BE1CE</p>
@@ -2721,8 +2693,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Complete the following table. The first one has been done for you. **(leave all fractions in their lowest form)**
@@ -2843,7 +2813,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>6A0EC9AD-0A91-465C-9D77-92C64E1E72BC</p>
@@ -2867,8 +2837,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Frank does the following calculations. Mark his work by putting a tick of a cross in the boxes, to indicate which Frank has correct and which he has wrong.
@@ -2907,8 +2875,8 @@ Frank does the following calculations. Mark his work by putting a tick of a cros
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2951,7 +2919,7 @@ $22 - 7 \times = 45$        $\boxed {\times}$
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3010,7 +2978,7 @@ $10 \times 2 + 7 \times 7 = 69$         $\boxed {\checkmark}$
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3071,7 +3039,7 @@ $12 + 3 \times 7 - 3 = 30$        $\boxed {\checkmark}$
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3136,7 +3104,7 @@ $30 \div 3 + 2 = 6$        $\boxed {\times}$
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3251,7 +3219,7 @@ $24 \div 4 - 3 \times 2 = 0$        $\boxed {\times}$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>03AD91B5-06E0-4B12-808B-4F0278EC9237</p>
@@ -3275,8 +3243,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Granddad spends one quarter of his weekly pension on a Friday night out, and one third of what remains on a Saturday night. What fraction of his weekend pension is left for him to spend during the rest of the week?
@@ -3419,7 +3385,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>6C0AF124-86C1-40D8-B4A0-77052179CCBB</p>
@@ -3446,8 +3412,6 @@ tstatistics
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The bar chart shows the sales of pizza at a restaurant for the days shown.
@@ -3491,8 +3455,8 @@ Use the information in the bar chart to answer the following questions:
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3545,7 +3509,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3659,7 +3623,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>3275A71A-639B-441D-A05F-DB24503E5553</p>
@@ -3686,8 +3650,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Find the values of $A$, $B$ and $C$ in the following addition sum.
@@ -3840,7 +3802,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>E6B98A2D-3E19-48A9-8530-3FA13BCFF9E3</p>
@@ -3864,8 +3826,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 There are $200$ sheets of paper in a pad. The pad is $1.6\,\text{cm}$ thick. Find the thickness of one sheet.
@@ -3904,8 +3864,8 @@ There are $200$ sheets of paper in a pad. The pad is $1.6\,\text{cm}$ thick. Fin
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3975,7 +3935,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -4097,7 +4057,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>57C9979B-2ACE-4BAF-8E7F-AC51C6373882</p>
@@ -4121,8 +4081,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Exactly one of these statements is correct. Which one?
@@ -4255,7 +4213,7 @@ Correct statement $= \text{D}$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>706748E4-8A3B-422B-A4AB-A60AA490E362</p>
@@ -4279,8 +4237,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 I have $3$ cats - Fred, Gary and Harry. When I weigh Fred and Gary they come to $12\,\text{kg}$ more than Harry. When I weigh Gary and Harry they weigh $8\,\text{kg}$ more than Fred and when I weigh Fred and Harry they weigh $14\,\text{kg}$ more than Gary. What is the combined weight of all three cats?

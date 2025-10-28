@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2020 - Sample Paper 5"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "44"
 ---
 <div class='paper'>
@@ -12,8 +12,8 @@ questions_count: "44"
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>5E27E4C1-9770-4014-B987-7640D59C1349</p>
@@ -37,8 +37,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Rearrange the order of the digits in $2965$ to make the smallest possible number.
@@ -127,7 +125,7 @@ $2569$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>A922E32B-F98B-4BB5-80FE-0CC14DF89EBD</p>
@@ -151,8 +149,6 @@ tgraph
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 ![devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-2-00.png](/assets/devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-2-00.png "devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-2-00.png")
@@ -243,7 +239,7 @@ August
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1</p>
@@ -267,8 +263,6 @@ ttime
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Shanghai in China is $8 \ \text{hours}$ ahead of the time in the UK. If it is $09.00$ in the UK, what time is it in Shanghai?
@@ -367,7 +361,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>58AA53DF-1B31-4A7D-A498-AD5E926C40A6</p>
@@ -391,8 +385,6 @@ tgraph
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 ![devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-4-00.png](/assets/devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-4-00.png "devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-4-00.png")
@@ -483,7 +475,7 @@ E
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>F49FF939-01A4-4C4C-97E5-1AF9C8DD62DC</p>
@@ -507,8 +499,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Split $480$ into $6$ equal parts.
@@ -611,7 +601,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>51895EF4-90DD-4CC5-B028-99ED8D291204</p>
@@ -638,8 +628,6 @@ tnoexplanation
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In the number $236.751$, what does the $7$ stand for?
@@ -728,7 +716,7 @@ $0.7$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prrl question'>
 <div class='uuid'>
 <p>D4559394-AFCF-4BDC-8C79-DDD8C89D76E3</p>
@@ -752,8 +740,6 @@ tfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 ![devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-7-00.png](/assets/devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-7-00.png "devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-7-00.png")
@@ -844,7 +830,7 @@ $\dfrac {4} {6}$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>D4DD20A6-5A96-44D2-BD6F-40B33B94EA63</p>
@@ -868,8 +854,6 @@ tratio
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 One pint is $568\ \text{ml}$. How many ml is half a pint?
@@ -1052,7 +1036,7 @@ Half pint $= 284 \ \text{ml}$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>B5BFCDCA-D197-4C79-8537-F5E6D1C97217</p>
@@ -1079,8 +1063,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 ![devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-9-00.png](/assets/devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-9-00.png "devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-9-00.png")
@@ -1175,7 +1157,7 @@ Sum of the angles $= 360 \degree$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>553D9630-2488-43F6-B40B-249573F31F80</p>
@@ -1205,8 +1187,6 @@ tunitprompt
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How many $15\ \text{cm}$ strips can I cut from a ribbon $1\ \text{m}$ long?
@@ -1320,7 +1300,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>DB2AA3B6-B6BC-4F4B-A873-F581AC27CBD1</p>
@@ -1344,8 +1324,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is $36 \div (9 + 3)?$
@@ -1455,7 +1433,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>BD72F43E-8D06-4C07-B142-E87805AC1946</p>
@@ -1479,8 +1457,6 @@ tsequence
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the next number in this sequence?
@@ -1610,7 +1586,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>5D0574D7-7E64-4EEA-A89A-3D7CBF4AD806</p>
@@ -1634,8 +1610,6 @@ ttemperature
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 It is $15 \degree$ in Plymouth. In Reykjavik, the capital of Iceland, it is $17 \degree$ colder. What is the temperature in Reykjavik?
@@ -1734,7 +1708,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>A9449EF9-3053-4405-96FD-35534110FAFD</p>
@@ -1758,8 +1732,6 @@ tgraph
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 ![devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-14-00.png](/assets/devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-14-00.png "devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-14-00.png")
@@ -1866,7 +1838,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>31A2A40E-5814-48CC-8C71-91011C0B3F1C</p>
@@ -1890,8 +1862,6 @@ ttime
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A coach journey from Plymouth to Exeter leaves at $16.15$ and arrives at $17.36$. How many minutes does the journey take?
@@ -1996,7 +1966,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>4817F67D-F1F2-40D0-8436-A069F847B9C1</p>
@@ -2023,8 +1993,6 @@ tspeed
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The same coach takes $3 \ \text{h}$ to get to Bristol, a journey of $120 \ \text{miles}$. What is its average speed in $\text{miles per hour}$?
@@ -2139,7 +2107,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>47301465-B109-45B3-8338-D619296B1CE8</p>
@@ -2163,8 +2131,6 @@ torder
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Rearrange the following numbers from the smallest to the largest.
@@ -2255,7 +2221,7 @@ $0.067, \quad 0.106, \quad 0.161, \quad 0.601$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>8CB9E9FF-C1CF-493D-808B-3F8353350421</p>
@@ -2282,8 +2248,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What percentage of $\pounds 5$ is $\pounds 1?$
@@ -2390,7 +2354,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>60EB1E1C-83CC-49EC-8A4E-63559B476793</p>
@@ -2414,8 +2378,6 @@ tstatistics
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
  
@@ -2534,7 +2496,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>3CCF8DB4-38EC-47A3-B1E8-BAC6A3745EE8</p>
@@ -2561,8 +2523,6 @@ tmoney
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Gym membership costs $\pounds 16$ a month. How much will it cost for a year?
@@ -2693,7 +2653,7 @@ Cost of $1$ year Gym membership $= \pounds 192$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>76853B80-475C-45FC-8F30-B40957F57E47</p>
@@ -2717,8 +2677,6 @@ tdivision
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $2.3 \div 1000 =$
@@ -2819,7 +2777,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>B0D2C24D-CECA-4883-9C19-47AB0354D274</p>
@@ -2846,8 +2804,6 @@ tratio
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A recipe for $4$ people needs $150 \ \text{g}$ of flour. How much flour would you need to make the same recipe for $6$ people?
@@ -3010,7 +2966,7 @@ Flour needed $= 225 \ \text{g}$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prpcc question'>
 <div class='uuid'>
 <p>41E51ED4-2566-416E-9B1D-DA881001E4E3</p>
@@ -3037,8 +2993,6 @@ tsymmetry
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 ![devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-23-00.png](/assets/devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-23-00.png "devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-23-00.png")
@@ -3160,7 +3114,7 @@ add drawing starts abbreviation and add a diagram to show the reflected image
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>CABD97FF-A137-4136-B3F8-465E5FFFF48B</p>
@@ -3184,8 +3138,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A box contains $48$ pencils.
@@ -3294,7 +3246,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>7CFA18A8-41D9-48D0-8E45-D13601860CE5</p>
@@ -3321,8 +3273,6 @@ tnoexplanation
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $2 \quad 13 \quad 17$
@@ -3419,7 +3369,7 @@ D
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>05D0F503-9182-4564-B5A9-02F07594166E</p>
@@ -3443,8 +3393,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is $11^2?$
@@ -3545,7 +3493,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>6C18DFA0-8423-43ED-9915-3051E3628B08</p>
@@ -3569,8 +3517,6 @@ tvolume
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 ![devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-27-00.png](/assets/devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-27-00.png "devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-27-00.png")
@@ -3676,7 +3622,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE</p>
@@ -3700,8 +3646,6 @@ torder
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Put these fractions in size order, smallest to largest.
@@ -3830,7 +3774,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>8E6C9658-1FC1-4EAF-A90B-4BB9DCF42DB2</p>
@@ -3857,8 +3801,6 @@ tdecimal
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $4.679 + 2.15 = {?}$
@@ -3966,7 +3908,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>7D642E90-EF43-4024-B81A-27437CBC3FFA</p>
@@ -3990,8 +3932,6 @@ tvenn
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 ![devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-30-00.png](/assets/devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-30-00.png "devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-30-00.png")
@@ -4118,7 +4058,7 @@ $12, 48$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_red rag_prns question'>
 <div class='uuid'>
 <p>D03EBFAD-8157-4FB7-85A5-50C4D4410D21</p>
@@ -4145,8 +4085,6 @@ tnoexplanation
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 ![devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-31-00.png](/assets/devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-31-00.png "devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-31-00.png")
@@ -4191,7 +4129,7 @@ $\text {C}$
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>EF5DCF10-9858-4EE4-8CC9-C59139A05556</p>
@@ -4218,8 +4156,6 @@ tnoexplanation
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is $76.5974$ correct to $2$ decimal places?
@@ -4318,7 +4254,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>9463F300-F509-4C89-9D36-52327C3A49BA</p>
@@ -4342,8 +4278,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 If $432.6 \times 7 = 3028.2$
@@ -4450,7 +4384,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prpcr question'>
 <div class='uuid'>
 <p>AE91E319-28CD-4E72-BACB-3D5D6A529FA0</p>
@@ -4474,8 +4408,6 @@ tmoney
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How much change would you get from $\pounds 10$ if you bought $7$ $\text{Chocco}^{\text{TM}}$ bars at $78 \ \text{p}$ each?
@@ -4598,7 +4530,7 @@ received not recieved
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>F481AB65-8DA5-410D-BAC7-FD0E1A610F97</p>
@@ -4622,8 +4554,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Which number should go in the box?
@@ -4736,7 +4666,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5DEE6856-0BE6-44D7-A8F4-E9512AAE70C4</p>
@@ -4763,8 +4693,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 ![devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-36-00.png](/assets/devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-36-00.png "devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-36-00.png")
@@ -4878,7 +4806,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>19C91008-84E1-48B4-A95A-6E08266DDF33</p>
@@ -4902,8 +4830,6 @@ tfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is $1.9$ as a fraction?
@@ -5004,7 +4930,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>78B273A1-70B3-40B5-A9B9-E8FA95A37234</p>
@@ -5031,8 +4957,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 John's garden is a rectangle measuring $8 \ \text{m}$ by $5 \ \text{m}$. He wants to pave the garden using slabs which are $1 \ \text{m}$ by $0.5 \ \text{m}$.
@@ -5157,7 +5081,7 @@ Use expanded abbrev for rectangle.
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>4DB301EE-FBA7-4B16-9555-D99D9D2A51DC</p>
@@ -5181,8 +5105,6 @@ tstatistics
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Peter Pilgrim has scored a goal in each of his last $4$ football games. On average he has taken $23 \ \text{minutes}$ to score.
@@ -5298,7 +5220,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>531E3BC7-C9D8-4A66-AD98-C9130D5EE75C</p>
@@ -5322,8 +5244,6 @@ tmoney
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is $15 \%$ of $\pounds 120?$
@@ -5432,7 +5352,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prrl question'>
 <div class='uuid'>
 <p>47B6EE64-52E6-4D80-A31E-F138941E6897</p>
@@ -5456,8 +5376,6 @@ tsequence
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the $40^\text{th}$ number in the following sequence?
@@ -5594,7 +5512,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>0D4F96D9-0F7A-42E7-A12A-FBC3567568CF</p>
@@ -5618,8 +5536,6 @@ tvolume
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A cube has a volume $12 \ \text{cm}^3$.
@@ -5743,7 +5659,7 @@ New volume $= 96 \ \text {cm} ^ 3$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8F284311-E84B-46BB-9357-8253847A7DBB</p>
@@ -5770,8 +5686,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 ![devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-43-00.png](/assets/devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-43-00.png "devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5/section-1-question-43-00.png")
@@ -5890,7 +5804,7 @@ Write abbr for a polygon
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>46D8EC39-6DB3-4670-BF10-214CD634C665</p>
@@ -5917,8 +5831,6 @@ tunit
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How many seconds in a day?

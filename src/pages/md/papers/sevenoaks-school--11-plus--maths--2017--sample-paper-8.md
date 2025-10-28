@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2017-sample-paper-8"
 title: "Sevenoaks School - 11 Plus - Maths - 2017 - Sample Paper 8"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "19"
 ---
 <div class='paper'>
@@ -12,8 +12,8 @@ questions_count: "19"
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>78014A49-10F8-489D-B6FC-B8F15474740B</p>
@@ -37,8 +37,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In one week, the hens on the Billings family farm lay $389$ eggs. The eggs are packaged in boxes of twelve.
@@ -77,8 +75,8 @@ In one week, the hens on the Billings family farm lay $389$ eggs. The eggs are p
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -133,7 +131,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -190,7 +188,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -305,7 +303,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>AED1CAB4-1114-4003-8768-AEE3317FB324</p>
@@ -332,8 +330,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The cost of one original glazed doughnut is $\pounds 1.45$.
@@ -372,8 +368,8 @@ The cost of one original glazed doughnut is $\pounds 1.45$.
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -460,7 +456,7 @@ Cost $= \pounds 17.40$
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -565,7 +561,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>D33DC09F-B58A-476F-A745-66D21A031401</p>
@@ -589,8 +585,6 @@ tsequence
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Write down the next two numbers in each of the following sequences.
@@ -629,8 +623,8 @@ Write down the next two numbers in each of the following sequences.
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -734,7 +728,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -837,7 +831,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -956,7 +950,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1105,7 +1099,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>9059ED0D-559C-4990-8449-866D2BE0C151</p>
@@ -1129,8 +1123,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 %empty%
@@ -1169,8 +1161,8 @@ tnumber
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1232,7 +1224,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1344,7 +1336,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>99F02CA6-5ABE-4985-B7A8-1EAD2F4E752F</p>
@@ -1368,8 +1360,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 To make eight $200 \ \text{ml}$ glasses of squash, Yasmin needs $320 \ \text{ml}$ of cordial; the rest is water.
@@ -1408,8 +1398,8 @@ To make eight $200 \ \text{ml}$ glasses of squash, Yasmin needs $320 \ \text{ml}
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1498,7 +1488,7 @@ Yasmin need $120 \ \text {ml}$ of cordial to make three glasses of squash.
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1611,7 +1601,7 @@ Yasmin need $1600 \ \text {ml}$ of water to make ten glasses of squash.
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>0D7A1FCF-C0C2-461E-8BB0-A1568D3D420B</p>
@@ -1635,8 +1625,6 @@ torder
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 %empty%
@@ -1675,8 +1663,8 @@ torder
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1761,7 +1749,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1830,8 +1818,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subsubquestion lower-roman'>
-<li>
+<ul class='subsubquestion lower-roman question_type_subsubquestion list_type_lower-roman'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
 <div class='question subsubquestion'>
 
@@ -1899,7 +1887,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
 <div class='question subsubquestion'>
 
@@ -1967,7 +1955,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
 <div class='question subsubquestion'>
 
@@ -2035,7 +2023,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
 <div class='question subsubquestion'>
 
@@ -2169,7 +2157,7 @@ Just write answers instead of trying to explain, its based on trial and error
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prpcc question'>
 <div class='uuid'>
 <p>E3A71500-A129-43F9-A384-7EBFC4A98DA7</p>
@@ -2193,8 +2181,6 @@ ttable
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Complete the table below by placing ticks in all the correct boxes.
@@ -2306,7 +2292,7 @@ Let's complete the table.
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>FCFEBCEB-D29D-4BCB-BA8F-8E658B694739</p>
@@ -2330,8 +2316,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 %empty%
@@ -2370,8 +2354,8 @@ tnumber
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2414,7 +2398,7 @@ $2 \times 2 \times 3 \times 3$
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2515,7 +2499,7 @@ The largest common factors of $24$ and $36 = 12$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>0BAFBFBE-6008-4AB7-9DEE-8458A5AD3F8C</p>
@@ -2542,8 +2526,6 @@ tpercentage
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A shop has an end-of-season sale. Everything is reduced by $15\%$. A dress is originally priced at $\pounds 48$ (full price). What is the sale price of the dress?
@@ -2654,7 +2636,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>42954A1C-6B9E-44EB-8DE6-AF6D5A8B69A3</p>
@@ -2681,8 +2663,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Mr Howden is landscaping his garden, the shape of which is illustrated below.
@@ -2723,8 +2703,8 @@ Mr Howden is landscaping his garden, the shape of which is illustrated below.
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2788,7 +2768,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2973,7 +2953,7 @@ Change blue answer accordingly.
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>1A1812C5-1C82-4D03-9C73-E24D2D47600B</p>
@@ -2997,8 +2977,6 @@ tvolume
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 This cube and cuboid have the same volume.
@@ -3039,8 +3017,8 @@ This cube and cuboid have the same volume.
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3098,7 +3076,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3222,7 +3200,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>05657E57-5AAE-47F6-9CCF-40E96CD77C36</p>
@@ -3249,8 +3227,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Calculate the value of $x$ in each of the diagrams below.
@@ -3289,8 +3265,8 @@ Calculate the value of $x$ in each of the diagrams below.
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3360,7 +3336,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3486,7 +3462,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>70421F57-A79B-4407-8C7A-1C2B384993B5</p>
@@ -3510,8 +3486,6 @@ tstatistics
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Eight apples are placed in a bag. The mean weight of the eight apples is $50 \ \text{g}$.  When an extra apple is added the mean weight increases to $52 \ \text{g}$. 
@@ -3635,7 +3609,7 @@ Weight of extra apple $= 68 \ \text{g}$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>6905E2DB-5FDA-4DBB-8B72-B34FBE60FDBB</p>
@@ -3659,8 +3633,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Rex has $80$ books altogether. They are arranged on three shelves. If Rex moved seven books from the top shelf to the middle shelf and took eight books away from the bottom shelf, there would be an equal number of books on each shelf. 
@@ -3783,7 +3755,7 @@ There are originally 17 books in the middle shelf.
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>B436492B-ADE1-4E62-B5CC-10E5C7D215FC</p>
@@ -3807,8 +3779,6 @@ ttime
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How many seconds are there in $\dfrac {1} {4}$ of $\dfrac {1} {6}$ of $\dfrac {1} {8}$ of a day?
@@ -3925,7 +3895,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>1E81D061-F222-4E30-8BCC-6C114DE19F77</p>
@@ -3949,8 +3919,6 @@ tnet
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A square piece of paper is folded exactly in half and then in half again. 
@@ -4017,7 +3985,7 @@ Which of the following could not be the resulting shape?
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>BEC84F8E-1935-4C8E-8578-40F09BFAA5B1</p>
@@ -4041,8 +4009,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Matteo colours the maps below using the smallest number of colours possible. Adjacent countries must not have the same colour but countries with the same colour can meet at a point.
@@ -4109,7 +4075,7 @@ For which map will Matteo require the most colours?
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>ED9631E4-D555-477C-8676-BE0BB358CCA1</p>
@@ -4136,8 +4102,6 @@ ttrialerror
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A book costs $\pounds 3.40$ and a magazine costs $\pounds 1.60$. Clara spends exactly $\pounds 23$ on books and magazines. 
@@ -4280,7 +4244,7 @@ Number of magzines Clara buys $= 8$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>7BD08247-3200-4DE6-A32B-88ADF41548BB</p>
@@ -4304,8 +4268,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In the sum shown, different shapes represent different digits.

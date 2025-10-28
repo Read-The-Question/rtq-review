@@ -1,7 +1,7 @@
 ---
 slug: "papers/eltham-college-11-plus-maths-2020-sample-paper-5"
 title: "Eltham College - 11 Plus - Maths - 2020 - Sample Paper 5"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "23"
 ---
 <div class='paper'>
@@ -12,8 +12,8 @@ questions_count: "23"
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>92D09C9F-63B4-48F6-A6E6-A20AB6E51A93</p>
@@ -37,8 +37,6 @@ xnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is half of $1.01?$
@@ -151,7 +149,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>63A8ACD6-ABD3-4B2E-8CEF-D174CD1305F5</p>
@@ -175,8 +173,6 @@ xnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is $2002 \times 5?$
@@ -287,7 +283,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>5962076E-90E0-4E4C-B53E-838145B01D11</p>
@@ -311,8 +307,6 @@ xnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the remainder when $7 000 010$ divided by $7?$
@@ -419,7 +413,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>3CF91EB9-39C8-4870-A08E-5F97F9F00BFA</p>
@@ -443,8 +437,6 @@ xtime
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Today, the sun rose at Greenwich at $6{:}45 \ \text{pm}$  and will set $12 \ \text{hours}$  and $44\ \text{minutes}$ later.
@@ -539,7 +531,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>51D21B18-0BF3-4C88-A34C-E19619EA13C2</p>
@@ -563,8 +555,6 @@ xdetailedsubtraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the value of $6002 - 2006?$
@@ -675,7 +665,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>08A81505-45E6-41BC-B80F-9FA41789DE54</p>
@@ -699,8 +689,6 @@ xnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What number is twenty-one less than sixty thousand?
@@ -811,7 +799,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>705EB521-A695-4F0A-BD80-4532756A1865</p>
@@ -835,8 +823,6 @@ xnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is $2010 + (+2010) + (-2010) - (+ 2010) - (-2010)?$
@@ -949,7 +935,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>9AD6963D-799F-4835-A043-1321C7DECF5C</p>
@@ -973,8 +959,6 @@ xangle
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the value of $x?$
@@ -1070,7 +1054,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>963790A3-CD98-4D9F-9B87-59EEEED59221</p>
@@ -1094,8 +1078,6 @@ xnet
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 If the net shown is folded to make a cube, which letter is opposite $X$? Each option relates to the side labelled with the same letter.
@@ -1191,7 +1173,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>B39CD631-936C-45CA-8E83-285699930F64</p>
@@ -1215,8 +1197,6 @@ xsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A transport company’s vans each carry a maximum load of $12 \ \text {tonnes}$ . A firm needs to deliver $24$ crates each weighing $5  \ \text {tonnes}$. How many van loads will be needed to do this?
@@ -1329,7 +1309,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>BB57069B-CC88-4305-B4DC-72BBB947FCB4</p>
@@ -1353,8 +1333,6 @@ xsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Tommy Thomas’s tankard holds $480 \ \text{ml}$ when it is one quarter empty. How much does it hold when it is one quarter full?
@@ -1448,7 +1426,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>A64C34CE-C447-4350-BFAA-C85E9E15C224</p>
@@ -1472,8 +1450,6 @@ xratio
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In a group of $48$ children, the ratio of boys to girls is $3:5.$ How many boys must join the group to make the ratio of boys to girls $5:3?$
@@ -1567,7 +1543,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>097C01C1-39F0-4366-8CC9-F2EDF2BEB176</p>
@@ -1591,8 +1567,6 @@ xnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Which of the following statements is false?
@@ -1687,7 +1661,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>312D904E-6B89-4287-84BA-690D9DC09AFD</p>
@@ -1711,8 +1685,6 @@ xorder
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 If the following fractions are ordered in increasing order of size, which one would be second?
@@ -1810,7 +1782,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>4AC19C79-9CDE-45F6-8BAF-118D729CBC4C</p>
@@ -1834,8 +1806,6 @@ xsequence
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In a sequence of numbers, each term after the first three terms is the sum of the previous three terms. The first three terms are $-3, 0, 2.$ Which is the first term to exceed $100?$
@@ -1930,7 +1900,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>BB9E0F42-65C3-43DD-B393-B983E02645D5</p>
@@ -1954,8 +1924,6 @@ xgeometry
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In the figure shown, each line joining two numbers is to be labelled with the sum of the two numbers that are at its end points.
@@ -2052,7 +2020,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>D5129001-3061-478E-BF07-5B8704ED5AED</p>
@@ -2076,8 +2044,6 @@ xareaperimeter
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The shape to the right is made up of three rectangles, each measuring $3 \ \text{cm}$ by $1  \ \text{cm}$.
@@ -2175,7 +2141,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>172F6468-1ED4-4E19-9B65-09EF04CED907</p>
@@ -2199,8 +2165,6 @@ xalgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Kiran writes down six different prime numbers $ p, q, r, s, t, u$ all less than $20$, such that:
@@ -2299,7 +2263,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>85BEDE5F-43DD-495C-BD73-97CDD935358C</p>
@@ -2323,8 +2287,6 @@ xsymmetry
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Each of the nine small squares in this grid can be coloured completely black or completely white. 
@@ -2423,7 +2385,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>2CFBE87D-AA61-47CC-8300-4408B53687FA</p>
@@ -2447,8 +2409,6 @@ xpermutation
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A lady bird has landed at point P on Sam’s bow-tie. If it travels only along the edges of the bow-tie, but cannot travel along one edge more than once, how many different ways are there for it to get from $P$ to $Q?$
@@ -2545,8 +2505,8 @@ TODOANSWER
 </div>
 </li>
 </ul>
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>CD25CBEA-D4C3-40CF-A2BF-8C6CDDB8263F</p>
@@ -2570,8 +2530,6 @@ xinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The two-digit by two-digit multiplication below has lots of gaps, but most of them can be filled in by logic (not by guesswork).
@@ -2673,7 +2631,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>56B02AE7-D95E-4BBB-AE8A-80F752CE1BE1</p>
@@ -2697,8 +2655,6 @@ xareaperimeter
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A square is divided into three identical rectangles. 
@@ -2796,7 +2752,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>5BBEED4F-D95A-40FE-82BD-63B0952FE13F</p>
@@ -2820,8 +2776,6 @@ xareaperimeter
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Five identical rectangles fit together as shown. What, in $\text{cm}^2$, is the total area which they cover?

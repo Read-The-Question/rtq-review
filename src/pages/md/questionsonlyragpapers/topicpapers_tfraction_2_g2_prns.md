@@ -1,0 +1,2752 @@
+---
+slug: "questionsonlyragpapers/topicpapers-tfraction-2-g2-prns"
+title: "TopicPaper - Fraction - 2 - G2 - PRNS"
+date: 2025-10-28 15:23:52
+questions_count: "28"
+---
+<ul class='question default-decimal question_type_question list_type_default-decimal'>
+<li class='questionContainer'>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>0287200B-A30D-4F47-9CA8-52ED14101AEE</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-a:1:7</p>
+</div>
+<div class='rag'>
+<p>Promit Revar</p>
+</div>
+<div class='rag'>
+<p>rag_pr_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Work out $\dfrac{1}{4}$ of $48$.
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Work out $\dfrac{1}{4}$ of $48$.
+</code></pre>
+</div>
+
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Work out $\dfrac{1}{2}$ of $\dfrac{1}{3}$ of $\dfrac{1}{4}$ of $48$.
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Work out $\dfrac{1}{2}$ of $\dfrac{1}{3}$ of $\dfrac{1}{4}$ of $48$.
+</code></pre>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0287200B-A30D-4F47-9CA8-52ED14101AEE' id='FORM-0287200B-A30D-4F47-9CA8-52ED14101AEE' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-0287200B-A30D-4F47-9CA8-52ED14101AEE'>Initial</p>
+</div>
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>54F14BD1-9891-460E-AADD-7CA13489DC77</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-a:1:23</p>
+</div>
+<div class='rag'>
+<p>Promit Revar</p>
+</div>
+<div class='rag'>
+<p>rag_pr_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram below is made from three squares.
+
+![dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-23-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-23-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-a/section-1-question-23-00.png")
+
+Calculate the fraction of the larger square that is shaded, giving your answer in its lowest form.
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>The diagram below is made from three squares.
+<emptyline>
+%image%
+<emptyline>
+Calculate the fraction of the larger square that is shaded, giving your answer in its lowest form.
+</code></pre>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='54F14BD1-9891-460E-AADD-7CA13489DC77' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='54F14BD1-9891-460E-AADD-7CA13489DC77' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='54F14BD1-9891-460E-AADD-7CA13489DC77' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='54F14BD1-9891-460E-AADD-7CA13489DC77' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='54F14BD1-9891-460E-AADD-7CA13489DC77' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='54F14BD1-9891-460E-AADD-7CA13489DC77' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='54F14BD1-9891-460E-AADD-7CA13489DC77' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='54F14BD1-9891-460E-AADD-7CA13489DC77' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='54F14BD1-9891-460E-AADD-7CA13489DC77' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='54F14BD1-9891-460E-AADD-7CA13489DC77' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='54F14BD1-9891-460E-AADD-7CA13489DC77' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='54F14BD1-9891-460E-AADD-7CA13489DC77' id='FORM-54F14BD1-9891-460E-AADD-7CA13489DC77' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-54F14BD1-9891-460E-AADD-7CA13489DC77'>Initial</p>
+</div>
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>6A0B028F-8983-4046-BA81-D33149CB1A3B</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-c:1:7</p>
+</div>
+<div class='rag'>
+<p>Promit Revar</p>
+</div>
+<div class='rag'>
+<p>rag_pr_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+By how much is four and a half greater than three and seven eights? Write your answer as a fraction. 
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>By how much is four and a half greater than three and seven eights? Write your answer as a fraction. 
+</code></pre>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6A0B028F-8983-4046-BA81-D33149CB1A3B' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6A0B028F-8983-4046-BA81-D33149CB1A3B' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6A0B028F-8983-4046-BA81-D33149CB1A3B' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6A0B028F-8983-4046-BA81-D33149CB1A3B' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6A0B028F-8983-4046-BA81-D33149CB1A3B' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6A0B028F-8983-4046-BA81-D33149CB1A3B' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6A0B028F-8983-4046-BA81-D33149CB1A3B' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6A0B028F-8983-4046-BA81-D33149CB1A3B' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6A0B028F-8983-4046-BA81-D33149CB1A3B' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6A0B028F-8983-4046-BA81-D33149CB1A3B' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='6A0B028F-8983-4046-BA81-D33149CB1A3B' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6A0B028F-8983-4046-BA81-D33149CB1A3B' id='FORM-6A0B028F-8983-4046-BA81-D33149CB1A3B' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-6A0B028F-8983-4046-BA81-D33149CB1A3B'>Initial</p>
+</div>
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>54CAAF21-5640-4453-94EA-660CB9EDE5B7</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g:1:18</p>
+</div>
+<div class='rag'>
+<p>Promit Revar</p>
+</div>
+<div class='rag'>
+<p>rag_pr_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram shows a design formed by drawing six lines in a regular hexagon. The lines divide each edge of the hexagon into three equal parts. What fraction of the hexagon is shaded?
+
+![dulwich-college--11-plus--maths--9999--specimen-paper-g/section-1-question-18-00.png](/assets/dulwich-college--11-plus--maths--9999--specimen-paper-g/section-1-question-18-00.png "dulwich-college--11-plus--maths--9999--specimen-paper-g/section-1-question-18-00.png")
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>The diagram shows a design formed by drawing six lines in a regular hexagon. The lines divide each edge of the hexagon into three equal parts. What fraction of the hexagon is shaded?
+<emptyline>
+%image%
+</code></pre>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='54CAAF21-5640-4453-94EA-660CB9EDE5B7' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='54CAAF21-5640-4453-94EA-660CB9EDE5B7' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='54CAAF21-5640-4453-94EA-660CB9EDE5B7' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='54CAAF21-5640-4453-94EA-660CB9EDE5B7' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='54CAAF21-5640-4453-94EA-660CB9EDE5B7' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='54CAAF21-5640-4453-94EA-660CB9EDE5B7' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='54CAAF21-5640-4453-94EA-660CB9EDE5B7' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='54CAAF21-5640-4453-94EA-660CB9EDE5B7' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='54CAAF21-5640-4453-94EA-660CB9EDE5B7' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='54CAAF21-5640-4453-94EA-660CB9EDE5B7' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='54CAAF21-5640-4453-94EA-660CB9EDE5B7' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='54CAAF21-5640-4453-94EA-660CB9EDE5B7' id='FORM-54CAAF21-5640-4453-94EA-660CB9EDE5B7' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-54CAAF21-5640-4453-94EA-660CB9EDE5B7'>Initial</p>
+</div>
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>91007B07-FD0E-4150-A5EA-C49F1D222022</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-h:1:5</p>
+</div>
+<div class='rag'>
+<p>Promit Revar</p>
+</div>
+<div class='rag'>
+<p>rag_pr_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$\dfrac{3}{4}$ of $840$. 
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac{3}{4}$ of $840$. 
+</code></pre>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='91007B07-FD0E-4150-A5EA-C49F1D222022' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='91007B07-FD0E-4150-A5EA-C49F1D222022' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='91007B07-FD0E-4150-A5EA-C49F1D222022' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='91007B07-FD0E-4150-A5EA-C49F1D222022' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='91007B07-FD0E-4150-A5EA-C49F1D222022' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='91007B07-FD0E-4150-A5EA-C49F1D222022' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='91007B07-FD0E-4150-A5EA-C49F1D222022' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='91007B07-FD0E-4150-A5EA-C49F1D222022' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='91007B07-FD0E-4150-A5EA-C49F1D222022' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='91007B07-FD0E-4150-A5EA-C49F1D222022' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='91007B07-FD0E-4150-A5EA-C49F1D222022' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='91007B07-FD0E-4150-A5EA-C49F1D222022' id='FORM-91007B07-FD0E-4150-A5EA-C49F1D222022' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-91007B07-FD0E-4150-A5EA-C49F1D222022'>Initial</p>
+</div>
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>5BF4BD68-6AE5-4ABE-99FF-3DC34888D76E</p>
+</div>
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2019--sample-paper-1:1:12</p>
+</div>
+<div class='rag'>
+<p></p>
+</div>
+<div class='rag'>
+<p>rag_g2_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What fraction is half-way between $2$ and $2.5?$
+
+-  $\dfrac{7}{2}$
+
+-  $\dfrac{7}{4}$
+
+-  $\dfrac{9}{4}$
+
+-  $\dfrac{11}{4}$ 
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>What fraction is half-way between $2$ and $2.5?$
+<emptyline>
+-  $\dfrac{7}{2}$
+<emptyline>
+-  $\dfrac{7}{4}$
+<emptyline>
+-  $\dfrac{9}{4}$
+<emptyline>
+-  $\dfrac{11}{4}$ 
+</code></pre>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5BF4BD68-6AE5-4ABE-99FF-3DC34888D76E' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5BF4BD68-6AE5-4ABE-99FF-3DC34888D76E' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5BF4BD68-6AE5-4ABE-99FF-3DC34888D76E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5BF4BD68-6AE5-4ABE-99FF-3DC34888D76E' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5BF4BD68-6AE5-4ABE-99FF-3DC34888D76E' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5BF4BD68-6AE5-4ABE-99FF-3DC34888D76E' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5BF4BD68-6AE5-4ABE-99FF-3DC34888D76E' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5BF4BD68-6AE5-4ABE-99FF-3DC34888D76E' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5BF4BD68-6AE5-4ABE-99FF-3DC34888D76E' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5BF4BD68-6AE5-4ABE-99FF-3DC34888D76E' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='5BF4BD68-6AE5-4ABE-99FF-3DC34888D76E' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5BF4BD68-6AE5-4ABE-99FF-3DC34888D76E' id='FORM-5BF4BD68-6AE5-4ABE-99FF-3DC34888D76E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-5BF4BD68-6AE5-4ABE-99FF-3DC34888D76E'>Initial</p>
+</div>
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>1579E464-408A-4F61-9DE4-DC7AD956C10A</p>
+</div>
+<div class='papername'>
+<p>emanuel-school--11-plus--maths--9999--sample-paper-1:1:16</p>
+</div>
+<div class='rag'>
+<p>Promit Revar</p>
+</div>
+<div class='rag'>
+<p>rag_pr_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![emanuel-school--11-plus--maths--9999--sample-paper-1/section-1-question-16-00.png](/assets/emanuel-school--11-plus--maths--9999--sample-paper-1/section-1-question-16-00.png "emanuel-school--11-plus--maths--9999--sample-paper-1/section-1-question-16-00.png") 
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>%image% 
+</code></pre>
+</div>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What fraction of the large rectangle is shaded?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>What fraction of the large rectangle is shaded?
+</code></pre>
+</div>
+
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How many more squares need to be shaded so that three quarters of the large rectangle is shaded?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>How many more squares need to be shaded so that three quarters of the large rectangle is shaded?
+</code></pre>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1579E464-408A-4F61-9DE4-DC7AD956C10A' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1579E464-408A-4F61-9DE4-DC7AD956C10A' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1579E464-408A-4F61-9DE4-DC7AD956C10A' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1579E464-408A-4F61-9DE4-DC7AD956C10A' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1579E464-408A-4F61-9DE4-DC7AD956C10A' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1579E464-408A-4F61-9DE4-DC7AD956C10A' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1579E464-408A-4F61-9DE4-DC7AD956C10A' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1579E464-408A-4F61-9DE4-DC7AD956C10A' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1579E464-408A-4F61-9DE4-DC7AD956C10A' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1579E464-408A-4F61-9DE4-DC7AD956C10A' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='1579E464-408A-4F61-9DE4-DC7AD956C10A' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1579E464-408A-4F61-9DE4-DC7AD956C10A' id='FORM-1579E464-408A-4F61-9DE4-DC7AD956C10A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-1579E464-408A-4F61-9DE4-DC7AD956C10A'>Initial</p>
+</div>
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>6C312D6E-654D-4791-935E-BC0C5352D615</p>
+</div>
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-1:1:12</p>
+</div>
+<div class='rag'>
+<p></p>
+</div>
+<div class='rag'>
+<p>rag_g2_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is $3 \dfrac{1}{2} \div \dfrac{1}{4}?$
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>What is $3 \dfrac{1}{2} \div \dfrac{1}{4}?$
+</code></pre>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6C312D6E-654D-4791-935E-BC0C5352D615' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6C312D6E-654D-4791-935E-BC0C5352D615' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6C312D6E-654D-4791-935E-BC0C5352D615' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6C312D6E-654D-4791-935E-BC0C5352D615' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6C312D6E-654D-4791-935E-BC0C5352D615' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6C312D6E-654D-4791-935E-BC0C5352D615' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6C312D6E-654D-4791-935E-BC0C5352D615' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6C312D6E-654D-4791-935E-BC0C5352D615' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6C312D6E-654D-4791-935E-BC0C5352D615' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6C312D6E-654D-4791-935E-BC0C5352D615' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='6C312D6E-654D-4791-935E-BC0C5352D615' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='6C312D6E-654D-4791-935E-BC0C5352D615' id='FORM-6C312D6E-654D-4791-935E-BC0C5352D615' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-6C312D6E-654D-4791-935E-BC0C5352D615'>Initial</p>
+</div>
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>0938745E-D2D2-4329-BECD-D1192F79FC97</p>
+</div>
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-1:1:33</p>
+</div>
+<div class='rag'>
+<p>Promit Revar</p>
+</div>
+<div class='rag'>
+<p>rag_pr_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Emma has a rectangular  card $6 \ \text{cm}$ by $9 \ \text{cm}$. She colours in a border of $1 \ \text{cm}$ around  the edge. The border is $1 \ \text{cm}$ thick throughout. What fraction of the area of the rectangle is coloured in?
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Emma has a rectangular  card $6 \ \text{cm}$ by $9 \ \text{cm}$. She colours in a border of $1 \ \text{cm}$ around  the edge. The border is $1 \ \text{cm}$ thick throughout. What fraction of the area of the rectangle is coloured in?
+</code></pre>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0938745E-D2D2-4329-BECD-D1192F79FC97' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0938745E-D2D2-4329-BECD-D1192F79FC97' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0938745E-D2D2-4329-BECD-D1192F79FC97' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0938745E-D2D2-4329-BECD-D1192F79FC97' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0938745E-D2D2-4329-BECD-D1192F79FC97' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0938745E-D2D2-4329-BECD-D1192F79FC97' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0938745E-D2D2-4329-BECD-D1192F79FC97' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0938745E-D2D2-4329-BECD-D1192F79FC97' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0938745E-D2D2-4329-BECD-D1192F79FC97' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0938745E-D2D2-4329-BECD-D1192F79FC97' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='0938745E-D2D2-4329-BECD-D1192F79FC97' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0938745E-D2D2-4329-BECD-D1192F79FC97' id='FORM-0938745E-D2D2-4329-BECD-D1192F79FC97' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-0938745E-D2D2-4329-BECD-D1192F79FC97'>Initial</p>
+</div>
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>D91E7853-54E2-4996-A0E0-63852AA3A9B8</p>
+</div>
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-2:1:7</p>
+</div>
+<div class='rag'>
+<p></p>
+</div>
+<div class='rag'>
+<p>rag_g2_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What fraction is bigger: 
+
+two thirds or three quarters?
+You must justify your answer clearly. 
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>What fraction is bigger: 
+<emptyline>
+two thirds or three quarters?
+You must justify your answer clearly. 
+</code></pre>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D91E7853-54E2-4996-A0E0-63852AA3A9B8' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D91E7853-54E2-4996-A0E0-63852AA3A9B8' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D91E7853-54E2-4996-A0E0-63852AA3A9B8' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D91E7853-54E2-4996-A0E0-63852AA3A9B8' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D91E7853-54E2-4996-A0E0-63852AA3A9B8' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D91E7853-54E2-4996-A0E0-63852AA3A9B8' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D91E7853-54E2-4996-A0E0-63852AA3A9B8' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D91E7853-54E2-4996-A0E0-63852AA3A9B8' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D91E7853-54E2-4996-A0E0-63852AA3A9B8' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D91E7853-54E2-4996-A0E0-63852AA3A9B8' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='D91E7853-54E2-4996-A0E0-63852AA3A9B8' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D91E7853-54E2-4996-A0E0-63852AA3A9B8' id='FORM-D91E7853-54E2-4996-A0E0-63852AA3A9B8' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D91E7853-54E2-4996-A0E0-63852AA3A9B8'>Initial</p>
+</div>
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>3C35E025-3712-4F87-95B5-ACF37CED321C</p>
+</div>
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-2:1:12</p>
+</div>
+<div class='rag'>
+<p>Promit Revar</p>
+</div>
+<div class='rag'>
+<p>rag_pr_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate $4 \dfrac{1}{2} - 1 \dfrac{3}{4}$
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Calculate $4 \dfrac{1}{2} - 1 \dfrac{3}{4}$
+</code></pre>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3C35E025-3712-4F87-95B5-ACF37CED321C' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3C35E025-3712-4F87-95B5-ACF37CED321C' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3C35E025-3712-4F87-95B5-ACF37CED321C' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3C35E025-3712-4F87-95B5-ACF37CED321C' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3C35E025-3712-4F87-95B5-ACF37CED321C' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3C35E025-3712-4F87-95B5-ACF37CED321C' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3C35E025-3712-4F87-95B5-ACF37CED321C' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3C35E025-3712-4F87-95B5-ACF37CED321C' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3C35E025-3712-4F87-95B5-ACF37CED321C' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3C35E025-3712-4F87-95B5-ACF37CED321C' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='3C35E025-3712-4F87-95B5-ACF37CED321C' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3C35E025-3712-4F87-95B5-ACF37CED321C' id='FORM-3C35E025-3712-4F87-95B5-ACF37CED321C' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-3C35E025-3712-4F87-95B5-ACF37CED321C'>Initial</p>
+</div>
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>5896E979-A790-40F7-8C6B-AF0496E63289</p>
+</div>
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-2:1:16</p>
+</div>
+<div class='rag'>
+<p>Promit Revar</p>
+</div>
+<div class='rag'>
+<p>rag_pr_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What fraction of this square is shaded in?
+
+![forest-school--11-plus--maths--9999--sample-paper-2/section-1-question-16-00.png](/assets/forest-school--11-plus--maths--9999--sample-paper-2/section-1-question-16-00.png "forest-school--11-plus--maths--9999--sample-paper-2/section-1-question-16-00.png") 
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>What fraction of this square is shaded in?
+<emptyline>
+%image% 
+</code></pre>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5896E979-A790-40F7-8C6B-AF0496E63289' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5896E979-A790-40F7-8C6B-AF0496E63289' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5896E979-A790-40F7-8C6B-AF0496E63289' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5896E979-A790-40F7-8C6B-AF0496E63289' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5896E979-A790-40F7-8C6B-AF0496E63289' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5896E979-A790-40F7-8C6B-AF0496E63289' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5896E979-A790-40F7-8C6B-AF0496E63289' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5896E979-A790-40F7-8C6B-AF0496E63289' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5896E979-A790-40F7-8C6B-AF0496E63289' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5896E979-A790-40F7-8C6B-AF0496E63289' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='5896E979-A790-40F7-8C6B-AF0496E63289' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='5896E979-A790-40F7-8C6B-AF0496E63289' id='FORM-5896E979-A790-40F7-8C6B-AF0496E63289' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-5896E979-A790-40F7-8C6B-AF0496E63289'>Initial</p>
+</div>
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>73DB7EA7-A552-463A-A18C-5677985F3293</p>
+</div>
+<div class='papername'>
+<p>hampton-court-house--11-plus--maths--9999--sample-paper-1:1:6</p>
+</div>
+<div class='rag'>
+<p></p>
+</div>
+<div class='rag'>
+<p>rag_g2_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate 
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Calculate 
+</code></pre>
+</div>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$\dfrac{3}{4} - \dfrac{2}{5}$
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac{3}{4} - \dfrac{2}{5}$
+</code></pre>
+</div>
+
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$\dfrac{5}{12} \times \dfrac{1}{4}$
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac{5}{12} \times \dfrac{1}{4}$
+</code></pre>
+</div>
+
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$\dfrac{2}{5} \div \dfrac{4}{10}$
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac{2}{5} \div \dfrac{4}{10}$
+</code></pre>
+</div>
+
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$1 \dfrac{1}{8} + \dfrac{1}{6}$
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>$1 \dfrac{1}{8} + \dfrac{1}{6}$
+</code></pre>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='73DB7EA7-A552-463A-A18C-5677985F3293' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='73DB7EA7-A552-463A-A18C-5677985F3293' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='73DB7EA7-A552-463A-A18C-5677985F3293' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='73DB7EA7-A552-463A-A18C-5677985F3293' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='73DB7EA7-A552-463A-A18C-5677985F3293' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='73DB7EA7-A552-463A-A18C-5677985F3293' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='73DB7EA7-A552-463A-A18C-5677985F3293' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='73DB7EA7-A552-463A-A18C-5677985F3293' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='73DB7EA7-A552-463A-A18C-5677985F3293' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='73DB7EA7-A552-463A-A18C-5677985F3293' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='73DB7EA7-A552-463A-A18C-5677985F3293' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='73DB7EA7-A552-463A-A18C-5677985F3293' id='FORM-73DB7EA7-A552-463A-A18C-5677985F3293' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-73DB7EA7-A552-463A-A18C-5677985F3293'>Initial</p>
+</div>
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>16C2DCFA-5867-4439-AAD8-0886FF1DB404</p>
+</div>
+<div class='papername'>
+<p>hampton-court-house--11-plus--maths--9999--sample-paper-1:1:10</p>
+</div>
+<div class='rag'>
+<p></p>
+</div>
+<div class='rag'>
+<p>rag_g2_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the following
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Calculate the following
+</code></pre>
+</div>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$\dfrac{1}{5}$ of $75$
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac{1}{5}$ of $75$
+</code></pre>
+</div>
+
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$\dfrac{5}{8}$ of $32$
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac{5}{8}$ of $32$
+</code></pre>
+</div>
+
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$17.5\%$ of $63$
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>$17.5\%$ of $63$
+</code></pre>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='16C2DCFA-5867-4439-AAD8-0886FF1DB404' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='16C2DCFA-5867-4439-AAD8-0886FF1DB404' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='16C2DCFA-5867-4439-AAD8-0886FF1DB404' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='16C2DCFA-5867-4439-AAD8-0886FF1DB404' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='16C2DCFA-5867-4439-AAD8-0886FF1DB404' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='16C2DCFA-5867-4439-AAD8-0886FF1DB404' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='16C2DCFA-5867-4439-AAD8-0886FF1DB404' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='16C2DCFA-5867-4439-AAD8-0886FF1DB404' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='16C2DCFA-5867-4439-AAD8-0886FF1DB404' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='16C2DCFA-5867-4439-AAD8-0886FF1DB404' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='16C2DCFA-5867-4439-AAD8-0886FF1DB404' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='16C2DCFA-5867-4439-AAD8-0886FF1DB404' id='FORM-16C2DCFA-5867-4439-AAD8-0886FF1DB404' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-16C2DCFA-5867-4439-AAD8-0886FF1DB404'>Initial</p>
+</div>
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>A4ACFB38-CD57-4F90-8818-8BE5519C9C5B</p>
+</div>
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1:1:11</p>
+</div>
+<div class='rag'>
+<p>Promit Revar</p>
+</div>
+<div class='rag'>
+<p>rag_pr_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate:  
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Calculate:  
+</code></pre>
+</div>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$\dfrac{2}{3} + \dfrac{5}{6}$
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac{2}{3} + \dfrac{5}{6}$
+</code></pre>
+</div>
+
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$\dfrac{5}{6} - \dfrac{3}{4}$
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac{5}{6} - \dfrac{3}{4}$
+</code></pre>
+</div>
+
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What fraction in the diagram below is shaded?
+
+![james-allens-girls-school--11-plus--maths--9999--sample-paper-1/section-1-question-11-subquestion-3-00.png](/assets/james-allens-girls-school--11-plus--maths--9999--sample-paper-1/section-1-question-11-subquestion-3-00.png "james-allens-girls-school--11-plus--maths--9999--sample-paper-1/section-1-question-11-subquestion-3-00.png")
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>What fraction in the diagram below is shaded?
+<emptyline>
+%image%
+</code></pre>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A4ACFB38-CD57-4F90-8818-8BE5519C9C5B' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A4ACFB38-CD57-4F90-8818-8BE5519C9C5B' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A4ACFB38-CD57-4F90-8818-8BE5519C9C5B' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A4ACFB38-CD57-4F90-8818-8BE5519C9C5B' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A4ACFB38-CD57-4F90-8818-8BE5519C9C5B' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A4ACFB38-CD57-4F90-8818-8BE5519C9C5B' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A4ACFB38-CD57-4F90-8818-8BE5519C9C5B' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A4ACFB38-CD57-4F90-8818-8BE5519C9C5B' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A4ACFB38-CD57-4F90-8818-8BE5519C9C5B' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A4ACFB38-CD57-4F90-8818-8BE5519C9C5B' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='A4ACFB38-CD57-4F90-8818-8BE5519C9C5B' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='A4ACFB38-CD57-4F90-8818-8BE5519C9C5B' id='FORM-A4ACFB38-CD57-4F90-8818-8BE5519C9C5B' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A4ACFB38-CD57-4F90-8818-8BE5519C9C5B'>Initial</p>
+</div>
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>66CC3FAD-48FE-44E8-87CF-70E572E82771</p>
+</div>
+<div class='papername'>
+<p>john-lyon-school--11-plus--maths--9999--sample-paper-1:1:17</p>
+</div>
+<div class='rag'>
+<p></p>
+</div>
+<div class='rag'>
+<p>rag_g2_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down two fractions which are equivalent to $\dfrac{4}{5}$ where one of the numbers is twenty.                                
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Write down two fractions which are equivalent to $\dfrac{4}{5}$ where one of the numbers is twenty.                                
+</code></pre>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='66CC3FAD-48FE-44E8-87CF-70E572E82771' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='66CC3FAD-48FE-44E8-87CF-70E572E82771' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='66CC3FAD-48FE-44E8-87CF-70E572E82771' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='66CC3FAD-48FE-44E8-87CF-70E572E82771' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='66CC3FAD-48FE-44E8-87CF-70E572E82771' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='66CC3FAD-48FE-44E8-87CF-70E572E82771' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='66CC3FAD-48FE-44E8-87CF-70E572E82771' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='66CC3FAD-48FE-44E8-87CF-70E572E82771' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='66CC3FAD-48FE-44E8-87CF-70E572E82771' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='66CC3FAD-48FE-44E8-87CF-70E572E82771' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='66CC3FAD-48FE-44E8-87CF-70E572E82771' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='66CC3FAD-48FE-44E8-87CF-70E572E82771' id='FORM-66CC3FAD-48FE-44E8-87CF-70E572E82771' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-66CC3FAD-48FE-44E8-87CF-70E572E82771'>Initial</p>
+</div>
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>1D00ADE6-0A22-42BA-A37B-296F856E8471</p>
+</div>
+<div class='papername'>
+<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1:1:9</p>
+</div>
+<div class='rag'>
+<p></p>
+</div>
+<div class='rag'>
+<p>rag_g2_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+tdecimal
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty% 
+</code></pre>
+</div>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What fraction of this shape is shaded?
+
+![kent-college-canterbury--11-plus--maths--2020--sample-paper-1/section-1-question-9-subquestion-1-00.png](/assets/kent-college-canterbury--11-plus--maths--2020--sample-paper-1/section-1-question-9-subquestion-1-00.png "kent-college-canterbury--11-plus--maths--2020--sample-paper-1/section-1-question-9-subquestion-1-00.png")
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>What fraction of this shape is shaded?
+<emptyline>
+%image%
+</code></pre>
+</div>
+
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How much of this square is shaded? Write your answer as a decimal.
+
+![kent-college-canterbury--11-plus--maths--2020--sample-paper-1/section-1-question-9-subquestion-2-00.png](/assets/kent-college-canterbury--11-plus--maths--2020--sample-paper-1/section-1-question-9-subquestion-2-00.png "kent-college-canterbury--11-plus--maths--2020--sample-paper-1/section-1-question-9-subquestion-2-00.png")
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>How much of this square is shaded? Write your answer as a decimal.
+<emptyline>
+%image%
+</code></pre>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1D00ADE6-0A22-42BA-A37B-296F856E8471' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1D00ADE6-0A22-42BA-A37B-296F856E8471' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1D00ADE6-0A22-42BA-A37B-296F856E8471' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1D00ADE6-0A22-42BA-A37B-296F856E8471' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1D00ADE6-0A22-42BA-A37B-296F856E8471' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1D00ADE6-0A22-42BA-A37B-296F856E8471' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1D00ADE6-0A22-42BA-A37B-296F856E8471' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1D00ADE6-0A22-42BA-A37B-296F856E8471' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1D00ADE6-0A22-42BA-A37B-296F856E8471' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1D00ADE6-0A22-42BA-A37B-296F856E8471' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='1D00ADE6-0A22-42BA-A37B-296F856E8471' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='1D00ADE6-0A22-42BA-A37B-296F856E8471' id='FORM-1D00ADE6-0A22-42BA-A37B-296F856E8471' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-1D00ADE6-0A22-42BA-A37B-296F856E8471'>Initial</p>
+</div>
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>93596AA4-0BF2-47C9-9E88-D4F6D681CC5E</p>
+</div>
+<div class='papername'>
+<p>king-edwards-school--11-plus--maths--9999--sample-paper-1:3:1</p>
+</div>
+<div class='rag'>
+<p></p>
+</div>
+<div class='rag'>
+<p>rag_g2_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The figure shows two identical overlapping triangles. Four-ninths of each triangle is shaded.
+What fraction of the whole figure is shaded?
+
+![king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-1-00.png](/assets/king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-1-00.png "king-edwards-school--11-plus--maths--9999--sample-paper-1/section-3-question-1-00.png")
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>The figure shows two identical overlapping triangles. Four-ninths of each triangle is shaded.
+What fraction of the whole figure is shaded?
+<emptyline>
+%image%
+</code></pre>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' id='FORM-93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-93596AA4-0BF2-47C9-9E88-D4F6D681CC5E'>Initial</p>
+</div>
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>548C2E25-993D-4C02-82E6-2AA805905EE3</p>
+</div>
+<div class='papername'>
+<p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:1:25</p>
+</div>
+<div class='rag'>
+<p>Promit Revar</p>
+</div>
+<div class='rag'>
+<p>rag_pr_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write $0.27$ as a fraction.
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Write $0.27$ as a fraction.
+</code></pre>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='548C2E25-993D-4C02-82E6-2AA805905EE3' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='548C2E25-993D-4C02-82E6-2AA805905EE3' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='548C2E25-993D-4C02-82E6-2AA805905EE3' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='548C2E25-993D-4C02-82E6-2AA805905EE3' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='548C2E25-993D-4C02-82E6-2AA805905EE3' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='548C2E25-993D-4C02-82E6-2AA805905EE3' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='548C2E25-993D-4C02-82E6-2AA805905EE3' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='548C2E25-993D-4C02-82E6-2AA805905EE3' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='548C2E25-993D-4C02-82E6-2AA805905EE3' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='548C2E25-993D-4C02-82E6-2AA805905EE3' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='548C2E25-993D-4C02-82E6-2AA805905EE3' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='548C2E25-993D-4C02-82E6-2AA805905EE3' id='FORM-548C2E25-993D-4C02-82E6-2AA805905EE3' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-548C2E25-993D-4C02-82E6-2AA805905EE3'>Initial</p>
+</div>
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>374C875F-6104-457A-9946-7366D583AA37</p>
+</div>
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:4</p>
+</div>
+<div class='rag'>
+<p>Promit Revar</p>
+</div>
+<div class='rag'>
+<p>rag_pr_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out three-sevenths of $91$.
+
+- $42$
+- $39$
+- $36$
+- $26$
+- $13$
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Work out three-sevenths of $91$.
+<emptyline>
+- $42$
+- $39$
+- $36$
+- $26$
+- $13$
+</code></pre>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='374C875F-6104-457A-9946-7366D583AA37' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='374C875F-6104-457A-9946-7366D583AA37' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='374C875F-6104-457A-9946-7366D583AA37' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='374C875F-6104-457A-9946-7366D583AA37' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='374C875F-6104-457A-9946-7366D583AA37' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='374C875F-6104-457A-9946-7366D583AA37' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='374C875F-6104-457A-9946-7366D583AA37' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='374C875F-6104-457A-9946-7366D583AA37' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='374C875F-6104-457A-9946-7366D583AA37' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='374C875F-6104-457A-9946-7366D583AA37' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='374C875F-6104-457A-9946-7366D583AA37' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='374C875F-6104-457A-9946-7366D583AA37' id='FORM-374C875F-6104-457A-9946-7366D583AA37' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-374C875F-6104-457A-9946-7366D583AA37'>Initial</p>
+</div>
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>0966D772-1DBA-4DD8-A2D9-C6E088334DE5</p>
+</div>
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:6</p>
+</div>
+<div class='rag'>
+<p>Promit Revar</p>
+</div>
+<div class='rag'>
+<p>rag_pr_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What number is halfway between $4\dfrac{1}{2}$ and $7\dfrac{1}{2}$ ?
+
+- $5\dfrac{1}{4}$
+
+- $5\dfrac{1}{2}$
+
+- $5\dfrac{3}{4}$
+
+-  $6$
+
+- $6\dfrac{1}{4}$
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>What number is halfway between $4\dfrac{1}{2}$ and $7\dfrac{1}{2}$ ?
+<emptyline>
+- $5\dfrac{1}{4}$
+<emptyline>
+- $5\dfrac{1}{2}$
+<emptyline>
+- $5\dfrac{3}{4}$
+<emptyline>
+-  $6$
+<emptyline>
+- $6\dfrac{1}{4}$
+</code></pre>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0966D772-1DBA-4DD8-A2D9-C6E088334DE5' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0966D772-1DBA-4DD8-A2D9-C6E088334DE5' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0966D772-1DBA-4DD8-A2D9-C6E088334DE5' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0966D772-1DBA-4DD8-A2D9-C6E088334DE5' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0966D772-1DBA-4DD8-A2D9-C6E088334DE5' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0966D772-1DBA-4DD8-A2D9-C6E088334DE5' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0966D772-1DBA-4DD8-A2D9-C6E088334DE5' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0966D772-1DBA-4DD8-A2D9-C6E088334DE5' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0966D772-1DBA-4DD8-A2D9-C6E088334DE5' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0966D772-1DBA-4DD8-A2D9-C6E088334DE5' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='0966D772-1DBA-4DD8-A2D9-C6E088334DE5' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='0966D772-1DBA-4DD8-A2D9-C6E088334DE5' id='FORM-0966D772-1DBA-4DD8-A2D9-C6E088334DE5' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-0966D772-1DBA-4DD8-A2D9-C6E088334DE5'>Initial</p>
+</div>
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>9D4AAB0C-13C4-481F-B671-A752B18754B0</p>
+</div>
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:12</p>
+</div>
+<div class='rag'>
+<p></p>
+</div>
+<div class='rag'>
+<p>rag_g2_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What fraction of this rectangle is shaded?
+
+![latymer-upper-school--11-plus--maths--2014--sample-paper-1/section-1-question-12-00.png](/assets/latymer-upper-school--11-plus--maths--2014--sample-paper-1/section-1-question-12-00.png "latymer-upper-school--11-plus--maths--2014--sample-paper-1/section-1-question-12-00.png")
+
+- $\dfrac{1}{10}$
+
+- $\dfrac{3}{10}$
+
+- $\dfrac{1}{3}$
+
+- $\dfrac{1}{2}$
+
+- $\dfrac{2}{5}$
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>What fraction of this rectangle is shaded?
+<emptyline>
+%image%
+<emptyline>
+- $\dfrac{1}{10}$
+<emptyline>
+- $\dfrac{3}{10}$
+<emptyline>
+- $\dfrac{1}{3}$
+<emptyline>
+- $\dfrac{1}{2}$
+<emptyline>
+- $\dfrac{2}{5}$
+</code></pre>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9D4AAB0C-13C4-481F-B671-A752B18754B0' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9D4AAB0C-13C4-481F-B671-A752B18754B0' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9D4AAB0C-13C4-481F-B671-A752B18754B0' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9D4AAB0C-13C4-481F-B671-A752B18754B0' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9D4AAB0C-13C4-481F-B671-A752B18754B0' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9D4AAB0C-13C4-481F-B671-A752B18754B0' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9D4AAB0C-13C4-481F-B671-A752B18754B0' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9D4AAB0C-13C4-481F-B671-A752B18754B0' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9D4AAB0C-13C4-481F-B671-A752B18754B0' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9D4AAB0C-13C4-481F-B671-A752B18754B0' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='9D4AAB0C-13C4-481F-B671-A752B18754B0' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='9D4AAB0C-13C4-481F-B671-A752B18754B0' id='FORM-9D4AAB0C-13C4-481F-B671-A752B18754B0' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-9D4AAB0C-13C4-481F-B671-A752B18754B0'>Initial</p>
+</div>
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>3A3AB715-05E4-4635-8C9A-641EC20949C8</p>
+</div>
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:1:6</p>
+</div>
+<div class='rag'>
+<p>Promit Revar</p>
+</div>
+<div class='rag'>
+<p>rag_pr_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out three eighths of $264$. 
+
+- $61$ 
+
+- $88$ 
+
+- $96$ 
+
+- $99$ 
+
+- $108$
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Work out three eighths of $264$. 
+<emptyline>
+- $61$ 
+<emptyline>
+- $88$ 
+<emptyline>
+- $96$ 
+<emptyline>
+- $99$ 
+<emptyline>
+- $108$
+</code></pre>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3A3AB715-05E4-4635-8C9A-641EC20949C8' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3A3AB715-05E4-4635-8C9A-641EC20949C8' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3A3AB715-05E4-4635-8C9A-641EC20949C8' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3A3AB715-05E4-4635-8C9A-641EC20949C8' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3A3AB715-05E4-4635-8C9A-641EC20949C8' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3A3AB715-05E4-4635-8C9A-641EC20949C8' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3A3AB715-05E4-4635-8C9A-641EC20949C8' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3A3AB715-05E4-4635-8C9A-641EC20949C8' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3A3AB715-05E4-4635-8C9A-641EC20949C8' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3A3AB715-05E4-4635-8C9A-641EC20949C8' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='3A3AB715-05E4-4635-8C9A-641EC20949C8' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='3A3AB715-05E4-4635-8C9A-641EC20949C8' id='FORM-3A3AB715-05E4-4635-8C9A-641EC20949C8' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-3A3AB715-05E4-4635-8C9A-641EC20949C8'>Initial</p>
+</div>
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>E070C2A1-64F2-4FA6-942A-1E5DAEED8E25</p>
+</div>
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:1:11</p>
+</div>
+<div class='rag'>
+<p>Promit Revar</p>
+</div>
+<div class='rag'>
+<p>rag_pr_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out: $\dfrac{2}{5} - \dfrac{1}{3}$
+
+- $\dfrac{1}{2}$
+
+- $\dfrac{3}{8}$
+
+- $\dfrac{3}{15}$ 
+
+- $\dfrac{1}{8}$ 
+
+- $\dfrac{1}{15}$
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Work out: $\dfrac{2}{5} - \dfrac{1}{3}$
+<emptyline>
+- $\dfrac{1}{2}$
+<emptyline>
+- $\dfrac{3}{8}$
+<emptyline>
+- $\dfrac{3}{15}$ 
+<emptyline>
+- $\dfrac{1}{8}$ 
+<emptyline>
+- $\dfrac{1}{15}$
+</code></pre>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' id='FORM-E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E070C2A1-64F2-4FA6-942A-1E5DAEED8E25'>Initial</p>
+</div>
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>020A23C1-073B-42B7-991B-6538910EC0CF</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:1:12</p>
+</div>
+<div class='rag'>
+<p></p>
+</div>
+<div class='rag'>
+<p>rag_g2_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a magazine there are three adverts on the same page.
+
+Advert $1$ uses $\dfrac{1}{4}$ of the page
+
+Advert $2$ uses $\dfrac{1}{8}$ of the page
+
+Advert $3$ uses $\dfrac{1}{16}$ of the page
+
+In total, what fraction of the page do three adverts use?
+
+Show your working.
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>In a magazine there are three adverts on the same page.
+<emptyline>
+Advert $1$ uses $\dfrac{1}{4}$ of the page
+<emptyline>
+Advert $2$ uses $\dfrac{1}{8}$ of the page
+<emptyline>
+Advert $3$ uses $\dfrac{1}{16}$ of the page
+<emptyline>
+In total, what fraction of the page do three adverts use?
+<emptyline>
+Show your working.
+</code></pre>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='020A23C1-073B-42B7-991B-6538910EC0CF' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='020A23C1-073B-42B7-991B-6538910EC0CF' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='020A23C1-073B-42B7-991B-6538910EC0CF' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='020A23C1-073B-42B7-991B-6538910EC0CF' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='020A23C1-073B-42B7-991B-6538910EC0CF' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='020A23C1-073B-42B7-991B-6538910EC0CF' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='020A23C1-073B-42B7-991B-6538910EC0CF' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='020A23C1-073B-42B7-991B-6538910EC0CF' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='020A23C1-073B-42B7-991B-6538910EC0CF' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='020A23C1-073B-42B7-991B-6538910EC0CF' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='020A23C1-073B-42B7-991B-6538910EC0CF' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='020A23C1-073B-42B7-991B-6538910EC0CF' id='FORM-020A23C1-073B-42B7-991B-6538910EC0CF' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-020A23C1-073B-42B7-991B-6538910EC0CF'>Initial</p>
+</div>
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>93B9E3CD-8C82-4DD0-AD6A-70E95D5EF875</p>
+</div>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:15</p>
+</div>
+<div class='rag'>
+<p></p>
+</div>
+<div class='rag'>
+<p>rag_g2_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find $\dfrac{1}{3}$ of $2 \dfrac{1}{4}$
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Find $\dfrac{1}{3}$ of $2 \dfrac{1}{4}$
+</code></pre>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='93B9E3CD-8C82-4DD0-AD6A-70E95D5EF875' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='93B9E3CD-8C82-4DD0-AD6A-70E95D5EF875' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='93B9E3CD-8C82-4DD0-AD6A-70E95D5EF875' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='93B9E3CD-8C82-4DD0-AD6A-70E95D5EF875' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='93B9E3CD-8C82-4DD0-AD6A-70E95D5EF875' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='93B9E3CD-8C82-4DD0-AD6A-70E95D5EF875' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='93B9E3CD-8C82-4DD0-AD6A-70E95D5EF875' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='93B9E3CD-8C82-4DD0-AD6A-70E95D5EF875' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='93B9E3CD-8C82-4DD0-AD6A-70E95D5EF875' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='93B9E3CD-8C82-4DD0-AD6A-70E95D5EF875' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='93B9E3CD-8C82-4DD0-AD6A-70E95D5EF875' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='93B9E3CD-8C82-4DD0-AD6A-70E95D5EF875' id='FORM-93B9E3CD-8C82-4DD0-AD6A-70E95D5EF875' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-93B9E3CD-8C82-4DD0-AD6A-70E95D5EF875'>Initial</p>
+</div>
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>DAF3531A-EB9D-4CFC-8D7B-E29EB5E1523E</p>
+</div>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:24</p>
+</div>
+<div class='rag'>
+<p></p>
+</div>
+<div class='rag'>
+<p>rag_g2_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which fraction is half way between $\dfrac{3}{7}$ and $\dfrac{4}{7}?$
+
+Give your answer in its simplest form.
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Which fraction is half way between $\dfrac{3}{7}$ and $\dfrac{4}{7}?$
+<emptyline>
+Give your answer in its simplest form.
+</code></pre>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='DAF3531A-EB9D-4CFC-8D7B-E29EB5E1523E' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='DAF3531A-EB9D-4CFC-8D7B-E29EB5E1523E' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='DAF3531A-EB9D-4CFC-8D7B-E29EB5E1523E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='DAF3531A-EB9D-4CFC-8D7B-E29EB5E1523E' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='DAF3531A-EB9D-4CFC-8D7B-E29EB5E1523E' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='DAF3531A-EB9D-4CFC-8D7B-E29EB5E1523E' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='DAF3531A-EB9D-4CFC-8D7B-E29EB5E1523E' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='DAF3531A-EB9D-4CFC-8D7B-E29EB5E1523E' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='DAF3531A-EB9D-4CFC-8D7B-E29EB5E1523E' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='DAF3531A-EB9D-4CFC-8D7B-E29EB5E1523E' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='DAF3531A-EB9D-4CFC-8D7B-E29EB5E1523E' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='DAF3531A-EB9D-4CFC-8D7B-E29EB5E1523E' id='FORM-DAF3531A-EB9D-4CFC-8D7B-E29EB5E1523E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-DAF3531A-EB9D-4CFC-8D7B-E29EB5E1523E'>Initial</p>
+</div>
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945</p>
+</div>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:14</p>
+</div>
+<div class='rag'>
+<p></p>
+</div>
+<div class='rag'>
+<p>rag_g2_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The contents of part of a wardrobe are shown in the pie chart below:
+
+![merchant-taylors-school--11-plus--maths--9999--practice-paper-4/section-1-question-14-00.png](/assets/merchant-taylors-school--11-plus--maths--9999--practice-paper-4/section-1-question-14-00.png "merchant-taylors-school--11-plus--maths--9999--practice-paper-4/section-1-question-14-00.png")
+
+What fraction, in its simplest form, of footwear are boots? 
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>The contents of part of a wardrobe are shown in the pie chart below:
+<emptyline>
+%image%
+<emptyline>
+What fraction, in its simplest form, of footwear are boots? 
+</code></pre>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' id='FORM-D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945'>Initial</p>
+</div>
+</div>
+</li>
+</ul>

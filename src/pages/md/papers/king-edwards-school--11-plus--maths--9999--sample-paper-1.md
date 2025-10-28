@@ -1,7 +1,7 @@
 ---
 slug: "papers/king-edwards-school-11-plus-maths-9999-sample-paper-1"
 title: "King Edwards School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "14"
 ---
 <div class='paper'>
@@ -14,8 +14,8 @@ questions_count: "14"
 </div>
 
 # Section A
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>087796C3-8F32-4D8C-888C-47E29D33BAED</p>
@@ -39,8 +39,6 @@ tdetailedaddition
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What number is $1000$ more than $56821?$
@@ -148,7 +146,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>E4608B85-A3A5-4391-A7D7-4F71FAC737DB</p>
@@ -172,8 +170,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What number is $0.02$ more than $16.99?$
@@ -281,7 +277,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>7A3EB116-901D-4C60-9906-5C7ECB21025B</p>
@@ -308,8 +304,6 @@ tnoexplanation
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the smallest number
@@ -410,7 +404,7 @@ $1349$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>44F3EA32-5F78-42AA-8ED5-BF62E947CB89</p>
@@ -434,8 +428,6 @@ tdetailedaddition
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $8888 + 666 + 44 + 2$
@@ -551,7 +543,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>2AC760A5-F078-4E1F-911B-7CD44B438FA8</p>
@@ -575,8 +567,6 @@ tdetailedsubtraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $54321 - 12345$
@@ -688,7 +678,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>C19E035E-6FA3-4F56-B785-07483C6DD4DD</p>
@@ -712,8 +702,6 @@ ttime
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 I start counting at $19$ and go up to $89$.
@@ -825,7 +813,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>D91CF781-CBD3-4244-B3F5-19D98F8EDB90</p>
@@ -849,8 +837,6 @@ tdetailedsubtraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What number must be
@@ -973,8 +959,8 @@ $
 </ul>
 
 # Section B
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>55B8B2F1-C1CC-4DD0-BDF6-5C287D5A33FF</p>
@@ -1001,8 +987,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 An oak tree was planted
@@ -1119,7 +1103,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>CC62F717-09D2-42A3-9042-C2C7C102D1E6</p>
@@ -1143,8 +1127,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Here are three numbers
@@ -1306,7 +1288,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1B42A433-329F-41DC-9514-D33035E31C66</p>
@@ -1330,8 +1312,6 @@ tareaperimeter
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 I want to cut out a circle
@@ -1459,8 +1439,8 @@ $
 </ul>
 
 # Section C
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prrl question'>
 <div class='uuid'>
 <p>93596AA4-0BF2-47C9-9E88-D4F6D681CC5E</p>
@@ -1484,8 +1464,6 @@ tfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The figure shows two identical overlapping triangles. Four-ninths of each triangle is shaded.
@@ -1611,7 +1589,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>C9B34C89-614F-4491-9CB6-6D70EB87E12A</p>
@@ -1635,8 +1613,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A crossnumber is like a crossword, but with digits in place of letters.
@@ -1772,7 +1748,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>3268582D-0831-4303-8C14-5BB104D7F7EA</p>
@@ -1796,8 +1772,6 @@ tnet
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Which of the dice below can be made from this net?
@@ -1918,7 +1892,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>B5420130-A56B-4BA2-8654-2576766211F0</p>
@@ -1942,8 +1916,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Woody organised a quiz night in the toy room. He asked $25$ questions.

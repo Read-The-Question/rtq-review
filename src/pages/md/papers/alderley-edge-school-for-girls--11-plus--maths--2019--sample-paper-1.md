@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-2019-sample-paper-1"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "50"
 ---
 <div class='paper'>
@@ -14,8 +14,8 @@ questions_count: "50"
 </div>
 
 # Section A
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>30A3B574-CDF9-4730-A7AF-15CE0C6A1084</p>
@@ -39,8 +39,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 
@@ -155,7 +153,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>F067F26D-49E2-4623-9D90-C1C324D3EFB6</p>
@@ -182,8 +180,6 @@ tdecimal
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $3.094 + 0.06 ={?}$
@@ -295,7 +291,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>D1711F29-C3FB-46E4-AF05-C3D286EB729E</p>
@@ -322,8 +318,6 @@ tdecimal
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $3.7 \times  9 = 33.3 \quad$  Write down the value of $\quad 3.7 \times 90$
@@ -436,7 +430,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>A99C08EB-7124-4965-8037-088A5FBC046B</p>
@@ -460,8 +454,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $2 + (3 \times 6 + 4) \div 2 = {?}$
@@ -576,7 +568,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>9B1CDCC2-E765-4806-9811-7D7C57CD2CBF</p>
@@ -600,8 +592,6 @@ tmoney
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Decrease $\pounds 44$ by $10\%$.
@@ -746,7 +736,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>FCDA8DA7-63FA-4DE6-B114-DC8D5BBB3D6C</p>
@@ -770,8 +760,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 If $p - 9 = 12$ what number does $p$ stand for?
@@ -880,7 +868,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>2E74314D-F920-4315-9637-FCA3246945FC</p>
@@ -904,8 +892,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 I think of a number, double it and add $5$. If I think of $21$, what is my answer?
@@ -1018,7 +1004,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>6CDE9B85-33D8-4FE1-8A7C-C1030D86C401</p>
@@ -1042,8 +1028,6 @@ tsequence
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The next two numbers in the pattern
@@ -1188,7 +1172,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>B9B4365C-ECB6-4619-8870-19A55013BC18</p>
@@ -1212,8 +1196,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $q$ is a whole number. Can $q^2$ ever be the same as $4q$?
@@ -1332,7 +1314,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>03A24AA6-822F-4633-AB73-D8E755E60FC0</p>
@@ -1356,8 +1338,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $w$ is a number. Can $3w$ ever be less than $w$?
@@ -1476,7 +1456,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>B245DB80-06AB-4146-8632-C2E68446994E</p>
@@ -1506,8 +1486,6 @@ tdraw
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How many lines of symmetry has a square?
@@ -1621,7 +1599,7 @@ Write option
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>D30F0974-2B38-4C59-B619-F9A967A19868</p>
@@ -1645,8 +1623,6 @@ tgeometry
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How many faces has a cuboid?
@@ -1763,7 +1739,7 @@ Write option
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>41443450-B770-4EC2-8B11-0421DE34FB94</p>
@@ -1787,8 +1763,6 @@ tgeometry
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Three of these shapes have an even number of vertices. Which one does not?
@@ -1904,7 +1878,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>1F0E1A23-FEB9-4030-8F80-C0D56311A323</p>
@@ -1934,8 +1908,6 @@ tdraw
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The diagram shows part of a regular shape along with its two lines of symmetry. The whole shape is:
@@ -2040,7 +2012,7 @@ Write option, add tdraw, add TODO to say add the complete diagram
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>6ECD9D4D-298D-46E7-A48A-89D00F304BB7</p>
@@ -2064,8 +2036,6 @@ tgeometry
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How many possible isosceles triangles are there containing an angle of $90\degree$?
@@ -2184,7 +2154,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>9FEC7F3F-E2F1-4B99-AB10-A7D8745ECDB9</p>
@@ -2208,8 +2178,6 @@ tstatistics
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Which set of numbers have a total of $14$ and a range of $3?$
@@ -2327,7 +2295,7 @@ Answer $= 3, 5, 6$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>75E7A90C-2653-4952-86DC-C11074CCF1D1</p>
@@ -2351,8 +2319,6 @@ tprobability
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A bag contains $3$ red and $6$ green marbles. If you pick out a marble at random, what is the chance that it will be red?
@@ -2473,7 +2439,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>00A20CEB-7ED5-4F8D-9A2E-2837D86BAE23</p>
@@ -2497,8 +2463,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Two wodgets make a finkle. Five finkles make a splot. Three splots make a tink. How many wodgets make four tinks?
@@ -2617,7 +2581,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>DFFF02BA-14B2-46C5-8365-D64032206A37</p>
@@ -2641,8 +2605,6 @@ tstatistics
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $4$ girls have an average height of $1.4 \ \text{m}$. A fifth girl of height $1.2 \ \text{m}$ joins them.
@@ -2761,7 +2723,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>9D4AAFBD-929B-4085-BF68-987E2C0DF9F0</p>
@@ -2785,8 +2747,6 @@ tprobability
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Issy tosses a **fair coin** four times. She gets Heads, Heads, Heads, Tails. If she tosses it a
@@ -2893,7 +2853,7 @@ It is equally likely to get Heads or Tails fifth time.
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>C10BE88B-EB0E-476D-B7BA-5027E9EE2FB9</p>
@@ -2917,8 +2877,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In the calculation $4 * 3 * 2 * 1$ each $*$ must be replaced by either a $+$ or a $\times$ sign.
@@ -3036,7 +2994,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>8EE4BEA9-B071-4168-86B4-4B472E0C41B8</p>
@@ -3060,8 +3018,6 @@ tgeometry
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Which of shapes $A, B, C$ and $D$ is most similar to shapes $1$ and $2?$
@@ -3179,7 +3135,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>04ACE684-9AE1-4A89-98F0-A8F72CA19665</p>
@@ -3203,8 +3159,6 @@ tgeometry
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How many squares are in this picture?
@@ -3320,7 +3274,7 @@ Write option
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>CB01D0B2-8584-4D95-83EE-26E14E881206</p>
@@ -3344,8 +3298,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out the codes for pictures $1, 2$ and $4$ and then decide which of boxes $A, B, C$ or $D$ has the correct code for picture $3$.
@@ -3463,7 +3415,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>6EA572FE-FB00-44DD-A787-BAF1F99D3A04</p>
@@ -3487,8 +3439,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Putting these lines $||$ round a number or calculation makes sure the answer is positive; for example both $|8|$ and
@@ -3605,8 +3555,8 @@ $
 </ul>
 
 # Section B
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>806A70B8-E2A8-4CC6-99FB-54DFD0C55F33</p>
@@ -3630,8 +3580,6 @@ tdetailedsubtraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How much more than $523$ is $872$ ?
@@ -3734,7 +3682,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>E050D127-B790-44E2-8C2E-2E52B8429BCE</p>
@@ -3758,8 +3706,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the largest number that can be written using the digits $5, 1, 8$ and $2?$
@@ -3848,7 +3794,7 @@ $8521$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>58B18870-5B83-45CF-AD52-6B727497392A</p>
@@ -3872,8 +3818,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $378 - 529 + 108$.
@@ -3972,7 +3916,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>1BEF2D73-B83B-4740-BCF7-B87C0D5559A1</p>
@@ -3996,8 +3940,6 @@ tdetailedsubtraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $323 - 151$.
@@ -4100,7 +4042,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>A899EA59-226A-4C15-A5D3-4BE3DF0E2CB0</p>
@@ -4124,8 +4066,6 @@ tdetailedmultiplication
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $74 \times 8$.
@@ -4228,7 +4168,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>8CE05634-6A49-4F35-A3BA-F011513512BF</p>
@@ -4252,8 +4192,6 @@ tdivision
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $1638 \div 7$.
@@ -4358,7 +4296,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>C37C7D80-A04A-4A0E-94DE-218ED2624A77</p>
@@ -4382,8 +4320,6 @@ tmoney
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Find $40\%$ of $\pounds 620$.
@@ -4490,7 +4426,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>E2FF324D-1525-4E82-9829-9B13BB1CF5FA</p>
@@ -4517,8 +4453,6 @@ tcircleanswer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Circle the largest fraction:
@@ -4627,7 +4561,7 @@ Largest fraction $= 0.83 = \dfrac {5} {6}$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC</p>
@@ -4651,8 +4585,6 @@ tdivision
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Divide $31500$ by $30$.
@@ -4755,7 +4687,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prpcc question'>
 <div class='uuid'>
 <p>B281E4BD-D74F-47C1-9CA7-E354CB7604AA</p>
@@ -4779,8 +4711,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In arithmetic questions, any calculations inside brackets are carried out first.
@@ -4910,7 +4840,7 @@ serach others
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prrl question'>
 <div class='uuid'>
 <p>B7B3E8E7-47FE-4F89-AEBD-E7D2523C27AA</p>
@@ -4934,8 +4864,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Fill in the missing numbers.
@@ -4947,8 +4875,8 @@ In each part, you can use the first line to help you.
 
 
 
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -5007,7 +4935,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -5074,7 +5002,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -5189,7 +5117,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>4EE0BEE2-497E-407A-8E96-B9E684AA0A05</p>
@@ -5213,8 +5141,6 @@ ttemperature
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 When the wind blows it feels colder.
@@ -5354,7 +5280,7 @@ Look at topic ttable for sample answers, show the sequence in values are filled 
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>F2F1A365-9B27-4327-9C11-647F071C0FCD</p>
@@ -5378,8 +5304,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A box contains bags of crisps.
@@ -5527,7 +5451,7 @@ Number of bags of crisps inside the box $= 40$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>FA9861FD-232E-4ED5-9793-77E5EFC8EB56</p>
@@ -5554,8 +5478,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A tin of paint can cover $45 \ \text{m}^2$ of wall. The school hall has $652 \ \text{m}^2$ of wall to paint.
@@ -5695,7 +5617,7 @@ dfrac is broken
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>3C1A8ECE-FC50-4AC9-B755-F100FE9325E2</p>
@@ -5719,8 +5641,6 @@ tspeed
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
  A man travels $200 \ \text{miles}$ at an average speed of $60 \ \text{miles per hour}$.
@@ -5835,7 +5755,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>174BEC63-0B02-473E-B51D-7B5AA1F6DFC3</p>
@@ -5859,8 +5779,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 %empty%
@@ -5899,8 +5817,8 @@ talgebra
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -5955,7 +5873,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -6012,7 +5930,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -6119,7 +6037,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>2E4D898B-50D2-4B8A-B279-75EF60B4BD43</p>
@@ -6146,8 +6064,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 *ABBR: TODO:: Find the right katex symbol.*
@@ -6190,8 +6106,8 @@ I put square tiles on a large grid so that the tiles touch at the corners. The d
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -6236,7 +6152,7 @@ $(2, 1)$
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -6295,7 +6211,7 @@ $(4, 4)$
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -6353,7 +6269,7 @@ $(17, 17)$
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -6476,7 +6392,7 @@ There are enough tiles to make the next square.
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>ECF79888-F466-480C-80F9-F7FBEF06F5ED</p>
@@ -6503,8 +6419,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 %empty%
@@ -6568,8 +6482,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -6645,7 +6559,7 @@ Expression for the length of one of its sides $= 7a + 3$.
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -6770,7 +6684,7 @@ Number of sides of the polygon $= 5$.
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>4440F334-A112-481F-AB98-3D9AD28B54BF</p>
@@ -6794,8 +6708,6 @@ tgeometry
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Here is a triangular prism.
@@ -6834,8 +6746,8 @@ Write down the number of:
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -6878,7 +6790,7 @@ $5$
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -6921,7 +6833,7 @@ $9$
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -7021,7 +6933,7 @@ remove extra workings and answers
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>E64365F8-C0E0-414D-B477-6E06B9EEB4A4</p>
@@ -7045,8 +6957,6 @@ tgeometry
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Here is a design for a kitchen tile.
@@ -7166,7 +7076,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>1560E53F-1121-4690-82F4-852BE2494204</p>
@@ -7193,8 +7103,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Calculate the missing angles $p, q$ and $r$.
@@ -7233,8 +7141,8 @@ Calculate the missing angles $p, q$ and $r$.
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -7300,7 +7208,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -7366,7 +7274,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -7504,7 +7412,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>333DC7CB-42F5-4E07-A556-253BF3AEF796</p>
@@ -7528,8 +7436,6 @@ tvolume
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A cube measuring $3 \ \text{cm} \times 3 \ \text{cm} \times 3 \ \text{cm}$ is made up of small cubes and has a
@@ -7650,7 +7556,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>6140D059-D75D-4768-A80F-0B80AD6CCF60</p>
@@ -7674,8 +7580,6 @@ tprobability
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The diagram shows five fair spinners with grey and white sectors. Each spinner is divided into equal sectors.
@@ -7722,8 +7626,8 @@ I am going to spin all the pointers.
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -7799,7 +7703,7 @@ Spinner B
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -7954,7 +7858,7 @@ Spinner A, Spinner D
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>52983814-93FB-4D20-8042-2C3DEF961EF6</p>
@@ -7978,8 +7882,6 @@ tgraph
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Betty carried out a survey.
@@ -8023,8 +7925,8 @@ She used the results to draw this pie chart.
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -8081,7 +7983,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -8206,7 +8108,7 @@ Total number of students $= 60$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>ACC4B87C-C1CB-426B-82F9-903DBBB5B2B6</p>
@@ -8230,8 +8132,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the sum of all the numbers from $1$ to $100?$

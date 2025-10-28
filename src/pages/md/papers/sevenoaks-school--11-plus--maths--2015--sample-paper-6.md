@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2015-sample-paper-6"
 title: "Sevenoaks School - 11 Plus - Maths - 2015 - Sample Paper 6"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "18"
 ---
 <div class='paper'>
@@ -12,8 +12,8 @@ questions_count: "18"
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prpcr question'>
 <div class='uuid'>
 <p>B14230C1-397F-4229-962F-877D59B5C1B2</p>
@@ -37,8 +37,6 @@ tmoney
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Danielle went to the store to buy stationery for school. She bought four rulers, five pens and three pencils. The rulers cost $46 \ \text{p}$ each, the pens cost $37 \ \text{p}$ each and the pencils cost $13 \ \text{p}$ each.
@@ -77,8 +75,8 @@ Danielle went to the store to buy stationery for school. She bought four rulers,
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -135,7 +133,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -253,7 +251,7 @@ Change answers and workings accordingly
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>85AF4A82-D8F4-4C46-A7A4-17F82A02167C</p>
@@ -277,8 +275,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Ben's Dad was making a fence for their garden. He needed to buy a piece of wood that he could cut into $14$ equal parts. If each part had to be $114 \ \text{cm}$ long, what length would the piece of wood need to be?
@@ -377,7 +373,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>312B54F7-8745-4C65-B52D-35F6198E8ACD</p>
@@ -401,8 +397,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Gavin spends $\pounds 4.90$ on two items in a shop. One item cost $40 \ \text{p}$ more than the other.  How much did each item cost?
@@ -562,7 +556,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>344D2219-6B52-4A1E-9CAC-AD845022B342</p>
@@ -586,8 +580,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The sum of the all the whole numbers from $1$ to $50$ inclusive is $1275$. Work out the sum of the whole numbers from $2$ and $51$ inclusive.
@@ -692,7 +684,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>0DEAA0A4-5405-4CEB-BE4F-CFB79042ABEE</p>
@@ -716,8 +708,6 @@ tsequence
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Find the missing numbers in the sequences below:
@@ -756,8 +746,8 @@ Find the missing numbers in the sequences below:
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -860,7 +850,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -961,7 +951,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1062,7 +1052,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1194,7 +1184,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prpcc question'>
 <div class='uuid'>
 <p>A6B8B57F-EC4F-46B7-B764-FB72554BB7C3</p>
@@ -1218,8 +1208,6 @@ tprofit
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Seesaws cost $\pounds 200$ each in January $2010$. In January $2011$ they had gone up by $45\%$. Calculate how much a seesaw cost in January $2011$.
@@ -1375,7 +1363,7 @@ add the long way answer too
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>5AF5AFC7-6421-43C4-B38A-CD7C667BAE96</p>
@@ -1402,8 +1390,6 @@ tgeometry
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Calculate the total length marked with $x$.
@@ -1518,7 +1504,7 @@ The total length marked with $x$ is $20 \ \text{cm}$.
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>174ABCE6-0882-4AC7-91BE-F385F7D1F968</p>
@@ -1542,8 +1528,6 @@ tratio
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 'Purple Fire' paint is made by mixing red and blue paint in the ratio $3:1$. If I want to make $1 \ \text{litre}$ of 'Purple Fire' paint, how much red paint do I need?
@@ -1712,7 +1696,7 @@ Red paint needed $= 750 \ \text{ml}$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>9B3D3B98-0D7E-40FE-97B0-6C78D250B95D</p>
@@ -1736,8 +1720,6 @@ tsymmetry
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How many letters of the word **MATHEMATICS** do not have any lines of symmetry?
@@ -1843,7 +1825,7 @@ No need to solve this question. Ill put in Red state. Contact me if u have any s
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>F143E456-5D30-43BB-BE16-6E05268A6FC3</p>
@@ -1867,8 +1849,6 @@ tdivision
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the remainder when $354972$ is divided by $7 \text{?}$
@@ -1967,7 +1947,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>F58AE968-A43A-420B-8C35-01634DE00C09</p>
@@ -1991,8 +1971,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A solid square based pyramid has all of its corners cut off, as shown. How many edges does the resulting shape have?
@@ -2176,7 +2154,7 @@ No need to solve this question. Ill put in Red state. Contact me if u have any s
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>A3D346FE-86AB-4EB5-BDA9-07C1CE5349D7</p>
@@ -2200,8 +2178,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The diagram shows a rod with five equally space points $A, B, C, D$ and $E$ marked on it. 
@@ -2547,7 +2523,7 @@ U took reference?? Ill put in Red state. Contact me if u have any suggestion
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>CB718008-6C5B-486B-83F4-A32A6530AAA0</p>
@@ -2571,8 +2547,6 @@ ttime
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 My train was scheduled to leave at $17{:}40$ and to arrive at $18{:}20$. However it started $5  \ \text{minutes}$ late and the journey then took $42  \ \text{minutes}$. At what time did I arrive?
@@ -2673,7 +2647,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prrl question'>
 <div class='uuid'>
 <p>27CD01EC-3953-42B4-BA5E-E1F1DE7E96A7</p>
@@ -2700,8 +2674,6 @@ tareaperimeter
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In the diagram the small squares are all the same size. What fraction of the large square is shaded?
@@ -2826,7 +2798,7 @@ Fraction of large square that has been shaded in simple fraction $= \dfrac {4} {
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>F3912EFD-E492-46A0-BB5B-F44F4FD52BAA</p>
@@ -2856,8 +2828,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A floor measures $5 \ \text{m}$ by $4 \ \text{m}$. It is to be covered by rectangular tiles measuring $80 \ \text{cm}$ by $50 \ \text{cm}$. How many tiles are needed?
@@ -2995,7 +2965,7 @@ Wrong working format.. simply equal to dfrac {area of abc} {area of xyz}
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>48CBFF7D-D858-4CA1-AC2D-192ED443B34E</p>
@@ -3019,8 +2989,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Each symbol has a numerical value. The total for the symbols is written at the end of each row and column. Can you find the missing total that should go where the question mark has been put?
@@ -3343,7 +3311,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>FC38D60A-CA26-4B8A-B998-3CE9EDF1BDC0</p>
@@ -3367,8 +3335,6 @@ tnet
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The diagram shows the net of a cube. Which edge meets the edge $X$ when the net is folded to form the cube?
@@ -3484,7 +3450,7 @@ E
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_red rag_prr question'>
 <div class='uuid'>
 <p>C2271CA0-2CDF-403C-907E-FD4591945D01</p>
@@ -3508,8 +3474,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In the sum below the letters $J, M$ and $C$ represent three different non-zero digits.

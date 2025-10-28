@@ -1,7 +1,7 @@
 ---
 slug: "papers/halifax-grammar-school-11-plus-maths-9999-sample-paper-1"
 title: "Halifax Grammar School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "10"
 ---
 <div class='paper'>
@@ -12,8 +12,8 @@ questions_count: "10"
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>DA8FA910-F7B0-4EDF-84B5-5986F11038C1</p>
@@ -37,8 +37,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the missing number in the following? 
@@ -185,7 +183,7 @@ The missing number $= 9$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3CCFC6E3-EF32-443D-8765-E0A320EB0AA9</p>
@@ -212,8 +210,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Shape $A$ and shape $B$ are each made from five identical squares. The perimeter of shape $A$ is 
@@ -347,7 +343,7 @@ call Uday
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>464C68A6-30E1-4FB7-9F2A-1F485F1C4F73</p>
@@ -371,8 +367,6 @@ ttime
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Buses leave Halifax to Elland every $9 \ \text{minutes}$. Buses leave Halifax to Sowerby Bridge every $12 \ \text{minutes}$. 
@@ -497,7 +491,7 @@ D is written in key instead of an option. Write D in option.
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>D1DB4906-DD4F-4827-8996-34DDFC3849EE</p>
@@ -521,8 +515,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 I have a jar of sweets; after I have given each of the children in my class one sixteenth of sweets in the jar I have one quarter of the sweets left. How many children do I have in my class?
@@ -659,7 +651,7 @@ Number of children $= 12$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>AD6895B3-4E61-4AAF-9E1F-1987110B5F92</p>
@@ -683,8 +675,6 @@ tratio
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The pie chart shows the proportions of different drinks chosen from a machine in one day.
@@ -896,7 +886,7 @@ Number of cartons of oranges $= 45$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>4BC74879-1E38-4EF0-946C-81DC94A3877B</p>
@@ -920,8 +910,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 If k is a whole number that is divisible by $2, 3$ and $5$ which one of the following must also be divisible by $2, 3$ and $5$.
@@ -1018,7 +1006,7 @@ $k + 30$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>B315E5A3-9E66-4B4F-9F2D-71EDA8CF3DDA</p>
@@ -1042,8 +1030,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How many prime numbers are there between $20$ and $30?$
@@ -1144,7 +1130,7 @@ Count $= 2$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>FB2B0EDB-09F8-45CB-A665-24A641A13C3B</p>
@@ -1168,8 +1154,6 @@ tangle
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In the diagrams below, which angle is the biggest? The diagrams are not drawn to scale.
@@ -1347,7 +1331,7 @@ call uday for the format
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>8CF1FA33-107D-436D-852E-0527BD6EE663</p>
@@ -1371,8 +1355,6 @@ tpercentage
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Which of the following has the greatest value?
@@ -1519,7 +1501,7 @@ Biggest value $= 30 \% \text{ of } 30$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>D7E33A04-DE0A-4485-AE44-E675DE38579E</p>
@@ -1543,8 +1525,6 @@ tmap
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How many different ways can I travel from $P$ to $Q?$ I can only travel on the lines shown and I must not go over any line more than once on a journey.

@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-johns-school-leatherhead-11-plus-maths-2011-sample-paper-1"
 title: "St Johns School Leatherhead - 11 Plus - Maths - 2011 - Sample Paper 1"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "17"
 ---
 <div class='paper'>
@@ -12,8 +12,8 @@ questions_count: "17"
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>0FB9B981-6545-4964-8E8B-C1FFEFA90D90</p>
@@ -37,8 +37,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $32 + 63$
@@ -127,7 +125,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>D6E0CDBC-7A4A-4876-8FCA-7EFCD8818F1F</p>
@@ -151,8 +149,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $91 - 47$
@@ -241,7 +237,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>25ECADAB-BB3F-40BD-8CF1-029AE71E560B</p>
@@ -265,8 +261,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Multiply
@@ -357,7 +351,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>E0698663-9569-4FBF-8B84-A183C3CDA454</p>
@@ -381,8 +375,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $248 \div 4$
@@ -471,7 +463,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>02E21E85-61CC-4582-AD4E-07173D3FCC1E</p>
@@ -495,8 +487,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Write these numbers in order of size. Start with the smallest number.
@@ -587,7 +577,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>9C754603-789D-4D0E-96B4-BFD1F4EA28AB</p>
@@ -611,8 +601,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The table shows the temperatures in four cities at noon one day
@@ -657,8 +645,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -701,7 +689,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -744,7 +732,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -839,7 +827,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>603F6EDB-4AA3-47BA-8ED4-EC5B458FB8A9</p>
@@ -863,8 +851,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The pictogram shows the numbers of hours of sunshine in London on Monday, Tuesday and Wednesday of one week.
@@ -912,8 +898,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -956,7 +942,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -999,7 +985,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1096,7 +1082,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>83EA621E-F941-4A17-AF9B-02E45A8D783E</p>
@@ -1120,8 +1106,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Peter is planning a disco at his Youth Club. Here are his costs.
@@ -1221,7 +1205,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>D7259785-A0AF-4F4C-B0E3-A9CAA4C4BD99</p>
@@ -1245,8 +1229,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Continue the sequences, giving the next two terms each time:
@@ -1285,8 +1267,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1329,7 +1311,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1422,7 +1404,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>B29714CC-DFBC-4798-998C-9E87F209A7A1</p>
@@ -1446,8 +1428,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A train leaves London(King’s Cross) station at $11{:}20 \ \text{am}$ and arrives in Leeds at $2{:}05 \ \text{pm}$. How long does the journey take?
@@ -1536,7 +1516,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>D47FC990-3F75-489A-8376-DA42187BF508</p>
@@ -1560,8 +1540,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 %empty%
@@ -1600,8 +1578,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1644,7 +1622,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1737,7 +1715,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>C3B8E988-C3E3-4686-9E4F-74C89F8BC99B</p>
@@ -1761,8 +1739,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Use $+, -, \times$ or $\div$ to make each calculation correct
@@ -1801,8 +1777,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1845,7 +1821,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1888,7 +1864,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1981,7 +1957,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>C37F337C-D4C5-4D9F-A38A-33B704A777A0</p>
@@ -2005,8 +1981,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 ![st-johns-school-leatherhead--11-plus--maths--2011--sample-paper-1/section-1-question-13-00.png](/assets/st-johns-school-leatherhead--11-plus--maths--2011--sample-paper-1/section-1-question-13-00.png "st-johns-school-leatherhead--11-plus--maths--2011--sample-paper-1/section-1-question-13-00.png")
@@ -2045,8 +2019,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2089,7 +2063,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2182,7 +2156,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>291EBB13-B795-44AE-8636-8B4D72032BB0</p>
@@ -2206,8 +2180,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A supermarket sells two different-sized bags of flour. The small bag weighs $3 \ \text{kg}$ and costs $75 \ \text{p}$. The medium bag weighs $5 \ \text{kg}$ and costs $\pounds 1.20$. Which is the better buy? 
@@ -2298,7 +2270,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>853B36FC-00B8-4623-A448-B7613A4B0B59</p>
@@ -2322,8 +2294,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Sydney the snail is at the bottom of a $3 \ \text{metre}$ well. Each day he climbs $60 \ \text{centimetres}$ up the wall of the well. Each night he slides $30 \ \text{centimetres}$ back down the wall of the well. How many days does it take Sydney to reach the top of the well.
@@ -2412,7 +2382,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>AAAC19AC-025B-4800-8393-898B2986E315</p>
@@ -2436,8 +2406,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A Maths exam has two sections, section $A$ and section $B$. Section $A$ is out of $40$. Section $B$ is out of $20$. Nish scored $45$ marks for the two sections.
@@ -2532,7 +2500,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>909E1B22-9878-4F85-A018-D8AB6CDD2267</p>
@@ -2556,8 +2524,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In how many different ways can one pay $10 \ \text{p}$ using standard British coins?

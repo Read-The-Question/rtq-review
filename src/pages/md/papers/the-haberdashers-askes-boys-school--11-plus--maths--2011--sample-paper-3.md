@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2011-sample-paper-3"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2011 - Sample Paper 3"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "30"
 ---
 <div class='paper'>
@@ -12,8 +12,8 @@ questions_count: "30"
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>DBAB529D-B9BF-4414-9EA7-904E639ED390</p>
@@ -37,8 +37,6 @@ tdetailedaddition
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Add: $48 + 27$
@@ -141,7 +139,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>CEA1032C-0FBA-4008-BC09-26A366EBB6D8</p>
@@ -165,8 +163,6 @@ tdetailedsubtraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Subtract: $91 - 25$
@@ -269,7 +265,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>8C6A0833-0F7A-46D0-AE4D-33C291CC56D6</p>
@@ -293,8 +289,6 @@ tdetailedmultiplication
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Multiply: $62 \times 7$.
@@ -397,7 +391,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>EE08C79E-E66D-4719-8A51-03C3EBDE0F59</p>
@@ -421,8 +415,6 @@ tdivision
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Divide: $92 \div 4$
@@ -527,7 +519,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>531ECA32-EC61-4DC0-B7E2-A82CE25C7F7E</p>
@@ -551,8 +543,6 @@ tmoney
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 I have $\pounds 8.17$ credit on my mobile phone. At the end of a phone call this falls 
@@ -653,7 +643,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>97436615-6898-4B56-86C1-EED30973F623</p>
@@ -677,8 +667,6 @@ tratio
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The drink "Raspberry Heaven" is $1$ part raspberry juice, $2$ parts orange juice and $3$ parts apple juice. 
@@ -798,7 +786,7 @@ Volume of Raspberry juice $= 50 \ \text{ml}$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>AFC01A5F-DFE5-4512-A316-799D2FC52ABB</p>
@@ -822,8 +810,6 @@ tdetailedmultiplication
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out the product of $528$ and $99$.
@@ -932,7 +918,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>A01A640F-EDFD-4999-9FB4-D5CB13DE99BE</p>
@@ -956,8 +942,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Barbie earns $\pounds 23450$ a year and her partner Ken earns $\pounds 700$ less than Barbie. 
@@ -1059,7 +1043,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>4AED5958-F04F-45F1-A4E4-5E09C607BC13</p>
@@ -1083,8 +1067,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Convert $7.4 \ \text{kilograms}$ into grams.
@@ -1185,7 +1167,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>EBCA6760-D0CE-4FA4-BA50-308D963A2254</p>
@@ -1209,8 +1191,6 @@ torder
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Arrange the following numbers in order of size starting with the smallest: 
@@ -1301,7 +1281,7 @@ $0.099, \quad 0.491, \quad 0.5, \quad 1.072, \quad 32.043$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>42B09AC3-796B-4A16-B123-5A18D316FA38</p>
@@ -1325,8 +1305,6 @@ ttime
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The opening hours of my local supermarket are $7 \ \text{am}$ to $9 \ \text{pm}$ Mondays to Saturdays and 
@@ -1432,7 +1410,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>60B9091C-D342-4FED-A634-E494AC62D7E8</p>
@@ -1456,8 +1434,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Arrange the numbers, $5, 3, 7$ and $2$ to make the largest possible four-digit number which is a multiple of $5$.
@@ -1570,7 +1546,7 @@ The largest possible four-digit which is a multiple of $5$, using numbers $5, 3,
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>CE97FB1F-AA68-41D1-BD54-0147E9CD7F70</p>
@@ -1597,8 +1573,6 @@ tdecimal
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $0.08$ multiplied by $5$.
@@ -1710,7 +1684,7 @@ $= 0.4$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>C74F6145-1D9D-471D-9081-11DC74346EC6</p>
@@ -1734,8 +1708,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The new TV channel, Lazy Living, broadcasts for $98 \ \text{hours}$ a week. 
@@ -1848,7 +1820,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>79E27990-373F-47F4-8BF5-B595A17F83E7</p>
@@ -1872,8 +1844,6 @@ ttime
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 For breakfast I eat a slice of buttered toast and a cup of coffee. The time taken to complete these activities is as follows:
@@ -1914,8 +1884,8 @@ For breakfast I eat a slice of buttered toast and a cup of coffee. The time take
 <pre class='language-latex'><code class='language-latex'></code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1962,7 +1932,7 @@ The coffee making takes $2 \ \text{minutes}$, which I can do while my bread is g
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2084,7 +2054,7 @@ discuss with uday
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>36CD4F24-0C6D-4BE2-ADC6-E8633C0E7C8A</p>
@@ -2108,8 +2078,6 @@ tgraph
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The chart below shows the mileage between five places in North London. For example it gives the distance between Kenton and 
@@ -2250,7 +2218,7 @@ She travelled altogether $= 60 \ \text{miles}$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prpcr question'>
 <div class='uuid'>
 <p>12F567E6-42DC-4EE3-A2CE-D09D970305D7</p>
@@ -2274,8 +2242,6 @@ tprofit
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 %empty%
@@ -2314,8 +2280,8 @@ tprofit
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2411,7 +2377,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2541,7 +2507,7 @@ part b is wrong, do not calculate 20% on final price, use algebra
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prpcc question'>
 <div class='uuid'>
 <p>1D053FF5-F5C3-4A33-9F15-EF02705C8BD0</p>
@@ -2565,8 +2531,6 @@ tspeed
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Train $A$ leaves Birmingham New Street station at $1747$ travelling due North on the slow line at $90 \ \text{km/hour}$.
@@ -2642,8 +2606,8 @@ $
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2798,7 +2762,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>5763667B-7B97-4C9F-ACC9-0AA8F894565A</p>
@@ -2822,8 +2786,6 @@ tgeometry
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The diagram below shows a piece of abstract art hanging up on Andrew's bedroom wall. 
@@ -2940,7 +2902,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>19D1A71C-91C4-4B84-AFB5-93282AFDD08B</p>
@@ -2967,8 +2929,6 @@ tvolume
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Every evening Diana has a bath. She turns on the taps and waits patiently for the bath to fill before she turns them off and steps in. At the end of her bath she steps out of the water before pulling out the plug to empty the bath. 
@@ -3011,8 +2971,8 @@ A graph of the volume of water (measured in litres) plotted against time (measur
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3065,7 +3025,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3122,7 +3082,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3215,7 +3175,7 @@ Same
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>922BF11C-6CA4-42A0-9968-DD93678A9BF4</p>
@@ -3239,8 +3199,6 @@ tpermutation
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Amar (form captain), Brian (vice captain), Charles and Daniel are best friends in the same class at school. 
@@ -3284,8 +3242,8 @@ There are two ways in which these boys can queue up on a Monday: $ABCD$ and $ABD
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3337,7 +3295,7 @@ $\text{ADBC, ADCB}$
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3548,7 +3506,7 @@ Total arrangements $= 4 \times 3 \times 2 \times 1 = 24$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>FFF7EC5F-798A-4462-8842-4DB52EB09519</p>
@@ -3575,8 +3533,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Isolde enjoys making cubes. She first draws out shapes on pieces of cardboard and then folds them along the lines to form a cube. 
@@ -3699,7 +3655,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>0DB24821-F222-4AA3-A90B-8A08F41EC2D7</p>
@@ -3723,8 +3679,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 As part of a mathematics project a class is asked to look up the lengths of objects on the internet.
@@ -3845,7 +3799,7 @@ Draw lines on the diagram to match each object with its correct length.
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A2647CBD-0E93-49BA-A66F-0E5B9BB50BB9</p>
@@ -3869,8 +3823,6 @@ tprofit
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In this question you may assume the following exchange rates:
@@ -3912,8 +3864,8 @@ $1$ British pound ($\pounds$) = $2$ New Zealand dollars (NZ$ \ \text{\textdollar
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3983,7 +3935,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -4048,7 +4000,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -4165,7 +4117,7 @@ $1$ New Zealand dollar \textdollar $= 0.75$ US \textdollar
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>08D99911-EB77-416A-961E-BEDB8022606B</p>
@@ -4189,8 +4141,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Seven children, $A, B, C, D, E, F, G$ take part in a competition.
@@ -4325,7 +4275,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>9202CC40-1392-4E60-A7E3-AAB80195C889</p>
@@ -4349,8 +4299,6 @@ tstatistics
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The average of a set of numbers is worked out by adding the numbers together and then dividing by the number of numbers.
@@ -4391,8 +4339,8 @@ Work out the average of:
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -4452,7 +4400,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -4511,7 +4459,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -4570,7 +4518,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -4629,7 +4577,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -4672,7 +4620,7 @@ The mean for triplets is twice the mean for the previous triplets.
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -4799,7 +4747,7 @@ Seventh number $= 28$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>D5D04B6A-C186-4C9B-A22C-D8EA6F39A66F</p>
@@ -4823,8 +4771,6 @@ tprobability
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Tristan is given six bags of fruit.
@@ -4877,8 +4823,8 @@ He is allowed to choose one of these bags and then pick just one piece of fruit 
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -4984,7 +4930,7 @@ Bag $B$
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -5150,7 +5096,7 @@ no working shown, show probability and calculate the decimal value for them and 
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C7718EC4-3E45-4D6F-B095-C4FF78D39AA3</p>
@@ -5174,8 +5120,6 @@ tgraph
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The diagram below shows a sequence of squares drawn on a grid. 
@@ -5222,8 +5166,8 @@ Write down the coordinates of the centre of:
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -5270,7 +5214,7 @@ $(3, 5)$
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -5313,7 +5257,7 @@ $(4, 7)$
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -5356,7 +5300,7 @@ $(10, 19)$
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -5399,7 +5343,7 @@ $(234, 467)$
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -5528,7 +5472,7 @@ X-coordinate of the center of the square $= 1089$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>1E9F03BA-7298-4606-953B-9C6149610C9A</p>
@@ -5552,8 +5496,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In the triangles shown below each number is the sum of the two numbers directly underneath it. 
@@ -5621,8 +5563,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -5692,7 +5634,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -5812,7 +5754,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>F8A86128-E9CD-4E5B-81FE-655FA461B833</p>
@@ -5839,8 +5781,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The diagram below shows a rectangle, $9$ units long, $6$ units wide and with parts of non-overlapping circles drawn all over it. 
@@ -5907,8 +5847,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 

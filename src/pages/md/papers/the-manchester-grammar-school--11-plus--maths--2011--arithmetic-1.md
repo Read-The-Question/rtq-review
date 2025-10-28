@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2011-arithmetic-1"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2011 - Arithmetic 1"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "20"
 ---
 <div class='paper'>
@@ -12,8 +12,8 @@ questions_count: "20"
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>1F0A2433-D525-48CE-81FF-096EB10509BF</p>
@@ -37,8 +37,6 @@ tdetailedaddition
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $483 + 249$.
@@ -141,7 +139,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>592A7270-AE5F-46DD-A5CD-5293B41C79F7</p>
@@ -165,8 +163,6 @@ tdetailedmultiplication
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $187 \times 60$.
@@ -275,7 +271,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>7A0547CE-4780-4C98-8F44-705D53000745</p>
@@ -299,8 +295,6 @@ tfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $22\dfrac{1}{2} \div 5$.
@@ -414,7 +408,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>23BA576A-774F-4E22-884E-3C38C9F35B7C</p>
@@ -438,8 +432,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Write in figures the number one million ten thousand and one.
@@ -528,7 +520,7 @@ $1010001$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>30031157-8687-4B93-8985-5B4931D1E9A0</p>
@@ -552,8 +544,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the product of the sum of $8$ and $4$ with the difference of $3$ and $12?$
@@ -656,7 +646,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>6789607F-5F2D-4D59-A07E-046CD61362DB</p>
@@ -680,8 +670,6 @@ tpermutation
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How many $2$-digit numbers contain at least one $4?$
@@ -806,7 +794,7 @@ Count $= 10 + 8 = 18$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>4C2A869B-1707-489C-A49A-F96518FD445D</p>
@@ -830,8 +818,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A baby crocodile grows by $\dfrac{1}{5}$ of its length 
@@ -956,7 +942,7 @@ Length of the baby crocodile last week $= 25 \ \text{cm}$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>392BD257-E69F-4C32-9522-BF8501F826C5</p>
@@ -983,8 +969,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Rodger has seven cubes, each one with edges $1 \ \text{cm}$ 
@@ -1121,7 +1105,7 @@ Painted area $= 30 \ \text{cm}^2$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>BEB3546E-2716-4336-88AC-C154568C8CE6</p>
@@ -1148,8 +1132,6 @@ tunitprompt
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Neil drives his car for $20 \ \text{minutes}$ at $45 \ \text{kilometres per hour}$.
@@ -1290,7 +1272,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>CD4E90E7-C73A-4D86-AF47-8098450924E0</p>
@@ -1314,8 +1296,6 @@ tvolume
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A child's building brick 
@@ -1431,7 +1411,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>010B7105-7B4C-491B-A097-C3E59F66C07F</p>
@@ -1455,8 +1435,6 @@ tmoney
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $15\%$ of $\pounds 3$.
@@ -1563,7 +1541,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>BF903884-5D0D-4F9E-B0F7-EDC591FE49F7</p>
@@ -1587,8 +1565,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The *facsum* of a number is the sum of all its factors.
@@ -1695,7 +1671,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>91042F17-061F-4256-AC8C-8BE46A41FCD2</p>
@@ -1719,8 +1695,6 @@ tfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Write $0.36$ as a fraction in its simplest form.
@@ -1825,7 +1799,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>B7F28045-5B69-4DBE-903E-2067CBEB11BA</p>
@@ -1858,8 +1832,6 @@ tunitprompt
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 I have some $20\ \text{p}$ pieces. I have twice as 
@@ -2027,7 +1999,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>3006214B-FA8B-4235-885A-996FE8877264</p>
@@ -2051,8 +2023,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Irfan is standing in a queue of $24$ people.
@@ -2191,7 +2161,7 @@ Irfan is $16 \text{th}$ in the queue.
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>62028F5D-6918-47EE-9E20-6E995EF362A2</p>
@@ -2215,8 +2185,6 @@ tfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How much is $\dfrac{3}{4}$ of $\dfrac{2}{5}$ of $\pounds 1?$
@@ -2327,7 +2295,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>BFE40D96-8522-4C51-9255-AA907949965E</p>
@@ -2351,8 +2319,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Three CDs and two DVDs cost $\pounds 43$. Two CDs and three DVDs cost $\pounds 47$. What is the cost of one CD?
@@ -2635,7 +2601,7 @@ Cost of a CD $= \pounds 7$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>74DBCD36-37BB-4856-BF34-7C3AA8E7DF0E</p>
@@ -2662,8 +2628,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The area of a rectangle is $72$ $ \ \text{cm} ^2$. The length of the rectangle is $1 \ \text{cm}$ more than the width.
@@ -2827,7 +2791,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>15AAA21D-323A-42DC-BF5A-82371B49D4EB</p>
@@ -2851,8 +2815,6 @@ tstatistics
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Four boys have an average mass of $50 \ \text{kg}$ and 
@@ -2966,7 +2928,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>F207FFB6-A6D4-4577-9DA7-E4F417716CE8</p>
@@ -2990,8 +2952,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Ten cards numbered from $1$ to $10$ are put in order in a pile, with $1$ on the top. 

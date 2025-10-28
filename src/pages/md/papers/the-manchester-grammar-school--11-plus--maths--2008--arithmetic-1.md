@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2008-arithmetic-1"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2008 - Arithmetic 1"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "40"
 ---
 <div class='paper'>
@@ -12,8 +12,8 @@ questions_count: "40"
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>D0601525-2F43-40C8-BB52-5C600844A419</p>
@@ -37,8 +37,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Write out in figures the number thirty thousand and twenty four.
@@ -127,7 +125,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>C51E8639-AFD4-484F-A84A-47D4FDF21805</p>
@@ -151,8 +149,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $36 \times 25$.
@@ -241,7 +237,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>5228320F-2ECB-4E1A-A46B-27E4789AA6BC</p>
@@ -265,8 +261,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the difference between $3 \times 3 \times 3 \times 3$ and $4 \times 4 \times 4?$
@@ -355,7 +349,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>0FD75FED-F1C3-4A91-9EE2-490E67F593C2</p>
@@ -379,8 +373,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Stephen bought a toy for $\pounds 4.24$ and received four coins in change from a $\pounds 5$ note. What were the coins?
@@ -469,7 +461,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>B877122F-04C1-41F2-BD48-4658BABE77B2</p>
@@ -493,8 +485,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In a test Rodger scored $12$ marks. His percentage score was $25\%$. How many marks was the test marked out of?
@@ -583,7 +573,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>40320B88-8CE8-4691-8079-AEE450308BC2</p>
@@ -607,8 +597,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $347 + 256 – 101$.
@@ -697,7 +685,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>44E48EBA-FA35-4895-BE33-E8363762A953</p>
@@ -721,8 +709,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Add up the prime numbers between $20$ and $30$.
@@ -811,7 +797,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>488060BB-6DE0-46AD-9AFF-1F175CC2302E</p>
@@ -835,8 +821,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the first number in this sequence which is greater than
@@ -928,7 +912,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>2CFF69E4-D115-4BFD-AA29-3DDA9103EFA6</p>
@@ -952,8 +936,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Aidan divides a line $42 \ \text{centimetres}$ long into three sections. The first section is twice as long as the middle section which is twice as long as the last section. How long is the middle section?
@@ -1042,7 +1024,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>59AEF280-4E2F-4466-8760-99B234212333</p>
@@ -1066,8 +1048,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A rectangle of width $50 \ \text{cm}$ has an area of $2 \ \text{square metres}$. What is the length of the rectangle, in centimetres?
@@ -1156,7 +1136,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>EDD2DEAE-0158-432B-9FA0-91A4A18A6DA5</p>
@@ -1180,8 +1160,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $4.7 + 3.52$.
@@ -1270,7 +1248,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>99A72A4B-A8B3-4226-9F3E-9B85AD87B82A</p>
@@ -1294,8 +1272,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $7.2 - 3.95$.
@@ -1384,7 +1360,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>84995D40-94BA-4025-ADF1-496FFB037270</p>
@@ -1408,8 +1384,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Multiply $3.4$ by $1.2$.
@@ -1498,7 +1472,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>9CA3B8FE-3339-4940-9795-531BAB42100F</p>
@@ -1522,8 +1496,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Divide $4.2$ by $0.2$.
@@ -1612,7 +1584,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>6DFA6F13-4A38-4E80-860D-C9A347210719</p>
@@ -1636,8 +1608,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Andrew earns $\pounds 35000$ in a year. He gives $1\%$ of his money to charity. How much does he have left?
@@ -1726,7 +1696,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>D8410928-5F64-4E67-A868-40A8396E162F</p>
@@ -1750,8 +1720,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In a triangle, two of the angles are equal and the third is twice as big as each of the other two. What is the largest angle?
@@ -1840,7 +1808,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>ECD3A7B9-1755-4E90-ACB3-B3D03BF199FC</p>
@@ -1864,8 +1832,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the largest number that is a factor of both $48$ and $64?$
@@ -1954,7 +1920,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>A08F5A66-4397-454D-A061-5E52D8A9C8F5</p>
@@ -1978,8 +1944,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In this magic square, every row, column, and diagonal has to add up to $15$. What number will be in the square labelled $A?$
@@ -2074,7 +2038,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>DF890BC5-D919-49FC-90B4-33AE59B7E3EC</p>
@@ -2098,8 +2062,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the remainder when I divide $4798$ by $11?$
@@ -2188,7 +2150,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>42A59AA7-1617-423D-8217-8CC92966269D</p>
@@ -2212,8 +2174,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Wyn and Godfrey’s ages add up to $10$. In ten years time Wyn will be one and a half times as old as Godfrey. How old is Godfrey now?
@@ -2302,7 +2262,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>58E674A0-9C40-4702-A3C3-72293B417899</p>
@@ -2326,8 +2286,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $2\dfrac{3}{5} + 4\dfrac{9}{10}$
@@ -2416,7 +2374,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>F4D7CA17-BC1C-4E02-A653-3E6D6DF59F6D</p>
@@ -2440,8 +2398,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $4 - 1\dfrac{7}{12}$
@@ -2530,7 +2486,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>B5DBCD6C-486D-4B88-8633-399509CEC9F8</p>
@@ -2554,8 +2510,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $3\dfrac{1}{10} \times 5$.
@@ -2644,7 +2598,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>E2817C52-8863-452F-9F31-851860FD265E</p>
@@ -2668,8 +2622,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $27\dfrac{1}{2} \div 11$.
@@ -2758,7 +2710,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>EE260662-1AD5-4EE7-B705-666EF9DA4D73</p>
@@ -2782,8 +2734,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 David has a square piece of card. He cuts off the areas which are shaded, as shown in this diagram. What fraction of the original area is now remaining?
@@ -2874,7 +2824,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>9C9F3F0F-64BB-4220-85DB-2D40814ABCC3</p>
@@ -2898,8 +2848,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the angle between the hands of a clock at five o’clock?
@@ -2988,7 +2936,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>CB791DB2-6F5A-41C0-BE6B-0A45C0CAB98F</p>
@@ -3012,8 +2960,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is $\dfrac{1}{2}$ of $\dfrac{1}{3}$ of $\dfrac{1}{4}?$
@@ -3102,7 +3048,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>1525B62F-A5B4-4C94-AA13-0EC5377F4ECA</p>
@@ -3126,8 +3072,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Irfan bends a piece of wire into a square. The area of the square is $64 \ \text{square centimetres}$. How long is the wire?
@@ -3216,7 +3160,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>53C0BF87-B7DE-40C6-8624-47F49495EF77</p>
@@ -3240,8 +3184,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Neil spends $\dfrac{1}{3}$ of his money. He then spends $\dfrac{1}{3}$ of what he has left. What fraction of his money did he spend altogether?
@@ -3330,7 +3272,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>31C3080B-0182-42EF-B3D9-055EFE949768</p>
@@ -3354,8 +3296,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Geraint spent $46 \ \text{pence}$ on sweets which cost either $5 \ \text{pence}$ or $7 \ \text{pence}$ each. How many sweets did he buy altogether?
@@ -3444,7 +3384,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>9B587D33-6671-4114-B34E-8DC5932AEFB8</p>
@@ -3468,8 +3408,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Add together $3 \ \text{metres}, 3 \ \text{centimetres}$ and $3 \ \text{millimetres}$. Give your answer in millimetres.
@@ -3558,7 +3496,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>79F0E78B-BCB0-430B-98FD-F50413C91D17</p>
@@ -3582,8 +3520,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Nigel drives at a steady speed of $80 \ \text{kilometres per hour}$ for five hours. Tim does the same journey at a steady speed of $50 \ \text{kilometres per hour}$. How long does it take Tim to complete the journey?
@@ -3672,7 +3608,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>1F7E71DC-7A68-44D1-A673-3DEB109A7537</p>
@@ -3696,8 +3632,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the difference between the difference between $8$ and $5$ and the difference between $11$ and $21?$
@@ -3786,7 +3720,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>89B4965C-3BB6-4E9C-80CD-CAAD59DD5500</p>
@@ -3810,8 +3744,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In a sale, prices have been reduced by $30\%$. Irfan buys a carpet which is priced at $\pounds 280$ in the sale. What was the original price of the carpet?
@@ -3900,7 +3832,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>C34E5CB3-8CC7-4173-8E68-324173288D87</p>
@@ -3924,8 +3856,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 If I join every cross in the pattern to every other cross how many lines will I draw?
@@ -4016,7 +3946,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>771B8C80-0E13-4A54-8D85-8942C32A2AE1</p>
@@ -4040,8 +3970,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A cuboid is $3 \ \text{centimetres}$ long, $2 \ \text{centimetres}$ wide and $1 \ \text{centimetre}$ high. What is the total area of all the faces?
@@ -4130,7 +4058,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>E71E0E6D-5753-4634-B421-04054E89B4D8</p>
@@ -4154,8 +4082,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How many different four-digit numbers can be made by using the digits $1, 1, 2$ and $3?$
@@ -4244,7 +4170,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>C36FFFAF-DABC-4139-8E73-DA22133940FC</p>
@@ -4268,8 +4194,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
  In a certain year, March $1^\text{st}$ fell on a Saturday. What was the next month which started on a Saturday?
@@ -4358,7 +4282,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>29282B32-9AF8-4D04-9BA3-F2A7BE885998</p>
@@ -4382,8 +4306,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The average temperature in Manchester last week over the five days from Monday to Friday was $14 \degree \text{C}$. On Monday the temperature was $18 \degree \text{C}$ and on Tuesday it was $16 \degree \text{C}$. What was the average temperature on the other three days?
@@ -4472,7 +4394,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>8939E2F9-EF07-46DA-B55C-8B2ED13F3BEC</p>
@@ -4496,8 +4418,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $2$ oranges and $3$ lemons cost $64 \ \text{pence}$. $3$ oranges and $4$ lemons cost $89 \ \text{pence}$. What is the cost of an orange?

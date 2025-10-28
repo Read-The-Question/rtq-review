@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2011-sample-paper-2"
 title: "Sevenoaks School - 11 Plus - Maths - 2011 - Sample Paper 2"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "18"
 ---
 <div class='paper'>
@@ -12,8 +12,8 @@ questions_count: "18"
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>4CF06226-1747-426B-BA82-C10BCDC5B86E</p>
@@ -37,8 +37,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 %empty% 
@@ -77,8 +75,8 @@ tnumber
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -138,7 +136,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -203,7 +201,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -264,7 +262,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -371,7 +369,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>0E978EF0-5AA5-41D7-BA1E-A165B13DC328</p>
@@ -395,8 +393,6 @@ tmoney
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Maya made three purchases for $\pounds 1.08, \pounds 5.04$ and $\pounds 9.89$. What did she spend in total, to the nearest pound?
@@ -497,7 +493,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>0069FF49-93FC-4210-AE5C-E85491840B4B</p>
@@ -521,8 +517,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 %empty% 
@@ -561,8 +555,8 @@ talgebra
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -629,7 +623,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -694,7 +688,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -807,7 +801,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>EBBBB685-5F66-4C0A-B900-F87730E2E0CE</p>
@@ -831,8 +825,6 @@ tratio
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 James draws a plan of his school using a scale of $1 \ \text{cm}$ to $6 \ \text{m}$. On the plan the playground is $5 \ \text{cm}$ long. What is the real length of the playground? 
@@ -979,7 +971,7 @@ Real length of playground $= 30 \ \text{m}$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>2D3887D2-B353-4878-B512-D95F4548DFE8</p>
@@ -1003,8 +995,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 One display cabinet holds $38$ DVDs. How many cabinets will be needed to hold $646$ DVDs? 
@@ -1107,7 +1097,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prpcc question'>
 <div class='uuid'>
 <p>00594CC4-DB7B-458D-945E-CC2A6F291884</p>
@@ -1134,8 +1124,6 @@ tunit
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What fraction of $2.4 \ \text{litres}$ is $400 \ \text{ml} \text{?}$
@@ -1251,7 +1239,7 @@ Add LHS \"Fraction\"
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>143EBA44-35A7-43F9-B4A5-2E3EFAEFDA1B</p>
@@ -1278,8 +1266,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Eliot is now twice his cousin's age. In $4 \ \text{years'}$ time Eliot will be $16$. How old will his cousin be then?
@@ -1414,7 +1400,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>2C800B97-A0D1-4D8B-BAE2-26CE52978A34</p>
@@ -1438,8 +1424,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Seeta and Ben eat Weetabix breakfast cereal every day. They each eat more than one biscuit a day. Each Weetabix box contains $24$ biscuits. Ben eats $x$ biscuits each morning. Seeta is less hungry and only has $y$ biscuits.
@@ -1566,7 +1550,7 @@ Not solved.
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prpcr question'>
 <div class='uuid'>
 <p>FEDF1274-F3D1-48A8-9364-946A301048E2</p>
@@ -1590,8 +1574,6 @@ tmoney
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Six people pay $\pounds 5.50$ each for a meal in a restaurant. They leave a $10 \%$ tip for the waiter. How much change do they receive from a $\pounds 50$ note?
@@ -1719,7 +1701,7 @@ Change to £3.30 3.30 and 3.60
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prpcc question'>
 <div class='uuid'>
 <p>A62FD050-8CF5-4180-9976-6E1B8C2FC613</p>
@@ -1743,8 +1725,6 @@ tfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Calculate :
@@ -1783,8 +1763,8 @@ Calculate :
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1843,7 +1823,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1965,7 +1945,7 @@ a: Step 2 and 3 Change to 2.5
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prpcc question'>
 <div class='uuid'>
 <p>495EEBF7-BB89-45C4-A1FA-FC931EB31EFB</p>
@@ -1989,8 +1969,6 @@ tgraph
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $40$ children predicted who would win the boys' Call of Duty competition. 
@@ -2138,7 +2116,7 @@ write as per guidelines i wrote all in one line
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>000F26CC-5C2D-4850-8657-54919DE2A725</p>
@@ -2165,8 +2143,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 This design has one large square and two identical small squares.
@@ -2301,7 +2277,7 @@ Length of the side of the large square $= 20 \ \text {cm}$.
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>A357F3C3-8EC2-4FD2-89FD-77A288594B29</p>
@@ -2325,8 +2301,6 @@ tratio
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Maya wants to make some purple paint. She knows that she can make purple by mixing red and blue paint in the ratio $4:5$.
@@ -2365,8 +2339,8 @@ Maya wants to make some purple paint. She knows that she can make purple by mixi
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2483,7 +2457,7 @@ Blue paint needed $= 15 \ \text{litres}$
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2536,7 +2510,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2709,7 +2683,7 @@ Red paint needed $= 16 \ \text{litres}$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>72D0FDA3-04D8-4534-BA0D-543FBA1D3379</p>
@@ -2736,8 +2710,6 @@ tpercentage
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Lizzie gets $20\%$ on a $10$-problem test, $80\%$ on a $20$-problem test and $9 \%$ on a $30$-problem test. If the three tests are combined into one $60$-problem test, what percentage is her overall score?
@@ -2880,7 +2852,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>5EEA5878-A614-44FD-8746-769FF281F523</p>
@@ -2904,8 +2876,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A number is called a palindrome if it reads the same backwards as forwards. For example, $13931$ is a palindrome. 
@@ -3010,7 +2980,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>F1E5096A-F0A3-4F40-A2AD-94EE8225614B</p>
@@ -3034,8 +3004,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In a children's game you call out all the numbers from $1$ to $100$. You clap every time you say either a multiple of $3$ or a number ending in $3$. How many times would you clap?
@@ -3149,7 +3117,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>768E8124-E100-4034-92CC-5852FA94391F</p>
@@ -3173,8 +3141,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Four children bought a birthday present for their father. One of the children hid the present. Their mother asked them who had hidden the present. The four boys involved made the following statements about the offender:
@@ -3298,7 +3264,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_red rag_prr question'>
 <div class='uuid'>
 <p>BD685B1C-24D9-4333-832A-AC45353FEB89</p>
@@ -3322,8 +3288,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 When freezing, water increases its volume by $\dfrac {1} {11}$. By what part of its volume will ice decrease when it melts and turns back into water?

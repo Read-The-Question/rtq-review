@@ -1,7 +1,7 @@
 ---
 slug: "papers/forest-school-11-plus-maths-9999-sample-paper-3"
 title: "Forest School - 11 Plus - Maths - 9999 - Sample Paper 3"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "42"
 ---
 <div class='paper'>
@@ -12,8 +12,8 @@ questions_count: "42"
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>443FF136-4F13-495A-B0D8-B79ED4BB7A0A</p>
@@ -37,8 +37,6 @@ xdetailedaddition
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $76+65$.
@@ -141,7 +139,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>F4D7AC34-003F-406C-93DE-898A5B3961CB</p>
@@ -165,8 +163,6 @@ xdetailedsubtraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $92-57$.
@@ -269,7 +265,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>E2D78D05-D9CF-47E0-8A93-82C958FFC71F</p>
@@ -293,8 +289,6 @@ xdetailedmultiplication
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $73 \times 8$.
@@ -397,7 +391,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>B4449DC1-1575-4507-A704-4819998A11BE</p>
@@ -421,8 +415,6 @@ xdivision
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $868 \div 7$.
@@ -527,7 +519,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>484DA5EE-8494-4220-9451-4C7F27842B89</p>
@@ -551,8 +543,6 @@ xmoney
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How many $\pounds 5$ notes are needed to make $\pounds 1000$?
@@ -655,7 +645,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>FAAA6D43-7323-4712-AD1E-119D0A604FB3</p>
@@ -679,8 +669,6 @@ xmoney
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How much change would I get from $\pounds 20$ if I bought $3$ pens at $\pounds 1.60$ each, $2$ pencils at $62\ \text{p}$ and a magazine for $\pounds4.50$?
@@ -789,7 +777,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>B20B394E-AAC5-4882-9DFD-42C51F97360C</p>
@@ -813,8 +801,6 @@ xtime
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How many seconds are there in one week?
@@ -923,7 +909,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>D5A84336-59FA-441D-8535-E9BBD9E090DD</p>
@@ -947,8 +933,6 @@ xratio
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Daisy the cow takes $1\ \text{hour}$ to walk $4\ \text{km}$.
@@ -1039,7 +1023,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>F231384D-1EB9-4DE3-AA94-BEF2F19435FB</p>
@@ -1063,8 +1047,6 @@ xinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In this pyramid each number is the sum of the two numbers below it. Complete the boxes.
@@ -1155,7 +1137,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>B443DE88-8818-4C48-8CCB-ED00D579B69F</p>
@@ -1179,8 +1161,6 @@ xstatistics
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Theo has taken $4$ tests and his average marks is $60\%$. He scores $70%$ on his fifth test. What is his average now?
@@ -1269,7 +1249,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>DDB53A5E-729F-426D-A35F-ED8A01587F21</p>
@@ -1293,8 +1273,6 @@ xpermutation
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Priya has $5\ \text{p}$ and $13\ \text{p}$ stamps. She can make a $36\ \text{p}$ total with two $5\ \text{p}$ stamps and two $13\ \text{p}$ stamps. How could she make the following totals?
@@ -1333,8 +1311,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1377,7 +1355,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1470,7 +1448,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>FC8DC3CD-9734-4AC2-AC3C-A1E72D5D2E05</p>
@@ -1494,8 +1472,6 @@ xsequence
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How could this sequence continue?
@@ -1588,7 +1564,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>E401759D-17AF-48FA-BF5C-4D85054AED5D</p>
@@ -1612,8 +1588,6 @@ xsequence
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $16$ counters are arranged to make a $6$ counter by $4$ counter border.
@@ -1656,8 +1630,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1700,7 +1674,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1793,7 +1767,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>82FDE995-9981-4CF7-B0D3-4AC885726ECC</p>
@@ -1817,8 +1791,6 @@ xnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Write in digits the number "four million four hundred and four".
@@ -1907,7 +1879,7 @@ $4,000,404$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>7F43073D-AB7A-407C-9B2F-D907D5067CB9</p>
@@ -1931,8 +1903,6 @@ xvolume
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A $9\ \text{cm}$ wide marble just fits inside a cube-shaped box. How many $3\ \text{cm}$ wide marbles would fit inside the box?
@@ -2021,7 +1991,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>E65594CD-766B-4029-930D-5D83EBEB081B</p>
@@ -2045,8 +2015,6 @@ xsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In Norton Juster's book The Phantom Tollbooth we learn that the hero, Milo, smiles warmly on average $47$ times a day.
@@ -2137,7 +2105,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>6F1D209B-09A0-4F45-A18E-D6F96A18B0B2</p>
@@ -2161,8 +2129,6 @@ xratio
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 On one day in $2008$, $\pounds 1$ was worth $\text{\textdollar} 1.25$. What was $\text{\textdollar} 1$ worth in pence on that day?
@@ -2251,7 +2217,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>E4C1D7CF-D083-4D69-B83B-3844EF2F5390</p>
@@ -2275,8 +2241,6 @@ xsequence
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Find the missing prime number
@@ -2367,7 +2331,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>8F5E5E77-E990-4FD0-B959-BFD12571C0F9</p>
@@ -2391,8 +2355,6 @@ xmoney
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A maths book cost $\pounds 15.49$. How much change do you get if you pay only with $\pounds 1$ coins?
@@ -2481,7 +2443,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>43997A7F-9D9E-4737-B0E7-C6FC839A9DF1</p>
@@ -2505,8 +2467,6 @@ xstatistics
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Gavinder is $11\ \text{years}$ and $2\ \text{months}$ old.
@@ -2601,7 +2561,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>5989FBEC-9BCA-467B-8AC6-47CB8C7E8979</p>
@@ -2625,8 +2585,6 @@ xalgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In a bag there are twice as many blue balls as red balls. There are $18$ balls altogether. How many blue balls are there?
@@ -2715,7 +2673,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>5F08B8C0-EBD2-4AEF-9359-E0D215D8D533</p>
@@ -2739,8 +2697,6 @@ xalgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Ayesha has some sweets. He gives $\dfrac{1}{6}$ of them to Neelesh.
@@ -2835,7 +2791,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>77F662CB-5FA9-4846-8F5C-A77E5A273154</p>
@@ -2859,8 +2815,6 @@ xtime
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A film lasts $2\ \text{hours} \ 20\ \text{minutes}$.
@@ -2953,7 +2907,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>233F9144-D83F-4F59-8E1C-D3298EC91E34</p>
@@ -2977,8 +2931,6 @@ xfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Multiply $21$ by $\dfrac{2}{7}$.
@@ -3085,7 +3037,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>493A1F5D-EEC5-4638-BE5D-ED85AE10B7E6</p>
@@ -3109,8 +3061,6 @@ xsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Mike's copy of Leo Toistoy's War and Peace is $981$ pages long.
@@ -3203,7 +3153,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>245B809A-CA82-47B3-9241-30FCAC3D35B8</p>
@@ -3227,8 +3177,6 @@ xinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Rule: If a card has a vowel on one side, then it has an even number on the other side.
@@ -3321,7 +3269,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>BA3E6C3C-AA25-4203-87A7-E2C98BC2602E</p>
@@ -3345,8 +3293,6 @@ xfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is $\dfrac{1}{3}$ of $414?$
@@ -3453,7 +3399,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>AD563FF3-4A18-4AF2-9E74-CB73F55F830D</p>
@@ -3477,8 +3423,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Complete these sequences of clockwise quarters turns
@@ -3569,7 +3513,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>F4CB9E2E-D090-48B9-A801-C1206F70111F</p>
@@ -3593,8 +3537,6 @@ xfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is $0.15$ as a fraction in its lowest terms?
@@ -3699,7 +3641,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>7BF7EA9C-CF7D-4B90-B3C7-974E0A5B5DC2</p>
@@ -3723,8 +3665,6 @@ xdetailedaddition
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is $1.83 + 0.2?$
@@ -3832,7 +3772,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>FDCFF74C-21F7-4721-A17D-ECD1DDFE0C64</p>
@@ -3856,8 +3796,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The Ancient Egyptians generally only used "unit dfractions", having the number $1$ as numerator (such as $\dfrac{1}{3}$ or $\dfrac{1}{7}$).
@@ -3950,7 +3888,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>D49760A6-FE30-43D5-9F65-B422C9D53174</p>
@@ -3974,8 +3912,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 This net is folded to make a box.
@@ -4068,7 +4004,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>2A3DB652-F9A2-4C28-8598-46BECFC7B0C6</p>
@@ -4092,8 +4028,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Find the number of different ways of arranging the letters $\text{CYZZ}$ by listing them all.
@@ -4186,7 +4120,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>45FD817B-D0FF-409A-94BE-323A4DF48D5C</p>
@@ -4210,8 +4144,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In a chess league there are $3$ teams and they all play each other once.
@@ -4302,7 +4234,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>399639CE-0213-46AF-953F-B99CFB19D875</p>
@@ -4326,8 +4258,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 *ABBR: TODO:: Find the right katex symbol.*
@@ -4425,7 +4355,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>53AE352D-2189-4BFA-AB5E-5096E62A6BEA</p>
@@ -4449,8 +4379,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Subtract $0.02$ from $1.3$.
@@ -4558,7 +4486,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>F5EABDFB-9B42-4707-A3FD-34DCB39129AF</p>
@@ -4582,8 +4510,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What number is halfway between $1.9$ and $1.99?$
@@ -4688,7 +4614,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>08338F4E-2D9C-4CED-A85F-65206FB169D0</p>
@@ -4712,8 +4638,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 *ABBR: TODO:: Find the right katex symbol.*
@@ -4812,7 +4736,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>F5C16405-4A34-45D2-B741-10301CD3F154</p>
@@ -4836,8 +4760,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Jenny is doing a maths exam and scores $136$ out of $214$.
@@ -4940,7 +4862,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>092ADA60-1CD0-4B91-8491-A9E66D8046C5</p>
@@ -4964,8 +4886,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the $102^\text{nd}$ letter of this sequence of letters?
@@ -5056,7 +4976,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>EC34CDA9-C98C-4BBD-8226-C46182C0E1A4</p>
@@ -5080,8 +5000,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Prashant wants to tape "The Y Factor" one Saturday evening.
@@ -5176,7 +5094,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>1721DA38-0688-4A7E-8BEB-C03A82F3F1F3</p>
@@ -5200,8 +5118,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Romily and Reema are collecting money for charity.

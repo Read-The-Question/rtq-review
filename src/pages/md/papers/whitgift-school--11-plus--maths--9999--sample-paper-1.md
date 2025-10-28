@@ -1,7 +1,7 @@
 ---
 slug: "papers/whitgift-school-11-plus-maths-9999-sample-paper-1"
 title: "Whitgift School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "33"
 ---
 <div class='paper'>
@@ -14,8 +14,8 @@ questions_count: "33"
 </div>
 
 # Section A
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>EBBA8025-CCA0-4B2E-A205-D28C0E59A011</p>
@@ -39,8 +39,6 @@ tdetailedaddition
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $
@@ -149,7 +147,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>87BBBF95-BF05-4710-8206-4E337956FB22</p>
@@ -173,8 +171,6 @@ tdetailedsubtraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $
@@ -283,7 +279,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>4260496C-5CFD-4DCF-AD5E-0942547499C8</p>
@@ -307,8 +303,6 @@ tdetailedmultiplication
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $14 \times 7 \times 2$
@@ -409,7 +403,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>A547290D-8C41-4C9B-A7F1-47894E812D75</p>
@@ -433,8 +427,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $18-17+16-15+14-13$
@@ -540,7 +532,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>79F23A29-1172-45A2-8516-2EE7A4E3916B</p>
@@ -564,8 +556,6 @@ tdetailedmultiplication
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $531 \times 135$
@@ -676,7 +666,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>1D26A49F-3EE4-4010-8B68-95938026FE00</p>
@@ -700,8 +690,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $12321 \div 9$ 
@@ -815,7 +803,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>57F800B6-BD15-4617-BFF2-9A416E11F534</p>
@@ -839,8 +827,6 @@ tmoney
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $\pounds 1.28 + 57 \ \text{p}$
@@ -946,7 +932,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>D0B9ED68-92DB-4BA0-B54C-E29CBBCC89B9</p>
@@ -970,8 +956,6 @@ tmoney
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $\pounds 1.28 - 57 \ \text{p}$
@@ -1077,7 +1061,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>C1973D01-029D-4F22-8DE1-F3678679D1B4</p>
@@ -1101,8 +1085,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Write in figures the number forty-two thousand and eight. How much is this number less than one million? 
@@ -1199,7 +1181,7 @@ This number is $957992$ less than one million.
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>AC94F9F4-D5A9-41EE-82F8-16EB75BDCB03</p>
@@ -1223,8 +1205,6 @@ ttime
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A plane leaves London Airport at $16{:}30$ and takes $5\dfrac {3} {4}\ \text{hours}$ on its journey. At what time does it arrive?
@@ -1325,7 +1305,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>556DD2D4-6885-4122-8082-119CA4B4EC96</p>
@@ -1349,8 +1329,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 %empty% 
@@ -1360,8 +1338,8 @@ tnumber
 
 
 
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1416,7 +1394,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1525,7 +1503,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>60FB94CF-298C-4D14-96E7-2CA556BD7B91</p>
@@ -1549,8 +1527,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 I used my calculator to work out $(31 \times 9) \div 52$. Before doing so I worked out in my head that the answer should be about $6$. What simple calculation did I do in my head?
@@ -1664,7 +1640,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>A3C01E30-4AAA-4DBB-B19E-8F08BBF264E5</p>
@@ -1688,8 +1664,6 @@ tmoney
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What percentage is $15 \ \text{p}$ out of $\pounds 3.00?$
@@ -1803,7 +1777,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prpcc question'>
 <div class='uuid'>
 <p>4B5465FD-B5E3-4550-93F3-DB018C7F95FA</p>
@@ -1827,8 +1801,6 @@ tspeed
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 David jogs at $3\, \text{metres per second}$. How far does he jog in $15\, \text{minutes}$?
@@ -1938,7 +1910,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>CB25A103-14EA-41BF-BF3D-B461BBA32FAB</p>
@@ -1962,8 +1934,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Write each of these amounts to the nearest hundred pounds:
@@ -2002,8 +1972,8 @@ Write each of these amounts to the nearest hundred pounds:
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2046,7 +2016,7 @@ $\pounds 700$
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2089,7 +2059,7 @@ $\pounds 2,900$
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2182,7 +2152,7 @@ $\pounds 90,100$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>C18FCA7C-4FCC-4CEF-A7BC-74F2C643EE3C</p>
@@ -2206,8 +2176,6 @@ tfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Ravi has $32$ sweets. He eats $24$ of them. What fraction of the sweets has he eaten? Write your answer in its simplest form.
@@ -2310,7 +2278,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>E5B73DC5-61E6-4D4C-9C7D-A962E949AB86</p>
@@ -2334,8 +2302,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 To cook a joint of meat, you leave it in the oven for $30\,\text{minutes}$ for every kilogram it weighs plus $20\,\text{minutes}$ extra. Find how long you would cook a joint weighing:
@@ -2374,8 +2340,8 @@ To cook a joint of meat, you leave it in the oven for $30\,\text{minutes}$ for e
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2472,7 +2438,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2639,7 +2605,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>17228C50-1BB7-4807-8D6C-B2365B926A0B</p>
@@ -2666,8 +2632,6 @@ tmoney
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 To go and watch a film at the cinema, the seats cost $\pounds 3$ each for a child and $\pounds 7$ each for an adult. I was charged $\pounds 51$ for all of the seats I bought.
@@ -2708,8 +2672,8 @@ To go and watch a film at the cinema, the seats cost $\pounds 3$ each for a chil
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2802,7 +2766,7 @@ In both the cases number of adults are less than $7$.
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2853,7 +2817,7 @@ Number of tickets for adult $= 6$
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2954,7 +2918,7 @@ Number of tickets for adult $= 3$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>F66494CC-21E4-467E-8FDE-DF463E2439E5</p>
@@ -2978,8 +2942,6 @@ tareaperimeter
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What fraction of the whole square below is the shaded area?
@@ -3131,7 +3093,7 @@ also add ans
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>FAD3A72B-8B37-4011-BDA2-D70E94CDEB4B</p>
@@ -3155,8 +3117,6 @@ tpermutation
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Write down in rising order of size all the $3$-digit numbers which can be formed by using the digits $7 ,8$ and $9$ once each. The first is $789$.
@@ -3259,7 +3219,7 @@ $789, 798, 879, 897, 978, 987$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prpcc question'>
 <div class='uuid'>
 <p>9BAFF687-C010-40CB-B73E-36F8F28A4F36</p>
@@ -3283,8 +3243,6 @@ ttable
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Here is a numbers game. There are two numbers which are first added together and then multiplied together. Fill in the gaps in the table (the first row is done for you).
@@ -3421,8 +3379,8 @@ Completed table:
 </ul>
 
 # Section B C
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>3D3DA408-8186-4C87-A0D1-474EF05DE36F</p>
@@ -3446,8 +3404,6 @@ tdetailedaddition
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $
@@ -3556,7 +3512,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>07CD4B67-7485-4B17-AF5E-4254EB60E880</p>
@@ -3583,8 +3539,6 @@ tdecimal
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $
@@ -3698,7 +3652,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>5C46037A-9D8E-4709-A27D-EC329D33E470</p>
@@ -3725,8 +3679,6 @@ tmoney
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $6 \times \ldots = \pounds 9.60$
@@ -3849,7 +3801,7 @@ The missing number $= \pounds 1.6$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>09339FC7-5927-4473-9600-A2EBB5E14701</p>
@@ -3873,8 +3825,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $\ldots \div 8 = 1.05\ \text{cm}$
@@ -3985,7 +3935,7 @@ The missing number $= 8.40 \ \text{cm}$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prpcr question'>
 <div class='uuid'>
 <p>E3BCF3D7-96B1-48B8-812A-8BF2BEC4BB2A</p>
@@ -4009,8 +3959,6 @@ tdivision
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $12321 \div 37$
@@ -4128,7 +4076,7 @@ make sure you cancel both digits
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>52D2DD9F-0C37-4A1E-B05E-34549F9806B3</p>
@@ -4152,8 +4100,6 @@ tareaperimeter
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A rectangle measures $4.0\ \text{cm}$ by $7.1\ \text{cm}$. What is its area?
@@ -4266,7 +4212,7 @@ in Step 2 missing \\\\
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>3167920D-0D61-408D-81BB-04D02838D8D1</p>
@@ -4290,8 +4236,6 @@ tprobability
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 There are $40$ coloured counters in a box. Half of them are red, one-fifth are yellow and the rest are green.
@@ -4330,8 +4274,8 @@ There are $40$ coloured counters in a box. Half of them are red, one-fifth are y
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -4394,7 +4338,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -4506,7 +4450,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>B98103D1-4222-4227-ACB8-6A322C10E281</p>
@@ -4536,8 +4480,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Three gear wheels turn one another. $X$ has $8$ teeth, $Y$ has $12$ teeth and $Z$ has $16$ teeth. In one minute, $X$ turns $30$ times. In this time, how many turns do $Y$ and $Z$ make? Draw arrows to show the directions in which $Y$ and $Z$ move.
@@ -4663,7 +4605,7 @@ Z revolves in the same direction as X.
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E5ABD670-1471-45F4-AFED-7F5C0DA28F28</p>
@@ -4687,8 +4629,6 @@ tvenn
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A box of kiddimix contains $20$ chocolates of which $8$ are plain chocolates and $12$ are milk chocolates. If $16$ of the $20$ have soft-centres, what can you say about how many plain chocolates there are with soft-centres?
@@ -4823,7 +4763,7 @@ Number of plain chocolates with plain centres are between $4$ and $8$ inclusive.
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>6982B8BB-3A1E-45A3-8685-D9B153372C8D</p>
@@ -4847,8 +4787,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 James gives these answers to four questions. Tick any you think are likely to be correct.
@@ -4980,7 +4918,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prpcc question'>
 <div class='uuid'>
 <p>0A0401FD-AFA7-4C8D-BFE9-9742FC949AEF</p>
@@ -5004,8 +4942,6 @@ ttable
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The favourite sports of a group of $100$ boys are shown in the table below. Calculate the missing number and draw a bar chart or a pie chart to illustrate this information.
@@ -5142,7 +5078,7 @@ rtq_abbr_md_add_drawing_ends
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>3A8C19CB-9DD5-4DAE-9760-B816D85E9FD0</p>
@@ -5166,8 +5102,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Each of the symbols $\spadesuit,\spadesuit,\spadesuit,\spadesuit$ and $\spadesuit$ stand for a different whole number. The numbers are connected by the following rules. Write down what number each of the five symbols stands 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2012-arithmetic-1"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2012 - Arithmetic 1"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "20"
 ---
 <div class='paper'>
@@ -12,8 +12,8 @@ questions_count: "20"
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>C44CBD76-D13D-463B-AA1F-D81990B49022</p>
@@ -37,8 +37,6 @@ tdetailedaddition
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $379 + 485$.
@@ -141,7 +139,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>81BA3970-5760-49CF-8C0B-A874CA881372</p>
@@ -165,8 +163,6 @@ tdetailedmultiplication
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $274 \times 70$.
@@ -275,7 +271,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>8785FAA8-FBEF-4E7F-99FB-5C0DF172A032</p>
@@ -299,8 +295,6 @@ tfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $2 \dfrac{2}{5} + 3 \dfrac{3}{10}$.
@@ -409,7 +403,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>BFDC3120-2057-4038-8AA8-793B043A6823</p>
@@ -433,8 +427,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Write in figures the number one million forty thousand and four.
@@ -523,7 +515,7 @@ $1040004$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>88DB0446-3822-4E24-9EE8-BAD9AAF0EC47</p>
@@ -547,8 +539,6 @@ tsequence
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the missing number in this list?
@@ -678,7 +668,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>7E7878A4-808C-4404-8B60-2FB05E498D2D</p>
@@ -708,8 +698,6 @@ tcoin
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Ger has $\pounds 2$ made up of $20\ \text{p}$ and $10\ \text{p}$ coins. He has twice as many $20\ \text{p}$ coins as $10\ \text{p}$ ones. How many $10\ \text{p}$ coins does he have?
@@ -859,7 +847,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>123B050C-DB35-4294-97F0-0DCBAFF89F1E</p>
@@ -883,8 +871,6 @@ tprofit
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 *"Comfyclothes"* in the Arndale Centre reduces its prices by $20 \%$ in its winter sale. Ian bought a coat for $\pounds 60$ in the sale. 
@@ -1011,7 +997,7 @@ Original price $= \pounds 75$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>6E6B11E1-CFDF-43B5-9CF2-E7E17FFE2599</p>
@@ -1035,8 +1021,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Alison has $8$ more pencils than rulers. If she has a total of $52$ pencils and rulers, how many rulers does she have?
@@ -1155,7 +1139,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>913C4FD9-9AC9-45BA-BE94-814E838F0E2F</p>
@@ -1179,8 +1163,6 @@ tmoney
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $35 \%$ of $\pounds 4$.
@@ -1285,7 +1267,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B3120C19-2C89-411F-90CE-9EA04D6E4598</p>
@@ -1312,8 +1294,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Two rectangles have the same area. One rectangle is $28 \ \text{cm}$ long and $12 \ \text{cm}$ wide. The second rectangle has width $7 \ \text{cm}$. What is the length of this rectangle?
@@ -1437,7 +1417,7 @@ Length of the second rectangle $= 48 \ \text{cm}$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>D10A6085-4014-4283-8DD5-61D3BA1C5A67</p>
@@ -1461,8 +1441,6 @@ tfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Write $0.28$ as a fraction in its simplest form.
@@ -1567,7 +1545,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>B849C7F3-0940-4425-9D2F-7AFBF02E5585</p>
@@ -1591,8 +1569,6 @@ ttime
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Neil is allowed to watch three hours of TV each day in the holidays. 
@@ -1713,7 +1689,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prpcr question'>
 <div class='uuid'>
 <p>BE673146-6558-409C-B19C-DD7DE3740A33</p>
@@ -1737,8 +1713,6 @@ torder
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 If the following numbers were put in order which number would be in the middle?
@@ -1878,7 +1852,7 @@ Change 0.70 to 0.7
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>590B7D5D-D512-4EDC-A83A-462C6FF47FF8</p>
@@ -1902,8 +1876,6 @@ tvolume
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Tim puts bricks which are all $2 \ \text{cm}$ by $3 \ \text{cm}$ by $4 \ \text{cm}$ into a box 
@@ -2018,7 +1990,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>2C9FD9EC-F28E-4BA1-8D8C-70118055B9D2</p>
@@ -2042,8 +2014,6 @@ tstatistics
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 For the first $12$ months after I bought my new phone I downloaded $4$ apps to it each month. Over the next $7$ months I only downloaded $1$ app each month, but this month I downloaded $5$ new apps. What is the average number of apps I have downloaded each month while I have had the phone?
@@ -2155,7 +2125,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prrl question'>
 <div class='uuid'>
 <p>8F20C671-EFDE-4929-8A63-E6C396CD2106</p>
@@ -2179,8 +2149,6 @@ tratio
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A red light flashes four times a minute and a green light flashes six times a minute. If both lights start flashing at the same instant, how many times do they flash at the same instant in one hour including the first and the last time?
@@ -2327,7 +2295,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D74BAFDC-19D4-4AB6-AE64-3736F916FD8E</p>
@@ -2351,8 +2319,6 @@ tclock
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the smaller angle between the hands of a clock at $2{:}30?$  
@@ -2479,7 +2445,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>D4788CA3-B338-4047-8521-069529293876</p>
@@ -2506,8 +2472,6 @@ ttrialerror
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Andy works out the sums of numbers as follows $1 + 2, 1 + 2 + 3, 1 + 2 + 3 + 4$ and so on. What is the first of these sums of numbers that is greater than $80?$
@@ -2626,7 +2590,7 @@ Answer $= 91$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>4E130AB1-83B7-43FA-A00A-F42FA9962CAD</p>
@@ -2650,8 +2614,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How many different positive whole numbers are factors of $72?$ (remember to include $1$ and $72$ as factors)
@@ -2744,7 +2706,7 @@ Total factors $= 12$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>521214EB-CA81-4E61-8F79-5E1BF8007C95</p>
@@ -2768,8 +2730,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Jo writes down a two digit number. When she reverses the digits and subtracts the smaller 

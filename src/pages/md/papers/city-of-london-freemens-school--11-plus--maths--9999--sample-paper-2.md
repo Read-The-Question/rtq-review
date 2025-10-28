@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-freemens-school-11-plus-maths-9999-sample-paper-2"
 title: "City Of London Freemens School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "19"
 ---
 <div class='paper'>
@@ -14,8 +14,8 @@ questions_count: "19"
 </div>
 
 # Section Foundation
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_ks rag_prns question'>
 <div class='uuid'>
 <p>8A11CB60-1436-46A6-BB47-D77E72E9AD3F</p>
@@ -39,8 +39,6 @@ tdetailedmultiplication
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $12 \times 1000 =$
@@ -104,7 +102,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_ks rag_prns question'>
 <div class='uuid'>
 <p>FED888CF-231E-44DD-BBF9-5E35C7725E61</p>
@@ -128,8 +126,6 @@ tdetailedsubtraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $564 - 439 =$
@@ -193,7 +189,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>93745B83-D2D4-49D5-B97E-768E4F37AABB</p>
@@ -217,8 +213,6 @@ tprobability
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A card is picked from a pack of ordinary $52$ playing cards.
@@ -341,7 +335,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>EC50BF96-8275-40FB-9755-C0806452FE6D</p>
@@ -365,8 +359,6 @@ tdivision
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $96 \div 6 =$
@@ -479,7 +471,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>CD8EF491-8FD3-41BA-82B3-641CE269368D</p>
@@ -503,8 +495,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $0.3 + 0.8 =$
@@ -611,7 +601,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>1EEEA032-210A-436A-8BB3-E73A8E6AAA51</p>
@@ -635,8 +625,6 @@ tfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Simplify the following: $\dfrac{3}{30}$
@@ -751,7 +739,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C</p>
@@ -775,8 +763,6 @@ tfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Simplify the following: $\dfrac{8}{32}$
@@ -891,7 +877,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>E5FC8466-3F33-41B1-BF45-728FDA965248</p>
@@ -915,8 +901,6 @@ tsequence
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Fill in the next two numbers in the following sequence:
@@ -1010,8 +994,8 @@ $
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1112,7 +1096,7 @@ Plus $8$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>E55FB33A-C328-4621-B7F5-86F0E976597D</p>
@@ -1136,8 +1120,6 @@ tdetailedsubtraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $7.62 - 2.34 =$
@@ -1256,8 +1238,8 @@ $
 </ul>
 
 # Section Middle
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>DA6A37B8-68AE-40CC-9D9D-C80A7DDCC093</p>
@@ -1281,8 +1263,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $0.00712 \times 100 =$
@@ -1389,7 +1369,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>11E67077-E5D7-4AAB-8230-3443578B97AB</p>
@@ -1413,8 +1393,6 @@ tdivision
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $410.3 \div 1000 =$
@@ -1523,7 +1501,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>6530ADDD-4337-48F7-BFAA-29AC198707E3</p>
@@ -1547,8 +1525,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Round the number below to one decimal place:
@@ -1657,7 +1633,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>026699B4-CAFA-430C-B0BC-8F801C861EEE</p>
@@ -1681,8 +1657,6 @@ torder
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Write the following fractions in order of size, from smallest to largest:
@@ -1823,7 +1797,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>0EEE678E-251C-4F63-94B0-24A5D4BFA964</p>
@@ -1847,8 +1821,6 @@ tdetailedsubtraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $-9 + 7 =$
@@ -1955,7 +1927,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5A5A99FB-F341-46EE-95C4-A97BE92AF7E3</p>
@@ -1979,8 +1951,6 @@ tareaperimeter
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out the perimeter and area of the following shape:
@@ -2140,8 +2110,8 @@ abbrev is broken!!
 </ul>
 
 # Section Advanced
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B135AC08-8D4C-4E0C-8A85-A93842A7B0C6</p>
@@ -2168,8 +2138,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The diagram below shows a shaded parallelogram drawn inside a rectangle.
@@ -2304,7 +2272,7 @@ Same as previous question, refer comments in 87087F13-14DD-46B1-A8A3-E1A8693515A
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>A3581E77-E7FA-45D2-AB29-D895234F26F6</p>
@@ -2331,8 +2299,6 @@ tcoin
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A can of lemonade from a vending machine costs $65 \ \text{p}$. The table below shows the coins that were collected from the machine in one day.
@@ -2456,7 +2422,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>6F6B6B48-EC9B-41A8-8A65-09482A6B04A0</p>
@@ -2483,8 +2449,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Find the missing angles a ̊and b ̊:
@@ -2633,7 +2597,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>1F02583C-62DE-41D0-94CE-10909D755CAE</p>
@@ -2657,8 +2621,6 @@ tfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $3\dfrac{1}{3} + 1 \dfrac{9}{20} =$

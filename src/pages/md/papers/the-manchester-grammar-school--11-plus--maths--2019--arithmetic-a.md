@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2019-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2019 - Arithmetic A"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "20"
 ---
 <div class='paper'>
@@ -12,8 +12,8 @@ questions_count: "20"
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>8A517D2C-C64D-4CA7-A39C-E729124C801F</p>
@@ -37,8 +37,6 @@ tdetailedaddition
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $463 + 327$.
@@ -141,7 +139,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>3B8A6B5F-F638-4105-ABFA-5CB86719183E</p>
@@ -165,8 +163,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Express $\dfrac {18} {25}$ as a decimal.
@@ -269,7 +265,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>188700EF-2ADC-4245-B7FF-E3562E1C61DB</p>
@@ -293,8 +289,6 @@ tdetailedmultiplication
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $547 \times 3000$.
@@ -414,7 +408,7 @@ $= 1641000$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>C4CF7D3D-392A-4880-A5A1-150F9EF14E3B</p>
@@ -441,8 +435,6 @@ tdecimal
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $3.19 - 1.72$.
@@ -550,7 +542,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>64EB2E3C-86B2-4FD9-AB8A-774E97F14284</p>
@@ -574,8 +566,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Add the **product** of $5$ and $13$ to the **sum** of $5$ and $13$.
@@ -676,7 +666,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>4066AA9A-0380-459C-81DF-A2F9AAEC3DE5</p>
@@ -700,8 +690,6 @@ tsequence
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the missing number in this list?
@@ -829,7 +817,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>D1E6B317-4876-44B4-8AF6-CFECB874C981</p>
@@ -853,8 +841,6 @@ tfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $3 \dfrac{3}{4} \div 2 \dfrac{1}{2}$, giving your answer in its simplest form.
@@ -970,7 +956,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>02202C7F-9F7E-46E2-9AD1-6B9D9768E016</p>
@@ -994,8 +980,6 @@ tpercentage
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is $30 \%$ of $550 \ \text{cm}^3?$
@@ -1102,7 +1086,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prpcc question'>
 <div class='uuid'>
 <p>79C0FC25-F281-49EB-AE07-3B81473C1FB4</p>
@@ -1126,8 +1110,6 @@ tfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Express $42 \ \text{minutes}$ as a fraction of one hour, giving your answer in its simplest form.
@@ -1239,7 +1221,7 @@ Remove LHS
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>0D7C430D-B032-4DD3-A97B-F5008B1947C3</p>
@@ -1263,8 +1245,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the missing number in the following sum? 
@@ -1379,7 +1359,7 @@ The missing number is $= 60000$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>30D0B7AD-9447-463A-831D-D948DCE6F17F</p>
@@ -1403,8 +1383,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 John thinks of a number. He multiplies that number by four and then adds three to the result. If the answer he obtains is $35$, what is the number he first thought of?
@@ -1525,7 +1503,7 @@ The number that John thought of $= 8$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>534AB0EB-98BA-4FF7-BBA3-6A6F9B846FB2</p>
@@ -1552,8 +1530,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In a triangle, the largest angle is two times the middle angle and the middle angle is three times the smallest angle. What is the size of the **largest** angle?
@@ -1685,7 +1661,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>3C2D79BD-AEA4-4564-8DED-BB94FFC30951</p>
@@ -1709,8 +1685,6 @@ tprobability
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Alison has $6$ yellow discs, $5$ blue discs and $9$ red discs which she places in a bag. 
@@ -1819,7 +1793,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>0DDB7D8E-8C0B-4FC8-872C-52FBE4C7EC8F</p>
@@ -1843,8 +1817,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A shopkeeper buys a box of $60$ apples for $\pounds 12$. 
@@ -1972,7 +1944,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>200C8D82-5237-4C70-B9AC-2480E77462EA</p>
@@ -1996,8 +1968,6 @@ tareaperimeter
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In the picture below is the net of a cube. What would be the total surface area of the outside of the cube when the net is made into the cube?
@@ -2129,7 +2099,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>864F4E3D-6828-49EA-AE5B-C17F5CF91616</p>
@@ -2159,8 +2129,6 @@ tunitprompt
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Two bottles of water and three small bags of fruit cost a total of $\pounds 2.55$. If a bottle of water costs $15 \ \text{p}$ **more** than a bag of fruit, what is the cost of a bag of fruit?
@@ -2450,7 +2418,7 @@ Cost of a bag of fruit $= 45 \ \text{p}$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>26E16C3C-4AED-4018-A4B3-041DDC0C4959</p>
@@ -2474,8 +2442,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Bilal has made a box in the shape of a cuboid with sides $4 \ \text{cm}, 5 \ \text{cm}$ and $32 \ \text{cm}$. 
@@ -2605,7 +2571,7 @@ Length of the base $= 8 \ \text{cm}$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>5907B5FC-027E-4008-8AF3-0700A9C05277</p>
@@ -2629,8 +2595,6 @@ tlcm
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A large number of buses stop at the bus stop at the end of Old Hall Lane. 
@@ -2810,7 +2774,7 @@ $5 + 4 + 2 =11$ buses stop between $4:20 \ \text{pm}$ and $4:50 \ \text{pm}$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>826766D1-0786-4F68-AD0B-6CA2C8F22C40</p>
@@ -2834,8 +2798,6 @@ tpermutation
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In a school table-tennis league each team plays each of the other teams **twice** during the year, once at home and once away. If there are $30$ matches in total during the season, how many teams are there in the table-tennis league?
@@ -2986,7 +2948,7 @@ There are total of $6$ teams playing the league
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prrl question'>
 <div class='uuid'>
 <p>10B05544-761B-457F-96DF-14CD6C641037</p>
@@ -3010,8 +2972,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Chen writes down a two digit number. He finds that if he swaps the digits of the number round, the new number he creates is three more than one third of the original number.

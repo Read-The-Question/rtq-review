@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2016-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2016 - Arithmetic A"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "20"
 ---
 <div class='paper'>
@@ -12,8 +12,8 @@ questions_count: "20"
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>B861F19A-C938-4447-8E3E-658832E76AC1</p>
@@ -37,8 +37,6 @@ tdetailedaddition
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $983 + 254$.
@@ -141,7 +139,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>60D80FC1-4C9E-4EC8-896C-04247669944B</p>
@@ -165,8 +163,6 @@ tdetailedmultiplication
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $573 \times 300$.
@@ -286,7 +282,7 @@ $= 171900$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>051EA915-77B1-4C90-B44F-067124622F8F</p>
@@ -310,8 +306,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Write $\dfrac{7}{20}$ as a decimal number.
@@ -414,7 +408,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prpcc question'>
 <div class='uuid'>
 <p>DD9DD726-1CE0-4DDC-863C-8DB9621C8BC0</p>
@@ -438,8 +432,6 @@ tfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What fraction of a day is $9 \ \text{hours}$? Write your fraction in its simplest form.
@@ -553,7 +545,7 @@ Remove LHS
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>2377F631-0B3B-443B-ACA8-80A032557FBC</p>
@@ -577,8 +569,6 @@ tsequence
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the missing decimal number in this list?
@@ -708,7 +698,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>C135697D-F7AA-4A2E-9224-953D73C4FFCC</p>
@@ -732,8 +722,6 @@ tfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $4 \dfrac{1}{4} - 1 \dfrac{3}{5}$.
@@ -842,7 +830,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>251BCA4B-C008-48D6-B9A3-EF216E034A1C</p>
@@ -866,8 +854,6 @@ tdivision
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $6.48 \div 0.6$, writing your answer as a decimal number.
@@ -976,7 +962,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>62A1AB1D-19F1-4582-8B13-6027E86309DF</p>
@@ -1000,8 +986,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Subtract the difference between $62$ and $35$ from the product of $13$ and $6$.
@@ -1107,7 +1091,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>A56ACBA8-8B03-4C19-A720-E78F6EDE381F</p>
@@ -1134,8 +1118,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 One of the angles in a triangle is $40 \degree$. One of the remaining two angles is three times larger than the other angle. What is the largest angle in the triangle?
@@ -1269,7 +1251,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>A31A6436-9C6D-4A0E-B943-F8626DF8E8C7</p>
@@ -1296,8 +1278,6 @@ tmoney
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A shop reduces its prices by $20 \%$ in a sale. David bought a coat for $\pounds 40$ in the sale. How much would the coat have cost him **before** the sale?
@@ -1420,7 +1400,7 @@ Original price $= \pounds 50$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>D62B63A1-CA82-4AA9-B4FE-290BB7B57B95</p>
@@ -1447,8 +1427,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Nigel folds a **__square__** piece of paper in half to give a rectangle which has a perimeter of $36 \ \text{cm}$. What is the area of the original square?
@@ -1605,7 +1583,7 @@ rtq_abbr_katex_formula_perimeter_rectangle
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>8BA1366E-EFBD-498C-A4B3-056CCEEA7FD8</p>
@@ -1635,8 +1613,6 @@ tunitprompt
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Rachel buys three identical bags of sweets and five cans of drink, the total cost of these items came to $\pounds 4.90$. 
@@ -1913,7 +1889,7 @@ Cost of a bag of sweets $= 30\ \text{p}$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>E2B23658-50CC-43B0-813D-B11A7DDE570B</p>
@@ -1940,8 +1916,6 @@ tstatistics
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Tim has three apples. The mean (average) weight of the three apples is $90 \ \text {grams}$. When Tim eats the largest apple, the mean weight of the remaining two apples is just $70 \ \text {grams}$.
@@ -2076,7 +2050,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>CE0DC367-FC2F-48CA-A2AC-370BA4DBBEAF</p>
@@ -2103,8 +2077,6 @@ tsequence
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In the sequence of numbers which starts $2, 3, 5, 9, \ldots$  each number is one less than two times the previous number in the list. 
@@ -2223,7 +2195,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>0B47659C-81C5-46B4-8F2D-C1372D5BCBAD</p>
@@ -2247,8 +2219,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A plant is growing at a steady rate of $0.2 \ \text{cms}$ every day. At midday on January $19 ^\text{th}$ the plant was $6 \ \text{cms}$ high.  What will the date be when it reaches a height of $11 \ \text{cm}?$
@@ -2379,7 +2349,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E6588871-D766-4716-B6B4-2BB08ABB7D9F</p>
@@ -2403,8 +2373,6 @@ tprobability
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A bag contains coloured counters of just **__two__** colours.  There are twenty green counters numbered $1$ to $20$ and thirty blue counters numbered $1$ to $30$. What is the probability of picking a counter from the bag which is a multiple of four?
@@ -2519,7 +2487,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>429BC7A1-F12E-43F9-8EFD-D9F1BEE76328</p>
@@ -2543,8 +2511,6 @@ tratio
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 *Lathes Engineering* produces ten boxes of screws every minute. It has to produce $48{,}000$ boxes of screws in five days. If its machines work an equal amount of time each day, work out the number of hours which will be needed **__each day__** to produce the boxes of screws needed.
@@ -2653,7 +2619,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>4817AFE3-64E1-4D90-8D0F-8DD10D486240</p>
@@ -2677,8 +2643,6 @@ tlcm
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
  At Frantic Junction, trains arrive at regular intervals on
@@ -2799,7 +2763,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>341FE350-6A25-436A-A25E-E7AB9A1C6E15</p>
@@ -2826,8 +2790,6 @@ ttrialerror
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Irfan has six fraction cards as shown below.
@@ -2953,7 +2915,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>9EA7238D-852E-470E-96A6-D31F589B812A</p>
@@ -2977,8 +2939,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $83$ is a prime number. If Nancy reverses the order of the digits she gets $38$ which is not prime. How many two digit primes **__do__** give a different prime number when their digits are reversed?

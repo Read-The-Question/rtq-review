@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2014-sample-paper-5"
 title: "Sevenoaks School - 11 Plus - Maths - 2014 - Sample Paper 5"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "18"
 ---
 <div class='paper'>
@@ -12,8 +12,8 @@ questions_count: "18"
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>7E49F822-D5B6-4A2D-91D8-6F5ECD9E4E06</p>
@@ -37,8 +37,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Evaluate the following:
@@ -48,8 +46,8 @@ Evaluate the following:
 
 
 
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -113,7 +111,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -170,7 +168,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -233,7 +231,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -342,7 +340,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>29DE4114-CF16-4830-A1D8-498E9062A293</p>
@@ -366,8 +364,6 @@ tfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Evaluate:
@@ -406,8 +402,8 @@ Evaluate:
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -466,7 +462,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -527,7 +523,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -639,7 +635,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>B362E6E8-1659-4E09-A91F-F1247FF54602</p>
@@ -663,8 +659,6 @@ ttemperature
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The temperature of the items in a freezer is $-18 \degree \text{C}$. A packet of peas is taken out. After half an hour their temperature has risen by $11 \degree \text{C}$. What is their new temperature?
@@ -763,7 +757,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prpcr question'>
 <div class='uuid'>
 <p>71A87121-8B24-43F3-8CA2-5883E0DFF79B</p>
@@ -787,8 +781,6 @@ ttime
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Ann went to the cinema. The film started at $11{:}55 \ \text{AM}$ and lasted $117 \ \text{minutes}$. What time did the film end?
@@ -902,7 +894,7 @@ Write as 1:52 pm
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>E78B3025-8842-4BD7-8D15-513879497798</p>
@@ -926,8 +918,6 @@ tsequence
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Fill in the missing numbers in the following sequences:
@@ -966,8 +956,8 @@ Fill in the missing numbers in the following sequences:
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1068,7 +1058,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1171,7 +1161,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1323,7 +1313,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>C83BAF7E-A28A-4228-B036-1BB050CB347F</p>
@@ -1347,8 +1337,6 @@ torder
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Put these in order, starting with the smallest: 
@@ -1471,7 +1459,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>3396F429-70E9-425F-A757-7ADA7583B9CB</p>
@@ -1498,8 +1486,6 @@ tdraw
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Shade in one square to this pattern to give it one line of symmetry and draw on the line of symmetry.
@@ -1616,7 +1602,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>DE21514C-D0D8-4AC5-AA51-07E6EBC58C80</p>
@@ -1640,8 +1626,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Two numbers have a sum of $87$. The larger of the numbers is twice the smaller. What are the two numbers?
@@ -1766,7 +1750,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>6AE9FEC7-9C45-4A0D-B701-A93F8EB055D9</p>
@@ -1790,8 +1774,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Find the value of $x$ for each of the following equations: 
@@ -1801,8 +1783,8 @@ Find the value of $x$ for each of the following equations:
 
 
 
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1865,7 +1847,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1934,7 +1916,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1997,7 +1979,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2114,7 +2096,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>EB9046DE-5CB1-466D-B588-2C902127E32B</p>
@@ -2141,8 +2123,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Each square is one square unit. What is the area of the shaded triangle?
@@ -2281,7 +2261,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C1FC7DDE-F1CE-4C60-A219-5DA1E003BA1C</p>
@@ -2308,8 +2288,6 @@ tfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 My vegetable patch is rectangular in shape and measures $200 \times 450 \ \text{centimetres}$. I have planted vegetables in $\dfrac {2} {3}$ of the patch. One half of that contains carrots. What area of the patch has been planted with carrots?
@@ -2439,7 +2417,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prrl question'>
 <div class='uuid'>
 <p>5EBF32BB-01E6-4D6D-87EC-E833F995392D</p>
@@ -2466,8 +2444,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A $7 \times 7 \times 7$ cube is painted, and then cut into $1 \times 1 \times 1$ cubes. How many of these cubes are painted on exactly two sides?
@@ -2572,7 +2548,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>F7D9ED9B-9A71-4558-AB91-F7C420EAB2FB</p>
@@ -2599,8 +2575,6 @@ tdirection
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The shape is turned $270 \degree$ clockwise, and then $45 \degree$  anticlockwise. Find the new position of point $A$.
@@ -2716,7 +2690,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>ED9B32AA-0967-4B64-8FE0-D6E5182F282C</p>
@@ -2740,8 +2714,6 @@ tprofit
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Bella is given $\pounds 50$ for her birthday. She spends $\pounds 37.50$ on clothes. She then goes to the cinema with a friend, but as they have a $2$ for $1$ voucher, they only spend $\pounds 5.40$ between the two of them which they both pay half. She buys some popcorn and a drink for $\pounds 3.20$.
@@ -2780,8 +2752,8 @@ Bella is given $\pounds 50$ for her birthday. She spends $\pounds 37.50$ on clot
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2838,7 +2810,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2975,7 +2947,7 @@ $Deal 3$ is affordable for Bella.
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>8D09280B-2F5D-4FE1-98CE-8CADE8B9435C</p>
@@ -3002,8 +2974,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A man is $30  \ \text{years}$ older than his youngest son. In $17 \ \text{years}$ he will be twice his son's age. How old is the son?
@@ -3128,7 +3098,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>EF3A6414-092C-43F5-AEB1-9034F22E8C6C</p>
@@ -3155,8 +3125,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Which two shapes have the same area?
@@ -3327,7 +3295,7 @@ Shape B and C have same shape.
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prpcc question'>
 <div class='uuid'>
 <p>8A0A521C-1CD1-48C0-A137-E2C9ADE58CEB</p>
@@ -3351,8 +3319,6 @@ tspeed
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Matthew reads at an average rate of $30 \ \text{pages per hour}$, while Alex reads at an average rate of $40 \ \text{pages per hour}$. If Matthew starts reading a novel at $4{:}30 \ \text{PM}$, and Alex begins reading the same novel at $5{:}20 \ \text{PM}$, at what time will they be reading the same page?
@@ -3519,7 +3485,7 @@ fix units, writing style
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>0EA47D0F-679F-42A3-9831-5C25EB7FCE66</p>
@@ -3543,8 +3509,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Using exactly four fours, any of the operations $+ - \times \div$  make an expression whose value is $5$.

@@ -1,7 +1,7 @@
 ---
 slug: "papers/queens-school-11-plus-maths-9999-sample-paper-1"
 title: "Queens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "50"
 ---
 <div class='paper'>
@@ -12,8 +12,8 @@ questions_count: "50"
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>4CD98A3C-2ABA-4079-8C34-63DFF1937BF9</p>
@@ -37,8 +37,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 **For questions $1$ and $2$ use the following information:**
@@ -131,7 +129,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>6E70C8B6-05D1-4E46-AC63-68B3A66B9243</p>
@@ -155,8 +153,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Find the input when the output is $11$.
@@ -245,7 +241,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>CA2AE2EF-5CB6-462F-B70C-AABC064C4300</p>
@@ -269,8 +265,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 **For questions $3$ and $4$ use the following information:**
@@ -369,7 +363,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>7B0586E1-E38C-49EF-A896-94DEB512DC5A</p>
@@ -393,8 +387,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How much is saved by buying a Group ticket for $1$ adult and $2$ children?
@@ -483,7 +475,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>78CCA5D8-0276-437D-8012-859EE6807E56</p>
@@ -507,8 +499,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 **For questions $5$ and $6$ use the following information:**
@@ -601,7 +591,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>6C5FB64A-3202-410F-A549-8347B64A3B75</p>
@@ -625,8 +615,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How many sweets does she have left over?
@@ -715,7 +703,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>12686D9F-2522-4755-A7CA-3203879E3D2F</p>
@@ -739,8 +727,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 **For questions $7 - 9$ use the following number pattern:**
@@ -833,7 +819,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>CCAE78CD-CDF8-4DFD-AC41-BA7652B1CE45</p>
@@ -857,8 +843,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What percentage of these numbers are prime?
@@ -930,7 +914,7 @@ TODOWORKING
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>9FBFA59B-8E4E-45F0-B5F1-5005A4076A5B</p>
@@ -954,8 +938,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 If the pattern continues, what is the next number?
@@ -1044,7 +1026,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>7B274463-DC64-4E3F-A102-2CC81ED2DEC7</p>
@@ -1068,8 +1050,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 **For questions $10 - 13$ use the following shape:**
@@ -1164,7 +1144,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>52763201-C2BD-4AC3-ACC2-E3169BA94B2A</p>
@@ -1188,8 +1168,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the order of rotational symmetry of the shape?
@@ -1278,7 +1256,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>5324BCDD-C072-4D11-85C3-0F08382736EE</p>
@@ -1302,8 +1280,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How many lines of reflective symmetry does the shape have?
@@ -1392,7 +1368,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>63B34CBD-8F5F-470E-950C-783DFE89BBBC</p>
@@ -1416,8 +1392,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Can the shape be folded to make a cube?
@@ -1506,7 +1480,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>8CF574C6-1001-4D1D-AA2C-2D59F899108A</p>
@@ -1530,8 +1504,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 **For questions $14 - 16$ use the following bar chart:**
@@ -1626,7 +1598,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>67938A51-BD17-47A7-88F0-052ADB851182</p>
@@ -1650,8 +1622,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 On which day did the mode number of absences occur?
@@ -1740,7 +1710,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>47722734-A621-4C4F-A4B2-0701622BAA10</p>
@@ -1764,8 +1734,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 If this information was represented on a pie chart, what angle would be required for Wednesday?
@@ -1854,7 +1822,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>E51B26FE-9F30-4D45-98EE-6FC0CF85CE70</p>
@@ -1878,8 +1846,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 **For questions $17$ and $18$ use this method of arranging white and grey squares:**
@@ -1982,7 +1948,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>F9A6FFFC-AB52-4DD1-ABA4-D4387D81AD20</p>
@@ -2006,8 +1972,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Another later pattern has $36$ white tiles. How many grey tiles does it have?
@@ -2096,7 +2060,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>64BBA3EC-9C4D-4D20-8749-1A4FCCFC828F</p>
@@ -2120,8 +2084,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 **For questions $19$ and $20$ use this diagram:**
@@ -2214,7 +2176,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>4BE402BE-C2E2-4B49-AFFC-7057BDE49C8A</p>
@@ -2238,8 +2200,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 If the shape is reflected in the y-axis, what would the new coordinates of $C$ be?
@@ -2328,7 +2288,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>E3BB911C-1106-4907-9882-6EF3B0078EA1</p>
@@ -2352,8 +2312,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 **For Questions $21$ and $22$ use this diagram:**
@@ -2448,7 +2406,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>AAACAE66-AD8E-4CBB-95E2-18EC825D987D</p>
@@ -2472,8 +2430,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Which name best describes the angle to be drawn for Blue?
@@ -2567,7 +2523,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>372C717F-7EAC-4A3D-BF51-33774974523E</p>
@@ -2591,8 +2547,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Use this: $28 \times 751 = 21{,}028$
@@ -2683,7 +2637,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>86726111-92AC-4AE9-AAF6-A0C2798DA6B7</p>
@@ -2707,8 +2661,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the acute angle between the two hands on a clock when the time is $6{:}40 \text{?}$
@@ -2797,7 +2749,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>11A220CF-3A1E-45CD-91CC-A79D775A5622</p>
@@ -2821,8 +2773,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The minimum temperature on Monday is $5 \degree \text{C}$ and it drops by $6 \degree \text{C}$ for each of the next two days. What is the minimum temperature on Wednesday?
@@ -2911,7 +2861,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>313C0176-599B-4411-8151-10786286C2B3</p>
@@ -2935,8 +2885,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A carton of fruit juice costs $27 \ \text{p}$. If I only have $2 \ \text{p}$ and $5 \ \text{p}$ coins, in how many different ways can I pay?
@@ -3025,7 +2973,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>D7D2600C-617A-4153-9BD6-1047F28F90B5</p>
@@ -3049,8 +2997,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is $0.28756$ rounded to the nearest hundredth?
@@ -3139,7 +3085,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>69304C28-7AA2-4AE0-9AE9-CBE63C7C2B9B</p>
@@ -3163,8 +3109,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Which is larger, $\dfrac{13}{15}$ or $85\% \text{?}$
@@ -3253,7 +3197,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>002622C6-C91F-4A99-82CA-61E36C368620</p>
@@ -3277,8 +3221,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 David wishes to share $54$ treats between his two dogs in the ratio $2:7$. What is the difference between the number of treats each dog gets?
@@ -3367,7 +3309,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>BCCDDA72-4315-4644-8C07-DB4E0974B736</p>
@@ -3391,8 +3333,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Raj pours $20 \ \text{ml}$ of water out of a bottle containing $1.5 \ \text{litres}$. How much water is left in the bottle?
@@ -3481,7 +3421,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>0292BCC9-D094-4168-8CFD-479607DBA30E</p>
@@ -3505,8 +3445,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $55$ children were asked if they played football or hockey. The diagram below was drawn based on the results.
@@ -3599,7 +3537,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>47E327C6-4C40-43C5-9FF8-AC71F99F65E0</p>
@@ -3623,8 +3561,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Which of the following events is the MOST likely?
@@ -3717,7 +3653,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>9CBA8FCA-69B4-4D42-A54B-BDF3EF030B06</p>
@@ -3741,8 +3677,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the name of this shape?
@@ -3833,7 +3767,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>A4C17689-163A-4489-95B4-023B10C5D707</p>
@@ -3857,8 +3791,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the area of the unshaded region, in $\text{cm}^2 \text{?}$
@@ -3951,7 +3883,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>3D2E7EA9-FD56-44E5-8431-9DF55E3F885B</p>
@@ -3975,8 +3907,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The house numbers on the left hand side of a street are odd numbers. If the first house on the left after a crossroads is number $53$ and the second is number $55$, what is the number of the seventeenth house on the left after the crossroads?
@@ -4065,7 +3995,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>4A1152D5-F51B-4AE8-A4DF-60E52C24E153</p>
@@ -4089,8 +4019,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 When a group of $5$ people meet they all shake each others’ hands. How many handshakes will there be in total?
@@ -4179,7 +4107,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>8A3DB301-53E5-4513-A5D7-929E7352F2A6</p>
@@ -4203,8 +4131,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How many ways are there of shading two more squares on this shape to produce a pattern with at least one line of reflective symmetry?
@@ -4295,7 +4221,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>41ACFFE3-76F8-485A-93E7-DF9EAB247EFB</p>
@@ -4319,8 +4245,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A metal bucket full of sand weighs $15 \ \text{kg}$. When two thirds of the sand is poured out the bucket weighs $7 \ \text{kg}$. What is the weight of the empty bucket in $\text{kg?}$
@@ -4409,7 +4333,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>1826FD34-686D-4876-B648-AF794C358174</p>
@@ -4433,8 +4357,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the missing number?
@@ -4525,7 +4447,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>2EA32857-55BD-4951-B981-F24B65BD452D</p>
@@ -4549,8 +4471,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A bag contains $7$ orange and $16$ purple counters. How many orange counters need to be added to make the ratio of orange to purple counters $3:2 \text{?}$
@@ -4639,7 +4559,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>81D74DF0-6412-4745-80F4-C5C6A8C15119</p>
@@ -4663,8 +4583,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 **For Questions $41 - 44$ use this diagram:**
@@ -4759,7 +4677,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>93407369-D73D-4C8E-A57A-0802EB599E28</p>
@@ -4783,8 +4701,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Calculate the value of $y$.
@@ -4873,7 +4789,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>208D3887-802B-4145-AAC8-835B3985CE36</p>
@@ -4897,8 +4813,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What word best describes the sides $CD$ and $DE \text{?}$
@@ -4991,7 +4905,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>8848F04C-F2B2-479C-85B9-F5F087810B67</p>
@@ -5015,8 +4929,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What type of triangle is $ABC \text{?}$
@@ -5105,7 +5017,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>2AFB0116-EBAF-49A3-BA96-152EE8D52B88</p>
@@ -5129,8 +5041,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Aivy has $33$ pets in total, which are all rabbits, horses or hamsters. She has $7$ more rabbits than horses and $3$ times as many hamsters as rabbits. How many rabbits does she have?
@@ -5219,7 +5129,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>6DD5560D-E88C-4AA7-ACB0-18B32F660F7C</p>
@@ -5243,8 +5153,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Which name best describes the following $3$-D shape?
@@ -5339,7 +5247,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>6F20EAE0-E07F-44A1-8C81-5C91A408EC6C</p>
@@ -5363,8 +5271,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What do the missing numbers in this calculation add up to?
@@ -5462,7 +5368,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>A1F7599D-50FD-4D4F-8C8C-A7F1818E6D2C</p>
@@ -5486,8 +5392,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $3$ identical vases and $2$ identical candles are to be lined up on a window sill. In how many different ways can they be arranged?
@@ -5576,7 +5480,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>99AB5ACC-82A0-4676-AED3-51B14B7173B9</p>
@@ -5600,8 +5504,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Complete the following table about a group of children to work out the total number of girls in the group:
@@ -5696,7 +5598,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>58C50740-7C52-4BF4-9322-B9AFEEA98435</p>
@@ -5720,8 +5622,6 @@ tunassigned
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the value of $\blacklozenge$ if each row has the total given?

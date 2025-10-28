@@ -1,7 +1,7 @@
 ---
 slug: "papers/forest-school-11-plus-maths-2012-sample-paper-4"
 title: "Forest School - 11 Plus - Maths - 2012 - Sample Paper 4"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "39"
 ---
 <div class='paper'>
@@ -12,8 +12,8 @@ questions_count: "39"
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>50992E1A-B8C0-4EB8-8789-9C348EA332F3</p>
@@ -37,8 +37,6 @@ xdetailedaddition
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $57+26$.
@@ -141,7 +139,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>A8E34EFB-7271-465E-9A79-76C94879F6CE</p>
@@ -165,8 +163,6 @@ xdetailedsubtraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $34-18$.
@@ -269,7 +265,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>6890A40F-BBE6-4E2A-AD93-CC19CB4278D9</p>
@@ -293,8 +289,6 @@ xdetailedmultiplication
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $324 \times 11$.
@@ -403,7 +397,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>683367F1-48F9-455E-BF09-190330CA1563</p>
@@ -427,8 +421,6 @@ xdivision
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $3138 \div 6$.
@@ -533,7 +525,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>150BDB9E-078E-4667-B738-51008010C39C</p>
@@ -557,8 +549,6 @@ xtime
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How many hours were there in the year $2011?$
@@ -669,7 +659,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>3DCBE14C-A09F-4FE2-8DBD-459387598E3B</p>
@@ -693,8 +683,6 @@ xmoney
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Isaac has $\pounds148$ and he spends $\pounds97$. How much does he have left?
@@ -799,7 +787,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>9B016E52-571D-420D-AD9B-46A0B7235D43</p>
@@ -823,8 +811,6 @@ xfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Find $\dfrac{3}{4}$ of $30$.
@@ -933,7 +919,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>6DA6981D-05B3-4CAE-AE86-5EB0CDBAC7CC</p>
@@ -957,8 +943,6 @@ xfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What number is exactly halfway between $1\dfrac{1}{2}$ and $3?$
@@ -1077,7 +1061,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>335931D3-F653-4FC2-8C81-984C89CDD28A</p>
@@ -1101,8 +1085,6 @@ xfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Calculate $3.6 \div 0.4$.
@@ -1211,7 +1193,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>EAC77E26-32E2-4685-A2CF-796E203E2FB1</p>
@@ -1235,8 +1217,6 @@ xtime
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The bus should leave my house at $3.46\ \text{pm}$ and should take $12\ \text{minutes}$ to get to the train station. The bus arrives $4\ \text{minutes}$ late and then takes $6\ \text{minutes}$ longer than usual to get to the station. What time do I arrive at the station?
@@ -1325,7 +1305,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>F7557E1E-3492-4C62-BE39-972E9A9A09A8</p>
@@ -1349,8 +1329,6 @@ xfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How many thirds are there in $2\dfrac{2}{3}?$
@@ -1439,7 +1417,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>7DB7175E-EA70-420A-952C-C65978C9C64A</p>
@@ -1463,8 +1441,6 @@ xnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Using $7$,$6$,$5$,$4$ in order and addition and subtarction signs we can make $10$ as shown below.
@@ -1559,7 +1535,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>4EA1FFEB-4F34-49A5-8073-E8FA813D015A</p>
@@ -1583,8 +1559,6 @@ xmoney
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Theo bought a choclate bar for $72\ \text{p}$ and some balloons, each of which cost $20\ \text{p}$. He paid with a $\pounds10$ note and recieved $\pounds3.88$. How many balloons did he buy?
@@ -1709,7 +1683,7 @@ Theo bought $27$ balloons.
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>DECB4232-BF9F-42C1-9888-7F8C6B30894F</p>
@@ -1733,8 +1707,6 @@ xpermutation
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Four friends each spent good luck cards to each other. How many cards were sent altogether?
@@ -1823,7 +1795,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>D7016418-6CF4-489E-9850-E42349E10270</p>
@@ -1847,8 +1819,6 @@ xfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Write $0.32$ as a fraction in its lowest terms.
@@ -1953,7 +1923,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>47FE2C8B-9984-4A34-B399-EDA13DB4A544</p>
@@ -1977,8 +1947,6 @@ xtime
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The $15^\text{th}$ of April was a Monday. What day was the $5^\text{th}$ of March of the same year?
@@ -2067,7 +2035,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>C4608168-E901-4A70-B509-72AB5A21DB7E</p>
@@ -2091,8 +2059,6 @@ xprobability
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A drawer contains $4$ red socks and $4$ blue socks. What is the smallest number of socks you need to take out in order to be sure that you have atleast one matching pair?
@@ -2181,7 +2147,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>A68C9BF7-3948-426C-8779-9894E6065408</p>
@@ -2205,8 +2171,6 @@ xdetailedsubtraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 *ABBR: TODO:: Find the right katex symbol.*
@@ -2305,7 +2269,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>0151F20C-C3B2-496A-B511-3936C4364189</p>
@@ -2329,8 +2293,6 @@ xprofit
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A coat cost $\pounds 125$ and was then reduced by $20\%$ in a sale. What is the new price?
@@ -2445,7 +2407,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>E989B72D-22B6-402A-A256-70D690017E38</p>
@@ -2469,8 +2431,6 @@ xnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the smallest positive whole number that is exactly divisible by $2,3,4,5$ and $6?$
@@ -2559,7 +2519,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>1C4BE929-0A33-4871-BD1B-178F5D208645</p>
@@ -2583,8 +2543,6 @@ xratio
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Four $1\ \text{cm}$ squares fit inside a $2\ \text{cm}$ square as shown here.
@@ -2679,7 +2637,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>B1DD7B3D-62EC-488E-ADE6-2D8C0B08346E</p>
@@ -2703,8 +2661,6 @@ xfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is a quarter of $398?$
@@ -2807,7 +2763,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>821B17D1-6121-4DBA-B3C5-B9F911B68FEE</p>
@@ -2831,8 +2787,6 @@ xsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The mass of a jar $\dfrac{1}{4}$ full of Marmite is $250\ \text{gm}$. It has a mass of $350\ \text{g}$ when it is $\dfrac{3}{4}$ full. What is the mass of the empty jar?
@@ -2921,7 +2875,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>AA4B6F6B-3C09-4EB2-83F5-16AA18CD8174</p>
@@ -2945,8 +2899,6 @@ xpermutation
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A palindromic number is the same when written backwards as forwards, e.g $454$ is a palindromic number. How many palindromic numbers are there between $100$ and $200?$
@@ -3035,7 +2987,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>6A207746-0A80-421D-AC8D-45ED442FDB65</p>
@@ -3059,8 +3011,6 @@ xprobability
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Rehema rolls a fair dice $30$ times. How many times should she expect to get a $5?$
@@ -3149,7 +3099,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>DE13E1EC-62A7-4F4D-AFD7-E7B9A9C21D03</p>
@@ -3173,8 +3123,6 @@ xnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Consecutive whole numbers are next to each other. For example, $4$ and $5$ are consecutive whole numbers.
@@ -3266,7 +3214,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>219BF40B-7C4D-4E3A-8A8F-AEDD15D706F8</p>
@@ -3290,8 +3238,6 @@ xnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Write in words the number $3052002$.
@@ -3380,7 +3326,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>6ED94AF4-C789-4467-80B2-C7AAAE604BD9</p>
@@ -3404,8 +3350,6 @@ xnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Amy thinks of a prime number that is greater than $10$.
@@ -3498,7 +3442,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>3C878009-C44D-4477-8036-5DEDBEBB296F</p>
@@ -3522,8 +3466,6 @@ xspeed
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A toy train of length $16\ \text{cm}$ approaches a tunnel of length $59\ \text{cm}$. How many seconds will it take the train to pass completely through the tunnel at a speed of $5\ \text{cm/second}?$
@@ -3612,7 +3554,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>474A6388-DA7E-4A08-B7F3-DC1C7BC1D481</p>
@@ -3636,8 +3578,6 @@ xclock
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A clock is fast. It gains $2\ \text{minutes}$ every hour. It is set correctly at $1\ \text{pm}$. What time does the clock show when the correct time is $8.30\ \text{pm}?$ 
@@ -3726,7 +3666,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>E729DF6F-E44F-4040-9331-0BBFDFAF75F3</p>
@@ -3750,8 +3690,6 @@ xpermutation
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In a football match the final score was $3{-}1$.
@@ -3846,7 +3784,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>E60093AE-3C16-41F5-97FE-B0851B034BAA</p>
@@ -3870,8 +3808,6 @@ xalgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 If
@@ -3920,8 +3856,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3964,7 +3900,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -4009,7 +3945,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -4102,7 +4038,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>90932C0F-83D0-42D8-9B76-0A2D34039781</p>
@@ -4126,8 +4062,6 @@ xgraph
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 ![forest-school--11-plus--maths--2012--sample-paper-4/section-1-question-33-00.png](/assets/forest-school--11-plus--maths--2012--sample-paper-4/section-1-question-33-00.png "forest-school--11-plus--maths--2012--sample-paper-4/section-1-question-33-00.png")
@@ -4166,8 +4100,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -4210,7 +4144,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -4253,7 +4187,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -4346,7 +4280,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>1647A5C6-01A0-4D3E-860E-E5F58B25D8EF</p>
@@ -4370,8 +4304,6 @@ xfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is $5\%$ of $5\ \text{kg}$? Give your answer in grams.
@@ -4478,7 +4410,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>A9922960-B9B0-4D04-9196-F85C50A3FA3B</p>
@@ -4502,8 +4434,6 @@ xinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $512$ is a Dudeney number because
@@ -4619,7 +4549,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>B6687B0D-A1BC-439A-8B3E-4999A08CB77F</p>
@@ -4643,8 +4573,6 @@ xsequence
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Find the next two numbers in each of these sequences
@@ -4683,8 +4611,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -4727,7 +4655,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -4770,7 +4698,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -4863,7 +4791,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>8FECC67C-3C9C-48E5-A9D0-7A96DAD56BC3</p>
@@ -4887,8 +4815,6 @@ xareaperimeter
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the area of a square that has a perimeter $28\ \text{cm}$? Give the units with your answer.
@@ -5009,7 +4935,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>E80580D3-C43C-4E93-88F7-29F468B8FCC4</p>
@@ -5033,8 +4959,6 @@ xvenn
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In a group of $46$ children, $30$ like carrots, $23$ like bananas and $3$ do not like either.
@@ -5073,8 +4997,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -5117,7 +5041,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -5210,7 +5134,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>6F3963CB-67F0-4CA7-AD46-85128673A528</p>
@@ -5234,8 +5158,6 @@ xspeed
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A journey of $45\ \text{miles}$ takes me an hour and a half travelling at the same speed throughout. How far had I gone in $1\ \text{hour}?$

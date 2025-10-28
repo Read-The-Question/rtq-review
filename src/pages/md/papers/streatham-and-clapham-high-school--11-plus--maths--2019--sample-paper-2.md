@@ -1,7 +1,7 @@
 ---
 slug: "papers/streatham-and-clapham-high-school-11-plus-maths-2019-sample-paper-2"
 title: "Streatham And Clapham High School - 11 Plus - Maths - 2019 - Sample Paper 2"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "43"
 ---
 <div class='paper'>
@@ -14,8 +14,8 @@ questions_count: "43"
 </div>
 
 # Section A
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>74D1D6EA-DD18-4834-B06D-9B3F7F9AE838</p>
@@ -39,8 +39,6 @@ tdivision
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $1449 \div 23$
@@ -154,7 +152,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>B6324DC0-06C3-45E8-A7CC-C347E7D4ED1A</p>
@@ -178,8 +176,6 @@ torder
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Which of the following numbers has the largest value?
@@ -279,7 +275,7 @@ $0.601$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>42DD1DEA-9421-4D3A-9922-9C450DDF4E3F</p>
@@ -306,8 +302,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Calculate the angle marked with the letter $x$.
@@ -430,7 +424,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>75AEEA2C-4F1A-41FB-8F60-B6CB67ECF7E6</p>
@@ -454,8 +448,6 @@ tpercentage
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is $0.78$ as a percentage? 
@@ -565,7 +557,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>702E6294-E08B-43C0-BB02-104BBD96CCF8</p>
@@ -589,8 +581,6 @@ tsymmetry
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The number of letters in the word PASTE that have line symmetry is 
@@ -705,7 +695,7 @@ TSYMMETRY
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>36415844-5CC2-4E29-9E67-F5B06F9F9D26</p>
@@ -729,8 +719,6 @@ tratio
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Eleven pencils cost $\pounds 4.95$. How much would seven pencils cost?
@@ -938,7 +926,7 @@ Cost of $7$ pencils $= \pounds 3.15$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>FC8421CA-91B3-47D9-A6F5-43D083840F7F</p>
@@ -965,8 +953,6 @@ tfactor
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Here is a list of numbers.
@@ -1007,8 +993,8 @@ $5, \quad 8, \quad 9, \quad 11, \quad 12, \quad 13, \quad 17, \quad 18, \quad 20
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1064,7 +1050,7 @@ Numbers in the list $= 5, 8, 20$
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1170,7 +1156,7 @@ Count $= 3$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>AEBABE3E-F196-4C58-B465-E9AE5604FC6A</p>
@@ -1194,8 +1180,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Change $45 \%$ to a fraction in its simplest form.
@@ -1313,7 +1297,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>7ED92958-A20C-4CB1-B94C-7667D1274879</p>
@@ -1340,8 +1324,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Find the perimeter of this square.
@@ -1493,7 +1475,7 @@ WRONG WORKING check tarea in site EDIT : Nothing changed??
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>ACCD452C-167D-4F04-A496-755F5523D582</p>
@@ -1520,8 +1502,6 @@ tdecimal
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Find the value of $89.1 - 36.55$
@@ -1638,7 +1618,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>420E188E-519C-42A7-A5F9-D5C0C4417ED1</p>
@@ -1662,8 +1642,6 @@ ttime
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How many seconds are there in a day?
@@ -1779,7 +1757,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>1B3F4C98-47C5-4822-9812-B9AD2C131A7A</p>
@@ -1803,8 +1781,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Find $n$ if $126 \div n = 9$
@@ -1924,7 +1900,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>072C52DE-5BD3-4299-845A-4CA76E632B3F</p>
@@ -1948,8 +1924,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Simplify the expression $4c - 6d + 2c + 3d$.
@@ -2061,7 +2035,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>B3953255-207A-4EBE-9639-02C3221CD9F3</p>
@@ -2085,8 +2059,6 @@ tprobability
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A bag contains $12$ red, $17$ blue, $10$ orange and $21$ black counters.
@@ -2126,8 +2098,8 @@ You pick a counter without looking inside.
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2202,7 +2174,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2329,7 +2301,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6082C51C-48FB-4A15-B156-8BC33B276648</p>
@@ -2356,8 +2328,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Calculate the area of the trapezium.
@@ -2484,7 +2454,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>1E0CB113-B157-4C80-BF97-74BDBC174E3F</p>
@@ -2508,8 +2478,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Convert $5300 \ \text{grams}$ to kilograms.
@@ -2619,7 +2587,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>49F4F71D-E31B-4B40-81AA-518393D5C392</p>
@@ -2643,8 +2611,6 @@ tsequence
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $243, \quad -81, \quad 27, \quad -9, \quad \ldots, \quad \ldots$
@@ -2789,7 +2755,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>10C36790-C347-40B9-9147-58FE1E31EBEC</p>
@@ -2813,8 +2779,6 @@ ttime
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 I left home for school at $7.22 \ \text{am}$ and arrived at $8.16 \ \text{am}$. How long 
@@ -2923,7 +2887,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>4DE7EF9C-F90F-456B-80E1-8DBA8C7784FA</p>
@@ -2947,8 +2911,6 @@ tstatistics
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The heights, in metres, of eleven children are
@@ -2994,8 +2956,8 @@ $
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3080,7 +3042,7 @@ Mode $= 1.32 \ \text{m}$
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3199,7 +3161,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>C170856E-E8AE-41D4-9721-1CD44BC88A84</p>
@@ -3223,8 +3185,6 @@ tdetailedmultiplication
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the value of 
@@ -3340,7 +3300,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>D2F1F5D7-B3B8-4AD7-84A4-E5E0456DB959</p>
@@ -3364,8 +3324,6 @@ tstatistics
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The pie chart shows the result of a survey of $250$ students about their favourite foods.
@@ -3414,8 +3372,8 @@ Pizza $20 \%$
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3483,7 +3441,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3603,7 +3561,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>9A5410BD-3EE5-409F-8688-DA50768205F0</p>
@@ -3627,8 +3585,6 @@ tareaperimeter
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A roll of wallpaper is $10 \ \text{m}$ long and $0.6 \ \text{m}$ wide. How many rolls of 
@@ -3754,7 +3710,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>F1B80E8B-8F3D-4D7C-B004-64E862ADAB50</p>
@@ -3781,8 +3737,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Find the perimeter of the compound shape.
@@ -3902,7 +3856,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>9223B5BC-2F8C-43A9-8FF7-B370A90FF796</p>
@@ -3926,8 +3880,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $0.6 \times 7.12 =$
@@ -4056,7 +4008,7 @@ $= 4.272$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>85473E1B-41B4-4C2F-8183-407C3B81B2F5</p>
@@ -4080,8 +4032,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $P = 9a - 7b^{2}$
@@ -4201,7 +4151,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>66123310-D9F1-45C3-86F1-7A120C1FCB10</p>
@@ -4225,8 +4175,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $\dfrac{3}{4} + 0.35$ 
@@ -4342,7 +4290,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>B8B2E49B-8011-42BF-B6B2-E0E65544BF52</p>
@@ -4366,8 +4314,6 @@ tratio
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 It takes $5$ teachers $9 \ \text{hours}$ to mark a set of examination papers. 
@@ -4434,7 +4380,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>1C378342-8093-4F4F-9EBA-AF890BAF5C56</p>
@@ -4458,8 +4404,6 @@ tstatistics
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The mean of Jane's six Mathematics test is $89 \%$. After her 
@@ -4597,8 +4541,8 @@ Seventh test score $= 96 \ \%$
 </ul>
 
 # Section B
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>6F52BD1A-7BE2-420D-A7AA-8B6AA1501539</p>
@@ -4622,8 +4566,6 @@ tprobability
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 There are $4$ red counters and $3$ black counters in bag $A$. 
@@ -4748,7 +4690,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>B6391AE6-AFDE-4F0B-865B-5BD6985A8B78</p>
@@ -4775,8 +4717,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Two angles of a quadrilateral are $95 \degree$ and $75 \degree$. 
@@ -4910,7 +4850,7 @@ Sum of the other two angles $= 190 \degree$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>698B11F8-9733-47E3-A64E-683A3E3D6D13</p>
@@ -4934,8 +4874,6 @@ tsequence
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The first two terms of a sequence are $1, 2$. 
@@ -5057,7 +4995,7 @@ $50$ is not part of the sequence.
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>F25E82C3-2612-4DD6-9E94-BBA4771C38C6</p>
@@ -5081,8 +5019,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the difference between the smallest $3$-digit number and the largest  $4$-digit number?
@@ -5196,7 +5132,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>F4262879-AD95-4756-AC5F-82180439F2CC</p>
@@ -5220,8 +5156,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Sixteen people, and no more, can sit evenly spaced around a large square table. 
@@ -5338,7 +5272,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>A2279230-AADE-4793-B27A-4810B6805DE7</p>
@@ -5365,8 +5299,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A square piece of card has perimeter $28 \ \text{cm}$. 
@@ -5554,7 +5486,7 @@ Follow coding guilines.. no need to put l and b in text.. Write the statement(us
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>08FFB9EF-BDF0-49DC-A1FB-6B32890EE987</p>
@@ -5578,8 +5510,6 @@ tnet
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The diagrams below show three different views of the same cube. 
@@ -5638,7 +5568,7 @@ After assuming a cube , and pointing side we get that the opposite side of $M$ i
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>8DABE50C-B242-43CA-A194-C553FE7000E3</p>
@@ -5662,8 +5592,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Jan counted a total of $100$ cars parked in four rows of a departmental store car park. 
@@ -5815,7 +5743,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>B4811CE8-001C-4E89-B5D6-B3377D1B9012</p>
@@ -5839,8 +5767,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A small ink cartridge has enough ink to print $400$ pages. 
@@ -5997,7 +5923,7 @@ A large cartridge can print $= 900 \ \text {pages}$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>80925746-893F-4F01-BA51-BF11E12AEDBE</p>
@@ -6021,8 +5947,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 ![streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2/section-2-question-10-00.png](/assets/streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2/section-2-question-10-00.png "streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2/section-2-question-10-00.png") 
@@ -6140,7 +6064,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>F76B40C9-E94E-4682-9F9E-D4DDAFE42591</p>
@@ -6164,8 +6088,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Khris Krigle gives each of his helper's one twelfth of a giant chocolate bar that he had. 
@@ -6308,7 +6230,7 @@ Number of helpers $= 8$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>1C1407AB-FAA5-4405-B150-73807FC42C74</p>
@@ -6332,8 +6254,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The Crystal Palace bridge has carried $300 \ \text{million}$ cars since it was opened in $1964$. 
@@ -6448,7 +6368,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>B2907727-9EAA-4EAE-B1D3-4715D0CA8813</p>
@@ -6472,8 +6392,6 @@ tsymmetry
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How many of the six faces of a dice (shown below) have fewer than three lines of symmetry?
@@ -6595,7 +6513,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>47EFAF0C-137C-44C4-BF63-3C7AD7B35914</p>
@@ -6622,8 +6540,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In the diagram shown below, which square could be removed with the 
@@ -6761,7 +6677,7 @@ Perimeter of the shape remain same after removing tile $5$.
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>51FA34A0-EEA9-468D-9DD3-11BB4CBBF4D0</p>
@@ -6785,8 +6701,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Two numbers $X$ and $Y$ (where $Y$ is bigger than $X$), have a Highest Common Factor of $X$. 

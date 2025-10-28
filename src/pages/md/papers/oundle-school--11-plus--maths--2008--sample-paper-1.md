@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2008-sample-paper-1"
 title: "Oundle School - 11 Plus - Maths - 2008 - Sample Paper 1"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "25"
 ---
 <div class='paper'>
@@ -12,8 +12,8 @@ questions_count: "25"
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>562D6DED-BF9D-4385-8686-F5138019FDF9</p>
@@ -37,8 +37,6 @@ tdetailedaddition
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $65 + 88$.
@@ -141,7 +139,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>BDF5CE80-68DE-4747-8DF0-4C7EC4BA6D8A</p>
@@ -165,8 +163,6 @@ tdetailedsubtraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $123 - 67$
@@ -269,7 +265,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>15A15561-6564-4C94-9090-F4EAC0AD496E</p>
@@ -293,8 +289,6 @@ tdetailedmultiplication
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Multiply $76 \times 9$
@@ -397,7 +391,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>79A31346-E81D-4C43-B183-3EA0BE05B9AF</p>
@@ -421,8 +415,6 @@ tdivision
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $336 \div  6$ 
@@ -527,7 +519,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>01B71FE1-4A60-4BF3-8381-0E7963EDDE0A</p>
@@ -551,8 +543,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Subtract three times the smallest number from twice the largest number in this list:
@@ -656,7 +646,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>038E02CB-3A7A-4452-A7B9-B26C234E7231</p>
@@ -683,8 +673,6 @@ tnoexplanation
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Write as a number: 
@@ -775,7 +763,7 @@ $90009$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>752098FA-6C94-4462-980C-6ECAC6F2EACC</p>
@@ -799,8 +787,6 @@ ttemperature
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 When Greg started to climb Ben Nevis, the temperature at the bottom was $17 \ \text{degrees}$. At the top, it was $-2 \ \text{degrees}$. What was the overall drop in temperature as he climbed up the mountain?
@@ -901,7 +887,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>DBC1958C-C043-4319-9AE7-09CEA696EBC9</p>
@@ -925,8 +911,6 @@ ttime
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is $463 \ \text{minutes}$ in hours and minutes?
@@ -1029,7 +1013,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>FFA405AA-B004-43FE-A6D8-72C925702C2D</p>
@@ -1056,8 +1040,6 @@ tnoexplanation
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Melanie's father took $1 \ \text{hr} \ 25 \ \text{mins}$ to drive from Peterborough to Oxford. He left Peterborough at $11.45  \ \text{am}$. At what time did he arrive in Oxford? 
@@ -1156,7 +1138,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>154BD462-2E71-4EBE-AD0B-A1A972F20268</p>
@@ -1180,8 +1162,6 @@ ttime
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Change $4.6 \ \text{minutes}$ into seconds. 
@@ -1282,7 +1262,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>B3BEC0CC-4D5E-48CC-9ADB-8FEF97E59046</p>
@@ -1306,8 +1286,6 @@ tsequence
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Continue the sequences, giving the next two numbers each time :
@@ -1346,8 +1324,8 @@ Continue the sequences, giving the next two numbers each time :
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1450,7 +1428,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1553,7 +1531,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1656,7 +1634,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1813,7 +1791,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>172741B4-476E-490F-988C-FC140144A330</p>
@@ -1837,8 +1815,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Find the missing numbers:
@@ -1877,8 +1853,8 @@ Find the missing numbers:
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1947,7 +1923,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2074,7 +2050,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>D7B8557B-C51F-4733-8A8F-653E8E463B35</p>
@@ -2098,8 +2074,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Five friends shared the cost of a mansion (priced at $3$ million pounds) equally. How much did each of them pay ?  
@@ -2214,7 +2188,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prpcr question'>
 <div class='uuid'>
 <p>662D8D5A-FC30-4723-82E2-9B0B4ED1FDE9</p>
@@ -2241,8 +2215,6 @@ tcoin
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Susan's bus fare is exactly $44 \ \text{p}$. If the driver can give her change, what is the smallest number of coins that can change hands when Susan pays to get on the bus? (Explain clearly)
@@ -2356,7 +2328,7 @@ not done correctly, she gives 50 p so 1 coin, then show how many coins for retur
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>55EE8A7B-471C-4247-BC0B-6023B61F7656</p>
@@ -2380,8 +2352,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 There are $120$ boys and $80$ girls at a small primary school. During the holidays, $50\%$ of the boys and $60\%$ of the girls saw the latest Harry Potter movie. How many pupils in total from the primary school saw the movie?
@@ -2488,7 +2458,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>92E95BCC-497F-4231-9BB1-F3CFFD1D9536</p>
@@ -2512,8 +2482,6 @@ tclock
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 On a clock face, what is the angle between the hands at $8{:}30?$
@@ -2642,7 +2610,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>AC3AC204-80D4-4019-BF9B-79C535481A56</p>
@@ -2666,8 +2634,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 You are told that $22 \times 46 = 1012$. 
@@ -2708,8 +2674,8 @@ Use this fact to write down the answers to:
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2764,7 +2730,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2819,7 +2785,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2874,7 +2840,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2937,7 +2903,7 @@ $
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3046,7 +3012,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>F6E507E4-5513-450C-A164-F9F381B9B8BE</p>
@@ -3073,8 +3039,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 ![oundle-school--11-plus--maths--2008--sample-paper-1/section-1-question-18-00.png](/assets/oundle-school--11-plus--maths--2008--sample-paper-1/section-1-question-18-00.png "oundle-school--11-plus--maths--2008--sample-paper-1/section-1-question-18-00.png")
@@ -3210,7 +3174,7 @@ call Uday
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>C2047E1E-44EC-45A8-8D46-B84E3ACCC574</p>
@@ -3234,8 +3198,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Robert enjoyed his summer holiday. He spent half of it working in a music store. He spent half of the remaining time reading and relaxing at home, and, after spending $4$ days at a friend's house, he had exactly $2$ weeks left to attend a summer camp. How long (in days) was his summer holiday ?  
@@ -3354,7 +3316,7 @@ Robert summer holiday was $72$ days long.
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>DE2B4A57-B8DD-4C95-9E77-103AF639A833</p>
@@ -3378,8 +3340,6 @@ tpercentage
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is $60\%$ of $10\%$ of $900?$ 
@@ -3486,7 +3446,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>D1E18EF0-0246-4AD6-A7F6-785C3D615D76</p>
@@ -3513,8 +3473,6 @@ tnoexplanation
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the smallest odd $5\text{-digit}$ number that you can make with the digits $4, 7, 5, 8, 3$ using each digit only once?
@@ -3603,7 +3561,7 @@ $34587$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>C2E4602D-7614-4602-B0C7-6BE05EC0D2F4</p>
@@ -3627,8 +3585,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 ![oundle-school--11-plus--maths--2008--sample-paper-1/section-1-question-22-00.png](/assets/oundle-school--11-plus--maths--2008--sample-paper-1/section-1-question-22-00.png "oundle-school--11-plus--maths--2008--sample-paper-1/section-1-question-22-00.png")   ![oundle-school--11-plus--maths--2008--sample-paper-1/section-1-question-22-01.png](/assets/oundle-school--11-plus--maths--2008--sample-paper-1/section-1-question-22-01.png "oundle-school--11-plus--maths--2008--sample-paper-1/section-1-question-22-01.png")
@@ -3769,7 +3725,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>4EB55D89-BF4F-47CA-A07F-BC5A04143A7B</p>
@@ -3796,8 +3752,6 @@ tnoexplanation
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $2008$ is a leap year, and this year the $29 ^\text{th}$ of February falls on a Friday. On what day of the week will the $29 ^\text{th}$ of February fall in the next leap year  $(2012)?$ (Remember there are $366 \ \text{days}$ in a leap year).
@@ -3902,7 +3856,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>2225AC51-DD9D-4735-95C7-96330E32FE3A</p>
@@ -3926,8 +3880,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Adam, Ben and Carl are weighing themselves.
@@ -4082,7 +4034,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>77E9FF2D-12FF-466D-9749-A5941A6FB36A</p>
@@ -4106,8 +4058,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 On this diagram, the start position is the letter $S$ on the left, and the finish position is the letter the $S$ on the right. You have to move from letter to letter, and you may only move along the lines. Following these rules, how many different routes can you find which spell out the word $SQUARES?$  

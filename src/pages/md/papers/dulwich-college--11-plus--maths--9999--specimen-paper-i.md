@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-i"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper I"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "26"
 ---
 <div class='paper'>
@@ -12,8 +12,8 @@ questions_count: "26"
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>020A1080-07FE-46F1-8673-E5721CEC0A31</p>
@@ -37,8 +37,6 @@ xdetailedaddition
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $911 + 91 + 9$
@@ -143,7 +141,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>EBDCF525-6994-49ED-B87E-C1343DBDA0BB</p>
@@ -167,8 +165,6 @@ xdetailedsubtraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $53.4 - 2.5$
@@ -276,7 +272,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>9D6CBDA2-F874-499B-A6EA-CBF78B3750AD</p>
@@ -300,8 +296,6 @@ xdetailedmultiplication
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $25 \times 71$
@@ -404,7 +398,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>38B32B09-4137-41F1-AA45-F2828BE029FC</p>
@@ -428,8 +422,6 @@ xdetailedaddition
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $86.1 + 7$
@@ -537,7 +529,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>A485443F-AACE-40CB-9335-B030B61DB8D1</p>
@@ -561,8 +553,6 @@ xdetailedmultiplication
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $0.04 \times 1000 $
@@ -661,7 +651,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>9540AA56-B2B0-4B83-AD75-ED6BCAA28643</p>
@@ -685,8 +675,6 @@ xfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $\dfrac{2} {3} + \dfrac {3} {5}$
@@ -789,7 +777,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>55141A96-FEDE-4259-AC67-0ED8EC39C6AE</p>
@@ -813,8 +801,6 @@ xalgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Find in the missing number :
@@ -905,7 +891,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>6BA5A107-7B84-40C9-A16B-AC18A6F2B07C</p>
@@ -929,8 +915,6 @@ xorder
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Write the following amounts in size order, starting with the smallest:
@@ -1021,7 +1005,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>65EF192F-BC3A-483C-82D1-F48D017FC64E</p>
@@ -1045,8 +1029,6 @@ xmoney
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A drink and a box of popcorn together cost $90 \ \text{p}$. Two drinks and a box of popcorn together cost $\pounds 1.45$. What does a box of popcorn cost?
@@ -1155,7 +1137,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>5550E2DE-0829-44CE-BBFE-D193E32911F8</p>
@@ -1179,8 +1161,6 @@ xratio
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 On a bus, the ratio of men and women is $5:4$. If there are $12$ women on the bus, how many men are on the bus?
@@ -1269,7 +1249,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>E5EBFFF3-9296-4859-9536-303BD82D1062</p>
@@ -1293,8 +1273,6 @@ xnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Fill in the missing digit so that there is no remainder when the following number is divided by $6$
@@ -1385,7 +1363,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>D7A0CEB7-B206-4A47-AC7E-89F3E3A2230D</p>
@@ -1409,8 +1387,6 @@ xvenn
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 If $S = {\text{square number}}$ and $O = {\text{odd number}}$ put each of the numbers $1, 2, 3, 4, 5$ and $6$ into the correct space on the venn diagram:
@@ -1501,7 +1477,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>DC37A81B-91B9-4BE3-B801-E3A02CA85217</p>
@@ -1525,8 +1501,6 @@ xage
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 My age is a multiple of $7$. Next year it will be a multiple of $5$. I am more than $20 \ \text{years }$ old, but less than $80$. How old am I?
@@ -1615,7 +1589,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>341B36E6-7BA6-4701-9608-AF767411203C</p>
@@ -1639,8 +1613,6 @@ xage
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A girl is $5\ \text{years}$ older than her brother. If the sum of their ages is $17$, how old are they?
@@ -1798,7 +1770,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>ED498275-7F53-4B0A-B99D-89CCC60AF81B</p>
@@ -1822,8 +1794,6 @@ xtime
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The $15.17$ train from Liverpool arrives at London (Euston) at $18.02$.
@@ -1862,8 +1832,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1906,7 +1876,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -1999,7 +1969,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>81CB6EA1-030E-49F5-9166-C7C74632A169</p>
@@ -2023,8 +1993,6 @@ xsymmetry
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 By following the dotted lines, find a path joining $A$ and $B$ which divides the rectangle into $2$ pieces of equal area
@@ -2115,7 +2083,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>DFBEF746-9C5B-4676-99A8-6CD15A67297D</p>
@@ -2139,8 +2107,6 @@ xnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Using each of the digits $2, 4$ and $9,$ find two three-digit numbers which have both $2$ and $7$ as factors.
@@ -2229,7 +2195,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>C9823B0D-CA13-4D3C-9FDE-46AD643AAB72</p>
@@ -2253,8 +2219,6 @@ xgraph
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The graph shows the number of children in each of the first forms of a school.
@@ -2295,8 +2259,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2339,7 +2303,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2382,7 +2346,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2425,7 +2389,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2468,7 +2432,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2561,7 +2525,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>DE2D1164-2D3A-4F65-8115-F9A30F4D3956</p>
@@ -2585,8 +2549,6 @@ xprobability
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Here are two spinners
@@ -2633,8 +2595,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2677,7 +2639,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -2753,7 +2715,7 @@ TODOWORKING
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>661E4555-18ED-41D3-AB5D-E3CF27D073FD</p>
@@ -2777,8 +2739,6 @@ xstatistics
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Last week, at a seaside resort, there was an average of $3 \ \text{hours} $ of sunshine per day for the six days Monday to Saturday. On the Sunday, there were $10 \ \text{hours}$ of sunshine. What was the average amount of sunshine per day for the whole week?
@@ -2867,7 +2827,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>D8F1AE67-8675-47A5-A568-79CC120E3FBB</p>
@@ -2891,8 +2851,6 @@ xareaperimeter
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A piece of wire $30 \ \text{cm} $ long is bent into the shape of a rectangle. If the rectangle is twice as long as it is wide, what is its area?
@@ -2981,7 +2939,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>17CB109E-F133-4865-87DA-4B24E865C56C</p>
@@ -3005,8 +2963,6 @@ xareaperimeter
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 This $4\ \text{cm}$ square has been cut into $6$ pieces: $A, B, C, D, E$ and $F$. $A$ is a square of side $2 \ \text{cm}$. $D$ is a parallelogram.
@@ -3048,8 +3004,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3092,7 +3048,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3135,7 +3091,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3178,7 +3134,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3221,7 +3177,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3314,7 +3270,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>4315EBA7-7349-4AAC-B53F-764248EA0DAC</p>
@@ -3338,8 +3294,6 @@ xvolume
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The diagram below shows some steps made out of equal cubes. The shaded area of the $L$-shaped end of the figure is $108 \ \text{square inches}$ .
@@ -3381,8 +3335,8 @@ TODOANSWER
 </code></pre>
 </div>
 </div>
-<ul class='subquestion lower-alpha'>
-<li>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3425,7 +3379,7 @@ TODOANSWER
 
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
@@ -3518,7 +3472,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>557C2C1B-D80B-4C6B-A4CF-E724FDF81289</p>
@@ -3542,8 +3496,6 @@ xalgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Mary's telephone number is made up of $6$ digits. The first digit is $1$ and the last is $8$. It is also known that the sum of any three consecutive digits in it is $12$. What is Mary's telephone number?
@@ -3632,7 +3584,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>E9D53AA0-EA8B-4E85-8113-1EC7AF15CD95</p>
@@ -3656,8 +3608,6 @@ xalgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Two farmers were taking cows to a market. One said to the other, If you give me one of your cows we shall have the same number. The other farmer replied, if you give me one of yours, I shall have twice as many as you. How many cows did each have? 
@@ -3746,7 +3696,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>73982CF8-FE35-4A11-8083-022988CE3141</p>
@@ -3770,8 +3720,6 @@ xsymmetry
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Fit these two pieces together to make all the possible shapes that have one line of symmetry

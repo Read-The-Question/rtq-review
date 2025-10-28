@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2013-arithmetic-1"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2013 - Arithmetic 1"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "20"
 ---
 <div class='paper'>
@@ -12,8 +12,8 @@ questions_count: "20"
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>0C0A430F-C37E-414F-92E1-7B932AD3DBDA</p>
@@ -40,8 +40,6 @@ tnoexplanation
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Write in figures the number two hundred and twelve thousand and fifty seven.
@@ -130,7 +128,7 @@ $212057$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>3C09A39C-598A-4864-B456-2C4C74356A45</p>
@@ -154,8 +152,6 @@ tdetailedsubtraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $675 - 428$.
@@ -258,7 +254,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>6E5DD2C8-0ED8-4655-8D23-42409D1824F7</p>
@@ -282,8 +278,6 @@ tdetailedmultiplication
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $254 \times 80$.
@@ -392,7 +386,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>511CA557-7CD0-4112-AAFA-299E1D083D08</p>
@@ -416,8 +410,6 @@ tfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Write $0.28$ as a fraction in its simplest form.
@@ -522,7 +514,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>A4EADF93-B120-460C-B5F1-D9351665FB41</p>
@@ -546,8 +538,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the product of the sum of $6$ and $3$ with the difference between $2$ and $10?$
@@ -648,7 +638,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>891C1C55-B5B1-425B-8595-6A3DDCA6BB8B</p>
@@ -675,8 +665,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In a triangle, two angles are the same and the third angle is THREE times bigger than either of the others.  What is the size of the biggest angle?
@@ -816,7 +804,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>3ACC56E9-45C3-48B3-BD78-324451DE6879</p>
@@ -840,8 +828,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Neil thinks of a number, he halves it and then subtracts $9$.  If the answer he gets is $12$, what was the original number he thought of?
@@ -958,7 +944,7 @@ The number Neil thought of $= 42$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>1A6AB009-2F49-47AF-BA34-6312AA658C67</p>
@@ -985,8 +971,6 @@ tunitprompt
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 John the electrician needs to cut three lengths of wire from the $5 \ \text{metre}$ roll he has brought with him to do a job. The three lengths he cuts are $85 \ \text{cm}$, $2.5 \ \text{metres}$ and $650 \ \text{mm}$. How much wire (in cms) will he have left after cutting off his lengths?
@@ -1118,7 +1102,7 @@ The left over wire length is = $100\ \text {cm}$.
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prrl question'>
 <div class='uuid'>
 <p>21F7BC14-9818-4F1D-88D0-C2B5F192C189</p>
@@ -1142,8 +1126,6 @@ ttime
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 My digital watch is set to show time according to the $24$ hour clock. It is currently showing $21{:}10$. How long will it be until it next shows a time with the digits $2, 1, 1$ and $0$ but in any order?
@@ -1326,7 +1308,7 @@ $01{:}12 - 21{:}10 =4\ \text{hrs} \ 2 \ \text{min}$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>71FE7449-4F1E-4FA7-AA3E-E13ECDAD6EF7</p>
@@ -1353,8 +1335,6 @@ tmoney
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Two shirts and three tops cost $\pounds 29$. Three shirts and one top cost $\pounds 19$. What is the cost of a top?
@@ -1545,7 +1525,7 @@ The cost of a top $=\pounds 7$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>A1E17D61-21D9-42A4-9375-6EFCBEE2EB18</p>
@@ -1569,8 +1549,6 @@ tdetailedmultiplication
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $2.35 \times 1.8$.
@@ -1696,7 +1674,7 @@ $= 4.23$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>F6A52668-B3D8-49D6-BA15-A931902E7BB6</p>
@@ -1720,8 +1698,6 @@ tmoney
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $15 \%$ of $\pounds 5$.
@@ -1828,7 +1804,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>657ABA41-9C05-4E30-95CB-2DBD07F705A8</p>
@@ -1852,8 +1828,6 @@ tfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $\dfrac{3}{4}$ of $\dfrac{5}{6}$ of $48$.
@@ -1962,7 +1936,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>1902F906-A937-4906-A778-A09ED836599C</p>
@@ -1989,8 +1963,6 @@ tvolume
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Two metal weights in the form of cuboids have the same volume.  One is $20 \ \text{cm}$ long, $16 \ \text{cm}$ wide and $9 \ \text{cm}$ high. 
@@ -2117,7 +2089,7 @@ Length of the second cuboid $= 24 \ \text{cm}$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>B1663F8E-5D97-46AD-80FC-DFEBC4114EED</p>
@@ -2144,8 +2116,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 On a wet week in Rusholme the mean (or average) rainfall over the five days from Monday to Friday was $12 \ \text{mm}$. 
@@ -2280,7 +2250,7 @@ Average rainfall $= 11 \ \text{mm}$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>92ED95C5-5173-4603-A6B6-7ACBF5D59202</p>
@@ -2313,8 +2283,6 @@ tunitprompt
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 When I emptied my pockets recently I found I had a mixture of $10\ \text{p}$, $20\ \text{p}$, $50\ \text{p}$ and $\pounds 1$ coins. 
@@ -2459,7 +2427,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>FF6E72A7-F3CD-473B-B807-49A3B1525D81</p>
@@ -2483,8 +2451,6 @@ tsequence
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In the sequence of numbers $2, 3, 5, 8, 12, \ldots$, what is the first **three digit** number?
@@ -2618,7 +2584,7 @@ First three digit number $= 107$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>8BA8E32C-E6C1-449D-8EF9-64E872737D42</p>
@@ -2642,8 +2608,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the total when you add together all the factors of $72$ (including $1$ and $72$ itself)?
@@ -2744,7 +2708,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>7DEB0853-0DD5-4F2B-AA9D-2F777753D9B3</p>
@@ -2768,8 +2732,6 @@ tpermutation
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How many three digit numbers contain at least two sevens?
@@ -2948,7 +2910,7 @@ Total count $= 9 + 9 + 9 = 27$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_red rag_prr question'>
 <div class='uuid'>
 <p>C862B344-92C5-4BC5-81A4-E798F30F2402</p>
@@ -2978,8 +2940,6 @@ ttrialerror
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Alison has a large number of coloured pencils. 

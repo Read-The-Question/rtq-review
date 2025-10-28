@@ -1,7 +1,7 @@
 ---
 slug: "papers/eltham-college-11-plus-maths-2020-sample-paper-2"
 title: "Eltham College - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "23"
 ---
 <div class='paper'>
@@ -14,8 +14,8 @@ questions_count: "23"
 </div>
 
 # Section A
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>35896D91-A3BE-4BE3-9135-008AD443B921</p>
@@ -39,8 +39,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the difference between the largest and the smallest of the following numbers:
@@ -153,7 +151,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>FA4124D3-A923-48BA-A3AA-03F5085EC30D</p>
@@ -177,8 +175,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the smallest four-digit positive integer which has four different digits?
@@ -275,7 +271,7 @@ $1023$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>376FC516-ED40-42F7-AC7C-A63AECDD668C</p>
@@ -299,8 +295,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is $(999 - 99 + 9) \div 9?$
@@ -420,7 +414,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>18DB0344-422D-4AB1-A1D4-253137946CD7</p>
@@ -444,8 +438,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Each block shown in this tower will have a number displayed on it. Some are already done.
@@ -568,7 +560,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>B4401778-D5A5-43C6-92E1-D7C3D77AF227</p>
@@ -592,8 +584,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The number $987654321$ is multiplied by $9$.
@@ -705,7 +695,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>AB7057B1-8C72-4023-A583-CA2D1B61CFD9</p>
@@ -729,8 +719,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Which of the following has the same remainder when it is divided by $2$
@@ -846,7 +834,7 @@ Answer $= 7$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>2DF6D85D-B0AA-476C-BAA9-7CFAFB3CB5CB</p>
@@ -870,8 +858,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the value of $19 + 99 + 19 \times 99?$
@@ -1022,7 +1008,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>762303C7-0D1C-4345-AD02-7E755C4F0CE4</p>
@@ -1049,8 +1035,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In this diagram what is the value of $x$?
@@ -1196,7 +1180,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>53FE2192-394E-4978-ABF0-58D201ED1BEF</p>
@@ -1220,8 +1204,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How many triangles of any 
@@ -1321,7 +1303,7 @@ $12$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g0 rag_prpcc question'>
 <div class='uuid'>
 <p>601C328B-929D-4CC4-9443-D89375DA371E</p>
@@ -1345,8 +1327,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Which of these calculation produces a multiple of $5?$
@@ -1457,7 +1437,7 @@ $1 + 2 \times 3 \times 4$ produces a multiple of $5$.
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>23EFA4A7-D33C-4E18-906D-2E59D4849F16</p>
@@ -1481,8 +1461,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 It was reported recently that in an average lifetime of $70 \ \text{years}$, each
@@ -1601,7 +1579,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>91DE3197-B618-4BD0-A795-29B2AC55AF03</p>
@@ -1628,8 +1606,6 @@ tfactor
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Which of the following is divisible by all of the numbers from $1$ to $10$ inclusive?
@@ -1740,7 +1716,7 @@ $2520$ is the only number which is divisible by all of the numbers from $1$ to $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>F1298F25-DACE-45D0-91EE-A49F30843ED5</p>
@@ -1764,8 +1740,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Which one of these calculations is **incorrect**?
@@ -1907,7 +1881,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>964A050F-9385-4777-A31A-90B6EF88B2EC</p>
@@ -1931,8 +1905,6 @@ torder
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 If the following fractions  are arranged in increasing order of size, which one is the smallest?
@@ -2056,7 +2028,7 @@ Smallest fraction $= \dfrac{315}{630} = \dfrac{1}{2}$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>56A0AD68-8AC1-4CF0-9889-9814052D9B40</p>
@@ -2080,8 +2052,6 @@ tsequence
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In the sequence which begins $2, 3, 5, 10, \ \ldots$ each number after the
@@ -2215,7 +2185,7 @@ $10^\text{th}$ number $= 640$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>82CF5478-7C39-42EA-9DA4-09B4D90DAD49</p>
@@ -2239,8 +2209,6 @@ tareaperimeter
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Which of the following calculation is correct for the area of shape?
@@ -2407,7 +2375,7 @@ Calculation C is correct for the area of the shape.
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DF8291DD-BFBC-4F7B-A1AB-30A8DDB08EFF</p>
@@ -2434,8 +2402,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 When $x = 1.5$ what is the value of the perimeter of the triangular area?
@@ -2561,7 +2527,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>ACBD2F74-0174-460D-93C5-F21245389B8B</p>
@@ -2585,8 +2551,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Kieran thinks of a number.
@@ -2727,7 +2691,7 @@ The original number Kieran thought of $= 5$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>ED14E547-8C17-4CB8-B5B1-F07D46560C55</p>
@@ -2751,8 +2715,6 @@ tsymmetry
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Which image completes the symmetric figure using the dashed line of symmetry?
@@ -2874,7 +2836,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>898F9830-29F9-40A4-A201-53DD8BBB856A</p>
@@ -2898,8 +2860,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 I choose three numbers from this number
@@ -3028,8 +2988,8 @@ Largest possible product $= 105$
 </ul>
 
 # Section B
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>FC1EF0DD-4044-4163-A657-DE7690D303D8</p>
@@ -3056,8 +3016,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A swimming pool has a length that is four times of its width.
@@ -3202,7 +3160,7 @@ Possible values of b $= 5, 10$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>F53019F2-886A-422F-AC97-1DC5670FB565</p>
@@ -3226,8 +3184,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The number from $1$ to $9$ inclusive are to placed, one number in each
@@ -3347,7 +3303,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>4B31F3D3-1F82-477C-A0ED-CB4A824E2E15</p>
@@ -3371,8 +3327,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 ![eltham-college--11-plus--maths--2020--sample-paper-2/section-2-question-3-00.png](/assets/eltham-college--11-plus--maths--2020--sample-paper-2/section-2-question-3-00.png "eltham-college--11-plus--maths--2020--sample-paper-2/section-2-question-3-00.png")

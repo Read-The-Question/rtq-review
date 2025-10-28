@@ -1,7 +1,7 @@
 ---
 slug: "papers/eltham-college-11-plus-maths-2019-sample-paper-1"
 title: "Eltham College - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "23"
 ---
 <div class='paper'>
@@ -14,8 +14,8 @@ questions_count: "23"
 </div>
 
 # Section A
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>74597BD7-D839-4E39-8951-91E71A917724</p>
@@ -39,8 +39,6 @@ tdetailedaddition
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $
@@ -159,7 +157,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>B5B3F19E-4AC9-4F08-A95B-BB1D4A4B3FA4</p>
@@ -183,8 +181,6 @@ tdetailedmultiplication
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the answer to $0.2 \times 0.03 \ ?$
@@ -298,7 +294,7 @@ $= 0.006$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>B2224EDD-524E-45BF-A029-6D612A707429</p>
@@ -322,8 +318,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $6 - 2 + 3 \times 4$
@@ -437,7 +431,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>A61D4303-87FB-4717-9F33-89FB6673FB65</p>
@@ -461,8 +455,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the answer when the first prime number is subtracted from the first even multiple of $7?$
@@ -577,7 +569,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>75A4A1B2-39C8-487C-BD89-470F69BE0F8C</p>
@@ -601,8 +593,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Evaluate this expression: 
@@ -719,7 +709,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prrl question'>
 <div class='uuid'>
 <p>D2A86CA4-F12F-428A-A86B-8B322E9D886C</p>
@@ -743,8 +733,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Add brackets to this calculation to that the answer is $5$.
@@ -880,7 +868,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>E44863F0-1211-418A-BC0A-D814CB3A5121</p>
@@ -904,8 +892,6 @@ tdetailedmultiplication
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Calculate $836 \times 45$.
@@ -1022,7 +1008,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prpcc question'>
 <div class='uuid'>
 <p>1F8FCC2E-7969-46DC-AD0C-AA18C14714DA</p>
@@ -1046,8 +1032,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Which statement is true?
@@ -1166,7 +1150,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FA3111F3-33F1-4247-9DB3-34AB4A300F6F</p>
@@ -1193,8 +1177,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A room measures $8 \ \text{m}$ by $20 \ \text{m}$.
@@ -1366,7 +1348,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>E0DF26E4-1A30-4BCD-84C9-1C135AACA602</p>
@@ -1390,8 +1372,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Sarah has theses digits cards:
@@ -1514,7 +1494,7 @@ The answer that could not be possible $= 25 \times 4$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>03952778-72AD-4E86-8E4A-7B00AAE69AF0</p>
@@ -1538,8 +1518,6 @@ ttime
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Train start at station $A$ at $10{:}45 \ \text{am}$ and reaches station $B$ at $13{:}20$. If it stops for $10 \ \text{mins}$ 
@@ -1649,7 +1627,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>5BF4BD68-6AE5-4ABE-99FF-3DC34888D76E</p>
@@ -1673,8 +1651,6 @@ tfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What fraction is half-way between $2$ and $2.5?$
@@ -1792,7 +1768,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>FB46428B-2F3D-4896-AB84-0165582FAD90</p>
@@ -1816,8 +1792,6 @@ tmoney
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A pack of $15$ pens cost $\pounds 4.65$.
@@ -1917,7 +1891,7 @@ $(4.65 \div 15) \times 19$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>07071090-243A-4C15-B778-53C51DA63E26</p>
@@ -1941,8 +1915,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 I am thinking of a number.
@@ -2084,7 +2056,7 @@ Last line \"was\" to \"is\".
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>2D14E878-11B5-46B1-A002-9A3CA82CED1D</p>
@@ -2108,8 +2080,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A hexagon is worth $6$ points.
@@ -2246,7 +2216,7 @@ Worth of triangle $= 1$ point
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>BD373007-66C1-4E42-B2DD-8E077A7F99DB</p>
@@ -2270,8 +2240,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Here is a pattern made from grey and white tiles.
@@ -2413,7 +2381,7 @@ No. of Black tiles ==> No. of grey tiles
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A4235F04-280E-476A-BD32-2553DE1134CA</p>
@@ -2440,8 +2408,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 This shape is made up of $3$ identical rectangles.
@@ -2592,7 +2558,7 @@ Peri.....= .....l and w small
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>55E3A337-E3E4-40A4-A320-02AB74FF3145</p>
@@ -2616,8 +2582,6 @@ tgeometry
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The shape shown on the right was made from three identical copies of one of the smaller shapes below, without gaps or overlaps.
@@ -2740,7 +2704,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>BDFA5774-2459-4D28-AFF0-189885900F8E</p>
@@ -2764,8 +2728,6 @@ tgraph
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 If triangle $A$ is reflected in the mirror line, what would the newco-ordinate of the dot be?
@@ -2882,7 +2844,7 @@ New coordinates $= (4, 8)$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g0 rag_prpcc question'>
 <div class='uuid'>
 <p>2EBA663D-D618-44C9-A3A5-8A3DDDFE6BA1</p>
@@ -2906,8 +2868,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Here are $2$ number machines:
@@ -3059,8 +3019,8 @@ not per algebra template, we do not write aptq inside katex
 </ul>
 
 # Section B
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>6196DFB5-8B7A-4453-9309-BBC3087BE04D</p>
@@ -3084,8 +3044,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A book has $256$ pages with, on average, $33$ lines on each page and $9$ words on each line.
@@ -3188,7 +3146,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>AD565E97-7F6E-4F01-8EA7-B9B78E1FD0F3</p>
@@ -3212,8 +3170,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the smallest possible difference between two different nine digit numbers, 
@@ -3325,7 +3281,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>19B6D329-CD50-489D-A8AF-9B3A4470AA73</p>
@@ -3352,8 +3308,6 @@ ttrialerror
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In the expression below:

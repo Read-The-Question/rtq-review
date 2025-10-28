@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2014-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2014 - Arithmetic A"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "20"
 ---
 <div class='paper'>
@@ -12,8 +12,8 @@ questions_count: "20"
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>42FA7203-A19E-4735-B96B-0DE10464E8A4</p>
@@ -37,8 +37,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Write in figures the number three hundred thousand, four hundred and seven.
@@ -127,7 +125,7 @@ $300407$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>B431476F-0542-422C-BC21-3B3A939BE4B2</p>
@@ -151,8 +149,6 @@ tdetailedaddition
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $569 + 372$.
@@ -255,7 +251,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>41576BB3-630B-4093-87FE-EF0A153AB637</p>
@@ -279,8 +275,6 @@ tdetailedmultiplication
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $418 \times 70$.
@@ -389,7 +383,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>1B1DF90B-FC6A-477C-BAFC-5D8BC4732FD6</p>
@@ -413,8 +407,6 @@ tfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $17 \dfrac{1}{2} \div 5$.
@@ -530,7 +522,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>2349EC95-009A-4E52-B1CF-35DE1F43DFBA</p>
@@ -554,8 +546,6 @@ tsequence
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the missing number in this list $33, 44, 56, \ldots, 83, 98?$
@@ -683,7 +673,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>A9D3F12F-85C8-4CF8-8225-C1BB3ABCA272</p>
@@ -710,8 +700,6 @@ tdecimal
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $2.42 \times 1.6$.
@@ -837,7 +825,7 @@ $= 3.872$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>69D9A9B8-8B5E-4E13-992D-5BBC123F9133</p>
@@ -861,8 +849,6 @@ tfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Write $0.64$ as a fraction in its simplest form.
@@ -967,7 +953,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prpcr question'>
 <div class='uuid'>
 <p>C12FD4E7-441B-4A1E-BD78-D6218501E0D9</p>
@@ -991,8 +977,6 @@ torder
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 If the following numbers were written in order from highest to lowest, which number would be in the middle?
@@ -1132,7 +1116,7 @@ Write in descending order
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>08CCE0CE-B784-477D-8641-E1FBE38BAD33</p>
@@ -1156,8 +1140,6 @@ ttime
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Alison watches two quiz programmes on TV. The first 
@@ -1266,7 +1248,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>4D18C421-3F30-45CC-ACE9-047E6EF86035</p>
@@ -1290,8 +1272,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Ollie is making some small snacks for a party. He cuts 
@@ -1407,7 +1387,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>24DFFEAC-422C-47BF-8BEF-FF9CAA88348B</p>
@@ -1431,8 +1411,6 @@ tratio
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 On a large weighing balance at Chester Zoo, the zookeepers find that $5$ rhinos on 
@@ -1599,7 +1577,7 @@ Number of zebras $= 27$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E2291F35-574A-483C-8BAF-E63AE6B7FA81</p>
@@ -1626,8 +1604,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A rectangle is $4 \ \text{cm}$ longer than it is wide. The 
@@ -1776,7 +1752,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>00C35702-5C9A-410E-8258-FD4D136875E0</p>
@@ -1800,8 +1776,6 @@ tstatistics
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The mean length of a crocodile is $7.5 \ \text{m}$ and the mean length 
@@ -1911,7 +1885,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>7B238D76-DC32-4173-81A3-114829891742</p>
@@ -1935,8 +1909,6 @@ tprofit
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In the summer sales, prices of items are reduced by $15 \%$. What 
@@ -2086,7 +2058,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>BF5B5BD3-287F-4180-939C-D53BE202DA6C</p>
@@ -2110,8 +2082,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A cow eats $8  \ \text{kg}$ of food per day and a pig eats $6  \ \text{kg}$ of 
@@ -2237,7 +2207,7 @@ Number of pigs $= 20$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FF850235-7104-4915-9390-211E83691462</p>
@@ -2261,8 +2231,6 @@ tprobability
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Tim has a box containing $9$ red, $6$ blue and $5$ yellow counters. He 
@@ -2374,7 +2342,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>625257F8-46C4-4F5F-9DF6-C451EA995331</p>
@@ -2398,8 +2366,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 David cuts a $6  \ \text{metre}$ long pole into three different 
@@ -2577,7 +2543,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>E32C98B2-7C2C-406F-AEAC-A4AECCE46113</p>
@@ -2601,8 +2567,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Two bags of crisps and five chocolate biscuits cost $\pounds 1.76$. If 
@@ -2746,7 +2710,7 @@ Cost of a chocolate biscuit $= 24 $p
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>8BEE82C0-3EF8-4B6D-B5D5-530F6AF9A74E</p>
@@ -2770,8 +2734,6 @@ tpermutation
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How many ODD three digit numbers is it possible to make using the 
@@ -2952,7 +2914,7 @@ Total arrangements $= 3 \times 3 \times 2 = 18$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>C2A67BE9-CA1F-4D65-BB49-B74EA17783C6</p>
@@ -2976,8 +2938,6 @@ tpermutation
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The number $3$ can be split in three different ways by adding positive whole numbers together as follows

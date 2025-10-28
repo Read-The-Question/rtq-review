@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2010-arithmetic-1"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2010 - Arithmetic 1"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "20"
 ---
 <div class='paper'>
@@ -12,8 +12,8 @@ questions_count: "20"
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>28D1744E-7E31-44A3-B3C8-E75D18551420</p>
@@ -37,8 +37,6 @@ tdetailedaddition
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $186 + 375$.
@@ -141,7 +139,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>E3B1DC3D-1BD8-4BE9-A7C2-49FC9CB61D1F</p>
@@ -165,8 +163,6 @@ tdetailedmultiplication
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $294 \times 70$.
@@ -275,7 +271,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>A5886C63-792D-42D7-825B-AAD388FD247F</p>
@@ -299,8 +295,6 @@ tdivision
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $525 \div 25$.
@@ -405,7 +399,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>C13D92E3-895B-4965-8831-8AD95CB87317</p>
@@ -429,8 +423,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the difference between the product of $4$ and $11$ and the difference of $4$ and $11?$
@@ -537,7 +529,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>2C5C8574-9C13-4432-A6BD-A69701D55857</p>
@@ -564,8 +556,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 One angle of a triangle is $30 \degree$. The second angle is twice the size of the third. What is the largest angle?
@@ -717,7 +707,7 @@ Largest angle $= 100 \degree$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>09B08DAF-540F-4115-B9CB-3DA13E21C2F3</p>
@@ -744,8 +734,6 @@ tmoney
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Neil lends Rodger $\pounds 4$. Rodger pays back $30 \%$ of this the next day. How much does he still owe Neil?
@@ -936,7 +924,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>A19BFD7F-4748-4122-BDBF-42DCC2932E75</p>
@@ -960,8 +948,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In an arithmetic test, $4$ marks were given for each correct answer and a mark was deducted for each wrong answer. Tim got $17$ questions right and $3$ questions wrong. How many marks did he obtain?
@@ -1076,7 +1062,7 @@ Marks Tim obtained $= 65$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>4DACC7C4-808D-4D5B-9F08-E7D2914E09BD</p>
@@ -1103,8 +1089,6 @@ ttrialerror
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Nigel spent $\pounds 71$ on CDs, some costing $\pounds 8$ each, and the rest $\pounds 5$ each. He bought more of the dearer ones. How many CDs did he buy altogether?
@@ -1395,7 +1379,7 @@ Total CDs = 7 + 3
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>1726FC9C-67EA-46CA-9AE2-A3CB7D96F149</p>
@@ -1422,8 +1406,6 @@ tunitprompt
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Adam ran $3 \ \text{kilometres}$ in $13 \ \text{minutes}$. Jackie started $30 \ \text{seconds}$ after him and finished $30 \  \text{seconds}$ before him. What was Jackie's speed in kilometres per hour?
@@ -1550,7 +1532,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>CD686836-E4B0-4D8F-AB0D-439432C61B1B</p>
@@ -1574,8 +1556,6 @@ tlcm
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the largest number less than $100$ which is a multiple of $2$, and of $3$, and also of $5?$
@@ -1706,7 +1686,7 @@ Largest number $= 90$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>3EB032BA-F853-47A6-B7BC-89CC6505AF43</p>
@@ -1730,8 +1710,6 @@ tfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Write $0.65$ as a fraction in its simplest form.
@@ -1836,7 +1814,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>77BCE0A2-246B-469B-9EDC-14F266170B60</p>
@@ -1860,8 +1838,6 @@ tsequence
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Geraint starts from $3$ and counts up in fours, so he 
@@ -1972,7 +1948,7 @@ Smallest common number $= 27$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>5453CF7D-DE10-4877-8C83-1EC92DD3939E</p>
@@ -1996,8 +1972,6 @@ tratio
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $1 \ \text{cm}$ on a map represents a distance of $2 \ \text{km}$ on the ground. What is the distance in metres represented on the ground by $3 \ \text{mm}$ on the map?
@@ -2160,7 +2134,7 @@ Distance on the ground $= 600 \ \text{m}$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3E516FDA-B3CC-4682-8A7D-BA9751F541AB</p>
@@ -2184,8 +2158,6 @@ tareaperimeter
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What fraction of the area of the triangle has been shaded?
@@ -2291,7 +2263,7 @@ Hence, the fraction that has been shaded = $\dfrac {1} {9}$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C116D3CA-84D9-4139-BB89-8F5FF118AE81</p>
@@ -2318,8 +2290,6 @@ tunitprompt
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $1 \ \text{foot}$ is equal to $12 \ \text{inches}$. 
@@ -2454,7 +2424,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>E41C3B84-B13C-4220-B083-2712C0B5265C</p>
@@ -2487,8 +2457,6 @@ tunitprompt
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A sum of $90\ \text{pence}$ is made up of equal numbers of $1 \ \text{p}$ coins, $2 \ \text{p}$ coins, $5 \ \text{p}$ coins and $10 \ \text{p}$ coins. How many coins are there in total?
@@ -2619,7 +2587,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>51B79769-1A4D-42B7-9698-6C78B896A06D</p>
@@ -2643,8 +2611,6 @@ torder
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 If these numbers are arranged in numerical order, which one will be in the middle?  
@@ -2771,7 +2737,7 @@ Number in the middle $= \dfrac{3}{4}$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>A467E5ED-C83A-436F-95CE-C93C3DF23377</p>
@@ -2795,8 +2761,6 @@ tpermutation
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How many different four digit numbers can be made from the digits $2, 2, 2, 3$ and $3?$
@@ -2917,7 +2881,7 @@ Total count $= 4 + 6 = 10$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>ED934AB6-A9F9-4C96-9B8A-9A4E1CBE92CC</p>
@@ -2944,8 +2908,6 @@ tsimpleword
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Daniel has eight cubes, each of side $1 \ \text{cm}$. He glues them 
@@ -3067,7 +3029,7 @@ Area covered with paint $= 34 \ \text{cm}^2$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>3477EB4B-8C2A-4748-BA06-47119B363368</p>
@@ -3091,8 +3053,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A bull and three cows costs $\pounds 1300$. Four bulls and eight cows cost $\pounds4000$. What is the cost of a bull?

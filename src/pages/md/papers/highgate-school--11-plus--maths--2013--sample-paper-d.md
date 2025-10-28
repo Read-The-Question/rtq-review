@@ -1,7 +1,7 @@
 ---
 slug: "papers/highgate-school-11-plus-maths-2013-sample-paper-d"
 title: "Highgate School - 11 Plus - Maths - 2013 - Sample Paper D"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "6"
 ---
 <div class='paper'>
@@ -12,8 +12,8 @@ questions_count: "6"
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>EAC133FF-F273-440A-9716-5A962E176B01</p>
@@ -37,8 +37,6 @@ tmoney
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Janice wants to buy as many cookies as she can afford with a $\pounds 10$ note. Each cookie costs $70 \ \text{p}$. 
@@ -144,7 +142,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prpcc question'>
 <div class='uuid'>
 <p>D9679475-899C-4D1A-87C4-D5CC0437D309</p>
@@ -171,8 +169,6 @@ tmoney
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 The full price of a car is $\pounds 12000$. The car is in a sale and its price has been reduced by $35\%$. 
@@ -338,7 +334,7 @@ add the long way answer too
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>96323F5D-3F61-444B-BD2E-A4E3A2EDD774</p>
@@ -362,8 +358,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Florence eats spaghetti every other day. She eats apple pie every three days. 
@@ -480,7 +474,7 @@ TODOANSWER
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>BA1D755E-247B-459D-BA62-7EACF068C6A6</p>
@@ -504,8 +498,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 $120$ pupils are sitting an exam. The pupils can choose whether to write in pencil or pen.
@@ -666,7 +658,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3AC41847-B315-468A-A2D7-E375F2BF6A55</p>
@@ -693,8 +685,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Tanya cuts out a piece of card into a rectangle. The rectangle is twice as long as it is wide. 
@@ -864,7 +854,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>1AA0E7E2-7932-49E2-A14D-E512BCA40366</p>
@@ -888,8 +878,6 @@ tinfer
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Robin and Susan are playing a game with nine cards. The cards are numbered from $1$ to $9$ as shown below.

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2018-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2018 - Arithmetic A"
-date: 2025-09-17 20:14:44
+date: 2025-10-28 15:13:49
 questions_count: "20"
 ---
 <div class='paper'>
@@ -12,8 +12,8 @@ questions_count: "20"
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question decimal'>
-<li>
+<ul class='question decimal question_type_question list_type_decimal'>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>015DFF3A-EF9A-4D74-94DA-EDC2D94B9633</p>
@@ -37,8 +37,6 @@ tdetailedaddition
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $374 + 528$.
@@ -141,7 +139,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>17BF339B-7079-4966-BEB2-8B3FF23FA92A</p>
@@ -165,8 +163,6 @@ tdivision
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $44.8 \div 0.7$.
@@ -275,7 +271,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>D2FE9565-387E-4FF3-BFA2-D8C35AC57EF1</p>
@@ -299,8 +295,6 @@ tsequence
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the missing number in the following sequence? 
@@ -428,7 +422,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>0C204FF4-56BC-4832-8FCF-F9D7CC6ACE1E</p>
@@ -452,8 +446,6 @@ tfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Subtract $1 \dfrac{3}{4}$ from $3 \dfrac{3}{8}$
@@ -562,7 +554,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>091E6F1C-295F-45D6-A212-41256EE84A75</p>
@@ -586,8 +578,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Work out $2.35 \times 3000$.
@@ -706,7 +696,7 @@ $= 7050$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>BB8814B0-A089-4B86-80BD-8BE739CA4A8C</p>
@@ -730,8 +720,6 @@ tpercentage
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is $40 \%$ of $650 \ \text{grams}$?
@@ -838,7 +826,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>9A0A3024-E276-47D9-92A1-2D8CA04AFD8E</p>
@@ -862,8 +850,6 @@ tfraction
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Express $0.85$ as a fraction in its simplest form.
@@ -968,7 +954,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>8BD87565-0F6C-48E1-86BB-F769CFA756B3</p>
@@ -995,8 +981,6 @@ tdecimal
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Add together $6.37, 10.04$ and $203$.
@@ -1106,7 +1090,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>C20A4A1C-A26D-4559-B8BE-890AC044C5DD</p>
@@ -1130,8 +1114,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Which of these numbers when multiplied by itself gives an answer which ends in a $4?$
@@ -1240,7 +1222,7 @@ From the table above, the answer is $58$ as it has $4$ in its unit place.
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>EC2A9B83-84D4-486D-8D93-A7BB3D422618</p>
@@ -1264,8 +1246,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 What is the **__least__** number which can be added to $278$ to make a number which is exactly divisible by $13?$
@@ -1360,7 +1340,7 @@ So we can add $13 - 5 = 8$ to $278$ to make it exactly divisible by $13$.
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>FF5C2EF2-F081-47E2-A6EF-2FD0FBAECCD2</p>
@@ -1384,8 +1364,6 @@ tratio
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Petrol costs $\pounds 1.12$ per litre. If there are $4.5 \ \text{litres}$ in a gallon, what would the cost of a gallon of petrol be?
@@ -1484,7 +1462,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>F82A9A83-8990-460E-9DE9-6B7ACD86127F</p>
@@ -1511,8 +1489,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 A rectangle has an area of $70 \ \text{cm}^2$ and a perimeter of $38 \ \text{cm}$. What is the length of the **shortest** side of the rectangle?
@@ -1678,7 +1654,7 @@ Width of the rectangle $= 5 \ \text{cm}$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>A6AC1588-C3E0-4190-A84D-7153A5624431</p>
@@ -1702,8 +1678,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 If $\dfrac{3}{7}$ of a number is $18$, what is $\dfrac{5}{6}$ of the **same** number?
@@ -1850,7 +1824,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>815AB33A-E6F1-4432-B03B-F60E812D1A18</p>
@@ -1874,8 +1848,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Amna takes a test with $50$ questions. Four marks are given for each correct answer but one mark is taken off for each 
@@ -2006,7 +1978,7 @@ Questions Anna answered correctly $= 43$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>FCFAFC6F-1712-4B57-99C9-697FE6184648</p>
@@ -2033,8 +2005,6 @@ tmoney
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 Five friends raise $\pounds 400$ for their favourite charity. 
@@ -2185,7 +2155,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>839261B7-4E0B-4FF5-A157-78F5DDA2504D</p>
@@ -2209,8 +2179,6 @@ talgebra
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 If one cake and two biscuits provide $450 \ \text {calories}$ and two cakes and three biscuits provide $800 \ \text {calories}$, how many calories are provided by one biscuit?
@@ -2485,7 +2453,7 @@ Calories provided by the biscuit $= 100  \ \text {calories}$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>EE1F9669-3D5F-4C89-85B1-F004C01C7CF7</p>
@@ -2515,8 +2483,6 @@ tcoin
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In a bag of money to take to the bank I have only $5 \ \text{p}$, $10 \ \text{p}$ and $20 \ \text{p}$ coins.
@@ -2674,7 +2640,7 @@ $
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>64D05414-BEA8-4226-8051-BDA5464DA810</p>
@@ -2698,8 +2664,6 @@ tpermutation
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 In how many different ways can the letters $M, A, T, H$ be placed in a line if the $T$ is **always** first and the $A$ is **never** last?
@@ -2802,7 +2766,7 @@ Count $= 4$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_g3 rag_prns question'>
 <div class='uuid'>
 <p>19528BB0-C11D-48F8-8DAB-32D249EC8D2D</p>
@@ -2826,8 +2790,6 @@ tpermutation
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 How many numbers between $300$ and $500$ contain **at least one** $4$ in their digits?
@@ -2978,7 +2940,7 @@ Total count $= 10 + 9 + 100 = 119$
 </div>
 </div>
 </li>
-<li>
+<li class='questionContainer'>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>3143F4B2-41D5-4792-B6A8-FD619A39DC38</p>
@@ -3002,8 +2964,6 @@ tnumber
 </li>
 </ul>
 </div>
-<!-- - if !options[:questions_only] -->
-<!-- = render :reviewsubtag, question: question -->
 <div class='question question'>
 
 If the rules about what order to do arithmetic operations do **not** apply for this last question on the paper then $2 + 4 \times 3$ could be $2 + 12 = 14$ or $6 \times 3 = 18$.

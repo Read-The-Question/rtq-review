@@ -1,7 +1,7 @@
 ---
 slug: "papers/benenden-school-11-plus-maths-2020-sample-paper-1"
 title: "Benenden School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "21"
 ---
 <div class='paper'>
@@ -16,7 +16,7 @@ questions_count: "21"
 # Section A
 <ul class='question decimal question_type_question list_type_decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>525599CE-D0D4-4601-84EF-CB69355DCF8B</p>
 </div>
@@ -30,7 +30,7 @@ questions_count: "21"
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1210,7 +1210,7 @@ Temperature at $6 \ \text {am}$ was cooler.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8D2CD42D-31B4-4ABC-8987-C038E568B289</p>
 </div>
@@ -1224,7 +1224,7 @@ Temperature at $6 \ \text {am}$ was cooler.
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1539,10 +1539,10 @@ $
 <p>benenden-school--11-plus--maths--2020--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1856,7 +1856,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5DB561FC-E96A-471E-872B-8964DB6E9272</p>
 </div>
@@ -1870,7 +1870,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2261,7 +2261,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_red rag_prr question'>
+<div class='question_envelope rag_red rag_prns question'>
 <div class='uuid'>
 <p>E372BE65-DCE6-4A06-A398-598678C322F0</p>
 </div>
@@ -2275,7 +2275,7 @@ $
 <p>rag_wf_red</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2329,7 +2329,7 @@ $240, 325$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>20F84386-A4B2-4B31-BC73-FEACD52E0FA6</p>
 </div>
@@ -2343,7 +2343,7 @@ $240, 325$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3015,7 +3015,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C0D46089-1622-4A2A-9A74-847BB14F9949</p>
 </div>
@@ -3029,7 +3029,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3320,10 +3320,10 @@ $
 <p>benenden-school--11-plus--maths--2020--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3962,7 +3962,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>912EEF9E-A307-43EB-9A90-8C39BBD20ABB</p>
 </div>
@@ -3976,7 +3976,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4197,13 +4197,6 @@ Tuesday
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-Part a) Approx sign missing.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5003,7 +4996,7 @@ $
 # Section B
 <ul class='question decimal question_type_question list_type_decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>80216EB3-AC2A-47E8-903C-F9BCD2A07811</p>
 </div>
@@ -5017,7 +5010,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5090,27 +5083,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::16:44
-
-
-
-write formula at the top
-
-
-
-write cm per hour as the unit / does not look great in katex unless it is used in the question too
-
-
-
-do not write smaller units if full units are used in the question
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5161,7 +5133,7 @@ do not write smaller units if full units are used in the question
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>06304292-3FB2-45D8-B196-9139212A69A7</p>
 </div>
@@ -5175,7 +5147,7 @@ do not write smaller units if full units are used in the question
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5247,19 +5219,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::16:45
-
-
-
-formula missing, calculation not written per standard, please refer 3C1A8ECE-FC50-4AC9-B755-F100FE9325E2
-</div>
 
 <div class='review'>
 <ul class='review'>

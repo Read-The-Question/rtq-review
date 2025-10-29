@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-3"
 title: "TopicPaper - Fraction - 3"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "40"
 ---
 <div class='paper'>
@@ -16,7 +16,7 @@ questions_count: "40"
 # Section A
 <ul class='question decimal question_type_question list_type_decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>45CA540D-6B4E-432C-AF62-A63ACD57A941</p>
 </div>
@@ -30,7 +30,7 @@ questions_count: "40"
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -399,15 +399,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-c: Change answer and last line to 7/10
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -458,7 +449,7 @@ c: Change answer and last line to 7/10
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>7F8B7DAA-2971-4079-9737-6D7B149AA96E</p>
 </div>
@@ -472,7 +463,7 @@ c: Change answer and last line to 7/10
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -771,15 +762,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-c: Change LHS to Each persons share
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1178,7 +1160,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>4F9F4C6D-374B-4A3F-A930-14B9759C0925</p>
 </div>
@@ -1192,7 +1174,7 @@ $
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1561,17 +1543,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-c: Change answer to 7/10
-
-f: In answer - should be out of dfrac
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1858,7 +1829,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prrl question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>2AFEEC0B-0A5C-4959-86EB-B1237A25AF55</p>
 </div>
@@ -1872,7 +1843,7 @@ $
 <p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1986,7 +1957,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>585D7D24-FBE3-4E4D-B423-652E2F3266C8</p>
 </div>
@@ -2000,7 +1971,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2242,7 +2213,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prrl question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>4D13B102-C31F-46B4-9F05-1CA5A1F3F0AC</p>
 </div>
@@ -2256,7 +2227,7 @@ $
 <p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2370,7 +2341,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>AF2B9471-06EF-4591-B1D0-AC32990B4022</p>
 </div>
@@ -2384,7 +2355,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3183,7 +3154,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>4DAC2267-23FB-4819-9BFF-D6661D1E820C</p>
 </div>
@@ -3197,7 +3168,7 @@ $
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3257,15 +3228,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-First step = 1/2 of 999
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3551,7 +3513,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>7C3DC077-F159-440D-95DC-21DDF801F0B4</p>
 </div>
@@ -3565,7 +3527,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3737,11 +3699,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Sentence
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4324,7 +4281,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>9F3349DA-53D7-4B90-AF97-44661D4FDBE4</p>
 </div>
@@ -4338,7 +4295,7 @@ $
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4413,17 +4370,6 @@ Smallest fraction $= \dfrac {5} {12}$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-\"the\" same for all \"the\" fractions
-
-
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -6194,7 +6140,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prrl question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>C957490D-C2D2-48AD-80EA-F4EAAF92A7A1</p>
 </div>
@@ -6208,7 +6154,7 @@ $
 <p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6926,7 +6872,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>00594CC4-DB7B-458D-945E-CC2A6F291884</p>
 </div>
@@ -6940,7 +6886,7 @@ $
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7009,15 +6955,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Add LHS \"Fraction\"
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -7068,7 +7005,7 @@ Add LHS \"Fraction\"
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>A62FD050-8CF5-4180-9976-6E1B8C2FC613</p>
 </div>
@@ -7082,7 +7019,7 @@ Add LHS \"Fraction\"
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7253,15 +7190,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-a: Step 2 and 3 Change to 2.5
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -7731,7 +7659,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>27CD01EC-3953-42B4-BA5E-E1F1DE7E96A7</p>
 </div>
@@ -7745,7 +7673,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

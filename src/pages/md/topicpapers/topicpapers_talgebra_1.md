@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-1"
 title: "TopicPaper - Algebra - 1"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "40"
 ---
 <div class='paper'>

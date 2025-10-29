@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tgeometry-2"
 title: "TopicPaper - Geometry - 2"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "40"
 ---
 <div class='paper'>
@@ -156,7 +156,7 @@ TODOANSWER
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>0C657190-6716-4EA4-B662-51AE68C07DC7</p>
 </div>
@@ -170,7 +170,7 @@ TODOANSWER
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -855,7 +855,7 @@ TODOANSWER
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>6D165971-36D0-4B4A-B952-DF86DAEDFFAF</p>
 </div>
@@ -869,7 +869,7 @@ TODOANSWER
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1536,7 +1536,7 @@ TODOANSWER
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>A1B06F9E-6353-4842-9636-091EF34AA971</p>
 </div>
@@ -1550,7 +1550,7 @@ TODOANSWER
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1650,7 +1650,7 @@ $\text {Pentagon}$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>E357F926-98BE-49CA-A8E3-205475456DA0</p>
 </div>
@@ -1664,7 +1664,7 @@ $\text {Pentagon}$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1762,7 +1762,7 @@ $\text {Cuboid}$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>415EE546-AD6B-4E59-B886-A3241928E529</p>
 </div>
@@ -1776,7 +1776,7 @@ $\text {Cuboid}$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3940,7 +3940,7 @@ TODOANSWER
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>F4F00482-68CB-4F6F-8C65-CDE9C0110F7C</p>
 </div>
@@ -3954,7 +3954,7 @@ TODOANSWER
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5044,7 +5044,7 @@ TODOANSWER
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>B911493E-6758-4F37-90FE-BF7C46685E6B</p>
 </div>
@@ -5058,7 +5058,7 @@ TODOANSWER
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5299,7 +5299,7 @@ TODOANSWER
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>C51D4882-FD86-449B-BC74-E90265EBA237</p>
 </div>
@@ -5313,7 +5313,7 @@ TODOANSWER
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5640,7 +5640,7 @@ TODOANSWER
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>23FE15B1-A302-404D-8391-BAB850364409</p>
 </div>
@@ -5654,7 +5654,7 @@ TODOANSWER
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5789,13 +5789,6 @@ $\text {Hexagon}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-$\text {cone}$ Captial C 
-
-Change B same and both the blue answers...
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5846,7 +5839,7 @@ Change B same and both the blue answers...
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>79EF7634-1BD6-45D8-9785-D7E23DD4661D</p>
 </div>
@@ -5860,7 +5853,7 @@ Change B same and both the blue answers...
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5995,11 +5988,6 @@ $\text {Cuboid}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-S and C capitals and change in blue answer too and out of katex..
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -6050,7 +6038,7 @@ S and C capitals and change in blue answer too and out of katex..
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>1353944B-C2F8-4241-B1C0-A178453D7462</p>
 </div>
@@ -6064,7 +6052,7 @@ S and C capitals and change in blue answer too and out of katex..
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6114,11 +6102,6 @@ $\text{Rectangle} \quad \text{Trapezoid} \quad \text{Hexagon}$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Out of katex and middle figure is \"Trapezoid\"
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -6169,7 +6152,7 @@ Out of katex and middle figure is \"Trapezoid\"
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C2D737F9-91B0-47F7-90B0-65A55CE61B78</p>
 </div>
@@ -6183,7 +6166,7 @@ Out of katex and middle figure is \"Trapezoid\"
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6361,21 +6344,6 @@ $\text {Octagon}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-@UP. katex text or outside katex. ?? Caps all or normal?
-
-looks to me as Rhombus, but parall... is also correct both or 1 answer. 
-
-Eschudi. after solving please change this answer to PRBD
-
-_______________________________________________
-
-Please change first answer as 
-
-Rhombus or Parallelogram (change blue answer also)
-</div>
 
 <div class='review'>
 <ul class='review'>

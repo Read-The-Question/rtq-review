@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tnumber-9-g2"
 title: "TopicPaper - Number - 9 - G2"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "27"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "27"
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -97,10 +97,10 @@ Give all numbers which are factors of both $32$ and $24$.
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2:1:13</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -180,10 +180,10 @@ Write down a number between $0.3$ and $\dfrac{2}{5}$.
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2:1:18</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -266,10 +266,10 @@ What is the smallest number that $2,  3,  6,  10$ will all go into exactly?
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -381,10 +381,10 @@ Which of the following gives the correct number for $* ?$
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -476,10 +476,10 @@ Work out $1+2\times3+4\times5+6$
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -571,10 +571,10 @@ I have lots of $5\ \text{p}$, $8\ \text{p}$ and $11\ \text{p}$ stamps. What's th
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -697,10 +697,10 @@ What is the remainder when $531$ is divided by $17?$
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:30</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -821,10 +821,10 @@ If the same rules are used in the diagram below, what are the possible values fo
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -924,10 +924,10 @@ Which of the following gives the largest answer?
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:1:1</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1019,10 +1019,10 @@ What number is twenty-three less than seventy thousand?
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:1:7</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1135,10 +1135,10 @@ $
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:1:7</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1313,10 +1313,10 @@ largest product.
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:1:6</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1396,10 +1396,10 @@ Write down all the factors of $28$ and circle any which are prime numbers.
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:1:7</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1538,10 +1538,10 @@ Explain how her teacher knew the answer must be wrong.
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:1:14</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1650,10 +1650,10 @@ The largest possible answer
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:1:18</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1762,10 +1762,10 @@ Find the smallest $3-$digit number which is neither prime nor divisible by $2,\ 
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:1:1</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1900,10 +1900,10 @@ $600 \div \ldots = 50$
 <p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2063,10 +2063,10 @@ $\boxed{\phantom{1}} \ \boxed{\phantom{1}} \times \boxed{\phantom{1}}$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2149,10 +2149,10 @@ Write down what the $4$ stands for in $3427$.
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2261,10 +2261,10 @@ $12 \dfrac{1}{2}\%$ of $6.80 \ \text{metres}$, giving your answer in centimetres
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2408,10 +2408,10 @@ factors of $56$
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:1</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2534,10 +2534,10 @@ $2 \dfrac{3}{5} + 1 \dfrac{1}{2}$
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:2</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2649,10 +2649,10 @@ What is the $4 ^\text{th}$ square number?
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:3</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2732,10 +2732,10 @@ What is the largest number that goes exactly into $90, 210, 300?$
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:14</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2844,10 +2844,10 @@ $(3 \ {?} \ 5) \ {?} \ (4 \ {?} \ 2) = 4$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:8</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2987,10 +2987,10 @@ Write down all the prime numbers between $50$ and $60$.
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:10</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

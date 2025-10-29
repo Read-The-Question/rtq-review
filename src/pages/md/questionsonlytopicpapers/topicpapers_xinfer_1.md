@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-xinfer-1"
 title: "TopicPaper - Infer - 1"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "7"
 ---
 <div class='paper'>
@@ -16,7 +16,7 @@ questions_count: "7"
 # Section A
 <ul class='question decimal question_type_question list_type_decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>CD25CBEA-D4C3-40CF-A2BF-8C6CDDB8263F</p>
 </div>
@@ -24,13 +24,13 @@ questions_count: "7"
 <p>eltham-college--11-plus--maths--2020--sample-paper-5:2:1</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -133,10 +133,10 @@ $
 <p>eltham-college--11-plus--maths--9999--sample-paper-3:1:7</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -250,10 +250,10 @@ Follow the clues to find the mystery number from the list below.
 <p>eltham-college--11-plus--maths--9999--sample-paper-3:1:8</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -341,10 +341,10 @@ Pick any ten numbers from the bags above so that their total is $37.$
 <p>eltham-college--11-plus--maths--9999--sample-paper-4:1:10</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -452,10 +452,10 @@ $
 <p>forest-school--11-plus--maths--2012--sample-paper-4:1:35</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -589,10 +589,10 @@ $20 \times 20 \times 20 = 8000$
 <p>forest-school--11-plus--maths--9999--sample-paper-3:1:9</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -668,7 +668,7 @@ In this pyramid each number is the sum of the two numbers below it. Complete the
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>245B809A-CA82-47B3-9241-30FCAC3D35B8</p>
 </div>
@@ -676,13 +676,13 @@ In this pyramid each number is the sum of the two numbers below it. Complete the
 <p>forest-school--11-plus--maths--9999--sample-paper-3:1:26</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -709,19 +709,6 @@ Which one of these four cards cannot have a $7$ on the back?
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-11-01::04:38
-
-
-
-do not use image here, use Large Boxed to write this, search for Large usage in other files to find how to do, ask if any confusion
-</div>
 
 <div class='review'>
 <ul class='review'>

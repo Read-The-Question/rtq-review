@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-xsequence-1-g2"
 title: "TopicPaper - Sequence - 1 - G2"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "7"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "7"
 <p>eltham-college--11-plus--maths--2020--sample-paper-5:1:15</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -109,10 +109,10 @@ In a sequence of numbers, each term after the first three terms is the sum of th
 <p>eltham-college--11-plus--maths--9999--sample-paper-3:1:9</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -222,10 +222,10 @@ How many matches are in the next shape in the pattern?
 <p>eltham-college--11-plus--maths--9999--sample-paper-4:1:1</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -368,10 +368,10 @@ One of this shape in the pattern is made from $102$ squares. What is the pattern
 <p>eltham-college--11-plus--maths--9999--sample-paper-4:1:7</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -526,10 +526,10 @@ The fifth term is $11$ and the sixth term is $18$. What are the first two terms 
 <p>forest-school--11-plus--maths--9999--sample-paper-3:1:12</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -617,10 +617,10 @@ Give the next $2$ numbers with a reason for your answer.
 <p>forest-school--11-plus--maths--9999--sample-paper-3:1:13</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -737,10 +737,10 @@ A $200$ counter by $50$ counter border
 <p>forest-school--11-plus--maths--9999--sample-paper-3:1:18</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

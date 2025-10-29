@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-torder-2-g2"
 title: "TopicPaper - Order - 2 - G2"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "37"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "37"
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -173,10 +173,10 @@ The smallest $2$ digit number possible
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:1:8</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -264,10 +264,10 @@ Write them in order of size smallest first.
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:1:2</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -351,10 +351,10 @@ $\dfrac{3}{4}\quad\dfrac{1}{8}\quad\dfrac{1}{3}\quad\dfrac{3}{5}$
 <p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -438,10 +438,10 @@ $60\% \quad \dfrac{17}{25} \quad \dfrac{2}{3} \quad 0.66$
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:4</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -529,10 +529,10 @@ $0.04 \quad 0.204 \quad 0.40 \quad 0.042 \quad 0.24$
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:5</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -662,10 +662,10 @@ The lowest temperature was measured incorrectly. It should have been $7\ \text{d
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:2</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -749,10 +749,10 @@ $0.43, \quad \dfrac{3}{7}, \quad \dfrac{2}{5}, \quad 44\%$
 <p>oundle-school--11-plus--maths--2016--sample-paper-4:1:8</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -855,10 +855,10 @@ Which is smallest? Circle your answer
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -942,10 +942,10 @@ $\dfrac{1}{6} , \quad 0.15, \quad 20\%$
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1029,10 +1029,10 @@ $0.7, \quad 0.706, \quad 0.76, \quad 0.759, \quad 0.079$
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1116,10 +1116,10 @@ $\dfrac{1}{3},\quad \dfrac{2}{5},\quad \dfrac{3}{8},\quad \dfrac{7}{20},\quad \d
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:13</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1203,10 +1203,10 @@ $\dfrac{1}{3}, \quad \dfrac{3}{8}, \quad \dfrac{2}{5}$
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:16</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1290,10 +1290,10 @@ $0.92, \quad 0.9, \quad 0.909$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:13</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1377,10 +1377,10 @@ $70\%\ \quad 0.65 \quad \dfrac{4}{5}$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:20</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1464,10 +1464,10 @@ $0.101, \quad 0.011, \quad 0.11$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:13</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1565,10 +1565,10 @@ $
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:4</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1652,10 +1652,10 @@ $7.7, 7.77, 7, 7.07, 7.707$
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1739,10 +1739,10 @@ $5^2 \quad 3^2 \quad 3^3 \quad 2^4$
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:1:6</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1826,10 +1826,10 @@ $\dfrac {7} {9}, \quad 0.7, \quad \dfrac {770} {1000}, \quad 75\%$
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:5</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1913,10 +1913,10 @@ $\dfrac {7} {10}, \quad \dfrac {13} {20}, \quad \dfrac {2} {3}$
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:1:6</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2098,10 +2098,10 @@ $\boxed {\phantom {\dfrac {a} {b}}} \div \boxed {\phantom {\dfrac {a} {b}}} = \b
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:6</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2185,10 +2185,10 @@ $\boxed{ 1.02 } \quad \boxed{ 1.2 } \quad \boxed{ 1.15 } \quad \boxed{ 1.008 } \
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:1:5</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2272,10 +2272,10 @@ $\boxed {\dfrac {4} {5}} \quad \boxed {0.6} \quad \boxed {\dfrac {5} {6}} \quad 
 <p>solihull-school--11-plus--maths--9999--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2388,10 +2388,10 @@ Which is the largest?
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2475,10 +2475,10 @@ $\dfrac{1}{5} \quad  0.6 \quad   25\% \quad   0.21 \quad    \dfrac {13} {48} \qu
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2591,10 +2591,10 @@ The largest
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3:1:16</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2678,10 +2678,10 @@ $0.2, \quad \dfrac {3} {10}, \quad 0.21, \quad \dfrac {37} {100}, \quad 0.36$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2765,10 +2765,10 @@ $0.56 \quad  0.5 \quad  0.051 \quad  0.507 \quad  0.308$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:17</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2852,10 +2852,10 @@ $0.26 \quad 0.3 \quad 0.038 \quad 0.38 \quad 0.308$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:1:17</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2939,10 +2939,10 @@ $0.105 \quad  0.115 \quad  0.1 \quad  0.11 \quad 0.015 \quad   0.101$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3051,10 +3051,10 @@ $\dfrac{1}{2} \quad 0.55 \quad 48\% \quad \dfrac{2}{5} \quad  0.467$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3138,10 +3138,10 @@ $9.7, \quad 9.63, \quad 9.099, \quad 9.199, \quad 9.20001$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:7</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3225,10 +3225,10 @@ $6.01 \quad 16.0 \quad 0.61 \quad 1.60 \quad 6.1$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:8</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3312,10 +3312,10 @@ $\dfrac{3}{4} \quad \dfrac{3}{5} \quad \dfrac{9}{10} \quad \dfrac{17}{20}$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3399,10 +3399,10 @@ $4.321, \quad 4.32, \quad 4.132, \quad 4.3, \quad 4.123$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:4</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3486,10 +3486,10 @@ $1.23 \quad 1.023 \quad 1.203 \quad 1.032 \quad 1.2 \quad 1.32 \quad 1.302$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

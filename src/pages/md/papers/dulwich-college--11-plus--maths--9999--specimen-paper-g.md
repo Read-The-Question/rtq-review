@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-g"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper G"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "26"
 ---
 <div class='paper'>
@@ -14,7 +14,7 @@ questions_count: "26"
 </div>
 <ul class='question decimal question_type_question list_type_decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>914AE816-ADA8-4255-B9E6-1052CA048DDB</p>
 </div>
@@ -28,7 +28,7 @@ questions_count: "26"
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1097,10 +1097,10 @@ $
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g:1:4</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1370,11 +1370,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-katex broken in the website also discuss with me once
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1713,7 +1708,7 @@ TODOANSWER
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A3C686C3-0BCC-4B4A-ABD1-83D7681517FB</p>
 </div>
@@ -1727,7 +1722,7 @@ TODOANSWER
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3438,7 +3433,7 @@ TODOANSWER
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>17F93916-CC33-4987-A33C-BF814E4C59D2</p>
 </div>
@@ -3452,7 +3447,7 @@ TODOANSWER
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3710,27 +3705,6 @@ Coordinates $= (0.5, 0)$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::16:31
-
-
-
-b: show working for mid point
-
-
-
-Reviewer: [up] Date:2022-09-22::16:31
-
-
-
-c: show working for mid point
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3781,7 +3755,7 @@ c: show working for mid point
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>2DC3C3C8-64DF-427A-8E52-5144100AD76B</p>
 </div>
@@ -3795,7 +3769,7 @@ c: show working for mid point
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4523,7 +4497,7 @@ Highest total = Jan
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3D108689-8900-415A-821C-F6F325EED378</p>
 </div>
@@ -4537,7 +4511,7 @@ Highest total = Jan
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4732,29 +4706,6 @@ W, H
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-a: they did not ask the probability value, this should be done as table
-
-
-
-Card, Frequency and then say most common card = S
-
-
-
-
-
-b:
-
-
-
-Using the table in part a, card H and W have the same count as E so they have the same probability, no need for calculation again.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4805,7 +4756,7 @@ Using the table in part a, card H and W have the same count as E so they have th
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>54CAAF21-5640-4453-94EA-660CB9EDE5B7</p>
 </div>
@@ -4819,7 +4770,7 @@ Using the table in part a, card H and W have the same count as E so they have th
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4891,15 +4842,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-UDAY: check with B how to explain such diagram questions.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -6288,7 +6230,7 @@ TODOANSWER
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C86CCE8C-C5E9-488B-8AF1-0291B3C4DD65</p>
 </div>
@@ -6302,7 +6244,7 @@ TODOANSWER
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6449,7 +6391,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>7862DF42-D05A-435E-8392-B8C1DEA0F1D4</p>
 </div>
@@ -6463,7 +6405,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

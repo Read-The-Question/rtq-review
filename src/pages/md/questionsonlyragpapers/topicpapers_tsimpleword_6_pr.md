@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tsimpleword-6-pr"
 title: "TopicPaper - Simpleword - 6 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "3"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>00E0557B-AB16-45B8-9F57-B6B47CD8DFAB</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "3"
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:29</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -144,27 +144,6 @@ The remaining cost of flights and accommodation for the Adams family is $\pounds
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-15::05:19
-
-
-
-years as unit move inside katex wherever needed, read all parts again and make changes
-
-
-
-Reviewer: [up] Date:2022-10-15::05:20
-
-
-
-remove space between pound sign and numbers
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -215,7 +194,7 @@ remove space between pound sign and numbers
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>169B3F23-EB06-4E0D-9414-80C1BA4C87CC</p>
 </div>
@@ -223,13 +202,13 @@ remove space between pound sign and numbers
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:9</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -262,23 +241,6 @@ What is the maximum weight of the sixth person in the lift if they all travel to
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Put a space before 115
-
-
-
-Reviewer: [up] Date:2022-10-15::05:23
-
-
-
-remove box and write katex only for what is required
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -329,7 +291,7 @@ remove box and write katex only for what is required
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>0B7B77AC-1A5A-4070-8C6B-380A2F6F503B</p>
 </div>
@@ -337,13 +299,13 @@ remove box and write katex only for what is required
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

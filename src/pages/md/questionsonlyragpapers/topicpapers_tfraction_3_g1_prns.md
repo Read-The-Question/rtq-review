@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tfraction-3-g1-prns"
 title: "TopicPaper - Fraction - 3 - G1 - PRNS"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "13"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "13"
 <p>oundle-school--11-plus--maths--2017--sample-paper-5:1:8</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -182,10 +182,10 @@ What is the result if one is subtracted from three fifths?
 <p>oundle-school--11-plus--maths--2017--sample-paper-7:1:2</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -322,10 +322,10 @@ Write down a fraction between nine fifths and two.
 <p>oundle-school--11-plus--maths--2018--sample-paper-10:1:6</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -462,10 +462,10 @@ $\dfrac{63}{21} \times \dfrac{35}{99}$
 <p>oundle-school--11-plus--maths--2018--sample-paper-8:1:12</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -630,10 +630,10 @@ What is the result if one is subtracted from three fifths?
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -717,10 +717,10 @@ What fraction of this flag has been shaded? Give the fraction as simply as possi
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:21</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -831,10 +831,10 @@ How many more rectangles need to be shaded to fill $\dfrac{4}{5}$ of the flag?
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:28</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -957,10 +957,10 @@ What is $0.303$ written as fraction?
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:9</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1083,10 +1083,10 @@ What is $0.88$ written as a fraction in its lowest terms?
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:14</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1195,10 +1195,10 @@ $\dfrac{3}{8}\div\dfrac{1}{4}$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:15</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1278,10 +1278,10 @@ Calculate $5\dfrac{3}{8}-2\dfrac{1}{4}$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:16</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1361,10 +1361,10 @@ Calculate $3\dfrac{5}{6}+4\dfrac{2}{3}$
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:3</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1444,10 +1444,10 @@ What is $0.007$ written as a fraction?
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:7</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

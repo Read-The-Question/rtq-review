@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tgraph-2-pr"
 title: "TopicPaper - Graph - 2 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "3"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>2BA835E1-7D92-469E-B7C7-5E510FB29702</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "3"
 <p>csse--11-plus--maths--2017--sample-paper-4:1:16</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -97,19 +97,6 @@ Calculate the angle needed for 'Euro $2016$' on the pie chart.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [na] Date:2022-09-08::22:26
-
-
-
-Remove %format% from  part a)
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -160,7 +147,7 @@ Remove %format% from  part a)
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>903E9C65-1728-4FDC-B94E-213AA367B69D</p>
 </div>
@@ -168,13 +155,13 @@ Remove %format% from  part a)
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:8</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -251,7 +238,7 @@ How many more children in class $5 \ P$ than $5 \ S$ live less than $\dfrac{1}{2
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3B271B17-398B-42AD-B541-3F80801397B7</p>
 </div>
@@ -259,13 +246,13 @@ How many more children in class $5 \ P$ than $5 \ S$ live less than $\dfrac{1}{2
 <p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:1:17</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -349,27 +336,6 @@ In which country did $240$ people own a computer?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-11-10::09:41
-
-
-
-write table too apart from the image, use placeholder symbol for it 
-
-
-
-Reviewer: [up] Date:2022-11-10::09:42
-
-
-
-write table too apart from the image, use placeholder symbol for it 
-</div>
 
 <div class='review'>
 <ul class='review'>

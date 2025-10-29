@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tangle-1-pr"
 title: "TopicPaper - Angle - 1 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "1"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6F6B6B48-EC9B-41A8-8A65-09482A6B04A0</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "1"
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:3:3</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -56,21 +56,6 @@ $D$ : $a$ = $58 \degree, b$ = $63 \degree \\\\$
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-11-27::17:17
-
-
-
-Use \degree for the first sentence
-
-USe md list
-</div>
 
 <div class='review'>
 <ul class='review'>

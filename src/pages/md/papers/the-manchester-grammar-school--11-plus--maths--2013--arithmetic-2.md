@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2013-arithmetic-2"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2013 - Arithmetic 2"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "11"
 ---
 <div class='paper'>
@@ -14,7 +14,7 @@ questions_count: "11"
 </div>
 <ul class='question decimal question_type_question list_type_decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>DF4D7857-8E32-44AC-9B1E-0C88C83C63C6</p>
 </div>
@@ -28,7 +28,7 @@ questions_count: "11"
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -315,7 +315,7 @@ litre
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C18B3699-48D7-4D8A-8C1F-70F23153373B</p>
 </div>
@@ -329,7 +329,7 @@ litre
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -584,19 +584,6 @@ Nigel scored the same number of points in each round.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-26::18:58
-
-
-
-c: calculation wrong in the table
-</div>
 
 <div class='review'>
 <ul class='review'>

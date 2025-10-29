@@ -1,7 +1,7 @@
 ---
 slug: "papers/alleyns-school-11-plus-maths-9999-sample-paper-2"
 title: "Alleyns School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "26"
 ---
 <div class='paper'>
@@ -834,10 +834,10 @@ Third angle $= 48 \degree$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:7</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1129,7 +1129,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9AC6D4DA-C715-4090-AB5C-CE3B73B57508</p>
 </div>
@@ -1143,7 +1143,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1210,35 +1210,6 @@ The value of the digit $5$ in the number $32.579$ is 'five tenths'
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-08::18:55
-
-
-
-just write the answer, no need for a table
-
-
-
-Reviewer: [up] Date:2022-09-08::18:55
-
-
-
-just write the answer, no need for a table
-
-
-
-Reviewer: [up] Date:2022-09-08::19:06
-
-
-
-just write the answer, no need for a table
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1425,7 +1396,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>7C5F9971-BF26-405F-9730-7D7B8A1C26BF</p>
 </div>
@@ -1439,7 +1410,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4454,7 +4425,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>ECD523B1-F8A1-44EA-958C-98ECD6FE6B58</p>
 </div>
@@ -4468,7 +4439,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4611,10 +4582,10 @@ Completed table:
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:21</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4746,7 +4717,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>F5204EF2-0A1F-4701-81B0-F29A4853DAE2</p>
 </div>
@@ -4760,7 +4731,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4908,35 +4879,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::16:31
-
-
-
-a: factors cancellation not done per guidelines, fix
-
-
-
-b: should use distance abbrev not time abbre, put the right one
-
-
-
-b: answer not written per coding guidelines, units are same no need to show all those units
-
-
-
-should  be 120 * ( 1 hour 30 minutes) = 120 * 1.5 = 180 miles written using begin aligned, remove complicated calculations
-
-
-
-
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4987,7 +4929,7 @@ should  be 120 * ( 1 hour 30 minutes) = 120 * 1.5 = 180 miles written using begi
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_red rag_prr question'>
+<div class='question_envelope rag_red rag_prns question'>
 <div class='uuid'>
 <p>2A3DC1F7-671E-4062-B03B-F85B879829A7</p>
 </div>
@@ -5001,7 +4943,7 @@ should  be 120 * ( 1 hour 30 minutes) = 120 * 1.5 = 180 miles written using begi
 <p>rag_wf_red</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5140,7 +5082,7 @@ $1.6$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>FCB6B08C-EEFA-489B-A540-D421A04B94A5</p>
 </div>
@@ -5154,7 +5096,7 @@ $1.6$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5463,19 +5405,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::05:00
-
-
-
-part d: how to find the length of the side? check with A
-</div>
 
 <div class='review'>
 <ul class='review'>

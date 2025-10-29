@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tsimpleword-3-g2-prns"
 title: "TopicPaper - Simpleword - 3 - G2 - PRNS"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "28"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "28"
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-f:1:10</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -99,10 +99,10 @@ $\dfrac{2}{7}$ of the space, what fraction of the cupboard is empty?
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-h:1:7</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -182,10 +182,10 @@ Tom uses $750 \ \text{g}$ of sugar from a $2.5 \ \text{kg}$ packet. How many kil
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-h:1:8</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -294,10 +294,10 @@ Given that Tom's piece of cake weighed $150 \ \text{grams}$, what was the weight
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-h:1:13</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -385,10 +385,10 @@ Calculate the approximate distance in miles from Calais to Paris.
 <p>eltham-college--11-plus--maths--2019--sample-paper-1:2:1</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -472,10 +472,10 @@ Find an estimate for the number of words in the book.
 <p>eltham-college--11-plus--maths--2019--sample-paper-1:2:2</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -565,10 +565,10 @@ $123456789$ and $987654321$.
 <p>eltham-college--11-plus--maths--2020--sample-paper-2:1:11</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -666,10 +666,10 @@ UK each year?
 <p>eltham-college--11-plus--maths--2020--sample-paper-2:1:20</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -781,10 +781,10 @@ What is the largest possible product?
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -870,10 +870,10 @@ How many men are there who are between $180$ and $190 \ \text{cms}$ tall?
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:7</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -961,10 +961,10 @@ What fraction of the pizza did Matilda eat?
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:16</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1052,10 +1052,10 @@ How many locusts does Jerry get on the day these locusts run out?
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:26</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1188,10 +1188,10 @@ $\Large{7 \ \text{\textunderscore} \ 5  \ 6 \ \text{\textunderscore} \ 0}$
 <p>forest-school--11-plus--maths--9999--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1283,10 +1283,10 @@ Wht fraction of the elephant is left on the wall when Krishn's parents arrive ho
 <p>forest-school--11-plus--maths--9999--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1370,10 +1370,10 @@ How many sheets are there in $2$ ream?
 <p>forest-school--11-plus--maths--9999--sample-paper-1:1:26</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1453,10 +1453,10 @@ Three prime numbers multiply together to get $110$. What are they?
 <p>forest-school--11-plus--maths--9999--sample-paper-1:1:27</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1548,10 +1548,10 @@ Has she ended up with more, less or the same as she had at the start of the week
 <p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1637,10 +1637,10 @@ Cheese costs $\pounds 5.40 \ \text{per kg}$. Jessica buys $0.6\ \text{kg}$ of ch
 <p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:1:7</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1727,10 +1727,10 @@ What was the total weight of the raspberries I picked that month? Give your answ
 <p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1816,10 +1816,10 @@ How long is Sara actually working on her maths?
 <p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1907,10 +1907,10 @@ What is the total score of the faces that Jack cannot see?
 <p>kent-college--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2077,10 +2077,10 @@ Show your working.
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:1:35</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2160,10 +2160,10 @@ Bill has a bag containing $60$ sweets. He eats a half of the sweets himself and 
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2255,10 +2255,10 @@ Two positive whole numbers add together to make $23$. What is the smallest possi
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:1:28</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2385,10 +2385,10 @@ Explain why it's not possible to find a two-digit number which gives Tess a resu
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2475,10 +2475,10 @@ By rounding each of these numbers to the nearest $100$, write down a simple sum 
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2628,10 +2628,10 @@ What is the longest length she can make?
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:1:19</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2740,10 +2740,10 @@ Meera is now exactly $3$ times as tall as she was when she was born. What was he
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:1:6</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

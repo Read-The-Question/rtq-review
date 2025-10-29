@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-3-g2"
 title: "TopicPaper - Money - 3 - G2"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "12"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>7ED0E8A6-8797-4138-A006-85F2D567D9C5</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "12"
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -101,19 +101,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-20::11:07
-
-
-
-Change to 1.10
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -164,7 +151,7 @@ Change to 1.10
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>A1C5A3A8-776A-4AE7-A826-842521976016</p>
 </div>
@@ -178,7 +165,7 @@ Change to 1.10
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -477,27 +464,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-19::13:51
-
-
-
-d: Change to using the answers above
-
-
-
-Reviewer: [ap] Date:2022-10-19::13:51
-
-
-
-d: Change to using the answers above
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -548,7 +514,7 @@ d: Change to using the answers above
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>B474E464-5AEF-419A-9B3D-08581A43D0DE</p>
 </div>
@@ -562,7 +528,7 @@ d: Change to using the answers above
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -633,19 +599,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-20::11:07
-
-
-
-Change to 7.20
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -696,7 +649,7 @@ Change to 7.20
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>EFD43A9D-C622-4E56-8393-2CA2B39FA64E</p>
 </div>
@@ -710,7 +663,7 @@ Change to 7.20
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -774,19 +727,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-22::10:08
-
-
-
-change owe to owes
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -837,7 +777,7 @@ change owe to owes
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>7CF52F4B-090D-493A-8346-80188BAA6634</p>
 </div>
@@ -851,7 +791,7 @@ change owe to owes
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -939,19 +879,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-24::12:18
-
-
-
-change to let Fran have
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1002,7 +929,7 @@ change to let Fran have
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>FEDF1274-F3D1-48A8-9364-946A301048E2</p>
 </div>
@@ -1016,7 +943,7 @@ change to let Fran have
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1090,19 +1017,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-22::10:20
-
-
-
-Change to £3.30 3.30 and 3.60
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1153,7 +1067,7 @@ Change to £3.30 3.30 and 3.60
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>B14230C1-397F-4229-962F-877D59B5C1B2</p>
 </div>
@@ -1167,7 +1081,7 @@ Change to £3.30 3.30 and 3.60
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1326,21 +1240,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-22::10:21
-
-
-
-Pencils cost 13 not 3
-
-Change answers and workings accordingly
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1391,7 +1290,7 @@ Change answers and workings accordingly
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>88771F84-2908-43E4-9380-A12099F3BB56</p>
 </div>
@@ -1405,7 +1304,7 @@ Change answers and workings accordingly
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1486,19 +1385,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-22::10:23
-
-
-
-Write answer as £1.09
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1549,7 +1435,7 @@ Write answer as £1.09
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>4D17A6EE-BFCA-43FF-BD1A-329ADAFFC202</p>
 </div>
@@ -1563,7 +1449,7 @@ Write answer as £1.09
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1732,19 +1618,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-22::11:16
-
-
-
-a: Write 1 x 50
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1927,7 +1800,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>74C05D8E-262C-47B1-ABB4-5F06E493406E</p>
 </div>
@@ -1941,7 +1814,7 @@ $
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2171,27 +2044,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-22::10:26
-
-
-
-Change first sentence to: Since we want to have the largest number of people, lets only calculate for children, as their tickets are cheaper.
-
-
-
-Reviewer: [ap] Date:2022-10-22::10:26
-
-
-
-Change first sentence to: Since we want to have the largest number of people, lets only calculate for children, as their tickets are cheaper.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2242,7 +2094,7 @@ Change first sentence to: Since we want to have the largest number of people, le
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>A1426515-EEB1-42FF-91BB-F3BFD31D7485</p>
 </div>
@@ -2256,7 +2108,7 @@ Change first sentence to: Since we want to have the largest number of people, le
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2484,21 +2336,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-22::10:29
-
-
-
-b: Change to total cost
-
-c: Change to - Since we want to have the largest number of people, lets only calculate for children, as their tickets are cheaper.
-</div>
 
 <div class='review'>
 <ul class='review'>

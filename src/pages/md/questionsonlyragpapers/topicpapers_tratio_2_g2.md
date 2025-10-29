@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tratio-2-g2"
 title: "TopicPaper - Ratio - 2 - G2"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "31"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "31"
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -109,10 +109,10 @@ Dave and Eddie are cycling around a track. Dave completes a lap every $30\ \text
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:1:3</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -225,10 +225,10 @@ How many metres does she buy?
 <p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -351,10 +351,10 @@ How many loaves will $3$ boy scouts eat in $8 \ \text{days}?$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:25</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -434,10 +434,10 @@ $\pounds 50000$ in $\pounds 50$ notes weighs about $1.3 \ \text{Kg}$. How much, 
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:22</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -546,10 +546,10 @@ If there is $15 \ \text{kg}$ of iron in a quantity of the alloy, how much tungst
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -636,10 +636,10 @@ How much would seven bags of apples cost?
 <p>oundle-school--11-plus--maths--2017--sample-paper-5:1:1</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -812,10 +812,10 @@ Work out $3243 + 47643 - 1243$.
 <p>oundle-school--11-plus--maths--2017--sample-paper-5:1:4</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -899,10 +899,10 @@ For how long could the same pile of hay feed $20$ horses?
 <p>oundle-school--11-plus--maths--2017--sample-paper-5:1:7</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -986,10 +986,10 @@ Find the value of $x$ and the value of $y$.
 <p>oundle-school--11-plus--maths--2017--sample-paper-6:1:6</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1073,10 +1073,10 @@ How many boys must join the group to make the ratio of boys to girls $5 : 3?$
 <p>oundle-school--11-plus--maths--2018--sample-paper-10:1:1</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1239,10 +1239,10 @@ The total mass of $7$ identical computers is $259 \ \text{kg}$. What is the mass
 <p>oundle-school--11-plus--maths--2018--sample-paper-8:1:4</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1326,10 +1326,10 @@ For how long could the same pile of food feed $20$ rabbits?
 <p>oundle-school--11-plus--maths--2018--sample-paper-9:1:6</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1413,10 +1413,10 @@ If there are $6$ less boys than girls, how any pupils are in the class in total?
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:1:4</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1496,10 +1496,10 @@ James draws a plan of his school using a scale of $1 \ \text{cm}$ to $6 \ \text{
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:1:13</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1622,10 +1622,10 @@ Eliot needs $36 \ \text{litres}$ of purple paint. How much red paint will he nee
 <p>sevenoaks-school--11-plus--maths--2012--sample-paper-3:1:6</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1734,10 +1734,10 @@ Her Maths classroom is $4 \ \text{m}$ by $3 \ \text{m}$. What are its dimensions
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:1:8</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1817,10 +1817,10 @@ tratio
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:2</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1929,10 +1929,10 @@ Find the cost of seven tickets.
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:10</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2012,10 +2012,10 @@ A drink contains lime, orange and apple juices in the ratio $2:7:6$. Find the vo
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:1:2</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2131,10 +2131,10 @@ How much will each customer save?
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:1:8</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2214,10 +2214,10 @@ In a fruit yoghurt weighing $117 \ \text{g}$, the ratio of weight of fruit to we
 <p>solihull-school--11-plus--maths--9999--sample-paper-1:2:4</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2368,10 +2368,10 @@ If these Dollars are changed back into pounds, how many pounds does he receive?
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2451,10 +2451,10 @@ Pairs of avocados are sold in a shop. $16$ pairs of avocados are sold at a total
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:26</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2536,10 +2536,10 @@ answers in the boxes below.
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2650,10 +2650,10 @@ $3.5 \ \text{kg}$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2773,10 +2773,10 @@ that in English pounds?
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2856,10 +2856,10 @@ Marie bought seven cinema tickets for $\pounds 58.10$. How much was each ticket?
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2943,10 +2943,10 @@ $42$ boys take part in the dance. How many girls take part?
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:2:9</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3069,10 +3069,10 @@ How many whole bangos are there in $274$ fangos? How many fangos are left over?
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:2:9</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3181,10 +3181,10 @@ How long would it take for $1$ cat to catch $1$ mouse?
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

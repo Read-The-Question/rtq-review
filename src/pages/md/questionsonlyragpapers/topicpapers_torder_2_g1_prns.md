@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-torder-2-g1-prns"
 title: "TopicPaper - Order - 2 - G1 - PRNS"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "2"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "2"
 <p>oundle-school--11-plus--maths--2016--sample-paper-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -101,10 +101,10 @@ $\dfrac{7}{8} \quad \dfrac{13} {15} \quad \dfrac{17}{20} \quad     \dfrac{25}{30
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:20</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-talgebra-18"
 title: "TopicPaper - Algebra - 18"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "25"
 ---
 <div class='paper'>
@@ -16,7 +16,7 @@ questions_count: "25"
 # Section A
 <ul class='question decimal question_type_question list_type_decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>59A15B1E-9BD7-46F5-A252-A20015C38A1A</p>
 </div>
@@ -24,13 +24,13 @@ questions_count: "25"
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1:1:27</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -86,27 +86,6 @@ Find $d$ if $d * 3 = 19$.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-16::04:08
-
-
-
-write a b equation in katex!!
-
-
-
-Reviewer: [ap] Date:2022-11-20::13:14
-
-
-
-prequestion - use align
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -157,7 +136,7 @@ prequestion - use align
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>4E026293-8092-4F84-94CD-07F5A6F4E37D</p>
 </div>
@@ -165,13 +144,13 @@ prequestion - use align
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -311,7 +290,7 @@ $a - \dfrac{b} {c}$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3A6DE7DE-2610-4BB9-B90F-CF47C2F942B9</p>
 </div>
@@ -319,13 +298,13 @@ $a - \dfrac{b} {c}$
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -465,7 +444,7 @@ $3 - 2(e - 1)$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>10F6A653-86A6-4A15-B189-E38E373A64BD</p>
 </div>
@@ -473,13 +452,13 @@ $3 - 2(e - 1)$
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -591,7 +570,7 @@ $\dfrac {𝑥} {3} =\dfrac {𝑥-4} {2}$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5863986B-3C61-4299-99E3-6926BCFBFCAD</p>
 </div>
@@ -599,13 +578,13 @@ $\dfrac {𝑥} {3} =\dfrac {𝑥-4} {2}$
 <p>tonbridge-school--scholarship--maths--2016--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -725,7 +704,7 @@ If $R = 8500$ and $H = 7.8$, find $A$.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>BC18B92E-4190-4C3F-B391-1D7F39F5B4D9</p>
 </div>
@@ -733,13 +712,13 @@ If $R = 8500$ and $H = 7.8$, find $A$.
 <p>tonbridge-school--scholarship--maths--2017--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -816,7 +795,7 @@ $2x + 3y = 4$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>42270AE8-4562-4EBB-B3FA-CAFC2742FCBA</p>
 </div>
@@ -824,13 +803,13 @@ $2x + 3y = 4$
 <p>tonbridge-school--scholarship--maths--2017--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -942,7 +921,7 @@ If the values of $T$ and $V$ are numerically the same, find $T$.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>14AE2923-5211-4ABF-BD29-8574263DA505</p>
 </div>
@@ -950,13 +929,13 @@ If the values of $T$ and $V$ are numerically the same, find $T$.
 <p>tonbridge-school--scholarship--maths--2017--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1068,7 +1047,7 @@ One piece is $20\%$ longer than the other.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>21D2A583-FB30-4094-B30F-00057B5E3942</p>
 </div>
@@ -1076,13 +1055,13 @@ One piece is $20\%$ longer than the other.
 <p>tonbridge-school--scholarship--maths--2018--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1218,10 +1197,10 @@ $3xy-2xz=10$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1301,10 +1280,10 @@ Ben has $\pounds 68$. He gives a quarter of this to his sister. How much does he
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1384,10 +1363,10 @@ When two fifths of the class are absent, there are $18$ pupil; present. What is 
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1467,10 +1446,10 @@ Each time Peter runs around the school, he travels $\dfrac {1} {4}$ $\text{mile}
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1546,7 +1525,7 @@ If he gets the answer $105$ what number did he start with and what answer should
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3D42270C-70A1-4EE1-AED9-6A08F7425716</p>
 </div>
@@ -1554,13 +1533,13 @@ If he gets the answer $105$ what number did he start with and what answer should
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1579,19 +1558,6 @@ A two litre bottle of lemonade costs $\pounds 1 .44$; a one and half litre  bott
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-20::05:36
-
-
-
-numbers are written wrong, letter l written instead of number 1
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1650,10 +1616,10 @@ numbers are written wrong, letter l written instead of number 1
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:27</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1754,7 +1720,7 @@ What number must $5$ be 'curdled' with to give the answer $81$.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>48A65A07-BA43-4EDF-B878-C0D0AF3AD175</p>
 </div>
@@ -1762,13 +1728,13 @@ What number must $5$ be 'curdled' with to give the answer $81$.
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1828,19 +1794,6 @@ How much change would you get from $\pounds 10$ if you bought $1\ \text{kg}$ of 
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-27::16:11
-
-
-
-read question again, fix fractions units spacing
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1899,10 +1852,10 @@ read question again, fix fractions units spacing
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1974,7 +1927,7 @@ I think of a number, add $4$ and then multiply by $3$. The result is $63$. What 
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>FC3ABA33-5D43-482E-9D5F-4D8124DCB134</p>
 </div>
@@ -1982,13 +1935,13 @@ I think of a number, add $4$ and then multiply by $3$. The result is $63$. What 
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2065,10 +2018,10 @@ Edward has a sum of money. He gives one-third to his son George and three-fifths
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2191,10 +2144,10 @@ A minibus costs $\pounds 80$ to hire for the day. Tickets for the theme park cos
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:1:28</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2282,10 +2235,10 @@ How much has Homer got now?
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2411,10 +2364,10 @@ If there were more child tickets than adult tickets, how many of each did I buy?
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1:2:3</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2497,10 +2450,10 @@ $6 \times \ldots = \pounds 9.60$
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1:2:8</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2584,7 +2537,7 @@ Three gear wheels turn one another. $X$ has $8$ teeth, $Y$ has $12$ teeth and $Z
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9BAEC1C3-1291-46F0-8A06-C2CB59BB5445</p>
 </div>
@@ -2592,13 +2545,13 @@ Three gear wheels turn one another. $X$ has $8$ teeth, $Y$ has $12$ teeth and $Z
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:2:8</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2661,19 +2614,6 @@ $13 + 2x = 3$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-11-27::16:07
-
-
-
-a) Add a full stop
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2732,10 +2672,10 @@ a) Add a full stop
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:2:11</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

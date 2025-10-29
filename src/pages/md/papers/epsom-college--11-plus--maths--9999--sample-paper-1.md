@@ -1,7 +1,7 @@
 ---
 slug: "papers/epsom-college-11-plus-maths-9999-sample-paper-1"
 title: "Epsom College - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "15"
 ---
 <div class='paper'>
@@ -1932,7 +1932,7 @@ $17$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>CE37DE92-458D-431B-8515-962EE38135E1</p>
 </div>
@@ -1946,7 +1946,7 @@ $17$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2849,7 +2849,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>625C28CB-BB72-429B-8620-05BA56753590</p>
 </div>
@@ -2863,7 +2863,7 @@ $
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3031,19 +3031,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-24::11:33
-
-
-
-change equipments to equipment
-</div>
 
 <div class='review'>
 <ul class='review'>

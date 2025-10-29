@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tsymmetry-3"
 title: "TopicPaper - Symmetry - 3"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "8"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "8"
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:23</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -113,10 +113,10 @@ Draw all of the lines of symmetry on each shape below.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:28</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -200,10 +200,10 @@ Reflect the shaded shape in the mirror line.
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -295,7 +295,7 @@ Draw in all the axes of symmetry in these shapes. If any shape has no axes of sy
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>370538D7-8B44-4815-88C4-A4A248322B31</p>
 </div>
@@ -303,13 +303,13 @@ Draw in all the axes of symmetry in these shapes. If any shape has no axes of sy
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -361,19 +361,6 @@ Draw in the lines of symmetry.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-16::04:55
-
-
-
-move image to part a
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -432,10 +419,10 @@ move image to part a
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -511,7 +498,7 @@ Draw **ALL** the lines of symmetry on this shape.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>172D0E8E-A210-45CB-B358-6DF27FE2BD71</p>
 </div>
@@ -519,13 +506,13 @@ Draw **ALL** the lines of symmetry on this shape.
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -645,10 +632,10 @@ A rhombus with the two diagonals having lengths $6\,cm$ and $4\,cm$.
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -731,7 +718,7 @@ line of symmetry
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A1B581B6-B6B5-4295-8E37-D7719E34A473</p>
 </div>
@@ -739,13 +726,13 @@ line of symmetry
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

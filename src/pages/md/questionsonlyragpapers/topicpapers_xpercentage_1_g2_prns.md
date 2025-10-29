@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-xpercentage-1-g2-prns"
 title: "TopicPaper - Percentage - 1 - G2 - PRNS"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "1"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "1"
 <p>aldenham-school--11-plus--maths--9999--sample-paper-5:1:15</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

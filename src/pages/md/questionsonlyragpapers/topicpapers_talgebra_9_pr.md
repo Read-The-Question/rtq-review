@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-talgebra-9-pr"
 title: "TopicPaper - Algebra - 9 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "5"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>191CD2FA-CE07-4708-99E9-0C5625EFED6C</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "5"
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:34</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -132,7 +132,7 @@ Find $𝑏$ if $𝑏 ⋆ 𝑏 = 28$.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>7924C135-8158-48F4-9201-1CCCD38D660F</p>
 </div>
@@ -140,13 +140,13 @@ Find $𝑏$ if $𝑏 ⋆ 𝑏 = 28$.
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:34</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -208,23 +208,6 @@ Find $𝑏$ if $𝑏∎𝑏 = 32$.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-remove all those incorrect x y and other symbols
-
-
-
-Reviewer: [ak] Date:2022-10-18::21:37
-
-
-
-question is as per the pdf
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -275,7 +258,7 @@ question is as per the pdf
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>280526CC-5BF4-4EDF-ABB9-2BC7C8B633AA</p>
 </div>
@@ -283,13 +266,13 @@ question is as per the pdf
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:21</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -351,21 +334,6 @@ Find 𝑏 if $𝑏 ⊡ 𝑏 = 52$.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [na] Date:2022-09-11::16:00
-
-
-
-write \"three\" without katex.
-
-instead of copying variables in italic, write normal letters inside $$
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -416,7 +384,7 @@ instead of copying variables in italic, write normal letters inside $$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>63141B26-BAE9-40A6-8904-E449F3129641</p>
 </div>
@@ -424,13 +392,13 @@ instead of copying variables in italic, write normal letters inside $$
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -500,23 +468,6 @@ Use these rules to complete the algebra grids below. Write your expressions as s
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-28::02:38
-
-
-
-change empty to image in sub questions so image appear there
-
-
-
-remove extra image in the main question
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -567,7 +518,7 @@ remove extra image in the main question
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C2271CA0-2CDF-403C-907E-FD4591945D01</p>
 </div>
@@ -575,13 +526,13 @@ remove extra image in the main question
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:1:18</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

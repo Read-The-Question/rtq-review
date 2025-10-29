@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tsimpleword-2-g2-prns"
 title: "TopicPaper - Simpleword - 2 - G2 - PRNS"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "38"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "38"
 <p>colfes-school--11-plus--maths--9999--sample-paper:1:10</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -99,10 +99,10 @@ There were $170$ sweets in the packet, how many does the teacher eat?
 <p>colfes-school--11-plus--maths--9999--sample-paper:1:13</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -182,10 +182,10 @@ Jordan has a collection of $1345$ marbles! He gives his friend $689$ of the marb
 <p>colfes-school--11-plus--maths--9999--sample-paper:1:21</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -271,10 +271,10 @@ Catherine gets $22$ sweets. How many sweets are there in the bag?
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -362,10 +362,10 @@ How many biscuits are not chocolate?
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -445,10 +445,10 @@ How many people can have four biscuits each?
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -528,10 +528,10 @@ How many biscuits are there in seven boxes?
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -611,10 +611,10 @@ A school has $336$ boys and $485$ girls. How many pupils is this altogether?
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -694,10 +694,10 @@ I cook rice for four people. I use $60 \ \text{grams}$ per person. How much, in 
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:24</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -777,10 +777,10 @@ A giant size toy box contains $400$ bricks. How many bricks will there be in $36
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:31</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -860,10 +860,10 @@ One inch is about $2.5 \ \text{centimetres}$. How many inches are roughly equal 
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:48</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -947,10 +947,10 @@ How many pupils were present?
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:49</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1033,10 +1033,10 @@ The following day $24$ pupils were present, out of $40$. Write this as a percent
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1124,10 +1124,10 @@ How many chocolate bars are in $14$ boxes?
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1211,10 +1211,10 @@ How many buses would be needed to take $248$ pupils?
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1294,10 +1294,10 @@ How many times can $143$ be subtracted from $855$ before we get to zero?
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:29</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1377,10 +1377,10 @@ In a bag there are $84$ counters. $\dfrac{5}{7}$ of the counters are blue. How m
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:40</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1463,10 +1463,10 @@ $8\%$ of children wear glasses. If there are $1150$ children at a school, how ma
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:41</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1546,10 +1546,10 @@ A full sweet jar weighs $165.5 \ \text{g}$. The jar contains $90$ sweets. Each s
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1631,10 +1631,10 @@ How many buses would be needed to take $300$ pupils?
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:11</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1714,10 +1714,10 @@ How many times can $137$ be subtracted from $1024$ before we get to zero?
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:29</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1797,10 +1797,10 @@ In a bag there are $63$ counters. $\dfrac {3} {7}$ of the counters are blue.  Ho
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:40</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1883,10 +1883,10 @@ $6\%$ of children wear glasses. If there are $1450$ children at a school, how ma
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:41</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1968,10 +1968,10 @@ How much does the empty jar weigh?
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:1</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2051,10 +2051,10 @@ A school has $1120$ pupils, $652$ pupils are boys. How many pupils are girls?
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:5</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2134,10 +2134,10 @@ A train has $6$ carriages, Each carriage holds $88$ passengers. How many seats h
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:7</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2217,10 +2217,10 @@ Two fifths of the pupils in a school wear glasses. What percentage of the pupils
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:11</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2302,10 +2302,10 @@ The UK population is approximately $66{,}482{,}000$. The population of London is
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:12</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2385,10 +2385,10 @@ How many times can $147$ be subtracted from $1270$ before we get to zero?
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:20</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2468,10 +2468,10 @@ A stationery shop sells $6851$ pens in $31$ days. How many pens per day did they
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:42</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2551,10 +2551,10 @@ In a school $24\%$ of children have blond hair. If there are $1100$ children at 
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:3</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2641,10 +2641,10 @@ How many chocolate bars are in $16$ boxes?
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:5</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2728,10 +2728,10 @@ How many buses would be needed to take $300$ pupils?
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:11</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2811,10 +2811,10 @@ How many times can $117$ be subtracted from $1200$ before we get to zero?
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:29</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2894,10 +2894,10 @@ In a bag there are $63$ counters. $\dfrac {5}{9}$ of the counters are blue. How 
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:40</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2980,10 +2980,10 @@ $6 \%$ of children wear glasses. If there are $1450$ children at a school, how m
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:41</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3065,10 +3065,10 @@ How much does the empty jar weigh?
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:10</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3154,10 +3154,10 @@ How many $15\ \text{cm}$ strips can I cut from a ribbon $1\ \text{m}$ long?
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:24</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

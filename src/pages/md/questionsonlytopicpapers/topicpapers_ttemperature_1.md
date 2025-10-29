@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-ttemperature-1"
 title: "TopicPaper - Temperature - 1"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "40"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "40"
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:1:13</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -164,10 +164,10 @@ What was the temperature on Sunday?
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:11</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -314,10 +314,10 @@ What was the difference in temperature between Oslo and NewYork?
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:2:12</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -425,10 +425,10 @@ The first row is done for you.
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:11</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -508,10 +508,10 @@ How much more than $-3 \degree \text{C}$ is $4 \degree \text{C}$?
 <p>benenden-school--11-plus--maths--2020--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -650,10 +650,10 @@ Which was cooler?
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -780,10 +780,10 @@ What was the difference in temperature between midday yesterday and midnight las
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -871,10 +871,10 @@ What is the temperature in Inverness?
 <p>csse--11-plus--maths--2015--sample-paper-2:1:8</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1015,10 +1015,10 @@ What is the value of $A + B?$
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:13</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1098,10 +1098,10 @@ It is $15 \degree$ in Plymouth. In Reykjavik, the capital of Iceland, it is $17 
 <p>epsom-college--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1243,7 +1243,7 @@ Write down the names of these places.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>0237E500-6C62-4B6B-9D5F-1235E8D6E07B</p>
 </div>
@@ -1251,13 +1251,13 @@ Write down the names of these places.
 <p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1357,19 +1357,6 @@ temperature in York and its temperature at midnight is $2 \degree \text{C}$ high
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-11-10::09:39
-
-
-
-main question: temperature C write in text refer how its writtne in part d
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1428,10 +1415,10 @@ main question: temperature C write in text refer how its writtne in part d
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2:1:16</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1511,10 +1498,10 @@ If it is $-26.5 \degree \text{C}$ in Canada and $34.5 \degree \text{C}$ in Austr
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:1:15</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1657,10 +1644,10 @@ On the graph above, draw a bar to show this information.
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:28</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1775,10 +1762,10 @@ What will the temperature be by $0400 \ \text{hrs}?$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:15</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1887,10 +1874,10 @@ Raj is overdrawn at the bank by $\pounds 40$. His sister Sarina is richer than h
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:7</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2059,10 +2046,10 @@ Bearing in mind his thermometer is broken, what will the actual temperature be o
 <p>oundle-school--11-plus--maths--2008--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2134,7 +2121,7 @@ When Greg started to climb Ben Nevis, the temperature at the bottom was $17 \ \t
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5E0750D3-B277-4BD3-9DE3-609CCC70C5CD</p>
 </div>
@@ -2142,13 +2129,13 @@ When Greg started to climb Ben Nevis, the temperature at the bottom was $17 \ \t
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:24</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2167,19 +2154,6 @@ On January $1^\text{st}$, the temperature in Helsinki was $-4 \degree \text{C}$ 
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-- inside katex for -4
-
-
-
-- inside katex for -4
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2238,10 +2212,10 @@ On January $1^\text{st}$, the temperature in Helsinki was $-4 \degree \text{C}$ 
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:5</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2321,10 +2295,10 @@ On January $1^\text{st}$, the temperature in Moscow was -$6 \degree \text{C}$ an
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2404,10 +2378,10 @@ In New York it is $23\degree\text{C}$ and in Moscow it is $–5\degree\text{C}$.
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:1:3</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2487,10 +2461,10 @@ The temperature of the items in a freezer is $-18 \degree \text{C}$. A packet of
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2585,10 +2559,10 @@ Shade the other so that it shows a temperature of $46 \degree \text{C}$.
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2668,10 +2642,10 @@ At $5.00 \ \text{am}$ the temperature is $-3 \degree \text{C}$. At $10{:}30 \ \t
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2763,10 +2737,10 @@ cities?
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2893,10 +2867,10 @@ What was the temperature that day?
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2980,10 +2954,10 @@ What is the temperature in Exeter?
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:1:9</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3120,7 +3094,7 @@ Write down the temperature in Liverpool in the evening,
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3D535ECB-6703-4719-9B5B-4F9C5CB1B9BC</p>
 </div>
@@ -3128,13 +3102,13 @@ Write down the temperature in Liverpool in the evening,
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:4</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3252,10 +3226,10 @@ What was the temperature outside the window at $10 \ \text{p.m.}$?
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3331,7 +3305,7 @@ The temperature has now **fallen** by $3.15$ degrees, what is the temperature?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C5636BBF-786C-478E-829E-582EF1B4C9F9</p>
 </div>
@@ -3339,13 +3313,13 @@ The temperature has now **fallen** by $3.15$ degrees, what is the temperature?
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:20</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3459,10 +3433,10 @@ $120$ degrees **Fahrenheit** is the same as $\text{\textunderscore \textundersco
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3542,10 +3516,10 @@ On Monday it was was $-12 \degree \text{C}$. The temperature rose by $1 \degree 
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:30</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3658,10 +3632,10 @@ By how much did the temprature rise between Monday and Tuesday?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3774,7 +3748,7 @@ What is the temprature in Val Thorens?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3C6BCAEF-2EAE-44E1-B652-80E960F07578</p>
 </div>
@@ -3782,13 +3756,13 @@ What is the temprature in Val Thorens?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:14</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3906,10 +3880,10 @@ What was the temperature in Cold City on Christmas Day?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:15</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4018,7 +3992,7 @@ What was the temperature in Oslo?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D27BFEB2-A85B-4CA2-A82E-D3AAB2EB725E</p>
 </div>
@@ -4026,13 +4000,13 @@ What was the temperature in Oslo?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:11</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4092,19 +4066,6 @@ What was the temprature outside the window at midnight?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-28::10:44
-
-
-
-Change to temperatures and temperature
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4163,10 +4124,10 @@ Change to temperatures and temperature
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:13</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4295,10 +4256,10 @@ What was the temperature in Totalford on Tuesday?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:13</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4407,7 +4368,7 @@ What temperature should it be in the freezer?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>91EAC938-64F8-4348-83F9-074560E4256F</p>
 </div>
@@ -4415,13 +4376,13 @@ What temperature should it be in the freezer?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:31</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4561,10 +4522,10 @@ Work out how many times Flossie chirps in $1 \ \text{minute}$.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

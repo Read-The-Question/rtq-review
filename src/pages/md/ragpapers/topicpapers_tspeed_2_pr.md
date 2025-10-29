@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tspeed-2-pr"
 title: "TopicPaper - Speed - 2 - PR"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "14"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>1D053FF5-F5C3-4A33-9F15-EF02705C8BD0</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "14"
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -261,7 +261,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>10B39F70-A4DD-4349-8C17-8BB01B8438F1</p>
 </div>
@@ -275,7 +275,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -419,7 +419,7 @@ At $3 \text { metres per minute}$, the tortoise need to run to cross the finishi
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5DCC416B-7200-4C81-96BF-BAFD35E63E30</p>
 </div>
@@ -433,7 +433,7 @@ At $3 \text { metres per minute}$, the tortoise need to run to cross the finishi
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -826,7 +826,7 @@ After $20$ days, the two icebergs will have the same mass.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E02F1C9F-BBD8-40C2-BCD2-66B3C1A9B555</p>
 </div>
@@ -840,7 +840,7 @@ After $20$ days, the two icebergs will have the same mass.
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2368,7 +2368,7 @@ slowest run $= 14.1$ secs
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>00D9E1CD-F3B5-4E92-995D-8331D5A1F239</p>
 </div>
@@ -2382,7 +2382,7 @@ slowest run $= 14.1$ secs
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2709,7 +2709,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3B26E7CB-1B5C-4199-8C38-B92AA306E351</p>
 </div>
@@ -2723,7 +2723,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2924,7 +2924,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E5FF003D-6546-4BF1-991C-059F2C4EE567</p>
 </div>
@@ -2938,7 +2938,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3223,7 +3223,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6D5ECDFC-21C2-4419-84A6-F605A61E9D0E</p>
 </div>
@@ -3237,7 +3237,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3457,7 +3457,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5158C016-23DB-4CF4-BD1A-5CD2AF7241A9</p>
 </div>
@@ -3471,7 +3471,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3588,7 +3588,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>4B5465FD-B5E3-4550-93F3-DB018C7F95FA</p>
 </div>
@@ -3602,7 +3602,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

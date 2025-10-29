@@ -1,7 +1,7 @@
 ---
 slug: "papers/forest-school-11-plus-maths-2020-sample-paper-3"
 title: "Forest School - 11 Plus - Maths - 2020 - Sample Paper 3"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "35"
 ---
 <div class='paper'>
@@ -693,7 +693,7 @@ Value $= \pounds 400$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>5DEC1ED3-8832-4774-9EB9-74000A6C3998</p>
 </div>
@@ -707,7 +707,7 @@ Value $= \pounds 400$
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -798,19 +798,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-24::11:34
-
-
-
-write ABBR for units
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2681,7 +2668,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C8C21BEC-2A75-4073-81B1-8F56AFB3A97F</p>
 </div>
@@ -2695,7 +2682,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2811,7 +2798,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>96D522A9-D090-405A-8EAA-4F13137334B7</p>
 </div>
@@ -2825,7 +2812,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3052,7 +3039,7 @@ $\dfrac {5} {11}$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>0A9683A9-D010-44F1-9170-501D9A4DF97D</p>
 </div>
@@ -3066,7 +3053,7 @@ $\dfrac {5} {11}$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4094,7 +4081,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>AA38A94F-9954-4B0A-859F-8177A118F2D7</p>
 </div>
@@ -4102,13 +4089,13 @@ $
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:28</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4268,7 +4255,7 @@ The perimeter is increased by $40$.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>2949A49A-06D1-4FF5-BABD-62AC7468113E</p>
 </div>
@@ -4282,7 +4269,7 @@ The perimeter is increased by $40$.
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4367,39 +4354,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::17:00
-
-
-
-distance = D
-
-
-
-speed = D / 24
-
-
-
-Shayban = 1 /3 of D / 24
-
-
-
-Time = d / d / 72 = 72
-
-
-
-do not define s
-
-
-
-not written per simple word guidelines
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5332,10 +5286,10 @@ TODOANSWER
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:35</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

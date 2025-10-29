@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-xvenn-1"
 title: "TopicPaper - Venn - 1"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "3"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "3"
 <p>aldenham-school--11-plus--maths--9999--sample-paper-5:1:4</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -117,10 +117,10 @@ $2 \quad 3 \quad 4 \quad 5 \quad 10 \quad 12 \quad 24$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-i:1:12</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -204,10 +204,10 @@ If $S = {\text{square number}}$ and $O = {\text{odd number}}$ put each of the nu
 <p>forest-school--11-plus--maths--2012--sample-paper-4:1:38</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

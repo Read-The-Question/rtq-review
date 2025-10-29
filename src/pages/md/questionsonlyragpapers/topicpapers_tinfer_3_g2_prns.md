@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tinfer-3-g2-prns"
 title: "TopicPaper - Infer - 3 - G2 - PRNS"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "32"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "32"
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:1:24</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -166,10 +166,10 @@ One possible answer is given to you.
 <p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -334,10 +334,10 @@ What is the number?
 <p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -421,10 +421,10 @@ Place each whole number from $1$ to $8$ inclusive in one of the blank boxes belo
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:30</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -539,10 +539,10 @@ What is the mystery number?
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:27</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -655,10 +655,10 @@ State whether a prime number can ever be perfect.
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -754,10 +754,10 @@ Fill in the missing numbers for this triangle:
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:29</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -845,10 +845,10 @@ What shape is on card $3?$
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:30</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -928,10 +928,10 @@ A number of children are standing in a circle. They are evenly spaced and the $7
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:34</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1048,10 +1048,10 @@ If $120$ marbles are released through the network, how many do not reach $F?$
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:40</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1152,10 +1152,10 @@ Each of the symbols has a different value associated with it. When you add up th
 <p>oundle-school--11-plus--maths--2008--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1243,10 +1243,10 @@ On this diagram, the start position is the letter $S$ on the left, and the finis
 <p>oundle-school--11-plus--maths--2017--sample-paper-5:1:14</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1391,10 +1391,10 @@ How many $5s$ appear in the first $100$ decimal places?
 <p>oundle-school--11-plus--maths--2018--sample-paper-8:1:10</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1539,10 +1539,10 @@ How many $7s$ appear in the first $200$ decimal places?
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:34</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1634,10 +1634,10 @@ What are the values of $A, B, C, D$ and $F?$
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:1:16</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1717,10 +1717,10 @@ In a children's game you call out all the numbers from $1$ to $100$. You clap ev
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:1:17</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1820,10 +1820,10 @@ It turned out that exactly one of them did not tell the truth. Who?
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:1:11</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1907,10 +1907,10 @@ A solid square based pyramid has all of its corners cut off, as shown. How many 
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:1:12</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1998,10 +1998,10 @@ The rod is rotated three times through $180 \degree$, first about the point $A$,
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:1:16</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2085,10 +2085,10 @@ Each symbol has a numerical value. The total for the symbols is written at the e
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:22</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2215,10 +2215,10 @@ How many white squares will the diagram with $10$ black squares have?
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:23</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2310,10 +2310,10 @@ $\blacklozenge?$
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:26</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2393,10 +2393,10 @@ Two adults and two children wish to cross a river. They make a raft but it will 
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:27</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2486,10 +2486,10 @@ In this magic square, which uses all whole numbers from $7$ to $15$ (including $
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:1:17</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2583,10 +2583,10 @@ For which map will Matteo require the most colours?
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:19</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2670,10 +2670,10 @@ The numbers $1$ to $12$ are to be placed such that the sum of the four numbers i
 <p>solihull-school--11-plus--maths--9999--sample-paper-1:3:6</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2757,10 +2757,10 @@ Fill in the missing numbers so that adding each pair of corner numbers gives you
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:31</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2866,10 +2866,10 @@ Circle all statements below that are **always true**.
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:32</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3006,10 +3006,10 @@ Fill in both boxes if $10 \times 9 \times 8 = \dfrac {\boxed{\phantom{7}} \ !} {
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3093,10 +3093,10 @@ In this number pyramid, the number in each block is found by adding together the
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:30</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3259,10 +3259,10 @@ What is the units digit of $7^{12} \text{?}$
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:32</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3389,10 +3389,10 @@ When $n = 4$, which card(s) will give an answer of less than $4 \text{?}$
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:23</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tsimpleword-1-g1"
 title: "TopicPaper - Simpleword - 1 - G1"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "1"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>48DCE66E-535F-44BE-BA9D-246D028EA4F0</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "1"
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:19</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -39,19 +39,6 @@ What percentage of the integers $1 - 100$ inclusive are not a multiple of $10?$
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-10::14:35
-
-
-
-? inside $$
-</div>
 
 <div class='review'>
 <ul class='review'>

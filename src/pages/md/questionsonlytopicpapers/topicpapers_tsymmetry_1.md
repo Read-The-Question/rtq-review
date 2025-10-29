@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tsymmetry-1"
 title: "TopicPaper - Symmetry - 1"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "40"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "40"
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:2</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -119,10 +119,10 @@ On the square grid below, show the triangle reflected in the two mirror lines.
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -254,7 +254,7 @@ Draw any lines of symmetry on these shapes. Some may have none or more than one.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>1C32DDE0-898E-48A3-9DA4-0602505990AE</p>
 </div>
@@ -262,13 +262,13 @@ Draw any lines of symmetry on these shapes. Some may have none or more than one.
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:15</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -405,10 +405,10 @@ Draw any lines of symmetry on these shapes. Some may have none or more than one.
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -549,10 +549,10 @@ which one of the following (A, B, C, D or E) would you see?
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2:1:17</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -640,10 +640,10 @@ Write down the number of lines of symmetry for each hexagon.
 <p>bancrofts-school--11-plus--maths--2017--sample-paper-3:1:14</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -719,7 +719,7 @@ Write down the number of lines of symmetry (mirror lines) for each shape.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>1AF2433E-3D5D-484E-B002-AC1E07FB1211</p>
 </div>
@@ -727,13 +727,13 @@ Write down the number of lines of symmetry (mirror lines) for each shape.
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:9</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -826,10 +826,10 @@ look if it had been rotated and then reflected in the same way?
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:10</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -913,10 +913,10 @@ How many lines of symmetry (mirror lines) does the shape below have?
 <p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1025,10 +1025,10 @@ Reflect these shapes in the Mirror lines.
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:24</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1115,10 +1115,10 @@ Reflect the shapes in the grids below so tht the marked lines are lines of symme
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1205,10 +1205,10 @@ Shade three more squares so that the dotted line is a line of symmetry (mirror l
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:13</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1284,7 +1284,7 @@ Reflect the word $\text{MATHEMATICS}$ in the given line.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E7201AA6-215A-4BDA-89C6-5C378A884A97</p>
 </div>
@@ -1292,13 +1292,13 @@ Reflect the word $\text{MATHEMATICS}$ in the given line.
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:16</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1438,10 +1438,10 @@ Show how the four tiles can fit together to make a pattern with rotation symmetr
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1525,10 +1525,10 @@ Reflect the letters in the mirror line below. Three letters have been done for y
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1604,7 +1604,7 @@ Reflect the grey shape in the dashed mirror line.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>0032A1C2-125B-4779-B53F-49B324B0E805</p>
 </div>
@@ -1612,13 +1612,13 @@ Reflect the grey shape in the dashed mirror line.
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1641,19 +1641,6 @@ $ \text{E} \quad \text{M} \quad \text{I} \quad \text{L} \quad \text{Y} $
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-11-12::06:24
-
-
-
-write image for this one for EMILY too as we want the exact font, katex font is not exactly letters are not symmetrical and we cant control for any font so has to be an image.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1712,10 +1699,10 @@ write image for this one for EMILY too as we want the exact font, katex font is 
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:33</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1799,10 +1786,10 @@ How many lines of symmetry does it have?
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:36</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1890,10 +1877,10 @@ What is the order of rotational symmetry of this shape?
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:37</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1977,10 +1964,10 @@ How many lines of symmetry has this shape?
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2064,10 +2051,10 @@ Which shape has exactly $2$ lines of reflective symmetry and also rotational sym
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:15</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2151,10 +2138,10 @@ Which shape has no lines of reflective symmetry?
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:6</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2238,10 +2225,10 @@ Which shape has exactly two lines of symmetry?
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:15</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2325,10 +2312,10 @@ Which shape has $3$ of reflective symmetry?
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-a:1:8</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2412,10 +2399,10 @@ Draw the reflection of this triangle in the mirror line shown.
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-a:1:22</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2537,10 +2524,10 @@ Now shade two sections in the second line grid so that the overall shape has an 
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b:1:9</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2657,10 +2644,10 @@ Circle which of the four options below shows a correct **reflection** of the wor
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-c:1:8</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2777,10 +2764,10 @@ Circle which of the four options below shows a correct **reflection** of the wor
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-c:1:18</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2902,10 +2889,10 @@ Give the **full name** of the shape above which has exactly three lines of symme
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d:1:13</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3037,10 +3024,10 @@ covers.
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-f:1:13</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3127,10 +3114,10 @@ Rotate the triangle through $180\degree$ about the point marked $A$.
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g:1:12</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3217,10 +3204,10 @@ Draw the reflection of each shape in the mirror line as shown.
 <p>eltham-college--11-plus--maths--2020--sample-paper-2:1:19</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3316,10 +3303,10 @@ Which image completes the symmetric figure using the dashed line of symmetry?
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:34</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3403,10 +3390,10 @@ Reflect these shapes in the mirror lines.
 <p>john-lyon-school--11-plus--maths--9999--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3490,10 +3477,10 @@ Complete the diagram so that it has reflective symmetry in the dotted line.
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3580,10 +3567,10 @@ Draw an extra line to give each shape below one line of symmetry.
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3671,10 +3658,10 @@ Draw all of the lines of symmetry on the following shapes.
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3754,10 +3741,10 @@ tsymmetry
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:1:28</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3841,10 +3828,10 @@ Reflect this drawing in the dashed line.
 <p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3928,10 +3915,10 @@ The dotted line is a line of symmetry of a shape, which is partly drawn. On the 
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:18</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

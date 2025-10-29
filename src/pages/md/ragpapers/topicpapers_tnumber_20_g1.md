@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-20-g1"
 title: "TopicPaper - Number - 20 - G1"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "2"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prpcr question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>C2E22412-E021-4E4D-A39D-EB496D9E54C0</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "2"
 <p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -80,19 +80,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-11::10:02
-
-
-
-add colour in the box
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -143,7 +130,7 @@ add colour in the box
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prpcr question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>14E7D9BB-896F-4DD7-B682-0A66533FE48A</p>
 </div>
@@ -157,7 +144,7 @@ add colour in the box
 <p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -442,19 +429,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-11::10:03
-
-
-
-part a: use abbrev inside of inline text
-</div>
 
 <div class='review'>
 <ul class='review'>

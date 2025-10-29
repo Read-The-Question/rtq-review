@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-a"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper A"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "23"
 ---
 <div class='paper'>
@@ -1912,7 +1912,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>1B8867E6-DD66-4F3F-811C-A4B71ADFBF90</p>
 </div>
@@ -1926,7 +1926,7 @@ $
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2002,19 +2002,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-19::10:36
-
-
-
-Change cheaper by to difference
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2217,7 +2204,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>0C657190-6716-4EA4-B662-51AE68C07DC7</p>
 </div>
@@ -2231,7 +2218,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2482,7 +2469,7 @@ Total no. of acute angles $= 16$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>0738C4D1-432B-4D74-9BE2-10CFEEE41EBC</p>
 </div>
@@ -2496,7 +2483,7 @@ Total no. of acute angles $= 16$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2757,19 +2744,6 @@ Kite
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::15:34
-
-
-
-c: write the coordinates for 4th point in comments, and what quad. type it is too
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3311,10 +3285,10 @@ $3 \text{ hours}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-a:1:17</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3672,11 +3646,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Red = last part /rest reviwed
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3727,7 +3696,7 @@ Red = last part /rest reviwed
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>CE2F50A4-A29C-4267-8728-7D80877E6590</p>
 </div>
@@ -3741,7 +3710,7 @@ Red = last part /rest reviwed
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4239,43 +4208,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Main question working not required
-
-b: Second working
-
-Change to same as the first letter
-
-d: Change the first phrases to:
-
-If the number plate starts with A
-
-
-
-
-
-Main question working not required
-
-b: Second working
-
-Change to same as the first letter
-
-d: Change the first phrases to:
-
-If the number plate starts with A
-
-
-
-
-
-Comments do not seem to be complete, lets discuss tomorrow: uday
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4793,7 +4725,7 @@ Sam's current age $=12 \ \text{years}$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>AFAFC502-486F-4509-9231-546208F1D669</p>
 </div>
@@ -4807,7 +4739,7 @@ Sam's current age $=12 \ \text{years}$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5364,23 +5296,6 @@ Order of likelihood
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::15:38
-
-
-
-b: write whole to part ratio version of the answer
-
-
-
-c: is wrong, solve using ER and pure ratio
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5713,7 +5628,7 @@ TODOANSWER
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>54F14BD1-9891-460E-AADD-7CA13489DC77</p>
 </div>
@@ -5727,7 +5642,7 @@ TODOANSWER
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-5-g1"
 title: "TopicPaper - Fraction - 5 - G1"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "3"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prrl question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>5235BF01-DA75-4C84-A7A7-3B17AAB007EB</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "3"
 <p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -350,7 +350,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prrl question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>4CEC48DA-9BE7-4FD2-A909-5FABF34F36B2</p>
 </div>
@@ -364,7 +364,7 @@ $
 <p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -464,7 +464,7 @@ $\dfrac{5} {8}$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prrl question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>61BBB217-3B14-4521-9FBE-3800F9FD9D24</p>
 </div>
@@ -478,7 +478,7 @@ $\dfrac{5} {8}$
 <p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tinfer-3-pr"
 title: "TopicPaper - Infer - 3 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "5"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3904F594-B4D3-4B7D-A8BB-C89B3C502C59</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "5"
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:1:20</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -121,19 +121,6 @@ What do you notice about the numbers of different sized squares?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-11-09::20:50
-
-
-
-discuss with me
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -184,7 +171,7 @@ discuss with me
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A3E2A396-36A1-43D4-9B0A-20559805248E</p>
 </div>
@@ -192,13 +179,13 @@ discuss with me
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:1:24</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -229,17 +216,6 @@ $6 \ldots$
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Put a full stop after the first sentence.
-
-Use ldots
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -290,7 +266,7 @@ Use ldots
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>7BD08247-3200-4DE6-A32B-88ADF41548BB</p>
 </div>
@@ -298,13 +274,13 @@ Use ldots
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:1:19</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -347,19 +323,6 @@ $
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-28::01:56
-
-
-
-usage katex remove image
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -410,7 +373,7 @@ usage katex remove image
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>03E274FC-909B-4898-AD69-6E6B29753C96</p>
 </div>
@@ -418,13 +381,13 @@ usage katex remove image
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:1:17</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -461,19 +424,6 @@ $
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-28::01:50
-
-
-
-write using katex, remove image
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -524,7 +474,7 @@ write using katex, remove image
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>B389E924-DC78-45B0-8A6B-41E275E2C118</p>
 </div>
@@ -532,13 +482,13 @@ write using katex, remove image
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:1:18</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

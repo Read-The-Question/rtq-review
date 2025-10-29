@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tsymmetry-2-g2"
 title: "TopicPaper - Symmetry - 2 - G2"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "36"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "36"
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:33</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -105,10 +105,10 @@ Draw the reflection of the shaded shape on the grid.
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:1</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -239,10 +239,10 @@ Draw a shape with exactly four lines of symmetry in the space below.
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:9</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -326,10 +326,10 @@ On the grid below draw the reflection of the shape shown in the mirror line $AB$
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:41</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -475,10 +475,10 @@ On the grids below, show all the ways exactly two squares can be shaded so that 
 <p>oundle-school--11-plus--maths--2017--sample-paper-5:1:13</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -568,10 +568,10 @@ On the diagram below, shade some white squares until the shape has
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -655,10 +655,10 @@ Draw the lines of symmetry on the shape below :
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:1:7</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -747,10 +747,10 @@ Shade in one square to this pattern to give it one line of symmetry and draw on 
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:1:9</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -830,10 +830,10 @@ How many letters of the word **MATHEMATICS** do not have any lines of symmetry?
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:18</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -919,10 +919,10 @@ In how many ways can you join the two shapes shown below to make a figure with o
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1006,10 +1006,10 @@ Shade exactly three squares so that the shape has reflection symmetry about any 
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:30</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1093,10 +1093,10 @@ Shade the smallest number of squares so that the two dotted lines become lines o
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:31</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1180,10 +1180,10 @@ Reflect the shape in the dotted line.
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:24</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1292,10 +1292,10 @@ Draw all the lines of symmetry on the diagrams below
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:2:1</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1381,10 +1381,10 @@ Which hexagon do I shade for my final pattern to have exactly $2$ lines of symme
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1476,10 +1476,10 @@ The number of letters in the word PASTE that have line symmetry is
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:2:13</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1575,10 +1575,10 @@ How many of the six faces of a dice (shown below) have fewer than three lines of
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1670,10 +1670,10 @@ How many lines of a symmetry does a rectangle have?
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1790,10 +1790,10 @@ On the grid below, shade in three more squares so that the completed shape has a
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1917,10 +1917,10 @@ Draw all the lines of symmetry on this shape.
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:13</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2008,10 +2008,10 @@ How many lines of symmetry, if any, does each of these shapes have?
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2099,10 +2099,10 @@ Draw in the remainder of the shape.
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:15</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2190,10 +2190,10 @@ Put a tick next to each shape if the line drawn on it is a line of symmetry.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:23</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2302,10 +2302,10 @@ Draw the reflection of each shape in the given line.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:15</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2389,10 +2389,10 @@ Shade the diagram so that the dotted line is line of symmetry.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:7</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2476,10 +2476,10 @@ Which of these letters do not look the same when reflected in the mirror line sh
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:25</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2567,10 +2567,10 @@ Draw in all lines of symmetry on the shapes below.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:27</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2654,10 +2654,10 @@ Shade the least number of squares required to make the dotted line shown a line 
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2741,10 +2741,10 @@ Draw a reflection of the shape in the given line.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:23</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2828,10 +2828,10 @@ Reflect each shape in the dashed line.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:20</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2966,10 +2966,10 @@ Add **one** square to the picture drawn on the dotten grid below, so that the fi
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:22</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3094,10 +3094,10 @@ Draw the resulting tile on the grid below. You may complete the middle tile if y
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:29</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3274,10 +3274,10 @@ a kite
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:21</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3415,10 +3415,10 @@ How many millilitres of liquid are in this container?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:23</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3502,10 +3502,10 @@ Reflect the shape below in the dashed line.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:24</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3643,10 +3643,10 @@ On the grid below, draw a shape made up of $8$ little squares which has rotation
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:23</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

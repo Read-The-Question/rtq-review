@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tduplicatepaper-2"
 title: "TopicPaper - Duplicatepaper - 2"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "40"
 ---
 <div class='paper'>
@@ -16,7 +16,7 @@ questions_count: "40"
 # Section A
 <ul class='question decimal question_type_question list_type_decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A165AC46-F11A-4C30-987B-A0D4BE87279E</p>
 </div>
@@ -24,13 +24,13 @@ questions_count: "40"
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2:1:41</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -197,7 +197,7 @@ Not answer
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>545608C0-AEE2-438E-A85B-408FF3299F09</p>
 </div>
@@ -205,13 +205,13 @@ Not answer
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2:1:42</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -296,7 +296,7 @@ How many sweets do the girls have altogether?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>761E65BE-0EF1-47F4-9361-603333907312</p>
 </div>
@@ -304,13 +304,13 @@ How many sweets do the girls have altogether?
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2:1:43</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -379,7 +379,7 @@ A cuboid has faces with areas of $18cm^2 , 21cm^2$ and $42cm^2$. What are the le
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>7510C620-96C2-430B-ABE5-3596CBF3BA60</p>
 </div>
@@ -387,13 +387,13 @@ A cuboid has faces with areas of $18cm^2 , 21cm^2$ and $42cm^2$. What are the le
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2:1:44</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -482,7 +482,7 @@ What is her passcode?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3554AF39-6E13-4949-A0FF-A6D7ED800E79</p>
 </div>
@@ -490,13 +490,13 @@ What is her passcode?
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2:1:45</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -585,7 +585,7 @@ What numbers did she write down?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>443D2C70-2618-48C5-9F20-469AEE5FC394</p>
 </div>
@@ -593,13 +593,13 @@ What numbers did she write down?
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2:1:46</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -676,7 +676,7 @@ Breaking tiles and overlapping tiles is not allowed.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C2C51604-7EAF-4EB0-A00F-905B0F4904D9</p>
 </div>
@@ -684,13 +684,13 @@ Breaking tiles and overlapping tiles is not allowed.
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2:1:47</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -838,7 +838,7 @@ $b + \dfrac{1}{2} a$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>878966E9-DACC-479B-980E-03165F38845B</p>
 </div>
@@ -846,13 +846,13 @@ $b + \dfrac{1}{2} a$
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-2:1:48</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -953,10 +953,10 @@ What is the value of the triangle?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:1</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1046,7 +1046,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>AE94127A-A6E5-451C-AF3A-4F5A085A4D12</p>
 </div>
@@ -1054,13 +1054,13 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:2</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1153,10 +1153,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:3</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1228,7 +1228,7 @@ Write in numbers thirty-two thousand and twenty-seven.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>7EBB3EA2-A77F-47F0-A0B3-2669A86775B9</p>
 </div>
@@ -1236,13 +1236,13 @@ Write in numbers thirty-two thousand and twenty-seven.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:4</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1275,27 +1275,6 @@ $
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-11-20::10:23
-
-
-
-Sign in wrong place
-
-
-
-Reviewer: [ap] Date:2022-11-20::10:32
-
-
-
-Sign in wrong place
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1346,7 +1325,7 @@ Sign in wrong place
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3CB45AC3-FEE1-4876-AEE6-CE81B3F13048</p>
 </div>
@@ -1354,13 +1333,13 @@ Sign in wrong place
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:5</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1441,10 +1420,10 @@ $34024 \div 8$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1532,10 +1511,10 @@ How much  **more** water is needed to make $2 \ \text{litres}$?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:7</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1658,10 +1637,10 @@ $1 \quad 3 \quad 9  \quad 27 \quad \ldots \quad \ldots$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:8</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1749,10 +1728,10 @@ the perimeter remained the same? Circle your answer.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:9</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1836,10 +1815,10 @@ How much would seven bags of apples cost?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:10</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1925,10 +1904,10 @@ $0.25     \quad \dfrac{2}{9}     \quad 0.039     \quad \dfrac{4}{5}     \quad \d
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:11</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2008,10 +1987,10 @@ Write down the number which is $21$ less than $2000$.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2103,10 +2082,10 @@ For how long was the video recording?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:13</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2206,7 +2185,7 @@ Use this information to complete this table.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D15F1499-7F4F-4042-8573-F34CAE5C37B0</p>
 </div>
@@ -2214,13 +2193,13 @@ Use this information to complete this table.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:14</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2319,10 +2298,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:15</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2439,10 +2418,10 @@ was asked. How many pupils in total are in the class?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:16</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2526,10 +2505,10 @@ full. How much water can the tank hold altogether?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:17</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2625,10 +2604,10 @@ In the grid below, draw a square with an area of $2 \ \text{cm}^2$.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:18</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2749,10 +2728,10 @@ won
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:19</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2840,10 +2819,10 @@ She was then $10 \ \text{km}$ from Goring. How far apart are the towns?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:20</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2935,10 +2914,10 @@ How many pages are in his book?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:21</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3030,10 +3009,10 @@ Write how many of these tiles you can fit into each of the following shapes.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:22</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3127,10 +3106,10 @@ Fill in the missing numbers for this triangle:
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:23</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3239,10 +3218,10 @@ How many degrees has the minute hand moved between $3.55 \ \text{pm}$ and $5.15 
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:24</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3326,10 +3305,10 @@ long as it is wide, what is the area?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:25</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3415,10 +3394,10 @@ did he eat on the first day?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:26</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3508,10 +3487,10 @@ Queton to Toytown if you can only go from left to right?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:27</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3671,7 +3650,7 @@ $141$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>26B584AB-3338-405F-A4E0-BFFCD06342A6</p>
 </div>
@@ -3679,13 +3658,13 @@ $141$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:28</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3804,19 +3783,6 @@ $
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-11-20::12:26
-
-
-
-Write as separate subquestions
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3875,10 +3841,10 @@ Write as separate subquestions
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:29</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3978,10 +3944,10 @@ What shape is on card $3?$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:30</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4069,10 +4035,10 @@ How many children are there altogether?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:31</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4154,10 +4120,10 @@ What will the combined age be in $2 \ \text{years'}$ time?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:32</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

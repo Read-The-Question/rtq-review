@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-15-g1"
 title: "TopicPaper - Algebra - 15 - G1"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "36"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>

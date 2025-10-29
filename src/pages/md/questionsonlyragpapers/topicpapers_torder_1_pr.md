@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-torder-1-pr"
 title: "TopicPaper - Order - 1 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "3"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>F62029F3-98C7-4AEC-8332-75828A0B6863</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "3"
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:2:4</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -59,19 +59,6 @@ $\dfrac{2}{3}, \dfrac{5}{6}, \dfrac{7}{12}$
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [na] Date:2022-09-08::02:08
-
-
-
-Remove \quad no need of that.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -122,7 +109,7 @@ Remove \quad no need of that.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>788320ED-59E3-4C5B-AA2C-9F6759BB1531</p>
 </div>
@@ -130,13 +117,13 @@ Remove \quad no need of that.
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:24</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -159,19 +146,6 @@ $\dfrac{3}{5} \quad  0.58 \quad \dfrac{5}{8} \quad  62\% \quad  0.508$
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [na] Date:2022-09-08::21:56
-
-
-
-use \quad for spacing
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -222,7 +196,7 @@ use \quad for spacing
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>08EA488F-9096-42F2-947D-B325B679E4A3</p>
 </div>
@@ -230,13 +204,13 @@ use \quad for spacing
 <p>csse--11-plus--maths--2015--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -324,19 +298,6 @@ $\text{JET} \div \text{BAD} = \ldots$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-13::19:09
-
-
-
-letters in katex too with \text
-</div>
 
 <div class='review'>
 <ul class='review'>

@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tinfer-2-g1"
 title: "TopicPaper - Infer - 2 - G1"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "5"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prpcr question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>76BD5A47-947B-4CFE-B2CF-BA3C6D19D985</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "5"
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-c:1:21</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -83,27 +83,6 @@ $
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-11::08:44
-
-
-
-change this to a table with 2 columns
-
-
-
-9 = in column 1 and or not possible in column 2, drop \Box
-
-
-
-ask if not clear
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -154,7 +133,7 @@ ask if not clear
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prpcr question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>405CB4DE-C348-41DD-B2CE-ECA3400CD3A8</p>
 </div>
@@ -162,13 +141,13 @@ ask if not clear
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e:1:18</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -223,27 +202,6 @@ is a multiple of $3$
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-11::04:53
-
-
-
-change to a table
-
-
-
-Reviewer: [up] Date:2022-10-11::04:54
-
-
-
-remove \textunderscore, 2 columns with first one having \ldots
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -294,7 +252,7 @@ remove \textunderscore, 2 columns with first one having \ldots
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prpcr question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>4B31F3D3-1F82-477C-A0ED-CB4A824E2E15</p>
 </div>
@@ -302,13 +260,13 @@ remove \textunderscore, 2 columns with first one having \ldots
 <p>eltham-college--11-plus--maths--2020--sample-paper-2:2:3</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -333,19 +291,6 @@ What digit does each letter represent?
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-11::08:53
-
-
-
-add katex array based too apart from image
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -396,7 +341,7 @@ add katex array based too apart from image
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prpcr question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>12D440CC-797F-4783-B5E9-5BCC73EF7E3F</p>
 </div>
@@ -404,13 +349,13 @@ add katex array based too apart from image
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1:1:29</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -431,19 +376,6 @@ If there are $5$ Mondays, $5$ Tuesdays and $5$ Wednesdays in January, on what da
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-11::07:58
-
-
-
-write st in super script
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -502,10 +434,10 @@ write st in super script
 <p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:1:18</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

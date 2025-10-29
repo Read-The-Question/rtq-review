@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tnet-1-g2"
 title: "TopicPaper - Net - 1 - G2"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "28"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "28"
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -144,10 +144,10 @@ Which of the following are possible nets for a cube?
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2:1:19</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -235,10 +235,10 @@ Write the letters $(A, B, C, D, E)$ of the nets which do NOT make a cube.
 <p>bancrofts-school--11-plus--maths--2017--sample-paper-3:2:5</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -412,10 +412,10 @@ Who is directly in front of Noor?
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:30</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -505,10 +505,10 @@ Write the letter of the one shape below that is a net for the pentagonal prism.
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:28</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -594,10 +594,10 @@ Which net cannot be folded to make a triangular prism?
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -685,10 +685,10 @@ Shade the square that will be opposite the black square when the net is folded i
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -768,10 +768,10 @@ Draw a net of a triangular prism
 <p>csse--11-plus--maths--2015--sample-paper-2:1:10</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -902,10 +902,10 @@ In each part of the question below mark the square on the net that needs to be s
 <p>king-edwards-school--11-plus--maths--9999--sample-paper-1:3:3</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -999,10 +999,10 @@ Which of the dice below can be made from this net?
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:32</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1097,10 +1097,10 @@ Here is the net of the cube. Draw in the two missing shaded triangles.
 <p>oundle-school--11-plus--maths--2016--sample-paper-2:1:17</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1192,10 +1192,10 @@ Circle each diagram that is the net of a cube.
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:1:17</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1279,10 +1279,10 @@ The diagram shows the net of a cube. Which edge meets the edge $X$ when the net 
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:1:16</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1376,10 +1376,10 @@ Which of the following could not be the resulting shape?
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:1:13</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1465,10 +1465,10 @@ Circle the net(s) below which can be folded to make a cube.
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:28</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1556,10 +1556,10 @@ What are the missing numbers?
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:18</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1655,10 +1655,10 @@ This cardboard shape is cut out and folded into a cube. Circle the cube which co
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:2:5</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1756,10 +1756,10 @@ Which of the views below show the same cube as in $A$ and $B \text{?}$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:2:7</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1857,10 +1857,10 @@ Which letter is on the face opposite $M \text{?}$
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1977,10 +1977,10 @@ The number $2$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:13</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2064,10 +2064,10 @@ Circle the net which can be folded into a cube that looks different from the oth
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:32</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2215,10 +2215,10 @@ Write the number $6$ on the correct face on the diagram.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:26</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2304,10 +2304,10 @@ Circle the one which will **not** fold up to make a cube.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:36</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2403,10 +2403,10 @@ Fill in all the missing numbers.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:28</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2498,10 +2498,10 @@ Complete the net.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:30</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2596,10 +2596,10 @@ Circle the diagram below which **cannot** be a net of this cube.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:28</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2697,10 +2697,10 @@ Circle the net below which will make the cube described above.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:24</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2791,10 +2791,10 @@ The numbers $3$ and $4$ have already been placed for you.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:37</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

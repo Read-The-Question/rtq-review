@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tinfer-1"
 title: "TopicPaper - Infer - 1"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "40"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "40"
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3:1:22</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -107,10 +107,10 @@ Find for which of the $2$-digit square numbers the sum of the digits is greatest
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3:1:25</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -206,10 +206,10 @@ From the clues, work out the number that fits into the boxes.
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -299,10 +299,10 @@ $q$ is a whole number. Can $q^2$ ever be the same as $4q$?
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -392,10 +392,10 @@ $w$ is a number. Can $3w$ ever be less than $w$?
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -485,10 +485,10 @@ Two wodgets make a finkle. Five finkles make a splot. Three splots make a tink. 
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:24</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -576,10 +576,10 @@ Work out the codes for pictures $1, 2$ and $4$ and then decide which of boxes $A
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:2:25</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -657,7 +657,7 @@ Try to find a way to do the puzzle and show how you worked it out!)*
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C795B046-748D-4039-892F-949F9A2909FB</p>
 </div>
@@ -665,13 +665,13 @@ Try to find a way to do the puzzle and show how you worked it out!)*
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:26</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -750,43 +750,6 @@ Can you find a four digit number which is reversed when multiplied by $9?$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-06::17:11
-
-
-
-write using katex array
-
-
-
-Reviewer: [up] Date:2022-09-06::17:12
-
-
-
-write using katex array
-
-
-
-Reviewer: [up] Date:2022-09-08::16:15
-
-
-
-a: missed + sign
-
-
-
-Reviewer: [up] Date:2022-09-08::16:15
-
-
-
-a: missed + sign
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -845,10 +808,10 @@ a: missed + sign
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -988,10 +951,10 @@ Find the value of $\spadesuit$ in this magic square.
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1099,10 +1062,10 @@ What will happen to the robot? (Write $A, B, C, D$ or $E$ as your answer.)
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:29</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1213,7 +1176,7 @@ Which event ($X, Y$ or $Z$) is the *least* likely to happen?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5E4F0098-CAA7-4592-B30A-D0DBF4E45D87</p>
 </div>
@@ -1221,13 +1184,13 @@ Which event ($X, Y$ or $Z$) is the *least* likely to happen?
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:2:5</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1305,25 +1268,6 @@ How many more cubes will there be in the $11^\text{th}$ tower than in the $10^\t
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Remove bold and put towers in 
-
-Part b and c, Put th as a subscript e.g., 7^{th}
-
-
-
-Reviewer: [up] Date:2022-10-11::20:03
-
-
-
-th should be in \text{}
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1382,10 +1326,10 @@ th should be in \text{}
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2:1:28</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1475,10 +1419,10 @@ What number should replace $x$?
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2:1:30</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1574,10 +1518,10 @@ Match each model $A, B, C, D$ with its new position $1, 2, 3, 4$.
 <p>bancrofts-school--11-plus--maths--2017--sample-paper-3:2:7</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1733,10 +1677,10 @@ $
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:18</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1820,10 +1764,10 @@ What is the smallest number of colours needed?
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:23</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1919,10 +1863,10 @@ Put a ring around the correct answer.
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:28</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2024,10 +1968,10 @@ What is the correct order for the three coloured discs?
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4:2:5</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2125,10 +2069,10 @@ Which one is it?
 <p>bancrofts-school--11-plus--maths--2020--sample-paper-5:1:10</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2271,10 +2215,10 @@ $1 + 2 + 4 + 8 + \ldots + 1024$
 <p>bancrofts-school--11-plus--maths--2020--sample-paper-6:1:15</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2394,10 +2338,10 @@ What is the $107 ^ \text{th}$ symbol in the sequence?
 <p>bancrofts-school--11-plus--maths--2020--sample-paper-6:1:16</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2487,10 +2431,10 @@ How many cans are there in Jamal's stack?
 <p>bancrofts-school--11-plus--maths--2020--sample-paper-6:1:35</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2588,10 +2532,10 @@ Which one is it?
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:20</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2745,10 +2689,10 @@ Find the number of squares used for pattern number $9$.
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:24</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2836,10 +2780,10 @@ Fill in the gaps in the calculations below (none of the gaps are zero):
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:33</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2923,10 +2867,10 @@ If the back page is $28$, what are the numbers of the other three missing pages?
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:36</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3061,10 +3005,10 @@ calculation $4 \spadesuit 32 \div 12$, so that the answer is a whole number?
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:37</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3199,7 +3143,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>B004FD47-3C02-4E91-9E92-3ABF37CC8EBE</p>
 </div>
@@ -3207,13 +3151,13 @@ $
 <p>benenden-school--11-plus--maths--2020--sample-paper-2:2:1</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3245,19 +3189,6 @@ The symbols “<”  and “>” indicate whether numbers are “less than” or
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-06::19:43
-
-
-
-remove \bold
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3316,10 +3247,10 @@ remove \bold
 <p>benenden-school--11-plus--maths--2020--sample-paper-2:2:2</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3407,10 +3338,10 @@ Complete the grid so that the numbers $1$ to $9$ occur (unrepeated) in every row
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1:2:7</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3506,10 +3437,10 @@ Can you work out the order they sat in (left to right) from the information belo
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1:2:14</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3628,7 +3559,7 @@ What is the value of the question mark?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>20C1F7BC-070B-4D1A-A298-9AA85F8644A6</p>
 </div>
@@ -3636,13 +3567,13 @@ What is the value of the question mark?
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3681,19 +3612,6 @@ $
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-10::14:16
-
-
-
-replace %waffles% with katex array way of writing the detailed addition, refer detailed addition tags for reference
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3744,7 +3662,7 @@ replace %waffles% with katex array way of writing the detailed addition, refer d
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C3A742AC-6B5D-47FB-8A76-E187A7C93BDE</p>
 </div>
@@ -3752,13 +3670,13 @@ replace %waffles% with katex array way of writing the detailed addition, refer d
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:30</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3789,19 +3707,6 @@ $100 - 99 + 98 - 97 + 96 - 95 + \ldots$ and so on $\ldots + 2 - 1$.
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [na] Date:2022-09-08::20:23
-
-
-
-nuber ==> number
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3852,7 +3757,7 @@ nuber ==> number
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>03C355C4-4E8A-4762-80F6-AABE50488326</p>
 </div>
@@ -3860,13 +3765,13 @@ nuber ==> number
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:9</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4024,7 +3929,7 @@ $\bold{1600} \rightarrow \large \boxed{} \ \boxed{} \ \boxed{} \ \boxed{} \\\\$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>FD15F30C-BFB8-4416-A0C4-58C911BF1D5E</p>
 </div>
@@ -4032,13 +3937,13 @@ $\bold{1600} \rightarrow \large \boxed{} \ \boxed{} \ \boxed{} \ \boxed{} \\\\$
 <p>csse--11-plus--maths--2015--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4071,27 +3976,6 @@ What value must be placed in the shaded box?
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [na] Date:2022-09-08::22:18
-
-
-
-point (.) instead of -
-
-
-
-Reviewer: [up] Date:2022-10-13::19:11
-
-
-
-use boxed instead of box
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4142,7 +4026,7 @@ use boxed instead of box
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>93D90ADD-9783-488E-8E72-B211E323F0BD</p>
 </div>
@@ -4150,13 +4034,13 @@ use boxed instead of box
 <p>csse--11-plus--maths--2015--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4243,31 +4127,6 @@ $\text{BAG} + \ldots = \text{GALA}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-11::03:35
-
-
-
-main question use \ldots instead of ....
-
-
-
-a: remove  around YES
-
-remove  around HEAD, join all in single katex instead of multiple $$
-
-remove  wherever used around katex,
-
-
-
-discuss when doing this one so can fix all in one go
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4318,7 +4177,7 @@ discuss when doing this one so can fix all in one go
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>476838F2-2384-4350-B7D7-F6D7A1D8855B</p>
 </div>
@@ -4326,13 +4185,13 @@ discuss when doing this one so can fix all in one go
 <p>csse--11-plus--maths--2016--sample-paper-3:1:3</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4420,21 +4279,6 @@ Insert the correct number in the two unshaded positions to part complete this ma
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [na] Date:2022-09-08::22:03
-
-
-
-i)Instead of %image% create table to show the content.
-
-ii) Make obvious changes too like removing bold etc.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4493,10 +4337,10 @@ ii) Make obvious changes too like removing bold etc.
 <p>csse--11-plus--maths--2017--sample-paper-4:1:8</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4580,7 +4424,7 @@ Fill in the numbers on the three bricks to complete this pyramid.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C4F9FDF3-39A5-4908-BCFD-108AC03779C8</p>
 </div>
@@ -4588,13 +4432,13 @@ Fill in the numbers on the three bricks to complete this pyramid.
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:38</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4638,31 +4482,6 @@ How many people favoured "the Spaceship"?
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-use table instead of image
-
-
-
-Reviewer: [up] Date:2022-10-12::15:11
-
-
-
-Please read comments and make changes!!
-
-
-
-Reviewer: [up] Date:2022-10-12::15:11
-
-
-
-add a table here apart from the image.
-</div>
 
 <div class='review'>
 <ul class='review'>

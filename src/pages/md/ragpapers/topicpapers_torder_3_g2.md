@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-torder-3-g2"
 title: "TopicPaper - Order - 3 - G2"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "9"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>294B1C8E-3A75-4E3B-93E8-579CF1EB4C09</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "9"
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -102,19 +102,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-24::12:20
-
-
-
-Change 1.50 to 1.5
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -319,7 +306,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>55915BFE-F660-43D9-B855-A23AD77C520A</p>
 </div>
@@ -333,7 +320,7 @@ $
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -394,19 +381,6 @@ Middle number $= 3.564$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-08::18:40
-
-
-
-Remove now
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -457,7 +431,7 @@ Remove now
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>BE673146-6558-409C-B19C-DD7DE3740A33</p>
 </div>
@@ -471,7 +445,7 @@ Remove now
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -557,19 +531,6 @@ Number in the middle $= \dfrac {2} {3}$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-25::13:35
-
-
-
-Change 0.70 to 0.7
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -620,7 +581,7 @@ Change 0.70 to 0.7
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>C12FD4E7-441B-4A1E-BD78-D6218501E0D9</p>
 </div>
@@ -634,7 +595,7 @@ Change 0.70 to 0.7
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -720,19 +681,6 @@ Number in the middle $= 33\%$.
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-25::13:36
-
-
-
-Write in descending order
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -783,7 +731,7 @@ Write in descending order
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>51948298-6710-4968-BC7A-6F04A5AA66B1</p>
 </div>
@@ -797,7 +745,7 @@ Write in descending order
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -883,23 +831,6 @@ Number in the middle $= \dfrac{2}{3}$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-25::13:41
-
-
-
-Change 0.60 to 0.6
-
-Change 0.70 to 0.7
-
-Write 0.666 as 0.6 with a vinculum
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1166,7 +1097,7 @@ In $D$, the terms are not getting bigger.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>F6128DD4-ECC2-431B-8EF0-CFFB29805A22</p>
 </div>
@@ -1180,7 +1111,7 @@ In $D$, the terms are not getting bigger.
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1432,21 +1363,6 @@ Closest number $= 0.83 = \dfrac {10} {12}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-25::13:45
-
-
-
-1 - 0.625 is 0.375
-
-Change to 1.2 - 1
-</div>
 
 <div class='review'>
 <ul class='review'>

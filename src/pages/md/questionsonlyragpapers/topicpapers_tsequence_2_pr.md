@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tsequence-2-pr"
 title: "TopicPaper - Sequence - 2 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "2"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5D4A0605-93BB-4D76-B16D-57CA50B4DB4A</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "2"
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b:1:6</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -116,7 +116,7 @@ $3, \quad 6, \quad 12, \quad \ldots, \quad 48, \quad  \ldots$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8674CDB7-C298-4D83-9404-B2F43A623821</p>
 </div>
@@ -124,13 +124,13 @@ $3, \quad 6, \quad 12, \quad \ldots, \quad 48, \quad  \ldots$
 <p>kent-college--11-plus--maths--9999--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -204,23 +204,6 @@ Write down in words the rule to go from one shape to the next.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Part b) Put a full stop, complete the table
-
-
-
-Reviewer: [na] Date:2022-09-10::04:14
-
-
-
-instead of %table% create the table.
-</div>
 
 <div class='review'>
 <ul class='review'>

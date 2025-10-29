@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-i"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper I"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "26"
 ---
 <div class='paper'>

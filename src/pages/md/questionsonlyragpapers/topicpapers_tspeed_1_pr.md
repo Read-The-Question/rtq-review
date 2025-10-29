@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tspeed-1-pr"
 title: "TopicPaper - Speed - 1 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "11"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>F5204EF2-0A1F-4701-81B0-F29A4853DAE2</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "11"
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:22</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -122,7 +122,7 @@ How far is Leeds from London?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>80216EB3-AC2A-47E8-903C-F9BCD2A07811</p>
 </div>
@@ -130,13 +130,13 @@ How far is Leeds from London?
 <p>benenden-school--11-plus--maths--2020--sample-paper-1:2:1</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -209,7 +209,7 @@ How many hours will it take her to reach the top of the hole?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>06304292-3FB2-45D8-B196-9139212A69A7</p>
 </div>
@@ -217,13 +217,13 @@ How many hours will it take her to reach the top of the hole?
 <p>benenden-school--11-plus--maths--2020--sample-paper-1:2:2</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -294,7 +294,7 @@ If it travels at a constant speed of $60 \ \text{km/hr}$, how long will it take 
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5612B8B3-1CD7-4B9F-A4AF-FC459A544D71</p>
 </div>
@@ -302,13 +302,13 @@ If it travels at a constant speed of $60 \ \text{km/hr}$, how long will it take 
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -335,19 +335,6 @@ Who was the quickest and who was the slowest?
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-13::18:56
-
-
-
-remove quickest and slowest at the end
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -398,7 +385,7 @@ remove quickest and slowest at the end
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>34226098-78EE-409D-BF39-0A19ED65F3BB</p>
 </div>
@@ -406,13 +393,13 @@ remove quickest and slowest at the end
 <p>csse--11-plus--maths--2016--sample-paper-3:1:10</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -566,7 +553,7 @@ How long, in hours and minutes, will it take Peter to complete the whole of rout
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8393B54D-38BD-496B-B052-8809BC6D3BFF</p>
 </div>
@@ -574,13 +561,13 @@ How long, in hours and minutes, will it take Peter to complete the whole of rout
 <p>csse--11-plus--maths--2016--sample-paper-3:1:12</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -702,7 +689,7 @@ How many different routes does the ant choose from?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>2345E090-B8BA-4D8C-BDCC-6077A8A3A4E5</p>
 </div>
@@ -710,13 +697,13 @@ How many different routes does the ant choose from?
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:28</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -814,7 +801,7 @@ Gary can walk at $5 \ \text{km}$ per hour. How far will he still have left to wa
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C080FD51-AF57-4871-AB17-719829BD7FA9</p>
 </div>
@@ -822,13 +809,13 @@ Gary can walk at $5 \ \text{km}$ per hour. How far will he still have left to wa
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:28</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -926,7 +913,7 @@ Sarika can walk at $4 \ \text{km}$ per hour. How far will she still have left to
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9E53081F-3621-458B-81D4-FF43E12EABA0</p>
 </div>
@@ -934,13 +921,13 @@ Sarika can walk at $4 \ \text{km}$ per hour. How far will she still have left to
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:11</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1038,7 +1025,7 @@ What was his average speed home again if it takes him $2\dfrac{1}{2} \ \text{hou
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>97AB05D4-D83E-44BB-AA42-C8C86F0526B2</p>
 </div>
@@ -1046,13 +1033,13 @@ What was his average speed home again if it takes him $2\dfrac{1}{2} \ \text{hou
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:15</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1071,19 +1058,6 @@ A  space ship  travels  at  $193 \ \text{metres   per   second}$   for  $5  \ \t
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-27::20:03
-
-
-
-minutes should be in katex too
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1134,7 +1108,7 @@ minutes should be in katex too
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E6B83B3B-E7BD-4594-8B68-CF66D6D588CC</p>
 </div>
@@ -1142,13 +1116,13 @@ minutes should be in katex too
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:1:28</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1212,35 +1186,6 @@ What is the least number of **additional** minutes that she will take to cycle t
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-15::05:06
-
-
-
-remove a b they are not subquestions they are just placeholder to write answers for main questions
-
-
-
-Reviewer: [up] Date:2022-10-15::05:06
-
-
-
-c: fix unit
-
-
-
-Reviewer: [up] Date:2022-10-15::05:06
-
-
-
-c: remove ____
-</div>
 
 <div class='review'>
 <ul class='review'>

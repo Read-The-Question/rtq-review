@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2017-sample-paper-2"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2017 - Sample Paper 2"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "43"
 ---
 <div class='paper'>
@@ -972,7 +972,7 @@ Red received five more votes than yellow
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>EFDC97F3-BF79-4BBA-8F95-EBC5D461BBD6</p>
 </div>
@@ -986,7 +986,7 @@ Red received five more votes than yellow
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1665,10 +1665,10 @@ Step $= 19$
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:13</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3082,7 +3082,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>27EEE3D8-3D73-41C4-9074-5E270CFC1767</p>
 </div>
@@ -3096,7 +3096,7 @@ $
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3165,27 +3165,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-20::11:03
-
-
-
-received not recieved
-
-
-
-Reviewer: [ap] Date:2022-10-20::11:04
-
-
-
-received not recieved
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3429,19 +3408,6 @@ $84$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Should explain more, find LCM and then show 84 is a multiple of 42,
-
-
-
-Let me find out a question which is close to this
-
-
-
-TODO: Uday
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4286,7 +4252,7 @@ Shoe size of sixth boy $= 6$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8A6F744F-D734-4C43-B480-D72FFCB43B8C</p>
 </div>
@@ -4300,7 +4266,7 @@ Shoe size of sixth boy $= 6$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4357,19 +4323,6 @@ $1$ can only be divided by one number, $1$ itself, so with this definition $1$ i
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-03::09:27
-
-
-
-write better description in one sentence
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4420,7 +4373,7 @@ write better description in one sentence
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>56CDE29E-3430-4CC0-ABE8-0A8435F1F264</p>
 </div>
@@ -4434,7 +4387,7 @@ write better description in one sentence
 <p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4538,19 +4491,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::11:55
-
-
-
-add the long way answer too
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5912,7 +5852,7 @@ Number of pages in the book $= 69$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prrl question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>37538D8A-36D1-4BD7-8700-0F24FECAEE5D</p>
 </div>
@@ -5926,7 +5866,7 @@ Number of pages in the book $= 69$
 <p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

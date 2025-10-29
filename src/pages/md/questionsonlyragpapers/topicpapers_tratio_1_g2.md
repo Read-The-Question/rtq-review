@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tratio-1-g2"
 title: "TopicPaper - Ratio - 1 - G2"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "34"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "34"
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -109,10 +109,10 @@ One quarter of the pupils in a class are girls. The rest are boys. What is the r
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -237,10 +237,10 @@ The London Ear is $80 \ \text{m}$ tall and his model is $150 \ \text{cm}$ tall. 
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -329,10 +329,10 @@ How much water must be added to make $500 \ \text{millilitres}$ of drink?
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -474,10 +474,10 @@ When Chris has run $18$ laps, how many laps has Dave run?
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -602,10 +602,10 @@ How much fibre is there in one slice?
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2:1:22</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -689,10 +689,10 @@ How many more grams will $6 \ \text{litres}$ of water weigh compared to $5 \ \te
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:27</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -776,10 +776,10 @@ How many maltesers would weigh the same as $9$ toffees?
 <p>bancrofts-school--11-plus--maths--2020--sample-paper-6:1:11</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -900,10 +900,10 @@ What fraction of the large square is shaded?
 <p>bancrofts-school--11-plus--maths--2020--sample-paper-6:1:27</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -987,10 +987,10 @@ How many maltesers would weigh the same as $9$ toffees?
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:16</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1099,10 +1099,10 @@ How much **cordial** does she need to make **three** glasses of squash?
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1247,10 +1247,10 @@ How many minions is he going to need?
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:2:4</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1342,10 +1342,10 @@ Work out the number of **girls** at Casterbridge Academy.
 <p>colfes-school--11-plus--maths--9999--sample-paper:1:14</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1429,10 +1429,10 @@ How many millimetres are there in $25.1 \ \text{metres}$?
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:34</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1528,10 +1528,10 @@ Which is nearest to $1 \ \text{gallon}$?
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:36</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1614,10 +1614,10 @@ $48$ pencils cost $\pounds 11.04$.  What is the cost of each pencil?
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:3</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1701,10 +1701,10 @@ How many chocolate bars are in $16$ boxes?
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:34</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1802,10 +1802,10 @@ Which is nearest to $1 \ \text{gallon}$?
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:36</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1885,10 +1885,10 @@ $36$ pencils cost $\pounds 7.92$.  What is the cost of each pencil?
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:14</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1968,10 +1968,10 @@ There is $5.5 \ \text{g}$ of sugar in every $10 \ \text{g}$ of jam. How much sug
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:34</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2069,10 +2069,10 @@ Which is nearest to $1 \ \text{gallon}$?
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:36</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2155,10 +2155,10 @@ $36$ pencils cost $\pounds 7.92$. What is the cost of each pencil?
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:8</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2238,10 +2238,10 @@ One pint is $568\ \text{ml}$. How many ml is half a pint?
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:20</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2324,10 +2324,10 @@ Gym membership costs $\pounds 16$ a month. How much will it cost for a year?
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b:1:13</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2413,10 +2413,10 @@ prime number written on them, giving your answer as a decimal.
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b:1:18</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2527,10 +2527,10 @@ Work out how many chimps would be required to eat $21$ bananas in $8 \ \text{min
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-c:1:13</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2612,10 +2612,10 @@ Work out how long the plasters would last if the medical centre were having to t
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e:1:19</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2697,10 +2697,10 @@ Calculate how long it will take to clean the flat if they work together.
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-h:1:12</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2811,10 +2811,10 @@ How many metres does he buy?
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:5</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2896,10 +2896,10 @@ How many pounds was $\text{\textdollar} 1000$ worth?
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:33</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2987,10 +2987,10 @@ How long would Alan take on his own?
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:30</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3076,10 +3076,10 @@ What do $1$ apple and $1$ orange weigh?
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:35</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3163,10 +3163,10 @@ How many hours would it have taken $5$ builders to build the same wall?
 <p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3262,10 +3262,10 @@ There were $15$ cartons of pineapple juice taken. How many cartons of orange jui
 <p>highgate-school--11-plus--maths--9999--sample-paper-a:1:3</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

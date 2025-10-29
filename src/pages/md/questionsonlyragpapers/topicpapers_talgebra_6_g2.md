@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-talgebra-6-g2"
 title: "TopicPaper - Algebra - 6 - G2"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "36"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "36"
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:1:20</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -109,10 +109,10 @@ I'm thinking of two numbers. When I double the first and add it to the second I 
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:1:22</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -235,10 +235,10 @@ In Miss Thompson's class, there are $5$ girls for every $4$ boys, and one-fifth 
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:1:25</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -361,10 +361,10 @@ Zack thinks of a number. When he triples the number and subtracts the answer fro
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -444,10 +444,10 @@ I think of a number, multiply it by three and add $7$. The answer is $25$. What 
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -556,10 +556,10 @@ $\ \boxed{\phantom{9}} - 13 = 32$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:1:4</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -668,10 +668,10 @@ How many tokens do the three girls bring in total?
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:1:9</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -812,10 +812,10 @@ $N - 6 = N \div 2$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:1:16</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -939,10 +939,10 @@ A customer pays $\pounds110$. How many copies of the leaflet were printed?
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:1:11</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1055,10 +1055,10 @@ If there are $750$ pupils at the school, how many stay for lunch?
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:1:12</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1138,10 +1138,10 @@ If $25\%$ of the cost of building a boat is for materials. Calculate the cost of
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:1:16</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1278,10 +1278,10 @@ $3x - 1 = x + 7$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:1:9</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1398,10 +1398,10 @@ $4 ( x+ 2 ) - 5 ( x- 3 )$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:1:17</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1539,10 +1539,10 @@ The gradient of the line is $3$. On the graph, draw a different straight line wi
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:1:20</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1679,10 +1679,10 @@ $t^2 = 4s$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:1:22</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1801,10 +1801,10 @@ Show your working.
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1884,10 +1884,10 @@ I think of a number and multiply it by $3$ and then subtract $6$. If the result 
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2042,10 +2042,10 @@ $
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2156,10 +2156,10 @@ How many computers does she sell if she earns $\pounds 12600?$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:19</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2282,10 +2282,10 @@ $\dfrac{3ac}{2b^3}$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:22</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2406,10 +2406,10 @@ ${?} \quad \spadesuit \quad 3 \quad \spadesuit \quad 1 = 8$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:23</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2495,10 +2495,10 @@ How many books did he take with him when he left for his holiday?
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:31</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2580,10 +2580,10 @@ What would it cost me if I buy $3$ packets of crisps and $4$ drinks?
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:9</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2663,10 +2663,10 @@ Three bicycles are priced at $\pounds 79, \pounds 80$ and $\pounds 84$. If the s
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:11</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2748,10 +2748,10 @@ $300 \ \text{km}$. How much did he pay?
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:16</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2876,10 +2876,10 @@ Sam and Julia find there is one number for which, if they both start from that n
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:19</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2996,10 +2996,10 @@ How many kennels are there?
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:22</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3173,10 +3173,10 @@ If $p \ \Psi\  q = 20$, find all the pairs of whole numbers that $p$ and $q$ cou
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:25</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3287,10 +3287,10 @@ At the end of which day are there less than $2000$ leaves?
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:28</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3370,10 +3370,10 @@ In a barn there are only horses and people. If there are $12$ heads and $34$ leg
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:7</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3455,10 +3455,10 @@ What is the distance from the first post to the last?
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:12</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3538,10 +3538,10 @@ Ali has six times as much chocolate as Beth. Carl has twice as much chocolate as
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:16</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3650,10 +3650,10 @@ $2a + 10b - a - 14b$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:18</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3770,10 +3770,10 @@ How many pupils chose green or blue?
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:19</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3855,10 +3855,10 @@ His return train fare is $\pounds 3.80$. If he leaves home with a $\pounds 20$ n
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:20</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3981,10 +3981,10 @@ $3(x - 2) - 2(x - 3) = 4$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:22</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

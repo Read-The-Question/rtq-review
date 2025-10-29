@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2018-sample-paper-9"
 title: "Sevenoaks School - 11 Plus - Maths - 2018 - Sample Paper 9"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "20"
 ---
 <div class='paper'>
@@ -2134,7 +2134,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>211838E2-E95A-47E2-855F-B9E96DAB6F7D</p>
 </div>
@@ -2148,7 +2148,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2793,7 +2793,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>42D296D1-9C15-4407-8B49-817D8F7E5CB6</p>
 </div>
@@ -2807,7 +2807,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3199,7 +3199,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>408B312B-6431-4F80-A288-66DBFDD7A7F3</p>
 </div>
@@ -3207,13 +3207,13 @@ $
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:15</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3284,25 +3284,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Put a tag for the question please
-
-Correct katex error.
-
-
-
-Put $\begin {aligned} and \end {aligned}$ (totally missing)
-
-Pertimeter of a rectangle =  2 x length x width = sum of all sides
-
-= 6.1 + 6.1 + 3.6 + 3.6
-
-= 12.2 + 7.2
-
-= 19.4 \ \text {cm}
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3353,7 +3334,7 @@ Pertimeter of a rectangle =  2 x length x width = sum of all sides
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>BF1E2A8F-F5C7-4634-912A-F66697436636</p>
 </div>
@@ -3361,13 +3342,13 @@ Pertimeter of a rectangle =  2 x length x width = sum of all sides
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:16</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3442,31 +3423,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Add tag please \tarea
-
-
-
-Area of right triangel = 1/2 x base x height
-
-= (katex error) \dfrac 1/2 4.5 x 8
-
-= 4.5 x 8 / 2
-
-= 4.5 x 4 x 2 / 2
-
-= cancel
-
-= 4.5 x 4
-
-= 18 \ \text{cm}^2
-
-Blue answer change $18 \ \text{cm}^2$ 
-
-
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3517,7 +3473,7 @@ Blue answer change $18 \ \text{cm}^2$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>AC6EBE4A-8D1B-4267-BD03-E8044D4BB3DC</p>
 </div>
@@ -3525,13 +3481,13 @@ Blue answer change $18 \ \text{cm}^2$
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:17</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3648,51 +3604,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Put a tag for the question please.
-
-As per the question, the wire piece of 42 cm is bent into the shape of a rectangle. 
-
-
-
-The total length of the wire is perimeter of the rectangle. The length of the rectangle is twice its width.
-
-
-
-Lets take the width = w
-
-
-
-2 x (length x width)  = Perimeter
-
-2 x (2w x w) = 42 cm
-
-4w + 2w = 42 
-
-6w = 42 
-
-w = 6 x 7 / 6
-
-w = 7 cm
-
-
-
-Lets find the area of the rectangle.
-
-
-
-Area of a rectangle = length x width
-
-= 2x7 x 7 
-
-= 98 cm^2
-
-
-
-
-</div>
 
 <div class='review'>
 <ul class='review'>

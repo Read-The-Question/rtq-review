@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-17-g1"
 title: "TopicPaper - Number - 17 - G1"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "2"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prpcr question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>66F9DB99-346C-4805-95D0-3C0EA0A096D8</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "2"
 <p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -333,43 +333,6 @@ Number $= 6$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-10::11:05
-
-
-
-write part e using a table
-
-
-
-show from 1 to 6 and when you get 6, stop further work.
-
-
-
-table should be:
-
-
-
-number, factors, sum, perfect number yes or no
-
-
-
-ask if not clear
-
-
-
-Reviewer: [up] Date:2022-09-11::12:12
-
-
-
-the table is not complete, the calculations are not complete, i have done first 2, you fix rest of them
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -420,7 +383,7 @@ the table is not complete, the calculations are not complete, i have done first 
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prpcr question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>3D815431-0738-48E8-8632-A526A05E2823</p>
 </div>
@@ -434,7 +397,7 @@ the table is not complete, the calculations are not complete, i have done first 
 <p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -687,43 +650,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-10::11:10
-
-
-
-remove \quad in the answers
-
-
-
-Reviewer: [up] Date:2022-09-10::11:13
-
-
-
-add lets verify step like B3CD0A36-BE2D-4EB4-845F-D4413E955B1F.
-
-
-
-Reviewer: [up] Date:2022-09-10::11:13
-
-
-
-part c is wrong, RHS wrong
-
-
-
-Reviewer: [up] Date:2022-09-11::11:35
-
-
-
-katex broken, spacing around boxes fix
-</div>
 
 <div class='review'>
 <ul class='review'>

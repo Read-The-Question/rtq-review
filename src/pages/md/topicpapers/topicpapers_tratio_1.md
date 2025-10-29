@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tratio-1"
 title: "TopicPaper - Ratio - 1"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "40"
 ---
 <div class='paper'>
@@ -1409,7 +1409,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prpcr question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>42717D42-3942-4015-AD45-A734CADB14A9</p>
 </div>
@@ -1423,7 +1423,7 @@ $
 <p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1668,19 +1668,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-07::16:47
-
-
-
-part c: do using ratio way all different types of answers
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1731,7 +1718,7 @@ part c: do using ratio way all different types of answers
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prpcr question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>08D5A505-1DF8-4590-802C-E8295C988258</p>
 </div>
@@ -1745,7 +1732,7 @@ part c: do using ratio way all different types of answers
 <p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1959,19 +1946,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-06::16:37
-
-
-
-do part b using ratio , not per the template
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2348,7 +2322,7 @@ Number of maltesers $= 27$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>48E813AC-A75A-4A24-9520-B1913A80E9EF</p>
 </div>
@@ -2362,7 +2336,7 @@ Number of maltesers $= 27$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2605,21 +2579,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-a: add equivalent ratio version too
-
-discuss the steps for ratio one, difficult to write all
-
-
-
-Header Fraction : Volume
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -6540,7 +6499,7 @@ How long would Alan take on his own?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>CB65FC73-DF41-475D-8FB9-CAF0848A6185</p>
 </div>
@@ -6554,7 +6513,7 @@ How long would Alan take on his own?
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7039,7 +6998,7 @@ Number of cartons of oranges $= 45$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C</p>
 </div>
@@ -7053,7 +7012,7 @@ Number of cartons of oranges $= 45$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7630,7 +7589,7 @@ Weight of all the $3$ pets together $= 27 \ \text{kg}$.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3F99FFBD-9694-4BED-AA6E-D13CBDE7D0A1</p>
 </div>
@@ -7644,7 +7603,7 @@ Weight of all the $3$ pets together $= 27 \ \text{kg}$.
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8256,15 +8215,6 @@ Value in second square $= 45$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-a: Solve using whole to part ratio, refer CB7EF112-E190-4553-823D-BE6A00EE6C10
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -8315,7 +8265,7 @@ a: Solve using whole to part ratio, refer CB7EF112-E190-4553-823D-BE6A00EE6C10
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6988D985-5AC0-40DF-9615-C7003D875089</p>
 </div>
@@ -8329,7 +8279,7 @@ a: Solve using whole to part ratio, refer CB7EF112-E190-4553-823D-BE6A00EE6C10
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8707,43 +8657,6 @@ Answer $= 91.8 \ \text{kroner}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-15::20:19
-
-
-
-a:
-
-
-
-should this be done using ratio or do we have to just refer the graph? look at pdf.
-
-write \pounds instead of england writer kroner instead of norway
-
-instead of \"Amount of kroner I get for\" just write Answer $= ...$
-
-
-
-Reviewer: [up] Date:2022-09-15::20:19
-
-
-
-b: same comments as a
-
-
-
-Reviewer: [up] Date:2022-09-15::20:20
-
-
-
-c: same as a and b
-</div>
 
 <div class='review'>
 <ul class='review'>

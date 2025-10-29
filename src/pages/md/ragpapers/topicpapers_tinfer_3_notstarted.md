@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tinfer-3-notstarted"
 title: "TopicPaper - Infer - 3 - NOTSTARTED"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "38"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -4212,11 +4212,6 @@ The resulting shape will result in $24$ edges.
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-No need to solve this question. Ill put in Red state. Contact me if u have any suggestion
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4581,11 +4576,6 @@ it can be observed that the **point D** finishes in the same position as it was 
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-U took reference?? Ill put in Red state. Contact me if u have any suggestion
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -7356,11 +7346,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Wrong answer , wrong way of working leave  a line before $
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -7717,11 +7702,6 @@ $1$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-We are not supposed to solve ttable change the rag to red or amber
-</div>
 
 <div class='review'>
 <ul class='review'>

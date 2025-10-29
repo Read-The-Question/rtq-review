@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tmoney-1-pr"
 title: "TopicPaper - Money - 1 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "4"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>7BEB417D-26EE-44E0-80AF-5F08DF8C011B</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "4"
 <p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -89,27 +89,6 @@ The first one is done for you.
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-06::19:52
-
-
-
-write a table
-
-
-
-Reviewer: [up] Date:2022-10-13::12:41
-
-
-
-please look at comments, why this is marked PRPCC?
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -160,7 +139,7 @@ please look at comments, why this is marked PRPCC?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9242988C-D102-4109-9B9F-6055B5BB98FB</p>
 </div>
@@ -168,13 +147,13 @@ please look at comments, why this is marked PRPCC?
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:3:2</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -276,7 +255,7 @@ How many cans of lemonade were sold that day?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>220A15B1-DE6B-4182-AB32-E904EA0D4428</p>
 </div>
@@ -284,13 +263,13 @@ How many cans of lemonade were sold that day?
 <p>csse--11-plus--maths--2016--sample-paper-3:1:8</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -388,21 +367,6 @@ How much extra will Ola collect, in total, if he completes the extra $2 \ \text{
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [na] Date:2022-09-08::22:10
-
-
-
-i) in table remove spacing between value and unit.
-
-ii) Obvious changes required as well like removing bold, \ldots for .... (in table) etc.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -453,7 +417,7 @@ ii) Obvious changes required as well like removing bold, \ldots for .... (in tab
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>52153412-2F82-4D52-970C-B08AEBF2A3CC</p>
 </div>
@@ -461,13 +425,13 @@ ii) Obvious changes required as well like removing bold, \ldots for .... (in tab
 <p>csse--11-plus--maths--2016--sample-paper-3:1:9</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -551,21 +515,6 @@ Which three prices total $\pounds 7.73?$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [na] Date:2022-09-08::22:12
-
-
-
-i) remove spacing between value and unit wherever required.
-
-ii) tor=gether ==> together
-</div>
 
 <div class='review'>
 <ul class='review'>

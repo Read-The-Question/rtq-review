@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-xsequence-1-pr"
 title: "TopicPaper - Sequence - 1 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "1"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>B6687B0D-A1BC-439A-8B3E-4999A08CB77F</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "1"
 <p>forest-school--11-plus--maths--2012--sample-paper-4:1:36</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -82,19 +82,6 @@ $2,\quad 3,\quad 5,\quad 7,\quad 11,\quad 13,\quad \ldots$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-11-07::09:22
-
-
-
-use quad
-</div>
 
 <div class='review'>
 <ul class='review'>

@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tsimpleword-7-pr"
 title: "TopicPaper - Simpleword - 7 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "8"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>280A1E97-7786-4101-AFA7-0DE251344677</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "8"
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -99,7 +99,7 @@ If the total distance travelled from Lisbon to Munich is $2730 \ \text{km}$, how
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>80AB0CB7-73B5-452C-B469-18EFF7C7E6ED</p>
 </div>
@@ -107,13 +107,13 @@ If the total distance travelled from Lisbon to Munich is $2730 \ \text{km}$, how
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -173,21 +173,6 @@ What percentage of the letters now on Mark's plate can be found in the word $\te
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-11-27::15:41
-
-
-
-a) Add the before 36
-
-b) Switch around now and has
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -238,7 +223,7 @@ b) Switch around now and has
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5DA208F4-5CBC-4E32-9929-B96B5638168D</p>
 </div>
@@ -246,13 +231,13 @@ b) Switch around now and has
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:18</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -378,7 +363,7 @@ What fraction of the children who do not play tennis are in class $6\ \text{B}$?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6985EE7A-C7F7-4045-AF01-B9B001667366</p>
 </div>
@@ -386,13 +371,13 @@ What fraction of the children who do not play tennis are in class $6\ \text{B}$?
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2:1:3</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -540,7 +525,7 @@ If the width of the beam had to be $6 \ \text{cm}$, what height of beam would a 
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>908168FD-2213-4687-97E6-98977015D296</p>
 </div>
@@ -548,13 +533,13 @@ If the width of the beam had to be $6 \ \text{cm}$, what height of beam would a 
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b:1:9</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -730,7 +715,7 @@ Give a reason for your answer.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>40511CB4-2926-4FAB-88C3-80D38B031B18</p>
 </div>
@@ -738,13 +723,13 @@ Give a reason for your answer.
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-b:1:7</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -890,7 +875,7 @@ How many four seater cars do they use?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>12D709D5-46A9-4B1C-A94F-4826FE2C505F</p>
 </div>
@@ -898,13 +883,13 @@ How many four seater cars do they use?
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1000,27 +985,6 @@ How many employees were older than the salesmen?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-16::04:56
-
-
-
-center align all columns in the table
-
-
-
-Reviewer: [up] Date:2022-10-16::04:57
-
-
-
-c: unit fix
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1071,7 +1035,7 @@ c: unit fix
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>84995481-1A2F-4667-8846-F97B143D48F4</p>
 </div>
@@ -1079,13 +1043,13 @@ c: unit fix
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1133,19 +1097,6 @@ $20\%$ of those who were given socks also received a tie. How many were given so
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-16::04:57
-
-
-
-part a: remove space before full stop
-</div>
 
 <div class='review'>
 <ul class='review'>

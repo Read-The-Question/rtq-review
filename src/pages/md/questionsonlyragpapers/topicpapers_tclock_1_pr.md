@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tclock-1-pr"
 title: "TopicPaper - Clock - 1 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "4"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>352F3C44-BB51-43E0-917D-DF972F69E92B</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "4"
 <p>benenden-school--11-plus--maths--2020--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -148,7 +148,7 @@ What angle does the minute hand turn through between $15{:}25$ and $15{:}35?$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>46999D58-537F-44BC-B9A5-9C2318BA2DC8</p>
 </div>
@@ -156,13 +156,13 @@ What angle does the minute hand turn through between $15{:}25$ and $15{:}35?$
 <p>csse--11-plus--maths--2016--sample-paper-3:1:5</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -274,7 +274,7 @@ Through how many degrees does the minute hand of a clock turn between $0900$ and
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>740AC690-48AA-4E21-8089-6C13550F3C52</p>
 </div>
@@ -282,13 +282,13 @@ Through how many degrees does the minute hand of a clock turn between $0900$ and
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e:1:11</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -379,19 +379,6 @@ Work out the angle between the hour and minute hands when the time is $3.15 \ \t
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-11-10::11:37
-
-
-
-the structure for the question is not correct, refer pdf, it needs sub sub questions
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -442,7 +429,7 @@ the structure for the question is not correct, refer pdf, it needs sub sub quest
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>56A1AAB2-A1B3-49BF-AC55-957C14C8F2B9</p>
 </div>
@@ -450,13 +437,13 @@ the structure for the question is not correct, refer pdf, it needs sub sub quest
 <p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:1:9</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -518,27 +505,6 @@ What is the smaller angle between the hour hand and the minute hand at the follo
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-28::02:24
-
-
-
-make sub questions out of these
-
-
-
-Reviewer: [up] Date:2022-10-28::02:25
-
-
-
-make sub questions out of these
-</div>
 
 <div class='review'>
 <ul class='review'>

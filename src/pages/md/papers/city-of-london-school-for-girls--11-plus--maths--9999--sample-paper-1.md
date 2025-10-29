@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-school-for-girls-11-plus-maths-9999-sample-paper-1"
 title: "City Of London School For Girls - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "36"
 ---
 <div class='paper'>
@@ -1157,7 +1157,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>724517C5-450C-400E-8D62-81DD6270A1E8</p>
 </div>
@@ -1171,7 +1171,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1927,7 +1927,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>04D4F515-2903-4E39-8006-27D56222DCEA</p>
 </div>
@@ -1941,7 +1941,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2094,19 +2094,6 @@ $\pounds 7.5$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::10:30
-
-
-
-b: is it not 7.5?
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2486,7 +2473,7 @@ TODOANSWER
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>B941B131-14CE-4FE8-BB23-B3C009015796</p>
 </div>
@@ -2500,7 +2487,7 @@ TODOANSWER
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2996,10 +2983,10 @@ $
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3776,7 +3763,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5DA81E8F-CB8A-4D87-BB80-82B6B5D89B64</p>
 </div>
@@ -3790,7 +3777,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4450,7 +4437,7 @@ The value of B + O + A + T $= 21$.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>4949CC7C-97FA-4954-8FC3-B05DB7B7F7C1</p>
 </div>
@@ -4458,13 +4445,13 @@ The value of B + O + A + T $= 21$.
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:2:3</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4579,53 +4566,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-abbr broken!!
-
-
-
-Incorrect statement: Let the wide (in cm) = a
-
-
-
-Change to \"Let the width (in cm) = a\"
-
-
-
-Refer answers in G2 state, as per the question, defining second variable etc are not consistent with the coding guidelines.
-
-
-
-
-
-Refer EE87B35D-AFC8-4F45-A49A-D40F8F3B3AA8 on how to define second variable and then how to write as per the question, its age question but rules are the same
-
-
-
-Change \"Now, lets find the area of the rectangle.\"
-
-
-
-to 
-
-
-
-Lets find the area of the rectangle.
-
-
-
-
-
-
-
-
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5023,7 +4963,7 @@ $3 \ \text{paz}=  0.45 \ \text{pog}$.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A0766DE9-1D5E-461E-A564-4BC6C96FAF4C</p>
 </div>
@@ -5037,7 +4977,7 @@ $3 \ \text{paz}=  0.45 \ \text{pog}$.
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5114,23 +5054,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-13::10:47
-
-
-
-this is not correct, the simple division works if dimensions match, there will be a lot of wasted space in this case but you cant squeeze in things like that
-
-
-
-
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5618,7 +5541,7 @@ Therefore, only possible way is when Amy is lying.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9356CB69-3101-48BB-9772-81A96EA7C99B</p>
 </div>
@@ -5632,7 +5555,7 @@ Therefore, only possible way is when Amy is lying.
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5889,19 +5812,6 @@ Square $= 1$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Use multiple working:
-
-Different working and answers to solve for each diagram.
-
-
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -6460,7 +6370,7 @@ Missing numbers $= 32, 13, 2.5$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>DC86C66C-E58D-4ADC-8C65-42A99B583CEC</p>
 </div>
@@ -6474,7 +6384,7 @@ Missing numbers $= 32, 13, 2.5$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

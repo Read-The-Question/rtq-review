@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-5"
 title: "TopicPaper - Number - 5"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "40"
 ---
 <div class='paper'>
@@ -1750,7 +1750,7 @@ $9987$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>453B0746-B166-4EE0-AEA0-F0AD673F0605</p>
 </div>
@@ -1764,7 +1764,7 @@ $9987$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1821,19 +1821,6 @@ it is not a prime number, it is divisible by 3 apart from being divisible by 1 a
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-03::09:27
-
-
-
-write better description in one sentence
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2358,7 +2345,7 @@ $9870$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8A6F744F-D734-4C43-B480-D72FFCB43B8C</p>
 </div>
@@ -2372,7 +2359,7 @@ $9870$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2429,19 +2416,6 @@ $1$ can only be divided by one number, $1$ itself, so with this definition $1$ i
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-03::09:27
-
-
-
-write better description in one sentence
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4452,7 +4426,7 @@ $9760$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5BC3D944-D616-4B3F-BC89-6518B6D2CEBB</p>
 </div>
@@ -4466,7 +4440,7 @@ $9760$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4523,19 +4497,6 @@ $1$ can only be divided by one number, $1$ itself, so with this definition $1$ i
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-03::09:27
-
-
-
-write better description in one sentence
-</div>
 
 <div class='review'>
 <ul class='review'>

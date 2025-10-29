@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tinfer-1-g1"
 title: "TopicPaper - Infer - 1 - G1"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "2"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>20C1F7BC-070B-4D1A-A298-9AA85F8644A6</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "2"
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -59,19 +59,6 @@ $
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-10::14:16
-
-
-
-replace %waffles% with katex array way of writing the detailed addition, refer detailed addition tags for reference
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -122,7 +109,7 @@ replace %waffles% with katex array way of writing the detailed addition, refer d
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>93D90ADD-9783-488E-8E72-B211E323F0BD</p>
 </div>
@@ -130,13 +117,13 @@ replace %waffles% with katex array way of writing the detailed addition, refer d
 <p>csse--11-plus--maths--2015--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -223,31 +210,6 @@ $\text{BAG} + \ldots = \text{GALA}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-11::03:35
-
-
-
-main question use \ldots instead of ....
-
-
-
-a: remove  around YES
-
-remove  around HEAD, join all in single katex instead of multiple $$
-
-remove  wherever used around katex,
-
-
-
-discuss when doing this one so can fix all in one go
-</div>
 
 <div class='review'>
 <ul class='review'>

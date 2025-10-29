@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tvolume-1"
 title: "TopicPaper - Volume - 1"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "40"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "40"
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:2:22</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -117,10 +117,10 @@ How many small cubes are used to make this shape?
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:12</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -220,10 +220,10 @@ Give your answer in millilitres.
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:3:9</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -319,10 +319,10 @@ How many of these $2 \ \text{cm}$ cubes can Kaylee make?
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:22</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -439,10 +439,10 @@ What is the length of one side of a cube?
 <p>bancrofts-school--11-plus--maths--2020--sample-paper-6:1:22</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -561,10 +561,10 @@ What is the length of one side of a cube?
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:26</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -648,10 +648,10 @@ How many of these cubes are painted on exactly two sides?
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:27</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -739,10 +739,10 @@ All measurements are in centimetres.
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -859,10 +859,10 @@ If the length of the bow is $8\ \text{cm}$, calculate the total length of string
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:2:5</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -950,10 +950,10 @@ Be careful - you can't chop up the shoe boxes!
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:27</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1037,10 +1037,10 @@ What is the volume of the box above?
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:42</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1124,10 +1124,10 @@ If the length of each edge is doubled, what will the new volume be?
 <p>kent-college--11-plus--maths--9999--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1240,10 +1240,10 @@ Find the volume of this shape.
 <p>kings-college-school--11-plus--maths--2014--specimen-paper-e:1:5</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1352,10 +1352,10 @@ How many $5 \ \text{cm}$ cubes can be packed into the rectangular box in part a)
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:1:15</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1472,10 +1472,10 @@ Find the number of boxes of jelly beans which may be packed into a carton.
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:29</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1555,10 +1555,10 @@ How many $3 \ \text{cm}$ cubes can be made by cutting up a block $12 \ \text{cm}
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:23</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1644,10 +1644,10 @@ If five grey cubes are removed from each face of the larger cube, what is the to
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1731,10 +1731,10 @@ How many cubes would you need to build the following cuboid?
 <p>sevenoaks-school--11-plus--maths--2012--sample-paper-3:1:7</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1824,10 +1824,10 @@ How many blocks of ice-cream can he put into the cool box?
 <p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:1:11</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1940,10 +1940,10 @@ How much space is left if you pour half a litre of water into the box ($1 \ \tex
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:1:12</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2030,10 +2030,10 @@ A $7 \times 7 \times 7$ cube is painted, and then cut into $1 \times 1 \times 1$
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:17</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2117,10 +2117,10 @@ A model house is made by sticking a triangular prism on top of a rectangular blo
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:1:11</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2233,10 +2233,10 @@ Find the height of the cuboid.
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2374,7 +2374,7 @@ How many $1 \ \text{cm}$ cubes will have two red faces?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>51170D23-A840-4FED-BD59-6DC695B27849</p>
 </div>
@@ -2382,13 +2382,13 @@ How many $1 \ \text{cm}$ cubes will have two red faces?
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:2:5</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2421,23 +2421,6 @@ What is the maximum number of bricks which can be fitted into the packing case?
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-cm in katex
-
-
-
-Reviewer: [na] Date:2022-09-11::19:43
-
-
-
-add one more %image%
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2496,10 +2479,10 @@ add one more %image%
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:2:12</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2587,10 +2570,10 @@ Blocks of this shape are packed into the container on the right. What is the gre
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:24</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2703,10 +2686,10 @@ What fraction of the bigger box's volume is the volume of the smaller box?
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:28</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2843,10 +2826,10 @@ Work out the number of boxes which can completely fill the carton.
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:23</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2932,10 +2915,10 @@ Work out the volume of the box and state the units.
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:24</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3048,10 +3031,10 @@ What is the total surface area of the second cube?
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:1:15</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3211,10 +3194,10 @@ $\\$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:30</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3319,7 +3302,7 @@ What is the greatest number of small cubes which could fit into the box?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>4A35FC8C-AA83-4D20-9A4D-03FC788F09A1</p>
 </div>
@@ -3327,13 +3310,13 @@ What is the greatest number of small cubes which could fit into the box?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:40</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3403,19 +3386,6 @@ How many cubes are used to make the third box?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-27::12:58
-
-
-
-Add a full stop after the first sentence
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3474,10 +3444,10 @@ Add a full stop after the first sentence
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:31</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3573,10 +3543,10 @@ How many bricks does he use to make the cube?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:38</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3670,10 +3640,10 @@ Work out the volume of cube $B$.
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3761,10 +3731,10 @@ by $15 \ \text{centimetres}$ by $10 \ \text{centimetres}$?
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3842,7 +3812,7 @@ What is the greatest number of bricks he can put in the box?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>768FA97C-D3A1-4AD0-A4D2-7195F6F25B3B</p>
 </div>
@@ -3850,13 +3820,13 @@ What is the greatest number of bricks he can put in the box?
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b:1:6</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3972,7 +3942,7 @@ Find the height of the third cuboid if its volume is $480 \ \text{cm}^3$.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>F42F11D2-C6D9-4982-A19A-DEBECB811FA3</p>
 </div>
@@ -3980,13 +3950,13 @@ Find the height of the third cuboid if its volume is $480 \ \text{cm}^3$.
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-b:1:10</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4148,10 +4118,10 @@ Find the Volume $(V)$ and the density $(d)$ if the radius $(r)$ is $2$ and the M
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4:1:5</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4260,7 +4230,7 @@ Another tower is built with $72\, \text{centimetre cubes}$. What could be the le
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>4D9BC0A2-8597-459C-BC4D-1F1462CB1470</p>
 </div>
@@ -4268,13 +4238,13 @@ Another tower is built with $72\, \text{centimetre cubes}$. What could be the le
 <p>tonbridge-school--scholarship--maths--2016--sample-paper-2:1:4</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-torder-1-g2"
 title: "TopicPaper - Order - 1 - G2"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "21"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -318,7 +318,7 @@ $\dfrac {2}{5} \text{ of } \pounds 40  \quad \boxed{\rtq_katex_color_answer{=}} 
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>06BDCF32-BF89-4B8A-BC1E-A2E8493E5AB2</p>
 </div>
@@ -332,7 +332,7 @@ $\dfrac {2}{5} \text{ of } \pounds 40  \quad \boxed{\rtq_katex_color_answer{=}} 
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -531,19 +531,6 @@ Highest number $= 0.44$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-24::13:09
-
-
-
-c: Change fractions to decimals
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1946,7 +1933,7 @@ Biggest number $= \dfrac {68} {12} = \dfrac {1} {3} \ \text {of} \ 17$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>30340F22-4D0A-4688-AA2E-85B3E019B213</p>
 </div>
@@ -1960,7 +1947,7 @@ Biggest number $= \dfrac {68} {12} = \dfrac {1} {3} \ \text {of} \ 17$
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2033,19 +2020,6 @@ Longest $= 42 \ \text{cm}$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-25::14:27
-
-
-
-Change \"to\" to \"into\"
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2096,7 +2070,7 @@ Change \"to\" to \"into\"
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>F1714A09-DE83-40BB-B858-8620CDD58B7E</p>
 </div>
@@ -2110,7 +2084,7 @@ Change \"to\" to \"into\"
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2183,19 +2157,6 @@ Longest $= 52 \ \text{cm}$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-25::14:28
-
-
-
-Remove can
-</div>
 
 <div class='review'>
 <ul class='review'>

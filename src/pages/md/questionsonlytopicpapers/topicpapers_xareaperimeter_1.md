@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-xareaperimeter-1"
 title: "TopicPaper - Areaperimeter - 1"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "10"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "10"
 <p>aldenham-school--11-plus--maths--9999--sample-paper-5:1:12</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -111,10 +111,10 @@ Find the area of this shape.
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-i:1:21</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -194,10 +194,10 @@ A piece of wire $30 \ \text{cm} $ long is bent into the shape of a rectangle. If
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-i:1:22</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -354,10 +354,10 @@ What fraction of the total area is the area of piece $D?$
 <p>eltham-college--11-plus--maths--2020--sample-paper-5:1:17</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -455,10 +455,10 @@ What is the perimeter of the shape?
 <p>eltham-college--11-plus--maths--2020--sample-paper-5:2:2</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -556,10 +556,10 @@ What is the ratio of the length of the perimeter of the square to the length of 
 <p>eltham-college--11-plus--maths--2020--sample-paper-5:2:3</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -643,10 +643,10 @@ Five identical rectangles fit together as shown. What, in $\text{cm}^2$, is the 
 <p>eltham-college--11-plus--maths--9999--sample-paper-3:1:4</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -791,10 +791,10 @@ Draw a shape with an area of $12$, and a perimeter of $16$.
 <p>eltham-college--11-plus--maths--9999--sample-paper-4:1:2</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -884,10 +884,10 @@ Work out the area of the shape.
 <p>eltham-college--11-plus--maths--9999--sample-paper-4:1:8</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -989,10 +989,10 @@ What fraction of the rectangle is shaded?
 <p>forest-school--11-plus--maths--2012--sample-paper-4:1:37</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

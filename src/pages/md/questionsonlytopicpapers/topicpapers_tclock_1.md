@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tclock-1"
 title: "TopicPaper - Clock - 1"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "33"
 ---
 <div class='paper'>
@@ -16,7 +16,7 @@ questions_count: "33"
 # Section A
 <ul class='question decimal question_type_question list_type_decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>352F3C44-BB51-43E0-917D-DF972F69E92B</p>
 </div>
@@ -24,13 +24,13 @@ questions_count: "33"
 <p>benenden-school--11-plus--maths--2020--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -166,10 +166,10 @@ What angle does the minute hand turn through between $15{:}25$ and $15{:}35?$
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -255,10 +255,10 @@ Calculate the angle between the hands of a clock at $9.30$.
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:2:2</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -342,7 +342,7 @@ You can use the clock face to help you.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>46999D58-537F-44BC-B9A5-9C2318BA2DC8</p>
 </div>
@@ -350,13 +350,13 @@ You can use the clock face to help you.
 <p>csse--11-plus--maths--2016--sample-paper-3:1:5</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -476,10 +476,10 @@ Through how many degrees does the minute hand of a clock turn between $0900$ and
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:38</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -559,10 +559,10 @@ Through what angles does the hour hand of a clock rotate between $8 \ \text{am}$
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:38</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -642,10 +642,10 @@ Through what angles does the hour hand of a clock rotate between $6 \ \text{am}$
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:40</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -725,10 +725,10 @@ What angle do the hands of a clock make between each other at $7{:}30?$
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:38</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -800,7 +800,7 @@ Through what angles does the hour hand of a clock rotate between $3 \ \text{am}$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>740AC690-48AA-4E21-8089-6C13550F3C52</p>
 </div>
@@ -808,13 +808,13 @@ Through what angles does the hour hand of a clock rotate between $3 \ \text{am}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e:1:11</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -905,19 +905,6 @@ Work out the angle between the hour and minute hands when the time is $3.15 \ \t
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-11-10::11:37
-
-
-
-the structure for the question is not correct, refer pdf, it needs sub sub questions
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -976,10 +963,10 @@ the structure for the question is not correct, refer pdf, it needs sub sub quest
 <p>forest-school--11-plus--maths--9999--sample-paper-1:1:32</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1061,10 +1048,10 @@ How many times are the hands at right angles again before $5$ o'clock, $2  \ \te
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-1:1:2</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1250,10 +1237,10 @@ Find the perimeter of your rectangle.
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1376,10 +1363,10 @@ At what time between $6 \ \text{pm}$ and $6{:}30 \ \text{pm}$ will the hour and 
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1492,10 +1479,10 @@ $3$ to the $7$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:33</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1588,10 +1575,10 @@ $20 \ \text{minutes per hour}$. How long will it be in hours before both clocks 
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1700,10 +1687,10 @@ How many degrees has the minute hand moved between $3{:}55 \ \text{pm}$ and $5{:
 <p>oundle-school--11-plus--maths--2008--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1787,10 +1774,10 @@ On a clock face, what is the angle between the hands at $8{:}30?$
 <p>oundle-school--11-plus--maths--2017--sample-paper-6:1:11</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1931,10 +1918,10 @@ What is the exact time when this occurs?
 <p>oundle-school--11-plus--maths--2018--sample-paper-9:1:11</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2049,7 +2036,7 @@ The time is $08{:}26$. What is the smaller angle between the hour hand and the m
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>56A1AAB2-A1B3-49BF-AC55-957C14C8F2B9</p>
 </div>
@@ -2057,13 +2044,13 @@ The time is $08{:}26$. What is the smaller angle between the hour hand and the m
 <p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:1:9</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2125,27 +2112,6 @@ What is the smaller angle between the hour hand and the minute hand at the follo
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-28::02:24
-
-
-
-make sub questions out of these
-
-
-
-Reviewer: [up] Date:2022-10-28::02:25
-
-
-
-make sub questions out of these
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2204,10 +2170,10 @@ make sub questions out of these
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:20</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2290,10 +2256,10 @@ A twenty-four hour digital watch shows only hours and minutes. How many times ea
 <p>solihull-school--11-plus--maths--9999--sample-paper-2:1:16</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2416,10 +2382,10 @@ What is the angle between the hands of a clock at $1{:}30 \ \text{pm} \text{?}$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:11</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2501,10 +2467,10 @@ It is then turned anticlockwise by $240 \degree$. What number does it now point 
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2584,10 +2550,10 @@ Find the obtuse angle between the hands of a clock at $5$ o'clock.
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:33</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2667,10 +2633,10 @@ What is the angle between the hands of a clock at $2{:}30 \ \text{pm}$. (Remembe
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:39</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2783,10 +2749,10 @@ $6.30 \ \text{pm}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:21</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2931,10 +2897,10 @@ What time is it?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:35</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3044,10 +3010,10 @@ The numbers below may help.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:32</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3178,10 +3144,10 @@ $6.30 \ \text{p.m.}$ and $8.50 \ \text{p.m.}$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:1:3</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3332,10 +3298,10 @@ Through what angle will the hour hand have turned from $2\ \text{o'clock}$, when
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3415,10 +3381,10 @@ What is the smaller angle between the hands of a clock at $2{:}30?$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4:1:10</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3498,10 +3464,10 @@ What is the smaller angle between the hands of a clock at five o'clock?
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5:1:13</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3610,10 +3576,10 @@ How many degrees does the **hour** hand move between $1{:}10\ \text{am}$ and $4{
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

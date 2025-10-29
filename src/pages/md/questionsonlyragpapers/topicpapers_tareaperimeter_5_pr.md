@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tareaperimeter-5-pr"
 title: "TopicPaper - Areaperimeter - 5 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "3"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "3"
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -157,35 +157,6 @@ Explain your answer.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-28::02:36
-
-
-
-write A B C D in katex
-
-
-
-Reviewer: [up] Date:2022-10-28::02:37
-
-
-
-table align center column 1
-
-
-
-Reviewer: [up] Date:2022-10-28::02:37
-
-
-
-c: show options as md list
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -236,7 +207,7 @@ c: show options as md list
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>031D794E-5978-4206-9059-995FC698CDE6</p>
 </div>
@@ -244,13 +215,13 @@ c: show options as md list
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -312,15 +283,6 @@ Find the total surface of the solid, in $\text{cm}^2$.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-a: unit in katex
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -371,7 +333,7 @@ a: unit in katex
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6BC8FC6A-56E2-4B38-905F-06368D1DB22F</p>
 </div>
@@ -379,13 +341,13 @@ a: unit in katex
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -423,19 +385,6 @@ Calculate the area of the larger triangle.
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-28::01:37
-
-
-
-add %image%
-</div>
 
 <div class='review'>
 <ul class='review'>

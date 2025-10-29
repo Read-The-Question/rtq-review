@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-4-pr"
 title: "TopicPaper - Sequence - 4 - PR"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "10"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C583D6A0-45F4-4404-B0BC-F7A297BF5B84</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "10"
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -391,7 +391,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>BE9F4A3F-2F85-4A47-AF0D-3D7520C66A79</p>
 </div>
@@ -405,7 +405,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -928,39 +928,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::04:38
-
-
-
-c: Do like AB93EA42-3087-492B-9F08-815980496618, look for the subquestion which has numerator and denom.. as separate sequences.
-
-
-
-Reviewer: [up] Date:2022-09-28::04:43
-
-
-
-c: Do like AB93EA42-3087-492B-9F08-815980496618, look for the subquestion which has numerator and denom.. as separate sequences.
-
-
-
-Reviewer: [up] Date:2022-09-28::04:46
-
-
-
-d: wrong
-
-
-
-the sequence is like 4 + 9, 4 + 9 *2, 4 + 9 *4, 4 + 9 * 8
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1011,7 +978,7 @@ the sequence is like 4 + 9, 4 + 9 *2, 4 + 9 *4, 4 + 9 * 8
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>B4B8BD92-4664-422E-BA17-35E35E571F51</p>
 </div>
@@ -1025,7 +992,7 @@ the sequence is like 4 + 9, 4 + 9 *2, 4 + 9 *4, 4 + 9 * 8
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1335,19 +1302,6 @@ Number of rectangles $= 16$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-14::04:46
-
-
-
-explain AP in part b, write d * (n - 1) instead of other way round
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1398,7 +1352,7 @@ explain AP in part b, write d * (n - 1) instead of other way round
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9BA84A0B-7FE1-41E1-B1DA-8819C7C372AF</p>
 </div>
@@ -1412,7 +1366,7 @@ explain AP in part b, write d * (n - 1) instead of other way round
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1694,25 +1648,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::04:48
-
-
-
-use simple word to solve no need for algebra
-
-
-
-second missing = 100 -8 = 92
-
-first missing = 92 + 18 = ...
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1763,7 +1698,7 @@ first missing = 92 + 18 = ...
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>54CF551A-F7EA-442D-877C-67D6D33389ED</p>
 </div>
@@ -1777,7 +1712,7 @@ first missing = 92 + 18 = ...
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2409,7 +2344,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>DA1C609B-7D16-4855-AF28-E9B812315F33</p>
 </div>
@@ -2423,7 +2358,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2531,15 +2466,6 @@ Numbers that are divisible by $15$ and would appear in the sequence are $=240, 3
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-uday : please look at the wording
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2590,7 +2516,7 @@ uday : please look at the wording
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>2B5548B0-4A90-4DCB-A9E3-58324AFEF5E3</p>
 </div>
@@ -2604,7 +2530,7 @@ uday : please look at the wording
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2727,51 +2653,6 @@ The number that replaces $B = 6$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Make a markup table  with Row and Column (4 x 4 table) as in the question paper only with heading Column 1 .. Row 1..
-
-
-
-Put Value : and for eg. in empty put \"R1C3\" (Row 1 Column 3
-
-
-
-To find B we need to first find the value of R1C3. 
-
-
-
-As per the question, solving diagonally,  
-
-
-
-R1C3 &= 30 - 9 - 10
-
-&= 11 
-
-
-
-Now lets find value of B, solving Row 3 
-
-
-
-13 + B + 11 = 30 
-
-B = 30 - 13 - 11
-
-= 6
-
-
-
-The number that replaces $B = 6$
-
-
-
-
-
-uday : please look at the tag 
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2822,7 +2703,7 @@ uday : please look at the tag
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>1BF5B2D6-98CF-4595-ACA4-62872303DF5D</p>
 </div>
@@ -2836,7 +2717,7 @@ uday : please look at the tag
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2953,15 +2834,6 @@ The number that replaces $A = 14$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-uday : please look at the tag 
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3012,7 +2884,7 @@ uday : please look at the tag
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>21F86FF9-737E-4AF5-8F7F-6D8695AFFE38</p>
 </div>
@@ -3026,7 +2898,7 @@ uday : please look at the tag
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3153,7 +3025,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6C22BF99-C3EE-4BB0-97A7-2F1DB20CA8EC</p>
 </div>
@@ -3167,7 +3039,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

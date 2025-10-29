@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-xmoney-1-g2-prns"
 title: "TopicPaper - Money - 1 - G2 - PRNS"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "9"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "9"
 <p>aldenham-school--11-plus--maths--9999--sample-paper-5:1:5</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -125,10 +125,10 @@ How much change does he receive from a $ \pounds 10?$
 <p>bancrofts-school--11-plus--maths--9999--sample-paper-8:1:2</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -208,10 +208,10 @@ I have $\pounds 45$ in $5 \ \text{p}$ coins. How many $5 \ \text{p}$ coins is th
 <p>bancrofts-school--11-plus--maths--9999--sample-paper-8:1:8</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -297,10 +297,10 @@ What were the $5$ coins that I took?
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-i:1:9</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -380,10 +380,10 @@ A drink and a box of popcorn together cost $90 \ \text{p}$. Two drinks and a box
 <p>forest-school--11-plus--maths--2012--sample-paper-4:1:6</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -463,10 +463,10 @@ Isaac has $\pounds148$ and he spends $\pounds97$. How much does he have left?
 <p>forest-school--11-plus--maths--2012--sample-paper-4:1:13</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -546,10 +546,10 @@ Theo bought a choclate bar for $72\ \text{p}$ and some balloons, each of which c
 <p>forest-school--11-plus--maths--9999--sample-paper-3:1:5</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -629,10 +629,10 @@ How many $\pounds 5$ notes are needed to make $\pounds 1000$?
 <p>forest-school--11-plus--maths--9999--sample-paper-3:1:6</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -712,10 +712,10 @@ How much change would I get from $\pounds 20$ if I bought $3$ pens at $\pounds 1
 <p>forest-school--11-plus--maths--9999--sample-paper-3:1:19</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

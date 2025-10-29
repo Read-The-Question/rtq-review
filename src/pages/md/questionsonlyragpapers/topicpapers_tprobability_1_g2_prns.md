@@ -1,8 +1,8 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tprobability-1-g2-prns"
 title: "TopicPaper - Probability - 1 - G2 - PRNS"
-date: 2025-10-28 15:23:52
-questions_count: "35"
+date: 2025-10-29 12:23:53
+questions_count: "36"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
@@ -14,10 +14,10 @@ questions_count: "35"
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:18</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -97,10 +97,10 @@ If the probability of it raining tomorrow is $0.08$, what is the probability of 
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -196,10 +196,10 @@ A bag contains $3$ red and $6$ green marbles. If you pick out a marble at random
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -291,10 +291,10 @@ fifth time, is she **more likely** to get Heads or Tails?
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:2:23</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -427,10 +427,10 @@ Which two spinners are these?
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:1</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -528,16 +528,162 @@ It is **impossible** that you will get a multiple of $3$.
 <li class='questionContainer'>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
+<p>76F68C54-29C7-4A11-BEE7-99AB68D0A9F2</p>
+</div>
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:17</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a bag there are only red, blue and green counters. 
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>In a bag there are only red, blue and green counters. 
+</code></pre>
+</div>
+<ul class='subquestion lower-alpha question_type_subquestion list_type_lower-alpha'>
+<li class='questionContainer'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+I am going to take a counter out of the bag at random.
+
+Complete the table below.
+
+|  Colours of counters | Number of counters  | Probability  | 
+|:------------: |:------------: |:------------: |
+|      Red      |     $6$       |               |      
+|      Blue      |              | $\dfrac{1} {5}$ |
+|     Green     |     $6$       |               |
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>I am going to take a counter out of the bag at random.
+<emptyline>
+Complete the table below.
+<emptyline>
+|  Colours of counters | Number of counters  | Probability  | 
+|:------------: |:------------: |:------------: |
+|      Red      |     $6$       |               |      
+|      Blue      |              | $\dfrac{1} {5}$ |
+|     Green     |     $6$       |               |
+</code></pre>
+</div>
+
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Before I take a counter out of the bag, I put **one extra blue** counter into the bag.
+
+What effect does this have on the probability that I will take a **red** counter?
+
+Tick $(\checkmark)$ the correct box.
+
+- The probability has increased.
+- The probability has decreased.
+- The probability has stayed the same.
+- It is impossible to tell.
+
+</div>
+<div class='questioncodeblock'>
+<pre class='language-latex'><code class='language-latex'>Before I take a counter out of the bag, I put **one extra blue** counter into the bag.
+<emptyline>
+What effect does this have on the probability that I will take a **red** counter?
+<emptyline>
+Tick $(\checkmark)$ the correct box.
+<emptyline>
+- The probability has increased.
+- The probability has decreased.
+- The probability has stayed the same.
+- It is impossible to tell.
+</code></pre>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='76F68C54-29C7-4A11-BEE7-99AB68D0A9F2' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRPCC' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='76F68C54-29C7-4A11-BEE7-99AB68D0A9F2' onclick='submitReview(event)'>PRPCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='76F68C54-29C7-4A11-BEE7-99AB68D0A9F2' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='76F68C54-29C7-4A11-BEE7-99AB68D0A9F2' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='76F68C54-29C7-4A11-BEE7-99AB68D0A9F2' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='76F68C54-29C7-4A11-BEE7-99AB68D0A9F2' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prrl' data-rag='PRRL' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='76F68C54-29C7-4A11-BEE7-99AB68D0A9F2' onclick='submitReview(event)'>PRRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='76F68C54-29C7-4A11-BEE7-99AB68D0A9F2' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='76F68C54-29C7-4A11-BEE7-99AB68D0A9F2' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='76F68C54-29C7-4A11-BEE7-99AB68D0A9F2' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-review-type='REVIEW_QUESTION' data-sheet='G2' data-uuid='76F68C54-29C7-4A11-BEE7-99AB68D0A9F2' onclick='resetComment(event)'>Reset Comments</button>
+</li>
+</ul>
+
+<form class='review' data-review-type='REVIEW_QUESTION' data-reviewer='up' data-sheet='G2' data-uuid='76F68C54-29C7-4A11-BEE7-99AB68D0A9F2' id='FORM-76F68C54-29C7-4A11-BEE7-99AB68D0A9F2' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-76F68C54-29C7-4A11-BEE7-99AB68D0A9F2'>Initial</p>
+</div>
+</div>
+</li>
+<li class='questionContainer'>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
 <p>6FF8AB7F-81B1-4F62-A908-9FE87732692F</p>
 </div>
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2:1:27</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -704,10 +850,10 @@ Which of these outcomes is are equally likely to happen?
 <p>bancrofts-school--11-plus--maths--2017--sample-paper-3:1:27</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -838,10 +984,10 @@ Which bag should Toby choose to have the **least** chance of getting an orange?
 <p>bancrofts-school--11-plus--maths--2017--sample-paper-3:2:6</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1022,10 +1168,10 @@ How many balls are there in each box?
 <p>bancrofts-school--11-plus--maths--2020--sample-paper-5:1:9</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1142,10 +1288,10 @@ What numbers did I roll?
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:23</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1309,10 +1455,10 @@ of the same colour?
 <p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1463,10 +1609,10 @@ Explain your answer:
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1566,10 +1712,10 @@ What is the probability of getting a king, queen or jack?
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:1:3</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1669,10 +1815,10 @@ What is the probability of getting a king, queen or jack?
 <p>colfes-school--11-plus--maths--9999--sample-paper:1:31</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1756,10 +1902,10 @@ Then I add the two numbers. If I do this $50$ times how many times would you exp
 <p>csse--11-plus--maths--2016--sample-paper-3:1:13</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1902,10 +2048,10 @@ True or false?
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2008,10 +2154,10 @@ If I take out one item and want it to be a pen which of these words best describ
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2091,10 +2237,10 @@ How many pens should I add to the original pencil case so that it is equally lik
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:39</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2194,10 +2340,10 @@ When thrown a coin will show heads.
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:40</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2277,10 +2423,10 @@ A bicycle will have two wheels.
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:41</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2360,10 +2506,10 @@ A boy selected at random from Year $7$ will have red hair.
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:42</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2443,10 +2589,10 @@ An ordinary dice will show a number below ten.
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:43</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2526,10 +2672,10 @@ A card selected from a normal pack of playing cards will not be black or red.
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:37</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2621,10 +2767,10 @@ If I pick another card, what is the probability it will have a $C$ on it?
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:37</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2716,10 +2862,10 @@ If I pick another card, what is the probability it will have a $F$ on it?
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:31</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2803,10 +2949,10 @@ What is the probability of picking a green counter?
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:37</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2898,10 +3044,10 @@ If I pick another card, what is the probability it will have a $E$ on it?
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d:1:20</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2997,10 +3143,10 @@ Explain your answer clearly.
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-h:1:10</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3094,10 +3240,10 @@ Write the following events in order, with the most probable (i.e. most likely) f
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3208,10 +3354,10 @@ I will pick a pencil that isn't red?
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-2:1:11</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3376,10 +3522,10 @@ Some girls join Year $6$ from another school. Half of Year $6$ are now boys. How
 <p>john-lyon-school--11-plus--maths--9999--sample-paper-1:1:24</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3532,10 +3678,10 @@ Enter the number(s) $1, 2, 3$ or $4$ into each of the eight sections of the spin
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2:1:19</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3615,10 +3761,10 @@ Give an example of an event which has a probability of about $\dfrac{1}{2}$.
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:1:16</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3765,10 +3911,10 @@ What is the probability that Fred will get a green or a yellow sweet?
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3935,10 +4081,10 @@ If I roll a red die and a blue die together in how many different ways can I get
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:12</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-high-school-for-girls-11-plus-maths-2016-sample-paper-1"
 title: "St Albans High School For Girls - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "32"
 ---
 <div class='paper'>
@@ -918,7 +918,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>88771F84-2908-43E4-9380-A12099F3BB56</p>
 </div>
@@ -932,7 +932,7 @@ $
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1013,19 +1013,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-22::10:23
-
-
-
-Write answer as £1.09
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1076,7 +1063,7 @@ Write answer as £1.09
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A0D00897-FAB7-4461-A986-7C7E51444762</p>
 </div>
@@ -1090,7 +1077,7 @@ Write answer as £1.09
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2011,7 +1998,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>AFC9965A-4DA6-4673-B092-BC303ABAFFE7</p>
 </div>
@@ -2025,7 +2012,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2477,7 +2464,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6FB895A0-2141-4719-B4CE-32354F48276D</p>
 </div>
@@ -2491,7 +2478,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3433,7 +3420,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>2F7C07CA-4370-40FB-8A91-FD313818A4F2</p>
 </div>
@@ -3447,7 +3434,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3746,23 +3733,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-13::11:25
-
-
-
-can you check part b again?
-
-
-
-part c is wrong too
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4177,7 +4147,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>2AF09F37-FD2F-4480-8F48-E1EEDFE6A2C7</p>
 </div>
@@ -4191,7 +4161,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4446,19 +4416,6 @@ $(35, 3), (37, 3), (35, 5), (37, 5)$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-27::13:50
-
-
-
-c: should we show some calculation to calculate instead of just saying see the diagram as the dimensions are much bigger here
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4509,7 +4466,7 @@ c: should we show some calculation to calculate instead of just saying see the d
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>BE9F4A3F-2F85-4A47-AF0D-3D7520C66A79</p>
 </div>
@@ -4523,7 +4480,7 @@ c: should we show some calculation to calculate instead of just saying see the d
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5046,39 +5003,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::04:38
-
-
-
-c: Do like AB93EA42-3087-492B-9F08-815980496618, look for the subquestion which has numerator and denom.. as separate sequences.
-
-
-
-Reviewer: [up] Date:2022-09-28::04:43
-
-
-
-c: Do like AB93EA42-3087-492B-9F08-815980496618, look for the subquestion which has numerator and denom.. as separate sequences.
-
-
-
-Reviewer: [up] Date:2022-09-28::04:46
-
-
-
-d: wrong
-
-
-
-the sequence is like 4 + 9, 4 + 9 *2, 4 + 9 *4, 4 + 9 * 8
-</div>
 
 <div class='review'>
 <ul class='review'>

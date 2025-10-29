@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tsequence-4-pr"
 title: "TopicPaper - Sequence - 4 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "4"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>BE851320-29AB-491D-B295-527BA7C9A21D</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "4"
 <p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:1:6</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -82,19 +82,6 @@ $1, \quad 2, \quad 0, \quad 3, \quad -1, \quad 4, \quad \ldots, \quad \ldots$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-28::02:23
-
-
-
-review part c again
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -145,7 +132,7 @@ review part c again
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>0DEAA0A4-5405-4CEB-BE4F-CFB79042ABEE</p>
 </div>
@@ -153,13 +140,13 @@ review part c again
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:1:5</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -235,19 +222,6 @@ $\ldots \quad 6 \quad  3 \quad  0  \quad    {-}3$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-28::02:08
-
-
-
-d: {-} for -3
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -298,7 +272,7 @@ d: {-} for -3
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E984A642-CDDE-4DFB-B3A9-50A2DC60CE1F</p>
 </div>
@@ -306,13 +280,13 @@ d: {-} for -3
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:19</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -331,27 +305,6 @@ In the sequence $1, 3, 4, 7, 11, \ldots$ each  number   after the   second   is 
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-27::20:05
-
-
-
-do not use quad in this case, just use comma
-
-
-
-Reviewer: [up] Date:2022-10-27::20:05
-
-
-
-do not use quad in this case, just use comma
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -402,7 +355,7 @@ do not use quad in this case, just use comma
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>54CF551A-F7EA-442D-877C-67D6D33389ED</p>
 </div>
@@ -410,13 +363,13 @@ do not use quad in this case, just use comma
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:3:2</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -634,35 +587,6 @@ $E_{200} = $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-too many mistakes, read the question again, number also needs to be written as subscript, use the right katex.
-
-
-
-Reviewer: [up] Date:2022-10-28::01:43
-
-
-
-part a: make 3 questions sub sub questions
-
-
-
-Reviewer: [up] Date:2022-10-28::01:44
-
-
-
-part a: make 3 questions sub sub questions
-
-
-
-part e: make sub sub questions
-</div>
 
 <div class='review'>
 <ul class='review'>

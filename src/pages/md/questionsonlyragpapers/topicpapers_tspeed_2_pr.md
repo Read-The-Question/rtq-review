@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tspeed-2-pr"
 title: "TopicPaper - Speed - 2 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "7"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>1D053FF5-F5C3-4A33-9F15-EF02705C8BD0</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "7"
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:1:18</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -64,19 +64,6 @@ At what time does train $B$ overtake train $A$?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-15::03:55
-
-
-
-A not in katex in main question 
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -127,7 +114,7 @@ A not in katex in main question
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9C47F6E7-B85D-44F3-8F0D-59F57D3BDDA4</p>
 </div>
@@ -135,13 +122,13 @@ A not in katex in main question
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-b:1:9</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -337,7 +324,7 @@ What distance would the car be from the child when the driver stopped if he was 
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C2048F15-27A7-4CAC-BC52-555B3FC8848C</p>
 </div>
@@ -345,13 +332,13 @@ What distance would the car be from the child when the driver stopped if he was 
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-b:1:7</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -541,7 +528,7 @@ A Gold award is achieved by scoring a total of $270$ points.  What is the **slow
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>00D9E1CD-F3B5-4E92-995D-8331D5A1F239</p>
 </div>
@@ -549,13 +536,13 @@ A Gold award is achieved by scoring a total of $270$ points.  What is the **slow
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:1:7</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -681,7 +668,7 @@ If the distance the ball travels through the air from the point where the bowler
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3B26E7CB-1B5C-4199-8C38-B92AA306E351</p>
 </div>
@@ -689,13 +676,13 @@ If the distance the ball travels through the air from the point where the bowler
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -787,7 +774,7 @@ If it takes me $45\, \text{minutes}$ to swim the $1.5\, \text{km}$ how long woul
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E5FF003D-6546-4BF1-991C-059F2C4EE567</p>
 </div>
@@ -795,13 +782,13 @@ If it takes me $45\, \text{minutes}$ to swim the $1.5\, \text{km}$ how long woul
 <p>tonbridge-school--scholarship--maths--2016--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -921,7 +908,7 @@ What should my speed be (with the same start time) if I want to arrive at $12.00
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6D5ECDFC-21C2-4419-84A6-F605A61E9D0E</p>
 </div>
@@ -929,13 +916,13 @@ What should my speed be (with the same start time) if I want to arrive at $12.00
 <p>tonbridge-school--scholarship--maths--2017--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

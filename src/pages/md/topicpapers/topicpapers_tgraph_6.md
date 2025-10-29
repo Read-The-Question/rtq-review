@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tgraph-6"
 title: "TopicPaper - Graph - 6"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "10"
 ---
 <div class='paper'>
@@ -1052,7 +1052,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C8259B8D-0A87-4B26-BC94-66F77CCAB59A</p>
 </div>
@@ -1066,7 +1066,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1421,7 +1421,7 @@ $5.4$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8D24EACB-4A89-4F68-9159-DA172CC100C1</p>
 </div>
@@ -1435,7 +1435,7 @@ $5.4$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2068,7 +2068,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>45643F32-91C3-42DC-B648-E8E09B529DD8</p>
 </div>
@@ -2082,7 +2082,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2252,27 +2252,6 @@ Coordinates $= (3, 1)$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-23::09:31
-
-
-
-b: are the coordinates right? should it not be (-1, 5)??
-
-
-
-Reviewer: [mr] Date:2022-09-23::17:01
-
-
-
-It works if you join in the sequence ADBC
-</div>
 
 <div class='review'>
 <ul class='review'>

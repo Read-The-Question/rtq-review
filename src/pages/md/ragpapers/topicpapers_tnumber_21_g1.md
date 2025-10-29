@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-21-g1"
 title: "TopicPaper - Number - 21 - G1"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "4"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prpcr question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>0EA3BEDE-E412-4145-A773-4FA982A65BAB</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "4"
 <p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -316,19 +316,6 @@ $= 4.32$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-11::10:51
-
-
-
-c: use abbreviation
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -379,7 +366,7 @@ c: use abbreviation
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prpcr question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>C89BE88B-D6EA-4F33-A8C3-496597C6989A</p>
 </div>
@@ -393,7 +380,7 @@ c: use abbreviation
 <p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -480,31 +467,6 @@ Odd one $= 2743$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-11::10:52
-
-
-
-use a table instead, do not show all combination, just write the valid ones
-
-
-
-column 1: pair, column 2 whats been done in calculation in a single line
-
-
-
-Reviewer: [up] Date:2022-09-11::10:53
-
-
-
-ask if not clear
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -555,7 +517,7 @@ ask if not clear
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prpcr question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>34FA6ECE-8C84-4446-BE71-0079B97B3AE6</p>
 </div>
@@ -569,7 +531,7 @@ ask if not clear
 <p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -740,19 +702,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-11::10:54
-
-
-
-make more factor 7 and 3 for both numerator and denom. and then cancel
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -803,7 +752,7 @@ make more factor 7 and 3 for both numerator and denom. and then cancel
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prpcr question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>291AFD0A-9043-405E-A6E6-51618526DA6E</p>
 </div>
@@ -817,7 +766,7 @@ make more factor 7 and 3 for both numerator and denom. and then cancel
 <p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -885,19 +834,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-11::11:03
-
-
-
-use abbrev
-</div>
 
 <div class='review'>
 <ul class='review'>

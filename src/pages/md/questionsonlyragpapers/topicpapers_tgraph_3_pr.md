@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tgraph-3-pr"
 title: "TopicPaper - Graph - 3 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "9"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>11B0A420-84A3-48B5-9C86-EB5DDA041C01</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "9"
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:6</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -107,19 +107,6 @@ Add this data to the bar chart above.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-11-09::05:52
-
-
-
-do not use katex when no number
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -170,7 +157,7 @@ do not use katex when no number
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>08F2D787-7444-4724-B48C-3906F27CFAC9</p>
 </div>
@@ -178,13 +165,13 @@ do not use katex when no number
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:34</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -257,31 +244,6 @@ Which $4$ letters form a square?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [na] Date:2022-09-11::10:12
-
-
-
-use \quad to put more  space between the coordinates.
-
-ii) write \"and\" outside the katex.
-
-
-
-Reviewer: [ap] Date:2022-11-27::16:13
-
-
-
-Add a full stop after labels
-
-Remove commas between the coordinate pairs
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -332,7 +294,7 @@ Remove commas between the coordinate pairs
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>BF2C15DF-AD34-42D4-9BED-DCF7FB1DDA34</p>
 </div>
@@ -340,13 +302,13 @@ Remove commas between the coordinate pairs
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:31</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -442,19 +404,6 @@ Using the first two columns of the table, draw a bar chart to represent these re
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [na] Date:2022-09-11::08:35
-
-
-
-write \"Complete the end...\", \"How many students...\", \"How many people...\" and \"Using the first\" as four subparts of the question using different subquestions.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -505,7 +454,7 @@ write \"Complete the end...\", \"How many students...\", \"How many people...\" 
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>7B501A1D-F877-42E6-A1C4-48B39E009976</p>
 </div>
@@ -513,13 +462,13 @@ write \"Complete the end...\", \"How many students...\", \"How many people...\" 
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:26</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -571,21 +520,6 @@ How many cars are there which are NOT grey?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [na] Date:2022-09-11::16:07
-
-
-
-i) put space between park. and They
-
-ii) put space between results. and The
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -636,7 +570,7 @@ ii) put space between results. and The
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>869C0CBD-5DEF-4B58-A79D-169EBD366294</p>
 </div>
@@ -644,13 +578,13 @@ ii) put space between results. and The
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:31</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -766,7 +700,7 @@ Add one more point so that the four points make a square. Write down the coordin
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D8199EFC-299A-4740-8F3F-F93F8748F148</p>
 </div>
@@ -774,13 +708,13 @@ Add one more point so that the four points make a square. Write down the coordin
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:35</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -896,7 +830,7 @@ How many cars are there in the street?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>1E9EE047-BBCC-45B7-A37F-4172E27DC4B3</p>
 </div>
@@ -904,13 +838,13 @@ How many cars are there in the street?
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:18</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -976,19 +910,6 @@ The point $D$ is on the line you have drawn, and it is twice as far from $B$ as 
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [na] Date:2022-09-11::15:54
-
-
-
-instead of copying A B and C in italic write normal A B and C inside $$
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1039,7 +960,7 @@ instead of copying A B and C in italic write normal A B and C inside $$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A07DFA5F-6E79-4A8E-858C-5F7EEE4F984D</p>
 </div>
@@ -1047,13 +968,13 @@ instead of copying A B and C in italic write normal A B and C inside $$
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:22</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1169,7 +1090,7 @@ How many television sets are there in the street?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8E3AA5A8-68FD-4252-8F2B-2F73D7FC8EB8</p>
 </div>
@@ -1177,13 +1098,13 @@ How many television sets are there in the street?
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:24</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

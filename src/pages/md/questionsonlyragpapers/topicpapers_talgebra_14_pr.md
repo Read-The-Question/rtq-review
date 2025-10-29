@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-talgebra-14-pr"
 title: "TopicPaper - Algebra - 14 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "8"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>2784F9AB-5BC7-49F3-8FB7-79060976845B</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "8"
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -49,29 +49,6 @@ How much did their total holiday cost in total?
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-11-13::19:19
-
-
-
-Change to How much did their holiday cost in total>
-
-
-
-Reviewer: [ap] Date:2022-11-23::20:05
-
-
-
-Remove a from a holiday
-
-Change to cost
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -122,7 +99,7 @@ Change to cost
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>64648B6A-6870-4F8C-B4E3-D93E9531ADD4</p>
 </div>
@@ -130,13 +107,13 @@ Change to cost
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:39</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -288,7 +265,7 @@ What is the number on the fourth card?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>2E3B46A6-87E6-4075-8126-F70E278BA5D1</p>
 </div>
@@ -296,13 +273,13 @@ What is the number on the fourth card?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:41</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -432,7 +409,7 @@ $y * y$ gives $32$. What is $y?$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>909DB8BE-EF83-4036-B486-EAEF2ADE4F2B</p>
 </div>
@@ -440,13 +417,13 @@ $y * y$ gives $32$. What is $y?$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:38</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -586,7 +563,7 @@ ends up with $15$. Give all the possible orders in which she could have used her
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>158C726D-23E0-44BB-BFA4-60336D6BBF89</p>
 </div>
@@ -594,13 +571,13 @@ ends up with $15$. Give all the possible orders in which she could have used her
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -742,7 +719,7 @@ Which input would give the same output from both machines?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>951ACEF6-9F80-4564-A836-4357CFCA39E9</p>
 </div>
@@ -750,13 +727,13 @@ Which input would give the same output from both machines?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:36</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -850,19 +827,6 @@ How much did Claire spend on Thursday?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-11-27::15:47
-
-
-
-Leave a space between a number and p
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -913,7 +877,7 @@ Leave a space between a number and p
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>09FE06C4-5F9A-425D-A16A-E573A55234E0</p>
 </div>
@@ -921,13 +885,13 @@ Leave a space between a number and p
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:40</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1107,7 +1071,7 @@ that $(6 \ \boxed{\wedge} \ p) \ \boxed{\wedge} \ 4 = 56$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>0F3C8516-8502-4079-9E42-35AFA206FC61</p>
 </div>
@@ -1115,13 +1079,13 @@ that $(6 \ \boxed{\wedge} \ p) \ \boxed{\wedge} \ 4 = 56$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:32</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

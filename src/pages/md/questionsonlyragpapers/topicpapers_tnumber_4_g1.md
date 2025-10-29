@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tnumber-4-g1"
 title: "TopicPaper - Number - 4 - G1"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "5"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>D15C2527-3810-4C6D-8C76-E1F385A2FFE2</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "5"
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:25</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -117,27 +117,6 @@ The sequence of numbers above is called the Fibonacci sequence. $89$ is the $11^
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-10::14:36
-
-
-
-e: katex missing for 6
-
-
-
-Reviewer: [up] Date:2022-10-10::14:37
-
-
-
-? inside $$ wherever missing
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -188,7 +167,7 @@ Reviewer: [up] Date:2022-10-10::14:37
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>5C04FCE5-2000-40EF-A765-B33EBAA37EB8</p>
 </div>
@@ -196,13 +175,13 @@ Reviewer: [up] Date:2022-10-10::14:37
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:26</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -237,19 +216,6 @@ Do your working below the answer line.
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-10::14:39
-
-
-
-question not written correctly, its not 3 subquestions, these are 3 conditions to use to find the numbers, join all parts into one main top question, needs toml structure change, ask if not clear how to do it
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -300,7 +266,7 @@ question not written correctly, its not 3 subquestions, these are 3 conditions t
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>554B3D2D-7D52-4B91-AC2E-5CBB5B5578F4</p>
 </div>
@@ -308,13 +274,13 @@ question not written correctly, its not 3 subquestions, these are 3 conditions t
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:2:1</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -347,19 +313,6 @@ Work out the number from the following clues:
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-11::03:09
-
-
-
-remove empty lines between list items
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -410,7 +363,7 @@ remove empty lines between list items
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>76044041-12E6-44F3-B9A7-E35637106F3F</p>
 </div>
@@ -418,13 +371,13 @@ remove empty lines between list items
 <p>csse--11-plus--maths--2015--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -486,19 +439,6 @@ $4 \times 5 + 7 \ \boxed{\phantom{=}} \ (5 + 4) \times (7 - 4)$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-10::14:33
-
-
-
-use \boxed instead of \square
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -549,7 +489,7 @@ use \boxed instead of \square
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>AEB6BF0E-F43C-4C64-9C92-F1BD101BCBD3</p>
 </div>
@@ -557,13 +497,13 @@ use \boxed instead of \square
 <p>csse--11-plus--maths--2016--sample-paper-3:1:2</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -681,31 +621,6 @@ $66 \ \boxed{\phantom{1}} \ \div \ 35  = \boxed{\phantom{1}} \ 9$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-10::14:29
-
-
-
-Use  \boxed{\phantom{5}} instead of \Box
-
-
-
-Reviewer: [up] Date:2022-10-10::14:31
-
-
-
-d: write without space, write as 66boxed \div 35 = \boxed9 kind instead of \quad in between,
-
-
-
-ask if not clear
-</div>
 
 <div class='review'>
 <ul class='review'>

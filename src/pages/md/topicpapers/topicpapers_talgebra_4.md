@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-4"
 title: "TopicPaper - Algebra - 4"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "40"
 ---
 <div class='paper'>
@@ -2059,7 +2059,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>7862DF42-D05A-435E-8392-B8C1DEA0F1D4</p>
 </div>
@@ -2073,7 +2073,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2455,15 +2455,6 @@ My number is $= 5$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Last line \"was\" to \"is\".
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2616,19 +2607,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Remove first line.
-
-As per the question ==> As per the diagram
-
-No. of Black tiles ==> No. of grey tiles
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2993,35 +2971,6 @@ Second number $= 13$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Delete this line
-
-Lets find first number. Using equation 1 and 2 we get,
-
-
-
-Add these two lines in place of above line:
-
-We have got 2 variables and we have 2 equations to solve them. Lets eliminate to reduce it to just one variable.
-
-
-
-Add the first equation to the second to reduce it to one variable.
-
-
-
-Also show:
-
-a + b + a - b = 32 + 6 (add this line)
-
-a + a         = 38
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4370,7 +4319,7 @@ Chris hired the hall for $= 9 \ \text {hours}$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C8C21BEC-2A75-4073-81B1-8F56AFB3A97F</p>
 </div>
@@ -4384,7 +4333,7 @@ Chris hired the hall for $= 9 \ \text {hours}$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4750,15 +4699,6 @@ The number Theo first thought of $= 32$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Remove full stop from the last line.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5564,15 +5504,6 @@ The days bottle last her $= 6$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Remove full stop from the last line.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5761,7 +5692,7 @@ The number $= 7$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>38EAF1FA-664F-4D77-A761-828C6A2BCC05</p>
 </div>
@@ -5775,7 +5706,7 @@ The number $= 7$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5830,19 +5761,6 @@ Number of lines he coloured with red $= 5$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-First line: \"he\" ==> \"Dan\" 
-
-
-
-Second line: \"he\" ==> \"Dan\"
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -7654,7 +7572,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>BC6FA56F-026F-4BC2-A340-29312EDCD498</p>
 </div>
@@ -7668,7 +7586,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7749,19 +7667,6 @@ $6$ bottles will last for $= 9$ days.
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-not sure about the sol (Uday)
-
-
-
-Remove first line \"APTQ,\" and last line \"6 bottles ....\"
-
-
-
-Change answer 2 ==>  9 days
-</div>
 
 <div class='review'>
 <ul class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tinfer-4-notstarted"
 title: "TopicPaper - Infer - 4 - NOTSTARTED"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "39"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -666,11 +666,6 @@ $32 \times 32 = 1024$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-add tag tinfer and mark the status as PRR
-</div>
 
 <div class='review'>
 <ul class='review'>

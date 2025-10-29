@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-xinfer-1-pr"
 title: "TopicPaper - Infer - 1 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "2"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>CD25CBEA-D4C3-40CF-A2BF-8C6CDDB8263F</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "2"
 <p>eltham-college--11-plus--maths--2020--sample-paper-5:2:1</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -115,7 +115,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>245B809A-CA82-47B3-9241-30FCAC3D35B8</p>
 </div>
@@ -123,13 +123,13 @@ $
 <p>forest-school--11-plus--maths--9999--sample-paper-3:1:26</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -156,19 +156,6 @@ Which one of these four cards cannot have a $7$ on the back?
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-11-01::04:38
-
-
-
-do not use image here, use Large Boxed to write this, search for Large usage in other files to find how to do, ask if any confusion
-</div>
 
 <div class='review'>
 <ul class='review'>

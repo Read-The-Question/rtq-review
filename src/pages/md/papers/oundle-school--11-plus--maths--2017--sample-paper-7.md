@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2017-sample-paper-7"
 title: "Oundle School - 11 Plus - Maths - 2017 - Sample Paper 7"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "11"
 ---
 <div class='paper'>
@@ -14,7 +14,7 @@ questions_count: "11"
 </div>
 <ul class='question decimal question_type_question list_type_decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>154CF3A5-8DE7-4C0B-BB62-B260198A6014</p>
 </div>
@@ -28,7 +28,7 @@ questions_count: "11"
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -541,7 +541,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>7F8B7DAA-2971-4079-9737-6D7B149AA96E</p>
 </div>
@@ -555,7 +555,7 @@ $
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -854,15 +854,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-c: Change LHS to Each persons share
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2064,7 +2055,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>49A4C1C8-A26A-4008-B8AD-ED8A462A2B09</p>
 </div>
@@ -2078,7 +2069,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2214,7 +2205,7 @@ Sum of these numbers are $= 19 + 21 + 23 = 63$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>3AFA86B0-9BFB-41F8-900A-072D2C1A833D</p>
 </div>
@@ -2228,7 +2219,7 @@ Sum of these numbers are $= 19 + 21 + 23 = 63$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2394,51 +2385,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::08:24
-
-
-
-add another answer on lines of CC2CF032-912C-4CD7-AF4B-1BB85DC56BD4
-
-
-
-original price = 115 % of 200
-
-
-
-discount price = 90 % of 115 % of 200
-
-
-
-write the way that UUID is written and make that the first answer and keep this as alternate answer
-
-
-
-Reviewer: [up] Date:2022-09-28::08:25
-
-
-
-add another answer on lines of CC2CF032-912C-4CD7-AF4B-1BB85DC56BD4
-
-
-
-original price = 115 % of 200
-
-
-
-discount price = 90 % of 115 % of 200
-
-
-
-write the way that UUID is written and make that the first answer and keep this as alternate answer
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2489,7 +2435,7 @@ write the way that UUID is written and make that the first answer and keep this 
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>4FD61F4B-C055-4575-97AA-A608F1B07CE3</p>
 </div>
@@ -2503,7 +2449,7 @@ write the way that UUID is written and make that the first answer and keep this 
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2647,29 +2593,6 @@ Greatest possible value in the set $= 60$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [na] Date:2022-09-07::05:31
-
-
-
-Write a3 = 18 inside the begin-end.
-
-Write variables i.e a1, a2, within $$ where they are not written inside the begin-end. For eg in below lines:
-
-Minimum positive value of a1 = 1
-
-Minimum positive value of a2 = 2
-
-Minimum positive value of a4 = 19
-
-Using minimum possible values of a1, a2 and a4 to find the maximum possible value of a5.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2720,7 +2643,7 @@ Using minimum possible values of a1, a2 and a4 to find the maximum possible valu
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>31275674-A54A-40CB-954F-6A4D5E749290</p>
 </div>
@@ -2734,7 +2657,7 @@ Using minimum possible values of a1, a2 and a4 to find the maximum possible valu
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3141,35 +3064,6 @@ So, the ratio of number $4$-digit palindromes and $5$-digit palindromes $= \dfra
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-write manual way, write using begin aligned for ratio part
-
-
-
-refer CE2F50A4-A29C-4267-8728-7D80877E6590 for the last part, solve it like fraction and in the end show as ratio
-
-
-
-
-
-
-
-write manual way, write using begin aligned for ratio part
-
-
-
-refer CE2F50A4-A29C-4267-8728-7D80877E6590 for the last part, solve it like fraction and in the end show as ratio
-
-
-
-
-</div>
 
 <div class='review'>
 <ul class='review'>

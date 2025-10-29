@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tdirection-1"
 title: "TopicPaper - Direction - 1"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "13"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "13"
 <p>bancrofts-school--11-plus--maths--2017--sample-paper-3:1:30</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -166,10 +166,10 @@ Which number does it point to after turning through $10 \dfrac{1}{4}$ whole turn
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:20</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -253,10 +253,10 @@ In which direction will he be facing if he turns clockwise through $3$ right ang
 <p>bancrofts-school--11-plus--maths--2020--sample-paper-6:1:20</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -340,10 +340,10 @@ In which direction will he be facing if he turns clockwise through $3$ right ang
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:30</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -423,10 +423,10 @@ State a compass direction that is perpendicular to South West.
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2:1:14</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -506,10 +506,10 @@ If you are facing South, what is the smaller angle you have to turn through to f
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -595,10 +595,10 @@ $W$ for West, name the eight points on this compass. $\text{North} \ (N)$ has be
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -686,10 +686,10 @@ Imagine you are facing North East. If you turn through $135 \degree$ clockwise, 
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:11</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -777,10 +777,10 @@ Imagine you are facing South East. If you turn through $270 \degree$ clockwise, 
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:1:11</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -868,10 +868,10 @@ Imagine you are facing west. If you turn through $270 \degree$ anticlockwise, wh
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -957,10 +957,10 @@ in which direction should I turn and what should the angle be?
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:9</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1043,10 +1043,10 @@ If I face West and turn $270 \ \text{degrees}$ clockwise, in which direction am 
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:27</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1179,7 +1179,7 @@ Sandra is facing N and turns clockwise through $495 \degree$. In which direction
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>78D2E211-B587-4FE4-BA0D-63ACD98B73FF</p>
 </div>
@@ -1187,13 +1187,13 @@ Sandra is facing N and turns clockwise through $495 \degree$. In which direction
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:36</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

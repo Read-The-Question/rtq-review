@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-xstatistics-1"
 title: "TopicPaper - Statistics - 1"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "5"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "5"
 <p>aldenham-school--11-plus--maths--9999--sample-paper-5:1:20</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -142,10 +142,10 @@ Including the October sales the new mean is $35$. How many tractors were sold in
 <p>aldenham-school--11-plus--maths--9999--sample-paper-5:1:21</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -229,10 +229,10 @@ $2 \quad 7 \quad 10 \quad 5 \quad 4$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-i:1:20</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -312,10 +312,10 @@ Last week, at a seaside resort, there was an average of $3 \ \text{hours} $ of s
 <p>forest-school--11-plus--maths--9999--sample-paper-3:1:10</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -395,10 +395,10 @@ Theo has taken $4$ tests and his average marks is $60\%$. He scores $70%$ on his
 <p>forest-school--11-plus--maths--9999--sample-paper-3:1:20</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

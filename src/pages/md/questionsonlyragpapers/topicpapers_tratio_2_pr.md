@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tratio-2-pr"
 title: "TopicPaper - Ratio - 2 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "9"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>7DDBB564-8B87-4D8C-81E5-01AE0DB087C0</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "9"
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:1:3</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -84,19 +84,6 @@ If there are $80$ beads altogether, how many beads are black?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-11-09::20:55
-
-
-
-b: change those unicodes to something in katex, else use spadesuit as placeholder, ask if not clear
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -147,7 +134,7 @@ b: change those unicodes to something in katex, else use spadesuit as placeholde
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A0C9E770-C2D3-452D-86DE-E3F73C817ABC</p>
 </div>
@@ -155,13 +142,13 @@ b: change those unicodes to something in katex, else use spadesuit as placeholde
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:1:4</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -249,31 +236,6 @@ What is the ratio of type $B$ : type $C$ woodpeckers?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-11-09::19:31
-
-
-
-put A B in katex
-
-
-
-Reviewer: [up] Date:2022-11-09::19:31
-
-
-
-put A B in katex
-
-
-
-i wrote the same comment earlier too and they are not done
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -324,7 +286,7 @@ i wrote the same comment earlier too and they are not done
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5C2200D6-36D0-4173-BD70-897B3E61D6A1</p>
 </div>
@@ -332,13 +294,13 @@ i wrote the same comment earlier too and they are not done
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:1:5</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -430,19 +392,6 @@ Explain your answer.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-11-09::19:34
-
-
-
-part c: image part write in md / katex instead of image
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -493,7 +442,7 @@ part c: image part write in md / katex instead of image
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>AB8D141C-6937-4BD2-823D-644039CF0E18</p>
 </div>
@@ -501,13 +450,13 @@ part c: image part write in md / katex instead of image
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:23</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -605,7 +554,7 @@ She can lay $6$ bricks every $4 \ \text{minutes}$. How long will it take her to 
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>F4EA0A59-8C6E-47D9-8760-31CB473DCE39</p>
 </div>
@@ -613,13 +562,13 @@ She can lay $6$ bricks every $4 \ \text{minutes}$. How long will it take her to 
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -638,19 +587,6 @@ Bella makes purple paint by mixing blue paint and red paint in the ratio of $4 :
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-28::02:34
-
-
-
-unit inside katex
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -701,7 +637,7 @@ unit inside katex
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>87AA04CC-D448-4007-9256-68D87DB3FB84</p>
 </div>
@@ -709,13 +645,13 @@ unit inside katex
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:8</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -763,19 +699,6 @@ How much cordial should be used to make $750 \ \text{ml}$ of the drink?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-27::20:38
-
-
-
-parts is not unit, move it out of katex
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -826,7 +749,7 @@ parts is not unit, move it out of katex
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>44F0E0BB-97E5-4A28-BD0C-66D1683C7133</p>
 </div>
@@ -834,13 +757,13 @@ parts is not unit, move it out of katex
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:1:9</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -861,19 +784,6 @@ How many glasses of drink would a bottle of cordial make if it is diluted in the
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-28::01:48
-
-
-
-part is not unit, move out of katex
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -924,7 +834,7 @@ part is not unit, move out of katex
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>714AC34D-AA55-45CA-A28E-C0DB3E0A56F8</p>
 </div>
@@ -932,13 +842,13 @@ part is not unit, move out of katex
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:4</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -986,23 +896,6 @@ If you worked out the answer to part(A) on a calculator, what would the display 
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-20::09:25
-
-
-
-12 not inside katex
-
-
-
-write part (A)
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1053,7 +946,7 @@ write part (A)
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>232F57C7-E301-4FFA-80DA-C7978576A982</p>
 </div>
@@ -1061,13 +954,13 @@ write part (A)
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:13</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1086,19 +979,6 @@ David is $15 \ \text{stone} \ 11$. Andrew is $275 \ \text{pounds}$. If there are
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-28::03:16
-
-
-
-stone is unit, move inside katex
-</div>
 
 <div class='review'>
 <ul class='review'>

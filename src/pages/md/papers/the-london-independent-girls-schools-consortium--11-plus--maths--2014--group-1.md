@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2014-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2014 - Group 1"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "36"
 ---
 <div class='paper'>
@@ -739,7 +739,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>4E2CC2F8-A2C6-4373-8B60-1726ADBF85AE</p>
 </div>
@@ -753,7 +753,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -809,25 +809,6 @@ $63$ is the number between $50$ and $75$ which is a multiple of both $3$ and $7$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Solved wrong 
-
-
-
-Lets list multiples of 7 first as it will be less than multiples of 3
-
-
-
-Multiples of $7 = 56 , 63 , 70, 77$
-
-
-
-$63$ is a........
-
-Change blue answer also please.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1161,7 +1142,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>76EE240E-E3B0-4269-A3BB-7FF0D66152EC</p>
 </div>
@@ -1175,7 +1156,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1968,7 +1949,7 @@ Coins in her pocket $= \pounds 1, \ 50 \ \text{p}, \ 20 \ \text{p}, \ 2 \ \text{
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>77D3E478-5810-47C1-A19F-B5539031DB5A</p>
 </div>
@@ -1982,7 +1963,7 @@ Coins in her pocket $= \pounds 1, \ 50 \ \text{p}, \ 20 \ \text{p}, \ 2 \ \text{
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2120,19 +2101,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-08::18:35
-
-
-
-a: Change LHS to Difference
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2183,7 +2151,7 @@ a: Change LHS to Difference
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>937A6461-7022-4489-B148-36A947FCAD60</p>
 </div>
@@ -2197,7 +2165,7 @@ a: Change LHS to Difference
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2297,7 +2265,7 @@ Out of 14, 3 big triangles and 3 small triangles have to be shaded.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>283D33E8-E4AF-4295-A01E-F5EF9BA7A56E</p>
 </div>
@@ -2311,7 +2279,7 @@ Out of 14, 3 big triangles and 3 small triangles have to be shaded.
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2939,11 +2907,6 @@ TODOANSWER
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-tpermutation
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4448,13 +4411,6 @@ How many millilitres of liquid are in this container?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Put a tag tdraw also and Please change the c answer and mark this question PRR
-
-270 ml change in blue answer also.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4513,10 +4469,10 @@ Put a tag tdraw also and Please change the c answer and mark this question PRR
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:22</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4743,37 +4699,6 @@ rtq_abbr_md_add_drawing_ends
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-As per the question, 
-
-
-
-Area of a square = length x width
-
-Area of shape D = No. of squares x (length x width)
-
-= 12 x (1 cm x 1 cm)
-
-= 12 x 1 cm^2
-
-= 12 cm^2
-
-
-
-Part B
-
-
-
-As per the figure, if we move the top left shaded square and fir 
-
-
-
-Perimeter of shae D = Sum of all sides
-
-=  
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5477,7 +5402,7 @@ TODOANSWER
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6093EC91-FE4F-4064-A4B3-60C19714F951</p>
 </div>
@@ -5491,7 +5416,7 @@ TODOANSWER
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5868,19 +5793,6 @@ $(5, 7)$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-24::04:28
-
-
-
-part b, both parts show working for coordinates similar to 80112605-EA47-447F-8253-F179A00FDDCC
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5931,7 +5843,7 @@ part b, both parts show working for coordinates similar to 80112605-EA47-447F-82
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>273417E9-5CF0-4566-9F64-531416395460</p>
 </div>
@@ -5945,7 +5857,7 @@ part b, both parts show working for coordinates similar to 80112605-EA47-447F-82
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6466,7 +6378,7 @@ TODOANSWER
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>66489EBB-AF77-436C-8265-5C9A279D0B94</p>
 </div>
@@ -6474,13 +6386,13 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:29</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6710,29 +6622,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-It is really important to use the right units in calculations and convert where required. The perimeter is given in metres while the distance is given in kilometeres.
-
-
-
-Total rounds = Distance / Perimeter
-
-= 6 km / 400 m
-
-= 6 x 1000 / 400 
-
-= 4 x 15... correct step
-
-= cancel zeros  
-
-= 15
-
-
-
-PArt B = Not solved.solve please
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -6783,7 +6672,7 @@ PArt B = Not solved.solve please
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>CF431EE7-5B0C-4303-969F-FCDBD0161F86</p>
 </div>
@@ -6797,7 +6686,7 @@ PArt B = Not solved.solve please
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7306,10 +7195,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:31</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7574,7 +7463,7 @@ rtq_abbr_md_add_drawing_ends
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D8435D61-BAC3-4133-A265-8167DD74396D</p>
 </div>
@@ -7588,7 +7477,7 @@ rtq_abbr_md_add_drawing_ends
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

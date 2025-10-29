@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tvenn-1-pr"
 title: "TopicPaper - Venn - 1 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "9"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>EF12320B-A806-4700-9709-80A1AD893E82</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "9"
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3:1:16</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -57,19 +57,6 @@ How many or her friends liked **football and cricket**?
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-11-27::18:04
-
-
-
-Remove the last sentence
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -120,7 +107,7 @@ Remove the last sentence
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>DFE4C0A3-F27D-4912-B86A-4B38507DC7E5</p>
 </div>
@@ -128,13 +115,13 @@ Remove the last sentence
 <p>csse--11-plus--maths--2017--sample-paper-4:1:20</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -262,7 +249,7 @@ What fraction of the pupils did *not* ride Skyleap?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>7B83BD4F-38FE-4088-BDD0-C94A2203662F</p>
 </div>
@@ -270,13 +257,13 @@ What fraction of the pupils did *not* ride Skyleap?
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:32</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -345,7 +332,7 @@ In a car park there are $48$ cars. $\dfrac{3}{8}$ of the cars are blue and $25\%
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>050EE19D-DD2B-4EAE-B94A-09B3971155EF</p>
 </div>
@@ -353,13 +340,13 @@ In a car park there are $48$ cars. $\dfrac{3}{8}$ of the cars are blue and $25\%
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:19</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -428,7 +415,7 @@ In a car park there are $60$ cars. $\dfrac {5}{12}$ of the cars are red and $20\
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6C9BA983-C6CB-4792-85CE-961A719469F4</p>
 </div>
@@ -436,13 +423,13 @@ In a car park there are $60$ cars. $\dfrac {5}{12}$ of the cars are red and $20\
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:23</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -511,7 +498,7 @@ At a birthday party, one half drank only lemonade, one third drank only cola, $1
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>18366B1F-0D52-4406-9065-0C4E981ECC6E</p>
 </div>
@@ -519,13 +506,13 @@ At a birthday party, one half drank only lemonade, one third drank only cola, $1
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -560,19 +547,6 @@ Mongle birds can be either pink or green. Some of them eat insects, but the rest
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-27::19:17
-
-
-
-table align center
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -623,7 +597,7 @@ table align center
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>7131CF37-3228-48AF-BCD3-347D0C7E8E51</p>
 </div>
@@ -631,13 +605,13 @@ table align center
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:21</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -699,19 +673,6 @@ How many boys in the class are right-handed?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-15::04:32
-
-
-
-part a: remove Boys Girls Total Left handed Right handed Total at the bottom
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -762,7 +723,7 @@ part a: remove Boys Girls Total Left handed Right handed Total at the bottom
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E4668280-4B3B-4874-A990-F344657248F4</p>
 </div>
@@ -770,13 +731,13 @@ part a: remove Boys Girls Total Left handed Right handed Total at the bottom
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:33</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -827,29 +788,6 @@ Complete the table.
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-27::12:47
-
-
-
-Change to male
-
-Change to female
-
-
-
-Reviewer: [ap] Date:2022-11-20::10:11
-
-
-
-Change to born in the UK and not born in the UK
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -900,7 +838,7 @@ Change to born in the UK and not born in the UK
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8D7FE537-C331-4B25-9A6B-1A0619446A32</p>
 </div>
@@ -908,13 +846,13 @@ Change to born in the UK and not born in the UK
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:33</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

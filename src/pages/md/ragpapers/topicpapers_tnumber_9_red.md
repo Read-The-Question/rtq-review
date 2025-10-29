@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-9-red"
 title: "TopicPaper - Number - 9 - RED"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "1"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_red rag_prr question'>
+<div class='question_envelope rag_red rag_prns question'>
 <div class='uuid'>
 <p>18A69996-8098-4000-8469-C412985C7EA2</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "1"
 <p>rag_wf_red</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

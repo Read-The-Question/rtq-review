@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-ttable-1"
 title: "TopicPaper - Table - 1"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "40"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "40"
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:27</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -123,10 +123,10 @@ Complete the chart above.
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:1:20</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -222,10 +222,10 @@ Complete the chart above.
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:16</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -365,10 +365,10 @@ Find the probability that a student picked at random likes Hockey best.
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -468,10 +468,10 @@ Fill in the gaps to help her.
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:20</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -573,10 +573,10 @@ Adam is trying to find a formula that links the Table number, $T$, to the number
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:2:6</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -733,10 +733,10 @@ Which team won Sports Day?
 <p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -826,7 +826,7 @@ Fill in the missing numbers.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>24AE994D-9F9F-409D-9DF9-4882B6E3735B</p>
 </div>
@@ -834,13 +834,13 @@ Fill in the missing numbers.
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:14</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -885,35 +885,6 @@ each diagonal adds up to $3$
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [na] Date:2022-09-08::04:27
-
-
-
-table code is not properly aligned
-
-
-
-Reviewer: [up] Date:2022-10-11::20:09
-
-
-
-r1 c1 add a \boxed before 2, there is an empty space there in the question
-
-
-
-Reviewer: [up] Date:2022-10-13::12:31
-
-
-
-review comments not done, please read carefully
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -972,10 +943,10 @@ review comments not done, please read carefully
 <p>csse--11-plus--maths--2015--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1075,10 +1046,10 @@ Complete the table with the two missing values.
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1174,10 +1145,10 @@ How many children have at least one pet?
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-f:1:20</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1277,10 +1248,10 @@ Fill in the missing numbers to give a complete set of scores.
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1435,10 +1406,10 @@ Which country is the most densely populated (most people for each square kilomet
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:21</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1575,10 +1546,10 @@ What fraction of the girls don't walk to school?
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1668,7 +1639,7 @@ Complete the following table
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>490B1CA6-A56A-4DC4-A8D3-8AE58060E237</p>
 </div>
@@ -1676,13 +1647,13 @@ Complete the following table
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1742,21 +1713,6 @@ Write a formula for the number of matchsticks, $m$.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-11-10::08:22
-
-
-
-b: write in katex
-
-c: write m in katex
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1815,10 +1771,10 @@ c: write m in katex
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:11</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1988,10 +1944,10 @@ which league had the most goals scored in it by these players?
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:38</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2075,10 +2031,10 @@ Use each number from $1$ to $8$ once in the boxes to make all the calculations c
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:35</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2221,10 +2177,10 @@ How many passengers passed the front of school?
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2326,7 +2282,7 @@ Complete the table:
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E3A71500-A129-43F9-A384-7EBFC4A98DA7</p>
 </div>
@@ -2334,13 +2290,13 @@ Complete the table:
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:1:7</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2377,19 +2333,6 @@ Complete the table below by placing ticks in all the correct boxes.
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-28::01:53
-
-
-
-align center
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2448,10 +2391,10 @@ align center
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:34</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2566,10 +2509,10 @@ Raiders?
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:1:7</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2712,7 +2655,7 @@ Which dog lost more weight than Sam?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9C241A72-22AC-4EB3-AA57-303AF0AA73F6</p>
 </div>
@@ -2720,13 +2663,13 @@ Which dog lost more weight than Sam?
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:1:10</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2826,19 +2769,6 @@ How many boys have left the school?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-11-20::12:52
-
-
-
-Third row should say 6B
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2897,10 +2827,10 @@ Third row should say 6B
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2998,10 +2928,10 @@ Give the fractions in their simplest form.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:35</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3104,7 +3034,7 @@ Use this information to complete the table below.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D7FA24B3-8E8D-48B9-A6BB-C84F327E1EE7</p>
 </div>
@@ -3112,13 +3042,13 @@ Use this information to complete the table below.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:14</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3202,19 +3132,6 @@ What is the rule of this number machine?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-28::10:45
-
-
-
-Add a full stop after below
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3273,10 +3190,10 @@ Add a full stop after below
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:30</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3440,7 +3357,7 @@ In which year will Joak have $65$ bristles?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9282CB4F-CAD1-42F2-B4EF-B903E6FA04CB</p>
 </div>
@@ -3448,13 +3365,13 @@ In which year will Joak have $65$ bristles?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:15</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3553,35 +3470,6 @@ Write suitable labels on the diagram below.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-11-20::12:30
-
-
-
-second output wrong in b)
-
-
-
-Reviewer: [ap] Date:2022-11-20::12:30
-
-
-
-second output wrong in b)
-
-
-
-Reviewer: [ap] Date:2022-11-20::12:30
-
-
-
-second output wrong in b)
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3640,10 +3528,10 @@ second output wrong in b)
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:34</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3747,10 +3635,10 @@ The first one has already been done for you.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:24</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3844,10 +3732,10 @@ How long must he wait to catch the $5.02 \ \text{p.m.}$ train?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:32</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3931,7 +3819,7 @@ Tick the correct box for each statement:
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>B319A8FD-DA45-4765-93A2-206B628B6D53</p>
 </div>
@@ -3939,13 +3827,13 @@ Tick the correct box for each statement:
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:15</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4093,7 +3981,7 @@ Work out what Erin does to each number that Claire calls out.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D82964FC-A0B1-4790-AFE3-8F5B70075C0C</p>
 </div>
@@ -4101,13 +3989,13 @@ Work out what Erin does to each number that Claire calls out.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:40</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4273,7 +4161,7 @@ Which pattern has $45$ dots?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>B2840747-46F0-4E96-BFB6-23B78D10FEA6</p>
 </div>
@@ -4281,13 +4169,13 @@ Which pattern has $45$ dots?
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4390,7 +4278,7 @@ Fill in all the missing numbers on the board so that the judges have a complete 
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5D77E426-7588-494B-9AEC-B5365525A3B6</p>
 </div>
@@ -4398,13 +4286,13 @@ Fill in all the missing numbers on the board so that the judges have a complete 
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b:1:10</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4578,7 +4466,7 @@ but if $15$ sharks came each night, eating $300$ fish each, complete the table b
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E328737F-AC5D-4423-9C7F-68AF92098440</p>
 </div>
@@ -4586,13 +4474,13 @@ but if $15$ sharks came each night, eating $300$ fish each, complete the table b
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-b:1:5</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4732,7 +4620,7 @@ Which runners have a handicap of $15 \ \text{seconds}?$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>EBDFF16C-1229-47C0-965D-D17A4C4BEF3A</p>
 </div>
@@ -4740,13 +4628,13 @@ Which runners have a handicap of $15 \ \text{seconds}?$
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-b:1:10</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4851,7 +4739,7 @@ Complete the table of spies recruited by the spymaster and his spies up to $2018
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9B6761E0-521D-40C2-A8FB-2BD52AB663A0</p>
 </div>
@@ -4859,13 +4747,13 @@ Complete the table of spies recruited by the spymaster and his spies up to $2018
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b:1:3</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4930,27 +4818,6 @@ Esthopia    ,                           ,                           ,           
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-13::11:25
-
-
-
-point is not a unit, move it out of katex
-
-
-
-Reviewer: [up] Date:2022-10-13::11:25
-
-
-
-leave space between number and pts in the table
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5001,7 +4868,7 @@ leave space between number and pts in the table
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D1A13742-7301-44E1-80FF-FB450370ADAC</p>
 </div>
@@ -5009,13 +4876,13 @@ leave space between number and pts in the table
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b:1:9</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5076,19 +4943,6 @@ Row 6   ,                           ,               ,$e)$       ,           ,
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-13::11:43
-
-
-
-quite a few issues in this question, remove all subquestions etc, write a b c d e in footnote font etc, discuss before doing this
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5139,7 +4993,7 @@ quite a few issues in this question, remove all subquestions etc, write a b c d 
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>542EA20C-BCD7-4158-9697-2DAE79581EDE</p>
 </div>
@@ -5147,13 +5001,13 @@ quite a few issues in this question, remove all subquestions etc, write a b c d 
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-b:1:3</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

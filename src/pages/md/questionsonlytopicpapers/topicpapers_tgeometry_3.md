@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tgeometry-3"
 title: "TopicPaper - Geometry - 3"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "37"
 ---
 <div class='paper'>
@@ -16,7 +16,7 @@ questions_count: "37"
 # Section A
 <ul class='question decimal question_type_question list_type_decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>0C1A6102-AA5A-4140-BA5E-CFA41D8E85BA</p>
 </div>
@@ -24,13 +24,13 @@ questions_count: "37"
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:14</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -166,10 +166,10 @@ Give reasons for your answer.
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -253,10 +253,10 @@ Two of the shapes below fit together to make a square. Which are they?
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:8</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -344,10 +344,10 @@ You may use a ruler.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:22</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -435,10 +435,10 @@ which have exactly one line of symmetry?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:24</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -522,10 +522,10 @@ How many squares are there in this diagram?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:27</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -609,10 +609,10 @@ Each cross is a corner of a shape. Join the correct corners to make a square and
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:28</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -696,10 +696,10 @@ Work out the area of the shape below and in the empty grid draw a square with th
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:32</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -775,7 +775,7 @@ Write down the letters of the two shapes which will fold to make a cube.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>ADACADD4-3CE8-46AF-977B-B7D792EEA446</p>
 </div>
@@ -783,13 +783,13 @@ Write down the letters of the two shapes which will fold to make a cube.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:34</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -820,27 +820,6 @@ If the tower is taken apart and rebuilt into the big cube shown below, how many 
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-26::14:47
-
-
-
-Place the second image below the second sentence
-
-
-
-Reviewer: [up] Date:2022-10-26::14:47
-
-
-
-Place the second image below the second sentence
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -899,10 +878,10 @@ Place the second image below the second sentence
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:22</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -986,10 +965,10 @@ Which two shapes can be fitted together to make the larger shape?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:29</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1073,10 +1052,10 @@ Write down how many cubes and triangular blocks are used to make the ship shown 
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1152,7 +1131,7 @@ How many triangles are there in this diagram?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>450B087E-B323-48DE-A95E-DA13AE752885</p>
 </div>
@@ -1160,13 +1139,13 @@ How many triangles are there in this diagram?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:20</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1302,10 +1281,10 @@ Circle the shape that you would see if you were looking at it from $C$, (from ab
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:23</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1422,10 +1401,10 @@ The diagram shows part of a shape which has the $2$ lines of symmetry shown. Com
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:34</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1525,10 +1504,10 @@ Draw the views that are seen in the direction of arrows $A$ and $C$ using the gr
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:18</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1612,10 +1591,10 @@ On the blank grid, draw a rectangle of the same area as the picture below.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:25</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1732,10 +1711,10 @@ On the centimetre squared grid below, draw a rectangle which has the same area a
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:26</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1880,10 +1859,10 @@ Write down possible coordinates of point $E$.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:32</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1979,7 +1958,7 @@ Write the letter of the diagram which shows the
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3B42ACFB-6E6C-4361-B2FE-FB2B4FADBC94</p>
 </div>
@@ -1987,13 +1966,13 @@ Write the letter of the diagram which shows the
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:27</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2127,10 +2106,10 @@ the same distance from point $A$ as it is from point $B$.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:23</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2306,10 +2285,10 @@ How far does Adam run?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:34</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2418,7 +2397,7 @@ From which direction, $A, B, C,$ and $D$ are the following views taken?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>16BAFC1E-BE70-4E81-9D27-D76DED4D82FF</p>
 </div>
@@ -2426,13 +2405,13 @@ From which direction, $A, B, C,$ and $D$ are the following views taken?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:27</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2526,10 +2505,10 @@ Write the following $5$ shapes in the correct boxes in the table:
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:28</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2613,10 +2592,10 @@ If a $1 \ \text{cm}$ cube is cut from each corner, how many faces will the new s
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:27</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2780,10 +2759,10 @@ On the grid below, draw and shade the plan view of the object.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:37</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2910,10 +2889,10 @@ How many diagonals has a regular dodecagon ($12$ sides)?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:37</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3001,10 +2980,10 @@ How many equilateral triangles (of any size) can be found in the diagram?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:23</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3088,10 +3067,10 @@ Reflect the shape in the mirror line.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:30</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3167,7 +3146,7 @@ Shade in four squares, so that the finished shape has exactly two lines of symme
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C855329F-19A4-4A27-959D-17D3F293E4FF</p>
 </div>
@@ -3175,13 +3154,13 @@ Shade in four squares, so that the finished shape has exactly two lines of symme
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:36</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3307,10 +3286,10 @@ On the grid below, show how Fran can fit together the same two isosceles triangl
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3409,7 +3388,7 @@ Write down the co-ordinates of the point $E$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>1CB8C85C-7BC6-41F2-880C-D78E551CB9B6</p>
 </div>
@@ -3417,13 +3396,13 @@ Write down the co-ordinates of the point $E$
 <p>tonbridge-school--scholarship--maths--2016--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3504,7 +3483,7 @@ not necessarily whole numbers.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>B704F269-2806-4DCD-8E58-7B360E937D6C</p>
 </div>
@@ -3512,13 +3491,13 @@ not necessarily whole numbers.
 <p>tonbridge-school--scholarship--maths--2016--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3634,7 +3613,7 @@ Find another pair of different whole numbers $m$ and $n$ (other than those in ($
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>DE1D9796-F11D-4DA8-ADF1-9F1086B40385</p>
 </div>
@@ -3642,13 +3621,13 @@ Find another pair of different whole numbers $m$ and $n$ (other than those in ($
 <p>tonbridge-school--scholarship--maths--2017--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3758,10 +3737,10 @@ If $a = 120, c = 169$ find $b$ and $d$.
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3868,7 +3847,7 @@ Name the quadrilateral $PQRS$.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>FBC35DFD-DE18-4E4F-BDEF-DB48D39CC40F</p>
 </div>
@@ -3876,13 +3855,13 @@ Name the quadrilateral $PQRS$.
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:2:3</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3998,7 +3977,7 @@ For each statement tick $(\checkmark )$ True or False.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9500ACF7-6DD6-45F5-B231-7F60A94A3BF8</p>
 </div>
@@ -4006,13 +3985,13 @@ For each statement tick $(\checkmark )$ True or False.
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:2:6</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-xalgebra-1-g2-prns"
 title: "TopicPaper - Algebra - 1 - G2 - PRNS"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "16"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "16"
 <p>aldenham-school--11-plus--maths--9999--sample-paper-5:1:3</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -154,10 +154,10 @@ $ 28 - \boxed{\phantom{15}} = 30$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-5:1:17</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -268,10 +268,10 @@ $3a^2 \quad \boxed {\phantom{15}} \quad 8b$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-5:1:19</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -390,10 +390,10 @@ $2b - 25 = 41$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-5:1:22</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -475,10 +475,10 @@ Given that two teas and a coffee cost $ \pounds 2.50$ and one tea and three coff
 <p>bancrofts-school--11-plus--maths--9999--sample-paper-8:1:3</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -593,10 +593,10 @@ Each elf is $55  \ \text{cm}$ taller than each hobbit. How tall is each hobbit. 
 <p>bancrofts-school--11-plus--maths--9999--sample-paper-8:1:9</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -719,10 +719,10 @@ $\sqrt{\boxed{\phantom{15}} - 14} - 2 = 3 $
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-i:1:7</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -806,10 +806,10 @@ $ \dfrac {15} {\boxed{\phantom{15}}} = \dfrac {1} {3} = \dfrac{\boxed{\phantom{1
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-i:1:24</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -889,10 +889,10 @@ Mary's telephone number is made up of $6$ digits. The first digit is $1$ and the
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-i:1:25</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -972,10 +972,10 @@ Two farmers were taking cows to a market. One said to the other, If you give me 
 <p>eltham-college--11-plus--maths--2020--sample-paper-5:1:18</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1075,10 +1075,10 @@ What is the value of $p + q?$
 <p>eltham-college--11-plus--maths--9999--sample-paper-3:1:10</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1203,10 +1203,10 @@ $ \dfrac{n} {2} - 3  = 90$
 <p>eltham-college--11-plus--maths--9999--sample-paper-4:1:9</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1325,10 +1325,10 @@ Work out the value of $3f - 2g$
 <p>eltham-college--11-plus--maths--9999--sample-paper-4:1:12</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1437,10 +1437,10 @@ $3.64 \div 0.2 = 364 \div \boxed{\phantom{15}} $
 <p>eltham-college--11-plus--maths--9999--sample-paper-4:1:15</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1567,10 +1567,10 @@ Find the largest total that cannot be made. Explain your answer.
 <p>forest-school--11-plus--maths--9999--sample-paper-3:1:21</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1650,10 +1650,10 @@ In a bag there are twice as many blue balls as red balls. There are $18$ balls a
 <p>forest-school--11-plus--maths--9999--sample-paper-3:1:22</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

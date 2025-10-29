@@ -1,7 +1,7 @@
 ---
 slug: "papers/solihull-school-11-plus-maths-9999-sample-paper-1"
 title: "Solihull School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "31"
 ---
 <div class='paper'>
@@ -2520,7 +2520,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D773D9B3-F46E-4A79-86BE-5A0C3A9080D0</p>
 </div>
@@ -2534,7 +2534,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4691,7 +4691,7 @@ Amount in pounds $= \pounds 117$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>527152F8-094F-4AFE-A50B-4595C903532F</p>
 </div>
@@ -4699,13 +4699,13 @@ Amount in pounds $= \pounds 117$
 <p>solihull-school--11-plus--maths--9999--sample-paper-1:2:5</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4985,35 +4985,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-PArt A & Part B same change
-
-PArt A Step 1 inside katex Perimeter &= 2×(14+9)
-
-
-
-PArt B Step 1 inside katex Area  = ...
-
-
-
-Part C 
-
-Line 1 =.... Side (no brackets and caps)
-
-Step 1 katex : 4 x Side =.... give space before cm (in whole answer) 
-
-Side = solve further 
-
-
-
-Area of a square &= Side^2
-
-               &= 9^2
-
-
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5064,7 +5035,7 @@ Area of a square &= Side^2
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9A883C42-A781-4CA7-9556-344DBE9D8D10</p>
 </div>
@@ -5078,7 +5049,7 @@ Area of a square &= Side^2
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7007,7 +6978,7 @@ Number of coins on the table $= 24$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>7133C4B6-24EB-4420-92C7-0A0CC3F6411E</p>
 </div>
@@ -7015,13 +6986,13 @@ Number of coins on the table $= 24$
 <p>solihull-school--11-plus--maths--9999--sample-paper-1:3:5</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

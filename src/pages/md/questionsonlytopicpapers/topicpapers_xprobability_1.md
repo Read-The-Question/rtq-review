@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-xprobability-1"
 title: "TopicPaper - Probability - 1"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "3"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "3"
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-i:1:19</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -152,10 +152,10 @@ Who is more likely to spin an even number?
 <p>forest-school--11-plus--maths--2012--sample-paper-4:1:17</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -235,10 +235,10 @@ A drawer contains $4$ red socks and $4$ blue socks. What is the smallest number 
 <p>forest-school--11-plus--maths--2012--sample-paper-4:1:25</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/kent-college-canterbury-11-plus-maths-2013-sample-paper-4"
 title: "Kent College Canterbury - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "38"
 ---
 <div class='paper'>

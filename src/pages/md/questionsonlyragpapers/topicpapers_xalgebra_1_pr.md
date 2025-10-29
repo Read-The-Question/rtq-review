@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-xalgebra-1-pr"
 title: "TopicPaper - Algebra - 1 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "1"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E60093AE-3C16-41F5-97FE-B0851B034BAA</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "1"
 <p>forest-school--11-plus--maths--2012--sample-paper-4:1:32</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -106,23 +106,6 @@ $z * 6 = 31$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-11-06::04:52
-
-
-
-write main body using begin aligned,
-
-
-
-write If outside katex on its own line and rest of the maths in begin aligned
-</div>
 
 <div class='review'>
 <ul class='review'>

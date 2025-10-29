@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tsequence-1-pr"
 title: "TopicPaper - Sequence - 1 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "10"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>EA85D0A0-5E18-41C9-B6EB-C943BAE67410</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "10"
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:3</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -173,17 +173,6 @@ Explain your answer.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Part a) Split the three questions into sub subquestions
-
-Part b) Change thus to this
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -234,7 +223,7 @@ Part b) Change thus to this
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>77947F00-D2D8-4275-8DEE-216006A4C91F</p>
 </div>
@@ -242,13 +231,13 @@ Part b) Change thus to this
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:3:7</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -318,17 +307,6 @@ Now work out the $100 \text{th}$ triangular number.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-prequestion: Write triangular number in normal text not KATEX text
-
-Part b) Write 100th not 110th
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -379,7 +357,7 @@ Part b) Write 100th not 110th
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>0B0341E6-86C5-4DEF-B25F-46E5C2E9D35D</p>
 </div>
@@ -387,13 +365,13 @@ Part b) Write 100th not 110th
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2:2:1</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -529,7 +507,7 @@ you can multiply the Shape Number by $\text{\textunderscore \textunderscore \tex
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>97EC4679-4B22-432A-B75E-70CDE6F13A82</p>
 </div>
@@ -537,13 +515,13 @@ you can multiply the Shape Number by $\text{\textunderscore \textunderscore \tex
 <p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -666,19 +644,6 @@ Anah makes a shape with $29$ triangles. How many matches did she use?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-13::12:40
-
-
-
-table: make it align its data, not set correctly
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -729,7 +694,7 @@ table: make it align its data, not set correctly
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E5FC8466-3F33-41B1-BF45-728FDA965248</p>
 </div>
@@ -737,13 +702,13 @@ table: make it align its data, not set correctly
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:1:8</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -801,43 +766,6 @@ Describe how you completed the problem:
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [na] Date:2022-09-08::03:39
-
-
-
-Leave an empty line between first and second line.
-
-
-
-Use \ldots instead of .... in second line, and everything should be inside $$ in second line.
-
-
-
-Options just use one single $$ to wrap options. i.e $38$,$47$ ==> $38,47$
-
-
-
-Reviewer: [up] Date:2022-10-11::19:49
-
-
-
-use \quad between numbers 5, \quad 13 so on
-
-
-
-Reviewer: [ap] Date:2022-11-27::17:10
-
-
-
-a) Change to multiply
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -888,7 +816,7 @@ a) Change to multiply
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>89E7D01B-A290-4615-8059-B2F74EB6A2A9</p>
 </div>
@@ -896,13 +824,13 @@ a) Change to multiply
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -925,19 +853,6 @@ $1\dfrac{3} {4}, \quad 2\dfrac{1} {2}, \quad 3\dfrac{1} {4},\quad \ldots, \quad 
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-13::14:22
-
-
-
-use quad and ldots, remove underscore ... etc
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -988,7 +903,7 @@ use quad and ldots, remove underscore ... etc
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>83D7FB0E-7852-4832-A05F-3760815BB286</p>
 </div>
@@ -996,13 +911,13 @@ use quad and ldots, remove underscore ... etc
 <p>colfes-school--11-plus--maths--9999--sample-paper:1:23</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1040,15 +955,6 @@ $ 2,\quad \ldots, \quad \ldots, \quad 16, \quad 32, \quad 64 $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Put a comma after the second group of underscores
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1099,7 +1005,7 @@ Put a comma after the second group of underscores
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>74AC0BFA-22B8-4B5D-8DD6-0A435EF9F48A</p>
 </div>
@@ -1107,13 +1013,13 @@ Put a comma after the second group of underscores
 <p>csse--11-plus--maths--2015--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1185,27 +1091,6 @@ What is the hundredth $(100^\text{th})$ term in the sequence?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-13::19:12
-
-
-
-add quad between sequence numbers
-
-
-
-Reviewer: [up] Date:2022-10-13::19:12
-
-
-
-remove katex space before ldot
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1256,7 +1141,7 @@ remove katex space before ldot
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6D4D32D1-1C8A-41BE-8BF0-9E949E2F4CE1</p>
 </div>
@@ -1264,13 +1149,13 @@ remove katex space before ldot
 <p>csse--11-plus--maths--2015--sample-paper-2:1:15</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1388,7 +1273,7 @@ What is the $24^\text{th}$ number?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8DC779E4-A5A9-41FF-B1EC-0261EF6C2E9B</p>
 </div>
@@ -1396,13 +1281,13 @@ What is the $24^\text{th}$ number?
 <p>csse--11-plus--maths--2017--sample-paper-4:1:21</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1472,19 +1357,6 @@ Which other pattern in the sequence also uses exactly $36$ black tiles?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [na] Date:2022-09-08::22:27
-
-
-
-th in the superscript
-</div>
 
 <div class='review'>
 <ul class='review'>

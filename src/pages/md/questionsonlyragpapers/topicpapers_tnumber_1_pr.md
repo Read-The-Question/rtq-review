@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tnumber-1-pr"
 title: "TopicPaper - Number - 1 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "1"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>537749BB-F8F4-44B4-8D9C-ED8E0E53DA55</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "1"
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:18</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -134,35 +134,6 @@ $\dfrac{1}{9}$ is half of $\ldots$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-15::06:28
-
-
-
-just show using md list, remove boxes, they are not aligning correctly
-
-
-
-Reviewer: [up] Date:2022-10-15::06:29
-
-
-
-some issue in raw katex, extra empty lines maybe, fix
-
-
-
-Reviewer: [up] Date:2022-10-15::06:29
-
-
-
-c: use ldot remove underscore
-</div>
 
 <div class='review'>
 <ul class='review'>

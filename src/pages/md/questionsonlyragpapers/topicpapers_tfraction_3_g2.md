@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tfraction-3-g2"
 title: "TopicPaper - Fraction - 3 - G2"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "23"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "23"
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:1:27</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -101,10 +101,10 @@ $\dfrac{3}{8}-\dfrac{1}{24}$
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:22</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -188,10 +188,10 @@ What fraction of this flag has been shaded? Give the fraction as simply as possi
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:23</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -275,10 +275,10 @@ Shade in two fifths of the flag below.
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:15</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -362,10 +362,10 @@ Use your answer to find four ninths of $360$.
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:16</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -445,10 +445,10 @@ Add together $\dfrac{1}{4}$ of $24 {,} \dfrac{2}{5}$ of $30$ and $\dfrac{1}{3}$ 
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:22</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -532,10 +532,10 @@ $\dfrac{1}{3}+\dfrac{5}{12}$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:23</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -619,10 +619,10 @@ $\dfrac{7}{15}-\dfrac{2}{5}$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:38</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -702,10 +702,10 @@ What is half of $999?$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:15</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -814,10 +814,10 @@ Use your answer to find four sevenths of $280$.
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:22</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -901,10 +901,10 @@ $\dfrac{2}{3}+\dfrac{2}{9}$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:23</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -988,10 +988,10 @@ $\dfrac{5}{8}-\dfrac{3}{5}$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:36</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1077,10 +1077,10 @@ $\dfrac{3}{4} \quad \dfrac{2}{3} \quad \dfrac{5}{12} \quad \dfrac{9}{4}$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:40</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1164,10 +1164,10 @@ $\dfrac{1+2}{2+3} \quad \dfrac{2+4}{2+3} \quad \dfrac{1+2}{4+6} \quad \dfrac{3+4
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:9</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1290,10 +1290,10 @@ What is $0.404$ written as a fraction in its lowest terms?
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:14</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1402,10 +1402,10 @@ $\dfrac{3}{4}\div\dfrac{1}{6}$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:15</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1485,10 +1485,10 @@ tfraction
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:16</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1568,10 +1568,10 @@ Calculate $4\dfrac{3}{7}+2\dfrac{5}{6}$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:26</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1687,10 +1687,10 @@ How many students favourite colour is NOT Blue?
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1773,10 +1773,10 @@ What fraction of $2.4 \ \text{litres}$ is $400 \ \text{ml} \text{?}$
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:1:10</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1885,10 +1885,10 @@ $\dfrac {3} {7}$ of $35$
 <p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:1:3</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1968,10 +1968,10 @@ Evaluate $\dfrac {3} {4} \times \dfrac {5} {7}$
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:1:2</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2094,10 +2094,10 @@ $\dfrac {4} {9} \div \dfrac {5} {11}$
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:1:14</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

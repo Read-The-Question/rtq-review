@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tprobability-2-g2"
 title: "TopicPaper - Probability - 2 - G2"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "2"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>A41AED91-3759-4E48-9D49-09BEAD77B0EA</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "2"
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -264,15 +264,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-ii) Should be P(12 or more)
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -323,7 +314,7 @@ ii) Should be P(12 or more)
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>AFA8E333-EFB6-4594-83DC-7F6EAC902EF8</p>
 </div>
@@ -337,7 +328,7 @@ ii) Should be P(12 or more)
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -534,15 +525,6 @@ The probability is more than even chance.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-a: Last sentence \"B\" should be in KATEX
-</div>
 
 <div class='review'>
 <ul class='review'>

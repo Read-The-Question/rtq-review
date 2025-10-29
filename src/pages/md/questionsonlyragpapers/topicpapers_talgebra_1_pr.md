@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-talgebra-1-pr"
 title: "TopicPaper - Algebra - 1 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "2"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3D2657A6-4DB2-4961-B1C9-1EEB0530FC13</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "2"
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:3:5</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -154,23 +154,6 @@ As $\text{x}$ increases,
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-15::06:32
-
-
-
-discuss this, 
-
-
-
-all these part should be made subquestions, box is not looking good, should be just list without box for all
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -221,7 +204,7 @@ all these part should be made subquestions, box is not looking good, should be j
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>87DD43D2-0743-438D-822B-510F1C7AB73E</p>
 </div>
@@ -229,13 +212,13 @@ all these part should be made subquestions, box is not looking good, should be j
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:2:4</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -363,27 +346,6 @@ Work out the answer to this division.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-11::20:02
-
-
-
-remove %waffles% in main question and add %image% instead
-
-
-
-Reviewer: [up] Date:2022-10-11::20:02
-
-
-
-remove array part in main question
-</div>
 
 <div class='review'>
 <ul class='review'>

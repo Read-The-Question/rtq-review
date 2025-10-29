@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tprobability-2-pr"
 title: "TopicPaper - Probability - 2 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "7"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8F914366-D570-42EC-8EC9-5AF58D5C4B9F</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "7"
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:39</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -73,37 +73,6 @@ The four possible total scores are $12, 13, 14, 15$. Find two possible pairs of 
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Third sentence the word land is missing
-
-Remove all the ....
-
-Remove the pink.... purple.... OR pink..... purple.... at the bottom
-
-Split into three subquestions
-
-
-
-Reviewer: [up] Date:2022-11-09::06:00
-
-
-
-comments not taken care of??? discuss with me before you make changes for this one
-
-
-
-Reviewer: [am] Date:2022-11-14::21:44
-
-
-
-As discussed Uday will do it
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -154,7 +123,7 @@ As discussed Uday will do it
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B</p>
 </div>
@@ -162,13 +131,13 @@ As discussed Uday will do it
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:20</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -281,7 +250,7 @@ Write one of the following phrases in the spaces below to make each statement co
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>843F06E7-DEA4-416D-81A0-B9328792593D</p>
 </div>
@@ -289,13 +258,13 @@ Write one of the following phrases in the spaces below to make each statement co
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:1:13</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -423,7 +392,7 @@ The number on his disc is a multiple of $12$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>DB4102CE-672D-4D86-95D0-C8DAB8549A61</p>
 </div>
@@ -431,13 +400,13 @@ The number on his disc is a multiple of $12$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:1:14</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -515,19 +484,6 @@ She gets a number less than $7$ on the top face
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-11-20::13:01
-
-
-
-c) Add a full stop 
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -578,7 +534,7 @@ c) Add a full stop
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>AFA8E333-EFB6-4594-83DC-7F6EAC902EF8</p>
 </div>
@@ -586,13 +542,13 @@ c) Add a full stop
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:31</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -704,7 +660,7 @@ that the ball he picks from bag $B$ is white.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>33BEE346-8214-454A-8E9A-33DE4B99AC89</p>
 </div>
@@ -712,13 +668,13 @@ that the ball he picks from bag $B$ is white.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:29</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -850,7 +806,7 @@ it is twice as likely to land on $4$ as on $3$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D6A507F2-D04C-4853-9BCA-141F14A775B0</p>
 </div>
@@ -858,13 +814,13 @@ it is twice as likely to land on $4$ as on $3$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:31</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

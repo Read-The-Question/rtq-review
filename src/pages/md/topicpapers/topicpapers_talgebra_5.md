@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-5"
 title: "TopicPaper - Algebra - 5"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "40"
 ---
 <div class='paper'>
@@ -16,7 +16,7 @@ questions_count: "40"
 # Section A
 <ul class='question decimal question_type_question list_type_decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E746A07A-99C6-4560-9C98-E8B7D1056C67</p>
 </div>
@@ -30,7 +30,7 @@ questions_count: "40"
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -548,35 +548,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-Part a) and b) Remove \"APTQ\"
-
-Part c)
-
-REFERENCE: 8697781B-4AFF-4468-AA7D-11AE8E929A4F
-
-Solve similar to the reference question.
-
-Start with \"if the price of the ticket increased by 50%...\"
-
-the solve it further similar to the reference question.
-
-
-
-
-
-
-
-
-
-Part d) 
-
-Change \"Substituting the above value ....\" ===> \"Lets substitute the value of $a$ in one of the equations.\"
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -8674,7 +8645,7 @@ The one that cannot be the possible answer $= 50$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>82F136F6-5184-409C-BDA6-5C0D88B646FF</p>
 </div>
@@ -8688,7 +8659,7 @@ The one that cannot be the possible answer $= 50$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8867,53 +8838,6 @@ The possible values of $= a, \ b, \ c$ are $= 11, \ 2, \ 2$  and $= 9, \ 4, \ 2$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-Part a) First line: Let the three different positive odd numbers = a, a+2, a+4
-
-           Last line: Three different positive odd numbers = 3, 5, 7
-
-
-
-Part b)Use the tabular method to solve this.
-
-
-
-Let the ages of Jenny and her two brothers = a, b, c
-
-As per the question,
-
-a + b + c = 15
-
-We can easily infer the values by using trial and error. Lets find out $3$ numbers which meets the following critiera based on the equations above.
-
-
-
-- The product of the $3$ numbers is $15$.
-
-- Second and third number should be even.
-
-
-
-draw the table with 4 columns, a, b, c and sum
-
-Put few possible combinations (covering the answer condition) which add up to 15.
-
-
-
-Then write the final answer in the similar format to the question referenced below.
-
-
-
-Reference: 7FF1BAEB-BDAB-4CEE-9553-05641321E1F6
-
-
-
-write answer in the [questions.answers.section] as well.
-</div>
 
 <div class='review'>
 <ul class='review'>

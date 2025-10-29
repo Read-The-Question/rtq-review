@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tinfer-6-pr"
 title: "TopicPaper - Infer - 6 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "20"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>61634574-7B37-47C9-9AA5-03C92FF49CD9</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "20"
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:45</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -160,7 +160,7 @@ What are the two numbers on the third counter?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>08C7AB3F-C398-40A7-9E14-1F6E179F3AE1</p>
 </div>
@@ -168,13 +168,13 @@ What are the two numbers on the third counter?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:42</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -318,7 +318,7 @@ What number is on the middle brick in the bottom row?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9562DF50-EBAD-4FD4-B304-C146DEB27F3D</p>
 </div>
@@ -326,13 +326,13 @@ What number is on the middle brick in the bottom row?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:43</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -498,7 +498,7 @@ Which two numbers between $300$ and $400$ will also give output $153?$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9D93C0B8-E510-4931-BDEF-0F165449DF9F</p>
 </div>
@@ -506,13 +506,13 @@ Which two numbers between $300$ and $400$ will also give output $153?$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:44</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -662,7 +662,7 @@ If each spinner is spun $100$ times and the $100$ scores added, which spinner is
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>EAD82CEC-B280-49C3-A7F0-980F903D7896</p>
 </div>
@@ -670,13 +670,13 @@ If each spinner is spun $100$ times and the $100$ scores added, which spinner is
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:46</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -845,7 +845,7 @@ Which two groups of three consecutive prime numbers, between $10$ and $50$, have
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>F8ABFE1E-E1ED-4CF1-AD7D-6EF100E511D3</p>
 </div>
@@ -853,13 +853,13 @@ Which two groups of three consecutive prime numbers, between $10$ and $50$, have
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:1:5</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -999,7 +999,7 @@ $\text{a}$ and $\text{b}$ are whole numbers, neither of which is $1$. Find the v
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>209E0D8B-42CF-42C1-86C9-E9D9C710B36A</p>
 </div>
@@ -1007,13 +1007,13 @@ $\text{a}$ and $\text{b}$ are whole numbers, neither of which is $1$. Find the v
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1235,7 +1235,7 @@ $(w \times w) + w = w$. What are the two possible numbers that $w$ could stand f
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>FAE740E0-7812-4A15-B288-4D433CFA26A6</p>
 </div>
@@ -1243,13 +1243,13 @@ $(w \times w) + w = w$. What are the two possible numbers that $w$ could stand f
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:1:13</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1365,7 +1365,7 @@ all the $5$-digit numbers which can be made by using each of the digits $1, 1, 1
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D7F85DE9-50FB-4FF8-8109-B722467E136F</p>
 </div>
@@ -1373,13 +1373,13 @@ all the $5$-digit numbers which can be made by using each of the digits $1, 1, 1
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2:1:4</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1536,7 +1536,7 @@ Draw the picture for the following code
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C1EE3E84-DC2E-4C19-A416-2A6035D47A47</p>
 </div>
@@ -1544,13 +1544,13 @@ Draw the picture for the following code
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2:1:9</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1783,7 +1783,7 @@ The target number of shots for each hole is changed from $5$ to $\text{T}$.  Tim
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>22E3E407-50ED-4484-826E-5A8BFC8D2D47</p>
 </div>
@@ -1791,13 +1791,13 @@ The target number of shots for each hole is changed from $5$ to $\text{T}$.  Tim
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-2:1:3</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2003,7 +2003,7 @@ List a sequence of **TWO** moves which would take you from the light counter to 
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>689EE484-9EC6-44EB-9485-1E95D171BEA8</p>
 </div>
@@ -2011,13 +2011,13 @@ List a sequence of **TWO** moves which would take you from the light counter to 
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-2:1:7</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2196,7 +2196,7 @@ $2, \quad 2, \quad \text{\ldots}\ , \quad 7, \quad \text{\ldots}\ , \quad 3528$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>0D8D542C-E5D1-44B1-BE84-CB14F660BA3E</p>
 </div>
@@ -2204,13 +2204,13 @@ $2, \quad 2, \quad \text{\ldots}\ , \quad 7, \quad \text{\ldots}\ , \quad 3528$
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-2:1:9</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2412,7 +2412,7 @@ Either by using your table or otherwise, find the **single** transformation whic
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>65308306-2AF1-4140-98F6-AE53B3FDED0B</p>
 </div>
@@ -2420,13 +2420,13 @@ Either by using your table or otherwise, find the **single** transformation whic
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-2:1:11</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2639,7 +2639,7 @@ What is the probability that the sum of the two numbers is more than six $(6)?$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>2E979759-D644-4A40-85A5-128A3BA3F086</p>
 </div>
@@ -2647,13 +2647,13 @@ What is the probability that the sum of the two numbers is more than six $(6)?$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b:1:11</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2853,7 +2853,7 @@ $\ldots$ has its second digit greater than its first digit.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5CA04718-0BCC-4934-A4C9-34DF7F4CB8B1</p>
 </div>
@@ -2861,13 +2861,13 @@ $\ldots$ has its second digit greater than its first digit.
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-b:1:11</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3049,7 +3049,7 @@ From a $4 \ \text{kW}$ heater only $108 \ \text{Watts}$ escape through three ide
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>995D6FB4-AEB3-43F1-9B38-378CB3FE16D9</p>
 </div>
@@ -3057,13 +3057,13 @@ From a $4 \ \text{kW}$ heater only $108 \ \text{Watts}$ escape through three ide
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b:1:10</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3142,19 +3142,6 @@ Eleanor,,
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-13::11:44
-
-
-
-remove all md bold for this question, no need
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3205,7 +3192,7 @@ remove all md bold for this question, no need
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>ABF5AB93-ED94-485B-B03B-A1E1B35C5E7C</p>
 </div>
@@ -3213,13 +3200,13 @@ remove all md bold for this question, no need
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b:1:11</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3390,19 +3377,6 @@ Finally, here is a special $\text{NEXTA}$. Showing all your working, calculate i
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-13::11:45
-
-
-
-remove all katex formatting, discuss
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3453,7 +3427,7 @@ remove all katex formatting, discuss
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>AA02C779-6E49-4D2F-8D65-2EDC86AD2B21</p>
 </div>
@@ -3461,13 +3435,13 @@ remove all katex formatting, discuss
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-b:1:4</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3601,7 +3575,7 @@ What is the area of rectangle number $30?$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C686FBF3-62A1-494A-BEBF-D04AC95F61EC</p>
 </div>
@@ -3609,13 +3583,13 @@ What is the area of rectangle number $30?$
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-b:1:6</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

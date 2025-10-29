@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tmap-1"
 title: "TopicPaper - Map - 1"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "11"
 ---
 <div class='paper'>
@@ -16,7 +16,7 @@ questions_count: "11"
 # Section A
 <ul class='question decimal question_type_question list_type_decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>030CC720-5F48-4877-AD87-91027D54FEF7</p>
 </div>
@@ -24,13 +24,13 @@ questions_count: "11"
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -93,23 +93,6 @@ If the walking distance form City of London School to Guildhall is $1500\ \text{
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-13::12:30
-
-
-
-write : as {:} for ratio
-
-
-
-\bold etc remove
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -168,10 +151,10 @@ write : as {:} for ratio
 <p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -265,10 +248,10 @@ How many different ways can I travel from $P$ to $Q?$ I can only travel on the l
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:31</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -397,10 +380,10 @@ Starting from any village, I wish to visit all villages without travelling along
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:26</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -491,10 +474,10 @@ How many different ways are there of getting from Queton to Toytown if you can o
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:3:3</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -629,10 +612,10 @@ What is the shortest route between $A$ and $H$, and how long is it?
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:2:15</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -738,10 +721,10 @@ How many routes are there from $B$ to $C \text{?}$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:2:16</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -825,7 +808,7 @@ How many routes are there from $A$ to $C$, via $B \text{?}$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8CBF5494-F5F7-4ABC-A405-92596AB4CB5E</p>
 </div>
@@ -833,13 +816,13 @@ How many routes are there from $A$ to $C$, via $B \text{?}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:29</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -899,19 +882,6 @@ The thieves also want to go from Alysford to Habsville Airport by the **shortest
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-15::04:39
-
-
-
-write C A D in katex too, leave space around right arrow, it looks squished right now
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -962,7 +932,7 @@ write C A D in katex too, leave space around right arrow, it looks squished righ
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>79768CE8-9883-4B8B-9A68-A85E3FCDA388</p>
 </div>
@@ -970,13 +940,13 @@ write C A D in katex too, leave space around right arrow, it looks squished righ
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1145,10 +1115,10 @@ How far does this represent in the field?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:22</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1253,7 +1223,7 @@ Using the map above what is the shortest route from the park to the cinema?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>14726C98-3C9A-4DF3-BF09-E13A2DE89F42</p>
 </div>
@@ -1261,13 +1231,13 @@ Using the map above what is the shortest route from the park to the cinema?
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

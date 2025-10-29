@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tlcm-1-pr"
 title: "TopicPaper - Lcm - 1 - PR"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "1"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>4E2CC2F8-A2C6-4373-8B60-1726ADBF85AE</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "1"
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -76,25 +76,6 @@ $63$ is the number between $50$ and $75$ which is a multiple of both $3$ and $7$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Solved wrong 
-
-
-
-Lets list multiples of 7 first as it will be less than multiples of 3
-
-
-
-Multiples of $7 = 56 , 63 , 70, 77$
-
-
-
-$63$ is a........
-
-Change blue answer also please.
-</div>
 
 <div class='review'>
 <ul class='review'>

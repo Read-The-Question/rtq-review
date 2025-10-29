@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-14-pr"
 title: "TopicPaper - Algebra - 14 - PR"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "2"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>909DB8BE-EF83-4036-B486-EAEF2ADE4F2B</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "2"
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -428,45 +428,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Part b) Write \"APTQ,\" after first line
-
-
-
-Part d) 
-
-((a+3)×5)÷2 = 15 (remove unnecessary brackets)
-
-(a+3) x 5 / 2 = 15  (add this line)
-
-(a+3) x 5  = 15 x 2
-
-then solve further....
-
-
-
-
-
-((a+3)÷2)×5 = 15 (remove unnecessary brackets)
-
-....
-
-...
-
-(a+3)÷2 = 3 (this line missing)
-
-a + 3 / 2 = 3  (this line missing)
-
-a + 3 = 3 x 2
-
-then solve further...
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -517,7 +478,7 @@ then solve further...
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6CB0F5E6-F7EC-4E39-816A-4384AF737221</p>
 </div>
@@ -531,7 +492,7 @@ then solve further...
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

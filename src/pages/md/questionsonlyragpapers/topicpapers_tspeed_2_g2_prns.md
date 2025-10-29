@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tspeed-2-g2-prns"
 title: "TopicPaper - Speed - 2 - G2 - PRNS"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "11"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "11"
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:20</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -108,10 +108,10 @@ At what speed (in metres per minute) does the tortoise need to run to cross the 
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:17</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -193,10 +193,10 @@ Work out his speed in both kilometres per hour and metres per minute.
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:22</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -313,10 +313,10 @@ On what date did Maya sow the seed in the ground?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:41</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -437,10 +437,10 @@ After how many days will the two icebergs have the same mass?
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -523,10 +523,10 @@ Adam ran $3 \ \text{kilometres}$ in $13 \ \text{minutes}$. Jackie started $30 \ 
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-2:1:5</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -653,10 +653,10 @@ At what speed is the horse running, in miles per hour?
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -743,10 +743,10 @@ Stephen does the same journey at a speed of $30 \ \text{kilometres per hour}$. H
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b:1:7</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -887,10 +887,10 @@ A truck travels $50 \ \text{metres}$ while accelerating at a rate of $4$. How lo
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -970,10 +970,10 @@ If a hovercraft travels at $80\, \text{kilometres}$ per hour how far will it tra
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1053,10 +1053,10 @@ In $3\, \text{hours}$ a train travels $156\, \text{km}$. What is it speed in $\t
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

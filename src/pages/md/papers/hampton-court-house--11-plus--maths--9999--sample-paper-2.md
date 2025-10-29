@@ -1,7 +1,7 @@
 ---
 slug: "papers/hampton-court-house-11-plus-maths-9999-sample-paper-2"
 title: "Hampton Court House - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "19"
 ---
 <div class='paper'>
@@ -14,7 +14,7 @@ questions_count: "19"
 </div>
 <ul class='question decimal question_type_question list_type_decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>2A22D64E-B5F4-4E13-8153-04B7ABEB62C4</p>
 </div>
@@ -28,7 +28,7 @@ questions_count: "19"
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2584,7 +2584,7 @@ If she takes the $11{:}30$ train, she will reach Newcastle just $2$ minutes befo
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8DA3D379-067C-4336-B7B1-3A3F092F9DBB</p>
 </div>
@@ -2598,7 +2598,7 @@ If she takes the $11{:}30$ train, she will reach Newcastle just $2$ minutes befo
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3043,15 +3043,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-lets discuss this, too many comments
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4051,7 +4042,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>BC6FA56F-026F-4BC2-A340-29312EDCD498</p>
 </div>
@@ -4065,7 +4056,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4146,19 +4137,6 @@ $6$ bottles will last for $= 9$ days.
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-not sure about the sol (Uday)
-
-
-
-Remove first line \"APTQ,\" and last line \"6 bottles ....\"
-
-
-
-Change answer 2 ==>  9 days
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4493,10 +4471,10 @@ $
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-2:1:17</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4592,11 +4570,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-not sure about the sol (Uday)
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4655,10 +4628,10 @@ not sure about the sol (Uday)
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-2:1:18</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4801,11 +4774,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-discuss with uday
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4856,7 +4824,7 @@ discuss with uday
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>74657F27-CC78-4631-BFF4-E7AE538A47EC</p>
 </div>
@@ -4864,13 +4832,13 @@ discuss with uday
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-2:1:19</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

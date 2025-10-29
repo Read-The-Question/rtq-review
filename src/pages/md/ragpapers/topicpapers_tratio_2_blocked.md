@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tratio-2-blocked"
 title: "TopicPaper - Ratio - 2 - BLOCKED"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "4"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -302,7 +302,7 @@ TODOANSWER
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>F906ACB0-C224-4A7D-99D6-9EEA989C574F</p>
 </div>
@@ -316,7 +316,7 @@ TODOANSWER
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -386,7 +386,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>4CD1C86B-833A-4DAF-9C93-F7B0B990F28D</p>
 </div>
@@ -400,7 +400,7 @@ $
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

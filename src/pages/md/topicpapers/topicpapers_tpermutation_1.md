@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tpermutation-1"
 title: "TopicPaper - Permutation - 1"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "40"
 ---
 <div class='paper'>
@@ -364,7 +364,7 @@ Total arrangements $= 2 \times 1 = 2$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>CE2F50A4-A29C-4267-8728-7D80877E6590</p>
 </div>
@@ -378,7 +378,7 @@ Total arrangements $= 2 \times 1 = 2$
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -876,43 +876,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Main question working not required
-
-b: Second working
-
-Change to same as the first letter
-
-d: Change the first phrases to:
-
-If the number plate starts with A
-
-
-
-
-
-Main question working not required
-
-b: Second working
-
-Change to same as the first letter
-
-d: Change the first phrases to:
-
-If the number plate starts with A
-
-
-
-
-
-Comments do not seem to be complete, lets discuss tomorrow: uday
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1257,7 +1220,7 @@ Total arrangements $= 3 \times 2 \times 1 = 6$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>422A9416-568A-4E36-8E9B-C8A81997B5DA</p>
 </div>
@@ -1271,7 +1234,7 @@ Total arrangements $= 3 \times 2 \times 1 = 6$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1383,37 +1346,6 @@ Total count $= 20$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-this is not right, at some points 2 ways are not possible, will have to think how to write this answer
-
-
-
-Write the answer for this using manual counting, do not write permutation way
-
-
-
-divide into two part if starts with N and then starts with E
-
-
-
-- NNNEEE
-
-- NNENEE
-
-- NNEENE
-
-- NNEEEN and so on
-
-
-
-
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2456,7 +2388,7 @@ Total arrangements $= 3 \times 2 \times 1 =6$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>31275674-A54A-40CB-954F-6A4D5E749290</p>
 </div>
@@ -2470,7 +2402,7 @@ Total arrangements $= 3 \times 2 \times 1 =6$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2877,35 +2809,6 @@ So, the ratio of number $4$-digit palindromes and $5$-digit palindromes $= \dfra
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-write manual way, write using begin aligned for ratio part
-
-
-
-refer CE2F50A4-A29C-4267-8728-7D80877E6590 for the last part, solve it like fraction and in the end show as ratio
-
-
-
-
-
-
-
-write manual way, write using begin aligned for ratio part
-
-
-
-refer CE2F50A4-A29C-4267-8728-7D80877E6590 for the last part, solve it like fraction and in the end show as ratio
-
-
-
-
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4538,11 +4441,6 @@ $\text {A}, \quad  \text {B}, \quad \text {D}, \quad \text {E}, \quad \text {F},
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-please look at the tags before solving we are only supposed to solve the tags that are in G
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4884,7 +4782,7 @@ Total arrangements $= 1 \times 3 \times 2 = 6$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C7F20EB0-C4C4-4499-BD65-DF14A74B3D94</p>
 </div>
@@ -4898,7 +4796,7 @@ Total arrangements $= 1 \times 3 \times 2 = 6$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5227,27 +5125,6 @@ Total arrangements $= 1 \times 4 \times 1 = 4$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-manual way missing
-
-
-
-these answers are not right, b and c are wrong, also answers are not very clear using the list way, difficult to read,
-
-
-
-i will think about it and then let you know what to do about this one.
-
-
-
-write using table similar to other example one done already
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -6087,7 +5964,7 @@ Count $= 10$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>77947EF2-B0D5-4A19-9491-ABCEBCA5D788</p>
 </div>
@@ -6101,7 +5978,7 @@ Count $= 10$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6279,35 +6156,6 @@ So, from the above table the shortest distance between A and B $= 12$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-a:
-
-
-
-Write all the paths in a list and then write count, not per the template
-
-
-
-b: 
-
-
-
-use a table instead, use answers from a in column A, then in column B add the distance and write
-
-
-
-and write summary line in the end outside the table,
-
-
-
-ask if not clear
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -6358,7 +6206,7 @@ ask if not clear
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>32B69904-7049-4D11-B264-0FB9BA6B09EC</p>
 </div>
@@ -6372,7 +6220,7 @@ ask if not clear
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6811,23 +6659,6 @@ Total arrangements $= 2 \times 1 \times 4 \times 1 \times 2 \times 1 = 16$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-manual way missing
-
-
-
-i have changed part a and b to use tables instead of list as list was not very clear for this much data.
-
-
-
-can you please update part c to use on the same lines?
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -6878,7 +6709,7 @@ can you please update part c to use on the same lines?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>EFB9945E-41A3-4ED9-8B98-1E7688CB0B4D</p>
 </div>
@@ -6892,7 +6723,7 @@ can you please update part c to use on the same lines?
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7284,23 +7115,6 @@ From $A$ to $E$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-not correct, will think and tell how to write
-
-
-
-Uday : note for myself, table is not good for this question as it does not show the circular nature of the placement correctly,
-
-
-
-think more how to write the solution for this
-</div>
 
 <div class='review'>
 <ul class='review'>

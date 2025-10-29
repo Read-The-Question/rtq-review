@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tinfer-5"
 title: "TopicPaper - Infer - 5"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "40"
 ---
 <div class='paper'>
@@ -16,7 +16,7 @@ questions_count: "40"
 # Section A
 <ul class='question decimal question_type_question list_type_decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>744963C1-F8DB-4582-94F4-AEB54852B642</p>
 </div>
@@ -24,13 +24,13 @@ questions_count: "40"
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:35</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -166,15 +166,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-For this sentence \"is the clear button is the equals button\", put an empty line and put c and = in boxed
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -225,7 +216,7 @@ For this sentence \"is the clear button is the equals button\", put an empty lin
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C1B613AE-BFD1-411B-BF91-02263DA85F24</p>
 </div>
@@ -233,13 +224,13 @@ For this sentence \"is the clear button is the equals button\", put an empty lin
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:36</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -278,15 +269,6 @@ Fill in the spaces to show who received which present from whom.
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Change cach to each
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -345,10 +327,10 @@ Change cach to each
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:38</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -487,7 +469,7 @@ Rajni tries arranging $2$ dice on the table. What is the smallest number of spot
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>CC815912-FF38-4801-86F2-9432CD4D75A0</p>
 </div>
@@ -495,13 +477,13 @@ Rajni tries arranging $2$ dice on the table. What is the smallest number of spot
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:39</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -581,15 +563,6 @@ Can you work out what they are from the multiplications above?
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Write missing symbols prompt
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -648,10 +621,10 @@ Write missing symbols prompt
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:21</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -730,7 +703,7 @@ This is a loose sheet from a newspaper with $64$ pages. What is the missing page
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>51656C94-CF31-4FBB-94BD-BDD4145FBB17</p>
 </div>
@@ -738,13 +711,13 @@ This is a loose sheet from a newspaper with $64$ pages. What is the missing page
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:36</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -859,7 +832,7 @@ $D \times E = FC$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>22F1595F-E8D4-4251-94CE-6C87FAF3F6FC</p>
 </div>
@@ -867,13 +840,13 @@ $D \times E = FC$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:37</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1045,7 +1018,7 @@ What is the sum of numbers in the $8 ^\text{th}$ row?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C0351DFD-A9C6-4C76-A98F-A2522C865E7B</p>
 </div>
@@ -1053,13 +1026,13 @@ What is the sum of numbers in the $8 ^\text{th}$ row?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:21</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1186,10 +1159,10 @@ Clues:
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:24</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1269,7 +1242,7 @@ Fill in the weights that are missing.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>DA5CD9DC-22D5-4949-905F-8EF550F54490</p>
 </div>
@@ -1277,13 +1250,13 @@ Fill in the weights that are missing.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:30</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1374,10 +1347,10 @@ Enter the numbers $2, 3, 4, 7, 8$ into the boxes on the shape according to the f
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:37</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1497,10 +1470,10 @@ Put the first letter of the girl's name in the correct house.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:38</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1649,10 +1622,10 @@ What is the correct combination of digits?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:40</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1777,7 +1750,7 @@ What are the weights of the shapes?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>0F9DAC35-D6E7-4A2B-AE45-1C1648E8353D</p>
 </div>
@@ -1785,13 +1758,13 @@ What are the weights of the shapes?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:41</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1940,10 +1913,10 @@ $T + R =$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:28</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2043,10 +2016,10 @@ Show how she can fit exactly $4$ of the small shapes into this shape without lea
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:38</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2180,10 +2153,10 @@ What must the four cards be?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:43</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2279,7 +2252,7 @@ Which of these six friends is the youngest?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>6BFE0954-42CE-44DA-80E1-CF03470BF4A0</p>
 </div>
@@ -2287,13 +2260,13 @@ Which of these six friends is the youngest?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:44</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2388,10 +2361,10 @@ What is the value of $m$?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:37</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2479,10 +2452,10 @@ in the diagram on the left. Complete the diagram on the right.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:23</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2576,10 +2549,10 @@ What is the number?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:30</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2707,7 +2680,7 @@ How many possible routes are there from $L$ to $X$?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>49F43ACE-1EBA-464B-BF4D-AAF2D99392C6</p>
 </div>
@@ -2715,13 +2688,13 @@ How many possible routes are there from $L$ to $X$?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:37</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2891,7 +2864,7 @@ Write the letters in order from top to bottom.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3E75433F-3EFF-4A1B-81D4-C4AF5520E369</p>
 </div>
@@ -2899,13 +2872,13 @@ Write the letters in order from top to bottom.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:39</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3118,7 +3091,7 @@ Find $2 \ e \ 6$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>86952AE2-1D07-4C3D-A4CC-E0BE81FBB120</p>
 </div>
@@ -3126,13 +3099,13 @@ Find $2 \ e \ 6$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:22</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3208,19 +3181,6 @@ What is Atlanta's number?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-11-27::15:43
-
-
-
-a) Add a before larger
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3279,10 +3239,10 @@ a) Add a before larger
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:34</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3450,7 +3410,7 @@ How many lines are there in this pattern?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>2FBA0037-2ABE-409C-BE8E-6A3865D6A414</p>
 </div>
@@ -3458,13 +3418,13 @@ How many lines are there in this pattern?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:37</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3497,35 +3457,6 @@ arrangements for the $5$ girls.
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-27::11:33
-
-
-
-Remove the comma after Cassie
-
-
-
-Reviewer: [up] Date:2022-11-13::19:03
-
-
-
-Maisie spelled worng
-
-
-
-Reviewer: [ap] Date:2022-11-27::15:48
-
-
-
-Remove down
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3576,7 +3507,7 @@ Remove down
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>509FB1C4-95C1-4634-8E90-BE6E74C8261A</p>
 </div>
@@ -3584,13 +3515,13 @@ Remove down
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:38</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3681,10 +3612,10 @@ For example %image%, %image% and %image% are not allowed.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:39</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3800,10 +3731,10 @@ different types of triangles you find.*
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:34</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3889,7 +3820,7 @@ Use the following information to work out the order in which they finished:
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>4EEECFFE-0AF5-4288-8571-5897042D2E05</p>
 </div>
@@ -3897,13 +3828,13 @@ Use the following information to work out the order in which they finished:
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:38</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4009,10 +3940,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:40</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4147,10 +4078,10 @@ If she adds up all of the digits which she has written down, what is the total?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:41</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4248,7 +4179,7 @@ Work out which tribe each person belongs to.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>595A8F95-4A56-4DA3-8197-ACFB8FCB0026</p>
 </div>
@@ -4256,13 +4187,13 @@ Work out which tribe each person belongs to.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:32</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4301,15 +4232,6 @@ $
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Write missing symbols prompt
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4368,10 +4290,10 @@ Write missing symbols prompt
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:39</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4471,10 +4393,10 @@ In which box is the car?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:40</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4568,10 +4490,10 @@ The numbers $2, 3$ and $5$ have already been placed for you.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:25</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4710,10 +4632,10 @@ Draw an arrow on the scale below to show the probability that it will stop with 
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:31</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4800,7 +4722,7 @@ Work out which number each symbol represents.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>73AA9A64-5FED-4291-AC0E-CC8491EFC073</p>
 </div>
@@ -4808,13 +4730,13 @@ Work out which number each symbol represents.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:33</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4991,10 +4913,10 @@ How many tiles differ from a large grey star in $3$ ways?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:36</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5094,7 +5016,7 @@ Fill in the dotted line to complete the following diagrams:
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>EC76EE3E-B338-4BF5-A3C1-B664105007CF</p>
 </div>
@@ -5102,13 +5024,13 @@ Fill in the dotted line to complete the following diagrams:
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5200,19 +5122,6 @@ Write down the largest $4$-digit multiple of $4$ which can be made.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-11-10::05:01
-
-
-
-remove images use katex for cards
-</div>
 
 <div class='review'>
 <ul class='review'>

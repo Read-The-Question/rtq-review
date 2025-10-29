@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tinfer-7-notstarted"
 title: "TopicPaper - Infer - 7 - NOTSTARTED"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "12"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -527,11 +527,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Tinfer
-</div>
 
 <div class='review'>
 <ul class='review'>

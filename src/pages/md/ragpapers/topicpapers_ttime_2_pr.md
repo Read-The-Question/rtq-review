@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-ttime-2-pr"
 title: "TopicPaper - Time - 2 - PR"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "4"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>7108AA2C-B831-419E-BE02-D136ECF3569E</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "4"
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -236,15 +236,6 @@ He will be $0843 - 0835 = 8 \ \text {minutes}$ for registration.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Check with Uday 
-
-
-
-Part a) Add a full stop in the \"John will get...\" and \"The train...\" lines. 
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -295,7 +286,7 @@ Part a) Add a full stop in the \"John will get...\" and \"The train...\" lines.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>464C68A6-30E1-4FB7-9F2A-1F485F1C4F73</p>
 </div>
@@ -309,7 +300,7 @@ Part a) Add a full stop in the \"John will get...\" and \"The train...\" lines.
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -380,19 +371,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-discuss with uday for wording
-
-
-
-D is written in key instead of an option. Write D in option.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -443,7 +421,7 @@ D is written in key instead of an option. Write D in option.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D2ED6ADF-D6AC-4723-B76D-2011EF29EBEB</p>
 </div>
@@ -457,7 +435,7 @@ D is written in key instead of an option. Write D in option.
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -662,15 +640,6 @@ $12 \ \text{noon on} \ 2^{nd} \ \text{March}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-katex broken
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -721,7 +690,7 @@ katex broken
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5144F358-9680-48EE-9A0C-9E3C3DA622E2</p>
 </div>
@@ -735,7 +704,7 @@ katex broken
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -915,31 +884,6 @@ $06{:}36$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-a: drop s2
-
-
-
-b: should be 08:13 - 7:23
-
-
-
-c: show working
-
-
-
-c: show working
-
-
-
-b: show in table format all the trains, start, end, duration and then show the fastest time as summary
-</div>
 
 <div class='review'>
 <ul class='review'>

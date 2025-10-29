@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2016-sample-paper-3"
 title: "Csse - 11 Plus - Maths - 2016 - Sample Paper 3"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "13"
 ---
 <div class='paper'>
@@ -667,7 +667,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>AEB6BF0E-F43C-4C64-9C92-F1BD101BCBD3</p>
 </div>
@@ -681,7 +681,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1909,11 +1909,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-add tnoexplanation and please check once if the answers are correct
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2329,10 +2324,10 @@ $
 <p>csse--11-plus--maths--2016--sample-paper-3:1:7</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3392,7 +3387,7 @@ $\pounds 3.65$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>34226098-78EE-409D-BF39-0A19ED65F3BB</p>
 </div>
@@ -3406,7 +3401,7 @@ $\pounds 3.65$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3785,19 +3780,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::16:49
-
-
-
-c d e calculation not per standard, please change
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3848,7 +3830,7 @@ c d e calculation not per standard, please change
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>50935C99-8760-4047-9849-9D55E3963F4D</p>
 </div>
@@ -3862,7 +3844,7 @@ c d e calculation not per standard, please change
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4052,23 +4034,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::10:42
-
-
-
-b: can you check again?
-
-
-
-c: does not seem to be right again
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4119,7 +4084,7 @@ c: does not seem to be right again
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8393B54D-38BD-496B-B052-8809BC6D3BFF</p>
 </div>
@@ -4133,7 +4098,7 @@ c: does not seem to be right again
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4315,35 +4280,6 @@ There are $4$ different routes the ant can choose from.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::16:50
-
-
-
-a: just write number, $12$ edges
-
-
-
-Reviewer: [up] Date:2022-09-28::16:50
-
-
-
-b: extra back slash fix on last step
-
-
-
-Reviewer: [up] Date:2022-09-28::16:51
-
-
-
-c: add drawing start abbrev and ask to show 4 routes possible
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4394,7 +4330,7 @@ c: add drawing start abbrev and ask to show 4 routes possible
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>2AC72C27-242F-4DAA-9380-C9469DCE176B</p>
 </div>
@@ -4408,7 +4344,7 @@ c: add drawing start abbrev and ask to show 4 routes possible
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4673,19 +4609,6 @@ True
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-no explanation given, show probability of prime vs factor for eg
-
-
-
-b and c: write positive outcomes just before probability calculation similar to i have suggested for other questions, ask if not clear
-</div>
 
 <div class='review'>
 <ul class='review'>

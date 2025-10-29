@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tprofit-1-pr"
 title: "TopicPaper - Profit - 1 - PR"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "5"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -722,7 +722,7 @@ $1$ New Zealand dollar \textdollar $= 0.75$ US \textdollar
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>0BFEE810-C9F2-4EDF-9F70-1011D58BEE05</p>
 </div>
@@ -736,7 +736,7 @@ $1$ New Zealand dollar \textdollar $= 0.75$ US \textdollar
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1152,19 +1152,6 @@ Ben is right.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::11:12
-
-
-
-b: is wrong, need to find the original price, solve using algebra
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1215,7 +1202,7 @@ b: is wrong, need to find the original price, solve using algebra
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>CE8D5492-B53F-4865-8EF6-8E0D6CE8F5A5</p>
 </div>
@@ -1229,7 +1216,7 @@ b: is wrong, need to find the original price, solve using algebra
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

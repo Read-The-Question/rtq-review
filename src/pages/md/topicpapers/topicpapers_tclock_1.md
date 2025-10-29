@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tclock-1"
 title: "TopicPaper - Clock - 1"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "33"
 ---
 <div class='paper'>
@@ -959,11 +959,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-add tnoexplanation and please check once if the answers are correct
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4169,11 +4164,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-mark it as amber in tags as two parts are not solved (rtq-rag = \"rag_ks_amber\")
-</div>
 
 <div class='review'>
 <ul class='review'>

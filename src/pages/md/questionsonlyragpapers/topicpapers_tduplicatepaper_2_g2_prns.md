@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tduplicatepaper-2-g2-prns"
 title: "TopicPaper - Duplicatepaper - 2 - G2 - PRNS"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "27"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "27"
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:1</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -115,10 +115,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:3</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -198,10 +198,10 @@ Write in numbers thirty-two thousand and twenty-seven.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -289,10 +289,10 @@ How much  **more** water is needed to make $2 \ \text{litres}$?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:7</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -415,10 +415,10 @@ $1 \quad 3 \quad 9  \quad 27 \quad \ldots \quad \ldots$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:8</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -506,10 +506,10 @@ the perimeter remained the same? Circle your answer.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:9</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -593,10 +593,10 @@ How much would seven bags of apples cost?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:10</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -682,10 +682,10 @@ $0.25     \quad \dfrac{2}{9}     \quad 0.039     \quad \dfrac{4}{5}     \quad \d
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:11</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -765,10 +765,10 @@ Write down the number which is $21$ less than $2000$.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -860,10 +860,10 @@ For how long was the video recording?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:13</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -971,10 +971,10 @@ Use this information to complete this table.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:15</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1091,10 +1091,10 @@ was asked. How many pupils in total are in the class?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:16</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1178,10 +1178,10 @@ full. How much water can the tank hold altogether?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:17</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1277,10 +1277,10 @@ In the grid below, draw a square with an area of $2 \ \text{cm}^2$.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:18</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1401,10 +1401,10 @@ won
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:19</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1492,10 +1492,10 @@ She was then $10 \ \text{km}$ from Goring. How far apart are the towns?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:20</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1587,10 +1587,10 @@ How many pages are in his book?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:21</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1682,10 +1682,10 @@ Write how many of these tiles you can fit into each of the following shapes.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:22</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1779,10 +1779,10 @@ Fill in the missing numbers for this triangle:
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:23</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1891,10 +1891,10 @@ How many degrees has the minute hand moved between $3.55 \ \text{pm}$ and $5.15 
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:24</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1978,10 +1978,10 @@ long as it is wide, what is the area?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:25</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2067,10 +2067,10 @@ did he eat on the first day?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:26</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2160,10 +2160,10 @@ Queton to Toytown if you can only go from left to right?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:27</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2331,10 +2331,10 @@ $141$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:29</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2434,10 +2434,10 @@ What shape is on card $3?$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:30</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2525,10 +2525,10 @@ How many children are there altogether?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:31</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2610,10 +2610,10 @@ What will the combined age be in $2 \ \text{years'}$ time?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:32</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

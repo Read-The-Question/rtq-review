@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tfraction-3-pr"
 title: "TopicPaper - Fraction - 3 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "4"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>002CE465-5C32-4749-89F4-8D638E9BD366</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "4"
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -71,27 +71,6 @@ Write down a decimal between $\dfrac{2}{5}$ and $\dfrac{1}{2}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [na] Date:2022-09-11::14:47
-
-
-
-write fraction and decimal outside katex.
-
-
-
-Reviewer: [ap] Date:2022-11-20::10:18
-
-
-
-Add full stops
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -142,7 +121,7 @@ Add full stops
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>585D7D24-FBE3-4E4D-B423-652E2F3266C8</p>
 </div>
@@ -150,13 +129,13 @@ Add full stops
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -191,27 +170,6 @@ Shade in seven twelths of the flag below.
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [na] Date:2022-09-11::14:49
-
-
-
-write seven twelths outside the katex
-
-
-
-Reviewer: [ap] Date:2022-11-20::10:19
-
-
-
-twelfths spelled wrong
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -262,7 +220,7 @@ twelfths spelled wrong
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>754433C6-C251-49A8-A0E6-BACFDC3868C8</p>
 </div>
@@ -270,13 +228,13 @@ twelfths spelled wrong
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:27</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -299,27 +257,6 @@ $\dfrac{2}{9}-\dfrac{4}{27}$
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [na] Date:2022-09-11::10:05
-
-
-
-remove :
-
-
-
-Reviewer: [ap] Date:2022-11-27::16:12
-
-
-
-Add a full stop
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -370,7 +307,7 @@ Add a full stop
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>90552CD9-4926-45A0-94A8-264B18306EE8</p>
 </div>
@@ -378,13 +315,13 @@ Add a full stop
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:8</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -403,19 +340,6 @@ What is $4\dfrac{1}{4}-2\dfrac{1}{2}?$
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [na] Date:2022-09-11::15:47
-
-
-
-? inside $$
-</div>
 
 <div class='review'>
 <ul class='review'>

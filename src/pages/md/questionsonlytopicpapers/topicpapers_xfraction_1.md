@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-xfraction-1"
 title: "TopicPaper - Fraction - 1"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "13"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "13"
 <p>aldenham-school--11-plus--maths--9999--sample-paper-5:1:14</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -109,10 +109,10 @@ Work out $\dfrac{2}{3} - \dfrac{3}{10}$
 <p>bancrofts-school--11-plus--maths--9999--sample-paper-8:1:11</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -235,10 +235,10 @@ What fraction of the shaded square was unshaded?
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-i:1:6</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -318,10 +318,10 @@ $\dfrac{2} {3} + \dfrac {3} {5}$
 <p>forest-school--11-plus--maths--2012--sample-paper-4:1:7</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -401,10 +401,10 @@ Find $\dfrac{3}{4}$ of $30$.
 <p>forest-school--11-plus--maths--2012--sample-paper-4:1:8</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -484,10 +484,10 @@ What number is exactly halfway between $1\dfrac{1}{2}$ and $3?$
 <p>forest-school--11-plus--maths--2012--sample-paper-4:1:9</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -567,10 +567,10 @@ Calculate $3.6 \div 0.4$.
 <p>forest-school--11-plus--maths--2012--sample-paper-4:1:11</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -650,10 +650,10 @@ How many thirds are there in $2\dfrac{2}{3}?$
 <p>forest-school--11-plus--maths--2012--sample-paper-4:1:15</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -733,10 +733,10 @@ Write $0.32$ as a fraction in its lowest terms.
 <p>forest-school--11-plus--maths--2012--sample-paper-4:1:22</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -816,10 +816,10 @@ What is a quarter of $398?$
 <p>forest-school--11-plus--maths--2012--sample-paper-4:1:34</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -899,10 +899,10 @@ What is $5\%$ of $5\ \text{kg}$? Give your answer in grams.
 <p>forest-school--11-plus--maths--9999--sample-paper-3:1:24</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -982,10 +982,10 @@ Multiply $21$ by $\dfrac{2}{7}$.
 <p>forest-school--11-plus--maths--9999--sample-paper-3:1:27</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1065,10 +1065,10 @@ What is $\dfrac{1}{3}$ of $414?$
 <p>forest-school--11-plus--maths--9999--sample-paper-3:1:29</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

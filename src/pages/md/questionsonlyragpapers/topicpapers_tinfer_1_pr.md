@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tinfer-1-pr"
 title: "TopicPaper - Infer - 1 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "8"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C795B046-748D-4039-892F-949F9A2909FB</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "8"
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:26</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -99,43 +99,6 @@ Can you find a four digit number which is reversed when multiplied by $9?$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-06::17:11
-
-
-
-write using katex array
-
-
-
-Reviewer: [up] Date:2022-09-06::17:12
-
-
-
-write using katex array
-
-
-
-Reviewer: [up] Date:2022-09-08::16:15
-
-
-
-a: missed + sign
-
-
-
-Reviewer: [up] Date:2022-09-08::16:15
-
-
-
-a: missed + sign
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -186,7 +149,7 @@ a: missed + sign
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5E4F0098-CAA7-4592-B30A-D0DBF4E45D87</p>
 </div>
@@ -194,13 +157,13 @@ a: missed + sign
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:2:5</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -278,25 +241,6 @@ How many more cubes will there be in the $11^\text{th}$ tower than in the $10^\t
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Remove bold and put towers in 
-
-Part b and c, Put th as a subscript e.g., 7^{th}
-
-
-
-Reviewer: [up] Date:2022-10-11::20:03
-
-
-
-th should be in \text{}
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -347,7 +291,7 @@ th should be in \text{}
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>B004FD47-3C02-4E91-9E92-3ABF37CC8EBE</p>
 </div>
@@ -355,13 +299,13 @@ th should be in \text{}
 <p>benenden-school--11-plus--maths--2020--sample-paper-2:2:1</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -393,19 +337,6 @@ The symbols “<”  and “>” indicate whether numbers are “less than” or
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-06::19:43
-
-
-
-remove \bold
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -456,7 +387,7 @@ remove \bold
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C3A742AC-6B5D-47FB-8A76-E187A7C93BDE</p>
 </div>
@@ -464,13 +395,13 @@ remove \bold
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:30</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -501,19 +432,6 @@ $100 - 99 + 98 - 97 + 96 - 95 + \ldots$ and so on $\ldots + 2 - 1$.
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [na] Date:2022-09-08::20:23
-
-
-
-nuber ==> number
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -564,7 +482,7 @@ nuber ==> number
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>03C355C4-4E8A-4762-80F6-AABE50488326</p>
 </div>
@@ -572,13 +490,13 @@ nuber ==> number
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:9</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -736,7 +654,7 @@ $\bold{1600} \rightarrow \large \boxed{} \ \boxed{} \ \boxed{} \ \boxed{} \\\\$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>FD15F30C-BFB8-4416-A0C4-58C911BF1D5E</p>
 </div>
@@ -744,13 +662,13 @@ $\bold{1600} \rightarrow \large \boxed{} \ \boxed{} \ \boxed{} \ \boxed{} \\\\$
 <p>csse--11-plus--maths--2015--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -783,27 +701,6 @@ What value must be placed in the shaded box?
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [na] Date:2022-09-08::22:18
-
-
-
-point (.) instead of -
-
-
-
-Reviewer: [up] Date:2022-10-13::19:11
-
-
-
-use boxed instead of box
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -854,7 +751,7 @@ use boxed instead of box
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>476838F2-2384-4350-B7D7-F6D7A1D8855B</p>
 </div>
@@ -862,13 +759,13 @@ use boxed instead of box
 <p>csse--11-plus--maths--2016--sample-paper-3:1:3</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -956,21 +853,6 @@ Insert the correct number in the two unshaded positions to part complete this ma
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [na] Date:2022-09-08::22:03
-
-
-
-i)Instead of %image% create table to show the content.
-
-ii) Make obvious changes too like removing bold etc.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1021,7 +903,7 @@ ii) Make obvious changes too like removing bold etc.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C4F9FDF3-39A5-4908-BCFD-108AC03779C8</p>
 </div>
@@ -1029,13 +911,13 @@ ii) Make obvious changes too like removing bold etc.
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:38</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1079,31 +961,6 @@ How many people favoured "the Spaceship"?
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-use table instead of image
-
-
-
-Reviewer: [up] Date:2022-10-12::15:11
-
-
-
-Please read comments and make changes!!
-
-
-
-Reviewer: [up] Date:2022-10-12::15:11
-
-
-
-add a table here apart from the image.
-</div>
 
 <div class='review'>
 <ul class='review'>

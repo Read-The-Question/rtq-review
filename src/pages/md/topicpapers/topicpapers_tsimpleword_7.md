@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-7"
 title: "TopicPaper - Simpleword - 7"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "28"
 ---
 <div class='paper'>

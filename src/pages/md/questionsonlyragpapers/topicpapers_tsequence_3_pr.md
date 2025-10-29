@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tsequence-3-pr"
 title: "TopicPaper - Sequence - 3 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "8"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>29A36B70-5937-460E-A1CC-4F3D72FC835A</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "8"
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -88,19 +88,6 @@ The numbers in the final column are special numbers. What is the name of these s
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-11-09::19:24
-
-
-
-katex missing remove underscores,discuss with me and show me before you mark this PRPCC
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -151,7 +138,7 @@ katex missing remove underscores,discuss with me and show me before you mark thi
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>2FA5C80B-84BE-4078-BF63-040BEECDCB95</p>
 </div>
@@ -159,13 +146,13 @@ katex missing remove underscores,discuss with me and show me before you mark thi
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:33</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -255,19 +242,6 @@ If red is the $83^{rd}$ colour in the pattern, how many colours are at the start
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-11-09::05:58
-
-
-
-fix superscript
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -318,7 +292,7 @@ fix superscript
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>1F32707F-8A84-4D52-A0AE-6AC84E45DBC7</p>
 </div>
@@ -326,13 +300,13 @@ fix superscript
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:1:35</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -474,19 +448,6 @@ What is the total number of dots of SHAPE $12?$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Put a full stop after the first sentence
-
-Prequestion - Put into a table and make sure all numbers are in KATEX
-
-Part a) Remove the dotted line
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -537,7 +498,7 @@ Part a) Remove the dotted line
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C798D2A6-C881-4A29-8115-914DF673E613</p>
 </div>
@@ -545,13 +506,13 @@ Part a) Remove the dotted line
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:35</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -645,27 +606,6 @@ Which pattern has $117$ balls?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-remove Pattern1/2/3 outside the table
-
-
-
-write th as \text{th}
-
-
-
-Reviewer: [na] Date:2022-09-11::09:13
-
-
-
-remove \"pattern 1,\" \"pattern 2\" and \"pattern 3\"
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -716,7 +656,7 @@ remove \"pattern 1,\" \"pattern 2\" and \"pattern 3\"
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>11864F13-15AE-442B-A8E6-F4F08A54A7D5</p>
 </div>
@@ -724,13 +664,13 @@ remove \"pattern 1,\" \"pattern 2\" and \"pattern 3\"
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:38</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -753,27 +693,6 @@ $\&\pounds=\&\pounds=\&\pounds=\&\pounds=\&\pounds=$
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-add question mark
-
-
-
-its a pound sign, fix the symbols, remove question marks, put it in katex
-
-
-
-Reviewer: [na] Date:2022-09-11::09:30
-
-
-
-katex broken of string.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -824,7 +743,7 @@ katex broken of string.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>4902223C-331B-4077-83E4-51988080D5A0</p>
 </div>
@@ -832,13 +751,13 @@ katex broken of string.
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:18</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -861,25 +780,6 @@ $14, \quad 10, \quad 6, \quad 2, \quad \text{\textunderscore \textunderscore \te
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Use a comma not and
-
-Use quad
-
-
-
-Reviewer: [na] Date:2022-09-11::16:03
-
-
-
-Use quad
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -930,7 +830,7 @@ Use quad
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>75A11218-D487-4C9A-B7EB-C326078EECE1</p>
 </div>
@@ -938,13 +838,13 @@ Use quad
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:24</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -967,25 +867,6 @@ $1, \quad 4, \quad 9, \quad 16, \quad \text{\textunderscore \textunderscore \tex
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Use a comma not and
-
-Use quad
-
-
-
-Reviewer: [na] Date:2022-09-11::16:05
-
-
-
-Use quad
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1036,7 +917,7 @@ Use quad
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E70CBFBE-40AB-4BD9-A657-FC7BEC20CE40</p>
 </div>
@@ -1044,13 +925,13 @@ Use quad
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:12</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

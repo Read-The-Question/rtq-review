@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-talgebra-8-pr"
 title: "TopicPaper - Algebra - 8 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "4"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>39E23842-24A9-4406-85BD-91A1D31AE811</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "4"
 <p>oundle-school--11-plus--maths--2018--sample-paper-9:1:4</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -94,19 +94,6 @@ What was the original number?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-11-09::05:27
-
-
-
-do not write in katex for numbers in words
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -157,7 +144,7 @@ do not write in katex for numbers in words
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>45FC900A-65A8-4B6E-800A-FF3CBC3DEA42</p>
 </div>
@@ -165,13 +152,13 @@ do not write in katex for numbers in words
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:1:33</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -311,23 +298,6 @@ $4 \times \boxed{\phantom{9}}  - 13 = 55$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Prequestion - split the words number and 1, and put 1 in KATEX
-
-
-
-Reviewer: [na] Date:2022-09-11::15:25
-
-
-
-part a) remove \"and you cannot...\" line
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -378,7 +348,7 @@ part a) remove \"and you cannot...\" line
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>0B640AE5-947E-4730-B840-EF6C11260EA6</p>
 </div>
@@ -386,13 +356,13 @@ part a) remove \"and you cannot...\" line
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:1:36</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -534,33 +504,6 @@ If $19$ comes out of Sarah's machine what comes out of Tom's$?$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Prequestion - Add in any full stops required
-
-The first subquestion is in the prequestion, move it to a separate subquestion.
-
-Change image into a table.
-
-Part a) Add a full stop
-
-Remove all the dotted lines
-
-
-
-
-
-Reviewer: [na] Date:2022-09-11::15:39
-
-
-
-remove full stops in  all subparts i), ii) and iii) of part a) and part b) 
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -611,7 +554,7 @@ remove full stops in  all subparts i), ii) and iii) of part a) and part b)
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>4E6171F1-A614-49B9-AD77-25E54516C128</p>
 </div>
@@ -619,13 +562,13 @@ remove full stops in  all subparts i), ii) and iii) of part a) and part b)
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:20</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -701,15 +644,6 @@ $\dfrac{79-\boxed{\phantom{9}}}{6}=12$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Theyve used boxed instead of ldots but would ldots look weird in the last part
-</div>
 
 <div class='review'>
 <ul class='review'>

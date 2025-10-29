@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tgraph-4-pr"
 title: "TopicPaper - Graph - 4 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "12"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>422F78A1-EBFB-4834-9E93-8E37FE51E544</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "12"
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -72,19 +72,6 @@ What does this word mean?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-27::19:32
-
-
-
-change %graph% to %image%
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -135,7 +122,7 @@ change %graph% to %image%
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5ADEA136-019A-4E7C-B16A-63B5124BEC21</p>
 </div>
@@ -143,13 +130,13 @@ change %graph% to %image%
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:2:4</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -201,19 +188,6 @@ Two other points, $C$ and $D$, also lie on the same line, but are not shown in t
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-28::03:58
-
-
-
-add image
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -264,7 +238,7 @@ add image
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9CEAF2A5-C2F2-4496-8770-B93CA96DA05C</p>
 </div>
@@ -272,13 +246,13 @@ add image
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:22</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -377,19 +351,6 @@ Work out the average rainfall for the last three months. Give your answer as a m
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-15::05:25
-
-
-
-d: space before mm in katex
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -440,7 +401,7 @@ d: space before mm in katex
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E4C34EB0-9A68-4889-A896-853EB3C27ECF</p>
 </div>
@@ -448,13 +409,13 @@ d: space before mm in katex
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:26</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -555,19 +516,6 @@ Work out the years in which you could have bought shares and then sold them whic
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-15::04:59
-
-
-
-main question: years inside katex as unit
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -618,7 +566,7 @@ main question: years inside katex as unit
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>F68DA46A-CDEF-4AC9-8CF1-9CF2DBA98C9E</p>
 </div>
@@ -626,13 +574,13 @@ main question: years inside katex as unit
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:12</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -724,19 +672,6 @@ On Friday Geoff saw six lorries on his journey into school. Complete the pictogr
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-15::04:30
-
-
-
-add table too, leave image in too
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -787,7 +722,7 @@ add table too, leave image in too
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9EDD8D35-8424-45C8-B1FF-CFBFDD3627CF</p>
 </div>
@@ -795,13 +730,13 @@ add table too, leave image in too
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -918,19 +853,6 @@ Which day is the mode?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-11-23::20:27
-
-
-
-Move there were 22 people... to the start of b and use i and ii for the next questions
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -981,7 +903,7 @@ Move there were 22 people... to the start of b and use i and ii for the next que
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6ED1A2FE-CE30-421E-9DBF-22209381F550</p>
 </div>
@@ -989,13 +911,13 @@ Move there were 22 people... to the start of b and use i and ii for the next que
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:1:8</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1151,7 +1073,7 @@ Label your shape $C$.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6444D5F4-833F-41FE-AB65-4A1CD0E2999B</p>
 </div>
@@ -1159,13 +1081,13 @@ Label your shape $C$.
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:1:10</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1334,7 +1256,7 @@ Who is more likely to pick a green counter?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8A1BFE79-13B6-4A0B-B47B-91961D20F040</p>
 </div>
@@ -1342,13 +1264,13 @@ Who is more likely to pick a green counter?
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1526,7 +1448,7 @@ How many oranges are needed to make $25 \ \text{litres}$ of juice?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>B54F441F-E6B1-4502-8CBF-36D864010B8C</p>
 </div>
@@ -1534,13 +1456,13 @@ How many oranges are needed to make $25 \ \text{litres}$ of juice?
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:1:6</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1634,19 +1556,6 @@ Do you agree?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-11-20::12:50
-
-
-
-tallys missing
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1697,7 +1606,7 @@ tallys missing
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>698F3943-AD9F-4055-A94D-925AE85FB739</p>
 </div>
@@ -1705,13 +1614,13 @@ tallys missing
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:19</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1838,7 +1747,7 @@ At what time did she take this measurement?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>280E7C77-5220-40B0-A761-5C610EFC2777</p>
 </div>
@@ -1846,13 +1755,13 @@ At what time did she take this measurement?
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:23</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2008-sample-paper-10"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2008 - Sample Paper 10"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "30"
 ---
 <div class='paper'>

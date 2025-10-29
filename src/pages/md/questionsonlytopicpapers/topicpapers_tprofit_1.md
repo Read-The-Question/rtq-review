@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tprofit-1"
 title: "TopicPaper - Profit - 1"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "34"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "34"
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -117,7 +117,7 @@ Show workings.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>450FEC63-5580-47DE-83CB-40719744776C</p>
 </div>
@@ -125,13 +125,13 @@ Show workings.
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:1:26</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -250,10 +250,10 @@ You **must** show your working.
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3:1:7</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -333,10 +333,10 @@ $200$ items are bought for $\pounds 2.10$. Each are now worth $\pounds 1.61$. Fi
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -463,10 +463,10 @@ What was the full price of the jeans?
 <p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -593,10 +593,10 @@ How much will she actually have to pay for them in sale?
 <p>colfes-school--11-plus--maths--9999--sample-paper:1:11</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -678,10 +678,10 @@ In the sale Asif buys the computer game for $\pounds 25.62$. How much money did 
 <p>csse--11-plus--maths--2017--sample-paper-4:1:11</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -801,10 +801,10 @@ Reduce the advertised price by $10\%$. How much does Ed pay?
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -888,10 +888,10 @@ What is the new price?
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:33</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -975,10 +975,10 @@ What is its new value?
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:1</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1062,10 +1062,10 @@ What is the new price?
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:33</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1149,10 +1149,10 @@ What is its new value?
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:35</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1239,10 +1239,10 @@ What is the new price of the television?
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:37</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1326,10 +1326,10 @@ If you buy $5$ bars how much money do you save by buying the $5$ pack?
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:1</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1413,10 +1413,10 @@ What is the new price?
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:33</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1503,10 +1503,10 @@ What is its new value?
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1592,10 +1592,10 @@ How much less did they take by selling at the lower price?
 <p>highgate-school--11-plus--maths--2013--sample-paper-d:1:2</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1682,10 +1682,10 @@ Monique is saving up to buy the car. She already has $\pounds 7350$. How much mo
 <p>oundle-school--11-plus--maths--2016--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1765,10 +1765,10 @@ A book usually costs $\pounds 18.60$ but it is reduced by $15\%$.How much does i
 <p>oundle-school--11-plus--maths--2017--sample-paper-7:1:9</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1852,10 +1852,10 @@ What is the sale price of the bicycle at Store $Q?$
 <p>sevenoaks-school--11-plus--maths--2012--sample-paper-3:1:8</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1978,10 +1978,10 @@ The sale price of a computer was $\pounds 884$. Work out the normal price of the
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:1:14</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2102,10 +2102,10 @@ DEAL $3$: Buy one get one free on all dishes costing $\pounds 8$ or more.
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:1:6</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2185,10 +2185,10 @@ Seesaws cost $\pounds 200$ each in January $2010$. In January $2011$ they had go
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:9</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2268,10 +2268,10 @@ A used-car dealer sells a car at $120 \%$ of its cost. If a car costs $\pounds 2
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2354,10 +2354,10 @@ A calculator normally costs $\pounds 3.80$. It is offered in a sale at $25\%$ of
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:1:20</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2437,10 +2437,10 @@ A calculator normally costs $\pounds 24.40$. It is offered in a sale at $15\%$ o
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:2:6</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2522,10 +2522,10 @@ less than he paid. The next day Bill sold it to Jack for $\pounds 90$. What is B
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2625,10 +2625,10 @@ What amount will Alex have to pay for his new phone?
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:1:17</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2731,7 +2731,7 @@ The price of a diamond ring, including $\text{VAT}$ is $\pounds 1200$. Work out 
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A2647CBD-0E93-49BA-A66F-0E5B9BB50BB9</p>
 </div>
@@ -2739,13 +2739,13 @@ The price of a diamond ring, including $\text{VAT}$ is $\pounds 1200$. Work out 
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:1:24</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2819,35 +2819,6 @@ $1$ New Zealand dollar (NZ$ \ \text{\textdollar}$) $= \ldots$ American dollars (
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-15::03:58
-
-
-
-leave a space between US/NZ and dollar
-
-
-
-Reviewer: [up] Date:2022-10-15::03:58
-
-
-
-leave a space between US/NZ and dollar
-
-
-
-Reviewer: [up] Date:2022-10-15::03:58
-
-
-
-remove underscore use ldots
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2906,10 +2877,10 @@ remove underscore use ldots
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:27</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3046,10 +3017,10 @@ Who is right?
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:18</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3163,10 +3134,10 @@ What was the price of sweets before sales tax was added?
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3250,10 +3221,10 @@ How much would it have cost before the sale started?
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:1:14</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3335,10 +3306,10 @@ would be the sale price of a coat that originally cost $\pounds 30?$
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

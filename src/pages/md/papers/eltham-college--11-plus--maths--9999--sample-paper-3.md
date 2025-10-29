@@ -1,7 +1,7 @@
 ---
 slug: "papers/eltham-college-11-plus-maths-9999-sample-paper-3"
 title: "Eltham College - 11 Plus - Maths - 9999 - Sample Paper 3"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "13"
 ---
 <div class='paper'>

@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tmap-1-pr"
 title: "TopicPaper - Map - 1 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "4"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>030CC720-5F48-4877-AD87-91027D54FEF7</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "4"
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -83,23 +83,6 @@ If the walking distance form City of London School to Guildhall is $1500\ \text{
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-13::12:30
-
-
-
-write : as {:} for ratio
-
-
-
-\bold etc remove
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -150,7 +133,7 @@ write : as {:} for ratio
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8CBF5494-F5F7-4ABC-A405-92596AB4CB5E</p>
 </div>
@@ -158,13 +141,13 @@ write : as {:} for ratio
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:29</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -224,19 +207,6 @@ The thieves also want to go from Alysford to Habsville Airport by the **shortest
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-15::04:39
-
-
-
-write C A D in katex too, leave space around right arrow, it looks squished right now
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -287,7 +257,7 @@ write C A D in katex too, leave space around right arrow, it looks squished righ
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>79768CE8-9883-4B8B-9A68-A85E3FCDA388</p>
 </div>
@@ -295,13 +265,13 @@ write C A D in katex too, leave space around right arrow, it looks squished righ
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -462,7 +432,7 @@ How far does this represent in the field?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>14726C98-3C9A-4DF3-BF09-E13A2DE89F42</p>
 </div>
@@ -470,13 +440,13 @@ How far does this represent in the field?
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

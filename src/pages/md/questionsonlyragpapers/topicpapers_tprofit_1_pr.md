@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tprofit-1-pr"
 title: "TopicPaper - Profit - 1 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "2"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>450FEC63-5580-47DE-83CB-40719744776C</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "2"
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:1:26</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -131,7 +131,7 @@ You **must** show your working.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A2647CBD-0E93-49BA-A66F-0E5B9BB50BB9</p>
 </div>
@@ -139,13 +139,13 @@ You **must** show your working.
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:1:24</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -219,35 +219,6 @@ $1$ New Zealand dollar (NZ$ \ \text{\textdollar}$) $= \ldots$ American dollars (
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-15::03:58
-
-
-
-leave a space between US/NZ and dollar
-
-
-
-Reviewer: [up] Date:2022-10-15::03:58
-
-
-
-leave a space between US/NZ and dollar
-
-
-
-Reviewer: [up] Date:2022-10-15::03:58
-
-
-
-remove underscore use ldots
-</div>
 
 <div class='review'>
 <ul class='review'>

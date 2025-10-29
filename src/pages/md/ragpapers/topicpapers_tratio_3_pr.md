@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tratio-3-pr"
 title: "TopicPaper - Ratio - 3 - PR"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "5"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>B1771F6D-A253-45AC-BA87-5A7F689BBAB0</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "5"
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -205,35 +205,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-15::20:44
-
-
-
-a: write as simple word, with lhs text, treat as unit and do in multiple steps, write original question values and then start converting, this is not totally correct
-
-
-
-Reviewer: [up] Date:2022-09-15::20:45
-
-
-
-all Uppercase Gammas, not consistent
-
-
-
-Reviewer: [up] Date:2022-09-15::20:46
-
-
-
-c: use remainder way instead of fraction and then remainder calculation
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -284,7 +255,7 @@ c: use remainder way instead of fraction and then remainder calculation
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6E06B36B-A54A-4715-973B-556C587FF127</p>
 </div>
@@ -298,7 +269,7 @@ c: use remainder way instead of fraction and then remainder calculation
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -484,27 +455,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-15::20:47
-
-
-
-a: write as simple word with lhs text
-
-
-
-Reviewer: [up] Date:2022-09-15::20:47
-
-
-
-b: do remainder way
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -555,7 +505,7 @@ b: do remainder way
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>DB8426F8-1FC9-4F04-9127-D813A4C5A351</p>
 </div>
@@ -569,7 +519,7 @@ b: do remainder way
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -929,7 +879,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>26A1F77E-A724-4868-9E86-DF9259F3FCC2</p>
 </div>
@@ -943,7 +893,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1064,7 +1014,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D8435D61-BAC3-4133-A265-8167DD74396D</p>
 </div>
@@ -1078,7 +1028,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

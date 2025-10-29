@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tduplicatepaper-3"
 title: "TopicPaper - Duplicatepaper - 3"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "10"
 ---
 <div class='paper'>
@@ -16,7 +16,7 @@ questions_count: "10"
 # Section A
 <ul class='question decimal question_type_question list_type_decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>833ADCD1-B6F1-4CAC-9F6A-962922CDB4DC</p>
 </div>
@@ -24,13 +24,13 @@ questions_count: "10"
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:33</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -186,10 +186,10 @@ many colours are at the start of the pattern before red occurs?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:34</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -306,10 +306,10 @@ If $120$ marbles are released through the network, how many do not reach $F$?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:35</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -401,10 +401,10 @@ How many days would it take the lazy one to paint the house on his own?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:36</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -496,10 +496,10 @@ The shape is not drawn accurately.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:37</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -589,10 +589,10 @@ What is the weight of two ducks and one duckling?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:38</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -676,10 +676,10 @@ Use each number from $1$ to $8$ once in the boxes to make all the calculations c
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:39</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -812,7 +812,7 @@ Find two possible pairs of values for the mystery numbers.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A6D6EEEF-BD6F-4684-931D-5595CA618A90</p>
 </div>
@@ -820,13 +820,13 @@ Find two possible pairs of values for the mystery numbers.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:40</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -924,10 +924,10 @@ the total value for that row or column. Find the value of each symbol.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:41</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1064,7 +1064,7 @@ the two diagonal lines, $AC$ and $BD$.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>FDFB961E-6D1F-49F7-BB9B-8C9153B2B35F</p>
 </div>
@@ -1072,13 +1072,13 @@ the two diagonal lines, $AC$ and $BD$.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:42</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tinfer-4-pr"
 title: "TopicPaper - Infer - 4 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "19"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D24C3782-3686-48C1-8FE8-939334DD9937</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "19"
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:27</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -86,15 +86,6 @@ How   many  different   squares  are   there in total,   taking   into  account 
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Do the quotations look weird
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -145,7 +136,7 @@ Do the quotations look weird
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>05E48EEE-15E7-47A5-807F-CCE0F39F743E</p>
 </div>
@@ -153,13 +144,13 @@ Do the quotations look weird
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:3:1</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -331,7 +322,7 @@ What row and column will contain the number $400 \text{?}$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>59B4202D-A908-4CEA-A5C9-E89A84386AE5</p>
 </div>
@@ -339,13 +330,13 @@ What row and column will contain the number $400 \text{?}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:3:4</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -468,19 +459,6 @@ Write down **all possibilities** for the sum of the missing faces that border wi
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-28::01:45
-
-
-
-part a: make sub sub questions
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -531,7 +509,7 @@ part a: make sub sub questions
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>04205B2F-6ADD-49F6-BECE-B014DE4F5975</p>
 </div>
@@ -539,13 +517,13 @@ part a: make sub sub questions
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:3:5</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -664,19 +642,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-28::01:46
-
-
-
-use \spadesuit as the placeholder for all and add abbreviation
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -727,7 +692,7 @@ use \spadesuit as the placeholder for all and add abbreviation
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>F79D76E9-6310-4117-B671-3A934BFED765</p>
 </div>
@@ -735,13 +700,13 @@ use \spadesuit as the placeholder for all and add abbreviation
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:3:1</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -826,19 +791,6 @@ If she used $94$ matches how many squares did she make?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-28::04:01
-
-
-
-table does not show 6 7 8, remove them add \ldots to show same as the image
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -889,7 +841,7 @@ table does not show 6 7 8, remove them add \ldots to show same as the image
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>103DEBE0-9E9D-46C6-B455-7C95D4AC52EB</p>
 </div>
@@ -897,13 +849,13 @@ table does not show 6 7 8, remove them add \ldots to show same as the image
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:3:3</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1017,27 +969,6 @@ What is the remainder when $1! + 2! + 3! + 4! + 5! + 6! + 7! + 8! + 9! + 10!$ is
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-28::04:02
-
-
-
-add tables
-
-
-
-Reviewer: [up] Date:2022-10-28::04:02
-
-
-
-add tables
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1088,7 +1019,7 @@ add tables
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>99DCA26E-4F47-49E4-84EC-0E4318EBB471</p>
 </div>
@@ -1096,13 +1027,13 @@ add tables
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:3:5</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1256,19 +1187,6 @@ Given the information in the tables below work out the remainder of $470807973 \
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-28::04:04
-
-
-
-add table
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1319,7 +1237,7 @@ add table
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>0D1E4232-5D41-4C7E-888D-AFDBA2BD2D7B</p>
 </div>
@@ -1327,13 +1245,13 @@ add table
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:3:1</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1392,23 +1310,6 @@ Complete the medal table below:
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Complete table
-
-
-
-Reviewer: [up] Date:2022-10-27::17:08
-
-
-
-table numbers are not in katex, put them in $$
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1459,7 +1360,7 @@ table numbers are not in katex, put them in $$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>311139D2-1096-4918-99D0-8B3FFB1040B6</p>
 </div>
@@ -1467,13 +1368,13 @@ table numbers are not in katex, put them in $$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:3:5</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1553,19 +1454,6 @@ All the whole numbers from $1$ to $1000$ inclusive.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-27::17:11
-
-
-
-do not use \quad in this case, just use comma, quad looking weird with sentences
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1616,7 +1504,7 @@ do not use \quad in this case, just use comma, quad looking weird with sentences
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E96DA9C6-E8E4-469E-BD06-FB2F38B25D5A</p>
 </div>
@@ -1624,13 +1512,13 @@ do not use \quad in this case, just use comma, quad looking weird with sentences
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:3:6</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1702,23 +1590,6 @@ I have $24$ black tiles. What is the smallest number of white tiles I can use to
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Complete table
-
-
-
-Reviewer: [up] Date:2022-10-27::17:12
-
-
-
-table align center
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1769,7 +1640,7 @@ table align center
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>52F311FD-9259-4B07-9220-97F96FAC9E5D</p>
 </div>
@@ -1777,13 +1648,13 @@ table align center
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:23</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1875,23 +1746,6 @@ Finally it is Debbie's turn. She has four shots on target with a total score of 
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Part d) End the sentence with a full stop
-
-
-
-Reviewer: [up] Date:2022-10-15::05:17
-
-
-
-part d: space before full stop
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1942,7 +1796,7 @@ part d: space before full stop
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E39A1096-CF34-4800-9B35-42779F5B37BD</p>
 </div>
@@ -1950,13 +1804,13 @@ part d: space before full stop
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:27</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2128,7 +1982,7 @@ Use this approach to work out the sum of the numbers $2, 6, 10, 14, 18$ and so o
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A95BBF07-C11B-429F-9851-D474ECFF40FF</p>
 </div>
@@ -2136,13 +1990,13 @@ Use this approach to work out the sum of the numbers $2, 6, 10, 14, 18$ and so o
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:28</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2265,25 +2119,6 @@ $109$ (base $10$) $= \ldots$ (base $5$)
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Part a and b) After the question write base 10
-
-Part c) Question missing
-
-
-
-Reviewer: [up] Date:2022-10-15::05:18
-
-
-
-ldots instead of underscore
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2334,7 +2169,7 @@ ldots instead of underscore
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>206CBB89-0A22-48FE-BE3C-9C9D83087FD8</p>
 </div>
@@ -2342,13 +2177,13 @@ ldots instead of underscore
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:30</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2424,35 +2259,6 @@ Use this information to work out the remaining values of $A, B$ and $D$.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Fill in table
-
-
-
-Reviewer: [up] Date:2022-10-15::05:21
-
-
-
-add image in this case
-
-
-
-make table bigger and show sums too add extra row and columns
-
-
-
-Reviewer: [up] Date:2022-10-15::05:22
-
-
-
-write A B C D as katex in the table
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2503,7 +2309,7 @@ write A B C D as katex in the table
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>CC1826DB-EA13-490B-A322-57640558FD22</p>
 </div>
@@ -2511,13 +2317,13 @@ write A B C D as katex in the table
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:30</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2570,15 +2376,6 @@ Winston watched the race but forgot to write down the positions of the runners. 
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Should it be as a list and complete table
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2629,7 +2426,7 @@ Should it be as a list and complete table
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>37C4C1C3-5248-4DBC-B3C2-4232E8337CE6</p>
 </div>
@@ -2637,13 +2434,13 @@ Should it be as a list and complete table
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:29</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2670,15 +2467,6 @@ How many individual digits does he write down?
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Do you need to use quad
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2729,7 +2517,7 @@ Do you need to use quad
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>2F500E61-62EB-4B44-AE40-6BB2007CA6B4</p>
 </div>
@@ -2737,13 +2525,13 @@ Do you need to use quad
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:30</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2853,31 +2641,6 @@ Circle "NO" for each of the following prime numbers that cannot be expressed as 
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Fill in both tables
-
-
-
-Reviewer: [up] Date:2022-10-15::04:39
-
-
-
-main question: ? missing s missing for questions
-
-
-
-Reviewer: [up] Date:2022-10-15::04:42
-
-
-
-part b: remove YES NO, add that to the header instead
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2928,7 +2691,7 @@ part b: remove YES NO, add that to the header instead
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>BD641DBE-5C22-47AF-A25A-9ED62232148A</p>
 </div>
@@ -2936,13 +2699,13 @@ part b: remove YES NO, add that to the header instead
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:1:18</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3014,21 +2777,6 @@ Complete the pentagon so that the numbers along each side add up to $14$.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-11-20::13:08
-
-
-
-Prequestion - Change seme to same
-
-a) Add a full stop.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3079,7 +2827,7 @@ a) Add a full stop.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8ADF131A-7B68-41C1-B7E4-E2AD4B29F38F</p>
 </div>
@@ -3087,13 +2835,13 @@ a) Add a full stop.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:32</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3195,19 +2943,6 @@ Fill in $4$ numbers which would work.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-part c) Change is to are
-
-Prequestion - add full stop 
-
-Should there be an equal sign on the first sign of the aligned even though its not there in the question
-</div>
 
 <div class='review'>
 <ul class='review'>

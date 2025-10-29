@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-georges-college-11-plus-maths-9999-sample-paper-2"
 title: "St Georges College - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "24"
 ---
 <div class='paper'>
@@ -736,7 +736,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>2F56FD4F-E0EC-48C9-8B9F-6E6C23752C49</p>
 </div>
@@ -750,7 +750,7 @@ $
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -918,15 +918,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-a: Answer put \ in front of dfrac
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3450,7 +3441,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>93360AA4-2B9F-4C55-BC75-2CD78B9FD6F2</p>
 </div>
@@ -3458,13 +3449,13 @@ $
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:17</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3736,33 +3727,6 @@ Sarah can fill the tank upto $20 \ \text{cm}$.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Part A : Delete first 3 lines. Stat katex with Area of base.....align at &= the rest of the answer. put 60 cm x 20 cm 
-
-Use spacing \\\\ Put space between number and cm.. same in blue answer
-
-PArt B : \text{Max volume of tank} = \text{length}\times\text{width}\times{height} \\
-
-Change to : Volume of tank = ....... (before height put \text  use \\\\ spacing not \\
-
-same corrections like above. do your katex formatting correctly spacing is not right between numbers. 
-
-PArt C : APTQ,
-
-
-
-Volume of 24 litres = 24 x 1000^3
-
-Volume = l x h x w 
-
-24000cm^3=  60 x h x 30  
-
-solve for h... till 20 cm (not 20 cm2)
-
-change blue ansawer accrodingly.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4708,7 +4672,7 @@ Height of the triangle $= 8 \ \text {cm}$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>17EB6AE3-FD45-41A0-9FF9-AF38640101B5</p>
 </div>
@@ -4716,13 +4680,13 @@ Height of the triangle $= 8 \ \text {cm}$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:23</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4963,37 +4927,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Part A :
-
-Delete upper part. Start direclty with katex, align at &=
-
-Area of flower bed = .....
-
-Substitute
-
-make 6 to 2 x 3 
-
-cancel
-
-use right units with correct spacing... 
-
-Part B 
-
-same Start with katex
-
-Area of whole garden = use cm here too......(solve like you did ) align at &= put spacing in katex .. \times (space) 12
-
-Part C 
-
-Not solved!
-
- Area (Grass) = Total Area - Area (Flower bed) \times 4
-
-solve.. use correct units and spacing before units.. if needed
-</div>
 
 <div class='review'>
 <ul class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/solihull-school-11-plus-maths-9999-sample-paper-2"
 title: "Solihull School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "24"
 ---
 <div class='paper'>
@@ -664,7 +664,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6BA6F42D-1F0D-4529-BDA6-E0896C3AE9AD</p>
 </div>
@@ -678,7 +678,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3395,7 +3395,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8E4B5715-53BB-42A4-9945-FBB59D2C6806</p>
 </div>
@@ -3403,13 +3403,13 @@ $
 <p>solihull-school--11-plus--maths--9999--sample-paper-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3809,63 +3809,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Part A 
-
-PArt A  inside katex Step 1 Perimeter &= 2×(22+9)
-
-Part b
-
-Solve again you need to find Area not length.
-
-refer UUID : 4F58585B-5B01-496D-8865-FFF0FEAC8FD6 except the length part may not be needed.
-
-PArt C 
-
-Put this text at top
-
-The area of irregular shapes can be determined by dividing the given shape into smaller regular shapes.
-
-
-
-Lets extend the left line to the side of 6 cm and create two Rectangles. Rectangle L and Rectangle R
-
-Area of the shape = Area of Rectangle L + Area of Rectangle R)
-
-= (length x .....) + (len.....) 
-
-= (17 -6) x 8 + 6 x 11
-
-solve further.. 
-
-Part D
-
-
-
-Let the side... delete \"be\" 
-
-Step 1 katex : Side x Side = Area
-
-Step 2 a x a = 169 
-
-Step 3  = 13 x 13 
-
-then your step 4 + 5  
-
-
-
-Lets find the perimeter of the square.
-
-start katex
-
-Perimeter of the square = 4 x Side
-
-= 4 x a 
-
-solve like you did...
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3916,7 +3859,7 @@ solve like you did...
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>1A52194D-4989-4E38-AA11-8AA68DFBCC41</p>
 </div>
@@ -3930,7 +3873,7 @@ solve like you did...
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4384,7 +4327,7 @@ The square root of $6$ is in between $28, 29$.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>10320627-68A7-4630-B0FA-D996CFB75010</p>
 </div>
@@ -4398,7 +4341,7 @@ The square root of $6$ is in between $28, 29$.
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5917,7 +5860,7 @@ The two numbers are $= 2, 2$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>268985CE-D916-46A3-B493-68415348A63C</p>
 </div>
@@ -5931,7 +5874,7 @@ The two numbers are $= 2, 2$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6512,7 +6455,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>196B7FB7-BE4D-4577-B993-353DAB477794</p>
 </div>
@@ -6520,13 +6463,13 @@ $
 <p>solihull-school--11-plus--maths--9999--sample-paper-2:1:23</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6624,17 +6567,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-You refered to the correct UUID but did not change the text. please change the text per this question.
-
-wall = Floor
-
-After step 3 (with cm) cancel in step 4 and change 6 to 2 x 3 and cancel also. . not need to create a new step without cm...
-
-step 5 will be = 5 x 100 and solve till end.. (No need to write end sentence.) I was corrected later in my review.. If there are variables then only summary sentence otherwise not. . So delete the last sentence. 
-</div>
 
 <div class='review'>
 <ul class='review'>

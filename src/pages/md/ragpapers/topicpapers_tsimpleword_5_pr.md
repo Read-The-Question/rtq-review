@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-5-pr"
 title: "TopicPaper - Simpleword - 5 - PR"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "1"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -307,23 +307,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Part A : Do proper katex where pounds needed put it i am just putting it how you sould solve.
-
-. To find if I bought more that 7 adult tickets, letS find the cost of 8 tickets
-
-1 Adult Seat = \pounds 7
-
-8 Adult Seat = 8 x 7
-
-= ..
-
-56 > 51 Hence, I didnt buy more than 7 tickets. 
-
-Part B & Part C - tinfer
-</div>
 
 <div class='review'>
 <ul class='review'>

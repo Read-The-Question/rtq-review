@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-kings-school-canterbury-11-plus-maths-2013-sample-paper-2"
 title: "The Kings School Canterbury - 11 Plus - Maths - 2013 - Sample Paper 2"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "15"
 ---
 <div class='paper'>

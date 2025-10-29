@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-6-pr"
 title: "TopicPaper - Sequence - 6 - PR"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "4"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "4"
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -234,19 +234,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-14::18:41
-
-
-
-why in review???
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -297,7 +284,7 @@ why in review???
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>74519F97-5041-4ECE-88D4-3B509460C560</p>
 </div>
@@ -311,7 +298,7 @@ why in review???
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -445,35 +432,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-14::19:02
-
-
-
-not per template, i had to restore previous answers as it was commented out
-
-
-
-first write the difference in the sequence, then write similar to 47594BD5-2E75-4D7A-A8B7-6D889303472F
-
-
-
-solve as equation write using algebra then find the value
-
-
-
-Reviewer: [up] Date:2022-09-14::19:02
-
-
-
-write and show if any confusion
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -524,7 +482,7 @@ write and show if any confusion
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3CC14E76-50F8-4F46-9B87-410B0584474A</p>
 </div>
@@ -538,7 +496,7 @@ write and show if any confusion
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -667,19 +625,6 @@ Hence, the number $1330$ will not be in the sequence.
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-14::19:04
-
-
-
-this looks like old answer!!!, not per algebra standards, please do not promote old answers without changes
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -730,7 +675,7 @@ this looks like old answer!!!, not per algebra standards, please do not promote 
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>961160E3-202D-4B2A-8D2F-367BAD792D11</p>
 </div>
@@ -744,7 +689,7 @@ this looks like old answer!!!, not per algebra standards, please do not promote 
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

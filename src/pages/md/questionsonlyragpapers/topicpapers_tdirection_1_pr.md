@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tdirection-1-pr"
 title: "TopicPaper - Direction - 1 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "1"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>78D2E211-B587-4FE4-BA0D-63ACD98B73FF</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "1"
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:36</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

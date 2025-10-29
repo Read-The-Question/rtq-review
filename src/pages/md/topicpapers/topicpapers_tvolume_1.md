@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tvolume-1"
 title: "TopicPaper - Volume - 1"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "40"
 ---
 <div class='paper'>
@@ -959,7 +959,7 @@ Length $= 5 \ \text{cm}$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>CB4DEFFE-6371-44CF-8A90-FD3681A657D0</p>
 </div>
@@ -973,7 +973,7 @@ Length $= 5 \ \text{cm}$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1087,7 +1087,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3A749E22-6FE5-47A7-B614-E273124F46A5</p>
 </div>
@@ -1101,7 +1101,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1183,23 +1183,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-13::10:46
-
-
-
-this is not correct, the simple division works if dimensions match, there will be a lot of wasted space in this case but you cant squeeze in cubes like that
-
-
-
-max will 6 * 3 * 2 = 36, can you also am doing the right calculation here?
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1484,7 +1467,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A0766DE9-1D5E-461E-A564-4BC6C96FAF4C</p>
 </div>
@@ -1498,7 +1481,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1575,23 +1558,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-13::10:47
-
-
-
-this is not correct, the simple division works if dimensions match, there will be a lot of wasted space in this case but you cant squeeze in things like that
-
-
-
-
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3208,7 +3174,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>76119116-2D56-4485-9318-0825AD6466FE</p>
 </div>
@@ -3222,7 +3188,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3409,27 +3375,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-09::16:04
-
-
-
-not per template, please review carefully
-
-
-
-Reviewer: [up] Date:2022-09-13::11:02
-
-
-
-part a is not per template, why is it back in PRPCC?
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3480,7 +3425,7 @@ part a is not per template, why is it back in PRPCC?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5EBF32BB-01E6-4D6D-87EC-E833F995392D</p>
 </div>
@@ -3494,7 +3439,7 @@ part a is not per template, why is it back in PRPCC?
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3611,7 +3556,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>159F7FF8-2EDF-4182-ADFD-95F6291506A6</p>
 </div>
@@ -3625,7 +3570,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4028,7 +3973,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>2F7C07CA-4370-40FB-8A91-FD313818A4F2</p>
 </div>
@@ -4042,7 +3987,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4341,23 +4286,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-13::11:25
-
-
-
-can you check part b again?
-
-
-
-part c is wrong too
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5388,7 +5316,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>862040C8-B094-452E-8935-53F70A7B3C7A</p>
 </div>
@@ -5402,7 +5330,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5595,19 +5523,6 @@ Surface area $= 54 \ \text {cm} ^ 3$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-13::11:31
-
-
-
-not per algebra standards
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -6038,7 +5953,7 @@ TODOANSWER
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>B7478B26-4324-446E-B140-93B8FBBDBA09</p>
 </div>
@@ -6052,7 +5967,7 @@ TODOANSWER
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6245,35 +6160,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-13::11:33
-
-
-
-a: cant fit like that, dimension do not match
-
-
-
-Reviewer: [up] Date:2022-09-13::11:34
-
-
-
-a: cant fit like that, dimension do not match
-
-
-
-Reviewer: [up] Date:2022-09-13::11:34
-
-
-
-b: same as a
-</div>
 
 <div class='review'>
 <ul class='review'>

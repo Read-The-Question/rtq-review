@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tinfer-4"
 title: "TopicPaper - Infer - 4"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "40"
 ---
 <div class='paper'>
@@ -742,11 +742,6 @@ $32 \times 32 = 1024$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-add tag tinfer and mark the status as PRR
-</div>
 
 <div class='review'>
 <ul class='review'>

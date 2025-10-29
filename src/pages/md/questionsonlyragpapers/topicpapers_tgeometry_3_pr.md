@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tgeometry-3-pr"
 title: "TopicPaper - Geometry - 3 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "11"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>0C1A6102-AA5A-4140-BA5E-CFA41D8E85BA</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "11"
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:14</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -148,7 +148,7 @@ Give reasons for your answer.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>ADACADD4-3CE8-46AF-977B-B7D792EEA446</p>
 </div>
@@ -156,13 +156,13 @@ Give reasons for your answer.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:34</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -193,27 +193,6 @@ If the tower is taken apart and rebuilt into the big cube shown below, how many 
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-26::14:47
-
-
-
-Place the second image below the second sentence
-
-
-
-Reviewer: [up] Date:2022-10-26::14:47
-
-
-
-Place the second image below the second sentence
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -264,7 +243,7 @@ Place the second image below the second sentence
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>450B087E-B323-48DE-A95E-DA13AE752885</p>
 </div>
@@ -272,13 +251,13 @@ Place the second image below the second sentence
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:20</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -406,7 +385,7 @@ Circle the shape that you would see if you were looking at it from $C$, (from ab
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3B42ACFB-6E6C-4361-B2FE-FB2B4FADBC94</p>
 </div>
@@ -414,13 +393,13 @@ Circle the shape that you would see if you were looking at it from $C$, (from ab
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:27</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -546,7 +525,7 @@ the same distance from point $A$ as it is from point $B$.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>16BAFC1E-BE70-4E81-9D27-D76DED4D82FF</p>
 </div>
@@ -554,13 +533,13 @@ the same distance from point $A$ as it is from point $B$.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:27</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -646,7 +625,7 @@ Write the following $5$ shapes in the correct boxes in the table:
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C855329F-19A4-4A27-959D-17D3F293E4FF</p>
 </div>
@@ -654,13 +633,13 @@ Write the following $5$ shapes in the correct boxes in the table:
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:36</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -778,7 +757,7 @@ On the grid below, show how Fran can fit together the same two isosceles triangl
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>1CB8C85C-7BC6-41F2-880C-D78E551CB9B6</p>
 </div>
@@ -786,13 +765,13 @@ On the grid below, show how Fran can fit together the same two isosceles triangl
 <p>tonbridge-school--scholarship--maths--2016--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -873,7 +852,7 @@ not necessarily whole numbers.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>B704F269-2806-4DCD-8E58-7B360E937D6C</p>
 </div>
@@ -881,13 +860,13 @@ not necessarily whole numbers.
 <p>tonbridge-school--scholarship--maths--2016--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1003,7 +982,7 @@ Find another pair of different whole numbers $m$ and $n$ (other than those in ($
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>DE1D9796-F11D-4DA8-ADF1-9F1086B40385</p>
 </div>
@@ -1011,13 +990,13 @@ Find another pair of different whole numbers $m$ and $n$ (other than those in ($
 <p>tonbridge-school--scholarship--maths--2017--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1119,7 +1098,7 @@ If $a = 120, c = 169$ find $b$ and $d$.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>FBC35DFD-DE18-4E4F-BDEF-DB48D39CC40F</p>
 </div>
@@ -1127,13 +1106,13 @@ If $a = 120, c = 169$ find $b$ and $d$.
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:2:3</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1249,7 +1228,7 @@ For each statement tick $(\checkmark )$ True or False.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9500ACF7-6DD6-45F5-B231-7F60A94A3BF8</p>
 </div>
@@ -1257,13 +1236,13 @@ For each statement tick $(\checkmark )$ True or False.
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:2:6</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

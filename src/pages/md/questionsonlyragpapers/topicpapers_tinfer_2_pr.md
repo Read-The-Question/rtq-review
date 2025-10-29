@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tinfer-2-pr"
 title: "TopicPaper - Infer - 2 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "4"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E3A87F3C-A2D9-4B78-8A0C-120D166FD8A7</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "4"
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-f:1:21</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -61,19 +61,6 @@ Write each of the numbers $80, 81, 82, 83, 84$ and $85$ in the spaces below, usi
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-11::04:04
-
-
-
-change to a table instead
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -124,7 +111,7 @@ change to a table instead
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>4DB1DE17-E134-40AD-A4AF-157C125AD0B9</p>
 </div>
@@ -132,13 +119,13 @@ change to a table instead
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g:1:22</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -218,19 +205,6 @@ Draw the resulting tile on the grid below. You may complete the middle tile if y
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-11::04:01
-
-
-
-use md bold wherever it is bold in this question like **bold**
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -281,7 +255,7 @@ use md bold wherever it is bold in this question like **bold**
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C9B34C89-614F-4491-9CB6-6D70EB87E12A</p>
 </div>
@@ -289,13 +263,13 @@ use md bold wherever it is bold in this question like **bold**
 <p>king-edwards-school--11-plus--maths--9999--sample-paper-1:3:2</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -358,25 +332,6 @@ Down clues
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [na] Date:2022-09-10::04:21
-
-
-
-Across clues missing
-
-Down clues missing
-
-
-
-Remove the boldness
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -427,7 +382,7 @@ Remove the boldness
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>DD06E0E5-4633-490B-976C-5DFE245CCC25</p>
 </div>
@@ -435,13 +390,13 @@ Remove the boldness
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:1:29</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

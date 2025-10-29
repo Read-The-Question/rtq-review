@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdivision-3"
 title: "TopicPaper - Division - 3"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "26"
 ---
 <div class='paper'>
@@ -16,7 +16,7 @@ questions_count: "26"
 # Section A
 <ul class='question decimal question_type_question list_type_decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prrl question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>82B77C99-BA41-4F7D-B38F-C843C0FFF4DC</p>
 </div>
@@ -30,7 +30,7 @@ questions_count: "26"
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2902,7 +2902,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>5B8E1B2A-5F94-4F30-98A4-610D6E8B43B3</p>
 </div>
@@ -2916,7 +2916,7 @@ $
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2994,19 +2994,6 @@ Number not divisible $= 38501$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-09::07:47
-
-
-
-In the last column put Divisible by 3
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3414,7 +3401,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>E3BCF3D7-96B1-48B8-812A-8BF2BEC4BB2A</p>
 </div>
@@ -3428,7 +3415,7 @@ $
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3492,19 +3479,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-08::18:24
-
-
-
-make sure you cancel both digits
-</div>
 
 <div class='review'>
 <ul class='review'>

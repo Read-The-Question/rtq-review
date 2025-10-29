@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tgraph-1"
 title: "TopicPaper - Graph - 1"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "40"
 ---
 <div class='paper'>
@@ -2273,7 +2273,7 @@ rtq_abbr_md_add_drawing_ends
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9E719330-0153-4C8D-83E0-A6369D143FAA</p>
 </div>
@@ -2287,7 +2287,7 @@ rtq_abbr_md_add_drawing_ends
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2581,19 +2581,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::04:59
-
-
-
-part d: how to find the length of the side? check with A
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3300,7 +3287,7 @@ rtq_abbr_md_add_drawing_ends
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>FCB6B08C-EEFA-489B-A540-D421A04B94A5</p>
 </div>
@@ -3314,7 +3301,7 @@ rtq_abbr_md_add_drawing_ends
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3623,19 +3610,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::05:00
-
-
-
-part d: how to find the length of the side? check with A
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5902,7 +5876,7 @@ $27.5 \ \text{km}$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>52405CEB-6BF5-4540-B66B-59B339D30F72</p>
 </div>
@@ -5916,7 +5890,7 @@ $27.5 \ \text{km}$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6129,51 +6103,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::08:59
-
-
-
-a: add drawing start end to add a diagram to show on a graph by drawing the shape based on some value for a and b.
-
-
-
-Reviewer: [up] Date:2022-09-22::09:01
-
-
-
-b: refer area perimeter, write that way
-
-
-
-write formualas at the top
-
-
-
-add drawing start to show dimensions and numbers for octagon
-
-
-
-Reviewer: [up] Date:2022-09-22::09:01
-
-
-
-b: refer area perimeter, write that way
-
-
-
-write formualas at the top
-
-
-
-add drawing start to show dimensions and numbers for octagon
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -6224,7 +6153,7 @@ add drawing start to show dimensions and numbers for octagon
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>4C19B7C0-D4F3-4F5D-9B7E-05EA7E3E0DAE</p>
 </div>
@@ -6238,7 +6167,7 @@ add drawing start to show dimensions and numbers for octagon
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6479,21 +6408,6 @@ $(2, 5)$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::09:32
-
-
-
-b: write working
-
-
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -6544,7 +6458,7 @@ b: write working
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>B261F07B-7F67-439A-9C92-1946327A60A0</p>
 </div>
@@ -6558,7 +6472,7 @@ b: write working
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6882,19 +6796,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::09:35
-
-
-
-write in comments to draw 3 buses.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -7082,7 +6983,7 @@ rtq_abbr_md_add_drawing_ends
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>074DE07B-CAA4-4F6F-BCE8-72338C46ACA8</p>
 </div>
@@ -7096,7 +6997,7 @@ rtq_abbr_md_add_drawing_ends
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7238,19 +7139,6 @@ $(0, 3)$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::09:40
-
-
-
-add multiple answers
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -8498,7 +8386,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>F9B2F6C8-EF60-4E71-91EE-1E668DFDA14C</p>
 </div>
@@ -8512,7 +8400,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8729,19 +8617,6 @@ N is $(60, 0)$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::10:29
-
-
-
-show workings
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -8792,7 +8667,7 @@ show workings
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>04D4F515-2903-4E39-8006-27D56222DCEA</p>
 </div>
@@ -8806,7 +8681,7 @@ show workings
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8959,19 +8834,6 @@ $\pounds 7.5$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::10:30
-
-
-
-b: is it not 7.5?
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -9022,7 +8884,7 @@ b: is it not 7.5?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A17DBD1B-AF36-43CC-9F8D-8BBCF318210D</p>
 </div>
@@ -9036,7 +8898,7 @@ b: is it not 7.5?
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -9264,19 +9126,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::10:32
-
-
-
-b: need fraction not actual number
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -9327,7 +9176,7 @@ b: need fraction not actual number
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>F5BAF6A4-6EAB-4502-94EE-2430B7FAF0C8</p>
 </div>
@@ -9341,7 +9190,7 @@ b: need fraction not actual number
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -9905,7 +9754,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>06CC20E6-3C03-43FB-A718-204EA7FB6AC8</p>
 </div>
@@ -9919,7 +9768,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -10243,19 +10092,6 @@ rtq_abbr_md_add_drawing_ends
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::10:37
-
-
-
-in drawing starts and ends write all the answers and the descriptions so it can be used later .
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -10306,7 +10142,7 @@ in drawing starts and ends write all the answers and the descriptions so it can 
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>AB2F2D06-5118-4DAD-8AE1-FA7A2D5E85CB</p>
 </div>
@@ -10320,7 +10156,7 @@ in drawing starts and ends write all the answers and the descriptions so it can 
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -10501,21 +10337,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::10:39
-
-
-
-how did you calculate y?
-
-
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -10566,7 +10387,7 @@ how did you calculate y?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>50935C99-8760-4047-9849-9D55E3963F4D</p>
 </div>
@@ -10580,7 +10401,7 @@ how did you calculate y?
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -10770,23 +10591,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::10:42
-
-
-
-b: can you check again?
-
-
-
-c: does not seem to be right again
-</div>
 
 <div class='review'>
 <ul class='review'>

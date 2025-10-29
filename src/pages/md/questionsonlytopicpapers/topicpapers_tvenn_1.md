@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tvenn-1"
 title: "TopicPaper - Venn - 1"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "36"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "36"
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -125,10 +125,10 @@ How many of her friends liked **blueberries and cherries**?
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:1:9</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -210,7 +210,7 @@ $1 \quad 2 \quad 4 \quad 12 \quad 36 \quad 48 \quad 49 \quad 50$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>EF12320B-A806-4700-9709-80A1AD893E82</p>
 </div>
@@ -218,13 +218,13 @@ $1 \quad 2 \quad 4 \quad 12 \quad 36 \quad 48 \quad 49 \quad 50$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3:1:16</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -261,19 +261,6 @@ How many or her friends liked **football and cricket**?
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-11-27::18:04
-
-
-
-Remove the last sentence
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -332,10 +319,10 @@ Remove the last sentence
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:26</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -458,10 +445,10 @@ What is the largest number of boys with brown hair, who wear glasses?
 <p>csse--11-plus--maths--2015--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -610,7 +597,7 @@ Complete the Venn diagram below to show this information
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>DFE4C0A3-F27D-4912-B86A-4B38507DC7E5</p>
 </div>
@@ -618,13 +605,13 @@ Complete the Venn diagram below to show this information
 <p>csse--11-plus--maths--2017--sample-paper-4:1:20</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -760,10 +747,10 @@ What fraction of the pupils did *not* ride Skyleap?
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -847,10 +834,10 @@ John is dark haired, has brown eyes and wears glasses. In which section would yo
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:19</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -934,10 +921,10 @@ John is dark haired, has blue eyes and does not wear glasses. In which section w
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:19</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1021,10 +1008,10 @@ John is fair haired, has blue eyes and wears glasses. In which section would you
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:30</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1112,10 +1099,10 @@ $3 \quad 5 \quad 12 \quad 43 \quad 48$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g:1:15</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1217,10 +1204,10 @@ You will need to put some numbers outside of the two circles.
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1326,10 +1313,10 @@ Use this informaation to complete this table.
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:32</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1409,7 +1396,7 @@ What is the smallest number of girls who are right-handed?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>7B83BD4F-38FE-4088-BDD0-C94A2203662F</p>
 </div>
@@ -1417,13 +1404,13 @@ What is the smallest number of girls who are right-handed?
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:32</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1492,7 +1479,7 @@ In a car park there are $48$ cars. $\dfrac{3}{8}$ of the cars are blue and $25\%
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>050EE19D-DD2B-4EAE-B94A-09B3971155EF</p>
 </div>
@@ -1500,13 +1487,13 @@ In a car park there are $48$ cars. $\dfrac{3}{8}$ of the cars are blue and $25\%
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:19</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1575,7 +1562,7 @@ In a car park there are $60$ cars. $\dfrac {5}{12}$ of the cars are red and $20\
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6C9BA983-C6CB-4792-85CE-961A719469F4</p>
 </div>
@@ -1583,13 +1570,13 @@ In a car park there are $60$ cars. $\dfrac {5}{12}$ of the cars are red and $20\
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:23</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1666,10 +1653,10 @@ At a birthday party, one half drank only lemonade, one third drank only cola, $1
 <p>sevenoaks-school--11-plus--maths--2012--sample-paper-3:1:9</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1782,10 +1769,10 @@ How many red cars were seen?
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:1:19</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1865,10 +1852,10 @@ In a group of $50$ girls each one is either blonde or brunette and is either blu
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:42</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1946,7 +1933,7 @@ numbers inside the circles. Any number written inside one circle is a factor of 
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>18366B1F-0D52-4406-9065-0C4E981ECC6E</p>
 </div>
@@ -1954,13 +1941,13 @@ numbers inside the circles. Any number written inside one circle is a factor of 
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1995,19 +1982,6 @@ Mongle birds can be either pink or green. Some of them eat insects, but the rest
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-27::19:17
-
-
-
-table align center
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2066,10 +2040,10 @@ table align center
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:37</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2149,10 +2123,10 @@ A school has $657$ pupils. There are $384$ pupils in Year $9$ or above and $376$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2232,10 +2206,10 @@ A box of Kiddimix contains $20$ chocolates of which $8$ are plain chocolates. If
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:2:10</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2321,10 +2295,10 @@ How many aliens needed breathing apparatus and goggles?
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:25</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2406,10 +2380,10 @@ what is the least number of boys in the class who are both right-handed and wear
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:15</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2503,7 +2477,7 @@ How many pupils hadn't yet decided whether to do CCF or carry out SCS next year?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>7131CF37-3228-48AF-BCD3-347D0C7E8E51</p>
 </div>
@@ -2511,13 +2485,13 @@ How many pupils hadn't yet decided whether to do CCF or carry out SCS next year?
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:21</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2579,19 +2553,6 @@ How many boys in the class are right-handed?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-15::04:32
-
-
-
-part a: remove Boys Girls Total Left handed Right handed Total at the bottom
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2650,10 +2611,10 @@ part a: remove Boys Girls Total Left handed Right handed Total at the bottom
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2843,10 +2804,10 @@ the number of left-handed children who scored a goal
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2934,10 +2895,10 @@ $5 \quad 6 \quad 7 \quad 8$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:36</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3029,10 +2990,10 @@ How many dark chocolate toffees are there?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:36</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3120,7 +3081,7 @@ How many are wearing neither glasses nor a watch?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E4668280-4B3B-4874-A990-F344657248F4</p>
 </div>
@@ -3128,13 +3089,13 @@ How many are wearing neither glasses nor a watch?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:33</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3185,29 +3146,6 @@ Complete the table.
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-27::12:47
-
-
-
-Change to male
-
-Change to female
-
-
-
-Reviewer: [ap] Date:2022-11-20::10:11
-
-
-
-Change to born in the UK and not born in the UK
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3258,7 +3196,7 @@ Change to born in the UK and not born in the UK
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8D7FE537-C331-4B25-9A6B-1A0619446A32</p>
 </div>
@@ -3266,13 +3204,13 @@ Change to born in the UK and not born in the UK
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:33</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3366,10 +3304,10 @@ Fill in the table below to show this information.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:28</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3508,10 +3446,10 @@ Name a quadrilateral that should be placed in the very centre of the Venn diagra
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:21</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3624,10 +3562,10 @@ Write the numbers $14$ and $20$ in the correct regions of the diagram.
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:1:12</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3709,10 +3647,10 @@ If $7$ of these children said they liked both and $3$ others said they only like
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1:2:9</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

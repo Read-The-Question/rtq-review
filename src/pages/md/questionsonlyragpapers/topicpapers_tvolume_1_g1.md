@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tvolume-1-g1"
 title: "TopicPaper - Volume - 1 - G1"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "3"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "3"
 <p>kings-college-school--11-plus--maths--2014--specimen-paper-e:1:5</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -126,10 +126,10 @@ How many $5 \ \text{cm}$ cubes can be packed into the rectangular box in part a)
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:1:15</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -246,10 +246,10 @@ Find the number of boxes of jelly beans which may be packed into a carton.
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:23</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

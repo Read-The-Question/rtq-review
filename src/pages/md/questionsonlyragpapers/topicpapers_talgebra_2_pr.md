@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-talgebra-2-pr"
 title: "TopicPaper - Algebra - 2 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "7"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C507590F-A02C-4460-82D7-E935ED9CB61C</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "7"
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:26</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -62,19 +62,6 @@ how many $\spadesuit$ are equal to $\spadesuit$?
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-13::11:21
-
-
-
-same question some other paper too, use begin aligned, remove waffles
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -125,7 +112,7 @@ same question some other paper too, use begin aligned, remove waffles
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>2CB214EC-9120-43EE-B697-6647A243DF59</p>
 </div>
@@ -133,13 +120,13 @@ same question some other paper too, use begin aligned, remove waffles
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4:2:7</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -178,19 +165,6 @@ $
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-13::11:23
-
-
-
-write using katex, array, refer topic detailed addition, remove images
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -241,7 +215,7 @@ write using katex, array, refer topic detailed addition, remove images
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>25C8E6E5-75DD-4C5C-B894-4B9EB3D5C56F</p>
 </div>
@@ -249,13 +223,13 @@ write using katex, array, refer topic detailed addition, remove images
 <p>bancrofts-school--11-plus--maths--2020--sample-paper-6:1:26</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -299,27 +273,6 @@ how many $\spadesuit$ are equal to $\spadesuit$?
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-12::20:34
-
-
-
-remove waffles
-
-
-
-write those equations using begin aligned
-
-
-
-reach out if not clear how to
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -370,7 +323,7 @@ reach out if not clear how to
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>23E05296-51F9-4FD9-865F-CA3C6F5DB675</p>
 </div>
@@ -378,13 +331,13 @@ reach out if not clear how to
 <p>benenden-school--11-plus--maths--2020--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -532,7 +485,7 @@ If she sells her boxes for $\pounds 1$ each, how much profit will she make?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8822FB75-BF00-40E2-AB22-0DB492E3E800</p>
 </div>
@@ -540,13 +493,13 @@ If she sells her boxes for $\pounds 1$ each, how much profit will she make?
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1:2:15</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -691,47 +644,6 @@ If $y   \ \bigstar \   3 = 24$, there are two possible values of $y$. What are t
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-12::20:48
-
-
-
-this question is not written correctly, refer pdf
-
-
-
-the second part of clarification should move to part d
-
-
-
-
-
-reach out if not sure what changes to be done
-
-
-
-Reviewer: [up] Date:2022-10-12::20:53
-
-
-
-this question is not written correctly, refer pdf
-
-
-
-the second part of clarification should move to part d
-
-
-
-
-
-reach out if not sure what changes to be done
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -782,7 +694,7 @@ reach out if not sure what changes to be done
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>AE6CEC73-FE89-4273-AA3F-B0F177F3971A</p>
 </div>
@@ -790,13 +702,13 @@ reach out if not sure what changes to be done
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:28</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -900,7 +812,7 @@ Find the BMI of Bess who is $1.2 \ \text{m}$ tall and has a mass of $36 \ \text{
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>FB049761-7227-439C-A630-B3C55E399804</p>
 </div>
@@ -908,13 +820,13 @@ Find the BMI of Bess who is $1.2 \ \text{m}$ tall and has a mass of $36 \ \text{
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:31</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2017-sample-paper-8"
 title: "Sevenoaks School - 11 Plus - Maths - 2017 - Sample Paper 8"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "19"
 ---
 <div class='paper'>
@@ -1602,7 +1602,7 @@ Yasmin need $1600 \ \text {ml}$ of water to make ten glasses of squash.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>0D7A1FCF-C0C2-461E-8BB0-A1568D3D420B</p>
 </div>
@@ -1616,7 +1616,7 @@ Yasmin need $1600 \ \text {ml}$ of water to make ten glasses of squash.
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2095,19 +2095,6 @@ TODOANSWER
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-06::13:54
-
-
-
-Just write answers instead of trying to explain, its based on trial and error
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2158,7 +2145,7 @@ Just write answers instead of trying to explain, its based on trial and error
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E3A71500-A129-43F9-A384-7EBFC4A98DA7</p>
 </div>
@@ -2172,7 +2159,7 @@ Just write answers instead of trying to explain, its based on trial and error
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2293,7 +2280,7 @@ Let's complete the table.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>FCFEBCEB-D29D-4BCB-BA8F-8E658B694739</p>
 </div>
@@ -2307,7 +2294,7 @@ Let's complete the table.
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2637,7 +2624,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>42954A1C-6B9E-44EB-8DE6-AF6D5A8B69A3</p>
 </div>
@@ -2645,13 +2632,13 @@ $
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:1:10</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2857,53 +2844,6 @@ Area of the garden is $83 \ \text{m}^2$.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-PArt a:
-
-(i could not follow your calculations)
-
-
-
-Perimeter = Sum of all sides
-
-= 5m + (12m -7m)+ (9m - 5m) + 12m + 9m + 7m
-
-= 5m + 5m+4m + 12m + 9m + 7m
-
-=42m
-
-=  (please put unit ) m (without any space before m but in \text)
-
-
-
-Remove \\\\  (in last line of katex no spacing)
-
-Blue answer also put m 
-
-
-
-Part B: (i could not follow your calculations)
-
-
-
-On decomposing the shape of the garden, we find  2 regular rectangles.
-
-
-
-Area of the garden &= First Rectangle (length x width) + Second rectangle ( length x width)
-
-= (7m x 5 m) + (12m x (9m - 5m))
-
-=  (7m x 5 m) + (12m x 4m)
-
-= 35m^2+48m^2
-
-= 83m^2
-
-Change blue answer accordingly.
-</div>
 
 <div class='review'>
 <ul class='review'>

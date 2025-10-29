@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-11-g1"
 title: "TopicPaper - Algebra - 11 - G1"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "35"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -112,25 +112,6 @@ Cost of $4$ packets of crisps and $3$ drinks $= \pounds 2.60$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-After APTQ, first create two different equations then add a line: \"Adding the first equation with the second one, we get\"
-
-then continue with the below line
-
-2a+2b+2a+b = 1.50 + 1.10
-
-​
-
-  
-
-
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -423,21 +404,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Write \"APTQ,\" after first line.
-
-remove \":\" from \"Answer ....\" line and write it like below.
-
-Answer should have been = a / 4
-
-                        = 92 / 4
-</div>
 
 <div class='review'>
 <ul class='review'>

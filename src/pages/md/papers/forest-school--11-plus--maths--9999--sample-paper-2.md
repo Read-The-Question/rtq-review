@@ -1,7 +1,7 @@
 ---
 slug: "papers/forest-school-11-plus-maths-9999-sample-paper-2"
 title: "Forest School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "38"
 ---
 <div class='paper'>
@@ -809,7 +809,7 @@ The cost of each crayon $= 16 \ \text{p}$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prrl question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>D91E7853-54E2-4996-A0E0-63852AA3A9B8</p>
 </div>
@@ -823,7 +823,7 @@ The cost of each crayon $= 16 \ \text{p}$
 <p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1063,7 +1063,7 @@ $2020020$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>5944BAB9-F811-4821-A822-19421386ED7E</p>
 </div>
@@ -1077,7 +1077,7 @@ $2020020$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1713,15 +1713,6 @@ The days bottle last her $= 6$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Remove full stop from the last line.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2038,7 +2029,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5896E979-A790-40F7-8C6B-AF0496E63289</p>
 </div>
@@ -2052,7 +2043,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2565,7 +2556,7 @@ TODOANSWER
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>38EAF1FA-664F-4D77-A761-828C6A2BCC05</p>
 </div>
@@ -2579,7 +2570,7 @@ TODOANSWER
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2634,19 +2625,6 @@ Number of lines he coloured with red $= 5$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-First line: \"he\" ==> \"Dan\" 
-
-
-
-Second line: \"he\" ==> \"Dan\"
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2705,10 +2683,10 @@ Second line: \"he\" ==> \"Dan\"
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:21</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3058,7 +3036,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>D359AE32-BA99-4C37-AF11-B4D00BE23AF5</p>
 </div>
@@ -3072,7 +3050,7 @@ $
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3136,19 +3114,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-20::13:16
-
-
-
-11 not 10
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3199,7 +3164,7 @@ Reviewer: [ap] Date:2022-10-20::13:16
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>596C756A-4491-4F11-86D2-84247118FAAC</p>
 </div>
@@ -3213,7 +3178,7 @@ Reviewer: [ap] Date:2022-10-20::13:16
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3633,7 +3598,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prrl question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>82854C40-B614-4CD0-A56D-9ADB8E4EDAD8</p>
 </div>
@@ -3647,7 +3612,7 @@ $
 <p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3800,10 +3765,10 @@ $
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:28</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4128,7 +4093,7 @@ The number of matches they won $= 6$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>CB65FC73-DF41-475D-8FB9-CAF0848A6185</p>
 </div>
@@ -4142,7 +4107,7 @@ The number of matches they won $= 6$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4299,7 +4264,7 @@ Weight of $1$ apple and $1$ orange $= 9 \ \text{ounces}$.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8DDEDDE3-233A-42D2-B643-23ED44843DB8</p>
 </div>
@@ -4313,7 +4278,7 @@ Weight of $1$ apple and $1$ orange $= 9 \ \text{ounces}$.
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4427,7 +4392,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>216E7251-C33B-4F2F-95B1-0CF66751A259</p>
 </div>
@@ -4441,7 +4406,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4548,39 +4513,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::17:04
-
-
-
-convert time to hours in stead the other way round
-
-
-
-distance = 18 km/hr * 20 min
-
-   = 18 km / hr * 20 /60 hour
-
-= then calculate
-
-
-
-do not calculate time like that
-
-
-
-average speed = distance / 20 + 30 min and then convert to hours
-
-
-
-refer part b of 55096F2E-FF75-4684-9D88-814A1EF7D4D9
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5373,7 +5305,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A534F61C-8A5A-4BCD-9D29-C6FDECC215A4</p>
 </div>
@@ -5387,7 +5319,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5625,47 +5557,6 @@ Time $= 240 \text{ minutes}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::18:44
-
-
-
-part a: i have made some changes, please make rest of the changes on the same lines, check answers carefully as i did not check all
-
-
-
-
-
-
-
-Reviewer: [up] Date:2022-09-28::18:45
-
-
-
-i have left your previous answer too intact, remove that after all changes are done
-
-
-
-Reviewer: [up] Date:2022-09-28::18:46
-
-
-
-b: do not write all units when not needed i have written the first step properly, please follow that and make rest of the changes.
-
-
-
-Reviewer: [up] Date:2022-09-28::18:54
-
-
-
-i have fixed part b, just fix part a
-</div>
 
 <div class='review'>
 <ul class='review'>

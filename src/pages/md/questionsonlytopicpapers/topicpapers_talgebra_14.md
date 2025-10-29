@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-talgebra-14"
 title: "TopicPaper - Algebra - 14"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "40"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "40"
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -109,10 +109,10 @@ has three times as much as Holly. How much has Holly?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:15</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -235,7 +235,7 @@ What does $1$ apple cost?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>2784F9AB-5BC7-49F3-8FB7-79060976845B</p>
 </div>
@@ -243,13 +243,13 @@ What does $1$ apple cost?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -278,29 +278,6 @@ How much did their total holiday cost in total?
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-11-13::19:19
-
-
-
-Change to How much did their holiday cost in total>
-
-
-
-Reviewer: [ap] Date:2022-11-23::20:05
-
-
-
-Remove a from a holiday
-
-Change to cost
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -351,7 +328,7 @@ Change to cost
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>64648B6A-6870-4F8C-B4E3-D93E9531ADD4</p>
 </div>
@@ -359,13 +336,13 @@ Change to cost
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:39</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -517,7 +494,7 @@ What is the number on the fourth card?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>2E3B46A6-87E6-4075-8126-F70E278BA5D1</p>
 </div>
@@ -525,13 +502,13 @@ What is the number on the fourth card?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:41</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -669,10 +646,10 @@ $y * y$ gives $32$. What is $y?$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:9</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -756,10 +733,10 @@ $\boxed{\phantom{55}} + 18 = 8 \times 4$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:17</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -847,10 +824,10 @@ What are the two numbers?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:21</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -973,10 +950,10 @@ Work out the missing input or output in each case shown.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:33</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1068,10 +1045,10 @@ What is the cost of a heart?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:36</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1155,7 +1132,7 @@ What is the smallest number of fruit gums there could have been in the packet?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>909DB8BE-EF83-4036-B486-EAEF2ADE4F2B</p>
 </div>
@@ -1163,13 +1140,13 @@ What is the smallest number of fruit gums there could have been in the packet?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:38</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1317,10 +1294,10 @@ ends up with $15$. Give all the possible orders in which she could have used her
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1443,10 +1420,10 @@ $14.4 \times \boxed{\phantom{5555}} = 144000$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1530,7 +1507,7 @@ What are the two numbers?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>158C726D-23E0-44BB-BFA4-60336D6BBF89</p>
 </div>
@@ -1538,13 +1515,13 @@ What are the two numbers?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1694,10 +1671,10 @@ Which input would give the same output from both machines?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1781,10 +1758,10 @@ If he has made $24$ designs, how many are there altogether in his book?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:21</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1876,10 +1853,10 @@ How much further has Teddy jumped than Freda? (Give your answer in metres.)
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:30</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1966,7 +1943,7 @@ What is the mass of the cat?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>951ACEF6-9F80-4564-A836-4357CFCA39E9</p>
 </div>
@@ -1974,13 +1951,13 @@ What is the mass of the cat?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:36</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2074,19 +2051,6 @@ How much did Claire spend on Thursday?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-11-27::15:47
-
-
-
-Leave a space between a number and p
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2137,7 +2101,7 @@ Leave a space between a number and p
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>09FE06C4-5F9A-425D-A16A-E573A55234E0</p>
 </div>
@@ -2145,13 +2109,13 @@ Leave a space between a number and p
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:40</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2339,10 +2303,10 @@ that $(6 \ \boxed{\wedge} \ p) \ \boxed{\wedge} \ 4 = 56$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:41</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2444,10 +2408,10 @@ the used wrappers for new bars, how many bars will he be able to eat in total?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:7</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2531,10 +2495,10 @@ What is the number?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:11</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2657,10 +2621,10 @@ $24 \div (\boxed{\phantom{5555}} -  8) = 6$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2781,10 +2745,10 @@ How much change should James receive from his $\pounds 10$ note?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:16</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2872,10 +2836,10 @@ What number did Caley start with?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:36</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3022,10 +2986,10 @@ How many shirts does she hang on the washing line on Friday?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:5</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3105,10 +3069,10 @@ Half of a certain number is $17$. What is the number?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:12</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3192,10 +3156,10 @@ What is the difference between the two numbers?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:13</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3318,10 +3282,10 @@ $\boxed{\phantom{555}} \times 12 =  18 \div 3$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:17</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3503,10 +3467,10 @@ Work out the original input number.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:20</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3606,10 +3570,10 @@ Using the special offer, how much will it cost Erika to buy $13$ packets?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:29</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3733,10 +3697,10 @@ How many more cubes does Tally use than Tilly?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:30</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3846,10 +3810,10 @@ Give your answer in $\text{grams}$.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:38</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4000,10 +3964,10 @@ How many more apples than oranges does he have?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:16</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4095,10 +4059,10 @@ What are the two numbers?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:27</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4185,7 +4149,7 @@ What is the largest number of cups which Mel can completely fill?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>0F3C8516-8502-4079-9E42-35AFA206FC61</p>
 </div>
@@ -4193,13 +4157,13 @@ What is the largest number of cups which Mel can completely fill?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:32</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4311,10 +4275,10 @@ Harriet
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:38</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4421,10 +4385,10 @@ How much would it cost to buy $1$ large tub of popcorn, $1$ fizzy drink and $1$ 
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:11</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4547,10 +4511,10 @@ $72 \div \boxed{\phantom{11}} = 17 - 5 + 6$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:34</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4684,10 +4648,10 @@ How many cars does Mike have to service?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:5</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

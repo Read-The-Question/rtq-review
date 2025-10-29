@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tgraph-1-pr"
 title: "TopicPaper - Graph - 1 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "6"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>2E4D898B-50D2-4B8A-B279-75EF60B4BD43</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "6"
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:2:17</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -124,19 +124,6 @@ Show working to explain your answer.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-15::06:34
-
-
-
-part a: add abbrev for correct symbol
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -187,7 +174,7 @@ part a: add abbrev for correct symbol
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>B261F07B-7F67-439A-9C92-1946327A60A0</p>
 </div>
@@ -195,13 +182,13 @@ part a: add abbrev for correct symbol
 <p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -314,35 +301,6 @@ How many buses were there in total over the whole week?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-06::19:46
-
-
-
-use table
-
-
-
-Reviewer: [up] Date:2022-09-06::19:47
-
-
-
-use table
-
-
-
-Reviewer: [up] Date:2022-10-13::12:35
-
-
-
-comments not done, add table apart from image
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -393,7 +351,7 @@ comments not done, add table apart from image
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>F9B2F6C8-EF60-4E71-91EE-1E668DFDA14C</p>
 </div>
@@ -401,13 +359,13 @@ comments not done, add table apart from image
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:3</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -483,37 +441,6 @@ What are the co-ordinates of points $M$ and $N$?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [na] Date:2022-09-08::03:52
-
-
-
-Remove ** ** around words.
-
-Change $\ldots$ , $\ldots$  ===>  $\ldots, \ldots$
-
-
-
-Reviewer: [up] Date:2022-10-11::20:06
-
-
-
-P Q MN etc in katex
-
-
-
-Reviewer: [up] Date:2022-10-13::12:26
-
-
-
-remove P is M is N is etc thats part of answer, discuss if not clear
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -564,7 +491,7 @@ remove P is M is N is etc thats part of answer, discuss if not clear
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>F5BAF6A4-6EAB-4502-94EE-2430B7FAF0C8</p>
 </div>
@@ -572,13 +499,13 @@ remove P is M is N is etc thats part of answer, discuss if not clear
 <p>colfes-school--11-plus--maths--9999--sample-paper:1:22</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -650,19 +577,6 @@ Reflect the rectangle in the $x$ axis and draw the result on the coordinate grid
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [na] Date:2022-09-08::20:31
-
-
-
-X ==> $x$
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -713,7 +627,7 @@ X ==> $x$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>AB2F2D06-5118-4DAD-8AE1-FA7A2D5E85CB</p>
 </div>
@@ -721,13 +635,13 @@ X ==> $x$
 <p>csse--11-plus--maths--2015--sample-paper-2:1:17</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -829,7 +743,7 @@ What is the value of $y?$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>50935C99-8760-4047-9849-9D55E3963F4D</p>
 </div>
@@ -837,13 +751,13 @@ What is the value of $y?$
 <p>csse--11-plus--maths--2016--sample-paper-3:1:11</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-ttable-2-pr"
 title: "TopicPaper - Table - 2 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "6"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>AE46F128-2775-4636-BF19-455F903C2CC3</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "6"
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:1:5</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -225,7 +225,7 @@ If a $32$ year old pays $\pounds 95$ for a Skoyota car, what would a $20$ year o
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>91A7871B-8D78-43B1-8DF4-D2020B9D3398</p>
 </div>
@@ -233,13 +233,13 @@ If a $32$ year old pays $\pounds 95$ for a Skoyota car, what would a $20$ year o
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -354,7 +354,7 @@ Ben and Anna were taken to Ashbridge by their Aunt Patricia. Their mother gave t
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E334C263-93CE-4819-903E-250EA3D68660</p>
 </div>
@@ -362,13 +362,13 @@ Ben and Anna were taken to Ashbridge by their Aunt Patricia. Their mother gave t
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -488,39 +488,6 @@ What difference would it make to the formula if stretch limos were used with $4$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-16::04:59
-
-
-
-1: centre align the table
-
-
-
-
-
-
-
-Reviewer: [up] Date:2022-10-16::04:59
-
-
-
-5: remove box, use \text, remove space
-
-
-
-Reviewer: [up] Date:2022-10-16::05:00
-
-
-
-5: remove box, use \text, remove space
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -571,7 +538,7 @@ Reviewer: [up] Date:2022-10-16::05:00
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>372D167F-1931-4A8C-8307-513472C10611</p>
 </div>
@@ -579,13 +546,13 @@ Reviewer: [up] Date:2022-10-16::05:00
 <p>tonbridge-school--scholarship--maths--2016--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -715,7 +682,7 @@ For what value of $x$ is the $y$ - value twice the shortest distance from $A$ to
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A95D1DEA-B8DB-4B25-A03F-F7D544219B2A</p>
 </div>
@@ -723,13 +690,13 @@ For what value of $x$ is the $y$ - value twice the shortest distance from $A$ to
 <p>tonbridge-school--scholarship--maths--2018--sample-paper-2:1:7</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -907,7 +874,7 @@ If the entry in Column $B$ is $9410$, what is the smallest number listed in Colu
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9BAFF687-C010-40CB-B73E-36F8F28A4F36</p>
 </div>
@@ -915,13 +882,13 @@ If the entry in Column $B$ is $9410$, what is the smallest number listed in Colu
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -958,19 +925,6 @@ Here is a numbers game. There are two numbers which are first added together and
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-27::15:17
-
-
-
-remove all those spaces before table, add <br> if empty line not coming on its own, discuss if confusion
-</div>
 
 <div class='review'>
 <ul class='review'>

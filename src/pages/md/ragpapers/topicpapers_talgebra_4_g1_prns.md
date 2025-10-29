@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-4-g1-prns"
 title: "TopicPaper - Algebra - 4 - G1 - PRNS"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "35"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -2295,15 +2295,6 @@ My number is $= 5$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Last line \"was\" to \"is\".
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2456,19 +2447,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Remove first line.
-
-As per the question ==> As per the diagram
-
-No. of Black tiles ==> No. of grey tiles
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2833,35 +2811,6 @@ Second number $= 13$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Delete this line
-
-Lets find first number. Using equation 1 and 2 we get,
-
-
-
-Add these two lines in place of above line:
-
-We have got 2 variables and we have 2 equations to solve them. Lets eliminate to reduce it to just one variable.
-
-
-
-Add the first equation to the second to reduce it to one variable.
-
-
-
-Also show:
-
-a + b + a - b = 32 + 6 (add this line)
-
-a + a         = 38
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4345,15 +4294,6 @@ The number Theo first thought of $= 32$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Remove full stop from the last line.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5159,15 +5099,6 @@ The days bottle last her $= 6$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Remove full stop from the last line.
-</div>
 
 <div class='review'>
 <ul class='review'>

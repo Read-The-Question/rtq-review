@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tpermutation-2-notstarted"
 title: "TopicPaper - Permutation - 2 - NOTSTARTED"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "2"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -284,11 +284,6 @@ The number of units required to get next time all different digits = $098162 - 0
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Full stop 
-</div>
 
 <div class='review'>
 <ul class='review'>

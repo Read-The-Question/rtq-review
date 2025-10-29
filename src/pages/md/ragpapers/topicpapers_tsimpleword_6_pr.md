@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-6-pr"
 title: "TopicPaper - Simpleword - 6 - PR"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "3"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>B5F307B0-90F4-4C09-A5E1-8ABB595A2010</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "3"
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -89,11 +89,6 @@ The $8$ small cubes will have $3$ red faces.
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Add line 2: If the bigger cube is painted red all over                                                                                                                                                                                          Add line 3: then, only the corner smaller cubes can have three red faces                                                                                                                                                               present line 2: change:   .. $8$ small cubes will ..... 
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -144,7 +139,7 @@ Add line 2: If the bigger cube is painted red all over                          
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>96B75922-DE58-4EFF-BB3F-2AE920BF563A</p>
 </div>
@@ -158,7 +153,7 @@ Add line 2: If the bigger cube is painted red all over                          
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -227,11 +222,6 @@ The $6$ small cubes share a faces with exactly $5$ other small cubes.
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Add line 2: only center small cube on the face of bigger cube shares a a face with exactly $5$ other small cubes                                                                    Add line 3: number of faces on bigger cube is $6$
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -282,7 +272,7 @@ Add line 2: only center small cube on the face of bigger cube shares a a face wi
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>041A050A-D326-4793-8BA0-8D47A9552390</p>
 </div>
@@ -296,7 +286,7 @@ Add line 2: only center small cube on the face of bigger cube shares a a face wi
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -357,11 +347,6 @@ The $0$ small cubes share a faces with exactly $2$ other small cubes.
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-i feel answer is 0, explain me this answer how did u do
-</div>
 
 <div class='review'>
 <ul class='review'>

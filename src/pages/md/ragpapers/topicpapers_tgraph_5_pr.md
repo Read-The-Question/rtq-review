@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tgraph-5-pr"
 title: "TopicPaper - Graph - 5 - PR"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "17"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>4F4FE7EB-B2E3-4D21-8CA4-F4341E32CD16</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "17"
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -257,19 +257,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-23::11:01
-
-
-
-b: count is 180 not 100
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -320,7 +307,7 @@ b: count is 180 not 100
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6A832CBB-FCBF-459E-B0DE-9FE907F53EE3</p>
 </div>
@@ -334,7 +321,7 @@ b: count is 180 not 100
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -628,31 +615,6 @@ Number of dogs $= 60$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-23::11:12
-
-
-
-add the first answer using algebra for both a and b
-
-
-
-Let the total number of pets $= a$ ...
-
-
-
-aptq
-
-
-
-120/360 * a = 48
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -703,7 +665,7 @@ aptq
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>ACECB589-B56B-4093-9365-99249BC76B65</p>
 </div>
@@ -717,7 +679,7 @@ aptq
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -890,27 +852,6 @@ $(7, 5)$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-23::11:28
-
-
-
-b: add image start abbrevi to show diagrams for 3 triangles.
-
-
-
-Reviewer: [up] Date:2022-09-23::11:28
-
-
-
-b: coordindates are not correct
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -961,7 +902,7 @@ b: coordindates are not correct
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>BAAFA0D7-C800-4815-82ED-16D0FF65F0AF</p>
 </div>
@@ -975,7 +916,7 @@ b: coordindates are not correct
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1178,7 +1119,7 @@ B represents Dolly
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6093EC91-FE4F-4064-A4B3-60C19714F951</p>
 </div>
@@ -1192,7 +1133,7 @@ B represents Dolly
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1569,19 +1510,6 @@ $(5, 7)$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-24::04:28
-
-
-
-part b, both parts show working for coordinates similar to 80112605-EA47-447F-8253-F179A00FDDCC
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1632,7 +1560,7 @@ part b, both parts show working for coordinates similar to 80112605-EA47-447F-82
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>B02046B3-B90E-4DBF-9DFE-815BF3196F3B</p>
 </div>
@@ -1646,7 +1574,7 @@ part b, both parts show working for coordinates similar to 80112605-EA47-447F-82
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2014,31 +1942,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-24::04:33
-
-
-
-c: write the first answer using algebra, move answer and part of the answer from part d here. keep ratio as second alternate answer.
-
-
-
-d: after changes above, use total from above to write
-
-
-
-Difference = 180/360 * 72 - 30 / 360 * 72 and then simplify to your step of
-
-
-
-(180-30) * 72/360
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2089,7 +1992,7 @@ Difference = 180/360 * 72 - 30 / 360 * 72 and then simplify to your step of
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6C122F1E-0463-4D28-A16D-1CA9C9D8CD61</p>
 </div>
@@ -2103,7 +2006,7 @@ Difference = 180/360 * 72 - 30 / 360 * 72 and then simplify to your step of
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2360,27 +2263,6 @@ Coordinates $= (10, 2)$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-24::04:33
-
-
-
-a: show working
-
-
-
-Reviewer: [up] Date:2022-09-24::04:34
-
-
-
-b: show working
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2431,7 +2313,7 @@ b: show working
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>ED86F1CD-E15B-4287-9CB5-0B536DD64FDF</p>
 </div>
@@ -2445,7 +2327,7 @@ b: show working
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2681,33 +2563,6 @@ rtq_abbr_md_add_drawing_ends
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-24::04:38
-
-
-
-part a: you did not explain how you got 135, its better to use 4.5/12 instead of 135/360 here
-
-
-
-Fraction of time sleeping = 4.5 / 12
-
-Time spent sleeping = 4.5 /12 * 24
-
-
-
-Reviewer: [up] Date:2022-09-24::04:38
-
-
-
-b: same again, do based out of 12 instead
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2758,7 +2613,7 @@ b: same again, do based out of 12 instead
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>877256C7-971F-4B6C-B747-8EF2E5BE4B84</p>
 </div>
@@ -2772,7 +2627,7 @@ b: same again, do based out of 12 instead
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2984,27 +2839,6 @@ rtq_abbr_md_add_drawing_ends
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-24::04:41
-
-
-
-b: write the coordinates in comments
-
-
-
-Reviewer: [up] Date:2022-09-24::04:41
-
-
-
-b: write the coordinates in comments
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3055,7 +2889,7 @@ b: write the coordinates in comments
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>81D8C55D-7EA8-43F5-8668-D52C93196AD5</p>
 </div>
@@ -3069,7 +2903,7 @@ b: write the coordinates in comments
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3301,19 +3135,6 @@ rtq_abbr_md_add_drawing_ends
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-26::18:42
-
-
-
-c: write details of the coordinates in comments that will work as an answer
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3364,7 +3185,7 @@ c: write details of the coordinates in comments that will work as an answer
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>B0B12A0A-EA1D-4AD9-BFD1-43E012B49B3C</p>
 </div>
@@ -3378,7 +3199,7 @@ c: write details of the coordinates in comments that will work as an answer
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3452,19 +3273,6 @@ $P, R$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-26::18:45
-
-
-
-add drawing instruction to show points inside the rhombus.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3515,7 +3323,7 @@ add drawing instruction to show points inside the rhombus.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>2D600744-CEE3-49E8-83D2-5E9FEFA0F368</p>
 </div>
@@ -3529,7 +3337,7 @@ add drawing instruction to show points inside the rhombus.
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3792,35 +3600,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-26::18:50
-
-
-
-c: not right? should be all children?
-
-
-
-Reviewer: [up] Date:2022-09-26::18:50
-
-
-
-look like calculation done for boys only?
-
-
-
-Reviewer: [up] Date:2022-09-26::18:51
-
-
-
-d: calculation wrong?? should be 1 * 4?
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3871,7 +3650,7 @@ d: calculation wrong?? should be 1 * 4?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9EE40186-B13A-47E3-8C0F-173A981163C9</p>
 </div>
@@ -3885,7 +3664,7 @@ d: calculation wrong?? should be 1 * 4?
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4337,7 +4116,7 @@ $(10, 10)$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C18B3699-48D7-4D8A-8C1F-70F23153373B</p>
 </div>
@@ -4351,7 +4130,7 @@ $(10, 10)$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4606,19 +4385,6 @@ Nigel scored the same number of points in each round.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-26::18:58
-
-
-
-c: calculation wrong in the table
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4669,7 +4435,7 @@ c: calculation wrong in the table
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>DCD58ECE-8AEF-4A6F-882B-368BA34A3733</p>
 </div>
@@ -4683,7 +4449,7 @@ c: calculation wrong in the table
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5178,23 +4944,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-26::19:57
-
-
-
-g: write the solution using algebra too, as an alternate answer. 
-
-
-
-for the existing add abbrevi to show it on the graph 
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5245,7 +4994,7 @@ for the existing add abbrevi to show it on the graph
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>79FB72EE-7DBB-4E47-8932-8F6DBF32E7C5</p>
 </div>
@@ -5259,7 +5008,7 @@ for the existing add abbrevi to show it on the graph
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5504,27 +5253,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-26::20:01
-
-
-
-a,b: this should be solved using ratio, we cant extend the graph in this case, kids wont have drawing tools in the exam
-
-
-
-c: how did you derive the equation? show working
-
-
-
-
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5575,7 +5303,7 @@ c: how did you derive the equation? show working
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>39359724-0182-44CF-A52D-303D100E15B4</p>
 </div>
@@ -5589,7 +5317,7 @@ c: how did you derive the equation? show working
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5752,27 +5480,6 @@ $(6, 0)$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-26::20:02
-
-
-
-a: show working
-
-
-
-Reviewer: [up] Date:2022-09-26::20:02
-
-
-
-a: show working
-</div>
 
 <div class='review'>
 <ul class='review'>

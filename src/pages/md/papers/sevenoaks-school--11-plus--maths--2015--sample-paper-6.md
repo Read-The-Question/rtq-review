@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2015-sample-paper-6"
 title: "Sevenoaks School - 11 Plus - Maths - 2015 - Sample Paper 6"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "18"
 ---
 <div class='paper'>
@@ -14,7 +14,7 @@ questions_count: "18"
 </div>
 <ul class='question decimal question_type_question list_type_decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>B14230C1-397F-4229-962F-877D59B5C1B2</p>
 </div>
@@ -28,7 +28,7 @@ questions_count: "18"
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -187,21 +187,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-22::10:21
-
-
-
-Pencils cost 13 not 3
-
-Change answers and workings accordingly
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1185,7 +1170,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prpcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>A6B8B57F-EC4F-46B7-B764-FB72554BB7C3</p>
 </div>
@@ -1199,7 +1184,7 @@ $
 <p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1301,19 +1286,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::11:56
-
-
-
-add the long way answer too
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1771,11 +1743,6 @@ There is only $1$ letter $S$ in **MATHEMATICS** that do not have any lines of sy
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-No need to solve this question. Ill put in Red state. Contact me if u have any suggestion
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2100,11 +2067,6 @@ The resulting shape will result in $24$ edges.
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-No need to solve this question. Ill put in Red state. Contact me if u have any suggestion
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2469,11 +2431,6 @@ it can be observed that the **point D** finishes in the same position as it was 
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-U took reference?? Ill put in Red state. Contact me if u have any suggestion
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2648,7 +2605,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>27CD01EC-3953-42B4-BA5E-E1F1DE7E96A7</p>
 </div>
@@ -2662,7 +2619,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2799,7 +2756,7 @@ Fraction of large square that has been shaded in simple fraction $= \dfrac {4} {
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>F3912EFD-E492-46A0-BB5B-F44F4FD52BAA</p>
 </div>
@@ -2807,13 +2764,13 @@ Fraction of large square that has been shaded in simple fraction $= \dfrac {4} {
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:1:15</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2911,11 +2868,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Wrong working format.. simply equal to dfrac {area of abc} {area of xyz}
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3451,7 +3403,7 @@ E
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_red rag_prr question'>
+<div class='question_envelope rag_red rag_prns question'>
 <div class='uuid'>
 <p>C2271CA0-2CDF-403C-907E-FD4591945D01</p>
 </div>
@@ -3465,7 +3417,7 @@ E
 <p>rag_wf_red</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

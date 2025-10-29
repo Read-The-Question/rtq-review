@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tdirection-1-pr"
 title: "TopicPaper - Direction - 1 - PR"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "2"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>EEAB5168-31BA-48D5-BCC1-246B7057116F</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "2"
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -92,25 +92,6 @@ $\ \text{South}$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Please do proper katex, I am just writing simply.
-
-
-
-The angle between each arm $=45 \deg$
-
-45 \deg + 45.. + 45... = 135 \deg...
-
-
-
-Outside katex except numbers...
-
-Turning through $135 \deg$.. clockwise, I will be facing =South
-
-Blue answer also no katex
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -161,7 +142,7 @@ Blue answer also no katex
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>070527C3-6A11-424D-AEFC-59BB8CAE2D1A</p>
 </div>
@@ -175,7 +156,7 @@ Blue answer also no katex
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -245,11 +226,6 @@ Turning through $270 \degree$ clockwise, I will be facing $\text{North East}$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Refer to the corrections done in similar question in previous paper. 
-</div>
 
 <div class='review'>
 <ul class='review'>

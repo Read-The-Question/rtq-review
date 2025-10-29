@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-ttime-5"
 title: "TopicPaper - Time - 5"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "38"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "38"
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -107,7 +107,7 @@ How many minutes slow is clock $B$?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>0D550CC6-50D9-46B0-B420-4CDCA6B61FC4</p>
 </div>
@@ -115,13 +115,13 @@ How many minutes slow is clock $B$?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -167,33 +167,6 @@ How much does she have to pay?
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-for pence do not leave space before it
-
-
-
-it should be $20 \text{p}$ instead of $20 \ \text{p}$ 
-
-
-
-1 2 3 4 not in katex
-
-
-
-Reviewer: [ap] Date:2022-11-23::20:03
-
-
-
-Leave space in 20 p
-
-Change to car park charges
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -244,7 +217,7 @@ Change to car park charges
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>0A614191-1791-4F03-962B-E2CF656E9B67</p>
 </div>
@@ -252,13 +225,13 @@ Change to car park charges
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -325,15 +298,6 @@ same. What time did I depart from Bunley if I arrive in Wester at $12 \ 14?$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-space between 12 14 in part b same as table
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -392,10 +356,10 @@ space between 12 14 in part b same as table
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:23</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -512,10 +476,10 @@ What was her total travelling time?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:11</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -638,10 +602,10 @@ from London Euston Station to Glasgow?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:16</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -720,7 +684,7 @@ In a $24 \ \text{hour}$ day, what are the two possible times of day shown by the
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6C0D2582-A45B-4E63-9DBD-EBD8E755B0AC</p>
 </div>
@@ -728,13 +692,13 @@ In a $24 \ \text{hour}$ day, what are the two possible times of day shown by the
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:22</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -834,7 +798,7 @@ right way up?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9CD5056F-BEE7-4E30-BB2A-9F30B48A7BC0</p>
 </div>
@@ -842,13 +806,13 @@ right way up?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:24</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -998,10 +962,10 @@ What time is shown on Sarah's watch?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:18</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1095,10 +1059,10 @@ For how long did the film last?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:37</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1237,10 +1201,10 @@ At what time and on which day does it arrive in New York?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:14</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1373,10 +1337,10 @@ At what time does train $2$ arrive at Raymar?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:19</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1472,10 +1436,10 @@ For how long should Claire cook the turkey?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:26</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1620,10 +1584,10 @@ How many seconds behind the winner was the person who came last?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:17</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1711,10 +1675,10 @@ At what time does the concert end?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:25</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1895,10 +1859,10 @@ If each girl was sponsored $10 \ \text{pence}$ for each minute that she remained
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:39</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2023,10 +1987,10 @@ On which day and at what time does Bill arrive in Sri Lanka?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:16</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2106,7 +2070,7 @@ Write your answer using the $24{-}\text{hour}$ clock.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6D8B527D-1584-4A80-8F80-D0BB86E9FFD0</p>
 </div>
@@ -2114,13 +2078,13 @@ Write your answer using the $24{-}\text{hour}$ clock.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:27</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2259,10 +2223,10 @@ Which of these trains takes the longest to travel from Spongeton to Pantsbridge?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:31</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2353,10 +2317,10 @@ What is the actual time on the clock?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:41</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2487,10 +2451,10 @@ Your route **does not** need to pass through every station.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2574,10 +2538,10 @@ At what time did Georgie reach school?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2665,10 +2629,10 @@ At what time did Sherry arrive?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:23</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2752,7 +2716,7 @@ Which bus takes the shortest time from Elgin to Inverness and by how many minute
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D83FB293-ED94-45B3-84CF-CBEC198E7DF3</p>
 </div>
@@ -2760,13 +2724,13 @@ Which bus takes the shortest time from Elgin to Inverness and by how many minute
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:33</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2890,7 +2854,7 @@ At what time does Amira reach school?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>69F6CE4E-3035-4AF3-9690-A0A605D7DB3C</p>
 </div>
@@ -2898,13 +2862,13 @@ At what time does Amira reach school?
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:1:11</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3093,10 +3057,10 @@ Work out the average speed of the express trains in miles per hour.
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3184,10 +3148,10 @@ For how much longer could he have watched TV without breaking his rule?
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3267,10 +3231,10 @@ My digital watch is set to show time according to the $24$ hour clock. It is cur
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:1:9</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3350,7 +3314,7 @@ hours and minutes, how long has she spent watching TV?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>55046BCF-986C-4B10-8755-12B513004787</p>
 </div>
@@ -3358,13 +3322,13 @@ hours and minutes, how long has she spent watching TV?
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-b:1:2</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3476,7 +3440,7 @@ Andy was born on $29 ^ \text{th} \ \text{February} \ 2004$, which was a leap yea
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>B2F21761-E805-4827-89DF-6D8EE4A5DB91</p>
 </div>
@@ -3484,13 +3448,13 @@ Andy was born on $29 ^ \text{th} \ \text{February} \ 2004$, which was a leap yea
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3628,7 +3592,7 @@ The Drama on BBC $1$ lasts for $1\; hour$ and $40\; minutes$. At what time does 
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>CE95FF63-F5DB-43D6-A7FF-55AC0609AE5C</p>
 </div>
@@ -3636,13 +3600,13 @@ The Drama on BBC $1$ lasts for $1\; hour$ and $40\; minutes$. At what time does 
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:25</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3690,19 +3654,6 @@ What is the latest time he should leave Cambridge to catch his flight?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-11-13::19:33
-
-
-
-Change to mins
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3753,7 +3704,7 @@ Change to mins
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C00A5C45-F3E9-42AF-B53A-C9EC84D4BFB3</p>
 </div>
@@ -3761,13 +3712,13 @@ Change to mins
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5:1:11</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3786,43 +3737,6 @@ Frank catches the $7{:}52$ train from Cambridge to Northampton and he arrives in
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-16::04:33
-
-
-
-use {:} instead of : 
-
-
-
-Reviewer: [up] Date:2022-10-16::04:33
-
-
-
-the question is written using . instead of :, change
-
-
-
-Reviewer: [ap] Date:2022-11-20::13:54
-
-
-
-Change is to his
-
-
-
-Reviewer: [ap] Date:2022-11-20::14:07
-
-
-
-Change is to his
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3873,7 +3787,7 @@ Change is to his
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>2FC3716C-8A4E-4570-AFBE-070FE3276FF9</p>
 </div>
@@ -3881,13 +3795,13 @@ Change is to his
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3935,19 +3849,6 @@ How long did I have to wait for the train to arrive at the station?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-16::04:02
-
-
-
-write {:} instead of : for time
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3998,7 +3899,7 @@ write {:} instead of : for time
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>79BC346A-5F57-4A81-B7D0-F946E12DB0EA</p>
 </div>
@@ -4006,13 +3907,13 @@ write {:} instead of : for time
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4031,19 +3932,6 @@ How many minutes are there between $9{:}23 \ \text{am}$ and $1{:}06 \ \text{pm}$
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-20::05:34
-
-
-
-do not write minutes in katex, there is no number with it
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4094,7 +3982,7 @@ do not write minutes in katex, there is no number with it
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D8F3E801-5479-4719-9984-4AA135CBC757</p>
 </div>
@@ -4102,13 +3990,13 @@ do not write minutes in katex, there is no number with it
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:26</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4185,27 +4073,6 @@ How long will the journey from my home to John's home take?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-20::05:39
-
-
-
-I missing in main question, add it
-
-
-
-Reviewer: [up] Date:2022-10-20::05:40
-
-
-
-review properly, more word mistakes in the question body
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4264,10 +4131,10 @@ review properly, more word mistakes in the question body
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4351,10 +4218,10 @@ What time did the train depart Manchester if the total journey time was $173$ $\
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4426,7 +4293,7 @@ A plane leaves London Airport at $16{:}30$ and takes $5\dfrac {3} {4}\ \text{hou
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>0BFA7614-8191-4EF2-B04D-5B1F88D70FC9</p>
 </div>
@@ -4434,13 +4301,13 @@ A plane leaves London Airport at $16{:}30$ and takes $5\dfrac {3} {4}\ \text{hou
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:2:2</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

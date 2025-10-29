@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tspeed-1-pr"
 title: "TopicPaper - Speed - 1 - PR"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "26"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>F5204EF2-0A1F-4701-81B0-F29A4853DAE2</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "26"
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -168,35 +168,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::16:31
-
-
-
-a: factors cancellation not done per guidelines, fix
-
-
-
-b: should use distance abbrev not time abbre, put the right one
-
-
-
-b: answer not written per coding guidelines, units are same no need to show all those units
-
-
-
-should  be 120 * ( 1 hour 30 minutes) = 120 * 1.5 = 180 miles written using begin aligned, remove complicated calculations
-
-
-
-
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -247,7 +218,7 @@ should  be 120 * ( 1 hour 30 minutes) = 120 * 1.5 = 180 miles written using begi
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>CA9CACA4-2D7D-4889-8EA7-886593535357</p>
 </div>
@@ -261,7 +232,7 @@ should  be 120 * ( 1 hour 30 minutes) = 120 * 1.5 = 180 miles written using begi
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -450,63 +421,6 @@ Rio
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::16:36
-
-
-
-a: is too complicated and not per coding guidelines
-
-
-
-do not calculate distance separately
-
-
-
-write this way
-
-
-
-Time taken by Rio = 200 / 80 and then solve
-
-Time taken by Harry = 150 + 150 / 100 and then solve and so on
-
-
-
-do not write units till the last step, all units are compatible, in the last step only you write
-
-
-
-= 5 /2 hours
-
-= 2 1/2 hours
-
-= 2 hours 30 minutes
-
-
-
-
-
-Reviewer: [up] Date:2022-09-28::16:37
-
-
-
-no need for 3 hours 0 minutes, 3 hours is good enough
-
-
-
-Reviewer: [up] Date:2022-09-28::16:38
-
-
-
-b: you have done all the calculation in part a, no need for calculation, just write the name based on the time 
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -557,7 +471,7 @@ b: you have done all the calculation in part a, no need for calculation, just wr
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>271B936F-7989-4C96-BCB3-C02A45AF49C7</p>
 </div>
@@ -571,7 +485,7 @@ b: you have done all the calculation in part a, no need for calculation, just wr
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -870,51 +784,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::16:39
-
-
-
-unit conversions are not written the right way, it looks more complicated this way
-
-
-
-Reviewer: [up] Date:2022-09-28::16:40
-
-
-
-refer 3C1A8ECE-FC50-4AC9-B755-F100FE9325E2 how units are not written initially and written in the end
-
-
-
-do not convert to minutes in the middle, do in the end
-
-
-
-Reviewer: [up] Date:2022-09-28::16:41
-
-
-
-c: do not calculate distance separately, ask if not clear
-
-
-
-Reviewer: [up] Date:2022-09-28::16:41
-
-
-
-d: is simpleword we do not write summary line for this, 
-
-
-
-change Time to instead Arrival time.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -965,7 +834,7 @@ change Time to instead Arrival time.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A5CB53B0-4B30-46FB-A4B0-B6F00B38C452</p>
 </div>
@@ -979,7 +848,7 @@ change Time to instead Arrival time.
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1142,35 +1011,6 @@ Maria
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::16:42
-
-
-
-remove as per the graph everywhere
-
-
-
-Reviewer: [up] Date:2022-09-28::16:42
-
-
-
-remove extra back slashes on last steps of begin aligned
-
-
-
-Reviewer: [up] Date:2022-09-28::16:43
-
-
-
-b: just write numbers like $600 m, 1200 m$ (with proper katex ofcourse for units
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1221,7 +1061,7 @@ b: just write numbers like $600 m, 1200 m$ (with proper katex ofcourse for units
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>80216EB3-AC2A-47E8-903C-F9BCD2A07811</p>
 </div>
@@ -1235,7 +1075,7 @@ b: just write numbers like $600 m, 1200 m$ (with proper katex ofcourse for units
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1308,27 +1148,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::16:44
-
-
-
-write formula at the top
-
-
-
-write cm per hour as the unit / does not look great in katex unless it is used in the question too
-
-
-
-do not write smaller units if full units are used in the question
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1379,7 +1198,7 @@ do not write smaller units if full units are used in the question
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>06304292-3FB2-45D8-B196-9139212A69A7</p>
 </div>
@@ -1393,7 +1212,7 @@ do not write smaller units if full units are used in the question
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1465,19 +1284,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::16:45
-
-
-
-formula missing, calculation not written per standard, please refer 3C1A8ECE-FC50-4AC9-B755-F100FE9325E2
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1528,7 +1334,7 @@ formula missing, calculation not written per standard, please refer 3C1A8ECE-FC5
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5612B8B3-1CD7-4B9F-A4AF-FC459A544D71</p>
 </div>
@@ -1542,7 +1348,7 @@ formula missing, calculation not written per standard, please refer 3C1A8ECE-FC5
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1636,55 +1442,6 @@ Slowest = Adam
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::16:47
-
-
-
-write first letter in capital for names
-
-
-
-charlie time too long calculation will be faster
-
-
-
-4 * 60 + 3 /5 * 60 min
-
-240 + 3 * 12 = 240 + 36 = 276 minutes
-
-
-
-change slowest to Slowest
-
-
-
-Reviewer: [up] Date:2022-09-28::16:47
-
-
-
-write first letter in capital for names
-
-
-
-charlie time too long calculation will be faster
-
-
-
-4 * 60 + 3 /5 * 60 min
-
-240 + 3 * 12 = 240 + 36 = 276 minutes
-
-
-
-change slowest to Slowest
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1735,7 +1492,7 @@ change slowest to Slowest
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>34226098-78EE-409D-BF39-0A19ED65F3BB</p>
 </div>
@@ -1749,7 +1506,7 @@ change slowest to Slowest
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2128,19 +1885,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::16:49
-
-
-
-c d e calculation not per standard, please change
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2191,7 +1935,7 @@ c d e calculation not per standard, please change
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8393B54D-38BD-496B-B052-8809BC6D3BFF</p>
 </div>
@@ -2205,7 +1949,7 @@ c d e calculation not per standard, please change
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2387,35 +2131,6 @@ There are $4$ different routes the ant can choose from.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::16:50
-
-
-
-a: just write number, $12$ edges
-
-
-
-Reviewer: [up] Date:2022-09-28::16:50
-
-
-
-b: extra back slash fix on last step
-
-
-
-Reviewer: [up] Date:2022-09-28::16:51
-
-
-
-c: add drawing start abbrev and ask to show 4 routes possible
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2466,7 +2181,7 @@ c: add drawing start abbrev and ask to show 4 routes possible
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>2949A49A-06D1-4FF5-BABD-62AC7468113E</p>
 </div>
@@ -2480,7 +2195,7 @@ c: add drawing start abbrev and ask to show 4 routes possible
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2565,39 +2280,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::17:00
-
-
-
-distance = D
-
-
-
-speed = D / 24
-
-
-
-Shayban = 1 /3 of D / 24
-
-
-
-Time = d / d / 72 = 72
-
-
-
-do not define s
-
-
-
-not written per simple word guidelines
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2648,7 +2330,7 @@ not written per simple word guidelines
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C605558F-4052-41B9-8145-C36B43CF60AE</p>
 </div>
@@ -2662,7 +2344,7 @@ not written per simple word guidelines
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2805,7 +2487,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>216E7251-C33B-4F2F-95B1-0CF66751A259</p>
 </div>
@@ -2819,7 +2501,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2926,39 +2608,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::17:04
-
-
-
-convert time to hours in stead the other way round
-
-
-
-distance = 18 km/hr * 20 min
-
-   = 18 km / hr * 20 /60 hour
-
-= then calculate
-
-
-
-do not calculate time like that
-
-
-
-average speed = distance / 20 + 30 min and then convert to hours
-
-
-
-refer part b of 55096F2E-FF75-4684-9D88-814A1EF7D4D9
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3009,7 +2658,7 @@ refer part b of 55096F2E-FF75-4684-9D88-814A1EF7D4D9
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A534F61C-8A5A-4BCD-9D29-C6FDECC215A4</p>
 </div>
@@ -3023,7 +2672,7 @@ refer part b of 55096F2E-FF75-4684-9D88-814A1EF7D4D9
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3261,47 +2910,6 @@ Time $= 240 \text{ minutes}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::18:44
-
-
-
-part a: i have made some changes, please make rest of the changes on the same lines, check answers carefully as i did not check all
-
-
-
-
-
-
-
-Reviewer: [up] Date:2022-09-28::18:45
-
-
-
-i have left your previous answer too intact, remove that after all changes are done
-
-
-
-Reviewer: [up] Date:2022-09-28::18:46
-
-
-
-b: do not write all units when not needed i have written the first step properly, please follow that and make rest of the changes.
-
-
-
-Reviewer: [up] Date:2022-09-28::18:54
-
-
-
-i have fixed part b, just fix part a
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3352,7 +2960,7 @@ i have fixed part b, just fix part a
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>EFE23C97-1189-42AF-A7D3-72A3085BB416</p>
 </div>
@@ -3366,7 +2974,7 @@ i have fixed part b, just fix part a
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3511,31 +3119,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::18:53
-
-
-
-i have fixed part b, just fix part a
-
-
-
-Reviewer: [up] Date:2022-09-28::18:55
-
-
-
-not per standards,
-
-
-
-add alternate solution using ratio, check with Rameez if need any help or look in ratio papers
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3586,7 +3169,7 @@ add alternate solution using ratio, check with Rameez if need any help or look i
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>989A6CEF-A28B-46F8-98AA-241360DE3B3E</p>
 </div>
@@ -3600,7 +3183,7 @@ add alternate solution using ratio, check with Rameez if need any help or look i
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3686,43 +3269,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::18:53
-
-
-
-not per standards
-
-
-
-Reviewer: [up] Date:2022-09-28::18:55
-
-
-
-not per standards,
-
-
-
-add alternate solution using ratio, check with Rameez if need any help or look in ratio papers
-
-
-
-Reviewer: [up] Date:2022-09-28::18:55
-
-
-
-not per standards,
-
-
-
-add alternate solution using ratio, check with Rameez if need any help or look in ratio papers
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3773,7 +3319,7 @@ add alternate solution using ratio, check with Rameez if need any help or look i
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>83EA0539-35C7-408C-8076-FC10CC3883BF</p>
 </div>
@@ -3787,7 +3333,7 @@ add alternate solution using ratio, check with Rameez if need any help or look i
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3941,27 +3487,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::19:28
-
-
-
-add answer using ratio too for both
-
-
-
-Reviewer: [up] Date:2022-09-28::19:29
-
-
-
-find speed in km per hour instead and use that
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4012,7 +3537,7 @@ find speed in km per hour instead and use that
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9E53081F-3621-458B-81D4-FF43E12EABA0</p>
 </div>
@@ -4026,7 +3551,7 @@ find speed in km per hour instead and use that
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4172,35 +3697,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::19:30
-
-
-
-a: do not write units in initial steps
-
-
-
-Reviewer: [up] Date:2022-09-28::19:31
-
-
-
-b: do not show units inititally
-
-
-
-Reviewer: [up] Date:2022-09-28::19:46
-
-
-
-b: do not show units inititally, use the right abbreviation
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4251,7 +3747,7 @@ b: do not show units inititally, use the right abbreviation
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8A0A521C-1CD1-48C0-A137-E2C9ADE58CEB</p>
 </div>
@@ -4265,7 +3761,7 @@ b: do not show units inititally, use the right abbreviation
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4378,19 +3874,6 @@ At $7{:}50$, they will be reading the same page.
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::19:46
-
-
-
-fix units, writing style
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4441,7 +3924,7 @@ fix units, writing style
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D773D9B3-F46E-4A79-86BE-5A0C3A9080D0</p>
 </div>
@@ -4455,7 +3938,7 @@ fix units, writing style
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4725,7 +4208,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9A883C42-A781-4CA7-9556-344DBE9D8D10</p>
 </div>
@@ -4739,7 +4222,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5103,7 +4586,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>10320627-68A7-4630-B0FA-D996CFB75010</p>
 </div>
@@ -5117,7 +4600,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5431,7 +4914,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>AFC9965A-4DA6-4673-B092-BC303ABAFFE7</p>
 </div>
@@ -5445,7 +4928,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5566,7 +5049,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A5D2DA2F-91D0-4C5D-973A-726A38EAAFF0</p>
 </div>
@@ -5580,7 +5063,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5710,7 +5193,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C720E419-3DCB-4DBC-B371-FC80DD3CBA04</p>
 </div>
@@ -5724,7 +5207,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5851,7 +5334,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>97AB05D4-D83E-44BB-AA42-C8C86F0526B2</p>
 </div>
@@ -5865,7 +5348,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5948,19 +5431,6 @@ The distance travelled will be nearer to $60$ km.
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::19:48
-
-
-
-59251 is not approx
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -6011,7 +5481,7 @@ Reviewer: [up] Date:2022-09-28::19:48
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E6B83B3B-E7BD-4594-8B68-CF66D6D588CC</p>
 </div>
@@ -6025,7 +5495,7 @@ Reviewer: [up] Date:2022-09-28::19:48
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6257,11 +5727,6 @@ The additional minutes Isobel will take to sycel to work today $= 8 \ \text {min
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-tmap question. Add tmap in tags
-</div>
 
 <div class='review'>
 <ul class='review'>

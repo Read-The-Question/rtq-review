@@ -1,7 +1,7 @@
 ---
 slug: "papers/colfes-school-11-plus-maths-9999-sample-paper"
 title: "Colfes School - 11 Plus - Maths - 9999 - Sample Paper"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "32"
 ---
 <div class='paper'>
@@ -1821,7 +1821,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>D36EB8D1-F797-4291-92E6-21171425524C</p>
 </div>
@@ -1829,13 +1829,13 @@ $
 <p>colfes-school--11-plus--maths--9999--sample-paper:1:15</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1925,25 +1925,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Write abbre for perimeter of polygon
-
-
-
-Add comment to add a diagram with missing side calculated.
-
-
-
-
-
-
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2465,7 +2446,7 @@ The number I am thinking of $= 3$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A17DBD1B-AF36-43CC-9F8D-8BBCF318210D</p>
 </div>
@@ -2479,7 +2460,7 @@ The number I am thinking of $= 3$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2707,19 +2688,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::10:32
-
-
-
-b: need fraction not actual number
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3254,7 +3222,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>F5BAF6A4-6EAB-4502-94EE-2430B7FAF0C8</p>
 </div>
@@ -3268,7 +3236,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4263,7 +4231,7 @@ Number $= 400$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>F46CBE4D-99F4-42BD-99FC-07C324ACDE6D</p>
 </div>
@@ -4277,7 +4245,7 @@ Number $= 400$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4585,15 +4553,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-uday : please look at working and wording
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5293,7 +5252,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A378EBC6-7DBB-440C-8EF8-40C2D3B7F5D7</p>
 </div>
@@ -5301,13 +5260,13 @@ $
 <p>colfes-school--11-plus--maths--9999--sample-paper:1:29</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5575,31 +5534,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-PArt a : 
-
-Delete fullstop after =a. 4a to 4 x a 
-
-
-
-PArt b
-
-Delete fullstop after = w. and in Line 3 also
-
-As per the question, (is 2nd line)
-
-Line 3 = 3 x w 
-
-
-
-2 x (length x width) = Perimeter of a rectangle
-
-2x (3w +w) = 32 cm
-
-....
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5650,7 +5584,7 @@ Line 3 = 3 x w
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>79724FE5-0A3C-4E20-865A-B61A7EA91907</p>
 </div>
@@ -5658,13 +5592,13 @@ Line 3 = 3 x w
 <p>colfes-school--11-plus--maths--9999--sample-paper:1:30</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5770,43 +5704,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Use m not meters and same cm not centime...
-
-
-
-Area of a rectang.....
-
-
-
-It is really important to use the right units in calculations and convert where required.
-
-
-
-The floor measurement is given in meters and tile measurement is in centimetres.
-
-
-
-As per the question,
-
-
-
-No. of tiles needed = Area.../ Area .....
-
-= 4 m  x 3 m / 50 cm x 25 cm
-
-= 4 x 100 cm / 3 x 100 cm /.....
-
-= 400 x 300 x 50 x 25
-
-= 4 x 4 x 25 x 6 x 50 / 50 x 25
-
-solve till end 
-
-
-</div>
 
 <div class='review'>
 <ul class='review'>

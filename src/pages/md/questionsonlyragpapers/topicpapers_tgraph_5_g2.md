@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tgraph-5-g2"
 title: "TopicPaper - Graph - 5 - G2"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "25"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "25"
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:26</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -147,10 +147,10 @@ How many pupils have black as their favourite colour?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:30</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -277,10 +277,10 @@ How many children are in the club?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:24</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -395,10 +395,10 @@ What angle should be in the sector representing Romance?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:29</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -531,10 +531,10 @@ Join the points in order. What is the name of the shape you have drawn?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:24</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -647,10 +647,10 @@ What fraction of the cars were blue?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:22</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -770,10 +770,10 @@ How much **more** money do they need to reach their target?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:32</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -899,10 +899,10 @@ $P, Q$ and $R$ are three corners of another square. Write down the coordinates o
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:35</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1015,10 +1015,10 @@ How long did it take for his weight to reach $3 \ \text{kg}$?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:13</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1149,10 +1149,10 @@ What percentage of girls have brown hair?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:22</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1301,10 +1301,10 @@ How many more children chose athletics than gymnastics?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:27</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1421,10 +1421,10 @@ Using only whole numbers, write down $3$ possible coordinates of point $R$.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:37</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1530,10 +1530,10 @@ Use the information below to work out which child is represented by each letter.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:24</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1672,10 +1672,10 @@ Write down the coordinates of point $D$.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:28</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1806,10 +1806,10 @@ How many pets are owned altogether by the $26$ girls?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:23</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2019,10 +2019,10 @@ he mean (average) temperature
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:26</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2174,10 +2174,10 @@ How many more people said Cheddar than said Cheshire?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:30</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2298,10 +2298,10 @@ Write down the coordinates of point $E$.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:29</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2432,10 +2432,10 @@ Calculate the area of $ABCD$.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:28</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2570,10 +2570,10 @@ Reflect this line in the dashed line $p$.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:29</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2690,10 +2690,10 @@ By how many **centimetres** did Anna beat Clara?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:38</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2789,10 +2789,10 @@ Write the letter names of the points that lie inside the rhombus.
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-2:1:3</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2951,10 +2951,10 @@ Place a letter $R$ on the scatter graph next to the cross which represents Rober
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:1:8</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3095,10 +3095,10 @@ How many pets in total are owned by the boys?
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3215,10 +3215,10 @@ Explain why the total of $6$ came up most often.
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

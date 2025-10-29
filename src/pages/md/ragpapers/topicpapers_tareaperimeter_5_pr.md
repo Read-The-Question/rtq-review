@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-5-pr"
 title: "TopicPaper - Areaperimeter - 5 - PR"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "33"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "33"
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -226,10 +226,10 @@ Beeching tiles are the cheapest.
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -422,10 +422,10 @@ $
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -583,10 +583,10 @@ Length of the side of the large square $= 20 \ \text {cm}$.
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:1:10</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -748,10 +748,10 @@ $
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:1:11</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -904,10 +904,10 @@ $
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:1:16</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1093,7 +1093,7 @@ Shape B and C have same shape.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>F3912EFD-E492-46A0-BB5B-F44F4FD52BAA</p>
 </div>
@@ -1101,13 +1101,13 @@ Shape B and C have same shape.
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:1:15</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1205,11 +1205,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Wrong working format.. simply equal to dfrac {area of abc} {area of xyz}
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1260,7 +1255,7 @@ Wrong working format.. simply equal to dfrac {area of abc} {area of xyz}
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D12205F1-6F25-4231-A122-B2A390DC96CE</p>
 </div>
@@ -1268,13 +1263,13 @@ Wrong working format.. simply equal to dfrac {area of abc} {area of xyz}
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:13</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1447,13 +1442,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Part A 
-
-Line 1.  So, and again down So, (delete 1 So,)
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1504,7 +1492,7 @@ Line 1.  So, and again down So, (delete 1 So,)
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>FAB79FDF-D313-405E-A038-7DEFEDC824BF</p>
 </div>
@@ -1512,13 +1500,13 @@ Line 1.  So, and again down So, (delete 1 So,)
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:14</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1623,11 +1611,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Now lets ... area of the square.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1686,10 +1669,10 @@ Now lets ... area of the square.
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:15</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1855,10 +1838,10 @@ $
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:16</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2010,10 +1993,10 @@ $
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:25</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2157,7 +2140,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>42954A1C-6B9E-44EB-8DE6-AF6D5A8B69A3</p>
 </div>
@@ -2165,13 +2148,13 @@ $
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:1:10</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2377,53 +2360,6 @@ Area of the garden is $83 \ \text{m}^2$.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-PArt a:
-
-(i could not follow your calculations)
-
-
-
-Perimeter = Sum of all sides
-
-= 5m + (12m -7m)+ (9m - 5m) + 12m + 9m + 7m
-
-= 5m + 5m+4m + 12m + 9m + 7m
-
-=42m
-
-=  (please put unit ) m (without any space before m but in \text)
-
-
-
-Remove \\\\  (in last line of katex no spacing)
-
-Blue answer also put m 
-
-
-
-Part B: (i could not follow your calculations)
-
-
-
-On decomposing the shape of the garden, we find  2 regular rectangles.
-
-
-
-Area of the garden &= First Rectangle (length x width) + Second rectangle ( length x width)
-
-= (7m x 5 m) + (12m x (9m - 5m))
-
-=  (7m x 5 m) + (12m x 4m)
-
-= 35m^2+48m^2
-
-= 83m^2
-
-Change blue answer accordingly.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2474,7 +2410,7 @@ Change blue answer accordingly.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>408B312B-6431-4F80-A288-66DBFDD7A7F3</p>
 </div>
@@ -2482,13 +2418,13 @@ Change blue answer accordingly.
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:15</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2559,25 +2495,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Put a tag for the question please
-
-Correct katex error.
-
-
-
-Put $\begin {aligned} and \end {aligned}$ (totally missing)
-
-Pertimeter of a rectangle =  2 x length x width = sum of all sides
-
-= 6.1 + 6.1 + 3.6 + 3.6
-
-= 12.2 + 7.2
-
-= 19.4 \ \text {cm}
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2628,7 +2545,7 @@ Pertimeter of a rectangle =  2 x length x width = sum of all sides
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>BF1E2A8F-F5C7-4634-912A-F66697436636</p>
 </div>
@@ -2636,13 +2553,13 @@ Pertimeter of a rectangle =  2 x length x width = sum of all sides
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:16</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2717,31 +2634,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Add tag please \tarea
-
-
-
-Area of right triangel = 1/2 x base x height
-
-= (katex error) \dfrac 1/2 4.5 x 8
-
-= 4.5 x 8 / 2
-
-= 4.5 x 4 x 2 / 2
-
-= cancel
-
-= 4.5 x 4
-
-= 18 \ \text{cm}^2
-
-Blue answer change $18 \ \text{cm}^2$ 
-
-
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2792,7 +2684,7 @@ Blue answer change $18 \ \text{cm}^2$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>AC6EBE4A-8D1B-4267-BD03-E8044D4BB3DC</p>
 </div>
@@ -2800,13 +2692,13 @@ Blue answer change $18 \ \text{cm}^2$
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:17</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2923,51 +2815,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Put a tag for the question please.
-
-As per the question, the wire piece of 42 cm is bent into the shape of a rectangle. 
-
-
-
-The total length of the wire is perimeter of the rectangle. The length of the rectangle is twice its width.
-
-
-
-Lets take the width = w
-
-
-
-2 x (length x width)  = Perimeter
-
-2 x (2w x w) = 42 cm
-
-4w + 2w = 42 
-
-6w = 42 
-
-w = 6 x 7 / 6
-
-w = 7 cm
-
-
-
-Lets find the area of the rectangle.
-
-
-
-Area of a rectangle = length x width
-
-= 2x7 x 7 
-
-= 98 cm^2
-
-
-
-
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3026,10 +2873,10 @@ Area of a rectangle = length x width
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:1:11</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3193,10 +3040,10 @@ $
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:1:14</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3384,7 +3231,7 @@ Length of longest side $= 4$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>527152F8-094F-4AFE-A50B-4595C903532F</p>
 </div>
@@ -3392,13 +3239,13 @@ Length of longest side $= 4$
 <p>solihull-school--11-plus--maths--9999--sample-paper-1:2:5</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3678,35 +3525,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-PArt A & Part B same change
-
-PArt A Step 1 inside katex Perimeter &= 2×(14+9)
-
-
-
-PArt B Step 1 inside katex Area  = ...
-
-
-
-Part C 
-
-Line 1 =.... Side (no brackets and caps)
-
-Step 1 katex : 4 x Side =.... give space before cm (in whole answer) 
-
-Side = solve further 
-
-
-
-Area of a square &= Side^2
-
-               &= 9^2
-
-
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3757,7 +3575,7 @@ Area of a square &= Side^2
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8E4B5715-53BB-42A4-9945-FBB59D2C6806</p>
 </div>
@@ -3765,13 +3583,13 @@ Area of a square &= Side^2
 <p>solihull-school--11-plus--maths--9999--sample-paper-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4171,63 +3989,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Part A 
-
-PArt A  inside katex Step 1 Perimeter &= 2×(22+9)
-
-Part b
-
-Solve again you need to find Area not length.
-
-refer UUID : 4F58585B-5B01-496D-8865-FFF0FEAC8FD6 except the length part may not be needed.
-
-PArt C 
-
-Put this text at top
-
-The area of irregular shapes can be determined by dividing the given shape into smaller regular shapes.
-
-
-
-Lets extend the left line to the side of 6 cm and create two Rectangles. Rectangle L and Rectangle R
-
-Area of the shape = Area of Rectangle L + Area of Rectangle R)
-
-= (length x .....) + (len.....) 
-
-= (17 -6) x 8 + 6 x 11
-
-solve further.. 
-
-Part D
-
-
-
-Let the side... delete \"be\" 
-
-Step 1 katex : Side x Side = Area
-
-Step 2 a x a = 169 
-
-Step 3  = 13 x 13 
-
-then your step 4 + 5  
-
-
-
-Lets find the perimeter of the square.
-
-start katex
-
-Perimeter of the square = 4 x Side
-
-= 4 x a 
-
-solve like you did...
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4278,7 +4039,7 @@ solve like you did...
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>196B7FB7-BE4D-4577-B993-353DAB477794</p>
 </div>
@@ -4286,13 +4047,13 @@ solve like you did...
 <p>solihull-school--11-plus--maths--9999--sample-paper-2:1:23</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4390,17 +4151,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-You refered to the correct UUID but did not change the text. please change the text per this question.
-
-wall = Floor
-
-After step 3 (with cm) cancel in step 4 and change 6 to 2 x 3 and cancel also. . not need to create a new step without cm...
-
-step 5 will be = 5 x 100 and solve till end.. (No need to write end sentence.) I was corrected later in my review.. If there are variables then only summary sentence otherwise not. . So delete the last sentence. 
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4459,10 +4209,10 @@ step 5 will be = 5 x 100 and solve till end.. (No need to write end sentence.) I
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4680,11 +4430,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-we are not supposed to solve tvolume change rag to amber or red
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4743,10 +4488,10 @@ we are not supposed to solve tvolume change rag to amber or red
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:18</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4921,11 +4666,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Check it with Uday
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4976,7 +4716,7 @@ Check it with Uday
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>BAA3C1DC-AC85-4E56-81D2-E788C4B255D2</p>
 </div>
@@ -4984,13 +4724,13 @@ Check it with Uday
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5057,13 +4797,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Area &= 4 x 7.1 
-
-        &= 28.4 \text{cm}^2 
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5114,7 +4847,7 @@ Area &= 4 x 7.1
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>93360AA4-2B9F-4C55-BC75-2CD78B9FD6F2</p>
 </div>
@@ -5122,13 +4855,13 @@ Area &= 4 x 7.1
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:17</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5400,33 +5133,6 @@ Sarah can fill the tank upto $20 \ \text{cm}$.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Part A : Delete first 3 lines. Stat katex with Area of base.....align at &= the rest of the answer. put 60 cm x 20 cm 
-
-Use spacing \\\\ Put space between number and cm.. same in blue answer
-
-PArt B : \text{Max volume of tank} = \text{length}\times\text{width}\times{height} \\
-
-Change to : Volume of tank = ....... (before height put \text  use \\\\ spacing not \\
-
-same corrections like above. do your katex formatting correctly spacing is not right between numbers. 
-
-PArt C : APTQ,
-
-
-
-Volume of 24 litres = 24 x 1000^3
-
-Volume = l x h x w 
-
-24000cm^3=  60 x h x 30  
-
-solve for h... till 20 cm (not 20 cm2)
-
-change blue ansawer accrodingly.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5477,7 +5183,7 @@ change blue ansawer accrodingly.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>17EB6AE3-FD45-41A0-9FF9-AF38640101B5</p>
 </div>
@@ -5485,13 +5191,13 @@ change blue ansawer accrodingly.
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:23</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5732,37 +5438,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Part A :
-
-Delete upper part. Start direclty with katex, align at &=
-
-Area of flower bed = .....
-
-Substitute
-
-make 6 to 2 x 3 
-
-cancel
-
-use right units with correct spacing... 
-
-Part B 
-
-same Start with katex
-
-Area of whole garden = use cm here too......(solve like you did ) align at &= put spacing in katex .. \times (space) 12
-
-Part C 
-
-Not solved!
-
- Area (Grass) = Total Area - Area (Flower bed) \times 4
-
-solve.. use correct units and spacing before units.. if needed
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5813,7 +5488,7 @@ solve.. use correct units and spacing before units.. if needed
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6BC8FC6A-56E2-4B38-905F-06368D1DB22F</p>
 </div>
@@ -5821,13 +5496,13 @@ solve.. use correct units and spacing before units.. if needed
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5912,13 +5587,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Katex error add \begin{aligned}..\end{aligned}
-
-change step 1 : Jump the sides. 
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5977,10 +5645,10 @@ change step 1 : Jump the sides.
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:2:7</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6163,10 +5831,10 @@ $
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:2:8</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6369,10 +6037,10 @@ Missing length $= 10 \ \text {cm}$.
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:17</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6531,10 +6199,10 @@ $
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:2:2</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6677,10 +6345,10 @@ $
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:2:4</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6839,10 +6507,10 @@ $
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7060,11 +6728,6 @@ Reflect the triangle in the x-axis and label your shape $B$.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-tgraph
-</div>
 
 <div class='review'>
 <ul class='review'>

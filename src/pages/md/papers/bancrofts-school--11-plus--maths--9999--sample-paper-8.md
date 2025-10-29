@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-9999-sample-paper-8"
 title: "Bancrofts School - 11 Plus - Maths - 9999 - Sample Paper 8"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "12"
 ---
 <div class='paper'>

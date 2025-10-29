@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tgraph-2"
 title: "TopicPaper - Graph - 2"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "40"
 ---
 <div class='paper'>
@@ -16,7 +16,7 @@ questions_count: "40"
 # Section A
 <ul class='question decimal question_type_question list_type_decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E9B0637A-8F48-4CAE-9575-0B307983C026</p>
 </div>
@@ -30,7 +30,7 @@ questions_count: "40"
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -236,19 +236,6 @@ So she is travelling fastest when she is $3.5 \ \text{m}$ far from the bank.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::13:14
-
-
-
-c: discuss, does not seem to be right
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1362,7 +1349,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>80112605-EA47-447F-8253-F179A00FDDCC</p>
 </div>
@@ -1376,7 +1363,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1448,19 +1435,6 @@ Coordinates $= (5, 2)$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::13:24
-
-
-
-show working by calculating x and y coordinates
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2650,7 +2624,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>41E51ED4-2566-416E-9B1D-DA881001E4E3</p>
 </div>
@@ -2664,7 +2638,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2735,19 +2709,6 @@ $(2, 4)$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::13:31
-
-
-
-add drawing starts abbreviation and add a diagram to show the reflected image
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3094,7 +3055,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>0738C4D1-432B-4D74-9BE2-10CFEEE41EBC</p>
 </div>
@@ -3108,7 +3069,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3369,19 +3330,6 @@ Kite
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::15:34
-
-
-
-c: write the coordinates for 4th point in comments, and what quad. type it is too
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3432,7 +3380,7 @@ c: write the coordinates for 4th point in comments, and what quad. type it is to
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>AFAFC502-486F-4509-9231-546208F1D669</p>
 </div>
@@ -3446,7 +3394,7 @@ c: write the coordinates for 4th point in comments, and what quad. type it is to
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4003,23 +3951,6 @@ Order of likelihood
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::15:38
-
-
-
-b: write whole to part ratio version of the answer
-
-
-
-c: is wrong, solve using ER and pure ratio
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4070,7 +4001,7 @@ c: is wrong, solve using ER and pure ratio
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>34D6C759-0EBD-42BF-BA06-1B15FD3CC1A1</p>
 </div>
@@ -4084,7 +4015,7 @@ c: is wrong, solve using ER and pure ratio
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4443,27 +4374,6 @@ An isosceles triangle has two equal sides.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::15:51
-
-
-
-c: write more details on coordinates etc
-
-
-
-Reviewer: [up] Date:2022-09-22::15:54
-
-
-
-e: ask to draw the new drawing showing new isosceles triangle
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5372,7 +5282,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9E625892-A20E-40CC-8AB4-07877240C279</p>
 </div>
@@ -5386,7 +5296,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5594,23 +5504,6 @@ rtq_abbr_md_add_drawing_ends
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::16:18
-
-
-
-a: answer in colour
-
-
-
-
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5661,7 +5554,7 @@ a: answer in colour
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>53877F70-0386-4E28-91B3-E59CFD72ED75</p>
 </div>
@@ -5675,7 +5568,7 @@ a: answer in colour
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5908,19 +5801,6 @@ $(0, 3)$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::16:20
-
-
-
-add drawing abbr for b and c with details.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -6407,7 +6287,7 @@ Mode = $0$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>2AD65031-252F-48C7-80B1-887152A02C30</p>
 </div>
@@ -6421,7 +6301,7 @@ Mode = $0$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6635,19 +6515,6 @@ $(7, 5)$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::16:29
-
-
-
-part c: add drawing abbre with details
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -6698,7 +6565,7 @@ part c: add drawing abbre with details
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>FD01FEB3-39A8-423A-B81C-FEA1E2B646C5</p>
 </div>
@@ -6712,7 +6579,7 @@ part c: add drawing abbre with details
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6955,27 +6822,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::16:30
-
-
-
-c: do like area perimeter, write formula at the top using abbre etc
-
-
-
-Reviewer: [up] Date:2022-09-22::16:30
-
-
-
-c: add drawing abbrevi with details on what to draw
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -7026,7 +6872,7 @@ c: add drawing abbrevi with details on what to draw
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>17F93916-CC33-4987-A33C-BF814E4C59D2</p>
 </div>
@@ -7040,7 +6886,7 @@ c: add drawing abbrevi with details on what to draw
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7298,27 +7144,6 @@ Coordinates $= (0.5, 0)$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::16:31
-
-
-
-b: show working for mid point
-
-
-
-Reviewer: [up] Date:2022-09-22::16:31
-
-
-
-c: show working for mid point
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -7637,7 +7462,7 @@ Highest total = Jan
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>F319F377-08E0-4761-85D6-D6E48E68860F</p>
 </div>
@@ -7651,7 +7476,7 @@ Highest total = Jan
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8599,7 +8424,7 @@ New coordinates $= (4, 8)$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D5FEEB62-E22B-4F73-AFB2-FEA051F5650B</p>
 </div>
@@ -8613,7 +8438,7 @@ New coordinates $= (4, 8)$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8825,19 +8650,6 @@ rtq_abbr_md_add_drawing_ends
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::18:14
-
-
-
-c: explain more, write the coordinates in comments
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -9010,7 +8822,7 @@ So I agree with the statement.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D823DE67-CE14-480D-8164-D2BF643E31F7</p>
 </div>
@@ -9024,7 +8836,7 @@ So I agree with the statement.
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -9120,27 +8932,6 @@ Point at which finally snail arrive $= (6, 5)$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::18:18
-
-
-
-add drawing abbreviation and explain this using a diagram instead, move the whole answer into comments.
-
-
-
-and outside just write
-
-
-
-Final coordinates $= ....$
-</div>
 
 <div class='review'>
 <ul class='review'>

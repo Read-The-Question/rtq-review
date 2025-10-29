@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tduplicatepaper-3-g2-prns"
 title: "TopicPaper - Duplicatepaper - 3 - G2 - PRNS"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "7"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "7"
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:34</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -134,10 +134,10 @@ If $120$ marbles are released through the network, how many do not reach $F$?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:35</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -229,10 +229,10 @@ How many days would it take the lazy one to paint the house on his own?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:36</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -324,10 +324,10 @@ The shape is not drawn accurately.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:37</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -417,10 +417,10 @@ What is the weight of two ducks and one duckling?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:38</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -504,10 +504,10 @@ Use each number from $1$ to $8$ once in the boxes to make all the calculations c
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:39</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -648,10 +648,10 @@ Find two possible pairs of values for the mystery numbers.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-2:1:41</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

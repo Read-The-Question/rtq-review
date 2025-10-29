@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-3-g1"
 title: "TopicPaper - Money - 3 - G1"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "4"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prpcr question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>4D36DDE1-18A4-4F91-A9F3-7CB993E6A6E3</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "4"
 <p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -308,23 +308,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-07::15:07
-
-
-
-part d: needs to be fraction instead of actual value
-
-
-
-profit fraction = 24 - 16 / 16 and solve
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -375,7 +358,7 @@ profit fraction = 24 - 16 / 16 and solve
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prpcr question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>662D8D5A-FC30-4723-82E2-9B0B4ED1FDE9</p>
 </div>
@@ -389,7 +372,7 @@ profit fraction = 24 - 16 / 16 and solve
 <p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -452,19 +435,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-07::15:08
-
-
-
-not done correctly, she gives 50 p so 1 coin, then show how many coins for return 6p, see other coin answers
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -515,7 +485,7 @@ not done correctly, she gives 50 p so 1 coin, then show how many coins for retur
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prpcr question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>3B2F88FB-098F-446B-A5EA-C78BF6D5E9A0</p>
 </div>
@@ -529,7 +499,7 @@ not done correctly, she gives 50 p so 1 coin, then show how many coins for retur
 <p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -598,19 +568,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-07::15:11
-
-
-
-calculation seems to be wrong
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -661,7 +618,7 @@ calculation seems to be wrong
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prpcr question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>95085B3A-C82A-498B-BBB6-0C147CB6D891</p>
 </div>
@@ -675,7 +632,7 @@ calculation seems to be wrong
 <p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -907,19 +864,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-07::15:21
-
-
-
-part b wrong calculation
-</div>
 
 <div class='review'>
 <ul class='review'>

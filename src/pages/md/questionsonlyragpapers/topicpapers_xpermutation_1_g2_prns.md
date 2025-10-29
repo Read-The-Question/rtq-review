@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-xpermutation-1-g2-prns"
 title: "TopicPaper - Permutation - 1 - G2 - PRNS"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "6"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "6"
 <p>bancrofts-school--11-plus--maths--9999--sample-paper-8:1:12</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -164,10 +164,10 @@ Write down all the different options for what the $3^\text{rd}$ ball could be?
 <p>eltham-college--11-plus--maths--2020--sample-paper-5:1:20</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -261,10 +261,10 @@ A lady bird has landed at point P on Sam’s bow-tie. If it travels only along t
 <p>forest-school--11-plus--maths--2012--sample-paper-4:1:14</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -344,10 +344,10 @@ Four friends each spent good luck cards to each other. How many cards were sent 
 <p>forest-school--11-plus--maths--2012--sample-paper-4:1:24</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -427,10 +427,10 @@ A palindromic number is the same when written backwards as forwards, e.g $454$ i
 <p>forest-school--11-plus--maths--2012--sample-paper-4:1:31</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -522,10 +522,10 @@ If the half time score was $2{-}2$, list all the different possible scores that 
 <p>forest-school--11-plus--maths--9999--sample-paper-3:1:11</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tprofit-1-g0"
 title: "TopicPaper - Profit - 1 - G0"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "1"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_g0 rag_prpcc question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>3AFA86B0-9BFB-41F8-900A-072D2C1A833D</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "1"
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -186,51 +186,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::08:24
-
-
-
-add another answer on lines of CC2CF032-912C-4CD7-AF4B-1BB85DC56BD4
-
-
-
-original price = 115 % of 200
-
-
-
-discount price = 90 % of 115 % of 200
-
-
-
-write the way that UUID is written and make that the first answer and keep this as alternate answer
-
-
-
-Reviewer: [up] Date:2022-09-28::08:25
-
-
-
-add another answer on lines of CC2CF032-912C-4CD7-AF4B-1BB85DC56BD4
-
-
-
-original price = 115 % of 200
-
-
-
-discount price = 90 % of 115 % of 200
-
-
-
-write the way that UUID is written and make that the first answer and keep this as alternate answer
-</div>
 
 <div class='review'>
 <ul class='review'>

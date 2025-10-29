@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tnet-1-pr"
 title: "TopicPaper - Net - 1 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "1"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C0F858F2-CD23-4CBF-97E1-A6AE5C39D887</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "1"
 <p>csse--11-plus--maths--2015--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -88,19 +88,6 @@ dots would appear on the face *opposite* the $5($ $\LARGE{⚄}$ $)$.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-13::19:08
-
-
-
-5 () outside katex, use LARGE i think Large is also not big enough.
-</div>
 
 <div class='review'>
 <ul class='review'>

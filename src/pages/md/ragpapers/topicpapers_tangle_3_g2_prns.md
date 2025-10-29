@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-3-g2-prns"
 title: "TopicPaper - Angle - 3 - G2 - PRNS"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "17"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>

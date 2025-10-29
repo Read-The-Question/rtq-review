@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tstatistics-2-pr"
 title: "TopicPaper - Statistics - 2 - PR"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "3"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>FF90761B-9593-49B4-BF81-F14D298B7142</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "3"
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -325,7 +325,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>66AC9193-2DC6-421F-960E-5D37904B2D3A</p>
 </div>
@@ -339,7 +339,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -707,19 +707,6 @@ Median weight of the children $= 48 \ \text{kg}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::03:47
-
-
-
-Uday: notes to myself, a little complicated to explain, think and write
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -770,7 +757,7 @@ Uday: notes to myself, a little complicated to explain, think and write
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>4FD61F4B-C055-4575-97AA-A608F1B07CE3</p>
 </div>
@@ -784,7 +771,7 @@ Uday: notes to myself, a little complicated to explain, think and write
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -928,29 +915,6 @@ Greatest possible value in the set $= 60$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [na] Date:2022-09-07::05:31
-
-
-
-Write a3 = 18 inside the begin-end.
-
-Write variables i.e a1, a2, within $$ where they are not written inside the begin-end. For eg in below lines:
-
-Minimum positive value of a1 = 1
-
-Minimum positive value of a2 = 2
-
-Minimum positive value of a4 = 19
-
-Using minimum possible values of a1, a2 and a4 to find the maximum possible value of a5.
-</div>
 
 <div class='review'>
 <ul class='review'>

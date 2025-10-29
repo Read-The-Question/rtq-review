@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tscholarship-1-pr"
 title: "TopicPaper - Scholarship - 1 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "19"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5C52A192-662D-4966-B429-54723BEA5C8E</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "19"
 <p>tonbridge-school--scholarship--maths--2017--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -166,7 +166,7 @@ Use your answer to either ($\text{b}$) or ($\text{c}$) to find the volume of the
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>763B20D4-93AE-4138-B20F-17C519AC63AF</p>
 </div>
@@ -174,13 +174,13 @@ Use your answer to either ($\text{b}$) or ($\text{c}$) to find the volume of the
 <p>tonbridge-school--scholarship--maths--2017--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -300,7 +300,7 @@ Find the area of this region.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>54504016-800A-4E67-B6A9-E41E1A4C629D</p>
 </div>
@@ -308,13 +308,13 @@ Find the area of this region.
 <p>tonbridge-school--scholarship--maths--2017--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -491,7 +491,7 @@ If the right-hand triangle number in Column $A$ is $7626$, what is the Row numbe
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>439F5665-F696-485A-9CC5-A31F935DBB39</p>
 </div>
@@ -499,13 +499,13 @@ If the right-hand triangle number in Column $A$ is $7626$, what is the Row numbe
 <p>tonbridge-school--scholarship--maths--2017--sample-paper-2:1:1</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -631,7 +631,7 @@ If $n$ is very large, what is the value of $L?$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3C096264-19FF-40EB-88BE-8186D15AC883</p>
 </div>
@@ -639,13 +639,13 @@ If $n$ is very large, what is the value of $L?$
 <p>tonbridge-school--scholarship--maths--2017--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -726,7 +726,7 @@ $3x + 3y + 5z = -14$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>2A076C8D-2823-4C46-832D-C3076F320ABA</p>
 </div>
@@ -734,13 +734,13 @@ $3x + 3y + 5z = -14$
 <p>tonbridge-school--scholarship--maths--2017--sample-paper-2:1:3</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -817,7 +817,7 @@ Making your method clear, find the total shaded area in the figure.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>88A4252A-C96A-47BC-9E76-5B2CA77AD01D</p>
 </div>
@@ -825,13 +825,13 @@ Making your method clear, find the total shaded area in the figure.
 <p>tonbridge-school--scholarship--maths--2017--sample-paper-2:1:4</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -947,7 +947,7 @@ Find the area of triangle $\text{AVC}$ , which is a slice through the pyramid.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>BDD42750-C6A0-42E9-B081-8D557062BD29</p>
 </div>
@@ -955,13 +955,13 @@ Find the area of triangle $\text{AVC}$ , which is a slice through the pyramid.
 <p>tonbridge-school--scholarship--maths--2017--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1081,7 +1081,7 @@ What is the smallest possible value of $x?$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D1CFB36F-EB77-4BF2-9436-61381F3A5FD7</p>
 </div>
@@ -1089,13 +1089,13 @@ What is the smallest possible value of $x?$
 <p>tonbridge-school--scholarship--maths--2017--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1240,7 +1240,7 @@ What is the height of the triangle when this occurs?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>F4A0A7E7-1591-4409-A975-868E56482586</p>
 </div>
@@ -1248,13 +1248,13 @@ What is the height of the triangle when this occurs?
 <p>tonbridge-school--scholarship--maths--2017--sample-paper-2:1:7</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1457,7 +1457,7 @@ If the entry in Column $B$ is $314432$, what is the largest number in the sum in
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9A80AAB9-90F5-4D50-BC70-1F8AD5560BEF</p>
 </div>
@@ -1465,13 +1465,13 @@ If the entry in Column $B$ is $314432$, what is the largest number in the sum in
 <p>tonbridge-school--scholarship--maths--2018--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1569,7 +1569,7 @@ If I walk Stage $1$ at $2\, \text{m/s}$ and run Stage $2$ at $4\, \text{m/s}$, t
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>95F6D6F5-E4AD-4943-BD2B-2B4C13844FDF</p>
 </div>
@@ -1577,13 +1577,13 @@ If I walk Stage $1$ at $2\, \text{m/s}$ and run Stage $2$ at $4\, \text{m/s}$, t
 <p>tonbridge-school--scholarship--maths--2018--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1695,7 +1695,7 @@ If equal numbers of sheep and goats are added to the field of $308$ animals so t
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>BACFCB19-39F3-4C53-A587-DB78185D71FF</p>
 </div>
@@ -1703,13 +1703,13 @@ If equal numbers of sheep and goats are added to the field of $308$ animals so t
 <p>tonbridge-school--scholarship--maths--2018--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1878,7 +1878,7 @@ $8^{348}$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>241B6BB0-E65A-4B3B-BA06-6F3CAB142E11</p>
 </div>
@@ -1886,13 +1886,13 @@ $8^{348}$
 <p>tonbridge-school--scholarship--maths--2018--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2004,7 +2004,7 @@ Find $g$ for a small asteroid where $R = 2400$ and $T = 720$.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>1AA32F50-94E7-47F7-99F0-C81C908264D0</p>
 </div>
@@ -2012,13 +2012,13 @@ Find $g$ for a small asteroid where $R = 2400$ and $T = 720$.
 <p>tonbridge-school--scholarship--maths--2018--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2120,7 +2120,7 @@ Use algebra to show that $a = b$ whatever the value of $x$.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A641125A-5D93-4A29-9FD1-F5D61C72CFA8</p>
 </div>
@@ -2128,13 +2128,13 @@ Use algebra to show that $a = b$ whatever the value of $x$.
 <p>tonbridge-school--scholarship--maths--2018--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2250,7 +2250,7 @@ Give an example of such a quadrilateral for which $a, b, c, d$ are different who
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>717B9951-16E9-4952-A95E-F8B48B2F3DD9</p>
 </div>
@@ -2258,13 +2258,13 @@ Give an example of such a quadrilateral for which $a, b, c, d$ are different who
 <p>tonbridge-school--scholarship--maths--2018--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2404,7 +2404,7 @@ Explain carefully whether you can continue your graph for values of $x$ greater 
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>42D143E4-CBC4-4F62-99AC-B6A6F8EB1C16</p>
 </div>
@@ -2412,13 +2412,13 @@ Explain carefully whether you can continue your graph for values of $x$ greater 
 <p>tonbridge-school--scholarship--maths--2018--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2520,7 +2520,7 @@ Find the value of $x$ if both shapes have the same area.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>F1FC3F2D-CE54-40A5-B6DA-982CB73B6FC7</p>
 </div>
@@ -2528,13 +2528,13 @@ Find the value of $x$ if both shapes have the same area.
 <p>tonbridge-school--scholarship--maths--2018--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

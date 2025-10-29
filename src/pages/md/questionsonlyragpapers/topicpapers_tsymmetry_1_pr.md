@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tsymmetry-1-pr"
 title: "TopicPaper - Symmetry - 1 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "4"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>1C32DDE0-898E-48A3-9DA4-0602505990AE</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "4"
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:15</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -149,7 +149,7 @@ Draw any lines of symmetry on these shapes. Some may have none or more than one.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>1AF2433E-3D5D-484E-B002-AC1E07FB1211</p>
 </div>
@@ -157,13 +157,13 @@ Draw any lines of symmetry on these shapes. Some may have none or more than one.
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:9</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -248,7 +248,7 @@ look if it had been rotated and then reflected in the same way?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E7201AA6-215A-4BDA-89C6-5C378A884A97</p>
 </div>
@@ -256,13 +256,13 @@ look if it had been rotated and then reflected in the same way?
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:16</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -394,7 +394,7 @@ Show how the four tiles can fit together to make a pattern with rotation symmetr
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>0032A1C2-125B-4779-B53F-49B324B0E805</p>
 </div>
@@ -402,13 +402,13 @@ Show how the four tiles can fit together to make a pattern with rotation symmetr
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -431,19 +431,6 @@ $ \text{E} \quad \text{M} \quad \text{I} \quad \text{L} \quad \text{Y} $
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-11-12::06:24
-
-
-
-write image for this one for EMILY too as we want the exact font, katex font is not exactly letters are not symmetrical and we cant control for any font so has to be an image.
-</div>
 
 <div class='review'>
 <ul class='review'>

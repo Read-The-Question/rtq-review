@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2015-sample-paper-6"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2015 - Sample Paper 6"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "30"
 ---
 <div class='paper'>
@@ -1149,7 +1149,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>AFF5896F-8064-498C-8114-C2B6BAFEF3AE</p>
 </div>
@@ -1163,7 +1163,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1278,7 +1278,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>DC082ECB-D148-4B24-9DA0-CFEBA40072D2</p>
 </div>
@@ -1292,7 +1292,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1417,7 +1417,7 @@ TODOANSWER
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>294B1C8E-3A75-4E3B-93E8-579CF1EB4C09</p>
 </div>
@@ -1431,7 +1431,7 @@ TODOANSWER
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1513,19 +1513,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-24::12:20
-
-
-
-Change 1.50 to 1.5
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1717,7 +1704,7 @@ TODOANSWER
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>58743CF5-DED0-4464-A72E-CC6D7B92AE5B</p>
 </div>
@@ -1731,7 +1718,7 @@ TODOANSWER
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1829,7 +1816,7 @@ Novak has a tennis lesson every $3$ days starting on Monday $13 ^\text{th}$ Apri
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C3229D2F-CF27-4E5A-A8CC-334AD15D2A96</p>
 </div>
@@ -1837,13 +1824,13 @@ Novak has a tennis lesson every $3$ days starting on Monday $13 ^\text{th}$ Apri
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:15</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2023,59 +2010,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Create two subquestion+workings+answers. one for area and oen for perimeter.
-
-
-
-Changes in first part :
-
-Delete L2 and L3: First...... and LetS calculate.
-
-
-
-delete line 1 and do : As per the question,
-
-direct :
-
-4 x Side = Perimeter of a square
-
-4 x Side = 36 cm (space before cm)
-
-solve till end.
-
-
-
-Change text : Now lets calculate .. to Now, lets claculate the area of the square.
-
-
-
- delete \"Area\" = 81 cm^2
-
-
-
-put Second part in 2nd subquestion...
-
-Use the text part as in above answer and change accordingly...
-
-Step 1 ok
-
-delete step 2
-
-Your present step 3 : ok
-
-then Side^2 = 11^2
-
-Side = 11 cm
-
-rest as per above area part...
-
-Blue answer katex error.. in area answer (this will go up when you create the two part)
-
-
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2126,7 +2060,7 @@ Blue answer katex error.. in area answer (this will go up when you create the tw
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>BE040332-BBE8-4C8A-A8BD-80A84C71D6E1</p>
 </div>
@@ -2140,7 +2074,7 @@ Blue answer katex error.. in area answer (this will go up when you create the tw
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2219,19 +2153,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-08::18:09
-
-
-
-Simplifying the number makes the remainder change so solve with the original numbers
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2282,7 +2203,7 @@ Simplifying the number makes the remainder change so solve with the original num
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5DCC416B-7200-4C81-96BF-BAFD35E63E30</p>
 </div>
@@ -2296,7 +2217,7 @@ Simplifying the number makes the remainder change so solve with the original num
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4427,7 +4348,7 @@ Work out the years in which you could have bought shares and then sold them whic
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>0BFEE810-C9F2-4EDF-9F70-1011D58BEE05</p>
 </div>
@@ -4441,7 +4362,7 @@ Work out the years in which you could have bought shares and then sold them whic
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4857,19 +4778,6 @@ Ben is right.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-28::11:12
-
-
-
-b: is wrong, need to find the original price, solve using algebra
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4920,7 +4828,7 @@ b: is wrong, need to find the original price, solve using algebra
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C718F355-D11D-459D-8CC2-4BE746B45060</p>
 </div>
@@ -4934,7 +4842,7 @@ b: is wrong, need to find the original price, solve using algebra
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5601,7 +5509,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>32B69904-7049-4D11-B264-0FB9BA6B09EC</p>
 </div>
@@ -5615,7 +5523,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6054,23 +5962,6 @@ Total arrangements $= 2 \times 1 \times 4 \times 1 \times 2 \times 1 = 16$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-manual way missing
-
-
-
-i have changed part a and b to use tables instead of list as list was not very clear for this much data.
-
-
-
-can you please update part c to use on the same lines?
-</div>
 
 <div class='review'>
 <ul class='review'>

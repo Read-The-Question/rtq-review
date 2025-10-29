@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tvenn-1"
 title: "TopicPaper - Venn - 1"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "36"
 ---
 <div class='paper'>
@@ -3137,11 +3137,6 @@ Brown-eyed Brunettes $= 13$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-change tag to tvenn (its number now) and change the review status to PRR
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3418,11 +3413,6 @@ Total number of birds $= 36$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-ttable
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3550,11 +3540,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-tvenn
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3713,11 +3698,6 @@ Number of plain chocolates with plain centres are between $4$ and $8$ inclusive.
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-tvenn
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -6023,11 +6003,6 @@ rtq_abbr_md_add_drawing_end
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-tvenn is Red
-</div>
 
 <div class='review'>
 <ul class='review'>

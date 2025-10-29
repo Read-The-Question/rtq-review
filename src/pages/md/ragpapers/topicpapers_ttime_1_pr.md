@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-ttime-1-pr"
 title: "TopicPaper - Time - 1 - PR"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "2"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>92900B3E-B695-40CA-A45F-B8FC384C3A0B</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "2"
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -74,59 +74,6 @@ After $70$ days, Arjun and Yahya will get their hair cut on same day.
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Let the number of days after they cut hair on same day = n
-
-
-
-APTQ,
-
-
-
-2 weeks x n = 10 days x n
-
-2 x 7 days x n = 10 days x n
-
-14 x n = 10 x n
-
-14n = 10n
-
-
-
-We can easily infer the values by using trial and error. Lets find out the value of n which satisfies the condition above.
-
-
-
-create a table with four columns try some values with one of them 70.
-
-|  n   |   10n   |   14n   |  10n = 14n  |
-
-..
-
-...
-
-
-
-A quick check shows that $70$ meets all the criteria above.
-
-
-
-After 70 days, Arjun and Yahya will get their hair cut on same day.
-
-
-
-Reviewer: [wf] Date:2022-09-02::21:00
-
-
-
-Solve like above as an alternate working.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -177,7 +124,7 @@ Solve like above as an alternate working.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>912EEF9E-A307-43EB-9A90-8C39BBD20ABB</p>
 </div>
@@ -191,7 +138,7 @@ Solve like above as an alternate working.
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -412,13 +359,6 @@ Tuesday
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-Part a) Approx sign missing.
-</div>
 
 <div class='review'>
 <ul class='review'>

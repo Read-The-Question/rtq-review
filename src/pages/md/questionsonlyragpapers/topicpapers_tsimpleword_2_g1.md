@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tsimpleword-2-g1"
 title: "TopicPaper - Simpleword - 2 - G1"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "1"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prpcr question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>B49A2D25-54CB-4ACB-A269-1B71CCD90AA4</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "1"
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:39</p>
 </div>
 <div class='rag'>
-<p>Promit Revar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_pr_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -39,27 +39,6 @@ A medicine bottle contains $90$ pills. Each pill weighs $250 \  \text{mg}$, The 
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-10::13:55
-
-
-
-full stop better than comma after 250 mg
-
-
-
-Reviewer: [up] Date:2022-10-10::13:55
-
-
-
-full stop better than comma after 250 mg
-</div>
 
 <div class='review'>
 <ul class='review'>

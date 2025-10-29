@@ -1,7 +1,7 @@
 ---
 slug: "papers/highgate-school-11-plus-maths-9999-sample-paper-a"
 title: "Highgate School - 11 Plus - Maths - 9999 - Sample Paper A"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "4"
 ---
 <div class='paper'>
@@ -14,7 +14,7 @@ questions_count: "4"
 </div>
 <ul class='question decimal question_type_question list_type_decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>E61C8C9B-56DA-468B-93C1-334429701990</p>
 </div>
@@ -28,7 +28,7 @@ questions_count: "4"
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -480,23 +480,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-24::12:17
-
-
-
-d: Change to let the total number
-
-Donald buys 3/4 not 1/3
-
-Change workings accordingly
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -547,7 +530,7 @@ Change workings accordingly
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>A6500005-118B-466A-8D63-6650ABAEA7AA</p>
 </div>
@@ -555,13 +538,13 @@ Change workings accordingly
 <p>highgate-school--11-plus--maths--9999--sample-paper-a:1:2</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1003,7 +986,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C</p>
 </div>
@@ -1017,7 +1000,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1594,7 +1577,7 @@ Weight of all the $3$ pets together $= 27 \ \text{kg}$.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E746A07A-99C6-4560-9C98-E8B7D1056C67</p>
 </div>
@@ -1608,7 +1591,7 @@ Weight of all the $3$ pets together $= 27 \ \text{kg}$.
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2126,35 +2109,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-Part a) and b) Remove \"APTQ\"
-
-Part c)
-
-REFERENCE: 8697781B-4AFF-4468-AA7D-11AE8E929A4F
-
-Solve similar to the reference question.
-
-Start with \"if the price of the ticket increased by 50%...\"
-
-the solve it further similar to the reference question.
-
-
-
-
-
-
-
-
-
-Part d) 
-
-Change \"Substituting the above value ....\" ===> \"Lets substitute the value of $a$ in one of the equations.\"
-</div>
 
 <div class='review'>
 <ul class='review'>

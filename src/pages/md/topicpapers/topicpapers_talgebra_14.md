@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-14"
 title: "TopicPaper - Algebra - 14"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "40"
 ---
 <div class='paper'>
@@ -1732,7 +1732,7 @@ The two numbers are $= 5,12$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g0 rag_prrl question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>BE7130FD-485D-438D-A850-CEE20F2154FB</p>
 </div>
@@ -1746,7 +1746,7 @@ The two numbers are $= 5,12$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2000,15 +2000,6 @@ Onput number $=1$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Discuss over slack
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2409,7 +2400,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>909DB8BE-EF83-4036-B486-EAEF2ADE4F2B</p>
 </div>
@@ -2423,7 +2414,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2831,45 +2822,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Part b) Write \"APTQ,\" after first line
-
-
-
-Part d) 
-
-((a+3)×5)÷2 = 15 (remove unnecessary brackets)
-
-(a+3) x 5 / 2 = 15  (add this line)
-
-(a+3) x 5  = 15 x 2
-
-then solve further....
-
-
-
-
-
-((a+3)÷2)×5 = 15 (remove unnecessary brackets)
-
-....
-
-...
-
-(a+3)÷2 = 3 (this line missing)
-
-a + 3 / 2 = 3  (this line missing)
-
-a + 3 = 3 x 2
-
-then solve further...
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -7046,7 +6998,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g0 rag_prrl question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>0F690421-C9C5-4DB3-9C6A-89E4566CA3CB</p>
 </div>
@@ -7060,7 +7012,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7425,31 +7377,6 @@ Input number $=24$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Part a) 
-
-= (20 ÷ 4) + 6
-
-= (20/4) + 6   (step missing)
-
-= (5 x 4 / 4) + 6   (step missing)
-
-cancel 4
-
-= 5 + 6
-
-= 11
-
-
-
-In all three parts first convert the a ÷ b into fraction (a/b) and then show cancelation wherever possible.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -9020,7 +8947,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6CB0F5E6-F7EC-4E39-816A-4384AF737221</p>
 </div>
@@ -9034,7 +8961,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

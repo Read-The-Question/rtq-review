@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tsequence-5-pr"
 title: "TopicPaper - Sequence - 5 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "17"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9D11B810-CE82-466C-A2E5-B4CAEF32AD7F</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "17"
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:1:27</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -175,15 +175,6 @@ $25001^2 - 24999^2 = \text{\textunderscore \textunderscore \textunderscore } = \
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Are the subquestions labelled right or should they be changed
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -234,7 +225,7 @@ Are the subquestions labelled right or should they be changed
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>0DB6F300-2F51-4009-B8D9-3967756795A1</p>
 </div>
@@ -242,13 +233,13 @@ Are the subquestions labelled right or should they be changed
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:22</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -410,7 +401,7 @@ work out the total number of squares in a $5$ by $5$ square:
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C718F355-D11D-459D-8CC2-4BE746B45060</p>
 </div>
@@ -418,13 +409,13 @@ work out the total number of squares in a $5$ by $5$ square:
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:28</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -508,27 +499,6 @@ The $1 ^\text{st}$ term of an $AP$ is $5.8$ and the $2 ^\text{nd}$ term is $5.9$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-If the sentence ends with a decimal, should there be a full stop
-
-
-
-Write st, nd, rd, th as a subscript
-
-
-
-Reviewer: [up] Date:2022-10-15::05:00
-
-
-
-remove quad in main queston
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -579,7 +549,7 @@ remove quad in main queston
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>419B8F34-AAAC-4C90-9534-2DA994C34CF1</p>
 </div>
@@ -587,13 +557,13 @@ remove quad in main queston
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -767,7 +737,7 @@ What is the value of $1000^2 - 999^2?$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>90763832-ECB2-4C3C-A9A0-2FB5F05FE9AA</p>
 </div>
@@ -775,13 +745,13 @@ What is the value of $1000^2 - 999^2?$
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -888,27 +858,6 @@ What is the largest number in the pattern which is less than $40?$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-11-27::17:19
-
-
-
-Prequestion - Remove ?
-
-
-
-Reviewer: [ap] Date:2022-11-27::17:20
-
-
-
-Prequestion - Remove ?
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -959,7 +908,7 @@ Prequestion - Remove ?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>2639E6C7-7353-4B52-A58F-64BE348848AE</p>
 </div>
@@ -967,13 +916,13 @@ Prequestion - Remove ?
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:1:16</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1108,19 +1057,6 @@ How many white tiles are in this pattern?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-11-20::13:36
-
-
-
-3 and 4 missing in the table
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1171,7 +1107,7 @@ Reviewer: [ap] Date:2022-11-20::13:36
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8D143CF3-CDCF-4FFA-9F34-F8EFC26FB6FE</p>
 </div>
@@ -1179,13 +1115,13 @@ Reviewer: [ap] Date:2022-11-20::13:36
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1261,27 +1197,6 @@ Find the $100 ^\text{th}$ term of the sequence in part ($\text{B}$).
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-20::05:50
-
-
-
-part d: write $b$ as $B$
-
-
-
-Reviewer: [up] Date:2022-10-20::05:50
-
-
-
-part d: write $b$ as $B$
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1332,7 +1247,7 @@ part d: write $b$ as $B$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>716EBDE2-8989-44F2-9AC8-8A191811C87C</p>
 </div>
@@ -1340,13 +1255,13 @@ part d: write $b$ as $B$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:36</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1461,7 +1376,7 @@ $30 ^\text{th}$ shape ?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>370C4ACF-306F-4B1F-BBDE-3DC69EBFA3B1</p>
 </div>
@@ -1469,13 +1384,13 @@ $30 ^\text{th}$ shape ?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:38</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1615,7 +1530,7 @@ A pattern has $45$ squares in total. How many of them are white?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>31398207-9886-44D0-885D-E1AA4FE6D132</p>
 </div>
@@ -1623,13 +1538,13 @@ A pattern has $45$ squares in total. How many of them are white?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:30</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1743,7 +1658,7 @@ Complete the table
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5C5A07B0-55CD-4B82-80C8-C5076A5F5770</p>
 </div>
@@ -1751,13 +1666,13 @@ Complete the table
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:33</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1837,23 +1752,6 @@ How many blocks are there in the bottom layer of the $10 ^\text{th}$ tower?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-write th and rd as superscript  5 ^ \text{th}
-
-
-
-Reviewer: [ap] Date:2022-11-23::20:08
-
-
-
-First sentence wrong
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1904,7 +1802,7 @@ First sentence wrong
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D22C698B-1F71-4949-BA17-BAD0D911C0C9</p>
 </div>
@@ -1912,13 +1810,13 @@ First sentence wrong
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:31</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2024,7 +1922,7 @@ How many bends will Jane have made if she uses $66 \ \text{cm}$ of wire?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3F19815A-2C4E-4CB0-94F9-6F8E4842569C</p>
 </div>
@@ -2032,13 +1930,13 @@ How many bends will Jane have made if she uses $66 \ \text{cm}$ of wire?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:35</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2179,7 +2077,7 @@ Complete the picture below to show the $27 ^\text{th}$ shape in the pattern.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>37EFF1E6-BF6C-4D06-A2A2-7CEF0BAEE66F</p>
 </div>
@@ -2187,13 +2085,13 @@ Complete the picture below to show the $27 ^\text{th}$ shape in the pattern.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:31</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2282,19 +2180,6 @@ How many black hexagons are there in this pattern?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Complete table
-
-
-
-Complete table
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2345,7 +2230,7 @@ Complete table
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>CF431EE7-5B0C-4303-969F-FCDBD0161F86</p>
 </div>
@@ -2353,13 +2238,13 @@ Complete table
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:30</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2530,7 +2415,7 @@ Explain why Emily is not correct. You must give a clear reason.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E8D4D5F2-C0D7-46D0-B4F4-2E4A926190AB</p>
 </div>
@@ -2538,13 +2423,13 @@ Explain why Emily is not correct. You must give a clear reason.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:20</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2629,19 +2514,6 @@ $\ldots, \quad 6, \quad \ldots, \quad \ldots, \quad 18, \quad \ldots, \quad \ldo
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-11-10::04:16
-
-
-
-b: fix 2nd superscript
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2692,7 +2564,7 @@ b: fix 2nd superscript
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6CD90FE9-8E3E-4CC3-9861-189303460BEF</p>
 </div>
@@ -2700,13 +2572,13 @@ b: fix 2nd superscript
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:33</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2798,19 +2670,6 @@ What is the perimeter of pattern $3?$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-27::16:03
-
-
-
-question mark inside katex
-</div>
 
 <div class='review'>
 <ul class='review'>

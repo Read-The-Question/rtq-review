@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-ttime-2-pr"
 title: "TopicPaper - Time - 2 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "2"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A46C6B3B-4687-4639-A219-3C51136C0FB1</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "2"
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -86,37 +86,6 @@ Carla wants to record *Live* and *Kicking*. She thinks that the $180\ \text{minu
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [na] Date:2022-09-10::13:04
-
-
-
-main question write the last for lines using \begin-end like below so that they align properly:
-
-
-
-$
-
-\begin{aligned}
-
-8.25  &\ \text{Rugrats}
-
-8.50  &\ \text{Smart Guy}
-
-9.15  &\ \text{Live and Kicking}
-
-12.10 &\ \text{BBC News; Weather}
-
-\end{aligned}
-
-$
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -167,7 +136,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>50A8111D-2155-47C7-AF9B-5D5BCAD56C7E</p>
 </div>
@@ -175,13 +144,13 @@ $
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:1:17</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -261,27 +230,6 @@ How long does train $3$ take from Birmingham New Street to Leicester? Give you a
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-11-09::20:49
-
-
-
-1 2 3 in table not inside $$ move it inside
-
-
-
-leave space around -
-
-
-
-for eg Birmingham New Street - Nuneaton
-</div>
 
 <div class='review'>
 <ul class='review'>

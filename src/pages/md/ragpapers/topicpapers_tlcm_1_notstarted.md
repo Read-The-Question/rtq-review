@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tlcm-1-notstarted"
 title: "TopicPaper - Lcm - 1 - NOTSTARTED"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "9"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -356,19 +356,6 @@ $84$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Should explain more, find LCM and then show 84 is a multiple of 42,
-
-
-
-Let me find out a question which is close to this
-
-
-
-TODO: Uday
-</div>
 
 <div class='review'>
 <ul class='review'>

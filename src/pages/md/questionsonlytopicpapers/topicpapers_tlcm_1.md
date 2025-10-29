@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tlcm-1"
 title: "TopicPaper - Lcm - 1"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "23"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "23"
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -113,10 +113,10 @@ What two numbers could I have thought of?
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -208,10 +208,10 @@ You should show some justification for your answer.
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -301,10 +301,10 @@ $21 \quad 42 \quad 40 \quad 36 \quad 44$
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:25</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -391,10 +391,10 @@ $21 \quad 84 \quad 40 \quad 36 \quad 44$
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:28</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -478,10 +478,10 @@ $25 \quad 45 \quad 60 \quad 35 \quad 84$
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:25</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -565,10 +565,10 @@ $144 \quad  2311 \quad  132 \quad  123 \quad  124$
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:17</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -648,10 +648,10 @@ What is the smallest number that $3, 4$ and $10$ all go into?
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -731,10 +731,10 @@ What is the smallest number which can be divided by $3, 4, 5$ and $6$ exactly?
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:25</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -814,10 +814,10 @@ What is the biggest number that divides exactly into $60, 72$ and $84?$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:26</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -897,10 +897,10 @@ What is the smallest number that $2, 3,$ and $8$ all divide into?
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:25</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -980,10 +980,10 @@ What is the biggest number that divides exactly into $28 , 84$ and $126?$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:26</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1063,10 +1063,10 @@ What is the smallest number that $3,5$ and $12$ all divide into?
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:43</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1138,7 +1138,7 @@ How many numbers less than $100$ are divisible by both $2$ and $5?$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>00B5F39E-C744-444A-A565-D57BCA594277</p>
 </div>
@@ -1146,13 +1146,13 @@ How many numbers less than $100$ are divisible by both $2$ and $5?$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:6</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1221,7 +1221,7 @@ What is the biggest number that divides into $14, 35,$ and $42?$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>0EC15166-4610-4A6E-9117-A2461D762D1D</p>
 </div>
@@ -1229,13 +1229,13 @@ What is the biggest number that divides into $14, 35,$ and $42?$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:6</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1312,10 +1312,10 @@ What is the biggest number that divides into $16, 32,$ and $56?$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1395,10 +1395,10 @@ Which number between $140$ and $170$ can be divided exactly by both $8$ and $9?$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1478,10 +1478,10 @@ Which number between $60$ and $70$ is divisible by both $7$ and $9?$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:6</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1561,10 +1561,10 @@ Which number between $50$ and $75$ is a multiple of both $3$ and $7?$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:13</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1647,10 +1647,10 @@ Which number between $60$ and $80$ is a multiple of both $3$ and $8$?
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1730,10 +1730,10 @@ What is the largest number less than $100$ which is a multiple of $2$, and of $3
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:18</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1827,10 +1827,10 @@ What is the next time that three trains will arrive together?
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:1:19</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1910,10 +1910,10 @@ How many whole numbers less than $100$ **cannot** be divided exactly by $4$ or b
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:1:18</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

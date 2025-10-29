@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2021-sample-paper-7"
 title: "Bancrofts School - 11 Plus - Maths - 2021 - Sample Paper 7"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "38"
 ---
 <div class='paper'>
@@ -1016,7 +1016,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>654FC6F2-DF8B-40E0-8729-7984D08B8A1D</p>
 </div>
@@ -1030,7 +1030,7 @@ $
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1304,39 +1304,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-22::11:20
-
-
-
-b: Change to count of days that have an s
-
-Change to arrives
-
-c: Change to 10% of (120 - 30)
-
-Answer is 81
-
-
-
-Reviewer: [ap] Date:2022-10-22::11:20
-
-
-
-b: Change to count of days that have an s
-
-Change to arrives
-
-c: Change to 10% of (120 - 30)
-
-Answer is 81
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2084,7 +2051,7 @@ TODOANSWER
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>725486A7-3062-47A5-9B6E-60454F2B945C</p>
 </div>
@@ -2098,7 +2065,7 @@ TODOANSWER
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2162,27 +2129,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [ap] Date:2022-10-09::08:20
-
-
-
-Remove 0 from in front of 5
-
-
-
-Reviewer: [ap] Date:2022-10-09::08:20
-
-
-
-Remove 0 from in front of 5
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2511,7 +2457,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>92900B3E-B695-40CA-A45F-B8FC384C3A0B</p>
 </div>
@@ -2525,7 +2471,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2579,59 +2525,6 @@ After $70$ days, Arjun and Yahya will get their hair cut on same day.
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Let the number of days after they cut hair on same day = n
-
-
-
-APTQ,
-
-
-
-2 weeks x n = 10 days x n
-
-2 x 7 days x n = 10 days x n
-
-14 x n = 10 x n
-
-14n = 10n
-
-
-
-We can easily infer the values by using trial and error. Lets find out the value of n which satisfies the condition above.
-
-
-
-create a table with four columns try some values with one of them 70.
-
-|  n   |   10n   |   14n   |  10n = 14n  |
-
-..
-
-...
-
-
-
-A quick check shows that $70$ meets all the criteria above.
-
-
-
-After 70 days, Arjun and Yahya will get their hair cut on same day.
-
-
-
-Reviewer: [wf] Date:2022-09-02::21:00
-
-
-
-Solve like above as an alternate working.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4817,7 +4710,7 @@ $27.5 \ \text{km}$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5919346F-96D5-4612-8C20-45351C26564B</p>
 </div>
@@ -4831,7 +4724,7 @@ $27.5 \ \text{km}$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5462,7 +5355,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prrl question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>CB4DEFFE-6371-44CF-8A90-FD3681A657D0</p>
 </div>
@@ -5476,7 +5369,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5879,10 +5772,10 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:29</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6015,7 +5908,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>02BF6235-58CE-4C9C-862A-6BEF1020F072</p>
 </div>
@@ -6023,13 +5916,13 @@ $
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:30</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6847,7 +6740,7 @@ TODOANSWER
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g1 rag_prrl question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>257E214E-1AF1-4AA0-BA88-C9EF4A5F41A8</p>
 </div>
@@ -6861,7 +6754,7 @@ TODOANSWER
 <p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prrl</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7073,7 +6966,7 @@ Thursday
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>52405CEB-6BF5-4540-B66B-59B339D30F72</p>
 </div>
@@ -7087,7 +6980,7 @@ Thursday
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7300,51 +7193,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-09-22::08:59
-
-
-
-a: add drawing start end to add a diagram to show on a graph by drawing the shape based on some value for a and b.
-
-
-
-Reviewer: [up] Date:2022-09-22::09:01
-
-
-
-b: refer area perimeter, write that way
-
-
-
-write formualas at the top
-
-
-
-add drawing start to show dimensions and numbers for octagon
-
-
-
-Reviewer: [up] Date:2022-09-22::09:01
-
-
-
-b: refer area perimeter, write that way
-
-
-
-write formualas at the top
-
-
-
-add drawing start to show dimensions and numbers for octagon
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -8042,10 +7890,10 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:38</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

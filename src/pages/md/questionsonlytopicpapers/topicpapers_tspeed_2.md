@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlytopicpapers/topicpapers-tspeed-2"
 title: "TopicPaper - Speed - 2"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "18"
 ---
 <div class='paper'>
@@ -16,7 +16,7 @@ questions_count: "18"
 # Section A
 <ul class='question decimal question_type_question list_type_decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>1D053FF5-F5C3-4A33-9F15-EF02705C8BD0</p>
 </div>
@@ -24,13 +24,13 @@ questions_count: "18"
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:1:18</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -74,19 +74,6 @@ At what time does train $B$ overtake train $A$?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-15::03:55
-
-
-
-A not in katex in main question 
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -145,10 +132,10 @@ A not in katex in main question
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:20</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -239,10 +226,10 @@ At what speed (in metres per minute) does the tortoise need to run to cross the 
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:17</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -324,10 +311,10 @@ Work out his speed in both kilometres per hour and metres per minute.
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:22</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -444,10 +431,10 @@ On what date did Maya sow the seed in the ground?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:41</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -568,10 +555,10 @@ After how many days will the two icebergs have the same mass?
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -654,10 +641,10 @@ Adam ran $3 \ \text{kilometres}$ in $13 \ \text{minutes}$. Jackie started $30 \ 
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-2:1:5</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -784,10 +771,10 @@ At what speed is the horse running, in miles per hour?
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -866,7 +853,7 @@ Stephen does the same journey at a speed of $30 \ \text{kilometres per hour}$. H
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9C47F6E7-B85D-44F3-8F0D-59F57D3BDDA4</p>
 </div>
@@ -874,13 +861,13 @@ Stephen does the same journey at a speed of $30 \ \text{kilometres per hour}$. H
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-b:1:9</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1084,10 +1071,10 @@ What distance would the car be from the child when the driver stopped if he was 
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b:1:7</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1220,7 +1207,7 @@ A truck travels $50 \ \text{metres}$ while accelerating at a rate of $4$. How lo
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C2048F15-27A7-4CAC-BC52-555B3FC8848C</p>
 </div>
@@ -1228,13 +1215,13 @@ A truck travels $50 \ \text{metres}$ while accelerating at a rate of $4$. How lo
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-b:1:7</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1424,7 +1411,7 @@ A Gold award is achieved by scoring a total of $270$ points.  What is the **slow
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>00D9E1CD-F3B5-4E92-995D-8331D5A1F239</p>
 </div>
@@ -1432,13 +1419,13 @@ A Gold award is achieved by scoring a total of $270$ points.  What is the **slow
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:1:7</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1564,7 +1551,7 @@ If the distance the ball travels through the air from the point where the bowler
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3B26E7CB-1B5C-4199-8C38-B92AA306E351</p>
 </div>
@@ -1572,13 +1559,13 @@ If the distance the ball travels through the air from the point where the bowler
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1670,7 +1657,7 @@ If it takes me $45\, \text{minutes}$ to swim the $1.5\, \text{km}$ how long woul
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E5FF003D-6546-4BF1-991C-059F2C4EE567</p>
 </div>
@@ -1678,13 +1665,13 @@ If it takes me $45\, \text{minutes}$ to swim the $1.5\, \text{km}$ how long woul
 <p>tonbridge-school--scholarship--maths--2016--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1804,7 +1791,7 @@ What should my speed be (with the same start time) if I want to arrive at $12.00
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6D5ECDFC-21C2-4419-84A6-F605A61E9D0E</p>
 </div>
@@ -1812,13 +1799,13 @@ What should my speed be (with the same start time) if I want to arrive at $12.00
 <p>tonbridge-school--scholarship--maths--2017--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1926,10 +1913,10 @@ After they pass each other for the second time, how much further does Brian need
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2009,10 +1996,10 @@ If a hovercraft travels at $80\, \text{kilometres}$ per hour how far will it tra
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2092,10 +2079,10 @@ In $3\, \text{hours}$ a train travels $156\, \text{km}$. What is it speed in $\t
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsymmetry-2"
 title: "TopicPaper - Symmetry - 2"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "40"
 ---
 <div class='paper'>
@@ -2180,11 +2180,6 @@ There is only $1$ letter $S$ in **MATHEMATICS** that do not have any lines of sy
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-No need to solve this question. Ill put in Red state. Contact me if u have any suggestion
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3801,11 +3796,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-TSYMMETRY
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5466,7 +5456,7 @@ TODOANSWER
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>CF538E3C-9256-410E-8CF8-47DD610CDB1F</p>
 </div>
@@ -5480,7 +5470,7 @@ TODOANSWER
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7745,13 +7735,6 @@ How many millilitres of liquid are in this container?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Put a tag tdraw also and Please change the c answer and mark this question PRR
-
-270 ml change in blue answer also.
-</div>
 
 <div class='review'>
 <ul class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tinfer-6-g2"
 title: "TopicPaper - Infer - 6 - G2"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "20"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "20"
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:33</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -189,10 +189,10 @@ Use this information to complete the diagram.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:36</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -306,10 +306,10 @@ Work out who should play each character so that as many children as possible are
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:28</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -456,10 +456,10 @@ the spinner is equally likely to land on a square number, an even number or an o
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:34</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -575,10 +575,10 @@ are equivalent to one
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:38</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -674,10 +674,10 @@ For example, $B$ cannot touch $C$ or $A$ at either an edge or a corner.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:40</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -777,10 +777,10 @@ what is the value of $TABLE?$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:41</p>
 </div>
 <div class='rag'>
-<p></p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_g2_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -880,10 +880,10 @@ Behind which door is $\pounds 1000?$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:34</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1085,10 +1085,10 @@ If Xanthe heard Wendy correctly and it was Zoe who made a mistake by adding the 
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:29</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1192,10 +1192,10 @@ Complete the table to show the number of faces, edges and vertices of the shape 
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:38</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1303,10 +1303,10 @@ $d \div b = e$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:39</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1447,10 +1447,10 @@ How many small cubes are there altogether in Billy's larger cube?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:40</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1611,7 +1611,7 @@ List all of the palindromic numbers between $1000$ and a million which have a di
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>F5E9867A-0485-43A4-8C22-E46B2BE194C1</p>
 </div>
@@ -1619,13 +1619,13 @@ List all of the palindromic numbers between $1000$ and a million which have a di
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1720,10 +1720,10 @@ Complete the magic square.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:20</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1811,10 +1811,10 @@ Write numbers in the pale grey squares to complete this magic square.
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-2:1:8</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1939,10 +1939,10 @@ Place an $O$ in **every** square that the counter could possibly be after it had
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2072,10 +2072,10 @@ Use this information to help you complete the table.
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2175,10 +2175,10 @@ What number is on the card now at the top of the pile?
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:20</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2258,10 +2258,10 @@ $83$ is a prime number. If Nancy reverses the order of the digits she gets $38$ 
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b:1:4</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2406,10 +2406,10 @@ Finally, if the value of the word $\text{FOAL} = 504$, work out the value of the
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:1:10</p>
 </div>
 <div class='rag'>
-<p>Lakshay Joshi</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_lj_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

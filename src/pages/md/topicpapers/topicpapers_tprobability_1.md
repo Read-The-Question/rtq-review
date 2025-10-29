@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tprobability-1"
 title: "TopicPaper - Probability - 1"
-date: 2025-10-28 15:16:47
+date: 2025-10-29 12:16:32
 questions_count: "40"
 ---
 <div class='paper'>
@@ -145,7 +145,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>75E7A90C-2653-4952-86DC-C11074CCF1D1</p>
 </div>
@@ -159,7 +159,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -289,7 +289,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9D4AAFBD-929B-4085-BF68-987E2C0DF9F0</p>
 </div>
@@ -303,7 +303,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1429,7 +1429,7 @@ None
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>241B7016-CCDD-4772-8E08-6AB8F115D0BE</p>
 </div>
@@ -1443,7 +1443,7 @@ None
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2223,7 +2223,7 @@ TODOANSWER
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>CE11E8A6-7C91-4E3C-9A27-3084EC1FE0DC</p>
 </div>
@@ -2237,7 +2237,7 @@ TODOANSWER
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2465,53 +2465,6 @@ Number roll on dice $= 4, 4, 5$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-b: is wrong, 2 * 4 * 5 = 40 we need 80
-
-
-
-factors are 1,2 4, 5 
-
-
-
-and they are not asking for arrangements, its only 4 4 5
-
-
-
-write using trial and error, we can can infer that 4 4 5 results in a product of 80.
-
-
-
-search trial and error in the repo and look for language used.
-
-
-
-a:
-
-
-
-Use the table to fill in the sum for all options
-
-use the second table to write all the probabilities, do not simplify as you did, then you cant compare fractions against each other
-
-
-
-b:
-
-
-
-i have changed the language and i have added a table to fill in the values instead of a list,
-
-
-
-if you can move the values into the table , reference would be E7E057EF-4470-4D6F-A4C3-197E843CA436
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2562,7 +2515,7 @@ if you can move the values into the table , reference would be E7E057EF-4470-4D6
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5919346F-96D5-4612-8C20-45351C26564B</p>
 </div>
@@ -2576,7 +2529,7 @@ if you can move the values into the table , reference would be E7E057EF-4470-4D6
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2932,7 +2885,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>0D2B7F88-2C1C-48AB-A6CB-3150A49A7902</p>
 </div>
@@ -2946,7 +2899,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3241,59 +3194,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-I fixed part a to some extent, change b and c on the same lines
-
-
-
-a:
-
-
-
-change list to katex matrix to show all the multiples
-
-
-
-b,c : do not show abbreviation again its already shown in part a
-
-
-
-b:
-
-
-
-change like a, matrix etc,
-
-fix the text inside P too
-
-
-
-I fixed part a to some extent, change b and c on the same lines
-
-
-
-a:
-
-
-
-change list to katex matrix to show all the multiples
-
-
-
-b,c : do not show abbreviation again its already shown in part a
-
-
-
-b:
-
-
-
-change like a, matrix etc,
-
-fix the text inside P too
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3344,7 +3244,7 @@ fix the text inside P too
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D0484192-23DF-499C-81DD-45D542B3C1F6</p>
 </div>
@@ -3358,7 +3258,7 @@ fix the text inside P too
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3616,7 +3516,7 @@ From the data we can see that 2 did not appear even once in 30 tries, so it is n
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5A70DCEF-FE47-4FB8-87E8-DC0C6A962019</p>
 </div>
@@ -3630,7 +3530,7 @@ From the data we can see that 2 did not appear even once in 30 tries, so it is n
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3762,7 +3662,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>93745B83-D2D4-49D5-B97E-768E4F37AABB</p>
 </div>
@@ -3776,7 +3676,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4055,7 +3955,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>2AC72C27-242F-4DAA-9380-C9469DCE176B</p>
 </div>
@@ -4069,7 +3969,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4334,19 +4234,6 @@ True
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-no explanation given, show probability of prime vs factor for eg
-
-
-
-b and c: write positive outcomes just before probability calculation similar to i have suggested for other questions, ask if not clear
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5950,7 +5837,7 @@ More likely: The ball shows an even number.
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3D108689-8900-415A-821C-F6F325EED378</p>
 </div>
@@ -5964,7 +5851,7 @@ More likely: The ball shows an even number.
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6159,29 +6046,6 @@ W, H
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-a: they did not ask the probability value, this should be done as table
-
-
-
-Card, Frequency and then say most common card = S
-
-
-
-
-
-b:
-
-
-
-Using the table in part a, card H and W have the same count as E so they have the same probability, no need for calculation again.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -6232,7 +6096,7 @@ Using the table in part a, card H and W have the same count as E so they have th
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>BFD242F4-6219-48DB-A84D-A172EAB41CB9</p>
 </div>
@@ -6246,7 +6110,7 @@ Using the table in part a, card H and W have the same count as E so they have th
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6311,23 +6175,6 @@ DCABE
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-use a table write this, instead of begin aligned
-
-
-
-and then write
-
-
-
-Order = D C A B E
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -6613,7 +6460,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8DA3D379-067C-4336-B7B1-3A3F092F9DBB</p>
 </div>
@@ -6627,7 +6474,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7072,15 +6919,6 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-lets discuss this, too many comments
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -7380,7 +7218,7 @@ Extra pink counters $= 10$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_red rag_prr question'>
+<div class='question_envelope rag_red rag_prns question'>
 <div class='uuid'>
 <p>5599581A-7917-4CD2-B3A4-F822DE51034E</p>
 </div>
@@ -7394,7 +7232,7 @@ Extra pink counters $= 10$
 <p>rag_wf_red</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8325,7 +8163,7 @@ $
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>98026680-F3AF-4E02-A815-2D440AD618E3</p>
 </div>
@@ -8339,7 +8177,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8769,7 +8607,7 @@ In $6$ different ways we can get a total of $7$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>AED99F47-88EE-4A5A-9A3D-364E9C9D106A</p>
 </div>
@@ -8783,7 +8621,7 @@ In $6$ different ways we can get a total of $7$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -9065,35 +8903,6 @@ Not Even
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-text is wrong in all cases, written as square number
-
-
-
-do not write all uppercase even though the question is written that way, write Not Even instead
-
-
-
-a: Should it not be even?
-
-
-
-b: working written in answer
-
-
-
-c: show favourable events close to P calculation, not outside
-
-
-
-d: same as d
-</div>
 
 <div class='review'>
 <ul class='review'>

@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tinfer-7-pr"
 title: "TopicPaper - Infer - 7 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "10"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>910987C4-E388-49E0-AFA1-AAAFE712882B</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "10"
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:27</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -86,19 +86,6 @@ How many routes are there from $A$ to $C$ via $B$?
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-16::04:30
-
-
-
-write image after all the text
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -149,7 +136,7 @@ write image after all the text
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D9AB702D-8938-485D-92AD-A2B07C1AFB23</p>
 </div>
@@ -157,13 +144,13 @@ write image after all the text
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4:1:21</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -241,23 +228,6 @@ If $x$ $\spadesuit$  $2 + 23$ find the value of $x$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-16::04:44
-
-
-
-remove weird characters and use x as the variable
-
-
-
-remove %image% and use spadesuit as the placeholder symbol, add abbreviation, ask Ansh if not clear what needs to be done.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -308,7 +278,7 @@ remove %image% and use spadesuit as the placeholder symbol, add abbreviation, as
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>33C2F5B9-0D28-49AC-8C20-06489943DBFF</p>
 </div>
@@ -316,13 +286,13 @@ remove %image% and use spadesuit as the placeholder symbol, add abbreviation, as
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -349,19 +319,6 @@ The blonde bombshells got $8$ correct and $2$ wrong. How many points did they ge
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-16::04:56
-
-
-
-remove the formula out of the box, its text so use \text
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -412,7 +369,7 @@ remove the formula out of the box, its text so use \text
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3267C8BD-925B-4AC5-BD49-E453264E07A6</p>
 </div>
@@ -420,13 +377,13 @@ remove the formula out of the box, its text so use \text
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -543,7 +500,7 @@ The largest possible multiple of $3$ (this does not have to be a three digit num
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>DE2198E0-7A04-4FE2-A625-4EE0BF800568</p>
 </div>
@@ -551,13 +508,13 @@ The largest possible multiple of $3$ (this does not have to be a three digit num
 <p>tonbridge-school--scholarship--maths--2016--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -727,7 +684,7 @@ How might you write the entry in Column $A$ for Row $n?$
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E7668758-CCEF-4EE2-960D-669E1320292D</p>
 </div>
@@ -735,13 +692,13 @@ How might you write the entry in Column $A$ for Row $n?$
 <p>tonbridge-school--scholarship--maths--2016--sample-paper-2:1:7</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -893,7 +850,7 @@ Find another value of $\text{n}$ (other than $\text{n} = 4$) for which the answe
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D94ED5BF-6E38-4E52-A9D0-A593BFD476A2</p>
 </div>
@@ -901,13 +858,13 @@ Find another value of $\text{n}$ (other than $\text{n} = 4$) for which the answe
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -981,19 +938,6 @@ In each of the sets of boxes below there is a close connection between the top n
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-20::05:37
-
-
-
-all columns are not centre aligned, add : to centre align all columns
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1044,7 +988,7 @@ all columns are not centre aligned, add : to centre align all columns
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>AC1F63D3-0C3F-4614-A401-413E2D65BBEE</p>
 </div>
@@ -1052,13 +996,13 @@ all columns are not centre aligned, add : to centre align all columns
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1128,19 +1072,6 @@ Scoring $8$ is as equally likety on $A$ as on $B$.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-20::05:38
-
-
-
-remove quotes around numbers, not looking good, just write the number in katex
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1191,7 +1122,7 @@ remove quotes around numbers, not looking good, just write the number in katex
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3A8C19CB-9DD5-4DAE-9760-B816D85E9FD0</p>
 </div>
@@ -1199,13 +1130,13 @@ remove quotes around numbers, not looking good, just write the number in katex
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1:2:12</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1246,19 +1177,6 @@ $\spadesuit + \spadesuit = 15$
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Reviewer: [up] Date:2022-10-27::15:22
-
-
-
-change all symbols to \spadesuit and add abbreviation for correct symbol
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1309,7 +1227,7 @@ change all symbols to \spadesuit and add abbreviation for correct symbol
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8A75A920-64C5-4CD7-82F7-E2F41DA1FBFA</p>
 </div>
@@ -1317,13 +1235,13 @@ change all symbols to \spadesuit and add abbreviation for correct symbol
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:2:10</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2009-sample-paper-13"
 title: "Oundle School - 11 Plus - Maths - 2009 - Sample Paper 13"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "25"
 ---
 <div class='paper'>

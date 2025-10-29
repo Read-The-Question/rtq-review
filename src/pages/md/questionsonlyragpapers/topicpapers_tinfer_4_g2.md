@@ -1,7 +1,7 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-tinfer-4-g2"
 title: "TopicPaper - Infer - 4 - G2"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "19"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "19"
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3:1:21</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -174,10 +174,10 @@ Using each of the first four numbers in the list once $(6, 10, 17, 30)$ and any 
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:38</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -257,10 +257,10 @@ Both $4$ and $8$ can be written as the sum of two prime numbers $(4 = 2 + 2, 8 =
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -354,10 +354,10 @@ $\boxed{\phantom{1}} \boxed{\phantom{1}} \ \times \ \boxed{\phantom{1}}\boxed{\p
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:2:2</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -448,10 +448,10 @@ the totals of each column. Which numbers should replace each of the letters?
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:2:7</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -535,10 +535,10 @@ How many of such numbers are there between $10$ and $1000 \text{?}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:2:10</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -634,10 +634,10 @@ Which one of these diagrams does not fit?
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:3:2</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -725,10 +725,10 @@ Prove that the rectangle can be tiled by these T-tetrominoes so that it is cover
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:3:4</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -929,10 +929,10 @@ Give reasons for your answer(s).
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:3:7</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1024,10 +1024,10 @@ You can use the diagrams below to help.
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:24</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1117,10 +1117,10 @@ At what station did these four passengers get off the train?
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:1:25</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1242,10 +1242,10 @@ $\\\\$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:1:29</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1370,10 +1370,10 @@ Complete the triangle of numbers:
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:22</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1479,7 +1479,7 @@ Which two rectangles in the list below are similar?
 </div>
 </li>
 <li class='questionContainer'>
-<div class='question_envelope rag_g2 rag_prpcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>7A744AD5-F944-4C41-802C-1A451D6B7ADC</p>
 </div>
@@ -1487,13 +1487,13 @@ Which two rectangles in the list below are similar?
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:24</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1580,10 +1580,10 @@ Complete the multiplication table.
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:21</p>
 </div>
 <div class='rag'>
-<p>Anirudh Yadav</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ay_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1714,10 +1714,10 @@ It is a cold rainy day. I wear my raincoat, hat and no gloves.
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:24</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1819,10 +1819,10 @@ Put your answer in the crate drawn below
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:35</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1914,10 +1914,10 @@ The paper is unfolded. Which diagram shows what the paper looks like?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:37</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2038,10 +2038,10 @@ How old is Anne?
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:30</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

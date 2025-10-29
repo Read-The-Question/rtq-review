@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2009-arithmetic-1"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2009 - Arithmetic 1"
-date: 2025-10-28 15:13:49
+date: 2025-10-29 12:11:05
 questions_count: "20"
 ---
 <div class='paper'>

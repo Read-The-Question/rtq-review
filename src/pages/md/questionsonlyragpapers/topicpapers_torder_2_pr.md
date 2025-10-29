@@ -1,12 +1,12 @@
 ---
 slug: "questionsonlyragpapers/topicpapers-torder-2-pr"
 title: "TopicPaper - Order - 2 - PR"
-date: 2025-10-28 15:23:52
+date: 2025-10-29 12:23:53
 questions_count: "1"
 ---
 <ul class='question default-decimal question_type_question list_type_default-decimal'>
 <li class='questionContainer'>
-<div class='question_envelope rag_pr rag_prpcc question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C317FFB3-531A-4B29-B714-8A597C1050E8</p>
 </div>
@@ -14,13 +14,13 @@ questions_count: "1"
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:4</p>
 </div>
 <div class='rag'>
-<p>Ansh Khattar</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -43,15 +43,6 @@ $3.33, \quad 3.03, \quad 3.3, \quad 3, \quad 3.303$
 </code></pre>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Use quad
-</div>
 
 <div class='review'>
 <ul class='review'>

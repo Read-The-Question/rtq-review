@@ -1,5 +1,5 @@
 // const url = '#{baseUrl}/removesubtag';
-const baseUrl = "https://localhost:4567";
+const baseUrl = "http://localhost:4567";
 
 const removeSubTag = (event) => {
   // console.log(`Submit review for: UUID: ${uuid}, sheet: ${sheet}, Review RAG: ${rag}`)
@@ -13,7 +13,7 @@ const removeSubTag = (event) => {
   console.log(body);
 
   // const url = 'http://localhost:5000/removesubtag';
-  const url = "#{baseUrl}/removesubtag";
+  const url = `${baseUrl}/removesubtag`;
 
   submitAsyncRequest(uuid, body, url, "SUBTAG");
 };
@@ -30,7 +30,7 @@ const addSubTag = (event) => {
   console.log(body);
 
   // const url = 'http://localhost:5000/addsubtag';
-  const url = "#{baseUrl}/addsubtag";
+  const url = `${baseUrl}/addsubtag`;
 
   submitAsyncRequest(uuid, body, url, "SUBTAG");
 };
@@ -52,8 +52,8 @@ const submitReview = (event) => {
   // console.log(btn.dataset);
 
   // const answer_url = 'http://localhost:5000/rag';
-  const answer_url = "#{baseUrl}/rag";
-  const question_url = "#{baseUrl}/questionrag";
+  const answer_url = `${baseUrl}/rag`;
+  const question_url = `${baseUrl}/questionrag`;
 
   if (reviewType == "REVIEW_QUESTION") {
     submitAsyncRequest(uuid, body, question_url, "REVIEW");
@@ -81,9 +81,9 @@ const submitComment = (event) => {
   const body = { uuid, sheet, comment, reviewer };
   console.log(body);
 
-//   const url = "http://localhost:5000/comments";
-  const answer_url = "#{baseUrl}/comments";
-  const question_url = "#{baseUrl}/questioncomments";
+  //   const url = "http://localhost:5000/comments";
+  const answer_url = `${baseUrl}/comments`;
+  const question_url = `${baseUrl}/questioncomments`;
 
   if (reviewType == "REVIEW_QUESTION") {
     submitAsyncRequest(uuid, body, question_url, "REVIEW");
@@ -109,8 +109,8 @@ const resetComment = (event) => {
   console.log(body);
 
   // const url = 'http://localhost:5000/comments';
-  const answer_url = "#{baseUrl}/resetanswercomments";
-  const question_url = "#{baseUrl}/resetquestioncomments";
+  const answer_url = `${baseUrl}/resetanswercomments`;
+  const question_url = `${baseUrl}/resetquestioncomments`;
 
   if (reviewType == "REVIEW_QUESTION") {
     submitAsyncRequest(uuid, body, question_url, "REVIEW");
@@ -120,6 +120,7 @@ const resetComment = (event) => {
 };
 
 async function submitAsyncRequest(uuid, body, url, reviewPrefix) {
+  console.log(`url: ${url}`);
   const review_status = document.getElementById(
     `${reviewPrefix}-STATUS-${uuid}`
   );

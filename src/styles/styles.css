@@ -91,11 +91,13 @@ img {
   border-width: 1px;
   border-color: hotpink;
   border-style: solid;
+  margin-bottom: 1em;
 }
 
 .question_envelope.question.rag_notstarted {
   /* background-color: dimgray; */
   background-color: rgba(105, 105, 105, 0.3);
+  /* margin-bottom: 4em; */
 }
 
 .question_envelope.question.rag_amber {
@@ -350,9 +352,21 @@ img {
   /* display: none; */
 }
 
+.review {
+  /* list-style-type: none; */
+  /* margin: 0; */
+  /* padding: 20px; */
+  /* width: 100%; */
+
+  border: 1px solid #e7e7e7;
+  /* background-color: #f3f3f3; */
+  background-color: white;
+  padding-top: 1em;
+}
+
 ul.review {
   list-style-type: none;
-  margin: 0;
+  /* margin: 0; */
   padding: 20px;
   /* width: 100%; */
 

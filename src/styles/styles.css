@@ -249,7 +249,7 @@ img {
 }
 
 .answer {
-  text-align: right;
+  /* text-align: right; */
   padding-right: 5em;
 
   border-width: 1px;
@@ -264,7 +264,7 @@ img {
 }
 
 .option {
-  text-align: right;
+  /* text-align: right; */
   padding-right: 5em;
 
   border-width: 1px;

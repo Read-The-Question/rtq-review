@@ -1272,49 +1272,6 @@ const IndexPage = ({ data }) => {
         </>
       )}
 
-      {showAnswersForDevelopersPhaseThree() && (
-        <>
-          <h2 style={h2HeadingStyles}>
-            Answers - Developer - Phase 3 (G3 -> G4)
-          </h2>
-
-          <h3 style={headingStyles}>
-            Answers - Phase 3 - TopicPapers - RAG - PRPCR
-          </h3>
-
-          <ul style={listStyles}>
-            {phaseThreePrpcrNodes(data).map(({ node }) => (
-              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
-                <span>
-                  <Link style={linkStyle} to={node.frontmatter.slug}>
-                    {node.frontmatter.title}{" "}
-                  </Link>
-                </span>
-
-                <span>({node.frontmatter.questions_count})</span>
-              </li>
-            ))}
-          </ul>
-
-          <h3 style={headingStyles}>
-            Answers - Phase 3 - TopicPapers - RAG - PRCR
-          </h3>
-
-          <ul style={listStyles}>
-            {phaseThreePrcrNodes(data).map(({ node }) => (
-              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
-                <span>
-                  <Link style={linkStyle} to={node.frontmatter.slug}>
-                    {node.frontmatter.title}{" "}
-                  </Link>
-                </span>
-                <span>({node.frontmatter.questions_count})</span>
-              </li>
-            ))}
-          </ul>
-        </>
-      )}
-
       {showAnswersForReviewersPhaseTwo() && (
         <>
           <h2 style={h2HeadingStyles}>
@@ -1364,6 +1321,111 @@ const IndexPage = ({ data }) => {
           {/* Filter Ragpapers and PRCC */}
           <ul style={listStyles}>
             {phaseTwoPrrlNodes(data).map(({ node }) => (
+              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+                <span>
+                  <Link style={linkStyle} to={node.frontmatter.slug}>
+                    {node.frontmatter.title}{" "}
+                  </Link>
+                </span>
+                <span>({node.frontmatter.questions_count})</span>
+              </li>
+            ))}
+          </ul>
+        </>
+      )}
+
+      {showAnswersForDevelopersPhaseThree() && (
+        <>
+          <h2 style={h2HeadingStyles}>
+            Answers - Developer - Phase 3 (G3 -> G4)
+          </h2>
+
+          <h3 style={headingStyles}>
+            Answers - Phase 3 - TopicPapers - RAG - PRPCR
+          </h3>
+
+          <ul style={listStyles}>
+            {phaseThreePrpcrNodes(data).map(({ node }) => (
+              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+                <span>
+                  <Link style={linkStyle} to={node.frontmatter.slug}>
+                    {node.frontmatter.title}{" "}
+                  </Link>
+                </span>
+
+                <span>({node.frontmatter.questions_count})</span>
+              </li>
+            ))}
+          </ul>
+
+          <h3 style={headingStyles}>
+            Answers - Phase 3 - TopicPapers - RAG - PRCR
+          </h3>
+
+          <ul style={listStyles}>
+            {phaseThreePrcrNodes(data).map(({ node }) => (
+              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+                <span>
+                  <Link style={linkStyle} to={node.frontmatter.slug}>
+                    {node.frontmatter.title}{" "}
+                  </Link>
+                </span>
+                <span>({node.frontmatter.questions_count})</span>
+              </li>
+            ))}
+          </ul>
+        </>
+      )}
+
+      {showAnswersForReviewersPhaseThree() && (
+        <>
+          <h2 style={h2HeadingStyles}>
+            Answers - Reviewer - Phase 3 (G3 -> G4)
+          </h2>
+
+          <h3 style={headingStyles}>
+            Answers - Phase 3 - TopicPapers - RAG - PRPCC
+          </h3>
+
+          {/* Filter Ragpapers and PRCC */}
+          <ul style={listStyles}>
+            {phaseThreePrpccNodes(data).map(({ node }) => (
+              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+                <span>
+                  <Link style={linkStyle} to={node.frontmatter.slug}>
+                    {node.frontmatter.title}{" "}
+                  </Link>
+                </span>
+                <span>({node.frontmatter.questions_count})</span>
+              </li>
+            ))}
+          </ul>
+
+          <h3 style={headingStyles}>
+            Answers - Phase 3 - TopicPapers - RAG - PRCC / PRNS
+          </h3>
+
+          {/* Filter Ragpapers and PRCC */}
+          <ul style={listStyles}>
+            {phaseThreePrccNodes(data).map(({ node }) => (
+              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+                <span>
+                  <Link style={linkStyle} to={node.frontmatter.slug}>
+                    {node.frontmatter.title}{" "}
+                  </Link>
+                </span>
+                <span>({node.frontmatter.questions_count})</span>
+              </li>
+            ))}
+          </ul>
+
+          <h3 style={headingStyles}>
+            Answers - Phase 3 - TopicPapers - RAG - PRRL
+          </h3>
+
+          {/* Filter Ragpapers and PRCC */}
+          <ul style={listStyles}>
+            {phaseThreePrrlNodes(data).map(({ node }) => (
               <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
                 <span>
                   <Link style={linkStyle} to={node.frontmatter.slug}>

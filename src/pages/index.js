@@ -125,6 +125,15 @@ const IndexPage = ({ data }) => {
     );
   };
 
+  const showAnswersForDevelopersPhaseThree = () => {
+    return (
+      process.env.GATSBY_REVIEW_MODE === "all" ||
+      process.env.GATSBY_REVIEW_MODE === "answers_all" ||
+      process.env.GATSBY_REVIEW_MODE === "answers_developers_all" ||
+      process.env.GATSBY_REVIEW_MODE === "answers_developers_p3"
+    );
+  };
+
   const showAnswersForPapersTopicPapers = () => {
     return (
       process.env.GATSBY_REVIEW_MODE === "all" ||
@@ -160,6 +169,15 @@ const IndexPage = ({ data }) => {
     );
   };
 
+  const showQuestionsForDevelopersPhaseThree = () => {
+    return (
+      process.env.GATSBY_REVIEW_MODE === "all" ||
+      process.env.GATSBY_REVIEW_MODE === "questions_all" ||
+      process.env.GATSBY_REVIEW_MODE === "questions_developers_all" ||
+      process.env.GATSBY_REVIEW_MODE === "questions_developers_p2"
+    );
+  };
+
   const showAnswersForReviewersPhaseZero = () => {
     return (
       process.env.GATSBY_REVIEW_MODE === "all" ||
@@ -187,6 +205,15 @@ const IndexPage = ({ data }) => {
     );
   };
 
+  const showAnswersForReviewersPhaseThree = () => {
+    return (
+      process.env.GATSBY_REVIEW_MODE === "all" ||
+      process.env.GATSBY_REVIEW_MODE === "answers_all" ||
+      process.env.GATSBY_REVIEW_MODE === "answers_reviewers_all" ||
+      process.env.GATSBY_REVIEW_MODE === "answers_reviewers_p2"
+    );
+  };
+
   const showQuestionsForReviewersPhaseZero = () => {
     return (
       process.env.GATSBY_REVIEW_MODE === "all" ||
@@ -206,6 +233,15 @@ const IndexPage = ({ data }) => {
   };
 
   const showQuestionsForReviewersPhaseTwo = () => {
+    return (
+      process.env.GATSBY_REVIEW_MODE === "all" ||
+      process.env.GATSBY_REVIEW_MODE === "questions_all" ||
+      process.env.GATSBY_REVIEW_MODE === "questions_reviewers_all" ||
+      process.env.GATSBY_REVIEW_MODE === "questions_reviewers_p2"
+    );
+  };
+
+  const showQuestionsForReviewersPhaseThree = () => {
     return (
       process.env.GATSBY_REVIEW_MODE === "all" ||
       process.env.GATSBY_REVIEW_MODE === "questions_all" ||
@@ -256,6 +292,19 @@ const IndexPage = ({ data }) => {
   };
 
   const phaseTwoQuestionsOnlyPrpccNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      // console.log(slug);
+      return (
+        slug.startsWith("questionsonlyragpapers") &&
+        slug.includes("-prpcc") &&
+        slug.includes("-g2") &&
+        !slug.includes("-prrl")
+      );
+    });
+  };
+
+  const phaseThreeQuestionsOnlyPrpccNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
@@ -325,6 +374,25 @@ const IndexPage = ({ data }) => {
     });
   };
 
+  const phaseThreeQuestionsOnlyPrccNodes = (data) => {
+    const filteredData = data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      // console.log(slug);
+      return (
+        slug.startsWith("questionsonlyragpapers") &&
+        (slug.includes("-prcc") || slug.includes("-prns")) &&
+        slug.includes("-g2") &&
+        !slug.includes("-prrl")
+      );
+    });
+
+    return filteredData.sort((a, b) => {
+      return (
+        b.node.frontmatter.questions_count - a.node.frontmatter.questions_count
+      );
+    });
+  };
+
   const phaseZeroQuestionsOnlyPrrlNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
@@ -350,6 +418,18 @@ const IndexPage = ({ data }) => {
   };
 
   const phaseTwoQuestionsOnlyPrrlNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      // console.log(slug);
+      return (
+        slug.startsWith("questionsonlyragpapers") &&
+        slug.includes("-prrl") &&
+        slug.includes("-g2")
+      );
+    });
+  };
+
+  const phaseThreeQuestionsOnlyPrrlNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
@@ -415,6 +495,24 @@ const IndexPage = ({ data }) => {
     });
   };
 
+  const phaseThreeQuestionsOnlyPrpcrNodes = (data) => {
+    const filteredData = data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      // console.log(slug);
+      return (
+        slug.startsWith("questionsonlyragpapers") &&
+        slug.includes("-g2") &&
+        slug.includes("-prpcr")
+      );
+    });
+
+    return filteredData.sort((a, b) => {
+      return (
+        b.node.frontmatter.questions_count - a.node.frontmatter.questions_count
+      );
+    });
+  };
+
   const phaseZeroQuestionsOnlyPrcrNodes = (data) => {
     const filteredData = data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
@@ -452,6 +550,24 @@ const IndexPage = ({ data }) => {
   };
 
   const phaseTwoQuestionsOnlyPrcrNodes = (data) => {
+    const filteredData = data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      // console.log(slug);
+      return (
+        slug.startsWith("questionsonlyragpapers") &&
+        slug.includes("-g2") &&
+        slug.includes("-prcr")
+      );
+    });
+
+    return filteredData.sort((a, b) => {
+      return (
+        b.node.frontmatter.questions_count - a.node.frontmatter.questions_count
+      );
+    });
+  };
+
+  const phaseThreeQuestionsOnlyPrcrNodes = (data) => {
     const filteredData = data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
@@ -593,6 +709,19 @@ const IndexPage = ({ data }) => {
     });
   };
 
+  const phaseThreePrpccNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      // console.log(slug);
+      return (
+        slug.startsWith("ragpapers") &&
+        slug.includes("-prpcc") &&
+        slug.includes("-g2") &&
+        !slug.includes("-prrl")
+      );
+    });
+  };
+
   const phaseZeroPrccNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
@@ -620,6 +749,19 @@ const IndexPage = ({ data }) => {
   };
 
   const phaseTwoPrccNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      // console.log(slug);
+      return (
+        slug.startsWith("ragpapers") &&
+        (slug.includes("-prcc") || slug.includes("-prns")) &&
+        slug.includes("-g2") &&
+        !slug.includes("-prrl")
+      );
+    });
+  };
+
+  const phaseThreePrccNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
@@ -668,6 +810,18 @@ const IndexPage = ({ data }) => {
     });
   };
 
+  const phaseThreePrrlNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      // console.log(slug);
+      return (
+        slug.startsWith("ragpapers") &&
+        slug.includes("-prrl") &&
+        slug.includes("-g2")
+      );
+    });
+  };
+
   const phaseZeroPrpcrNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
@@ -704,6 +858,18 @@ const IndexPage = ({ data }) => {
     });
   };
 
+  const phaseThreePrpcrNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      // console.log(slug);
+      return (
+        slug.startsWith("ragpapers") &&
+        slug.includes("-g2") &&
+        slug.includes("-prpcr")
+      );
+    });
+  };
+
   const phaseZeroPrcrNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
@@ -729,6 +895,18 @@ const IndexPage = ({ data }) => {
   };
 
   const phaseTwoPrcrNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      // console.log(slug);
+      return (
+        slug.startsWith("ragpapers") &&
+        slug.includes("-g2") &&
+        slug.includes("-prcr")
+      );
+    });
+  };
+
+  const phaseThreePrcrNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);

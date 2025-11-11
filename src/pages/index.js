@@ -174,7 +174,7 @@ const IndexPage = ({ data }) => {
       process.env.GATSBY_REVIEW_MODE === "all" ||
       process.env.GATSBY_REVIEW_MODE === "questions_all" ||
       process.env.GATSBY_REVIEW_MODE === "questions_developers_all" ||
-      process.env.GATSBY_REVIEW_MODE === "questions_developers_p2"
+      process.env.GATSBY_REVIEW_MODE === "questions_developers_p3"
     );
   };
 
@@ -210,7 +210,7 @@ const IndexPage = ({ data }) => {
       process.env.GATSBY_REVIEW_MODE === "all" ||
       process.env.GATSBY_REVIEW_MODE === "answers_all" ||
       process.env.GATSBY_REVIEW_MODE === "answers_reviewers_all" ||
-      process.env.GATSBY_REVIEW_MODE === "answers_reviewers_p2"
+      process.env.GATSBY_REVIEW_MODE === "answers_reviewers_p3"
     );
   };
 
@@ -246,7 +246,7 @@ const IndexPage = ({ data }) => {
       process.env.GATSBY_REVIEW_MODE === "all" ||
       process.env.GATSBY_REVIEW_MODE === "questions_all" ||
       process.env.GATSBY_REVIEW_MODE === "questions_reviewers_all" ||
-      process.env.GATSBY_REVIEW_MODE === "questions_reviewers_p2"
+      process.env.GATSBY_REVIEW_MODE === "questions_reviewers_p3"
     );
   };
 
@@ -311,7 +311,7 @@ const IndexPage = ({ data }) => {
       return (
         slug.startsWith("questionsonlyragpapers") &&
         slug.includes("-prpcc") &&
-        slug.includes("-g2") &&
+        slug.includes("-g3") &&
         !slug.includes("-prrl")
       );
     });
@@ -381,7 +381,7 @@ const IndexPage = ({ data }) => {
       return (
         slug.startsWith("questionsonlyragpapers") &&
         (slug.includes("-prcc") || slug.includes("-prns")) &&
-        slug.includes("-g2") &&
+        slug.includes("-g3") &&
         !slug.includes("-prrl")
       );
     });
@@ -436,7 +436,7 @@ const IndexPage = ({ data }) => {
       return (
         slug.startsWith("questionsonlyragpapers") &&
         slug.includes("-prrl") &&
-        slug.includes("-g2")
+        slug.includes("-g3")
       );
     });
   };
@@ -501,7 +501,7 @@ const IndexPage = ({ data }) => {
       // console.log(slug);
       return (
         slug.startsWith("questionsonlyragpapers") &&
-        slug.includes("-g2") &&
+        slug.includes("-g3") &&
         slug.includes("-prpcr")
       );
     });
@@ -573,7 +573,7 @@ const IndexPage = ({ data }) => {
       // console.log(slug);
       return (
         slug.startsWith("questionsonlyragpapers") &&
-        slug.includes("-g2") &&
+        slug.includes("-g3") &&
         slug.includes("-prcr")
       );
     });
@@ -716,7 +716,7 @@ const IndexPage = ({ data }) => {
       return (
         slug.startsWith("ragpapers") &&
         slug.includes("-prpcc") &&
-        slug.includes("-g2") &&
+        slug.includes("-g3") &&
         !slug.includes("-prrl")
       );
     });
@@ -768,7 +768,7 @@ const IndexPage = ({ data }) => {
       return (
         slug.startsWith("ragpapers") &&
         (slug.includes("-prcc") || slug.includes("-prns")) &&
-        slug.includes("-g2") &&
+        slug.includes("-g3") &&
         !slug.includes("-prrl")
       );
     });
@@ -817,7 +817,7 @@ const IndexPage = ({ data }) => {
       return (
         slug.startsWith("ragpapers") &&
         slug.includes("-prrl") &&
-        slug.includes("-g2")
+        slug.includes("-g3")
       );
     });
   };
@@ -864,7 +864,7 @@ const IndexPage = ({ data }) => {
       // console.log(slug);
       return (
         slug.startsWith("ragpapers") &&
-        slug.includes("-g2") &&
+        slug.includes("-g3") &&
         slug.includes("-prpcr")
       );
     });
@@ -912,7 +912,7 @@ const IndexPage = ({ data }) => {
       // console.log(slug);
       return (
         slug.startsWith("ragpapers") &&
-        slug.includes("-g2") &&
+        slug.includes("-g3") &&
         slug.includes("-prcr")
       );
     });

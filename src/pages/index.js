@@ -1036,6 +1036,27 @@ const IndexPage = ({ data }) => {
     });
   };
 
+  const fullTopicNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+
+      return (
+        slug.startsWith("topics") &&
+        !(
+          slug.includes("-blocked") ||
+          slug.includes("-red") ||
+          slug.includes("-notstarted") ||
+          slug.includes("-prcc") ||
+          slug.includes("-prpcc") ||
+          slug.includes("-prrl") ||
+          slug.includes("-prcr") ||
+          slug.includes("-prpcr") ||
+          slug.includes("-prns")
+        )
+      );
+    });
+  };
+
   const fullTopicPaperNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
@@ -1681,6 +1702,21 @@ const IndexPage = ({ data }) => {
 
           <ul style={listStyles}>
             {fullTopicPaperNodes(data).map(({ node }) => (
+              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+                <span>
+                  <Link style={linkStyle} to={node.frontmatter.slug}>
+                    {node.frontmatter.title}{" "}
+                  </Link>
+                </span>
+                <span>({node.frontmatter.questions_count})</span>
+              </li>
+            ))}
+          </ul>
+
+          <h3 style={headingStyles}>Answers - Topics</h3>
+
+          <ul style={listStyles}>
+            {fullTopicNodes(data).map(({ node }) => (
               <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
                 <span>
                   <Link style={linkStyle} to={node.frontmatter.slug}>

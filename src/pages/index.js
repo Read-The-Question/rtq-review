@@ -1043,15 +1043,17 @@ const IndexPage = ({ data }) => {
       return (
         slug.startsWith("topics") &&
         !(
-          slug.includes("-blocked") ||
-          slug.includes("-red") ||
-          slug.includes("-notstarted") ||
-          slug.includes("-prcc") ||
-          slug.includes("-prpcc") ||
-          slug.includes("-prrl") ||
-          slug.includes("-prcr") ||
-          slug.includes("-prpcr") ||
-          slug.includes("-prns")
+          // slug.includes("-blocked") ||
+          // slug.includes("-red") ||
+          // slug.includes("-notstarted") ||
+          (
+            slug.includes("-prcc") ||
+            slug.includes("-prpcc") ||
+            slug.includes("-prrl") ||
+            slug.includes("-prcr") ||
+            slug.includes("-prpcr") ||
+            slug.includes("-prns")
+          )
         )
       );
     });

@@ -1101,6 +1101,27 @@ const IndexPage = ({ data }) => {
     });
   };
 
+  const fullAiPaperNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+
+      return (
+        slug.startsWith("aipapers") &&
+        !(
+          slug.includes("-blocked") ||
+          slug.includes("-red") ||
+          slug.includes("-notstarted") ||
+          slug.includes("-prcc") ||
+          slug.includes("-prpcc") ||
+          slug.includes("-prrl") ||
+          slug.includes("-prcr") ||
+          slug.includes("-prpcr") ||
+          slug.includes("-prns")
+        )
+      );
+    });
+  };
+
   return (
     <main style={pageStyles}>
       <title>Home Page</title>
@@ -1729,6 +1750,29 @@ const IndexPage = ({ data }) => {
               </li>
             ))}
           </ul>
+
+
+
+
+
+
+          <h2 style={h2HeadingStyles}>AI - Answers - Complete Papers</h2>
+
+          <h3 style={headingStyles}>AI - Answers - Papers</h3>
+
+          <ul style={listStyles}>
+            {fullAiPaperNodes(data).map(({ node }) => (
+              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+                <span>
+                  <Link style={linkStyle} to={node.frontmatter.slug}>
+                    {node.frontmatter.title}{" "}
+                  </Link>
+                </span>
+                <span>({node.frontmatter.questions_count})</span>
+              </li>
+            ))}
+          </ul>
+
         </>
       )}
 

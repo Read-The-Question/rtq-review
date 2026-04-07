@@ -1,0 +1,18161 @@
+---
+slug: "topics/topic-tpermutation-all"
+title: "Topic - Permutation - All"
+date: 2026-04-07 08:55:53
+questions_count: "54"
+---
+<ul class="question default-decimal question_type_question list_type_default-decimal">
+<li class="questionContainer">
+<div class="question_envelope rag_red rag_prns question">
+<div class="uuid">
+<p>0C19F5B4-A542-431A-BD14-2E771AE5B4BA</p>
+</div>
+<div class="papername">
+<p>bancrofts-school--11-plus--maths--2020--sample-paper-6:1:28</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_red</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+In a game you need to get three coloured discs (green, blue and red) in the correct order.
+
+Three attempts have been made and are shown below, with the number of discs that are in the correct positions.
+
+What is the correct order for the three coloured discs?
+
+|  POSITION $1$  |  POSITION 2  |  POSITION 3  |    NUMBER CORRECT |
+|:--------------:|:------------:|:------------:|:-----------------:|
+|      Red       |     Blue     |    Green     |        One        |
+|      Red       |    Green     |    Blue      |       None        |
+|     Green      |     Blue     |     Red      |       None        |
+
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">In a game you need to get three coloured discs (green, blue and red) in the correct order.
+<emptyline>
+Three attempts have been made and are shown below, with the number of discs that are in the correct positions.
+<emptyline>
+What is the correct order for the three coloured discs?
+<emptyline>
+|  POSITION $1$  |  POSITION 2  |  POSITION 3  |    NUMBER CORRECT |
+|:--------------:|:------------:|:------------:|:-----------------:|
+|      Red       |     Blue     |    Green     |        One        |
+|      Red       |    Green     |    Blue      |       None        |
+|     Green      |     Blue     |     Red      |       None        |
+<emptyline>
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+TODOWORKING
+</div>
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+TODOWORKING
+</div>
+</div>
+<div class="answers">
+<div class="answer placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+TODOANSWER
+
+</div>
+<div class="answer placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+TODOANSWER
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">TODOWORKING
+</code></pre>
+</div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">TODOANSWER
+</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">TODOANSWER
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="" data-uuid="0C19F5B4-A542-431A-BD14-2E771AE5B4BA" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="" data-uuid="0C19F5B4-A542-431A-BD14-2E771AE5B4BA" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="" data-uuid="0C19F5B4-A542-431A-BD14-2E771AE5B4BA" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="" data-uuid="0C19F5B4-A542-431A-BD14-2E771AE5B4BA" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="" data-uuid="0C19F5B4-A542-431A-BD14-2E771AE5B4BA" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="" data-uuid="0C19F5B4-A542-431A-BD14-2E771AE5B4BA" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="" data-uuid="0C19F5B4-A542-431A-BD14-2E771AE5B4BA" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="" data-uuid="0C19F5B4-A542-431A-BD14-2E771AE5B4BA" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="" data-uuid="0C19F5B4-A542-431A-BD14-2E771AE5B4BA" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="" data-uuid="0C19F5B4-A542-431A-BD14-2E771AE5B4BA" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="" data-uuid="0C19F5B4-A542-431A-BD14-2E771AE5B4BA" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="" data-uuid="0C19F5B4-A542-431A-BD14-2E771AE5B4BA" id="FORM-0C19F5B4-A542-431A-BD14-2E771AE5B4BA" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-0C19F5B4-A542-431A-BD14-2E771AE5B4BA">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_notstarted rag_prns question">
+<div class="uuid">
+<p>8CF58E74-C107-4A52-9289-06C17155699C</p>
+</div>
+<div class="papername">
+<p>bancrofts-school--11-plus--maths--9999--sample-paper-8:1:12</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_notstarted</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Ten balls are put into a bag. On each ball is a number from $1$ to $10$. 
+
+The $1^\text{st}$ ball has the number $1$ on it.
+
+The $2^\text{nd}$ ball has the number $2$ on it, and so on.
+
+$3$ balls are taken out and numbers on them are multiplied together. The result is a square number.
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Ten balls are put into a bag. On each ball is a number from $1$ to $10$. 
+<emptyline>
+The $1^\text{st}$ ball has the number $1$ on it.
+<emptyline>
+The $2^\text{nd}$ ball has the number $2$ on it, and so on.
+<emptyline>
+$3$ balls are taken out and numbers on them are multiplied together. The result is a square number.
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+TODOWORKING
+</div>
+</div>
+<div class="answers">
+<div class="answer placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+TODOANSWER
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">TODOANSWER
+</code></pre>
+</div>
+</div>
+<ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Which number ball was definitely not taken out?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Which number ball was definitely not taken out?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+TODOWORKING
+</div>
+</div>
+<div class="answers">
+<div class="answer placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+TODOANSWER
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">TODOANSWER
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+We now learn that the number $5$ was included in the numbers that were taken. There are two options for what numbers were on the other two balls.
+
+What are those two options?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">We now learn that the number $5$ was included in the numbers that were taken. There are two options for what numbers were on the other two balls.
+<emptyline>
+What are those two options?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+TODOWORKING
+</div>
+</div>
+<div class="answers">
+<div class="answer placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+TODOANSWER
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">TODOANSWER
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+All the balls are placed back and three more balls are pulled out. The numbers on the balls are multiplied together and the result is again a square number. 
+
+Two of the balls are $2$ and $8$.
+
+Write down all the different options for what the $3^\text{rd}$ ball could be?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">All the balls are placed back and three more balls are pulled out. The numbers on the balls are multiplied together and the result is again a square number. 
+<emptyline>
+Two of the balls are $2$ and $8$.
+<emptyline>
+Write down all the different options for what the $3^\text{rd}$ ball could be?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+TODOWORKING
+</div>
+</div>
+<div class="answers">
+<div class="answer placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+TODOANSWER
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">TODOANSWER
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="8CF58E74-C107-4A52-9289-06C17155699C" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="8CF58E74-C107-4A52-9289-06C17155699C" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="8CF58E74-C107-4A52-9289-06C17155699C" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="8CF58E74-C107-4A52-9289-06C17155699C" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="8CF58E74-C107-4A52-9289-06C17155699C" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="8CF58E74-C107-4A52-9289-06C17155699C" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="8CF58E74-C107-4A52-9289-06C17155699C" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="8CF58E74-C107-4A52-9289-06C17155699C" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="8CF58E74-C107-4A52-9289-06C17155699C" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="8CF58E74-C107-4A52-9289-06C17155699C" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NS" data-uuid="8CF58E74-C107-4A52-9289-06C17155699C" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="8CF58E74-C107-4A52-9289-06C17155699C" id="FORM-8CF58E74-C107-4A52-9289-06C17155699C" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-8CF58E74-C107-4A52-9289-06C17155699C">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g3 rag_prns question">
+<div class="uuid">
+<p>46E107A3-0905-4217-99F1-812F3AB41832</p>
+</div>
+<div class="papername">
+<p>brentwood-school--11-plus--maths--9999--sample-paper-1:2:12</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g3</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+%empty%
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+%empty%
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+%empty%
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+</div>
+<ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+How many triangles are there in this picture?
+
+![papers/brentwood-school/sample/sample-paper-1/s02-q12-s01-i00.png](/assets/papers/brentwood-school/sample/sample-paper-1/s02-q12-s01-i00.png "papers/brentwood-school/sample/sample-paper-1/s02-q12-s01-i00.png")
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">How many triangles are there in this picture?
+<emptyline>
+%image%
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+$
+\begin{aligned}
+\text{Number of small triangles}    &= 4 \\\\
+\text{Number of large triangles}    &= 1 \\\\
+\text{Total triangles}              &= 4 + 1  \\\\
+                                    &= 5
+\end{aligned}
+$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$5$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$
+\begin{aligned}
+\text{Number of small triangles}    &= 4 \\\\
+\text{Number of large triangles}    &= 1 \\\\
+\text{Total triangles}              &= 4 + 1  \\\\
+                                    &= 5
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$5$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Individual triangles are to be painted BLUE or RED, so that no adjoining triangles have the same colour. 
+In how many ways can this be done?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Individual triangles are to be painted BLUE or RED, so that no adjoining triangles have the same colour. 
+In how many ways can this be done?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+If we use blue in the centre triangle, the only possible option for other adjoining triangles is red.
+
+If we use red in the centre triangle, the only possible option for other adjoining triangles is blue.
+
+Total Count $= 1 + 1 = 2$
+</div>
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Using permutation,
+
+Number of ways of painting the centre triangle (red or blue) $= 2$
+
+Number of ways of painting the remaining adjoining triangles $= 1$
+
+Total arrangements $= 2 \times 1 = 2$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$2$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">If we use blue in the centre triangle, the only possible option for other adjoining triangles is red.
+<emptyline>
+If we use red in the centre triangle, the only possible option for other adjoining triangles is blue.
+<emptyline>
+Total Count $= 1 + 1 = 2$
+</code></pre>
+</div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Using permutation,
+<emptyline>
+Number of ways of painting the centre triangle (red or blue) $= 2$
+<emptyline>
+Number of ways of painting the remaining adjoining triangles $= 1$
+<emptyline>
+Total arrangements $= 2 \times 1 = 2$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$2$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="46E107A3-0905-4217-99F1-812F3AB41832" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="46E107A3-0905-4217-99F1-812F3AB41832" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="46E107A3-0905-4217-99F1-812F3AB41832" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="46E107A3-0905-4217-99F1-812F3AB41832" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="46E107A3-0905-4217-99F1-812F3AB41832" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="46E107A3-0905-4217-99F1-812F3AB41832" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="46E107A3-0905-4217-99F1-812F3AB41832" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="46E107A3-0905-4217-99F1-812F3AB41832" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="46E107A3-0905-4217-99F1-812F3AB41832" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="46E107A3-0905-4217-99F1-812F3AB41832" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G3" data-uuid="46E107A3-0905-4217-99F1-812F3AB41832" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="46E107A3-0905-4217-99F1-812F3AB41832" id="FORM-46E107A3-0905-4217-99F1-812F3AB41832" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-46E107A3-0905-4217-99F1-812F3AB41832">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g2 rag_prns question">
+<div class="uuid">
+<p>CE2F50A4-A29C-4267-8728-7D80877E6590</p>
+</div>
+<div class="papername">
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-a:1:18</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+On the island of Pythageuleria all vehicle number plates have $2$ letters from the selection $\text {A, B, C, D}$ followed by a number 
+$1, 2, 3$ or $4$. 
+
+For example:
+
+$\boxed{ \text {A D 1} } \qquad 
+\boxed{ \text {A D 4} } \qquad 
+\boxed{ \text {C A 3} } \qquad 
+\boxed{ \text {D D 2} }$
+
+Note that repeated letters are allowed.
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">On the island of Pythageuleria all vehicle number plates have $2$ letters from the selection $\text {A, B, C, D}$ followed by a number 
+$1, 2, 3$ or $4$. 
+<emptyline>
+For example:
+<emptyline>
+$\boxed{ \text {A D 1} } \qquad 
+\boxed{ \text {A D 4} } \qquad 
+\boxed{ \text {C A 3} } \qquad 
+\boxed{ \text {D D 2} }$
+<emptyline>
+Note that repeated letters are allowed.
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+%empty%
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+%empty%
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+</div>
+<ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Calculate how many plates start with a double $\text{B}$.
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Calculate how many plates start with a double $\text{B}$.
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+The possible arrangements are:
+
+- $\text{BB1}$
+- $\text{BB2}$
+- $\text{BB3}$
+- $\text{BB4}$
+
+Total count $= 4$
+</div>
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Using permutation,
+
+Number of letters that can be used in the first place $= 1$
+
+Number of letters that can be used in the second place $= 1$
+
+Number of digits that can be used in the third place $= 4$
+
+Total arrangements $= 1 \times 1 \times 4 = 4$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$4$  
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The possible arrangements are:
+<emptyline>
+- $\text{BB1}$
+- $\text{BB2}$
+- $\text{BB3}$
+- $\text{BB4}$
+<emptyline>
+Total count $= 4$
+</code></pre>
+</div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Using permutation,
+<emptyline>
+Number of letters that can be used in the first place $= 1$
+<emptyline>
+Number of letters that can be used in the second place $= 1$
+<emptyline>
+Number of digits that can be used in the third place $= 4$
+<emptyline>
+Total arrangements $= 1 \times 1 \times 4 = 4$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$4$  
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Calculate how many plates there are that start with any repeated letter.
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Calculate how many plates there are that start with any repeated letter.
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+If we use double $\text{A}$ in the first and the second place, the possible arrangements are:
+
+- $\text{AA1}$
+- $\text{AA2}$
+- $\text{AA3}$
+- $\text{AA4}$
+
+Count $= 4$
+
+If we use double $\text{B}$ in the first and the second place, the possible arrangements are:
+
+- $\text{BB1}$
+- $\text{BB2}$
+- $\text{BB3}$
+- $\text{BB4}$
+
+Count $= 4$
+
+If we use double $\text{C}$ in the first and the second place, the possible arrangements are:
+
+- $\text{CC1}$
+- $\text{CC2}$
+- $\text{CC3}$
+- $\text{CC4}$
+
+Count $= 4$
+
+If we use double $\text{D}$ in the first and the second place, the possible arrangements are:
+
+- $\text{DD1}$
+- $\text{DD2}$
+- $\text{DD3}$
+- $\text{DD4}$
+
+Count $= 4$
+
+Total count $= 4 + 4 + 4 + 4 = 16$
+</div>
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Using permutation,
+
+Number of letters that can be used in the first place $(\text{A B C D}) = 4$
+
+Number of letters that can be used in the second place (same as first letter) $= 1$
+
+Number of digits that can be used in the third place $= 4$
+
+Total arrangements $= 4 \times 1 \times 4 = 16$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$16$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">If we use double $\text{A}$ in the first and the second place, the possible arrangements are:
+<emptyline>
+- $\text{AA1}$
+- $\text{AA2}$
+- $\text{AA3}$
+- $\text{AA4}$
+<emptyline>
+Count $= 4$
+<emptyline>
+If we use double $\text{B}$ in the first and the second place, the possible arrangements are:
+<emptyline>
+- $\text{BB1}$
+- $\text{BB2}$
+- $\text{BB3}$
+- $\text{BB4}$
+<emptyline>
+Count $= 4$
+<emptyline>
+If we use double $\text{C}$ in the first and the second place, the possible arrangements are:
+<emptyline>
+- $\text{CC1}$
+- $\text{CC2}$
+- $\text{CC3}$
+- $\text{CC4}$
+<emptyline>
+Count $= 4$
+<emptyline>
+If we use double $\text{D}$ in the first and the second place, the possible arrangements are:
+<emptyline>
+- $\text{DD1}$
+- $\text{DD2}$
+- $\text{DD3}$
+- $\text{DD4}$
+<emptyline>
+Count $= 4$
+<emptyline>
+Total count $= 4 + 4 + 4 + 4 = 16$
+</code></pre>
+</div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Using permutation,
+<emptyline>
+Number of letters that can be used in the first place $(\text{A B C D}) = 4$
+<emptyline>
+Number of letters that can be used in the second place (same as first letter) $= 1$
+<emptyline>
+Number of digits that can be used in the third place $= 4$
+<emptyline>
+Total arrangements $= 4 \times 1 \times 4 = 16$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$16$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Calculate how many plates contain just one vowel and an odd number.
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Calculate how many plates contain just one vowel and an odd number.
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+If we use $\text{A}$ in the first place, the possible arrangements are:
+
+- $\text{AB1}$
+- $\text{AB3}$
+- $\text{AC1}$
+- $\text{AC3}$
+- $\text{AD1}$
+- $\text{AD3}$
+
+Count $= 6$
+
+If we use $\text{A}$ in the second place, the possible arrangements are:
+
+- $\text{BA1}$
+- $\text{BA3}$
+- $\text{CA1}$
+- $\text{CA3}$
+- $\text{DA1}$
+- $\text{DA3}$
+
+Count $= 6$
+
+Total count $= 6 + 6 = 12$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$12$  
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">If we use $\text{A}$ in the first place, the possible arrangements are:
+<emptyline>
+- $\text{AB1}$
+- $\text{AB3}$
+- $\text{AC1}$
+- $\text{AC3}$
+- $\text{AD1}$
+- $\text{AD3}$
+<emptyline>
+Count $= 6$
+<emptyline>
+If we use $\text{A}$ in the second place, the possible arrangements are:
+<emptyline>
+- $\text{BA1}$
+- $\text{BA3}$
+- $\text{CA1}$
+- $\text{CA3}$
+- $\text{DA1}$
+- $\text{DA3}$
+<emptyline>
+Count $= 6$
+<emptyline>
+Total count $= 6 + 6 = 12$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$12$  
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Given that there are $64$ possible codes in total, calculate what fraction of the number plates have their own two letters in 
+alphabetical order, giving your answer in its lowest form.
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Given that there are $64$ possible codes in total, calculate what fraction of the number plates have their own two letters in 
+alphabetical order, giving your answer in its lowest form.
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+If we use $\text{A}$ in the first place, the possible arrangements are:
+
+$
+\begin{matrix}
+\text{AB1}  &  \text{AB2}  &  \text{AB3}  &  \text{AB4} \\
+\text{AC1}  &  \text{AC2}  &  \text{AC3}  &  \text{AC4} \\
+\text{AD1}  &  \text{AD2}  &  \text{AD3}  &  \text{AD4} \\
+\end{matrix}
+$
+
+Count $=12$
+
+If we use $\text{B}$ in the first place, the possible arrangements are:
+
+$
+\begin{matrix}
+\text{BC1}  &  \text{BC2}  &  \text{BC3}  &  \text{BC4} \\
+\text{BD1}  &  \text{BD2}  &  \text{BD3}  &  \text{BD4} \\
+\end{matrix}
+$
+
+Count $=8$
+
+If we use $\text{C}$ in the first place, the possible arrangements are:
+
+$
+\begin{matrix}
+\text{CD1}  &  \text{CD2}  &  \text{CD3}  &  \text{CD4} \\
+\end{matrix}
+$
+
+Count $=4$
+
+$
+\begin{aligned}
+\text{Fraction} &= \dfrac {12 + 8 + 4} {64} \\\\
+                &= \dfrac {24} {64} \\\\
+                &= \dfrac {8 \times 3} {8 \times 8} \\\\
+                &= \dfrac {\cancel{8} \times 3} {\cancel{8} \times 8} \\\\
+                &= \dfrac {3} {8}
+\end{aligned}
+$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$\dfrac {3} {8}$ 
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">If we use $\text{A}$ in the first place, the possible arrangements are:
+<emptyline>
+$
+\begin{matrix}
+\text{AB1}  &  \text{AB2}  &  \text{AB3}  &  \text{AB4} \\
+\text{AC1}  &  \text{AC2}  &  \text{AC3}  &  \text{AC4} \\
+\text{AD1}  &  \text{AD2}  &  \text{AD3}  &  \text{AD4} \\
+\end{matrix}
+$
+<emptyline>
+Count $=12$
+<emptyline>
+If we use $\text{B}$ in the first place, the possible arrangements are:
+<emptyline>
+$
+\begin{matrix}
+\text{BC1}  &  \text{BC2}  &  \text{BC3}  &  \text{BC4} \\
+\text{BD1}  &  \text{BD2}  &  \text{BD3}  &  \text{BD4} \\
+\end{matrix}
+$
+<emptyline>
+Count $=8$
+<emptyline>
+If we use $\text{C}$ in the first place, the possible arrangements are:
+<emptyline>
+$
+\begin{matrix}
+\text{CD1}  &  \text{CD2}  &  \text{CD3}  &  \text{CD4} \\
+\end{matrix}
+$
+<emptyline>
+Count $=4$
+<emptyline>
+$
+\begin{aligned}
+\text{Fraction} &= \dfrac {12 + 8 + 4} {64} \\\\
+                &= \dfrac {24} {64} \\\\
+                &= \dfrac {8 \times 3} {8 \times 8} \\\\
+                &= \dfrac {\cancel{8} \times 3} {\cancel{8} \times 8} \\\\
+                &= \dfrac {3} {8}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$\dfrac {3} {8}$ 
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G2" data-uuid="CE2F50A4-A29C-4267-8728-7D80877E6590" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G2" data-uuid="CE2F50A4-A29C-4267-8728-7D80877E6590" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G2" data-uuid="CE2F50A4-A29C-4267-8728-7D80877E6590" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G2" data-uuid="CE2F50A4-A29C-4267-8728-7D80877E6590" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G2" data-uuid="CE2F50A4-A29C-4267-8728-7D80877E6590" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G2" data-uuid="CE2F50A4-A29C-4267-8728-7D80877E6590" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G2" data-uuid="CE2F50A4-A29C-4267-8728-7D80877E6590" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G2" data-uuid="CE2F50A4-A29C-4267-8728-7D80877E6590" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G2" data-uuid="CE2F50A4-A29C-4267-8728-7D80877E6590" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G2" data-uuid="CE2F50A4-A29C-4267-8728-7D80877E6590" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G2" data-uuid="CE2F50A4-A29C-4267-8728-7D80877E6590" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G2" data-uuid="CE2F50A4-A29C-4267-8728-7D80877E6590" id="FORM-CE2F50A4-A29C-4267-8728-7D80877E6590" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-CE2F50A4-A29C-4267-8728-7D80877E6590">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_notstarted rag_prns question">
+<div class="uuid">
+<p>2CFBE87D-AA61-47CC-8300-4408B53687FA</p>
+</div>
+<div class="papername">
+<p>eltham-college--11-plus--maths--2020--sample-paper-5:1:20</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_notstarted</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+A lady bird has landed at point P on Sam’s bow-tie. If it travels only along the edges of the bow-tie, but cannot travel along one edge more than once, how many different ways are there for it to get from $P$ to $Q?$
+
+![papers/eltham-college/2020/sample-paper-5/s01-q20-i00.png](/assets/papers/eltham-college/2020/sample-paper-5/s01-q20-i00.png "papers/eltham-college/2020/sample-paper-5/s01-q20-i00.png")
+
+- $1$ 
+- $2$ 
+- $3$ 
+- $4$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">A lady bird has landed at point P on Sam’s bow-tie. If it travels only along the edges of the bow-tie, but cannot travel along one edge more than once, how many different ways are there for it to get from $P$ to $Q?$
+<emptyline>
+%image%
+<emptyline>
+- $1$ 
+- $2$ 
+- $3$ 
+- $4$
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+TODOWORKING
+</div>
+</div>
+<div class="answers">
+<div class="answer placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+TODOANSWER
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">TODOANSWER
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="2CFBE87D-AA61-47CC-8300-4408B53687FA" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="2CFBE87D-AA61-47CC-8300-4408B53687FA" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="2CFBE87D-AA61-47CC-8300-4408B53687FA" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="2CFBE87D-AA61-47CC-8300-4408B53687FA" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="2CFBE87D-AA61-47CC-8300-4408B53687FA" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="2CFBE87D-AA61-47CC-8300-4408B53687FA" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="2CFBE87D-AA61-47CC-8300-4408B53687FA" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="2CFBE87D-AA61-47CC-8300-4408B53687FA" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="2CFBE87D-AA61-47CC-8300-4408B53687FA" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="2CFBE87D-AA61-47CC-8300-4408B53687FA" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NS" data-uuid="2CFBE87D-AA61-47CC-8300-4408B53687FA" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="2CFBE87D-AA61-47CC-8300-4408B53687FA" id="FORM-2CFBE87D-AA61-47CC-8300-4408B53687FA" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-2CFBE87D-AA61-47CC-8300-4408B53687FA">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_notstarted rag_prns question">
+<div class="uuid">
+<p>DECB4232-BF9F-42C1-9888-7F8C6B30894F</p>
+</div>
+<div class="papername">
+<p>forest-school--11-plus--maths--2012--sample-paper-4:1:14</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_notstarted</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Four friends each spent good luck cards to each other. How many cards were sent altogether?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Four friends each spent good luck cards to each other. How many cards were sent altogether?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+TODOWORKING
+</div>
+</div>
+<div class="answers">
+<div class="answer placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+TODOANSWER
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">TODOANSWER
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="DECB4232-BF9F-42C1-9888-7F8C6B30894F" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="DECB4232-BF9F-42C1-9888-7F8C6B30894F" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="DECB4232-BF9F-42C1-9888-7F8C6B30894F" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="DECB4232-BF9F-42C1-9888-7F8C6B30894F" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="DECB4232-BF9F-42C1-9888-7F8C6B30894F" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="DECB4232-BF9F-42C1-9888-7F8C6B30894F" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="DECB4232-BF9F-42C1-9888-7F8C6B30894F" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="DECB4232-BF9F-42C1-9888-7F8C6B30894F" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="DECB4232-BF9F-42C1-9888-7F8C6B30894F" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="DECB4232-BF9F-42C1-9888-7F8C6B30894F" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NS" data-uuid="DECB4232-BF9F-42C1-9888-7F8C6B30894F" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="DECB4232-BF9F-42C1-9888-7F8C6B30894F" id="FORM-DECB4232-BF9F-42C1-9888-7F8C6B30894F" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-DECB4232-BF9F-42C1-9888-7F8C6B30894F">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_notstarted rag_prns question">
+<div class="uuid">
+<p>AA4B6F6B-3C09-4EB2-83F5-16AA18CD8174</p>
+</div>
+<div class="papername">
+<p>forest-school--11-plus--maths--2012--sample-paper-4:1:24</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_notstarted</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+A palindromic number is the same when written backwards as forwards, e.g $454$ is a palindromic number. How many palindromic numbers are there between $100$ and $200?$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">A palindromic number is the same when written backwards as forwards, e.g $454$ is a palindromic number. How many palindromic numbers are there between $100$ and $200?$
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+TODOWORKING
+</div>
+</div>
+<div class="answers">
+<div class="answer placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+TODOANSWER
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">TODOANSWER
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="AA4B6F6B-3C09-4EB2-83F5-16AA18CD8174" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="AA4B6F6B-3C09-4EB2-83F5-16AA18CD8174" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="AA4B6F6B-3C09-4EB2-83F5-16AA18CD8174" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="AA4B6F6B-3C09-4EB2-83F5-16AA18CD8174" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="AA4B6F6B-3C09-4EB2-83F5-16AA18CD8174" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="AA4B6F6B-3C09-4EB2-83F5-16AA18CD8174" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="AA4B6F6B-3C09-4EB2-83F5-16AA18CD8174" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="AA4B6F6B-3C09-4EB2-83F5-16AA18CD8174" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="AA4B6F6B-3C09-4EB2-83F5-16AA18CD8174" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="AA4B6F6B-3C09-4EB2-83F5-16AA18CD8174" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NS" data-uuid="AA4B6F6B-3C09-4EB2-83F5-16AA18CD8174" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="AA4B6F6B-3C09-4EB2-83F5-16AA18CD8174" id="FORM-AA4B6F6B-3C09-4EB2-83F5-16AA18CD8174" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-AA4B6F6B-3C09-4EB2-83F5-16AA18CD8174">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_notstarted rag_prns question">
+<div class="uuid">
+<p>E729DF6F-E44F-4040-9331-0BBFDFAF75F3</p>
+</div>
+<div class="papername">
+<p>forest-school--11-plus--maths--2012--sample-paper-4:1:31</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_notstarted</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+In a football match the final score was $3{-}1$.
+
+At half time the score was $1{-}0$ and during the second half of the match the scores went $2{-}0$, $2{-}1$, $3{-}1$.
+
+In another match the full time score was $4{-}3$.
+
+If the half time score was $2{-}2$, list all the different possible scores that there could have been during the second half of the game (not including $2{-}2$).
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">In a football match the final score was $3{-}1$.
+<emptyline>
+At half time the score was $1{-}0$ and during the second half of the match the scores went $2{-}0$, $2{-}1$, $3{-}1$.
+<emptyline>
+In another match the full time score was $4{-}3$.
+<emptyline>
+If the half time score was $2{-}2$, list all the different possible scores that there could have been during the second half of the game (not including $2{-}2$).
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+TODOWORKING
+</div>
+</div>
+<div class="answers">
+<div class="answer placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+TODOANSWER
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">TODOANSWER
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="E729DF6F-E44F-4040-9331-0BBFDFAF75F3" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="E729DF6F-E44F-4040-9331-0BBFDFAF75F3" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="E729DF6F-E44F-4040-9331-0BBFDFAF75F3" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="E729DF6F-E44F-4040-9331-0BBFDFAF75F3" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="E729DF6F-E44F-4040-9331-0BBFDFAF75F3" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="E729DF6F-E44F-4040-9331-0BBFDFAF75F3" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="E729DF6F-E44F-4040-9331-0BBFDFAF75F3" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="E729DF6F-E44F-4040-9331-0BBFDFAF75F3" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="E729DF6F-E44F-4040-9331-0BBFDFAF75F3" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="E729DF6F-E44F-4040-9331-0BBFDFAF75F3" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NS" data-uuid="E729DF6F-E44F-4040-9331-0BBFDFAF75F3" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="E729DF6F-E44F-4040-9331-0BBFDFAF75F3" id="FORM-E729DF6F-E44F-4040-9331-0BBFDFAF75F3" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-E729DF6F-E44F-4040-9331-0BBFDFAF75F3">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g3 rag_prns question">
+<div class="uuid">
+<p>BA1841E5-2EEA-4F9C-B181-DFB0AD348B25</p>
+</div>
+<div class="papername">
+<p>forest-school--11-plus--maths--2020--sample-paper-3:1:14</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g3</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Khatijah throws two dice and adds together the scores.
+
+How many different ways can she score $8?$
+
+**Show each different way clearly.** 
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Khatijah throws two dice and adds together the scores.
+<emptyline>
+How many different ways can she score $8?$
+<emptyline>
+**Show each different way clearly.** 
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+The possible arrangements are:
+
+- $2,6$   
+- $3,5$ 
+- $4,4$  
+- $5,3$
+- $6,2$
+
+Total count $= 5$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$5$ 
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The possible arrangements are:
+<emptyline>
+- $2,6$   
+- $3,5$ 
+- $4,4$  
+- $5,3$
+- $6,2$
+<emptyline>
+Total count $= 5$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$5$ 
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BA1841E5-2EEA-4F9C-B181-DFB0AD348B25" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BA1841E5-2EEA-4F9C-B181-DFB0AD348B25" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BA1841E5-2EEA-4F9C-B181-DFB0AD348B25" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BA1841E5-2EEA-4F9C-B181-DFB0AD348B25" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BA1841E5-2EEA-4F9C-B181-DFB0AD348B25" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BA1841E5-2EEA-4F9C-B181-DFB0AD348B25" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BA1841E5-2EEA-4F9C-B181-DFB0AD348B25" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BA1841E5-2EEA-4F9C-B181-DFB0AD348B25" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BA1841E5-2EEA-4F9C-B181-DFB0AD348B25" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BA1841E5-2EEA-4F9C-B181-DFB0AD348B25" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G3" data-uuid="BA1841E5-2EEA-4F9C-B181-DFB0AD348B25" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BA1841E5-2EEA-4F9C-B181-DFB0AD348B25" id="FORM-BA1841E5-2EEA-4F9C-B181-DFB0AD348B25" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-BA1841E5-2EEA-4F9C-B181-DFB0AD348B25">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g3 rag_prns question">
+<div class="uuid">
+<p>74AC2383-BAFE-4FBC-99E0-3BE175A9CD52</p>
+</div>
+<div class="papername">
+<p>forest-school--11-plus--maths--2020--sample-paper-3:1:30</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g3</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+How many ways are there of colouring in three squares in this grid so that exactly one coloured square appears in each row and each column? Show clearly how you get your answer. 
+
+![papers/forest-school/2020/sample-paper-3/s01-q30-i00.png](/assets/papers/forest-school/2020/sample-paper-3/s01-q30-i00.png "papers/forest-school/2020/sample-paper-3/s01-q30-i00.png")
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">How many ways are there of colouring in three squares in this grid so that exactly one coloured square appears in each row and each column? Show clearly how you get your answer. 
+<emptyline>
+%image%
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Let's represent row by $\text{R}$ and column by $\text{C}$.
+
+The possible arrangements are:
+
+- $\text{R1C1 \quad R2C2 \quad R3C3}$
+- $\text{R1C1 \quad R2C3 \quad R3C2}$
+- $\text{R1C2 \quad R2C1 \quad R3C3}$
+- $\text{R1C2 \quad R2C3 \quad R3C1}$
+- $\text{R1C3 \quad R2C1 \quad R3C2}$
+- $\text{R1C3 \quad R2C2 \quad R3C1}$
+
+Total count $= 6$
+</div>
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Using permutation,
+
+Number of ways we can colour in the first row $= 3$
+
+Number of ways we can colour in the  second row $= 2$
+
+Number of ways we can colour in the third row $= 1$
+
+Total arrangements $= 3 \times 2 \times 1 = 6$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$6$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Let's represent row by $\text{R}$ and column by $\text{C}$.
+<emptyline>
+The possible arrangements are:
+<emptyline>
+- $\text{R1C1 \quad R2C2 \quad R3C3}$
+- $\text{R1C1 \quad R2C3 \quad R3C2}$
+- $\text{R1C2 \quad R2C1 \quad R3C3}$
+- $\text{R1C2 \quad R2C3 \quad R3C1}$
+- $\text{R1C3 \quad R2C1 \quad R3C2}$
+- $\text{R1C3 \quad R2C2 \quad R3C1}$
+<emptyline>
+Total count $= 6$
+</code></pre>
+</div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Using permutation,
+<emptyline>
+Number of ways we can colour in the first row $= 3$
+<emptyline>
+Number of ways we can colour in the  second row $= 2$
+<emptyline>
+Number of ways we can colour in the third row $= 1$
+<emptyline>
+Total arrangements $= 3 \times 2 \times 1 = 6$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$6$
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="74AC2383-BAFE-4FBC-99E0-3BE175A9CD52" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="74AC2383-BAFE-4FBC-99E0-3BE175A9CD52" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="74AC2383-BAFE-4FBC-99E0-3BE175A9CD52" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="74AC2383-BAFE-4FBC-99E0-3BE175A9CD52" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="74AC2383-BAFE-4FBC-99E0-3BE175A9CD52" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="74AC2383-BAFE-4FBC-99E0-3BE175A9CD52" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="74AC2383-BAFE-4FBC-99E0-3BE175A9CD52" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="74AC2383-BAFE-4FBC-99E0-3BE175A9CD52" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="74AC2383-BAFE-4FBC-99E0-3BE175A9CD52" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="74AC2383-BAFE-4FBC-99E0-3BE175A9CD52" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G3" data-uuid="74AC2383-BAFE-4FBC-99E0-3BE175A9CD52" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="74AC2383-BAFE-4FBC-99E0-3BE175A9CD52" id="FORM-74AC2383-BAFE-4FBC-99E0-3BE175A9CD52" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-74AC2383-BAFE-4FBC-99E0-3BE175A9CD52">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_pr rag_prns question">
+<div class="uuid">
+<p>422A9416-568A-4E36-8E9B-C8A81997B5DA</p>
+</div>
+<div class="papername">
+<p>forest-school--11-plus--maths--9999--sample-paper-1:1:39</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_pr</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+In this map of Squaretown, Tomasc is going to walk from $A$ to $B$.
+He only ever walks north (up the map) or east (to the right of the map).
+How many different possible routes are there?
+
+![papers/forest-school/sample/sample-paper-1/s01-q39-i00.png](/assets/papers/forest-school/sample/sample-paper-1/s01-q39-i00.png "papers/forest-school/sample/sample-paper-1/s01-q39-i00.png")
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">In this map of Squaretown, Tomasc is going to walk from $A$ to $B$.
+He only ever walks north (up the map) or east (to the right of the map).
+How many different possible routes are there?
+<emptyline>
+%image%
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+If we start with E, the possible arrangements are:
+
+- EEENNN
+- EENENN
+- EENNEN
+- EENNNE
+- ENEENN
+- ENENEN
+- ENENNE
+- ENNEEN
+- ENNENE
+- ENNNEE
+
+Count $= 10$
+
+If we start with N, the possible arrangements are:
+
+- NNNEEE
+- NNENEE
+- NNEENE
+- NNEEEN
+- NENENE
+- NENNEE
+- NENEEN
+- NEENNE
+- NEENEN
+- NEEENN
+
+Count $= 10$
+
+Total count $= 20$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$20$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">If we start with E, the possible arrangements are:
+<emptyline>
+- EEENNN
+- EENENN
+- EENNEN
+- EENNNE
+- ENEENN
+- ENENEN
+- ENENNE
+- ENNEEN
+- ENNENE
+- ENNNEE
+<emptyline>
+Count $= 10$
+<emptyline>
+If we start with N, the possible arrangements are:
+<emptyline>
+- NNNEEE
+- NNENEE
+- NNEENE
+- NNEEEN
+- NENENE
+- NENNEE
+- NENEEN
+- NEENNE
+- NEENEN
+- NEEENN
+<emptyline>
+Count $= 10$
+<emptyline>
+Total count $= 20$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$20$
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="422A9416-568A-4E36-8E9B-C8A81997B5DA" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="422A9416-568A-4E36-8E9B-C8A81997B5DA" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="422A9416-568A-4E36-8E9B-C8A81997B5DA" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="422A9416-568A-4E36-8E9B-C8A81997B5DA" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="422A9416-568A-4E36-8E9B-C8A81997B5DA" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="422A9416-568A-4E36-8E9B-C8A81997B5DA" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="422A9416-568A-4E36-8E9B-C8A81997B5DA" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="422A9416-568A-4E36-8E9B-C8A81997B5DA" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="422A9416-568A-4E36-8E9B-C8A81997B5DA" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="422A9416-568A-4E36-8E9B-C8A81997B5DA" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="PR" data-uuid="422A9416-568A-4E36-8E9B-C8A81997B5DA" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="422A9416-568A-4E36-8E9B-C8A81997B5DA" id="FORM-422A9416-568A-4E36-8E9B-C8A81997B5DA" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-422A9416-568A-4E36-8E9B-C8A81997B5DA">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_notstarted rag_prns question">
+<div class="uuid">
+<p>DDB53A5E-729F-426D-A35F-ED8A01587F21</p>
+</div>
+<div class="papername">
+<p>forest-school--11-plus--maths--9999--sample-paper-3:1:11</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_notstarted</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Priya has $5\ \text{p}$ and $13\ \text{p}$ stamps. She can make a $36\ \text{p}$ total with two $5\ \text{p}$ stamps and two $13\ \text{p}$ stamps. How could she make the following totals?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Priya has $5\ \text{p}$ and $13\ \text{p}$ stamps. She can make a $36\ \text{p}$ total with two $5\ \text{p}$ stamps and two $13\ \text{p}$ stamps. How could she make the following totals?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+TODOWORKING
+</div>
+</div>
+<div class="answers">
+<div class="answer placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+TODOANSWER
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">TODOANSWER
+</code></pre>
+</div>
+</div>
+<ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+$33\ \text{p}$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$33\ \text{p}$
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+TODOWORKING
+</div>
+</div>
+<div class="answers">
+<div class="answer placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+TODOANSWER
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">TODOANSWER
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+$\pounds 1.26$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$\pounds 1.26$
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+TODOWORKING
+</div>
+</div>
+<div class="answers">
+<div class="answer placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+TODOANSWER
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">TODOANSWER
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="DDB53A5E-729F-426D-A35F-ED8A01587F21" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="DDB53A5E-729F-426D-A35F-ED8A01587F21" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="DDB53A5E-729F-426D-A35F-ED8A01587F21" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="DDB53A5E-729F-426D-A35F-ED8A01587F21" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="DDB53A5E-729F-426D-A35F-ED8A01587F21" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="DDB53A5E-729F-426D-A35F-ED8A01587F21" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="DDB53A5E-729F-426D-A35F-ED8A01587F21" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="DDB53A5E-729F-426D-A35F-ED8A01587F21" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="DDB53A5E-729F-426D-A35F-ED8A01587F21" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="DDB53A5E-729F-426D-A35F-ED8A01587F21" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NS" data-uuid="DDB53A5E-729F-426D-A35F-ED8A01587F21" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="DDB53A5E-729F-426D-A35F-ED8A01587F21" id="FORM-DDB53A5E-729F-426D-A35F-ED8A01587F21" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-DDB53A5E-729F-426D-A35F-ED8A01587F21">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g3 rag_prns question">
+<div class="uuid">
+<p>D989F92D-96F5-4F53-9DF1-7378F7BC544D</p>
+</div>
+<div class="papername">
+<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:23</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g3</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Here are two ways of making a total of $12$ from three **different** whole numbers:
+
+$2 + 3 + 7 =12$
+
+$3 + 4 + 5 = 12$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Here are two ways of making a total of $12$ from three **different** whole numbers:
+<emptyline>
+$2 + 3 + 7 =12$
+<emptyline>
+$3 + 4 + 5 = 12$
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+%empty%
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+%empty%
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+</div>
+<ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Write down all the ways of making a total of $12$ using three different whole numbers (don't count $2 + 3 + 7$ as different from $3 + 7 + 2$).
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Write down all the ways of making a total of $12$ using three different whole numbers (don't count $2 + 3 + 7$ as different from $3 + 7 + 2$).
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+If we use number $1$ and above, the possible arrangements are:
+
+- $1  +  2  +  9$
+- $1  +  3  +  8$
+- $1  +  4  +  7$
+- $1  +  5  +  6$
+
+If we use number $2$ and above, the possible arrangements are:
+
+- $2  +  3  +  7$
+- $2  +  4  +  6$
+
+If we use number $3$ and above, the possible arrangements are:
+
+- $3  +  4  +  5$
+
+Total count $= 4 + 2 + 1 = 7$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$7$ 
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">If we use number $1$ and above, the possible arrangements are:
+<emptyline>
+- $1  +  2  +  9$
+- $1  +  3  +  8$
+- $1  +  4  +  7$
+- $1  +  5  +  6$
+<emptyline>
+If we use number $2$ and above, the possible arrangements are:
+<emptyline>
+- $2  +  3  +  7$
+- $2  +  4  +  6$
+<emptyline>
+If we use number $3$ and above, the possible arrangements are:
+<emptyline>
+- $3  +  4  +  5$
+<emptyline>
+Total count $= 4 + 2 + 1 = 7$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$7$ 
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+How many ways are there of making a total of $15$ using three **different** whole numbers?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">How many ways are there of making a total of $15$ using three **different** whole numbers?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+If we use number $1$ and above, the possible arrangements are:
+
+- $1  +  2  +  12$
+- $1  +  3  +  11$
+- $1  +  4  +  10$
+- $1  +  5  +  9$
+- $1  +  6  +  8$
+
+If we use number $2$ and above, the possible arrangements are:
+
+- $2  +  3  +  10$
+- $2  +  4  +  9$
+- $2  +  5  +  8$
+- $2  +  6  +  7$
+
+If we use number $3$ and above, the possible arrangements are:
+
+- $3  +  4  +  8$
+- $3  +  5  +  7$
+
+If we use number $4$ and above, the possible arrangements are:
+
+- $4  +  5  +  6$
+
+Total count $= 5 + 4 + 2 + 1 = 12$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$12$ 
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">If we use number $1$ and above, the possible arrangements are:
+<emptyline>
+- $1  +  2  +  12$
+- $1  +  3  +  11$
+- $1  +  4  +  10$
+- $1  +  5  +  9$
+- $1  +  6  +  8$
+<emptyline>
+If we use number $2$ and above, the possible arrangements are:
+<emptyline>
+- $2  +  3  +  10$
+- $2  +  4  +  9$
+- $2  +  5  +  8$
+- $2  +  6  +  7$
+<emptyline>
+If we use number $3$ and above, the possible arrangements are:
+<emptyline>
+- $3  +  4  +  8$
+- $3  +  5  +  7$
+<emptyline>
+If we use number $4$ and above, the possible arrangements are:
+<emptyline>
+- $4  +  5  +  6$
+<emptyline>
+Total count $= 5 + 4 + 2 + 1 = 12$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$12$ 
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="D989F92D-96F5-4F53-9DF1-7378F7BC544D" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="D989F92D-96F5-4F53-9DF1-7378F7BC544D" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="D989F92D-96F5-4F53-9DF1-7378F7BC544D" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="D989F92D-96F5-4F53-9DF1-7378F7BC544D" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="D989F92D-96F5-4F53-9DF1-7378F7BC544D" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="D989F92D-96F5-4F53-9DF1-7378F7BC544D" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="D989F92D-96F5-4F53-9DF1-7378F7BC544D" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="D989F92D-96F5-4F53-9DF1-7378F7BC544D" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="D989F92D-96F5-4F53-9DF1-7378F7BC544D" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="D989F92D-96F5-4F53-9DF1-7378F7BC544D" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G3" data-uuid="D989F92D-96F5-4F53-9DF1-7378F7BC544D" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="D989F92D-96F5-4F53-9DF1-7378F7BC544D" id="FORM-D989F92D-96F5-4F53-9DF1-7378F7BC544D" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-D989F92D-96F5-4F53-9DF1-7378F7BC544D">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g3 rag_prns question">
+<div class="uuid">
+<p>FEC386E0-131F-4F15-BDD7-8911BBAD340A</p>
+</div>
+<div class="papername">
+<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:20</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g3</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+How many different $3$ digit numbers can you make from the digits $1, 1$ and $3$. You can use each digit as many times as you like.
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">How many different $3$ digit numbers can you make from the digits $1, 1$ and $3$. You can use each digit as many times as you like.
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+The possible arrangements are:
+
+- $111$
+- $113$
+- $131$
+- $133$
+- $311$
+- $313$
+- $331$
+- $333$
+
+Total count $= 8$
+</div>
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Using permutation,
+
+Number of digits that can be used in the hundreds place $= 2$
+
+Number of digits that can be used in the tens place $= 2$
+
+Number of digits that can be used in the units place $= 2$
+
+Total arrangements $= 2 \times 2 \times 2 = 8$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$8$ 
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The possible arrangements are:
+<emptyline>
+- $111$
+- $113$
+- $131$
+- $133$
+- $311$
+- $313$
+- $331$
+- $333$
+<emptyline>
+Total count $= 8$
+</code></pre>
+</div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Using permutation,
+<emptyline>
+Number of digits that can be used in the hundreds place $= 2$
+<emptyline>
+Number of digits that can be used in the tens place $= 2$
+<emptyline>
+Number of digits that can be used in the units place $= 2$
+<emptyline>
+Total arrangements $= 2 \times 2 \times 2 = 8$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$8$ 
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="FEC386E0-131F-4F15-BDD7-8911BBAD340A" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="FEC386E0-131F-4F15-BDD7-8911BBAD340A" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="FEC386E0-131F-4F15-BDD7-8911BBAD340A" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="FEC386E0-131F-4F15-BDD7-8911BBAD340A" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="FEC386E0-131F-4F15-BDD7-8911BBAD340A" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="FEC386E0-131F-4F15-BDD7-8911BBAD340A" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="FEC386E0-131F-4F15-BDD7-8911BBAD340A" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="FEC386E0-131F-4F15-BDD7-8911BBAD340A" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="FEC386E0-131F-4F15-BDD7-8911BBAD340A" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="FEC386E0-131F-4F15-BDD7-8911BBAD340A" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G3" data-uuid="FEC386E0-131F-4F15-BDD7-8911BBAD340A" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="FEC386E0-131F-4F15-BDD7-8911BBAD340A" id="FORM-FEC386E0-131F-4F15-BDD7-8911BBAD340A" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-FEC386E0-131F-4F15-BDD7-8911BBAD340A">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g3 rag_prns question">
+<div class="uuid">
+<p>BB604FF7-1023-4BFA-BB23-6D1AFB3433AC</p>
+</div>
+<div class="papername">
+<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:28</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g3</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Here are some number cards:
+
+$\huge {\boxed{3} \quad \boxed{9} \quad \boxed{2} \quad \boxed{7} }$
+
+You can use each card once to make the number $3927$, like this:
+
+$\huge {\boxed{3} \boxed{9} \boxed{2} \boxed{7} }$
+
+Use the four number cards to make numbers that are as close as possible to the numbers written below.
+
+Example
+
+$ 8000 \rightarrow \boxed{7} \boxed{9} \boxed{3} \boxed{2} $
+
+
+You must **not** use the same card more than once in each answer.
+
+$ 3000 \rightarrow \boxed{\phantom{15}} \boxed{\phantom{15}} \boxed{\phantom{15}} \boxed{\phantom{15}} $
+
+$ 7000 \rightarrow \boxed{\phantom{15}} \boxed{\phantom{15}} \boxed{\phantom{15}} \boxed{\phantom{15}} $
+
+$ 3800 \rightarrow \boxed{\phantom{15}} \boxed{\phantom{15}} \boxed{\phantom{15}} \boxed{\phantom{15}} $
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Here are some number cards:
+<emptyline>
+$\huge {\boxed{3} \quad \boxed{9} \quad \boxed{2} \quad \boxed{7} }$
+<emptyline>
+You can use each card once to make the number $3927$, like this:
+<emptyline>
+$\huge {\boxed{3} \boxed{9} \boxed{2} \boxed{7} }$
+<emptyline>
+Use the four number cards to make numbers that are as close as possible to the numbers written below.
+<emptyline>
+Example
+<emptyline>
+$ 8000 \rightarrow \boxed{7} \boxed{9} \boxed{3} \boxed{2} $
+<emptyline>
+
+You must **not** use the same card more than once in each answer.
+<emptyline>
+$ 3000 \rightarrow \boxed{\phantom{15}} \boxed{\phantom{15}} \boxed{\phantom{15}} \boxed{\phantom{15}} $
+<emptyline>
+$ 7000 \rightarrow \boxed{\phantom{15}} \boxed{\phantom{15}} \boxed{\phantom{15}} \boxed{\phantom{15}} $
+<emptyline>
+$ 3800 \rightarrow \boxed{\phantom{15}} \boxed{\phantom{15}} \boxed{\phantom{15}} \boxed{\phantom{15}} $
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+%empty%
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+%empty%
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+</div>
+<ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+$\large { \boxed{3} \ \boxed{0} \ \boxed{0} \ \boxed{0}  }$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$\large { \boxed{3} \ \boxed{0} \ \boxed{0} \ \boxed{0}  }$
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+$2973$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$2973$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$2973$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$2973$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+$\large { \boxed{7} \ \boxed{0} \ \boxed{0} \ \boxed{0}  }$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$\large { \boxed{7} \ \boxed{0} \ \boxed{0} \ \boxed{0}  }$
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+$7239$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$7239$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$7239$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$7239$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+$\large { \boxed{3} \ \boxed{8} \ \boxed{0} \ \boxed{0}  }$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$\large { \boxed{3} \ \boxed{8} \ \boxed{0} \ \boxed{0}  }$
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+$3792$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$3792$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$3792$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$3792$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BB604FF7-1023-4BFA-BB23-6D1AFB3433AC" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BB604FF7-1023-4BFA-BB23-6D1AFB3433AC" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BB604FF7-1023-4BFA-BB23-6D1AFB3433AC" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BB604FF7-1023-4BFA-BB23-6D1AFB3433AC" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BB604FF7-1023-4BFA-BB23-6D1AFB3433AC" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BB604FF7-1023-4BFA-BB23-6D1AFB3433AC" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BB604FF7-1023-4BFA-BB23-6D1AFB3433AC" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BB604FF7-1023-4BFA-BB23-6D1AFB3433AC" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BB604FF7-1023-4BFA-BB23-6D1AFB3433AC" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BB604FF7-1023-4BFA-BB23-6D1AFB3433AC" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G3" data-uuid="BB604FF7-1023-4BFA-BB23-6D1AFB3433AC" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BB604FF7-1023-4BFA-BB23-6D1AFB3433AC" id="FORM-BB604FF7-1023-4BFA-BB23-6D1AFB3433AC" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-BB604FF7-1023-4BFA-BB23-6D1AFB3433AC">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g3 rag_prns question">
+<div class="uuid">
+<p>918D95F1-B6C5-49C4-AAB2-B113BC988E02</p>
+</div>
+<div class="papername">
+<p>oundle-school--11-plus--maths--2017--sample-paper-6:1:8</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g3</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Ahmed chooses two different items for a snack. His choices are an apple, an orange, a banana, and a granola bar. How many different pairs of snacks could he choose? 
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Ahmed chooses two different items for a snack. His choices are an apple, an orange, a banana, and a granola bar. How many different pairs of snacks could he choose? 
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+The possible combinations are:
+
+- Apple, Banana
+- Apple, Granola
+- Apple, Orange
+- Banana, Granola
+- Banana, Orange
+- Granola, Orange
+
+Count $= 6$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$6$ 
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The possible combinations are:
+<emptyline>
+- Apple, Banana
+- Apple, Granola
+- Apple, Orange
+- Banana, Granola
+- Banana, Orange
+- Granola, Orange
+<emptyline>
+Count $= 6$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$6$ 
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="918D95F1-B6C5-49C4-AAB2-B113BC988E02" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="918D95F1-B6C5-49C4-AAB2-B113BC988E02" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="918D95F1-B6C5-49C4-AAB2-B113BC988E02" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="918D95F1-B6C5-49C4-AAB2-B113BC988E02" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="918D95F1-B6C5-49C4-AAB2-B113BC988E02" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="918D95F1-B6C5-49C4-AAB2-B113BC988E02" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="918D95F1-B6C5-49C4-AAB2-B113BC988E02" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="918D95F1-B6C5-49C4-AAB2-B113BC988E02" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="918D95F1-B6C5-49C4-AAB2-B113BC988E02" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="918D95F1-B6C5-49C4-AAB2-B113BC988E02" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G3" data-uuid="918D95F1-B6C5-49C4-AAB2-B113BC988E02" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="918D95F1-B6C5-49C4-AAB2-B113BC988E02" id="FORM-918D95F1-B6C5-49C4-AAB2-B113BC988E02" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-918D95F1-B6C5-49C4-AAB2-B113BC988E02">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g3 rag_prns question">
+<div class="uuid">
+<p>6974905E-5C97-44EB-9574-C93522E2C23C</p>
+</div>
+<div class="papername">
+<p>oundle-school--11-plus--maths--2017--sample-paper-7:1:4</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g3</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+How many different $3$-digit whole numbers can be formed using the digits $4, 7$ and $9$, assuming that no digit can be repeated in a number?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">How many different $3$-digit whole numbers can be formed using the digits $4, 7$ and $9$, assuming that no digit can be repeated in a number?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+The possible arrangements are:
+
+- $479$
+- $497$
+- $749$
+- $794$
+- $947$
+- $974$
+
+Total count $= 6$ 
+</div>
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Using permutation,
+
+Number of digits that can be used in the hundreds place $= 3$
+
+Number of digits that can be used in the tens place $= 2$
+
+Number of digits that can be used in the units place $= 1$
+
+Total arrangements $= 3 \times 2 \times 1 =6$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$6$ 
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The possible arrangements are:
+<emptyline>
+- $479$
+- $497$
+- $749$
+- $794$
+- $947$
+- $974$
+<emptyline>
+Total count $= 6$ 
+</code></pre>
+</div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Using permutation,
+<emptyline>
+Number of digits that can be used in the hundreds place $= 3$
+<emptyline>
+Number of digits that can be used in the tens place $= 2$
+<emptyline>
+Number of digits that can be used in the units place $= 1$
+<emptyline>
+Total arrangements $= 3 \times 2 \times 1 =6$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$6$ 
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6974905E-5C97-44EB-9574-C93522E2C23C" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6974905E-5C97-44EB-9574-C93522E2C23C" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6974905E-5C97-44EB-9574-C93522E2C23C" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6974905E-5C97-44EB-9574-C93522E2C23C" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6974905E-5C97-44EB-9574-C93522E2C23C" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6974905E-5C97-44EB-9574-C93522E2C23C" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6974905E-5C97-44EB-9574-C93522E2C23C" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6974905E-5C97-44EB-9574-C93522E2C23C" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6974905E-5C97-44EB-9574-C93522E2C23C" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6974905E-5C97-44EB-9574-C93522E2C23C" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G3" data-uuid="6974905E-5C97-44EB-9574-C93522E2C23C" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6974905E-5C97-44EB-9574-C93522E2C23C" id="FORM-6974905E-5C97-44EB-9574-C93522E2C23C" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-6974905E-5C97-44EB-9574-C93522E2C23C">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_pr rag_prns question">
+<div class="uuid">
+<p>31275674-A54A-40CB-954F-6A4D5E749290</p>
+</div>
+<div class="papername">
+<p>oundle-school--11-plus--maths--2017--sample-paper-7:1:11</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_pr</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+A palindrome is a positive integer that is the same when read forwards or backwards.
+
+The numbers $101$ and $4554$ are examples of palindromes.
+
+Calculate the ratio of the number of $4$-digit palindromes to the number of $5$-digit palindromes. 
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">A palindrome is a positive integer that is the same when read forwards or backwards.
+<emptyline>
+The numbers $101$ and $4554$ are examples of palindromes.
+<emptyline>
+Calculate the ratio of the number of $4$-digit palindromes to the number of $5$-digit palindromes. 
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+For 4 digit palindromes 
+
+In between $2000$ to $3000$, the possible arrangements are:
+
+- $1001$
+- $1111$
+- $1221$
+- $1331$
+- $1441$
+- $1551$
+- $1661$
+- $1771$
+- $1881$
+- $1991$
+
+Count $= 10$
+
+Similarly, in between $2000$ to $3000$ the possible arrangements are $10$
+
+$2002$  to $2992$
+
+Count $= 10$
+
+Similarly, in between $3000$ to $4000$ the possible arrangements are $10$
+
+$3003$  to $3993$
+
+Count $= 10$
+
+Similarly, in between $4000$ to $5000$ the possible arrangements are $10$
+
+$4004$  to $4994$
+
+Count $= 10$
+
+Similarly, in between $5000$ to $6000$ the possible arrangements are $10$
+
+$5005$  to $5995$
+
+Count $= 10$
+
+Similarly, in between $6000$ to $7000$ the possible arrangements are $10$
+
+$6006$  to $6996$
+
+Count $= 10$
+
+Similarly, in between $7000$ to $8000$ the possible arrangements are $10$
+
+$7007$  to $7997$
+
+Count $= 10$
+
+Similarly, in between $8000$ to $9000$ the possible arrangements are $10$
+
+$8008$  to $8998$
+
+Count $= 10$
+
+Similarly, in between $2000$ to $3000$ the possible arrangements are $10$
+
+$9009$  to $9999$
+
+Count $= 10$
+
+Total count $= 10 + 10 + 10 + 10 + 10 + 10 + 10 + 10 + 10 = 90$
+
+For 5 digit palindromes
+
+In between $10000$ to $20000$, the possible arrangements are:
+
+- $10001$
+- $10101$
+- $10201$
+- $10301$
+- $10401$
+- $10501$
+- $10601$
+- $10701$
+- $10801$
+- $10901$
+- $11011$
+- $11111$
+- $11211$
+- $11311$
+- $11411$
+
+ $\text{\textunderscore}$
+
+ $\text{\textunderscore}$
+
+ so on.... upto $19991$
+
+Count $= 10 \times 10 = 100$
+
+Similarly, in between $20000$ to $30000$, the possible arrangements are $10 \times 10$
+
+$20002$ to $29992$
+
+Count $= 100$
+
+Similarly, in between $30000$ to $40000$, the possible arrangements are $10 \times 10$
+
+$30003$ to $39993$
+
+Count $= 100$
+
+Similarly, in between $40000$ to $50000$, the possible arrangements are $10 \times 10$
+
+$40004$ to $49994$
+
+Count $= 100$
+
+Similarly, in between $50000$ to $60000$, the possible arrangements are $10 \times 10$
+
+$50005$ to $59995$
+
+Count $= 100$
+
+Similarly, in between $60000$ to $70000$, the possible arrangements are $10 \times 10$
+
+$60006$ to $69996$
+
+Count $= 100$
+
+Similarly, in between $70000$ to $80000$, the possible arrangements are $10 \times 10$
+
+$70007$ to $79997$
+
+Count $= 100$
+
+Similarly, in between $80000$ to $90000$, the possible arrangements are $10 \times 10$
+
+$80008$ to $89998$
+
+Count $= 100$
+
+Similarly, in between $90000$ to $100000$, the possible arrangements are $10 \times 10$
+
+$90009$ to $99999$
+
+Count $= 100$
+
+Total arrangements $= 100 + 100 + 100 + 100 + 100 + 100 + 100 + 100 + 100 = 900$
+</div>
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Using permutation,
+
+For 4 digit palindromes
+
+Number of digits that can be used in the thousand place $= 9$
+
+Number of digits that can be used in the hundreds place $= 10$
+
+Number of digits that can be used in the tens place $= 1$
+
+Number of digits that can be used in the units place $= 1$
+
+Total arrangements $= 9 \times 10 \times 1 \times 1 = 90$
+
+For 5 digit palindromes
+
+Number of digits that can be used in the ten thousands place $= 9$
+
+Number of digits that can be used in the thousands place $= 10$
+
+Number of digits that can be used in the hundreds place $= 10$
+
+Number of digits that can be used in the tens place $= 1$
+
+Number of digits that can be used in the units place $= 1$
+
+Total arrangements $= 9 \times 10 \times 10 \times 1 \times 1 = 900$
+
+So, the ratio of number $4$-digit palindromes and $5$-digit palindromes $= \dfrac {90} {900} = \dfrac {1} {10}$  
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$\dfrac {1} {10}$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">For 4 digit palindromes 
+<emptyline>
+In between $2000$ to $3000$, the possible arrangements are:
+<emptyline>
+- $1001$
+- $1111$
+- $1221$
+- $1331$
+- $1441$
+- $1551$
+- $1661$
+- $1771$
+- $1881$
+- $1991$
+<emptyline>
+Count $= 10$
+<emptyline>
+Similarly, in between $2000$ to $3000$ the possible arrangements are $10$
+<emptyline>
+$2002$  to $2992$
+<emptyline>
+Count $= 10$
+<emptyline>
+Similarly, in between $3000$ to $4000$ the possible arrangements are $10$
+<emptyline>
+$3003$  to $3993$
+<emptyline>
+Count $= 10$
+<emptyline>
+Similarly, in between $4000$ to $5000$ the possible arrangements are $10$
+<emptyline>
+$4004$  to $4994$
+<emptyline>
+Count $= 10$
+<emptyline>
+Similarly, in between $5000$ to $6000$ the possible arrangements are $10$
+<emptyline>
+$5005$  to $5995$
+<emptyline>
+Count $= 10$
+<emptyline>
+Similarly, in between $6000$ to $7000$ the possible arrangements are $10$
+<emptyline>
+$6006$  to $6996$
+<emptyline>
+Count $= 10$
+<emptyline>
+Similarly, in between $7000$ to $8000$ the possible arrangements are $10$
+<emptyline>
+$7007$  to $7997$
+<emptyline>
+Count $= 10$
+<emptyline>
+Similarly, in between $8000$ to $9000$ the possible arrangements are $10$
+<emptyline>
+$8008$  to $8998$
+<emptyline>
+Count $= 10$
+<emptyline>
+Similarly, in between $2000$ to $3000$ the possible arrangements are $10$
+<emptyline>
+$9009$  to $9999$
+<emptyline>
+Count $= 10$
+<emptyline>
+Total count $= 10 + 10 + 10 + 10 + 10 + 10 + 10 + 10 + 10 = 90$
+<emptyline>
+For 5 digit palindromes
+<emptyline>
+In between $10000$ to $20000$, the possible arrangements are:
+<emptyline>
+- $10001$
+- $10101$
+- $10201$
+- $10301$
+- $10401$
+- $10501$
+- $10601$
+- $10701$
+- $10801$
+- $10901$
+- $11011$
+- $11111$
+- $11211$
+- $11311$
+- $11411$
+<emptyline>
+ $\text{\textunderscore}$
+<emptyline>
+ $\text{\textunderscore}$
+<emptyline>
+ so on.... upto $19991$
+<emptyline>
+Count $= 10 \times 10 = 100$
+<emptyline>
+Similarly, in between $20000$ to $30000$, the possible arrangements are $10 \times 10$
+<emptyline>
+$20002$ to $29992$
+<emptyline>
+Count $= 100$
+<emptyline>
+Similarly, in between $30000$ to $40000$, the possible arrangements are $10 \times 10$
+<emptyline>
+$30003$ to $39993$
+<emptyline>
+Count $= 100$
+<emptyline>
+Similarly, in between $40000$ to $50000$, the possible arrangements are $10 \times 10$
+<emptyline>
+$40004$ to $49994$
+<emptyline>
+Count $= 100$
+<emptyline>
+Similarly, in between $50000$ to $60000$, the possible arrangements are $10 \times 10$
+<emptyline>
+$50005$ to $59995$
+<emptyline>
+Count $= 100$
+<emptyline>
+Similarly, in between $60000$ to $70000$, the possible arrangements are $10 \times 10$
+<emptyline>
+$60006$ to $69996$
+<emptyline>
+Count $= 100$
+<emptyline>
+Similarly, in between $70000$ to $80000$, the possible arrangements are $10 \times 10$
+<emptyline>
+$70007$ to $79997$
+<emptyline>
+Count $= 100$
+<emptyline>
+Similarly, in between $80000$ to $90000$, the possible arrangements are $10 \times 10$
+<emptyline>
+$80008$ to $89998$
+<emptyline>
+Count $= 100$
+<emptyline>
+Similarly, in between $90000$ to $100000$, the possible arrangements are $10 \times 10$
+<emptyline>
+$90009$ to $99999$
+<emptyline>
+Count $= 100$
+<emptyline>
+Total arrangements $= 100 + 100 + 100 + 100 + 100 + 100 + 100 + 100 + 100 = 900$
+</code></pre>
+</div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Using permutation,
+<emptyline>
+For 4 digit palindromes
+<emptyline>
+Number of digits that can be used in the thousand place $= 9$
+<emptyline>
+Number of digits that can be used in the hundreds place $= 10$
+<emptyline>
+Number of digits that can be used in the tens place $= 1$
+<emptyline>
+Number of digits that can be used in the units place $= 1$
+<emptyline>
+Total arrangements $= 9 \times 10 \times 1 \times 1 = 90$
+<emptyline>
+For 5 digit palindromes
+<emptyline>
+Number of digits that can be used in the ten thousands place $= 9$
+<emptyline>
+Number of digits that can be used in the thousands place $= 10$
+<emptyline>
+Number of digits that can be used in the hundreds place $= 10$
+<emptyline>
+Number of digits that can be used in the tens place $= 1$
+<emptyline>
+Number of digits that can be used in the units place $= 1$
+<emptyline>
+Total arrangements $= 9 \times 10 \times 10 \times 1 \times 1 = 900$
+<emptyline>
+So, the ratio of number $4$-digit palindromes and $5$-digit palindromes $= \dfrac {90} {900} = \dfrac {1} {10}$  
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$\dfrac {1} {10}$
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="31275674-A54A-40CB-954F-6A4D5E749290" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="31275674-A54A-40CB-954F-6A4D5E749290" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="31275674-A54A-40CB-954F-6A4D5E749290" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="31275674-A54A-40CB-954F-6A4D5E749290" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="31275674-A54A-40CB-954F-6A4D5E749290" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="31275674-A54A-40CB-954F-6A4D5E749290" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="31275674-A54A-40CB-954F-6A4D5E749290" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="31275674-A54A-40CB-954F-6A4D5E749290" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="31275674-A54A-40CB-954F-6A4D5E749290" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="31275674-A54A-40CB-954F-6A4D5E749290" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="PR" data-uuid="31275674-A54A-40CB-954F-6A4D5E749290" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="31275674-A54A-40CB-954F-6A4D5E749290" id="FORM-31275674-A54A-40CB-954F-6A4D5E749290" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-31275674-A54A-40CB-954F-6A4D5E749290">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g3 rag_prns question">
+<div class="uuid">
+<p>D9131827-8E01-4FF2-A829-4DC3DB09C908</p>
+</div>
+<div class="papername">
+<p>oundle-school--11-plus--maths--2018--sample-paper-9:1:8</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g3</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+How many $4$ digit numbers greater than $2000$ can be formed using the digits $1, 2, 3$ and $4?$
+
+Each digit can be used only once.
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">How many $4$ digit numbers greater than $2000$ can be formed using the digits $1, 2, 3$ and $4?$
+<emptyline>
+Each digit can be used only once.
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+If we use $2$ in the thousands place, the possible arrangements are:
+
+- $2134$
+- $2143$
+- $2314$
+- $2341$
+- $2413$
+- $2431$
+
+Count $= 6$
+
+If we use $3$ in the thousands place, the possible arrangements are:
+
+- $3124$
+- $3142$
+- $3214$
+- $3241$
+- $3412$
+- $3421$
+
+Count $= 6$
+
+If we use $4$ in the thousands place, the possible arrangements are:
+
+- $4123$
+- $4132$
+- $4213$
+- $4231$
+- $4312$
+- $4321$
+
+Count $= 6$
+
+Total count $= 6 + 6 + 6 = 18$
+</div>
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Using permutation,
+
+Number of digits that can be used in the thousands place $= 3$
+
+Number of digits that can be used in the hundreds place $= 3$
+
+Number of digits that can be used in the tens place $= 2$
+
+Number of digits that can be used in the units place $= 1$
+
+Total arrangements $= 3 \times 3 \times 2 \times 1 = 18$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$18$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">If we use $2$ in the thousands place, the possible arrangements are:
+<emptyline>
+- $2134$
+- $2143$
+- $2314$
+- $2341$
+- $2413$
+- $2431$
+<emptyline>
+Count $= 6$
+<emptyline>
+If we use $3$ in the thousands place, the possible arrangements are:
+<emptyline>
+- $3124$
+- $3142$
+- $3214$
+- $3241$
+- $3412$
+- $3421$
+<emptyline>
+Count $= 6$
+<emptyline>
+If we use $4$ in the thousands place, the possible arrangements are:
+<emptyline>
+- $4123$
+- $4132$
+- $4213$
+- $4231$
+- $4312$
+- $4321$
+<emptyline>
+Count $= 6$
+<emptyline>
+Total count $= 6 + 6 + 6 = 18$
+</code></pre>
+</div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Using permutation,
+<emptyline>
+Number of digits that can be used in the thousands place $= 3$
+<emptyline>
+Number of digits that can be used in the hundreds place $= 3$
+<emptyline>
+Number of digits that can be used in the tens place $= 2$
+<emptyline>
+Number of digits that can be used in the units place $= 1$
+<emptyline>
+Total arrangements $= 3 \times 3 \times 2 \times 1 = 18$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$18$
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="D9131827-8E01-4FF2-A829-4DC3DB09C908" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="D9131827-8E01-4FF2-A829-4DC3DB09C908" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="D9131827-8E01-4FF2-A829-4DC3DB09C908" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="D9131827-8E01-4FF2-A829-4DC3DB09C908" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="D9131827-8E01-4FF2-A829-4DC3DB09C908" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="D9131827-8E01-4FF2-A829-4DC3DB09C908" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="D9131827-8E01-4FF2-A829-4DC3DB09C908" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="D9131827-8E01-4FF2-A829-4DC3DB09C908" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="D9131827-8E01-4FF2-A829-4DC3DB09C908" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="D9131827-8E01-4FF2-A829-4DC3DB09C908" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G3" data-uuid="D9131827-8E01-4FF2-A829-4DC3DB09C908" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="D9131827-8E01-4FF2-A829-4DC3DB09C908" id="FORM-D9131827-8E01-4FF2-A829-4DC3DB09C908" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-D9131827-8E01-4FF2-A829-4DC3DB09C908">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g3 rag_prns question">
+<div class="uuid">
+<p>54129CC4-C133-47C6-8EE6-B29248C827BD</p>
+</div>
+<div class="papername">
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:41</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g3</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Mary has three brothers and four sisters. If they, and Mary, all buy each other an Easter egg, how many eggs will be bought?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Mary has three brothers and four sisters. If they, and Mary, all buy each other an Easter egg, how many eggs will be bought?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+$
+\begin{aligned}
+\text{Total siblings}                   &= 1 + 3 + 4 = 8 \\\\
+\text{Number of eggs each buys}         &= 8 - 1 \\\\
+                                        &= 7 \\\\
+\text{Total eggs bought}                &= 8 \times 7 \\\\
+                                        &= 56
+\end{aligned}
+$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$56$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$
+\begin{aligned}
+\text{Total siblings}                   &= 1 + 3 + 4 = 8 \\\\
+\text{Number of eggs each buys}         &= 8 - 1 \\\\
+                                        &= 7 \\\\
+\text{Total eggs bought}                &= 8 \times 7 \\\\
+                                        &= 56
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$56$
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="54129CC4-C133-47C6-8EE6-B29248C827BD" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="54129CC4-C133-47C6-8EE6-B29248C827BD" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="54129CC4-C133-47C6-8EE6-B29248C827BD" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="54129CC4-C133-47C6-8EE6-B29248C827BD" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="54129CC4-C133-47C6-8EE6-B29248C827BD" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="54129CC4-C133-47C6-8EE6-B29248C827BD" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="54129CC4-C133-47C6-8EE6-B29248C827BD" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="54129CC4-C133-47C6-8EE6-B29248C827BD" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="54129CC4-C133-47C6-8EE6-B29248C827BD" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="54129CC4-C133-47C6-8EE6-B29248C827BD" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G3" data-uuid="54129CC4-C133-47C6-8EE6-B29248C827BD" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="54129CC4-C133-47C6-8EE6-B29248C827BD" id="FORM-54129CC4-C133-47C6-8EE6-B29248C827BD" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-54129CC4-C133-47C6-8EE6-B29248C827BD">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_pr rag_prns question">
+<div class="uuid">
+<p>7EDDF78D-BEA1-49D0-8794-F22BBE025F62</p>
+</div>
+<div class="papername">
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:41</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_pr</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+In a game of football the final score was $3-2$. How many possible half time scores were there?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">In a game of football the final score was $3-2$. How many possible half time scores were there?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+The possible arrangements are:
+
+$
+\begin{matrix}
+(0,0) & (0,1) & (0,2) \\
+(1,0) & (1,1) & (1,2) \\
+(2,0) & (2,1) & (2,2) \\
+(3,0) & (3,1) & (3,2) \\
+\end{matrix}
+$
+
+Count $= 12$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$12$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The possible arrangements are:
+<emptyline>
+$
+\begin{matrix}
+(0,0) & (0,1) & (0,2) \\
+(1,0) & (1,1) & (1,2) \\
+(2,0) & (2,1) & (2,2) \\
+(3,0) & (3,1) & (3,2) \\
+\end{matrix}
+$
+<emptyline>
+Count $= 12$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$12$
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="7EDDF78D-BEA1-49D0-8794-F22BBE025F62" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="7EDDF78D-BEA1-49D0-8794-F22BBE025F62" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="7EDDF78D-BEA1-49D0-8794-F22BBE025F62" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="7EDDF78D-BEA1-49D0-8794-F22BBE025F62" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="7EDDF78D-BEA1-49D0-8794-F22BBE025F62" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="7EDDF78D-BEA1-49D0-8794-F22BBE025F62" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="7EDDF78D-BEA1-49D0-8794-F22BBE025F62" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="7EDDF78D-BEA1-49D0-8794-F22BBE025F62" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="7EDDF78D-BEA1-49D0-8794-F22BBE025F62" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="7EDDF78D-BEA1-49D0-8794-F22BBE025F62" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="PR" data-uuid="7EDDF78D-BEA1-49D0-8794-F22BBE025F62" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="7EDDF78D-BEA1-49D0-8794-F22BBE025F62" id="FORM-7EDDF78D-BEA1-49D0-8794-F22BBE025F62" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-7EDDF78D-BEA1-49D0-8794-F22BBE025F62">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_pr rag_prns question">
+<div class="uuid">
+<p>F0E5AC4B-9543-44E6-BAB8-0991A9B073BD</p>
+</div>
+<div class="papername">
+<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:20</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_pr</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+There are $5$ competitors in a tennis competition. If each player plays every other player once only, how many matches will there be?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">There are $5$ competitors in a tennis competition. If each player plays every other player once only, how many matches will there be?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Let $5$ competitors be C$1$, C$2$, C$3$, C$4$, C$5$
+
+If each players face each other once, the possible arrangements are:
+
+- C$1$ - C$2$
+- C$1$ - C$3$
+- C$1$ - C$4$
+- C$1$ - C$5$
+
+Count $= 4$
+
+The remaining matches C$2$ play with other are:
+
+- C$2$ - C$3$
+- C$2$ - C$4$
+- C$2$ - C$5$
+
+Count $= 3$
+
+The remaining matches C$3$ plays with other are:
+
+- C$3$ - C$4$
+- C$3$ - C$5$
+
+Count $= 2$
+
+The remaining match C$4$ play with C$5$
+
+- C$4$ - C$5$
+
+Count $= 1$
+
+Total count $= 4 + 3 + 2 + 1 = 10$
+</div>
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Using permutation,
+
+Number of matches first player play $= 4$
+
+Number of matches second player play with remaining players $= 3$
+
+Number of matches third player play with remaining players $= 2$
+
+Number of matches forth player play with remaining players $= 1$
+
+Total arrangements $= 4 + 3 + 2 + 1 = 10$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$10$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Let $5$ competitors be C$1$, C$2$, C$3$, C$4$, C$5$
+<emptyline>
+If each players face each other once, the possible arrangements are:
+<emptyline>
+- C$1$ - C$2$
+- C$1$ - C$3$
+- C$1$ - C$4$
+- C$1$ - C$5$
+<emptyline>
+Count $= 4$
+<emptyline>
+The remaining matches C$2$ play with other are:
+<emptyline>
+- C$2$ - C$3$
+- C$2$ - C$4$
+- C$2$ - C$5$
+<emptyline>
+Count $= 3$
+<emptyline>
+The remaining matches C$3$ plays with other are:
+<emptyline>
+- C$3$ - C$4$
+- C$3$ - C$5$
+<emptyline>
+Count $= 2$
+<emptyline>
+The remaining match C$4$ play with C$5$
+<emptyline>
+- C$4$ - C$5$
+<emptyline>
+Count $= 1$
+<emptyline>
+Total count $= 4 + 3 + 2 + 1 = 10$
+</code></pre>
+</div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Using permutation,
+<emptyline>
+Number of matches first player play $= 4$
+<emptyline>
+Number of matches second player play with remaining players $= 3$
+<emptyline>
+Number of matches third player play with remaining players $= 2$
+<emptyline>
+Number of matches forth player play with remaining players $= 1$
+<emptyline>
+Total arrangements $= 4 + 3 + 2 + 1 = 10$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$10$
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="F0E5AC4B-9543-44E6-BAB8-0991A9B073BD" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="F0E5AC4B-9543-44E6-BAB8-0991A9B073BD" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="F0E5AC4B-9543-44E6-BAB8-0991A9B073BD" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="F0E5AC4B-9543-44E6-BAB8-0991A9B073BD" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="F0E5AC4B-9543-44E6-BAB8-0991A9B073BD" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="F0E5AC4B-9543-44E6-BAB8-0991A9B073BD" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="F0E5AC4B-9543-44E6-BAB8-0991A9B073BD" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="F0E5AC4B-9543-44E6-BAB8-0991A9B073BD" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="F0E5AC4B-9543-44E6-BAB8-0991A9B073BD" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="F0E5AC4B-9543-44E6-BAB8-0991A9B073BD" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="PR" data-uuid="F0E5AC4B-9543-44E6-BAB8-0991A9B073BD" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="F0E5AC4B-9543-44E6-BAB8-0991A9B073BD" id="FORM-F0E5AC4B-9543-44E6-BAB8-0991A9B073BD" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-F0E5AC4B-9543-44E6-BAB8-0991A9B073BD">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g3 rag_prns question">
+<div class="uuid">
+<p>54031DD7-DAC6-44A3-A2F6-593F6B620F71</p>
+</div>
+<div class="papername">
+<p>solihull-school--11-plus--maths--9999--sample-paper-1:3:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g3</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Some numbers read the same forwards and backwards, like $343$ and $1221$. We call these numbers *mirror numbers*.  
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Some numbers read the same forwards and backwards, like $343$ and $1221$. We call these numbers *mirror numbers*.  
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+%empty%
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+%empty%
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+</div>
+<ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Find all *mirror numbers* between $10$ and $100$. Write your answers in the space below.
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Find all *mirror numbers* between $10$ and $100$. Write your answers in the space below.
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+The possible numbers are:
+
+- $11$
+- $22$
+- $33$
+- $44$
+- $55$
+- $66$
+- $77$
+- $88$
+- $99$
+
+Total count $= 9$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$9$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The possible numbers are:
+<emptyline>
+- $11$
+- $22$
+- $33$
+- $44$
+- $55$
+- $66$
+- $77$
+- $88$
+- $99$
+<emptyline>
+Total count $= 9$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$9$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Find all the *mirror numbers* between $100$ and $200$. Write your answers in the space below.
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Find all the *mirror numbers* between $100$ and $200$. Write your answers in the space below.
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+The possible numbers are:
+
+- $101$
+- $111$
+- $121$
+- $131$
+- $141$
+- $151$
+- $161$
+- $171$
+- $181$
+- $191$
+
+Count $= 10$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$10$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The possible numbers are:
+<emptyline>
+- $101$
+- $111$
+- $121$
+- $131$
+- $141$
+- $151$
+- $161$
+- $171$
+- $181$
+- $191$
+<emptyline>
+Count $= 10$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$10$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="54031DD7-DAC6-44A3-A2F6-593F6B620F71" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="54031DD7-DAC6-44A3-A2F6-593F6B620F71" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="54031DD7-DAC6-44A3-A2F6-593F6B620F71" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="54031DD7-DAC6-44A3-A2F6-593F6B620F71" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="54031DD7-DAC6-44A3-A2F6-593F6B620F71" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="54031DD7-DAC6-44A3-A2F6-593F6B620F71" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="54031DD7-DAC6-44A3-A2F6-593F6B620F71" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="54031DD7-DAC6-44A3-A2F6-593F6B620F71" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="54031DD7-DAC6-44A3-A2F6-593F6B620F71" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="54031DD7-DAC6-44A3-A2F6-593F6B620F71" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G3" data-uuid="54031DD7-DAC6-44A3-A2F6-593F6B620F71" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="54031DD7-DAC6-44A3-A2F6-593F6B620F71" id="FORM-54031DD7-DAC6-44A3-A2F6-593F6B620F71" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-54031DD7-DAC6-44A3-A2F6-593F6B620F71">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g3 rag_prns question">
+<div class="uuid">
+<p>80F7B21B-042A-463F-B512-9DFE4B52A8BB</p>
+</div>
+<div class="papername">
+<p>solihull-school--11-plus--maths--9999--sample-paper-1:3:3</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g3</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+The three digit number $452$ has a digit sum of $11$ because $4 + 5 + 2 = 11$.
+
+The three digit number $584$ has a digit sum of $17$ because $5 + 8 + 4 = 17$.
+
+Write down in the space below all $3$ digit numbers that have a digit sum equal to $25$.
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The three digit number $452$ has a digit sum of $11$ because $4 + 5 + 2 = 11$.
+<emptyline>
+The three digit number $584$ has a digit sum of $17$ because $5 + 8 + 4 = 17$.
+<emptyline>
+Write down in the space below all $3$ digit numbers that have a digit sum equal to $25$.
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+If we use number $7$ and above, the possible arrangements are:
+
+- $799$
+- $979$
+- $997$
+
+Count $= 3$
+
+If we use number $8$ and above, the possible arrangements are:
+
+- $889$
+- $898$
+- $988$
+
+Count $= 3$
+
+Total count $= 3 + 3 = 6$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$6$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">If we use number $7$ and above, the possible arrangements are:
+<emptyline>
+- $799$
+- $979$
+- $997$
+<emptyline>
+Count $= 3$
+<emptyline>
+If we use number $8$ and above, the possible arrangements are:
+<emptyline>
+- $889$
+- $898$
+- $988$
+<emptyline>
+Count $= 3$
+<emptyline>
+Total count $= 3 + 3 = 6$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$6$
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="80F7B21B-042A-463F-B512-9DFE4B52A8BB" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="80F7B21B-042A-463F-B512-9DFE4B52A8BB" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="80F7B21B-042A-463F-B512-9DFE4B52A8BB" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="80F7B21B-042A-463F-B512-9DFE4B52A8BB" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="80F7B21B-042A-463F-B512-9DFE4B52A8BB" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="80F7B21B-042A-463F-B512-9DFE4B52A8BB" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="80F7B21B-042A-463F-B512-9DFE4B52A8BB" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="80F7B21B-042A-463F-B512-9DFE4B52A8BB" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="80F7B21B-042A-463F-B512-9DFE4B52A8BB" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="80F7B21B-042A-463F-B512-9DFE4B52A8BB" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G3" data-uuid="80F7B21B-042A-463F-B512-9DFE4B52A8BB" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="80F7B21B-042A-463F-B512-9DFE4B52A8BB" id="FORM-80F7B21B-042A-463F-B512-9DFE4B52A8BB" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-80F7B21B-042A-463F-B512-9DFE4B52A8BB">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g3 rag_prns question">
+<div class="uuid">
+<p>1B6BD0A7-D1DE-432B-8605-593C8A9C8CEE</p>
+</div>
+<div class="papername">
+<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:22</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g3</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Four people meet to discuss a new swimming competition. Each person shakes everyone else's hand exactly once. How many handshakes are there in total? 
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Four people meet to discuss a new swimming competition. Each person shakes everyone else's hand exactly once. How many handshakes are there in total? 
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Let the four people $= \text{P1, P2, P3, P4}$
+
+The possible combinations are:
+
+- $\text{P1, P2}$
+- $\text{P1, P3}$
+- $\text{P1, P4}$
+- $\text{P2, P3}$
+- $\text{P2, P4}$
+- $\text{P3, P4}$
+
+Total count $= 6$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$6$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Let the four people $= \text{P1, P2, P3, P4}$
+<emptyline>
+The possible combinations are:
+<emptyline>
+- $\text{P1, P2}$
+- $\text{P1, P3}$
+- $\text{P1, P4}$
+- $\text{P2, P3}$
+- $\text{P2, P4}$
+- $\text{P3, P4}$
+<emptyline>
+Total count $= 6$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$6$
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="1B6BD0A7-D1DE-432B-8605-593C8A9C8CEE" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="1B6BD0A7-D1DE-432B-8605-593C8A9C8CEE" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="1B6BD0A7-D1DE-432B-8605-593C8A9C8CEE" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="1B6BD0A7-D1DE-432B-8605-593C8A9C8CEE" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="1B6BD0A7-D1DE-432B-8605-593C8A9C8CEE" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="1B6BD0A7-D1DE-432B-8605-593C8A9C8CEE" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="1B6BD0A7-D1DE-432B-8605-593C8A9C8CEE" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="1B6BD0A7-D1DE-432B-8605-593C8A9C8CEE" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="1B6BD0A7-D1DE-432B-8605-593C8A9C8CEE" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="1B6BD0A7-D1DE-432B-8605-593C8A9C8CEE" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G3" data-uuid="1B6BD0A7-D1DE-432B-8605-593C8A9C8CEE" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="1B6BD0A7-D1DE-432B-8605-593C8A9C8CEE" id="FORM-1B6BD0A7-D1DE-432B-8605-593C8A9C8CEE" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-1B6BD0A7-D1DE-432B-8605-593C8A9C8CEE">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_pr rag_prns question">
+<div class="uuid">
+<p>CE18C1B7-2AEA-42B6-AC9E-022DFFB1AE9F</p>
+</div>
+<div class="papername">
+<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:43</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_pr</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Three people stand in a line in order $A$ $B$ $C$. The people then change positions in the line so that **no one person is left standing in the same position as they were to start with**. 
+For example $C$ $A$ $B$. 
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Three people stand in a line in order $A$ $B$ $C$. The people then change positions in the line so that **no one person is left standing in the same position as they were to start with**. 
+For example $C$ $A$ $B$. 
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+%empty%
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+%empty%
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+</div>
+<ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+What is the only other possible order?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">What is the only other possible order?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+The remaining other possible arrangement is 
+
+B C A
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+B C A
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The remaining other possible arrangement is 
+<emptyline>
+B C A
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">B C A
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+This process is now repeated with four people, $A$ $B$ $C$ $D$.
+
+The people then change positions in the line so that, again, **no one person is left standing in the same position as they were to start with**.
+
+How many possible ways are there of doing this? Use any space on the next page that you need to.
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">This process is now repeated with four people, $A$ $B$ $C$ $D$.
+<emptyline>
+The people then change positions in the line so that, again, **no one person is left standing in the same position as they were to start with**.
+<emptyline>
+How many possible ways are there of doing this? Use any space on the next page that you need to.
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+The possible arrangements are:
+
+- D A B C
+- C D A B
+- B C D A
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+D A B C, C D A B, B C D A
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The possible arrangements are:
+<emptyline>
+- D A B C
+- C D A B
+- B C D A
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">D A B C, C D A B, B C D A
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="CE18C1B7-2AEA-42B6-AC9E-022DFFB1AE9F" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="CE18C1B7-2AEA-42B6-AC9E-022DFFB1AE9F" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="CE18C1B7-2AEA-42B6-AC9E-022DFFB1AE9F" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="CE18C1B7-2AEA-42B6-AC9E-022DFFB1AE9F" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="CE18C1B7-2AEA-42B6-AC9E-022DFFB1AE9F" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="CE18C1B7-2AEA-42B6-AC9E-022DFFB1AE9F" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="CE18C1B7-2AEA-42B6-AC9E-022DFFB1AE9F" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="CE18C1B7-2AEA-42B6-AC9E-022DFFB1AE9F" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="CE18C1B7-2AEA-42B6-AC9E-022DFFB1AE9F" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="CE18C1B7-2AEA-42B6-AC9E-022DFFB1AE9F" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="PR" data-uuid="CE18C1B7-2AEA-42B6-AC9E-022DFFB1AE9F" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="CE18C1B7-2AEA-42B6-AC9E-022DFFB1AE9F" id="FORM-CE18C1B7-2AEA-42B6-AC9E-022DFFB1AE9F" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-CE18C1B7-2AEA-42B6-AC9E-022DFFB1AE9F">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_notstarted rag_prns question">
+<div class="uuid">
+<p>45D0708C-8684-4037-9E55-49C523679E3E</p>
+</div>
+<div class="papername">
+<p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:20</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_notstarted</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+<li>
+tdraw
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+The equilateral triangle $ADF$ is split into four equally sized smaller equilateral triangles.
+
+![papers/st-albans-school/2019/sample-paper-1/s01-q20-i00.png](/assets/papers/st-albans-school/2019/sample-paper-1/s01-q20-i00.png "papers/st-albans-school/2019/sample-paper-1/s01-q20-i00.png")  
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The equilateral triangle $ADF$ is split into four equally sized smaller equilateral triangles.
+<emptyline>
+%image%  
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+%empty%
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+%empty%
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+</div>
+<ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Two of the four small triangles are to be painted black and the other two are to be painted white. In how many different ways can this be done?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Two of the four small triangles are to be painted black and the other two are to be painted white. In how many different ways can this be done?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+$\dfrac {1} {2}$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$\dfrac {1} {2}$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$\dfrac {1} {2}$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$\dfrac {1} {2}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Ben thinks that he can draw a copy of the of triangles without taking his pencil off the page and without going over the same line twice. He begins at $A$ and then travels to $B$.
+Complete the list below showing the order that Ben's pencil visits the corners of the triangles.
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Ben thinks that he can draw a copy of the of triangles without taking his pencil off the page and without going over the same line twice. He begins at $A$ and then travels to $B$.
+Complete the list below showing the order that Ben's pencil visits the corners of the triangles.
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+$\text {A}, \quad  \text {B}, \quad \text {D}, \quad \text {E}, \quad \text {F},  \quad \text {C}, \quad \text {E}, \quad \text {B}, \quad \text {C}, \quad \text {A}$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$\text {A}, \quad  \text {B}, \quad \text {D}, \quad \text {E}, \quad \text {F},  \quad \text {C}, \quad \text {E}, \quad \text {B}, \quad \text {C}, \quad \text {A}$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$\text {A}, \quad  \text {B}, \quad \text {D}, \quad \text {E}, \quad \text {F},  \quad \text {C}, \quad \text {E}, \quad \text {B}, \quad \text {C}, \quad \text {A}$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$\text {A}, \quad  \text {B}, \quad \text {D}, \quad \text {E}, \quad \text {F},  \quad \text {C}, \quad \text {E}, \quad \text {B}, \quad \text {C}, \quad \text {A}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="45D0708C-8684-4037-9E55-49C523679E3E" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="45D0708C-8684-4037-9E55-49C523679E3E" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="45D0708C-8684-4037-9E55-49C523679E3E" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="45D0708C-8684-4037-9E55-49C523679E3E" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="45D0708C-8684-4037-9E55-49C523679E3E" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="45D0708C-8684-4037-9E55-49C523679E3E" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="45D0708C-8684-4037-9E55-49C523679E3E" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="45D0708C-8684-4037-9E55-49C523679E3E" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="45D0708C-8684-4037-9E55-49C523679E3E" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="45D0708C-8684-4037-9E55-49C523679E3E" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NS" data-uuid="45D0708C-8684-4037-9E55-49C523679E3E" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="45D0708C-8684-4037-9E55-49C523679E3E" id="FORM-45D0708C-8684-4037-9E55-49C523679E3E" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-45D0708C-8684-4037-9E55-49C523679E3E">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g3 rag_prns question">
+<div class="uuid">
+<p>C63E647F-F037-4015-B0BA-EA9158085B74</p>
+</div>
+<div class="papername">
+<p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:16</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g3</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Tom   only  has $4$  Smarties   left, one   each  of Red,  Green,   Orange   and   Yellow.  If he chooses $2$ 
+Smarties,   list  all   the   possible combinations   of colours.
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Tom   only  has $4$  Smarties   left, one   each  of Red,  Green,   Orange   and   Yellow.  If he chooses $2$ 
+Smarties,   list  all   the   possible combinations   of colours.
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+The possible combinations are:
+
+- Red, Green
+- Red, Orange
+- Red, Yellow
+- Green, Orange
+- Green, Yellow
+- Orange, Yellow
+
+Total count $= 6$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$6$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The possible combinations are:
+<emptyline>
+- Red, Green
+- Red, Orange
+- Red, Yellow
+- Green, Orange
+- Green, Yellow
+- Orange, Yellow
+<emptyline>
+Total count $= 6$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$6$
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C63E647F-F037-4015-B0BA-EA9158085B74" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C63E647F-F037-4015-B0BA-EA9158085B74" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C63E647F-F037-4015-B0BA-EA9158085B74" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C63E647F-F037-4015-B0BA-EA9158085B74" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C63E647F-F037-4015-B0BA-EA9158085B74" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C63E647F-F037-4015-B0BA-EA9158085B74" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C63E647F-F037-4015-B0BA-EA9158085B74" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C63E647F-F037-4015-B0BA-EA9158085B74" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C63E647F-F037-4015-B0BA-EA9158085B74" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C63E647F-F037-4015-B0BA-EA9158085B74" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G3" data-uuid="C63E647F-F037-4015-B0BA-EA9158085B74" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C63E647F-F037-4015-B0BA-EA9158085B74" id="FORM-C63E647F-F037-4015-B0BA-EA9158085B74" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-C63E647F-F037-4015-B0BA-EA9158085B74">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g3 rag_prns question">
+<div class="uuid">
+<p>664D1020-0D74-4C00-AA28-98DCB5B47ED4</p>
+</div>
+<div class="papername">
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:9</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g3</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Here are some digit cards:
+
+$\boxed{2} \quad \boxed{4} \quad \boxed{6} \quad \boxed{6}$
+
+Write all the three-digit numbers, greater than $500$, that can be made using these cards.
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Here are some digit cards:
+<emptyline>
+$\boxed{2} \quad \boxed{4} \quad \boxed{6} \quad \boxed{6}$
+<emptyline>
+Write all the three-digit numbers, greater than $500$, that can be made using these cards.
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+The possible arrangements are:
+
+- $624$
+- $626$
+- $642$
+- $646$
+- $662$
+- $664$
+
+Total count $= 6$
+</div>
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Using permutation,
+
+Number of digits that can be used in the hundreds place (only $6$ can be used) $= 1$
+
+Number of digits that can be used in the tens place $= 3$
+
+Number of digits that can be used in the units place $= 2$
+
+Total arrangements $= 1 \times 3 \times 2 = 6$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$6$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The possible arrangements are:
+<emptyline>
+- $624$
+- $626$
+- $642$
+- $646$
+- $662$
+- $664$
+<emptyline>
+Total count $= 6$
+</code></pre>
+</div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Using permutation,
+<emptyline>
+Number of digits that can be used in the hundreds place (only $6$ can be used) $= 1$
+<emptyline>
+Number of digits that can be used in the tens place $= 3$
+<emptyline>
+Number of digits that can be used in the units place $= 2$
+<emptyline>
+Total arrangements $= 1 \times 3 \times 2 = 6$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$6$
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="664D1020-0D74-4C00-AA28-98DCB5B47ED4" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="664D1020-0D74-4C00-AA28-98DCB5B47ED4" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="664D1020-0D74-4C00-AA28-98DCB5B47ED4" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="664D1020-0D74-4C00-AA28-98DCB5B47ED4" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="664D1020-0D74-4C00-AA28-98DCB5B47ED4" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="664D1020-0D74-4C00-AA28-98DCB5B47ED4" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="664D1020-0D74-4C00-AA28-98DCB5B47ED4" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="664D1020-0D74-4C00-AA28-98DCB5B47ED4" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="664D1020-0D74-4C00-AA28-98DCB5B47ED4" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="664D1020-0D74-4C00-AA28-98DCB5B47ED4" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G3" data-uuid="664D1020-0D74-4C00-AA28-98DCB5B47ED4" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="664D1020-0D74-4C00-AA28-98DCB5B47ED4" id="FORM-664D1020-0D74-4C00-AA28-98DCB5B47ED4" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-664D1020-0D74-4C00-AA28-98DCB5B47ED4">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_pr rag_prns question">
+<div class="uuid">
+<p>C7F20EB0-C4C4-4499-BD65-DF14A74B3D94</p>
+</div>
+<div class="papername">
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:1:30</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_pr</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+<li>
+tdraw
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Four friends, Archibald, Bertram, Camilla and Daphne go on holiday together on the French Riviera. On the first evening at 
+the hotel they sit down to dinner at a square table shown below. Archibald insists that he sits facing South so that he can have a clear view of the Mediterranean Sea, whilst Bertram and Camilla decide to sit next to each other. Show the four possible seating arrangements on the diagrams below. The first one has been done for you.
+
+![papers/the-haberdashers-askes-boys-school/2009/sample-paper-1/s01-q30-i00.png](/assets/papers/the-haberdashers-askes-boys-school/2009/sample-paper-1/s01-q30-i00.png "papers/the-haberdashers-askes-boys-school/2009/sample-paper-1/s01-q30-i00.png")
+![papers/the-haberdashers-askes-boys-school/2009/sample-paper-1/s01-q30-i01.png](/assets/papers/the-haberdashers-askes-boys-school/2009/sample-paper-1/s01-q30-i01.png "papers/the-haberdashers-askes-boys-school/2009/sample-paper-1/s01-q30-i01.png")
+![papers/the-haberdashers-askes-boys-school/2009/sample-paper-1/s01-q30-i02.png](/assets/papers/the-haberdashers-askes-boys-school/2009/sample-paper-1/s01-q30-i02.png "papers/the-haberdashers-askes-boys-school/2009/sample-paper-1/s01-q30-i02.png")
+![papers/the-haberdashers-askes-boys-school/2009/sample-paper-1/s01-q30-i03.png](/assets/papers/the-haberdashers-askes-boys-school/2009/sample-paper-1/s01-q30-i03.png "papers/the-haberdashers-askes-boys-school/2009/sample-paper-1/s01-q30-i03.png")
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Four friends, Archibald, Bertram, Camilla and Daphne go on holiday together on the French Riviera. On the first evening at 
+the hotel they sit down to dinner at a square table shown below. Archibald insists that he sits facing South so that he can have a clear view of the Mediterranean Sea, whilst Bertram and Camilla decide to sit next to each other. Show the four possible seating arrangements on the diagrams below. The first one has been done for you.
+<emptyline>
+%image%
+%image%
+%image%
+%image%
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Let Archibald be 'A', Bertram be 'B', Camilla be 'C', Daphne be 'D'
+
+If Bertram and Camilla sit next to each other and Archibald sit on north, the possible arrangements are:
+
+| North     | East  | South     | West  |
+|:---:  |:---:  |:---:  |:---:  |
+| A     | B     | C     | D     |
+| A     | C     | B     | D     |
+| A     | D     | B     | C     |
+| A     | D     | C     | B     |
+
+Count $= 4$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$4$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Let Archibald be 'A', Bertram be 'B', Camilla be 'C', Daphne be 'D'
+<emptyline>
+If Bertram and Camilla sit next to each other and Archibald sit on north, the possible arrangements are:
+<emptyline>
+| North     | East  | South     | West  |
+|:---:  |:---:  |:---:  |:---:  |
+| A     | B     | C     | D     |
+| A     | C     | B     | D     |
+| A     | D     | B     | C     |
+| A     | D     | C     | B     |
+<emptyline>
+Count $= 4$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$4$
+</code></pre>
+</div>
+</div>
+<ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+On the second day of the holiday, Archibald relents and graciously allows anyone (including himself) to face the sea, 
+although Bertram and Camilla still choose to sit next to each other. How many possible arrangements are there now?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">On the second day of the holiday, Archibald relents and graciously allows anyone (including himself) to face the sea, 
+although Bertram and Camilla still choose to sit next to each other. How many possible arrangements are there now?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Let Archibald be 'A', Bertram be 'B', Camilla be 'C', Daphne be 'D'
+
+If Bertram sit on North, the possible arrangements are:
+
+| North     | East  | South     | West  |
+|:---:  |:---:  |:---:  |:---:  |
+| B     | C     | D     | A     |
+| B     | C     | A     | D     |
+| B     | D     | A     | C     |
+| B     | A     | D     | C     |
+
+Count $= 4$
+
+If Bertram sit on South, the possible arrangements are:
+
+| North     | East  | South     | West  |
+|:---:  |:---:  |:---:  |:---:  |
+| D     | C     | B     | A     |
+| A     | C     | B     | D     |
+| D     | A     | B     | C     |
+| A     | D     | B     | C     |
+
+Count $= 4$
+
+If Bertram sit on East, the possible arrangements are:
+
+| North     | East  | South     | West  |
+|:---:  |:---:  |:---:  |:---:  |
+| D     | B     | C     | A     |
+| A     | B     | C     | D     |
+| C     | B     | D     | A     |
+| C     | B     | A     | D     |
+
+Count $= 4$
+
+If Bertram sit on East, the possible arrangements are:
+
+| North     | East  | South     | West  |
+|:---:  |:---:  |:---:  |:---:  |
+| D     | A     | C     | B     |
+| A     | D     | C     | B     |
+| C     | D     | A     | B     |
+| C     | A     | D     | B     |
+
+Count $= 4$
+
+Total count $= 4 + 4 + 4 +4 = 16$
+</div>
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Using permutation,
+
+Number of ways Bertram and Camilla can sit $= 8$
+
+Number of ways Daphne can sit $= 2$
+
+Number of ways Archibald can sit $= 1$
+
+Total arrangements $= 8 \times 2 \times 1 = 16$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$16$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Let Archibald be 'A', Bertram be 'B', Camilla be 'C', Daphne be 'D'
+<emptyline>
+If Bertram sit on North, the possible arrangements are:
+<emptyline>
+| North     | East  | South     | West  |
+|:---:  |:---:  |:---:  |:---:  |
+| B     | C     | D     | A     |
+| B     | C     | A     | D     |
+| B     | D     | A     | C     |
+| B     | A     | D     | C     |
+<emptyline>
+Count $= 4$
+<emptyline>
+If Bertram sit on South, the possible arrangements are:
+<emptyline>
+| North     | East  | South     | West  |
+|:---:  |:---:  |:---:  |:---:  |
+| D     | C     | B     | A     |
+| A     | C     | B     | D     |
+| D     | A     | B     | C     |
+| A     | D     | B     | C     |
+<emptyline>
+Count $= 4$
+<emptyline>
+If Bertram sit on East, the possible arrangements are:
+<emptyline>
+| North     | East  | South     | West  |
+|:---:  |:---:  |:---:  |:---:  |
+| D     | B     | C     | A     |
+| A     | B     | C     | D     |
+| C     | B     | D     | A     |
+| C     | B     | A     | D     |
+<emptyline>
+Count $= 4$
+<emptyline>
+If Bertram sit on East, the possible arrangements are:
+<emptyline>
+| North     | East  | South     | West  |
+|:---:  |:---:  |:---:  |:---:  |
+| D     | A     | C     | B     |
+| A     | D     | C     | B     |
+| C     | D     | A     | B     |
+| C     | A     | D     | B     |
+<emptyline>
+Count $= 4$
+<emptyline>
+Total count $= 4 + 4 + 4 +4 = 16$
+</code></pre>
+</div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Using permutation,
+<emptyline>
+Number of ways Bertram and Camilla can sit $= 8$
+<emptyline>
+Number of ways Daphne can sit $= 2$
+<emptyline>
+Number of ways Archibald can sit $= 1$
+<emptyline>
+Total arrangements $= 8 \times 2 \times 1 = 16$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$16$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+On the last day of the holiday, all four friends decide that they can sit where they like.  How many possible arrangements are there now?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">On the last day of the holiday, all four friends decide that they can sit where they like.  How many possible arrangements are there now?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+If Bertram and Camilla sit next to each other, and Archibald likes sit on north, the possible arrangements are:
+
+| North     | East  | South     | West  |
+|:---:  |:---:  |:---:  |:---:  |
+| A     | B     | C     | D     |
+| A     | C     | B     | D     |
+| A     | D     | B     | C     |
+| A     | D     | C     | B     |
+
+Count $= 4$
+</div>
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Using permutation,
+
+Number of ways Archibald can sit $= 1$
+
+Number of ways Bertram and Camilla can sit $= 4$
+
+Number of ways Daphne can sit $= 1$
+
+Total arrangements $= 1 \times 4 \times 1 = 4$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$4$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">If Bertram and Camilla sit next to each other, and Archibald likes sit on north, the possible arrangements are:
+<emptyline>
+| North     | East  | South     | West  |
+|:---:  |:---:  |:---:  |:---:  |
+| A     | B     | C     | D     |
+| A     | C     | B     | D     |
+| A     | D     | B     | C     |
+| A     | D     | C     | B     |
+<emptyline>
+Count $= 4$
+</code></pre>
+</div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Using permutation,
+<emptyline>
+Number of ways Archibald can sit $= 1$
+<emptyline>
+Number of ways Bertram and Camilla can sit $= 4$
+<emptyline>
+Number of ways Daphne can sit $= 1$
+<emptyline>
+Total arrangements $= 1 \times 4 \times 1 = 4$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$4$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="C7F20EB0-C4C4-4499-BD65-DF14A74B3D94" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="C7F20EB0-C4C4-4499-BD65-DF14A74B3D94" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="C7F20EB0-C4C4-4499-BD65-DF14A74B3D94" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="C7F20EB0-C4C4-4499-BD65-DF14A74B3D94" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="C7F20EB0-C4C4-4499-BD65-DF14A74B3D94" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="C7F20EB0-C4C4-4499-BD65-DF14A74B3D94" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="C7F20EB0-C4C4-4499-BD65-DF14A74B3D94" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="C7F20EB0-C4C4-4499-BD65-DF14A74B3D94" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="C7F20EB0-C4C4-4499-BD65-DF14A74B3D94" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="C7F20EB0-C4C4-4499-BD65-DF14A74B3D94" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="PR" data-uuid="C7F20EB0-C4C4-4499-BD65-DF14A74B3D94" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="C7F20EB0-C4C4-4499-BD65-DF14A74B3D94" id="FORM-C7F20EB0-C4C4-4499-BD65-DF14A74B3D94" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-C7F20EB0-C4C4-4499-BD65-DF14A74B3D94">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g3 rag_prns question">
+<div class="uuid">
+<p>C6358DE6-D734-48A4-BC67-FD56196E1814</p>
+</div>
+<div class="papername">
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:19</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g3</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+The numbers $34$ and $55$ are two examples of two-digit numbers which are made up using the digits $3, 4$ and $5$. 
+How many two-digit numbers in total can be made using some or all of the digits $3, 4$ and $5?$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The numbers $34$ and $55$ are two examples of two-digit numbers which are made up using the digits $3, 4$ and $5$. 
+How many two-digit numbers in total can be made using some or all of the digits $3, 4$ and $5?$
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+The possible arrangements are:
+
+- $33$
+- $34$
+- $35$
+- $43$
+- $44$ 
+- $45$
+- $53$
+- $54$
+- $55$
+
+Total count $= 9$
+</div>
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Using permutation,
+
+Number of digits that can be used in the tens place $= 3$
+
+Number of digits that can be used in the units place $= 3$
+
+Total arrangements $= 3 \times 3 = 9$ 
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$9$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The possible arrangements are:
+<emptyline>
+- $33$
+- $34$
+- $35$
+- $43$
+- $44$ 
+- $45$
+- $53$
+- $54$
+- $55$
+<emptyline>
+Total count $= 9$
+</code></pre>
+</div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Using permutation,
+<emptyline>
+Number of digits that can be used in the tens place $= 3$
+<emptyline>
+Number of digits that can be used in the units place $= 3$
+<emptyline>
+Total arrangements $= 3 \times 3 = 9$ 
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$9$
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C6358DE6-D734-48A4-BC67-FD56196E1814" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C6358DE6-D734-48A4-BC67-FD56196E1814" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C6358DE6-D734-48A4-BC67-FD56196E1814" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C6358DE6-D734-48A4-BC67-FD56196E1814" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C6358DE6-D734-48A4-BC67-FD56196E1814" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C6358DE6-D734-48A4-BC67-FD56196E1814" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C6358DE6-D734-48A4-BC67-FD56196E1814" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C6358DE6-D734-48A4-BC67-FD56196E1814" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C6358DE6-D734-48A4-BC67-FD56196E1814" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C6358DE6-D734-48A4-BC67-FD56196E1814" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G3" data-uuid="C6358DE6-D734-48A4-BC67-FD56196E1814" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C6358DE6-D734-48A4-BC67-FD56196E1814" id="FORM-C6358DE6-D734-48A4-BC67-FD56196E1814" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-C6358DE6-D734-48A4-BC67-FD56196E1814">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g3 rag_prns question">
+<div class="uuid">
+<p>922BF11C-6CA4-42A0-9968-DD93678A9BF4</p>
+</div>
+<div class="papername">
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:1:21</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g3</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Amar (form captain), Brian (vice captain), Charles and Daniel are best friends in the same class at school. 
+They always like to stand next to each other in the lunch queue. 
+
+On Mondays it is a school rule that the form captain is at the front of the queue followed by the vice captain. 
+There are two ways in which these boys can queue up on a Monday: $ABCD$ and $ABDC$. 
+
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Amar (form captain), Brian (vice captain), Charles and Daniel are best friends in the same class at school. 
+They always like to stand next to each other in the lunch queue. 
+<emptyline>
+On Mondays it is a school rule that the form captain is at the front of the queue followed by the vice captain. 
+There are two ways in which these boys can queue up on a Monday: $ABCD$ and $ABDC$. 
+<emptyline>
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+%empty%
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+%empty%
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+</div>
+<ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+On Tuesdays, the form captain must again queue up first but the remaining three boys can follow in any order. 
+There are six ways in which these boys can queue up on a Tuesday. Four of these ways are listed below. 
+
+Write down the remaining two: $ABCD, ABDC, ACBD, ACDB, \text{\textunderscore \textunderscore \textunderscore}, \text{\textunderscore \textunderscore \textunderscore}$ 
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">On Tuesdays, the form captain must again queue up first but the remaining three boys can follow in any order. 
+There are six ways in which these boys can queue up on a Tuesday. Four of these ways are listed below. 
+<emptyline>
+Write down the remaining two: $ABCD, ABDC, ACBD, ACDB, \text{\textunderscore \textunderscore \textunderscore}, \text{\textunderscore \textunderscore \textunderscore}$ 
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+The remaining possible ways are:
+
+- $\text{ADBC}$
+- $\text{ADCB}$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$\text{ADBC, ADCB}$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The remaining possible ways are:
+<emptyline>
+- $\text{ADBC}$
+- $\text{ADCB}$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$\text{ADBC, ADCB}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+On Wednesdays there are no restrictions and all four boys can queue up together in any order. In how many ways can this be done? 
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">On Wednesdays there are no restrictions and all four boys can queue up together in any order. In how many ways can this be done? 
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+If $\text{A}$ is in the first position, the possible arrangements are:
+
+- $\text{ABCD}$
+- $\text{ABDC}$
+- $\text{ACBD}$
+- $\text{ACDB}$
+- $\text{ADBC}$
+- $\text{ADCB}$
+
+Count $= 6$
+
+If $\text{B}$ is in the first position, the possible arrangements are:
+
+- $\text{BACD}$
+- $\text{BADC}$
+- $\text{BCAD}$
+- $\text{BCDA}$
+- $\text{BDAC}$
+- $\text{BDCA}$
+
+Count $= 6$
+
+If $\text{C}$ is in the first position, the possible arrangements are:
+
+- $\text{CABD}$
+- $\text{CADB}$
+- $\text{CBAD}$
+- $\text{CBDA}$
+- $\text{CDAB}$
+- $\text{CDBA}$
+
+Count $= 6$
+
+If $\text{D}$ is in the first position, the possible arrangements are:
+
+- $\text{DABC}$
+- $\text{DACB}$
+- $\text{DBAC}$
+- $\text{DBCA}$
+- $\text{DCAB}$
+- $\text{DCBA}$
+
+Count $= 6$
+
+Total count $= 6 + 6 + 6 + 6 = 24$
+</div>
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Using permutation,
+
+Number of places $\text{A}$ can be in the queue $= 4$
+
+Number of places $\text{B}$ can be in the queue $= 3$
+
+Number of places $\text{C}$ can be in the queue $= 2$
+
+Number of places $\text{D}$ can be in the queue $= 1$
+
+Total arrangements $= 4 \times 3 \times 2 \times 1 = 24$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$24$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">If $\text{A}$ is in the first position, the possible arrangements are:
+<emptyline>
+- $\text{ABCD}$
+- $\text{ABDC}$
+- $\text{ACBD}$
+- $\text{ACDB}$
+- $\text{ADBC}$
+- $\text{ADCB}$
+<emptyline>
+Count $= 6$
+<emptyline>
+If $\text{B}$ is in the first position, the possible arrangements are:
+<emptyline>
+- $\text{BACD}$
+- $\text{BADC}$
+- $\text{BCAD}$
+- $\text{BCDA}$
+- $\text{BDAC}$
+- $\text{BDCA}$
+<emptyline>
+Count $= 6$
+<emptyline>
+If $\text{C}$ is in the first position, the possible arrangements are:
+<emptyline>
+- $\text{CABD}$
+- $\text{CADB}$
+- $\text{CBAD}$
+- $\text{CBDA}$
+- $\text{CDAB}$
+- $\text{CDBA}$
+<emptyline>
+Count $= 6$
+<emptyline>
+If $\text{D}$ is in the first position, the possible arrangements are:
+<emptyline>
+- $\text{DABC}$
+- $\text{DACB}$
+- $\text{DBAC}$
+- $\text{DBCA}$
+- $\text{DCAB}$
+- $\text{DCBA}$
+<emptyline>
+Count $= 6$
+<emptyline>
+Total count $= 6 + 6 + 6 + 6 = 24$
+</code></pre>
+</div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Using permutation,
+<emptyline>
+Number of places $\text{A}$ can be in the queue $= 4$
+<emptyline>
+Number of places $\text{B}$ can be in the queue $= 3$
+<emptyline>
+Number of places $\text{C}$ can be in the queue $= 2$
+<emptyline>
+Number of places $\text{D}$ can be in the queue $= 1$
+<emptyline>
+Total arrangements $= 4 \times 3 \times 2 \times 1 = 24$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$24$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="922BF11C-6CA4-42A0-9968-DD93678A9BF4" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="922BF11C-6CA4-42A0-9968-DD93678A9BF4" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="922BF11C-6CA4-42A0-9968-DD93678A9BF4" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="922BF11C-6CA4-42A0-9968-DD93678A9BF4" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="922BF11C-6CA4-42A0-9968-DD93678A9BF4" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="922BF11C-6CA4-42A0-9968-DD93678A9BF4" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="922BF11C-6CA4-42A0-9968-DD93678A9BF4" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="922BF11C-6CA4-42A0-9968-DD93678A9BF4" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="922BF11C-6CA4-42A0-9968-DD93678A9BF4" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="922BF11C-6CA4-42A0-9968-DD93678A9BF4" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G3" data-uuid="922BF11C-6CA4-42A0-9968-DD93678A9BF4" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="922BF11C-6CA4-42A0-9968-DD93678A9BF4" id="FORM-922BF11C-6CA4-42A0-9968-DD93678A9BF4" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-922BF11C-6CA4-42A0-9968-DD93678A9BF4">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g3 rag_prns question">
+<div class="uuid">
+<p>BC6FB873-8414-4318-9DC4-D285568AABAC</p>
+</div>
+<div class="papername">
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:29</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g3</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+The streets of New York are arranged in a grid as shown in the diagram.
+
+![papers/the-haberdashers-askes-boys-school/2013/sample-paper-4/s01-q29-i00.png](/assets/papers/the-haberdashers-askes-boys-school/2013/sample-paper-4/s01-q29-i00.png "papers/the-haberdashers-askes-boys-school/2013/sample-paper-4/s01-q29-i00.png")
+
+- There are three direct ways of travelling from $A$ to $B$.
+- Travel one block North followed by two blocks East
+- Travel one block East followed by one block North followed by one block East
+- Travel two blocks East followed by one block North.
+- We write these as $NEE, ENE$ and $EEN$ respectively.
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The streets of New York are arranged in a grid as shown in the diagram.
+<emptyline>
+%image%
+<emptyline>
+- There are three direct ways of travelling from $A$ to $B$.
+- Travel one block North followed by two blocks East
+- Travel one block East followed by one block North followed by one block East
+- Travel two blocks East followed by one block North.
+- We write these as $NEE, ENE$ and $EEN$ respectively.
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+%empty%
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+%empty%
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+</div>
+<ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+There are six direct routes from $A$ to $C$. Four of these routes are $NNEE, NENE, ENEN$ and $EENN$. 
+Write down the remaining two routes.
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">There are six direct routes from $A$ to $C$. Four of these routes are $NNEE, NENE, ENEN$ and $EENN$. 
+Write down the remaining two routes.
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+The remaining possible routes are:
+
+- $\text{NEEN}$
+- $\text{ENNE}$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$\text{NEEN, ENNE}$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The remaining possible routes are:
+<emptyline>
+- $\text{NEEN}$
+- $\text{ENNE}$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$\text{NEEN, ENNE}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+How many direct routes are there to travel from $A$ to $D$?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">How many direct routes are there to travel from $A$ to $D$?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+The possible routes are:
+
+- $\text{ENNN}$
+- $\text{NENN}$
+- $\text{NNEN}$
+- $\text{NNNE}$
+
+Count $= 4$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$4$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The possible routes are:
+<emptyline>
+- $\text{ENNN}$
+- $\text{NENN}$
+- $\text{NNEN}$
+- $\text{NNNE}$
+<emptyline>
+Count $= 4$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$4$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+How many direct routes are there to travel from $A$ to $E$?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">How many direct routes are there to travel from $A$ to $E$?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+The possible routes are:
+
+- $\text{EEENN}$
+- $\text{EENEN}$
+- $\text{EENNE}$
+- $\text{ENEEN}$
+- $\text{ENENE}$
+- $\text{ENNEE}$
+- $\text{NEEEN}$
+- $\text{NEENE}$
+- $\text{NENEE}$
+- $\text{NNEEE}$
+
+Count $= 10$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$10$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The possible routes are:
+<emptyline>
+- $\text{EEENN}$
+- $\text{EENEN}$
+- $\text{EENNE}$
+- $\text{ENEEN}$
+- $\text{ENENE}$
+- $\text{ENNEE}$
+- $\text{NEEEN}$
+- $\text{NEENE}$
+- $\text{NENEE}$
+- $\text{NNEEE}$
+<emptyline>
+Count $= 10$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$10$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BC6FB873-8414-4318-9DC4-D285568AABAC" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BC6FB873-8414-4318-9DC4-D285568AABAC" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BC6FB873-8414-4318-9DC4-D285568AABAC" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BC6FB873-8414-4318-9DC4-D285568AABAC" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BC6FB873-8414-4318-9DC4-D285568AABAC" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BC6FB873-8414-4318-9DC4-D285568AABAC" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BC6FB873-8414-4318-9DC4-D285568AABAC" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BC6FB873-8414-4318-9DC4-D285568AABAC" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BC6FB873-8414-4318-9DC4-D285568AABAC" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BC6FB873-8414-4318-9DC4-D285568AABAC" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G3" data-uuid="BC6FB873-8414-4318-9DC4-D285568AABAC" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="BC6FB873-8414-4318-9DC4-D285568AABAC" id="FORM-BC6FB873-8414-4318-9DC4-D285568AABAC" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-BC6FB873-8414-4318-9DC4-D285568AABAC">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_pr rag_prns question">
+<div class="uuid">
+<p>77947EF2-B0D5-4A19-9491-ABCEBCA5D788</p>
+</div>
+<div class="papername">
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:19</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_pr</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+The diagram shows the one-way cycle paths in a town. The diagram is not to scale but the distance along each section of the route is shown and is measured in kilometres.
+
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The diagram shows the one-way cycle paths in a town. The diagram is not to scale but the distance along each section of the route is shown and is measured in kilometres.
+<emptyline>
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+%empty%
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+%empty%
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+</div>
+<ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+How many possible routes are there in total from $A$ to $B$? 
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">How many possible routes are there in total from $A$ to $B$? 
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+If we trave A to B, the possible route are:
+
+- $15$
+- $6 + 10$
+- $6 + 8$
+- $4 + 10$
+- $4 + 8$
+- $7 + 10$
+- $7 + 8$
+
+count $= 7$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$7$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">If we trave A to B, the possible route are:
+<emptyline>
+- $15$
+- $6 + 10$
+- $6 + 8$
+- $4 + 10$
+- $4 + 8$
+- $7 + 10$
+- $7 + 8$
+<emptyline>
+count $= 7$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$7$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+How long is the shortest distance from $A$ to $B$?
+
+![papers/the-haberdashers-askes-boys-school/2014/sample-paper-5/s01-q19-s02-i00.png](/assets/papers/the-haberdashers-askes-boys-school/2014/sample-paper-5/s01-q19-s02-i00.png "papers/the-haberdashers-askes-boys-school/2014/sample-paper-5/s01-q19-s02-i00.png")
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">How long is the shortest distance from $A$ to $B$?
+<emptyline>
+%image%
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+| Path     |  Distance    |
+|:---:  |:---:  |
+| $15$  | $15$  |
+| $6 + 10$  | $16$  |
+| $6 + 8$   | $14$  |
+| $4 + 10$  | $14$  |
+| $4 + 8$   | $12$  |
+| $7 + 10$  | $17$  |
+| $7 + 8$   | $15$  |
+
+So, from the above table the shortest distance between A and B $= 12$ 
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$12$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">| Path     |  Distance    |
+|:---:  |:---:  |
+| $15$  | $15$  |
+| $6 + 10$  | $16$  |
+| $6 + 8$   | $14$  |
+| $4 + 10$  | $14$  |
+| $4 + 8$   | $12$  |
+| $7 + 10$  | $17$  |
+| $7 + 8$   | $15$  |
+<emptyline>
+So, from the above table the shortest distance between A and B $= 12$ 
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$12$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="77947EF2-B0D5-4A19-9491-ABCEBCA5D788" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="77947EF2-B0D5-4A19-9491-ABCEBCA5D788" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="77947EF2-B0D5-4A19-9491-ABCEBCA5D788" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="77947EF2-B0D5-4A19-9491-ABCEBCA5D788" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="77947EF2-B0D5-4A19-9491-ABCEBCA5D788" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="77947EF2-B0D5-4A19-9491-ABCEBCA5D788" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="77947EF2-B0D5-4A19-9491-ABCEBCA5D788" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="77947EF2-B0D5-4A19-9491-ABCEBCA5D788" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="77947EF2-B0D5-4A19-9491-ABCEBCA5D788" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="77947EF2-B0D5-4A19-9491-ABCEBCA5D788" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="PR" data-uuid="77947EF2-B0D5-4A19-9491-ABCEBCA5D788" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="77947EF2-B0D5-4A19-9491-ABCEBCA5D788" id="FORM-77947EF2-B0D5-4A19-9491-ABCEBCA5D788" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-77947EF2-B0D5-4A19-9491-ABCEBCA5D788">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_pr rag_prns question">
+<div class="uuid">
+<p>32B69904-7049-4D11-B264-0FB9BA6B09EC</p>
+</div>
+<div class="papername">
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:30</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_pr</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Mr Green buys four cinema tickets for himself, his wife and their best friends Mr and Mrs White. 
+Mrs Green is a rather large lady who must sit in a wider aisle seat. 
+In the interest of marital harmony each husband must sit next to his wife. 
+The tickets are for seats, $A1, A2, A3$ and $A4$ shown on the plan below.
+
+![papers/the-haberdashers-askes-boys-school/2015/sample-paper-6/s01-q30-i00.png](/assets/papers/the-haberdashers-askes-boys-school/2015/sample-paper-6/s01-q30-i00.png "papers/the-haberdashers-askes-boys-school/2015/sample-paper-6/s01-q30-i00.png")
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Mr Green buys four cinema tickets for himself, his wife and their best friends Mr and Mrs White. 
+Mrs Green is a rather large lady who must sit in a wider aisle seat. 
+In the interest of marital harmony each husband must sit next to his wife. 
+The tickets are for seats, $A1, A2, A3$ and $A4$ shown on the plan below.
+<emptyline>
+%image%
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+%empty%
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+%empty%
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+</div>
+<ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+In how many possible ways can Mr Green allocate tickets?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">In how many possible ways can Mr Green allocate tickets?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+The possible arrangements are:
+
+|  A1         |   A2      |   A3       |  A4         |
+|:-----------:|:---------:|:----------:|:-----------:|
+| Mrs Green   |  Mr Green | Mr White   |  Mrs White  |
+| Mrs Green   | Mr Green  | Mrs White  | Mr White    |
+
+Count $= 2$
+</div>
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Using permutation,
+
+The number of ways Mrs Green can be seated $= 1$
+
+The number of ways Mr Green can be seated $= 1$
+
+The number of ways Mr White can be seated $= 2$
+
+The number of ways Mrs White can be seated $= 1$
+
+Total arrangements $= 1 \times 1 \times 2 \times 1 = 2$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$2$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The possible arrangements are:
+<emptyline>
+|  A1         |   A2      |   A3       |  A4         |
+|:-----------:|:---------:|:----------:|:-----------:|
+| Mrs Green   |  Mr Green | Mr White   |  Mrs White  |
+| Mrs Green   | Mr Green  | Mrs White  | Mr White    |
+<emptyline>
+Count $= 2$
+</code></pre>
+</div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Using permutation,
+<emptyline>
+The number of ways Mrs Green can be seated $= 1$
+<emptyline>
+The number of ways Mr Green can be seated $= 1$
+<emptyline>
+The number of ways Mr White can be seated $= 2$
+<emptyline>
+The number of ways Mrs White can be seated $= 1$
+<emptyline>
+Total arrangements $= 1 \times 1 \times 2 \times 1 = 2$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$2$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+The following week they are joined by their next best friends, Mr and Mrs Brown.
+Again it is decided that every husband sits next to his wife, and Mrs Green must sit on the end of a row. 
+The tickets are for seats $A1, A2, A3, A4, A5$ and $A6$.
+
+In how many possible ways can Mr Green allocate tickets?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The following week they are joined by their next best friends, Mr and Mrs Brown.
+Again it is decided that every husband sits next to his wife, and Mrs Green must sit on the end of a row. 
+The tickets are for seats $A1, A2, A3, A4, A5$ and $A6$.
+<emptyline>
+In how many possible ways can Mr Green allocate tickets?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+If Mr Brown and Mrs Brown sit on middle seats, the possible arrangements are:
+
+|  A1         |   A2      |  A3         |   A4      |   A5       |  A6         |
+|:-----------:|:---------:|:-----------:|:---------:|:----------:|:-----------:|
+| Mrs Green   |  Mr Green | Mrs Brown   |  Mr Brown | Mrs White  |  Mr White   |
+| Mrs Green   | Mr Green  | Mr  Brown   |  Mrs Brown| Mrs White  |  Mr White   |
+| Mrs Green   |  Mr Green | Mrs Brown   |  Mr Brown | Mr White   |  Mrs White  |
+| Mrs Green   | Mr Green  | Mr  Brown   | Mrs Brown | Mr White   |  Mrs White  |
+
+Count $= 4$
+
+If Mr White and Mrs White sit on middle seats, the possible arrangements are:
+
+|  A1         |   A2      |  A3         |   A4      |   A5       |  A6         |
+|:-----------:|:---------:|:-----------:|:---------:|:----------:|:-----------:|
+| Mrs Green   |  Mr Green | Mrs White   |  Mr White | Mrs Brown  |  Mr  Brown  |
+| Mrs Green   | Mr Green  | Mr  White   | Mrs White | Mrs Brown  |  Mr  Brown  |
+| Mrs Green   |  Mr Green | Mrs White   |  Mr White | Mr  Brown  |  Mrs Brown  |
+| Mrs Green   | Mr Green  | Mr  White   | Mrs White | Mr  Brown  |  Mrs Brown  |
+
+Count $= 4$
+
+Total count $= 4 + 4 = 8$
+</div>
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Using permutation,
+
+The number of ways Mrs Green can be seated $= 1$
+
+The number of ways Mr Green can be seated $= 1$
+
+The number of ways Mr White can be seated $= 4$
+
+The number of ways Mrs White can be seated $= 1$
+
+The number of ways Mr Brown can be seated $= 2$
+
+The number of ways Mrs Brown can be seated $= 1$
+
+Total arrangements $= 1 \times 1 \times 4 \times 1 \times 2 \times 1 = 8$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$8$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">If Mr Brown and Mrs Brown sit on middle seats, the possible arrangements are:
+<emptyline>
+|  A1         |   A2      |  A3         |   A4      |   A5       |  A6         |
+|:-----------:|:---------:|:-----------:|:---------:|:----------:|:-----------:|
+| Mrs Green   |  Mr Green | Mrs Brown   |  Mr Brown | Mrs White  |  Mr White   |
+| Mrs Green   | Mr Green  | Mr  Brown   |  Mrs Brown| Mrs White  |  Mr White   |
+| Mrs Green   |  Mr Green | Mrs Brown   |  Mr Brown | Mr White   |  Mrs White  |
+| Mrs Green   | Mr Green  | Mr  Brown   | Mrs Brown | Mr White   |  Mrs White  |
+<emptyline>
+Count $= 4$
+<emptyline>
+If Mr White and Mrs White sit on middle seats, the possible arrangements are:
+<emptyline>
+|  A1         |   A2      |  A3         |   A4      |   A5       |  A6         |
+|:-----------:|:---------:|:-----------:|:---------:|:----------:|:-----------:|
+| Mrs Green   |  Mr Green | Mrs White   |  Mr White | Mrs Brown  |  Mr  Brown  |
+| Mrs Green   | Mr Green  | Mr  White   | Mrs White | Mrs Brown  |  Mr  Brown  |
+| Mrs Green   |  Mr Green | Mrs White   |  Mr White | Mr  Brown  |  Mrs Brown  |
+| Mrs Green   | Mr Green  | Mr  White   | Mrs White | Mr  Brown  |  Mrs Brown  |
+<emptyline>
+Count $= 4$
+<emptyline>
+Total count $= 4 + 4 = 8$
+</code></pre>
+</div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Using permutation,
+<emptyline>
+The number of ways Mrs Green can be seated $= 1$
+<emptyline>
+The number of ways Mr Green can be seated $= 1$
+<emptyline>
+The number of ways Mr White can be seated $= 4$
+<emptyline>
+The number of ways Mrs White can be seated $= 1$
+<emptyline>
+The number of ways Mr Brown can be seated $= 2$
+<emptyline>
+The number of ways Mrs Brown can be seated $= 1$
+<emptyline>
+Total arrangements $= 1 \times 1 \times 4 \times 1 \times 2 \times 1 = 8$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$8$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+The outing was so enjoyable that all three couples decide to repeat the experience the following week but this time 
+Mr Green buys tickets for seats $A1, A2, A3, A4, B1$ and $B2$. Assuming that the usual restrictions about where they can 
+sit still apply, work out the number of ways in which Mr Green can allocate the tickets.
+
+![papers/the-haberdashers-askes-boys-school/2015/sample-paper-6/s01-q30-s03-i00.png](/assets/papers/the-haberdashers-askes-boys-school/2015/sample-paper-6/s01-q30-s03-i00.png "papers/the-haberdashers-askes-boys-school/2015/sample-paper-6/s01-q30-s03-i00.png")
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The outing was so enjoyable that all three couples decide to repeat the experience the following week but this time 
+Mr Green buys tickets for seats $A1, A2, A3, A4, B1$ and $B2$. Assuming that the usual restrictions about where they can 
+sit still apply, work out the number of ways in which Mr Green can allocate the tickets.
+<emptyline>
+%image%
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+If Mr Brown and Mrs Brown sit on B1,B2 seats, the possible arrangements are:
+
+| A1    | A2    | A3    | A4    | B1    | B2    |
+|:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+| Mrs Green     | Mr Green  | Mrs White     | Mr White  | Mrs Brown     | Mr Brown  |
+| Mrs Green     | Mr Green  | Mr White  | Mrs White     | Mrs Brown     | Mr Brown  |
+| Mrs Green     | Mr Green  | Mrs White     | Mr White  | Mr Brown  | Mrs Brown     |
+| Mrs Green     | Mr Green  | Mr White  | Mrs White     | Mr Brown  | Mrs Brown     |
+
+Count $= 4$
+
+If Mr White and Mrs White sit on B1,B2 seats, the possible arrangements are:
+
+| A1    | A2    | A3    | A4    | B1    | B2    |
+|:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+| Mrs Green     | Mr Green  | Mrs Brown     | Mr Brown  | Mrs White     | Mr White  |
+| Mrs Green     | Mr Green  | Mr Brown  | Mrs Brown     | Mrs White     | Mr White  |
+| Mrs Green     | Mr Green  | Mrs Brown     | Mr Brown  | Mr White  | Mrs White     |
+| Mrs Green     | Mr Green  | Mr Brown  | Mrs Brown     | Mr White  | Mrs White     |
+
+Count $= 4$
+
+If Mr Green and Mrs Green sit on B1,B2 seats and Mr White and Mrs White sit on A1,A2 seats, the possible arrangements are:
+
+| A1    | A2    | A3    | A4    | B1    | B2    |
+|:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+| Mrs White     | Mr White  | Mrs Brown     | Mr Brown  | Mrs Green     | Mr Green  |
+| Mr White  | Mrs White     | Mrs Brown     | Mr Brown  | Mrs Green     | Mr Green  |
+| Mrs White     | Mr White  | Mr Brown  | Mrs Brown     | Mrs Green     | Mr Green  |
+| Mr White  | Mrs White     | Mr Brown  | Mrs Brown     | Mrs Green     | Mr Green  |
+
+Count $= 4$
+
+If Mr Green and Mrs Green sit on B1,B2 seats and Mr Brown and Mrs Brown sit on A1,A2 seats, the possible arrangements are:
+
+| A1    | A2    | A3    | A4    | B1    | B2    |
+|:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+| Mrs Brown     | Mr Brown  | Mrs White     | Mr White  | Mrs Green     | Mr Green  |
+| Mr Brown  | Mrs Brown     | Mrs White     | Mr White  | Mrs Green     | Mr Green  |
+| Mrs Brown     | Mr Brown  | Mr White  | Mrs White     | Mrs Green     | Mr Green  |
+| Mr Brown  | Mrs Brown     | Mr White  | Mrs White     | Mrs Green     | Mr Green  |
+
+Count $= 4$
+
+Total count $= 4 + 4 + 4 + 4 = 16$
+</div>
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+The number of ways Mrs Green can be seated $= 2$ 
+
+The number of ways Mr Green can be seated $= 1$
+
+The number of ways Mr White can be seated $= 4$
+
+The number of ways Mrs White can be seated $= 1$
+
+The number of ways Mr Brown can be seated $= 2$
+
+The number of ways Mrs Brown can be seated $= 1$
+
+Total arrangements $= 2 \times 1 \times 4 \times 1 \times 2 \times 1 = 16$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$16$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">If Mr Brown and Mrs Brown sit on B1,B2 seats, the possible arrangements are:
+<emptyline>
+| A1    | A2    | A3    | A4    | B1    | B2    |
+|:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+| Mrs Green     | Mr Green  | Mrs White     | Mr White  | Mrs Brown     | Mr Brown  |
+| Mrs Green     | Mr Green  | Mr White  | Mrs White     | Mrs Brown     | Mr Brown  |
+| Mrs Green     | Mr Green  | Mrs White     | Mr White  | Mr Brown  | Mrs Brown     |
+| Mrs Green     | Mr Green  | Mr White  | Mrs White     | Mr Brown  | Mrs Brown     |
+<emptyline>
+Count $= 4$
+<emptyline>
+If Mr White and Mrs White sit on B1,B2 seats, the possible arrangements are:
+<emptyline>
+| A1    | A2    | A3    | A4    | B1    | B2    |
+|:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+| Mrs Green     | Mr Green  | Mrs Brown     | Mr Brown  | Mrs White     | Mr White  |
+| Mrs Green     | Mr Green  | Mr Brown  | Mrs Brown     | Mrs White     | Mr White  |
+| Mrs Green     | Mr Green  | Mrs Brown     | Mr Brown  | Mr White  | Mrs White     |
+| Mrs Green     | Mr Green  | Mr Brown  | Mrs Brown     | Mr White  | Mrs White     |
+<emptyline>
+Count $= 4$
+<emptyline>
+If Mr Green and Mrs Green sit on B1,B2 seats and Mr White and Mrs White sit on A1,A2 seats, the possible arrangements are:
+<emptyline>
+| A1    | A2    | A3    | A4    | B1    | B2    |
+|:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+| Mrs White     | Mr White  | Mrs Brown     | Mr Brown  | Mrs Green     | Mr Green  |
+| Mr White  | Mrs White     | Mrs Brown     | Mr Brown  | Mrs Green     | Mr Green  |
+| Mrs White     | Mr White  | Mr Brown  | Mrs Brown     | Mrs Green     | Mr Green  |
+| Mr White  | Mrs White     | Mr Brown  | Mrs Brown     | Mrs Green     | Mr Green  |
+<emptyline>
+Count $= 4$
+<emptyline>
+If Mr Green and Mrs Green sit on B1,B2 seats and Mr Brown and Mrs Brown sit on A1,A2 seats, the possible arrangements are:
+<emptyline>
+| A1    | A2    | A3    | A4    | B1    | B2    |
+|:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+| Mrs Brown     | Mr Brown  | Mrs White     | Mr White  | Mrs Green     | Mr Green  |
+| Mr Brown  | Mrs Brown     | Mrs White     | Mr White  | Mrs Green     | Mr Green  |
+| Mrs Brown     | Mr Brown  | Mr White  | Mrs White     | Mrs Green     | Mr Green  |
+| Mr Brown  | Mrs Brown     | Mr White  | Mrs White     | Mrs Green     | Mr Green  |
+<emptyline>
+Count $= 4$
+<emptyline>
+Total count $= 4 + 4 + 4 + 4 = 16$
+</code></pre>
+</div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The number of ways Mrs Green can be seated $= 2$ 
+<emptyline>
+The number of ways Mr Green can be seated $= 1$
+<emptyline>
+The number of ways Mr White can be seated $= 4$
+<emptyline>
+The number of ways Mrs White can be seated $= 1$
+<emptyline>
+The number of ways Mr Brown can be seated $= 2$
+<emptyline>
+The number of ways Mrs Brown can be seated $= 1$
+<emptyline>
+Total arrangements $= 2 \times 1 \times 4 \times 1 \times 2 \times 1 = 16$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$16$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="32B69904-7049-4D11-B264-0FB9BA6B09EC" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="32B69904-7049-4D11-B264-0FB9BA6B09EC" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="32B69904-7049-4D11-B264-0FB9BA6B09EC" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="32B69904-7049-4D11-B264-0FB9BA6B09EC" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="32B69904-7049-4D11-B264-0FB9BA6B09EC" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="32B69904-7049-4D11-B264-0FB9BA6B09EC" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="32B69904-7049-4D11-B264-0FB9BA6B09EC" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="32B69904-7049-4D11-B264-0FB9BA6B09EC" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="32B69904-7049-4D11-B264-0FB9BA6B09EC" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="32B69904-7049-4D11-B264-0FB9BA6B09EC" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="PR" data-uuid="32B69904-7049-4D11-B264-0FB9BA6B09EC" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="32B69904-7049-4D11-B264-0FB9BA6B09EC" id="FORM-32B69904-7049-4D11-B264-0FB9BA6B09EC" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-32B69904-7049-4D11-B264-0FB9BA6B09EC">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_pr rag_prns question">
+<div class="uuid">
+<p>EFB9945E-41A3-4ED9-8B98-1E7688CB0B4D</p>
+</div>
+<div class="papername">
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:28</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_pr</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+The diagram shows the one-way cycle paths in a park.
+
+Work out the total number of possible routes to go:
+
+![papers/the-haberdashers-askes-boys-school/2016/sample-paper-7/s01-q28-i00.png](/assets/papers/the-haberdashers-askes-boys-school/2016/sample-paper-7/s01-q28-i00.png "papers/the-haberdashers-askes-boys-school/2016/sample-paper-7/s01-q28-i00.png")
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The diagram shows the one-way cycle paths in a park.
+<emptyline>
+Work out the total number of possible routes to go:
+<emptyline>
+%image%
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+If we go from $A$ to $C$, the possible arrangements are:
+
+- A $1$ B $1$ C
+- A $1$ B $2$ C
+- A $2$ B $1$ C
+- A $2$ B $2$ C
+- A $3$ B $1$ C
+- A $3$ B $2$ C
+
+If we go from $A$ to $D$, the possible arrangements are:
+
+If we use path $1$ between A and B, and $1$ between B and c
+
+$
+\begin{matrix}
+A & 1 & B & 1 & C & 1 & D \\ 
+A & 1 & B & 1 & C & 2 & D \\
+A & 1 & B & 1 & C & 3 & D \\
+A & 1 & B & 1 & C & 4 & D \\
+\end{matrix}
+$
+
+Count $= 4$
+
+If we use path $1$ between A and B, and $2$ between B and c
+
+$
+\begin{matrix}
+A & 1 & B & 2 & C & 1 & D \\
+A & 1 & B & 2 & C & 2 & D \\
+A & 1 & B & 2 & C & 3 & D \\
+A & 1 & B & 2 & C & 4 & D \\
+\end{matrix}
+$
+
+Count $= 4$
+
+If we use path $2$ between A and B, and $1$ between B and c
+
+$
+\begin{matrix}
+A & 2 & B & 1 & C & 1 & D \\
+A & 2 & B & 1 & C & 2 & D \\
+A & 2 & B & 1 & C & 3 & D \\
+A & 2 & B & 1 & C & 4 & D \\
+\end{matrix}
+$
+
+Count $= 4$
+
+If we use path $2$ between A and B, and $2$ between B and c
+
+$
+\begin{matrix}
+A & 2 & B & 2 & C & 1 & D \\
+A & 2 & B & 2 & C & 2 & D \\
+A & 2 & B & 2 & C & 3 & D \\
+A & 2 & B & 2 & C & 4 & D \\
+\end{matrix}
+$
+
+If we use path $3$ between A and B, and $1$ between B and c
+
+$
+\begin{matrix}
+A & 3 & B & 1 & C & 1 & D \\
+A & 3 & B & 1 & C & 2 & D \\
+A & 3 & B & 1 & C & 3 & D \\
+A & 3 & B & 1 & C & 4 & D \\
+\end{matrix}
+$
+
+Count $= 4$
+
+If we use path $3$ between A and B, and $2$ between B and c
+
+$
+\begin{matrix}
+A & 3 & B & 2 & C & 1 & D \\
+A & 3 & B & 2 & C & 2 & D \\
+A & 3 & B & 2 & C & 3 & D \\
+A & 3 & B & 2 & C & 4 & D \\
+\end{matrix}
+$
+
+Count $= 4$
+
+If we use path $4$ 
+
+- A $4$ D
+
+Count $= 1$
+
+Total count $= 4 + 4 + 4 + 4 + 4 + 4 + 1 = 25$
+
+If we go from $A$ to $E$, the possible arrangements are:
+
+- $ABCDE$
+- $ABCE$
+- $ADE$
+- $AE$
+
+Count $= 4$
+
+Total count $= 4 + 4 + 4 = 12$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$12$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">If we go from $A$ to $C$, the possible arrangements are:
+<emptyline>
+- A $1$ B $1$ C
+- A $1$ B $2$ C
+- A $2$ B $1$ C
+- A $2$ B $2$ C
+- A $3$ B $1$ C
+- A $3$ B $2$ C
+<emptyline>
+If we go from $A$ to $D$, the possible arrangements are:
+<emptyline>
+If we use path $1$ between A and B, and $1$ between B and c
+<emptyline>
+$
+\begin{matrix}
+A & 1 & B & 1 & C & 1 & D \\ 
+A & 1 & B & 1 & C & 2 & D \\
+A & 1 & B & 1 & C & 3 & D \\
+A & 1 & B & 1 & C & 4 & D \\
+\end{matrix}
+$
+<emptyline>
+Count $= 4$
+<emptyline>
+If we use path $1$ between A and B, and $2$ between B and c
+<emptyline>
+$
+\begin{matrix}
+A & 1 & B & 2 & C & 1 & D \\
+A & 1 & B & 2 & C & 2 & D \\
+A & 1 & B & 2 & C & 3 & D \\
+A & 1 & B & 2 & C & 4 & D \\
+\end{matrix}
+$
+<emptyline>
+Count $= 4$
+<emptyline>
+If we use path $2$ between A and B, and $1$ between B and c
+<emptyline>
+$
+\begin{matrix}
+A & 2 & B & 1 & C & 1 & D \\
+A & 2 & B & 1 & C & 2 & D \\
+A & 2 & B & 1 & C & 3 & D \\
+A & 2 & B & 1 & C & 4 & D \\
+\end{matrix}
+$
+<emptyline>
+Count $= 4$
+<emptyline>
+If we use path $2$ between A and B, and $2$ between B and c
+<emptyline>
+$
+\begin{matrix}
+A & 2 & B & 2 & C & 1 & D \\
+A & 2 & B & 2 & C & 2 & D \\
+A & 2 & B & 2 & C & 3 & D \\
+A & 2 & B & 2 & C & 4 & D \\
+\end{matrix}
+$
+<emptyline>
+If we use path $3$ between A and B, and $1$ between B and c
+<emptyline>
+$
+\begin{matrix}
+A & 3 & B & 1 & C & 1 & D \\
+A & 3 & B & 1 & C & 2 & D \\
+A & 3 & B & 1 & C & 3 & D \\
+A & 3 & B & 1 & C & 4 & D \\
+\end{matrix}
+$
+<emptyline>
+Count $= 4$
+<emptyline>
+If we use path $3$ between A and B, and $2$ between B and c
+<emptyline>
+$
+\begin{matrix}
+A & 3 & B & 2 & C & 1 & D \\
+A & 3 & B & 2 & C & 2 & D \\
+A & 3 & B & 2 & C & 3 & D \\
+A & 3 & B & 2 & C & 4 & D \\
+\end{matrix}
+$
+<emptyline>
+Count $= 4$
+<emptyline>
+If we use path $4$ 
+<emptyline>
+- A $4$ D
+<emptyline>
+Count $= 1$
+<emptyline>
+Total count $= 4 + 4 + 4 + 4 + 4 + 4 + 1 = 25$
+<emptyline>
+If we go from $A$ to $E$, the possible arrangements are:
+<emptyline>
+- $ABCDE$
+- $ABCE$
+- $ADE$
+- $AE$
+<emptyline>
+Count $= 4$
+<emptyline>
+Total count $= 4 + 4 + 4 = 12$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$12$
+</code></pre>
+</div>
+</div>
+<ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+From $A$ to $C$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">From $A$ to $C$
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+%empty%
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+From $A$ to $D$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">From $A$ to $D$
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+%empty%
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+From $A$ to $E$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">From $A$ to $E$
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+%empty%
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="EFB9945E-41A3-4ED9-8B98-1E7688CB0B4D" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="EFB9945E-41A3-4ED9-8B98-1E7688CB0B4D" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="EFB9945E-41A3-4ED9-8B98-1E7688CB0B4D" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="EFB9945E-41A3-4ED9-8B98-1E7688CB0B4D" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="EFB9945E-41A3-4ED9-8B98-1E7688CB0B4D" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="EFB9945E-41A3-4ED9-8B98-1E7688CB0B4D" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="EFB9945E-41A3-4ED9-8B98-1E7688CB0B4D" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="EFB9945E-41A3-4ED9-8B98-1E7688CB0B4D" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="EFB9945E-41A3-4ED9-8B98-1E7688CB0B4D" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="EFB9945E-41A3-4ED9-8B98-1E7688CB0B4D" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="PR" data-uuid="EFB9945E-41A3-4ED9-8B98-1E7688CB0B4D" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="EFB9945E-41A3-4ED9-8B98-1E7688CB0B4D" id="FORM-EFB9945E-41A3-4ED9-8B98-1E7688CB0B4D" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-EFB9945E-41A3-4ED9-8B98-1E7688CB0B4D">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_pr rag_prns question">
+<div class="uuid">
+<p>27B57ED9-A575-4269-8600-10EC69A4DB57</p>
+</div>
+<div class="papername">
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:43</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_pr</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+$A \ B \ C \ D \ E$ are the first five letters of the alphabet in the usual order.
+
+$A$ and $B$ are neighbours as they are next to each other in the alphabet.
+
+$B$ and $C$ are also neighbours.
+
+$C$ and $D$ are neighbours, $D$ and $E$ are neighbours.
+
+The five letters have to be written down in some other order so that no neighbours are next to each other (in any order).
+
+For example, $A \ C \ E \ D \ B$ is not allowed because the neighbours $D$ and $E$ are next to each other.
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$A \ B \ C \ D \ E$ are the first five letters of the alphabet in the usual order.
+<emptyline>
+$A$ and $B$ are neighbours as they are next to each other in the alphabet.
+<emptyline>
+$B$ and $C$ are also neighbours.
+<emptyline>
+$C$ and $D$ are neighbours, $D$ and $E$ are neighbours.
+<emptyline>
+The five letters have to be written down in some other order so that no neighbours are next to each other (in any order).
+<emptyline>
+For example, $A \ C \ E \ D \ B$ is not allowed because the neighbours $D$ and $E$ are next to each other.
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+%empty%
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+%empty%
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+</div>
+<ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+If we start with $A$ there are only two ways of writing the five letters 
+with no neighbours next to each other. The first one is done for you.
+
+
+
+Complete the other way.
+
+Answer1:  $A \quad C \quad E \quad B \quad D$
+
+Answer2: $
+A \quad
+D \quad 
+\text{\textunderscore \textunderscore \textunderscore} \quad 
+\text{\textunderscore \textunderscore \textunderscore} \quad 
+\text{\textunderscore \textunderscore \textunderscore}
+$
+
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">If we start with $A$ there are only two ways of writing the five letters 
+with no neighbours next to each other. The first one is done for you.
+<emptyline>
+
+<emptyline>
+Complete the other way.
+<emptyline>
+Answer1:  $A \quad C \quad E \quad B \quad D$
+<emptyline>
+Answer2: $
+A \quad
+D \quad 
+\text{\textunderscore \textunderscore \textunderscore} \quad 
+\text{\textunderscore \textunderscore \textunderscore} \quad 
+\text{\textunderscore \textunderscore \textunderscore}
+$
+<emptyline>
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+The remaining possible arrangements are:
+
+A D B E C 
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+A D B E C 
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The remaining possible arrangements are:
+<emptyline>
+A D B E C 
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">A D B E C 
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Now start with the letter $B$. There are three ways of writing the five 
+letters with no neighbours next to each other. 
+
+The first one is done for you. Complete the other two ways.
+
+Answer1: $B \quad D \quad A \quad C \quad E$
+
+Answer2: $
+B \quad
+D \quad 
+\text{\textunderscore \textunderscore \textunderscore} \quad 
+\text{\textunderscore \textunderscore \textunderscore} \quad 
+\text{\textunderscore \textunderscore \textunderscore}
+$
+
+Answer3: $
+B \quad
+E \quad 
+\text{\textunderscore \textunderscore \textunderscore} \quad 
+\text{\textunderscore \textunderscore \textunderscore} \quad 
+\text{\textunderscore \textunderscore \textunderscore}
+$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Now start with the letter $B$. There are three ways of writing the five 
+letters with no neighbours next to each other. 
+<emptyline>
+The first one is done for you. Complete the other two ways.
+<emptyline>
+Answer1: $B \quad D \quad A \quad C \quad E$
+<emptyline>
+Answer2: $
+B \quad
+D \quad 
+\text{\textunderscore \textunderscore \textunderscore} \quad 
+\text{\textunderscore \textunderscore \textunderscore} \quad 
+\text{\textunderscore \textunderscore \textunderscore}
+$
+<emptyline>
+Answer3: $
+B \quad
+E \quad 
+\text{\textunderscore \textunderscore \textunderscore} \quad 
+\text{\textunderscore \textunderscore \textunderscore} \quad 
+\text{\textunderscore \textunderscore \textunderscore}
+$
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+The possible remaining arrangements are:
+
+- B D A E C
+- B E C A D
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+B D A E C, B E C A D
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The possible remaining arrangements are:
+<emptyline>
+- B D A E C
+- B E C A D
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">B D A E C, B E C A D
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+In total, how many ways are there of arranging the letters $A \ B \ C \ D \ E$, so that none are next to their neighbours?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">In total, how many ways are there of arranging the letters $A \ B \ C \ D \ E$, so that none are next to their neighbours?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+If we start with A, the possible arrangements are:
+
+- A C E B D
+- A D B E C
+
+Count $= 2$
+
+If we start with B, the possible arrangements are:
+
+- B D A C E
+- B D A E C
+- B E C A D
+
+Count $= 3$
+
+If we start with C, the possible arrangements are:
+
+- C A D B E
+- C A E B D
+- C E B D A
+- C E A D B
+
+Count $= 4$
+
+If we start with D, the possible arrangements are:
+
+- D A C E B
+- D B E A C
+- D B E C A
+
+Count $= 3$
+
+If we start with E, the possible arrangements are:
+
+- E B D A C
+- E C A D B
+
+Count $= 2$
+
+Total count $= 2 + 3 + 4 + 3 + 2 = 14$ 
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$14$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">If we start with A, the possible arrangements are:
+<emptyline>
+- A C E B D
+- A D B E C
+<emptyline>
+Count $= 2$
+<emptyline>
+If we start with B, the possible arrangements are:
+<emptyline>
+- B D A C E
+- B D A E C
+- B E C A D
+<emptyline>
+Count $= 3$
+<emptyline>
+If we start with C, the possible arrangements are:
+<emptyline>
+- C A D B E
+- C A E B D
+- C E B D A
+- C E A D B
+<emptyline>
+Count $= 4$
+<emptyline>
+If we start with D, the possible arrangements are:
+<emptyline>
+- D A C E B
+- D B E A C
+- D B E C A
+<emptyline>
+Count $= 3$
+<emptyline>
+If we start with E, the possible arrangements are:
+<emptyline>
+- E B D A C
+- E C A D B
+<emptyline>
+Count $= 2$
+<emptyline>
+Total count $= 2 + 3 + 4 + 3 + 2 = 14$ 
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$14$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="27B57ED9-A575-4269-8600-10EC69A4DB57" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="27B57ED9-A575-4269-8600-10EC69A4DB57" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="27B57ED9-A575-4269-8600-10EC69A4DB57" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="27B57ED9-A575-4269-8600-10EC69A4DB57" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="27B57ED9-A575-4269-8600-10EC69A4DB57" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="27B57ED9-A575-4269-8600-10EC69A4DB57" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="27B57ED9-A575-4269-8600-10EC69A4DB57" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="27B57ED9-A575-4269-8600-10EC69A4DB57" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="27B57ED9-A575-4269-8600-10EC69A4DB57" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="27B57ED9-A575-4269-8600-10EC69A4DB57" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="PR" data-uuid="27B57ED9-A575-4269-8600-10EC69A4DB57" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="PR" data-uuid="27B57ED9-A575-4269-8600-10EC69A4DB57" id="FORM-27B57ED9-A575-4269-8600-10EC69A4DB57" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-27B57ED9-A575-4269-8600-10EC69A4DB57">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g3 rag_prns question">
+<div class="uuid">
+<p>900C37A8-8886-4CA0-88A9-F104C7287DA3</p>
+</div>
+<div class="papername">
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:34</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g3</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+A football competition was held between five Year $6$ teams. 
+Each team played every other team once. 
+
+How many games did the teams play in total?
+
+![papers/the-london-independent-girls-schools-consortium/2010/group-1/s01-q34-i00.png](/assets/papers/the-london-independent-girls-schools-consortium/2010/group-1/s01-q34-i00.png "papers/the-london-independent-girls-schools-consortium/2010/group-1/s01-q34-i00.png")
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">A football competition was held between five Year $6$ teams. 
+Each team played every other team once. 
+<emptyline>
+How many games did the teams play in total?
+<emptyline>
+%image%
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Let the teams are $= \text{A}, \text{B}, \text{C}, \text{D}, \text{E}, \text{F}$
+
+The possible games between the teams are:
+
+- $\text{A}, \text{B}$
+- $\text{A}, \text{C}$
+- $\text{A}, \text{D}$
+- $\text{A}, \text{E}$
+- $\text{A}, \text{F}$
+- $\text{B}, \text{C}$
+- $\text{B}, \text{D}$
+- $\text{B}, \text{E}$
+- $\text{B}, \text{F}$
+- $\text{C}, \text{D}$
+- $\text{C}, \text{E}$
+- $\text{C}, \text{F}$
+- $\text{D}, \text{E}$
+- $\text{D}, \text{F}$
+- $\text{E}, \text{F}$
+
+Total count $= 15$
+</div>
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Number of teams the first team can pick to play $= 5$
+
+Number of teams the second team can pick to play $= 4$
+
+Number of teams the third team can pick to play $= 3$
+
+Number of teams the fourth team can pick to play $= 2$
+
+Number of teams the fifth team can pick to play $= 1$
+
+Total games $= 6 + 5 + 4 + 3 + 2 + 1 = 15$
+</div>
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Using permutation,
+
+Number of ways we can select the first team $= 6$
+
+Number of ways we can select the second team $= 5$
+
+Total arrangements $= 6 \times 5 = 30$
+
+The game betwen the first team and the second team is same as the game between second 
+team and the first team. So we are counting all the games twice. Let's account for that.
+
+Total games $= 30 \div 2 = 15$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$15$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Let the teams are $= \text{A}, \text{B}, \text{C}, \text{D}, \text{E}, \text{F}$
+<emptyline>
+The possible games between the teams are:
+<emptyline>
+- $\text{A}, \text{B}$
+- $\text{A}, \text{C}$
+- $\text{A}, \text{D}$
+- $\text{A}, \text{E}$
+- $\text{A}, \text{F}$
+- $\text{B}, \text{C}$
+- $\text{B}, \text{D}$
+- $\text{B}, \text{E}$
+- $\text{B}, \text{F}$
+- $\text{C}, \text{D}$
+- $\text{C}, \text{E}$
+- $\text{C}, \text{F}$
+- $\text{D}, \text{E}$
+- $\text{D}, \text{F}$
+- $\text{E}, \text{F}$
+<emptyline>
+Total count $= 15$
+</code></pre>
+</div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Number of teams the first team can pick to play $= 5$
+<emptyline>
+Number of teams the second team can pick to play $= 4$
+<emptyline>
+Number of teams the third team can pick to play $= 3$
+<emptyline>
+Number of teams the fourth team can pick to play $= 2$
+<emptyline>
+Number of teams the fifth team can pick to play $= 1$
+<emptyline>
+Total games $= 6 + 5 + 4 + 3 + 2 + 1 = 15$
+</code></pre>
+</div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Using permutation,
+<emptyline>
+Number of ways we can select the first team $= 6$
+<emptyline>
+Number of ways we can select the second team $= 5$
+<emptyline>
+Total arrangements $= 6 \times 5 = 30$
+<emptyline>
+The game betwen the first team and the second team is same as the game between second 
+team and the first team. So we are counting all the games twice. Let's account for that.
+<emptyline>
+Total games $= 30 \div 2 = 15$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$15$
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="900C37A8-8886-4CA0-88A9-F104C7287DA3" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="900C37A8-8886-4CA0-88A9-F104C7287DA3" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="900C37A8-8886-4CA0-88A9-F104C7287DA3" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="900C37A8-8886-4CA0-88A9-F104C7287DA3" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="900C37A8-8886-4CA0-88A9-F104C7287DA3" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="900C37A8-8886-4CA0-88A9-F104C7287DA3" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="900C37A8-8886-4CA0-88A9-F104C7287DA3" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="900C37A8-8886-4CA0-88A9-F104C7287DA3" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="900C37A8-8886-4CA0-88A9-F104C7287DA3" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="900C37A8-8886-4CA0-88A9-F104C7287DA3" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G3" data-uuid="900C37A8-8886-4CA0-88A9-F104C7287DA3" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="900C37A8-8886-4CA0-88A9-F104C7287DA3" id="FORM-900C37A8-8886-4CA0-88A9-F104C7287DA3" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-900C37A8-8886-4CA0-88A9-F104C7287DA3">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g3 rag_prns question">
+<div class="uuid">
+<p>B2B533E5-F5B6-48FF-A96C-1BFB3BF4BBAA</p>
+</div>
+<div class="papername">
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:11</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g3</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+This number plate has the number $279$.
+
+$\large \boxed {\quad 279 \quad}$
+
+Write down all the other $3$-figure numbers 
+you could make using $2, 7$ and $9$ once in each $3$-figure number.
+You can only use $2, 7$ and $9$ once in each $3$-figure number.
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">This number plate has the number $279$.
+<emptyline>
+$\large \boxed {\quad 279 \quad}$
+<emptyline>
+Write down all the other $3$-figure numbers 
+you could make using $2, 7$ and $9$ once in each $3$-figure number.
+You can only use $2, 7$ and $9$ once in each $3$-figure number.
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+The possible arrangements are:
+
+- $279$
+- $297$
+- $729$
+- $792$
+- $927$
+- $972$
+
+Count $= 6$
+</div>
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Using permutation,
+
+Number of digits that can be used in the hundreds place $= 3$
+
+Number of digits that can be used in the tens place $= 2$
+
+Number of digits that can be used in the units place $= 1$
+
+Total arrangements $= 3 \times 2 \times 1 = 6$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$6$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The possible arrangements are:
+<emptyline>
+- $279$
+- $297$
+- $729$
+- $792$
+- $927$
+- $972$
+<emptyline>
+Count $= 6$
+</code></pre>
+</div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Using permutation,
+<emptyline>
+Number of digits that can be used in the hundreds place $= 3$
+<emptyline>
+Number of digits that can be used in the tens place $= 2$
+<emptyline>
+Number of digits that can be used in the units place $= 1$
+<emptyline>
+Total arrangements $= 3 \times 2 \times 1 = 6$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$6$
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="B2B533E5-F5B6-48FF-A96C-1BFB3BF4BBAA" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="B2B533E5-F5B6-48FF-A96C-1BFB3BF4BBAA" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="B2B533E5-F5B6-48FF-A96C-1BFB3BF4BBAA" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="B2B533E5-F5B6-48FF-A96C-1BFB3BF4BBAA" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="B2B533E5-F5B6-48FF-A96C-1BFB3BF4BBAA" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="B2B533E5-F5B6-48FF-A96C-1BFB3BF4BBAA" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="B2B533E5-F5B6-48FF-A96C-1BFB3BF4BBAA" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="B2B533E5-F5B6-48FF-A96C-1BFB3BF4BBAA" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="B2B533E5-F5B6-48FF-A96C-1BFB3BF4BBAA" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="B2B533E5-F5B6-48FF-A96C-1BFB3BF4BBAA" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G3" data-uuid="B2B533E5-F5B6-48FF-A96C-1BFB3BF4BBAA" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="B2B533E5-F5B6-48FF-A96C-1BFB3BF4BBAA" id="FORM-B2B533E5-F5B6-48FF-A96C-1BFB3BF4BBAA" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-B2B533E5-F5B6-48FF-A96C-1BFB3BF4BBAA">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_red rag_prns question">
+<div class="uuid">
+<p>D0785C67-7A11-491E-929B-4EF2726E748A</p>
+</div>
+<div class="papername">
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:37</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_red</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+The diagram below shows the footpaths between villages.
+
+Each village is represented by a letter.
+
+For example, there are three different possible footpaths between villages $Q$ and $R$.
+
+![papers/the-london-independent-girls-schools-consortium/2013/group-2/s01-q37-i00.png](/assets/papers/the-london-independent-girls-schools-consortium/2013/group-2/s01-q37-i00.png "papers/the-london-independent-girls-schools-consortium/2013/group-2/s01-q37-i00.png")
+
+Jane wants to walk from village $A$ and $B$ without travelling through any village twice on her route.
+
+Work out how many different possible routes Jane could take?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The diagram below shows the footpaths between villages.
+<emptyline>
+Each village is represented by a letter.
+<emptyline>
+For example, there are three different possible footpaths between villages $Q$ and $R$.
+<emptyline>
+%image%
+<emptyline>
+Jane wants to walk from village $A$ and $B$ without travelling through any village twice on her route.
+<emptyline>
+Work out how many different possible routes Jane could take?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Using permutation,
+
+If we follow $APB$ village, the number of possible route are $= 1$
+
+If we follow $AQRSB$ village, the number of possible route are $= 2 \times 3 = 6$
+
+If we follow $ATUVB$ village, the number of possible route are $= 2 \times 3 \times 2 = 12$
+
+So, total possible routes $= 1 + 6 + 12 = 19$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$19$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Using permutation,
+<emptyline>
+If we follow $APB$ village, the number of possible route are $= 1$
+<emptyline>
+If we follow $AQRSB$ village, the number of possible route are $= 2 \times 3 = 6$
+<emptyline>
+If we follow $ATUVB$ village, the number of possible route are $= 2 \times 3 \times 2 = 12$
+<emptyline>
+So, total possible routes $= 1 + 6 + 12 = 19$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$19$
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="" data-uuid="D0785C67-7A11-491E-929B-4EF2726E748A" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="" data-uuid="D0785C67-7A11-491E-929B-4EF2726E748A" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="" data-uuid="D0785C67-7A11-491E-929B-4EF2726E748A" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="" data-uuid="D0785C67-7A11-491E-929B-4EF2726E748A" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="" data-uuid="D0785C67-7A11-491E-929B-4EF2726E748A" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="" data-uuid="D0785C67-7A11-491E-929B-4EF2726E748A" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="" data-uuid="D0785C67-7A11-491E-929B-4EF2726E748A" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="" data-uuid="D0785C67-7A11-491E-929B-4EF2726E748A" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="" data-uuid="D0785C67-7A11-491E-929B-4EF2726E748A" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="" data-uuid="D0785C67-7A11-491E-929B-4EF2726E748A" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="" data-uuid="D0785C67-7A11-491E-929B-4EF2726E748A" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="" data-uuid="D0785C67-7A11-491E-929B-4EF2726E748A" id="FORM-D0785C67-7A11-491E-929B-4EF2726E748A" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-D0785C67-7A11-491E-929B-4EF2726E748A">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g3 rag_prns question">
+<div class="uuid">
+<p>6DD89262-C913-4868-9BD3-AC3F1EF2710A</p>
+</div>
+<div class="papername">
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:35</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g3</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+In a doctor's waiting room, there are $6$ seats in a row.
+
+Mr Spencer arrives with his $2$ children.
+
+He wants to sit between his $2$ children.
+
+$3$ other people arrive who do not mind where they sit.
+
+![papers/the-london-independent-girls-schools-consortium/2014/group-2/s01-q35-i00.png](/assets/papers/the-london-independent-girls-schools-consortium/2014/group-2/s01-q35-i00.png "papers/the-london-independent-girls-schools-consortium/2014/group-2/s01-q35-i00.png")
+
+How many different possible seating arrangements are there of the $6$ people?
+
+*You may find the boxes helpful*.
+
+![papers/the-london-independent-girls-schools-consortium/2014/group-2/s01-q35-i01.png](/assets/papers/the-london-independent-girls-schools-consortium/2014/group-2/s01-q35-i01.png "papers/the-london-independent-girls-schools-consortium/2014/group-2/s01-q35-i01.png")
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">In a doctor's waiting room, there are $6$ seats in a row.
+<emptyline>
+Mr Spencer arrives with his $2$ children.
+<emptyline>
+He wants to sit between his $2$ children.
+<emptyline>
+$3$ other people arrive who do not mind where they sit.
+<emptyline>
+%image%
+<emptyline>
+How many different possible seating arrangements are there of the $6$ people?
+<emptyline>
+*You may find the boxes helpful*.
+<emptyline>
+%image%
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Let Mr Spencer $= \text{S}$
+
+Let his children $= \text{C1}$ and $\text{C2}$
+
+Let the other three people $= \text{P1, P2, P3}$
+
+If Mr Spencer sits in the second seat, the possible arrangements are:
+
+- $\text{C1  \quad S  \quad C2 \quad P1 \quad P2 \quad P3}$
+- $\text{C1  \quad S  \quad C2 \quad P1 \quad P3 \quad P2}$
+- $\text{C1  \quad S  \quad C2 \quad P2 \quad P1 \quad P3}$
+- $\text{C1  \quad S  \quad C2 \quad P2 \quad P3 \quad P1}$
+- $\text{C1  \quad S  \quad C2 \quad P3 \quad P1 \quad P2}$
+- $\text{C1  \quad S  \quad C2 \quad P3 \quad P2 \quad P1}$
+- $\text{C2  \quad S  \quad C1 \quad P1 \quad P2 \quad P3}$
+- $\text{C2  \quad S  \quad C1 \quad P1 \quad P3 \quad P2}$
+- $\text{C2  \quad S  \quad C1 \quad P2 \quad P1 \quad P3}$
+- $\text{C2  \quad S  \quad C1 \quad P2 \quad P3 \quad P1}$
+- $\text{C2  \quad S  \quad C1 \quad P3 \quad P1 \quad P2}$
+- $\text{C2  \quad S  \quad C1 \quad P3 \quad P2 \quad P1}$
+
+Count $= 12$
+
+If Mr Spencer sits in the third seat, the possible arrangements are:
+
+- $\text{P1 \quad C1 \quad S \quad C2 \quad P2 \quad P3}$
+- $\text{P1 \quad C1 \quad S \quad C2 \quad P3 \quad P2}$
+- $\text{P2 \quad C1 \quad S \quad C2 \quad P1 \quad P3}$
+- $\text{P2 \quad C1 \quad S \quad C2 \quad P3 \quad P1}$
+- $\text{P3 \quad C1 \quad S \quad C2 \quad P1 \quad P2}$
+- $\text{P3 \quad C1 \quad S \quad C2 \quad P2 \quad P1}$
+- $\text{P1 \quad C2 \quad S \quad C1 \quad P2 \quad P3}$
+- $\text{P1 \quad C2 \quad S \quad C1 \quad P3 \quad P2}$
+- $\text{P2 \quad C2 \quad S \quad C1 \quad P1 \quad P3}$
+- $\text{P2 \quad C2 \quad S \quad C1 \quad P3 \quad P1}$
+- $\text{P3 \quad C2 \quad S \quad C1 \quad P1 \quad P2}$
+- $\text{P3 \quad C2 \quad S \quad C1 \quad P2 \quad P1}$
+
+Count $= 12$
+
+If Mr Spencer sits in the fourth seat, the possible arrangements are:
+
+- $\text{P1 \quad P2 \quad C1 \quad S \quad C2 \quad P3}$
+- $\text{P1 \quad P3 \quad C1 \quad S \quad C2 \quad P2}$
+- $\text{P2 \quad P1 \quad C1 \quad S \quad C2 \quad P3}$
+- $\text{P2 \quad P3 \quad C1 \quad S \quad C2 \quad P1}$
+- $\text{P3 \quad P1 \quad C1 \quad S \quad C2 \quad P2}$
+- $\text{P3 \quad P2 \quad C1 \quad S \quad C2 \quad P1}$
+- $\text{P1 \quad P2 \quad C2 \quad S \quad C1 \quad P3}$
+- $\text{P1 \quad P3 \quad C2 \quad S \quad C1 \quad P2}$
+- $\text{P2 \quad P1 \quad C2 \quad S \quad C1 \quad P3}$
+- $\text{P2 \quad P3 \quad C2 \quad S \quad C1 \quad P1}$
+- $\text{P3 \quad P1 \quad C2 \quad S \quad C1 \quad P2}$
+- $\text{P3 \quad P2 \quad C2 \quad S \quad C1 \quad P1}$
+
+Count $= 12$
+
+If Mr Spencer sit in fifth seat, the possible arrangements are:
+
+- $\text{P1 \quad P2 \quad P3 \quad C1 \quad S \quad C2}$
+- $\text{P1 \quad P3 \quad P2 \quad C1 \quad S \quad C2}$
+- $\text{P2 \quad P1 \quad P3 \quad C1 \quad S \quad C2}$
+- $\text{P2 \quad P3 \quad P1 \quad C1 \quad S \quad C2}$
+- $\text{P3 \quad P1 \quad P2 \quad C1 \quad S \quad C2}$
+- $\text{P3 \quad P2 \quad P1 \quad C1 \quad S \quad C2}$
+- $\text{P1 \quad P2 \quad P3 \quad C2 \quad S \quad C1}$
+- $\text{P1 \quad P3 \quad P2 \quad C2 \quad S \quad C1}$
+- $\text{P2 \quad P1 \quad P3 \quad C2 \quad S \quad C1}$
+- $\text{P2 \quad P3 \quad P1 \quad C2 \quad S \quad C1}$
+- $\text{P3 \quad P1 \quad P2 \quad C2 \quad S \quad C1}$
+- $\text{P3 \quad P2 \quad P1 \quad C2 \quad S \quad C1}$
+
+Count $= 12$
+
+Total count $= 12 + 12 + 12 + 12 = 48$
+</div>
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Using permutation,
+
+Since Mr Spencer has to sit between his two children, he can only sit in the middle four seats.
+
+Number of places Mr Spencer can sit $= 4$
+
+Number of places his first child can sit $= 2$
+
+Number of places his second child can sit $= 1$
+
+Number of ways the fourth seat can be occupied $= 3$
+
+Number of ways the fifth seat can be occupied $= 2$
+
+Number of ways the sixth seat can be occupied $= 1$
+
+Total arrangements $= 4 \times 2 \times 1 \times 3 \times 2 \times 1 = 48$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$48$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Let Mr Spencer $= \text{S}$
+<emptyline>
+Let his children $= \text{C1}$ and $\text{C2}$
+<emptyline>
+Let the other three people $= \text{P1, P2, P3}$
+<emptyline>
+If Mr Spencer sits in the second seat, the possible arrangements are:
+<emptyline>
+- $\text{C1  \quad S  \quad C2 \quad P1 \quad P2 \quad P3}$
+- $\text{C1  \quad S  \quad C2 \quad P1 \quad P3 \quad P2}$
+- $\text{C1  \quad S  \quad C2 \quad P2 \quad P1 \quad P3}$
+- $\text{C1  \quad S  \quad C2 \quad P2 \quad P3 \quad P1}$
+- $\text{C1  \quad S  \quad C2 \quad P3 \quad P1 \quad P2}$
+- $\text{C1  \quad S  \quad C2 \quad P3 \quad P2 \quad P1}$
+- $\text{C2  \quad S  \quad C1 \quad P1 \quad P2 \quad P3}$
+- $\text{C2  \quad S  \quad C1 \quad P1 \quad P3 \quad P2}$
+- $\text{C2  \quad S  \quad C1 \quad P2 \quad P1 \quad P3}$
+- $\text{C2  \quad S  \quad C1 \quad P2 \quad P3 \quad P1}$
+- $\text{C2  \quad S  \quad C1 \quad P3 \quad P1 \quad P2}$
+- $\text{C2  \quad S  \quad C1 \quad P3 \quad P2 \quad P1}$
+<emptyline>
+Count $= 12$
+<emptyline>
+If Mr Spencer sits in the third seat, the possible arrangements are:
+<emptyline>
+- $\text{P1 \quad C1 \quad S \quad C2 \quad P2 \quad P3}$
+- $\text{P1 \quad C1 \quad S \quad C2 \quad P3 \quad P2}$
+- $\text{P2 \quad C1 \quad S \quad C2 \quad P1 \quad P3}$
+- $\text{P2 \quad C1 \quad S \quad C2 \quad P3 \quad P1}$
+- $\text{P3 \quad C1 \quad S \quad C2 \quad P1 \quad P2}$
+- $\text{P3 \quad C1 \quad S \quad C2 \quad P2 \quad P1}$
+- $\text{P1 \quad C2 \quad S \quad C1 \quad P2 \quad P3}$
+- $\text{P1 \quad C2 \quad S \quad C1 \quad P3 \quad P2}$
+- $\text{P2 \quad C2 \quad S \quad C1 \quad P1 \quad P3}$
+- $\text{P2 \quad C2 \quad S \quad C1 \quad P3 \quad P1}$
+- $\text{P3 \quad C2 \quad S \quad C1 \quad P1 \quad P2}$
+- $\text{P3 \quad C2 \quad S \quad C1 \quad P2 \quad P1}$
+<emptyline>
+Count $= 12$
+<emptyline>
+If Mr Spencer sits in the fourth seat, the possible arrangements are:
+<emptyline>
+- $\text{P1 \quad P2 \quad C1 \quad S \quad C2 \quad P3}$
+- $\text{P1 \quad P3 \quad C1 \quad S \quad C2 \quad P2}$
+- $\text{P2 \quad P1 \quad C1 \quad S \quad C2 \quad P3}$
+- $\text{P2 \quad P3 \quad C1 \quad S \quad C2 \quad P1}$
+- $\text{P3 \quad P1 \quad C1 \quad S \quad C2 \quad P2}$
+- $\text{P3 \quad P2 \quad C1 \quad S \quad C2 \quad P1}$
+- $\text{P1 \quad P2 \quad C2 \quad S \quad C1 \quad P3}$
+- $\text{P1 \quad P3 \quad C2 \quad S \quad C1 \quad P2}$
+- $\text{P2 \quad P1 \quad C2 \quad S \quad C1 \quad P3}$
+- $\text{P2 \quad P3 \quad C2 \quad S \quad C1 \quad P1}$
+- $\text{P3 \quad P1 \quad C2 \quad S \quad C1 \quad P2}$
+- $\text{P3 \quad P2 \quad C2 \quad S \quad C1 \quad P1}$
+<emptyline>
+Count $= 12$
+<emptyline>
+If Mr Spencer sit in fifth seat, the possible arrangements are:
+<emptyline>
+- $\text{P1 \quad P2 \quad P3 \quad C1 \quad S \quad C2}$
+- $\text{P1 \quad P3 \quad P2 \quad C1 \quad S \quad C2}$
+- $\text{P2 \quad P1 \quad P3 \quad C1 \quad S \quad C2}$
+- $\text{P2 \quad P3 \quad P1 \quad C1 \quad S \quad C2}$
+- $\text{P3 \quad P1 \quad P2 \quad C1 \quad S \quad C2}$
+- $\text{P3 \quad P2 \quad P1 \quad C1 \quad S \quad C2}$
+- $\text{P1 \quad P2 \quad P3 \quad C2 \quad S \quad C1}$
+- $\text{P1 \quad P3 \quad P2 \quad C2 \quad S \quad C1}$
+- $\text{P2 \quad P1 \quad P3 \quad C2 \quad S \quad C1}$
+- $\text{P2 \quad P3 \quad P1 \quad C2 \quad S \quad C1}$
+- $\text{P3 \quad P1 \quad P2 \quad C2 \quad S \quad C1}$
+- $\text{P3 \quad P2 \quad P1 \quad C2 \quad S \quad C1}$
+<emptyline>
+Count $= 12$
+<emptyline>
+Total count $= 12 + 12 + 12 + 12 = 48$
+</code></pre>
+</div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Using permutation,
+<emptyline>
+Since Mr Spencer has to sit between his two children, he can only sit in the middle four seats.
+<emptyline>
+Number of places Mr Spencer can sit $= 4$
+<emptyline>
+Number of places his first child can sit $= 2$
+<emptyline>
+Number of places his second child can sit $= 1$
+<emptyline>
+Number of ways the fourth seat can be occupied $= 3$
+<emptyline>
+Number of ways the fifth seat can be occupied $= 2$
+<emptyline>
+Number of ways the sixth seat can be occupied $= 1$
+<emptyline>
+Total arrangements $= 4 \times 2 \times 1 \times 3 \times 2 \times 1 = 48$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$48$
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6DD89262-C913-4868-9BD3-AC3F1EF2710A" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6DD89262-C913-4868-9BD3-AC3F1EF2710A" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6DD89262-C913-4868-9BD3-AC3F1EF2710A" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6DD89262-C913-4868-9BD3-AC3F1EF2710A" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6DD89262-C913-4868-9BD3-AC3F1EF2710A" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6DD89262-C913-4868-9BD3-AC3F1EF2710A" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6DD89262-C913-4868-9BD3-AC3F1EF2710A" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6DD89262-C913-4868-9BD3-AC3F1EF2710A" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6DD89262-C913-4868-9BD3-AC3F1EF2710A" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6DD89262-C913-4868-9BD3-AC3F1EF2710A" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G3" data-uuid="6DD89262-C913-4868-9BD3-AC3F1EF2710A" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6DD89262-C913-4868-9BD3-AC3F1EF2710A" id="FORM-6DD89262-C913-4868-9BD3-AC3F1EF2710A" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-6DD89262-C913-4868-9BD3-AC3F1EF2710A">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g3 rag_prns question">
+<div class="uuid">
+<p>A4EC78D8-3529-40A6-BA3A-28499909CB47</p>
+</div>
+<div class="papername">
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:29</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g3</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Mum, Dad and Granny have three cakes:
+
+Chocolate, strawberry and coffee.
+
+Mum likes chocolate or coffee.
+
+Dad likes chocolate, and Granny likes all three.
+
+How can it be arranged, so that they each get a cake that they like? 
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Mum, Dad and Granny have three cakes:
+<emptyline>
+Chocolate, strawberry and coffee.
+<emptyline>
+Mum likes chocolate or coffee.
+<emptyline>
+Dad likes chocolate, and Granny likes all three.
+<emptyline>
+How can it be arranged, so that they each get a cake that they like? 
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Since Dad likes only chocolate, he can have the the chocolate cake.
+
+Mum can have coffee.
+
+That leaves strawberry cake for Granny.
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+Dad $=$ Chocolate
+
+</div>
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+Mum $=$ Coffee
+
+</div>
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+Granny $=$ Strawberry
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Since Dad likes only chocolate, he can have the the chocolate cake.
+<emptyline>
+Mum can have coffee.
+<emptyline>
+That leaves strawberry cake for Granny.
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Dad</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Chocolate
+</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Mum</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Coffee
+</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Granny</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Strawberry
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="A4EC78D8-3529-40A6-BA3A-28499909CB47" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="A4EC78D8-3529-40A6-BA3A-28499909CB47" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="A4EC78D8-3529-40A6-BA3A-28499909CB47" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="A4EC78D8-3529-40A6-BA3A-28499909CB47" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="A4EC78D8-3529-40A6-BA3A-28499909CB47" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="A4EC78D8-3529-40A6-BA3A-28499909CB47" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="A4EC78D8-3529-40A6-BA3A-28499909CB47" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="A4EC78D8-3529-40A6-BA3A-28499909CB47" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="A4EC78D8-3529-40A6-BA3A-28499909CB47" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="A4EC78D8-3529-40A6-BA3A-28499909CB47" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G3" data-uuid="A4EC78D8-3529-40A6-BA3A-28499909CB47" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="A4EC78D8-3529-40A6-BA3A-28499909CB47" id="FORM-A4EC78D8-3529-40A6-BA3A-28499909CB47" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-A4EC78D8-3529-40A6-BA3A-28499909CB47">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g3 rag_prns question">
+<div class="uuid">
+<p>A467E5ED-C83A-436F-95CE-C93C3DF23377</p>
+</div>
+<div class="papername">
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:18</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g3</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+How many different four digit numbers can be made from the digits $2, 2, 2, 3$ and $3?$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">How many different four digit numbers can be made from the digits $2, 2, 2, 3$ and $3?$
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+If we use three $2$ and one $3$, the possible arrangements are:
+
+- $2223$
+- $2232$
+- $2322$
+- $3222$
+
+If we use two $2$ and two $3$, the possible arrangements are:
+
+- $2233$
+- $2323$
+- $2332$
+- $3223$
+- $3232$
+- $3322$
+
+Total count $= 4 + 6 = 10$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$10$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">If we use three $2$ and one $3$, the possible arrangements are:
+<emptyline>
+- $2223$
+- $2232$
+- $2322$
+- $3222$
+<emptyline>
+If we use two $2$ and two $3$, the possible arrangements are:
+<emptyline>
+- $2233$
+- $2323$
+- $2332$
+- $3223$
+- $3232$
+- $3322$
+<emptyline>
+Total count $= 4 + 6 = 10$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$10$
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="A467E5ED-C83A-436F-95CE-C93C3DF23377" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="A467E5ED-C83A-436F-95CE-C93C3DF23377" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="A467E5ED-C83A-436F-95CE-C93C3DF23377" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="A467E5ED-C83A-436F-95CE-C93C3DF23377" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="A467E5ED-C83A-436F-95CE-C93C3DF23377" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="A467E5ED-C83A-436F-95CE-C93C3DF23377" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="A467E5ED-C83A-436F-95CE-C93C3DF23377" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="A467E5ED-C83A-436F-95CE-C93C3DF23377" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="A467E5ED-C83A-436F-95CE-C93C3DF23377" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="A467E5ED-C83A-436F-95CE-C93C3DF23377" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G3" data-uuid="A467E5ED-C83A-436F-95CE-C93C3DF23377" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="A467E5ED-C83A-436F-95CE-C93C3DF23377" id="FORM-A467E5ED-C83A-436F-95CE-C93C3DF23377" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-A467E5ED-C83A-436F-95CE-C93C3DF23377">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g3 rag_prns question">
+<div class="uuid">
+<p>6789607F-5F2D-4D59-A07E-046CD61362DB</p>
+</div>
+<div class="papername">
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:1:6</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g3</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+How many $2$-digit numbers contain at least one $4?$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">How many $2$-digit numbers contain at least one $4?$
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Two digit numbers with their first digit as $4$ are:
+
+$
+\begin{matrix}
+40 &  41 &  42 &  43 &  44 \\\\
+45 &  46 &  47 &  48 &  49
+\end{matrix}
+$
+
+Two digit numbers with their last digit as $4$ are (ensure you do not count $44$ twice):
+
+$
+\begin{matrix}
+14 & 24 & 34 & 54 \\\\
+64 & 74 & 84 & 94
+\end{matrix}
+$
+
+Count $= 10 + 8 = 18$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$18$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Two digit numbers with their first digit as $4$ are:
+<emptyline>
+$
+\begin{matrix}
+40 &  41 &  42 &  43 &  44 \\\\
+45 &  46 &  47 &  48 &  49
+\end{matrix}
+$
+<emptyline>
+Two digit numbers with their last digit as $4$ are (ensure you do not count $44$ twice):
+<emptyline>
+$
+\begin{matrix}
+14 & 24 & 34 & 54 \\\\
+64 & 74 & 84 & 94
+\end{matrix}
+$
+<emptyline>
+Count $= 10 + 8 = 18$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$18$
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6789607F-5F2D-4D59-A07E-046CD61362DB" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6789607F-5F2D-4D59-A07E-046CD61362DB" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6789607F-5F2D-4D59-A07E-046CD61362DB" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6789607F-5F2D-4D59-A07E-046CD61362DB" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6789607F-5F2D-4D59-A07E-046CD61362DB" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6789607F-5F2D-4D59-A07E-046CD61362DB" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6789607F-5F2D-4D59-A07E-046CD61362DB" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6789607F-5F2D-4D59-A07E-046CD61362DB" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6789607F-5F2D-4D59-A07E-046CD61362DB" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6789607F-5F2D-4D59-A07E-046CD61362DB" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G3" data-uuid="6789607F-5F2D-4D59-A07E-046CD61362DB" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="6789607F-5F2D-4D59-A07E-046CD61362DB" id="FORM-6789607F-5F2D-4D59-A07E-046CD61362DB" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-6789607F-5F2D-4D59-A07E-046CD61362DB">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g3 rag_prns question">
+<div class="uuid">
+<p>7DEB0853-0DD5-4F2B-AA9D-2F777753D9B3</p>
+</div>
+<div class="papername">
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:1:19</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g3</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+How many three digit numbers contain at least two sevens?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">How many three digit numbers contain at least two sevens?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Note: $777$ occurs in every list, so ensure to count it only once.
+
+If we use a $7$ in the hundreds and the tens place, the possible arrangements (excluding $777$) are:
+
+- $770$
+- $771$
+- $772$
+- $773$
+- $774$
+- $775$
+- $776$
+- $778$
+- $779$
+
+Count $= 9$
+
+If we use a $7$ in the hundreds and the units place, the possible arrangements (excluding $777$) are:
+
+- $707$
+- $717$
+- $727$
+- $737$
+- $747$
+- $757$
+- $767$
+- $787$
+- $797$
+
+Count $= 9$
+
+If we use a $7$ in the tens and the units place, the possible arrangements (including $777$) are:
+
+- $177$
+- $277$
+- $377$
+- $477$
+- $577$
+- $677$
+- $777$
+- $877$
+- $977$
+
+Count $= 9$
+
+Total count $= 9 + 9 + 9 = 27$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$27$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Note: $777$ occurs in every list, so ensure to count it only once.
+<emptyline>
+If we use a $7$ in the hundreds and the tens place, the possible arrangements (excluding $777$) are:
+<emptyline>
+- $770$
+- $771$
+- $772$
+- $773$
+- $774$
+- $775$
+- $776$
+- $778$
+- $779$
+<emptyline>
+Count $= 9$
+<emptyline>
+If we use a $7$ in the hundreds and the units place, the possible arrangements (excluding $777$) are:
+<emptyline>
+- $707$
+- $717$
+- $727$
+- $737$
+- $747$
+- $757$
+- $767$
+- $787$
+- $797$
+<emptyline>
+Count $= 9$
+<emptyline>
+If we use a $7$ in the tens and the units place, the possible arrangements (including $777$) are:
+<emptyline>
+- $177$
+- $277$
+- $377$
+- $477$
+- $577$
+- $677$
+- $777$
+- $877$
+- $977$
+<emptyline>
+Count $= 9$
+<emptyline>
+Total count $= 9 + 9 + 9 = 27$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$27$
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="7DEB0853-0DD5-4F2B-AA9D-2F777753D9B3" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="7DEB0853-0DD5-4F2B-AA9D-2F777753D9B3" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="7DEB0853-0DD5-4F2B-AA9D-2F777753D9B3" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="7DEB0853-0DD5-4F2B-AA9D-2F777753D9B3" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="7DEB0853-0DD5-4F2B-AA9D-2F777753D9B3" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="7DEB0853-0DD5-4F2B-AA9D-2F777753D9B3" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="7DEB0853-0DD5-4F2B-AA9D-2F777753D9B3" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="7DEB0853-0DD5-4F2B-AA9D-2F777753D9B3" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="7DEB0853-0DD5-4F2B-AA9D-2F777753D9B3" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="7DEB0853-0DD5-4F2B-AA9D-2F777753D9B3" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G3" data-uuid="7DEB0853-0DD5-4F2B-AA9D-2F777753D9B3" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="7DEB0853-0DD5-4F2B-AA9D-2F777753D9B3" id="FORM-7DEB0853-0DD5-4F2B-AA9D-2F777753D9B3" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-7DEB0853-0DD5-4F2B-AA9D-2F777753D9B3">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_notstarted rag_prns question">
+<div class="uuid">
+<p>FF923789-7B2B-4E80-84B8-F3CABD0B1538</p>
+</div>
+<div class="papername">
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-2:1:8</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_notstarted</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Following independence, the new country of Oldhallia is trying to design its national flag. The government decide that their flag will consist of two colours. 
+
+For example:
+
+|Blue| Green|
+|:--:|:----:|
+
+because international rules state that the flag may not be all one colour and the rules also state that they are only allowed to pick from a certain number of colours.
+
+The country always chooses what colour to put in the left section first. When calculating how many possible choices that they have for their flag; the following system is adopted. So with seven possible colours the choices would be
+
+|Any of the $7$ colours|Any of the $6$ remaining colours|
+|:--------------------:|:------------------------------:|
+
+Which gives a total number of possible flags $= 7 \times 6 = 42$.
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Following independence, the new country of Oldhallia is trying to design its national flag. The government decide that their flag will consist of two colours. 
+<emptyline>
+For example:
+<emptyline>
+|Blue| Green|
+|:--:|:----:|
+<emptyline>
+because international rules state that the flag may not be all one colour and the rules also state that they are only allowed to pick from a certain number of colours.
+<emptyline>
+The country always chooses what colour to put in the left section first. When calculating how many possible choices that they have for their flag; the following system is adopted. So with seven possible colours the choices would be
+<emptyline>
+|Any of the $7$ colours|Any of the $6$ remaining colours|
+|:--------------------:|:------------------------------:|
+<emptyline>
+Which gives a total number of possible flags $= 7 \times 6 = 42$.
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+%empty%
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+%empty%
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+</div>
+<ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+How many possible flags are there if they can choose from $10$ colours?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">How many possible flags are there if they can choose from $10$ colours?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+If we choose for left side of flag, the number of possible choices $= 10$
+
+If we choose for right side of flag, the number of possible choices $= 9$
+
+Total arrangement $= 10 \times 9 = 90$ 
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$90$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">If we choose for left side of flag, the number of possible choices $= 10$
+<emptyline>
+If we choose for right side of flag, the number of possible choices $= 9$
+<emptyline>
+Total arrangement $= 10 \times 9 = 90$ 
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$90$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+If there are a total of $12$ flags, how many colours did they have to choose from?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">If there are a total of $12$ flags, how many colours did they have to choose from?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Total Colours \times [Left Colours - 1] = Flags 
+
+Flags = 12
+
+Let's take total colours as $x$
+
+$
+\begin{aligned}
+x \times (x -1 ) = 12
+x^2 - x = 12
+x^2 - x -12 = 0
+(x + 4) (x - 3) = 0
+x = 4
+x = - 3
+\end{aligned}
+$
+
+Let's substitute
+
+$
+\begin{aligned}
+4 \times (4 -1 ) = 12
+4 \times 3 = 12
+\end{aligned}
+$
+
+$x = 4$
+
+There are total of $4$ colors 
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$4$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Total Colours \times [Left Colours - 1] = Flags 
+<emptyline>
+Flags = 12
+<emptyline>
+Let's take total colours as $x$
+<emptyline>
+$
+\begin{aligned}
+x \times (x -1 ) = 12
+x^2 - x = 12
+x^2 - x -12 = 0
+(x + 4) (x - 3) = 0
+x = 4
+x = - 3
+\end{aligned}
+$
+<emptyline>
+Let's substitute
+<emptyline>
+$
+\begin{aligned}
+4 \times (4 -1 ) = 12
+4 \times 3 = 12
+\end{aligned}
+$
+<emptyline>
+$x = 4$
+<emptyline>
+There are total of $4$ colors 
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$4$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+If the international rules were relaxed to allow flags of all one colour as well, how many possible flags would there be choosing from $6$ colours?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">If the international rules were relaxed to allow flags of all one colour as well, how many possible flags would there be choosing from $6$ colours?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Flags with $1$ Colour 
+
+$=6 Colours \times 1 = 6$
+
+Flags with $2$ Colours 
+
+$
+\begin{aligned}
+= 6 Colours \times (6 - 1) \\
+= 6 \times 5 \\
+= 30
+\end{aligned}
+$
+
+Total flags
+
+$= (1$ colour $+ 2$ colour) Flags
+$= 6 + 30$ 
+
+$= 36$ Flags
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$36$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Flags with $1$ Colour 
+<emptyline>
+$=6 Colours \times 1 = 6$
+<emptyline>
+Flags with $2$ Colours 
+<emptyline>
+$
+\begin{aligned}
+= 6 Colours \times (6 - 1) \\
+= 6 \times 5 \\
+= 30
+\end{aligned}
+$
+<emptyline>
+Total flags
+<emptyline>
+$= (1$ colour $+ 2$ colour) Flags
+$= 6 + 30$ 
+<emptyline>
+$= 36$ Flags
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$36$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+If the country wants to make a flag with three colours, the rules state that they may not have two sections of the same colour next to each other.
+
+If there were $4$ choices of colour the calculation would be:
+
+|Any of the $4$ colours|Any of the $3$ remaining colours|Any of the $3$ colours which are different from the middle|
+|:--------------------:|:------------------------------:|:--------------------------------------------------------:|
+
+which gives a total number of possible flags $= 4 \times 3 \times 3 = 36$.
+How many flags are there if they can choose from $10$ colours?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">If the country wants to make a flag with three colours, the rules state that they may not have two sections of the same colour next to each other.
+<emptyline>
+If there were $4$ choices of colour the calculation would be:
+<emptyline>
+|Any of the $4$ colours|Any of the $3$ remaining colours|Any of the $3$ colours which are different from the middle|
+|:--------------------:|:------------------------------:|:--------------------------------------------------------:|
+<emptyline>
+which gives a total number of possible flags $= 4 \times 3 \times 3 = 36$.
+How many flags are there if they can choose from $10$ colours?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+A flag may have $3$ colours.
+
+Total Flags = Total colours $\times$ (Total $- 1$) \times (Total $- 1$)
+</div>
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Total colour options $=10$
+
+Let's substitute as above,
+
+Total Flags 
+
+$
+\begin{aligned}
+&= 10 \times (10- 1) \times (10 - 1) \\
+&= 10 \times 9 \times 9 \\
+&= 10 \times 81 \\
+&= 810
+\end{aligned}
+$
+
+$810$ different flags are possible with $10$ colours.
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$810$
+
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">A flag may have $3$ colours.
+<emptyline>
+Total Flags = Total colours $\times$ (Total $- 1$) \times (Total $- 1$)
+</code></pre>
+</div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Total colour options $=10$
+<emptyline>
+Let's substitute as above,
+<emptyline>
+Total Flags 
+<emptyline>
+$
+\begin{aligned}
+&= 10 \times (10- 1) \times (10 - 1) \\
+&= 10 \times 9 \times 9 \\
+&= 10 \times 81 \\
+&= 810
+\end{aligned}
+$
+<emptyline>
+$810$ different flags are possible with $10$ colours.
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$810$
+
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_not_found subquestion">
+<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+If there are a total of $150$ possible flags, how many colours did they have to choose from?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">If there are a total of $150$ possible flags, how many colours did they have to choose from?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+A flag may have $3$ colours.
+
+Total Flags = Total colours $\times$ (Total $- 1$) $\times$ (Total $- 1$)
+
+Total Flags $=150$
+
+Let's substitute as above,
+
+Total Flags 
+
+$
+\begin{aligned}
+150 &= x \times (x- 1) \times (x - 1) \\
+\end{aligned}
+$
+
+$810$ different flags are possible with $10$ colours.
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$810$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">A flag may have $3$ colours.
+<emptyline>
+Total Flags = Total colours $\times$ (Total $- 1$) $\times$ (Total $- 1$)
+<emptyline>
+Total Flags $=150$
+<emptyline>
+Let's substitute as above,
+<emptyline>
+Total Flags 
+<emptyline>
+$
+\begin{aligned}
+150 &= x \times (x- 1) \times (x - 1) \\
+\end{aligned}
+$
+<emptyline>
+$810$ different flags are possible with $10$ colours.
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$810$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="FF923789-7B2B-4E80-84B8-F3CABD0B1538" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="FF923789-7B2B-4E80-84B8-F3CABD0B1538" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="FF923789-7B2B-4E80-84B8-F3CABD0B1538" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="FF923789-7B2B-4E80-84B8-F3CABD0B1538" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="FF923789-7B2B-4E80-84B8-F3CABD0B1538" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="FF923789-7B2B-4E80-84B8-F3CABD0B1538" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="FF923789-7B2B-4E80-84B8-F3CABD0B1538" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="FF923789-7B2B-4E80-84B8-F3CABD0B1538" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="FF923789-7B2B-4E80-84B8-F3CABD0B1538" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="FF923789-7B2B-4E80-84B8-F3CABD0B1538" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NS" data-uuid="FF923789-7B2B-4E80-84B8-F3CABD0B1538" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="FF923789-7B2B-4E80-84B8-F3CABD0B1538" id="FORM-FF923789-7B2B-4E80-84B8-F3CABD0B1538" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-FF923789-7B2B-4E80-84B8-F3CABD0B1538">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g3 rag_prns question">
+<div class="uuid">
+<p>8BEE82C0-3EF8-4B6D-B5D5-530F6AF9A74E</p>
+</div>
+<div class="papername">
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:1:19</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g3</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+How many ODD three digit numbers is it possible to make using the 
+numbers $4, 5$ and $7$ if you are allowed to use each of the 
+numbers more than once in a particular three digit number?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">How many ODD three digit numbers is it possible to make using the 
+numbers $4, 5$ and $7$ if you are allowed to use each of the 
+numbers more than once in a particular three digit number?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Note: Since it is an odd number, only $5$ and $7$ can be used in the units place.
+
+When the three digit number ends in $5$, the possible arrangements are:
+
+- $445$
+- $555$
+- $775$
+- $455$
+- $545$
+- $475$
+- $745$
+- $575$
+- $755$
+
+Count $= 9$
+
+When the three digit number ends in $7$, the possible arrangements are:
+
+- $447$
+- $557$
+- $777$
+- $457$
+- $547$
+- $477$
+- $747$
+- $577$
+- $757$
+
+Count $= 9$
+
+Total count $= 9 + 9 = 18$
+</div>
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Note: Since it is an odd number, only $5$ and $7$ can be used in the units place.
+
+Using permutation,
+
+Number of digits that can be used in the hundreds place    $= 3$
+
+Number of digits that can be used in the tens place        $= 3$
+
+Number of digits that can be used in the units place       $= 2$
+
+Total arrangements $= 3 \times 3 \times 2 = 18$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$18$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Note: Since it is an odd number, only $5$ and $7$ can be used in the units place.
+<emptyline>
+When the three digit number ends in $5$, the possible arrangements are:
+<emptyline>
+- $445$
+- $555$
+- $775$
+- $455$
+- $545$
+- $475$
+- $745$
+- $575$
+- $755$
+<emptyline>
+Count $= 9$
+<emptyline>
+When the three digit number ends in $7$, the possible arrangements are:
+<emptyline>
+- $447$
+- $557$
+- $777$
+- $457$
+- $547$
+- $477$
+- $747$
+- $577$
+- $757$
+<emptyline>
+Count $= 9$
+<emptyline>
+Total count $= 9 + 9 = 18$
+</code></pre>
+</div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Note: Since it is an odd number, only $5$ and $7$ can be used in the units place.
+<emptyline>
+Using permutation,
+<emptyline>
+Number of digits that can be used in the hundreds place    $= 3$
+<emptyline>
+Number of digits that can be used in the tens place        $= 3$
+<emptyline>
+Number of digits that can be used in the units place       $= 2$
+<emptyline>
+Total arrangements $= 3 \times 3 \times 2 = 18$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$18$
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="8BEE82C0-3EF8-4B6D-B5D5-530F6AF9A74E" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="8BEE82C0-3EF8-4B6D-B5D5-530F6AF9A74E" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="8BEE82C0-3EF8-4B6D-B5D5-530F6AF9A74E" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="8BEE82C0-3EF8-4B6D-B5D5-530F6AF9A74E" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="8BEE82C0-3EF8-4B6D-B5D5-530F6AF9A74E" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="8BEE82C0-3EF8-4B6D-B5D5-530F6AF9A74E" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="8BEE82C0-3EF8-4B6D-B5D5-530F6AF9A74E" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="8BEE82C0-3EF8-4B6D-B5D5-530F6AF9A74E" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="8BEE82C0-3EF8-4B6D-B5D5-530F6AF9A74E" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="8BEE82C0-3EF8-4B6D-B5D5-530F6AF9A74E" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G3" data-uuid="8BEE82C0-3EF8-4B6D-B5D5-530F6AF9A74E" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="8BEE82C0-3EF8-4B6D-B5D5-530F6AF9A74E" id="FORM-8BEE82C0-3EF8-4B6D-B5D5-530F6AF9A74E" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-8BEE82C0-3EF8-4B6D-B5D5-530F6AF9A74E">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g3 rag_prns question">
+<div class="uuid">
+<p>C2A67BE9-CA1F-4D65-BB49-B74EA17783C6</p>
+</div>
+<div class="papername">
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:1:20</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g3</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+The number $3$ can be split in three different ways by adding positive whole numbers together as follows
+
+$1 + 2,\:2 + 1 $ and $ 1 + 1 + 1$.
+
+Using the same method, in how many different ways can the number $5$ be split?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The number $3$ can be split in three different ways by adding positive whole numbers together as follows
+<emptyline>
+$1 + 2,\:2 + 1 $ and $ 1 + 1 + 1$.
+<emptyline>
+Using the same method, in how many different ways can the number $5$ be split?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+If we use number $4$ and below, the possible options are:
+
+- $4 + 1$
+- $1 + 4$
+
+Count $= 2$
+
+If we use number $3$ and below, the possible options are:
+
+- $3 + 2$
+- $2 + 3$
+- $3 + 1 + 1$
+- $1 + 3 + 1$
+- $1 + 1 + 3$
+
+Count $= 5$
+
+If we use number $2$ and below, the possible options are:
+
+- $2 + 2 + 1$
+- $2 + 1 + 2$
+- $1 + 2 + 2$
+- $2 + 1 + 1 + 1$
+- $1 + 2 + 1 + 1$
+- $1 + 1 + 2 + 1$
+- $1 + 1 + 1 + 2$
+
+Count $= 7$
+
+If we use $1$, the possible options are:
+
+- $1 + 1 + 1 + 1 + 1$
+
+Count $= 1$
+
+Total Count $= 2 + 5 + 7 + 1 = 15$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$15$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">If we use number $4$ and below, the possible options are:
+<emptyline>
+- $4 + 1$
+- $1 + 4$
+<emptyline>
+Count $= 2$
+<emptyline>
+If we use number $3$ and below, the possible options are:
+<emptyline>
+- $3 + 2$
+- $2 + 3$
+- $3 + 1 + 1$
+- $1 + 3 + 1$
+- $1 + 1 + 3$
+<emptyline>
+Count $= 5$
+<emptyline>
+If we use number $2$ and below, the possible options are:
+<emptyline>
+- $2 + 2 + 1$
+- $2 + 1 + 2$
+- $1 + 2 + 2$
+- $2 + 1 + 1 + 1$
+- $1 + 2 + 1 + 1$
+- $1 + 1 + 2 + 1$
+- $1 + 1 + 1 + 2$
+<emptyline>
+Count $= 7$
+<emptyline>
+If we use $1$, the possible options are:
+<emptyline>
+- $1 + 1 + 1 + 1 + 1$
+<emptyline>
+Count $= 1$
+<emptyline>
+Total Count $= 2 + 5 + 7 + 1 = 15$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$15$
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C2A67BE9-CA1F-4D65-BB49-B74EA17783C6" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C2A67BE9-CA1F-4D65-BB49-B74EA17783C6" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C2A67BE9-CA1F-4D65-BB49-B74EA17783C6" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C2A67BE9-CA1F-4D65-BB49-B74EA17783C6" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C2A67BE9-CA1F-4D65-BB49-B74EA17783C6" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C2A67BE9-CA1F-4D65-BB49-B74EA17783C6" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C2A67BE9-CA1F-4D65-BB49-B74EA17783C6" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C2A67BE9-CA1F-4D65-BB49-B74EA17783C6" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C2A67BE9-CA1F-4D65-BB49-B74EA17783C6" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C2A67BE9-CA1F-4D65-BB49-B74EA17783C6" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G3" data-uuid="C2A67BE9-CA1F-4D65-BB49-B74EA17783C6" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="C2A67BE9-CA1F-4D65-BB49-B74EA17783C6" id="FORM-C2A67BE9-CA1F-4D65-BB49-B74EA17783C6" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-C2A67BE9-CA1F-4D65-BB49-B74EA17783C6">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g3 rag_prns question">
+<div class="uuid">
+<p>3A2365AD-70B7-45DF-8397-B6EF9E526FF8</p>
+</div>
+<div class="papername">
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:1:20</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g3</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Two crosses can be put in three squares in three different ways, as follows.
+
+![papers/the-manchester-grammar-school/2017/arithmetic-a/s01-q20-i00.png](/assets/papers/the-manchester-grammar-school/2017/arithmetic-a/s01-q20-i00.png "papers/the-manchester-grammar-school/2017/arithmetic-a/s01-q20-i00.png")
+
+![papers/the-manchester-grammar-school/2017/arithmetic-a/s01-q20-i01.png](/assets/papers/the-manchester-grammar-school/2017/arithmetic-a/s01-q20-i01.png "papers/the-manchester-grammar-school/2017/arithmetic-a/s01-q20-i01.png")
+
+![papers/the-manchester-grammar-school/2017/arithmetic-a/s01-q20-i02.png](/assets/papers/the-manchester-grammar-school/2017/arithmetic-a/s01-q20-i02.png "papers/the-manchester-grammar-school/2017/arithmetic-a/s01-q20-i02.png")
+
+In how many different ways can you put three crosses in five squares?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Two crosses can be put in three squares in three different ways, as follows.
+<emptyline>
+%image%
+<emptyline>
+%image%
+<emptyline>
+%image%
+<emptyline>
+In how many different ways can you put three crosses in five squares?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+Let's find all the possible ways to put $3$ crosses in $5$ squares.
+
+$\large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} } \ \large { \boxed {0} } \ \large { \boxed {0} }$
+
+$\large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} } \ \large { \boxed {0} } \ \large { \boxed {\text{X}} } \ \large { \boxed {0} }$
+
+$\large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} } \ \large { \boxed {0} } \ \large { \boxed {0} } \ \large { \boxed {\text{X}} }$
+
+$\large { \boxed {\text{X}} } \ \large { \boxed {0} } \ \large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} } \ \large { \boxed {0} }$
+
+$\large { \boxed {\text{X}} } \ \large { \boxed {0} } \ \large { \boxed {\text{X}} } \ \large { \boxed {0} } \ \large { \boxed {\text{X}} }$
+
+$\large { \boxed {\text{X}} } \ \large { \boxed {0} } \ \large { \boxed {0} } \ \large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} }$
+
+$\large { \boxed {0} } \ \large { \boxed {0} } \ \large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} }$
+
+$\large { \boxed {0} } \ \large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} } \ \large { \boxed {0} }$
+
+$\large { \boxed {0} } \ \large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} } \ \large { \boxed {0} } \ \large { \boxed {\text{X}} }$
+
+$\large { \boxed {0} } \ \large { \boxed {\text{X}} } \ \large { \boxed {0} } \ \large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} }$
+
+Total arrangements $= 10$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$10$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Let's find all the possible ways to put $3$ crosses in $5$ squares.
+<emptyline>
+$\large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} } \ \large { \boxed {0} } \ \large { \boxed {0} }$
+<emptyline>
+$\large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} } \ \large { \boxed {0} } \ \large { \boxed {\text{X}} } \ \large { \boxed {0} }$
+<emptyline>
+$\large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} } \ \large { \boxed {0} } \ \large { \boxed {0} } \ \large { \boxed {\text{X}} }$
+<emptyline>
+$\large { \boxed {\text{X}} } \ \large { \boxed {0} } \ \large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} } \ \large { \boxed {0} }$
+<emptyline>
+$\large { \boxed {\text{X}} } \ \large { \boxed {0} } \ \large { \boxed {\text{X}} } \ \large { \boxed {0} } \ \large { \boxed {\text{X}} }$
+<emptyline>
+$\large { \boxed {\text{X}} } \ \large { \boxed {0} } \ \large { \boxed {0} } \ \large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} }$
+<emptyline>
+$\large { \boxed {0} } \ \large { \boxed {0} } \ \large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} }$
+<emptyline>
+$\large { \boxed {0} } \ \large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} } \ \large { \boxed {0} }$
+<emptyline>
+$\large { \boxed {0} } \ \large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} } \ \large { \boxed {0} } \ \large { \boxed {\text{X}} }$
+<emptyline>
+$\large { \boxed {0} } \ \large { \boxed {\text{X}} } \ \large { \boxed {0} } \ \large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} }$
+<emptyline>
+Total arrangements $= 10$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$10$
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="3A2365AD-70B7-45DF-8397-B6EF9E526FF8" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="3A2365AD-70B7-45DF-8397-B6EF9E526FF8" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="3A2365AD-70B7-45DF-8397-B6EF9E526FF8" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="3A2365AD-70B7-45DF-8397-B6EF9E526FF8" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="3A2365AD-70B7-45DF-8397-B6EF9E526FF8" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="3A2365AD-70B7-45DF-8397-B6EF9E526FF8" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="3A2365AD-70B7-45DF-8397-B6EF9E526FF8" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="3A2365AD-70B7-45DF-8397-B6EF9E526FF8" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="3A2365AD-70B7-45DF-8397-B6EF9E526FF8" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="3A2365AD-70B7-45DF-8397-B6EF9E526FF8" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G3" data-uuid="3A2365AD-70B7-45DF-8397-B6EF9E526FF8" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="3A2365AD-70B7-45DF-8397-B6EF9E526FF8" id="FORM-3A2365AD-70B7-45DF-8397-B6EF9E526FF8" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-3A2365AD-70B7-45DF-8397-B6EF9E526FF8">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g3 rag_prns question">
+<div class="uuid">
+<p>64D05414-BEA8-4226-8051-BDA5464DA810</p>
+</div>
+<div class="papername">
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:1:18</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g3</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+In how many different ways can the letters $M, A, T, H$ be placed in a line if the $T$ is **always** first and the $A$ is **never** last?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">In how many different ways can the letters $M, A, T, H$ be placed in a line if the $T$ is **always** first and the $A$ is **never** last?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+The possible arrangements are:
+
+- $\text{T A H M}$
+- $\text{T A M H}$
+- $\text{T H A M}$
+- $\text{T M A H}$
+
+Count $= 4$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$4$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The possible arrangements are:
+<emptyline>
+- $\text{T A H M}$
+- $\text{T A M H}$
+- $\text{T H A M}$
+- $\text{T M A H}$
+<emptyline>
+Count $= 4$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$4$
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="64D05414-BEA8-4226-8051-BDA5464DA810" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="64D05414-BEA8-4226-8051-BDA5464DA810" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="64D05414-BEA8-4226-8051-BDA5464DA810" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="64D05414-BEA8-4226-8051-BDA5464DA810" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="64D05414-BEA8-4226-8051-BDA5464DA810" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="64D05414-BEA8-4226-8051-BDA5464DA810" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="64D05414-BEA8-4226-8051-BDA5464DA810" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="64D05414-BEA8-4226-8051-BDA5464DA810" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="64D05414-BEA8-4226-8051-BDA5464DA810" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="64D05414-BEA8-4226-8051-BDA5464DA810" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G3" data-uuid="64D05414-BEA8-4226-8051-BDA5464DA810" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="64D05414-BEA8-4226-8051-BDA5464DA810" id="FORM-64D05414-BEA8-4226-8051-BDA5464DA810" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-64D05414-BEA8-4226-8051-BDA5464DA810">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g3 rag_prns question">
+<div class="uuid">
+<p>19528BB0-C11D-48F8-8DAB-32D249EC8D2D</p>
+</div>
+<div class="papername">
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:1:19</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g3</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+How many numbers between $300$ and $500$ contain **at least one** $4$ in their digits?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">How many numbers between $300$ and $500$ contain **at least one** $4$ in their digits?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+If $4$ is in the units place, the possible arrangements between $300$ to $399$ are:
+
+- $304$
+- $314$
+- $324$
+- $334$
+- $344$
+- $354$
+- $364$
+- $374$
+- $384$
+- $394$
+
+Count $= 10$
+
+If $4$ is in the tens place, the possible arrangements between $300$ to $399$ (excluding $344$ as it already counted) are:
+
+- $340$
+- $341$
+- $342$
+- $343$
+- $345$
+- $346$
+- $347$
+- $348$
+- $349$
+
+Count $= 9$
+
+The possible arrangements between $400$ to $499 = 100$
+
+Total count $= 10 + 9 + 100 = 119$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$119$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">If $4$ is in the units place, the possible arrangements between $300$ to $399$ are:
+<emptyline>
+- $304$
+- $314$
+- $324$
+- $334$
+- $344$
+- $354$
+- $364$
+- $374$
+- $384$
+- $394$
+<emptyline>
+Count $= 10$
+<emptyline>
+If $4$ is in the tens place, the possible arrangements between $300$ to $399$ (excluding $344$ as it already counted) are:
+<emptyline>
+- $340$
+- $341$
+- $342$
+- $343$
+- $345$
+- $346$
+- $347$
+- $348$
+- $349$
+<emptyline>
+Count $= 9$
+<emptyline>
+The possible arrangements between $400$ to $499 = 100$
+<emptyline>
+Total count $= 10 + 9 + 100 = 119$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$119$
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="19528BB0-C11D-48F8-8DAB-32D249EC8D2D" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="19528BB0-C11D-48F8-8DAB-32D249EC8D2D" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="19528BB0-C11D-48F8-8DAB-32D249EC8D2D" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="19528BB0-C11D-48F8-8DAB-32D249EC8D2D" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="19528BB0-C11D-48F8-8DAB-32D249EC8D2D" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="19528BB0-C11D-48F8-8DAB-32D249EC8D2D" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="19528BB0-C11D-48F8-8DAB-32D249EC8D2D" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="19528BB0-C11D-48F8-8DAB-32D249EC8D2D" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="19528BB0-C11D-48F8-8DAB-32D249EC8D2D" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="19528BB0-C11D-48F8-8DAB-32D249EC8D2D" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G3" data-uuid="19528BB0-C11D-48F8-8DAB-32D249EC8D2D" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="19528BB0-C11D-48F8-8DAB-32D249EC8D2D" id="FORM-19528BB0-C11D-48F8-8DAB-32D249EC8D2D" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-19528BB0-C11D-48F8-8DAB-32D249EC8D2D">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_notstarted rag_prns question">
+<div class="uuid">
+<p>826766D1-0786-4F68-AD0B-6CA2C8F22C40</p>
+</div>
+<div class="papername">
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:1:19</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_notstarted</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+In a school table-tennis league each team plays each of the other teams **twice** during the year, once at home and once away. If there are $30$ matches in total during the season, how many teams are there in the table-tennis league?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">In a school table-tennis league each team plays each of the other teams **twice** during the year, once at home and once away. If there are $30$ matches in total during the season, how many teams are there in the table-tennis league?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+As per the question each team plays every other team twice
+
+Let's take
+
+total no. of teams in a leagues as $x$ teams
+
+total no. of games played as       $n$  games
+
+$
+\begin{aligned}
+n \  &= x^2 - x \\
+30 \ &= x^2 - x 
+\end{aligned}
+$
+
+$x$ is greater than $5$ as $(5 \times 5) = 25$
+
+Let' try to substitute $x$ with $6$
+
+$
+\begin{aligned}
+30 &= 6^2 - 6 \\
+   &= (6 \times 6) - 6 \\
+   &= 36 - 6 \\
+   &= 30 \\
+\end{aligned}
+$
+
+$x$ = 6
+
+There are total of $6$ teams playing the league
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$6$ 
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">As per the question each team plays every other team twice
+<emptyline>
+Let's take
+<emptyline>
+total no. of teams in a leagues as $x$ teams
+<emptyline>
+total no. of games played as       $n$  games
+<emptyline>
+$
+\begin{aligned}
+n \  &= x^2 - x \\
+30 \ &= x^2 - x 
+\end{aligned}
+$
+<emptyline>
+$x$ is greater than $5$ as $(5 \times 5) = 25$
+<emptyline>
+Let' try to substitute $x$ with $6$
+<emptyline>
+$
+\begin{aligned}
+30 &= 6^2 - 6 \\
+   &= (6 \times 6) - 6 \\
+   &= 36 - 6 \\
+   &= 30 \\
+\end{aligned}
+$
+<emptyline>
+$x$ = 6
+<emptyline>
+There are total of $6$ teams playing the league
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$6$ 
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="826766D1-0786-4F68-AD0B-6CA2C8F22C40" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="826766D1-0786-4F68-AD0B-6CA2C8F22C40" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="826766D1-0786-4F68-AD0B-6CA2C8F22C40" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="826766D1-0786-4F68-AD0B-6CA2C8F22C40" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="826766D1-0786-4F68-AD0B-6CA2C8F22C40" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="826766D1-0786-4F68-AD0B-6CA2C8F22C40" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="826766D1-0786-4F68-AD0B-6CA2C8F22C40" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="826766D1-0786-4F68-AD0B-6CA2C8F22C40" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="826766D1-0786-4F68-AD0B-6CA2C8F22C40" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="826766D1-0786-4F68-AD0B-6CA2C8F22C40" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NS" data-uuid="826766D1-0786-4F68-AD0B-6CA2C8F22C40" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="826766D1-0786-4F68-AD0B-6CA2C8F22C40" id="FORM-826766D1-0786-4F68-AD0B-6CA2C8F22C40" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-826766D1-0786-4F68-AD0B-6CA2C8F22C40">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_notstarted rag_prns question">
+<div class="uuid">
+<p>D1877BC6-DBDD-470A-9061-101346F1F6A4</p>
+</div>
+<div class="papername">
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:15</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_notstarted</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Yesterday, the reading on Mr Smith's electricity meter was $098157$. He was shocked to realise that all six of these digits are different. How many more units of electricity will he use before the next time all the digits are different?
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Yesterday, the reading on Mr Smith's electricity meter was $098157$. He was shocked to realise that all six of these digits are different. How many more units of electricity will he use before the next time all the digits are different?
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+As per the question,
+
+Units of electricity used by Smith = $098157$
+
+The next time all the digits are different, is by adding units to $098157$
+
+$098157 + 1 = 098158$ 
+The digits $8$ is repeated.
+
+$098157 + 2 = 098159$
+The digits $9$ is repeated.
+
+$098157 + 3 = 098160$
+The digits $0$ is repeated.
+
+$098157 + 4 = 098161$
+The digits $1$ is repeated.
+
+$098157 + 5 = 098162$
+No digit is repeated. All digits are different.
+
+The number of units required to get next time all different digits = $098162 - 098157 = 5$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$5$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">As per the question,
+<emptyline>
+Units of electricity used by Smith = $098157$
+<emptyline>
+The next time all the digits are different, is by adding units to $098157$
+<emptyline>
+$098157 + 1 = 098158$ 
+The digits $8$ is repeated.
+<emptyline>
+$098157 + 2 = 098159$
+The digits $9$ is repeated.
+<emptyline>
+$098157 + 3 = 098160$
+The digits $0$ is repeated.
+<emptyline>
+$098157 + 4 = 098161$
+The digits $1$ is repeated.
+<emptyline>
+$098157 + 5 = 098162$
+No digit is repeated. All digits are different.
+<emptyline>
+The number of units required to get next time all different digits = $098162 - 098157 = 5$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$5$
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="D1877BC6-DBDD-470A-9061-101346F1F6A4" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="D1877BC6-DBDD-470A-9061-101346F1F6A4" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="D1877BC6-DBDD-470A-9061-101346F1F6A4" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="D1877BC6-DBDD-470A-9061-101346F1F6A4" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="D1877BC6-DBDD-470A-9061-101346F1F6A4" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="D1877BC6-DBDD-470A-9061-101346F1F6A4" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="D1877BC6-DBDD-470A-9061-101346F1F6A4" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="D1877BC6-DBDD-470A-9061-101346F1F6A4" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="D1877BC6-DBDD-470A-9061-101346F1F6A4" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="D1877BC6-DBDD-470A-9061-101346F1F6A4" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NS" data-uuid="D1877BC6-DBDD-470A-9061-101346F1F6A4" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NS" data-uuid="D1877BC6-DBDD-470A-9061-101346F1F6A4" id="FORM-D1877BC6-DBDD-470A-9061-101346F1F6A4" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-D1877BC6-DBDD-470A-9061-101346F1F6A4">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_g3 rag_prns question">
+<div class="uuid">
+<p>FAD3A72B-8B37-4011-BDA2-D70E94CDEB4B</p>
+</div>
+<div class="papername">
+<p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:20</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_g3</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics">
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Write down in rising order of size all the $3$-digit numbers which can be formed by using the digits $7 ,8$ and $9$ once each. The first is $789$.
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Write down in rising order of size all the $3$-digit numbers which can be formed by using the digits $7 ,8$ and $9$ once each. The first is $789$.
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+The possible arrangements in rising order are:
+
+- $789$
+- $798$
+- $879$
+- $897$
+- $978$
+- $987$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$789, 798, 879, 897, 978, 987$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The possible arrangements in rising order are:
+<emptyline>
+- $789$
+- $798$
+- $879$
+- $897$
+- $978$
+- $987$
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">$789, 798, 879, 897, 978, 987$
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="FAD3A72B-8B37-4011-BDA2-D70E94CDEB4B" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="FAD3A72B-8B37-4011-BDA2-D70E94CDEB4B" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="FAD3A72B-8B37-4011-BDA2-D70E94CDEB4B" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="FAD3A72B-8B37-4011-BDA2-D70E94CDEB4B" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="FAD3A72B-8B37-4011-BDA2-D70E94CDEB4B" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="FAD3A72B-8B37-4011-BDA2-D70E94CDEB4B" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="FAD3A72B-8B37-4011-BDA2-D70E94CDEB4B" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="FAD3A72B-8B37-4011-BDA2-D70E94CDEB4B" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="FAD3A72B-8B37-4011-BDA2-D70E94CDEB4B" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="FAD3A72B-8B37-4011-BDA2-D70E94CDEB4B" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="G3" data-uuid="FAD3A72B-8B37-4011-BDA2-D70E94CDEB4B" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="G3" data-uuid="FAD3A72B-8B37-4011-BDA2-D70E94CDEB4B" id="FORM-FAD3A72B-8B37-4011-BDA2-D70E94CDEB4B" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-FAD3A72B-8B37-4011-BDA2-D70E94CDEB4B">Initial</p>
+</div>
+</div>
+</li>
+</ul>

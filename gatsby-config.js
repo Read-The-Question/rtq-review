@@ -1,6 +1,20 @@
 /**
  * @type {import('gatsby').GatsbyConfig}
  */
+const rtqKatexMacros = {
+  // RTQ content macros are real KaTeX macros, so they only apply inside math
+  // blocks. Keep non-math scaffolding placeholders in the Rukian pipeline.
+  // "\\carryOver": "\\scriptstyle \\grayF",
+  // "\\multiplyCarryOver": "\\scriptstyle \\grayF",
+  // "\\subtractBorrow": "\\textstyle \\green",
+  // "\\carryOver": "\\textstyle \\grayF",
+  // "\\multiplyCarryOver": "{}^{\\scriptstyle \\grayF}{#1}",
+  // "\\multiplyCarryOver": "\\mkern-9mu{\\scriptstyle \\grayF{#1}}",
+  "\\carryOver": "\\scriptstyle \\grayF",
+  "\\multiplyCarryOver": "\\scriptstyle \\grayF{#1}",
+  "\\subtractBorrow": "\\textstyle \\green",
+};
+
 module.exports = {
   siteMetadata: {
     title: `Sample RTQ Test Server`,
@@ -23,6 +37,7 @@ module.exports = {
               // Add any KaTeX options from https://github.com/KaTeX/KaTeX/blob/master/docs/options.md here
               strict: `warn`,
               throwOnError: false,
+              macros: rtqKatexMacros,
             },
           },
 

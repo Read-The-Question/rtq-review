@@ -4,13 +4,13 @@
 const rtqKatexMacros = {
   // RTQ content macros are real KaTeX macros, so they only apply inside math
   // blocks. Keep non-math scaffolding placeholders in the Rukian pipeline.
-  // "\\carryOver": "\\scriptstyle \\grayF",
+  // "\\addCarryOver": "\\scriptstyle \\grayF",
   // "\\multiplyCarryOver": "\\scriptstyle \\grayF",
   // "\\subtractBorrow": "\\textstyle \\green",
-  // "\\carryOver": "\\textstyle \\grayF",
+  // "\\addCarryOver": "\\textstyle \\grayF",
   // "\\multiplyCarryOver": "{}^{\\scriptstyle \\grayF}{#1}",
   // "\\multiplyCarryOver": "\\mkern-9mu{\\scriptstyle \\grayF{#1}}",
-  "\\carryOver": "\\scriptstyle \\grayF",
+  "\\addCarryOver": "\\scriptstyle \\grayF",
   "\\multiplyCarryOver": "\\scriptstyle \\grayF{#1}",
   "\\subtractBorrow": "\\textstyle \\green",
 };
